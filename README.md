@@ -14,4 +14,3 @@ Game content and materials are trademarks and copyrights of their respective pub
 
 # Resources used besides from Nintendo
 - [Material Design Icon by Google](https://github.com/google/material-design-icons)
-  - Change `file/svg/ic_file_download_48px.svg` into React Script
