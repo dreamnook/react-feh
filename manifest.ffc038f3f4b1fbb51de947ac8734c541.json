@@ -56,12 +56,12 @@
       "type": "image/png"
     }
   ],
-  "name": "React Boilerplate",
-  "short_name": "React BP",
+  "name": "REACT-FEH",
+  "short_name": "REACT-FEH",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "My React Boilerplate-based project!",
+  "description": "FEH tools build in React",
   "background_color": "#fafafa",
   "theme_color": "#b1624d"
 }
