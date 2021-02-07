@@ -1,0 +1,67 @@
+{
+  "icons": [
+    {
+      "src": "/react-feh/icon_180x180.f67780a4360fa8268ccc08d0a9403eb4.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/react-feh/icon_167x167.1d7e01cd309df92e279c0ac0f3e91a13.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/react-feh/icon_152x152.f170de5b05227183a21f48807506d0c2.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/react-feh/icon_120x120.9af8ed5bfd955cb26b935fe20fc890ec.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/react-feh/icon_512x512.9746086834df42317a278b65361eda2f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/react-feh/icon_384x384.07f4d03a7d4ed5ded3b3e32cb6d8016c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/react-feh/icon_192x192.b2cc1b468e676f620fac49a9f04accd4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/react-feh/icon_144x144.c006fdae9996798082dbceff044ca90a.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/react-feh/icon_128x128.0b90ce173211b6f031ad8349b5d5fd85.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/react-feh/icon_96x96.909e0de876f09e3b3aa764ca498f96b6.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/react-feh/icon_72x72.175a0085d659e850535aa71d03f398f2.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "name": "REACT-FEH",
+  "short_name": "REACT-FEH",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "FEH tools build in React",
+  "background_color": "#fafafa",
+  "theme_color": "#b1624d"
+}
