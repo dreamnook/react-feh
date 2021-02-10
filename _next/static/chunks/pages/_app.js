@@ -11587,7 +11587,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "F:\\repos\\react-feh-nextjs\\pages\\_app.tsx",
+var _jsxFileName = "F:\\repos\\react-feh-site\\pages\\_app.tsx",
     _s = $RefreshSig$();
 
 
@@ -11616,7 +11616,7 @@ function MyApp(_ref) {
     }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__["jsxDEV"])(styled_jsx_style__WEBPACK_IMPORTED_MODULE_2___default.a, {
       id: "3774434958",
       dynamic: [url],
-      children: "@font-face{font-family:FEH;src:url('".concat(url, "') format('opentype');font-weight:normal;font-style:normal;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkY6XFxyZXBvc1xccmVhY3QtZmVoLW5leHRqc1xccGFnZXNcXF9hcHAudHN4Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQVd5QixBQUcyQixnQkFDMkMsMkRBQ3hDLG1CQUNELGtCQUNwQiIsImZpbGUiOiJGOlxccmVwb3NcXHJlYWN0LWZlaC1uZXh0anNcXHBhZ2VzXFxfYXBwLnRzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IFJlYWN0RWxlbWVudCB9IGZyb20gJ3JlYWN0JztcbmltcG9ydCB7IEFwcFByb3BzIH0gZnJvbSAnbmV4dC9hcHAnO1xuaW1wb3J0ICdub3JtYWxpemUuY3NzJztcbmltcG9ydCAnLi4vc3R5bGVzL2dsb2JhbHMuY3NzJztcbmltcG9ydCB1c2VCYXNlUGF0aFVybCBmcm9tICdAL2FwcC91dGlscy91c2VCYXRoUGF0aFVybCc7XG5cbmZ1bmN0aW9uIE15QXBwKHsgQ29tcG9uZW50LCBwYWdlUHJvcHMgfTogQXBwUHJvcHMpOiBSZWFjdEVsZW1lbnQge1xuICBjb25zdCB1cmwgPSB1c2VCYXNlUGF0aFVybCgnL2ZlaC1mb250LnR0ZicpO1xuICByZXR1cm4gKFxuICAgIDw+XG4gICAgICA8Q29tcG9uZW50IHsuLi5wYWdlUHJvcHN9IC8+XG4gICAgICA8c3R5bGUganN4IGdsb2JhbD57YFxuICAgICAgICBAZm9udC1mYWNlIHtcbiAgICAgICAgICBmb250LWZhbWlseTogRkVIO1xuICAgICAgICAgIHNyYzogdXJsKCcke3VybH0nKSBmb3JtYXQoJ29wZW50eXBlJyk7XG4gICAgICAgICAgZm9udC13ZWlnaHQ6IG5vcm1hbDtcbiAgICAgICAgICBmb250LXN0eWxlOiBub3JtYWw7XG4gICAgICAgIH1cbiAgICAgIGB9PC9zdHlsZT5cbiAgICA8Lz5cbiAgKTtcbn1cblxuZXhwb3J0IGRlZmF1bHQgTXlBcHA7XG4iXX0= */\n/*@ sourceURL=F:\\\\repos\\\\react-feh-nextjs\\\\pages\\\\_app.tsx */")
+      children: "@font-face{font-family:FEH;src:url('".concat(url, "') format('opentype');font-weight:normal;font-style:normal;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkY6XFxyZXBvc1xccmVhY3QtZmVoLXNpdGVcXHBhZ2VzXFxfYXBwLnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFXeUIsQUFHMkIsZ0JBQzJDLDJEQUN4QyxtQkFDRCxrQkFDcEIiLCJmaWxlIjoiRjpcXHJlcG9zXFxyZWFjdC1mZWgtc2l0ZVxccGFnZXNcXF9hcHAudHN4Iiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgUmVhY3RFbGVtZW50IH0gZnJvbSAncmVhY3QnO1xuaW1wb3J0IHsgQXBwUHJvcHMgfSBmcm9tICduZXh0L2FwcCc7XG5pbXBvcnQgJ25vcm1hbGl6ZS5jc3MnO1xuaW1wb3J0ICcuLi9zdHlsZXMvZ2xvYmFscy5jc3MnO1xuaW1wb3J0IHVzZUJhc2VQYXRoVXJsIGZyb20gJ0AvYXBwL3V0aWxzL3VzZUJhdGhQYXRoVXJsJztcblxuZnVuY3Rpb24gTXlBcHAoeyBDb21wb25lbnQsIHBhZ2VQcm9wcyB9OiBBcHBQcm9wcyk6IFJlYWN0RWxlbWVudCB7XG4gIGNvbnN0IHVybCA9IHVzZUJhc2VQYXRoVXJsKCcvZmVoLWZvbnQudHRmJyk7XG4gIHJldHVybiAoXG4gICAgPD5cbiAgICAgIDxDb21wb25lbnQgey4uLnBhZ2VQcm9wc30gLz5cbiAgICAgIDxzdHlsZSBqc3ggZ2xvYmFsPntgXG4gICAgICAgIEBmb250LWZhY2Uge1xuICAgICAgICAgIGZvbnQtZmFtaWx5OiBGRUg7XG4gICAgICAgICAgc3JjOiB1cmwoJyR7dXJsfScpIGZvcm1hdCgnb3BlbnR5cGUnKTtcbiAgICAgICAgICBmb250LXdlaWdodDogbm9ybWFsO1xuICAgICAgICAgIGZvbnQtc3R5bGU6IG5vcm1hbDtcbiAgICAgICAgfVxuICAgICAgYH08L3N0eWxlPlxuICAgIDwvPlxuICApO1xufVxuXG5leHBvcnQgZGVmYXVsdCBNeUFwcDtcbiJdfQ== */\n/*@ sourceURL=F:\\\\repos\\\\react-feh-site\\\\pages\\\\_app.tsx */")
     }, void 0, false, void 0, this)]
   }, void 0, true);
 }
@@ -11787,7 +11787,7 @@ module.exports = content.locals || {};
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.tsx!./");
-module.exports = __webpack_require__(/*! F:\repos\react-feh-nextjs\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
+module.exports = __webpack_require__(/*! F:\repos\react-feh-site\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
 
 
 /***/ })
