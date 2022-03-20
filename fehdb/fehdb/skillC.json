@@ -1,0 +1,3474 @@
+{
+  "Surtr's Menace": {
+    "id": "Surtr's Menace",
+    "name": "炎王威嚇",
+    "sp": 300,
+    "exclusive": ["Surtr - Ruler of Flame"],
+    "last": true,
+    "icon": "skillC/Surtr's_Menace.png"
+  },
+  "Surtr's Portent": {
+    "id": "Surtr's Portent",
+    "name": "炎王恐嚇",
+    "sp": 300,
+    "exclusive": ["Surtr - Pirate of Red Sky"],
+    "last": true,
+    "icon": "skillC/Surtr's_Portent.png"
+  },
+  "With Everyone! II": {
+    "id": "With Everyone! II",
+    "name": "和大家一起・承",
+    "sp": 300,
+    "exclusive": ["Tiki - Legendary Dragon"],
+    "last": true,
+    "icon": "skillC/With_Everyone!_II.png"
+  },
+  "With Everyone!": {
+    "id": "With Everyone!",
+    "name": "和大家一起",
+    "sp": 300,
+    "exclusive": ["Tiki - Legendary Dragon", "Tiki - Harmonic Hope"],
+    "last": true,
+    "icon": "skillC/With_Everyone!.png"
+  },
+  "Solitary Dream": {
+    "id": "Solitary Dream",
+    "name": "孤單的夢",
+    "sp": 300,
+    "exclusive": ["Tiki - Torpid Dragon"],
+    "last": true,
+    "icon": "skillC/Solitary_Dream.png"
+  },
+  "Sparkling Boost+": {
+    "id": "Sparkling Boost+",
+    "name": "生命光輝・神",
+    "sp": 300,
+    "prev": ["Sparkling Boost"],
+    "exclusive": ["Eir - Merciful Death"],
+    "last": true,
+    "icon": "skillC/Sparkling_Boost+.png"
+  },
+  "Sparkling Boost": {
+    "id": "Sparkling Boost",
+    "name": "生命光輝",
+    "sp": 300,
+    "exclusive": ["Eir - Merciful Death"],
+    "last": true,
+    "icon": "skillC/Sparkling_Boost.png"
+  },
+  "Ostia's Pulse II": {
+    "id": "Ostia's Pulse II",
+    "name": "盟主之躍動・承",
+    "sp": 300,
+    "exclusive": ["Hector - Marquess of Ostia"],
+    "last": true,
+    "icon": "skillC/Ostia's_Pulse_II.png"
+  },
+  "Ostia's Pulse": {
+    "id": "Ostia's Pulse",
+    "name": "奧斯提亞之躍動",
+    "sp": 300,
+    "exclusive": ["Hector - Marquess of Ostia"],
+    "last": true,
+    "icon": "skillC/Ostia's_Pulse.png"
+  },
+  "Glare": {
+    "id": "Glare",
+    "name": "邪眼",
+    "sp": 300,
+    "exclusive": [
+      "Nailah - Unflinching Eye",
+      "Nailah - Blessed Queen",
+      "Nailah - Hatari Scorcher"
+    ],
+    "last": true,
+    "icon": "skillC/Glare.png"
+  },
+  "Upheaval": {
+    "id": "Upheaval",
+    "name": "超級地震",
+    "sp": 300,
+    "exclusive": ["Duma - God of Strength"],
+    "last": true,
+    "icon": "skillC/Upheaval.png"
+  },
+  "Human Virtue": {
+    "id": "Human Virtue",
+    "name": "發揮人類的潛能！",
+    "sp": 300,
+    "exclusive": ["Roy - Blazing Lion"],
+    "last": true,
+    "icon": "skillC/Human_Virtue.png"
+  },
+  "Chaos Named": {
+    "id": "Chaos Named",
+    "name": "吾之名為混沌",
+    "sp": 300,
+    "exclusive": ["Yune - Chaos Goddess"],
+    "last": true,
+    "icon": "skillC/Chaos_Named.png"
+  },
+  "Divine Fang": {
+    "id": "Divine Fang",
+    "name": "神龍王之牙",
+    "sp": 300,
+    "exclusive": ["Naga - Dragon Divinity"],
+    "last": true,
+    "icon": "skillC/Divine_Fang.png"
+  },
+  "Vision of Arcadia": {
+    "id": "Vision of Arcadia",
+    "name": "為了創造理想鄉",
+    "sp": 300,
+    "exclusive": ["Eliwood - Blazing Knight"],
+    "last": true,
+    "icon": "skillC/Vision_of_Arcadia.png"
+  },
+  "Impenetrable Dark": {
+    "id": "Impenetrable Dark",
+    "name": "無法看透的深邃黑暗",
+    "sp": 300,
+    "exclusive": ["Bramimond - The Enigma"],
+    "last": true,
+    "icon": "skillC/Impenetrable_Dark.png"
+  },
+  "Mila's Turnwheel": {
+    "id": "Mila's Turnwheel",
+    "name": "美拉的齒輪",
+    "sp": 300,
+    "exclusive": ["Mila - Goddess of Love"],
+    "last": true,
+    "icon": "skillC/Mila's_Turnwheel.png"
+  },
+  "Inevitable Death": {
+    "id": "Inevitable Death",
+    "name": "無法逃離的死亡",
+    "sp": 300,
+    "exclusive": ["Hel - Death Sovereign"],
+    "last": true,
+    "icon": "skillC/Inevitable_Death.png"
+  },
+  "Wings of Light": {
+    "id": "Wings of Light",
+    "name": "燦爛光翼",
+    "sp": 300,
+    "exclusive": ["Seiros - Saint of Legend"],
+    "last": true,
+    "icon": "skillC/Wings_of_Light.png"
+  },
+  "Order's Restraint": {
+    "id": "Order's Restraint",
+    "name": "束縛、秩序、安定",
+    "sp": 300,
+    "exclusive": ["Ashera - Order Goddess"],
+    "last": true,
+    "icon": "skillC/Order's_Restraint.png"
+  },
+  "Domain of Ice": {
+    "id": "Domain of Ice",
+    "name": "絕冰結界",
+    "sp": 300,
+    "exclusive": ["Nifl - God of Ice"],
+    "last": true,
+    "icon": "skillC/Domain_of_Ice.png"
+  },
+  "Domain of Flame": {
+    "id": "Domain of Flame",
+    "name": "絕炎結界",
+    "sp": 300,
+    "exclusive": ["Múspell - Flame God"],
+    "last": true,
+    "icon": "skillC/Domain_of_Flame.png"
+  },
+  "Worldbreaker": {
+    "id": "Worldbreaker",
+    "name": "神錘貫穿大地",
+    "sp": 300,
+    "exclusive": ["Thórr - War God"],
+    "last": true,
+    "icon": "skillC/Worldbreaker.png"
+  },
+  "Opening Retainer": {
+    "id": "Opening Retainer",
+    "name": "開神的眷屬",
+    "sp": 300,
+    "exclusive": ["Ash - Retainer to Askr"],
+    "last": true,
+    "icon": "skillC/Opening_Retainer.png"
+  },
+  "Goddess Bearer": {
+    "id": "Goddess Bearer",
+    "name": "寄宿女神之人",
+    "sp": 300,
+    "exclusive": ["Byleth - The Fódlan Light"],
+    "last": true,
+    "icon": "skillC/Goddess_Bearer.png"
+  },
+  "Holy Ground": {
+    "id": "Holy Ground",
+    "name": "地上最後的女神",
+    "sp": 300,
+    "exclusive": ["Elimine - Scouring Saint"],
+    "last": true,
+    "icon": "skillC/Holy_Ground.png"
+  },
+  "Breath of Life 1": {
+    "id": "Breath of Life 1",
+    "name": "生命氣息1",
+    "sp": 50,
+    "icon": "skillC/Breath_of_Life_1.png"
+  },
+  "Breath of Life 2": {
+    "id": "Breath of Life 2",
+    "name": "生命氣息2",
+    "sp": 100,
+    "prev": ["Breath of Life 1"],
+    "icon": "skillC/Breath_of_Life_2.png"
+  },
+  "Breath of Life 3": {
+    "id": "Breath of Life 3",
+    "name": "生命氣息3",
+    "sp": 200,
+    "prev": ["Breath of Life 2"],
+    "icon": "skillC/Breath_of_Life_3.png",
+    "last": true
+  },
+  "Savage Blow 1": {
+    "id": "Savage Blow 1",
+    "name": "死亡氣息1",
+    "sp": 50,
+    "icon": "skillC/Savage_Blow_1.png"
+  },
+  "Savage Blow 2": {
+    "id": "Savage Blow 2",
+    "name": "死亡氣息2",
+    "sp": 100,
+    "prev": ["Savage Blow 1"],
+    "icon": "skillC/Savage_Blow_2.png"
+  },
+  "Savage Blow 3": {
+    "id": "Savage Blow 3",
+    "name": "死亡氣息3",
+    "sp": 200,
+    "prev": ["Savage Blow 2"],
+    "icon": "skillC/Savage_Blow_3.png",
+    "last": true
+  },
+  "Spur Atk 1": {
+    "id": "Spur Atk 1",
+    "name": "攻擊紋章1",
+    "sp": 50,
+    "icon": "skillC/Spur_Atk_1.png"
+  },
+  "Spur Atk 2": {
+    "id": "Spur Atk 2",
+    "name": "攻擊紋章2",
+    "sp": 100,
+    "prev": ["Spur Atk 1"],
+    "icon": "skillC/Spur_Atk_2.png"
+  },
+  "Spur Atk 3": {
+    "id": "Spur Atk 3",
+    "name": "攻擊紋章3",
+    "sp": 200,
+    "prev": ["Spur Atk 2"],
+    "icon": "skillC/Spur_Atk_3.png",
+    "last": true
+  },
+  "Spur Spd 1": {
+    "id": "Spur Spd 1",
+    "name": "速度紋章1",
+    "sp": 50,
+    "icon": "skillC/Spur_Spd_1.png"
+  },
+  "Spur Spd 2": {
+    "id": "Spur Spd 2",
+    "name": "速度紋章2",
+    "sp": 100,
+    "prev": ["Spur Spd 1"],
+    "icon": "skillC/Spur_Spd_2.png"
+  },
+  "Spur Spd 3": {
+    "id": "Spur Spd 3",
+    "name": "速度紋章3",
+    "sp": 200,
+    "prev": ["Spur Spd 2"],
+    "icon": "skillC/Spur_Spd_3.png",
+    "last": true
+  },
+  "Spur Def 1": {
+    "id": "Spur Def 1",
+    "name": "防守紋章1",
+    "sp": 50,
+    "icon": "skillC/Spur_Def_1.png"
+  },
+  "Spur Def 2": {
+    "id": "Spur Def 2",
+    "name": "防守紋章2",
+    "sp": 100,
+    "prev": ["Spur Def 1"],
+    "icon": "skillC/Spur_Def_2.png"
+  },
+  "Spur Def 3": {
+    "id": "Spur Def 3",
+    "name": "防守紋章3",
+    "sp": 200,
+    "prev": ["Spur Def 2"],
+    "icon": "skillC/Spur_Def_3.png",
+    "last": true
+  },
+  "Spur Res 1": {
+    "id": "Spur Res 1",
+    "name": "魔防紋章1",
+    "sp": 50,
+    "icon": "skillC/Spur_Res_1.png"
+  },
+  "Spur Res 2": {
+    "id": "Spur Res 2",
+    "name": "魔防紋章2",
+    "sp": 100,
+    "prev": ["Spur Res 1"],
+    "icon": "skillC/Spur_Res_2.png"
+  },
+  "Spur Res 3": {
+    "id": "Spur Res 3",
+    "name": "魔防紋章3",
+    "sp": 200,
+    "prev": ["Spur Res 2"],
+    "icon": "skillC/Spur_Res_3.png",
+    "last": true
+  },
+  "Spur Atk/Spd 1": {
+    "id": "Spur Atk/Spd 1",
+    "name": "攻擊速度紋章1",
+    "sp": 120,
+    "prev": ["Spur Atk 1", "Spur Spd 1"],
+    "icon": "skillC/Spur_Atk_Spd_1.png"
+  },
+  "Spur Atk/Spd 2": {
+    "id": "Spur Atk/Spd 2",
+    "name": "攻擊速度紋章2",
+    "sp": 240,
+    "prev": ["Spur Atk/Spd 1"],
+    "icon": "skillC/Spur_Atk_Spd_2.png",
+    "last": true
+  },
+  "Spur Atk/Def 1": {
+    "id": "Spur Atk/Def 1",
+    "name": "攻擊防守紋章1",
+    "sp": 120,
+    "prev": ["Spur Atk 1", "Spur Def 1"],
+    "icon": "skillC/Spur_Atk_Def_1.png"
+  },
+  "Spur Atk/Def 2": {
+    "id": "Spur Atk/Def 2",
+    "name": "攻擊防守紋章2",
+    "sp": 240,
+    "prev": ["Spur Atk/Def 1"],
+    "icon": "skillC/Spur_Atk_Def_2.png",
+    "last": true
+  },
+  "Spur Atk/Res 1": {
+    "id": "Spur Atk/Res 1",
+    "name": "攻擊魔防紋章1",
+    "sp": 120,
+    "prev": ["Spur Atk 1", "Spur Res 1"],
+    "icon": "skillC/Spur_Atk_Res_1.png"
+  },
+  "Spur Atk/Res 2": {
+    "id": "Spur Atk/Res 2",
+    "name": "攻擊魔防紋章2",
+    "sp": 240,
+    "prev": ["Spur Atk/Res 1"],
+    "icon": "skillC/Spur_Atk_Res_2.png",
+    "last": true
+  },
+  "Spur Spd/Def 1": {
+    "id": "Spur Spd/Def 1",
+    "name": "速度防守紋章1",
+    "sp": 120,
+    "prev": ["Spur Spd 1", "Spur Def 1"],
+    "icon": "skillC/Spur_Spd_Def_1.png"
+  },
+  "Spur Spd/Def 2": {
+    "id": "Spur Spd/Def 2",
+    "name": "速度防守紋章2",
+    "sp": 240,
+    "prev": ["Spur Spd/Def 1"],
+    "icon": "skillC/Spur_Spd_Def_2.png",
+    "last": true
+  },
+  "Spur Spd/Res 1": {
+    "id": "Spur Spd/Res 1",
+    "name": "速度魔防紋章1",
+    "sp": 120,
+    "prev": ["Spur Spd 1", "Spur Res 1"],
+    "icon": "skillC/Spur_Spd_Res_1.png"
+  },
+  "Spur Spd/Res 2": {
+    "id": "Spur Spd/Res 2",
+    "name": "速度魔防紋章2",
+    "sp": 240,
+    "prev": ["Spur Spd/Res 1"],
+    "icon": "skillC/Spur_Spd_Res_2.png",
+    "last": true
+  },
+  "Spur Def/Res 1": {
+    "id": "Spur Def/Res 1",
+    "name": "防守魔防紋章1",
+    "sp": 120,
+    "prev": ["Spur Def 1", "Spur Res 1"],
+    "icon": "skillC/Spur_Def_Res_1.png"
+  },
+  "Spur Def/Res 2": {
+    "id": "Spur Def/Res 2",
+    "name": "防守魔防紋章2",
+    "sp": 240,
+    "prev": ["Spur Def/Res 1"],
+    "icon": "skillC/Spur_Def_Res_2.png",
+    "last": true
+  },
+  "Cross Spur Atk": {
+    "id": "Cross Spur Atk",
+    "name": "十字攻擊紋章",
+    "sp": 300,
+    "prev": ["Spur Atk 3"],
+    "last": true,
+    "icon": "skillC/Cross_Spur_Atk.png"
+  },
+  "Cross Spur Res": {
+    "id": "Cross Spur Res",
+    "name": "十字魔防紋章",
+    "sp": 300,
+    "prev": ["Spur Res 3"],
+    "last": true,
+    "icon": "skillC/Cross_Spur_Res.png"
+  },
+  "Drive Atk 1": {
+    "id": "Drive Atk 1",
+    "name": "攻擊大紋章1",
+    "sp": 120,
+    "prev": ["Spur Atk 1"],
+    "icon": "skillC/Drive_Atk_1.png"
+  },
+  "Drive Atk 2": {
+    "id": "Drive Atk 2",
+    "name": "攻擊大紋章2",
+    "sp": 240,
+    "prev": ["Drive Atk 1"],
+    "icon": "skillC/Drive_Atk_2.png",
+    "last": true
+  },
+  "Drive Spd 1": {
+    "id": "Drive Spd 1",
+    "name": "速度大紋章1",
+    "sp": 120,
+    "prev": ["Spur Spd 1"],
+    "icon": "skillC/Drive_Spd_1.png"
+  },
+  "Drive Spd 2": {
+    "id": "Drive Spd 2",
+    "name": "速度大紋章2",
+    "sp": 240,
+    "prev": ["Drive Spd 1"],
+    "icon": "skillC/Drive_Spd_2.png",
+    "last": true
+  },
+  "Drive Def 1": {
+    "id": "Drive Def 1",
+    "name": "防守大紋章1",
+    "sp": 120,
+    "prev": ["Spur Def 1"],
+    "icon": "skillC/Drive_Def_1.png"
+  },
+  "Drive Def 2": {
+    "id": "Drive Def 2",
+    "name": "防守大紋章2",
+    "sp": 240,
+    "prev": ["Drive Def 1"],
+    "icon": "skillC/Drive_Def_2.png",
+    "last": true
+  },
+  "Drive Res 1": {
+    "id": "Drive Res 1",
+    "name": "魔防大紋章1",
+    "sp": 120,
+    "prev": ["Spur Res 1"],
+    "icon": "skillC/Drive_Res_1.png"
+  },
+  "Drive Res 2": {
+    "id": "Drive Res 2",
+    "name": "魔防大紋章2",
+    "sp": 240,
+    "prev": ["Drive Res 1"],
+    "icon": "skillC/Drive_Res_2.png",
+    "last": true
+  },
+  "Joint Drive Atk": {
+    "id": "Joint Drive Atk",
+    "name": "攻擊相互大紋章",
+    "sp": 300,
+    "prev": ["Drive Atk 2"],
+    "last": true,
+    "icon": "skillC/Joint_Drive_Atk.png"
+  },
+  "Joint Drive Spd": {
+    "id": "Joint Drive Spd",
+    "name": "速度相互大紋章",
+    "sp": 300,
+    "prev": ["Drive Spd 2"],
+    "last": true,
+    "icon": "skillC/Joint_Drive_Spd.png"
+  },
+  "Joint Drive Def": {
+    "id": "Joint Drive Def",
+    "name": "防守相互大紋章",
+    "sp": 300,
+    "prev": ["Drive Def 2"],
+    "last": true,
+    "icon": "skillC/Joint_Drive_Def.png"
+  },
+  "Joint Drive Res": {
+    "id": "Joint Drive Res",
+    "name": "魔防相互大紋章",
+    "sp": 300,
+    "prev": ["Drive Res 2"],
+    "last": true,
+    "icon": "skillC/Joint_Drive_Res.png"
+  },
+  "Close Guard 1": {
+    "id": "Close Guard 1",
+    "name": "近距離警戒1",
+    "sp": 60,
+    "icon": "skillC/Close_Guard_1.png"
+  },
+  "Close Guard 2": {
+    "id": "Close Guard 2",
+    "name": "近距離警戒2",
+    "sp": 120,
+    "prev": ["Close Guard 1"],
+    "icon": "skillC/Close_Guard_2.png"
+  },
+  "Close Guard 3": {
+    "id": "Close Guard 3",
+    "name": "近距離警戒3",
+    "sp": 240,
+    "prev": ["Close Guard 2"],
+    "icon": "skillC/Close_Guard_3.png",
+    "last": true
+  },
+  "Distant Guard 1": {
+    "id": "Distant Guard 1",
+    "name": "遠距離警戒1",
+    "sp": 60,
+    "icon": "skillC/Distant_Guard_1.png"
+  },
+  "Distant Guard 2": {
+    "id": "Distant Guard 2",
+    "name": "遠距離警戒2",
+    "sp": 120,
+    "prev": ["Distant Guard 1"],
+    "icon": "skillC/Distant_Guard_2.png"
+  },
+  "Distant Guard 3": {
+    "id": "Distant Guard 3",
+    "name": "遠距離警戒3",
+    "sp": 240,
+    "prev": ["Distant Guard 2"],
+    "icon": "skillC/Distant_Guard_3.png",
+    "last": true
+  },
+  "Joint Dist. Guard": {
+    "id": "Joint Dist. Guard",
+    "name": "遠距離相互警戒",
+    "sp": 300,
+    "last": true,
+    "icon": "skillC/Joint_Dist._Guard.png"
+  },
+  "Goad Armor": {
+    "id": "Goad Armor",
+    "name": "重刃紋章",
+    "sp": 200,
+    "rules": "armored",
+    "prev": ["Spur Atk 2", "Spur Spd 2"],
+    "last": true,
+    "icon": "skillC/Goad_Armor.png"
+  },
+  "Ward Armor": {
+    "id": "Ward Armor",
+    "name": "重盾紋章",
+    "sp": 200,
+    "rules": "armored",
+    "prev": ["Spur Def 2", "Spur Res 2"],
+    "last": true,
+    "icon": "skillC/Ward_Armor.png"
+  },
+  "Goad Cavalry": {
+    "id": "Goad Cavalry",
+    "name": "騎刃紋章",
+    "sp": 200,
+    "rules": "cavalry",
+    "prev": ["Spur Atk 2", "Spur Spd 2"],
+    "last": true,
+    "icon": "skillC/Goad_Cavalry.png"
+  },
+  "Ward Cavalry": {
+    "id": "Ward Cavalry",
+    "name": "騎盾紋章",
+    "sp": 200,
+    "rules": "cavalry",
+    "prev": ["Spur Def 2", "Spur Res 2"],
+    "last": true,
+    "icon": "skillC/Ward_Cavalry.png"
+  },
+  "Goad Fliers": {
+    "id": "Goad Fliers",
+    "name": "飛刃紋章",
+    "sp": 200,
+    "rules": "flying",
+    "prev": ["Spur Atk 2", "Spur Spd 2"],
+    "last": true,
+    "icon": "skillC/Goad_Fliers.png"
+  },
+  "Ward Fliers": {
+    "id": "Ward Fliers",
+    "name": "飛盾紋章",
+    "sp": 200,
+    "rules": "flying",
+    "prev": ["Spur Def 2", "Spur Res 2"],
+    "last": true,
+    "icon": "skillC/Ward_Fliers.png"
+  },
+  "Goad Dragons": {
+    "id": "Goad Dragons",
+    "name": "龍刃紋章",
+    "sp": 200,
+    "rules": "dragon",
+    "prev": ["Spur Atk 2", "Spur Spd 2"],
+    "last": true,
+    "icon": "skillC/Goad_Dragons.png"
+  },
+  "Ward Dragons": {
+    "id": "Ward Dragons",
+    "name": "龍盾紋章",
+    "sp": 200,
+    "rules": "dragon",
+    "prev": ["Spur Def 2", "Spur Res 2"],
+    "last": true,
+    "icon": "skillC/Ward_Dragons.png"
+  },
+  "Goad Beasts": {
+    "id": "Goad Beasts",
+    "name": "獸刃紋章",
+    "sp": 200,
+    "rules": "beast",
+    "prev": ["Spur Atk 2", "Spur Spd 2"],
+    "last": true,
+    "icon": "skillC/Goad_Beasts.png"
+  },
+  "Ward Beasts": {
+    "id": "Ward Beasts",
+    "name": "獸盾紋章",
+    "sp": 200,
+    "rules": "beast",
+    "prev": ["Spur Def 2", "Spur Res 2"],
+    "last": true,
+    "icon": "skillC/Ward_Beasts.png"
+  },
+  "Atk/Spd Rein 1": {
+    "id": "Atk/Spd Rein 1",
+    "name": "攻擊速度牽制1",
+    "sp": 60,
+    "rules": "flying",
+    "icon": "skillC/Atk_Spd_Rein_1.png"
+  },
+  "Atk/Spd Rein 2": {
+    "id": "Atk/Spd Rein 2",
+    "name": "攻擊速度牽制2",
+    "sp": 120,
+    "prev": ["Atk/Spd Rein 1"],
+    "rules": "flying",
+    "icon": "skillC/Atk_Spd_Rein_2.png"
+  },
+  "Atk/Spd Rein 3": {
+    "id": "Atk/Spd Rein 3",
+    "name": "攻擊速度牽制3",
+    "sp": 240,
+    "prev": ["Atk/Spd Rein 2"],
+    "rules": "flying",
+    "icon": "skillC/Atk_Spd_Rein_3.png",
+    "last": true
+  },
+  "Atk/Def Rein 1": {
+    "id": "Atk/Def Rein 1",
+    "name": "攻擊防守牽制1",
+    "sp": 60,
+    "rules": "flying",
+    "icon": "skillC/Atk_Def_Rein_1.png"
+  },
+  "Atk/Def Rein 2": {
+    "id": "Atk/Def Rein 2",
+    "name": "攻擊防守牽制2",
+    "sp": 120,
+    "prev": ["Atk/Def Rein 1"],
+    "rules": "flying",
+    "icon": "skillC/Atk_Def_Rein_2.png"
+  },
+  "Atk/Def Rein 3": {
+    "id": "Atk/Def Rein 3",
+    "name": "攻擊防守牽制3",
+    "sp": 240,
+    "prev": ["Atk/Def Rein 2"],
+    "rules": "flying",
+    "icon": "skillC/Atk_Def_Rein_3.png",
+    "last": true
+  },
+  "Atk/Res Rein 1": {
+    "id": "Atk/Res Rein 1",
+    "name": "攻擊魔防牽制1",
+    "sp": 60,
+    "rules": "flying",
+    "icon": "skillC/Atk_Res_Rein_1.png"
+  },
+  "Atk/Res Rein 2": {
+    "id": "Atk/Res Rein 2",
+    "name": "攻擊魔防牽制2",
+    "sp": 120,
+    "prev": ["Atk/Res Rein 1"],
+    "rules": "flying",
+    "icon": "skillC/Atk_Res_Rein_2.png"
+  },
+  "Atk/Res Rein 3": {
+    "id": "Atk/Res Rein 3",
+    "name": "攻擊魔防牽制3",
+    "sp": 240,
+    "prev": ["Atk/Res Rein 2"],
+    "rules": "flying",
+    "icon": "skillC/Atk_Res_Rein_3.png",
+    "last": true
+  },
+  "Spd/Def Rein 1": {
+    "id": "Spd/Def Rein 1",
+    "name": "速度防守牽制1",
+    "sp": 60,
+    "rules": "flying",
+    "icon": "skillC/Spd_Def_Rein_1.png"
+  },
+  "Spd/Def Rein 2": {
+    "id": "Spd/Def Rein 2",
+    "name": "速度防守牽制2",
+    "sp": 120,
+    "prev": ["Spd/Def Rein 1"],
+    "rules": "flying",
+    "icon": "skillC/Spd_Def_Rein_2.png"
+  },
+  "Spd/Def Rein 3": {
+    "id": "Spd/Def Rein 3",
+    "name": "速度防守牽制3",
+    "sp": 240,
+    "prev": ["Spd/Def Rein 2"],
+    "rules": "flying",
+    "icon": "skillC/Spd_Def_Rein_3.png",
+    "last": true
+  },
+  "Spd/Res Rein 1": {
+    "id": "Spd/Res Rein 1",
+    "name": "速度魔防牽制1",
+    "sp": 60,
+    "rules": "flying",
+    "icon": "skillC/Spd_Res_Rein_1.png"
+  },
+  "Spd/Res Rein 2": {
+    "id": "Spd/Res Rein 2",
+    "name": "速度魔防牽制2",
+    "sp": 120,
+    "prev": ["Spd/Res Rein 1"],
+    "rules": "flying",
+    "icon": "skillC/Spd_Res_Rein_2.png"
+  },
+  "Spd/Res Rein 3": {
+    "id": "Spd/Res Rein 3",
+    "name": "速度魔防牽制3",
+    "sp": 240,
+    "prev": ["Spd/Res Rein 2"],
+    "rules": "flying",
+    "icon": "skillC/Spd_Res_Rein_3.png",
+    "last": true
+  },
+  "Def/Res Rein 1": {
+    "id": "Def/Res Rein 1",
+    "name": "防守魔防牽制1",
+    "sp": 60,
+    "rules": "flying",
+    "icon": "skillC/Def_Res_Rein_1.png"
+  },
+  "Def/Res Rein 2": {
+    "id": "Def/Res Rein 2",
+    "name": "防守魔防牽制2",
+    "sp": 120,
+    "prev": ["Def/Res Rein 1"],
+    "rules": "flying",
+    "icon": "skillC/Def_Res_Rein_2.png"
+  },
+  "Def/Res Rein 3": {
+    "id": "Def/Res Rein 3",
+    "name": "防守魔防牽制3",
+    "sp": 240,
+    "prev": ["Def/Res Rein 2"],
+    "rules": "flying",
+    "icon": "skillC/Def_Res_Rein_3.png",
+    "last": true
+  },
+  "Spd/Res Hold": {
+    "id": "Spd/Res Hold",
+    "name": "速度魔防大牽制",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Spd/Res Rein 3"],
+    "last": true,
+    "icon": "skillC/Spd_Res_Hold.png"
+  },
+  "Hone Atk 1": {
+    "id": "Hone Atk 1",
+    "name": "攻擊鼓舞1",
+    "sp": 50,
+    "icon": "skillC/Hone_Atk_1.png"
+  },
+  "Hone Atk 2": {
+    "id": "Hone Atk 2",
+    "name": "攻擊鼓舞2",
+    "sp": 100,
+    "prev": ["Hone Atk 1"],
+    "icon": "skillC/Hone_Atk_2.png"
+  },
+  "Hone Atk 3": {
+    "id": "Hone Atk 3",
+    "name": "攻擊鼓舞3",
+    "sp": 200,
+    "prev": ["Hone Atk 2"],
+    "icon": "skillC/Hone_Atk_3.png",
+    "last": true
+  },
+  "Hone Atk 4": {
+    "id": "Hone Atk 4",
+    "name": "攻擊鼓舞4",
+    "sp": 300,
+    "prev": ["Hone Atk 3"],
+    "icon": "skillC/Hone_Atk_4.png",
+    "last": true
+  },
+  "Hone Spd 1": {
+    "id": "Hone Spd 1",
+    "name": "速度鼓舞1",
+    "sp": 50,
+    "icon": "skillC/Hone_Spd_1.png"
+  },
+  "Hone Spd 2": {
+    "id": "Hone Spd 2",
+    "name": "速度鼓舞2",
+    "sp": 100,
+    "prev": ["Hone Spd 1"],
+    "icon": "skillC/Hone_Spd_2.png"
+  },
+  "Hone Spd 3": {
+    "id": "Hone Spd 3",
+    "name": "速度鼓舞3",
+    "sp": 200,
+    "prev": ["Hone Spd 2"],
+    "icon": "skillC/Hone_Spd_3.png",
+    "last": true
+  },
+  "Hone Spd 4": {
+    "id": "Hone Spd 4",
+    "name": "速度鼓舞4",
+    "sp": 300,
+    "prev": ["Hone Spd 3"],
+    "icon": "skillC/Hone_Spd_4.png",
+    "last": true
+  },
+  "Fortify Def 1": {
+    "id": "Fortify Def 1",
+    "name": "防守鼓舞1",
+    "sp": 50,
+    "icon": "skillC/Fortify_Def_1.png"
+  },
+  "Fortify Def 2": {
+    "id": "Fortify Def 2",
+    "name": "防守鼓舞2",
+    "sp": 100,
+    "prev": ["Fortify Def 1"],
+    "icon": "skillC/Fortify_Def_2.png"
+  },
+  "Fortify Def 3": {
+    "id": "Fortify Def 3",
+    "name": "防守鼓舞3",
+    "sp": 200,
+    "prev": ["Fortify Def 2"],
+    "icon": "skillC/Fortify_Def_3.png",
+    "last": true
+  },
+  "Fortify Def 4": {
+    "id": "Fortify Def 4",
+    "name": "防守鼓舞4",
+    "sp": 300,
+    "prev": ["Fortify Def 3"],
+    "icon": "skillC/Fortify_Def_4.png",
+    "last": true
+  },
+  "Fortify Res 1": {
+    "id": "Fortify Res 1",
+    "name": "魔防鼓舞1",
+    "sp": 50,
+    "icon": "skillC/Fortify_Res_1.png"
+  },
+  "Fortify Res 2": {
+    "id": "Fortify Res 2",
+    "name": "魔防鼓舞2",
+    "sp": 100,
+    "prev": ["Fortify Res 1"],
+    "icon": "skillC/Fortify_Res_2.png"
+  },
+  "Fortify Res 3": {
+    "id": "Fortify Res 3",
+    "name": "魔防鼓舞3",
+    "sp": 200,
+    "prev": ["Fortify Res 2"],
+    "icon": "skillC/Fortify_Res_3.png",
+    "last": true
+  },
+  "Fortify Res 4": {
+    "id": "Fortify Res 4",
+    "name": "魔防鼓舞4",
+    "sp": 300,
+    "prev": ["Fortify Res 3"],
+    "icon": "skillC/Fortify_Res_4.png",
+    "last": true
+  },
+  "Joint Hone Atk": {
+    "id": "Joint Hone Atk",
+    "name": "攻擊相互鼓舞",
+    "sp": 300,
+    "prev": ["Hone Atk 3"],
+    "last": true,
+    "icon": "skillC/Joint_Hone_Atk.png"
+  },
+  "Joint Hone Spd": {
+    "id": "Joint Hone Spd",
+    "name": "速度相互鼓舞",
+    "sp": 300,
+    "prev": ["Hone Spd 3"],
+    "last": true,
+    "icon": "skillC/Joint_Hone_Spd.png"
+  },
+  "Joint Hone Def": {
+    "id": "Joint Hone Def",
+    "name": "防守相互鼓舞",
+    "sp": 300,
+    "prev": ["Fortify Def 3"],
+    "last": true,
+    "icon": "skillC/Joint_Hone_Def.png"
+  },
+  "Joint Hone Res": {
+    "id": "Joint Hone Res",
+    "name": "魔防相互鼓舞",
+    "sp": 300,
+    "prev": ["Fortify Res 3"],
+    "last": true,
+    "icon": "skillC/Joint_Hone_Res.png"
+  },
+  "Hone Armor": {
+    "id": "Hone Armor",
+    "name": "重刃鼓舞",
+    "sp": 200,
+    "rules": "armored",
+    "prev": ["Hone Atk 2", "Hone Spd 2"],
+    "last": true,
+    "icon": "skillC/Hone_Armor.png"
+  },
+  "Fortify Armor": {
+    "id": "Fortify Armor",
+    "name": "重盾鼓舞",
+    "sp": 200,
+    "rules": "armored",
+    "prev": ["Fortify Def 2", "Fortify Res 2"],
+    "last": true,
+    "icon": "skillC/Fortify_Armor.png"
+  },
+  "Hone Cavalry": {
+    "id": "Hone Cavalry",
+    "name": "騎刃鼓舞",
+    "sp": 200,
+    "rules": "cavalry",
+    "prev": ["Hone Atk 2", "Hone Spd 2"],
+    "last": true,
+    "icon": "skillC/Hone_Cavalry.png"
+  },
+  "Fortify Cavalry": {
+    "id": "Fortify Cavalry",
+    "name": "騎盾鼓舞",
+    "sp": 200,
+    "rules": "cavalry",
+    "prev": ["Fortify Def 2", "Fortify Res 2"],
+    "last": true,
+    "icon": "skillC/Fortify_Cavalry.png"
+  },
+  "Hone Fliers": {
+    "id": "Hone Fliers",
+    "name": "飛刃鼓舞",
+    "sp": 200,
+    "rules": "flying",
+    "prev": ["Hone Atk 2", "Hone Spd 2"],
+    "last": true,
+    "icon": "skillC/Hone_Fliers.png"
+  },
+  "Fortify Fliers": {
+    "id": "Fortify Fliers",
+    "name": "飛盾鼓舞",
+    "sp": 200,
+    "rules": "flying",
+    "prev": ["Fortify Def 2", "Fortify Res 2"],
+    "last": true,
+    "icon": "skillC/Fortify_Fliers.png"
+  },
+  "Hone Dragons": {
+    "id": "Hone Dragons",
+    "name": "龍刃鼓舞",
+    "sp": 200,
+    "rules": "dragon",
+    "prev": ["Hone Atk 2", "Hone Spd 2"],
+    "last": true,
+    "icon": "skillC/Hone_Dragons.png"
+  },
+  "Fortify Dragons": {
+    "id": "Fortify Dragons",
+    "name": "龍盾鼓舞",
+    "sp": 200,
+    "rules": "dragon",
+    "prev": ["Fortify Def 2", "Fortify Res 2"],
+    "last": true,
+    "icon": "skillC/Fortify_Dragons.png"
+  },
+  "Hone Beasts": {
+    "id": "Hone Beasts",
+    "name": "獸刃鼓舞",
+    "sp": 200,
+    "rules": "beast",
+    "prev": ["Hone Atk 2", "Hone Spd 2"],
+    "last": true,
+    "icon": "skillC/Hone_Beasts.png"
+  },
+  "Fortify Beasts": {
+    "id": "Fortify Beasts",
+    "name": "獸盾鼓舞",
+    "sp": 200,
+    "rules": "beast",
+    "prev": ["Fortify Def 2", "Fortify Res 2"],
+    "last": true,
+    "icon": "skillC/Hone_Beasts.png"
+  },
+  "Atk Tactic 1": {
+    "id": "Atk Tactic 1",
+    "name": "攻擊指揮1",
+    "sp": 60,
+    "icon": "skillC/Atk_Tactic_1.png"
+  },
+  "Atk Tactic 2": {
+    "id": "Atk Tactic 2",
+    "name": "攻擊指揮2",
+    "sp": 120,
+    "prev": ["Atk Tactic 1"],
+    "icon": "skillC/Atk_Tactic_2.png"
+  },
+  "Atk Tactic 3": {
+    "id": "Atk Tactic 3",
+    "name": "攻擊指揮3",
+    "sp": 240,
+    "prev": ["Atk Tactic 2"],
+    "icon": "skillC/Atk_Tactic_3.png",
+    "last": true
+  },
+  "Spd Tactic 1": {
+    "id": "Spd Tactic 1",
+    "name": "速度指揮1",
+    "sp": 60,
+    "icon": "skillC/Spd_Tactic_1.png"
+  },
+  "Spd Tactic 2": {
+    "id": "Spd Tactic 2",
+    "name": "速度指揮2",
+    "sp": 120,
+    "prev": ["Spd Tactic 1"],
+    "icon": "skillC/Spd_Tactic_2.png"
+  },
+  "Spd Tactic 3": {
+    "id": "Spd Tactic 3",
+    "name": "速度指揮3",
+    "sp": 240,
+    "prev": ["Spd Tactic 2"],
+    "icon": "skillC/Spd_Tactic_3.png",
+    "last": true
+  },
+  "Def Tactic 1": {
+    "id": "Def Tactic 1",
+    "name": "防守指揮1",
+    "sp": 60,
+    "icon": "skillC/Def_Tactic_1.png"
+  },
+  "Def Tactic 2": {
+    "id": "Def Tactic 2",
+    "name": "防守指揮2",
+    "sp": 120,
+    "prev": ["Def Tactic 1"],
+    "icon": "skillC/Def_Tactic_2.png"
+  },
+  "Def Tactic 3": {
+    "id": "Def Tactic 3",
+    "name": "防守指揮3",
+    "sp": 240,
+    "prev": ["Def Tactic 2"],
+    "icon": "skillC/Def_Tactic_3.png",
+    "last": true
+  },
+  "Res Tactic 1": {
+    "id": "Res Tactic 1",
+    "name": "魔防指揮1",
+    "sp": 60,
+    "icon": "skillC/Res_Tactic_1.png"
+  },
+  "Res Tactic 2": {
+    "id": "Res Tactic 2",
+    "name": "魔防指揮2",
+    "sp": 120,
+    "prev": ["Res Tactic 1"],
+    "icon": "skillC/Res_Tactic_2.png"
+  },
+  "Res Tactic 3": {
+    "id": "Res Tactic 3",
+    "name": "魔防指揮3",
+    "sp": 240,
+    "prev": ["Res Tactic 2"],
+    "icon": "skillC/Res_Tactic_3.png",
+    "last": true
+  },
+  "Threaten Atk 1": {
+    "id": "Threaten Atk 1",
+    "name": "攻擊威嚇1",
+    "sp": 50,
+    "icon": "skillC/Threaten_Atk_1.png"
+  },
+  "Threaten Atk 2": {
+    "id": "Threaten Atk 2",
+    "name": "攻擊威嚇2",
+    "sp": 100,
+    "prev": ["Threaten Atk 1"],
+    "icon": "skillC/Threaten_Atk_2.png"
+  },
+  "Threaten Atk 3": {
+    "id": "Threaten Atk 3",
+    "name": "攻擊威嚇3",
+    "sp": 200,
+    "prev": ["Threaten Atk 2"],
+    "icon": "skillC/Threaten_Atk_3.png",
+    "last": true
+  },
+  "Threaten Spd 1": {
+    "id": "Threaten Spd 1",
+    "name": "速度威嚇1",
+    "sp": 50,
+    "icon": "skillC/Threaten_Spd_1.png"
+  },
+  "Threaten Spd 2": {
+    "id": "Threaten Spd 2",
+    "name": "速度威嚇2",
+    "sp": 100,
+    "prev": ["Threaten Spd 1"],
+    "icon": "skillC/Threaten_Spd_2.png"
+  },
+  "Threaten Spd 3": {
+    "id": "Threaten Spd 3",
+    "name": "速度威嚇3",
+    "sp": 200,
+    "prev": ["Threaten Spd 2"],
+    "icon": "skillC/Threaten_Spd_3.png",
+    "last": true
+  },
+  "Threaten Def 1": {
+    "id": "Threaten Def 1",
+    "name": "防守威嚇1",
+    "sp": 50,
+    "icon": "skillC/Threaten_Def_1.png"
+  },
+  "Threaten Def 2": {
+    "id": "Threaten Def 2",
+    "name": "防守威嚇2",
+    "sp": 100,
+    "prev": ["Threaten Def 1"],
+    "icon": "skillC/Threaten_Def_2.png"
+  },
+  "Threaten Def 3": {
+    "id": "Threaten Def 3",
+    "name": "防守威嚇3",
+    "sp": 200,
+    "prev": ["Threaten Def 2"],
+    "icon": "skillC/Threaten_Def_3.png",
+    "last": true
+  },
+  "Threaten Res 1": {
+    "id": "Threaten Res 1",
+    "name": "魔防威嚇1",
+    "sp": 50,
+    "icon": "skillC/Threaten_Res_1.png"
+  },
+  "Threaten Res 2": {
+    "id": "Threaten Res 2",
+    "name": "魔防威嚇2",
+    "sp": 100,
+    "prev": ["Threaten Res 1"],
+    "icon": "skillC/Threaten_Res_2.png"
+  },
+  "Threaten Res 3": {
+    "id": "Threaten Res 3",
+    "name": "魔防威嚇3",
+    "sp": 200,
+    "prev": ["Threaten Res 2"],
+    "icon": "skillC/Threaten_Res_3.png",
+    "last": true
+  },
+  "Threat. Atk/Spd 1": {
+    "id": "Threat. Atk/Spd 1",
+    "name": "攻擊速度的威嚇1",
+    "sp": 100,
+    "prev": ["Threaten Atk 1", "Threaten Spd 1"],
+    "icon": "skillC/Threat._Atk_Spd_1.png"
+  },
+  "Threat. Atk/Spd 2": {
+    "id": "Threat. Atk/Spd 2",
+    "name": "攻擊速度的威嚇2",
+    "sp": 200,
+    "prev": ["Threat. Atk/Spd 1"],
+    "icon": "skillC/Threat._Atk_Spd_2.png"
+  },
+  "Threat. Atk/Spd 3": {
+    "id": "Threat. Atk/Spd 3",
+    "name": "攻擊速度的威嚇3",
+    "sp": 300,
+    "prev": ["Threat. Atk/Spd 2"],
+    "icon": "skillC/Threat._Atk_Spd_3.png",
+    "last": true
+  },
+  "Threat. Atk/Def 1": {
+    "id": "Threat. Atk/Def 1",
+    "name": "攻擊防守的威嚇1",
+    "sp": 100,
+    "prev": ["Threaten Atk 1", "Threaten Def 1"],
+    "icon": "skillC/Threat._Atk_Def_1.png"
+  },
+  "Threat. Atk/Def 2": {
+    "id": "Threat. Atk/Def 2",
+    "name": "攻擊防守的威嚇2",
+    "sp": 200,
+    "prev": ["Threat. Atk/Def 1"],
+    "icon": "skillC/Threat._Atk_Def_2.png"
+  },
+  "Threat. Atk/Def 3": {
+    "id": "Threat. Atk/Def 3",
+    "name": "攻擊防守的威嚇3",
+    "sp": 300,
+    "prev": ["Threat. Atk/Def 2"],
+    "icon": "skillC/Threat._Atk_Def_3.png",
+    "last": true
+  },
+  "Threat. Atk/Res 1": {
+    "id": "Threat. Atk/Res 1",
+    "name": "攻擊魔防的威嚇1",
+    "sp": 100,
+    "prev": ["Threaten Atk 1", "Threaten Res 1"],
+    "icon": "skillC/Threat._Atk_Res_1.png"
+  },
+  "Threat. Atk/Res 2": {
+    "id": "Threat. Atk/Res 2",
+    "name": "攻擊魔防的威嚇2",
+    "sp": 200,
+    "prev": ["Threat. Atk/Res 1"],
+    "icon": "skillC/Threat._Atk_Res_2.png"
+  },
+  "Threat. Atk/Res 3": {
+    "id": "Threat. Atk/Res 3",
+    "name": "攻擊魔防的威嚇3",
+    "sp": 300,
+    "prev": ["Threat. Atk/Res 2"],
+    "icon": "skillC/Threat._Atk_Res_3.png",
+    "last": true
+  },
+  "Threat. Spd/Def 1": {
+    "id": "Threat. Spd/Def 1",
+    "name": "攻擊速度的威嚇1",
+    "sp": 100,
+    "prev": ["Threaten Spd 1", "Threaten Def 1"],
+    "icon": "skillC/Threat._Spd_Def_1.png"
+  },
+  "Threat. Spd/Def 2": {
+    "id": "Threat. Spd/Def 2",
+    "name": "攻擊速度的威嚇2",
+    "sp": 200,
+    "prev": ["Threat. Spd/Def 1"],
+    "icon": "skillC/Threat._Spd_Def_2.png",
+    "last": true
+  },
+  "Threat. Def/Res 1": {
+    "id": "Threat. Def/Res 1",
+    "name": "防守魔防的威嚇1",
+    "sp": 100,
+    "prev": ["Threaten Def 1", "Threaten Res 1"],
+    "icon": "skillC/Threat._Def_Res_1.png"
+  },
+  "Threat. Def/Res 2": {
+    "id": "Threat. Def/Res 2",
+    "name": "防守魔防的威嚇2",
+    "sp": 200,
+    "prev": ["Threat. Def/Res 1"],
+    "icon": "skillC/Threat._Def_Res_2.png",
+    "last": true
+  },
+  "Atk/Spd Menace": {
+    "id": "Atk/Spd Menace",
+    "name": "攻擊速度的恐嚇",
+    "sp": 300,
+    "prev": ["Threat. Atk/Spd 1"],
+    "last": true,
+    "icon": "skillC/Atk_Spd_Menace.png"
+  },
+  "Atk/Def Menace": {
+    "id": "Atk/Def Menace",
+    "name": "攻擊防守的恐嚇",
+    "sp": 300,
+    "prev": ["Threat. Atk/Def 1"],
+    "last": true,
+    "icon": "skillC/Atk_Def_Menace.png"
+  },
+  "Atk/Res Menace": {
+    "id": "Atk/Res Menace",
+    "name": "攻擊魔防的恐嚇",
+    "sp": 300,
+    "prev": ["Threat. Atk/Res 1"],
+    "last": true,
+    "icon": "skillC/Atk_Res_Menace.png"
+  },
+  "Def/Res Menace": {
+    "id": "Def/Res Menace",
+    "name": "防守魔防的恐嚇",
+    "sp": 300,
+    "prev": ["Threat. Def/Res 1"],
+    "last": true,
+    "icon": "skillC/Def_Res_Menace.png"
+  },
+  "Atk Ploy 1": {
+    "id": "Atk Ploy 1",
+    "name": "攻擊謀策1",
+    "sp": 60,
+    "icon": "skillC/Atk_Ploy_1.png"
+  },
+  "Atk Ploy 2": {
+    "id": "Atk Ploy 2",
+    "name": "攻擊謀策2",
+    "sp": 120,
+    "prev": ["Atk Ploy 1"],
+    "icon": "skillC/Atk_Ploy_2.png"
+  },
+  "Atk Ploy 3": {
+    "id": "Atk Ploy 3",
+    "name": "攻擊謀策3",
+    "sp": 240,
+    "prev": ["Atk Ploy 2"],
+    "icon": "skillC/Atk_Ploy_3.png",
+    "last": true
+  },
+  "Spd Ploy 1": {
+    "id": "Spd Ploy 1",
+    "name": "速度謀策1",
+    "sp": 60,
+    "icon": "skillC/Spd_Ploy_1.png"
+  },
+  "Spd Ploy 2": {
+    "id": "Spd Ploy 2",
+    "name": "速度謀策2",
+    "sp": 120,
+    "prev": ["Spd Ploy 1"],
+    "icon": "skillC/Spd_Ploy_2.png"
+  },
+  "Spd Ploy 3": {
+    "id": "Spd Ploy 3",
+    "name": "速度謀策3",
+    "sp": 240,
+    "prev": ["Spd Ploy 2"],
+    "icon": "skillC/Spd_Ploy_3.png",
+    "last": true
+  },
+  "Def Ploy 1": {
+    "id": "Def Ploy 1",
+    "name": "防守謀策1",
+    "sp": 60,
+    "icon": "skillC/Def_Ploy_1.png"
+  },
+  "Def Ploy 2": {
+    "id": "Def Ploy 2",
+    "name": "防守謀策2",
+    "sp": 120,
+    "prev": ["Def Ploy 1"],
+    "icon": "skillC/Def_Ploy_2.png"
+  },
+  "Def Ploy 3": {
+    "id": "Def Ploy 3",
+    "name": "防守謀策3",
+    "sp": 240,
+    "prev": ["Def Ploy 2"],
+    "icon": "skillC/Def_Ploy_3.png",
+    "last": true
+  },
+  "Res Ploy 1": {
+    "id": "Res Ploy 1",
+    "name": "魔防謀策1",
+    "sp": 60,
+    "icon": "skillC/Res_Ploy_1.png"
+  },
+  "Res Ploy 2": {
+    "id": "Res Ploy 2",
+    "name": "魔防謀策2",
+    "sp": 120,
+    "prev": ["Res Ploy 1"],
+    "icon": "skillC/Res_Ploy_2.png"
+  },
+  "Res Ploy 3": {
+    "id": "Res Ploy 3",
+    "name": "魔防謀策3",
+    "sp": 240,
+    "prev": ["Res Ploy 2"],
+    "icon": "skillC/Res_Ploy_3.png",
+    "last": true
+  },
+  "Panic Ploy 1": {
+    "id": "Panic Ploy 1",
+    "name": "恐慌奇策1",
+    "sp": 60,
+    "icon": "skillC/Panic_Ploy_1.png"
+  },
+  "Panic Ploy 2": {
+    "id": "Panic Ploy 2",
+    "name": "恐慌奇策2",
+    "sp": 120,
+    "prev": ["Panic Ploy 1"],
+    "icon": "skillC/Panic_Ploy_2.png"
+  },
+  "Panic Ploy 3": {
+    "id": "Panic Ploy 3",
+    "name": "恐慌奇策3",
+    "sp": 240,
+    "prev": ["Panic Ploy 2"],
+    "icon": "skillC/Panic_Ploy_3.png",
+    "last": true
+  },
+  "Stall Ploy 1": {
+    "id": "Stall Ploy 1",
+    "name": "空轉奇策1",
+    "sp": 60,
+    "icon": "skillC/Stall_Ploy_1.png"
+  },
+  "Stall Ploy 2": {
+    "id": "Stall Ploy 2",
+    "name": "空轉奇策2",
+    "sp": 120,
+    "prev": ["Stall Ploy 1"],
+    "icon": "skillC/Stall_Ploy_2.png"
+  },
+  "Stall Ploy 3": {
+    "id": "Stall Ploy 3",
+    "name": "空轉奇策3",
+    "sp": 240,
+    "prev": ["Stall Ploy 2"],
+    "icon": "skillC/Stall_Ploy_3.png",
+    "last": true
+  },
+  "Atk Smoke 1": {
+    "id": "Atk Smoke 1",
+    "name": "攻擊紫煙1",
+    "sp": 60,
+    "rules": "not.white-staff",
+    "icon": "skillC/Atk_Smoke_1.png"
+  },
+  "Atk Smoke 2": {
+    "id": "Atk Smoke 2",
+    "name": "攻擊紫煙2",
+    "sp": 120,
+    "prev": ["Atk Smoke 1"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Atk_Smoke_2.png"
+  },
+  "Atk Smoke 3": {
+    "id": "Atk Smoke 3",
+    "name": "攻擊紫煙3",
+    "sp": 240,
+    "prev": ["Atk Smoke 2"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Atk_Smoke_3.png",
+    "last": true
+  },
+  "Spd Smoke 1": {
+    "id": "Spd Smoke 1",
+    "name": "速度紫煙1",
+    "sp": 60,
+    "rules": "not.white-staff",
+    "icon": "skillC/Spd_Smoke_1.png"
+  },
+  "Spd Smoke 2": {
+    "id": "Spd Smoke 2",
+    "name": "速度紫煙2",
+    "sp": 120,
+    "prev": ["Spd Smoke 1"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Spd_Smoke_2.png"
+  },
+  "Spd Smoke 3": {
+    "id": "Spd Smoke 3",
+    "name": "速度紫煙3",
+    "sp": 240,
+    "prev": ["Spd Smoke 2"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Spd_Smoke_3.png",
+    "last": true
+  },
+  "Def Smoke 1": {
+    "id": "Def Smoke 1",
+    "name": "防守紫煙1",
+    "sp": 60,
+    "rules": "not.white-staff",
+    "icon": "skillC/Def_Smoke_1.png"
+  },
+  "Def Smoke 2": {
+    "id": "Def Smoke 2",
+    "name": "防守紫煙2",
+    "sp": 120,
+    "prev": ["Def Smoke 1"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Def_Smoke_2.png"
+  },
+  "Def Smoke 3": {
+    "id": "Def Smoke 3",
+    "name": "防守紫煙3",
+    "sp": 240,
+    "prev": ["Def Smoke 2"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Def_Smoke_3.png",
+    "last": true
+  },
+  "Res Smoke 1": {
+    "id": "Res Smoke 1",
+    "name": "魔防紫煙1",
+    "sp": 60,
+    "rules": "not.white-staff",
+    "icon": "skillC/Res_Smoke_1.png"
+  },
+  "Res Smoke 2": {
+    "id": "Res Smoke 2",
+    "name": "魔防紫煙2",
+    "sp": 120,
+    "prev": ["Res Smoke 1"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Res_Smoke_2.png"
+  },
+  "Res Smoke 3": {
+    "id": "Res Smoke 3",
+    "name": "魔防紫煙3",
+    "sp": 240,
+    "prev": ["Res Smoke 2"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Res_Smoke_3.png",
+    "last": true
+  },
+  "Pulse Smoke 1": {
+    "id": "Pulse Smoke 1",
+    "name": "躍動的幻煙1",
+    "sp": 60,
+    "rules": "not.white-staff",
+    "icon": "skillC/Pulse_Smoke_1.png"
+  },
+  "Pulse Smoke 2": {
+    "id": "Pulse Smoke 2",
+    "name": "躍動的幻煙2",
+    "sp": 120,
+    "prev": ["Pulse Smoke 1"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Pulse_Smoke_2.png"
+  },
+  "Pulse Smoke 3": {
+    "id": "Pulse Smoke 3",
+    "name": "躍動的幻煙3",
+    "sp": 240,
+    "prev": ["Pulse Smoke 2"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Pulse_Smoke_3.png",
+    "last": true
+  },
+  "Panic Smoke 1": {
+    "id": "Panic Smoke 1",
+    "name": "恐慌的幻煙1",
+    "sp": 60,
+    "rules": "not.white-staff",
+    "icon": "skillC/Panic_Smoke_1.png"
+  },
+  "Panic Smoke 2": {
+    "id": "Panic Smoke 2",
+    "name": "恐慌的幻煙2",
+    "sp": 120,
+    "prev": ["Panic Smoke 1"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Panic_Smoke_2.png"
+  },
+  "Panic Smoke 3": {
+    "id": "Panic Smoke 3",
+    "name": "恐慌的幻煙3",
+    "sp": 240,
+    "prev": ["Panic Smoke 2"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Panic_Smoke_3.png",
+    "last": true
+  },
+  "Fatal Smoke 1": {
+    "id": "Fatal Smoke 1",
+    "name": "不治的幻煙1",
+    "sp": 60,
+    "rules": "not.white-staff",
+    "icon": "skillC/Fatal_Smoke_1.png"
+  },
+  "Fatal Smoke 2": {
+    "id": "Fatal Smoke 2",
+    "name": "不治的幻煙2",
+    "sp": 120,
+    "prev": ["Fatal Smoke 1"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Fatal_Smoke_2.png"
+  },
+  "Fatal Smoke 3": {
+    "id": "Fatal Smoke 3",
+    "name": "不治的幻煙3",
+    "sp": 240,
+    "prev": ["Fatal Smoke 2"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Fatal_Smoke_3.png",
+    "last": true
+  },
+  "Time's Pulse 1": {
+    "id": "Time's Pulse 1",
+    "name": "初始之躍動1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillC/Times_Pulse_1.png"
+  },
+  "Time's Pulse 2": {
+    "id": "Time's Pulse 2",
+    "name": "初始之躍動2",
+    "sp": 120,
+    "prev": ["Time's Pulse 1"],
+    "rules": "infantry",
+    "icon": "skillC/Times_Pulse_2.png"
+  },
+  "Time's Pulse 3": {
+    "id": "Time's Pulse 3",
+    "name": "初始之躍動3",
+    "sp": 240,
+    "prev": ["Time's Pulse 2"],
+    "rules": "infantry",
+    "icon": "skillC/Times_Pulse_3.png",
+    "last": true
+  },
+  "Infantry Pulse 1": {
+    "id": "Infantry Pulse 1",
+    "name": "步行之躍動1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Pulse_1.png"
+  },
+  "Infantry Pulse 2": {
+    "id": "Infantry Pulse 2",
+    "name": "步行之躍動2",
+    "sp": 120,
+    "prev": ["Infantry Pulse 1"],
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Pulse_2.png"
+  },
+  "Infantry Pulse 3": {
+    "id": "Infantry Pulse 3",
+    "name": "步行之躍動3",
+    "sp": 240,
+    "prev": ["Infantry Pulse 2"],
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Pulse_3.png",
+    "last": true
+  },
+  "Infantry Rush 1": {
+    "id": "Infantry Rush 1",
+    "name": "步行之剛擊1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Rush_1.png"
+  },
+  "Infantry Rush 2": {
+    "id": "Infantry Rush 2",
+    "name": "步行之剛擊2",
+    "sp": 120,
+    "prev": ["Infantry Rush 1"],
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Rush_2.png"
+  },
+  "Infantry Rush 3": {
+    "id": "Infantry Rush 3",
+    "name": "步行之剛擊3",
+    "sp": 240,
+    "prev": ["Infantry Rush 2"],
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Rush_3.png",
+    "last": true
+  },
+  "Infantry Flash 1": {
+    "id": "Infantry Flash 1",
+    "name": "步行之柔擊1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Flash_1.png"
+  },
+  "Infantry Flash 2": {
+    "id": "Infantry Flash 2",
+    "name": "步行之柔擊2",
+    "sp": 120,
+    "prev": ["Infantry Flash 1"],
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Flash_2.png"
+  },
+  "Infantry Flash 3": {
+    "id": "Infantry Flash 3",
+    "name": "步行之柔擊3",
+    "sp": 240,
+    "prev": ["Infantry Flash 2"],
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Flash_3.png",
+    "last": true
+  },
+  "Infantry Breath 1": {
+    "id": "Infantry Breath 1",
+    "name": "步行呼吸1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Breath_1.png"
+  },
+  "Infantry Breath 2": {
+    "id": "Infantry Breath 2",
+    "name": "步行呼吸2",
+    "sp": 120,
+    "prev": ["Infantry Breath 1"],
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Breath_2.png"
+  },
+  "Infantry Breath 3": {
+    "id": "Infantry Breath 3",
+    "name": "步行呼吸3",
+    "sp": 240,
+    "prev": ["Infantry Breath 2"],
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Breath_3.png",
+    "last": true
+  },
+  "Inf. Hexblade 1": {
+    "id": "Inf. Hexblade 1",
+    "name": "步行之魔刃1",
+    "sp": 60,
+    "rules": "learner.inf-hexblade",
+    "icon": "skillC/Inf._Hexblade_1.png"
+  },
+  "Inf. Hexblade 2": {
+    "id": "Inf. Hexblade 2",
+    "name": "步行之魔刃2",
+    "sp": 120,
+    "prev": ["Inf. Hexblade 1"],
+    "rules": "learner.inf-hexblade",
+    "icon": "skillC/Inf._Hexblade_2.png"
+  },
+  "Inf. Hexblade 3": {
+    "id": "Inf. Hexblade 3",
+    "name": "步行之魔刃3",
+    "sp": 240,
+    "prev": ["Inf. Hexblade 2"],
+    "rules": "learner.inf-hexblade",
+    "icon": "skillC/Inf._Hexblade_3.png",
+    "last": true
+  },
+  "Armor March 1": {
+    "id": "Armor March 1",
+    "name": "重裝備行軍1",
+    "sp": 60,
+    "rules": "armored",
+    "icon": "skillC/Armor_March_1.png"
+  },
+  "Armor March 2": {
+    "id": "Armor March 2",
+    "name": "重裝備行軍2",
+    "sp": 120,
+    "prev": ["Armor March 1"],
+    "rules": "armored",
+    "icon": "skillC/Armor_March_2.png"
+  },
+  "Armor March 3": {
+    "id": "Armor March 3",
+    "name": "重裝備行軍3",
+    "sp": 240,
+    "prev": ["Armor March 2"],
+    "rules": "armored",
+    "icon": "skillC/Armor_March_3.png",
+    "last": true
+  },
+  "Armored Stride 1": {
+    "id": "Armored Stride 1",
+    "name": "重裝備游擊1",
+    "sp": 60,
+    "rules": "learner.armored-stride",
+    "icon": "skillC/Armored_Stride_1.png"
+  },
+  "Armored Stride 2": {
+    "id": "Armored Stride 2",
+    "name": "重裝備游擊2",
+    "sp": 120,
+    "prev": ["Armored Stride 1"],
+    "rules": "learner.armored-stride",
+    "icon": "skillC/Armored_Stride_2.png"
+  },
+  "Armored Stride 3": {
+    "id": "Armored Stride 3",
+    "name": "重裝備游擊3",
+    "sp": 240,
+    "prev": ["Armored Stride 2"],
+    "rules": "learner.armored-stride",
+    "icon": "skillC/Armored_Stride_3.png",
+    "last": true
+  },
+  "A/D Near Save 1": {
+    "id": "A/D Near Save 1",
+    "name": "鎧之守護人・近處1",
+    "sp": 100,
+    "rules": "armored",
+    "icon": "skillC/A_D_Near_Save_1.png"
+  },
+  "A/D Near Save 2": {
+    "id": "A/D Near Save 2",
+    "name": "鎧之守護人・近處2",
+    "sp": 200,
+    "prev": ["A/D Near Save 1"],
+    "rules": "armored",
+    "icon": "skillC/A_D_Near_Save_2.png"
+  },
+  "A/D Near Save 3": {
+    "id": "A/D Near Save 3",
+    "name": "鎧之守護人・近處3",
+    "sp": 300,
+    "prev": ["A/D Near Save 2"],
+    "rules": "armored",
+    "icon": "skillC/A_D_Near_Save_3.png",
+    "last": true
+  },
+  "A/R Near Save 1": {
+    "id": "A/R Near Save 1",
+    "name": "冑之守護人・近處1",
+    "sp": 100,
+    "rules": "armored",
+    "icon": "skillC/A_R_Near_Save_1.png"
+  },
+  "A/R Near Save 2": {
+    "id": "A/R Near Save 2",
+    "name": "冑之守護人・近處2",
+    "sp": 200,
+    "prev": ["A/R Near Save 1"],
+    "rules": "armored",
+    "icon": "skillC/A_R_Near_Save_2.png"
+  },
+  "A/R Near Save 3": {
+    "id": "A/R Near Save 3",
+    "name": "冑之守護人・近處3",
+    "sp": 300,
+    "prev": ["A/R Near Save 2"],
+    "rules": "armored",
+    "icon": "skillC/A_R_Near_Save_3.png",
+    "last": true
+  },
+  "D/R Near Save 1": {
+    "id": "D/R Near Save 1",
+    "name": "盾之守護人・近處1",
+    "sp": 100,
+    "rules": "armored",
+    "icon": "skillC/D_R_Near_Save_1.png"
+  },
+  "D/R Near Save 2": {
+    "id": "D/R Near Save 2",
+    "name": "盾之守護人・近處2",
+    "sp": 200,
+    "prev": ["D/R Near Save 1"],
+    "rules": "armored",
+    "icon": "skillC/D_R_Near_Save_2.png"
+  },
+  "D/R Near Save 3": {
+    "id": "D/R Near Save 3",
+    "name": "盾之守護人・近處3",
+    "sp": 300,
+    "prev": ["D/R Near Save 2"],
+    "rules": "armored",
+    "icon": "skillC/D_R_Near_Save_3.png",
+    "last": true
+  },
+  "A/D Far Save 1": {
+    "id": "A/D Far Save 1",
+    "name": "鎧之守護人・遠處1",
+    "sp": 100,
+    "rules": "armored",
+    "icon": "skillC/A_D_Far_Save_1.png"
+  },
+  "A/D Far Save 2": {
+    "id": "A/D Far Save 2",
+    "name": "鎧之守護人・遠處2",
+    "sp": 200,
+    "prev": ["A/D Far Save 1"],
+    "rules": "armored",
+    "icon": "skillC/A_D_Far_Save_2.png"
+  },
+  "A/D Far Save 3": {
+    "id": "A/D Far Save 3",
+    "name": "鎧之守護人・遠處3",
+    "sp": 300,
+    "prev": ["A/D Far Save 2"],
+    "rules": "armored",
+    "icon": "skillC/A_D_Far_Save_3.png",
+    "last": true
+  },
+  "A/R Far Save 1": {
+    "id": "A/R Far Save 1",
+    "name": "冑之守護人・遠處1",
+    "sp": 100,
+    "rules": "armored",
+    "icon": "skillC/A_R_Far_Save_1.png"
+  },
+  "A/R Far Save 2": {
+    "id": "A/R Far Save 2",
+    "name": "冑之守護人・遠處2",
+    "sp": 200,
+    "prev": ["A/R Far Save 1"],
+    "rules": "armored",
+    "icon": "skillC/A_R_Far_Save_2.png"
+  },
+  "A/R Far Save 3": {
+    "id": "A/R Far Save 3",
+    "name": "冑之守護人・遠處3",
+    "sp": 300,
+    "prev": ["A/R Far Save 2"],
+    "rules": "armored",
+    "icon": "skillC/A_R_Far_Save_3.png",
+    "last": true
+  },
+  "D/R Far Save 1": {
+    "id": "D/R Far Save 1",
+    "name": "盾之守護人・遠處1",
+    "sp": 100,
+    "rules": "armored",
+    "icon": "skillC/D_R_Far_Save_1.png"
+  },
+  "D/R Far Save 2": {
+    "id": "D/R Far Save 2",
+    "name": "盾之守護人・遠處2",
+    "sp": 200,
+    "prev": ["D/R Far Save 1"],
+    "rules": "armored",
+    "icon": "skillC/D_R_Far_Save_2.png"
+  },
+  "D/R Far Save 3": {
+    "id": "D/R Far Save 3",
+    "name": "盾之守護人・遠處3",
+    "sp": 300,
+    "prev": ["D/R Far Save 2"],
+    "rules": "armored",
+    "icon": "skillC/D_R_Far_Save_3.png",
+    "last": true
+  },
+  "Guidance 1": {
+    "id": "Guidance 1",
+    "name": "空中前導1",
+    "sp": 60,
+    "rules": "flying",
+    "icon": "skillC/Guidance_1.png"
+  },
+  "Guidance 2": {
+    "id": "Guidance 2",
+    "name": "空中前導2",
+    "sp": 120,
+    "prev": ["Guidance 1"],
+    "rules": "flying",
+    "icon": "skillC/Guidance_2.png"
+  },
+  "Guidance 3": {
+    "id": "Guidance 3",
+    "name": "空中前導3",
+    "sp": 240,
+    "prev": ["Guidance 2"],
+    "rules": "flying",
+    "icon": "skillC/Guidance_3.png",
+    "last": true
+  },
+  "Flier Guidance 1": {
+    "id": "Flier Guidance 1",
+    "name": "飛行前導1",
+    "sp": 60,
+    "rules": "flying",
+    "icon": "skillC/Flier_Guidance_1.png"
+  },
+  "Flier Guidance 2": {
+    "id": "Flier Guidance 2",
+    "name": "飛行前導2",
+    "sp": 120,
+    "prev": ["Flier Guidance 1"],
+    "rules": "flying",
+    "icon": "skillC/Flier_Guidance_2.png"
+  },
+  "Flier Guidance 3": {
+    "id": "Flier Guidance 3",
+    "name": "飛行前導3",
+    "sp": 240,
+    "prev": ["Flier Guidance 2"],
+    "rules": "flying",
+    "icon": "skillC/Flier_Guidance_3.png",
+    "last": true
+  },
+  "Air Orders 1": {
+    "id": "Air Orders 1",
+    "name": "前導傳令・天1",
+    "sp": 60,
+    "rules": "flying",
+    "icon": "skillC/Air_Orders_1.png"
+  },
+  "Air Orders 2": {
+    "id": "Air Orders 2",
+    "name": "前導傳令・天2",
+    "sp": 120,
+    "prev": ["Air Orders 1"],
+    "rules": "flying",
+    "icon": "skillC/Air_Orders_2.png"
+  },
+  "Air Orders 3": {
+    "id": "Air Orders 3",
+    "name": "前導傳令・天3",
+    "sp": 240,
+    "prev": ["Air Orders 2"],
+    "rules": "flying",
+    "icon": "skillC/Air_Orders_3.png",
+    "last": true
+  },
+  "Ground Orders 1": {
+    "id": "Ground Orders 1",
+    "name": "前導傳令・地1",
+    "sp": 60,
+    "rules": "flying",
+    "icon": "skillC/Ground_Orders_1.png"
+  },
+  "Ground Orders 2": {
+    "id": "Ground Orders 2",
+    "name": "前導傳令・地2",
+    "sp": 120,
+    "prev": ["Ground Orders 1"],
+    "rules": "flying",
+    "icon": "skillC/Ground_Orders_2.png"
+  },
+  "Ground Orders 3": {
+    "id": "Ground Orders 3",
+    "name": "前導傳令・地3",
+    "sp": 240,
+    "prev": ["Ground Orders 2"],
+    "rules": "flying",
+    "icon": "skillC/Ground_Orders_3.png",
+    "last": true
+  },
+  "Odd Atk Wave 1": {
+    "id": "Odd Atk Wave 1",
+    "name": "攻擊之波・奇數1",
+    "sp": 60,
+    "icon": "skillC/Odd_Atk_Wave_1.png"
+  },
+  "Odd Atk Wave 2": {
+    "id": "Odd Atk Wave 2",
+    "name": "攻擊之波・奇數2",
+    "sp": 120,
+    "prev": ["Odd Atk Wave 1"],
+    "icon": "skillC/Odd_Atk_Wave_2.png"
+  },
+  "Odd Atk Wave 3": {
+    "id": "Odd Atk Wave 3",
+    "name": "攻擊之波・奇數3",
+    "sp": 240,
+    "prev": ["Odd Atk Wave 2"],
+    "icon": "skillC/Odd_Atk_Wave_3.png",
+    "last": true
+  },
+  "Odd Spd Wave 1": {
+    "id": "Odd Spd Wave 1",
+    "name": "速度之波・奇數1",
+    "sp": 60,
+    "icon": "skillC/Odd_Spd_Wave_1.png"
+  },
+  "Odd Spd Wave 2": {
+    "id": "Odd Spd Wave 2",
+    "name": "速度之波・奇數2",
+    "sp": 120,
+    "prev": ["Odd Spd Wave 1"],
+    "icon": "skillC/Odd_Spd_Wave_2.png"
+  },
+  "Odd Spd Wave 3": {
+    "id": "Odd Spd Wave 3",
+    "name": "速度之波・奇數3",
+    "sp": 240,
+    "prev": ["Odd Spd Wave 2"],
+    "icon": "skillC/Odd_Spd_Wave_3.png",
+    "last": true
+  },
+  "Odd Def Wave 1": {
+    "id": "Odd Def Wave 1",
+    "name": "防守之波・奇數1",
+    "sp": 60,
+    "icon": "skillC/Odd_Def_Wave_1.png"
+  },
+  "Odd Def Wave 2": {
+    "id": "Odd Def Wave 2",
+    "name": "防守之波・奇數2",
+    "sp": 120,
+    "prev": ["Odd Def Wave 1"],
+    "icon": "skillC/Odd_Def_Wave_2.png"
+  },
+  "Odd Def Wave 3": {
+    "id": "Odd Def Wave 3",
+    "name": "防守之波・奇數3",
+    "sp": 240,
+    "prev": ["Odd Def Wave 2"],
+    "icon": "skillC/Odd_Def_Wave_3.png",
+    "last": true
+  },
+  "Odd Res Wave 1": {
+    "id": "Odd Res Wave 1",
+    "name": "魔防之波・奇數1",
+    "sp": 60,
+    "icon": "skillC/Odd_Res_Wave_1.png"
+  },
+  "Odd Res Wave 2": {
+    "id": "Odd Res Wave 2",
+    "name": "魔防之波・奇數2",
+    "sp": 120,
+    "prev": ["Odd Res Wave 1"],
+    "icon": "skillC/Odd_Res_Wave_2.png"
+  },
+  "Odd Res Wave 3": {
+    "id": "Odd Res Wave 3",
+    "name": "魔防之波・奇數3",
+    "sp": 240,
+    "prev": ["Odd Res Wave 2"],
+    "icon": "skillC/Odd_Res_Wave_3.png",
+    "last": true
+  },
+  "Even Atk Wave 1": {
+    "id": "Even Atk Wave 1",
+    "name": "攻擊之波・偶數1",
+    "sp": 60,
+    "icon": "skillC/Even_Atk_Wave_1.png"
+  },
+  "Even Atk Wave 2": {
+    "id": "Even Atk Wave 2",
+    "name": "攻擊之波・偶數2",
+    "sp": 120,
+    "prev": ["Even Atk Wave 1"],
+    "icon": "skillC/Even_Atk_Wave_2.png"
+  },
+  "Even Atk Wave 3": {
+    "id": "Even Atk Wave 3",
+    "name": "攻擊之波・偶數3",
+    "sp": 240,
+    "prev": ["Even Atk Wave 2"],
+    "icon": "skillC/Even_Atk_Wave_3.png",
+    "last": true
+  },
+  "Even Spd Wave 1": {
+    "id": "Even Spd Wave 1",
+    "name": "速度之波・偶數1",
+    "sp": 60,
+    "icon": "skillC/Even_Spd_Wave_1.png"
+  },
+  "Even Spd Wave 2": {
+    "id": "Even Spd Wave 2",
+    "name": "速度之波・偶數2",
+    "sp": 120,
+    "prev": ["Even Spd Wave 1"],
+    "icon": "skillC/Even_Spd_Wave_2.png"
+  },
+  "Even Spd Wave 3": {
+    "id": "Even Spd Wave 3",
+    "name": "速度之波・偶數3",
+    "sp": 240,
+    "prev": ["Even Spd Wave 2"],
+    "icon": "skillC/Even_Spd_Wave_3.png",
+    "last": true
+  },
+  "Even Def Wave 1": {
+    "id": "Even Def Wave 1",
+    "name": "防守之波・偶數1",
+    "sp": 60,
+    "icon": "skillC/Even_Def_Wave_1.png"
+  },
+  "Even Def Wave 2": {
+    "id": "Even Def Wave 2",
+    "name": "防守之波・偶數2",
+    "sp": 120,
+    "prev": ["Even Def Wave 1"],
+    "icon": "skillC/Even_Def_Wave_2.png"
+  },
+  "Even Def Wave 3": {
+    "id": "Even Def Wave 3",
+    "name": "防守之波・偶數3",
+    "sp": 240,
+    "prev": ["Even Def Wave 2"],
+    "icon": "skillC/Even_Def_Wave_3.png",
+    "last": true
+  },
+  "Even Res Wave 1": {
+    "id": "Even Res Wave 1",
+    "name": "魔防之波・偶數1",
+    "sp": 60,
+    "icon": "skillC/Even_Res_Wave_1.png"
+  },
+  "Even Res Wave 2": {
+    "id": "Even Res Wave 2",
+    "name": "魔防之波・偶數2",
+    "sp": 120,
+    "prev": ["Even Res Wave 1"],
+    "icon": "skillC/Even_Res_Wave_2.png"
+  },
+  "Even Res Wave 3": {
+    "id": "Even Res Wave 3",
+    "name": "魔防之波・偶數3",
+    "sp": 240,
+    "prev": ["Even Res Wave 2"],
+    "icon": "skillC/Even_Res_Wave_3.png",
+    "last": true
+  },
+  "Atk Opening 1": {
+    "id": "Atk Opening 1",
+    "name": "攻擊開放1",
+    "sp": 60,
+    "icon": "skillC/Atk_Opening_1.png"
+  },
+  "Atk Opening 2": {
+    "id": "Atk Opening 2",
+    "name": "攻擊開放2",
+    "sp": 120,
+    "prev": ["Atk Opening 1"],
+    "icon": "skillC/Atk_Opening_2.png"
+  },
+  "Atk Opening 3": {
+    "id": "Atk Opening 3",
+    "name": "攻擊開放3",
+    "sp": 240,
+    "prev": ["Atk Opening 2"],
+    "icon": "skillC/Atk_Opening_3.png",
+    "last": true
+  },
+  "Spd Opening 1": {
+    "id": "Spd Opening 1",
+    "name": "速度開放1",
+    "sp": 60,
+    "icon": "skillC/Spd_Opening_1.png"
+  },
+  "Spd Opening 2": {
+    "id": "Spd Opening 2",
+    "name": "速度開放2",
+    "sp": 120,
+    "prev": ["Spd Opening 1"],
+    "icon": "skillC/Spd_Opening_2.png"
+  },
+  "Spd Opening 3": {
+    "id": "Spd Opening 3",
+    "name": "速度開放3",
+    "sp": 240,
+    "prev": ["Spd Opening 2"],
+    "icon": "skillC/Spd_Opening_3.png",
+    "last": true
+  },
+  "Def Opening 1": {
+    "id": "Def Opening 1",
+    "name": "防守開放1",
+    "sp": 60,
+    "icon": "skillC/Def_Opening_1.png"
+  },
+  "Def Opening 2": {
+    "id": "Def Opening 2",
+    "name": "防守開放2",
+    "sp": 120,
+    "prev": ["Def Opening 1"],
+    "icon": "skillC/Def_Opening_2.png"
+  },
+  "Def Opening 3": {
+    "id": "Def Opening 3",
+    "name": "防守開放3",
+    "sp": 240,
+    "prev": ["Def Opening 2"],
+    "icon": "skillC/Def_Opening_3.png",
+    "last": true
+  },
+  "Res Opening 1": {
+    "id": "Res Opening 1",
+    "name": "魔防開放1",
+    "sp": 60,
+    "icon": "skillC/Res_Opening_1.png"
+  },
+  "Res Opening 2": {
+    "id": "Res Opening 2",
+    "name": "魔防開放2",
+    "sp": 120,
+    "prev": ["Res Opening 1"],
+    "icon": "skillC/Res_Opening_2.png"
+  },
+  "Res Opening 3": {
+    "id": "Res Opening 3",
+    "name": "魔防開放3",
+    "sp": 240,
+    "prev": ["Res Opening 2"],
+    "icon": "skillC/Res_Opening_3.png",
+    "last": true
+  },
+  "Atk/Spd Gap 1": {
+    "id": "Atk/Spd Gap 1",
+    "name": "攻擊速度大開放1",
+    "sp": 60,
+    "icon": "skillC/Atk_Spd_Gap_1.png"
+  },
+  "Atk/Spd Gap 2": {
+    "id": "Atk/Spd Gap 2",
+    "name": "攻擊速度大開放2",
+    "sp": 120,
+    "prev": ["Atk/Spd Gap 1"],
+    "icon": "skillC/Atk_Spd_Gap_2.png"
+  },
+  "Atk/Spd Gap 3": {
+    "id": "Atk/Spd Gap 3",
+    "name": "攻擊速度大開放3",
+    "sp": 240,
+    "prev": ["Atk/Spd Gap 2"],
+    "icon": "skillC/Atk_Spd_Gap_3.png",
+    "last": true
+  },
+  "Atk/Def Gap 1": {
+    "id": "Atk/Def Gap 1",
+    "name": "攻擊防守大開放1",
+    "sp": 60,
+    "icon": "skillC/Atk_Def_Gap_1.png"
+  },
+  "Atk/Def Gap 2": {
+    "id": "Atk/Def Gap 2",
+    "name": "攻擊防守大開放2",
+    "sp": 120,
+    "prev": ["Atk/Def Gap 1"],
+    "icon": "skillC/Atk_Def_Gap_2.png"
+  },
+  "Atk/Def Gap 3": {
+    "id": "Atk/Def Gap 3",
+    "name": "攻擊防守大開放3",
+    "sp": 240,
+    "prev": ["Atk/Def Gap 2"],
+    "icon": "skillC/Atk_Def_Gap_3.png",
+    "last": true
+  },
+  "Atk/Res Gap 1": {
+    "id": "Atk/Res Gap 1",
+    "name": "攻擊魔防大開放1",
+    "sp": 60,
+    "icon": "skillC/Atk_Res_Gap_1.png"
+  },
+  "Atk/Res Gap 2": {
+    "id": "Atk/Res Gap 2",
+    "name": "攻擊魔防大開放2",
+    "sp": 120,
+    "prev": ["Atk/Res Gap 1"],
+    "icon": "skillC/Atk_Res_Gap_2.png"
+  },
+  "Atk/Res Gap 3": {
+    "id": "Atk/Res Gap 3",
+    "name": "攻擊魔防大開放3",
+    "sp": 240,
+    "prev": ["Atk/Res Gap 2"],
+    "icon": "skillC/Atk_Res_Gap_3.png",
+    "last": true
+  },
+  "Spd/Def Gap 1": {
+    "id": "Spd/Def Gap 1",
+    "name": "速度防守大開放1",
+    "sp": 60,
+    "icon": "skillC/Spd_Def_Gap_1.png"
+  },
+  "Spd/Def Gap 2": {
+    "id": "Spd/Def Gap 2",
+    "name": "速度防守大開放2",
+    "sp": 120,
+    "prev": ["Spd/Def Gap 1"],
+    "icon": "skillC/Spd_Def_Gap_2.png"
+  },
+  "Spd/Def Gap 3": {
+    "id": "Spd/Def Gap 3",
+    "name": "速度防守大開放3",
+    "sp": 240,
+    "prev": ["Spd/Def Gap 2"],
+    "icon": "skillC/Spd_Def_Gap_3.png",
+    "last": true
+  },
+  "Spd/Res Gap 1": {
+    "id": "Spd/Res Gap 1",
+    "name": "速度魔防大開放1",
+    "sp": 60,
+    "icon": "skillC/Spd_Res_Gap_1.png"
+  },
+  "Spd/Res Gap 2": {
+    "id": "Spd/Res Gap 2",
+    "name": "速度魔防大開放2",
+    "sp": 120,
+    "prev": ["Spd/Res Gap 1"],
+    "icon": "skillC/Spd_Res_Gap_2.png"
+  },
+  "Spd/Res Gap 3": {
+    "id": "Spd/Res Gap 3",
+    "name": "速度魔防大開放3",
+    "sp": 240,
+    "prev": ["Spd/Res Gap 2"],
+    "icon": "skillC/Spd_Res_Gap_3.png",
+    "last": true
+  },
+  "Def/Res Gap 1": {
+    "id": "Def/Res Gap 1",
+    "name": "防守魔防大開放1",
+    "sp": 60,
+    "icon": "skillC/Def_Res_Gap_1.png"
+  },
+  "Def/Res Gap 2": {
+    "id": "Def/Res Gap 2",
+    "name": "防守魔防大開放2",
+    "sp": 120,
+    "prev": ["Def/Res Gap 1"],
+    "icon": "skillC/Def_Res_Gap_2.png"
+  },
+  "Def/Res Gap 3": {
+    "id": "Def/Res Gap 3",
+    "name": "防守魔防大開放3",
+    "sp": 240,
+    "prev": ["Def/Res Gap 2"],
+    "icon": "skillC/Def_Res_Gap_3.png",
+    "last": true
+  },
+  "Rouse Atk/Spd 1": {
+    "id": "Rouse Atk/Spd 1",
+    "name": "攻擊速度的奮起1",
+    "sp": 60,
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Spd_1.png"
+  },
+  "Rouse Atk/Spd 2": {
+    "id": "Rouse Atk/Spd 2",
+    "name": "攻擊速度的奮起2",
+    "sp": 120,
+    "prev": ["Rouse Atk/Spd 1"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Spd_2.png"
+  },
+  "Rouse Atk/Spd 3": {
+    "id": "Rouse Atk/Spd 3",
+    "name": "攻擊速度的奮起3",
+    "sp": 240,
+    "prev": ["Rouse Atk/Spd 2"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Spd_3.png",
+    "last": true
+  },
+  "Rouse Atk/Spd 4": {
+    "id": "Rouse Atk/Spd 4",
+    "name": "攻擊速度的奮起4",
+    "sp": 300,
+    "prev": ["Rouse Atk/Spd 3"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Spd_4.png",
+    "last": true
+  },
+  "Rouse Atk/Def 1": {
+    "id": "Rouse Atk/Def 1",
+    "name": "攻擊防守的奮起1",
+    "sp": 60,
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Def_1.png"
+  },
+  "Rouse Atk/Def 2": {
+    "id": "Rouse Atk/Def 2",
+    "name": "攻擊防守的奮起2",
+    "sp": 120,
+    "prev": ["Rouse Atk/Def 1"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Def_2.png"
+  },
+  "Rouse Atk/Def 3": {
+    "id": "Rouse Atk/Def 3",
+    "name": "攻擊防守的奮起3",
+    "sp": 240,
+    "prev": ["Rouse Atk/Def 2"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Def_3.png",
+    "last": true
+  },
+  "Rouse Atk/Def 4": {
+    "id": "Rouse Atk/Def 4",
+    "name": "攻擊防守的奮起4",
+    "sp": 300,
+    "prev": ["Rouse Atk/Def 3"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Def_4.png",
+    "last": true
+  },
+  "Rouse Atk/Res 1": {
+    "id": "Rouse Atk/Res 1",
+    "name": "攻擊魔防的奮起1",
+    "sp": 60,
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Res_1.png"
+  },
+  "Rouse Atk/Res 2": {
+    "id": "Rouse Atk/Res 2",
+    "name": "攻擊魔防的奮起2",
+    "sp": 120,
+    "prev": ["Rouse Atk/Res 1"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Res_2.png"
+  },
+  "Rouse Atk/Res 3": {
+    "id": "Rouse Atk/Res 3",
+    "name": "攻擊魔防的奮起3",
+    "sp": 240,
+    "prev": ["Rouse Atk/Res 2"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Res_3.png",
+    "last": true
+  },
+  "Rouse Spd/Def 1": {
+    "id": "Rouse Spd/Def 1",
+    "name": "速度防守的奮起1",
+    "sp": 60,
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Spd_Def_1.png"
+  },
+  "Rouse Spd/Def 2": {
+    "id": "Rouse Spd/Def 2",
+    "name": "速度防守的奮起2",
+    "sp": 120,
+    "prev": ["Rouse Spd/Def 1"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Spd_Def_2.png"
+  },
+  "Rouse Spd/Def 3": {
+    "id": "Rouse Spd/Def 3",
+    "name": "速度防守的奮起3",
+    "sp": 240,
+    "prev": ["Rouse Spd/Def 2"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Spd_Def_3.png",
+    "last": true
+  },
+  "Rouse Spd/Def 4": {
+    "id": "Rouse Spd/Def 4",
+    "name": "速度防守的奮起4",
+    "sp": 300,
+    "prev": ["Rouse Spd/Def 3"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Spd_Def_4.png",
+    "last": true
+  },
+  "Rouse Spd/Res 1": {
+    "id": "Rouse Spd/Res 1",
+    "name": "速度魔防的奮起1",
+    "sp": 60,
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Spd_Res_1.png"
+  },
+  "Rouse Spd/Res 2": {
+    "id": "Rouse Spd/Res 2",
+    "name": "速度魔防的奮起2",
+    "sp": 120,
+    "prev": ["Rouse Spd/Res 1"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Spd_Res_2.png"
+  },
+  "Rouse Spd/Res 3": {
+    "id": "Rouse Spd/Res 3",
+    "name": "速度魔防的奮起3",
+    "sp": 240,
+    "prev": ["Rouse Spd/Res 2"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Spd_Res_3.png",
+    "last": true
+  },
+  "Rouse Def/Res 1": {
+    "id": "Rouse Def/Res 1",
+    "name": "防守魔防的奮起1",
+    "sp": 60,
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Def_Res_1.png"
+  },
+  "Rouse Def/Res 2": {
+    "id": "Rouse Def/Res 2",
+    "name": "防守魔防的奮起2",
+    "sp": 120,
+    "prev": ["Rouse Def/Res 1"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Def_Res_2.png"
+  },
+  "Rouse Def/Res 3": {
+    "id": "Rouse Def/Res 3",
+    "name": "防守魔防的奮起3",
+    "sp": 240,
+    "prev": ["Rouse Def/Res 2"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Def_Res_3.png",
+    "last": true
+  },
+  "Atk/Spd Oath 1": {
+    "id": "Atk/Spd Oath 1",
+    "name": "攻擊速度的信義1",
+    "sp": 60,
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Spd_Oath_1.png"
+  },
+  "Atk/Spd Oath 2": {
+    "id": "Atk/Spd Oath 2",
+    "name": "攻擊速度的信義2",
+    "sp": 120,
+    "prev": ["Atk/Spd Oath 1"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Spd_Oath_2.png"
+  },
+  "Atk/Spd Oath 3": {
+    "id": "Atk/Spd Oath 3",
+    "name": "攻擊速度的信義3",
+    "sp": 240,
+    "prev": ["Atk/Spd Oath 2"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Spd_Oath_3.png",
+    "last": true
+  },
+  "Atk/Def Oath 1": {
+    "id": "Atk/Def Oath 1",
+    "name": "攻擊防守的信義1",
+    "sp": 60,
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Def_Oath_1.png"
+  },
+  "Atk/Def Oath 2": {
+    "id": "Atk/Def Oath 2",
+    "name": "攻擊防守的信義2",
+    "sp": 120,
+    "prev": ["Atk/Def Oath 1"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Def_Oath_2.png"
+  },
+  "Atk/Def Oath 3": {
+    "id": "Atk/Def Oath 3",
+    "name": "攻擊防守的信義3",
+    "sp": 240,
+    "prev": ["Atk/Def Oath 2"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Def_Oath_3.png",
+    "last": true
+  },
+  "Atk/Res Oath 1": {
+    "id": "Atk/Res Oath 1",
+    "name": "攻擊魔防的信義1",
+    "sp": 60,
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Res_Oath_1.png"
+  },
+  "Atk/Res Oath 2": {
+    "id": "Atk/Res Oath 2",
+    "name": "攻擊魔防的信義2",
+    "sp": 120,
+    "prev": ["Atk/Res Oath 1"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Res_Oath_2.png"
+  },
+  "Atk/Res Oath 3": {
+    "id": "Atk/Res Oath 3",
+    "name": "攻擊魔防的信義3",
+    "sp": 240,
+    "prev": ["Atk/Res Oath 2"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Res_Oath_3.png",
+    "last": true
+  },
+  "Spd/Def Oath 1": {
+    "id": "Spd/Def Oath 1",
+    "name": "速度防守的信義1",
+    "sp": 60,
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Spd_Def_Oath_1.png"
+  },
+  "Spd/Def Oath 2": {
+    "id": "Spd/Def Oath 2",
+    "name": "速度防守的信義2",
+    "sp": 120,
+    "prev": ["Spd/Def Oath 1"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Spd_Def_Oath_2.png"
+  },
+  "Spd/Def Oath 3": {
+    "id": "Spd/Def Oath 3",
+    "name": "速度防守的信義3",
+    "sp": 240,
+    "prev": ["Spd/Def Oath 2"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Spd_Def_Oath_3.png",
+    "last": true
+  },
+  "Spd/Res Oath 1": {
+    "id": "Spd/Res Oath 1",
+    "name": "速度魔防的信義1",
+    "sp": 60,
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Spd_Res_Oath_1.png"
+  },
+  "Spd/Res Oath 2": {
+    "id": "Spd/Res Oath 2",
+    "name": "速度魔防的信義2",
+    "sp": 120,
+    "prev": ["Spd/Res Oath 1"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Spd_Res_Oath_2.png"
+  },
+  "Spd/Res Oath 3": {
+    "id": "Spd/Res Oath 3",
+    "name": "速度魔防的信義3",
+    "sp": 240,
+    "prev": ["Spd/Res Oath 2"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Spd_Res_Oath_3.png",
+    "last": true
+  },
+  "Def/Res Oath 1": {
+    "id": "Def/Res Oath 1",
+    "name": "防守魔防的信義1",
+    "sp": 60,
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Def_Res_Oath_1.png"
+  },
+  "Def/Res Oath 2": {
+    "id": "Def/Res Oath 2",
+    "name": "防守魔防的信義2",
+    "sp": 120,
+    "prev": ["Def/Res Oath 1"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Def_Res_Oath_2.png"
+  },
+  "Def/Res Oath 3": {
+    "id": "Def/Res Oath 3",
+    "name": "防守魔防的信義3",
+    "sp": 240,
+    "prev": ["Def/Res Oath 2"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Def_Res_Oath_3.png",
+    "last": true
+  },
+  "Odd Tempest 1": {
+    "id": "Odd Tempest 1",
+    "name": "迅雷風烈・奇數1",
+    "sp": 60,
+    "rules": "learner.tempest",
+    "icon": "skillC/Odd_Tempest_1.png"
+  },
+  "Odd Tempest 2": {
+    "id": "Odd Tempest 2",
+    "name": "迅雷風烈・奇數2",
+    "sp": 120,
+    "prev": ["Odd Tempest 1"],
+    "rules": "learner.tempest",
+    "icon": "skillC/Odd_Tempest_2.png"
+  },
+  "Odd Tempest 3": {
+    "id": "Odd Tempest 3",
+    "name": "迅雷風烈・奇數3",
+    "sp": 240,
+    "prev": ["Odd Tempest 2"],
+    "rules": "learner.tempest",
+    "icon": "skillC/Odd_Tempest_3.png",
+    "last": true
+  },
+  "Even Tempest 1": {
+    "id": "Even Tempest 1",
+    "name": "迅雷風烈・偶數1",
+    "sp": 60,
+    "rules": "learner.tempest",
+    "icon": "skillC/Even_Tempest_1.png"
+  },
+  "Even Tempest 2": {
+    "id": "Even Tempest 2",
+    "name": "迅雷風烈・偶數2",
+    "sp": 120,
+    "prev": ["Even Tempest 1"],
+    "rules": "learner.tempest",
+    "icon": "skillC/Even_Tempest_2.png"
+  },
+  "Even Tempest 3": {
+    "id": "Even Tempest 3",
+    "name": "迅雷風烈・偶數3",
+    "sp": 240,
+    "prev": ["Even Tempest 2"],
+    "rules": "learner.tempest",
+    "icon": "skillC/Even_Tempest_3.png",
+    "last": true
+  },
+  "Odd Recovery 1": {
+    "id": "Odd Recovery 1",
+    "name": "痊癒・奇數1",
+    "sp": 60,
+    "rules": "white-staff",
+    "icon": "skillC/Odd_Recovery_1.png"
+  },
+  "Odd Recovery 2": {
+    "id": "Odd Recovery 2",
+    "name": "痊癒・奇數2",
+    "sp": 120,
+    "prev": ["Odd Recovery 1"],
+    "rules": "white-staff",
+    "icon": "skillC/Odd_Recovery_2.png"
+  },
+  "Odd Recovery 3": {
+    "id": "Odd Recovery 3",
+    "name": "痊癒・奇數3",
+    "sp": 240,
+    "prev": ["Odd Recovery 2"],
+    "rules": "white-staff",
+    "icon": "skillC/Odd_Recovery_3.png",
+    "last": true
+  },
+  "Even Recovery 1": {
+    "id": "Even Recovery 1",
+    "name": "痊癒・偶數1",
+    "sp": 60,
+    "rules": "white-staff",
+    "icon": "skillC/Even_Recovery_1.png"
+  },
+  "Even Recovery 2": {
+    "id": "Even Recovery 2",
+    "name": "痊癒・偶數2",
+    "sp": 120,
+    "prev": ["Even Recovery 1"],
+    "rules": "white-staff",
+    "icon": "skillC/Even_Recovery_2.png"
+  },
+  "Even Recovery 3": {
+    "id": "Even Recovery 3",
+    "name": "痊癒・偶數3",
+    "sp": 240,
+    "prev": ["Even Recovery 2"],
+    "rules": "white-staff",
+    "icon": "skillC/Even_Recovery_3.png",
+    "last": true
+  },
+  "Red Feud 1": {
+    "id": "Red Feud 1",
+    "name": "對赤的暗鬥1",
+    "sp": 60,
+    "rules": "not.green",
+    "icon": "skillC/Red_Feud_1.png"
+  },
+  "Red Feud 2": {
+    "id": "Red Feud 2",
+    "name": "對赤的暗鬥2",
+    "sp": 120,
+    "prev": ["Red Feud 1"],
+    "rules": "not.green",
+    "icon": "skillC/Red_Feud_2.png"
+  },
+  "Red Feud 3": {
+    "id": "Red Feud 3",
+    "name": "對赤的暗鬥3",
+    "sp": 240,
+    "prev": ["Red Feud 2"],
+    "rules": "not.green",
+    "icon": "skillC/Red_Feud_3.png",
+    "last": true
+  },
+  "Green Feud 1": {
+    "id": "Green Feud 1",
+    "name": "對綠的暗鬥1",
+    "sp": 60,
+    "icon": "skillC/Green_Feud_1.png"
+  },
+  "Green Feud 2": {
+    "id": "Green Feud 2",
+    "name": "對綠的暗鬥2",
+    "sp": 120,
+    "prev": ["Green Feud 1"],
+    "icon": "skillC/Green_Feud_2.png"
+  },
+  "Green Feud 3": {
+    "id": "Green Feud 3",
+    "name": "對綠的暗鬥3",
+    "sp": 240,
+    "prev": ["Green Feud 2"],
+    "icon": "skillC/Green_Feud_3.png",
+    "last": true
+  },
+  "C Feud 1": {
+    "id": "C Feud 1",
+    "name": "對無的暗鬥1",
+    "sp": 60,
+    "icon": "skillC/C_Feud_1.png"
+  },
+  "C Feud 2": {
+    "id": "C Feud 2",
+    "name": "對無的暗鬥2",
+    "sp": 120,
+    "prev": ["C Feud 1"],
+    "icon": "skillC/C_Feud_2.png"
+  },
+  "C Feud 3": {
+    "id": "C Feud 3",
+    "name": "對無的暗鬥3",
+    "sp": 240,
+    "prev": ["C Feud 2"],
+    "icon": "skillC/C_Feud_3.png",
+    "last": true
+  },
+  "Sword Exp. 1": {
+    "id": "Sword Exp. 1",
+    "name": "劍之經驗1",
+    "sp": 30,
+    "rules": "red-sword",
+    "icon": "skillC/Sword_Exp._1.png"
+  },
+  "Sword Exp. 2": {
+    "id": "Sword Exp. 2",
+    "name": "劍之經驗2",
+    "sp": 60,
+    "prev": ["Sword Exp. 1"],
+    "rules": "red-sword",
+    "icon": "skillC/Sword_Exp._2.png"
+  },
+  "Sword Exp. 3": {
+    "id": "Sword Exp. 3",
+    "name": "劍之經驗3",
+    "sp": 120,
+    "prev": ["Sword Exp. 2"],
+    "rules": "red-sword",
+    "icon": "skillC/Sword_Exp._3.png",
+    "last": true
+  },
+  "Lance Exp. 1": {
+    "id": "Lance Exp. 1",
+    "name": "槍之經驗1",
+    "sp": 30,
+    "rules": "blue-lance",
+    "icon": "skillC/Lance_Exp._1.png"
+  },
+  "Lance Exp. 2": {
+    "id": "Lance Exp. 2",
+    "name": "槍之經驗2",
+    "sp": 60,
+    "prev": ["Lance Exp. 1"],
+    "rules": "blue-lance",
+    "icon": "skillC/Lance_Exp._2.png"
+  },
+  "Lance Exp. 3": {
+    "id": "Lance Exp. 3",
+    "name": "槍之經驗3",
+    "sp": 120,
+    "prev": ["Lance Exp. 2"],
+    "rules": "blue-lance",
+    "icon": "skillC/Lance_Exp._3.png",
+    "last": true
+  },
+  "Axe Exp. 1": {
+    "id": "Axe Exp. 1",
+    "name": "斧之經驗1",
+    "sp": 30,
+    "rules": "green-axe",
+    "icon": "skillC/Axe_Experience_1.png"
+  },
+  "Axe Exp. 2": {
+    "id": "Axe Exp. 2",
+    "name": "斧之經驗2",
+    "sp": 60,
+    "prev": ["Axe Exp. 1"],
+    "rules": "green-axe",
+    "icon": "skillC/Axe_Experience_2.png"
+  },
+  "Axe Exp. 3": {
+    "id": "Axe Exp. 3",
+    "name": "斧之經驗3",
+    "sp": 120,
+    "prev": ["Axe Exp. 2"],
+    "rules": "green-axe",
+    "icon": "skillC/Axe_Experience_3.png",
+    "last": true
+  },
+  "Bow Exp. 1": {
+    "id": "Bow Exp. 1",
+    "name": "弓之經驗1",
+    "sp": 30,
+    "rules": "bow",
+    "icon": "skillC/Bow_Exp._1.png"
+  },
+  "Bow Exp. 2": {
+    "id": "Bow Exp. 2",
+    "name": "弓之經驗2",
+    "sp": 60,
+    "prev": ["Bow Exp. 1"],
+    "rules": "bow",
+    "icon": "skillC/Bow_Exp._2.png"
+  },
+  "Bow Exp. 3": {
+    "id": "Bow Exp. 3",
+    "name": "弓之經驗3",
+    "sp": 120,
+    "prev": ["Bow Exp. 2"],
+    "rules": "bow",
+    "icon": "skillC/Bow_Exp._3.png",
+    "last": true
+  },
+  "Dagger Exp. 1": {
+    "id": "Dagger Exp. 1",
+    "name": "暗器之經驗1",
+    "sp": 30,
+    "rules": "dagger",
+    "icon": "skillC/Dagger_Exp._1.png"
+  },
+  "Dagger Exp. 2": {
+    "id": "Dagger Exp. 2",
+    "name": "暗器之經驗2",
+    "sp": 60,
+    "prev": ["Dagger Exp. 1"],
+    "rules": "dagger",
+    "icon": "skillC/Dagger_Exp._2.png"
+  },
+  "Dagger Exp. 3": {
+    "id": "Dagger Exp. 3",
+    "name": "暗器之經驗3",
+    "sp": 120,
+    "prev": ["Dagger Exp. 2"],
+    "rules": "dagger",
+    "icon": "skillC/Dagger_Exp._3.png",
+    "last": true
+  },
+  "R Tome Exp. 1": {
+    "id": "R Tome Exp. 1",
+    "name": "赤魔之經驗1",
+    "sp": 30,
+    "rules": "red-tome",
+    "icon": "skillC/R_Tome_Exp._1.png"
+  },
+  "R Tome Exp. 2": {
+    "id": "R Tome Exp. 2",
+    "name": "赤魔之經驗2",
+    "sp": 60,
+    "prev": ["R Tome Exp. 1"],
+    "rules": "red-tome",
+    "icon": "skillC/R_Tome_Exp._2.png"
+  },
+  "R Tome Exp. 3": {
+    "id": "R Tome Exp. 3",
+    "name": "赤魔之經驗3",
+    "sp": 120,
+    "prev": ["R Tome Exp. 2"],
+    "rules": "red-tome",
+    "icon": "skillC/R_Tome_Exp._3.png",
+    "last": true
+  },
+  "B Tome Exp. 1": {
+    "id": "B Tome Exp. 1",
+    "name": "青魔之經驗1",
+    "sp": 30,
+    "rules": "blue-tome",
+    "icon": "skillC/B_Tome_Exp._1.png"
+  },
+  "B Tome Exp. 2": {
+    "id": "B Tome Exp. 2",
+    "name": "青魔之經驗2",
+    "sp": 60,
+    "prev": ["B Tome Exp. 1"],
+    "rules": "blue-tome",
+    "icon": "skillC/B_Tome_Exp._2.png"
+  },
+  "B Tome Exp. 3": {
+    "id": "B Tome Exp. 3",
+    "name": "青魔之經驗3",
+    "sp": 120,
+    "prev": ["B Tome Exp. 2"],
+    "rules": "blue-tome",
+    "icon": "skillC/B_Tome_Exp._3.png",
+    "last": true
+  },
+  "G Tome Exp. 1": {
+    "id": "G Tome Exp. 1",
+    "name": "綠魔之經驗1",
+    "sp": 30,
+    "rules": "green-tome",
+    "icon": "skillC/G_Tome_Exp._1.png"
+  },
+  "G Tome Exp. 2": {
+    "id": "G Tome Exp. 2",
+    "name": "綠魔之經驗2",
+    "sp": 60,
+    "prev": ["G Tome Exp. 1"],
+    "rules": "green-tome",
+    "icon": "skillC/G_Tome_Exp._2.png"
+  },
+  "G Tome Exp. 3": {
+    "id": "G Tome Exp. 3",
+    "name": "綠魔之經驗3",
+    "sp": 120,
+    "prev": ["G Tome Exp. 2"],
+    "rules": "green-tome",
+    "icon": "skillC/G_Tome_Exp._3.png",
+    "last": true
+  },
+  "Staff Exp. 1": {
+    "id": "Staff Exp. 1",
+    "name": "杖之經驗1",
+    "sp": 30,
+    "rules": "white-staff",
+    "icon": "skillC/Staff_Exp._1.png"
+  },
+  "Staff Exp. 2": {
+    "id": "Staff Exp. 2",
+    "name": "杖之經驗2",
+    "sp": 60,
+    "prev": ["Staff Exp. 1"],
+    "rules": "white-staff",
+    "icon": "skillC/Staff_Exp._2.png"
+  },
+  "Staff Exp. 3": {
+    "id": "Staff Exp. 3",
+    "name": "杖之經驗3",
+    "sp": 120,
+    "prev": ["Staff Exp. 2"],
+    "rules": "white-staff",
+    "icon": "skillC/Staff_Exp._3.png",
+    "last": true
+  },
+  "Dragon Exp. 1": {
+    "id": "Dragon Exp. 1",
+    "name": "龍之經驗1",
+    "sp": 30,
+    "rules": "dragon",
+    "icon": "skillC/Dragon_Exp._1.png"
+  },
+  "Dragon Exp. 2": {
+    "id": "Dragon Exp. 2",
+    "name": "龍之經驗2",
+    "sp": 60,
+    "prev": ["Dragon Exp. 1"],
+    "rules": "dragon",
+    "icon": "skillC/Dragon_Exp._2.png"
+  },
+  "Dragon Exp. 3": {
+    "id": "Dragon Exp. 3",
+    "name": "龍之經驗3",
+    "sp": 120,
+    "prev": ["Dragon Exp. 2"],
+    "rules": "dragon",
+    "icon": "skillC/Dragon_Exp._3.png",
+    "last": true
+  },
+  "Beast Exp. 1": {
+    "id": "Beast Exp. 1",
+    "name": "獸之經驗1",
+    "sp": 30,
+    "rules": "beast",
+    "icon": "skillC/Beast_Exp._1.png"
+  },
+  "Beast Exp. 2": {
+    "id": "Beast Exp. 2",
+    "name": "獸之經驗2",
+    "sp": 60,
+    "prev": ["Beast Exp. 1"],
+    "rules": "beast",
+    "icon": "skillC/Beast_Exp._2.png"
+  },
+  "Beast Exp. 3": {
+    "id": "Beast Exp. 3",
+    "name": "獸之經驗3",
+    "sp": 120,
+    "prev": ["Beast Exp. 2"],
+    "rules": "beast",
+    "icon": "skillC/Beast_Exp._3.png",
+    "last": true
+  },
+  "Sword Valor 1": {
+    "id": "Sword Valor 1",
+    "name": "劍之技巧1",
+    "sp": 30,
+    "rules": "red-sword",
+    "icon": "skillC/Sword_Valor_1.png"
+  },
+  "Sword Valor 2": {
+    "id": "Sword Valor 2",
+    "name": "劍之技巧2",
+    "sp": 60,
+    "prev": ["Sword Valor 1"],
+    "rules": "red-sword",
+    "icon": "skillC/Sword_Valor_2.png"
+  },
+  "Sword Valor 3": {
+    "id": "Sword Valor 3",
+    "name": "劍之技巧3",
+    "sp": 120,
+    "prev": ["Sword Valor 2"],
+    "rules": "red-sword",
+    "icon": "skillC/Sword_Valor_3.png",
+    "last": true
+  },
+  "Lance Valor 1": {
+    "id": "Lance Valor 1",
+    "name": "槍之技巧1",
+    "sp": 30,
+    "rules": "blue-lance",
+    "icon": "skillC/Lance_Valor_1.png"
+  },
+  "Lance Valor 2": {
+    "id": "Lance Valor 2",
+    "name": "槍之技巧2",
+    "sp": 60,
+    "prev": ["Lance Valor 1"],
+    "rules": "blue-lance",
+    "icon": "skillC/Lance_Valor_2.png"
+  },
+  "Lance Valor 3": {
+    "id": "Lance Valor 3",
+    "name": "槍之技巧3",
+    "sp": 120,
+    "prev": ["Lance Valor 2"],
+    "rules": "blue-lance",
+    "icon": "skillC/Lance_Valor_3.png",
+    "last": true
+  },
+  "Axe Valor 1": {
+    "id": "Axe Valor 1",
+    "name": "斧之技巧1",
+    "sp": 30,
+    "rules": "green-axe",
+    "icon": "skillC/Axe_Valor_1.png"
+  },
+  "Axe Valor 2": {
+    "id": "Axe Valor 2",
+    "name": "斧之技巧2",
+    "sp": 60,
+    "prev": ["Axe Valor 1"],
+    "rules": "green-axe",
+    "icon": "skillC/Axe_Valor_2.png"
+  },
+  "Axe Valor 3": {
+    "id": "Axe Valor 3",
+    "name": "斧之技巧3",
+    "sp": 120,
+    "prev": ["Axe Valor 2"],
+    "rules": "green-axe",
+    "icon": "skillC/Axe_Valor_3.png",
+    "last": true
+  },
+  "Bow Valor 1": {
+    "id": "Bow Valor 1",
+    "name": "弓之技巧1",
+    "sp": 30,
+    "rules": "bow",
+    "icon": "skillC/Bow_Valor_1.png"
+  },
+  "Bow Valor 2": {
+    "id": "Bow Valor 2",
+    "name": "弓之技巧2",
+    "sp": 60,
+    "prev": ["Bow Valor 1"],
+    "rules": "bow",
+    "icon": "skillC/Bow_Valor_2.png"
+  },
+  "Bow Valor 3": {
+    "id": "Bow Valor 3",
+    "name": "弓之技巧3",
+    "sp": 120,
+    "prev": ["Bow Valor 2"],
+    "rules": "bow",
+    "icon": "skillC/Bow_Valor_3.png",
+    "last": true
+  },
+  "Dagger Valor 1": {
+    "id": "Dagger Valor 1",
+    "name": "暗器之技巧1",
+    "sp": 30,
+    "rules": "dagger",
+    "icon": "skillC/Dagger_Valor_1.png"
+  },
+  "Dagger Valor 2": {
+    "id": "Dagger Valor 2",
+    "name": "暗器之技巧2",
+    "sp": 60,
+    "prev": ["Dagger Valor 1"],
+    "rules": "dagger",
+    "icon": "skillC/Dagger_Valor_2.png"
+  },
+  "Dagger Valor 3": {
+    "id": "Dagger Valor 3",
+    "name": "暗器之技巧3",
+    "sp": 120,
+    "prev": ["Dagger Valor 2"],
+    "rules": "dagger",
+    "icon": "skillC/Dagger_Valor_3.png",
+    "last": true
+  },
+  "R Tome Valor 1": {
+    "id": "R Tome Valor 1",
+    "name": "赤魔之技巧1",
+    "sp": 30,
+    "rules": "red-tome",
+    "icon": "skillC/R_Tome_Valor_1.png"
+  },
+  "R Tome Valor 2": {
+    "id": "R Tome Valor 2",
+    "name": "赤魔之技巧2",
+    "sp": 60,
+    "prev": ["R Tome Valor 1"],
+    "rules": "red-tome",
+    "icon": "skillC/R_Tome_Valor_2.png"
+  },
+  "R Tome Valor 3": {
+    "id": "R Tome Valor 3",
+    "name": "赤魔之技巧3",
+    "sp": 120,
+    "prev": ["R Tome Valor 2"],
+    "rules": "red-tome",
+    "icon": "skillC/R_Tome_Valor_3.png",
+    "last": true
+  },
+  "B Tome Valor 1": {
+    "id": "B Tome Valor 1",
+    "name": "青魔之技巧1",
+    "sp": 30,
+    "rules": "blue-tome",
+    "icon": "skillC/B_Tome_Valor_1.png"
+  },
+  "B Tome Valor 2": {
+    "id": "B Tome Valor 2",
+    "name": "青魔之技巧2",
+    "sp": 60,
+    "prev": ["B Tome Valor 1"],
+    "rules": "blue-tome",
+    "icon": "skillC/B_Tome_Valor_2.png"
+  },
+  "B Tome Valor 3": {
+    "id": "B Tome Valor 3",
+    "name": "青魔之技巧3",
+    "sp": 120,
+    "prev": ["B Tome Valor 2"],
+    "rules": "blue-tome",
+    "icon": "skillC/B_Tome_Valor_3.png",
+    "last": true
+  },
+  "G Tome Valor 1": {
+    "id": "G Tome Valor 1",
+    "name": "綠魔之技巧1",
+    "sp": 30,
+    "rules": "green-tome",
+    "icon": "skillC/G_Tome_Valor_1.png"
+  },
+  "G Tome Valor 2": {
+    "id": "G Tome Valor 2",
+    "name": "綠魔之技巧2",
+    "sp": 60,
+    "prev": ["G Tome Valor 1"],
+    "rules": "green-tome",
+    "icon": "skillC/G_Tome_Valor_2.png"
+  },
+  "G Tome Valor 3": {
+    "id": "G Tome Valor 3",
+    "name": "綠魔之技巧3",
+    "sp": 120,
+    "prev": ["G Tome Valor 2"],
+    "rules": "green-tome",
+    "icon": "skillC/G_Tome_Valor_3.png",
+    "last": true
+  },
+  "Staff Valor 1": {
+    "id": "Staff Valor 1",
+    "name": "杖之技巧1",
+    "sp": 30,
+    "rules": "white-staff",
+    "icon": "skillC/Staff_Valor_1.png"
+  },
+  "Staff Valor 2": {
+    "id": "Staff Valor 2",
+    "name": "杖之技巧2",
+    "sp": 60,
+    "prev": ["Staff Valor 1"],
+    "rules": "white-staff",
+    "icon": "skillC/Staff_Valor_2.png"
+  },
+  "Staff Valor 3": {
+    "id": "Staff Valor 3",
+    "name": "杖之技巧3",
+    "sp": 120,
+    "prev": ["Staff Valor 2"],
+    "rules": "white-staff",
+    "icon": "skillC/Staff_Valor_3.png",
+    "last": true
+  },
+  "Dragon Valor 1": {
+    "id": "Dragon Valor 1",
+    "name": "龍之技巧1",
+    "sp": 30,
+    "rules": "dragon",
+    "icon": "skillC/Dragon_Valor_1.png"
+  },
+  "Dragon Valor 2": {
+    "id": "Dragon Valor 2",
+    "name": "龍之技巧2",
+    "sp": 60,
+    "prev": ["Dragon Valor 1"],
+    "rules": "dragon",
+    "icon": "skillC/Dragon_Valor_2.png"
+  },
+  "Dragon Valor 3": {
+    "id": "Dragon Valor 3",
+    "name": "龍之技巧3",
+    "sp": 120,
+    "prev": ["Dragon Valor 2"],
+    "rules": "dragon",
+    "icon": "skillC/Dragon_Valor_3.png",
+    "last": true
+  },
+  "Beast Valor 1": {
+    "id": "Beast Valor 1",
+    "name": "獸之技巧1",
+    "sp": 30,
+    "rules": "beast",
+    "icon": "skillC/Beast_Valor_1.png"
+  },
+  "Beast Valor 2": {
+    "id": "Beast Valor 2",
+    "name": "獸之技巧2",
+    "sp": 60,
+    "prev": ["Beast Valor 1"],
+    "rules": "beast",
+    "icon": "skillC/Beast_Valor_2.png"
+  },
+  "Beast Valor 3": {
+    "id": "Beast Valor 3",
+    "name": "獸之技巧3",
+    "sp": 120,
+    "prev": ["Beast Valor 2"],
+    "rules": "beast",
+    "icon": "skillC/Beast_Valor_3.png",
+    "last": true
+  }
+}

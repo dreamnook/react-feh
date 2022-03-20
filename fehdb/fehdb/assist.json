@@ -1,0 +1,632 @@
+{
+  "Sacrifice": {
+    "id": "Sacrifice",
+    "name": "治療之手",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Ardent Sacrifice"],
+    "exclusive": [
+      "Micaiah - Priestess of Dawn",
+      "Micaiah - Queen of Dawn",
+      "Micaiah - Dawn Wind's Duo"
+    ],
+    "last": true
+  },
+  "Future Vision II": {
+    "id": "Future Vision II",
+    "name": "映照未來的眼眸・承",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Future Vision"],
+    "exclusive": ["Lucina - Glorious Archer"],
+    "last": true
+  },
+  "Future Vision": {
+    "id": "Future Vision",
+    "name": "映照未來的眼眸",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Swap"],
+    "exclusive": ["Lucina - Glorious Archer", "Lucina - Future Fondness"],
+    "last": true
+  },
+  "Gray Waves II": {
+    "id": "Gray Waves II",
+    "name": "悠悠搖曳・承",
+    "sp": 400,
+    "prev": ["Gray Waves"],
+    "exclusive": ["Azura - Vallite Songstress"],
+    "last": true
+  },
+  "Gray Waves": {
+    "id": "Gray Waves",
+    "name": "悠悠搖曳",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Sing"],
+    "exclusive": ["Azura - Vallite Songstress", "Azura - Hatari Duet"],
+    "last": true
+  },
+  "Gentle Dream": {
+    "id": "Gentle Dream",
+    "name": "溫柔的夢",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Dance"],
+    "exclusive": ["Peony - Sweet Dream", "Peony - Álfar Dream Duo"],
+    "last": true
+  },
+  "To Change Fate!": {
+    "id": "To Change Fate!",
+    "name": "我要改變命運！",
+    "sp": 500,
+    "range": 1,
+    "prev": ["Reposition"],
+    "exclusive": ["Chrom - Crowned Exalt", "Chrom - Fate-Defying Duo"],
+    "last": true
+  },
+  "Whimsical Dream": {
+    "id": "Whimsical Dream",
+    "name": "白色夢境",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Dance"],
+    "exclusive": ["Mirabilis - Daydream", "Mirabilis - Sugarplum Vision"],
+    "last": true
+  },
+  "Dance": {
+    "id": "Dance",
+    "name": "起舞",
+    "sp": 150,
+    "range": 1,
+    "exclusive": [
+      "Silvia - Traveling Dancer",
+      "Lene - Yearning Dancer",
+      "Ninian - Oracle of Destiny",
+      "Ninian - Bright-Eyed Bride",
+      "Micaiah - Summer's Dawn",
+      "Elincia - Estival Princess",
+      "Olivia - Blushing Beauty",
+      "Olivia - Festival Dancer",
+      "Olivia - Sky-High Dancer",
+      "Inigo - Indigo Dancer",
+      "Ryoma - Dancing Samurai",
+      "Xander - Dancing Knight",
+      "Phina - Roving Dancer",
+      "Berkut - Debonair Noble",
+      "Rinea - Reminiscent Belle",
+      "Reinhardt - Lightning's Rondo",
+      "Ishtar - Thunder's Waltz",
+      "Nephenee - Sincere Dancer",
+      "Tethys - Beloved Dancer",
+      "Larum - Sprightly Dancer",
+      "Peony - Sweet Dream",
+      "Mirabilis - Daydream",
+      "Dorothea - Solar Songstress",
+      "Sigurd - Destined Duo",
+      "Quan - Lightfoot Prince",
+      "Ethlyn - Glimmering Lady",
+      "Eldigan - Strutting Lion",
+      "Lachesis - Ballroom Bloom",
+      "Plumeria - Lewd Dream",
+      "Triandra - Nightmare",
+      "Peony - Álfar Dream Duo",
+      "Plumeria - Temptation Anew",
+      "Dorothea - Twilit Harmony",
+      "Mirabilis - Sugarplum Vision"
+    ],
+    "last": true
+  },
+  "Sing": {
+    "id": "Sing",
+    "name": "歌唱",
+    "sp": 150,
+    "range": 1,
+    "exclusive": [
+      "Azura - Lady of the Lake",
+      "Azura - Lady of Ballads",
+      "Shigure - Dark Sky Singer",
+      "Azura - Celebratory Spirit",
+      "Azura - Young Songstress",
+      "Azura - Vallite Songstress",
+      "Reyson - White Prince",
+      "Leanne - Forest's Song",
+      "Rafiel - Blessed Wings",
+      "Azura - Hatari Duet"
+    ],
+    "last": true
+  },
+  "Play": {
+    "id": "Play",
+    "name": "奏樂",
+    "sp": 150,
+    "range": 1,
+    "exclusive": ["Nils - Bright Bard"],
+    "last": true
+  },
+  "Sweet Dreams": {
+    "id": "Sweet Dreams",
+    "name": "甜蜜夢境",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Dance"],
+    "exclusive": ["Plumeria - Lewd Dream", "Plumeria - Temptation Anew"],
+    "last": true
+  },
+  "Frightful Dream": {
+    "id": "Frightful Dream",
+    "name": "可怕的夢",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Dance"],
+    "exclusive": ["Triandra - Nightmare"],
+    "last": true
+  },
+  "Maiden's Solace": {
+    "id": "Maiden's Solace",
+    "name": "治癒少女",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Ardent Sacrifice"],
+    "exclusive": ["Micaiah - Radiant Queen"],
+    "last": true
+  },
+  "Foul Play": {
+    "id": "Foul Play",
+    "name": "把戲",
+    "sp": 150,
+    "range": 1,
+    "prev": ["Swap"],
+    "exclusive": ["Yuri - Ashen Valiant"],
+    "last": true
+  },
+  "Heal": {
+    "id": "Heal",
+    "name": "聖療",
+    "sp": 0,
+    "range": 1,
+    "rules": "white-staff"
+  },
+  "Mend": {
+    "id": "Mend",
+    "name": "大聖療",
+    "sp": 100,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Heal"]
+  },
+  "Physic": {
+    "id": "Physic",
+    "name": "遠程聖療",
+    "sp": 200,
+    "range": 2,
+    "rules": "white-staff",
+    "prev": ["Mend"]
+  },
+  "Physic+": {
+    "id": "Physic+",
+    "name": "遠程聖療+",
+    "sp": 300,
+    "range": 2,
+    "rules": "white-staff",
+    "prev": ["Physic"],
+    "last": true
+  },
+  "Recover": {
+    "id": "Recover",
+    "name": "聖癒",
+    "cd": 1,
+    "sp": 200,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Mend"]
+  },
+  "Recover+": {
+    "id": "Recover+",
+    "name": "聖癒+",
+    "sp": 300,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Recover"],
+    "last": true
+  },
+  "Reconcile": {
+    "id": "Reconcile",
+    "name": "治療",
+    "sp": 100,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Heal"]
+  },
+  "Martyr": {
+    "id": "Martyr",
+    "name": "殉教",
+    "cd": 1,
+    "sp": 200,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Reconcile"]
+  },
+  "Martyr+": {
+    "id": "Martyr+",
+    "name": "殉教+",
+    "sp": 300,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Martyr"],
+    "last": true
+  },
+  "Rehabilitate": {
+    "id": "Rehabilitate",
+    "name": "重生",
+    "cd": 1,
+    "sp": 200,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Reconcile"]
+  },
+  "Rehabilitate+": {
+    "id": "Rehabilitate+",
+    "name": "重生+",
+    "sp": 300,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Rehabilitate"],
+    "last": true
+  },
+  "Restore": {
+    "id": "Restore",
+    "name": "休息",
+    "sp": 200,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Reconcile"]
+  },
+  "Restore+": {
+    "id": "Restore+",
+    "name": "休息+",
+    "sp": 300,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Restore"],
+    "last": true
+  },
+  "Rescue": {
+    "id": "Rescue",
+    "name": "救援",
+    "cd": 1,
+    "sp": 200,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Reconcile"]
+  },
+  "Rescue+": {
+    "id": "Rescue+",
+    "name": "救援+",
+    "sp": 300,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Rescue"],
+    "last": true
+  },
+  "Return": {
+    "id": "Return",
+    "name": "回歸",
+    "cd": 1,
+    "sp": 200,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Reconcile"]
+  },
+  "Return+": {
+    "id": "Return+",
+    "name": "回歸+",
+    "sp": 300,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Return"],
+    "last": true
+  },
+  "Nudge": {
+    "id": "Nudge",
+    "name": "推離",
+    "cd": 1,
+    "sp": 200,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Reconcile"]
+  },
+  "Nudge+": {
+    "id": "Nudge+",
+    "name": "推離+",
+    "sp": 300,
+    "range": 1,
+    "rules": "white-staff",
+    "prev": ["Nudge"],
+    "last": true
+  },
+  "Swap": {
+    "id": "Swap",
+    "name": "替換",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff",
+    "last": true
+  },
+  "Shove": {
+    "id": "Shove",
+    "name": "衝撞",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff",
+    "last": true
+  },
+  "Smite": {
+    "id": "Smite",
+    "name": "重擊",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff",
+    "last": true
+  },
+  "Draw Back": {
+    "id": "Draw Back",
+    "name": "拉近",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff",
+    "last": true
+  },
+  "Reposition": {
+    "id": "Reposition",
+    "name": "帶回",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff",
+    "last": true
+  },
+  "Pivot": {
+    "id": "Pivot",
+    "name": "迂迴",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff",
+    "last": true
+  },
+  "Rally Attack": {
+    "id": "Rally Attack",
+    "name": "攻擊支援",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff"
+  },
+  "Rally Speed": {
+    "id": "Rally Speed",
+    "name": "速度支援",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff"
+  },
+  "Rally Defense": {
+    "id": "Rally Defense",
+    "name": "防守支援",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff"
+  },
+  "Rally Resistance": {
+    "id": "Rally Resistance",
+    "name": "魔防支援",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff"
+  },
+  "Rally Atk/Spd": {
+    "id": "Rally Atk/Spd",
+    "name": "攻擊速度支援",
+    "sp": 300,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Attack", "Rally Speed"],
+    "last": true
+  },
+  "Rally Atk/Spd+": {
+    "id": "Rally Atk/Spd+",
+    "name": "攻擊速度支援+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Atk/Spd"],
+    "last": true
+  },
+  "Rally Atk/Def": {
+    "id": "Rally Atk/Def",
+    "name": "攻擊防守支援",
+    "sp": 300,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Defense", "Rally Attack"],
+    "last": true
+  },
+  "Rally Atk/Def+": {
+    "id": "Rally Atk/Def+",
+    "name": "攻擊防守支援+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Atk/Def"],
+    "last": true
+  },
+  "Rally Atk/Res": {
+    "id": "Rally Atk/Res",
+    "name": "攻擊魔防支援",
+    "sp": 300,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Attack", "Rally Resistance"],
+    "last": true
+  },
+  "Rally Atk/Res+": {
+    "id": "Rally Atk/Res+",
+    "name": "攻擊魔防支援+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Atk/Res"],
+    "last": true
+  },
+  "Rally Spd/Def": {
+    "id": "Rally Spd/Def",
+    "name": "速度防守支援",
+    "sp": 300,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Speed", "Rally Defense"],
+    "last": true
+  },
+  "Rally Spd/Def+": {
+    "id": "Rally Spd/Def+",
+    "name": "速度防守支援+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Spd/Def"],
+    "last": true
+  },
+  "Rally Spd/Res": {
+    "id": "Rally Spd/Res",
+    "name": "速度魔防支援",
+    "sp": 300,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Resistance", "Rally Speed"],
+    "last": true
+  },
+  "Rally Spd/Res+": {
+    "id": "Rally Spd/Res+",
+    "name": "速度魔防支援+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Spd/Res"],
+    "last": true
+  },
+  "Rally Def/Res": {
+    "id": "Rally Def/Res",
+    "name": "防守魔防支援",
+    "sp": 300,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Defense", "Rally Resistance"],
+    "last": true
+  },
+  "Rally Def/Res+": {
+    "id": "Rally Def/Res+",
+    "name": "防守魔防支援+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Def/Res"],
+    "last": true
+  },
+  "Rally Up Atk": {
+    "id": "Rally Up Atk",
+    "name": "攻擊大支援",
+    "sp": 300,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Attack"]
+  },
+  "Rally Up Atk+": {
+    "id": "Rally Up Atk+",
+    "name": "攻擊大支援+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Up Atk"],
+    "last": true
+  },
+  "Rally Up Spd": {
+    "id": "Rally Up Spd",
+    "name": "速度大支援",
+    "sp": 300,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Speed"]
+  },
+  "Rally Up Spd+": {
+    "id": "Rally Up Spd+",
+    "name": "速度大支援+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Up Spd"],
+    "last": true
+  },
+  "Rally Up Def": {
+    "id": "Rally Up Def",
+    "name": "防守大支援",
+    "sp": 300,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Defense"]
+  },
+  "Rally Up Def+": {
+    "id": "Rally Up Def+",
+    "name": "防守大支援+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Up Def"],
+    "last": true
+  },
+  "Rally Up Res": {
+    "id": "Rally Up Res",
+    "name": "魔防大支援",
+    "sp": 300,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Resistance"]
+  },
+  "Rally Up Res+": {
+    "id": "Rally Up Res+",
+    "name": "魔防大支援+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Rally Up Res"],
+    "last": true
+  },
+  "Ardent Sacrifice": {
+    "id": "Ardent Sacrifice",
+    "name": "獻身",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff",
+    "last": true
+  },
+  "Harsh Command": {
+    "id": "Harsh Command",
+    "name": "大喝",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff"
+  },
+  "Harsh Command+": {
+    "id": "Harsh Command+",
+    "name": "大喝+",
+    "sp": 400,
+    "range": 1,
+    "rules": "not.white-staff",
+    "prev": ["Harsh Command"],
+    "last": true
+  },
+  "Reciprocal Aid": {
+    "id": "Reciprocal Aid",
+    "name": "相互支援",
+    "sp": 150,
+    "range": 1,
+    "rules": "not.white-staff",
+    "last": true
+  }
+}
