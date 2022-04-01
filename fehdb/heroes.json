@@ -10998,6 +10998,45 @@
       "jp": "Nazuka Kaori (名塚佳織)"
     }
   },
+  "Nanna - Beloved Princess": {
+    "id": "Nanna - Beloved Princess",
+    "title": "備受敬愛的公主",
+    "name": "南娜",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "bst": 190,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "earth-res-2",
+    "releaseDate": "2022-03-31",
+    "appearsIn": ["Thracia 776"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [36, 39, 43],
+        "spd": [39, 42, 46],
+        "def": [23, 27, 30],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 12,
+        "def": 5,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": ["hp", "def"],
+    "statMin": 173,
+    "statMax": 175,
+    "voice": {
+      "en": "Alicia Stratten",
+      "jp": "Nazuka Kaori (名塚佳織)"
+    }
+  },
   "Eyvel - Mistress of Fiana": {
     "id": "Eyvel - Mistress of Fiana",
     "title": "費亞納的女神",
@@ -11867,7 +11906,7 @@
     "statMax": 170,
     "voice": {
       "en": "Paul Cartwright",
-      "jp": "田久保修平"
+      "jp": "Syuuhei Takubo (田久保修平)"
     }
   },
   "Lifis - Terror of Iz": {
@@ -11952,7 +11991,7 @@
     "statMax": 185,
     "voice": {
       "en": "Bryan Huey",
-      "jp": "近藤隆"
+      "jp": "Takashi Kondo (近藤隆)"
     }
   },
   "Ishtar - Thunder's Waltz": {

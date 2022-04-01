@@ -6003,6 +6003,32 @@
       "Atk Tactic 3": 5
     }
   },
+  "Nanna - Beloved Princess": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Lands Sword": 5
+    },
+    "special": {
+      "Miracle": 4
+    },
+    "skillA": {
+      "Atk/Spd Push 1": 2,
+      "Atk/Spd Push 2": 3,
+      "Atk/Spd Push 3": 4,
+      "Atk/Spd Push 4": 5
+    },
+    "skillB": {
+      "Hoðr's Zeal": 5
+    },
+    "skillC": {
+      "Threaten Spd 1": 2,
+      "Threat. Atk/Spd 1": 3,
+      "Threat. Atk/Spd 2": 4,
+      "Atk/Spd Menace": 5
+    }
+  },
   "Eyvel - Mistress of Fiana": {
     "weapon": {
       "Iron Sword": 1,

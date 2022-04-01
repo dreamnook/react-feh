@@ -353,6 +353,14 @@
     "last": true,
     "icon": "skillB/Faithful_Loyalty.png"
   },
+  "Hoðr's Zeal": {
+    "id": "Hoðr's Zeal",
+    "name": "赫哲爾的戰士",
+    "sp": 300,
+    "exclusive": ["Nanna - Beloved Princess"],
+    "last": true,
+    "icon": "skillB/Hoðr's_Zeal.png"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

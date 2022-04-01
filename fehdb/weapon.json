@@ -2328,6 +2328,16 @@
       "exclusive": ["Mareeta - Astra Awakened"],
       "last": true
     },
+    "Lands Sword": {
+      "id": "Lands Sword",
+      "name": "大地之劍",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Nanna - Beloved Princess"],
+      "last": true
+    },
     "Iron Sword": {
       "id": "Iron Sword",
       "name": "鐵劍",

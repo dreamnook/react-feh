@@ -4227,7 +4227,11 @@
         "sp": 200
       },
       "legendary": {
-        "5": ["Celica - Queen of Valentia", "Fae - Childlike Dragon"],
+        "5": [
+          "Celica - Queen of Valentia",
+          "Nanna - Beloved Princess",
+          "Fae - Childlike Dragon"
+        ],
         "name": "祈禱",
         "sp": 200
       }
@@ -6269,14 +6273,14 @@
         "name": "攻擊速度的奮擊3",
         "sp": 240
       },
-      "grail": {
-        "4": ["Leonie - Relentless Rays"],
-        "5": ["Gonzalez - Kindly Bandit", "Petrine - Icy Flame-Lancer"],
+      "legendary": {
+        "5": ["Nanna - Beloved Princess", "Azura - Vallite Songstress"],
         "name": "攻擊速度的奮擊3",
         "sp": 240
       },
-      "legendary": {
-        "5": ["Azura - Vallite Songstress"],
+      "grail": {
+        "4": ["Leonie - Relentless Rays"],
+        "5": ["Gonzalez - Kindly Bandit", "Petrine - Icy Flame-Lancer"],
         "name": "攻擊速度的奮擊3",
         "sp": 240
       }
@@ -6328,7 +6332,7 @@
         "sp": 300
       },
       "legendary": {
-        "5": ["Azura - Vallite Songstress"],
+        "5": ["Nanna - Beloved Princess", "Azura - Vallite Songstress"],
         "name": "攻擊速度的奮擊4",
         "sp": 300
       }
@@ -10352,6 +10356,11 @@
         "name": "攻擊速度的恐嚇",
         "sp": 300
       },
+      "legendary": {
+        "5": ["Nanna - Beloved Princess"],
+        "name": "攻擊速度的恐嚇",
+        "sp": 300
+      },
       "#": {
         "5": ["Eirika - Pledged Restorer"],
         "name": "攻擊速度的恐嚇",
@@ -11617,6 +11626,11 @@
       },
       "#": {
         "5": ["Alm - Imperial Ascent", "Eirika - Pledged Restorer"],
+        "name": "攻擊速度的威嚇2",
+        "sp": 200
+      },
+      "legendary": {
+        "5": ["Nanna - Beloved Princess"],
         "name": "攻擊速度的威嚇2",
         "sp": 200
       },

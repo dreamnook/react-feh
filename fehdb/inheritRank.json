@@ -5770,6 +5770,19 @@
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Hone Def": { "sp": 300, "rarity": 5 } }
   },
+  "Nanna - Beloved Princess": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Miracle": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Menace": { "sp": 300, "rarity": 5 } }
+  },
   "Veronica - Bestowed Love": {
     "score": 374,
     "scoreTotal": 739,
