@@ -10777,6 +10777,28 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Ylgr - Fresh Snowfall"],
+      "refine": {
+        "jaffar": {
+          "name": "特效",
+          "icon": "Sylgr_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Lyfjaberg": {
@@ -12487,6 +12509,29 @@
       "sp": 400,
       "prev": ["Adult (Flier)"],
       "exclusive": ["Tibarn - Lord of the Air"],
+      "refine": {
+        "raven": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Hawk_King_Claw_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Heron Wing": {
@@ -12574,9 +12619,33 @@
       "id": "Foxkit Fang",
       "name": "妖狐之女的爪牙",
       "mt": 14,
+      "res": 3,
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Selkie - Free Spirit"],
+      "refine": {
+        "raven": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Foxkit_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Wolfpup Fang": {
@@ -13284,6 +13353,28 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Aversa - Dark One"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Aversa's_Night_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Grimoire": {
@@ -16368,6 +16459,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Veronica - Spring Princess"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Veðrfölnir's_Egg_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Chaos Manifest": {

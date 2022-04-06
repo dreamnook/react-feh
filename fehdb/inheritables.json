@@ -3283,6 +3283,7 @@
           "Palla - Eldest Whitewing",
           "Athena - Borderland Sword",
           "Python - Apathetic Archer",
+          "Karin - Driven Knight",
           "Erk - Studious Mage",
           "Colm - Capable Thief",
           "Basilio - Feroxi West-Khan",
@@ -3296,7 +3297,6 @@
           "Annand - Knight-Defender",
           "Ishtar - Thunder Goddess",
           "Asbel - Windswept Youth",
-          "Karin - Driven Knight",
           "Hugh - Worldly Mage",
           "Sue - Doe of the Plains",
           "Nino - Pale Flower",
@@ -7009,7 +7009,8 @@
     },
     "Atk/Def Form 3": {
       "#": {
-        "5": ["Eyvel - Mistress of Fiana", "Karin - Driven Knight"],
+        "4": ["Karin - Driven Knight"],
+        "5": ["Eyvel - Mistress of Fiana"],
         "name": "攻擊防守的密集3",
         "sp": 240
       },

@@ -2123,6 +2123,18 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
+  "Karin - Driven Knight": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 177,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -4805,18 +4817,6 @@
     "special": { "Vengeance": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Def/Res 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Karin - Driven Knight": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 177,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
   },
   "Mamori - Microwavin' Idol": {
     "score": 240,

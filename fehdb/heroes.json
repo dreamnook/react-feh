@@ -11447,19 +11447,33 @@
     "id": "Karin - Driven Knight",
     "title": "駕馭天馬的少女",
     "name": "花凜",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "flying",
     "weaponType": "blue-lance",
     "releaseDate": "2022-03-18",
     "appearsIn": ["Thracia 776"],
     "stats": {
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [32, 35, 39],
+        "spd": [37, 40, 44],
+        "def": [21, 24, 27],
+        "res": [25, 28, 31]
+      },
       "5": {
         "hp": [37, 41, 44],
         "atk": [34, 37, 41],
         "spd": [39, 42, 46],
         "def": [23, 26, 30],
         "res": [28, 31, 34]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 7,
+        "spd": 12,
+        "def": 6,
+        "res": 6
       },
       "5-1": {
         "hp": 19,
