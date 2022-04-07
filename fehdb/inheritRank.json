@@ -3375,6 +3375,19 @@
     "skillB": { "Def/Res Link 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ward Dragons": { "sp": 200, "rarity": 4 } }
   },
+  "Boyd - Future Great": {
+    "score": 249,
+    "scoreTotal": 553,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 590,
+    "feather": 300,
+    "bst": 181,
+    "assist": { "Shove": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 5 } }
+  },
   "Dorothea - Solar Songstress": {
     "score": 318,
     "scoreTotal": 572,
@@ -5640,6 +5653,19 @@
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ilyana - Awakened Appetite": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 171,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Lull Atk/Res 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 5 } }
+  },
   "Zephiel - Winter's Crown": {
     "score": 254,
     "scoreTotal": 721,
@@ -6600,6 +6626,19 @@
     "special": { "Astra": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Soren - Hushed Voice": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 171,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Mirror Impact": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Nailah - Blessed Queen": {
     "score": 318,
@@ -9143,6 +9182,20 @@
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
   },
+  "Mia - Budding Blade": {
+    "score": 318,
+    "scoreTotal": 1039,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flashing Blade 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Tempo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
+  },
   "Alfonse - Askran Duo": {
     "score": 318,
     "scoreTotal": 1039,
@@ -9615,6 +9668,20 @@
     "skillA": { "Sturdy Stance 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "A/R Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Ike - Close-Knit Siblings": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Sol": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Dart": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Null C-Disrupt 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
   },
   "Shinon - Sharptongue Ninja": {
     "score": 530,

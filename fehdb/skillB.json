@@ -3427,5 +3427,29 @@
     "rules": "learner.flow-refresh",
     "icon": "skillB/Flow_Flight_3.png",
     "last": true
+  },
+  "Spd/Def Tempo 1": {
+    "id": "Spd/Def Tempo 1",
+    "name": "速度防守節拍1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillB/Spd_Def_Tempo_1.png"
+  },
+  "Spd/Def Tempo 2": {
+    "id": "Spd/Def Tempo 2",
+    "name": "速度防守節拍2",
+    "sp": 120,
+    "prev": ["Spd/Def Tempo 1"],
+    "rules": "infantry",
+    "icon": "skillB/Spd_Def_Tempo_2.png"
+  },
+  "Spd/Def Tempo 3": {
+    "id": "Spd/Def Tempo 3",
+    "name": "速度防守節拍3",
+    "sp": 240,
+    "prev": ["Spd/Def Tempo 2"],
+    "rules": "infantry",
+    "icon": "skillB/Spd_Def_Tempo_3.png",
+    "last": true
   }
 }

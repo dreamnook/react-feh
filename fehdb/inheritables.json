@@ -2600,6 +2600,7 @@
         "4": [
           "Eir - Renewed Life",
           "Darros - Seawalker",
+          "Boyd - Future Great",
           "Rolf - Tricky Archer"
         ],
         "name": "衝撞",
@@ -3246,6 +3247,7 @@
         "name": "太陽",
         "sp": 200
       },
+      "duo": { "5": ["Ike - Close-Knit Siblings"], "name": "太陽", "sp": 200 },
       "grail": { "4": ["Itsuki - Finding a Path"], "name": "太陽", "sp": 200 }
     },
     "Moonbow": {
@@ -3771,7 +3773,11 @@
         "sp": 200
       },
       "special": {
-        "5": ["Ephraim - Sparkling Gallantly", "Corrin - Novice Vacationer"],
+        "5": [
+          "Ephraim - Sparkling Gallantly",
+          "Mia - Budding Blade",
+          "Corrin - Novice Vacationer"
+        ],
         "name": "龍穿",
         "sp": 200
       }
@@ -3921,6 +3927,7 @@
           "Henriette - Overflowing Love",
           "Caeda - Talys's Bride",
           "Artur - Silver Saint",
+          "Soren - Hushed Voice",
           "Ilyana - Treat Harvester",
           "Robin - Tactful Deliverer",
           "Tharja - 'Normal Girl'",
@@ -4017,6 +4024,7 @@
         "4": ["Vika - Sea-Dark Wing"],
         "5": [
           "Zephiel - Winter's Crown",
+          "Ilyana - Awakened Appetite",
           "Felicia - Off the Menu",
           "Sakura - Gentle Nekomata"
         ],
@@ -5051,7 +5059,11 @@
     },
     "Mirror Strike 2": {
       "special": {
-        "5": ["Laevatein - Bonfire's Blaze", "Kagero - Beverage Ninja"],
+        "5": [
+          "Laevatein - Bonfire's Blaze",
+          "Soren - Hushed Voice",
+          "Kagero - Beverage Ninja"
+        ],
         "name": "鬼神明鏡擊2",
         "sp": 240
       },
@@ -5088,7 +5100,7 @@
     },
     "Mirror Impact": {
       "special": {
-        "5": ["Laevatein - Bonfire's Blaze"],
+        "5": ["Laevatein - Bonfire's Blaze", "Soren - Hushed Voice"],
         "name": "鬼神明鏡瞬擊",
         "sp": 300
       },
@@ -5699,7 +5711,7 @@
         "sp": 300
       },
       "duo": {
-        "5": ["Hector - Dressed-Up Duo"],
+        "5": ["Hector - Dressed-Up Duo", "Ike - Close-Knit Siblings"],
         "name": "遠距離反擊",
         "sp": 300
       },
@@ -5720,6 +5732,13 @@
       "#": {
         "5": ["Marth - Prince of Light"],
         "name": "遠反・速度的奮擊",
+        "sp": 300
+      }
+    },
+    "Distant Dart": {
+      "duo": {
+        "5": ["Ike - Close-Knit Siblings"],
+        "name": "遠反・飛燕架勢",
         "sp": 300
       }
     },
@@ -5873,7 +5892,7 @@
         "sp": 240
       },
       "special": {
-        "5": ["Navarre - Scarlet Ninja"],
+        "5": ["Navarre - Scarlet Ninja", "Mia - Budding Blade"],
         "name": "柔劍3",
         "sp": 240
       },
@@ -5890,7 +5909,7 @@
         "sp": 300
       },
       "special": {
-        "5": ["Navarre - Scarlet Ninja"],
+        "5": ["Navarre - Scarlet Ninja", "Mia - Budding Blade"],
         "name": "柔劍4",
         "sp": 300
       },
@@ -5909,6 +5928,7 @@
         "sp": 200
       },
       "grail": {
+        "4": ["Boyd - Future Great"],
         "5": ["Eliwood - Devoted Love", "Lorenz - Highborn Heat"],
         "name": "生命業火3",
         "sp": 200
@@ -8855,6 +8875,11 @@
         "name": "識破・無法反擊3",
         "sp": 240
       },
+      "duo": {
+        "5": ["Ike - Close-Knit Siblings"],
+        "name": "識破・無法反擊3",
+        "sp": 240
+      },
       "harmonized": {
         "5": ["Altina - Cross-Time Duo"],
         "name": "識破・無法反擊3",
@@ -8961,6 +8986,11 @@
       },
       "mythic": {
         "5": ["Bramimond - The Enigma"],
+        "name": "攻擊魔防的靜謐3",
+        "sp": 240
+      },
+      "special": {
+        "5": ["Ilyana - Awakened Appetite"],
         "name": "攻擊魔防的靜謐3",
         "sp": 240
       },
@@ -9211,6 +9241,13 @@
         "name": "怒濤・飛龍行空3",
         "sp": 240
       }
+    },
+    "Spd/Def Tempo 3": {
+      "special": {
+        "5": ["Mia - Budding Blade"],
+        "name": "速度防守節拍3",
+        "sp": 240
+      }
     }
   },
   "skillC": {
@@ -9389,7 +9426,11 @@
         "sp": 240
       },
       "duo": {
-        "5": ["Peony - Álfar Dream Duo", "Corrin - Nightfall Ninja Act"],
+        "5": [
+          "Peony - Álfar Dream Duo",
+          "Ike - Close-Knit Siblings",
+          "Corrin - Nightfall Ninja Act"
+        ],
         "name": "攻擊大紋章2",
         "sp": 240
       },
@@ -9501,7 +9542,11 @@
     },
     "Joint Drive Atk": {
       "duo": {
-        "5": ["Peony - Álfar Dream Duo", "Corrin - Nightfall Ninja Act"],
+        "5": [
+          "Peony - Álfar Dream Duo",
+          "Ike - Close-Knit Siblings",
+          "Corrin - Nightfall Ninja Act"
+        ],
         "name": "攻擊相互大紋章",
         "sp": 300
       },
@@ -10659,6 +10704,11 @@
         "name": "初始之躍動3",
         "sp": 240
       },
+      "special": {
+        "5": ["Soren - Hushed Voice"],
+        "name": "初始之躍動3",
+        "sp": 240
+      },
       "duo": {
         "5": ["Chrom - Fate-Defying Duo"],
         "name": "初始之躍動3",
@@ -10688,7 +10738,7 @@
         "sp": 240
       },
       "grail": {
-        "5": ["Marisa - Crimson Flash"],
+        "5": ["Marisa - Crimson Flash", "Boyd - Future Great"],
         "name": "步行之躍動3",
         "sp": 240
       }
@@ -11128,7 +11178,7 @@
     },
     "Atk/Res Gap 3": {
       "special": {
-        "5": ["Ilyana - Treat Harvester"],
+        "5": ["Ilyana - Treat Harvester", "Ilyana - Awakened Appetite"],
         "name": "攻擊魔防大開放3",
         "sp": 240
       }
@@ -11348,7 +11398,7 @@
     },
     "Odd Tempest 3": {
       "special": {
-        "5": ["Karla - Sun-Piercing Steel"],
+        "5": ["Karla - Sun-Piercing Steel", "Mia - Budding Blade"],
         "name": "迅雷風烈・奇數3",
         "sp": 240
       },

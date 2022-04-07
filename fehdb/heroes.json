@@ -20034,6 +20034,43 @@
       "jp": "Hagi Michihiko (萩道彦)"
     }
   },
+  "Ike - Close-Knit Siblings": {
+    "id": "Ike - Close-Knit Siblings",
+    "title": "和睦的兄妹",
+    "name": "艾克",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "bst": 195,
+    "pool": "duo",
+    "releaseDate": "2022-04-07",
+    "appearsIn": ["Path of Radiance"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 42, 46],
+        "spd": [39, 42, 46],
+        "def": [29, 32, 35],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 12,
+        "def": 8,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 182,
+    "statMax": 185,
+    "voice": {
+      "en": "Greg Chun + Sarah Williams",
+      "jp": "Miyagawa Miho (宮川美保) with Enomoto Atsuko (榎本温子)"
+    }
+  },
   "Titania - Mighty Mercenary": {
     "id": "Titania - Mighty Mercenary",
     "title": "傭兵團的副團長",
@@ -20246,6 +20283,42 @@
       "jp": "Murase Ayumu (村瀬歩)"
     }
   },
+  "Soren - Hushed Voice": {
+    "id": "Soren - Hushed Voice",
+    "title": "沉默之唇",
+    "name": "塞涅里歐",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "pool": "special",
+    "releaseDate": "2022-04-07",
+    "appearsIn": ["Path of Radiance"],
+    "stats": {
+      "5": {
+        "hp": [33, 36, 40],
+        "atk": [39, 42, 46],
+        "spd": [31, 34, 37],
+        "def": [12, 16, 19],
+        "res": [39, 43, 46]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 8,
+        "def": 3,
+        "res": 10
+      }
+    },
+    "assets": ["hp", "atk"],
+    "flaws": ["def", "res"],
+    "statMin": 171,
+    "statMax": 175,
+    "voice": {
+      "en": "Kyle McCarley",
+      "jp": "Murase Ayumu (村瀬歩)"
+    }
+  },
   "Mist - Helpful Sister": {
     "id": "Mist - Helpful Sister",
     "title": "喜歡照顧人的妹妹",
@@ -20414,6 +20487,56 @@
     "voice": {
       "en": "Bryce Papenbrook",
       "jp": "Majima Junji (間島淳司)"
+    }
+  },
+  "Boyd - Future Great": {
+    "id": "Boyd - Future Great",
+    "title": "未來的鐵臂",
+    "name": "博雷",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2022-04-07",
+    "appearsIn": ["Path of Radiance"],
+    "stats": {
+      "4": {
+        "hp": [44, 47, 51],
+        "atk": [38, 41, 45],
+        "spd": [31, 34, 37],
+        "def": [25, 28, 31],
+        "res": [16, 19, 22]
+      },
+      "5": {
+        "hp": [47, 50, 54],
+        "atk": [40, 43, 47],
+        "spd": [33, 36, 39],
+        "def": [28, 31, 34],
+        "res": [18, 21, 24]
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 10,
+        "def": 6,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 13,
+        "spd": 10,
+        "def": 7,
+        "res": 4
+      }
+    },
+    "assets": ["hp", "atk"],
+    "flaws": [],
+    "statMin": 181,
+    "statMax": 185,
+    "voice": {
+      "en": "River Kanoff",
+      "jp": "Asumi Kana (阿澄佳奈)"
     }
   },
   "Rolf - Tricky Archer": {
@@ -20604,6 +20727,42 @@
     "statMax": 165,
     "voice": {
       "en": "Lani Minella",
+      "jp": "Asakawa Yuu (浅川悠)"
+    }
+  },
+  "Mia - Budding Blade": {
+    "id": "Mia - Budding Blade",
+    "title": "劍心萌芽",
+    "name": "瓦育",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2022-04-07",
+    "appearsIn": ["Path of Radiance"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [39, 43, 46],
+        "def": [28, 32, 35],
+        "res": [23, 27, 30]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 10,
+        "res": 5
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def", "res"],
+    "statMin": 183,
+    "statMax": 185,
+    "voice": {
+      "en": "Anne Yatco",
       "jp": "Asakawa Yuu (浅川悠)"
     }
   },
@@ -21524,6 +21683,42 @@
     "flaws": ["hp", "def"],
     "statMin": 166,
     "statMax": 170,
+    "voice": {
+      "en": "Ryan Bartley",
+      "jp": "Goto Saori (後藤沙緒里)"
+    }
+  },
+  "Ilyana - Awakened Appetite": {
+    "id": "Ilyana - Awakened Appetite",
+    "title": "食慾覺醒",
+    "name": "伊蕾思",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "pool": "special",
+    "releaseDate": "2022-04-07",
+    "appearsIn": ["Path of Radiance"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [27, 30, 33],
+        "def": [14, 18, 21],
+        "res": [39, 42, 46]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 4,
+        "def": 5,
+        "res": 12
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "def"],
+    "statMin": 171,
+    "statMax": 175,
     "voice": {
       "en": "Ryan Bartley",
       "jp": "Goto Saori (後藤沙緒里)"

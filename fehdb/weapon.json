@@ -2338,6 +2338,26 @@
       "exclusive": ["Nanna - Beloved Princess"],
       "last": true
     },
+    "Sturdy War Sword": {
+      "id": "Sturdy War Sword",
+      "name": "戰神的剛強鐵劍",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Ike - Close-Knit Siblings"],
+      "last": true
+    },
+    "Sharp War Sword": {
+      "id": "Sharp War Sword",
+      "name": "戰神的銳劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Mia - Budding Blade"],
+      "last": true
+    },
     "Iron Sword": {
       "id": "Iron Sword",
       "name": "鐵劍",
@@ -7370,6 +7390,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Maria - Sunny Smile"],
+      "last": true
+    },
+    "Large War Axe": {
+      "id": "Large War Axe",
+      "name": "戰神的大斧",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Boyd - Future Great"],
       "last": true
     },
     "Iron Axe": {
@@ -16833,6 +16863,16 @@
       "exclusive": ["Sonya - Dazzling Rabbits"],
       "last": true
     },
+    "Windy War Tome": {
+      "id": "Windy War Tome",
+      "name": "戰神的風書",
+      "mt": 14,
+      "res": 3,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Ilyana - Awakened Appetite"],
+      "last": true
+    },
     "Wind": {
       "id": "Wind",
       "name": "烈風",
@@ -17587,6 +17627,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Robin - Tactful Deliverer"],
+      "last": true
+    },
+    "Adroit War Tome": {
+      "id": "Adroit War Tome",
+      "name": "戰神的兵法書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Soren - Hushed Voice"],
       "last": true
     },
     "Stone": {

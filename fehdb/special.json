@@ -58,7 +58,11 @@
     "sp": 500,
     "rules": "not.white-staff",
     "prev": ["Sol", "Luna"],
-    "exclusive": ["Ike - Vanguard Legend", "Ike - Stalwart Heart"],
+    "exclusive": [
+      "Ike - Vanguard Legend",
+      "Ike - Stalwart Heart",
+      "Ike - Close-Knit Siblings"
+    ],
     "last": true
   },
   "Radiant Aether II": {

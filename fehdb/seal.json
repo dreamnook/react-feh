@@ -865,6 +865,15 @@
       "last": true,
       "icon": "skillA/Steady_Breath.png"
     },
+    "Warding Breath": {
+      "id": "Warding Breath",
+      "name": "明鏡呼吸",
+      "sp": 240,
+      "rules": "learner.breath",
+      "prev": ["Warding Stance 2"],
+      "last": true,
+      "icon": "skillA/Warding_Breath.png"
+    },
     "Defiant Atk 1": {
       "id": "Defiant Atk 1",
       "name": "攻擊覺醒1",
@@ -3161,6 +3170,27 @@
       "sp": 240,
       "prev": ["Spd Opening 2"],
       "icon": "skillC/Spd_Opening_3.png",
+      "last": true
+    },
+    "Def Opening 1": {
+      "id": "Def Opening 1",
+      "name": "防守開放1",
+      "sp": 60,
+      "icon": "skillC/Def_Opening_1.png"
+    },
+    "Def Opening 2": {
+      "id": "Def Opening 2",
+      "name": "防守開放2",
+      "sp": 120,
+      "prev": ["Def Opening 1"],
+      "icon": "skillC/Def_Opening_2.png"
+    },
+    "Def Opening 3": {
+      "id": "Def Opening 3",
+      "name": "防守開放3",
+      "sp": 240,
+      "prev": ["Def Opening 2"],
+      "icon": "skillC/Def_Opening_3.png",
       "last": true
     },
     "Res Opening 1": {

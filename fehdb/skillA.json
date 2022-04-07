@@ -1453,6 +1453,15 @@
     "last": true,
     "icon": "skillA/Distant_Pressure.png"
   },
+  "Distant Dart": {
+    "id": "Distant Dart",
+    "name": "遠反・飛燕架勢",
+    "sp": 300,
+    "rules": "melee",
+    "prev": ["Distant Counter"],
+    "last": true,
+    "icon": "skillA/Distant_Dart.png"
+  },
   "Distant Stance": {
     "id": "Distant Stance",
     "name": "遠反・明鏡架勢",
