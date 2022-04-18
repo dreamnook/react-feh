@@ -2723,6 +2723,39 @@
       },
       "last": true
     },
+    "Spirited Sword": {
+      "id": "Spirited Sword",
+      "name": "士氣旺盛之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Spirited Sword+": {
+      "id": "Spirited Sword+",
+      "name": "士氣旺盛之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Spirited Sword"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Instant Sword": {
       "id": "Instant Sword",
       "name": "瞬擊之劍",
@@ -13848,6 +13881,16 @@
       "exclusive": ["Hugh - Worldly Mage"],
       "last": true
     },
+    "Fiery Bolganone": {
+      "id": "Fiery Bolganone",
+      "name": "嘲謔火山爆焰",
+      "mt": 14,
+      "res": 3,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Hilda - Queen of Friege"],
+      "last": true
+    },
     "Fire": {
       "id": "Fire",
       "name": "火焰",
@@ -15170,6 +15213,16 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Delthea - Prodigy in Bloom"],
+      "last": true
+    },
+    "Thunder's Mjölnir": {
+      "id": "Thunder's Mjölnir",
+      "name": "神明的雷神之槌",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Ishtar - Echoing Thunder"],
       "last": true
     },
     "Thunder": {
@@ -17107,6 +17160,39 @@
       },
       "last": true
     },
+    "Gronnvulture": {
+      "id": "Gronnvulture",
+      "name": "翠綠禿鷹",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Rexcalibur"]
+    },
+    "Gronnvulture+": {
+      "id": "Gronnvulture+",
+      "name": "翠綠禿鷹+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Gronnvulture"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Green Egg": {
       "id": "Green Egg",
       "name": "綠之卵",
@@ -17637,6 +17723,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Soren - Hushed Voice"],
+      "last": true
+    },
+    "Thunderer Tome": {
+      "id": "Thunderer Tome",
+      "name": "怒雷的紫書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Tine - Rumbling Thunder"],
       "last": true
     },
     "Stone": {

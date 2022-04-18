@@ -9975,6 +9975,70 @@
       "jp": "Yukana (ゆかな)"
     }
   },
+  "Hilda - Queen of Friege": {
+    "id": "Hilda - Queen of Friege",
+    "title": "弗立吉的女王",
+    "name": "希爾妲",
+    "rarity": [5, 4, 3],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-tome",
+    "pool": "grail",
+    "releaseDate": "2022-04-19",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [33, 36, 39],
+        "spd": [19, 22, 25],
+        "def": [18, 21, 24],
+        "res": [33, 36, 39]
+      },
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [35, 38, 42],
+        "spd": [20, 23, 26],
+        "def": [19, 22, 25],
+        "res": [35, 38, 42]
+      },
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [37, 40, 44],
+        "spd": [22, 25, 28],
+        "def": [21, 24, 28],
+        "res": [37, 40, 44]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 7,
+        "def": 4,
+        "res": 9
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 7,
+        "def": 4,
+        "res": 10
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 8,
+        "def": 5,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "def", "res"],
+    "flaws": [],
+    "statMin": 170,
+    "statMax": 170,
+    "voice": {
+      "en": "Liz Morey",
+      "jp": "Yuko Sanpei (三瓶由布子)"
+    }
+  },
   "Seliph - Heir of Light": {
     "id": "Seliph - Heir of Light",
     "title": "光之繼承者",
@@ -10181,6 +10245,111 @@
     "voice": {
       "en": "Ted Sroka",
       "jp": "Masuda Toshiki (増田俊樹)"
+    }
+  },
+  "Scáthach - Astra's Wake": {
+    "id": "Scáthach - Astra's Wake",
+    "title": "奔馳大地的流星",
+    "name": "斯卡薩哈",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2022-04-18",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [39, 42, 46],
+        "spd": [26, 30, 33],
+        "def": [39, 43, 46],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 8,
+        "def": 10,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["spd", "def"],
+    "statMin": 182,
+    "statMax": 185,
+    "voice": {
+      "en": "Evan Lewis",
+      "jp": "Arthur Lounsbery (ランズベリー・アーサー)"
+    }
+  },
+  "Arthur - Furious Mage": {
+    "id": "Arthur - Furious Mage",
+    "title": "憤怒的魔法戰士",
+    "name": "亞瑟",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "releaseDate": "2022-04-18",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 42, 46],
+        "spd": [38, 41, 45],
+        "def": [27, 30, 33],
+        "res": [15, 18, 21]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 11,
+        "def": 6,
+        "res": 3
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 171,
+    "statMax": 175,
+    "voice": {
+      "en": "Joe Mucciolo",
+      "jp": "土田玲央"
+    }
+  },
+  "Tine - Rumbling Thunder": {
+    "id": "Tine - Rumbling Thunder",
+    "title": "受難的雷姬",
+    "name": "媞妮",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "releaseDate": "2022-04-18",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [38, 42, 45],
+        "spd": [39, 42, 46],
+        "def": [20, 23, 26],
+        "res": [23, 26, 30]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 12,
+        "def": 6,
+        "res": 7
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 171,
+    "statMax": 175,
+    "voice": {
+      "en": "Courtney Lin",
+      "jp": "Ishikawa Yui (石川由依)"
     }
   },
   "Julia - Naga's Blood": {
@@ -10682,6 +10851,41 @@
     "flaws": ["hp", "def"],
     "statMin": 151,
     "statMax": 155,
+    "voice": {
+      "en": "Ratana",
+      "jp": "Kadowaki Mai (門脇舞以)"
+    }
+  },
+  "Ishtar - Echoing Thunder": {
+    "id": "Ishtar - Echoing Thunder",
+    "title": "死地的雷神",
+    "name": "伊修達爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "releaseDate": "2022-04-18",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [39, 43, 46],
+        "def": [13, 17, 20],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 4,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 172,
+    "statMax": 175,
     "voice": {
       "en": "Ratana",
       "jp": "Kadowaki Mai (門脇舞以)"
@@ -11447,13 +11651,20 @@
     "id": "Karin - Driven Knight",
     "title": "駕馭天馬的少女",
     "name": "花凜",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "moveType": "flying",
     "weaponType": "blue-lance",
     "releaseDate": "2022-03-18",
     "appearsIn": ["Thracia 776"],
     "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [30, 33, 36],
+        "spd": [35, 38, 41],
+        "def": [20, 23, 26],
+        "res": [24, 27, 30]
+      },
       "4": {
         "hp": [35, 38, 41],
         "atk": [32, 35, 39],
@@ -11467,6 +11678,13 @@
         "spd": [39, 42, 46],
         "def": [23, 26, 30],
         "res": [28, 31, 34]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 6,
+        "spd": 11,
+        "def": 6,
+        "res": 6
       },
       "4-1": {
         "hp": 18,
@@ -21692,7 +21910,7 @@
     "id": "Ilyana - Awakened Appetite",
     "title": "食慾覺醒",
     "name": "伊蕾思",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-tome",
@@ -21700,12 +21918,26 @@
     "releaseDate": "2022-04-07",
     "appearsIn": ["Path of Radiance"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [36, 39, 43],
+        "spd": [24, 27, 30],
+        "def": [13, 16, 19],
+        "res": [37, 40, 44]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [38, 41, 45],
         "spd": [27, 30, 33],
         "def": [14, 18, 21],
         "res": [39, 42, 46]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 3,
+        "def": 4,
+        "res": 12
       },
       "5-1": {
         "hp": 18,

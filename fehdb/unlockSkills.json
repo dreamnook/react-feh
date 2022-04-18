@@ -5435,6 +5435,28 @@
       "Deluge Dance 2": 4
     }
   },
+  "Hilda - Queen of Friege": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bolganone": 3,
+      "Fiery Bolganone": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Glacies": 4
+    },
+    "skillA": {
+      "Atk/Res Ideal 1": 3,
+      "Atk/Res Ideal 2": 4,
+      "Atk/Res Ideal 3": 5
+    },
+    "skillC": {
+      "Rouse Atk/Res 1": 1,
+      "Rouse Atk/Res 2": 2,
+      "Rouse Atk/Res 3": 4
+    }
+  },
   "Seliph - Heir of Light": {
     "weapon": {
       "Iron Sword": 1,
@@ -5565,6 +5587,80 @@
       "Even Spd Wave 1": 1,
       "Even Spd Wave 2": 2,
       "Even Spd Wave 3": 4
+    }
+  },
+  "Scáthach - Astra's Wake": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Spirited Sword": 3,
+      "Spirited Sword+": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4
+    },
+    "skillA": {
+      "Atk/Def Ideal 1": 3,
+      "Atk/Def Ideal 2": 4,
+      "Atk/Def Ideal 3": 5
+    },
+    "skillC": {
+      "Odd Def Wave 1": 1,
+      "Odd Def Wave 2": 2,
+      "Odd Def Wave 3": 4
+    }
+  },
+  "Arthur - Furious Mage": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Gronnvulture": 3,
+      "Gronnvulture+": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Atk/Spd Ideal 4": 5
+    },
+    "skillC": {
+      "Threaten Res 1": 2,
+      "Threat. Spd/Res 1": 3,
+      "Threat. Spd/Res 2": 4,
+      "Spd/Res Menace": 5
+    }
+  },
+  "Tine - Rumbling Thunder": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 3,
+      "Thunderer Tome": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Fury 1": 2,
+      "Fury 2": 3,
+      "Fury 3": 4,
+      "Fury 4": 5
+    },
+    "skillB": {
+      "Null Follow-Up 1": 1,
+      "Null Follow-Up 2": 2,
+      "Null Follow-Up 3": 4
+    },
+    "skillC": {
+      "Blue Feud 1": 3,
+      "Blue Feud 2": 4,
+      "Blue Feud 3": 5
     }
   },
   "Julia - Naga's Blood": {
@@ -5819,6 +5915,34 @@
       "Odd Atk Wave 1": 3,
       "Odd Atk Wave 2": 4,
       "Odd Atk Wave 3": 5
+    }
+  },
+  "Ishtar - Echoing Thunder": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Thoron": 3,
+      "Thunder's Mjölnir": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Life and Death 1": 2,
+      "Life and Death 2": 3,
+      "Life and Death 3": 4,
+      "Life and Death 4": 5
+    },
+    "skillB": {
+      "Lull Spd/Res 1": 1,
+      "Lull Spd/Res 2": 2,
+      "Lull Spd/Res 3": 4
+    },
+    "skillC": {
+      "Time's Pulse 1": 3,
+      "Time's Pulse 2": 4,
+      "Time's Pulse 3": 5
     }
   },
   "Ullr - The Bowmaster": {

@@ -127,6 +127,14 @@
           "refine": 350
         }
       },
+      "Spirited Sword+": {
+        "#": {
+          "5": ["Scáthach - Astra's Wake"],
+          "name": "士氣旺盛之劍+",
+          "sp": 300,
+          "refine": 350
+        }
+      },
       "Instant Sword+": {
         "grail": {
           "5": ["Bertram - Dread Cavalier"],
@@ -1987,6 +1995,14 @@
           "refine": 350
         }
       },
+      "Gronnvulture+": {
+        "#": {
+          "5": ["Arthur - Furious Mage"],
+          "name": "翠綠禿鷹+",
+          "sp": 300,
+          "refine": 350
+        }
+      },
       "Green Egg+": {
         "special": {
           "5": ["Camilla - Spring Princess"],
@@ -3386,6 +3402,7 @@
           "Malice - Deft Sellsword",
           "Celica - Imprisoned Soul",
           "Ced - Hero on the Wind",
+          "Ishtar - Echoing Thunder",
           "Mareeta - The Blade's Pawn",
           "Mareeta - Sword of Stars",
           "Galzus - Dark Blade of Od",
@@ -3483,6 +3500,7 @@
         "5": [
           "Ylgr - Fresh Snowfall",
           "Lewyn - Guiding Breeze",
+          "Arthur - Furious Mage",
           "Pent - Mage General",
           "Jaffar - Angel of Death",
           "Joshua - Resolute Tempest",
@@ -3543,6 +3561,7 @@
           "Ayra - Astra's Wielder",
           "Larcei - Keen Kin",
           "Shannan - Wielder of Astra",
+          "Scáthach - Astra's Wake",
           "Mareeta - Astra Awakened",
           "Roy - Brave Lion",
           "Lyn - Lady of the Plains",
@@ -3697,6 +3716,7 @@
           "Alm - Hero of Prophecy",
           "Alm - Imperial Ascent",
           "Quan - Luminous Lancer",
+          "Tine - Rumbling Thunder",
           "Lyn - Brave Lady",
           "Dorcas - Serene Warrior",
           "Karla - Sword Vassal",
@@ -4006,6 +4026,7 @@
           "Delthea - Tatarrah's Puppet",
           "Conrad - Masked Knight",
           "Díthorba - Cutting Knight",
+          "Hilda - Queen of Friege",
           "Saias - Bishop of Flame",
           "Veld - Manfroy's Rock",
           "Salem - Dark Sage",
@@ -4021,10 +4042,9 @@
         "sp": 200
       },
       "special": {
-        "4": ["Vika - Sea-Dark Wing"],
+        "4": ["Ilyana - Awakened Appetite", "Vika - Sea-Dark Wing"],
         "5": [
           "Zephiel - Winter's Crown",
-          "Ilyana - Awakened Appetite",
           "Felicia - Off the Menu",
           "Sakura - Gentle Nekomata"
         ],
@@ -4650,6 +4670,7 @@
           "Kris - Unsung Hero",
           "Jagen - Veteran Knight",
           "Eldigan - Lionheart",
+          "Tine - Rumbling Thunder",
           "Asbel - Windswept Youth",
           "Bartre - Fearless Warrior",
           "Fiora - Airborne Warrior",
@@ -4692,6 +4713,7 @@
       "#": {
         "5": [
           "Kris - Unsung Hero",
+          "Tine - Rumbling Thunder",
           "Asbel - Windswept Youth",
           "Byleth - Proven Professor",
           "Claude - Almyra's King"
@@ -4721,6 +4743,7 @@
         "5": [
           "Minerva - Red Dragoon",
           "Wolf - Coyote's Loyal",
+          "Ishtar - Echoing Thunder",
           "Igrene - Nabata Protector",
           "Leila - Rose amid Fangs",
           "Jaffar - Angel of Death",
@@ -4742,6 +4765,7 @@
       "#": {
         "5": [
           "Wolf - Coyote's Loyal",
+          "Ishtar - Echoing Thunder",
           "Igrene - Nabata Protector",
           "Leila - Rose amid Fangs",
           "Selena - Fluorspar",
@@ -7203,7 +7227,11 @@
     },
     "Atk/Spd Ideal 3": {
       "#": {
-        "5": ["Louise - Lady of Violets", "Miriel - Rapier Intellect"],
+        "5": [
+          "Arthur - Furious Mage",
+          "Louise - Lady of Violets",
+          "Miriel - Rapier Intellect"
+        ],
         "name": "攻擊速度的萬全3",
         "sp": 240
       },
@@ -7215,7 +7243,7 @@
     },
     "Atk/Spd Ideal 4": {
       "#": {
-        "5": ["Louise - Lady of Violets"],
+        "5": ["Arthur - Furious Mage", "Louise - Lady of Violets"],
         "name": "攻擊速度的萬全4",
         "sp": 300
       },
@@ -7227,7 +7255,11 @@
     },
     "Atk/Def Ideal 3": {
       "#": {
-        "5": ["Priam - Radiant Hero", "Edelgard - Hegemon Husk"],
+        "5": [
+          "Scáthach - Astra's Wake",
+          "Priam - Radiant Hero",
+          "Edelgard - Hegemon Husk"
+        ],
         "name": "攻擊防守的萬全3",
         "sp": 240
       },
@@ -7251,7 +7283,7 @@
     },
     "Atk/Res Ideal 3": {
       "grail": {
-        "5": ["Riev - Blood Beryl"],
+        "5": ["Hilda - Queen of Friege", "Riev - Blood Beryl"],
         "name": "攻擊魔防萬全3",
         "sp": 240
       },
@@ -8841,6 +8873,7 @@
       },
       "#": {
         "5": [
+          "Tine - Rumbling Thunder",
           "Mareeta - The Blade's Pawn",
           "Asbel - Windswept Youth",
           "Galzus - Dark Blade of Od",
@@ -9028,6 +9061,15 @@
       }
     },
     "Lull Spd/Res 3": {
+      "#": {
+        "5": [
+          "Ishtar - Echoing Thunder",
+          "Lysithea - Child Prodigy",
+          "Lysithea - Earnest Seeker"
+        ],
+        "name": "速度魔防的靜謐3",
+        "sp": 240
+      },
       "mythic": {
         "5": ["Ashera - Order Goddess"],
         "name": "速度魔防的靜謐3",
@@ -9040,11 +9082,6 @@
       },
       "legendary": {
         "5": ["Byleth - The Fódlan Light"],
-        "name": "速度魔防的靜謐3",
-        "sp": 240
-      },
-      "#": {
-        "5": ["Lysithea - Child Prodigy", "Lysithea - Earnest Seeker"],
         "name": "速度魔防的靜謐3",
         "sp": 240
       }
@@ -10379,23 +10416,6 @@
         "sp": 200
       }
     },
-    "Threat. Def/Res 2": {
-      "#": {
-        "5": ["Zeke - Past Unknown"],
-        "name": "防守魔防的威嚇2",
-        "sp": 200
-      },
-      "legendary": {
-        "5": ["Fae - Childlike Dragon"],
-        "name": "防守魔防的威嚇2",
-        "sp": 200
-      },
-      "grail": {
-        "4": ["Aelfric - Custodian Monk"],
-        "name": "防守魔防的威嚇2",
-        "sp": 200
-      }
-    },
     "Atk/Spd Menace": {
       "mythic": {
         "5": ["Nótt - Moon's Elegance"],
@@ -10434,6 +10454,13 @@
       "#": {
         "5": ["Niime - Mountain Hermit", "Morgan - Fated Darkness"],
         "name": "攻擊魔防的恐嚇",
+        "sp": 300
+      }
+    },
+    "Spd/Res Menace": {
+      "#": {
+        "5": ["Arthur - Furious Mage"],
+        "name": "速度魔防的恐嚇",
         "sp": 300
       }
     },
@@ -10693,6 +10720,7 @@
       },
       "#": {
         "5": [
+          "Ishtar - Echoing Thunder",
           "Pent - Mage General",
           "Shinon - Scathing Archer",
           "Volke - Man of Mysteries",
@@ -10996,6 +11024,11 @@
         "name": "防守之波・奇數3",
         "sp": 240
       },
+      "#": {
+        "5": ["Scáthach - Astra's Wake"],
+        "name": "防守之波・奇數3",
+        "sp": 240
+      },
       "legendary": {
         "5": ["Eirika - Graceful Resolve"],
         "name": "防守之波・奇數3",
@@ -11178,7 +11211,8 @@
     },
     "Atk/Res Gap 3": {
       "special": {
-        "5": ["Ilyana - Treat Harvester", "Ilyana - Awakened Appetite"],
+        "4": ["Ilyana - Awakened Appetite"],
+        "5": ["Ilyana - Treat Harvester"],
         "name": "攻擊魔防大開放3",
         "sp": 240
       }
@@ -11270,12 +11304,13 @@
       }
     },
     "Rouse Atk/Res 3": {
-      "#": { "5": ["Lyon - Demon King"], "name": "攻擊魔防的奮起3", "sp": 240 },
       "grail": {
+        "4": ["Hilda - Queen of Friege"],
         "5": ["Saleh - Vernal Sage"],
         "name": "攻擊魔防的奮起3",
         "sp": 240
-      }
+      },
+      "#": { "5": ["Lyon - Demon King"], "name": "攻擊魔防的奮起3", "sp": 240 }
     },
     "Rouse Spd/Def 3": {
       "#": {
@@ -11448,6 +11483,13 @@
       "#": {
         "5": ["Flavia - Feroxi East-Khan"],
         "name": "對赤的暗鬥3",
+        "sp": 240
+      }
+    },
+    "Blue Feud 3": {
+      "#": {
+        "5": ["Tine - Rumbling Thunder"],
+        "name": "對青的暗鬥3",
         "sp": 240
       }
     },
@@ -11688,6 +11730,30 @@
       "grail": {
         "4": ["Gonzalez - Kindly Bandit"],
         "name": "攻擊速度的威嚇2",
+        "sp": 200
+      }
+    },
+    "Threat. Def/Res 2": {
+      "#": {
+        "5": ["Zeke - Past Unknown"],
+        "name": "防守魔防的威嚇2",
+        "sp": 200
+      },
+      "legendary": {
+        "5": ["Fae - Childlike Dragon"],
+        "name": "防守魔防的威嚇2",
+        "sp": 200
+      },
+      "grail": {
+        "4": ["Aelfric - Custodian Monk"],
+        "name": "防守魔防的威嚇2",
+        "sp": 200
+      }
+    },
+    "Threat. Spd/Res 2": {
+      "#": {
+        "5": ["Arthur - Furious Mage"],
+        "name": "速度魔防的威嚇2",
         "sp": 200
       }
     },

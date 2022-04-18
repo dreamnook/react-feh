@@ -1315,6 +1315,20 @@
     "icon": "skillC/Threat._Spd_Def_2.png",
     "last": true
   },
+  "Threat. Spd/Res 1": {
+    "id": "Threat. Spd/Res 1",
+    "name": "速度魔防的威嚇1",
+    "sp": 100,
+    "prev": ["Threaten Spd 1", "Threaten Res 1"],
+    "icon": "skillC/Threat._Spd_Res_1.png"
+  },
+  "Threat. Spd/Res 2": {
+    "id": "Threat. Spd/Res 2",
+    "name": "速度魔防的威嚇2",
+    "sp": 200,
+    "prev": ["Threat. Spd/Res 1"],
+    "icon": "skillC/Threat._Spd_Res_2.png"
+  },
   "Threat. Def/Res 1": {
     "id": "Threat. Def/Res 1",
     "name": "防守魔防的威嚇1",
@@ -1327,14 +1341,13 @@
     "name": "防守魔防的威嚇2",
     "sp": 200,
     "prev": ["Threat. Def/Res 1"],
-    "icon": "skillC/Threat._Def_Res_2.png",
-    "last": true
+    "icon": "skillC/Threat._Def_Res_2.png"
   },
   "Atk/Spd Menace": {
     "id": "Atk/Spd Menace",
     "name": "攻擊速度的恐嚇",
     "sp": 300,
-    "prev": ["Threat. Atk/Spd 1"],
+    "prev": ["Threat. Atk/Spd 2"],
     "last": true,
     "icon": "skillC/Atk_Spd_Menace.png"
   },
@@ -1342,7 +1355,7 @@
     "id": "Atk/Def Menace",
     "name": "攻擊防守的恐嚇",
     "sp": 300,
-    "prev": ["Threat. Atk/Def 1"],
+    "prev": ["Threat. Atk/Def 2"],
     "last": true,
     "icon": "skillC/Atk_Def_Menace.png"
   },
@@ -1350,15 +1363,23 @@
     "id": "Atk/Res Menace",
     "name": "攻擊魔防的恐嚇",
     "sp": 300,
-    "prev": ["Threat. Atk/Res 1"],
+    "prev": ["Threat. Atk/Res 2"],
     "last": true,
     "icon": "skillC/Atk_Res_Menace.png"
+  },
+  "Spd/Res Menace": {
+    "id": "Spd/Res Menace",
+    "name": "速度魔防的恐嚇",
+    "sp": 300,
+    "prev": ["Threat. Spd/Res 2"],
+    "last": true,
+    "icon": "skillC/Spd_Res_Menace.png"
   },
   "Def/Res Menace": {
     "id": "Def/Res Menace",
     "name": "防守魔防的恐嚇",
     "sp": 300,
-    "prev": ["Threat. Def/Res 1"],
+    "prev": ["Threat. Def/Res 2"],
     "last": true,
     "icon": "skillC/Def_Res_Menace.png"
   },
@@ -2899,6 +2920,30 @@
     "prev": ["Red Feud 2"],
     "rules": "not.green",
     "icon": "skillC/Red_Feud_3.png",
+    "last": true
+  },
+  "Blue Feud 1": {
+    "id": "Blue Feud 1",
+    "name": "對青的暗鬥1",
+    "sp": 60,
+    "rules": "not.red",
+    "icon": "skillC/Blue_Feud_1.png"
+  },
+  "Blue Feud 2": {
+    "id": "Blue Feud 2",
+    "name": "對青的暗鬥2",
+    "sp": 120,
+    "prev": ["Blue Feud 1"],
+    "rules": "not.red",
+    "icon": "skillC/Blue_Feud_2.png"
+  },
+  "Blue Feud 3": {
+    "id": "Blue Feud 3",
+    "name": "對青的暗鬥3",
+    "sp": 240,
+    "prev": ["Blue Feud 2"],
+    "rules": "not.red",
+    "icon": "skillC/Blue_Feud_3.png",
     "last": true
   },
   "Green Feud 1": {

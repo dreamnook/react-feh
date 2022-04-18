@@ -2123,18 +2123,6 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
-  "Karin - Driven Knight": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 177,
-    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
-    "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
-  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -2551,6 +2539,19 @@
     "skillA": { "Atk/Res Solo 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Infantry Flash 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ilyana - Awakened Appetite": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 171,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Lull Atk/Res 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 4 } }
+  },
   "Marth - Legacied Hero": {
     "score": 196,
     "scoreTotal": 436,
@@ -2940,6 +2941,18 @@
     "special": { "Sol": { "sp": 200, "rarity": 4 } },
     "skillA": { "Brazen Spd/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 4 } }
+  },
+  "Karin - Driven Knight": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 177,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
   },
   "Basilio - Feroxi West-Khan": {
     "score": 199,
@@ -4855,6 +4868,18 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Scáthach - Astra's Wake": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 5 } }
+  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -5653,19 +5678,6 @@
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
-  "Ilyana - Awakened Appetite": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 171,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Lull Atk/Res 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 5 } }
-  },
   "Zephiel - Winter's Crown": {
     "score": 254,
     "scoreTotal": 721,
@@ -6317,6 +6329,19 @@
     "skillA": { "Atk/Def Push 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Escape Route 3": { "sp": 240, "rarity": 5 } }
   },
+  "Hilda - Queen of Friege": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 170,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Res 3": { "sp": 240, "rarity": 4 } }
+  },
   "Salem - Dark Sage": {
     "score": 322,
     "scoreTotal": 746,
@@ -6848,6 +6873,18 @@
     "assist": { "Rally Atk/Spd": { "sp": 300, "rarity": 4 } },
     "skillA": { "Spd/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def Tactic 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Arthur - Furious Mage": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 171,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Menace": { "sp": 300, "rarity": 5 } }
   },
   "Niime - Mountain Hermit": {
     "score": 300,
@@ -8548,6 +8585,19 @@
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 5 } }
   },
+  "Tine - Rumbling Thunder": {
+    "score": 300,
+    "scoreTotal": 980,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 1000,
+    "bst": 171,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Fury 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Blue Feud 3": { "sp": 240, "rarity": 5 } }
+  },
   "Marianne - Serene Adherent": {
     "score": 300,
     "scoreTotal": 980,
@@ -8586,6 +8636,19 @@
     "skillA": { "Steady Posture 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wrath 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Even Spd Wave 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Ishtar - Echoing Thunder": {
+    "score": 300,
+    "scoreTotal": 980,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 1000,
+    "bst": 172,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Lull Spd/Res 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Gerik - Desert Tiger": {
     "score": 300,
