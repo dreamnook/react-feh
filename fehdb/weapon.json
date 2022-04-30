@@ -19231,6 +19231,16 @@
       "exclusive": ["Idunn - Divine Demon"],
       "last": true
     },
+    "Shadow Breath": {
+      "id": "Shadow Breath",
+      "name": "暗黑地龍吐息",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Medeus - Earth-Dragon King"],
+      "last": true
+    },
     "Fire Breath": {
       "id": "Fire Breath",
       "name": "火之吐息",

@@ -2123,6 +2123,18 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
+  "Scáthach - Astra's Wake": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 182,
+    "special": { "Astra": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -4868,18 +4880,6 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
-  "Scáthach - Astra's Wake": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 182,
-    "special": { "Astra": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 5 } }
-  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -5113,6 +5113,19 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Def Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Medeus - Earth-Dragon King": {
+    "score": 276,
+    "scoreTotal": 681,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Def/Res Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
   },
   "Eitri - Youthful Sage": {
     "score": 276,

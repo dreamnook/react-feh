@@ -3568,6 +3568,32 @@
       "Chill Atk 3": 5
     }
   },
+  "Medeus - Earth-Dragon King": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Shadow Breath": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillA": {
+      "Def/Res Ideal 1": 2,
+      "Def/Res Ideal 2": 3,
+      "Def/Res Ideal 3": 4,
+      "Def/Res Ideal 4": 5
+    },
+    "skillB": {
+      "Assured Rebirth": 5
+    },
+    "skillC": {
+      "Canto Control 1": 1,
+      "Canto Control 2": 2,
+      "Canto Control 3": 4
+    }
+  },
   "Alm - Hero of Prophecy": {
     "weapon": {
       "Iron Sword": 1,
@@ -5435,28 +5461,6 @@
       "Deluge Dance 2": 4
     }
   },
-  "Hilda - Queen of Friege": {
-    "weapon": {
-      "Fire": 1,
-      "Elfire": 2,
-      "Bolganone": 4,
-      "Fiery Bolganone": 5
-    },
-    "special": {
-      "Chilling Wind": 4,
-      "Glacies": 4
-    },
-    "skillA": {
-      "Atk/Res Ideal 1": 3,
-      "Atk/Res Ideal 2": 4,
-      "Atk/Res Ideal 3": 5
-    },
-    "skillC": {
-      "Rouse Atk/Res 1": 1,
-      "Rouse Atk/Res 2": 2,
-      "Rouse Atk/Res 3": 4
-    }
-  },
   "Seliph - Heir of Light": {
     "weapon": {
       "Iron Sword": 1,
@@ -5943,6 +5947,28 @@
       "Time's Pulse 1": 3,
       "Time's Pulse 2": 4,
       "Time's Pulse 3": 5
+    }
+  },
+  "Hilda - Queen of Friege": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bolganone": 4,
+      "Fiery Bolganone": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillA": {
+      "Atk/Res Ideal 1": 3,
+      "Atk/Res Ideal 2": 4,
+      "Atk/Res Ideal 3": 5
+    },
+    "skillC": {
+      "Rouse Atk/Res 1": 1,
+      "Rouse Atk/Res 2": 2,
+      "Rouse Atk/Res 3": 4
     }
   },
   "Ullr - The Bowmaster": {

@@ -2988,6 +2988,30 @@
     "icon": "skillC/C_Feud_3.png",
     "last": true
   },
+  "Canto Control 1": {
+    "id": "Canto Control 1",
+    "name": "再移動限制1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillC/Canto_Control_1.png"
+  },
+  "Canto Control 2": {
+    "id": "Canto Control 2",
+    "name": "再移動限制2",
+    "sp": 120,
+    "prev": ["Canto Control 1"],
+    "rules": "infantry",
+    "icon": "skillC/Canto_Control_2.png"
+  },
+  "Canto Control 3": {
+    "id": "Canto Control 3",
+    "name": "再移動限制3",
+    "sp": 240,
+    "prev": ["Canto Control 2"],
+    "rules": "infantry",
+    "icon": "skillC/Canto_Control_3.png",
+    "last": true
+  },
   "Sword Exp. 1": {
     "id": "Sword Exp. 1",
     "name": "劍之經驗1",

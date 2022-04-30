@@ -361,6 +361,14 @@
     "last": true,
     "icon": "skillB/Hoðr's_Zeal.png"
   },
+  "Assured Rebirth": {
+    "id": "Assured Rebirth",
+    "name": "我於此復活",
+    "sp": 300,
+    "exclusive": ["Medeus - Earth-Dragon King"],
+    "last": true,
+    "icon": "skillB/Assured_Rebirth.png"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

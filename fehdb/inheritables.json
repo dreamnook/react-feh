@@ -3555,13 +3555,16 @@
     },
     "Astra": {
       "#": {
-        "4": ["Cordelia - Knight Paragon", "Virion - Elite Archer"],
+        "4": [
+          "Scáthach - Astra's Wake",
+          "Cordelia - Knight Paragon",
+          "Virion - Elite Archer"
+        ],
         "5": [
           "Celica - Warrior Priestess",
           "Ayra - Astra's Wielder",
           "Larcei - Keen Kin",
           "Shannan - Wielder of Astra",
-          "Scáthach - Astra's Wake",
           "Mareeta - Astra Awakened",
           "Roy - Brave Lion",
           "Lyn - Lady of the Plains",
@@ -4021,6 +4024,16 @@
         "name": "冰華",
         "sp": 200
       },
+      "mythic": {
+        "5": [
+          "Medeus - Earth-Dragon King",
+          "Yune - Chaos Goddess",
+          "Ashera - Order Goddess",
+          "Seiros - Saint of Legend"
+        ],
+        "name": "冰華",
+        "sp": 200
+      },
       "grail": {
         "4": [
           "Delthea - Tatarrah's Puppet",
@@ -4047,15 +4060,6 @@
           "Zephiel - Winter's Crown",
           "Felicia - Off the Menu",
           "Sakura - Gentle Nekomata"
-        ],
-        "name": "冰華",
-        "sp": 200
-      },
-      "mythic": {
-        "5": [
-          "Yune - Chaos Goddess",
-          "Ashera - Order Goddess",
-          "Seiros - Saint of Legend"
         ],
         "name": "冰華",
         "sp": 200
@@ -7320,6 +7324,11 @@
         "name": "防守魔防的萬全3",
         "sp": 240
       },
+      "mythic": {
+        "5": ["Medeus - Earth-Dragon King"],
+        "name": "防守魔防的萬全3",
+        "sp": 240
+      },
       "grail": {
         "5": ["Lissa - Sweet Celebrant"],
         "name": "防守魔防的萬全3",
@@ -7329,6 +7338,11 @@
     "Def/Res Ideal 4": {
       "special": {
         "5": ["Surtr - Pirate of Red Sky"],
+        "name": "防守魔防的萬全4",
+        "sp": 300
+      },
+      "mythic": {
+        "5": ["Medeus - Earth-Dragon King"],
         "name": "防守魔防的萬全4",
         "sp": 300
       }
@@ -11025,7 +11039,7 @@
         "sp": 240
       },
       "#": {
-        "5": ["Scáthach - Astra's Wake"],
+        "4": ["Scáthach - Astra's Wake"],
         "name": "防守之波・奇數3",
         "sp": 240
       },
@@ -11504,6 +11518,13 @@
       "harmonized": {
         "5": ["Lysithea - Gifted Students"],
         "name": "對無的暗鬥3",
+        "sp": 240
+      }
+    },
+    "Canto Control 3": {
+      "mythic": {
+        "5": ["Medeus - Earth-Dragon King"],
+        "name": "再移動限制3",
         "sp": 240
       }
     },

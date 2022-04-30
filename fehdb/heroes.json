@@ -6437,6 +6437,44 @@
       "jp": "Narita Ken (成田剣)"
     }
   },
+  "Medeus - Earth-Dragon King": {
+    "id": "Medeus - Earth-Dragon King",
+    "title": "地龍族之王",
+    "name": "梅迪烏斯",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-dragon",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "dark-atk-2",
+    "releaseDate": "2022-04-28",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 44, 47],
+        "spd": [15, 18, 21],
+        "def": [35, 38, 41],
+        "res": [39, 43, 46]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 3,
+        "def": 12,
+        "res": 10
+      }
+    },
+    "assets": [],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 183,
+    "statMax": 185,
+    "voice": {
+      "en": "Dennis Hull",
+      "jp": "Chafurin (茶風林)"
+    }
+  },
   "Alm - Hero of Prophecy": {
     "id": "Alm - Hero of Prophecy",
     "title": "預言的勇者",
@@ -9975,70 +10013,6 @@
       "jp": "Yukana (ゆかな)"
     }
   },
-  "Hilda - Queen of Friege": {
-    "id": "Hilda - Queen of Friege",
-    "title": "弗立吉的女王",
-    "name": "希爾妲",
-    "rarity": [5, 4, 3],
-    "colorType": "red",
-    "moveType": "infantry",
-    "weaponType": "red-tome",
-    "pool": "grail",
-    "releaseDate": "2022-04-19",
-    "appearsIn": ["Genealogy of the Holy War"],
-    "stats": {
-      "3": {
-        "hp": [34, 37, 40],
-        "atk": [33, 36, 39],
-        "spd": [19, 22, 25],
-        "def": [18, 21, 24],
-        "res": [33, 36, 39]
-      },
-      "4": {
-        "hp": [35, 38, 41],
-        "atk": [35, 38, 42],
-        "spd": [20, 23, 26],
-        "def": [19, 22, 25],
-        "res": [35, 38, 42]
-      },
-      "5": {
-        "hp": [38, 41, 44],
-        "atk": [37, 40, 44],
-        "spd": [22, 25, 28],
-        "def": [21, 24, 28],
-        "res": [37, 40, 44]
-      },
-      "3-1": {
-        "hp": 16,
-        "atk": 9,
-        "spd": 7,
-        "def": 4,
-        "res": 9
-      },
-      "4-1": {
-        "hp": 16,
-        "atk": 10,
-        "spd": 7,
-        "def": 4,
-        "res": 10
-      },
-      "5-1": {
-        "hp": 17,
-        "atk": 10,
-        "spd": 8,
-        "def": 5,
-        "res": 10
-      }
-    },
-    "assets": ["atk", "def", "res"],
-    "flaws": [],
-    "statMin": 170,
-    "statMax": 170,
-    "voice": {
-      "en": "Liz Morey",
-      "jp": "Yuko Sanpei (三瓶由布子)"
-    }
-  },
   "Seliph - Heir of Light": {
     "id": "Seliph - Heir of Light",
     "title": "光之繼承者",
@@ -10251,19 +10225,33 @@
     "id": "Scáthach - Astra's Wake",
     "title": "奔馳大地的流星",
     "name": "斯卡薩哈",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
     "releaseDate": "2022-04-18",
     "appearsIn": ["Genealogy of the Holy War"],
     "stats": {
+      "4": {
+        "hp": [37, 40, 43],
+        "atk": [37, 40, 44],
+        "spd": [24, 27, 30],
+        "def": [37, 41, 44],
+        "res": [19, 22, 25]
+      },
       "5": {
         "hp": [40, 43, 46],
         "atk": [39, 42, 46],
         "spd": [26, 30, 33],
         "def": [39, 43, 46],
         "res": [21, 24, 28]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 7,
+        "def": 10,
+        "res": 4
       },
       "5-1": {
         "hp": 19,
@@ -10889,6 +10877,70 @@
     "voice": {
       "en": "Ratana",
       "jp": "Kadowaki Mai (門脇舞以)"
+    }
+  },
+  "Hilda - Queen of Friege": {
+    "id": "Hilda - Queen of Friege",
+    "title": "弗立吉的女王",
+    "name": "希爾妲",
+    "rarity": [5, 4, 3],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-tome",
+    "pool": "grail",
+    "releaseDate": "2022-04-19",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [33, 36, 39],
+        "spd": [19, 22, 25],
+        "def": [18, 21, 24],
+        "res": [33, 36, 39]
+      },
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [35, 38, 42],
+        "spd": [20, 23, 26],
+        "def": [19, 22, 25],
+        "res": [35, 38, 42]
+      },
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [37, 40, 44],
+        "spd": [22, 25, 28],
+        "def": [21, 24, 28],
+        "res": [37, 40, 44]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 7,
+        "def": 4,
+        "res": 9
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 7,
+        "def": 4,
+        "res": 10
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 8,
+        "def": 5,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "def", "res"],
+    "flaws": [],
+    "statMin": 170,
+    "statMax": 170,
+    "voice": {
+      "en": "Liz Morey",
+      "jp": "Yuko Sanpei (三瓶由布子)"
     }
   },
   "Ullr - The Bowmaster": {

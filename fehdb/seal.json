@@ -4688,6 +4688,24 @@
       "prev": ["Squad Ace BD 1"],
       "icon": "seal/Squad_Ace_Atk_Def_2.png",
       "last": true
+    },
+    "Squad Ace BE 1": {
+      "id": "Squad Ace BE 1",
+      "name": "第５７迷宮的霸王1",
+      "sp": 100,
+      "atk": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_Atk_Res_1.png"
+    },
+    "Squad Ace BE 2": {
+      "id": "Squad Ace BE 2",
+      "name": "第５７迷宮的霸王2",
+      "sp": 200,
+      "atk": 2,
+      "res": 2,
+      "prev": ["Squad Ace BE 1"],
+      "icon": "seal/Squad_Ace_Atk_Res_2.png",
+      "last": true
     }
   }
 }
