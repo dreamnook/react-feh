@@ -369,6 +369,14 @@
     "last": true,
     "icon": "skillB/Assured_Rebirth.png"
   },
+  "True Dragon Wall": {
+    "id": "True Dragon Wall",
+    "name": "真龍鱗防護障壁",
+    "sp": 300,
+    "exclusive": ["Rhea - Immaculate One"],
+    "last": true,
+    "icon": "skillB/True_Dragon_Wall.png"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

@@ -407,6 +407,41 @@
       "jp": "Nakata Jouji (中田譲治)"
     }
   },
+  "Gustav - Sovereign Slain": {
+    "id": "Gustav - Sovereign Slain",
+    "title": "已逝之王",
+    "name": "古斯塔夫",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "releaseDate": "2022-05-10",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [21, 25, 28],
+        "def": [35, 38, 41],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 3,
+        "def": 10,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 174,
+    "statMax": 175,
+    "voice": {
+      "en": "Edward Bosco",
+      "jp": "Nakata Jouji (中田譲治)"
+    }
+  },
   "Henriette - Overflowing Love": {
     "id": "Henriette - Overflowing Love",
     "title": "滿溢的慈愛",
@@ -10302,7 +10337,7 @@
     "statMax": 175,
     "voice": {
       "en": "Joe Mucciolo",
-      "jp": "土田玲央"
+      "jp": "Reiou Tsuchida (土田玲央)"
     }
   },
   "Tine - Rumbling Thunder": {
@@ -17114,6 +17149,41 @@
       "jp": "Suzaki Aya (洲崎綾)"
     }
   },
+  "Ninian - Frozen Heart": {
+    "id": "Ninian - Frozen Heart",
+    "title": "被奪去心靈的冰龍",
+    "name": "尼尼安",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-dragon",
+    "releaseDate": "2022-05-10",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [24, 27, 30],
+        "spd": [37, 40, 44],
+        "def": [20, 23, 26],
+        "res": [33, 36, 39]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 3,
+        "spd": 10,
+        "def": 6,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": [],
+    "statMin": 171,
+    "statMax": 175,
+    "voice": {
+      "en": "Brianna Knickerbocker",
+      "jp": "Suzaki Aya (洲崎綾)"
+    }
+  },
   "Nils - Bright Bard": {
     "id": "Nils - Bright Bard",
     "title": "爽朗的笛音",
@@ -23371,6 +23441,70 @@
       "jp": "Okitsu Kazuyuki (興津和幸)"
     }
   },
+  "Muarim - Raw Instinct": {
+    "id": "Muarim - Raw Instinct",
+    "title": "失控的本能",
+    "name": "穆瓦瑞姆",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-beast",
+    "pool": "grail",
+    "releaseDate": "2022-05-11",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "3": {
+        "hp": [38, 41, 44],
+        "atk": [35, 38, 41],
+        "spd": [33, 36, 39],
+        "def": [24, 27, 30],
+        "res": [17, 20, 23]
+      },
+      "4": {
+        "hp": [39, 42, 45],
+        "atk": [37, 41, 44],
+        "spd": [35, 38, 42],
+        "def": [25, 28, 31],
+        "res": [18, 21, 24]
+      },
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [39, 43, 46],
+        "spd": [37, 40, 44],
+        "def": [27, 31, 34],
+        "res": [20, 23, 26]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 9,
+        "def": 8,
+        "res": 5
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 8,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 10,
+        "def": 9,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["atk", "def"],
+    "statMin": 182,
+    "statMax": 185,
+    "voice": {
+      "en": "Kevin Urban",
+      "jp": "櫻井トオル"
+    }
+  },
   "Vika - Sea-Dark Wing": {
     "id": "Vika - Sea-Dark Wing",
     "title": "飛越海洋的黑翼",
@@ -28811,6 +28945,41 @@
       "jp": "Murai Kazusa (村井かずさ)"
     }
   },
+  "Lilith - Silent Broodling": {
+    "id": "Lilith - Silent Broodling",
+    "title": "透魔龍的女兒",
+    "name": "莉莉絲",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-dragon",
+    "releaseDate": "2022-05-10",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [36, 40, 43],
+        "spd": [40, 43, 46],
+        "def": [26, 29, 32],
+        "res": [30, 33, 36]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 7,
+        "spd": 8,
+        "def": 5,
+        "res": 7
+      }
+    },
+    "assets": [],
+    "flaws": ["hp", "atk"],
+    "statMin": 184,
+    "statMax": 185,
+    "voice": {
+      "en": "Danielle Judovitz",
+      "jp": "Murai Kazusa (村井かずさ)"
+    }
+  },
   "Mikoto - Caring Mother": {
     "id": "Mikoto - Caring Mother",
     "title": "拂過夢境的慈母",
@@ -33250,6 +33419,41 @@
     "flaws": ["hp", "atk", "spd"],
     "statMin": 182,
     "statMax": 185,
+    "voice": {
+      "en": "Cherami Leigh",
+      "jp": "Inoue Kikuko (井上喜久子)"
+    }
+  },
+  "Rhea - Immaculate One": {
+    "id": "Rhea - Immaculate One",
+    "title": "純白無瑕者",
+    "name": "蕾雅",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "armored",
+    "weaponType": "white-dragon",
+    "releaseDate": "2022-05-10",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [40, 43, 47],
+        "spd": [14, 18, 21],
+        "def": [37, 40, 44],
+        "res": [39, 43, 46]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 13,
+        "spd": 5,
+        "def": 10,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["spd", "res"],
+    "statMin": 190,
+    "statMax": 190,
     "voice": {
       "en": "Cherami Leigh",
       "jp": "Inoue Kikuko (井上喜久子)"

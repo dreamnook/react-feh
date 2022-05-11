@@ -4895,6 +4895,38 @@
       },
       "last": true
     },
+    "Icy Maltet": {
+      "id": "Icy Maltet",
+      "name": "冰槍馬爾堤",
+      "mt": 16,
+      "sp": 400,
+      "prev": ["Vanguard+"],
+      "exclusive": ["Thea - Stormy Flier"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Icy_Maltet_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Iron Lance": {
       "id": "Iron Lance",
       "name": "鐵槍",
@@ -5231,8 +5263,7 @@
           "hp": 5,
           "res": 4
         }
-      },
-      "last": true
+      }
     },
     "Barrier Lance": {
       "id": "Barrier Lance",
@@ -6732,6 +6763,29 @@
       "spd": 3,
       "sp": 400,
       "exclusive": ["Felicia - Off the Menu"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Eldhrímnir_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Camilla's Axe": {
@@ -7433,6 +7487,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Boyd - Future Great"],
+      "last": true
+    },
+    "Headsman Glitnir": {
+      "id": "Headsman Glitnir",
+      "name": "死斧格利特尼爾",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Gustav - Sovereign Slain"],
       "last": true
     },
     "Iron Axe": {
@@ -12663,9 +12727,33 @@
       "id": "Kitsune Fang",
       "name": "妖狐王的爪牙",
       "mt": 14,
+      "def": 3,
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Kaden - Kitsune Braggart"],
+      "refine": {
+        "raven": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Kitsune_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Wolfskin Fang": {
@@ -12950,6 +13038,16 @@
       "exclusive": ["Nailah - Hatari Scorcher"],
       "last": true
     },
+    "Wild Tiger Fang": {
+      "id": "Wild Tiger Fang",
+      "name": "失控之虎的爪牙",
+      "mt": 14,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Adult (Infantry)"],
+      "exclusive": ["Muarim - Raw Instinct"],
+      "last": true
+    },
     "Whelp (Infantry)": {
       "id": "Whelp (Infantry)",
       "name": "幼獸化身・步行",
@@ -13082,6 +13180,28 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Gharnef - Dark Pontifex"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Imhullu_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Ragnarok": {
@@ -18674,6 +18794,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Duma - God of Strength"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Fell_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Demonic Breath": {
@@ -18684,6 +18827,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Idunn - Dark Priestess"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Demonic_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Great Flame": {
@@ -19239,6 +19405,36 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Medeus - Earth-Dragon King"],
+      "last": true
+    },
+    "Enveloping Breath": {
+      "id": "Enveloping Breath",
+      "name": "茫漠吐息",
+      "mt": 16,
+      "res": 3,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Ninian - Frozen Heart"],
+      "last": true
+    },
+    "Silent Power": {
+      "id": "Silent Power",
+      "name": "透魔龍之力",
+      "mt": 16,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Water Breath"],
+      "exclusive": ["Lilith - Silent Broodling"],
+      "last": true
+    },
+    "Ruinous Frost": {
+      "id": "Ruinous Frost",
+      "name": "滅亡的霜雪",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Rhea - Immaculate One"],
       "last": true
     },
     "Fire Breath": {

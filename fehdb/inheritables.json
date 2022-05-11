@@ -394,14 +394,6 @@
           "refine": 350
         }
       },
-      "Vanguard+": {
-        "#": {
-          "5": ["Thea - Stormy Flier", "Ferdinand - Noblest of Nobles"],
-          "name": "守護之槍+",
-          "sp": 300,
-          "refine": 350
-        }
-      },
       "Barrier Lance+": {
         "grail": {
           "5": ["Conrad - Masked Knight"],
@@ -3509,6 +3501,7 @@
           "Morgan - Devoted Darkness",
           "Corrin - Bloodbound Beast",
           "Charlotte - Wily Warrior",
+          "Rhea - Immaculate One",
           "Dimitri - Savage Boar",
           "Claude - The Schemer",
           "Yuri - Ashen Valiant",
@@ -3728,6 +3721,7 @@
           "Flavia - Feroxi East-Khan",
           "Kjelle - Fair Fighter",
           "Corrin - Dream Princess",
+          "Lilith - Silent Broodling",
           "Keaton - Lupine Collector",
           "Kana - Dragon Princess",
           "Byleth - Proven Professor",
@@ -3787,6 +3781,7 @@
           "Heath - Wandering Knight",
           "Caellach - Tiger Eye",
           "Ashnard - Mad King",
+          "Muarim - Raw Instinct",
           "Aversa - Dark One",
           "Garon - King of Nohr",
           "Kana - Dragon Spawn",
@@ -3824,11 +3819,6 @@
         "name": "緋炎",
         "sp": 200
       },
-      "harmonized": {
-        "5": ["Veronica - Harmonic Pirates"],
-        "name": "緋炎",
-        "sp": 200
-      },
       "#": {
         "4": [
           "Robin - High Deliverer",
@@ -3836,6 +3826,7 @@
           "Tiki - Naga's Voice"
         ],
         "5": [
+          "Gustav - Sovereign Slain",
           "Surtr - Ruler of Flame",
           "Laegjarn - Sheathed Steel",
           "Luke - Rowdy Squire",
@@ -3853,6 +3844,11 @@
           "Edelgard - Hegemon Husk",
           "Mamori - Microwavin' Idol"
         ],
+        "name": "緋炎",
+        "sp": 200
+      },
+      "harmonized": {
+        "5": ["Veronica - Harmonic Pirates"],
         "name": "緋炎",
         "sp": 200
       },
@@ -4702,6 +4698,11 @@
         "name": "獅子奮迅3",
         "sp": 200
       },
+      "mythic": {
+        "5": ["Duma - God of Strength"],
+        "name": "獅子奮迅3",
+        "sp": 200
+      },
       "legendary": {
         "5": ["Micaiah - Radiant Queen"],
         "name": "獅子奮迅3",
@@ -4727,6 +4728,11 @@
       },
       "special": {
         "5": ["Est - Springtime Flier", "Greil - Heroic Exemplar"],
+        "name": "獅子奮迅4",
+        "sp": 300
+      },
+      "mythic": {
+        "5": ["Duma - God of Strength"],
         "name": "獅子奮迅4",
         "sp": 300
       },
@@ -5445,7 +5451,11 @@
         "sp": 240
       },
       "#": {
-        "5": ["Olivia - Sky-High Dancer", "Benny - Sensitive Soul"],
+        "5": [
+          "Olivia - Sky-High Dancer",
+          "Benny - Sensitive Soul",
+          "Rhea - Immaculate One"
+        ],
         "name": "金剛明鏡架勢2",
         "sp": 240
       }
@@ -5458,6 +5468,11 @@
       },
       "mythic": {
         "5": ["Mila - Goddess of Love"],
+        "name": "金剛明鏡架勢3",
+        "sp": 300
+      },
+      "#": {
+        "5": ["Rhea - Immaculate One"],
         "name": "金剛明鏡架勢3",
         "sp": 300
       }
@@ -6797,14 +6812,14 @@
         "sp": 300
       },
       "#": {
-        "5": ["Marianne - Adopted Daughter"],
+        "5": ["Ninian - Frozen Heart", "Marianne - Adopted Daughter"],
         "name": "青色死鬥・步行3",
         "sp": 300
       }
     },
     "B Duel Infantry 4": {
       "#": {
-        "5": ["Marianne - Adopted Daughter"],
+        "5": ["Ninian - Frozen Heart", "Marianne - Adopted Daughter"],
         "name": "青色死鬥・步行4",
         "sp": 300
       }
@@ -7140,7 +7155,7 @@
         "sp": 240
       },
       "#": {
-        "5": ["Farina - The Great Wing"],
+        "5": ["Farina - The Great Wing", "Lilith - Silent Broodling"],
         "name": "攻擊速度的先機3",
         "sp": 240
       },
@@ -7162,7 +7177,7 @@
         "sp": 300
       },
       "#": {
-        "5": ["Farina - The Great Wing"],
+        "5": ["Farina - The Great Wing", "Lilith - Silent Broodling"],
         "name": "攻擊速度的先機4",
         "sp": 300
       },
@@ -7173,13 +7188,13 @@
       }
     },
     "Atk/Def Catch 3": {
-      "grail": {
-        "5": ["Sedgar - Coyote's Dutiful"],
+      "#": {
+        "5": ["Gustav - Sovereign Slain", "Zeke - Past Unknown"],
         "name": "攻擊防守的先機3",
         "sp": 240
       },
-      "#": {
-        "5": ["Zeke - Past Unknown"],
+      "grail": {
+        "5": ["Sedgar - Coyote's Dutiful"],
         "name": "攻擊防守的先機3",
         "sp": 240
       },
@@ -7191,7 +7206,7 @@
     },
     "Atk/Def Catch 4": {
       "#": {
-        "5": ["Zeke - Past Unknown"],
+        "5": ["Gustav - Sovereign Slain", "Zeke - Past Unknown"],
         "name": "攻擊防守的先機4",
         "sp": 300
       },
@@ -8450,14 +8465,14 @@
         "sp": 240
       },
       "#": {
-        "5": ["Morgan - Devoted Darkness"],
+        "5": ["Morgan - Devoted Darkness", "Lilith - Silent Broodling"],
         "name": "空中突襲3",
         "sp": 240
       }
     },
     "Wrath 3": {
       "grail": {
-        "4": ["Hana - Focused Ninja"],
+        "4": ["Muarim - Raw Instinct", "Hana - Focused Ninja"],
         "5": ["Astram - Midia's Hero"],
         "name": "憤怒3",
         "sp": 240
@@ -9189,6 +9204,11 @@
       }
     },
     "Odd Pulse Tie 3": {
+      "#": {
+        "5": ["Ninian - Frozen Heart"],
+        "name": "鼓動的封緘・奇數3",
+        "sp": 240
+      },
       "special": {
         "5": ["Oboro - Fierce Bride-to-Be"],
         "name": "鼓動的封緘・奇數3",
@@ -9196,6 +9216,11 @@
       }
     },
     "A/D Near Trace 3": {
+      "#": {
+        "5": ["Gustav - Sovereign Slain"],
+        "name": "攻擊防守近影3",
+        "sp": 240
+      },
       "harmonized": {
         "5": ["Catria - Azure Wing Pair"],
         "name": "攻擊防守近影3",
@@ -9349,7 +9374,11 @@
       },
       "#": {
         "4": ["Barst - The Hatchet", "Lilina - Delightful Noble"],
-        "5": ["Ogma - Loyal Blade", "Lucina - Future Witness"],
+        "5": [
+          "Ogma - Loyal Blade",
+          "Ninian - Frozen Heart",
+          "Lucina - Future Witness"
+        ],
         "name": "攻擊紋章3",
         "sp": 200
       }
@@ -9461,7 +9490,8 @@
         "5": ["Reginn - Bearing Dawn"],
         "name": "十字攻擊紋章",
         "sp": 300
-      }
+      },
+      "#": { "5": ["Ninian - Frozen Heart"], "name": "十字攻擊紋章", "sp": 300 }
     },
     "Cross Spur Res": {
       "harmonized": {
@@ -10592,14 +10622,18 @@
       }
     },
     "Atk Smoke 3": {
-      "legendary": {
-        "5": ["Hríd - Icy Blade"],
+      "#": {
+        "4": ["Kaze - Easygoing Ninja"],
+        "5": [
+          "Gustav - Sovereign Slain",
+          "Lyn - Brave Lady",
+          "Leila - Rose amid Fangs"
+        ],
         "name": "攻擊紫煙3",
         "sp": 240
       },
-      "#": {
-        "4": ["Kaze - Easygoing Ninja"],
-        "5": ["Lyn - Brave Lady", "Leila - Rose amid Fangs"],
+      "legendary": {
+        "5": ["Hríd - Icy Blade"],
         "name": "攻擊紫煙3",
         "sp": 240
       },
@@ -10614,10 +10648,17 @@
         "sp": 240
       }
     },
+    "Atk Smoke 4": {
+      "#": { "5": ["Gustav - Sovereign Slain"], "name": "攻擊紫煙4", "sp": 300 }
+    },
     "Spd Smoke 3": {
       "#": {
         "4": ["Chad - Lycian Wildcat"],
-        "5": ["Sigurd - Holy Knight", "Nino - Pale Flower"],
+        "5": [
+          "Sigurd - Holy Knight",
+          "Nino - Pale Flower",
+          "Lilith - Silent Broodling"
+        ],
         "name": "速度紫煙3",
         "sp": 240
       },
@@ -10625,6 +10666,13 @@
         "5": ["Takumi - Empty Vessel"],
         "name": "速度紫煙3",
         "sp": 240
+      }
+    },
+    "Spd Smoke 4": {
+      "#": {
+        "5": ["Lilith - Silent Broodling"],
+        "name": "速度紫煙4",
+        "sp": 300
       }
     },
     "Def Smoke 3": {
@@ -10885,7 +10933,7 @@
         "sp": 300
       },
       "#": {
-        "5": ["Idunn - Divine Demon"],
+        "5": ["Idunn - Divine Demon", "Rhea - Immaculate One"],
         "name": "盾之守護人・近處3",
         "sp": 300
       }
@@ -11075,6 +11123,7 @@
     "Even Atk Wave 3": {
       "grail": {
         "4": ["Delthea - Tatarrah's Puppet", "Ashnard - Mad King"],
+        "5": ["Muarim - Raw Instinct"],
         "name": "攻擊之波・偶數3",
         "sp": 240
       },
@@ -11684,7 +11733,7 @@
         "sp": 200
       },
       "#": {
-        "5": ["Idunn - Divine Demon"],
+        "5": ["Idunn - Divine Demon", "Rhea - Immaculate One"],
         "name": "盾之守護人・近處2",
         "sp": 200
       }

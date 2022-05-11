@@ -3950,19 +3950,6 @@
     "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Infantry Flash 3": { "sp": 240, "rarity": 5 } }
   },
-  "Duma - God of Strength": {
-    "score": 221,
-    "scoreTotal": 626,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 174,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Def/Res Solo 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
   "Roy - Blazing Lion": {
     "score": 221,
     "scoreTotal": 626,
@@ -5009,6 +4996,19 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Duma - God of Strength": {
+    "score": 276,
+    "scoreTotal": 681,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Fury 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Hector - Marquess of Ostia": {
     "score": 276,
@@ -6433,6 +6433,19 @@
     "skillA": { "Bracing Stance 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Muarim - Raw Instinct": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 182,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Wrath 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Even Atk Wave 3": { "sp": 240, "rarity": 5 } }
+  },
   "Micaiah - Summer's Dawn": {
     "score": 254,
     "scoreTotal": 763,
@@ -6983,6 +6996,18 @@
     "skillA": { "Sturdy Stance 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Near Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Rhea - Immaculate One": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Bracing Stance 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "D/R Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
   "Ursula - Blue Crow": {
     "score": 403,
     "scoreTotal": 801,
@@ -7218,6 +7243,18 @@
     "skillA": { "Death Blow 3": { "sp": 200, "rarity": 5 } },
     "skillB": { "Vantage 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Ninian - Frozen Heart": {
+    "score": 300,
+    "scoreTotal": 840,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 840,
+    "feather": 1000,
+    "bst": 171,
+    "skillA": { "B Duel Infantry 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Odd Pulse Tie 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Cross Spur Atk": { "sp": 300, "rarity": 5 } }
   },
   "Ranulf - Friend of Nations": {
     "score": 400,
@@ -9460,6 +9497,19 @@
     "skillB": { "Dive-Bomb 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Def Menace": { "sp": 300, "rarity": 5 } }
   },
+  "Gustav - Sovereign Slain": {
+    "score": 300,
+    "scoreTotal": 1040,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/D Near Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
   "Dieck - Wounded Tiger": {
     "score": 300,
     "scoreTotal": 1040,
@@ -9485,6 +9535,19 @@
     "skillA": { "Atk/Def Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Rouse Spd/Def 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Lilith - Silent Broodling": {
+    "score": 300,
+    "scoreTotal": 1040,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dive-Bomb 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Fjorm - Ice Ascendant": {
     "score": 300,

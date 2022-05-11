@@ -210,6 +210,35 @@
       "D/R Near Save 3": 5
     }
   },
+  "Gustav - Sovereign Slain": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Headsman Glitnir": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4
+    },
+    "skillA": {
+      "Atk/Def Catch 1": 2,
+      "Atk/Def Catch 2": 3,
+      "Atk/Def Catch 3": 4,
+      "Atk/Def Catch 4": 5
+    },
+    "skillB": {
+      "A/D Near Trace 1": 1,
+      "A/D Near Trace 2": 2,
+      "A/D Near Trace 3": 4
+    },
+    "skillC": {
+      "Atk Smoke 1": 2,
+      "Atk Smoke 2": 3,
+      "Atk Smoke 3": 4,
+      "Atk Smoke 4": 5
+    }
+  },
   "Henriette - Overflowing Love": {
     "weapon": {
       "Fire": 1,
@@ -4803,7 +4832,11 @@
     "skillA": {
       "Def/Res Solo 1": 1,
       "Def/Res Solo 2": 2,
-      "Def/Res Solo 3": 4
+      "Def/Res Solo 3": 4,
+      "Fury 1": 1,
+      "Fury 2": 2,
+      "Fury 3": 4,
+      "Fury 4": 5
     },
     "skillB": {
       "Bold Fighter 1": 3,
@@ -4811,7 +4844,8 @@
       "Bold Fighter 3": 5
     },
     "skillC": {
-      "Upheaval": 5
+      "Upheaval": 5,
+      "Upheaval+": 5
     }
   },
   "Mila - Goddess of Love": {
@@ -7446,7 +7480,8 @@
       "Iron Lance": 1,
       "Steel Lance": 3,
       "Vanguard": 4,
-      "Vanguard+": 5
+      "Vanguard+": 5,
+      "Icy Maltet": 5
     },
     "special": {
       "Glowing Ember": 4,
@@ -9154,6 +9189,35 @@
       "Spur Spd 1": 1,
       "Drive Spd 1": 2,
       "Drive Spd 2": 4
+    }
+  },
+  "Ninian - Frozen Heart": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Enveloping Breath": 5
+    },
+    "assist": {
+      "Dance": 4,
+      "Call to Flame": 5
+    },
+    "skillA": {
+      "B Duel Infantry 1": 2,
+      "B Duel Infantry 2": 3,
+      "B Duel Infantry 3": 4,
+      "B Duel Infantry 4": 5
+    },
+    "skillB": {
+      "Odd Pulse Tie 1": 1,
+      "Odd Pulse Tie 2": 2,
+      "Odd Pulse Tie 3": 4
+    },
+    "skillC": {
+      "Spur Atk 1": 2,
+      "Spur Atk 2": 3,
+      "Spur Atk 3": 4,
+      "Cross Spur Atk": 5
     }
   },
   "Nils - Bright Bard": {
@@ -12525,6 +12589,28 @@
       "Stall Ploy 3": 5
     }
   },
+  "Muarim - Raw Instinct": {
+    "weapon": {
+      "Whelp (Infantry)": 1,
+      "Yearling (Infantry)": 2,
+      "Adult (Infantry)": 4,
+      "Wild Tiger Fang": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillB": {
+      "Wrath 1": 1,
+      "Wrath 2": 2,
+      "Wrath 3": 4
+    },
+    "skillC": {
+      "Even Atk Wave 1": 3,
+      "Even Atk Wave 2": 4,
+      "Even Atk Wave 3": 5
+    }
+  },
   "Vika - Sea-Dark Wing": {
     "weapon": {
       "Hatchling (Flier)": 1,
@@ -15345,6 +15431,35 @@
       "Joint Drive Atk": 5
     }
   },
+  "Lilith - Silent Broodling": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Water Breath": 4,
+      "Silent Power": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "Dive-Bomb 1": 1,
+      "Dive-Bomb 2": 2,
+      "Dive-Bomb 3": 4
+    },
+    "skillC": {
+      "Spd Smoke 1": 2,
+      "Spd Smoke 2": 3,
+      "Spd Smoke 3": 4,
+      "Spd Smoke 4": 5
+    }
+  },
   "Mikoto - Caring Mother": {
     "weapon": {
       "Assault": 1,
@@ -17674,6 +17789,32 @@
       "Dragon Wall 1": 1,
       "Dragon Wall 2": 2,
       "Dragon Wall 3": 4
+    }
+  },
+  "Rhea - Immaculate One": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Ruinous Frost": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Warding Stance 1": 2,
+      "Bracing Stance 1": 3,
+      "Bracing Stance 2": 4,
+      "Bracing Stance 3": 5
+    },
+    "skillB": {
+      "True Dragon Wall": 5
+    },
+    "skillC": {
+      "D/R Near Save 1": 1,
+      "D/R Near Save 2": 2,
+      "D/R Near Save 3": 4
     }
   },
   "Edelgard - The Future": {

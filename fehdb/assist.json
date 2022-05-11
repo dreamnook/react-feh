@@ -113,7 +113,8 @@
       "Peony - Álfar Dream Duo",
       "Plumeria - Temptation Anew",
       "Dorothea - Twilit Harmony",
-      "Mirabilis - Sugarplum Vision"
+      "Mirabilis - Sugarplum Vision",
+      "Ninian - Frozen Heart"
     ],
     "last": true
   },
@@ -178,6 +179,14 @@
     "range": 1,
     "prev": ["Swap"],
     "exclusive": ["Yuri - Ashen Valiant"],
+    "last": true
+  },
+  "Call to Flame": {
+    "id": "Call to Flame",
+    "name": "來吧，火龍們",
+    "sp": 400,
+    "prev": ["Dance"],
+    "exclusive": ["Ninian - Frozen Heart"],
     "last": true
   },
   "Heal": {

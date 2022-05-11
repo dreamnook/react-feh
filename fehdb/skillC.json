@@ -84,6 +84,15 @@
     "last": true,
     "icon": "skillC/Glare.png"
   },
+  "Upheaval+": {
+    "id": "Upheaval+",
+    "name": "超級地震・神",
+    "sp": 300,
+    "prev": ["Upheaval"],
+    "exclusive": ["Duma - God of Strength"],
+    "last": true,
+    "icon": "skillC/Upheaval+.png"
+  },
   "Upheaval": {
     "id": "Upheaval",
     "name": "超級地震",
@@ -1533,6 +1542,15 @@
     "icon": "skillC/Atk_Smoke_3.png",
     "last": true
   },
+  "Atk Smoke 4": {
+    "id": "Atk Smoke 4",
+    "name": "攻擊紫煙4",
+    "sp": 300,
+    "prev": ["Atk Smoke 3"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Atk_Smoke_4.png",
+    "last": true
+  },
   "Spd Smoke 1": {
     "id": "Spd Smoke 1",
     "name": "速度紫煙1",
@@ -1555,6 +1573,15 @@
     "prev": ["Spd Smoke 2"],
     "rules": "not.white-staff",
     "icon": "skillC/Spd_Smoke_3.png",
+    "last": true
+  },
+  "Spd Smoke 4": {
+    "id": "Spd Smoke 4",
+    "name": "速度紫煙4",
+    "sp": 300,
+    "prev": ["Spd Smoke 3"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Spd_Smoke_4.png",
     "last": true
   },
   "Def Smoke 1": {
