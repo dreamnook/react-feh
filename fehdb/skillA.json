@@ -3488,12 +3488,18 @@
     "id": "Still Water 1",
     "name": "止水1",
     "sp": 50,
+    "atk": 3,
+    "res": 3,
+    "def": -3,
     "icon": "skillA/Still_Water_1.png"
   },
   "Still Water 2": {
     "id": "Still Water 2",
     "name": "止水2",
     "sp": 100,
+    "atk": 4,
+    "res": 4,
+    "def": -4,
     "prev": ["Still Water 1"],
     "icon": "skillA/Still_Water_2.png"
   },
@@ -3501,6 +3507,9 @@
     "id": "Still Water 3",
     "name": "止水3",
     "sp": 200,
+    "atk": 5,
+    "res": 5,
+    "def": -5,
     "prev": ["Still Water 2"],
     "icon": "skillA/Still_Water_3.png",
     "last": true
@@ -3509,6 +3518,9 @@
     "id": "Still Water 4",
     "name": "止水4",
     "sp": 300,
+    "atk": 7,
+    "res": 7,
+    "def": -5,
     "prev": ["Still Water 3"],
     "icon": "skillA/Still_Water_4.png",
     "last": true
