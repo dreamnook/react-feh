@@ -183,7 +183,7 @@
     "cd": 2,
     "sp": 500,
     "prev": ["Blazing Flame"],
-    "exclusive": ["Lilina - Firelight Leader"],
+    "exclusive": ["Lilina - Firelight Leader", "Lilina - Beaming Bride"],
     "last": true
   },
   "Holy-Knight Aura": {

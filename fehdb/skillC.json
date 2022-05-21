@@ -221,6 +221,14 @@
     "last": true,
     "icon": "skillC/Holy_Ground.png"
   },
+  "Faith in Humanity": {
+    "id": "Faith in Humanity",
+    "name": "相信人類的可能性",
+    "sp": 300,
+    "exclusive": ["Roy - Blazing Bachelors"],
+    "last": true,
+    "icon": "skillC/Faith_in_Humanity.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -827,6 +835,15 @@
     "rules": "flying",
     "icon": "skillC/Def_Res_Rein_3.png",
     "last": true
+  },
+  "Atk/Res Hold": {
+    "id": "Atk/Res Hold",
+    "name": "攻擊魔防大牽制",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Atk/Res Rein 3"],
+    "last": true,
+    "icon": "skillC/Atk_Res_Hold.png"
   },
   "Spd/Res Hold": {
     "id": "Spd/Res Hold",

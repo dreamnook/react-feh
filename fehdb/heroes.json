@@ -10260,13 +10260,20 @@
     "id": "Scáthach - Astra's Wake",
     "title": "奔馳大地的流星",
     "name": "斯卡薩哈",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
     "releaseDate": "2022-04-18",
     "appearsIn": ["Genealogy of the Holy War"],
     "stats": {
+      "3": {
+        "hp": [36, 39, 42],
+        "atk": [35, 38, 41],
+        "spd": [23, 26, 29],
+        "def": [35, 38, 41],
+        "res": [18, 21, 24]
+      },
       "4": {
         "hp": [37, 40, 43],
         "atk": [37, 40, 44],
@@ -10280,6 +10287,13 @@
         "spd": [26, 30, 33],
         "def": [39, 43, 46],
         "res": [21, 24, 28]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 7,
+        "def": 9,
+        "res": 4
       },
       "4-1": {
         "hp": 18,
@@ -12586,6 +12600,42 @@
       "jp": "Fukuyama Jun (福山潤)"
     }
   },
+  "Roy - Blazing Bachelors": {
+    "id": "Roy - Blazing Bachelors",
+    "title": "雙炎的新郎",
+    "name": "羅伊",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "pool": "harmonized",
+    "releaseDate": "2022-05-20",
+    "appearsIn": ["The Binding Blade", "The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [35, 38, 41],
+        "spd": [38, 42, 45],
+        "def": [26, 30, 33],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 9,
+        "def": 8,
+        "res": 6
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 174,
+    "statMax": 175,
+    "voice": {
+      "en": "Ray Chase + Yuri Lowenthal",
+      "jp": "Fukuyama Jun (福山潤) with Sakurai Takahiro (櫻井孝宏)"
+    }
+  },
   "Wolt - Sunbeam Archer": {
     "id": "Wolt - Sunbeam Archer",
     "title": "四季如夏的弓兵",
@@ -12854,6 +12904,42 @@
     "flaws": ["hp", "def", "res"],
     "statMin": 158,
     "statMax": 160,
+    "voice": {
+      "en": "Julie Kliewer",
+      "jp": "Ozawa Ari (小澤亜李)"
+    }
+  },
+  "Lilina - Beaming Bride": {
+    "id": "Lilina - Beaming Bride",
+    "title": "華燭的新娘",
+    "name": "莉莉娜",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-tome",
+    "pool": "special",
+    "releaseDate": "2022-05-20",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [41, 44, 47],
+        "spd": [19, 22, 25],
+        "def": [12, 16, 19],
+        "res": [39, 42, 46]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 5,
+        "def": 3,
+        "res": 12
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "def"],
+    "statMin": 163,
+    "statMax": 165,
     "voice": {
       "en": "Julie Kliewer",
       "jp": "Ozawa Ari (小澤亜李)"
@@ -13225,6 +13311,42 @@
     "assets": [],
     "flaws": ["hp"],
     "statMin": 165,
+    "statMax": 165,
+    "voice": {
+      "en": "Cherami Leigh",
+      "jp": "Yukinari Toa (行成とあ)"
+    }
+  },
+  "Cecilia - Etrurian Bride": {
+    "id": "Cecilia - Etrurian Bride",
+    "title": "伊特魯里亞的新娘",
+    "name": "瑟西莉亞",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-tome",
+    "pool": "special",
+    "releaseDate": "2022-05-20",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [22, 25, 29],
+        "def": [15, 18, 21],
+        "res": [35, 38, 42]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 6,
+        "def": 3,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 162,
     "statMax": 165,
     "voice": {
       "en": "Cherami Leigh",
@@ -14496,6 +14618,56 @@
       "jp": "Izawa Shiori (井澤詩織)"
     }
   },
+  "Larum - Dancing Bride": {
+    "id": "Larum - Dancing Bride",
+    "title": "翩翩起舞的新娘",
+    "name": "拉菈姆",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "pool": "grail",
+    "releaseDate": "2022-05-20",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "4": {
+        "hp": [33, 36, 39],
+        "atk": [26, 29, 32],
+        "spd": [35, 38, 42],
+        "def": [20, 23, 26],
+        "res": [26, 29, 32]
+      },
+      "5": {
+        "hp": [35, 38, 42],
+        "atk": [29, 32, 35],
+        "spd": [37, 40, 44],
+        "def": [22, 26, 29],
+        "res": [28, 31, 34]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 3,
+        "spd": 10,
+        "def": 3,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 4,
+        "spd": 10,
+        "def": 4,
+        "res": 7
+      }
+    },
+    "assets": ["hp", "spd"],
+    "flaws": ["def"],
+    "statMin": 167,
+    "statMax": 170,
+    "voice": {
+      "en": "Elizabeth Simmons",
+      "jp": "Izawa Shiori (井澤詩織)"
+    }
+  },
   "Dieck - Wounded Tiger": {
     "id": "Dieck - Wounded Tiger",
     "title": "負傷之虎",
@@ -14751,6 +14923,42 @@
     },
     "assets": ["hp"],
     "flaws": ["def", "res"],
+    "statMin": 167,
+    "statMax": 170,
+    "voice": {
+      "en": "Wendee Lee",
+      "jp": "Ohnishi Saori (大西沙織)"
+    }
+  },
+  "Sophia - Prescient Bride": {
+    "id": "Sophia - Prescient Bride",
+    "title": "透視未來的新娘",
+    "name": "蘇菲亞",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-tome",
+    "pool": "special",
+    "releaseDate": "2022-05-20",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [37, 40, 44],
+        "spd": [16, 19, 22],
+        "def": [33, 36, 40],
+        "res": [30, 34, 37]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 4,
+        "def": 6,
+        "res": 12
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp", "res"],
     "statMin": 167,
     "statMax": 170,
     "voice": {

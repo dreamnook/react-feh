@@ -3444,6 +3444,30 @@
     "icon": "skillB/Flow_Flight_3.png",
     "last": true
   },
+  "Flow Force 1": {
+    "id": "Flow Force 1",
+    "name": "怒濤・不屈1",
+    "sp": 60,
+    "rules": "learner.flow-refresh",
+    "icon": "skillB/Flow_Force_1.png"
+  },
+  "Flow Force 2": {
+    "id": "Flow Force 2",
+    "name": "怒濤・不屈2",
+    "sp": 120,
+    "prev": ["Flow Force 1"],
+    "rules": "learner.flow-refresh",
+    "icon": "skillB/Flow_Force_2.png"
+  },
+  "Flow Force 3": {
+    "id": "Flow Force 3",
+    "name": "怒濤・不屈3",
+    "sp": 240,
+    "prev": ["Flow Force 2"],
+    "rules": "learner.flow-refresh",
+    "icon": "skillB/Flow_Force_3.png",
+    "last": true
+  },
   "Spd/Def Tempo 1": {
     "id": "Spd/Def Tempo 1",
     "name": "速度防守節拍1",

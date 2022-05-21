@@ -3483,5 +3483,34 @@
     "rules": "learner.ideal",
     "icon": "skillA/Def_Res_Ideal_4.png",
     "last": true
+  },
+  "Still Water 1": {
+    "id": "Still Water 1",
+    "name": "止水1",
+    "sp": 50,
+    "icon": "skillA/Still_Water_1.png"
+  },
+  "Still Water 2": {
+    "id": "Still Water 2",
+    "name": "止水2",
+    "sp": 100,
+    "prev": ["Still Water 1"],
+    "icon": "skillA/Still_Water_2.png"
+  },
+  "Still Water 3": {
+    "id": "Still Water 3",
+    "name": "止水3",
+    "sp": 200,
+    "prev": ["Still Water 2"],
+    "icon": "skillA/Still_Water_3.png",
+    "last": true
+  },
+  "Still Water 4": {
+    "id": "Still Water 4",
+    "name": "止水4",
+    "sp": 300,
+    "prev": ["Still Water 3"],
+    "icon": "skillA/Still_Water_4.png",
+    "last": true
   }
 }

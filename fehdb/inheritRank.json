@@ -2123,18 +2123,6 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
-  "Scáthach - Astra's Wake": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 182,
-    "special": { "Astra": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
-  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -2351,6 +2339,18 @@
     "bst": 162,
     "skillB": { "Caldera Dance 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def Opening 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Larum - Dancing Bride": {
+    "score": 299,
+    "scoreTotal": 416,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 300,
+    "bst": 167,
+    "skillB": { "Atk Cantrip 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Guidance 3": { "sp": 240, "rarity": 5 } }
   },
   "Ogma - Blade on Leave": {
     "score": 196,
@@ -2989,6 +2989,18 @@
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillA": { "Brazen Atk/Def 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Close Guard 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Scáthach - Astra's Wake": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 182,
+    "special": { "Astra": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
   },
   "Benny - Sensitive Soul": {
     "score": 199,
@@ -6730,6 +6742,19 @@
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Roy - Blazing Bachelors": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Sturdy Surge": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flow Force 3": { "sp": 240, "rarity": 5 } }
+  },
   "Navarre - Scarlet Ninja": {
     "score": 318,
     "scoreTotal": 784,
@@ -8020,6 +8045,19 @@
     "assist": { "Rally Atk/Spd+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Spd/Res Ruse 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Cecilia - Etrurian Bride": {
+    "score": 424,
+    "scoreTotal": 933,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 1000,
+    "bst": 162,
+    "assist": { "Rally Atk/Res+": { "sp": 400, "rarity": 5 } },
+    "skillB": { "Atk/Res Ruse 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Res 3": { "sp": 240, "rarity": 5 } }
   },
   "Anna - Wealth-Wisher": {
     "score": 424,
@@ -9628,6 +9666,19 @@
     "skillB": { "Disarm Trap 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Rouse Atk/Def 4": { "sp": 300, "rarity": 5 } }
   },
+  "Sophia - Prescient Bride": {
+    "score": 424,
+    "scoreTotal": 1060,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 1000,
+    "feather": 1000,
+    "bst": 167,
+    "assist": { "Rally Def/Res+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Def Push 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Res Hold": { "sp": 300, "rarity": 5 } }
+  },
   "Igrene - Nabata Protector": {
     "score": 300,
     "scoreTotal": 1080,
@@ -9981,6 +10032,20 @@
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Lilina - Beaming Bride": {
+    "score": 318,
+    "scoreTotal": 1208,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1140,
+    "feather": 1000,
+    "bst": 163,
+    "special": { "Blazing Flame": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/R Far Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
   },
   "Yarne - Timid Taguel": {
     "score": 500,

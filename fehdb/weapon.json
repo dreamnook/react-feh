@@ -6264,6 +6264,39 @@
         }
       },
       "last": true
+    },
+    "Bridal Sunflower": {
+      "id": "Bridal Sunflower",
+      "name": "新娘的向日葵",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Bridal Sunflower+": {
+      "id": "Bridal Sunflower+",
+      "name": "新娘的向日葵+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Bridal Sunflower"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "green-axe": {
@@ -7497,6 +7530,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Gustav - Sovereign Slain"],
+      "last": true
+    },
+    "Blazing Polearms": {
+      "id": "Blazing Polearms",
+      "name": "紅炎親子的聖斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Roy - Blazing Bachelors"],
       "last": true
     },
     "Iron Axe": {
@@ -14011,6 +14054,16 @@
       "exclusive": ["Hilda - Queen of Friege"],
       "last": true
     },
+    "Dragon Bouquet": {
+      "id": "Dragon Bouquet",
+      "name": "繼承龍血的新娘之花",
+      "mt": 14,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Fenrir"],
+      "exclusive": ["Sophia - Prescient Bride"],
+      "last": true
+    },
     "Fire": {
       "id": "Fire",
       "name": "火焰",
@@ -14597,6 +14650,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Luminous Grace"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Bridal Orchid": {
+      "id": "Bridal Orchid",
+      "name": "新娘的蘭花",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Bridal Orchid+": {
+      "id": "Bridal Orchid+",
+      "name": "新娘的蘭花+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Bridal Orchid"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -15343,6 +15429,16 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Ishtar - Echoing Thunder"],
+      "last": true
+    },
+    "True-Love Roses": {
+      "id": "True-Love Roses",
+      "name": "專情的薔薇",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Lilina - Beaming Bride"],
       "last": true
     },
     "Thunder": {

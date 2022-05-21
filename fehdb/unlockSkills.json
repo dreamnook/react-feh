@@ -6890,6 +6890,32 @@
       "Human Virtue": 5
     }
   },
+  "Roy - Blazing Bachelors": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Blazing Polearms": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Armored Blow 1": 2,
+      "Sturdy Blow 1": 3,
+      "Sturdy Blow 2": 4,
+      "Sturdy Surge": 5
+    },
+    "skillB": {
+      "Flow Force 1": 1,
+      "Flow Force 2": 2,
+      "Flow Force 3": 4
+    },
+    "skillC": {
+      "Faith in Humanity": 5
+    }
+  },
   "Wolt - Sunbeam Archer": {
     "weapon": {
       "Iron Bow": 1,
@@ -7033,6 +7059,36 @@
       "Pulse Smoke 1": 3,
       "Pulse Smoke 2": 4,
       "Pulse Smoke 3": 5
+    }
+  },
+  "Lilina - Beaming Bride": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 3,
+      "True-Love Roses": 5
+    },
+    "special": {
+      "Rising Flame": 3,
+      "Blazing Flame": 4,
+      "Gifted Magic": 5
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Still Water 4": 5
+    },
+    "skillB": {
+      "A/R Far Trace 1": 1,
+      "A/R Far Trace 2": 2,
+      "A/R Far Trace 3": 4
+    },
+    "skillC": {
+      "Distant Guard 1": 2,
+      "Distant Guard 2": 3,
+      "Distant Guard 3": 4,
+      "Joint Dist. Guard": 5
     }
   },
   "Gwendolyn - Adorable Knight": {
@@ -7192,6 +7248,29 @@
       "Def Ploy 1": 3,
       "Def Ploy 2": 4,
       "Def Ploy 3": 5
+    }
+  },
+  "Cecilia - Etrurian Bride": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bridal Orchid": 3,
+      "Bridal Orchid+": 5
+    },
+    "assist": {
+      "Rally Resistance": 3,
+      "Rally Atk/Res": 4,
+      "Rally Atk/Res+": 5
+    },
+    "skillB": {
+      "Atk/Res Ruse 1": 1,
+      "Atk/Res Ruse 2": 2,
+      "Atk/Res Ruse 3": 4
+    },
+    "skillC": {
+      "Rouse Atk/Res 1": 3,
+      "Rouse Atk/Res 2": 4,
+      "Rouse Atk/Res 3": 5
     }
   },
   "Klein - Silver Nobleman": {
@@ -7779,6 +7858,27 @@
       "Spd/Res Gap 3": 5
     }
   },
+  "Larum - Dancing Bride": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Bridal Sunflower": 3,
+      "Bridal Sunflower+": 5
+    },
+    "assist": {
+      "Dance": 3
+    },
+    "skillB": {
+      "Atk Cantrip 1": 1,
+      "Atk Cantrip 2": 2,
+      "Atk Cantrip 3": 4
+    },
+    "skillC": {
+      "Guidance 1": 3,
+      "Guidance 2": 4,
+      "Guidance 3": 5
+    }
+  },
   "Dieck - Wounded Tiger": {
     "weapon": {
       "Iron Axe": 1,
@@ -7893,6 +7993,31 @@
       "Sabotage Res 1": 3,
       "Sabotage Res 2": 4,
       "Sabotage Res 3": 5
+    }
+  },
+  "Sophia - Prescient Bride": {
+    "weapon": {
+      "Flux": 1,
+      "Ruin": 2,
+      "Fenrir": 3,
+      "Dragon Bouquet": 5
+    },
+    "assist": {
+      "Rally Defense": 3,
+      "Rally Def/Res": 4,
+      "Rally Def/Res+": 5
+    },
+    "skillA": {
+      "Atk/Def Push 1": 2,
+      "Atk/Def Push 2": 3,
+      "Atk/Def Push 3": 4,
+      "Atk/Def Push 4": 5
+    },
+    "skillC": {
+      "Atk/Res Rein 1": 2,
+      "Atk/Res Rein 2": 3,
+      "Atk/Res Rein 3": 4,
+      "Atk/Res Hold": 5
     }
   },
   "Fae - Divine Dragon": {

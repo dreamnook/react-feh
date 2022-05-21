@@ -657,6 +657,14 @@
           "sp": 300,
           "refine": 350
         }
+      },
+      "Bridal Sunflower+": {
+        "grail": {
+          "5": ["Larum - Dancing Bride"],
+          "name": "新娘的向日葵+",
+          "sp": 300,
+          "refine": 350
+        }
       }
     },
     "green-axe": {
@@ -1715,6 +1723,14 @@
         "special": {
           "5": ["Julia - Scion of the Saint"],
           "name": "聖祭光炎+",
+          "sp": 300,
+          "refine": 350
+        }
+      },
+      "Bridal Orchid+": {
+        "special": {
+          "5": ["Cecilia - Etrurian Bride"],
+          "name": "新娘的蘭花+",
           "sp": 300,
           "refine": 350
         }
@@ -2870,6 +2886,7 @@
     "Rally Atk/Res": {
       "special": {
         "5": [
+          "Cecilia - Etrurian Bride",
           "Nino - Flower of Frost",
           "Oboro - Fierce Bride-to-Be",
           "Elise - Tropical Flower"
@@ -2885,7 +2902,11 @@
     },
     "Rally Atk/Res+": {
       "special": {
-        "5": ["Nino - Flower of Frost", "Oboro - Fierce Bride-to-Be"],
+        "5": [
+          "Cecilia - Etrurian Bride",
+          "Nino - Flower of Frost",
+          "Oboro - Fierce Bride-to-Be"
+        ],
         "name": "攻擊魔防支援+",
         "sp": 400
       },
@@ -2962,6 +2983,7 @@
         "5": [
           "Anna - Wealth-Wisher",
           "Gunnthrá - Beaming Smile",
+          "Sophia - Prescient Bride",
           "Mist - Purest Spirit"
         ],
         "name": "防守魔防支援",
@@ -2994,6 +3016,7 @@
         "5": [
           "Anna - Wealth-Wisher",
           "Gunnthrá - Beaming Smile",
+          "Sophia - Prescient Bride",
           "Mist - Purest Spirit",
           "Henry - Peculiar Egg"
         ],
@@ -3432,7 +3455,7 @@
         "sp": 200
       },
       "harmonized": {
-        "5": ["Sonya - Dazzling Rabbits"],
+        "5": ["Sonya - Dazzling Rabbits", "Roy - Blazing Bachelors"],
         "name": "月光",
         "sp": 200
       },
@@ -4078,7 +4101,7 @@
         "sp": 300
       },
       "special": {
-        "5": ["Lilina - Blush of Youth"],
+        "5": ["Lilina - Blush of Youth", "Lilina - Beaming Bride"],
         "name": "烈火",
         "sp": 300
       },
@@ -5059,6 +5082,11 @@
         "name": "鬼神金剛擊2",
         "sp": 240
       },
+      "harmonized": {
+        "5": ["Roy - Blazing Bachelors"],
+        "name": "鬼神金剛擊2",
+        "sp": 240
+      },
       "grail": {
         "5": ["Keaton - Resolved Wolfskin"],
         "name": "鬼神金剛擊2",
@@ -5221,6 +5249,11 @@
       }
     },
     "Sturdy Surge": {
+      "harmonized": {
+        "5": ["Roy - Blazing Bachelors"],
+        "name": "鬼神金剛迫擊",
+        "sp": 300
+      },
       "special": {
         "5": ["Nailah - Hatari Scorcher"],
         "name": "鬼神金剛迫擊",
@@ -6402,7 +6435,11 @@
     },
     "Atk/Def Push 3": {
       "special": {
-        "5": ["Bruno - Masked Hare", "Maria - Sunny Smile"],
+        "5": [
+          "Bruno - Masked Hare",
+          "Maria - Sunny Smile",
+          "Sophia - Prescient Bride"
+        ],
         "name": "攻擊防守的奮擊3",
         "sp": 240
       },
@@ -6440,7 +6477,7 @@
         "sp": 300
       },
       "special": {
-        "5": ["Maria - Sunny Smile"],
+        "5": ["Maria - Sunny Smile", "Sophia - Prescient Bride"],
         "name": "攻擊防守的奮擊4",
         "sp": 300
       }
@@ -7361,6 +7398,12 @@
         "name": "防守魔防的萬全4",
         "sp": 300
       }
+    },
+    "Still Water 3": {
+      "special": { "5": ["Lilina - Beaming Bride"], "name": "止水3", "sp": 200 }
+    },
+    "Still Water 4": {
+      "special": { "5": ["Lilina - Beaming Bride"], "name": "止水4", "sp": 300 }
     },
     "Fort. Def/Res 2": {
       "mythic": {
@@ -8592,6 +8635,11 @@
       }
     },
     "Atk Cantrip 3": {
+      "grail": {
+        "4": ["Larum - Dancing Bride"],
+        "name": "攻擊魅惑3",
+        "sp": 240
+      },
       "special": {
         "5": ["Dorothea - Solar Songstress"],
         "name": "攻擊魅惑3",
@@ -8840,6 +8888,11 @@
       }
     },
     "Atk/Res Ruse 3": {
+      "special": {
+        "5": ["Cecilia - Etrurian Bride"],
+        "name": "攻擊魔防大共謀3",
+        "sp": 240
+      },
       "#": { "5": ["Selena - Fluorspar"], "name": "攻擊魔防大共謀3", "sp": 240 }
     },
     "Spd/Def Ruse 3": {
@@ -9264,7 +9317,7 @@
     },
     "A/R Far Trace 3": {
       "special": {
-        "5": ["Mercedes - Unfussed Basker"],
+        "5": ["Lilina - Beaming Bride", "Mercedes - Unfussed Basker"],
         "name": "攻擊魔防遠影3",
         "sp": 240
       },
@@ -9315,6 +9368,13 @@
       "special": {
         "5": ["Maria - Sunny Smile"],
         "name": "怒濤・飛龍行空3",
+        "sp": 240
+      }
+    },
+    "Flow Force 3": {
+      "harmonized": {
+        "5": ["Roy - Blazing Bachelors"],
+        "name": "怒濤・不屈3",
         "sp": 240
       }
     },
@@ -9733,6 +9793,7 @@
         "5": [
           "Merric - Changing Winds",
           "Berkut - Debonair Noble",
+          "Lilina - Beaming Bride",
           "Lyn - Lady of the Beach"
         ],
         "name": "遠距離警戒3",
@@ -9751,6 +9812,11 @@
       }
     },
     "Joint Dist. Guard": {
+      "special": {
+        "5": ["Lilina - Beaming Bride"],
+        "name": "遠距離相互警戒",
+        "sp": 300
+      },
       "legendary": {
         "5": ["Micaiah - Radiant Queen"],
         "name": "遠距離相互警戒",
@@ -9926,7 +9992,7 @@
         "sp": 240
       },
       "special": {
-        "5": ["Katarina - Torchlit Wanderer"],
+        "5": ["Katarina - Torchlit Wanderer", "Sophia - Prescient Bride"],
         "name": "攻擊魔防牽制3",
         "sp": 240
       },
@@ -10000,6 +10066,13 @@
         "5": ["Hinoka - Fair Pirate Pair"],
         "name": "防守魔防牽制3",
         "sp": 240
+      }
+    },
+    "Atk/Res Hold": {
+      "special": {
+        "5": ["Sophia - Prescient Bride"],
+        "name": "攻擊魔防大牽制",
+        "sp": 300
       }
     },
     "Spd/Res Hold": {
@@ -10965,6 +11038,11 @@
       }
     },
     "Guidance 3": {
+      "grail": {
+        "5": ["Larum - Dancing Bride"],
+        "name": "空中前導3",
+        "sp": 240
+      },
       "#": {
         "5": ["Tana - Winged Princess", "Olivia - Sky-High Dancer"],
         "name": "空中前導3",
@@ -11370,6 +11448,11 @@
       "grail": {
         "4": ["Hilda - Queen of Friege"],
         "5": ["Saleh - Vernal Sage"],
+        "name": "攻擊魔防的奮起3",
+        "sp": 240
+      },
+      "special": {
+        "5": ["Cecilia - Etrurian Bride"],
         "name": "攻擊魔防的奮起3",
         "sp": 240
       },
