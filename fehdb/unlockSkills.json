@@ -10948,6 +10948,32 @@
       "Atk/Res Rein 3": 5
     }
   },
+  "Myrrh - Guardian Dragon": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Godly Breath": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Bonfire": 4
+    },
+    "skillA": {
+      "Def/Res Bond 1": 2,
+      "Def/Res Bond 2": 3,
+      "Def/Res Bond 3": 4,
+      "Def/Res Unity": 5
+    },
+    "skillB": {
+      "Dragon Wall 1": 1,
+      "Dragon Wall 2": 2,
+      "Dragon Wall 3": 4
+    },
+    "skillC": {
+      "Darkling Guardian": 5
+    }
+  },
   "Saleh - Vernal Sage": {
     "weapon": {
       "Iron Axe": 1,

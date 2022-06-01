@@ -1917,6 +1917,14 @@
     "last": true,
     "icon": "skillA/Atk_Res_Unity.png"
   },
+  "Def/Res Unity": {
+    "id": "Def/Res Unity",
+    "name": "防守魔防的連帶",
+    "sp": 300,
+    "prev": ["Def/Res Bond 3"],
+    "last": true,
+    "icon": "skillA/Def_Res_Unity.png"
+  },
   "Atk/Spd Push 1": {
     "id": "Atk/Spd Push 1",
     "name": "攻擊速度的奮擊1",

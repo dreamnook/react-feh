@@ -2051,6 +2051,19 @@
     "skillA": { "Fortress Res 3": { "sp": 160, "rarity": 4 } },
     "skillC": { "Savage Blow 3": { "sp": 200, "rarity": 5 } }
   },
+  "Cecilia - Etrurian Bride": {
+    "score": 196,
+    "scoreTotal": 400,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 300,
+    "bst": 162,
+    "assist": { "Rally Atk/Res+": { "sp": 400, "rarity": 5 } },
+    "skillB": { "Atk/Res Ruse 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Rouse Atk/Res 3": { "sp": 240, "rarity": 5 } }
+  },
   "Henry - Peculiar Egg": {
     "score": 196,
     "scoreTotal": 400,
@@ -5191,6 +5204,19 @@
     "skillA": { "Distant Storm": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
   },
+  "Myrrh - Guardian Dragon": {
+    "score": 276,
+    "scoreTotal": 681,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Def/Res Unity": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
+  },
   "Micaiah - Radiant Queen": {
     "score": 276,
     "scoreTotal": 690,
@@ -8045,19 +8071,6 @@
     "assist": { "Rally Atk/Spd+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Spd/Res Ruse 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Cecilia - Etrurian Bride": {
-    "score": 424,
-    "scoreTotal": 933,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 400,
-    "spTotal": 880,
-    "feather": 1000,
-    "bst": 162,
-    "assist": { "Rally Atk/Res+": { "sp": 400, "rarity": 5 } },
-    "skillB": { "Atk/Res Ruse 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Rouse Atk/Res 3": { "sp": 240, "rarity": 5 } }
   },
   "Anna - Wealth-Wisher": {
     "score": 424,

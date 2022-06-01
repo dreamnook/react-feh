@@ -229,6 +229,14 @@
     "last": true,
     "icon": "skillC/Faith_in_Humanity.png"
   },
+  "Darkling Guardian": {
+    "id": "Darkling Guardian",
+    "name": "闇之樹海的守護龍",
+    "sp": 300,
+    "exclusive": ["Myrrh - Guardian Dragon"],
+    "last": true,
+    "icon": "skillC/Darkling_Guardian.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

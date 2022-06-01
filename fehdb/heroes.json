@@ -13321,7 +13321,7 @@
     "id": "Cecilia - Etrurian Bride",
     "title": "伊特魯里亞的新娘",
     "name": "瑟西莉亞",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "cavalry",
     "weaponType": "red-tome",
@@ -13329,12 +13329,26 @@
     "releaseDate": "2022-05-20",
     "appearsIn": ["The Binding Blade"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [36, 39, 43],
+        "spd": [20, 23, 26],
+        "def": [13, 16, 19],
+        "res": [33, 36, 40]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [38, 41, 45],
         "spd": [22, 25, 29],
         "def": [15, 18, 21],
         "res": [35, 38, 42]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 5,
+        "def": 2,
+        "res": 8
       },
       "5-1": {
         "hp": 18,
@@ -20426,6 +20440,45 @@
       "jp": "Kadowaki Mai (門脇舞以) with Matsuzaki Rei (松嵜麗)"
     }
   },
+  "Myrrh - Guardian Dragon": {
+    "id": "Myrrh - Guardian Dragon",
+    "title": "守護的龍人",
+    "name": "梅爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-dragon",
+    "bst": 190,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "wind-def-2",
+    "releaseDate": "2022-05-31",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [36, 39, 43],
+        "spd": [22, 25, 29],
+        "def": [39, 42, 45],
+        "res": [33, 36, 40]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 6,
+        "def": 5,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 182,
+    "statMax": 185,
+    "voice": {
+      "en": "Erica Lindbeck",
+      "jp": "Kadowaki Mai (門脇舞以)"
+    }
+  },
   "Saleh - Vernal Sage": {
     "id": "Saleh - Vernal Sage",
     "title": "賢者的春季",
@@ -23710,7 +23763,7 @@
     "statMax": 185,
     "voice": {
       "en": "Kevin Urban",
-      "jp": "櫻井トオル"
+      "jp": "Tooru Sakurai (櫻井トオル)"
     }
   },
   "Vika - Sea-Dark Wing": {

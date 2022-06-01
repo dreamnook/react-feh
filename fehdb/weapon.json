@@ -19533,6 +19533,16 @@
       "exclusive": ["Rhea - Immaculate One"],
       "last": true
     },
+    "Godly Breath": {
+      "id": "Godly Breath",
+      "name": "龍神吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Myrrh - Guardian Dragon"],
+      "last": true
+    },
     "Fire Breath": {
       "id": "Fire Breath",
       "name": "火之吐息",

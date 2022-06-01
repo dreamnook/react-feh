@@ -2885,8 +2885,8 @@
     },
     "Rally Atk/Res": {
       "special": {
+        "4": ["Cecilia - Etrurian Bride"],
         "5": [
-          "Cecilia - Etrurian Bride",
           "Nino - Flower of Frost",
           "Oboro - Fierce Bride-to-Be",
           "Elise - Tropical Flower"
@@ -3898,7 +3898,11 @@
       },
       "grail": { "4": ["Astram - Midia's Hero"], "name": "緋炎", "sp": 200 },
       "legendary": {
-        "5": ["Robin - Fell Vessel", "Edelgard - Flame Emperor"],
+        "5": [
+          "Myrrh - Guardian Dragon",
+          "Robin - Fell Vessel",
+          "Edelgard - Flame Emperor"
+        ],
         "name": "緋炎",
         "sp": 200
       }
@@ -6266,6 +6270,11 @@
         "5": ["Jaffar - Angel of Night"],
         "name": "防守魔防的羈絆3",
         "sp": 240
+      },
+      "legendary": {
+        "5": ["Myrrh - Guardian Dragon"],
+        "name": "防守魔防的羈絆3",
+        "sp": 240
       }
     },
     "Def/Res Bond 4": {
@@ -6318,6 +6327,13 @@
       "special": {
         "5": ["Rhea - Witch of Creation"],
         "name": "攻擊魔防的連帶",
+        "sp": 300
+      }
+    },
+    "Def/Res Unity": {
+      "legendary": {
+        "5": ["Myrrh - Guardian Dragon"],
+        "name": "防守魔防的連帶",
         "sp": 300
       }
     },
@@ -8889,7 +8905,7 @@
     },
     "Atk/Res Ruse 3": {
       "special": {
-        "5": ["Cecilia - Etrurian Bride"],
+        "4": ["Cecilia - Etrurian Bride"],
         "name": "攻擊魔防大共謀3",
         "sp": 240
       },
@@ -9226,6 +9242,11 @@
     },
     "Dragon Wall 3": {
       "#": { "5": ["Múspell - Flame God"], "name": "龍鱗防護障壁3", "sp": 240 },
+      "legendary": {
+        "5": ["Myrrh - Guardian Dragon"],
+        "name": "龍鱗防護障壁3",
+        "sp": 240
+      },
       "mythic": {
         "5": ["Seiros - Saint of Legend"],
         "name": "龍鱗防護障壁3",
