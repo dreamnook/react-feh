@@ -3348,6 +3348,27 @@
     "icon": "skillB/A_R_Far_Trace_3.png",
     "last": true
   },
+  "S/D Far Trace 1": {
+    "id": "S/D Far Trace 1",
+    "name": "速度防守遠影1",
+    "sp": 60,
+    "icon": "skillB/S_D_Far_Trace_1.png"
+  },
+  "S/D Far Trace 2": {
+    "id": "S/D Far Trace 2",
+    "name": "速度防守遠影2",
+    "sp": 120,
+    "prev": ["S/D Far Trace 1"],
+    "icon": "skillB/S_D_Far_Trace_2.png"
+  },
+  "S/D Far Trace 3": {
+    "id": "S/D Far Trace 3",
+    "name": "速度防守遠影3",
+    "sp": 240,
+    "prev": ["S/D Far Trace 2"],
+    "icon": "skillB/S_D_Far_Trace_3.png",
+    "last": true
+  },
   "S/R Far Trace 1": {
     "id": "S/R Far Trace 1",
     "name": "速度魔防遠影1",

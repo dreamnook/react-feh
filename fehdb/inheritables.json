@@ -167,6 +167,22 @@
           "refine": 350
         }
       },
+      "Allied Sword+": {
+        "#": {
+          "5": ["Kent - Crimson Shield"],
+          "name": "共鬥之劍+",
+          "sp": 300,
+          "refine": 350
+        }
+      },
+      "Vulture Blade+": {
+        "#": {
+          "5": ["Guy - Kutolah Blade"],
+          "name": "禿鷹之劍+",
+          "sp": 300,
+          "refine": 350
+        }
+      },
       "Kadomatsu+": {
         "special": {
           "5": ["Camilla - Holiday Traveler"],
@@ -2731,6 +2747,7 @@
         "5": [
           "Wolf - Coyote's Loyal",
           "Olwen - Blue Mage Knight",
+          "Kent - Crimson Shield",
           "Farina - The Great Wing",
           "Sumia - Maid of Flowers",
           "Lilith - Astral Daughter"
@@ -3036,7 +3053,11 @@
     },
     "Rally Up Atk+": {
       "#": {
-        "5": ["Múspell - Flame God", "Ophelia - Dramatic Heroine"],
+        "5": [
+          "Múspell - Flame God",
+          "Sain - Green Lance",
+          "Ophelia - Dramatic Heroine"
+        ],
         "name": "攻擊大支援+",
         "sp": 400
       },
@@ -3172,7 +3193,11 @@
     },
     "Rally Up Atk": {
       "#": {
-        "5": ["Múspell - Flame God", "Ophelia - Dramatic Heroine"],
+        "5": [
+          "Múspell - Flame God",
+          "Sain - Green Lance",
+          "Ophelia - Dramatic Heroine"
+        ],
         "name": "攻擊大支援",
         "sp": 300
       },
@@ -3332,6 +3357,7 @@
           "Asbel - Windswept Youth",
           "Hugh - Worldly Mage",
           "Sue - Doe of the Plains",
+          "Florina - Azure-Sky Knight",
           "Nino - Pale Flower",
           "Ephraim - Restoration Lord",
           "Neimi - Tearful Archer",
@@ -3517,6 +3543,7 @@
           "Lewyn - Guiding Breeze",
           "Arthur - Furious Mage",
           "Pent - Mage General",
+          "Guy - Kutolah Blade",
           "Jaffar - Angel of Death",
           "Joshua - Resolute Tempest",
           "Rennac - Rich 'Merchant'",
@@ -3688,6 +3715,37 @@
       }
     },
     "Draconic Aura": {
+      "#": {
+        "4": [
+          "Ares - Black Knight",
+          "Corrin - Fateful Princess",
+          "Camilla - Bewitching Beauty"
+        ],
+        "5": [
+          "Letizia - Curse Director",
+          "Marth - Prince of Light",
+          "Alm - Hero of Prophecy",
+          "Alm - Imperial Ascent",
+          "Quan - Luminous Lancer",
+          "Tine - Rumbling Thunder",
+          "Lyn - Brave Lady",
+          "Dorcas - Serene Warrior",
+          "Karla - Sword Vassal",
+          "Ephraim - Sacred Twin Lord",
+          "Tibarn - Lord of the Air",
+          "Flavia - Feroxi East-Khan",
+          "Kjelle - Fair Fighter",
+          "Corrin - Dream Princess",
+          "Lilith - Silent Broodling",
+          "Keaton - Lupine Collector",
+          "Kana - Dragon Princess",
+          "Byleth - Proven Professor",
+          "Byleth - Tested Professor",
+          "Catherine - Thunder Knight"
+        ],
+        "name": "龍裂",
+        "sp": 200
+      },
       "special": {
         "4": ["Marth - Legacied Hero", "Corrin - Daylight Ninja Act"],
         "5": [
@@ -3720,36 +3778,6 @@
           "Marth - Royal Altean Duo",
           "Ephraim - Dynastic Duo",
           "Byleth - Fell Star's Duo"
-        ],
-        "name": "龍裂",
-        "sp": 200
-      },
-      "#": {
-        "4": [
-          "Ares - Black Knight",
-          "Corrin - Fateful Princess",
-          "Camilla - Bewitching Beauty"
-        ],
-        "5": [
-          "Marth - Prince of Light",
-          "Alm - Hero of Prophecy",
-          "Alm - Imperial Ascent",
-          "Quan - Luminous Lancer",
-          "Tine - Rumbling Thunder",
-          "Lyn - Brave Lady",
-          "Dorcas - Serene Warrior",
-          "Karla - Sword Vassal",
-          "Ephraim - Sacred Twin Lord",
-          "Tibarn - Lord of the Air",
-          "Flavia - Feroxi East-Khan",
-          "Kjelle - Fair Fighter",
-          "Corrin - Dream Princess",
-          "Lilith - Silent Broodling",
-          "Keaton - Lupine Collector",
-          "Kana - Dragon Princess",
-          "Byleth - Proven Professor",
-          "Byleth - Tested Professor",
-          "Catherine - Thunder Knight"
         ],
         "name": "龍裂",
         "sp": 200
@@ -4074,6 +4102,7 @@
           "Aelfric - Custodian Monk",
           "Solon - Church Shadow"
         ],
+        "5": ["Limstella - Living Construct"],
         "name": "冰華",
         "sp": 200
       },
@@ -4783,6 +4812,7 @@
           "Ishtar - Echoing Thunder",
           "Igrene - Nabata Protector",
           "Leila - Rose amid Fangs",
+          "Guy - Kutolah Blade",
           "Jaffar - Angel of Death",
           "Selena - Fluorspar",
           "Joshua - Resolute Tempest",
@@ -6074,6 +6104,7 @@
       "#": {
         "5": [
           "Catria - Mild Middle Sister",
+          "Kent - Crimson Shield",
           "Corrin - Dream Princess",
           "Lilith - Astral Daughter",
           "Hinoka - Blue Sky Warrior",
@@ -6363,6 +6394,7 @@
         "5": [
           "Malice - Deft Sellsword",
           "Sara - Lady of Loptr",
+          "Florina - Azure-Sky Knight",
           "Jill - Fiery Dracoknight",
           "Flavia - Feroxi East-Khan",
           "Camilla - Light of Nohr",
@@ -6423,6 +6455,7 @@
         "5": [
           "Malice - Deft Sellsword",
           "Sara - Lady of Loptr",
+          "Florina - Azure-Sky Knight",
           "Jill - Fiery Dracoknight",
           "Flavia - Feroxi East-Khan",
           "Camilla - Light of Nohr",
@@ -7183,6 +7216,11 @@
         "4": ["Alfonse - Uplifting Love"],
         "name": "防守魔防的密集3",
         "sp": 240
+      },
+      "grail": {
+        "5": ["Limstella - Living Construct"],
+        "name": "防守魔防的密集3",
+        "sp": 240
       }
     },
     "Blade Session 3": {
@@ -7271,17 +7309,23 @@
     },
     "Atk/Res Catch 3": {
       "#": {
-        "5": ["Hapi - Drawn-Out Sigh"],
+        "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"],
         "name": "攻擊魔防的先機3",
         "sp": 240
       }
     },
     "Atk/Res Catch 4": {
       "#": {
-        "5": ["Hapi - Drawn-Out Sigh"],
+        "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"],
         "name": "攻擊魔防的先機4",
         "sp": 300
       }
+    },
+    "Spd/Def Catch 3": {
+      "#": { "5": ["Sain - Green Lance"], "name": "速度防守的先機3", "sp": 240 }
+    },
+    "Spd/Def Catch 4": {
+      "#": { "5": ["Sain - Green Lance"], "name": "速度防守的先機4", "sp": 300 }
     },
     "Def/Res Catch 3": {
       "special": {
@@ -8168,7 +8212,11 @@
         "name": "攻擊擾亂3",
         "sp": 240
       },
-      "grail": { "5": ["Salem - Dark Sage"], "name": "攻擊擾亂3", "sp": 240 },
+      "grail": {
+        "5": ["Salem - Dark Sage", "Limstella - Living Construct"],
+        "name": "攻擊擾亂3",
+        "sp": 240
+      },
       "#": { "5": ["Selkie - Free Spirit"], "name": "攻擊擾亂3", "sp": 240 }
     },
     "Sabotage Spd 3": {
@@ -8835,6 +8883,11 @@
         "name": "速度防守干涉3",
         "sp": 240
       },
+      "#": {
+        "5": ["Kent - Crimson Shield"],
+        "name": "速度防守干涉3",
+        "sp": 240
+      },
       "harmonized": {
         "5": ["Mia - Harmonic Blades"],
         "name": "速度防守干涉3",
@@ -9337,6 +9390,11 @@
       }
     },
     "A/R Far Trace 3": {
+      "#": {
+        "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"],
+        "name": "攻擊魔防遠影3",
+        "sp": 240
+      },
       "special": {
         "5": ["Lilina - Beaming Bride", "Mercedes - Unfussed Basker"],
         "name": "攻擊魔防遠影3",
@@ -9346,10 +9404,12 @@
         "5": ["Lysithea - Gifted Students"],
         "name": "攻擊魔防遠影3",
         "sp": 240
-      },
+      }
+    },
+    "S/D Far Trace 3": {
       "#": {
-        "5": ["Hapi - Drawn-Out Sigh"],
-        "name": "攻擊魔防遠影3",
+        "5": ["Florina - Azure-Sky Knight"],
+        "name": "速度防守遠影3",
         "sp": 240
       }
     },
@@ -9380,7 +9440,8 @@
         "5": ["Caeda - Sea-Blossom Pair"],
         "name": "怒濤・再起3",
         "sp": 240
-      }
+      },
+      "#": { "5": ["Sain - Green Lance"], "name": "怒濤・再起3", "sp": 240 }
     },
     "Flow Guard 3": {
       "mythic": { "5": ["Thórr - War God"], "name": "怒濤・取消3", "sp": 240 }
@@ -9642,6 +9703,7 @@
         "4": ["Tailtiu - Thunder Noble"],
         "5": [
           "Ronan - Villager of Iz",
+          "Florina - Azure-Sky Knight",
           "Anna - Secret Seller",
           "Lucina - Brave Princess"
         ],
@@ -9735,7 +9797,11 @@
         "sp": 300
       },
       "#": {
-        "5": ["Ronan - Villager of Iz", "Anna - Secret Seller"],
+        "5": [
+          "Ronan - Villager of Iz",
+          "Florina - Azure-Sky Knight",
+          "Anna - Secret Seller"
+        ],
         "name": "速度相互大紋章",
         "sp": 300
       },
@@ -10550,6 +10616,11 @@
     "Threat. Spd/Def 2": {
       "special": {
         "5": ["Ogma - Blade on Leave"],
+        "name": "攻擊速度的威嚇2",
+        "sp": 200
+      },
+      "#": {
+        "5": ["Guy - Kutolah Blade"],
         "name": "攻擊速度的威嚇2",
         "sp": 200
       }
@@ -11466,6 +11537,11 @@
       }
     },
     "Rouse Atk/Res 3": {
+      "#": {
+        "5": ["Letizia - Curse Director", "Lyon - Demon King"],
+        "name": "攻擊魔防的奮起3",
+        "sp": 240
+      },
       "grail": {
         "4": ["Hilda - Queen of Friege"],
         "5": ["Saleh - Vernal Sage"],
@@ -11476,8 +11552,14 @@
         "5": ["Cecilia - Etrurian Bride"],
         "name": "攻擊魔防的奮起3",
         "sp": 240
-      },
-      "#": { "5": ["Lyon - Demon King"], "name": "攻擊魔防的奮起3", "sp": 240 }
+      }
+    },
+    "Rouse Atk/Res 4": {
+      "#": {
+        "5": ["Letizia - Curse Director"],
+        "name": "攻擊魔防的奮起4",
+        "sp": 300
+      }
     },
     "Rouse Spd/Def 3": {
       "#": {

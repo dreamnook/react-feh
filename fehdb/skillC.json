@@ -2629,6 +2629,15 @@
     "icon": "skillC/Rouse_Atk_Res_3.png",
     "last": true
   },
+  "Rouse Atk/Res 4": {
+    "id": "Rouse Atk/Res 4",
+    "name": "攻擊魔防的奮起4",
+    "sp": 300,
+    "prev": ["Rouse Atk/Res 3"],
+    "rules": "learner.rouse-skills",
+    "icon": "skillC/Rouse_Atk_Res_4.png",
+    "last": true
+  },
   "Rouse Spd/Def 1": {
     "id": "Rouse Spd/Def 1",
     "name": "速度防守的奮起1",

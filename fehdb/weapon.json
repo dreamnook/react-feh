@@ -2888,6 +2888,72 @@
       },
       "last": true
     },
+    "Allied Sword": {
+      "id": "Allied Sword",
+      "name": "共鬥之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Allied Sword+": {
+      "id": "Allied Sword+",
+      "name": "共鬥之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Allied Sword"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Vulture Blade": {
+      "id": "Vulture Blade",
+      "name": "禿鷹之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Vulture Blade+": {
+      "id": "Vulture Blade+",
+      "name": "禿鷹之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Vulture Blade"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Kadomatsu": {
       "id": "Kadomatsu",
       "name": "門松",
@@ -4925,6 +4991,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Jolly Jade Lance": {
+      "id": "Jolly Jade Lance",
+      "name": "得意忘形者的碧槍",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Sain - Green Lance"],
       "last": true
     },
     "Iron Lance": {
@@ -9706,6 +9782,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "New-Height Bow": {
+      "id": "New-Height Bow",
+      "name": "朋友的吹拂翼弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Florina - Azure-Sky Knight"],
       "last": true
     },
     "Iron Bow": {
@@ -17140,6 +17226,26 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Ilyana - Awakened Appetite"],
+      "last": true
+    },
+    "Körmt": {
+      "id": "Körmt",
+      "name": "科爾姆特",
+      "mt": 14,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Letizia - Curse Director"],
+      "last": true
+    },
+    "Morph Fimbulvetr": {
+      "id": "Morph Fimbulvetr",
+      "name": "被創造的芬布爾",
+      "mt": 14,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Limstella - Living Construct"],
       "last": true
     },
     "Wind": {

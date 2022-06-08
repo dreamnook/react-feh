@@ -3740,6 +3740,18 @@
     "skillA": { "Fury 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Hone Dragons": { "sp": 200, "rarity": 5 } }
   },
+  "Guy - Kutolah Blade": {
+    "score": 200,
+    "scoreTotal": 600,
+    "poolRarity": 5,
+    "sp": 200,
+    "spTotal": 600,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Life and Death 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Threat. Spd/Def 2": { "sp": 200, "rarity": 5 } }
+  },
   "Laegjarn - New Experiences": {
     "score": 299,
     "scoreTotal": 604,
@@ -4037,6 +4049,18 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Kent - Crimson Shield": {
+    "score": 240,
+    "scoreTotal": 630,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 173,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 5 } }
   },
   "Sakura - Gentle Nekomata": {
     "score": 212,
@@ -8287,6 +8311,18 @@
     "skillA": { "R Duel Flying 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
+  "Sain - Green Lance": {
+    "score": 400,
+    "scoreTotal": 940,
+    "poolRarity": 5,
+    "sp": 400,
+    "spTotal": 940,
+    "feather": 1000,
+    "bst": 174,
+    "assist": { "Rally Up Atk+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Spd/Def Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flow Refresh 3": { "sp": 240, "rarity": 5 } }
+  },
   "Camus - Sable Knight": {
     "score": 403,
     "scoreTotal": 940,
@@ -9457,6 +9493,19 @@
     "skillB": { "Chill Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Res 3": { "sp": 200, "rarity": 5 } }
   },
+  "Letizia - Curse Director": {
+    "score": 300,
+    "scoreTotal": 1040,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 163,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/R Far Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Res 4": { "sp": 300, "rarity": 5 } }
+  },
   "Guinivere - Princess of Bern": {
     "score": 300,
     "scoreTotal": 1040,
@@ -9534,6 +9583,19 @@
     "skillA": { "Atk/Def Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
+  },
+  "Florina - Azure-Sky Knight": {
+    "score": 300,
+    "scoreTotal": 1040,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 172,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/D Far Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Joint Drive Spd": { "sp": 300, "rarity": 5 } }
   },
   "Morgan - Devoted Darkness": {
     "score": 300,
@@ -9731,6 +9793,19 @@
     "skillA": { "Atk/Spd Push 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Renewal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Limstella - Living Construct": {
+    "score": 388,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 171,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Def/Res Form 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Sabotage Atk 3": { "sp": 240, "rarity": 5 } }
   },
   "Severa - Bitter Blossom": {
     "score": 318,
