@@ -16253,19 +16253,33 @@
     "id": "Kent - Crimson Shield",
     "title": "基亞蘭的紅騎士",
     "name": "肯特",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "cavalry",
     "weaponType": "red-sword",
     "releaseDate": "2022-06-08",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [31, 34, 38],
+        "spd": [35, 38, 42],
+        "def": [25, 28, 31],
+        "res": [19, 22, 25]
+      },
       "5": {
         "hp": [39, 42, 45],
         "atk": [34, 37, 41],
         "spd": [37, 40, 44],
         "def": [26, 30, 33],
         "res": [21, 24, 27]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 6,
+        "spd": 10,
+        "def": 8,
+        "res": 6
       },
       "5-1": {
         "hp": 18,
@@ -17620,20 +17634,48 @@
     "id": "Limstella - Living Construct",
     "title": "被創造的生命",
     "name": "莉姆思黛拉",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-tome",
     "pool": "grail",
-    "releaseDate": "2022-06-08",
+    "releaseDate": "2022-06-09",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [32, 35, 38],
+        "spd": [17, 20, 23],
+        "def": [25, 28, 31],
+        "res": [29, 32, 35]
+      },
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [34, 37, 41],
+        "spd": [18, 21, 24],
+        "def": [26, 29, 32],
+        "res": [31, 34, 37]
+      },
       "5": {
         "hp": [38, 41, 44],
         "atk": [36, 39, 43],
         "spd": [20, 23, 26],
         "def": [29, 32, 35],
         "res": [33, 36, 39]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 8,
+        "spd": 5,
+        "def": 7,
+        "res": 9
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 5,
+        "def": 7,
+        "res": 10
       },
       "5-1": {
         "hp": 17,

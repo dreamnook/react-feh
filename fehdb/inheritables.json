@@ -2744,10 +2744,10 @@
           "Silas - Loyal Knight",
           "Ferdinand - Noblest of Nobles"
         ],
+        "4": ["Kent - Crimson Shield"],
         "5": [
           "Wolf - Coyote's Loyal",
           "Olwen - Blue Mage Knight",
-          "Kent - Crimson Shield",
           "Farina - The Great Wing",
           "Sumia - Maid of Flowers",
           "Lilith - Astral Daughter"
@@ -4095,6 +4095,7 @@
           "Veld - Manfroy's Rock",
           "Salem - Dark Sage",
           "Brunnya - Devoted General",
+          "Limstella - Living Construct",
           "Sonia - Inhuman Beauty",
           "Riev - Blood Beryl",
           "Gangrel - Plegia's Mad King",
@@ -4102,7 +4103,6 @@
           "Aelfric - Custodian Monk",
           "Solon - Church Shadow"
         ],
-        "5": ["Limstella - Living Construct"],
         "name": "冰華",
         "sp": 200
       },
@@ -7218,7 +7218,7 @@
         "sp": 240
       },
       "grail": {
-        "5": ["Limstella - Living Construct"],
+        "4": ["Limstella - Living Construct"],
         "name": "防守魔防的密集3",
         "sp": 240
       }
@@ -8884,7 +8884,7 @@
         "sp": 240
       },
       "#": {
-        "5": ["Kent - Crimson Shield"],
+        "4": ["Kent - Crimson Shield"],
         "name": "速度防守干涉3",
         "sp": 240
       },

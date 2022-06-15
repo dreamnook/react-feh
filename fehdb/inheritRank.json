@@ -1883,6 +1883,18 @@
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
   },
+  "Kent - Crimson Shield": {
+    "score": 185,
+    "scoreTotal": 373,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 173,
+    "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 4 } }
+  },
   "Gerome - Masked Rider": {
     "score": 374,
     "scoreTotal": 374,
@@ -4049,18 +4061,6 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Kent - Crimson Shield": {
-    "score": 240,
-    "scoreTotal": 630,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 1000,
-    "bst": 173,
-    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 5 } }
   },
   "Sakura - Gentle Nekomata": {
     "score": 212,
@@ -6428,6 +6428,19 @@
     "bst": 171,
     "special": { "Glacies": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Res Push 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Sabotage Atk 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Limstella - Living Construct": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 171,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Def/Res Form 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Sabotage Atk 3": { "sp": 240, "rarity": 5 } }
   },
   "Díthorba - Cutting Knight": {
@@ -9793,19 +9806,6 @@
     "skillA": { "Atk/Spd Push 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Renewal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 5 } }
-  },
-  "Limstella - Living Construct": {
-    "score": 388,
-    "scoreTotal": 1100,
-    "poolRarity": 5,
-    "pool": "grail",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 171,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Def/Res Form 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Sabotage Atk 3": { "sp": 240, "rarity": 5 } }
   },
   "Severa - Bitter Blossom": {
     "score": 318,

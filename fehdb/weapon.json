@@ -4112,6 +4112,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Berkut - Purgatorial Prince"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Kriemhild_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Bull Spear": {
@@ -11228,6 +11251,28 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Flora - Signature Dish"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Sæhrímnir_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Saizo's Star": {
@@ -12808,6 +12853,29 @@
       "sp": 400,
       "prev": ["Adult (Flier)"],
       "exclusive": ["Naesala - Sky's Shadow"],
+      "refine": {
+        "raven": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Raven_King_Beak_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Wolf Queen Fang": {
@@ -12936,6 +13004,29 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Velouria - Wolf Cub"],
+      "refine": {
+        "raven": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Wolfpup_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Lion King Fang": {
@@ -12956,6 +13047,29 @@
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Ranulf - Friend of Nations"],
+      "refine": {
+        "raven": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Covert_Cat_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Sabertooth Fang": {
