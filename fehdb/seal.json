@@ -1605,6 +1605,27 @@
       "icon": "skillA/Atk_Def_Form_3.png",
       "last": true
     },
+    "Atk/Res Form 1": {
+      "id": "Atk/Res Form 1",
+      "name": "攻擊魔防的密集1",
+      "sp": 60,
+      "icon": "skillA/Atk_Res_Form_1.png"
+    },
+    "Atk/Res Form 2": {
+      "id": "Atk/Res Form 2",
+      "name": "攻擊魔防的密集2",
+      "sp": 120,
+      "prev": ["Atk/Res Form 1"],
+      "icon": "skillA/Atk_Res_Form_2.png"
+    },
+    "Atk/Res Form 3": {
+      "id": "Atk/Res Form 3",
+      "name": "攻擊魔防的密集3",
+      "sp": 240,
+      "prev": ["Atk/Res Form 2"],
+      "icon": "skillA/Atk_Res_Form_3.png",
+      "last": true
+    },
     "Spd/Res Form 1": {
       "id": "Spd/Res Form 1",
       "name": "速度魔防的密集1",
@@ -1624,6 +1645,27 @@
       "sp": 240,
       "prev": ["Spd/Res Form 2"],
       "icon": "skillA/Spd_Res_Form_3.png",
+      "last": true
+    },
+    "Def/Res Form 1": {
+      "id": "Def/Res Form 1",
+      "name": "防守魔防的密集1",
+      "sp": 60,
+      "icon": "skillA/Def_Res_Form_1.png"
+    },
+    "Def/Res Form 2": {
+      "id": "Def/Res Form 2",
+      "name": "防守魔防的密集2",
+      "sp": 120,
+      "prev": ["Def/Res Form 1"],
+      "icon": "skillA/Def_Res_Form_2.png"
+    },
+    "Def/Res Form 3": {
+      "id": "Def/Res Form 3",
+      "name": "防守魔防的密集3",
+      "sp": 240,
+      "prev": ["Def/Res Form 2"],
+      "icon": "skillA/Def_Res_Form_3.png",
       "last": true
     },
     "Blade Session 1": {
@@ -1956,6 +1998,21 @@
       "sp": 240,
       "prev": ["Chill Res 2"],
       "icon": "skillB/Chill_Res_3.png",
+      "last": true
+    },
+    "Chill Atk/Def 1": {
+      "id": "Chill Atk/Def 1",
+      "name": "攻擊防守封殺1",
+      "sp": 120,
+      "prev": ["Chill Atk 1", "Chill Def 1"],
+      "icon": "skillB/Chill_Atk_Def_1.png"
+    },
+    "Chill Atk/Def 2": {
+      "id": "Chill Atk/Def 2",
+      "name": "攻擊防守封殺2",
+      "sp": 240,
+      "prev": ["Chill Atk/Def 1"],
+      "icon": "skillB/Chill_Atk_Def_2.png",
       "last": true
     },
     "Chill Spd/Res 1": {
@@ -2494,6 +2551,27 @@
       "icon": "skillC/Drive_Res_2.png",
       "last": true
     },
+    "Close Guard 1": {
+      "id": "Close Guard 1",
+      "name": "近距離警戒1",
+      "sp": 60,
+      "icon": "skillC/Close_Guard_1.png"
+    },
+    "Close Guard 2": {
+      "id": "Close Guard 2",
+      "name": "近距離警戒2",
+      "sp": 120,
+      "prev": ["Close Guard 1"],
+      "icon": "skillC/Close_Guard_2.png"
+    },
+    "Close Guard 3": {
+      "id": "Close Guard 3",
+      "name": "近距離警戒3",
+      "sp": 240,
+      "prev": ["Close Guard 2"],
+      "icon": "skillC/Close_Guard_3.png",
+      "last": true
+    },
     "Distant Guard 1": {
       "id": "Distant Guard 1",
       "name": "遠距離警戒1",
@@ -2523,6 +2601,15 @@
       "prev": ["Spur Def 2", "Spur Res 2"],
       "last": true,
       "icon": "skillC/Ward_Dragons.png"
+    },
+    "Ward Beasts": {
+      "id": "Ward Beasts",
+      "name": "獸盾紋章",
+      "sp": 200,
+      "rules": "beast",
+      "prev": ["Spur Def 2", "Spur Res 2"],
+      "last": true,
+      "icon": "skillC/Ward_Beasts.png"
     },
     "Hone Atk 1": {
       "id": "Hone Atk 1",
@@ -2971,6 +3058,30 @@
       "icon": "skillC/Infantry_Rush_3.png",
       "last": true
     },
+    "Inf. Hexblade 1": {
+      "id": "Inf. Hexblade 1",
+      "name": "步行之魔刃1",
+      "sp": 60,
+      "rules": "learner.inf-hexblade",
+      "icon": "skillC/Inf._Hexblade_1.png"
+    },
+    "Inf. Hexblade 2": {
+      "id": "Inf. Hexblade 2",
+      "name": "步行之魔刃2",
+      "sp": 120,
+      "prev": ["Inf. Hexblade 1"],
+      "rules": "learner.inf-hexblade",
+      "icon": "skillC/Inf._Hexblade_2.png"
+    },
+    "Inf. Hexblade 3": {
+      "id": "Inf. Hexblade 3",
+      "name": "步行之魔刃3",
+      "sp": 240,
+      "prev": ["Inf. Hexblade 2"],
+      "rules": "learner.inf-hexblade",
+      "icon": "skillC/Inf._Hexblade_3.png",
+      "last": true
+    },
     "Armor March 1": {
       "id": "Armor March 1",
       "name": "重裝備行軍1",
@@ -3110,6 +3221,48 @@
       "sp": 240,
       "prev": ["Odd Def Wave 2"],
       "icon": "skillC/Odd_Def_Wave_3.png",
+      "last": true
+    },
+    "Even Atk Wave 1": {
+      "id": "Even Atk Wave 1",
+      "name": "攻擊之波・偶數1",
+      "sp": 60,
+      "icon": "skillC/Even_Atk_Wave_1.png"
+    },
+    "Even Atk Wave 2": {
+      "id": "Even Atk Wave 2",
+      "name": "攻擊之波・偶數2",
+      "sp": 120,
+      "prev": ["Even Atk Wave 1"],
+      "icon": "skillC/Even_Atk_Wave_2.png"
+    },
+    "Even Atk Wave 3": {
+      "id": "Even Atk Wave 3",
+      "name": "攻擊之波・偶數3",
+      "sp": 240,
+      "prev": ["Even Atk Wave 2"],
+      "icon": "skillC/Even_Atk_Wave_3.png",
+      "last": true
+    },
+    "Even Spd Wave 1": {
+      "id": "Even Spd Wave 1",
+      "name": "速度之波・偶數1",
+      "sp": 60,
+      "icon": "skillC/Even_Spd_Wave_1.png"
+    },
+    "Even Spd Wave 2": {
+      "id": "Even Spd Wave 2",
+      "name": "速度之波・偶數2",
+      "sp": 120,
+      "prev": ["Even Spd Wave 1"],
+      "icon": "skillC/Even_Spd_Wave_2.png"
+    },
+    "Even Spd Wave 3": {
+      "id": "Even Spd Wave 3",
+      "name": "速度之波・偶數3",
+      "sp": 240,
+      "prev": ["Even Spd Wave 2"],
+      "icon": "skillC/Even_Spd_Wave_3.png",
       "last": true
     },
     "Even Def Wave 1": {
