@@ -2358,6 +2358,16 @@
       "exclusive": ["Mia - Budding Blade"],
       "last": true
     },
+    "Regal Sunshade": {
+      "id": "Regal Sunshade",
+      "name": "強健烈女的大傘",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Edelgard - Sun Empresses"],
+      "last": true
+    },
     "Iron Sword": {
       "id": "Iron Sword",
       "name": "鐵劍",
@@ -7641,6 +7651,16 @@
       "exclusive": ["Roy - Blazing Bachelors"],
       "last": true
     },
+    "Unyielding Oar": {
+      "id": "Unyielding Oar",
+      "name": "橫掃蒼波的強力之槳",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Dimitri - Sky-Blue Lion"],
+      "last": true
+    },
     "Iron Axe": {
       "id": "Iron Axe",
       "name": "鐵斧",
@@ -11045,6 +11065,39 @@
         }
       },
       "last": true
+    },
+    "Whitecap Bow": {
+      "id": "Whitecap Bow",
+      "name": "白波之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Whitecap Bow+": {
+      "id": "Whitecap Bow+",
+      "name": "白波之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Whitecap Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "dagger": {
@@ -11606,6 +11659,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Frozen Delight": {
+      "id": "Frozen Delight",
+      "name": "盛夏的涼快冰品",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Claude - Tropical Trouble"],
       "last": true
     },
     "Iron Dagger": {
@@ -18169,6 +18232,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Tine - Rumbling Thunder"],
+      "last": true
+    },
+    "Moonlight Drop": {
+      "id": "Moonlight Drop",
+      "name": "純白的月之水滴",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Micaiah - Wavecrest Maiden"],
       "last": true
     },
     "Stone": {

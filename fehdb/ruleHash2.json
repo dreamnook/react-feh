@@ -134,6 +134,9 @@
   "not.white": {
     "colorType": 7
   },
+  "learner.wielder": {
+    "weaponType": 7
+  },
   "learner.wielderInfantry": {
     "moveType": 1,
     "weaponType": 7

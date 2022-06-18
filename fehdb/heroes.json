@@ -22774,6 +22774,42 @@
       "jp": "Kuwatani Natsuko (桑谷夏子)"
     }
   },
+  "Micaiah - Wavecrest Maiden": {
+    "id": "Micaiah - Wavecrest Maiden",
+    "title": "浪潮聲的少女",
+    "name": "米卡雅",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-tome",
+    "pool": "special",
+    "releaseDate": "2022-06-17",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [39, 42, 46],
+        "spd": [27, 30, 33],
+        "def": [12, 16, 19],
+        "res": [34, 37, 40]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 6,
+        "def": 3,
+        "res": 9
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def"],
+    "statMin": 163,
+    "statMax": 165,
+    "voice": {
+      "en": "Veronica Taylor",
+      "jp": "Kuwatani Natsuko (桑谷夏子)"
+    }
+  },
   "Sothe - Zephyr": {
     "id": "Sothe - Zephyr",
     "title": "綠風",
@@ -23193,6 +23229,56 @@
     "statMax": 140,
     "voice": {
       "en": "Amanda Miller",
+      "jp": "Takita Juri (滝田樹里)"
+    }
+  },
+  "Elincia - Seaside Queen": {
+    "id": "Elincia - Seaside Queen",
+    "title": "岸邊的女王",
+    "name": "艾琳西亞",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-bow",
+    "pool": "grail",
+    "releaseDate": "2022-06-17",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [30, 33, 36],
+        "spd": [35, 38, 42],
+        "def": [20, 23, 26],
+        "res": [28, 31, 34]
+      },
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [33, 36, 39],
+        "spd": [37, 40, 44],
+        "def": [22, 25, 29],
+        "res": [30, 33, 36]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 7,
+        "spd": 10,
+        "def": 5,
+        "res": 9
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 8,
+        "spd": 10,
+        "def": 6,
+        "res": 9
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp"],
+    "statMin": 172,
+    "statMax": 175,
+    "voice": {
+      "en": "Heather Gonzales",
       "jp": "Takita Juri (滝田樹里)"
     }
   },
@@ -34117,6 +34203,42 @@
       "jp": "Kakuma Ai (加隈亜衣)"
     }
   },
+  "Edelgard - Sun Empresses": {
+    "id": "Edelgard - Sun Empresses",
+    "title": "女王們的夏日",
+    "name": "艾黛爾賈特",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "armored",
+    "weaponType": "red-sword",
+    "pool": "harmonized",
+    "releaseDate": "2022-06-17",
+    "appearsIn": ["Radiant Dawn", "Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [41, 45, 48],
+        "spd": [13, 17, 20],
+        "def": [40, 43, 47],
+        "res": [36, 39, 43]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 12,
+        "spd": 4,
+        "def": 13,
+        "res": 9
+      }
+    },
+    "assets": ["def", "res"],
+    "flaws": ["atk", "spd"],
+    "statMin": 190,
+    "statMax": 190,
+    "voice": {
+      "en": "Tara Platt + Krizia Bajos",
+      "jp": "Kakuma Ai (加隈亜衣) with Miyagawa Miho (宮川美保)"
+    }
+  },
   "Hubert - Sinister Servant": {
     "id": "Hubert - Sinister Servant",
     "title": "冷酷陰險的隨從",
@@ -34650,6 +34772,42 @@
       "jp": "Ishikawa Kaito (石川界人)"
     }
   },
+  "Dimitri - Sky-Blue Lion": {
+    "id": "Dimitri - Sky-Blue Lion",
+    "title": "夏日景緻的獅子",
+    "name": "帝彌托利",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2022-06-17",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 42, 45],
+        "spd": [37, 40, 44],
+        "def": [32, 35, 38],
+        "res": [13, 17, 20]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 10,
+        "def": 9,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 174,
+    "statMax": 175,
+    "voice": {
+      "en": "Chris Hackney",
+      "jp": "Ishikawa Kaito (石川界人)"
+    }
+  },
   "Dedue - Dimitri's Vassal": {
     "id": "Dedue - Dimitri's Vassal",
     "title": "帝彌托利的隨從",
@@ -35130,6 +35288,42 @@
     "flaws": [],
     "statMin": 166,
     "statMax": 170,
+    "voice": {
+      "en": "Joe Zieja",
+      "jp": "Toyonaga Toshiyuki (豊永利行)"
+    }
+  },
+  "Claude - Tropical Trouble": {
+    "id": "Claude - Tropical Trouble",
+    "title": "南國的異端份子",
+    "name": "庫羅德",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-dagger",
+    "pool": "special",
+    "releaseDate": "2022-06-17",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [35, 38, 41],
+        "spd": [39, 42, 46],
+        "def": [22, 25, 29],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 12,
+        "def": 6,
+        "res": 4
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["res"],
+    "statMin": 172,
+    "statMax": 175,
     "voice": {
       "en": "Joe Zieja",
       "jp": "Toyonaga Toshiyuki (豊永利行)"

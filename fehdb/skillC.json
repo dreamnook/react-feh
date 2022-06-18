@@ -1346,8 +1346,7 @@
     "name": "攻擊速度的威嚇2",
     "sp": 200,
     "prev": ["Threat. Spd/Def 1"],
-    "icon": "skillC/Threat._Spd_Def_2.png",
-    "last": true
+    "icon": "skillC/Threat._Spd_Def_2.png"
   },
   "Threat. Spd/Res 1": {
     "id": "Threat. Spd/Res 1",
@@ -1400,6 +1399,14 @@
     "prev": ["Threat. Atk/Res 2"],
     "last": true,
     "icon": "skillC/Atk_Res_Menace.png"
+  },
+  "Spd/Def Menace": {
+    "id": "Spd/Def Menace",
+    "name": "速度防守的恐嚇",
+    "sp": 300,
+    "prev": ["Threat. Spd/Def 2"],
+    "last": true,
+    "icon": "skillC/Spd_Def_Menace.png"
   },
   "Spd/Res Menace": {
     "id": "Spd/Res Menace",
@@ -2909,6 +2916,30 @@
     "prev": ["Even Tempest 2"],
     "rules": "learner.tempest",
     "icon": "skillC/Even_Tempest_3.png",
+    "last": true
+  },
+  "Assault Troop 1": {
+    "id": "Assault Troop 1",
+    "name": "一齊突擊1",
+    "sp": 60,
+    "rules": "learner.wielder",
+    "icon": "skillC/Assault_Troop_1.png"
+  },
+  "Assault Troop 2": {
+    "id": "Assault Troop 2",
+    "name": "一齊突擊2",
+    "sp": 120,
+    "prev": ["Assault Troop 1"],
+    "rules": "learner.wielder",
+    "icon": "skillC/Assault_Troop_2.png"
+  },
+  "Assault Troop 3": {
+    "id": "Assault Troop 3",
+    "name": "一齊突擊3",
+    "sp": 240,
+    "prev": ["Assault Troop 2"],
+    "rules": "learner.wielder",
+    "icon": "skillC/Assault_Troop_3.png",
     "last": true
   },
   "Odd Recovery 1": {

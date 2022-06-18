@@ -1667,6 +1667,30 @@
       "prev": ["Shield Session 2"],
       "icon": "skillA/Shield_Session_3.png",
       "last": true
+    },
+    "Atk/Def Catch 1": {
+      "id": "Atk/Def Catch 1",
+      "name": "攻擊防守的先機1",
+      "sp": 60,
+      "rules": "learner.catch",
+      "icon": "skillA/Atk_Def_Catch_1.png"
+    },
+    "Atk/Def Catch 2": {
+      "id": "Atk/Def Catch 2",
+      "name": "攻擊防守的先機2",
+      "sp": 120,
+      "prev": ["Atk/Def Catch 1"],
+      "rules": "learner.catch",
+      "icon": "skillA/Atk_Def_Catch_2.png"
+    },
+    "Atk/Def Catch 3": {
+      "id": "Atk/Def Catch 3",
+      "name": "攻擊防守的先機3",
+      "sp": 240,
+      "prev": ["Atk/Def Catch 2"],
+      "rules": "learner.catch",
+      "icon": "skillA/Atk_Def_Catch_3.png",
+      "last": true
     }
   },
   "skillB": {
@@ -4705,6 +4729,42 @@
       "res": 2,
       "prev": ["Squad Ace BE 1"],
       "icon": "seal/Squad_Ace_Atk_Res_2.png",
+      "last": true
+    },
+    "Squad Ace BF 1": {
+      "id": "Squad Ace BF 1",
+      "name": "第５８迷宮的霸王1",
+      "sp": 100,
+      "spd": 1,
+      "def": 1,
+      "icon": "seal/Squad_Ace_Spd_Def_1.png"
+    },
+    "Squad Ace BF 2": {
+      "id": "Squad Ace BF 2",
+      "name": "第５８迷宮的霸王2",
+      "sp": 200,
+      "spd": 2,
+      "def": 2,
+      "prev": ["Squad Ace BF 1"],
+      "icon": "seal/Squad_Ace_Spd_Def_2.png",
+      "last": true
+    },
+    "Squad Ace BG 1": {
+      "id": "Squad Ace BG 1",
+      "name": "第５９迷宮的霸王1",
+      "sp": 100,
+      "spd": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_Spd_Res_1.png"
+    },
+    "Squad Ace BG 2": {
+      "id": "Squad Ace BG 2",
+      "name": "第５９迷宮的霸王2",
+      "sp": 200,
+      "spd": 2,
+      "res": 2,
+      "prev": ["Squad Ace BG 1"],
+      "icon": "seal/Squad_Ace_Spd_Res_2.png",
       "last": true
     }
   }

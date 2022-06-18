@@ -221,7 +221,7 @@
     "id": "Raging Storm",
     "name": "狂嵐",
     "sp": 300,
-    "exclusive": ["Edelgard - Flame Emperor"],
+    "exclusive": ["Edelgard - Flame Emperor", "Edelgard - Sun Empresses"],
     "last": true,
     "icon": "skillB/Raging_Storm.png"
   },
@@ -253,7 +253,7 @@
     "id": "Atrocity",
     "name": "無慘",
     "sp": 300,
-    "exclusive": ["Dimitri - Savior King"],
+    "exclusive": ["Dimitri - Savior King", "Dimitri - Sky-Blue Lion"],
     "last": true,
     "icon": "skillB/Atrocity.png"
   },
@@ -269,7 +269,7 @@
     "id": "Fallen Star",
     "name": "落星",
     "sp": 300,
-    "exclusive": ["Claude - King of Unification"],
+    "exclusive": ["Claude - King of Unification", "Claude - Tropical Trouble"],
     "last": true,
     "icon": "skillB/Fallen_Star.png"
   },
@@ -333,7 +333,7 @@
     "id": "Prescience",
     "name": "知曉未來的力量",
     "sp": 300,
-    "exclusive": ["Micaiah - Radiant Queen"],
+    "exclusive": ["Micaiah - Radiant Queen", "Micaiah - Wavecrest Maiden"],
     "last": true,
     "icon": "skillB/Prescience.png"
   },

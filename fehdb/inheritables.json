@@ -1303,6 +1303,14 @@
           "sp": 300,
           "refine": 350
         }
+      },
+      "Whitecap Bow+": {
+        "grail": {
+          "5": ["Elincia - Seaside Queen"],
+          "name": "白波之弓+",
+          "sp": 300,
+          "refine": 350
+        }
       }
     },
     "dagger": {
@@ -2717,7 +2725,8 @@
         "5": ["Camilla - Flower of Fantasy", "Nina - Eye Spy"],
         "name": "拉近",
         "sp": 150
-      }
+      },
+      "grail": { "4": ["Elincia - Seaside Queen"], "name": "拉近", "sp": 150 }
     },
     "Reposition": {
       "special": {
@@ -3121,6 +3130,7 @@
           "Linde - Summer Rays",
           "Lyn - Wind's Embrace",
           "Sigrun - Steadfast Bride",
+          "Micaiah - Wavecrest Maiden",
           "Frederick - Horizon Watcher",
           "Noire - Shade Seeker"
         ],
@@ -3315,12 +3325,14 @@
           "Tiki - Beachside Scion",
           "Navarre - Scarlet Ninja",
           "Faye - Drawn Heartstring",
+          "Micaiah - Wavecrest Maiden",
           "Nailah - Blessed Queen",
           "Severa - Bitter Blossom",
           "Takumi - Prince of Soup",
           "Bernadetta - Frosty Shut-In",
           "Ashe - Fabled Sea Knight",
-          "Ingrid - Solstice Knight"
+          "Ingrid - Solstice Knight",
+          "Claude - Tropical Trouble"
         ],
         "name": "月虹",
         "sp": 200
@@ -3523,7 +3535,8 @@
           "Lethe - New Year's Claw",
           "Naesala - Sea's Shadow",
           "Kagero - Spring Ninja",
-          "Takumi - Prince at Play"
+          "Takumi - Prince at Play",
+          "Dimitri - Sky-Blue Lion"
         ],
         "name": "凶星",
         "sp": 200
@@ -3582,6 +3595,11 @@
       "mythic": { "5": ["Ullr - The Bowmaster"], "name": "凶星", "sp": 200 },
       "legendary": {
         "5": ["Ryoma - Supreme Samurai"],
+        "name": "凶星",
+        "sp": 200
+      },
+      "harmonized": {
+        "5": ["Edelgard - Sun Empresses"],
         "name": "凶星",
         "sp": 200
       }
@@ -6120,6 +6138,7 @@
         "sp": 240
       },
       "grail": {
+        "4": ["Elincia - Seaside Queen"],
         "5": ["Louise - Eternal Devotion"],
         "name": "攻擊速度的羈絆3",
         "sp": 240
@@ -7241,7 +7260,7 @@
       },
       "special": {
         "4": ["Lyre - Lap Cat of Luxury"],
-        "5": ["Delthea - Prodigy in Bloom"],
+        "5": ["Delthea - Prodigy in Bloom", "Dimitri - Sky-Blue Lion"],
         "name": "攻擊速度的先機3",
         "sp": 240
       },
@@ -7263,7 +7282,7 @@
         "sp": 300
       },
       "special": {
-        "5": ["Delthea - Prodigy in Bloom"],
+        "5": ["Delthea - Prodigy in Bloom", "Dimitri - Sky-Blue Lion"],
         "name": "攻擊速度的先機4",
         "sp": 300
       },
@@ -7312,11 +7331,21 @@
         "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"],
         "name": "攻擊魔防的先機3",
         "sp": 240
+      },
+      "special": {
+        "5": ["Micaiah - Wavecrest Maiden"],
+        "name": "攻擊魔防的先機3",
+        "sp": 240
       }
     },
     "Atk/Res Catch 4": {
       "#": {
         "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"],
+        "name": "攻擊魔防的先機4",
+        "sp": 300
+      },
+      "special": {
+        "5": ["Micaiah - Wavecrest Maiden"],
         "name": "攻擊魔防的先機4",
         "sp": 300
       }
@@ -7383,6 +7412,11 @@
         "5": ["Byleth - The Fódlan Star"],
         "name": "攻擊防守的萬全3",
         "sp": 240
+      },
+      "harmonized": {
+        "5": ["Edelgard - Sun Empresses"],
+        "name": "攻擊防守的萬全3",
+        "sp": 240
       }
     },
     "Atk/Def Ideal 4": {
@@ -7393,6 +7427,11 @@
       },
       "legendary": {
         "5": ["Byleth - The Fódlan Star"],
+        "name": "攻擊防守的萬全4",
+        "sp": 300
+      },
+      "harmonized": {
+        "5": ["Edelgard - Sun Empresses"],
         "name": "攻擊防守的萬全4",
         "sp": 300
       }
@@ -8777,6 +8816,11 @@
         ],
         "name": "攻擊速度連動3",
         "sp": 240
+      },
+      "grail": {
+        "5": ["Elincia - Seaside Queen"],
+        "name": "攻擊速度連動3",
+        "sp": 240
       }
     },
     "Atk/Def Link 3": {
@@ -10101,7 +10145,7 @@
         "sp": 240
       },
       "special": {
-        "5": ["Igrene - Ninja of Nabata"],
+        "5": ["Igrene - Ninja of Nabata", "Claude - Tropical Trouble"],
         "name": "速度防守牽制3",
         "sp": 240
       },
@@ -10613,18 +10657,6 @@
         "sp": 300
       }
     },
-    "Threat. Spd/Def 2": {
-      "special": {
-        "5": ["Ogma - Blade on Leave"],
-        "name": "攻擊速度的威嚇2",
-        "sp": 200
-      },
-      "#": {
-        "5": ["Guy - Kutolah Blade"],
-        "name": "攻擊速度的威嚇2",
-        "sp": 200
-      }
-    },
     "Atk/Spd Menace": {
       "mythic": {
         "5": ["Nótt - Moon's Elegance"],
@@ -10663,6 +10695,13 @@
       "#": {
         "5": ["Niime - Mountain Hermit", "Morgan - Fated Darkness"],
         "name": "攻擊魔防的恐嚇",
+        "sp": 300
+      }
+    },
+    "Spd/Def Menace": {
+      "special": {
+        "5": ["Dimitri - Sky-Blue Lion"],
+        "name": "速度防守的恐嚇",
         "sp": 300
       }
     },
@@ -11709,6 +11748,13 @@
         "sp": 240
       }
     },
+    "Assault Troop 3": {
+      "harmonized": {
+        "5": ["Edelgard - Sun Empresses"],
+        "name": "一齊突擊3",
+        "sp": 240
+      }
+    },
     "Odd Recovery 3": {
       "special": {
         "5": ["Saul - Minister of Love", "Sephiran - Hoary Sovereign"],
@@ -11985,6 +12031,18 @@
       },
       "grail": {
         "4": ["Gonzalez - Kindly Bandit"],
+        "name": "攻擊速度的威嚇2",
+        "sp": 200
+      }
+    },
+    "Threat. Spd/Def 2": {
+      "special": {
+        "5": ["Ogma - Blade on Leave", "Dimitri - Sky-Blue Lion"],
+        "name": "攻擊速度的威嚇2",
+        "sp": 200
+      },
+      "#": {
+        "5": ["Guy - Kutolah Blade"],
         "name": "攻擊速度的威嚇2",
         "sp": 200
       }

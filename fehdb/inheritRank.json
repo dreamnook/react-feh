@@ -3063,6 +3063,18 @@
     "skillA": { "Triangle Adept 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Drive Res 2": { "sp": 240, "rarity": 5 } }
   },
+  "Claude - Tropical Trouble": {
+    "score": 254,
+    "scoreTotal": 466,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 440,
+    "feather": 1000,
+    "bst": 172,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Spd/Def Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Henry - Happy Vampire": {
     "score": 254,
     "scoreTotal": 466,
@@ -3841,6 +3853,19 @@
     "assist": { "Swap": { "sp": 150, "rarity": 4 } },
     "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Odd Spd Wave 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Elincia - Seaside Queen": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 172,
+    "assist": { "Draw Back": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Atk/Spd Link 3": { "sp": 240, "rarity": 5 } }
   },
   "Hinata - Samurai Groom": {
     "score": 299,
@@ -5240,6 +5265,19 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillA": { "Def/Res Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Micaiah - Wavecrest Maiden": {
+    "score": 318,
+    "scoreTotal": 689,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 650,
+    "feather": 1000,
+    "bst": 163,
+    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } }
   },
   "Micaiah - Radiant Queen": {
     "score": 276,
@@ -6935,6 +6973,19 @@
     "skillA": { "Def/Res Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Edelgard - Sun Empresses": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Assault Troop 3": { "sp": 240, "rarity": 5 } }
+  },
   "Dagr - New Year Jötnar": {
     "score": 318,
     "scoreTotal": 784,
@@ -7395,6 +7446,19 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Hone Atk": { "sp": 300, "rarity": 5 } }
+  },
+  "Dimitri - Sky-Blue Lion": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Def Menace": { "sp": 300, "rarity": 5 } }
   },
   "Itsuki - Finding a Path": {
     "score": 299,
