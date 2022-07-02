@@ -16720,6 +16720,32 @@
       "Odd Def Wave 3": 5
     }
   },
+  "Xander - Gallant King": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Ebon Bölverk": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "Chivalry": 5
+    },
+    "skillC": {
+      "C Feud 1": 1,
+      "C Feud 2": 2,
+      "C Feud 3": 4
+    }
+  },
   "Laslow - Dancing Duelist": {
     "weapon": {
       "Iron Sword": 1,

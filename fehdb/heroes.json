@@ -31403,6 +31403,45 @@
       "jp": "Konishi Katsuyuki (小西克幸)"
     }
   },
+  "Xander - Gallant King": {
+    "id": "Xander - Gallant King",
+    "title": "暗夜騎士王",
+    "name": "馬克斯",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "bst": 190,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "fire-atk-2",
+    "releaseDate": "2022-06-30",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 42, 45],
+        "spd": [37, 41, 44],
+        "def": [32, 35, 38],
+        "res": [13, 17, 20]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 8,
+        "def": 11,
+        "res": 4
+      }
+    },
+    "assets": [],
+    "flaws": ["hp", "atk", "spd", "res"],
+    "statMin": 175,
+    "statMax": 175,
+    "voice": {
+      "en": "George Spelvin",
+      "jp": "Konishi Katsuyuki (小西克幸)"
+    }
+  },
   "Laslow - Dancing Duelist": {
     "id": "Laslow - Dancing Duelist",
     "title": "綻開的笑容",
@@ -35297,7 +35336,7 @@
     "id": "Claude - Tropical Trouble",
     "title": "南國的異端份子",
     "name": "庫羅德",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "flying",
     "weaponType": "blue-dagger",
@@ -35305,12 +35344,26 @@
     "releaseDate": "2022-06-17",
     "appearsIn": ["Three Houses"],
     "stats": {
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [33, 36, 39],
+        "spd": [37, 40, 44],
+        "def": [20, 23, 26],
+        "res": [20, 23, 26]
+      },
       "5": {
         "hp": [38, 41, 44],
         "atk": [35, 38, 41],
         "spd": [39, 42, 46],
         "def": [22, 25, 29],
         "res": [22, 26, 29]
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 12,
+        "def": 5,
+        "res": 3
       },
       "5-1": {
         "hp": 17,

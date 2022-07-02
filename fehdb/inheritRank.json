@@ -800,6 +800,18 @@
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Staff Exp. 3": { "sp": 120, "rarity": 5 } }
   },
+  "Claude - Tropical Trouble": {
+    "score": 163,
+    "scoreTotal": 240,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 440,
+    "feather": 300,
+    "bst": 172,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Spd/Def Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Lene - Yearning Dancer": {
     "score": 240,
     "scoreTotal": 240,
@@ -3063,18 +3075,6 @@
     "skillA": { "Triangle Adept 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Drive Res 2": { "sp": 240, "rarity": 5 } }
   },
-  "Claude - Tropical Trouble": {
-    "score": 254,
-    "scoreTotal": 466,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 440,
-    "feather": 1000,
-    "bst": 172,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Spd/Def Rein 3": { "sp": 240, "rarity": 5 } }
-  },
   "Henry - Happy Vampire": {
     "score": 254,
     "scoreTotal": 466,
@@ -5265,6 +5265,19 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillA": { "Def/Res Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Xander - Gallant King": {
+    "score": 276,
+    "scoreTotal": 681,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Micaiah - Wavecrest Maiden": {
     "score": 318,

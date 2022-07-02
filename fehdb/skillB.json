@@ -377,6 +377,14 @@
     "last": true,
     "icon": "skillB/True_Dragon_Wall.png"
   },
+  "Chivalry": {
+    "id": "Chivalry",
+    "name": "騎士精神",
+    "sp": 300,
+    "exclusive": ["Xander - Gallant King"],
+    "last": true,
+    "icon": "skillB/Chivalry.png"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

@@ -3318,7 +3318,7 @@
     },
     "Moonbow": {
       "special": {
-        "4": ["Alfonse - Uplifting Love"],
+        "4": ["Alfonse - Uplifting Love", "Claude - Tropical Trouble"],
         "5": [
           "Caeda - Princess of Talys",
           "Est - Springtime Flier",
@@ -3331,8 +3331,7 @@
           "Takumi - Prince of Soup",
           "Bernadetta - Frosty Shut-In",
           "Ashe - Fabled Sea Knight",
-          "Ingrid - Solstice Knight",
-          "Claude - Tropical Trouble"
+          "Ingrid - Solstice Knight"
         ],
         "name": "月虹",
         "sp": 200
@@ -3498,7 +3497,7 @@
         "sp": 200
       },
       "legendary": {
-        "5": ["Claude - King of Unification"],
+        "5": ["Xander - Gallant King", "Claude - King of Unification"],
         "name": "月光",
         "sp": 200
       }
@@ -7270,7 +7269,7 @@
         "sp": 240
       },
       "legendary": {
-        "5": ["Claude - King of Unification"],
+        "5": ["Xander - Gallant King", "Claude - King of Unification"],
         "name": "攻擊速度的先機3",
         "sp": 240
       }
@@ -7292,7 +7291,7 @@
         "sp": 300
       },
       "legendary": {
-        "5": ["Claude - King of Unification"],
+        "5": ["Xander - Gallant King", "Claude - King of Unification"],
         "name": "攻擊速度的先機4",
         "sp": 300
       }
@@ -11796,6 +11795,11 @@
       }
     },
     "C Feud 3": {
+      "legendary": {
+        "5": ["Xander - Gallant King"],
+        "name": "對無的暗鬥3",
+        "sp": 240
+      },
       "harmonized": {
         "5": ["Lysithea - Gifted Students"],
         "name": "對無的暗鬥3",

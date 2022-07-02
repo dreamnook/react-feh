@@ -7661,6 +7661,16 @@
       "exclusive": ["Dimitri - Sky-Blue Lion"],
       "last": true
     },
+    "Ebon Bölverk": {
+      "id": "Ebon Bölverk",
+      "name": "黑斧貝爾維克",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Xander - Gallant King"],
+      "last": true
+    },
     "Iron Axe": {
       "id": "Iron Axe",
       "name": "鐵斧",
