@@ -1546,6 +1546,18 @@
     "skillA": { "Spd/Def Form 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
   },
+  "Kent - Crimson Shield": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 173,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 4 } }
+  },
   "Cath - Master Thief": {
     "score": 199,
     "scoreTotal": 295,
@@ -1894,18 +1906,6 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
-  },
-  "Kent - Crimson Shield": {
-    "score": 185,
-    "scoreTotal": 373,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 300,
-    "bst": 173,
-    "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
-    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 4 } }
   },
   "Gerome - Masked Rider": {
     "score": 374,
@@ -2315,6 +2315,18 @@
     "special": { "Vengeance": { "sp": 200, "rarity": 4 } },
     "skillA": { "HP/Atk 2": { "sp": 200, "rarity": 4 } },
     "skillB": { "Obstruct 3": { "sp": 200, "rarity": 5 } }
+  },
+  "Guy - Kutolah Blade": {
+    "score": 166,
+    "scoreTotal": 412,
+    "poolRarity": 3,
+    "sp": 200,
+    "spTotal": 600,
+    "feather": 150,
+    "bst": 182,
+    "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Life and Death 3": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Threat. Spd/Def 2": { "sp": 200, "rarity": 5 } }
   },
   "Noire - Shade Seeker": {
     "score": 254,
@@ -3764,18 +3776,6 @@
     "skillA": { "Fury 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Hone Dragons": { "sp": 200, "rarity": 5 } }
   },
-  "Guy - Kutolah Blade": {
-    "score": 200,
-    "scoreTotal": 600,
-    "poolRarity": 5,
-    "sp": 200,
-    "spTotal": 600,
-    "feather": 1000,
-    "bst": 182,
-    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Life and Death 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Threat. Spd/Def 2": { "sp": 200, "rarity": 5 } }
-  },
   "Laegjarn - New Experiences": {
     "score": 299,
     "scoreTotal": 604,
@@ -4035,7 +4035,7 @@
     "bst": 175,
     "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
     "skillA": { "Bonus Doubler 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Renewal 3": { "sp": 240, "rarity": 5 } }
+    "skillB": { "Spurn 3": { "sp": 240, "rarity": 5 } }
   },
   "Tiki - Legendary Dragon": {
     "score": 221,

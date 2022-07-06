@@ -2749,11 +2749,11 @@
           "Lex - Young Blade",
           "Merlinus - Pherae's Clerk",
           "Cath - Master Thief",
+          "Kent - Crimson Shield",
           "Selena - Cutting Wit",
           "Silas - Loyal Knight",
           "Ferdinand - Noblest of Nobles"
         ],
-        "4": ["Kent - Crimson Shield"],
         "5": [
           "Wolf - Coyote's Loyal",
           "Olwen - Blue Mage Knight",
@@ -3543,6 +3543,7 @@
       "#": {
         "4": [
           "Luthier - Odd Wayfarer",
+          "Guy - Kutolah Blade",
           "Rath - Wolf of Sacae",
           "Legault - The Hurricane",
           "Sothe - Zephyr",
@@ -3555,7 +3556,6 @@
           "Lewyn - Guiding Breeze",
           "Arthur - Furious Mage",
           "Pent - Mage General",
-          "Guy - Kutolah Blade",
           "Jaffar - Angel of Death",
           "Joshua - Resolute Tempest",
           "Rennac - Rich 'Merchant'",
@@ -4822,14 +4822,13 @@
     },
     "Life and Death 3": {
       "#": {
-        "4": ["Sothe - Zephyr"],
+        "4": ["Guy - Kutolah Blade", "Sothe - Zephyr"],
         "5": [
           "Minerva - Red Dragoon",
           "Wolf - Coyote's Loyal",
           "Ishtar - Echoing Thunder",
           "Igrene - Nabata Protector",
           "Leila - Rose amid Fangs",
-          "Guy - Kutolah Blade",
           "Jaffar - Angel of Death",
           "Selena - Fluorspar",
           "Joshua - Resolute Tempest",
@@ -9303,6 +9302,11 @@
           "Malice - Deft Sellsword",
           "Mareeta - Astra Awakened"
         ],
+        "name": "迴避・憤怒3",
+        "sp": 240
+      },
+      "legendary": {
+        "5": ["Roy - Blazing Lion"],
         "name": "迴避・憤怒3",
         "sp": 240
       }

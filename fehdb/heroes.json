@@ -16253,13 +16253,20 @@
     "id": "Kent - Crimson Shield",
     "title": "基亞蘭的紅騎士",
     "name": "肯特",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "red",
     "moveType": "cavalry",
     "weaponType": "red-sword",
     "releaseDate": "2022-06-08",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
+      "3": {
+        "hp": [35, 38, 41],
+        "atk": [30, 33, 36],
+        "spd": [33, 36, 39],
+        "def": [23, 26, 29],
+        "res": [18, 21, 24]
+      },
       "4": {
         "hp": [36, 39, 42],
         "atk": [31, 34, 38],
@@ -16273,6 +16280,13 @@
         "spd": [37, 40, 44],
         "def": [26, 30, 33],
         "res": [21, 24, 27]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 6,
+        "spd": 9,
+        "def": 7,
+        "res": 6
       },
       "4-1": {
         "hp": 17,
@@ -17332,19 +17346,47 @@
     "id": "Guy - Kutolah Blade",
     "title": "庫特拉族的戰士",
     "name": "基",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
     "releaseDate": "2022-06-08",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
+      "3": {
+        "hp": [37, 40, 43],
+        "atk": [30, 33, 36],
+        "spd": [35, 38, 41],
+        "def": [26, 29, 32],
+        "res": [19, 22, 25]
+      },
+      "4": {
+        "hp": [38, 41, 44],
+        "atk": [32, 35, 38],
+        "spd": [37, 41, 44],
+        "def": [27, 30, 33],
+        "res": [20, 23, 26]
+      },
       "5": {
         "hp": [41, 44, 47],
         "atk": [34, 37, 40],
         "spd": [39, 43, 46],
         "def": [30, 33, 36],
         "res": [22, 25, 29]
+      },
+      "3-1": {
+        "hp": 19,
+        "atk": 8,
+        "spd": 9,
+        "def": 8,
+        "res": 5
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 9,
+        "spd": 10,
+        "def": 8,
+        "res": 5
       },
       "5-1": {
         "hp": 20,

@@ -101,6 +101,15 @@
     "last": true,
     "icon": "skillC/Upheaval.png"
   },
+  "Human Virtue II": {
+    "id": "Human Virtue II",
+    "name": "發揮人類的潛能・承",
+    "sp": 300,
+    "prev": ["Human Virtue"],
+    "exclusive": ["Roy - Blazing Lion"],
+    "last": true,
+    "icon": "skillC/Human_Virtue_II.png"
+  },
   "Human Virtue": {
     "id": "Human Virtue",
     "name": "發揮人類的潛能！",

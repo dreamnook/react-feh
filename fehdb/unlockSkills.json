@@ -6913,10 +6913,14 @@
     "skillB": {
       "Renewal 1": 1,
       "Renewal 2": 2,
-      "Renewal 3": 4
+      "Renewal 3": 4,
+      "Spurn 1": 1,
+      "Spurn 2": 2,
+      "Spurn 3": 4
     },
     "skillC": {
-      "Human Virtue": 5
+      "Human Virtue": 5,
+      "Human Virtue II": 5
     }
   },
   "Roy - Blazing Bachelors": {
@@ -15152,7 +15156,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Barrier Lance": 3,
-      "Barrier Lance+": 5
+      "Barrier Lance+": 5,
+      "Heartbeat Lance": 5
     },
     "special": {
       "Dragon Gaze": 3,

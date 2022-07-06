@@ -767,6 +767,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Roy - Blazing Lion"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Dragonbind_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Eckesachs": {
@@ -1660,6 +1683,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Mareeta - The Blade's Pawn"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Shadow_Sword_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Ardent Durandal": {
@@ -5034,6 +5080,40 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Sain - Green Lance"],
+      "last": true
+    },
+    "Heartbeat Lance": {
+      "id": "Heartbeat Lance",
+      "name": "喜歡鎧甲的堅槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Kjelle - Fair Fighter"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Heartbeat_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 3
+        },
+        "spd": {
+          "hp": 5,
+          "mt": 1,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "mt": 1,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "mt": 1,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Iron Lance": {
@@ -12991,6 +13071,29 @@
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Panne - Proud Taguel"],
+      "refine": {
+        "raven": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Taguel_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Kitsune Fang": {
@@ -13153,6 +13256,29 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Mordecai - Kindhearted Tiger"],
+      "refine": {
+        "raven": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Sabertooth_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Brazen Cat Fang": {
@@ -18348,6 +18474,13 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Fjorm - Bride of Rime"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Gjallarbrú_W",
+          "description": "2格內我方戰鬥中攻速+4，抵銷弱化。3格內有我方時，戰鬥中攻速+4"
+        }
+      },
       "last": true
     },
     "Sanngriðr": {
