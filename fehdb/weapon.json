@@ -3393,6 +3393,39 @@
         }
       },
       "last": true
+    },
+    "Coral Saber": {
+      "id": "Coral Saber",
+      "name": "珊瑚之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Coral Saber+": {
+      "id": "Coral Saber+",
+      "name": "珊瑚之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Coral Saber"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "blue-lance": {
@@ -9017,6 +9050,39 @@
       "res": -4,
       "sp": 300,
       "prev": ["Shuriken Cleaver"],
+      "last": true
+    },
+    "Seahorse Axe": {
+      "id": "Seahorse Axe",
+      "name": "海馬之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Seahorse Axe+": {
+      "id": "Seahorse Axe+",
+      "name": "海馬之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Seahorse Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     }
   },
@@ -15840,6 +15906,16 @@
       "exclusive": ["Lilina - Beaming Bride"],
       "last": true
     },
+    "Divine Whimsy": {
+      "id": "Divine Whimsy",
+      "name": "戰神與戲神心血來潮",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Thórr - Sun-Kissed Gods"],
+      "last": true
+    },
     "Thunder": {
       "id": "Thunder",
       "name": "雷電",
@@ -17559,6 +17635,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Limstella - Living Construct"],
+      "last": true
+    },
+    "Caring Conch": {
+      "id": "Caring Conch",
+      "name": "仁慈溫柔的聖器",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Eirika - Beach Restorer"],
       "last": true
     },
     "Wind": {
@@ -19977,6 +20063,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Myrrh - Guardian Dragon"],
+      "last": true
+    },
+    "Chilled Breath": {
+      "id": "Chilled Breath",
+      "name": "夏冰吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Nifl - Tropical Ice God"],
       "last": true
     },
     "Fire Breath": {

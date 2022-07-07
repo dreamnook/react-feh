@@ -186,7 +186,7 @@
     "id": "Domain of Ice",
     "name": "絕冰結界",
     "sp": 300,
-    "exclusive": ["Nifl - God of Ice"],
+    "exclusive": ["Nifl - God of Ice", "Nifl - Tropical Ice God"],
     "last": true,
     "icon": "skillC/Domain_of_Ice.png"
   },
@@ -202,7 +202,7 @@
     "id": "Worldbreaker",
     "name": "神錘貫穿大地",
     "sp": 300,
-    "exclusive": ["Thórr - War God"],
+    "exclusive": ["Thórr - War God", "Thórr - Sun-Kissed Gods"],
     "last": true,
     "icon": "skillC/Worldbreaker.png"
   },
@@ -2757,6 +2757,15 @@
     "prev": ["Atk/Spd Oath 2"],
     "rules": "learner.oath-skills",
     "icon": "skillC/Atk_Spd_Oath_3.png",
+    "last": true
+  },
+  "Atk/Spd Oath 4": {
+    "id": "Atk/Spd Oath 4",
+    "name": "攻擊速度的信義4",
+    "sp": 300,
+    "prev": ["Atk/Spd Oath 3"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Spd_Oath_4.png",
     "last": true
   },
   "Atk/Def Oath 1": {

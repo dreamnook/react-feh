@@ -450,6 +450,32 @@
       "Domain of Ice": 5
     }
   },
+  "Nifl - Tropical Ice God": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Chilled Breath": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "S/R Near Trace 1": 1,
+      "S/R Near Trace 2": 2,
+      "S/R Near Trace 3": 4
+    },
+    "skillC": {
+      "Domain of Ice": 5
+    }
+  },
   "Fjorm - Princess of Ice": {
     "weapon": {
       "Iron Lance": 1,
@@ -1263,6 +1289,32 @@
       "Flow Guard 1": 1,
       "Flow Guard 2": 2,
       "Flow Guard 3": 4
+    },
+    "skillC": {
+      "Worldbreaker": 5
+    }
+  },
+  "Thórr - Sun-Kissed Gods": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Thoron": 4,
+      "Divine Whimsy": 5
+    },
+    "special": {
+      "Rising Thunder": 4,
+      "Blazing Thunder": 4
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Still Water 4": 5
+    },
+    "skillB": {
+      "A/R Far Trace 1": 1,
+      "A/R Far Trace 2": 2,
+      "A/R Far Trace 3": 4
     },
     "skillC": {
       "Worldbreaker": 5
@@ -9957,6 +10009,33 @@
       "Atk/Spd Menace": 5
     }
   },
+  "Eirika - Beach Restorer": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Caring Conch": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Armored Blow 1": 2,
+      "Steady Blow 1": 3,
+      "Steady Blow 2": 4,
+      "Steady Impact": 5
+    },
+    "skillB": {
+      "Moonlit Bangle F": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Oath 4": 5
+    }
+  },
   "Ephraim - Restoration Lord": {
     "weapon": {
       "Iron Lance": 1,
@@ -10111,6 +10190,28 @@
       "Seal Atk 1": 3,
       "Seal Atk/Def 1": 4,
       "Seal Atk/Def 2": 5
+    }
+  },
+  "Seth - Silver-Sea Knight": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Seahorse Axe": 3,
+      "Seahorse Axe+": 5
+    },
+    "assist": {
+      "Rally Speed": 4,
+      "Rally Up Spd": 4
+    },
+    "skillA": {
+      "Spd/Def Catch 1": 3,
+      "Spd/Def Catch 2": 4,
+      "Spd/Def Catch 3": 5
+    },
+    "skillC": {
+      "Def Tactic 1": 1,
+      "Def Tactic 2": 2,
+      "Def Tactic 3": 4
     }
   },
   "Orson - Passion's Folly": {
@@ -10482,6 +10583,28 @@
       "Def/Res Gap 1": 3,
       "Def/Res Gap 2": 4,
       "Def/Res Gap 3": 5
+    }
+  },
+  "Lyon - Sunlit Prince": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Coral Saber": 3,
+      "Coral Saber+": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Atk/Def Ideal 1": 1,
+      "Atk/Def Ideal 2": 2,
+      "Atk/Def Ideal 3": 4
+    },
+    "skillB": {
+      "Lull Atk/Def 1": 3,
+      "Lull Atk/Def 2": 4,
+      "Lull Atk/Def 3": 5
     }
   },
   "Duessel - Obsidian": {

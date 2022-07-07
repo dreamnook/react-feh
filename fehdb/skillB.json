@@ -385,6 +385,14 @@
     "last": true,
     "icon": "skillB/Chivalry.png"
   },
+  "Moonlit Bangle F": {
+    "id": "Moonlit Bangle F",
+    "name": "華月手鐲・遠",
+    "sp": 300,
+    "exclusive": ["Eirika - Beach Restorer"],
+    "last": true,
+    "icon": "skillB/Moonlight_Bangle.png"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -3284,6 +3292,30 @@
     "icon": "skillB/S_D_Near_Trace_3.png",
     "last": true
   },
+  "S/R Near Trace 1": {
+    "id": "S/R Near Trace 1",
+    "name": "速度魔防近影1",
+    "sp": 60,
+    "rules": "learner.near-trace",
+    "icon": "skillB/S_R_Near_Trace_1.png"
+  },
+  "S/R Near Trace 2": {
+    "id": "S/R Near Trace 2",
+    "name": "速度魔防近影2",
+    "sp": 120,
+    "prev": ["S/R Near Trace 1"],
+    "rules": "learner.near-trace",
+    "icon": "skillB/S_R_Near_Trace_2.png"
+  },
+  "S/R Near Trace 3": {
+    "id": "S/R Near Trace 3",
+    "name": "速度魔防近影3",
+    "sp": 240,
+    "prev": ["S/R Near Trace 2"],
+    "rules": "learner.near-trace",
+    "icon": "skillB/S_R_Near_Trace_3.png",
+    "last": true
+  },
   "A/S Far Trace 1": {
     "id": "A/S Far Trace 1",
     "name": "攻擊速度遠影1",
@@ -3360,6 +3392,7 @@
     "id": "S/D Far Trace 1",
     "name": "速度防守遠影1",
     "sp": 60,
+    "rules": "learner.far-trace",
     "icon": "skillB/S_D_Far_Trace_1.png"
   },
   "S/D Far Trace 2": {
@@ -3367,6 +3400,7 @@
     "name": "速度防守遠影2",
     "sp": 120,
     "prev": ["S/D Far Trace 1"],
+    "rules": "learner.far-trace",
     "icon": "skillB/S_D_Far_Trace_2.png"
   },
   "S/D Far Trace 3": {
@@ -3374,6 +3408,7 @@
     "name": "速度防守遠影3",
     "sp": 240,
     "prev": ["S/D Far Trace 2"],
+    "rules": "learner.far-trace",
     "icon": "skillB/S_D_Far_Trace_3.png",
     "last": true
   },

@@ -5817,6 +5817,19 @@
     "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
+  "Lyon - Sunlit Prince": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 181,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } }
+  },
   "Karla - Sun-Piercing Steel": {
     "score": 254,
     "scoreTotal": 721,
@@ -6856,6 +6869,19 @@
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Nifl - Tropical Ice God": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Near Trace 3": { "sp": 240, "rarity": 5 } }
+  },
   "Roy - Blazing Bachelors": {
     "score": 318,
     "scoreTotal": 784,
@@ -7038,6 +7064,19 @@
     "assist": { "Rally Spd/Def": { "sp": 300, "rarity": 4 } },
     "skillB": { "Wings of Mercy 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 4 } }
+  },
+  "Seth - Silver-Sea Knight": {
+    "score": 374,
+    "scoreTotal": 790,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 780,
+    "feather": 300,
+    "bst": 173,
+    "assist": { "Rally Up Spd": { "sp": 300, "rarity": 4 } },
+    "skillA": { "Spd/Def Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Def Tactic 3": { "sp": 240, "rarity": 4 } }
   },
   "Ignatz - Snowscape Artist": {
     "score": 374,
@@ -7460,6 +7499,19 @@
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Hone Atk": { "sp": 300, "rarity": 5 } }
   },
+  "Eirika - Beach Restorer": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 167,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Steady Impact": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
   "Dimitri - Sky-Blue Lion": {
     "score": 318,
     "scoreTotal": 848,
@@ -7789,6 +7841,19 @@
     "skillA": { "Atk/Spd Bond 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Res Cantrip 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
+  },
+  "Thórr - Sun-Kissed Gods": {
+    "score": 318,
+    "scoreTotal": 890,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 840,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Blazing Thunder": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/R Far Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Beaming Smile": {
     "score": 424,

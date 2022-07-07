@@ -1371,6 +1371,27 @@
       "icon": "skillA/Def_Res_Bond_3.png",
       "last": true
     },
+    "Atk/Spd Push 1": {
+      "id": "Atk/Spd Push 1",
+      "name": "攻擊速度的奮擊1",
+      "sp": 60,
+      "icon": "skillA/Atk_Spd_Push_1.png"
+    },
+    "Atk/Spd Push 2": {
+      "id": "Atk/Spd Push 2",
+      "name": "攻擊速度的奮擊2",
+      "sp": 120,
+      "prev": ["Atk/Spd Push 1"],
+      "icon": "skillA/Atk_Spd_Push_2.png"
+    },
+    "Atk/Spd Push 3": {
+      "id": "Atk/Spd Push 3",
+      "name": "攻擊速度的奮擊3",
+      "sp": 240,
+      "prev": ["Atk/Spd Push 2"],
+      "icon": "skillA/Atk_Spd_Push_3.png",
+      "last": true
+    },
     "Atk/Def Push 1": {
       "id": "Atk/Def Push 1",
       "name": "攻擊防守的奮擊1",
@@ -1561,6 +1582,30 @@
       "prev": ["Sorcery Blade 2"],
       "rules": "learner.sorcery-blade",
       "icon": "skillA/Sorcery_Blade_3.png",
+      "last": true
+    },
+    "Bonus Doubler 1": {
+      "id": "Bonus Doubler 1",
+      "name": "強化增幅1",
+      "sp": 60,
+      "rules": "infantry",
+      "icon": "skillA/Bonus_Doubler_1.png"
+    },
+    "Bonus Doubler 2": {
+      "id": "Bonus Doubler 2",
+      "name": "強化增幅2",
+      "sp": 120,
+      "prev": ["Bonus Doubler 1"],
+      "rules": "infantry",
+      "icon": "skillA/Bonus_Doubler_2.png"
+    },
+    "Bonus Doubler 3": {
+      "id": "Bonus Doubler 3",
+      "name": "強化增幅3",
+      "sp": 240,
+      "prev": ["Bonus Doubler 2"],
+      "rules": "infantry",
+      "icon": "skillA/Bonus_Doubler_3.png",
       "last": true
     },
     "Atk/Spd Form 1": {

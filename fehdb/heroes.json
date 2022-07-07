@@ -741,6 +741,42 @@
       "jp": "Takahashi Rie (高橋李依)"
     }
   },
+  "Nifl - Tropical Ice God": {
+    "id": "Nifl - Tropical Ice God",
+    "title": "南國的冰神",
+    "name": "尼福爾",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-dragon",
+    "pool": "special",
+    "releaseDate": "2022-07-07",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [35, 38, 41],
+        "spd": [40, 43, 47],
+        "def": [24, 28, 31],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 13,
+        "def": 6,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 174,
+    "statMax": 175,
+    "voice": {
+      "en": "Anairis Quiñones",
+      "jp": "Takahashi Rie (高橋李依)"
+    }
+  },
   "Fjorm - Princess of Ice": {
     "id": "Fjorm - Princess of Ice",
     "title": "冰之公主",
@@ -1906,6 +1942,43 @@
     "voice": {
       "en": "Laila Berzins",
       "jp": "Satou Rina (佐藤利奈)"
+    }
+  },
+  "Thórr - Sun-Kissed Gods": {
+    "id": "Thórr - Sun-Kissed Gods",
+    "title": "戰神們的夏日",
+    "name": "托爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-tome",
+    "bst": 195,
+    "pool": "duo",
+    "releaseDate": "2022-07-07",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [12, 16, 19],
+        "def": [27, 30, 33],
+        "res": [35, 38, 42]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 3,
+        "def": 6,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 167,
+    "statMax": 170,
+    "voice": {
+      "en": "Laila Berzins + Erika Ishii",
+      "jp": "Satou Rina (佐藤利奈) with Arai Satomi (新井里美)"
     }
   },
   "Loki - The Trickster": {
@@ -18592,6 +18665,42 @@
       "jp": "Mizuhashi Kaori (水橋かおり)"
     }
   },
+  "Eirika - Beach Restorer": {
+    "id": "Eirika - Beach Restorer",
+    "title": "岸邊的善良公主",
+    "name": "艾莉可",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-tome",
+    "pool": "special",
+    "releaseDate": "2022-07-07",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [36, 39, 43],
+        "spd": [39, 42, 46],
+        "def": [21, 25, 28],
+        "res": [19, 22, 25]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 12,
+        "def": 3,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 167,
+    "statMax": 170,
+    "voice": {
+      "en": "Kira Buckland",
+      "jp": "Mizuhashi Kaori (水橋かおり)"
+    }
+  },
   "Ephraim - Restoration Lord": {
     "id": "Ephraim - Restoration Lord",
     "title": "碧空的勇猛王子",
@@ -18831,6 +18940,56 @@
     "flaws": [],
     "statMin": 154,
     "statMax": 155,
+    "voice": {
+      "en": "Chris Smith",
+      "jp": "Koyama Rikiya (小山力也)"
+    }
+  },
+  "Seth - Silver-Sea Knight": {
+    "id": "Seth - Silver-Sea Knight",
+    "title": "海邊的忠臣",
+    "name": "賽特",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2022-07-07",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [35, 38, 42],
+        "spd": [32, 35, 39],
+        "def": [26, 29, 32],
+        "res": [19, 22, 25]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [37, 40, 44],
+        "spd": [35, 38, 42],
+        "def": [27, 31, 34],
+        "res": [21, 24, 28]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 7,
+        "def": 9,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 9,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": ["hp", "def"],
+    "statMin": 173,
+    "statMax": 175,
     "voice": {
       "en": "Chris Smith",
       "jp": "Koyama Rikiya (小山力也)"
@@ -19557,6 +19716,42 @@
     "voice": {
       "en": "Mark P. Whitten",
       "jp": "Tamura Mutsumi (田村睦心)"
+    }
+  },
+  "Lyon - Sunlit Prince": {
+    "id": "Lyon - Sunlit Prince",
+    "title": "陽光閃耀的皇子",
+    "name": "利昂",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2022-07-07",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [39, 42, 46],
+        "spd": [18, 21, 24],
+        "def": [34, 37, 40],
+        "res": [36, 39, 43]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 6,
+        "def": 9,
+        "res": 9
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": [],
+    "statMin": 181,
+    "statMax": 185,
+    "voice": {
+      "en": "Mark P. Whitten",
+      "jp": "Nakamura Yuichi (中村悠一)"
     }
   },
   "Duessel - Obsidian": {

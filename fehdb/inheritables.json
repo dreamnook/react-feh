@@ -277,6 +277,14 @@
           "sp": 300,
           "refine": 350
         }
+      },
+      "Coral Saber+": {
+        "special": {
+          "5": ["Lyon - Sunlit Prince"],
+          "name": "珊瑚之劍+",
+          "sp": 300,
+          "refine": 350
+        }
       }
     },
     "blue-lance": {
@@ -1005,6 +1013,14 @@
           "5": ["Shamir - Lone-Moon Ninja"],
           "name": "忍者三叉斧+",
           "sp": 300
+        }
+      },
+      "Seahorse Axe+": {
+        "grail": {
+          "5": ["Seth - Silver-Sea Knight"],
+          "name": "海馬之斧+",
+          "sp": 300,
+          "refine": 350
         }
       }
     },
@@ -3223,7 +3239,16 @@
         "name": "速度大支援",
         "sp": 300
       },
-      "#": { "5": ["Azelle - Youthful Flame"], "name": "速度大支援", "sp": 300 }
+      "#": {
+        "5": ["Azelle - Youthful Flame"],
+        "name": "速度大支援",
+        "sp": 300
+      },
+      "grail": {
+        "4": ["Seth - Silver-Sea Knight"],
+        "name": "速度大支援",
+        "sp": 300
+      }
     },
     "Rally Up Res": {
       "special": {
@@ -3325,6 +3350,7 @@
           "Tiki - Beachside Scion",
           "Navarre - Scarlet Ninja",
           "Faye - Drawn Heartstring",
+          "Lyon - Sunlit Prince",
           "Micaiah - Wavecrest Maiden",
           "Nailah - Blessed Queen",
           "Severa - Bitter Blossom",
@@ -3484,6 +3510,7 @@
           "Katarina - Torchlit Wanderer",
           "Fae - Holiday Dear",
           "Igrene - Ninja of Nabata",
+          "Eirika - Beach Restorer",
           "Greil - Heroic Exemplar",
           "Nailah - Hatari Scorcher",
           "Ryoma - Samurai at Ease"
@@ -3524,6 +3551,7 @@
       "special": {
         "5": [
           "Veronica - Spring Princess",
+          "Nifl - Tropical Ice God",
           "Gunnthrá - Year's First Dream",
           "Freyja - Fleeting Summer",
           "Fáfnir - Fresh Ambition",
@@ -4204,6 +4232,7 @@
       "#": { "5": ["Hubert - Sinister Servant"], "name": "爆雷", "sp": 300 }
     },
     "Blazing Thunder": {
+      "duo": { "5": ["Thórr - Sun-Kissed Gods"], "name": "烈雷", "sp": 300 },
       "grail": {
         "4": ["Michalis - Ambitious King", "Fernand - Traitorous Knight"],
         "name": "烈雷",
@@ -5243,14 +5272,22 @@
         "sp": 240
       },
       "special": {
-        "5": ["Brigid - Orgahil Pirate", "Tana - Frelian Starlight"],
+        "5": [
+          "Brigid - Orgahil Pirate",
+          "Eirika - Beach Restorer",
+          "Tana - Frelian Starlight"
+        ],
         "name": "飛燕金剛擊2",
         "sp": 240
       }
     },
     "Steady Impact": {
       "special": {
-        "5": ["Brigid - Orgahil Pirate", "Tana - Frelian Starlight"],
+        "5": [
+          "Brigid - Orgahil Pirate",
+          "Eirika - Beach Restorer",
+          "Tana - Frelian Starlight"
+        ],
         "name": "飛燕金剛瞬擊",
         "sp": 300
       }
@@ -7251,14 +7288,18 @@
       }
     },
     "Atk/Spd Catch 3": {
-      "harmonized": {
-        "5": ["Caeda - Sea-Blossom Pair", "Leif - Destined Scions"],
+      "special": {
+        "4": ["Lyre - Lap Cat of Luxury"],
+        "5": [
+          "Nifl - Tropical Ice God",
+          "Delthea - Prodigy in Bloom",
+          "Dimitri - Sky-Blue Lion"
+        ],
         "name": "攻擊速度的先機3",
         "sp": 240
       },
-      "special": {
-        "4": ["Lyre - Lap Cat of Luxury"],
-        "5": ["Delthea - Prodigy in Bloom", "Dimitri - Sky-Blue Lion"],
+      "harmonized": {
+        "5": ["Caeda - Sea-Blossom Pair", "Leif - Destined Scions"],
         "name": "攻擊速度的先機3",
         "sp": 240
       },
@@ -7274,13 +7315,17 @@
       }
     },
     "Atk/Spd Catch 4": {
-      "harmonized": {
-        "5": ["Caeda - Sea-Blossom Pair", "Leif - Destined Scions"],
+      "special": {
+        "5": [
+          "Nifl - Tropical Ice God",
+          "Delthea - Prodigy in Bloom",
+          "Dimitri - Sky-Blue Lion"
+        ],
         "name": "攻擊速度的先機4",
         "sp": 300
       },
-      "special": {
-        "5": ["Delthea - Prodigy in Bloom", "Dimitri - Sky-Blue Lion"],
+      "harmonized": {
+        "5": ["Caeda - Sea-Blossom Pair", "Leif - Destined Scions"],
         "name": "攻擊速度的先機4",
         "sp": 300
       },
@@ -7349,7 +7394,16 @@
       }
     },
     "Spd/Def Catch 3": {
-      "#": { "5": ["Sain - Green Lance"], "name": "速度防守的先機3", "sp": 240 }
+      "#": {
+        "5": ["Sain - Green Lance"],
+        "name": "速度防守的先機3",
+        "sp": 240
+      },
+      "grail": {
+        "5": ["Seth - Silver-Sea Knight"],
+        "name": "速度防守的先機3",
+        "sp": 240
+      }
     },
     "Spd/Def Catch 4": {
       "#": { "5": ["Sain - Green Lance"], "name": "速度防守的先機4", "sp": 300 }
@@ -7403,6 +7457,11 @@
           "Priam - Radiant Hero",
           "Edelgard - Hegemon Husk"
         ],
+        "name": "攻擊防守的萬全3",
+        "sp": 240
+      },
+      "special": {
+        "5": ["Lyon - Sunlit Prince"],
         "name": "攻擊防守的萬全3",
         "sp": 240
       },
@@ -7497,9 +7556,11 @@
       }
     },
     "Still Water 3": {
+      "duo": { "5": ["Thórr - Sun-Kissed Gods"], "name": "止水3", "sp": 200 },
       "special": { "5": ["Lilina - Beaming Bride"], "name": "止水3", "sp": 200 }
     },
     "Still Water 4": {
+      "duo": { "5": ["Thórr - Sun-Kissed Gods"], "name": "止水4", "sp": 300 },
       "special": { "5": ["Lilina - Beaming Bride"], "name": "止水4", "sp": 300 }
     },
     "Fort. Def/Res 2": {
@@ -9165,7 +9226,7 @@
         "sp": 240
       },
       "special": {
-        "5": ["Freyr - Estival Dreams"],
+        "5": ["Freyr - Estival Dreams", "Lyon - Sunlit Prince"],
         "name": "攻擊防守的靜謐3",
         "sp": 240
       },
@@ -9412,6 +9473,13 @@
         "sp": 240
       }
     },
+    "S/R Near Trace 3": {
+      "special": {
+        "5": ["Nifl - Tropical Ice God"],
+        "name": "速度魔防近影3",
+        "sp": 240
+      }
+    },
     "A/S Far Trace 3": {
       "mythic": {
         "5": ["Elimine - Scouring Saint"],
@@ -9439,6 +9507,11 @@
     "A/R Far Trace 3": {
       "#": {
         "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"],
+        "name": "攻擊魔防遠影3",
+        "sp": 240
+      },
+      "duo": {
+        "5": ["Thórr - Sun-Kissed Gods"],
         "name": "攻擊魔防遠影3",
         "sp": 240
       },
@@ -10538,7 +10611,11 @@
     },
     "Def Tactic 3": {
       "grail": {
-        "4": ["Laegjarn - New Experiences", "Ignatz - Snowscape Artist"],
+        "4": [
+          "Laegjarn - New Experiences",
+          "Seth - Silver-Sea Knight",
+          "Ignatz - Snowscape Artist"
+        ],
         "name": "防守指揮3",
         "sp": 240
       },
@@ -11656,10 +11733,22 @@
         "name": "攻擊速度的信義3",
         "sp": 240
       },
+      "special": {
+        "5": ["Eirika - Beach Restorer"],
+        "name": "攻擊速度的信義3",
+        "sp": 240
+      },
       "grail": {
         "5": ["Shamir - Lone-Moon Ninja"],
         "name": "攻擊速度的信義3",
         "sp": 240
+      }
+    },
+    "Atk/Spd Oath 4": {
+      "special": {
+        "5": ["Eirika - Beach Restorer"],
+        "name": "攻擊速度的信義4",
+        "sp": 300
       }
     },
     "Atk/Def Oath 3": {
