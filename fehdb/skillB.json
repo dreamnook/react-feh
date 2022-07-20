@@ -197,7 +197,7 @@
     "id": "Soul of Zofia",
     "name": "索菲亞之魂",
     "sp": 300,
-    "exclusive": ["Celica - Queen of Valentia"],
+    "exclusive": ["Celica - Queen of Valentia", "Celica - Valentia's Hope"],
     "last": true,
     "icon": "skillB/Soul_of_Zofia.png"
   },
@@ -3268,6 +3268,30 @@
     "icon": "skillB/A_D_Near_Trace_3.png",
     "last": true
   },
+  "A/R Near Trace 1": {
+    "id": "A/R Near Trace 1",
+    "name": "攻擊魔防近影1",
+    "sp": 100,
+    "rules": "learner.near-trace",
+    "icon": "skillB/A_R_Near_Trace_1.png"
+  },
+  "A/R Near Trace 2": {
+    "id": "A/R Near Trace 2",
+    "name": "攻擊魔防近影2",
+    "sp": 120,
+    "prev": ["A/R Near Trace 1"],
+    "rules": "learner.near-trace",
+    "icon": "skillB/A_R_Near_Trace_2.png"
+  },
+  "A/R Near Trace 3": {
+    "id": "A/R Near Trace 3",
+    "name": "攻擊魔防近影3",
+    "sp": 240,
+    "prev": ["A/R Near Trace 2"],
+    "rules": "learner.near-trace",
+    "icon": "skillB/A_R_Near_Trace_3.png",
+    "last": true
+  },
   "S/D Near Trace 1": {
     "id": "S/D Near Trace 1",
     "name": "速度防守近影1",
@@ -3484,30 +3508,6 @@
     "icon": "skillB/Flow_Guard_3.png",
     "last": true
   },
-  "Flow Flight 1": {
-    "id": "Flow Flight 1",
-    "name": "怒濤・飛龍行空1",
-    "sp": 60,
-    "rules": "learner.flow-refresh",
-    "icon": "skillB/Flow_Flight_1.png"
-  },
-  "Flow Flight 2": {
-    "id": "Flow Flight 2",
-    "name": "怒濤・飛龍行空2",
-    "sp": 120,
-    "prev": ["Flow Flight 1"],
-    "rules": "learner.flow-refresh",
-    "icon": "skillB/Flow_Flight_2.png"
-  },
-  "Flow Flight 3": {
-    "id": "Flow Flight 3",
-    "name": "怒濤・飛龍行空3",
-    "sp": 240,
-    "prev": ["Flow Flight 2"],
-    "rules": "learner.flow-refresh",
-    "icon": "skillB/Flow_Flight_3.png",
-    "last": true
-  },
   "Flow Force 1": {
     "id": "Flow Force 1",
     "name": "怒濤・不屈1",
@@ -3530,6 +3530,54 @@
     "prev": ["Flow Force 2"],
     "rules": "learner.flow-refresh",
     "icon": "skillB/Flow_Force_3.png",
+    "last": true
+  },
+  "Flow Feather 1": {
+    "id": "Flow Feather 1",
+    "name": "怒濤・天馬行空1",
+    "sp": 60,
+    "rules": "learner.wielderFlying",
+    "icon": "skillB/Flow_Feather_1.png"
+  },
+  "Flow Feather 2": {
+    "id": "Flow Feather 2",
+    "name": "怒濤・天馬行空2",
+    "sp": 120,
+    "prev": ["Flow Feather 1"],
+    "rules": "learner.wielderFlying",
+    "icon": "skillB/Flow_Feather_2.png"
+  },
+  "Flow Feather 3": {
+    "id": "Flow Feather 3",
+    "name": "怒濤・天馬行空3",
+    "sp": 240,
+    "prev": ["Flow Feather 2"],
+    "rules": "learner.wielderFlying",
+    "icon": "skillB/Flow_Feather_3.png",
+    "last": true
+  },
+  "Flow Flight 1": {
+    "id": "Flow Flight 1",
+    "name": "怒濤・飛龍行空1",
+    "sp": 60,
+    "rules": "learner.wielderFlying",
+    "icon": "skillB/Flow_Flight_1.png"
+  },
+  "Flow Flight 2": {
+    "id": "Flow Flight 2",
+    "name": "怒濤・飛龍行空2",
+    "sp": 120,
+    "prev": ["Flow Flight 1"],
+    "rules": "learner.wielderFlying",
+    "icon": "skillB/Flow_Flight_2.png"
+  },
+  "Flow Flight 3": {
+    "id": "Flow Flight 3",
+    "name": "怒濤・飛龍行空3",
+    "sp": 240,
+    "prev": ["Flow Flight 2"],
+    "rules": "learner.wielderFlying",
+    "icon": "skillB/Flow_Flight_3.png",
     "last": true
   },
   "Spd/Def Tempo 1": {

@@ -2328,6 +2328,18 @@
     "skillA": { "Life and Death 3": { "sp": 200, "rarity": 4 } },
     "skillC": { "Threat. Spd/Def 2": { "sp": 200, "rarity": 5 } }
   },
+  "Atlas - Forest Muscle": {
+    "score": 166,
+    "scoreTotal": 412,
+    "poolRarity": 3,
+    "sp": 200,
+    "spTotal": 600,
+    "feather": 150,
+    "bst": 187,
+    "special": { "Sol": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Earth Boost 3": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Threat. Atk/Def 2": { "sp": 200, "rarity": 5 } }
+  },
   "Noire - Shade Seeker": {
     "score": 254,
     "scoreTotal": 413,
@@ -2677,6 +2689,19 @@
     "special": { "Astra": { "sp": 200, "rarity": 4 } },
     "skillB": { "Chill Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd/Def Gap 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Lyon - Sunlit Prince": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 181,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } }
   },
   "Corrin - Daylight Ninja Act": {
     "score": 196,
@@ -4941,6 +4966,18 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Kamui - Wandering Blade": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 181,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 5 } }
+  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -5817,19 +5854,6 @@
     "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
-  "Lyon - Sunlit Prince": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 181,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } }
-  },
   "Karla - Sun-Piercing Steel": {
     "score": 254,
     "scoreTotal": 721,
@@ -6117,6 +6141,18 @@
     "skillA": { "Flashing Blade 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
+  "Celica - Valentia's Hope": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 171,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Null Follow 3": { "sp": 240, "rarity": 5 } }
+  },
   "Alm - Imperial Ascent": {
     "score": 300,
     "scoreTotal": 740,
@@ -6164,6 +6200,18 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillA": { "Kestrel Stance 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Close Call 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Est - Sweet Baby Sis": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 176,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Push 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flow Feather 3": { "sp": 240, "rarity": 5 } }
   },
   "Catherine - Thunder Knight": {
     "score": 300,
@@ -6571,6 +6619,19 @@
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillA": { "Bracing Stance 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Brigand Boss - Known Criminal": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 181,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Chill Spd/Def 2": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Smoke 3": { "sp": 240, "rarity": 4 } }
   },
   "Muarim - Raw Instinct": {
     "score": 322,
@@ -8453,6 +8514,18 @@
     "assist": { "Rally Up Atk+": { "sp": 400, "rarity": 5 } },
     "skillA": { "AR-D Def/Res 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Ymir - Life-Mother": {
+    "score": 400,
+    "scoreTotal": 940,
+    "poolRarity": 5,
+    "sp": 400,
+    "spTotal": 940,
+    "feather": 1000,
+    "bst": 173,
+    "assist": { "Rally Up Atk+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Res Unity": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/R Near Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Palla - Kind Eldest Sister": {
     "score": 400,

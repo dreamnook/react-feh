@@ -3010,6 +3010,39 @@
       },
       "last": true
     },
+    "Up-Front Blade": {
+      "id": "Up-Front Blade",
+      "name": "堂堂正正之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Up-Front Blade+": {
+      "id": "Up-Front Blade+",
+      "name": "堂堂正正之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Up-Front Blade"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Kadomatsu": {
       "id": "Kadomatsu",
       "name": "門松",
@@ -5147,6 +5180,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Tri-Edge Lance": {
+      "id": "Tri-Edge Lance",
+      "name": "天馬姊妹的三角槍",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Est - Sweet Baby Sis"],
       "last": true
     },
     "Iron Lance": {
@@ -8313,6 +8356,39 @@
       },
       "last": true
     },
+    "Stout Axe": {
+      "id": "Stout Axe",
+      "name": "堅固之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Stout Axe+": {
+      "id": "Stout Axe+",
+      "name": "堅固之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Stout Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Rein Axe": {
       "id": "Rein Axe",
       "name": "牽制之斧",
@@ -8326,6 +8402,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Rein Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Vulture Axe": {
+      "id": "Vulture Axe",
+      "name": "禿鷹之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Vulture Axe+": {
+      "id": "Vulture Axe+",
+      "name": "禿鷹之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Vulture Axe"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -18466,6 +18575,16 @@
       "exclusive": ["Micaiah - Wavecrest Maiden"],
       "last": true
     },
+    "Mila's Testament": {
+      "id": "Mila's Testament",
+      "name": "大地母神聖書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Celica - Valentia's Hope"],
+      "last": true
+    },
     "Stone": {
       "id": "Stone",
       "name": "洛克",
@@ -20073,6 +20192,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Nifl - Tropical Ice God"],
+      "last": true
+    },
+    "Everliving Breath": {
+      "id": "Everliving Breath",
+      "name": "永生吐息",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Ymir - Life-Mother"],
       "last": true
     },
     "Fire Breath": {

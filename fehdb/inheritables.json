@@ -183,6 +183,14 @@
           "refine": 350
         }
       },
+      "Up-Front Blade+": {
+        "#": {
+          "5": ["Kamui - Wandering Blade"],
+          "name": "堂堂正正之劍+",
+          "sp": 300,
+          "refine": 350
+        }
+      },
       "Kadomatsu+": {
         "special": {
           "5": ["Camilla - Holiday Traveler"],
@@ -837,10 +845,26 @@
           "refine": 350
         }
       },
+      "Stout Axe+": {
+        "#": {
+          "5": ["Atlas - Forest Muscle"],
+          "name": "堅固之斧+",
+          "sp": 300,
+          "refine": 350
+        }
+      },
       "Rein Axe+": {
         "grail": {
           "5": ["Gonzalez - Kindly Bandit"],
           "name": "牽制之斧+",
+          "sp": 300,
+          "refine": 350
+        }
+      },
+      "Vulture Axe+": {
+        "grail": {
+          "5": ["Brigand Boss - Known Criminal"],
+          "name": "禿鷹之斧+",
           "sp": 300,
           "refine": 350
         }
@@ -3080,6 +3104,7 @@
       "#": {
         "5": [
           "Múspell - Flame God",
+          "Ymir - Life-Mother",
           "Sain - Green Lance",
           "Ophelia - Dramatic Heroine"
         ],
@@ -3221,6 +3246,7 @@
       "#": {
         "5": [
           "Múspell - Flame God",
+          "Ymir - Life-Mother",
           "Sain - Green Lance",
           "Ophelia - Dramatic Heroine"
         ],
@@ -3320,6 +3346,7 @@
       },
       "#": {
         "4": [
+          "Atlas - Forest Muscle",
           "Echidna - Unyielding Idealist",
           "Raven - Peerless Fighter",
           "Chrom - Exalted Prince"
@@ -3343,14 +3370,17 @@
     },
     "Moonbow": {
       "special": {
-        "4": ["Alfonse - Uplifting Love", "Claude - Tropical Trouble"],
+        "4": [
+          "Alfonse - Uplifting Love",
+          "Lyon - Sunlit Prince",
+          "Claude - Tropical Trouble"
+        ],
         "5": [
           "Caeda - Princess of Talys",
           "Est - Springtime Flier",
           "Tiki - Beachside Scion",
           "Navarre - Scarlet Ninja",
           "Faye - Drawn Heartstring",
-          "Lyon - Sunlit Prince",
           "Micaiah - Wavecrest Maiden",
           "Nailah - Blessed Queen",
           "Severa - Bitter Blossom",
@@ -3388,6 +3418,7 @@
           "Laegjarn - Flame Ascendant",
           "Kris - Unsung Hero",
           "Julian - Tender Thief",
+          "Celica - Valentia's Hope",
           "Sonya - Vengeful Mage",
           "Annand - Knight-Defender",
           "Ishtar - Thunder Goddess",
@@ -3479,6 +3510,7 @@
           "Sirius - Mysterious Knight",
           "Malice - Deft Sellsword",
           "Celica - Imprisoned Soul",
+          "Kamui - Wandering Blade",
           "Ced - Hero on the Wind",
           "Ishtar - Echoing Thunder",
           "Mareeta - The Blade's Pawn",
@@ -3872,6 +3904,7 @@
       },
       "grail": {
         "4": [
+          "Brigand Boss - Known Criminal",
           "Galle - Azure Rider",
           "Gonzalez - Kindly Bandit",
           "Heath - Wandering Knight",
@@ -4072,6 +4105,7 @@
           "Niles - Cruel to Be Kind"
         ],
         "5": [
+          "Est - Sweet Baby Sis",
           "Julia - Heart Usurped",
           "Guinivere - Princess of Bern",
           "Niime - Mountain Hermit",
@@ -4855,6 +4889,7 @@
         "5": [
           "Minerva - Red Dragoon",
           "Wolf - Coyote's Loyal",
+          "Celica - Valentia's Hope",
           "Ishtar - Echoing Thunder",
           "Igrene - Nabata Protector",
           "Leila - Rose amid Fangs",
@@ -4877,6 +4912,7 @@
       "#": {
         "5": [
           "Wolf - Coyote's Loyal",
+          "Celica - Valentia's Hope",
           "Ishtar - Echoing Thunder",
           "Igrene - Nabata Protector",
           "Leila - Rose amid Fangs",
@@ -6114,7 +6150,7 @@
     "Earth Boost 3": {
       "grail": { "5": ["Darros - Seawalker"], "name": "生命大地3", "sp": 200 },
       "#": {
-        "4": ["Boey - Skillful Survivor"],
+        "4": ["Boey - Skillful Survivor", "Atlas - Forest Muscle"],
         "5": ["Amelia - Rose of the War"],
         "name": "生命大地3",
         "sp": 200
@@ -6241,6 +6277,16 @@
         "name": "攻擊魔防的羈絆3",
         "sp": 240
       },
+      "#": {
+        "5": [
+          "Ymir - Life-Mother",
+          "Cath - Master Thief",
+          "Micaiah - Queen of Dawn",
+          "Camilla - Flower of Fantasy"
+        ],
+        "name": "攻擊魔防的羈絆3",
+        "sp": 240
+      },
       "duo": {
         "5": ["Sigurd - Destined Duo"],
         "name": "攻擊魔防的羈絆3",
@@ -6248,15 +6294,6 @@
       },
       "grail": {
         "4": ["Cecilia - Festive Instructor"],
-        "name": "攻擊魔防的羈絆3",
-        "sp": 240
-      },
-      "#": {
-        "5": [
-          "Cath - Master Thief",
-          "Micaiah - Queen of Dawn",
-          "Camilla - Flower of Fantasy"
-        ],
         "name": "攻擊魔防的羈絆3",
         "sp": 240
       },
@@ -6404,6 +6441,7 @@
         "name": "攻擊魔防的連帶",
         "sp": 300
       },
+      "#": { "5": ["Ymir - Life-Mother"], "name": "攻擊魔防的連帶", "sp": 300 },
       "harmonized": {
         "5": ["Altina - Cross-Time Duo"],
         "name": "攻擊魔防的連帶",
@@ -6601,14 +6639,14 @@
         "name": "攻擊魔防的奮擊3",
         "sp": 240
       },
-      "legendary": {
-        "5": ["Leif - Unifier of Thracia"],
+      "#": {
+        "4": ["Brady - Daunting Priest"],
+        "5": ["Est - Sweet Baby Sis", "Guinivere - Princess of Bern"],
         "name": "攻擊魔防的奮擊3",
         "sp": 240
       },
-      "#": {
-        "4": ["Brady - Daunting Priest"],
-        "5": ["Guinivere - Princess of Bern"],
+      "legendary": {
+        "5": ["Leif - Unifier of Thracia"],
         "name": "攻擊魔防的奮擊3",
         "sp": 240
       },
@@ -6629,13 +6667,13 @@
         "name": "攻擊魔防的奮擊4",
         "sp": 300
       },
-      "legendary": {
-        "5": ["Leif - Unifier of Thracia"],
+      "#": {
+        "5": ["Est - Sweet Baby Sis", "Guinivere - Princess of Bern"],
         "name": "攻擊魔防的奮擊4",
         "sp": 300
       },
-      "#": {
-        "5": ["Guinivere - Princess of Bern"],
+      "legendary": {
+        "5": ["Leif - Unifier of Thracia"],
         "name": "攻擊魔防的奮擊4",
         "sp": 300
       },
@@ -7461,7 +7499,7 @@
         "sp": 240
       },
       "special": {
-        "5": ["Lyon - Sunlit Prince"],
+        "4": ["Lyon - Sunlit Prince"],
         "name": "攻擊防守的萬全3",
         "sp": 240
       },
@@ -7514,7 +7552,7 @@
     },
     "Spd/Def Ideal 3": {
       "#": {
-        "5": ["Hugh - Worldly Mage"],
+        "5": ["Kamui - Wandering Blade", "Hugh - Worldly Mage"],
         "name": "速度防守的萬全3",
         "sp": 240
       }
@@ -8269,6 +8307,11 @@
       }
     },
     "Chill Spd/Def 2": {
+      "grail": {
+        "5": ["Brigand Boss - Known Criminal"],
+        "name": "速度防守封殺2",
+        "sp": 240
+      },
       "special": {
         "5": ["Nailah - Blessed Queen"],
         "name": "速度防守封殺2",
@@ -9462,6 +9505,9 @@
         "sp": 240
       }
     },
+    "A/R Near Trace 3": {
+      "#": { "5": ["Ymir - Life-Mother"], "name": "攻擊魔防近影3", "sp": 240 }
+    },
     "S/D Near Trace 3": {
       "special": {
         "5": [
@@ -9566,17 +9612,24 @@
     "Flow Guard 3": {
       "mythic": { "5": ["Thórr - War God"], "name": "怒濤・取消3", "sp": 240 }
     },
-    "Flow Flight 3": {
-      "special": {
-        "5": ["Maria - Sunny Smile"],
-        "name": "怒濤・飛龍行空3",
-        "sp": 240
-      }
-    },
     "Flow Force 3": {
       "harmonized": {
         "5": ["Roy - Blazing Bachelors"],
         "name": "怒濤・不屈3",
+        "sp": 240
+      }
+    },
+    "Flow Feather 3": {
+      "#": {
+        "5": ["Est - Sweet Baby Sis"],
+        "name": "怒濤・天馬行空3",
+        "sp": 240
+      }
+    },
+    "Flow Flight 3": {
+      "special": {
+        "5": ["Maria - Sunny Smile"],
+        "name": "怒濤・飛龍行空3",
         "sp": 240
       }
     },
@@ -10922,6 +10975,7 @@
         "sp": 240
       },
       "grail": {
+        "4": ["Brigand Boss - Known Criminal"],
         "5": ["Fiora - Defrosted Ilian"],
         "name": "攻擊紫煙3",
         "sp": 240
@@ -11153,6 +11207,13 @@
       "#": {
         "5": ["Hubert - Sinister Servant"],
         "name": "步行之魔刃3",
+        "sp": 240
+      }
+    },
+    "Inf. Null Follow 3": {
+      "#": {
+        "5": ["Celica - Valentia's Hope"],
+        "name": "步行識破追擊3",
         "sp": 240
       }
     },
@@ -11752,6 +11813,11 @@
       }
     },
     "Atk/Def Oath 3": {
+      "#": {
+        "5": ["Kamui - Wandering Blade"],
+        "name": "攻擊防守的信義3",
+        "sp": 240
+      },
       "grail": {
         "5": ["Kyza - Tiger of Fortune"],
         "name": "攻擊防守的信義3",
@@ -12090,6 +12156,15 @@
         "name": "攻擊防守的威嚇2",
         "sp": 200
       },
+      "#": {
+        "5": [
+          "Atlas - Forest Muscle",
+          "Dieck - Wounded Tiger",
+          "Morgan - Devoted Darkness"
+        ],
+        "name": "攻擊防守的威嚇2",
+        "sp": 200
+      },
       "special": {
         "5": ["Rudolf - Emperor of Rigel"],
         "name": "攻擊防守的威嚇2",
@@ -12101,11 +12176,6 @@
           "Petrine - Icy Flame-Lancer",
           "Yen'fay - Blade Legend"
         ],
-        "name": "攻擊防守的威嚇2",
-        "sp": 200
-      },
-      "#": {
-        "5": ["Dieck - Wounded Tiger", "Morgan - Devoted Darkness"],
         "name": "攻擊防守的威嚇2",
         "sp": 200
       }

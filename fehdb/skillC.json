@@ -246,6 +246,14 @@
     "last": true,
     "icon": "skillC/Darkling_Guardian.png"
   },
+  "Everliving Domain": {
+    "id": "Everliving Domain",
+    "name": "永生結界",
+    "sp": 300,
+    "exclusive": ["Ymir - Life-Mother"],
+    "last": true,
+    "icon": "skillC/Everliving_Domain.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -1887,6 +1895,27 @@
     "prev": ["Inf. Hexblade 2"],
     "rules": "learner.inf-hexblade",
     "icon": "skillC/Inf._Hexblade_3.png",
+    "last": true
+  },
+  "Inf. Null Follow 1": {
+    "id": "Inf. Null Follow 1",
+    "name": "步行識破追擊1",
+    "sp": 60,
+    "icon": "skillC/Inf._Null_Follow_1.png"
+  },
+  "Inf. Null Follow 2": {
+    "id": "Inf. Null Follow 2",
+    "name": "步行識破追擊2",
+    "sp": 120,
+    "prev": ["Inf. Null Follow 1"],
+    "icon": "skillC/Inf._Null_Follow_2.png"
+  },
+  "Inf. Null Follow 3": {
+    "id": "Inf. Null Follow 3",
+    "name": "步行識破追擊3",
+    "sp": 240,
+    "prev": ["Inf. Null Follow 2"],
+    "icon": "skillC/Inf._Null_Follow_3.png",
     "last": true
   },
   "Armor March 1": {

@@ -1793,6 +1793,41 @@
       "jp": "Amamiya Sora (雨宮天)"
     }
   },
+  "Ymir - Life-Mother": {
+    "id": "Ymir - Life-Mother",
+    "title": "生命之母龍",
+    "name": "優彌爾",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-dragon",
+    "releaseDate": "2022-07-19",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [37, 40, 44],
+        "spd": [23, 26, 30],
+        "def": [32, 35, 38],
+        "res": [31, 34, 37]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 7,
+        "def": 9,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 173,
+    "statMax": 175,
+    "voice": {
+      "en": "Erin Yvette",
+      "jp": "Hiyori Kono (河野ひより)"
+    }
+  },
   "Líf - Lethal Swordsman": {
     "id": "Líf - Lethal Swordsman",
     "title": "殺戮的劍士",
@@ -7494,6 +7529,41 @@
       "jp": "Touyama Nao (東山奈央)"
     }
   },
+  "Celica - Valentia's Hope": {
+    "id": "Celica - Valentia's Hope",
+    "title": "瓦倫西亞的希望",
+    "name": "賽莉卡",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "releaseDate": "2022-07-19",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 43, 46],
+        "spd": [39, 42, 46],
+        "def": [18, 21, 24],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 12,
+        "def": 4,
+        "res": 6
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 171,
+    "statMax": 175,
+    "voice": {
+      "en": "Erica Lindbeck",
+      "jp": "Touyama Nao (東山奈央)"
+    }
+  },
   "Mae - Bundle of Energy": {
     "id": "Mae - Bundle of Energy",
     "title": "空轉的活力",
@@ -7787,6 +7857,41 @@
     "voice": {
       "en": "Kyle Hebert",
       "jp": "Fujiwara Takahiro (藤原貴弘)"
+    }
+  },
+  "Kamui - Wandering Blade": {
+    "id": "Kamui - Wandering Blade",
+    "title": "流浪的傭兵",
+    "name": "卡武伊",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2022-07-19",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "5": {
+        "hp": [41, 44, 47],
+        "atk": [35, 38, 41],
+        "spd": [38, 41, 45],
+        "def": [33, 36, 39],
+        "res": [19, 22, 25]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 11,
+        "def": 10,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": [],
+    "statMin": 181,
+    "statMax": 185,
+    "voice": {
+      "en": "Bryce Papenbrook",
+      "jp": "Shuhei Matsuda (松田修平)"
     }
   },
   "Leon - True of Heart": {
@@ -8267,6 +8372,104 @@
     "voice": {
       "en": "Connor Kelley",
       "jp": "Nabatame Hitomi (生天目仁美)"
+    }
+  },
+  "Est - Sweet Baby Sis": {
+    "id": "Est - Sweet Baby Sis",
+    "title": "天真浪漫的老么",
+    "name": "愛絲特",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "releaseDate": "2022-07-19",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "5": {
+        "hp": [32, 35, 39],
+        "atk": [38, 41, 45],
+        "spd": [35, 38, 42],
+        "def": [22, 25, 28],
+        "res": [34, 37, 40]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 8,
+        "def": 8,
+        "res": 9
+      }
+    },
+    "assets": ["hp", "atk", "spd"],
+    "flaws": [],
+    "statMin": 176,
+    "statMax": 180,
+    "voice": {
+      "en": "Brianna Knickerbocker",
+      "jp": "Murakawa Rie (村川梨衣)"
+    }
+  },
+  "Atlas - Forest Muscle": {
+    "id": "Atlas - Forest Muscle",
+    "title": "森林的鐵臂",
+    "name": "阿特拉斯",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "releaseDate": "2022-07-19",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "3": {
+        "hp": [39, 42, 45],
+        "atk": [35, 38, 41],
+        "spd": [30, 33, 36],
+        "def": [27, 30, 33],
+        "res": [20, 23, 26]
+      },
+      "4": {
+        "hp": [40, 43, 46],
+        "atk": [37, 41, 44],
+        "spd": [32, 35, 38],
+        "def": [28, 31, 35],
+        "res": [21, 24, 27]
+      },
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [39, 43, 46],
+        "spd": [34, 37, 40],
+        "def": [31, 34, 38],
+        "res": [24, 27, 30]
+      },
+      "3-1": {
+        "hp": 19,
+        "atk": 9,
+        "spd": 8,
+        "def": 3,
+        "res": 2
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 9,
+        "def": 3,
+        "res": 2
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 10,
+        "spd": 9,
+        "def": 4,
+        "res": 3
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["atk"],
+    "statMin": 187,
+    "statMax": 190,
+    "voice": {
+      "en": "Ben Pronsky",
+      "jp": "Tooru Sakurai (櫻井トオル)"
     }
   },
   "Sonya - Vengeful Mage": {
@@ -8961,6 +9164,70 @@
     "voice": {
       "en": "Monica Rial",
       "jp": "Sakakibara Yoshiko (榊原良子)"
+    }
+  },
+  "Brigand Boss - Known Criminal": {
+    "id": "Brigand Boss - Known Criminal",
+    "title": "亂世的厲風",
+    "name": "盜賊頭目",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2022-07-20",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "3": {
+        "hp": [38, 41, 44],
+        "atk": [35, 38, 41],
+        "spd": [28, 31, 34],
+        "def": [28, 31, 34],
+        "res": [18, 21, 24]
+      },
+      "4": {
+        "hp": [39, 42, 45],
+        "atk": [37, 40, 44],
+        "spd": [30, 33, 36],
+        "def": [29, 32, 35],
+        "res": [19, 22, 25]
+      },
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [39, 42, 46],
+        "spd": [32, 35, 38],
+        "def": [32, 35, 38],
+        "res": [21, 24, 28]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 8,
+        "def": 8,
+        "res": 4
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 9,
+        "def": 8,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 9,
+        "def": 9,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": [],
+    "statMin": 181,
+    "statMax": 185,
+    "voice": {
+      "en": "Tom Fahn",
+      "jp": "Kousuke Takaguchi (高口公介)"
     }
   },
   "Sigurd - Holy Knight": {
@@ -19722,7 +19989,7 @@
     "id": "Lyon - Sunlit Prince",
     "title": "陽光閃耀的皇子",
     "name": "利昂",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
@@ -19730,12 +19997,26 @@
     "releaseDate": "2022-07-07",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [37, 40, 44],
+        "spd": [16, 19, 22],
+        "def": [32, 35, 38],
+        "res": [33, 36, 40]
+      },
       "5": {
         "hp": [39, 42, 45],
         "atk": [39, 42, 46],
         "spd": [18, 21, 24],
         "def": [34, 37, 40],
         "res": [36, 39, 43]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 5,
+        "def": 9,
+        "res": 8
       },
       "5-1": {
         "hp": 18,
