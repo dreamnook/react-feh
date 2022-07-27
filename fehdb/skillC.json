@@ -254,6 +254,14 @@
     "last": true,
     "icon": "skillC/Everliving_Domain.png"
   },
+  "Opened Domain": {
+    "id": "Opened Domain",
+    "name": "彼此相連的世界",
+    "sp": 300,
+    "exclusive": ["Askr - God of Openness"],
+    "last": true,
+    "icon": "skillC/Opened_Domain.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

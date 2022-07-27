@@ -3502,6 +3502,7 @@
       "#": {
         "4": [
           "Catria - Middle Whitewing",
+          "Kamui - Wandering Blade",
           "Knoll - Darkness Watcher",
           "Marcia - Petulant Knight",
           "Frederick - Polite Knight"
@@ -3510,7 +3511,6 @@
           "Sirius - Mysterious Knight",
           "Malice - Deft Sellsword",
           "Celica - Imprisoned Soul",
-          "Kamui - Wandering Blade",
           "Ced - Hero on the Wind",
           "Ishtar - Echoing Thunder",
           "Mareeta - The Blade's Pawn",
@@ -3792,6 +3792,22 @@
       }
     },
     "Draconic Aura": {
+      "special": {
+        "4": ["Marth - Legacied Hero", "Corrin - Daylight Ninja Act"],
+        "5": [
+          "Freyr - Estival Dreams",
+          "Palla - Eldest Bun-Bun",
+          "Shanna - Bridal Novice",
+          "Karla - Sun-Piercing Steel",
+          "Tana - Frelian Starlight",
+          "Dheginsea - Harvest Goldoan",
+          "Kagero - Beverage Ninja",
+          "Camilla - Holiday Traveler",
+          "Camilla - Tropical Beauty"
+        ],
+        "name": "龍裂",
+        "sp": 200
+      },
       "#": {
         "4": [
           "Ares - Black Knight",
@@ -3819,22 +3835,6 @@
           "Byleth - Proven Professor",
           "Byleth - Tested Professor",
           "Catherine - Thunder Knight"
-        ],
-        "name": "龍裂",
-        "sp": 200
-      },
-      "special": {
-        "4": ["Marth - Legacied Hero", "Corrin - Daylight Ninja Act"],
-        "5": [
-          "Freyr - Estival Dreams",
-          "Palla - Eldest Bun-Bun",
-          "Shanna - Bridal Novice",
-          "Karla - Sun-Piercing Steel",
-          "Tana - Frelian Starlight",
-          "Dheginsea - Harvest Goldoan",
-          "Kagero - Beverage Ninja",
-          "Camilla - Holiday Traveler",
-          "Camilla - Tropical Beauty"
         ],
         "name": "龍裂",
         "sp": 200
@@ -3997,6 +3997,7 @@
         "5": [
           "Líf - Lethal Swordsman",
           "Thórr - War God",
+          "Askr - God of Openness",
           "Ash - Retainer to Askr"
         ],
         "name": "緋炎",
@@ -7489,6 +7490,11 @@
       }
     },
     "Atk/Def Ideal 3": {
+      "mythic": {
+        "5": ["Askr - God of Openness"],
+        "name": "攻擊防守的萬全3",
+        "sp": 240
+      },
       "#": {
         "5": [
           "Scáthach - Astra's Wake",
@@ -7515,6 +7521,11 @@
       }
     },
     "Atk/Def Ideal 4": {
+      "mythic": {
+        "5": ["Askr - God of Openness"],
+        "name": "攻擊防守的萬全4",
+        "sp": 300
+      },
       "#": {
         "5": ["Priam - Radiant Hero", "Edelgard - Hegemon Husk"],
         "name": "攻擊防守的萬全4",
@@ -7552,7 +7563,8 @@
     },
     "Spd/Def Ideal 3": {
       "#": {
-        "5": ["Kamui - Wandering Blade", "Hugh - Worldly Mage"],
+        "4": ["Kamui - Wandering Blade"],
+        "5": ["Hugh - Worldly Mage"],
         "name": "速度防守的萬全3",
         "sp": 240
       }
@@ -9551,13 +9563,13 @@
       }
     },
     "A/R Far Trace 3": {
-      "#": {
-        "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"],
+      "duo": {
+        "5": ["Thórr - Sun-Kissed Gods"],
         "name": "攻擊魔防遠影3",
         "sp": 240
       },
-      "duo": {
-        "5": ["Thórr - Sun-Kissed Gods"],
+      "#": {
+        "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"],
         "name": "攻擊魔防遠影3",
         "sp": 240
       },
@@ -9637,6 +9649,13 @@
       "special": {
         "5": ["Mia - Budding Blade"],
         "name": "速度防守節拍3",
+        "sp": 240
+      }
+    },
+    "Atk/Def Bulwark 3": {
+      "mythic": {
+        "5": ["Askr - God of Openness"],
+        "name": "攻擊防守防護屏障3",
         "sp": 240
       }
     }

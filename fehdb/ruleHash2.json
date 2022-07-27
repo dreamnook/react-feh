@@ -157,6 +157,10 @@
     "weaponType": 7,
     "moveType": 12
   },
+  "learner.infantry-melee": {
+    "weaponType": 16711687,
+    "moveType": 1
+  },
   "learner.flying-melee": {
     "weaponType": 16711687,
     "moveType": 8

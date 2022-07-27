@@ -3603,5 +3603,29 @@
     "rules": "infantry",
     "icon": "skillB/Spd_Def_Tempo_3.png",
     "last": true
+  },
+  "Atk/Def Bulwark 1": {
+    "id": "Atk/Def Bulwark 1",
+    "name": "攻擊防守防護屏障1",
+    "sp": 60,
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Atk_Def_Bulwark_1.png"
+  },
+  "Atk/Def Bulwark 2": {
+    "id": "Atk/Def Bulwark 2",
+    "name": "攻擊防守防護屏障2",
+    "sp": 120,
+    "prev": ["Atk/Def Bulwark 1"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Atk_Def_Bulwark_2.png"
+  },
+  "Atk/Def Bulwark 3": {
+    "id": "Atk/Def Bulwark 3",
+    "name": "攻擊防守防護屏障3",
+    "sp": 240,
+    "prev": ["Atk/Def Bulwark 2"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Atk_Def_Bulwark_3.png",
+    "last": true
   }
 }

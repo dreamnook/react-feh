@@ -13665,6 +13665,16 @@
       "exclusive": ["Muarim - Raw Instinct"],
       "last": true
     },
+    "Illuminating Horn": {
+      "id": "Illuminating Horn",
+      "name": "絕光之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Infantry)"],
+      "exclusive": ["Askr - God of Openness"],
+      "last": true
+    },
     "Whelp (Infantry)": {
       "id": "Whelp (Infantry)",
       "name": "幼獸化身・步行",

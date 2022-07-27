@@ -671,41 +671,6 @@
       "jp": "Hidaka Rina (日高里菜)"
     }
   },
-  "Letizia - Curse Director": {
-    "id": "Letizia - Curse Director",
-    "title": "【詛咒部隊】隊長",
-    "name": "萊蒂西亞",
-    "rarity": [5],
-    "colorType": "green",
-    "moveType": "cavalry",
-    "weaponType": "green-tome",
-    "releaseDate": "2022-06-08",
-    "appearsIn": ["Heroes"],
-    "stats": {
-      "5": {
-        "hp": [34, 38, 41],
-        "atk": [37, 40, 44],
-        "spd": [12, 16, 19],
-        "def": [32, 35, 38],
-        "res": [31, 34, 37]
-      },
-      "5-1": {
-        "hp": 16,
-        "atk": 10,
-        "spd": 3,
-        "def": 9,
-        "res": 8
-      }
-    },
-    "assets": ["atk"],
-    "flaws": ["hp", "spd"],
-    "statMin": 163,
-    "statMax": 165,
-    "voice": {
-      "en": "Kelly Baskin",
-      "jp": "M・A・O"
-    }
-  },
   "Nifl - God of Ice": {
     "id": "Nifl - God of Ice",
     "title": "冰神",
@@ -2772,6 +2737,44 @@
       "jp": "Minami Takayama (高山みなみ)"
     }
   },
+  "Askr - God of Openness": {
+    "id": "Askr - God of Openness",
+    "title": "開神",
+    "name": "亞斯克",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-beast",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "light-def-2",
+    "releaseDate": "2022-07-26",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 43, 46],
+        "spd": [22, 26, 29],
+        "def": [40, 43, 47],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 4,
+        "def": 13,
+        "res": 9
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["hp", "atk", "spd", "res"],
+    "statMin": 183,
+    "statMax": 185,
+    "voice": {
+      "en": "Dustin Rubin",
+      "jp": "Takaya Kuroda (黒田崇矢)"
+    }
+  },
   "Ash - Retainer to Askr": {
     "id": "Ash - Retainer to Askr",
     "title": "亞斯克的眷屬",
@@ -2808,6 +2811,41 @@
     "voice": {
       "en": "Lily Emil Lammers",
       "jp": "Shino Shimoji (下地紫野)"
+    }
+  },
+  "Letizia - Curse Director": {
+    "id": "Letizia - Curse Director",
+    "title": "【詛咒部隊】隊長",
+    "name": "萊蒂西亞",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-tome",
+    "releaseDate": "2022-06-08",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [37, 40, 44],
+        "spd": [12, 16, 19],
+        "def": [32, 35, 38],
+        "res": [31, 34, 37]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 3,
+        "def": 9,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd"],
+    "statMin": 163,
+    "statMax": 165,
+    "voice": {
+      "en": "Kelly Baskin",
+      "jp": "M・A・O"
     }
   },
   "Marth - Altean Prince": {
@@ -7863,19 +7901,33 @@
     "id": "Kamui - Wandering Blade",
     "title": "流浪的傭兵",
     "name": "卡武伊",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
     "releaseDate": "2022-07-19",
     "appearsIn": ["Echoes"],
     "stats": {
+      "4": {
+        "hp": [38, 41, 44],
+        "atk": [33, 36, 39],
+        "spd": [36, 39, 43],
+        "def": [30, 33, 36],
+        "res": [17, 20, 23]
+      },
       "5": {
         "hp": [41, 44, 47],
         "atk": [35, 38, 41],
         "spd": [38, 41, 45],
         "def": [33, 36, 39],
         "res": [19, 22, 25]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 11,
+        "def": 9,
+        "res": 4
       },
       "5-1": {
         "hp": 18,
