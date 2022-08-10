@@ -293,6 +293,14 @@
           "sp": 300,
           "refine": 350
         }
+      },
+      "Florid Cane+": {
+        "grail": {
+          "5": ["Rickard - Carefree Culprit"],
+          "name": "薔薇之杖+",
+          "sp": 300,
+          "refine": 350
+        }
       }
     },
     "blue-lance": {
@@ -1643,6 +1651,14 @@
           "sp": 300,
           "refine": 350
         }
+      },
+      "Florid Knife+": {
+        "#": {
+          "5": ["Sothe - Rushing Dawn"],
+          "name": "薔薇匕首+",
+          "sp": 300,
+          "refine": 350
+        }
       }
     },
     "beast": {},
@@ -2688,6 +2704,7 @@
         "4": [
           "Eir - Renewed Life",
           "Darros - Seawalker",
+          "Rickard - Carefree Culprit",
           "Boyd - Future Great",
           "Rolf - Tricky Archer"
         ],
@@ -2762,7 +2779,11 @@
           "Miriel - Rapier Intellect",
           "Orochi - Merry Diviner"
         ],
-        "5": ["Camilla - Flower of Fantasy", "Nina - Eye Spy"],
+        "5": [
+          "Cath - Caper Captain",
+          "Camilla - Flower of Fantasy",
+          "Nina - Eye Spy"
+        ],
         "name": "拉近",
         "sp": 150
       },
@@ -3196,6 +3217,7 @@
         "5": [
           "Catria - Mild Middle Sister",
           "Erinys - Earnest Knight",
+          "Sothe - Rushing Dawn",
           "Constance - Fallen Noble",
           "Gatekeeper - Nothing to Report"
         ],
@@ -3425,6 +3447,7 @@
           "Asbel - Windswept Youth",
           "Hugh - Worldly Mage",
           "Sue - Doe of the Plains",
+          "Leila - Keen Lookout",
           "Florina - Azure-Sky Knight",
           "Nino - Pale Flower",
           "Ephraim - Restoration Lord",
@@ -3495,7 +3518,11 @@
         "sp": 200
       },
       "duo": {
-        "5": ["Dagr - New Year Jötnar", "Eirika - Twin Refulgence"],
+        "5": [
+          "Dagr - New Year Jötnar",
+          "Eirika - Twin Refulgence",
+          "Nina - Shadowy Figures"
+        ],
         "name": "月光",
         "sp": 200
       },
@@ -3562,7 +3589,8 @@
       }
     },
     "Lethality": {
-      "#": { "5": ["Volke - Man of Mysteries"], "name": "滅殺", "sp": 500 }
+      "#": { "5": ["Volke - Man of Mysteries"], "name": "滅殺", "sp": 500 },
+      "duo": { "5": ["Nina - Shadowy Figures"], "name": "滅殺", "sp": 500 }
     },
     "Aether": {
       "#": {
@@ -5089,9 +5117,11 @@
           "Sue - Doe of the Plains",
           "Eliwood - Marquess Pherae",
           "Lyn - Brave Lady",
+          "Leila - Keen Lookout",
           "Nino - Pale Flower",
           "Eirika - Anamnesis Lady",
           "Eirika - Pledged Restorer",
+          "Sothe - Rushing Dawn",
           "Charlotte - Wily Warrior",
           "Catherine - Thunder Knight"
         ],
@@ -5146,6 +5176,7 @@
         "5": [
           "Laegjarn - Flame Ascendant",
           "Eliwood - Marquess Pherae",
+          "Leila - Keen Lookout",
           "Charlotte - Wily Warrior",
           "Catherine - Thunder Knight"
         ],
@@ -6487,6 +6518,7 @@
         "5": [
           "Malice - Deft Sellsword",
           "Sara - Lady of Loptr",
+          "Cath - Caper Captain",
           "Florina - Azure-Sky Knight",
           "Jill - Fiery Dracoknight",
           "Flavia - Feroxi East-Khan",
@@ -6548,6 +6580,7 @@
         "5": [
           "Malice - Deft Sellsword",
           "Sara - Lady of Loptr",
+          "Cath - Caper Captain",
           "Florina - Azure-Sky Knight",
           "Jill - Fiery Dracoknight",
           "Flavia - Feroxi East-Khan",
@@ -7351,6 +7384,11 @@
         "5": ["Xander - Gallant King", "Claude - King of Unification"],
         "name": "攻擊速度的先機3",
         "sp": 240
+      },
+      "duo": {
+        "5": ["Nina - Shadowy Figures"],
+        "name": "攻擊速度的先機3",
+        "sp": 240
       }
     },
     "Atk/Spd Catch 4": {
@@ -7375,6 +7413,11 @@
       },
       "legendary": {
         "5": ["Xander - Gallant King", "Claude - King of Unification"],
+        "name": "攻擊速度的先機4",
+        "sp": 300
+      },
+      "duo": {
+        "5": ["Nina - Shadowy Figures"],
         "name": "攻擊速度的先機4",
         "sp": 300
       }
@@ -8352,6 +8395,18 @@
         "5": ["Sonya - Dazzling Rabbits"],
         "name": "防守魔防封殺2",
         "sp": 240
+      },
+      "duo": {
+        "5": ["Nina - Shadowy Figures"],
+        "name": "防守魔防封殺2",
+        "sp": 240
+      }
+    },
+    "Chill Def/Res 3": {
+      "duo": {
+        "5": ["Nina - Shadowy Figures"],
+        "name": "防守魔防封殺3",
+        "sp": 300
       }
     },
     "Sabotage Atk 3": {
@@ -8648,6 +8703,7 @@
         "4": [
           "Loki - Spring Trickster",
           "Minerva - Princess-Knight",
+          "Rickard - Carefree Culprit",
           "Díthorba - Cutting Knight"
         ],
         "name": "編隊飛行3",
@@ -9039,6 +9095,9 @@
         "name": "攻擊防守干涉3",
         "sp": 240
       }
+    },
+    "Atk/Res Snag 3": {
+      "#": { "5": ["Cath - Caper Captain"], "name": "攻擊魔防干涉3", "sp": 240 }
     },
     "Spd/Def Snag 3": {
       "grail": {
@@ -10259,7 +10318,11 @@
         "sp": 240
       },
       "#": {
-        "5": ["Erinys - Earnest Knight", "Farina - The Great Wing"],
+        "5": [
+          "Erinys - Earnest Knight",
+          "Farina - The Great Wing",
+          "Sothe - Rushing Dawn"
+        ],
         "name": "攻擊防守牽制3",
         "sp": 240
       }
@@ -11061,6 +11124,7 @@
         "name": "魔防紫煙3",
         "sp": 240
       },
+      "#": { "5": ["Leila - Keen Lookout"], "name": "魔防紫煙3", "sp": 240 },
       "legendary": {
         "5": ["Robin - Fell Vessel"],
         "name": "魔防紫煙3",
@@ -11131,6 +11195,9 @@
         "name": "不治的幻煙3",
         "sp": 240
       }
+    },
+    "Def/Res Smoke 3": {
+      "#": { "5": ["Leila - Keen Lookout"], "name": "防守魔防紫煙3", "sp": 300 }
     },
     "Time's Pulse 3": {
       "mythic": {
@@ -11880,6 +11947,11 @@
         "5": ["Marth - Legacied Hero"],
         "name": "速度防守的信義3",
         "sp": 240
+      },
+      "grail": {
+        "5": ["Rickard - Carefree Culprit"],
+        "name": "速度防守的信義3",
+        "sp": 240
       }
     },
     "Spd/Res Oath 3": {
@@ -11965,7 +12037,7 @@
     },
     "Blue Feud 3": {
       "#": {
-        "5": ["Tine - Rumbling Thunder"],
+        "5": ["Tine - Rumbling Thunder", "Cath - Caper Captain"],
         "name": "對青的暗鬥3",
         "sp": 240
       }
@@ -11980,6 +12052,11 @@
     "C Feud 3": {
       "legendary": {
         "5": ["Xander - Gallant King"],
+        "name": "對無的暗鬥3",
+        "sp": 240
+      },
+      "duo": {
+        "5": ["Nina - Shadowy Figures"],
         "name": "對無的暗鬥3",
         "sp": 240
       },

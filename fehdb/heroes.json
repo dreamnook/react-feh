@@ -5131,6 +5131,56 @@
       "jp": "Tomatsu Haruka (戸松遥)"
     }
   },
+  "Rickard - Carefree Culprit": {
+    "id": "Rickard - Carefree Culprit",
+    "title": "得意忘形的怪盜",
+    "name": "理卡德",
+    "rarity": [5, 4],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-sword",
+    "pool": "grail",
+    "releaseDate": "2022-08-09",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "4": {
+        "hp": [33, 36, 39],
+        "atk": [33, 36, 40],
+        "spd": [37, 40, 44],
+        "def": [27, 30, 33],
+        "res": [20, 23, 26]
+      },
+      "5": {
+        "hp": [35, 38, 42],
+        "atk": [35, 38, 42],
+        "spd": [39, 42, 46],
+        "def": [30, 33, 36],
+        "res": [22, 25, 29]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 12,
+        "def": 6,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 8,
+        "spd": 12,
+        "def": 7,
+        "res": 6
+      }
+    },
+    "assets": ["hp", "atk", "spd", "res"],
+    "flaws": [],
+    "statMin": 176,
+    "statMax": 180,
+    "voice": {
+      "en": "Edward Aaron Mendoza",
+      "jp": "Itou Shizuka (伊藤静)"
+    }
+  },
   "Merric - Wind Mage": {
     "id": "Merric - Wind Mage",
     "title": "風之魔道士",
@@ -15786,6 +15836,41 @@
       "jp": "Yahagi Sayuri (矢作紗友里)"
     }
   },
+  "Cath - Caper Captain": {
+    "id": "Cath - Caper Captain",
+    "title": "怪盜團團長",
+    "name": "凱絲",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-tome",
+    "releaseDate": "2022-08-09",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [34, 37, 41],
+        "spd": [40, 43, 47],
+        "def": [18, 21, 24],
+        "res": [19, 22, 25]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 7,
+        "spd": 13,
+        "def": 4,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 162,
+    "statMax": 165,
+    "voice": {
+      "en": "Antonia Flynn",
+      "jp": "Yahagi Sayuri (矢作紗友里)"
+    }
+  },
   "Elimine - Scouring Saint": {
     "id": "Elimine - Scouring Saint",
     "title": "八神將的聖女",
@@ -16535,6 +16620,41 @@
       }
     },
     "assets": ["spd", "def", "res"],
+    "flaws": ["hp"],
+    "statMin": 166,
+    "statMax": 170,
+    "voice": {
+      "en": "Rebeka Thomas",
+      "jp": "Hikasa Youko (日笠陽子)"
+    }
+  },
+  "Leila - Keen Lookout": {
+    "id": "Leila - Keen Lookout",
+    "title": "密探怪盜",
+    "name": "蕾拉",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-tome",
+    "releaseDate": "2022-08-09",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [35, 38, 42],
+        "spd": [40, 43, 47],
+        "def": [17, 20, 23],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 13,
+        "def": 3,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "spd", "res"],
     "flaws": ["hp"],
     "statMin": 166,
     "statMax": 170,
@@ -23438,6 +23558,41 @@
     "flaws": ["hp"],
     "statMin": 151,
     "statMax": 150,
+    "voice": {
+      "en": "Nicolas Roye",
+      "jp": "Majima Junji (間島淳司)"
+    }
+  },
+  "Sothe - Rushing Dawn": {
+    "id": "Sothe - Rushing Dawn",
+    "title": "曉之疾風",
+    "name": "薩扎",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-dagger",
+    "releaseDate": "2022-08-09",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [36, 39, 43],
+        "spd": [38, 41, 45],
+        "def": [24, 28, 31],
+        "res": [20, 23, 26]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 11,
+        "def": 6,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["def"],
+    "statMin": 172,
+    "statMax": 175,
     "voice": {
       "en": "Nicolas Roye",
       "jp": "Majima Junji (間島淳司)"
@@ -34197,6 +34352,43 @@
     "voice": {
       "en": "Liv Strander",
       "jp": "Tsuji Ayumi (辻あゆみ)"
+    }
+  },
+  "Nina - Shadowy Figures": {
+    "id": "Nina - Shadowy Figures",
+    "title": "黑暗中舞動的影子",
+    "name": "艾波寧",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-dagger",
+    "bst": 195,
+    "pool": "duo",
+    "releaseDate": "2022-08-09",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [34, 37, 41],
+        "spd": [40, 43, 47],
+        "def": [15, 18, 21],
+        "res": [29, 32, 35]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 7,
+        "spd": 13,
+        "def": 3,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 168,
+    "statMax": 170,
+    "voice": {
+      "en": "Liv Strander + Sarah Blandy",
+      "jp": "Tsuji Ayumi (辻あゆみ) with Murakawa Rie (村川梨衣)"
     }
   },
   "Arete - Requiem's Beauty": {

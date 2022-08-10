@@ -2999,6 +2999,27 @@
       "Atk Ploy 3": 5
     }
   },
+  "Rickard - Carefree Culprit": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Florid Cane": 3,
+      "Florid Cane+": 5
+    },
+    "assist": {
+      "Shove": 4
+    },
+    "skillB": {
+      "Flier Formation 1": 1,
+      "Flier Formation 2": 2,
+      "Flier Formation 3": 4
+    },
+    "skillC": {
+      "Spd/Def Oath 1": 3,
+      "Spd/Def Oath 2": 4,
+      "Spd/Def Oath 3": 5
+    }
+  },
   "Merric - Wind Mage": {
     "weapon": {
       "Wind": 1,
@@ -8510,6 +8531,33 @@
       "Spd/Res Link 3": 4
     }
   },
+  "Cath - Caper Captain": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Thoron": 4,
+      "Lofty Leaflet": 5
+    },
+    "assist": {
+      "Draw Back": 4
+    },
+    "skillA": {
+      "Atk/Spd Push 1": 2,
+      "Atk/Spd Push 2": 3,
+      "Atk/Spd Push 3": 4,
+      "Atk/Spd Push 4": 5
+    },
+    "skillB": {
+      "Atk/Res Snag 1": 1,
+      "Atk/Res Snag 2": 2,
+      "Atk/Res Snag 3": 4
+    },
+    "skillC": {
+      "Blue Feud 1": 3,
+      "Blue Feud 2": 4,
+      "Blue Feud 3": 5
+    }
+  },
   "Elimine - Scouring Saint": {
     "weapon": {
       "Assault": 1,
@@ -8983,6 +9031,30 @@
       "Atk Smoke 1": 1,
       "Atk Smoke 2": 2,
       "Atk Smoke 3": 4
+    }
+  },
+  "Leila - Keen Lookout": {
+    "weapon": {
+      "Flux": 1,
+      "Ruin": 2,
+      "Fenrir": 4,
+      "Soothing Scent": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Swift Sparrow 3": 5
+    },
+    "skillC": {
+      "Res Smoke 1": 2,
+      "Res Smoke 2": 3,
+      "Res Smoke 3": 4,
+      "Def/Res Smoke 3": 5
     }
   },
   "Serra - Outspoken Cleric": {
@@ -12598,6 +12670,28 @@
       "Spur Atk 1": 3,
       "Spur Atk/Spd 1": 4,
       "Spur Atk/Spd 2": 5
+    }
+  },
+  "Sothe - Rushing Dawn": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Florid Knife": 3,
+      "Florid Knife+": 5
+    },
+    "assist": {
+      "Harsh Command": 4,
+      "Harsh Command+": 5
+    },
+    "skillA": {
+      "Death Blow 1": 1,
+      "Swift Sparrow 1": 2,
+      "Swift Sparrow 2": 4
+    },
+    "skillC": {
+      "Atk/Def Rein 1": 3,
+      "Atk/Def Rein 2": 4,
+      "Atk/Def Rein 3": 5
     }
   },
   "Rhys - Gentle Basker": {
@@ -18169,6 +18263,36 @@
       "Bow Valor 1": 1,
       "Bow Valor 2": 2,
       "Bow Valor 3": 4
+    }
+  },
+  "Nina - Shadowy Figures": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 4,
+      "Shadowy Quill": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4,
+      "Lethality": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "Chill Def 1": 2,
+      "Chill Def/Res 1": 3,
+      "Chill Def/Res 2": 4,
+      "Chill Def/Res 3": 5
+    },
+    "skillC": {
+      "C Feud 1": 1,
+      "C Feud 2": 2,
+      "C Feud 3": 4
     }
   },
   "Arete - Requiem's Beauty": {

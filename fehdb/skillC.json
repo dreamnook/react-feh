@@ -1770,6 +1770,14 @@
     "icon": "skillC/Fatal_Smoke_3.png",
     "last": true
   },
+  "Def/Res Smoke 3": {
+    "id": "Def/Res Smoke 3",
+    "name": "防守魔防紫煙3",
+    "sp": 300,
+    "prev": ["Def Smoke 3", "Res Smoke 3"],
+    "last": true,
+    "icon": "skillC/Def_Res_Smoke_3.png"
+  },
   "Time's Pulse 1": {
     "id": "Time's Pulse 1",
     "name": "初始之躍動1",

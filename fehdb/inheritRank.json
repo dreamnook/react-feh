@@ -3956,6 +3956,19 @@
     "skillA": { "Spd/Def Bond 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 5 } }
   },
+  "Rickard - Carefree Culprit": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 176,
+    "assist": { "Shove": { "sp": 150, "rarity": 4 } },
+    "skillB": { "Flier Formation 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Spd/Def Oath 3": { "sp": 240, "rarity": 5 } }
+  },
   "Keaton - Resolved Wolfskin": {
     "score": 299,
     "scoreTotal": 604,
@@ -7165,6 +7178,18 @@
     "skillA": { "Spd/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def Tactic 3": { "sp": 240, "rarity": 4 } }
   },
+  "Leila - Keen Lookout": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 166,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
   "Arthur - Furious Mage": {
     "score": 300,
     "scoreTotal": 800,
@@ -7772,6 +7797,18 @@
     "skillA": { "Mirror Stance 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk Feint 3": { "sp": 240, "rarity": 5 } }
   },
+  "Sothe - Rushing Dawn": {
+    "score": 400,
+    "scoreTotal": 880,
+    "poolRarity": 5,
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 1000,
+    "bst": 172,
+    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Annette - Overachiever": {
     "score": 400,
     "scoreTotal": 880,
@@ -8246,6 +8283,19 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Close Guard 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Cath - Caper Captain": {
+    "score": 300,
+    "scoreTotal": 930,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 162,
+    "assist": { "Draw Back": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Snag 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Blue Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Wolf - Coyote's Loyal": {
     "score": 300,
@@ -10564,5 +10614,19 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Chill Spd/Res 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ground Orders 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Nina - Shadowy Figures": {
+    "score": 530,
+    "scoreTotal": 1420,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1340,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Lethality": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Chill Def/Res 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   }
 }

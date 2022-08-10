@@ -1322,6 +1322,14 @@
     "icon": "skillB/Chill_Def_Res_2.png",
     "last": true
   },
+  "Chill Def/Res 3": {
+    "id": "Chill Def/Res 3",
+    "name": "防守魔防封殺3",
+    "sp": 300,
+    "prev": ["Chill Def/Res 2"],
+    "icon": "skillB/Chill_Def_Res_3.png",
+    "last": true
+  },
   "Sabotage Atk 1": {
     "id": "Sabotage Atk 1",
     "name": "攻擊擾亂1",
@@ -2477,6 +2485,30 @@
     "prev": ["Atk/Def Snag 2"],
     "rules": "learner.snag-skills",
     "icon": "skillB/Atk_Def_Snag_3.png",
+    "last": true
+  },
+  "Atk/Res Snag 1": {
+    "id": "Atk/Res Snag 1",
+    "name": "攻擊魔防干涉1",
+    "sp": 60,
+    "rules": "learner.snag-skills",
+    "icon": "skillB/Atk_Res_Snag_1.png"
+  },
+  "Atk/Res Snag 2": {
+    "id": "Atk/Res Snag 2",
+    "name": "攻擊魔防干涉2",
+    "sp": 120,
+    "prev": ["Atk/Res Snag 1"],
+    "rules": "learner.snag-skills",
+    "icon": "skillB/Atk_Res_Snag_2.png"
+  },
+  "Atk/Res Snag 3": {
+    "id": "Atk/Res Snag 3",
+    "name": "攻擊魔防干涉3",
+    "sp": 240,
+    "prev": ["Atk/Res Snag 2"],
+    "rules": "learner.snag-skills",
+    "icon": "skillB/Atk_Res_Snag_3.png",
     "last": true
   },
   "Spd/Def Snag 1": {

@@ -3491,6 +3491,39 @@
         }
       },
       "last": true
+    },
+    "Florid Cane": {
+      "id": "Florid Cane",
+      "name": "薔薇之杖",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Florid Cane+": {
+      "id": "Florid Cane+",
+      "name": "薔薇之杖+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Florid Cane"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "blue-lance": {
@@ -12013,6 +12046,16 @@
       "exclusive": ["Claude - Tropical Trouble"],
       "last": true
     },
+    "Shadowy Quill": {
+      "id": "Shadowy Quill",
+      "name": "飛舞雙夜的怪盜羽毛",
+      "mt": 14,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Nina - Shadowy Figures"],
+      "last": true
+    },
     "Iron Dagger": {
       "id": "Iron Dagger",
       "name": "鐵暗器",
@@ -13185,6 +13228,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Bone Carver"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Florid Knife": {
+      "id": "Florid Knife",
+      "name": "薔薇匕首",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Florid Knife+": {
+      "id": "Florid Knife+",
+      "name": "薔薇匕首+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Florid Knife"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -14771,6 +14847,16 @@
       "exclusive": ["Sophia - Prescient Bride"],
       "last": true
     },
+    "Soothing Scent": {
+      "id": "Soothing Scent",
+      "name": "暗影密探的香水瓶",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Fenrir"],
+      "exclusive": ["Leila - Keen Lookout"],
+      "last": true
+    },
     "Fire": {
       "id": "Fire",
       "name": "火焰",
@@ -16178,6 +16264,16 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Thórr - Sun-Kissed Gods"],
+      "last": true
+    },
+    "Lofty Leaflet": {
+      "id": "Lofty Leaflet",
+      "name": "高雅怪盜的預告信",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Cath - Caper Captain"],
       "last": true
     },
     "Thunder": {

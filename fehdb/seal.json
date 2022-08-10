@@ -1778,6 +1778,30 @@
       "rules": "learner.catch",
       "icon": "skillA/Atk_Def_Catch_3.png",
       "last": true
+    },
+    "Atk/Res Ideal 1": {
+      "id": "Atk/Res Ideal 1",
+      "name": "攻擊魔防萬全1",
+      "sp": 60,
+      "rules": "learner.ideal",
+      "icon": "skillA/Atk_Res_Ideal_1.png"
+    },
+    "Atk/Res Ideal 2": {
+      "id": "Atk/Res Ideal 2",
+      "name": "攻擊魔防萬全2",
+      "sp": 120,
+      "prev": ["Atk/Res Ideal 1"],
+      "rules": "learner.ideal",
+      "icon": "skillA/Atk_Res_Ideal_2.png"
+    },
+    "Atk/Res Ideal 3": {
+      "id": "Atk/Res Ideal 3",
+      "name": "攻擊魔防萬全3",
+      "sp": 240,
+      "prev": ["Atk/Res Ideal 2"],
+      "rules": "learner.ideal",
+      "icon": "skillA/Atk_Res_Ideal_3.png",
+      "last": true
     }
   },
   "skillB": {
@@ -3602,6 +3626,14 @@
       "rules": "armored",
       "last": true,
       "icon": "seal/Armored_Boots.png"
+    },
+    "Distant Counter (D)": {
+      "id": "Distant Counter (D)",
+      "name": "遠反・龍專用",
+      "sp": 300,
+      "rules": "dragon",
+      "last": true,
+      "icon": "seal/Distant_Counter.png"
     },
     "Initiate Seal HP 1": {
       "id": "Initiate Seal HP 1",
