@@ -84,6 +84,15 @@
     "exclusive": ["Alm - Saint-King", "Alm - Lovebird Duo"],
     "last": true
   },
+  "Lunar Flash II": {
+    "id": "Lunar Flash II",
+    "name": "月光閃・承",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Lunar Flash"],
+    "exclusive": ["Alm - Saint-King"],
+    "last": true
+  },
   "Sirius": {
     "id": "Sirius",
     "name": "天狼",

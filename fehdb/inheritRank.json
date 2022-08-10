@@ -4033,7 +4033,7 @@
     "bst": 162,
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "AR-O Atk/Spd 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Chill Spd 3": { "sp": 240, "rarity": 5 } }
+    "skillB": { "Dive-Bomb 3": { "sp": 240, "rarity": 5 } }
   },
   "Ryoma - Supreme Samurai": {
     "score": 221,
@@ -7982,7 +7982,7 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Darting Blow 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Odd Atk Wave 3": { "sp": 240, "rarity": 5 } }
+    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Byleth - The Fódlan Star": {
     "score": 276,

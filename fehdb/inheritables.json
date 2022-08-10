@@ -8728,6 +8728,11 @@
         "5": ["Morgan - Devoted Darkness", "Lilith - Silent Broodling"],
         "name": "空中突襲3",
         "sp": 240
+      },
+      "mythic": {
+        "5": ["Naga - Dragon Divinity"],
+        "name": "空中突襲3",
+        "sp": 240
       }
     },
     "Wrath 3": {
@@ -11137,6 +11142,11 @@
         "name": "初始之躍動3",
         "sp": 240
       },
+      "legendary": {
+        "5": ["Alm - Saint-King", "Byleth - The Fódlan Star"],
+        "name": "初始之躍動3",
+        "sp": 240
+      },
       "#": {
         "5": [
           "Ishtar - Echoing Thunder",
@@ -11158,11 +11168,6 @@
       },
       "duo": {
         "5": ["Chrom - Fate-Defying Duo"],
-        "name": "初始之躍動3",
-        "sp": 240
-      },
-      "legendary": {
-        "5": ["Byleth - The Fódlan Star"],
         "name": "初始之躍動3",
         "sp": 240
       }

@@ -2414,6 +2414,38 @@
       "exclusive": ["Edelgard - Sun Empresses"],
       "last": true
     },
+    "Wanderer Blade": {
+      "id": "Wanderer Blade",
+      "name": "流浪的銳劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "exclusive": ["Rutger - Lone Swordsman"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Wanderer_Blade_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Iron Sword": {
       "id": "Iron Sword",
       "name": "鐵劍",
@@ -7166,6 +7198,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Hilda - Idle Maiden"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Freikugel_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Guardian's Axe": {
@@ -9522,6 +9577,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Alm - Saint-King"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Luna_Arc_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Bow of Devotion": {
@@ -13312,6 +13389,29 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Keaton - Lupine Collector"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Wolfskin_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Foxkit Fang": {
@@ -13388,6 +13488,29 @@
       "sp": 400,
       "prev": ["Adult (Armored)"],
       "exclusive": ["Caineghis - Gallia's Lion King"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Lion_King_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Covert Cat Fang": {
@@ -15733,6 +15856,28 @@
       "spd": 3,
       "sp": 400,
       "exclusive": ["Laegjarn - Burning Sun"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Worldsea_Wave_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Book of Orchids": {
@@ -19706,6 +19851,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Naga - Dragon Divinity"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Divine_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Draconic Rage": {

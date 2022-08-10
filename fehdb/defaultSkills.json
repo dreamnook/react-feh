@@ -3789,7 +3789,8 @@
     "special": {
       "New Moon": 4,
       "Moonbow": 4,
-      "Lunar Flash": 5
+      "Lunar Flash": 5,
+      "Lunar Flash II": 5
     },
     "skillA": {
       "Darting Blow 1": 2,
@@ -3805,7 +3806,10 @@
     "skillC": {
       "Odd Atk Wave 1": 1,
       "Odd Atk Wave 2": 2,
-      "Odd Atk Wave 3": 4
+      "Odd Atk Wave 3": 4,
+      "Time's Pulse 1": 1,
+      "Time's Pulse 2": 2,
+      "Time's Pulse 3": 4
     }
   },
   "Alm - Imperial Ascent": {
@@ -8051,7 +8055,8 @@
       "Iron Sword": 1,
       "Steel Sword": 3,
       "Slaying Edge": 4,
-      "Slaying Edge+": 5
+      "Slaying Edge+": 5,
+      "Wanderer Blade": 5
     },
     "special": {
       "Retribution": 4,
@@ -15505,10 +15510,14 @@
     "skillB": {
       "Chill Spd 1": 1,
       "Chill Spd 2": 2,
-      "Chill Spd 3": 4
+      "Chill Spd 3": 4,
+      "Dive-Bomb 1": 1,
+      "Dive-Bomb 2": 2,
+      "Dive-Bomb 3": 4
     },
     "skillC": {
-      "Divine Fang": 5
+      "Divine Fang": 5,
+      "Divine Fang+": 5
     }
   },
   "Corrin - Fateful Prince": {

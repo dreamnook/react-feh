@@ -126,6 +126,15 @@
     "last": true,
     "icon": "skillC/Chaos_Named.png"
   },
+  "Divine Fang+": {
+    "id": "Divine Fang+",
+    "name": "神龍王之牙・神",
+    "sp": 300,
+    "prev": ["Divine Fang"],
+    "exclusive": ["Naga - Dragon Divinity"],
+    "last": true,
+    "icon": "skillC/Divine_Fang+.png"
+  },
   "Divine Fang": {
     "id": "Divine Fang",
     "name": "神龍王之牙",
