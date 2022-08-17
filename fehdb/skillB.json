@@ -3670,14 +3670,14 @@
   },
   "Spd Preempt 1": {
     "id": "Spd Preempt 1",
-    "name": "Spd Preempt1",
+    "name": "速度搶先1",
     "sp": 60,
     "rules": "ranged",
     "icon": "skillB/Spd_Preempt_1.png"
   },
   "Spd Preempt 2": {
     "id": "Spd Preempt 2",
-    "name": "Spd Preempt2",
+    "name": "速度搶先2",
     "sp": 120,
     "prev": ["Spd Preempt 1"],
     "rules": "ranged",
@@ -3685,7 +3685,7 @@
   },
   "Spd Preempt 3": {
     "id": "Spd Preempt 3",
-    "name": "Spd Preempt3",
+    "name": "速度搶先3",
     "sp": 240,
     "prev": ["Spd Preempt 2"],
     "rules": "ranged",

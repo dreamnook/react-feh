@@ -9772,11 +9772,7 @@
       }
     },
     "Spd Preempt 3": {
-      "#": {
-        "5": ["Byleth - Sublime Light"],
-        "name": "Spd Preempt3",
-        "sp": 240
-      }
+      "#": { "5": ["Byleth - Sublime Light"], "name": "速度搶先3", "sp": 240 }
     }
   },
   "skillC": {
