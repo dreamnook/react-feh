@@ -3561,5 +3561,71 @@
     "prev": ["Still Water 3"],
     "icon": "skillA/Still_Water_4.png",
     "last": true
+  },
+  "Atk/Spd Clash 1": {
+    "id": "Atk/Spd Clash 1",
+    "name": "攻擊速度的激戰1",
+    "sp": 60,
+    "rules": "learner.clash",
+    "icon": "skillA/Atk_Spd_Clash_1.png"
+  },
+  "Atk/Spd Clash 2": {
+    "id": "Atk/Spd Clash 2",
+    "name": "攻擊速度的激戰2",
+    "sp": 120,
+    "prev": ["Atk/Spd Clash 1"],
+    "rules": "learner.clash",
+    "icon": "skillA/Atk_Spd_Clash_2.png"
+  },
+  "Atk/Spd Clash 3": {
+    "id": "Atk/Spd Clash 3",
+    "name": "攻擊速度的激戰3",
+    "sp": 240,
+    "prev": ["Atk/Spd Clash 2"],
+    "rules": "learner.clash",
+    "icon": "skillA/Atk_Spd_Clash_3.png",
+    "last": true
+  },
+  "Atk/Spd Clash 4": {
+    "id": "Atk/Spd Clash 4",
+    "name": "攻擊速度的激戰4",
+    "sp": 300,
+    "prev": ["Atk/Spd Clash 3"],
+    "rules": "learner.clash",
+    "icon": "skillA/Atk_Spd_Clash_4.png",
+    "last": true
+  },
+  "Atk/Res Finish 1": {
+    "id": "Atk/Res Finish 1",
+    "name": "攻擊魔防的奧秘1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillA/Atk_Res_Finish_1.png"
+  },
+  "Atk/Res Finish 2": {
+    "id": "Atk/Res Finish 2",
+    "name": "攻擊魔防的奧秘2",
+    "sp": 120,
+    "prev": ["Atk/Res Finish 1"],
+    "rules": "infantry",
+    "icon": "skillA/Atk_Res_Finish_2.png"
+  },
+  "Atk/Res Finish 3": {
+    "id": "Atk/Res Finish 3",
+    "name": "攻擊魔防的奧秘3",
+    "sp": 240,
+    "prev": ["Atk/Res Finish 2"],
+    "rules": "infantry",
+    "icon": "skillA/Atk_Res_Finish_3.png",
+    "last": true
+  },
+  "Atk/Res Finish 4": {
+    "id": "Atk/Res Finish 4",
+    "name": "攻擊魔防的奧秘4",
+    "sp": 300,
+    "prev": ["Atk/Res Finish 3"],
+    "rules": "infantry",
+    "icon": "skillA/Atk_Res_Finish_4.png",
+    "last": true
   }
 }

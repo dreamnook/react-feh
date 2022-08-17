@@ -248,6 +248,15 @@
     "exclusive": ["Fae - Childlike Dragon"],
     "last": true
   },
+  "Divine Pulse": {
+    "id": "Divine Pulse",
+    "name": "天刻之脈動",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Draconic Aura"],
+    "exclusive": ["Byleth - Sublime Light"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

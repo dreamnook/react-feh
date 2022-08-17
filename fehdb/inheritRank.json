@@ -2101,6 +2101,19 @@
     "skillA": { "Brazen Atk/Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Ruse 3": { "sp": 240, "rarity": 4 } }
   },
+  "Sothe - Rushing Dawn": {
+    "score": 196,
+    "scoreTotal": 400,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 300,
+    "bst": 172,
+    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Sanaki - Begnion's Apostle": {
     "score": 200,
     "scoreTotal": 400,
@@ -2159,18 +2172,6 @@
     "special": { "Astra": { "sp": 200, "rarity": 5 } },
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
-  },
-  "Kamui - Wandering Blade": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 181,
-    "special": { "Luna": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 4 } },
-    "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 5 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -3051,6 +3052,18 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Kamui - Wandering Blade": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 181,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 5 } }
   },
   "Basilio - Feroxi West-Khan": {
     "score": 199,
@@ -6275,6 +6288,18 @@
     "skillA": { "Steady Stance 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Seliph - Enduring Legacy": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } }
+  },
   "Flavia - Feroxi East-Khan": {
     "score": 300,
     "scoreTotal": 740,
@@ -6645,6 +6670,19 @@
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillA": { "Bracing Stance 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Jeralt - Blade Breaker": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 179,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 4 } }
   },
   "Brigand Boss - Known Criminal": {
     "score": 322,
@@ -7178,18 +7216,6 @@
     "skillA": { "Spd/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def Tactic 3": { "sp": 240, "rarity": 4 } }
   },
-  "Leila - Keen Lookout": {
-    "score": 300,
-    "scoreTotal": 800,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 800,
-    "feather": 1000,
-    "bst": 166,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
-  },
   "Arthur - Furious Mage": {
     "score": 300,
     "scoreTotal": 800,
@@ -7285,6 +7311,18 @@
     "special": { "Pavise": { "sp": 200, "rarity": 5 } },
     "skillA": { "Sturdy Stance 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Tiki - Fated Divinity": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
   },
   "Rhea - Immaculate One": {
     "score": 300,
@@ -7598,6 +7636,19 @@
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Hone Atk": { "sp": 300, "rarity": 5 } }
   },
+  "Leila - Keen Lookout": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 166,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
   "Eirika - Beach Restorer": {
     "score": 318,
     "scoreTotal": 848,
@@ -7796,18 +7847,6 @@
     "assist": { "Rally Up Res+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Mirror Stance 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk Feint 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Sothe - Rushing Dawn": {
-    "score": 400,
-    "scoreTotal": 880,
-    "poolRarity": 5,
-    "sp": 400,
-    "spTotal": 880,
-    "feather": 1000,
-    "bst": 172,
-    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
-    "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Annette - Overachiever": {
     "score": 400,
@@ -8283,19 +8322,6 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Close Guard 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Cath - Caper Captain": {
-    "score": 300,
-    "scoreTotal": 930,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 930,
-    "feather": 1000,
-    "bst": 162,
-    "assist": { "Draw Back": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Atk/Res Snag 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Blue Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Wolf - Coyote's Loyal": {
     "score": 300,
@@ -9276,6 +9302,20 @@
     "skillB": { "Quick Riposte 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Hone Atk 4": { "sp": 300, "rarity": 5 } }
   },
+  "Cath - Caper Captain": {
+    "score": 318,
+    "scoreTotal": 986,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 162,
+    "assist": { "Draw Back": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Snag 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Blue Feud 3": { "sp": 240, "rarity": 5 } }
+  },
   "Micaiah - Dawn Wind's Duo": {
     "score": 318,
     "scoreTotal": 986,
@@ -9289,6 +9329,19 @@
     "skillA": { "Atk/Res Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Mystic Boost 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Chrom - Fated Honor": {
+    "score": 300,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 990,
+    "feather": 1000,
+    "bst": 179,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Surge Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Inf. Spd Tactic": { "sp": 300, "rarity": 5 } }
   },
   "Lilina - Firelight Leader": {
     "score": 276,
@@ -9900,6 +9953,19 @@
     "skillA": { "Atk/Def Solo 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dive-Bomb 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Def Menace": { "sp": 300, "rarity": 5 } }
+  },
+  "Byleth - Sublime Light": {
+    "score": 300,
+    "scoreTotal": 1040,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 173,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd Preempt 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd/Res Hold": { "sp": 300, "rarity": 5 } }
   },
   "Gustav - Sovereign Slain": {
     "score": 300,

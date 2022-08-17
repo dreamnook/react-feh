@@ -5814,6 +5814,32 @@
       "Joint Hone Def": 5
     }
   },
+  "Seliph - Enduring Legacy": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Holytide Tyrfing": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Clash 4": 5
+    },
+    "skillB": {
+      "Lull Spd/Def 1": 1,
+      "Lull Spd/Def 2": 2,
+      "Lull Spd/Def 3": 4
+    },
+    "skillC": {
+      "Heir to Light": 5
+    }
+  },
   "Larcei - Keen Kin": {
     "weapon": {
       "Iron Sword": 1,
@@ -13787,6 +13813,35 @@
       "Time's Pulse 3": 4
     }
   },
+  "Chrom - Fated Honor": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Geirdriful": 5
+    },
+    "assist": {
+      "Reposition": 4,
+      "A Fate Changed!": 5
+    },
+    "skillA": {
+      "Death Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Surge Sparrow": 5
+    },
+    "skillB": {
+      "S/D Near Trace 1": 1,
+      "S/D Near Trace 2": 2,
+      "S/D Near Trace 3": 4
+    },
+    "skillC": {
+      "Spd Tactic 1": 2,
+      "Spd Tactic 2": 3,
+      "Spd Tactic 3": 4,
+      "Inf. Spd Tactic": 5
+    }
+  },
   "Robin - High Deliverer": {
     "weapon": {
       "Thunder": 1,
@@ -14924,6 +14979,33 @@
       "Axe Valor 1": 1,
       "Axe Valor 2": 2,
       "Axe Valor 3": 4
+    }
+  },
+  "Tiki - Fated Divinity": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Remote Breath": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Atk/Res Finish 1": 2,
+      "Atk/Res Finish 2": 3,
+      "Atk/Res Finish 3": 4,
+      "Atk/Res Finish 4": 5
+    },
+    "skillB": {
+      "New Divinity": 5
+    },
+    "skillC": {
+      "Threaten Res 1": 2,
+      "Threat. Def/Res 1": 3,
+      "Threat. Def/Res 2": 4,
+      "Def/Res Menace": 5
     }
   },
   "Nowi - Eternal Youth": {
@@ -18402,6 +18484,36 @@
       "Goddess Bearer": 5
     }
   },
+  "Byleth - Sublime Light": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Inner Wellspring": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4,
+      "Divine Pulse": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "Spd Preempt 1": 1,
+      "Spd Preempt 2": 2,
+      "Spd Preempt 3": 4
+    },
+    "skillC": {
+      "Spd/Res Rein 1": 2,
+      "Spd/Res Rein 2": 3,
+      "Spd/Res Rein 3": 4,
+      "Spd/Res Hold": 5
+    }
+  },
   "Byleth - Tested Professor": {
     "weapon": {
       "Iron Sword": 1,
@@ -18539,6 +18651,28 @@
       "Atk/Spd Rein 1": 1,
       "Atk/Spd Rein 2": 2,
       "Atk/Spd Rein 3": 4
+    }
+  },
+  "Jeralt - Blade Breaker": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Breaker Lance": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Atk/Def Catch 1": 3,
+      "Atk/Def Catch 2": 4,
+      "Atk/Def Catch 3": 5
+    },
+    "skillC": {
+      "Distant Guard 1": 1,
+      "Distant Guard 2": 2,
+      "Distant Guard 3": 4
     }
   },
   "Seiros - Saint of Legend": {

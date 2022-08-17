@@ -4996,6 +4996,42 @@
       "prev": ["Squad Ace BG 1"],
       "icon": "seal/Squad_Ace_Spd_Res_2.png",
       "last": true
+    },
+    "Squad Ace BH 1": {
+      "id": "Squad Ace BH 1",
+      "name": "第６０迷宮的霸王1",
+      "sp": 100,
+      "def": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_Def_Res_1.png"
+    },
+    "Squad Ace BH 2": {
+      "id": "Squad Ace BH 2",
+      "name": "第６０迷宮的霸王2",
+      "sp": 200,
+      "def": 2,
+      "res": 2,
+      "prev": ["Squad Ace BH 1"],
+      "icon": "seal/Squad_Ace_Def_Res_2.png",
+      "last": true
+    },
+    "Squad Ace BI 1": {
+      "id": "Squad Ace BI 1",
+      "name": "第６１迷宮的霸王1",
+      "sp": 100,
+      "hp": 3,
+      "atk": 1,
+      "icon": "seal/Squad_Ace_HP_Atk_1.png"
+    },
+    "Squad Ace BI 2": {
+      "id": "Squad Ace BI 2",
+      "name": "第６１迷宮的霸王2",
+      "sp": 200,
+      "hp": 4,
+      "atk": 2,
+      "prev": ["Squad Ace BI 1"],
+      "icon": "seal/Squad_Ace_HP_Atk_2.png",
+      "last": true
     }
   }
 }

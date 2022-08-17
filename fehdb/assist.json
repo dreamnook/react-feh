@@ -190,6 +190,14 @@
     "exclusive": ["Ninian - Frozen Heart"],
     "last": true
   },
+  "A Fate Changed!": {
+    "id": "A Fate Changed!",
+    "name": "命運改變了！",
+    "sp": 500,
+    "prev": ["Reposition"],
+    "exclusive": ["Chrom - Fated Honor"],
+    "last": true
+  },
   "Heal": {
     "id": "Heal",
     "name": "聖療",

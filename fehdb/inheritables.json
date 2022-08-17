@@ -1653,7 +1653,7 @@
         }
       },
       "Florid Knife+": {
-        "#": {
+        "special": {
           "5": ["Sothe - Rushing Dawn"],
           "name": "薔薇匕首+",
           "sp": 300,
@@ -2761,6 +2761,7 @@
         "5": [
           "Catria - Spring Whitewing",
           "Wolt - Sunbeam Archer",
+          "Cath - Caper Captain",
           "Selena - Sandbar Fluorspar",
           "Sanaki - Apostle in White",
           "Hinoka - Relaxed Warrior"
@@ -2779,11 +2780,7 @@
           "Miriel - Rapier Intellect",
           "Orochi - Merry Diviner"
         ],
-        "5": [
-          "Cath - Caper Captain",
-          "Camilla - Flower of Fantasy",
-          "Nina - Eye Spy"
-        ],
+        "5": ["Camilla - Flower of Fantasy", "Nina - Eye Spy"],
         "name": "拉近",
         "sp": 150
       },
@@ -2819,6 +2816,7 @@
           "Wolf - Coyote's Loyal",
           "Olwen - Blue Mage Knight",
           "Farina - The Great Wing",
+          "Chrom - Fated Honor",
           "Sumia - Maid of Flowers",
           "Lilith - Astral Daughter"
         ],
@@ -3217,7 +3215,6 @@
         "5": [
           "Catria - Mild Middle Sister",
           "Erinys - Earnest Knight",
-          "Sothe - Rushing Dawn",
           "Constance - Fallen Noble",
           "Gatekeeper - Nothing to Report"
         ],
@@ -3228,7 +3225,8 @@
         "5": [
           "Brigid - Orgahil Pirate",
           "Fir - Student of Spring",
-          "Tanith - Forthright Heart"
+          "Tanith - Forthright Heart",
+          "Sothe - Rushing Dawn"
         ],
         "name": "大喝+",
         "sp": 400
@@ -3403,6 +3401,7 @@
           "Tiki - Beachside Scion",
           "Navarre - Scarlet Ninja",
           "Faye - Drawn Heartstring",
+          "Leila - Keen Lookout",
           "Micaiah - Wavecrest Maiden",
           "Nailah - Blessed Queen",
           "Severa - Bitter Blossom",
@@ -3447,7 +3446,6 @@
           "Asbel - Windswept Youth",
           "Hugh - Worldly Mage",
           "Sue - Doe of the Plains",
-          "Leila - Keen Lookout",
           "Florina - Azure-Sky Knight",
           "Nino - Pale Flower",
           "Ephraim - Restoration Lord",
@@ -3538,6 +3536,7 @@
           "Sirius - Mysterious Knight",
           "Malice - Deft Sellsword",
           "Celica - Imprisoned Soul",
+          "Seliph - Enduring Legacy",
           "Ced - Hero on the Wind",
           "Ishtar - Echoing Thunder",
           "Mareeta - The Blade's Pawn",
@@ -3648,6 +3647,7 @@
           "Joshua - Resolute Tempest",
           "Rennac - Rich 'Merchant'",
           "Shinon - Scathing Archer",
+          "Tiki - Fated Divinity",
           "Morgan - Devoted Darkness",
           "Corrin - Bloodbound Beast",
           "Charlotte - Wily Warrior",
@@ -3861,6 +3861,7 @@
           "Keaton - Lupine Collector",
           "Kana - Dragon Princess",
           "Byleth - Proven Professor",
+          "Byleth - Sublime Light",
           "Byleth - Tested Professor",
           "Catherine - Thunder Knight"
         ],
@@ -3942,6 +3943,7 @@
           "Aversa - Dark One",
           "Garon - King of Nohr",
           "Kana - Dragon Spawn",
+          "Jeralt - Blade Breaker",
           "Nemesis - King of Liberation"
         ],
         "name": "龍穿",
@@ -5083,7 +5085,7 @@
     },
     "Swift Sparrow 2": {
       "special": {
-        "4": ["Corrin - Daylight Ninja Act"],
+        "4": ["Sothe - Rushing Dawn", "Corrin - Daylight Ninja Act"],
         "5": [
           "Gunnthrá - Year's First Dream",
           "Laegjarn - Burning Sun",
@@ -5092,6 +5094,7 @@
           "Merric - Changing Winds",
           "Ishtar - Thunder's Waltz",
           "Shanna - Bridal Novice",
+          "Leila - Keen Lookout",
           "L'Arachel - Harvest Princess",
           "Mist - Purest Spirit",
           "Tanith - Forthright Heart",
@@ -5117,11 +5120,10 @@
           "Sue - Doe of the Plains",
           "Eliwood - Marquess Pherae",
           "Lyn - Brave Lady",
-          "Leila - Keen Lookout",
           "Nino - Pale Flower",
           "Eirika - Anamnesis Lady",
           "Eirika - Pledged Restorer",
-          "Sothe - Rushing Dawn",
+          "Chrom - Fated Honor",
           "Charlotte - Wily Warrior",
           "Catherine - Thunder Knight"
         ],
@@ -5166,6 +5168,7 @@
           "Merric - Changing Winds",
           "Ishtar - Thunder's Waltz",
           "Shanna - Bridal Novice",
+          "Leila - Keen Lookout",
           "Nailah - Blessed Queen",
           "Tharja - Florid Charmer"
         ],
@@ -5176,7 +5179,6 @@
         "5": [
           "Laegjarn - Flame Ascendant",
           "Eliwood - Marquess Pherae",
-          "Leila - Keen Lookout",
           "Charlotte - Wily Warrior",
           "Catherine - Thunder Knight"
         ],
@@ -5398,7 +5400,11 @@
     },
     "Surge Sparrow": {
       "#": {
-        "5": ["Galzus - Dark Blade of Od", "Eirika - Pledged Restorer"],
+        "5": [
+          "Galzus - Dark Blade of Od",
+          "Eirika - Pledged Restorer",
+          "Chrom - Fated Honor"
+        ],
         "name": "鬼神飛燕迫擊",
         "sp": 300
       }
@@ -6518,7 +6524,6 @@
         "5": [
           "Malice - Deft Sellsword",
           "Sara - Lady of Loptr",
-          "Cath - Caper Captain",
           "Florina - Azure-Sky Knight",
           "Jill - Fiery Dracoknight",
           "Flavia - Feroxi East-Khan",
@@ -6534,6 +6539,7 @@
       "special": {
         "5": [
           "Julia - Scion of the Saint",
+          "Cath - Caper Captain",
           "Tana - Noble and Nimble",
           "Selena - Sandbar Fluorspar",
           "L'Arachel - Seeker of Justice",
@@ -6580,7 +6586,6 @@
         "5": [
           "Malice - Deft Sellsword",
           "Sara - Lady of Loptr",
-          "Cath - Caper Captain",
           "Florina - Azure-Sky Knight",
           "Jill - Fiery Dracoknight",
           "Flavia - Feroxi East-Khan",
@@ -6596,6 +6601,7 @@
       "special": {
         "5": [
           "Julia - Scion of the Saint",
+          "Cath - Caper Captain",
           "Selena - Sandbar Fluorspar",
           "L'Arachel - Seeker of Justice"
         ],
@@ -7376,7 +7382,11 @@
         "sp": 240
       },
       "#": {
-        "5": ["Farina - The Great Wing", "Lilith - Silent Broodling"],
+        "5": [
+          "Farina - The Great Wing",
+          "Lilith - Silent Broodling",
+          "Byleth - Sublime Light"
+        ],
         "name": "攻擊速度的先機3",
         "sp": 240
       },
@@ -7407,7 +7417,11 @@
         "sp": 300
       },
       "#": {
-        "5": ["Farina - The Great Wing", "Lilith - Silent Broodling"],
+        "5": [
+          "Farina - The Great Wing",
+          "Lilith - Silent Broodling",
+          "Byleth - Sublime Light"
+        ],
         "name": "攻擊速度的先機4",
         "sp": 300
       },
@@ -7429,7 +7443,7 @@
         "sp": 240
       },
       "grail": {
-        "5": ["Sedgar - Coyote's Dutiful"],
+        "5": ["Sedgar - Coyote's Dutiful", "Jeralt - Blade Breaker"],
         "name": "攻擊防守的先機3",
         "sp": 240
       },
@@ -7655,6 +7669,34 @@
     "Still Water 4": {
       "duo": { "5": ["Thórr - Sun-Kissed Gods"], "name": "止水4", "sp": 300 },
       "special": { "5": ["Lilina - Beaming Bride"], "name": "止水4", "sp": 300 }
+    },
+    "Atk/Spd Clash 3": {
+      "#": {
+        "5": ["Seliph - Enduring Legacy"],
+        "name": "攻擊速度的激戰3",
+        "sp": 240
+      }
+    },
+    "Atk/Spd Clash 4": {
+      "#": {
+        "5": ["Seliph - Enduring Legacy"],
+        "name": "攻擊速度的激戰4",
+        "sp": 300
+      }
+    },
+    "Atk/Res Finish 3": {
+      "#": {
+        "5": ["Tiki - Fated Divinity"],
+        "name": "攻擊魔防的奧秘3",
+        "sp": 240
+      }
+    },
+    "Atk/Res Finish 4": {
+      "#": {
+        "5": ["Tiki - Fated Divinity"],
+        "name": "攻擊魔防的奧秘4",
+        "sp": 300
+      }
     },
     "Fort. Def/Res 2": {
       "mythic": {
@@ -9097,7 +9139,11 @@
       }
     },
     "Atk/Res Snag 3": {
-      "#": { "5": ["Cath - Caper Captain"], "name": "攻擊魔防干涉3", "sp": 240 }
+      "special": {
+        "5": ["Cath - Caper Captain"],
+        "name": "攻擊魔防干涉3",
+        "sp": 240
+      }
     },
     "Spd/Def Snag 3": {
       "grail": {
@@ -9424,6 +9470,7 @@
       },
       "#": {
         "5": [
+          "Seliph - Enduring Legacy",
           "Bernadetta - Eternal Loner",
           "Ingrid - Galatea's Heir",
           "Claude - The Schemer",
@@ -9593,7 +9640,8 @@
         ],
         "name": "速度防守近影3",
         "sp": 240
-      }
+      },
+      "#": { "5": ["Chrom - Fated Honor"], "name": "速度防守近影3", "sp": 240 }
     },
     "S/R Near Trace 3": {
       "special": {
@@ -9720,6 +9768,13 @@
       "mythic": {
         "5": ["Askr - God of Openness"],
         "name": "攻擊防守防護屏障3",
+        "sp": 240
+      }
+    },
+    "Spd Preempt 3": {
+      "#": {
+        "5": ["Byleth - Sublime Light"],
+        "name": "Spd Preempt3",
         "sp": 240
       }
     }
@@ -10143,7 +10198,11 @@
         "sp": 240
       },
       "grail": {
-        "4": ["Innes - Frelian Moonlight", "Kronya - Gleaming Blade"],
+        "4": [
+          "Innes - Frelian Moonlight",
+          "Jeralt - Blade Breaker",
+          "Kronya - Gleaming Blade"
+        ],
         "5": ["Eremiya - Bishop of Woe"],
         "name": "遠距離警戒3",
         "sp": 240
@@ -10302,7 +10361,8 @@
         "5": [
           "Laevatein - Ninja of Múspell",
           "Plumeria - Temptation Anew",
-          "Shanna - Bridal Novice"
+          "Shanna - Bridal Novice",
+          "Sothe - Rushing Dawn"
         ],
         "name": "攻擊防守牽制3",
         "sp": 240
@@ -10318,11 +10378,7 @@
         "sp": 240
       },
       "#": {
-        "5": [
-          "Erinys - Earnest Knight",
-          "Farina - The Great Wing",
-          "Sothe - Rushing Dawn"
-        ],
+        "5": ["Erinys - Earnest Knight", "Farina - The Great Wing"],
         "name": "攻擊防守牽制3",
         "sp": 240
       }
@@ -10403,7 +10459,7 @@
         "sp": 240
       },
       "#": {
-        "5": ["Constance - Fallen Noble"],
+        "5": ["Byleth - Sublime Light", "Constance - Fallen Noble"],
         "name": "速度魔防牽制3",
         "sp": 240
       }
@@ -10425,6 +10481,11 @@
     "Spd/Res Hold": {
       "harmonized": {
         "5": ["Sonya - Dazzling Rabbits"],
+        "name": "速度魔防大牽制",
+        "sp": 300
+      },
+      "#": {
+        "5": ["Byleth - Sublime Light"],
         "name": "速度魔防大牽制",
         "sp": 300
       }
@@ -10732,7 +10793,11 @@
     },
     "Spd Tactic 3": {
       "#": {
-        "5": ["Ylgr - Fresh Snowfall", "Catria - Mild Middle Sister"],
+        "5": [
+          "Ylgr - Fresh Snowfall",
+          "Catria - Mild Middle Sister",
+          "Chrom - Fated Honor"
+        ],
         "name": "速度指揮3",
         "sp": 240
       },
@@ -10786,6 +10851,13 @@
         "5": ["L'Arachel - Princess of Light"],
         "name": "魔防指揮3",
         "sp": 240
+      }
+    },
+    "Inf. Spd Tactic": {
+      "#": {
+        "5": ["Chrom - Fated Honor"],
+        "name": "速度指揮・步行重視",
+        "sp": 300
       }
     },
     "Threaten Atk 3": {
@@ -10934,7 +11006,7 @@
     },
     "Def/Res Menace": {
       "#": {
-        "5": ["Zeke - Past Unknown"],
+        "5": ["Zeke - Past Unknown", "Tiki - Fated Divinity"],
         "name": "防守魔防的恐嚇",
         "sp": 300
       },
@@ -11124,7 +11196,11 @@
         "name": "魔防紫煙3",
         "sp": 240
       },
-      "#": { "5": ["Leila - Keen Lookout"], "name": "魔防紫煙3", "sp": 240 },
+      "special": {
+        "5": ["Leila - Keen Lookout"],
+        "name": "魔防紫煙3",
+        "sp": 240
+      },
       "legendary": {
         "5": ["Robin - Fell Vessel"],
         "name": "魔防紫煙3",
@@ -11197,7 +11273,11 @@
       }
     },
     "Def/Res Smoke 3": {
-      "#": { "5": ["Leila - Keen Lookout"], "name": "防守魔防紫煙3", "sp": 300 }
+      "special": {
+        "5": ["Leila - Keen Lookout"],
+        "name": "防守魔防紫煙3",
+        "sp": 300
+      }
     },
     "Time's Pulse 3": {
       "mythic": {
@@ -12037,7 +12117,12 @@
     },
     "Blue Feud 3": {
       "#": {
-        "5": ["Tine - Rumbling Thunder", "Cath - Caper Captain"],
+        "5": ["Tine - Rumbling Thunder"],
+        "name": "對青的暗鬥3",
+        "sp": 240
+      },
+      "special": {
+        "5": ["Cath - Caper Captain"],
         "name": "對青的暗鬥3",
         "sp": 240
       }
@@ -12317,7 +12402,7 @@
     },
     "Threat. Def/Res 2": {
       "#": {
-        "5": ["Zeke - Past Unknown"],
+        "5": ["Zeke - Past Unknown", "Tiki - Fated Divinity"],
         "name": "防守魔防的威嚇2",
         "sp": 200
       },

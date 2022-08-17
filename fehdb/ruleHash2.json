@@ -296,5 +296,9 @@
   "learner.ruptured-sky": {
     "moveType": 15,
     "weaponType": 65527
+  },
+  "learner.clash": {
+    "moveType": 13,
+    "weaponType": 16711687
   }
 }

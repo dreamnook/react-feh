@@ -2446,6 +2446,16 @@
       },
       "last": true
     },
+    "Holytide Tyrfing": {
+      "id": "Holytide Tyrfing",
+      "name": "聖日斬裂劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Seliph - Enduring Legacy"],
+      "last": true
+    },
     "Iron Sword": {
       "id": "Iron Sword",
       "name": "鐵劍",
@@ -5255,6 +5265,26 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Est - Sweet Baby Sis"],
+      "last": true
+    },
+    "Geirdriful": {
+      "id": "Geirdriful",
+      "name": "吉德瑞芙",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Chrom - Fated Honor"],
+      "last": true
+    },
+    "Breaker Lance": {
+      "id": "Breaker Lance",
+      "name": "壞刃的戰槍",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Jeralt - Blade Breaker"],
       "last": true
     },
     "Iron Lance": {
@@ -18836,6 +18866,16 @@
       "exclusive": ["Celica - Valentia's Hope"],
       "last": true
     },
+    "Inner Wellspring": {
+      "id": "Inner Wellspring",
+      "name": "從內滿溢的魔力",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Byleth - Sublime Light"],
+      "last": true
+    },
     "Stone": {
       "id": "Stone",
       "name": "洛克",
@@ -20476,6 +20516,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Ymir - Life-Mother"],
+      "last": true
+    },
+    "Remote Breath": {
+      "id": "Remote Breath",
+      "name": "悠遠吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Tiki - Fated Divinity"],
       "last": true
     },
     "Fire Breath": {

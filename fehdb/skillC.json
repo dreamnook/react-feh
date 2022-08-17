@@ -271,6 +271,14 @@
     "last": true,
     "icon": "skillC/Opened_Domain.png"
   },
+  "Heir to Light": {
+    "id": "Heir to Light",
+    "name": "繼承光之人",
+    "sp": 300,
+    "exclusive": ["Seliph - Enduring Legacy"],
+    "last": true,
+    "icon": "skillC/Heir_to_Light.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -641,6 +649,7 @@
     "id": "Joint Dist. Guard",
     "name": "遠距離相互警戒",
     "sp": 300,
+    "prev": ["Distant Guard 3"],
     "last": true,
     "icon": "skillC/Joint_Dist._Guard.png"
   },
@@ -1217,6 +1226,14 @@
     "prev": ["Res Tactic 2"],
     "icon": "skillC/Res_Tactic_3.png",
     "last": true
+  },
+  "Inf. Spd Tactic": {
+    "id": "Inf. Spd Tactic",
+    "name": "速度指揮・步行重視",
+    "sp": 300,
+    "prev": ["Spd Tactic 3"],
+    "last": true,
+    "icon": "skillC/Inf._Spd_Tactic.png"
   },
   "Threaten Atk 1": {
     "id": "Threaten Atk 1",
