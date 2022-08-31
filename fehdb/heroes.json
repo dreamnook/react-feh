@@ -10946,6 +10946,47 @@
     "book": 1,
     "ver": "1.8"
   },
+  "Deirdre - Fated Saint": {
+    "id": "Deirdre - Fated Saint",
+    "title": "命運的聖女",
+    "name": "迪雅朵拉",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "bst": 190,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "earth-atk-2",
+    "releaseDate": "2022-08-31",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [29, 32, 35],
+        "def": [16, 19, 22],
+        "res": [39, 43, 46]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 6,
+        "def": 4,
+        "res": 10
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 177,
+    "statMax": 180,
+    "voice": {
+      "en": "Erica Mendez",
+      "jp": "Inoue Kikuko (井上喜久子)"
+    },
+    "book": 6,
+    "ver": "6.8"
+  },
   "Silvia - Traveling Dancer": {
     "id": "Silvia - Traveling Dancer",
     "title": "旅行舞孃",

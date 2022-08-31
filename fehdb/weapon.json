@@ -16306,6 +16306,16 @@
       "exclusive": ["Cath - Caper Captain"],
       "last": true
     },
+    "Spirit Forest Writ": {
+      "id": "Spirit Forest Writ",
+      "name": "精神森林的秘籍",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Deirdre - Fated Saint"],
+      "last": true
+    },
     "Thunder": {
       "id": "Thunder",
       "name": "雷電",

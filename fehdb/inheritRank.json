@@ -8785,6 +8785,20 @@
     "skillB": { "Dragon's Ire 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
   },
+  "Deirdre - Fated Saint": {
+    "score": 276,
+    "scoreTotal": 957,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Tempo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Res Menace": { "sp": 300, "rarity": 5 } }
+  },
   "Ullr - The Bowmaster": {
     "score": 460,
     "scoreTotal": 957,

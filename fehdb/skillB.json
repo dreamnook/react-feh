@@ -3620,6 +3620,30 @@
     "icon": "skillB/Flow_Flight_3.png",
     "last": true
   },
+  "Atk/Res Tempo 1": {
+    "id": "Atk/Res Tempo 1",
+    "name": "攻擊魔防節拍1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillB/Atk_Res_Tempo_1.png"
+  },
+  "Atk/Res Tempo 2": {
+    "id": "Atk/Res Tempo 2",
+    "name": "攻擊魔防節拍2",
+    "sp": 120,
+    "prev": ["Atk/Res Tempo 1"],
+    "rules": "infantry",
+    "icon": "skillB/Atk_Res_Tempo_2.png"
+  },
+  "Atk/Res Tempo 3": {
+    "id": "Atk/Res Tempo 3",
+    "name": "攻擊魔防節拍3",
+    "sp": 240,
+    "prev": ["Atk/Res Tempo 2"],
+    "rules": "infantry",
+    "icon": "skillB/Atk_Res_Tempo_3.png",
+    "last": true
+  },
   "Spd/Def Tempo 1": {
     "id": "Spd/Def Tempo 1",
     "name": "速度防守節拍1",

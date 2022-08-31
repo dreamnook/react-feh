@@ -4153,6 +4153,11 @@
         "name": "冰蒼",
         "sp": 200
       },
+      "legendary": {
+        "5": ["Deirdre - Fated Saint"],
+        "name": "冰蒼",
+        "sp": 200
+      },
       "grail": {
         "4": ["Cecilia - Festive Instructor", "Lloyd - White Wolf"],
         "name": "冰蒼",
@@ -7664,10 +7669,20 @@
     },
     "Still Water 3": {
       "duo": { "5": ["Thórr - Sun-Kissed Gods"], "name": "止水3", "sp": 200 },
+      "legendary": {
+        "5": ["Deirdre - Fated Saint"],
+        "name": "止水3",
+        "sp": 200
+      },
       "special": { "5": ["Lilina - Beaming Bride"], "name": "止水3", "sp": 200 }
     },
     "Still Water 4": {
       "duo": { "5": ["Thórr - Sun-Kissed Gods"], "name": "止水4", "sp": 300 },
+      "legendary": {
+        "5": ["Deirdre - Fated Saint"],
+        "name": "止水4",
+        "sp": 300
+      },
       "special": { "5": ["Lilina - Beaming Bride"], "name": "止水4", "sp": 300 }
     },
     "Atk/Spd Clash 3": {
@@ -9757,6 +9772,13 @@
         "sp": 240
       }
     },
+    "Atk/Res Tempo 3": {
+      "legendary": {
+        "5": ["Deirdre - Fated Saint"],
+        "name": "攻擊魔防節拍3",
+        "sp": 240
+      }
+    },
     "Spd/Def Tempo 3": {
       "special": {
         "5": ["Mia - Budding Blade"],
@@ -10980,6 +11002,11 @@
       }
     },
     "Atk/Res Menace": {
+      "legendary": {
+        "5": ["Deirdre - Fated Saint"],
+        "name": "攻擊魔防的恐嚇",
+        "sp": 300
+      },
       "#": {
         "5": ["Niime - Mountain Hermit", "Morgan - Fated Darkness"],
         "name": "攻擊魔防的恐嚇",
@@ -12413,14 +12440,12 @@
         "sp": 200
       }
     },
-    "Threat. Spd/Res 2": {
-      "#": {
-        "5": ["Arthur - Furious Mage"],
-        "name": "速度魔防的威嚇2",
-        "sp": 200
-      }
-    },
     "Threat. Atk/Res 2": {
+      "legendary": {
+        "5": ["Deirdre - Fated Saint"],
+        "name": "攻擊魔防的威嚇2",
+        "sp": 200
+      },
       "#": {
         "5": ["Niime - Mountain Hermit", "Morgan - Fated Darkness"],
         "name": "攻擊魔防的威嚇2",
@@ -12434,6 +12459,13 @@
       "special": {
         "5": ["Sothis - Silver Specter"],
         "name": "攻擊魔防的威嚇2",
+        "sp": 200
+      }
+    },
+    "Threat. Spd/Res 2": {
+      "#": {
+        "5": ["Arthur - Furious Mage"],
+        "name": "速度魔防的威嚇2",
         "sp": 200
       }
     },

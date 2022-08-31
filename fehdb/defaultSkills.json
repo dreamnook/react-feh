@@ -5748,6 +5748,36 @@
       "Spd Ploy 3": 5
     }
   },
+  "Deirdre - Fated Saint": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 4,
+      "Spirit Forest Writ": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4,
+      "Circlet of Balance": 5
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Still Water 4": 5
+    },
+    "skillB": {
+      "Atk/Res Tempo 1": 1,
+      "Atk/Res Tempo 2": 2,
+      "Atk/Res Tempo 3": 4
+    },
+    "skillC": {
+      "Threaten Res 1": 2,
+      "Threat. Atk/Res 1": 3,
+      "Threat. Atk/Res 2": 4,
+      "Atk/Res Menace": 5
+    }
+  },
   "Silvia - Traveling Dancer": {
     "weapon": {
       "Iron Sword": 1,
