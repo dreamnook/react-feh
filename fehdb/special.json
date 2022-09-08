@@ -103,7 +103,15 @@
       "Sothis - Girl on the Throne",
       "Sothis - Silver Specter",
       "Sothis - Bound-Spirit Duo"
-    ],
+    ]
+  },
+  "Sirius+": {
+    "id": "Sirius+",
+    "name": "天狼・神",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Sirius"],
+    "exclusive": ["Sothis - Girl on the Throne"],
     "last": true
   },
   "Njörun's Zeal": {

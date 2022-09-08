@@ -6071,12 +6071,17 @@
       "Mirror Impact": 5
     },
     "skillB": {
-      "Light and Dark": 5
+      "Light and Dark": 5,
+      "Light and Dark II": 5
     },
     "skillC": {
       "Atk/Res Oath 1": 1,
       "Atk/Res Oath 2": 2,
-      "Atk/Res Oath 3": 4
+      "Atk/Res Oath 3": 4,
+      "Threaten Res 1": 1,
+      "Threat. Atk/Res 1": 2,
+      "Threat. Atk/Res 2": 4,
+      "Atk/Res Menace": 5
     }
   },
   "Julia - Heart Usurped": {
@@ -13632,7 +13637,8 @@
       "Iron Axe": 1,
       "Steel Axe": 2,
       "Brave Axe": 3,
-      "Brave Axe+": 5
+      "Brave Axe+": 5,
+      "Tempest's Claw": 5
     },
     "assist": {
       "Swap": 3
@@ -18609,7 +18615,8 @@
     "special": {
       "Daylight": 3,
       "Noontime": 4,
-      "Sirius": 5
+      "Sirius": 5,
+      "Sirius+": 5
     },
     "skillA": {
       "Atk/Spd Solo 1": 1,
@@ -18619,7 +18626,10 @@
     "skillB": {
       "Wrath 1": 3,
       "Wrath 2": 4,
-      "Wrath 3": 5
+      "Wrath 3": 5,
+      "Null C-Disrupt 1": 3,
+      "Null C-Disrupt 2": 4,
+      "Null C-Disrupt 3": 5
     },
     "skillC": {
       "Time's Pulse 1": 3,

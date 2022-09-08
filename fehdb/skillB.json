@@ -173,6 +173,15 @@
     "last": true,
     "icon": "skillB/Yunes_Whispers.png"
   },
+  "Light and Dark II": {
+    "id": "Light and Dark II",
+    "name": "光與闇・承",
+    "sp": 300,
+    "prev": ["Light and Dark"],
+    "exclusive": ["Julia - Crusader of Light"],
+    "last": true,
+    "icon": "skillB/Light_and_Dark_II.png"
+  },
   "Light and Dark": {
     "id": "Light and Dark",
     "name": "光與闇",

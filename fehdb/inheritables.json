@@ -507,7 +507,7 @@
       "Shell Lance+": {
         "pool": { "special": { "5": ["Cordelia - Knight Paradise"] } },
         "id": "Shell Lance+",
-        "name": "貝殼之槍",
+        "name": "貝殼之槍+",
         "sp": 300,
         "refine": 350
       },
@@ -8529,7 +8529,8 @@
       "pool": {
         "#": { "5": ["Lyon - Demon King", "Nailah - Unflinching Eye"] },
         "duo": { "5": ["Ike - Close-Knit Siblings"] },
-        "harmonized": { "5": ["Altina - Cross-Time Duo"] }
+        "harmonized": { "5": ["Altina - Cross-Time Duo"] },
+        "mythic": { "5": ["Sothis - Girl on the Throne"] }
       },
       "id": "Null C-Disrupt 3",
       "name": "識破・無法反擊3",
@@ -10039,7 +10040,9 @@
     },
     "Threat. Atk/Res 2": {
       "pool": {
-        "legendary": { "5": ["Deirdre - Fated Saint"] },
+        "legendary": {
+          "5": ["Deirdre - Fated Saint", "Julia - Crusader of Light"]
+        },
         "#": { "5": ["Niime - Mountain Hermit", "Morgan - Fated Darkness"] },
         "grail": { "4": ["Sonia - Inhuman Beauty"] },
         "special": { "5": ["Sothis - Silver Specter"] }
@@ -10110,7 +10113,9 @@
     },
     "Atk/Res Menace": {
       "pool": {
-        "legendary": { "5": ["Deirdre - Fated Saint"] },
+        "legendary": {
+          "5": ["Deirdre - Fated Saint", "Julia - Crusader of Light"]
+        },
         "#": { "5": ["Niime - Mountain Hermit", "Morgan - Fated Darkness"] }
       },
       "id": "Atk/Res Menace",

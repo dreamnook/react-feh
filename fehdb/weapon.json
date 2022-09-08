@@ -4855,6 +4855,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Dimitri - King of Faerghus"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Moon_Gradivus_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Flame Lance": {
@@ -5279,7 +5302,7 @@
     },
     "Breaker Lance": {
       "id": "Breaker Lance",
-      "name": "壞刃的戰槍",
+      "name": "壞刃戰槍",
       "mt": 16,
       "atk": 3,
       "sp": 400,
@@ -6099,7 +6122,7 @@
     },
     "Shell Lance+": {
       "id": "Shell Lance+",
-      "name": "貝殼之槍",
+      "name": "貝殼之槍+",
       "mt": 14,
       "sp": 300,
       "prev": ["Shell Lance"],
@@ -7642,6 +7665,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Edelgard - Adrestian Emperor"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "女帝解放",
+          "icon": "Flower_Hauteclere_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Talregan Axe": {
@@ -7943,6 +7989,38 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Xander - Gallant King"],
+      "last": true
+    },
+    "Tempest's Claw": {
+      "id": "Tempest's Claw",
+      "name": "黑疾風的爪斧",
+      "mt": 10,
+      "spd": -5,
+      "sp": 400,
+      "exclusive": ["Haar - Black Tempest"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Tempest's_Claw_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Iron Axe": {
@@ -9980,6 +10058,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Claude - Almyra's King"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Wind_Parthia_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Double Bow": {
@@ -14699,6 +14799,29 @@
       "spd": 3,
       "sp": 400,
       "exclusive": ["Lysithea - Earnest Seeker"],
+      "refine": {
+        "sanaki": {
+          "name": "特效",
+          "icon": "Dark_Spikes_T_W",
+          "cd": -1
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Gilt Goblet": {
@@ -16034,6 +16157,28 @@
       "sp": 400,
       "prev": ["Shine"],
       "exclusive": ["Julia - Crusader of Light"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Virtuous_Naga_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Fimbulvetr": {
@@ -20111,6 +20256,29 @@
       "mt": 16,
       "sp": 400,
       "exclusive": ["Sothis - Girl on the Throne"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Sublime_Surge_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Ethereal Breath": {

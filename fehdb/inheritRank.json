@@ -5173,19 +5173,6 @@
     "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 5 } }
   },
-  "Julia - Crusader of Light": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 175,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Mirror Impact": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
-  },
   "Leif - Unifier of Thracia": {
     "score": 276,
     "scoreTotal": 681,
@@ -5983,6 +5970,19 @@
     "assist": { "Rally Def/Res": { "sp": 300, "rarity": 5 } },
     "skillB": { "Desperation 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Joint Drive Spd": { "sp": 300, "rarity": 5 } }
+  },
+  "Julia - Crusader of Light": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 175,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Mirror Impact": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Res Menace": { "sp": 300, "rarity": 5 } }
   },
   "Nótt - Moon's Elegance": {
     "score": 276,
@@ -7607,7 +7607,7 @@
     "bst": 173,
     "special": { "Noontime": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Solo 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Wrath 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Null C-Disrupt 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Reginn - Bearing Dawn": {
