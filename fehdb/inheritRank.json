@@ -3524,6 +3524,19 @@
     "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 4 } },
     "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 5 } }
   },
+  "Mordecai - Gentle Firetender": {
+    "score": 249,
+    "scoreTotal": 553,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 590,
+    "feather": 300,
+    "bst": 187,
+    "assist": { "Smite": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Fort. Def/Res 2": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 5 } }
+  },
   "Dorothea - Solar Songstress": {
     "score": 318,
     "scoreTotal": 572,
@@ -4644,6 +4657,19 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Rinkah - Consuming Flame": {
+    "score": 254,
+    "scoreTotal": 668,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 187,
+    "assist": { "Pivot": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
   "Corrin - Enjoying Tradition": {
     "score": 374,
@@ -7675,6 +7701,19 @@
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Def Menace": { "sp": 300, "rarity": 5 } }
   },
+  "Múspell - Raging Inferno": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dragon's Wrath 4": { "sp": 300, "rarity": 5 } }
+  },
   "Itsuki - Finding a Path": {
     "score": 299,
     "scoreTotal": 853,
@@ -10235,6 +10274,20 @@
     "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "A/R Far Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Tana - Soothing Warmth": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 178,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Windsweep 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd/Def Hold": { "sp": 300, "rarity": 5 } }
+  },
   "Larcei - Scion of Astra": {
     "score": 318,
     "scoreTotal": 1102,
@@ -10331,6 +10384,19 @@
     "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Solo 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Lyn - Blazing Whirlwind": {
+    "score": 530,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Godlike Reflexes": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Shield Pulse 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Tanith - Forthright Heart": {
     "score": 424,

@@ -271,6 +271,13 @@
         "name": "薔薇之杖+",
         "sp": 300,
         "refine": 350
+      },
+      "Flame Gunbai+": {
+        "pool": { "special": { "5": ["Rinkah - Consuming Flame"] } },
+        "id": "Flame Gunbai+",
+        "name": "炎之軍扇+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "blue-lance": {
@@ -2520,7 +2527,11 @@
           ]
         },
         "grail": {
-          "4": ["Bartre - Earsome Warrior", "Keaton - Resolved Wolfskin"]
+          "4": [
+            "Bartre - Earsome Warrior",
+            "Mordecai - Gentle Firetender",
+            "Keaton - Resolved Wolfskin"
+          ]
         }
       },
       "id": "Smite",
@@ -2622,7 +2633,13 @@
           ],
           "5": ["Kaden - Kitsune Braggart"]
         },
-        "special": { "5": ["Lukas - Buffet for One", "Chrom - Gifted Leader"] }
+        "special": {
+          "5": [
+            "Lukas - Buffet for One",
+            "Chrom - Gifted Leader",
+            "Rinkah - Consuming Flame"
+          ]
+        }
       },
       "id": "Pivot",
       "name": "迂迴",
@@ -3095,6 +3112,7 @@
             "Claude - Tropical Trouble"
           ],
           "5": [
+            "Múspell - Raging Inferno",
             "Caeda - Princess of Talys",
             "Est - Springtime Flier",
             "Tiki - Beachside Scion",
@@ -3353,8 +3371,10 @@
           ]
         },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
-        "legendary": { "5": ["Ryoma - Supreme Samurai"] },
-        "harmonized": { "5": ["Edelgard - Sun Empresses"] }
+        "harmonized": {
+          "5": ["Tana - Soothing Warmth", "Edelgard - Sun Empresses"]
+        },
+        "legendary": { "5": ["Ryoma - Supreme Samurai"] }
       },
       "id": "Glimmer",
       "name": "凶星",
@@ -3966,11 +3986,18 @@
             "Gwendolyn - Adorable Knight"
           ]
         },
-        "grail": { "4": ["Clive - Idealistic Knight"] }
+        "grail": { "4": ["Clive - Idealistic Knight"] },
+        "special": { "5": ["Lyn - Blazing Whirlwind"] }
       },
       "id": "Escutcheon",
       "name": "長盾",
       "sp": 200
+    },
+    "Godlike Reflexes": {
+      "pool": { "special": { "5": ["Lyn - Blazing Whirlwind"] } },
+      "id": "Godlike Reflexes",
+      "name": "神速迴避",
+      "sp": 500
     },
     "Pavise": {
       "pool": {
@@ -4428,7 +4455,10 @@
             "Gatrie - Armored Amour"
           ]
         },
-        "grail": { "5": ["Sonia - Inhuman Beauty"] }
+        "grail": {
+          "4": ["Mordecai - Gentle Firetender"],
+          "5": ["Sonia - Inhuman Beauty"]
+        }
       },
       "id": "Fort. Def/Res 2",
       "name": "防守魔防堡壘2",
@@ -6701,7 +6731,11 @@
           ]
         },
         "harmonized": {
-          "5": ["Caeda - Sea-Blossom Pair", "Leif - Destined Scions"]
+          "5": [
+            "Caeda - Sea-Blossom Pair",
+            "Leif - Destined Scions",
+            "Tana - Soothing Warmth"
+          ]
         },
         "#": {
           "5": [
@@ -6730,7 +6764,11 @@
           ]
         },
         "harmonized": {
-          "5": ["Caeda - Sea-Blossom Pair", "Leif - Destined Scions"]
+          "5": [
+            "Caeda - Sea-Blossom Pair",
+            "Leif - Destined Scions",
+            "Tana - Soothing Warmth"
+          ]
         },
         "#": {
           "5": [
@@ -6752,6 +6790,7 @@
     "Atk/Def Catch 3": {
       "pool": {
         "#": { "5": ["Gustav - Sovereign Slain", "Zeke - Past Unknown"] },
+        "special": { "5": ["Múspell - Raging Inferno"] },
         "grail": {
           "5": ["Sedgar - Coyote's Dutiful", "Jeralt - Blade Breaker"]
         },
@@ -6765,6 +6804,7 @@
     "Atk/Def Catch 4": {
       "pool": {
         "#": { "5": ["Gustav - Sovereign Slain", "Zeke - Past Unknown"] },
+        "special": { "5": ["Múspell - Raging Inferno"] },
         "legendary": { "5": ["Sigurd - Fated Holy Knight"] }
       },
       "id": "Atk/Def Catch 4",
@@ -6832,6 +6872,7 @@
             "Miriel - Rapier Intellect"
           ]
         },
+        "special": { "5": ["Rinkah - Consuming Flame"] },
         "legendary": { "5": ["Byleth - The Fódlan Light"] }
       },
       "id": "Atk/Spd Ideal 3",
@@ -7892,7 +7933,8 @@
           "5": ["Merric - Changing Winds", "Ethlyn - Glimmering Lady"]
         },
         "#": { "5": ["Alm - Hero of Prophecy"] },
-        "grail": { "4": ["Lifis - Terror of Iz", "Joshua - Tempest King"] }
+        "grail": { "4": ["Lifis - Terror of Iz", "Joshua - Tempest King"] },
+        "harmonized": { "5": ["Tana - Soothing Warmth"] }
       },
       "id": "Windsweep 3",
       "name": "疾風橫掃3",
@@ -7986,7 +8028,8 @@
         "legendary": {
           "5": ["Fjorm - Princess of Ice", "Corrin - Child of Dusk"]
         },
-        "#": { "5": ["Saber - Driven Mercenary"] }
+        "#": { "5": ["Saber - Driven Mercenary"] },
+        "special": { "5": ["Lyn - Blazing Whirlwind"] }
       },
       "id": "Shield Pulse 3",
       "name": "盾之躍動3",
@@ -8735,11 +8778,21 @@
       "icon": "skillB/Dragon_Wall_3.png"
     },
     "Dragon's Wrath 3": {
-      "pool": { "duo": { "5": ["Sothis - Bound-Spirit Duo"] } },
+      "pool": {
+        "special": { "5": ["Múspell - Raging Inferno"] },
+        "duo": { "5": ["Sothis - Bound-Spirit Duo"] }
+      },
       "id": "Dragon's Wrath 3",
       "name": "龍之魔鱗3",
       "sp": 240,
       "icon": "skillB/Dragon's_Wrath_3.png"
+    },
+    "Dragon's Wrath 4": {
+      "pool": { "special": { "5": ["Múspell - Raging Inferno"] } },
+      "id": "Dragon's Wrath 4",
+      "name": "龍之魔鱗4",
+      "sp": 300,
+      "icon": "skillB/Dragon's_Wrath_4.png"
     },
     "Even Pulse Tie 3": {
       "pool": {
@@ -9498,7 +9551,9 @@
     },
     "Spd/Def Rein 3": {
       "pool": {
-        "harmonized": { "5": ["Catria - Azure Wing Pair"] },
+        "harmonized": {
+          "5": ["Catria - Azure Wing Pair", "Tana - Soothing Warmth"]
+        },
         "special": {
           "5": ["Igrene - Ninja of Nabata", "Claude - Tropical Trouble"]
         },
@@ -9537,6 +9592,13 @@
       "name": "攻擊魔防大牽制",
       "sp": 300,
       "icon": "skillC/Atk_Res_Hold.png"
+    },
+    "Spd/Def Hold": {
+      "pool": { "harmonized": { "5": ["Tana - Soothing Warmth"] } },
+      "id": "Spd/Def Hold",
+      "name": "速度防守大牽制",
+      "sp": 300,
+      "icon": "skillC/Spd_Def_Hold.png"
     },
     "Spd/Res Hold": {
       "pool": {
@@ -10275,6 +10337,7 @@
             "Lilith - Silent Broodling"
           ]
         },
+        "special": { "5": ["Lyn - Blazing Whirlwind"] },
         "grail": { "5": ["Takumi - Empty Vessel"] }
       },
       "id": "Spd Smoke 3",
@@ -10283,7 +10346,10 @@
       "icon": "skillC/Spd_Smoke_3.png"
     },
     "Spd Smoke 4": {
-      "pool": { "#": { "5": ["Lilith - Silent Broodling"] } },
+      "pool": {
+        "special": { "5": ["Lyn - Blazing Whirlwind"] },
+        "#": { "5": ["Lilith - Silent Broodling"] }
+      },
       "id": "Spd Smoke 4",
       "name": "速度紫煙4",
       "sp": 300,
@@ -10850,6 +10916,7 @@
     "Atk/Def Gap 3": {
       "pool": {
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] },
+        "grail": { "5": ["Mordecai - Gentle Firetender"] },
         "#": { "5": ["Annette - Overachiever"] }
       },
       "id": "Atk/Def Gap 3",
@@ -11088,7 +11155,11 @@
     "Odd Tempest 3": {
       "pool": {
         "special": {
-          "5": ["Karla - Sun-Piercing Steel", "Mia - Budding Blade"]
+          "5": [
+            "Karla - Sun-Piercing Steel",
+            "Mia - Budding Blade",
+            "Rinkah - Consuming Flame"
+          ]
         },
         "legendary": { "5": ["Dimitri - Savior King"] },
         "#": { "5": ["Dimitri - Savage Boar"] }

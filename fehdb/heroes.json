@@ -1251,6 +1251,44 @@
     "book": 5,
     "ver": "5.9"
   },
+  "Múspell - Raging Inferno": {
+    "id": "Múspell - Raging Inferno",
+    "title": "熊熊烈焰",
+    "name": "穆斯貝爾",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-dragon",
+    "pool": "special",
+    "releaseDate": "2022-09-07",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [22, 26, 29],
+        "def": [37, 41, 44],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 4,
+        "def": 8,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def", "res"],
+    "statMin": 180,
+    "statMax": 180,
+    "voice": {
+      "en": "Jason Charles Miller",
+      "jp": "Genda Tesshou (玄田哲章)"
+    },
+    "book": 6,
+    "ver": "6.9"
+  },
   "Surtr - Ruler of Flame": {
     "id": "Surtr - Ruler of Flame",
     "title": "炎之王",
@@ -17168,6 +17206,44 @@
     "book": 4,
     "ver": "4.11"
   },
+  "Lyn - Blazing Whirlwind": {
+    "id": "Lyn - Blazing Whirlwind",
+    "title": "烈焰龍捲風",
+    "name": "琳",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2022-09-07",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [35, 38, 42],
+        "spd": [41, 44, 48],
+        "def": [31, 34, 37],
+        "res": [29, 32, 35]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 14,
+        "def": 8,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 187,
+    "statMax": 190,
+    "voice": {
+      "en": "Wendee Lee",
+      "jp": "Ohmoto Makiko (大本眞基子)"
+    },
+    "book": 6,
+    "ver": "6.9"
+  },
   "Hector - General of Ostia": {
     "id": "Hector - General of Ostia",
     "title": "奧斯提亞的勇將",
@@ -20987,6 +21063,44 @@
     },
     "book": 5,
     "ver": "5.4"
+  },
+  "Tana - Soothing Warmth": {
+    "id": "Tana - Soothing Warmth",
+    "title": "溫暖的情誼",
+    "name": "塔娜",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-dagger",
+    "pool": "harmonized",
+    "releaseDate": "2022-09-07",
+    "appearsIn": ["Heroes", "The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [36, 39, 43],
+        "spd": [39, 42, 46],
+        "def": [22, 26, 29],
+        "res": [29, 32, 35]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 12,
+        "def": 4,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 178,
+    "statMax": 180,
+    "voice": {
+      "en": "Melissa Fahn + Ryan Bartley",
+      "jp": "Tanaka Kumi (たなか久美) with Waki Azumi (和氣あず未)"
+    },
+    "book": 6,
+    "ver": "6.9"
   },
   "Lyon - Shadow Prince": {
     "id": "Lyon - Shadow Prince",
@@ -25320,6 +25434,58 @@
     },
     "book": 3,
     "ver": "3.4"
+  },
+  "Mordecai - Gentle Firetender": {
+    "id": "Mordecai - Gentle Firetender",
+    "title": "溫柔的篝火",
+    "name": "摩迪",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-beast",
+    "pool": "grail",
+    "releaseDate": "2022-09-07",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "4": {
+        "hp": [42, 45, 48],
+        "atk": [38, 41, 45],
+        "spd": [23, 26, 29],
+        "def": [37, 41, 44],
+        "res": [19, 22, 25]
+      },
+      "5": {
+        "hp": [45, 48, 51],
+        "atk": [40, 43, 47],
+        "spd": [25, 29, 32],
+        "def": [39, 43, 46],
+        "res": [21, 24, 28]
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 6,
+        "def": 10,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 13,
+        "spd": 7,
+        "def": 10,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["spd", "def"],
+    "statMin": 187,
+    "statMax": 190,
+    "voice": {
+      "en": "Jason Vande Brake",
+      "jp": "Egoshi Akinori (江越彬紀)"
+    },
+    "book": 6,
+    "ver": "6.9"
   },
   "Lethe - Gallia's Valkyrie": {
     "id": "Lethe - Gallia's Valkyrie",
@@ -33395,6 +33561,44 @@
     },
     "book": 4,
     "ver": "4.4"
+  },
+  "Rinkah - Consuming Flame": {
+    "id": "Rinkah - Consuming Flame",
+    "title": "平靜的烈火",
+    "name": "凜火",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2022-09-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [34, 37, 40],
+        "spd": [38, 41, 45],
+        "def": [41, 44, 48],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 11,
+        "def": 14,
+        "res": 3
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp", "res"],
+    "statMin": 187,
+    "statMax": 190,
+    "voice": {
+      "en": "Sara Cravens",
+      "jp": "Ishikawa Yui (石川由依)"
+    },
+    "book": 6,
+    "ver": "6.9"
   },
   "Kaden - Kitsune Braggart": {
     "id": "Kaden - Kitsune Braggart",

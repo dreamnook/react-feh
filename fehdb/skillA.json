@@ -74,6 +74,14 @@
     "last": true,
     "icon": "skillA/Dragonscale.png"
   },
+  "Verdict of Sacae": {
+    "id": "Verdict of Sacae",
+    "name": "偉大的塞迦的規矩",
+    "sp": 300,
+    "exclusive": ["Lyn - Blazing Whirlwind"],
+    "last": true,
+    "icon": "skillA/Verdict_of_Sacae.png"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

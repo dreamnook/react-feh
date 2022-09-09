@@ -1671,6 +1671,27 @@
       "icon": "skillA/Atk_Res_Form_3.png",
       "last": true
     },
+    "Spd/Def Form 1": {
+      "id": "Spd/Def Form 1",
+      "name": "速度防守的密集1",
+      "sp": 60,
+      "icon": "skillA/Spd_Def_Form_1.png"
+    },
+    "Spd/Def Form 2": {
+      "id": "Spd/Def Form 2",
+      "name": "速度防守的密集2",
+      "sp": 120,
+      "prev": ["Spd/Def Form 1"],
+      "icon": "skillA/Spd_Def_Form_2.png"
+    },
+    "Spd/Def Form 3": {
+      "id": "Spd/Def Form 3",
+      "name": "速度防守的密集3",
+      "sp": 240,
+      "prev": ["Spd/Def Form 2"],
+      "icon": "skillA/Spd_Def_Form_3.png",
+      "last": true
+    },
     "Spd/Res Form 1": {
       "id": "Spd/Res Form 1",
       "name": "速度魔防的密集1",
@@ -3483,6 +3504,30 @@
       "rules": "learner.oath-skills",
       "icon": "skillC/Atk_Res_Oath_3.png",
       "last": true
+    },
+    "Spd/Res Oath 1": {
+      "id": "Spd/Res Oath 1",
+      "name": "速度魔防的信義1",
+      "sp": 60,
+      "rules": "learner.oath-skills",
+      "icon": "skillC/Spd_Res_Oath_1.png"
+    },
+    "Spd/Res Oath 2": {
+      "id": "Spd/Res Oath 2",
+      "name": "速度魔防的信義2",
+      "sp": 120,
+      "prev": ["Spd/Res Oath 1"],
+      "rules": "learner.oath-skills",
+      "icon": "skillC/Spd_Res_Oath_2.png"
+    },
+    "Spd/Res Oath 3": {
+      "id": "Spd/Res Oath 3",
+      "name": "速度魔防的信義3",
+      "sp": 240,
+      "prev": ["Spd/Res Oath 2"],
+      "rules": "learner.oath-skills",
+      "icon": "skillC/Spd_Res_Oath_3.png",
+      "last": true
     }
   },
   "seal": {
@@ -5031,6 +5076,24 @@
       "atk": 2,
       "prev": ["Squad Ace BI 1"],
       "icon": "seal/Squad_Ace_HP_Atk_2.png",
+      "last": true
+    },
+    "Squad Ace BJ 1": {
+      "id": "Squad Ace BJ 1",
+      "name": "第６２迷宮的霸王1",
+      "sp": 100,
+      "hp": 3,
+      "spd": 1,
+      "icon": "seal/Squad_Ace_HP_Spd_1.png"
+    },
+    "Squad Ace BJ 2": {
+      "id": "Squad Ace BJ 2",
+      "name": "第６２迷宮的霸王2",
+      "sp": 200,
+      "hp": 4,
+      "spd": 2,
+      "prev": ["Squad Ace BJ 1"],
+      "icon": "seal/Squad_Ace_HP_Spd_2.png",
       "last": true
     }
   }

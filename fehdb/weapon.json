@@ -3534,6 +3534,39 @@
         }
       },
       "last": true
+    },
+    "Flame Gunbai": {
+      "id": "Flame Gunbai",
+      "name": "炎之軍扇",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Flame Gunbai+": {
+      "id": "Flame Gunbai+",
+      "name": "炎之軍扇+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Flame Gunbai"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "blue-lance": {
@@ -5308,6 +5341,16 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Jeralt - Blade Breaker"],
+      "last": true
+    },
+    "Firelight Lance": {
+      "id": "Firelight Lance",
+      "name": "風火飛舞的靈槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Lyn - Blazing Whirlwind"],
       "last": true
     },
     "Iron Lance": {
@@ -12186,6 +12229,16 @@
       "exclusive": ["Nina - Shadowy Figures"],
       "last": true
     },
+    "Kindling Taiko": {
+      "id": "Kindling Taiko",
+      "name": "初始的炎之太鼓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Tana - Soothing Warmth"],
+      "last": true
+    },
     "Iron Dagger": {
       "id": "Iron Dagger",
       "name": "鐵暗器",
@@ -14002,6 +14055,16 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Askr - God of Openness"],
+      "last": true
+    },
+    "Fiery Fang": {
+      "id": "Fiery Fang",
+      "name": "炎虎的爪牙",
+      "mt": 14,
+      "def": 3,
+      "sp": 400,
+      "prev": ["Adult (Infantry)"],
+      "exclusive": ["Mordecai - Gentle Firetender"],
       "last": true
     },
     "Whelp (Infantry)": {
@@ -20704,6 +20767,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Tiki - Fated Divinity"],
+      "last": true
+    },
+    "Breath of Flame": {
+      "id": "Breath of Flame",
+      "name": "炎祭吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Múspell - Raging Inferno"],
       "last": true
     },
     "Fire Breath": {

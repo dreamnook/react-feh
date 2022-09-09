@@ -628,6 +628,15 @@
     "prev": ["Buckler"],
     "last": true
   },
+  "Godlike Reflexes": {
+    "id": "Godlike Reflexes",
+    "name": "神速迴避",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Escutcheon"],
+    "rules": "learner.wielderInfantry",
+    "last": true
+  },
   "Pavise": {
     "id": "Pavise",
     "name": "大盾",

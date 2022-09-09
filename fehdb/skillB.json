@@ -3245,6 +3245,15 @@
     "icon": "skillB/Dragon's_Wrath_3.png",
     "last": true
   },
+  "Dragon's Wrath 4": {
+    "id": "Dragon's Wrath 4",
+    "name": "龍之魔鱗4",
+    "sp": 300,
+    "prev": ["Dragon's Wrath 3"],
+    "rules": "dragon",
+    "icon": "skillB/Dragon's_Wrath_4.png",
+    "last": true
+  },
   "Even Pulse Tie 1": {
     "id": "Even Pulse Tie 1",
     "name": "鼓動的封緘・偶數1",
