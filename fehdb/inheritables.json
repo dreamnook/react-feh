@@ -1,6 +1,13 @@
 {
   "weapon": {
     "red-sword": {
+      "Arcane Éljúðnir": {
+        "pool": { "#": { "5": ["Líf - Arcane Blade"] } },
+        "id": "Arcane Éljúðnir",
+        "name": "魔器埃琉德尼爾",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Sword+": {
         "pool": {
           "#": { "5": ["Olivia - Blushing Beauty", "Laslow - Dancing Duelist"] }
@@ -2634,11 +2641,8 @@
           "5": ["Kaden - Kitsune Braggart"]
         },
         "special": {
-          "5": [
-            "Lukas - Buffet for One",
-            "Chrom - Gifted Leader",
-            "Rinkah - Consuming Flame"
-          ]
+          "4": ["Rinkah - Consuming Flame"],
+          "5": ["Lukas - Buffet for One", "Chrom - Gifted Leader"]
         }
       },
       "id": "Pivot",
@@ -3177,6 +3181,7 @@
             "Lysithea - Earnest Seeker",
             "Hilda - Idle Maiden",
             "Shamir - Archer Apart",
+            "Shez - Rising Mercenary",
             "Tsubasa - Madcap Idol"
           ]
         },
@@ -3253,7 +3258,8 @@
             "Nyx - Rulebreaker Mage",
             "Velouria - Wolf Cub",
             "Edelgard - The Future",
-            "Petra - Princess of Brigid"
+            "Petra - Princess of Brigid",
+            "Hilda - Helping Hand"
           ]
         },
         "special": {
@@ -3354,7 +3360,9 @@
             "Dimitri - Savage Boar",
             "Claude - The Schemer",
             "Yuri - Ashen Valiant",
-            "Hapi - Drawn-Out Sigh"
+            "Hapi - Drawn-Out Sigh",
+            "Shez - Keen Mercenary",
+            "Monica - Favored Vassal"
           ]
         },
         "duo": { "5": ["Líf - Undying Ties Duo", "Chrom - Fate-Defying Duo"] },
@@ -3647,6 +3655,7 @@
             "Gustav - Sovereign Slain",
             "Surtr - Ruler of Flame",
             "Laegjarn - Sheathed Steel",
+            "Líf - Arcane Blade",
             "Luke - Rowdy Squire",
             "Forsyth - Loyal Lieutenant",
             "Zeke - Past Unknown",
@@ -3970,7 +3979,11 @@
           ]
         },
         "grail": {
-          "4": ["Oliver - Admirer of Beauty", "Xander - Paragon Knight"]
+          "4": [
+            "Oliver - Admirer of Beauty",
+            "Xander - Paragon Knight",
+            "Holst - Hero of Leicester"
+          ]
         }
       },
       "id": "Blazing Light",
@@ -4558,7 +4571,8 @@
             "Jaffar - Angel of Death",
             "Selena - Fluorspar",
             "Joshua - Resolute Tempest",
-            "Hana - Focused Samurai"
+            "Hana - Focused Samurai",
+            "Shez - Keen Mercenary"
           ]
         },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
@@ -6146,6 +6160,7 @@
             "Dimitri - Savage Boar",
             "Ingrid - Galatea's Heir",
             "Hilda - Idle Maiden",
+            "Hilda - Helping Hand",
             "Shamir - Archer Apart"
           ]
         },
@@ -6177,6 +6192,7 @@
             "Corrin - Bloodbound Beast",
             "Dimitri - Savage Boar",
             "Ingrid - Galatea's Heir",
+            "Hilda - Helping Hand",
             "Shamir - Archer Apart"
           ]
         },
@@ -6869,11 +6885,13 @@
           "5": [
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
-            "Miriel - Rapier Intellect"
+            "Miriel - Rapier Intellect",
+            "Monica - Favored Vassal"
           ]
         },
-        "special": { "5": ["Rinkah - Consuming Flame"] },
-        "legendary": { "5": ["Byleth - The Fódlan Light"] }
+        "special": { "4": ["Rinkah - Consuming Flame"] },
+        "legendary": { "5": ["Byleth - The Fódlan Light"] },
+        "grail": { "5": ["Holst - Hero of Leicester"] }
       },
       "id": "Atk/Spd Ideal 3",
       "name": "攻擊速度的萬全3",
@@ -6882,7 +6900,13 @@
     },
     "Atk/Spd Ideal 4": {
       "pool": {
-        "#": { "5": ["Arthur - Furious Mage", "Louise - Lady of Violets"] },
+        "#": {
+          "5": [
+            "Arthur - Furious Mage",
+            "Louise - Lady of Violets",
+            "Monica - Favored Vassal"
+          ]
+        },
         "legendary": { "5": ["Byleth - The Fódlan Light"] }
       },
       "id": "Atk/Spd Ideal 4",
@@ -7010,6 +7034,20 @@
       "name": "攻擊速度的激戰4",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Clash_4.png"
+    },
+    "Atk/Def Clash 3": {
+      "pool": { "#": { "5": ["Líf - Arcane Blade"] } },
+      "id": "Atk/Def Clash 3",
+      "name": "攻擊防守的激戰3",
+      "sp": 240,
+      "icon": "skillA/Atk_Def_Clash_3.png"
+    },
+    "Atk/Def Clash 4": {
+      "pool": { "#": { "5": ["Líf - Arcane Blade"] } },
+      "id": "Atk/Def Clash 4",
+      "name": "攻擊防守的激戰4",
+      "sp": 300,
+      "icon": "skillA/Atk_Def_Clash_4.png"
     },
     "Atk/Res Finish 3": {
       "pool": { "#": { "5": ["Tiki - Fated Divinity"] } },
@@ -8269,7 +8307,7 @@
           "5": ["Bertram - Dread Cavalier"]
         },
         "special": { "5": ["Cordelia - Knight Paradise"] },
-        "#": { "5": ["Edelgard - The Future"] }
+        "#": { "5": ["Edelgard - The Future", "Shez - Keen Mercenary"] }
       },
       "id": "Dull Close 3",
       "name": "強化無效・近距離3",
@@ -8754,6 +8792,13 @@
       "sp": 240,
       "icon": "skillB/Frenzy_3.png"
     },
+    "Velocity 3": {
+      "pool": { "#": { "5": ["Hilda - Helping Hand"] } },
+      "id": "Velocity 3",
+      "name": "迴避・節拍3",
+      "sp": 240,
+      "icon": "skillB/Velocity_3.png"
+    },
     "Dragon's Ire 3": {
       "pool": {
         "legendary": { "5": ["Fae - Childlike Dragon"] },
@@ -8963,12 +9008,26 @@
       "sp": 240,
       "icon": "skillB/Spd_Def_Tempo_3.png"
     },
+    "Spd/Res Tempo 3": {
+      "pool": { "#": { "5": ["Monica - Favored Vassal"] } },
+      "id": "Spd/Res Tempo 3",
+      "name": "速度魔防節拍3",
+      "sp": 240,
+      "icon": "skillB/Spd_Res_Tempo_3.png"
+    },
     "Atk/Def Bulwark 3": {
       "pool": { "mythic": { "5": ["Askr - God of Openness"] } },
       "id": "Atk/Def Bulwark 3",
       "name": "攻擊防守防護屏障3",
       "sp": 240,
       "icon": "skillB/Atk_Def_Bulwark_3.png"
+    },
+    "Spd/Def Bulwark 3": {
+      "pool": { "#": { "5": ["Shez - Rising Mercenary"] } },
+      "id": "Spd/Def Bulwark 3",
+      "name": "速度防守防護屏障3",
+      "sp": 240,
+      "icon": "skillB/Spd_Def_Bulwark_3.png"
     },
     "Spd Preempt 3": {
       "pool": { "#": { "5": ["Byleth - Sublime Light"] } },
@@ -9214,7 +9273,8 @@
             "Ronan - Villager of Iz",
             "Florina - Azure-Sky Knight",
             "Anna - Secret Seller",
-            "Lucina - Brave Princess"
+            "Lucina - Brave Princess",
+            "Hilda - Helping Hand"
           ]
         },
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
@@ -9289,7 +9349,8 @@
           "5": [
             "Ronan - Villager of Iz",
             "Florina - Azure-Sky Knight",
-            "Anna - Secret Seller"
+            "Anna - Secret Seller",
+            "Hilda - Helping Hand"
           ]
         },
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
@@ -10068,14 +10129,15 @@
     "Threat. Atk/Def 2": {
       "pool": {
         "legendary": { "5": ["Hríd - Icy Blade"] },
-        "mythic": { "5": ["Ótr - Kingsbrother"] },
         "#": {
           "5": [
+            "Líf - Arcane Blade",
             "Atlas - Forest Muscle",
             "Dieck - Wounded Tiger",
             "Morgan - Devoted Darkness"
           ]
         },
+        "mythic": { "5": ["Ótr - Kingsbrother"] },
         "special": { "5": ["Rudolf - Emperor of Rigel"] },
         "grail": {
           "4": [
@@ -10165,8 +10227,8 @@
     "Atk/Def Menace": {
       "pool": {
         "legendary": { "5": ["Hríd - Icy Blade"] },
-        "mythic": { "5": ["Ótr - Kingsbrother"] },
-        "#": { "5": ["Morgan - Devoted Darkness"] }
+        "#": { "5": ["Líf - Arcane Blade", "Morgan - Devoted Darkness"] },
+        "mythic": { "5": ["Ótr - Kingsbrother"] }
       },
       "id": "Atk/Def Menace",
       "name": "攻擊防守的恐嚇",
@@ -11086,9 +11148,18 @@
     "Atk/Spd Oath 3": {
       "pool": {
         "legendary": { "5": ["Celica - Queen of Valentia"] },
-        "#": { "5": ["Louise - Lady of Violets", "Ike - Zeal Unleashed"] },
+        "#": {
+          "5": [
+            "Louise - Lady of Violets",
+            "Ike - Zeal Unleashed",
+            "Shez - Rising Mercenary"
+          ]
+        },
         "special": { "5": ["Eirika - Beach Restorer"] },
-        "grail": { "5": ["Shamir - Lone-Moon Ninja"] }
+        "grail": {
+          "4": ["Holst - Hero of Leicester"],
+          "5": ["Shamir - Lone-Moon Ninja"]
+        }
       },
       "id": "Atk/Spd Oath 3",
       "name": "攻擊速度的信義3",
@@ -11096,7 +11167,10 @@
       "icon": "skillC/Atk_Spd_Oath_3.png"
     },
     "Atk/Spd Oath 4": {
-      "pool": { "special": { "5": ["Eirika - Beach Restorer"] } },
+      "pool": {
+        "special": { "5": ["Eirika - Beach Restorer"] },
+        "#": { "5": ["Shez - Rising Mercenary"] }
+      },
       "id": "Atk/Spd Oath 4",
       "name": "攻擊速度的信義4",
       "sp": 300,

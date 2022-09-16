@@ -2050,6 +2050,19 @@
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Even Follow-Up 3": { "sp": 240, "rarity": 4 } }
   },
+  "Rinkah - Consuming Flame": {
+    "score": 196,
+    "scoreTotal": 395,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 187,
+    "assist": { "Pivot": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
+  },
   "Azura - Young Songstress": {
     "score": 299,
     "scoreTotal": 396,
@@ -4333,6 +4346,18 @@
     "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ward Dragons": { "sp": 200, "rarity": 5 } }
   },
+  "Shez - Keen Mercenary": {
+    "score": 240,
+    "scoreTotal": 640,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Life and Death 3": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Dull Close 3": { "sp": 240, "rarity": 5 } }
+  },
   "Ephraim - Legendary Lord": {
     "score": 276,
     "scoreTotal": 644,
@@ -4657,19 +4682,6 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Rinkah - Consuming Flame": {
-    "score": 254,
-    "scoreTotal": 668,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 1000,
-    "bst": 187,
-    "assist": { "Pivot": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
   "Corrin - Enjoying Tradition": {
     "score": 374,
@@ -6290,6 +6302,18 @@
     "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } }
   },
+  "Monica - Favored Vassal": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 176,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Tempo 3": { "sp": 240, "rarity": 5 } }
+  },
   "Dimitri - Savage Boar": {
     "score": 300,
     "scoreTotal": 740,
@@ -6385,6 +6409,18 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Fort. Def/Res 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Shez - Rising Mercenary": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Spd/Def Bulwark 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Eirika - Anamnesis Lady": {
     "score": 300,
@@ -7314,6 +7350,18 @@
     "skillA": { "Atk/Def Unity": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Hone Atk": { "sp": 300, "rarity": 5 } }
   },
+  "Líf - Arcane Blade": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Def Menace": { "sp": 300, "rarity": 5 } }
+  },
   "Edelgard - Adrestian Emperor": {
     "score": 300,
     "scoreTotal": 800,
@@ -7937,6 +7985,19 @@
     "special": { "Blazing Wind": { "sp": 300, "rarity": 4 } },
     "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Chill Def 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Holst - Hero of Leicester": {
+    "score": 403,
+    "scoreTotal": 880,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 780,
+    "feather": 150,
+    "bst": 187,
+    "special": { "Blazing Light": { "sp": 300, "rarity": 4 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
   },
   "Camilla - Tropical Beauty": {
     "score": 254,
@@ -10071,6 +10132,19 @@
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dive-Bomb 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Hilda - Helping Hand": {
+    "score": 300,
+    "scoreTotal": 1040,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Solo 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Velocity 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Joint Drive Spd": { "sp": 300, "rarity": 5 } }
   },
   "Fjorm - Ice Ascendant": {
     "score": 300,

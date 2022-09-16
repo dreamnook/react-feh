@@ -2456,6 +2456,55 @@
       "exclusive": ["Seliph - Enduring Legacy"],
       "last": true
     },
+    "Crimson Blades": {
+      "id": "Crimson Blades",
+      "name": "朱傭兵的雙劍",
+      "mt": 11,
+      "spd": 5,
+      "def": -5,
+      "res": -5,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Shez - Rising Mercenary"],
+      "last": true
+    },
+    "Warrior's Sword": {
+      "id": "Warrior's Sword",
+      "name": "武人鐵劍",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Holst - Hero of Leicester"],
+      "last": true
+    },
+    "Arcane Éljúðnir": {
+      "id": "Arcane Éljúðnir",
+      "name": "魔器埃琉德尼爾",
+      "mt": 16,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Sword"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Iron Sword": {
       "id": "Iron Sword",
       "name": "鐵劍",
@@ -8064,6 +8113,26 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Fuming Freikugel": {
+      "id": "Fuming Freikugel",
+      "name": "劫火弗萊克葛爾",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Hilda - Helping Hand"],
+      "last": true
+    },
+    "Crimson War-Axe": {
+      "id": "Crimson War-Axe",
+      "name": "朱傭兵的戰斧",
+      "mt": 16,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Shez - Keen Mercenary"],
       "last": true
     },
     "Iron Axe": {
@@ -16522,6 +16591,16 @@
       "sp": 400,
       "prev": ["Shine"],
       "exclusive": ["Deirdre - Fated Saint"],
+      "last": true
+    },
+    "Wind Genesis": {
+      "id": "Wind Genesis",
+      "name": "喚風之根源",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Monica - Favored Vassal"],
       "last": true
     },
     "Thunder": {

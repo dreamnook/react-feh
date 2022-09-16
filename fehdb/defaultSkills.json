@@ -1267,6 +1267,34 @@
       "Fatal Smoke 3": 5
     }
   },
+  "Líf - Arcane Blade": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Arcane Éljúðnir": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4,
+      "Open the Future": 5
+    },
+    "skillA": {
+      "Atk/Def Clash 1": 2,
+      "Atk/Def Clash 2": 3,
+      "Atk/Def Clash 3": 4,
+      "Atk/Def Clash 4": 5
+    },
+    "skillB": {
+      "Deadly Balance": 5
+    },
+    "skillC": {
+      "Threaten Def 1": 2,
+      "Threat. Atk/Def 1": 3,
+      "Threat. Atk/Def 2": 4,
+      "Atk/Def Menace": 5
+    }
+  },
   "Thrasir - Omnicidal Witch": {
     "weapon": {
       "Wind": 1,
@@ -19997,6 +20025,35 @@
       "Even Recovery 3": 5
     }
   },
+  "Hilda - Helping Hand": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 3,
+      "Silver Axe": 4,
+      "Fuming Freikugel": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Atk/Spd Solo 1": 2,
+      "Atk/Spd Solo 2": 3,
+      "Atk/Spd Solo 3": 4,
+      "Atk/Spd Solo 4": 5
+    },
+    "skillB": {
+      "Velocity 1": 1,
+      "Velocity 2": 2,
+      "Velocity 3": 4
+    },
+    "skillC": {
+      "Spur Spd 1": 2,
+      "Drive Spd 1": 3,
+      "Drive Spd 2": 4,
+      "Joint Drive Spd": 5
+    }
+  },
   "Leonie - Relentless Rays": {
     "weapon": {
       "Iron Bow": 1,
@@ -20417,6 +20474,96 @@
       "Savage Blow 1": 3,
       "Savage Blow 2": 4,
       "Savage Blow 3": 5
+    }
+  },
+  "Shez - Rising Mercenary": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Crimson Blades": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4
+    },
+    "skillB": {
+      "Spd/Def Bulwark 1": 1,
+      "Spd/Def Bulwark 2": 2,
+      "Spd/Def Bulwark 3": 4
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Oath 4": 5
+    }
+  },
+  "Shez - Keen Mercenary": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 3,
+      "Silver Axe": 4,
+      "Crimson War-Axe": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Life and Death 1": 3,
+      "Life and Death 2": 4,
+      "Life and Death 3": 5
+    },
+    "skillB": {
+      "Dull Close 1": 1,
+      "Dull Close 2": 2,
+      "Dull Close 3": 4
+    }
+  },
+  "Monica - Favored Vassal": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 4,
+      "Wind Genesis": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Atk/Spd Ideal 4": 5
+    },
+    "skillB": {
+      "Spd/Res Tempo 1": 1,
+      "Spd/Res Tempo 2": 2,
+      "Spd/Res Tempo 3": 4
+    }
+  },
+  "Holst - Hero of Leicester": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Warrior's Sword": 5
+    },
+    "special": {
+      "Rising Light": 4,
+      "Blazing Light": 4
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 3,
+      "Atk/Spd Ideal 2": 4,
+      "Atk/Spd Ideal 3": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 1,
+      "Atk/Spd Oath 2": 2,
+      "Atk/Spd Oath 3": 4
     }
   },
   "Itsuki - Finding a Path": {

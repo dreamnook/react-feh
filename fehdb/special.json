@@ -138,7 +138,11 @@
     "cd": 3,
     "sp": 500,
     "prev": ["Bonfire"],
-    "exclusive": ["Alfonse - Askran Duo", "Líf - Lethal Swordsman"],
+    "exclusive": [
+      "Alfonse - Askran Duo",
+      "Líf - Lethal Swordsman",
+      "Líf - Arcane Blade"
+    ],
     "last": true
   },
   "Imperial Astra": {

@@ -214,7 +214,7 @@
     "id": "Deadly Balance",
     "name": "填補死者的數量",
     "sp": 300,
-    "exclusive": ["Líf - Lethal Swordsman"],
+    "exclusive": ["Líf - Lethal Swordsman", "Líf - Arcane Blade"],
     "last": true,
     "icon": "skillB/Deadly_Balance.png"
   },
@@ -3173,6 +3173,30 @@
     "icon": "skillB/Frenzy_3.png",
     "last": true
   },
+  "Velocity 1": {
+    "id": "Velocity 1",
+    "name": "迴避・節拍1",
+    "sp": 60,
+    "rules": "learner.wielderInfantry",
+    "icon": "skillB/Velocity_1.png"
+  },
+  "Velocity 2": {
+    "id": "Velocity 2",
+    "name": "迴避・節拍2",
+    "sp": 120,
+    "prev": ["Velocity 1"],
+    "rules": "learner.wielderInfantry",
+    "icon": "skillB/Velocity_2.png"
+  },
+  "Velocity 3": {
+    "id": "Velocity 3",
+    "name": "迴避・節拍3",
+    "sp": 240,
+    "prev": ["Velocity 2"],
+    "rules": "learner.wielderInfantry",
+    "icon": "skillB/Velocity_3.png",
+    "last": true
+  },
   "Dragon's Ire 1": {
     "id": "Dragon's Ire 1",
     "name": "龍的逆鱗1",
@@ -3686,6 +3710,30 @@
     "icon": "skillB/Spd_Def_Tempo_3.png",
     "last": true
   },
+  "Spd/Res Tempo 1": {
+    "id": "Spd/Res Tempo 1",
+    "name": "速度魔防節拍1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillB/Spd_Res_Tempo_1.png"
+  },
+  "Spd/Res Tempo 2": {
+    "id": "Spd/Res Tempo 2",
+    "name": "速度魔防節拍2",
+    "sp": 120,
+    "prev": ["Spd/Res Tempo 1"],
+    "rules": "infantry",
+    "icon": "skillB/Spd_Res_Tempo_2.png"
+  },
+  "Spd/Res Tempo 3": {
+    "id": "Spd/Res Tempo 3",
+    "name": "速度魔防節拍3",
+    "sp": 240,
+    "prev": ["Spd/Res Tempo 2"],
+    "rules": "infantry",
+    "icon": "skillB/Spd_Res_Tempo_3.png",
+    "last": true
+  },
   "Atk/Def Bulwark 1": {
     "id": "Atk/Def Bulwark 1",
     "name": "攻擊防守防護屏障1",
@@ -3708,6 +3756,30 @@
     "prev": ["Atk/Def Bulwark 2"],
     "rules": "learner.infantry-melee",
     "icon": "skillB/Atk_Def_Bulwark_3.png",
+    "last": true
+  },
+  "Spd/Def Bulwark 1": {
+    "id": "Spd/Def Bulwark 1",
+    "name": "速度防守防護屏障1",
+    "sp": 60,
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Spd_Def_Bulwark_1.png"
+  },
+  "Spd/Def Bulwark 2": {
+    "id": "Spd/Def Bulwark 2",
+    "name": "速度防守防護屏障2",
+    "sp": 120,
+    "prev": ["Spd/Def Bulwark 1"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Spd_Def_Bulwark_2.png"
+  },
+  "Spd/Def Bulwark 3": {
+    "id": "Spd/Def Bulwark 3",
+    "name": "速度防守防護屏障3",
+    "sp": 240,
+    "prev": ["Spd/Def Bulwark 2"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Spd_Def_Bulwark_3.png",
     "last": true
   },
   "Spd Preempt 1": {

@@ -2002,6 +2002,43 @@
     "book": 5,
     "ver": "5.2"
   },
+  "Líf - Arcane Blade": {
+    "id": "Líf - Arcane Blade",
+    "title": "魔器劍士",
+    "name": "利布",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "releaseDate": "2022-09-16",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [40, 43, 47],
+        "spd": [25, 29, 32],
+        "def": [37, 41, 44],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 7,
+        "def": 8,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def", "res"],
+    "statMin": 180,
+    "statMax": 180,
+    "voice": {
+      "en": "Edward Bosco",
+      "jp": "Maeno Tomoaki (前野智昭)"
+    },
+    "book": 6,
+    "ver": "6.9"
+  },
   "Thrasir - Omnicidal Witch": {
     "id": "Thrasir - Omnicidal Witch",
     "title": "滅絕的魔女",
@@ -33566,7 +33603,7 @@
     "id": "Rinkah - Consuming Flame",
     "title": "平靜的烈火",
     "name": "凜火",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
@@ -33574,12 +33611,26 @@
     "releaseDate": "2022-09-07",
     "appearsIn": ["Fates"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [31, 34, 37],
+        "spd": [36, 39, 43],
+        "def": [39, 42, 46],
+        "res": [19, 22, 25]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [34, 37, 40],
         "spd": [38, 41, 45],
         "def": [41, 44, 48],
         "res": [21, 25, 28]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 11,
+        "def": 14,
+        "res": 2
       },
       "5-1": {
         "hp": 18,
@@ -38712,6 +38763,43 @@
     "book": 5,
     "ver": "5.6"
   },
+  "Hilda - Helping Hand": {
+    "id": "Hilda - Helping Hand",
+    "title": "來祝你一臂之力吧！",
+    "name": "希爾妲",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "releaseDate": "2022-09-16",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [39, 42, 46],
+        "spd": [40, 43, 47],
+        "def": [31, 34, 37],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 13,
+        "def": 8,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["res"],
+    "statMin": 187,
+    "statMax": 190,
+    "voice": {
+      "en": "Celeste Henderson",
+      "jp": "Kuwahara Yuuki (桑原由気)"
+    },
+    "book": 6,
+    "ver": "6.9"
+  },
   "Leonie - Relentless Rays": {
     "id": "Leonie - Relentless Rays",
     "title": "爭強好勝的夏日",
@@ -39652,6 +39740,183 @@
     },
     "book": 4,
     "ver": "4.10"
+  },
+  "Shez - Rising Mercenary": {
+    "id": "Shez - Rising Mercenary",
+    "title": "新銳傭兵",
+    "name": "謝茲",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2022-09-16",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [38, 41, 45],
+        "def": [34, 37, 40],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 11,
+        "def": 9,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 187,
+    "statMax": 190,
+    "voice": {
+      "en": "Damian Haas",
+      "jp": "Tasuku Hatanaka (畠中祐)"
+    },
+    "book": 6,
+    "ver": "6.9"
+  },
+  "Shez - Keen Mercenary": {
+    "id": "Shez - Keen Mercenary",
+    "title": "前途無量的傭兵",
+    "name": "謝茲",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "releaseDate": "2022-09-16",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [38, 41, 45],
+        "spd": [39, 42, 46],
+        "def": [29, 32, 35],
+        "res": [31, 34, 37]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 12,
+        "def": 8,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 187,
+    "statMax": 190,
+    "voice": {
+      "en": "Dawn M. Bennett",
+      "jp": "富田美憂"
+    },
+    "book": 6,
+    "ver": "6.9"
+  },
+  "Monica - Favored Vassal": {
+    "id": "Monica - Favored Vassal",
+    "title": "女帝的頭號家臣",
+    "name": "莫妮卡",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "releaseDate": "2022-09-16",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [35, 38, 42],
+        "spd": [40, 43, 47],
+        "def": [21, 24, 28],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 13,
+        "def": 5,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "spd", "def"],
+    "flaws": ["hp"],
+    "statMin": 176,
+    "statMax": 180,
+    "voice": {
+      "en": "Colleen O'Shaughnessey",
+      "jp": "Kouno Marika (高野麻里佳)"
+    },
+    "book": 6,
+    "ver": "6.9"
+  },
+  "Holst - Hero of Leicester": {
+    "id": "Holst - Hero of Leicester",
+    "title": "雷斯塔的勇者",
+    "name": "荷爾斯特",
+    "rarity": [5, 4, 3],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "pool": "grail",
+    "releaseDate": "2022-09-16",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "3": {
+        "hp": [35, 38, 41],
+        "atk": [35, 38, 41],
+        "spd": [34, 37, 40],
+        "def": [28, 31, 34],
+        "res": [20, 23, 26]
+      },
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [37, 41, 44],
+        "spd": [36, 39, 43],
+        "def": [29, 32, 35],
+        "res": [21, 24, 27]
+      },
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [39, 43, 46],
+        "spd": [38, 41, 45],
+        "def": [32, 35, 38],
+        "res": [23, 26, 30]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 10,
+        "def": 8,
+        "res": 6
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 11,
+        "def": 8,
+        "res": 6
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 11,
+        "def": 9,
+        "res": 7
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["atk"],
+    "statMin": 187,
+    "statMax": 190,
+    "voice": {
+      "en": "SungWon Cho",
+      "jp": "増元拓也"
+    },
+    "book": 6,
+    "ver": "6.9"
   },
   "Itsuki - Finding a Path": {
     "id": "Itsuki - Finding a Path",
