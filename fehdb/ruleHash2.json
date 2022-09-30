@@ -1,0 +1,304 @@
+{
+  "infantry": {
+    "moveType": 1
+  },
+  "armored": {
+    "moveType": 2
+  },
+  "cavalry": {
+    "moveType": 4
+  },
+  "flying": {
+    "moveType": 8
+  },
+  "red-sword": {
+    "weaponType": 1
+  },
+  "blue-lance": {
+    "weaponType": 2
+  },
+  "green-axe": {
+    "weaponType": 4
+  },
+  "white-staff": {
+    "weaponType": 8
+  },
+  "red-bow": {
+    "weaponType": 16
+  },
+  "blue-bow": {
+    "weaponType": 32
+  },
+  "green-bow": {
+    "weaponType": 64
+  },
+  "white-bow": {
+    "weaponType": 128
+  },
+  "red-dagger": {
+    "weaponType": 256
+  },
+  "blue-dagger": {
+    "weaponType": 256
+  },
+  "green-dagger": {
+    "weaponType": 1024
+  },
+  "white-dagger": {
+    "weaponType": 2048
+  },
+  "red-tome": {
+    "weaponType": 4096
+  },
+  "blue-tome": {
+    "weaponType": 8192
+  },
+  "green-tome": {
+    "weaponType": 16384
+  },
+  "white-tome": {
+    "weaponType": 32768
+  },
+  "red-dragon": {
+    "weaponType": 65536
+  },
+  "blue-dragon": {
+    "weaponType": 131072
+  },
+  "green-dragon": {
+    "weaponType": 262144
+  },
+  "white-dragon": {
+    "weaponType": 524288
+  },
+  "red-beast": {
+    "weaponType": 1048576
+  },
+  "blue-beast": {
+    "weaponType": 2097152
+  },
+  "green-beast": {
+    "weaponType": 4194304
+  },
+  "white-beast": {
+    "weaponType": 8388608
+  },
+  "bow": {
+    "weaponType": 240
+  },
+  "dagger": {
+    "weaponType": 3328
+  },
+  "tome": {
+    "weaponType": 61440
+  },
+  "dragon": {
+    "weaponType": 983040
+  },
+  "beast": {
+    "weaponType": 15728640
+  },
+  "melee": {
+    "weaponType": 16711687
+  },
+  "ranged": {
+    "weaponType": 65528
+  },
+  "red": {
+    "colorType": 1
+  },
+  "blue": {
+    "colorType": 2
+  },
+  "green": {
+    "colorType": 4
+  },
+  "white": {
+    "colorType": 8
+  },
+  "not.flying": {
+    "moveType": 7
+  },
+  "not.white-staff": {
+    "weaponType": 16777207
+  },
+  "not.red": {
+    "colorType": 14
+  },
+  "not.blue": {
+    "colorType": 13
+  },
+  "not.green": {
+    "colorType": 11
+  },
+  "not.white": {
+    "colorType": 7
+  },
+  "learner.wielder": {
+    "weaponType": 7
+  },
+  "learner.wielderInfantry": {
+    "moveType": 1,
+    "weaponType": 7
+  },
+  "learner.wielderArmor": {
+    "moveType": 2,
+    "weaponType": 7
+  },
+  "learner.wielderCavalry": {
+    "moveType": 4,
+    "weaponType": 7
+  },
+  "learner.wielderFlying": {
+    "moveType": 8,
+    "weaponType": 7
+  },
+  "learner.flow-refresh": {
+    "weaponType": 7,
+    "moveType": 12
+  },
+  "learner.infantry-melee": {
+    "weaponType": 16711687,
+    "moveType": 1
+  },
+  "learner.flying-melee": {
+    "weaponType": 16711687,
+    "moveType": 8
+  },
+  "learner.impact-skills": {
+    "weaponType": 16777207,
+    "moveType": 9
+  },
+  "learner.breath": {
+    "weaponType": 16711687,
+    "moveType": 3,
+    "colorType": 15
+  },
+  "learner.triangleAdept": {
+    "colorType": 7
+  },
+  "learner.flashingBlade": {
+    "weaponType": 16777207,
+    "moveType": 3
+  },
+  "learner.r-duel-infantry": {
+    "moveType": 1,
+    "colorType": 1
+  },
+  "learner.r-duel-cavalry": {
+    "moveType": 4,
+    "colorType": 1
+  },
+  "learner.r-duel-flying": {
+    "moveType": 8,
+    "colorType": 1
+  },
+  "learner.b-duel-infantry": {
+    "moveType": 1,
+    "colorType": 2
+  },
+  "learner.b-duel-cavalry": {
+    "moveType": 4,
+    "colorType": 2
+  },
+  "learner.b-duel-flying": {
+    "moveType": 8,
+    "colorType": 2
+  },
+  "learner.g-duel-infantry": {
+    "moveType": 1,
+    "colorType": 4
+  },
+  "learner.g-duel-cavalry": {
+    "moveType": 4,
+    "colorType": 4
+  },
+  "learner.g-duel-flying": {
+    "moveType": 8,
+    "colorType": 4
+  },
+  "learner.c-duel-infantry": {
+    "moveType": 1,
+    "colorType": 8
+  },
+  "learner.c-duel-cavalry": {
+    "moveType": 4,
+    "colorType": 8
+  },
+  "learner.c-duel-flying": {
+    "moveType": 8,
+    "colorType": 8
+  },
+  "learner.sorcery-blade": {
+    "moveType": 1,
+    "weaponType": 15732727
+  },
+  "learner.catch": {
+    "moveType": 12
+  },
+  "learner.ideal": {
+    "moveType": 3
+  },
+  "learner.wrath": {
+    "weaponType": 16711687,
+    "moveType": 3
+  },
+  "learner.cancelAffinity": {
+    "weaponType": 16713863
+  },
+  "learner.specialSpiral": {
+    "weaponType": 16777207,
+    "moveType": 3
+  },
+  "learner.ruse-skills": {
+    "weaponType": 16777207,
+    "moveType": 5
+  },
+  "learner.lull-skills": {
+    "moveType": 5
+  },
+  "learner.pulse-tie": {
+    "moveType": 5
+  },
+  "learner.snag-skills": {
+    "weaponType": 16777207,
+    "moveType": 12
+  },
+  "learner.near-trace": {
+    "weaponType": 16711687,
+    "moveType": 12
+  },
+  "learner.far-trace": {
+    "weaponType": 65528,
+    "moveType": 12
+  },
+  "learner.oath-skills": {
+    "moveType": 9
+  },
+  "learner.rouse-skills": {
+    "moveType": 5
+  },
+  "learner.inf-hexblade": {
+    "moveType": 1,
+    "weaponType": 61440
+  },
+  "learner.armored-stride": {
+    "moveType": 2,
+    "weaponType": 15728647
+  },
+  "learner.tempest": {
+    "weaponType": 16711687,
+    "moveType": 9
+  },
+  "learner.galeforce": {
+    "weaponType": 15728647
+  },
+  "learner.ruptured-sky": {
+    "moveType": 15,
+    "weaponType": 65527
+  },
+  "learner.clash": {
+    "moveType": 13,
+    "weaponType": 16711687
+  }
+}
