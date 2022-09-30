@@ -9914,6 +9914,34 @@
       "Cross Spur Atk": 5
     }
   },
+  "Ninian - Ice-Dragon Oracle": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Faithful Breath": 5
+    },
+    "assist": {
+      "Dance": 3,
+      "Dragon's Dance": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "S/R Near Trace 1": 1,
+      "S/R Near Trace 2": 2,
+      "S/R Near Trace 3": 4
+    },
+    "skillC": {
+      "Blue Feud 1": 3,
+      "Blue Feud 2": 4,
+      "Blue Feud 3": 5
+    }
+  },
   "Nils - Bright Bard": {
     "weapon": {
       "Fire Breath": 1,

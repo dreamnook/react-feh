@@ -5698,6 +5698,19 @@
     "skillB": { "Sabotage Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ninian - Ice-Dragon Oracle": {
+    "score": 276,
+    "scoreTotal": 718,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 780,
+    "feather": 1000,
+    "bst": 190,
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Near Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Blue Feud 3": { "sp": 240, "rarity": 5 } }
+  },
   "Olivia - Sky-High Dancer": {
     "score": 240,
     "scoreTotal": 720,

@@ -19160,6 +19160,47 @@
     "book": 6,
     "ver": "6.5"
   },
+  "Ninian - Ice-Dragon Oracle": {
+    "id": "Ninian - Ice-Dragon Oracle",
+    "title": "冰龍的巫女",
+    "name": "尼尼安",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-dragon",
+    "bst": 190,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "water-res-2",
+    "releaseDate": "2022-09-29",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [41, 44, 47],
+        "atk": [34, 37, 41],
+        "spd": [37, 41, 44],
+        "def": [19, 22, 25],
+        "res": [21, 24, 27]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 7,
+        "spd": 8,
+        "def": 5,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd"],
+    "statMin": 168,
+    "statMax": 170,
+    "voice": {
+      "en": "Brianna Knickerbocker",
+      "jp": "Suzaki Aya (洲崎綾)"
+    },
+    "book": 6,
+    "ver": "6.9"
+  },
   "Nils - Bright Bard": {
     "id": "Nils - Bright Bard",
     "title": "爽朗的笛音",
@@ -39810,7 +39851,7 @@
     "statMax": 190,
     "voice": {
       "en": "Dawn M. Bennett",
-      "jp": "富田美憂"
+      "jp": "Miyu Tomita (富田美憂)"
     },
     "book": 6,
     "ver": "6.9"
@@ -39861,7 +39902,7 @@
     "moveType": "infantry",
     "weaponType": "red-sword",
     "pool": "grail",
-    "releaseDate": "2022-09-16",
+    "releaseDate": "2022-09-17",
     "appearsIn": ["Three Houses"],
     "stats": {
       "3": {

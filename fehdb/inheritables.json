@@ -6761,7 +6761,11 @@
           ]
         },
         "legendary": {
-          "5": ["Xander - Gallant King", "Claude - King of Unification"]
+          "5": [
+            "Ninian - Ice-Dragon Oracle",
+            "Xander - Gallant King",
+            "Claude - King of Unification"
+          ]
         },
         "duo": { "5": ["Nina - Shadowy Figures"] }
       },
@@ -6794,7 +6798,11 @@
           ]
         },
         "legendary": {
-          "5": ["Xander - Gallant King", "Claude - King of Unification"]
+          "5": [
+            "Ninian - Ice-Dragon Oracle",
+            "Xander - Gallant King",
+            "Claude - King of Unification"
+          ]
         },
         "duo": { "5": ["Nina - Shadowy Figures"] }
       },
@@ -8893,7 +8901,10 @@
       "icon": "skillB/S_D_Near_Trace_3.png"
     },
     "S/R Near Trace 3": {
-      "pool": { "special": { "5": ["Nifl - Tropical Ice God"] } },
+      "pool": {
+        "special": { "5": ["Nifl - Tropical Ice God"] },
+        "legendary": { "5": ["Ninian - Ice-Dragon Oracle"] }
+      },
       "id": "S/R Near Trace 3",
       "name": "速度魔防近影3",
       "sp": 240,
@@ -11291,7 +11302,8 @@
     "Blue Feud 3": {
       "pool": {
         "#": { "5": ["Tine - Rumbling Thunder"] },
-        "special": { "5": ["Cath - Caper Captain"] }
+        "special": { "5": ["Cath - Caper Captain"] },
+        "legendary": { "5": ["Ninian - Ice-Dragon Oracle"] }
       },
       "id": "Blue Feud 3",
       "name": "對青的暗鬥3",

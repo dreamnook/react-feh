@@ -115,7 +115,8 @@
       "Dorothea - Twilit Harmony",
       "Mirabilis - Sugarplum Vision",
       "Ninian - Frozen Heart",
-      "Larum - Dancing Bride"
+      "Larum - Dancing Bride",
+      "Ninian - Ice-Dragon Oracle"
     ],
     "last": true
   },
@@ -196,6 +197,14 @@
     "sp": 500,
     "prev": ["Reposition"],
     "exclusive": ["Chrom - Fated Honor"],
+    "last": true
+  },
+  "Dragon's Dance": {
+    "id": "Dragon's Dance",
+    "name": "繼承尊貴龍血之女",
+    "sp": 400,
+    "prev": ["Dance"],
+    "exclusive": ["Ninian - Ice-Dragon Oracle"],
     "last": true
   },
   "Heal": {

@@ -20858,6 +20858,16 @@
       "exclusive": ["Múspell - Raging Inferno"],
       "last": true
     },
+    "Faithful Breath": {
+      "id": "Faithful Breath",
+      "name": "神舞吐息",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Ninian - Ice-Dragon Oracle"],
+      "last": true
+    },
     "Fire Breath": {
       "id": "Fire Breath",
       "name": "火之吐息",
