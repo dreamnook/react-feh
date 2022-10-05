@@ -9896,7 +9896,8 @@
       "refine": {
         "effect": {
           "name": "特效",
-          "icon": "Deep-Blue_Bow_W"
+          "icon": "Deep-Blue_Bow_W",
+          "cd": -1
         },
         "atk": {
           "hp": 2,
