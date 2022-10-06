@@ -2357,6 +2357,30 @@
       "icon": "skillB/Res_Feint_3.png",
       "last": true
     },
+    "Null Follow-Up 1": {
+      "id": "Null Follow-Up 1",
+      "name": "識破・追擊效果1",
+      "sp": 60,
+      "rules": "infantry",
+      "icon": "skillB/Null_Follow_Up_1.png"
+    },
+    "Null Follow-Up 2": {
+      "id": "Null Follow-Up 2",
+      "name": "識破・追擊效果2",
+      "sp": 120,
+      "prev": ["Null Follow-Up 1"],
+      "rules": "infantry",
+      "icon": "skillB/Null_Follow_Up_2.png"
+    },
+    "Null Follow-Up 3": {
+      "id": "Null Follow-Up 3",
+      "name": "識破・追擊效果3",
+      "sp": 240,
+      "prev": ["Null Follow-Up 2"],
+      "rules": "infantry",
+      "icon": "skillB/Null_Follow_Up_3.png",
+      "last": true
+    },
     "Mystic Boost 1": {
       "id": "Mystic Boost 1",
       "name": "生命護符1",
@@ -3290,6 +3314,27 @@
       "prev": ["Ground Orders 2"],
       "rules": "flying",
       "icon": "skillC/Ground_Orders_3.png",
+      "last": true
+    },
+    "Odd Spd Wave 1": {
+      "id": "Odd Spd Wave 1",
+      "name": "速度之波・奇數1",
+      "sp": 60,
+      "icon": "skillC/Odd_Spd_Wave_1.png"
+    },
+    "Odd Spd Wave 2": {
+      "id": "Odd Spd Wave 2",
+      "name": "速度之波・奇數2",
+      "sp": 120,
+      "prev": ["Odd Spd Wave 1"],
+      "icon": "skillC/Odd_Spd_Wave_2.png"
+    },
+    "Odd Spd Wave 3": {
+      "id": "Odd Spd Wave 3",
+      "name": "速度之波・奇數3",
+      "sp": 240,
+      "prev": ["Odd Spd Wave 2"],
+      "icon": "skillC/Odd_Spd_Wave_3.png",
       "last": true
     },
     "Odd Def Wave 1": {
