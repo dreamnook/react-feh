@@ -3221,6 +3221,15 @@
     "icon": "skillB/Dragon's_Ire_3.png",
     "last": true
   },
+  "Dragon's Ire 4": {
+    "id": "Dragon's Ire 4",
+    "name": "龍的逆鱗4",
+    "sp": 300,
+    "prev": ["Dragon's Ire 3"],
+    "rules": "dragon",
+    "icon": "skillB/Dragon's_Ire_4.png",
+    "last": true
+  },
   "Dragon Wall 1": {
     "id": "Dragon Wall 1",
     "name": "龍鱗防護障壁1",

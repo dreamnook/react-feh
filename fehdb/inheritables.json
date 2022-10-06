@@ -2298,6 +2298,20 @@
         "name": "提燈的龍石+",
         "sp": 300,
         "refine": 350
+      },
+      "Surprise Breath+": {
+        "pool": { "special": { "5": ["Nils - Wandering Star"] } },
+        "id": "Surprise Breath+",
+        "name": "一驚吐息+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Serenity Breath+": {
+        "pool": { "special": { "5": ["Naga - Harvest Divinity"] } },
+        "id": "Serenity Breath+",
+        "name": "幽靜吐息+",
+        "sp": 300,
+        "refine": 350
       }
     }
   },
@@ -2875,7 +2889,10 @@
             "Ophelia - Dramatic Heroine"
           ]
         },
-        "special": { "5": ["Pent - Fancy Fiancé", "Elise - Bubbling Flower"] }
+        "special": {
+          "4": ["Naga - Harvest Divinity"],
+          "5": ["Pent - Fancy Fiancé", "Elise - Bubbling Flower"]
+        }
       },
       "id": "Rally Up Atk",
       "name": "攻擊大支援",
@@ -2891,7 +2908,13 @@
             "Ophelia - Dramatic Heroine"
           ]
         },
-        "special": { "5": ["Pent - Fancy Fiancé", "Elise - Bubbling Flower"] }
+        "special": {
+          "5": [
+            "Pent - Fancy Fiancé",
+            "Naga - Harvest Divinity",
+            "Elise - Bubbling Flower"
+          ]
+        }
       },
       "id": "Rally Up Atk+",
       "name": "攻擊大支援+",
@@ -3126,6 +3149,7 @@
             "Micaiah - Wavecrest Maiden",
             "Nailah - Blessed Queen",
             "Severa - Bitter Blossom",
+            "Corrin - Celestial Sorcerer",
             "Takumi - Prince of Soup",
             "Bernadetta - Frosty Shut-In",
             "Ashe - Fabled Sea Knight",
@@ -3365,7 +3389,13 @@
             "Monica - Favored Vassal"
           ]
         },
-        "duo": { "5": ["Líf - Undying Ties Duo", "Chrom - Fate-Defying Duo"] },
+        "duo": {
+          "5": [
+            "Líf - Undying Ties Duo",
+            "Duma - Strength and Love",
+            "Chrom - Fate-Defying Duo"
+          ]
+        },
         "grail": {
           "4": [
             "Clarisse - Sniper in the Dark",
@@ -3622,7 +3652,8 @@
           "5": [
             "Ephraim - Sparkling Gallantly",
             "Mia - Budding Blade",
-            "Corrin - Novice Vacationer"
+            "Corrin - Novice Vacationer",
+            "Corrin - Starry Seer"
           ]
         }
       },
@@ -5475,12 +5506,17 @@
             "Caeda - Princess of Talys",
             "Hector - Just Here to Fight",
             "Ike - Stalwart Heart",
+            "Corrin - Celestial Sorcerer",
             "Velouria - Renewed Wolfpup",
             "Sothis - Silver Specter"
           ]
         },
         "duo": {
-          "5": ["Hector - Dressed-Up Duo", "Ike - Close-Knit Siblings"]
+          "5": [
+            "Duma - Strength and Love",
+            "Hector - Dressed-Up Duo",
+            "Ike - Close-Knit Siblings"
+          ]
         },
         "harmonized": { "5": ["Myrrh - Spring Harmony"] }
       },
@@ -5503,6 +5539,13 @@
       "sp": 300,
       "icon": "skillA/Distant_Pressure.png"
     },
+    "Distant Ferocity": {
+      "pool": { "duo": { "5": ["Duma - Strength and Love"] } },
+      "id": "Distant Ferocity",
+      "name": "遠反・鬼神架勢",
+      "sp": 300,
+      "icon": "skillA/Distant_Ferocity.png"
+    },
     "Distant Dart": {
       "pool": { "duo": { "5": ["Ike - Close-Knit Siblings"] } },
       "id": "Distant Dart",
@@ -5511,7 +5554,10 @@
       "icon": "skillA/Distant_Dart.png"
     },
     "Distant Stance": {
-      "pool": { "legendary": { "5": ["Fae - Childlike Dragon"] } },
+      "pool": {
+        "legendary": { "5": ["Fae - Childlike Dragon"] },
+        "special": { "5": ["Corrin - Celestial Sorcerer"] }
+      },
       "id": "Distant Stance",
       "name": "遠反・明鏡架勢",
       "sp": 300,
@@ -6839,7 +6885,10 @@
     "Atk/Res Catch 3": {
       "pool": {
         "#": { "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"] },
-        "special": { "5": ["Micaiah - Wavecrest Maiden"] }
+        "special": {
+          "4": ["Naga - Harvest Divinity"],
+          "5": ["Micaiah - Wavecrest Maiden"]
+        }
       },
       "id": "Atk/Res Catch 3",
       "name": "攻擊魔防的先機3",
@@ -7056,6 +7105,20 @@
       "name": "攻擊防守的激戰4",
       "sp": 300,
       "icon": "skillA/Atk_Def_Clash_4.png"
+    },
+    "Atk/Spd Finish 3": {
+      "pool": { "special": { "5": ["Corrin - Starry Seer"] } },
+      "id": "Atk/Spd Finish 3",
+      "name": "攻擊速度的奧秘3",
+      "sp": 240,
+      "icon": "skillA/Atk_Spd_Finish_3.png"
+    },
+    "Atk/Spd Finish 4": {
+      "pool": { "special": { "5": ["Corrin - Starry Seer"] } },
+      "id": "Atk/Spd Finish 4",
+      "name": "攻擊速度的奧秘4",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Finish_4.png"
     },
     "Atk/Res Finish 3": {
       "pool": { "#": { "5": ["Tiki - Fated Divinity"] } },
@@ -8270,7 +8333,10 @@
     "Geyser Dance 2": {
       "pool": {
         "#": { "5": ["Phina - Roving Dancer"] },
-        "special": { "5": ["Shigure - Dark Sky Singer"] }
+        "special": {
+          "4": ["Nils - Wandering Star"],
+          "5": ["Shigure - Dark Sky Singer"]
+        }
       },
       "id": "Geyser Dance 2",
       "name": "大地靜水之舞2",
@@ -8811,16 +8877,26 @@
       "pool": {
         "legendary": { "5": ["Fae - Childlike Dragon"] },
         "harmonized": { "5": ["Myrrh - Spring Harmony"] },
-        "special": { "5": ["Robin - Fall Vessel"] }
+        "special": {
+          "5": ["Robin - Fall Vessel", "Corrin - Celestial Sorcerer"]
+        }
       },
       "id": "Dragon's Ire 3",
       "name": "龍的逆鱗3",
       "sp": 240,
       "icon": "skillB/Dragon's_Ire_3.png"
     },
+    "Dragon's Ire 4": {
+      "pool": { "special": { "5": ["Corrin - Celestial Sorcerer"] } },
+      "id": "Dragon's Ire 4",
+      "name": "龍的逆鱗4",
+      "sp": 300,
+      "icon": "skillB/Dragon's_Ire_4.png"
+    },
     "Dragon Wall 3": {
       "pool": {
         "#": { "5": ["Múspell - Flame God"] },
+        "duo": { "5": ["Duma - Strength and Love"] },
         "legendary": { "5": ["Myrrh - Guardian Dragon"] },
         "mythic": { "5": ["Seiros - Saint of Legend"] },
         "special": { "5": ["Rhea - Witch of Creation"] }
@@ -8832,7 +8908,9 @@
     },
     "Dragon's Wrath 3": {
       "pool": {
-        "special": { "5": ["Múspell - Raging Inferno"] },
+        "special": {
+          "5": ["Múspell - Raging Inferno", "Corrin - Starry Seer"]
+        },
         "duo": { "5": ["Sothis - Bound-Spirit Duo"] }
       },
       "id": "Dragon's Wrath 3",
@@ -8841,7 +8919,9 @@
       "icon": "skillB/Dragon's_Wrath_3.png"
     },
     "Dragon's Wrath 4": {
-      "pool": { "special": { "5": ["Múspell - Raging Inferno"] } },
+      "pool": {
+        "special": { "5": ["Múspell - Raging Inferno", "Corrin - Starry Seer"] }
+      },
       "id": "Dragon's Wrath 4",
       "name": "龍之魔鱗4",
       "sp": 300,
@@ -9261,7 +9341,7 @@
             "Seteth - Seiros Adherent"
           ]
         },
-        "special": { "5": ["Larcei - Scion of Astra"] }
+        "special": { "5": ["Larcei - Scion of Astra", "Corrin - Starry Seer"] }
       },
       "id": "Drive Atk 2",
       "name": "攻擊大紋章2",
@@ -9345,7 +9425,7 @@
           ]
         },
         "#": { "5": ["Kris - Unknown Hero", "Lilith - Astral Daughter"] },
-        "special": { "5": ["Larcei - Scion of Astra"] },
+        "special": { "5": ["Larcei - Scion of Astra", "Corrin - Starry Seer"] },
         "legendary": { "5": ["Corrin - Child of Dusk"] }
       },
       "id": "Joint Drive Atk",
@@ -9611,7 +9691,11 @@
         "mythic": { "5": ["Plumeria - Lewd Dream"] },
         "legendary": { "5": ["Eitri - Youthful Sage"] },
         "special": {
-          "5": ["Katarina - Torchlit Wanderer", "Sophia - Prescient Bride"]
+          "5": [
+            "Katarina - Torchlit Wanderer",
+            "Sophia - Prescient Bride",
+            "Naga - Harvest Divinity"
+          ]
         },
         "#": { "5": ["Palla - Kind Eldest Sister"] },
         "harmonized": { "5": ["Myrrh - Spring Harmony"] }
@@ -9941,6 +10025,7 @@
     },
     "Hone Dragons": {
       "pool": {
+        "special": { "5": ["Nils - Wandering Star"] },
         "#": { "5": ["Myrrh - Great Dragon", "Corrin - Dream Prince"] }
       },
       "id": "Hone Dragons",

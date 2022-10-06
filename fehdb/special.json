@@ -186,7 +186,7 @@
     "name": "反龍穿",
     "sp": 500,
     "prev": ["Dragon Fang"],
-    "exclusive": ["Corrin - Child of Dusk"],
+    "exclusive": ["Corrin - Child of Dusk", "Corrin - Starry Seer"],
     "last": true
   },
   "Seiðr Shell": {

@@ -1138,6 +1138,18 @@
     "skillB": { "Firestorm Dance 2": { "sp": 240, "rarity": 4 } },
     "skillC": { "Ward Beasts": { "sp": 200, "rarity": 5 } }
   },
+  "Nils - Wandering Star": {
+    "score": 196,
+    "scoreTotal": 260,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 440,
+    "feather": 300,
+    "bst": 176,
+    "skillB": { "Geyser Dance 2": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Hone Dragons": { "sp": 200, "rarity": 5 } }
+  },
   "Athena - Borderland Sword": {
     "score": 166,
     "scoreTotal": 262,
@@ -2126,6 +2138,19 @@
     "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Naga - Harvest Divinity": {
+    "score": 196,
+    "scoreTotal": 400,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 300,
+    "bst": 183,
+    "assist": { "Rally Up Atk+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Res Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Sanaki - Begnion's Apostle": {
     "score": 200,
@@ -7238,6 +7263,19 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
   },
+  "Duma - Strength and Love": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Ferocity": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
+  },
   "Tharja - 'Normal Girl'": {
     "score": 318,
     "scoreTotal": 784,
@@ -7774,6 +7812,19 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Def Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Wrath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Corrin - Celestial Sorcerer": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 192,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dragon's Ire 4": { "sp": 300, "rarity": 5 } }
   },
   "Itsuki - Finding a Path": {
     "score": 299,
@@ -10498,6 +10549,20 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Chill Atk 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Fliers": { "sp": 200, "rarity": 5 } }
+  },
+  "Corrin - Starry Seer": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dragon's Wrath 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
   },
   "Ophelia - Dramatic Heroine": {
     "score": 400,

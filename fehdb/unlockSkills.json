@@ -5155,6 +5155,30 @@
       "Upheaval+": 5
     }
   },
+  "Duma - Strength and Love": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Ghostly Lanterns": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "Distant Ferocity": 5
+    },
+    "skillB": {
+      "Dragon Wall 1": 1,
+      "Dragon Wall 2": 2,
+      "Dragon Wall 3": 4
+    },
+    "skillC": {
+      "Woeful Upheaval": 5
+    }
+  },
   "Mila - Goddess of Love": {
     "weapon": {
       "Fire Breath": 1,
@@ -9966,6 +9990,27 @@
       "Infantry Pulse 1": 3,
       "Infantry Pulse 2": 4,
       "Infantry Pulse 3": 5
+    }
+  },
+  "Nils - Wandering Star": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Surprise Breath": 3,
+      "Surprise Breath+": 5
+    },
+    "assist": {
+      "Play": 3
+    },
+    "skillB": {
+      "Torrent Dance 1": 1,
+      "Geyser Dance 1": 2,
+      "Geyser Dance 2": 4
+    },
+    "skillC": {
+      "Hone Spd 1": 3,
+      "Hone Spd 2": 4,
+      "Hone Dragons": 5
     }
   },
   "Limstella - Living Construct": {
@@ -15892,6 +15937,29 @@
       "Divine Fang+": 5
     }
   },
+  "Naga - Harvest Divinity": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Serenity Breath": 3,
+      "Serenity Breath+": 5
+    },
+    "assist": {
+      "Rally Attack": 3,
+      "Rally Up Atk": 4,
+      "Rally Up Atk+": 5
+    },
+    "skillA": {
+      "Atk/Res Catch 1": 1,
+      "Atk/Res Catch 2": 2,
+      "Atk/Res Catch 3": 4
+    },
+    "skillC": {
+      "Atk/Res Rein 1": 3,
+      "Atk/Res Rein 2": 4,
+      "Atk/Res Rein 3": 5
+    }
+  },
   "Corrin - Fateful Prince": {
     "weapon": {
       "Iron Sword": 1,
@@ -16011,6 +16079,28 @@
       "Special Spiral 1": 3,
       "Special Spiral 2": 4,
       "Special Spiral 3": 5
+    }
+  },
+  "Corrin - Celestial Sorcerer": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Starlight Stone": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "Distant Stance": 5
+    },
+    "skillB": {
+      "Dragon's Ire 1": 2,
+      "Dragon's Ire 2": 3,
+      "Dragon's Ire 3": 4,
+      "Dragon's Ire 4": 5
     }
   },
   "Corrin - Fateful Princess": {
@@ -16156,6 +16246,37 @@
       "S/R Far Trace 1": 1,
       "S/R Far Trace 2": 2,
       "S/R Far Trace 3": 4
+    },
+    "skillC": {
+      "Spur Atk 1": 2,
+      "Drive Atk 1": 3,
+      "Drive Atk 2": 4,
+      "Joint Drive Atk": 5
+    }
+  },
+  "Corrin - Starry Seer": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Moonlight Stone": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4,
+      "Negating Fang": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Dragon's Wrath 1": 2,
+      "Dragon's Wrath 2": 3,
+      "Dragon's Wrath 3": 4,
+      "Dragon's Wrath 4": 5
     },
     "skillC": {
       "Spur Atk 1": 2,

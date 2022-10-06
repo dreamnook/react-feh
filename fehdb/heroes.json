@@ -9735,6 +9735,45 @@
     "book": 3,
     "ver": "3.1"
   },
+  "Duma - Strength and Love": {
+    "id": "Duma - Strength and Love",
+    "title": "力與愛的雙龍神",
+    "name": "多瑪",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "armored",
+    "weaponType": "red-dragon",
+    "bst": 200,
+    "pool": "duo",
+    "releaseDate": "2022-10-06",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "5": {
+        "hp": [44, 47, 50],
+        "atk": [42, 46, 49],
+        "spd": [16, 19, 22],
+        "def": [37, 40, 44],
+        "res": [40, 43, 47]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 4,
+        "def": 10,
+        "res": 13
+      }
+    },
+    "assets": ["def", "res"],
+    "flaws": ["atk"],
+    "statMin": 195,
+    "statMax": 195,
+    "voice": {
+      "en": "Josh Petersdorf + Monica Rial",
+      "jp": "Ginga Banjou (銀河万丈) with Sakakibara Yoshiko (榊原良子)"
+    },
+    "book": 6,
+    "ver": "6.10"
+  },
   "Mila - Goddess of Love": {
     "id": "Mila - Goddess of Love",
     "title": "愛之女神",
@@ -19237,6 +19276,58 @@
     },
     "book": 4,
     "ver": "4.2"
+  },
+  "Nils - Wandering Star": {
+    "id": "Nils - Wandering Star",
+    "title": "永遠的星之旅人",
+    "name": "尼爾斯",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-dragon",
+    "pool": "special",
+    "releaseDate": "2022-10-06",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "4": {
+        "hp": [38, 41, 44],
+        "atk": [29, 32, 35],
+        "spd": [36, 39, 43],
+        "def": [16, 19, 22],
+        "res": [30, 33, 36]
+      },
+      "5": {
+        "hp": [41, 44, 47],
+        "atk": [32, 35, 38],
+        "spd": [38, 41, 45],
+        "def": [18, 21, 24],
+        "res": [32, 35, 38]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 6,
+        "spd": 11,
+        "def": 3,
+        "res": 9
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 7,
+        "spd": 11,
+        "def": 4,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": [],
+    "statMin": 176,
+    "statMax": 180,
+    "voice": {
+      "en": "Khoi Dao",
+      "jp": "Sakura Ayane (佐倉綾音)"
+    },
+    "book": 6,
+    "ver": "6.10"
   },
   "Limstella - Living Construct": {
     "id": "Limstella - Living Construct",
@@ -30986,6 +31077,58 @@
     "book": 3,
     "ver": "3.5"
   },
+  "Naga - Harvest Divinity": {
+    "id": "Naga - Harvest Divinity",
+    "title": "歌頌收穫的神龍王",
+    "name": "那迦",
+    "rarity": [5, 4],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-dragon",
+    "pool": "special",
+    "releaseDate": "2022-10-06",
+    "appearsIn": ["Shadow Dragon / (New) Mystery", "Awakening"],
+    "stats": {
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [37, 40, 44],
+        "spd": [25, 28, 31],
+        "def": [30, 33, 36],
+        "res": [31, 34, 37]
+      },
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [39, 42, 46],
+        "spd": [28, 31, 34],
+        "def": [32, 35, 38],
+        "res": [34, 37, 40]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 12,
+        "spd": 6,
+        "def": 9,
+        "res": 8
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 7,
+        "def": 9,
+        "res": 9
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 183,
+    "statMax": 185,
+    "voice": {
+      "en": "Mela Lee",
+      "jp": "Satou Satomi (佐藤聡美)"
+    },
+    "book": 6,
+    "ver": "6.10"
+  },
   "Corrin - Fateful Prince": {
     "id": "Corrin - Fateful Prince",
     "title": "選擇未來的王子",
@@ -31228,6 +31371,44 @@
     },
     "book": 5,
     "ver": "5.11"
+  },
+  "Corrin - Celestial Sorcerer": {
+    "id": "Corrin - Celestial Sorcerer",
+    "title": "星夜的預言家",
+    "name": "神威",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-dragon",
+    "pool": "special",
+    "releaseDate": "2022-10-06",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [41, 44, 47],
+        "atk": [41, 44, 47],
+        "spd": [18, 21, 24],
+        "def": [41, 44, 47],
+        "res": [36, 39, 43]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 4,
+        "def": 7,
+        "res": 9
+      }
+    },
+    "assets": ["res"],
+    "flaws": [],
+    "statMin": 192,
+    "statMax": 195,
+    "voice": {
+      "en": "Cam Clarke",
+      "jp": "Shimazaki Nobunaga (島﨑信長)"
+    },
+    "book": 6,
+    "ver": "6.10"
   },
   "Corrin - Fateful Princess": {
     "id": "Corrin - Fateful Princess",
@@ -31485,6 +31666,44 @@
     },
     "book": 5,
     "ver": "5.11"
+  },
+  "Corrin - Starry Seer": {
+    "id": "Corrin - Starry Seer",
+    "title": "夜之星空的魔女",
+    "name": "神威",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-dragon",
+    "pool": "special",
+    "releaseDate": "2022-10-06",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [37, 40, 43],
+        "atk": [39, 42, 46],
+        "spd": [41, 45, 48],
+        "def": [32, 36, 39],
+        "res": [27, 30, 33]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 12,
+        "def": 3,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd", "def"],
+    "statMin": 193,
+    "statMax": 195,
+    "voice": {
+      "en": "Marcella Lentz-Pope",
+      "jp": "Satou Satomi (佐藤聡美)"
+    },
+    "book": 6,
+    "ver": "6.10"
   },
   "Azura - Lady of the Lake": {
     "id": "Azura - Lady of the Lake",

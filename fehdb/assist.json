@@ -144,7 +144,7 @@
     "name": "奏樂",
     "sp": 150,
     "range": 1,
-    "exclusive": ["Nils - Bright Bard"],
+    "exclusive": ["Nils - Bright Bard", "Nils - Wandering Star"],
     "last": true
   },
   "Sweet Dreams": {

@@ -1461,6 +1461,14 @@
     "last": true,
     "icon": "skillA/Distant_Pressure.png"
   },
+  "Distant Ferocity": {
+    "id": "Distant Ferocity",
+    "name": "遠反・鬼神架勢",
+    "sp": 300,
+    "prev": ["Distant Counter"],
+    "last": true,
+    "icon": "skillA/Distant_Ferocity.png"
+  },
   "Distant Dart": {
     "id": "Distant Dart",
     "name": "遠反・飛燕架勢",
@@ -3634,6 +3642,39 @@
     "prev": ["Atk/Def Clash 3"],
     "rules": "learner.clash",
     "icon": "skillA/Atk_Def_Clash_4.png",
+    "last": true
+  },
+  "Atk/Spd Finish 1": {
+    "id": "Atk/Spd Finish 1",
+    "name": "攻擊速度的奧秘1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillA/Atk_Spd_Finish_1.png"
+  },
+  "Atk/Spd Finish 2": {
+    "id": "Atk/Spd Finish 2",
+    "name": "攻擊速度的奧秘2",
+    "sp": 120,
+    "prev": ["Atk/Spd Finish 1"],
+    "rules": "infantry",
+    "icon": "skillA/Atk_Spd_Finish_2.png"
+  },
+  "Atk/Spd Finish 3": {
+    "id": "Atk/Spd Finish 3",
+    "name": "攻擊速度的奧秘3",
+    "sp": 240,
+    "prev": ["Atk/Spd Finish 2"],
+    "rules": "infantry",
+    "icon": "skillA/Atk_Spd_Finish_3.png",
+    "last": true
+  },
+  "Atk/Spd Finish 4": {
+    "id": "Atk/Spd Finish 4",
+    "name": "攻擊速度的奧秘4",
+    "sp": 300,
+    "prev": ["Atk/Spd Finish 3"],
+    "rules": "infantry",
+    "icon": "skillA/Atk_Spd_Finish_4.png",
     "last": true
   },
   "Atk/Res Finish 1": {
