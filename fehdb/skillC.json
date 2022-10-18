@@ -52,7 +52,7 @@
     "id": "Sparkling Boost",
     "name": "生命光輝",
     "sp": 300,
-    "exclusive": ["Eir - Merciful Death"],
+    "exclusive": ["Eir - Merciful Death", "Eir - Life Ascendant"],
     "last": true,
     "icon": "skillC/Sparkling_Boost.png"
   },
@@ -2023,6 +2023,30 @@
     "prev": ["Armored Stride 2"],
     "rules": "learner.armored-stride",
     "icon": "skillC/Armored_Stride_3.png",
+    "last": true
+  },
+  "A/S Near Save 1": {
+    "id": "A/S Near Save 1",
+    "name": "刃之守護人・近處1",
+    "sp": 100,
+    "rules": "armored",
+    "icon": "skillC/A_S_Near_Save_1.png"
+  },
+  "A/S Near Save 2": {
+    "id": "A/S Near Save 2",
+    "name": "刃之守護人・近處2",
+    "sp": 200,
+    "prev": ["A/S Near Save 1"],
+    "rules": "armored",
+    "icon": "skillC/A_S_Near_Save_2.png"
+  },
+  "A/S Near Save 3": {
+    "id": "A/S Near Save 3",
+    "name": "刃之守護人・近處3",
+    "sp": 300,
+    "prev": ["A/S Near Save 2"],
+    "rules": "armored",
+    "icon": "skillC/A_S_Near_Save_3.png",
     "last": true
   },
   "A/D Near Save 1": {

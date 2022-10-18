@@ -462,6 +462,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Rein Lance+": {
+        "pool": { "#": { "5": ["Phila - Pegasus Master"] } },
+        "id": "Rein Lance+",
+        "name": "牽制之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Stout Lance+": {
         "pool": { "#": { "5": ["Roshea - Coyote's Faithful"] } },
         "id": "Stout Lance+",
@@ -473,6 +480,13 @@
         "pool": { "#": { "5": ["Karin - Driven Knight"] } },
         "id": "Allied Lance+",
         "name": "共鬥之槍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Defier's Lance+": {
+        "pool": { "grail": { "5": ["Cervantes - Invincible General"] } },
+        "id": "Defier's Lance+",
+        "name": "防守逆用之槍+",
         "sp": 300,
         "refine": 350
       },
@@ -2227,6 +2241,13 @@
       }
     },
     "dragon": {
+      "Arcane Grima": {
+        "pool": { "#": { "5": ["Robin - Fell Tactician"] } },
+        "id": "Arcane Grima",
+        "name": "魔器津利",
+        "sp": 300,
+        "refine": 350
+      },
       "Flametongue+": {
         "pool": { "#": { "5": ["Tiki - Dragon Scion"] } },
         "id": "Flametongue+",
@@ -3365,7 +3386,8 @@
             "Sothe - Zephyr",
             "Lon'qu - Solitary Blade",
             "Peri - Playful Slayer",
-            "Beruka - Quiet Assassin"
+            "Beruka - Quiet Assassin",
+            "Shez - Keen Mercenary"
           ],
           "5": [
             "Ylgr - Fresh Snowfall",
@@ -3385,7 +3407,6 @@
             "Claude - The Schemer",
             "Yuri - Ashen Valiant",
             "Hapi - Drawn-Out Sigh",
-            "Shez - Keen Mercenary",
             "Monica - Favored Vassal"
           ]
         },
@@ -3534,20 +3555,6 @@
     },
     "Draconic Aura": {
       "pool": {
-        "special": {
-          "4": ["Marth - Legacied Hero", "Corrin - Daylight Ninja Act"],
-          "5": [
-            "Freyr - Estival Dreams",
-            "Palla - Eldest Bun-Bun",
-            "Shanna - Bridal Novice",
-            "Karla - Sun-Piercing Steel",
-            "Tana - Frelian Starlight",
-            "Dheginsea - Harvest Goldoan",
-            "Kagero - Beverage Ninja",
-            "Camilla - Holiday Traveler",
-            "Camilla - Tropical Beauty"
-          ]
-        },
         "#": {
           "4": [
             "Ares - Black Knight",
@@ -3555,6 +3562,7 @@
             "Camilla - Bewitching Beauty"
           ],
           "5": [
+            "Eir - Life Ascendant",
             "Letizia - Curse Director",
             "Marth - Prince of Light",
             "Alm - Hero of Prophecy",
@@ -3576,6 +3584,20 @@
             "Byleth - Sublime Light",
             "Byleth - Tested Professor",
             "Catherine - Thunder Knight"
+          ]
+        },
+        "special": {
+          "4": ["Marth - Legacied Hero", "Corrin - Daylight Ninja Act"],
+          "5": [
+            "Freyr - Estival Dreams",
+            "Palla - Eldest Bun-Bun",
+            "Shanna - Bridal Novice",
+            "Karla - Sun-Piercing Steel",
+            "Tana - Frelian Starlight",
+            "Dheginsea - Harvest Goldoan",
+            "Kagero - Beverage Ninja",
+            "Camilla - Holiday Traveler",
+            "Camilla - Tropical Beauty"
           ]
         },
         "legendary": {
@@ -3696,6 +3718,7 @@
             "Duessel - Obsidian",
             "Myrrh - Great Dragon",
             "Caineghis - Gallia's Lion King",
+            "Gregor - Swell Sword",
             "Owain - Chosen One",
             "Nah - Little Miss",
             "Rinkah - Scion of Flame",
@@ -3772,6 +3795,7 @@
             "Petrine - Icy Flame-Lancer",
             "Jorge - Traveling Peddler",
             "Robin - Mystery Tactician",
+            "Cervantes - Invincible General",
             "Flame Emperor - Bringer of War"
           ]
         },
@@ -3826,6 +3850,7 @@
             "Niime - Mountain Hermit",
             "Fiora - Airborne Warrior",
             "Innes - Regal Strategician",
+            "Phila - Pegasus Master",
             "Say'ri - Chon'sin's Blade",
             "Morgan - Fated Darkness",
             "Morgan - Lass from Afar",
@@ -4054,6 +4079,7 @@
           "5": [
             "Reinhardt - Thunder's Sword",
             "Hector - General of Ostia",
+            "Robin - Fell Tactician",
             "Dedue - Dimitri's Vassal"
           ]
         },
@@ -5377,7 +5403,7 @@
       "pool": {
         "grail": { "4": ["Eir - Renewed Life"], "5": ["Rhys - Gentle Basker"] },
         "special": { "5": ["Linde - Summer Rays"] },
-        "#": { "5": ["Mikoto - Caring Mother"] }
+        "#": { "5": ["Phila - Pegasus Master", "Mikoto - Caring Mother"] }
       },
       "id": "Brazen Atk/Res 3",
       "name": "攻擊魔防大覺醒3",
@@ -6792,18 +6818,19 @@
             "Dimitri - Sky-Blue Lion"
           ]
         },
+        "#": {
+          "5": [
+            "Eir - Life Ascendant",
+            "Farina - The Great Wing",
+            "Lilith - Silent Broodling",
+            "Byleth - Sublime Light"
+          ]
+        },
         "harmonized": {
           "5": [
             "Caeda - Sea-Blossom Pair",
             "Leif - Destined Scions",
             "Tana - Soothing Warmth"
-          ]
-        },
-        "#": {
-          "5": [
-            "Farina - The Great Wing",
-            "Lilith - Silent Broodling",
-            "Byleth - Sublime Light"
           ]
         },
         "legendary": {
@@ -6829,18 +6856,19 @@
             "Dimitri - Sky-Blue Lion"
           ]
         },
+        "#": {
+          "5": [
+            "Eir - Life Ascendant",
+            "Farina - The Great Wing",
+            "Lilith - Silent Broodling",
+            "Byleth - Sublime Light"
+          ]
+        },
         "harmonized": {
           "5": [
             "Caeda - Sea-Blossom Pair",
             "Leif - Destined Scions",
             "Tana - Soothing Warmth"
-          ]
-        },
-        "#": {
-          "5": [
-            "Farina - The Great Wing",
-            "Lilith - Silent Broodling",
-            "Byleth - Sublime Light"
           ]
         },
         "legendary": {
@@ -6982,6 +7010,7 @@
           ]
         },
         "special": { "4": ["Lyon - Sunlit Prince"] },
+        "grail": { "5": ["Cervantes - Invincible General"] },
         "legendary": { "5": ["Byleth - The Fódlan Star"] },
         "harmonized": { "5": ["Edelgard - Sun Empresses"] }
       },
@@ -7055,6 +7084,20 @@
       "name": "防守魔防的萬全4",
       "sp": 300,
       "icon": "skillA/Def_Res_Ideal_4.png"
+    },
+    "Solid Ground 3": {
+      "pool": { "#": { "5": ["Gregor - Swell Sword"] } },
+      "id": "Solid Ground 3",
+      "name": "不壞3",
+      "sp": 200,
+      "icon": "skillA/Solid_Ground_3.png"
+    },
+    "Solid Ground 4": {
+      "pool": { "#": { "5": ["Gregor - Swell Sword"] } },
+      "id": "Solid Ground 4",
+      "name": "不壞4",
+      "sp": 300,
+      "icon": "skillA/Solid_Ground_4.png"
     },
     "Still Water 3": {
       "pool": {
@@ -7380,7 +7423,7 @@
           ]
         },
         "grail": {
-          "4": ["Zephiel - The Liberator"],
+          "4": ["Zephiel - The Liberator", "Cervantes - Invincible General"],
           "5": ["Dorcas - Pumpkin Smasher", "Flame Emperor - Bringer of War"]
         }
       },
@@ -7506,7 +7549,9 @@
       "icon": "skillB/Slick_Fighter_3.png"
     },
     "Hardy Fighter 3": {
-      "pool": { "#": { "5": ["Fjorm - Ice Ascendant"] } },
+      "pool": {
+        "#": { "5": ["Fjorm - Ice Ascendant", "Robin - Fell Tactician"] }
+      },
       "id": "Hardy Fighter 3",
       "name": "盾壁隊形3",
       "sp": 240,
@@ -8196,7 +8241,9 @@
       "icon": "skillB/Aerobatics_3.png"
     },
     "Pegasus Flight 3": {
-      "pool": { "#": { "5": ["Fiora - Airborne Warrior"] } },
+      "pool": {
+        "#": { "5": ["Fiora - Airborne Warrior", "Phila - Pegasus Master"] }
+      },
       "id": "Pegasus Flight 3",
       "name": "天馬行空3",
       "sp": 240,
@@ -8381,7 +8428,7 @@
           "5": ["Bertram - Dread Cavalier"]
         },
         "special": { "5": ["Cordelia - Knight Paradise"] },
-        "#": { "5": ["Edelgard - The Future", "Shez - Keen Mercenary"] }
+        "#": { "4": ["Shez - Keen Mercenary"], "5": ["Edelgard - The Future"] }
       },
       "id": "Dull Close 3",
       "name": "強化無效・近距離3",
@@ -8695,12 +8742,20 @@
     "Mystic Boost 3": {
       "pool": {
         "mythic": { "5": ["Eir - Merciful Death"] },
+        "#": { "5": ["Eir - Life Ascendant"] },
         "duo": { "5": ["Micaiah - Dawn Wind's Duo"] }
       },
       "id": "Mystic Boost 3",
       "name": "生命護符3",
       "sp": 240,
       "icon": "skillB/Mystic_Boost_3.png"
+    },
+    "Mystic Boost 4": {
+      "pool": { "#": { "5": ["Eir - Life Ascendant"] } },
+      "id": "Mystic Boost 4",
+      "name": "生命護符4",
+      "sp": 300,
+      "icon": "skillB/Mystic_Boost_4.png"
     },
     "Disarm Trap 3": {
       "pool": {
@@ -10675,7 +10730,9 @@
       "icon": "skillC/Inf._Hexblade_3.png"
     },
     "Inf. Null Follow 3": {
-      "pool": { "#": { "5": ["Celica - Valentia's Hope"] } },
+      "pool": {
+        "#": { "5": ["Celica - Valentia's Hope", "Gregor - Swell Sword"] }
+      },
       "id": "Inf. Null Follow 3",
       "name": "步行識破追擊3",
       "sp": 240,
@@ -10713,6 +10770,20 @@
       "name": "重裝備游擊3",
       "sp": 240,
       "icon": "skillC/Armored_Stride_3.png"
+    },
+    "A/S Near Save 2": {
+      "pool": { "#": { "5": ["Robin - Fell Tactician"] } },
+      "id": "A/S Near Save 2",
+      "name": "刃之守護人・近處2",
+      "sp": 200,
+      "icon": "skillC/A_S_Near_Save_2.png"
+    },
+    "A/S Near Save 3": {
+      "pool": { "#": { "5": ["Robin - Fell Tactician"] } },
+      "id": "A/S Near Save 3",
+      "name": "刃之守護人・近處3",
+      "sp": 300,
+      "icon": "skillC/A_S_Near_Save_3.png"
     },
     "A/D Near Save 2": {
       "pool": {

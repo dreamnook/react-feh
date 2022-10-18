@@ -2934,6 +2934,18 @@
     "skillA": { "Fury 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Spd/Def Gap 3": { "sp": 240, "rarity": 4 } }
   },
+  "Shez - Keen Mercenary": {
+    "score": 199,
+    "scoreTotal": 445,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 187,
+    "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Life and Death 3": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Dull Close 3": { "sp": 240, "rarity": 4 } }
+  },
   "Cordelia - Knight Paragon": {
     "score": 200,
     "scoreTotal": 446,
@@ -4371,18 +4383,6 @@
     "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ward Dragons": { "sp": 200, "rarity": 5 } }
   },
-  "Shez - Keen Mercenary": {
-    "score": 240,
-    "scoreTotal": 640,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 1000,
-    "bst": 187,
-    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Life and Death 3": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Dull Close 3": { "sp": 240, "rarity": 5 } }
-  },
   "Ephraim - Legendary Lord": {
     "score": 276,
     "scoreTotal": 644,
@@ -5066,6 +5066,18 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Phila - Pegasus Master": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Pegasus Flight 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -6448,6 +6460,18 @@
     "skillA": { "Fort. Def/Res 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Gregor - Swell Sword": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Solid Ground 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Null Follow 3": { "sp": 240, "rarity": 5 } }
+  },
   "Shez - Rising Mercenary": {
     "score": 300,
     "scoreTotal": 740,
@@ -6459,6 +6483,18 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillB": { "Spd/Def Bulwark 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Robin - Fell Tactician": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 196,
+    "special": { "Pavise": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Hardy Fighter 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "A/S Near Save 3": { "sp": 300, "rarity": 5 } }
   },
   "Eirika - Anamnesis Lady": {
     "score": 300,
@@ -6809,6 +6845,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillB": { "Wrath 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Even Atk Wave 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Cervantes - Invincible General": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 195,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
   },
   "Micaiah - Summer's Dawn": {
     "score": 254,
@@ -7364,6 +7413,18 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Spd/Def Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Rouse Atk/Spd 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Eir - Life Ascendant": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 173,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Mystic Boost 4": { "sp": 300, "rarity": 5 } }
   },
   "Eirika - Pledged Restorer": {
     "score": 300,

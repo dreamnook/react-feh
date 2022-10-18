@@ -2478,6 +2478,16 @@
       "exclusive": ["Holst - Hero of Leicester"],
       "last": true
     },
+    "Blade of Favors": {
+      "id": "Blade of Favors",
+      "name": "厚情的剛劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Gregor - Swell Sword"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -5938,6 +5948,39 @@
       },
       "last": true
     },
+    "Rein Lance": {
+      "id": "Rein Lance",
+      "name": "牽制之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Rein Lance+": {
+      "id": "Rein Lance+",
+      "name": "牽制之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Rein Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Stout Lance": {
       "id": "Stout Lance",
       "name": "堅固之槍",
@@ -5984,6 +6027,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Allied Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Defier's Lance": {
+      "id": "Defier's Lance",
+      "name": "防守逆用之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Defier's Lance+": {
+      "id": "Defier's Lance+",
+      "name": "防守逆用之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Defier's Lance"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -12329,6 +12405,16 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Tana - Soothing Warmth"],
+      "last": true
+    },
+    "Ymir, Everliving": {
+      "id": "Ymir, Everliving",
+      "name": "永生優彌爾",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Eir - Life Ascendant"],
       "last": true
     },
     "Iron Dagger": {
@@ -21010,6 +21096,33 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Corrin - Starry Seer"],
+      "last": true
+    },
+    "Arcane Grima": {
+      "id": "Arcane Grima",
+      "name": "魔器津利",
+      "mt": 16,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Flametongue"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Fire Breath": {

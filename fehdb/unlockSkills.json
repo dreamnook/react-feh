@@ -1188,6 +1188,33 @@
       "Spd Tactic 3": 5
     }
   },
+  "Eir - Life Ascendant": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 3,
+      "Ymir, Everliving": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "Mystic Boost 1": 2,
+      "Mystic Boost 2": 3,
+      "Mystic Boost 3": 4,
+      "Mystic Boost 4": 5
+    },
+    "skillC": {
+      "Sparkling Boost": 5
+    }
+  },
   "Ymir - Life-Mother": {
     "weapon": {
       "Fire Breath": 1,
@@ -14297,6 +14324,31 @@
       "A/D Far Save 3": 5
     }
   },
+  "Robin - Fell Tactician": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Arcane Grima": 5
+    },
+    "special": {
+      "Buckler": 3,
+      "Pavise": 4
+    },
+    "skillA": {
+      "Dragonhide": 5
+    },
+    "skillB": {
+      "Hardy Fighter 1": 2,
+      "Hardy Fighter 2": 3,
+      "Hardy Fighter 3": 5
+    },
+    "skillC": {
+      "A/S Near Save 1": 1,
+      "A/S Near Save 2": 2,
+      "A/S Near Save 3": 4
+    }
+  },
   "Lissa - Sprightly Cleric": {
     "weapon": {
       "Assault": 1,
@@ -14619,6 +14671,28 @@
       "Dull Close 1": 3,
       "Dull Close 2": 4,
       "Dull Close 3": 5
+    }
+  },
+  "Phila - Pegasus Master": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Rein Lance": 3,
+      "Rein Lance+": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Brazen Atk/Res 1": 1,
+      "Brazen Atk/Res 2": 2,
+      "Brazen Atk/Res 3": 4
+    },
+    "skillB": {
+      "Pegasus Flight 1": 3,
+      "Pegasus Flight 2": 4,
+      "Pegasus Flight 3": 5
     }
   },
   "Libra - Fetching Friar": {
@@ -15087,6 +15161,28 @@
       "Chill Def 3": 5
     }
   },
+  "Cervantes - Invincible General": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Defier's Lance": 3,
+      "Defier's Lance+": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Def Ideal 1": 3,
+      "Atk/Def Ideal 2": 4,
+      "Atk/Def Ideal 3": 5
+    },
+    "skillB": {
+      "Wary Fighter 1": 1,
+      "Wary Fighter 2": 2,
+      "Wary Fighter 3": 4
+    }
+  },
   "Yen'fay - Blade Legend": {
     "weapon": {
       "Iron Sword": 1,
@@ -15247,6 +15343,29 @@
       "Threat. Def/Res 1": 3,
       "Threat. Def/Res 2": 4,
       "Def/Res Menace": 5
+    }
+  },
+  "Gregor - Swell Sword": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Blade of Favors": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Bonfire": 4
+    },
+    "skillA": {
+      "Solid Ground 1": 2,
+      "Solid Ground 2": 3,
+      "Solid Ground 3": 4,
+      "Solid Ground 4": 5
+    },
+    "skillC": {
+      "Inf. Null Follow 1": 1,
+      "Inf. Null Follow 2": 2,
+      "Inf. Null Follow 3": 4
     }
   },
   "Nowi - Eternal Youth": {

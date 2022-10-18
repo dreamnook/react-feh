@@ -82,6 +82,14 @@
     "last": true,
     "icon": "skillA/Verdict_of_Sacae.png"
   },
+  "Dragonhide": {
+    "id": "Dragonhide",
+    "name": "邪龍的重鱗",
+    "sp": 300,
+    "exclusive": ["Robin - Fell Tactician"],
+    "last": true,
+    "icon": "skillA/Dragonhide.png"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -3535,6 +3543,43 @@
     "prev": ["Def/Res Ideal 3"],
     "rules": "learner.ideal",
     "icon": "skillA/Def_Res_Ideal_4.png",
+    "last": true
+  },
+  "Solid Ground 1": {
+    "id": "Solid Ground 1",
+    "name": "不壞1",
+    "sp": 50,
+    "atk": 3,
+    "res": -3,
+    "icon": "skillA/Solid_Ground_1.png"
+  },
+  "Solid Ground 2": {
+    "id": "Solid Ground 2",
+    "name": "不壞2",
+    "sp": 100,
+    "atk": 4,
+    "res": -4,
+    "prev": ["Solid Ground 1"],
+    "icon": "skillA/Solid_Ground_2.png"
+  },
+  "Solid Ground 3": {
+    "id": "Solid Ground 3",
+    "name": "不壞3",
+    "sp": 200,
+    "atk": 5,
+    "res": -5,
+    "prev": ["Solid Ground 2"],
+    "icon": "skillA/Solid_Ground_3.png",
+    "last": true
+  },
+  "Solid Ground 4": {
+    "id": "Solid Ground 4",
+    "name": "不壞4",
+    "sp": 300,
+    "atk": 7,
+    "res": -5,
+    "prev": ["Solid Ground 3"],
+    "icon": "skillA/Solid_Ground_4.png",
     "last": true
   },
   "Still Water 1": {

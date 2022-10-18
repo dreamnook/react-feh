@@ -1886,6 +1886,43 @@
     "book": 4,
     "ver": "4.1"
   },
+  "Eir - Life Ascendant": {
+    "id": "Eir - Life Ascendant",
+    "title": "燦爛的生命",
+    "name": "埃爾",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-dagger",
+    "releaseDate": "2022-10-17",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [32, 35, 39],
+        "atk": [39, 42, 46],
+        "spd": [41, 45, 48],
+        "def": [12, 16, 19],
+        "res": [32, 35, 39]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 12,
+        "def": 3,
+        "res": 5
+      }
+    },
+    "assets": ["hp", "atk", "res"],
+    "flaws": ["spd", "def"],
+    "statMin": 173,
+    "statMax": 175,
+    "voice": {
+      "en": "Xanthe Huynh",
+      "jp": "Amamiya Sora (雨宮天)"
+    },
+    "book": 6,
+    "ver": "6.10"
+  },
   "Ymir - Life-Mother": {
     "id": "Ymir - Life-Mother",
     "title": "生命之母龍",
@@ -27598,6 +27635,43 @@
     "book": 6,
     "ver": "6.2"
   },
+  "Robin - Fell Tactician": {
+    "id": "Robin - Fell Tactician",
+    "title": "引導至絕望之人",
+    "name": "魯弗萊",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "armored",
+    "weaponType": "white-dragon",
+    "releaseDate": "2022-10-17",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [38, 41, 45],
+        "spd": [40, 44, 47],
+        "def": [32, 35, 38],
+        "res": [29, 33, 36]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 11,
+        "def": 9,
+        "res": 11
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd", "res"],
+    "statMin": 196,
+    "statMax": 200,
+    "voice": {
+      "en": "Lauren Landa",
+      "jp": "Sawashiro Miyuki (沢城みゆき)"
+    },
+    "book": 6,
+    "ver": "6.10"
+  },
   "Lissa - Sprightly Cleric": {
     "id": "Lissa - Sprightly Cleric",
     "title": "活繃亂跳的修女",
@@ -28330,6 +28404,43 @@
     },
     "book": 2,
     "ver": "2.6"
+  },
+  "Phila - Pegasus Master": {
+    "id": "Phila - Pegasus Master",
+    "title": "天馬的忠誠",
+    "name": "菲蓮",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "releaseDate": "2022-10-17",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [34, 37, 40],
+        "spd": [39, 42, 46],
+        "def": [22, 26, 29],
+        "res": [37, 40, 43]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 12,
+        "def": 4,
+        "res": 12
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 183,
+    "statMax": 185,
+    "voice": {
+      "en": "Nicole Balick",
+      "jp": "神田みか"
+    },
+    "book": 6,
+    "ver": "6.10"
   },
   "Libra - Fetching Friar": {
     "id": "Libra - Fetching Friar",
@@ -29468,6 +29579,72 @@
     "book": 2,
     "ver": "2.7"
   },
+  "Cervantes - Invincible General": {
+    "id": "Cervantes - Invincible General",
+    "title": "不敗的將領",
+    "name": "塞凡提斯",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-lance",
+    "pool": "grail",
+    "releaseDate": "2022-10-18",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "3": {
+        "hp": [43, 46, 49],
+        "atk": [37, 40, 43],
+        "spd": [24, 27, 30],
+        "def": [37, 40, 43],
+        "res": [19, 22, 25]
+      },
+      "4": {
+        "hp": [44, 47, 51],
+        "atk": [39, 43, 46],
+        "spd": [25, 28, 31],
+        "def": [39, 42, 46],
+        "res": [20, 23, 26]
+      },
+      "5": {
+        "hp": [47, 50, 54],
+        "atk": [41, 45, 48],
+        "spd": [28, 31, 34],
+        "def": [41, 44, 48],
+        "res": [22, 25, 28]
+      },
+      "3-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 4,
+        "def": 13,
+        "res": 7
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 4,
+        "def": 14,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 12,
+        "spd": 5,
+        "def": 14,
+        "res": 8
+      }
+    },
+    "assets": ["hp", "def"],
+    "flaws": ["atk"],
+    "statMin": 195,
+    "statMax": 195,
+    "voice": {
+      "en": "Stuart Krug",
+      "jp": "Fukumatsu Shinya (ふくまつ進紗)"
+    },
+    "book": 6,
+    "ver": "6.10"
+  },
   "Yen'fay - Blade Legend": {
     "id": "Yen'fay - Blade Legend",
     "title": "索恩希的劍聖",
@@ -29840,6 +30017,43 @@
     },
     "book": 6,
     "ver": "6.8"
+  },
+  "Gregor - Swell Sword": {
+    "id": "Gregor - Swell Sword",
+    "title": "無所畏懼的傭兵",
+    "name": "固雷格",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2022-10-17",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [34, 37, 40],
+        "def": [40, 43, 46],
+        "res": [20, 23, 27]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 11,
+        "def": 8,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp"],
+    "statMin": 187,
+    "statMax": 190,
+    "voice": {
+      "en": "Paul St. Peter",
+      "jp": "Hamada Kenji (浜田賢二)"
+    },
+    "book": 6,
+    "ver": "6.10"
   },
   "Nowi - Eternal Youth": {
     "id": "Nowi - Eternal Youth",
@@ -40032,7 +40246,7 @@
     "statMin": 187,
     "statMax": 190,
     "voice": {
-      "en": "Damian Haas",
+      "en": "Damien Haas",
       "jp": "Tasuku Hatanaka (畠中祐)"
     },
     "book": 6,
@@ -40042,19 +40256,47 @@
     "id": "Shez - Keen Mercenary",
     "title": "前途無量的傭兵",
     "name": "謝茲",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-axe",
     "releaseDate": "2022-09-16",
     "appearsIn": ["Three Houses"],
     "stats": {
+      "3": {
+        "hp": [31, 34, 37],
+        "atk": [34, 37, 40],
+        "spd": [35, 38, 41],
+        "def": [25, 28, 31],
+        "res": [27, 30, 33]
+      },
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [36, 39, 43],
+        "spd": [37, 40, 44],
+        "def": [26, 29, 32],
+        "res": [28, 31, 34]
+      },
       "5": {
         "hp": [34, 38, 41],
         "atk": [38, 41, 45],
         "spd": [39, 42, 46],
         "def": [29, 32, 35],
         "res": [31, 34, 37]
+      },
+      "3-1": {
+        "hp": 15,
+        "atk": 10,
+        "spd": 11,
+        "def": 7,
+        "res": 7
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 11,
+        "spd": 12,
+        "def": 7,
+        "res": 7
       },
       "5-1": {
         "hp": 16,
@@ -40173,7 +40415,7 @@
     "statMax": 190,
     "voice": {
       "en": "SungWon Cho",
-      "jp": "増元拓也"
+      "jp": "Takuya Masumoto (増元拓也)"
     },
     "book": 6,
     "ver": "6.9"
