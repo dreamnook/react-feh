@@ -28264,6 +28264,71 @@
     "book": 6,
     "ver": "6.0"
   },
+  "Ricken - Shepherd Novice": {
+    "id": "Ricken - Shepherd Novice",
+    "title": "自衛團見習生",
+    "name": "里希特",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "releaseDate": "2022-10-17",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [36, 39, 42],
+        "spd": [32, 35, 38],
+        "def": [18, 21, 24],
+        "res": [23, 26, 29]
+      },
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [38, 41, 45],
+        "spd": [34, 37, 41],
+        "def": [19, 22, 25],
+        "res": [24, 27, 30]
+      },
+      "5": {
+        "hp": [37, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [36, 39, 43],
+        "def": [21, 24, 28],
+        "res": [26, 30, 33]
+      },
+      "3-1": {
+        "hp": 15,
+        "atk": 12,
+        "spd": 8,
+        "def": 4,
+        "res": 7
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 13,
+        "spd": 9,
+        "def": 4,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 13,
+        "spd": 9,
+        "def": 5,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd", "def"],
+    "flaws": ["res"],
+    "statMin": 176,
+    "statMax": 180,
+    "voice": {
+      "en": "Yuri Lowenthal",
+      "jp": "Masuda Yuki (増田ゆき)"
+    },
+    "book": 6,
+    "ver": "6.10"
+  },
   "Cordelia - Knight Paragon": {
     "id": "Cordelia - Knight Paragon",
     "title": "年輕的天才騎士",

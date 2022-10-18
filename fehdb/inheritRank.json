@@ -3091,6 +3091,18 @@
     "skillA": { "Brazen Spd/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 4 } }
   },
+  "Ricken - Shepherd Novice": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 176,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spur Atk/Spd 2": { "sp": 240, "rarity": 4 } }
+  },
   "Karin - Driven Knight": {
     "score": 199,
     "scoreTotal": 461,

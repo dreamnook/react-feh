@@ -18745,6 +18745,39 @@
       },
       "last": true
     },
+    "Gronnrabbit": {
+      "id": "Gronnrabbit",
+      "name": "翠綠之兔",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Rexcalibur"]
+    },
+    "Gronnrabbit+": {
+      "id": "Gronnrabbit+",
+      "name": "翠綠之兔+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Gronnrabbit"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Gronnvulture": {
       "id": "Gronnvulture",
       "name": "翠綠禿鷹",

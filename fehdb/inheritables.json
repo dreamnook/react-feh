@@ -1916,6 +1916,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Gronnrabbit+": {
+        "pool": { "#": { "5": ["Ricken - Shepherd Novice"] } },
+        "id": "Gronnrabbit+",
+        "name": "翠綠之兔+",
+        "sp": 300,
+        "refine": 350
+      },
       "Gronnvulture+": {
         "pool": { "#": { "5": ["Arthur - Furious Mage"] } },
         "id": "Gronnvulture+",
@@ -3276,7 +3283,8 @@
             "Kamui - Wandering Blade",
             "Knoll - Darkness Watcher",
             "Marcia - Petulant Knight",
-            "Frederick - Polite Knight"
+            "Frederick - Polite Knight",
+            "Ricken - Shepherd Novice"
           ],
           "5": [
             "Sirius - Mysterious Knight",
@@ -6728,7 +6736,13 @@
             "Manuela - Silver Caroler"
           ]
         },
-        "#": { "5": ["Anna - Secret Seller", "Petra - Princess of Brigid"] }
+        "#": {
+          "5": [
+            "Ricken - Shepherd Novice",
+            "Anna - Secret Seller",
+            "Petra - Princess of Brigid"
+          ]
+        }
       },
       "id": "Atk/Spd Form 3",
       "name": "攻擊速度的密集3",
@@ -9295,7 +9309,9 @@
       "icon": "skillC/Spur_Res_3.png"
     },
     "Spur Atk/Spd 2": {
-      "pool": { "#": { "5": ["Sothe - Zephyr"] } },
+      "pool": {
+        "#": { "4": ["Ricken - Shepherd Novice"], "5": ["Sothe - Zephyr"] }
+      },
       "id": "Spur Atk/Spd 2",
       "name": "攻擊速度紋章2",
       "sp": 240,
