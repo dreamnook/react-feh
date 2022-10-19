@@ -2069,6 +2069,7 @@
     "flaws": ["hp", "spd", "def", "res"],
     "statMin": 180,
     "statMax": 180,
+    "arcane": true,
     "voice": {
       "en": "Edward Bosco",
       "jp": "Maeno Tomoaki (前野智昭)"
