@@ -2399,14 +2399,7 @@
       "name": "生命護符3",
       "sp": 240,
       "prev": ["Mystic Boost 2"],
-      "icon": "skillB/Mystic_Boost_3.png"
-    },
-    "Mystic Boost 4": {
-      "id": "Mystic Boost 4",
-      "name": "生命護符4",
-      "sp": 300,
-      "prev": ["Mystic Boost 3"],
-      "icon": "skillB/Mystic_Boost_4.png",
+      "icon": "skillB/Mystic_Boost_3.png",
       "last": true
     }
   },
