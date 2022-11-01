@@ -2494,7 +2494,7 @@
       "mt": 16,
       "cd": -1,
       "sp": 300,
-      "arcane": true,
+      "rearmed": true,
       "prev": ["Silver Sword"],
       "refine": {
         "atk": {
@@ -21149,7 +21149,7 @@
       "cd": -1,
       "sp": 300,
       "prev": ["Flametongue"],
-      "arcane": true,
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
