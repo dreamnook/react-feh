@@ -94,6 +94,8 @@
     "id": "Duality",
     "name": "陰陽法則",
     "sp": 300,
+    "atk": 9,
+    "res": 9,
     "exclusive": ["Arval - Cycle Keeper"],
     "last": true,
     "icon": "skillA/Duality.png"
