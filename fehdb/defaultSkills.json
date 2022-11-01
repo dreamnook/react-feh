@@ -20834,6 +20834,32 @@
       "Spd/Res Tempo 3": 4
     }
   },
+  "Arval - Cycle Keeper": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Rite of Souls": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillA": {
+      "Duality": 5
+    },
+    "skillB": {
+      "Atk/Res Tempo 1": 1,
+      "Atk/Res Tempo 2": 2,
+      "Atk/Res Tempo 3": 4
+    },
+    "skillC": {
+      "Atk/Res Oath 1": 2,
+      "Atk/Res Oath 2": 3,
+      "Atk/Res Oath 3": 4,
+      "Atk/Res Oath 4": 5
+    }
+  },
   "Holst - Hero of Leicester": {
     "weapon": {
       "Iron Sword": 1,

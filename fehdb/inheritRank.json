@@ -2211,6 +2211,18 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
+  "Phila - Pegasus Master": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 183,
+    "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Pegasus Flight 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -5079,18 +5091,6 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
-  "Phila - Pegasus Master": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 183,
-    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Pegasus Flight 3": { "sp": 240, "rarity": 5 } }
-  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -5298,6 +5298,19 @@
     "special": { "Glacies": { "sp": 200, "rarity": 5 } },
     "skillA": { "Mirror Impact": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Arval - Cycle Keeper": {
+    "score": 276,
+    "scoreTotal": 681,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 177,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Atk/Res Tempo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Res Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Thórr - War God": {
     "score": 276,

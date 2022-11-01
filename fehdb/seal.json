@@ -5140,6 +5140,24 @@
       "prev": ["Squad Ace BJ 1"],
       "icon": "seal/Squad_Ace_HP_Spd_2.png",
       "last": true
+    },
+    "Squad Ace BK 1": {
+      "id": "Squad Ace BK 1",
+      "name": "第６３迷宮的霸王1",
+      "sp": 100,
+      "hp": 3,
+      "def": 1,
+      "icon": "seal/Squad_Ace_HP_Def_1.png"
+    },
+    "Squad Ace BK 2": {
+      "id": "Squad Ace BK 2",
+      "name": "第６３迷宮的霸王2",
+      "sp": 200,
+      "hp": 4,
+      "def": 2,
+      "prev": ["Squad Ace BK 1"],
+      "icon": "seal/Squad_Ace_HP_Def_2.png",
+      "last": true
     }
   }
 }

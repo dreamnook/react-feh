@@ -3848,6 +3848,7 @@
           "4": [
             "Shanna - Sprightly Flier",
             "Ilyana - Hungering Mage",
+            "Phila - Pegasus Master",
             "Kaze - Easygoing Ninja",
             "Niles - Cruel to Be Kind"
           ],
@@ -3858,7 +3859,6 @@
             "Niime - Mountain Hermit",
             "Fiora - Airborne Warrior",
             "Innes - Regal Strategician",
-            "Phila - Pegasus Master",
             "Say'ri - Chon'sin's Blade",
             "Morgan - Fated Darkness",
             "Morgan - Lass from Afar",
@@ -3899,7 +3899,8 @@
             "Medeus - Earth-Dragon King",
             "Yune - Chaos Goddess",
             "Ashera - Order Goddess",
-            "Seiros - Saint of Legend"
+            "Seiros - Saint of Legend",
+            "Arval - Cycle Keeper"
           ]
         },
         "grail": {
@@ -5411,7 +5412,10 @@
       "pool": {
         "grail": { "4": ["Eir - Renewed Life"], "5": ["Rhys - Gentle Basker"] },
         "special": { "5": ["Linde - Summer Rays"] },
-        "#": { "5": ["Phila - Pegasus Master", "Mikoto - Caring Mother"] }
+        "#": {
+          "4": ["Phila - Pegasus Master"],
+          "5": ["Mikoto - Caring Mother"]
+        }
       },
       "id": "Brazen Atk/Res 3",
       "name": "攻擊魔防大覺醒3",
@@ -9155,7 +9159,10 @@
       "icon": "skillB/Flow_Flight_3.png"
     },
     "Atk/Res Tempo 3": {
-      "pool": { "legendary": { "5": ["Deirdre - Fated Saint"] } },
+      "pool": {
+        "legendary": { "5": ["Deirdre - Fated Saint"] },
+        "mythic": { "5": ["Arval - Cycle Keeper"] }
+      },
       "id": "Atk/Res Tempo 3",
       "name": "攻擊魔防節拍3",
       "sp": 240,
@@ -11375,12 +11382,20 @@
         "legendary": { "5": ["Julia - Crusader of Light"] },
         "duo": { "5": ["Micaiah - Dawn Wind's Duo"] },
         "grail": { "5": ["Pelleas - Ashnard's Orphan"] },
-        "harmonized": { "5": ["Altina - Cross-Time Duo"] }
+        "harmonized": { "5": ["Altina - Cross-Time Duo"] },
+        "mythic": { "5": ["Arval - Cycle Keeper"] }
       },
       "id": "Atk/Res Oath 3",
       "name": "攻擊魔防的信義3",
       "sp": 240,
       "icon": "skillC/Atk_Res_Oath_3.png"
+    },
+    "Atk/Res Oath 4": {
+      "pool": { "mythic": { "5": ["Arval - Cycle Keeper"] } },
+      "id": "Atk/Res Oath 4",
+      "name": "攻擊魔防的信義4",
+      "sp": 300,
+      "icon": "skillC/Atk_Res_Oath_4.png"
     },
     "Spd/Def Oath 3": {
       "pool": {

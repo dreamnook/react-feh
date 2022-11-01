@@ -19384,6 +19384,16 @@
       "exclusive": ["Byleth - Sublime Light"],
       "last": true
     },
+    "Rite of Souls": {
+      "id": "Rite of Souls",
+      "name": "靈魂的秘密儀式",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Arval - Cycle Keeper"],
+      "last": true
+    },
     "Stone": {
       "id": "Stone",
       "name": "洛克",

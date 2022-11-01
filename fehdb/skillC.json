@@ -2928,6 +2928,15 @@
     "icon": "skillC/Atk_Res_Oath_3.png",
     "last": true
   },
+  "Atk/Res Oath 4": {
+    "id": "Atk/Res Oath 4",
+    "name": "攻擊魔防的信義4",
+    "sp": 300,
+    "prev": ["Atk/Res Oath 3"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Res_Oath_4.png",
+    "last": true
+  },
   "Spd/Def Oath 1": {
     "id": "Spd/Def Oath 1",
     "name": "速度防守的信義1",

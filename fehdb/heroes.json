@@ -2047,6 +2047,8 @@
     "colorType": "red",
     "moveType": "cavalry",
     "weaponType": "red-sword",
+    "arcane": true,
+    "rearmed": true,
     "releaseDate": "2022-09-16",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -2069,7 +2071,6 @@
     "flaws": ["hp", "spd", "def", "res"],
     "statMin": 180,
     "statMax": 180,
-    "arcane": true,
     "voice": {
       "en": "Edward Bosco",
       "jp": "Maeno Tomoaki (前野智昭)"
@@ -27644,6 +27645,8 @@
     "colorType": "white",
     "moveType": "armored",
     "weaponType": "white-dragon",
+    "arcane": true,
+    "rearmed": true,
     "releaseDate": "2022-10-17",
     "appearsIn": ["Awakening"],
     "stats": {
@@ -28475,19 +28478,33 @@
     "id": "Phila - Pegasus Master",
     "title": "天馬的忠誠",
     "name": "菲蓮",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "flying",
     "weaponType": "blue-lance",
     "releaseDate": "2022-10-17",
     "appearsIn": ["Awakening"],
     "stats": {
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [31, 34, 37],
+        "spd": [37, 40, 44],
+        "def": [20, 23, 26],
+        "res": [35, 38, 41]
+      },
       "5": {
         "hp": [34, 38, 41],
         "atk": [34, 37, 40],
         "spd": [39, 42, 46],
         "def": [22, 26, 29],
         "res": [37, 40, 43]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 8,
+        "spd": 12,
+        "def": 3,
+        "res": 12
       },
       "5-1": {
         "hp": 16,
@@ -40419,6 +40436,46 @@
     },
     "book": 6,
     "ver": "6.9"
+  },
+  "Arval - Cycle Keeper": {
+    "id": "Arval - Cycle Keeper",
+    "title": "守護輪迴之人",
+    "name": "拉魯瓦",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "anima-res-2",
+    "releaseDate": "2022-10-31",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 44, 47],
+        "spd": [23, 27, 30],
+        "def": [20, 23, 27],
+        "res": [40, 43, 47]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 5,
+        "def": 4,
+        "res": 13
+      }
+    },
+    "assets": ["def", "res"],
+    "flaws": ["hp", "atk", "spd"],
+    "statMin": 177,
+    "statMax": 180,
+    "voice": {
+      "en": "Melissa Hutchison",
+      "jp": "Tamura Mutsumi (田村睦心)"
+    },
+    "book": 6,
+    "ver": "6.10"
   },
   "Holst - Hero of Leicester": {
     "id": "Holst - Hero of Leicester",
