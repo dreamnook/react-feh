@@ -118,6 +118,15 @@
     "last": true,
     "icon": "skillC/Human_Virtue.png"
   },
+  "Chaos Named+": {
+    "id": "Chaos Named+",
+    "name": "吾之名為混沌・神",
+    "sp": 300,
+    "prev": ["Chaos Named"],
+    "exclusive": ["Yune - Chaos Goddess"],
+    "last": true,
+    "icon": "skillC/Chaos_Named+.png"
+  },
   "Chaos Named": {
     "id": "Chaos Named",
     "name": "吾之名為混沌",
@@ -142,6 +151,15 @@
     "exclusive": ["Naga - Dragon Divinity"],
     "last": true,
     "icon": "skillC/Divine_Fang.png"
+  },
+  "Vision of Arcadia II": {
+    "id": "Vision of Arcadia II",
+    "name": "為了創造理想鄉・承",
+    "sp": 300,
+    "prev": ["Vision of Arcadia"],
+    "exclusive": ["Eliwood - Blazing Knight"],
+    "last": true,
+    "icon": "skillC/Vision_of_Arcadia_II.png"
   },
   "Vision of Arcadia": {
     "id": "Vision of Arcadia",

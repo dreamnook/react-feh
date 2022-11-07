@@ -1715,6 +1715,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Eliwood - Blazing Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Ardent_Durandal_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Rowdy Sword": {
@@ -1850,6 +1873,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Hector - Dressed-Up Duo"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Conjurer_Curios_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Astra Blade": {
@@ -5411,6 +5457,37 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Lyn - Blazing Whirlwind"],
+      "last": true
+    },
+    "Lance of Heroics": {
+      "id": "Lance of Heroics",
+      "name": "正義的直槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Cynthia - Hero Chaser"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Lance_of_Heroics_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Iron Lance": {
@@ -10554,6 +10631,36 @@
       "exclusive": ["Florina - Azure-Sky Knight"],
       "last": true
     },
+    "Snide Bow": {
+      "id": "Snide Bow",
+      "name": "冷笑的遊弓",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Python - Apathetic Archer"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Snide_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Iron Bow": {
       "id": "Iron Bow",
       "name": "鐵弓",
@@ -12151,6 +12258,28 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Petra - Princess of Brigid"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Hunting_Blade_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Jakob's Tray": {
@@ -18130,6 +18259,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Yune - Chaos Goddess"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Chaos_Manifest_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Inscribed Tome": {
@@ -20593,6 +20744,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Corrin - Wailing Soul"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Savage_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Breath of Blight": {

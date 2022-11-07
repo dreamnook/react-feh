@@ -6023,7 +6023,7 @@
     },
     "Atk/Res Unity": {
       "pool": {
-        "mythic": { "5": ["Eir - Merciful Death"] },
+        "mythic": { "5": ["Eir - Merciful Death", "Yune - Chaos Goddess"] },
         "#": { "5": ["Ymir - Life-Mother"] },
         "harmonized": { "5": ["Altina - Cross-Time Duo"] },
         "special": { "5": ["Rhea - Witch of Creation"] }
@@ -9123,6 +9123,7 @@
       "pool": {
         "mythic": { "5": ["Ótr - Kingsbrother"] },
         "harmonized": { "5": ["Caeda - Sea-Blossom Pair"] },
+        "legendary": { "5": ["Eliwood - Blazing Knight"] },
         "#": { "5": ["Sain - Green Lance"] }
       },
       "id": "Flow Refresh 3",

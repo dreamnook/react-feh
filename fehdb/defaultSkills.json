@@ -4266,7 +4266,8 @@
       "Iron Bow": 1,
       "Steel Bow": 3,
       "Short Bow": 4,
-      "Short Bow+": 5
+      "Short Bow+": 5,
+      "Snide Bow": 5
     },
     "special": {
       "New Moon": 4,
@@ -8816,10 +8817,14 @@
     "skillB": {
       "Chill Atk 1": 1,
       "Chill Atk 2": 2,
-      "Chill Atk 3": 4
+      "Chill Atk 3": 4,
+      "Flow Refresh 1": 1,
+      "Flow Refresh 2": 2,
+      "Flow Refresh 3": 4
     },
     "skillC": {
-      "Vision of Arcadia": 5
+      "Vision of Arcadia": 5,
+      "Vision of Arcadia II": 5
     }
   },
   "Eliwood - Marquess Pherae": {
@@ -13900,7 +13905,8 @@
     "skillA": {
       "Atk/Res Bond 1": 1,
       "Atk/Res Bond 2": 2,
-      "Atk/Res Bond 3": 4
+      "Atk/Res Bond 3": 4,
+      "Atk/Res Unity": 5
     },
     "skillB": {
       "Sabotage Res 1": 3,
@@ -13908,7 +13914,8 @@
       "Sabotage Res 3": 5
     },
     "skillC": {
-      "Chaos Named": 5
+      "Chaos Named": 5,
+      "Chaos Named+": 5
     }
   },
   "Ashera - Order Goddess": {
@@ -16033,7 +16040,8 @@
       "Iron Lance": 1,
       "Steel Lance": 3,
       "Firesweep Lance": 4,
-      "Firesweep Lance+": 5
+      "Firesweep Lance+": 5,
+      "Lance of Heroics": 5
     },
     "assist": {
       "Shove": 4

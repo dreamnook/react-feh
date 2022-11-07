@@ -4122,19 +4122,6 @@
     "skillB": { "Live for Bounty": { "sp": 100, "rarity": 5 } },
     "skillC": { "Hone Fliers": { "sp": 200, "rarity": 5 } }
   },
-  "Yune - Chaos Goddess": {
-    "score": 221,
-    "scoreTotal": 626,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 150,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Bond 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } }
-  },
   "Naga - Dragon Divinity": {
     "score": 221,
     "scoreTotal": 626,
@@ -5116,6 +5103,19 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Res Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Mystic Boost 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Yune - Chaos Goddess": {
+    "score": 276,
+    "scoreTotal": 681,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 150,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Unity": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } }
   },
   "Eirika - Graceful Resolve": {
     "score": 276,
@@ -7978,7 +7978,7 @@
     "bst": 175,
     "assist": { "Rally Spd/Res+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Death Blow 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Chill Atk 3": { "sp": 240, "rarity": 5 } }
+    "skillB": { "Flow Refresh 3": { "sp": 240, "rarity": 5 } }
   },
   "Morgan - Lass from Afar": {
     "score": 240,
