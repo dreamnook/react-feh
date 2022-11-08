@@ -285,6 +285,12 @@
         "name": "炎之軍扇+",
         "sp": 300,
         "refine": 350
+      },
+      "Wyvern Katana+": {
+        "pool": { "grail": { "5": ["Haar - Tempest Runner"] } },
+        "id": "Wyvern Katana+",
+        "name": "龍忍之劍+",
+        "sp": 300
       }
     },
     "blue-lance": {
@@ -1252,6 +1258,12 @@
         "name": "白波之弓+",
         "sp": 300,
         "refine": 350
+      },
+      "Wyvern Yumi+": {
+        "pool": { "special": { "5": ["Heath - Wyvern Ninja"] } },
+        "id": "Wyvern Yumi+",
+        "name": "龍忍之弓+",
+        "sp": 300
       }
     },
     "dagger": {
@@ -2519,6 +2531,7 @@
             "Titania - Warm Knight",
             "Sigrun - Loyal Protector",
             "Ena - Autumn Tactician",
+            "Haar - Tempest Runner",
             "Itsuki - Finding a Path"
           ]
         },
@@ -3237,8 +3250,14 @@
             "Tsubasa - Madcap Idol"
           ]
         },
+        "duo": {
+          "5": [
+            "Laegjarn - Flame and Frost",
+            "Alm - Lovebird Duo",
+            "Lyn - Ninja-Friend Duo"
+          ]
+        },
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
-        "duo": { "5": ["Alm - Lovebird Duo", "Lyn - Ninja-Friend Duo"] },
         "harmonized": {
           "5": ["Catria - Azure Wing Pair", "Lysithea - Gifted Students"]
         },
@@ -3382,6 +3401,7 @@
             "Naesala - Sea's Shadow",
             "Kagero - Spring Ninja",
             "Takumi - Prince at Play",
+            "Camilla - Midnight Bloom",
             "Dimitri - Sky-Blue Lion"
           ]
         },
@@ -3736,7 +3756,11 @@
         },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] },
         "special": {
-          "4": ["Minerva - Verdant Dragoon", "Owain - Devoted Defender"],
+          "4": [
+            "Minerva - Verdant Dragoon",
+            "Heath - Wyvern Ninja",
+            "Owain - Devoted Defender"
+          ],
           "5": [
             "Surtr - Pirate of Red Sky",
             "Rudolf - Emperor of Rigel",
@@ -3773,6 +3797,7 @@
           "5": [
             "Gustav - Majestic Love",
             "Reginn - Bearing Dawn",
+            "Cherche - Shaded by Wings",
             "Jakob - Devoted Monster"
           ]
         },
@@ -5472,7 +5497,11 @@
         "duo": { "5": ["Alfonse - Askran Duo", "Chrom - Fate-Defying Duo"] },
         "legendary": { "5": ["Chrom - Crowned Exalt"] },
         "special": {
-          "5": ["Tharja - 'Normal Girl'", "Xander - Dancing Knight"]
+          "5": [
+            "Tharja - 'Normal Girl'",
+            "Xander - Dancing Knight",
+            "Camilla - Midnight Bloom"
+          ]
         },
         "#": { "5": ["Takumi - Wild Card", "Gatekeeper - Nothing to Report"] }
       },
@@ -5489,7 +5518,10 @@
       "icon": "skillA/Close_Reversal.png"
     },
     "Close Salvo": {
-      "pool": { "duo": { "5": ["Chrom - Fate-Defying Duo"] } },
+      "pool": {
+        "duo": { "5": ["Chrom - Fate-Defying Duo"] },
+        "special": { "5": ["Camilla - Midnight Bloom"] }
+      },
       "id": "Close Salvo",
       "name": "近反・攻擊的奮擊",
       "sp": 300,
@@ -6759,7 +6791,7 @@
           "4": ["Karin - Driven Knight"],
           "5": ["Eyvel - Mistress of Fiana"]
         },
-        "grail": { "4": ["Zelot - Avowed Groom"] },
+        "grail": { "4": ["Zelot - Avowed Groom", "Haar - Tempest Runner"] },
         "special": {
           "5": ["Oboro - Fierce Bride-to-Be", "Hilda - Holiday Layabout"]
         }
@@ -6906,7 +6938,10 @@
     "Atk/Def Catch 3": {
       "pool": {
         "#": { "5": ["Gustav - Sovereign Slain", "Zeke - Past Unknown"] },
-        "special": { "5": ["Múspell - Raging Inferno"] },
+        "special": {
+          "4": ["Heath - Wyvern Ninja"],
+          "5": ["Múspell - Raging Inferno"]
+        },
         "grail": {
           "5": ["Sedgar - Coyote's Dutiful", "Jeralt - Blade Breaker"]
         },
@@ -6930,6 +6965,7 @@
     },
     "Atk/Res Catch 3": {
       "pool": {
+        "duo": { "5": ["Laegjarn - Flame and Frost"] },
         "#": { "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"] },
         "special": {
           "4": ["Naga - Harvest Divinity"],
@@ -6943,6 +6979,7 @@
     },
     "Atk/Res Catch 4": {
       "pool": {
+        "duo": { "5": ["Laegjarn - Flame and Frost"] },
         "#": { "5": ["Letizia - Curse Director", "Hapi - Drawn-Out Sigh"] },
         "special": { "5": ["Micaiah - Wavecrest Maiden"] }
       },
@@ -7691,6 +7728,7 @@
     },
     "Seal Def 3": {
       "pool": {
+        "duo": { "5": ["Laegjarn - Flame and Frost"] },
         "#": {
           "4": ["Oboro - Fierce Fighter"],
           "5": ["Roy - Young Lion", "Ephraim - Restoration Lord"]
@@ -7698,8 +7736,15 @@
       },
       "id": "Seal Def 3",
       "name": "防守封印3",
-      "sp": 200,
+      "sp": 160,
       "icon": "skillB/Seal_Def_3.png"
+    },
+    "Seal Def 4": {
+      "pool": { "duo": { "5": ["Laegjarn - Flame and Frost"] } },
+      "id": "Seal Def 4",
+      "name": "防守封印4",
+      "sp": 300,
+      "icon": "skillB/Seal_Def_4.png"
     },
     "Seal Res 3": {
       "pool": {
@@ -7707,12 +7752,25 @@
           "4": ["Raigh - Dark Child"],
           "5": ["Corrin - Fateful Princess"]
         },
-        "special": { "5": ["Lucina - Spring Exalt", "Leo - Seashore's Prince"] }
+        "special": {
+          "5": [
+            "Lucina - Spring Exalt",
+            "Camilla - Midnight Bloom",
+            "Leo - Seashore's Prince"
+          ]
+        }
       },
       "id": "Seal Res 3",
       "name": "魔防封印3",
       "sp": 160,
       "icon": "skillB/Seal_Res_3.png"
+    },
+    "Seal Res 4": {
+      "pool": { "special": { "5": ["Camilla - Midnight Bloom"] } },
+      "id": "Seal Res 4",
+      "name": "魔防封印4",
+      "sp": 300,
+      "icon": "skillB/Seal_Res_4.png"
     },
     "Seal Atk/Spd 2": {
       "pool": { "special": { "5": ["Frederick - Horizon Watcher"] } },
@@ -9023,7 +9081,8 @@
     "A/D Near Trace 3": {
       "pool": {
         "#": { "5": ["Gustav - Sovereign Slain"] },
-        "harmonized": { "5": ["Catria - Azure Wing Pair"] }
+        "harmonized": { "5": ["Catria - Azure Wing Pair"] },
+        "special": { "5": ["Cherche - Shaded by Wings"] }
       },
       "id": "A/D Near Trace 3",
       "name": "攻擊防守近影3",
@@ -9753,7 +9812,8 @@
             "Laevatein - Ninja of Múspell",
             "Plumeria - Temptation Anew",
             "Shanna - Bridal Novice",
-            "Sothe - Rushing Dawn"
+            "Sothe - Rushing Dawn",
+            "Cherche - Shaded by Wings"
           ]
         },
         "duo": { "5": ["Dagr - New Year Jötnar"] },
@@ -9773,7 +9833,8 @@
           "5": [
             "Katarina - Torchlit Wanderer",
             "Sophia - Prescient Bride",
-            "Naga - Harvest Divinity"
+            "Naga - Harvest Divinity",
+            "Camilla - Midnight Bloom"
           ]
         },
         "#": { "5": ["Palla - Kind Eldest Sister"] },
@@ -9821,8 +9882,19 @@
       "sp": 240,
       "icon": "skillC/Def_Res_Rein_3.png"
     },
+    "Atk/Def Hold": {
+      "pool": { "special": { "5": ["Cherche - Shaded by Wings"] } },
+      "id": "Atk/Def Hold",
+      "name": "攻擊防守大牽制",
+      "sp": 300,
+      "icon": "skillC/Atk_Def_Hold.png"
+    },
     "Atk/Res Hold": {
-      "pool": { "special": { "5": ["Sophia - Prescient Bride"] } },
+      "pool": {
+        "special": {
+          "5": ["Sophia - Prescient Bride", "Camilla - Midnight Bloom"]
+        }
+      },
       "id": "Atk/Res Hold",
       "name": "攻擊魔防大牽制",
       "sp": 300,
@@ -10544,6 +10616,7 @@
           ]
         },
         "legendary": { "5": ["Hríd - Icy Blade"] },
+        "duo": { "5": ["Laegjarn - Flame and Frost"] },
         "grail": {
           "4": ["Brigand Boss - Known Criminal"],
           "5": ["Fiora - Defrosted Ilian"]
@@ -10558,7 +10631,10 @@
       "icon": "skillC/Atk_Smoke_3.png"
     },
     "Atk Smoke 4": {
-      "pool": { "#": { "5": ["Gustav - Sovereign Slain"] } },
+      "pool": {
+        "#": { "5": ["Gustav - Sovereign Slain"] },
+        "duo": { "5": ["Laegjarn - Flame and Frost"] }
+      },
       "id": "Atk Smoke 4",
       "name": "攻擊紫煙4",
       "sp": 300,
@@ -10618,7 +10694,13 @@
     "Pulse Smoke 3": {
       "pool": {
         "mythic": { "5": ["Freyja - Lady of Nightmare"] },
-        "special": { "5": ["Brigid - Orgahil Pirate", "Pent - Fancy Fiancé"] },
+        "special": {
+          "5": [
+            "Brigid - Orgahil Pirate",
+            "Pent - Fancy Fiancé",
+            "Heath - Wyvern Ninja"
+          ]
+        },
         "#": { "5": ["Ced - Hero on the Wind", "Igrene - Nabata Protector"] },
         "harmonized": { "5": ["Leif - Destined Scions"] },
         "legendary": { "5": ["Lilina - Firelight Leader"] }
@@ -11370,7 +11452,7 @@
     "Atk/Def Oath 3": {
       "pool": {
         "#": { "5": ["Kamui - Wandering Blade"] },
-        "grail": { "5": ["Kyza - Tiger of Fortune"] },
+        "grail": { "5": ["Kyza - Tiger of Fortune", "Haar - Tempest Runner"] },
         "mythic": { "5": ["Altina - Dawn's Trueblade"] }
       },
       "id": "Atk/Def Oath 3",

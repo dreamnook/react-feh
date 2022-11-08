@@ -1800,6 +1800,27 @@
       "icon": "skillA/Atk_Def_Catch_3.png",
       "last": true
     },
+    "Spd/Def Catch 1": {
+      "id": "Spd/Def Catch 1",
+      "name": "速度防守的先機1",
+      "sp": 60,
+      "icon": "skillA/Spd_Def_Catch_1.png"
+    },
+    "Spd/Def Catch 2": {
+      "id": "Spd/Def Catch 2",
+      "name": "速度防守的先機2",
+      "sp": 120,
+      "prev": ["Spd/Def Catch 1"],
+      "icon": "skillA/Spd_Def_Catch_2.png"
+    },
+    "Spd/Def Catch 3": {
+      "id": "Spd/Def Catch 3",
+      "name": "速度防守的先機3",
+      "sp": 240,
+      "prev": ["Spd/Def Catch 2"],
+      "icon": "skillA/Spd_Def_Catch_3.png",
+      "last": true
+    },
     "Atk/Res Ideal 1": {
       "id": "Atk/Res Ideal 1",
       "name": "攻擊魔防萬全1",
@@ -5157,6 +5178,24 @@
       "def": 2,
       "prev": ["Squad Ace BK 1"],
       "icon": "seal/Squad_Ace_HP_Def_2.png",
+      "last": true
+    },
+    "Squad Ace BL 1": {
+      "id": "Squad Ace BL 1",
+      "name": "第６４迷宮的霸王1",
+      "sp": 100,
+      "hp": 3,
+      "res": 1,
+      "icon": "seal/Squad_Ace_HP_Res_1.png"
+    },
+    "Squad Ace BL 2": {
+      "id": "Squad Ace BL 2",
+      "name": "第６４迷宮的霸王2",
+      "sp": 200,
+      "hp": 4,
+      "res": 2,
+      "prev": ["Squad Ace BL 1"],
+      "icon": "seal/Squad_Ace_HP_Res_2.png",
       "last": true
     }
   }

@@ -3673,6 +3673,27 @@
         }
       },
       "last": true
+    },
+    "Wyvern Katana": {
+      "id": "Wyvern Katana",
+      "name": "龍忍之劍",
+      "mt": 5,
+      "spd": -8,
+      "def": 5,
+      "res": 5,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Wyvern Katana+": {
+      "id": "Wyvern Katana+",
+      "name": "龍忍之劍+",
+      "mt": 8,
+      "spd": -8,
+      "def": 5,
+      "res": 5,
+      "sp": 300,
+      "prev": ["Wyvern Katana"],
+      "last": true
     }
   },
   "blue-lance": {
@@ -8289,6 +8310,18 @@
       "exclusive": ["Shez - Keen Mercenary"],
       "last": true
     },
+    "Wyvern Ono": {
+      "id": "Wyvern Ono",
+      "name": "愛龍之情的龍斧",
+      "mt": 11,
+      "spd": -8,
+      "def": 5,
+      "res": 5,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Cherche - Shaded by Wings"],
+      "last": true
+    },
     "Iron Axe": {
       "id": "Iron Axe",
       "name": "鐵斧",
@@ -10661,6 +10694,19 @@
       },
       "last": true
     },
+    "Flamefrost Bow": {
+      "id": "Flamefrost Bow",
+      "name": "炎與冰之公主的輝弓",
+      "mt": 8,
+      "spd": -8,
+      "def": 5,
+      "res": 5,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Laegjarn - Flame and Frost"],
+      "last": true
+    },
     "Iron Bow": {
       "id": "Iron Bow",
       "name": "鐵弓",
@@ -11921,6 +11967,27 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Wyvern Yumi": {
+      "id": "Wyvern Yumi",
+      "name": "龍忍之弓",
+      "mt": 3,
+      "spd": -8,
+      "def": 5,
+      "res": 5,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Wyvern Yumi+": {
+      "id": "Wyvern Yumi+",
+      "name": "龍忍之弓+",
+      "mt": 6,
+      "spd": -8,
+      "def": 5,
+      "res": 5,
+      "sp": 300,
+      "prev": ["Wyvern Yumi"],
       "last": true
     }
   },
@@ -15425,6 +15492,19 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Leila - Keen Lookout"],
+      "last": true
+    },
+    "Flowery Scroll": {
+      "id": "Flowery Scroll",
+      "name": "艷花忍法帳",
+      "mt": 8,
+      "spd": -8,
+      "def": 5,
+      "res": 5,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Fenrir"],
+      "exclusive": ["Camilla - Midnight Bloom"],
       "last": true
     },
     "Fire": {

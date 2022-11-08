@@ -1018,14 +1018,14 @@
   "Seal Def 1": {
     "id": "Seal Def 1",
     "name": "防守封印1",
-    "sp": 50,
+    "sp": 40,
     "rules": "not.white-staff",
     "icon": "skillB/Seal_Def_1.png"
   },
   "Seal Def 2": {
     "id": "Seal Def 2",
     "name": "防守封印2",
-    "sp": 100,
+    "sp": 80,
     "prev": ["Seal Def 1"],
     "rules": "not.white-staff",
     "icon": "skillB/Seal_Def_2.png"
@@ -1033,10 +1033,19 @@
   "Seal Def 3": {
     "id": "Seal Def 3",
     "name": "防守封印3",
-    "sp": 200,
+    "sp": 160,
     "prev": ["Seal Def 2"],
     "rules": "not.white-staff",
     "icon": "skillB/Seal_Def_3.png",
+    "last": true
+  },
+  "Seal Def 4": {
+    "id": "Seal Def 4",
+    "name": "防守封印4",
+    "sp": 300,
+    "prev": ["Seal Def 3"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Seal_Def_4.png",
     "last": true
   },
   "Seal Res 1": {
@@ -1061,6 +1070,15 @@
     "prev": ["Seal Res 2"],
     "rules": "not.white-staff",
     "icon": "skillB/Seal_Res_3.png",
+    "last": true
+  },
+  "Seal Res 4": {
+    "id": "Seal Res 4",
+    "name": "魔防封印4",
+    "sp": 300,
+    "prev": ["Seal Res 3"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Seal_Res_4.png",
     "last": true
   },
   "Seal Atk/Spd 1": {

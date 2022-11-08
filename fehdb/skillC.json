@@ -913,6 +913,15 @@
     "icon": "skillC/Def_Res_Rein_3.png",
     "last": true
   },
+  "Atk/Def Hold": {
+    "id": "Atk/Def Hold",
+    "name": "攻擊防守大牽制",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Atk/Def Rein 3"],
+    "last": true,
+    "icon": "skillC/Atk_Def_Hold.png"
+  },
   "Atk/Res Hold": {
     "id": "Atk/Res Hold",
     "name": "攻擊魔防大牽制",

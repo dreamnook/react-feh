@@ -1528,6 +1528,45 @@
     "book": 5,
     "ver": "5.11"
   },
+  "Laegjarn - Flame and Frost": {
+    "id": "Laegjarn - Flame and Frost",
+    "title": "炎冰之忍",
+    "name": "瑞瓦伽倫",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-bow",
+    "bst": 200,
+    "pool": "duo",
+    "releaseDate": "2022-11-08",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [16, 19, 22],
+        "def": [34, 37, 40],
+        "res": [34, 38, 41]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 4,
+        "def": 9,
+        "res": 5
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 178,
+    "statMax": 180,
+    "voice": {
+      "en": "Abby Trott + Heather Hogan",
+      "jp": "Tamura Yukari (田村ゆかり) with Takahashi Rie (高橋李依)"
+    },
+    "book": 6,
+    "ver": "6.11"
+  },
   "Laevatein - Searing Steel": {
     "id": "Laevatein - Searing Steel",
     "title": "炎劍",
@@ -18539,6 +18578,58 @@
     "book": 4,
     "ver": "4.2"
   },
+  "Heath - Wyvern Ninja": {
+    "id": "Heath - Wyvern Ninja",
+    "title": "龍騎士忍道",
+    "name": "希斯",
+    "rarity": [5, 4],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-bow",
+    "pool": "special",
+    "releaseDate": "2022-11-08",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [38, 41, 45],
+        "spd": [18, 21, 24],
+        "def": [34, 38, 41],
+        "res": [24, 27, 30]
+      },
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [40, 43, 47],
+        "spd": [20, 23, 26],
+        "def": [36, 40, 43],
+        "res": [27, 30, 33]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 5,
+        "def": 7,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 6,
+        "def": 7,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["def"],
+    "statMin": 178,
+    "statMax": 180,
+    "voice": {
+      "en": "Nathaniel Lane",
+      "jp": "Seki Tomokazu (関智一)"
+    },
+    "book": 6,
+    "ver": "6.11"
+  },
   "Fiora - Defrosted Ilian": {
     "id": "Fiora - Defrosted Ilian",
     "title": "盛夏的伊利亞騎士",
@@ -26864,6 +26955,58 @@
     "book": 3,
     "ver": "3.4"
   },
+  "Haar - Tempest Runner": {
+    "id": "Haar - Tempest Runner",
+    "title": "疾風送貨員",
+    "name": "哈魯",
+    "rarity": [5, 4],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-sword",
+    "pool": "grail",
+    "releaseDate": "2022-11-08",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "4": {
+        "hp": [38, 41, 44],
+        "atk": [37, 40, 44],
+        "spd": [19, 22, 25],
+        "def": [39, 42, 46],
+        "res": [22, 25, 28]
+      },
+      "5": {
+        "hp": [41, 44, 47],
+        "atk": [39, 42, 46],
+        "spd": [21, 24, 28],
+        "def": [41, 44, 48],
+        "res": [25, 28, 31]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 4,
+        "def": 14,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 5,
+        "def": 14,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd", "def"],
+    "flaws": [],
+    "statMin": 182,
+    "statMax": 185,
+    "voice": {
+      "en": "Jake Eberle",
+      "jp": "Eguchi Takuya (江口拓也)"
+    },
+    "book": 6,
+    "ver": "6.11"
+  },
   "Yune - Chaos Goddess": {
     "id": "Yune - Chaos Goddess",
     "title": "甦醒的負之女神",
@@ -29960,6 +30103,44 @@
     },
     "book": 1,
     "ver": "1.0"
+  },
+  "Cherche - Shaded by Wings": {
+    "id": "Cherche - Shaded by Wings",
+    "title": "愛龍與隱藏的影子",
+    "name": "塞爾裘",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2022-11-08",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [41, 44, 48],
+        "spd": [17, 20, 23],
+        "def": [40, 44, 47],
+        "res": [29, 32, 35]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 14,
+        "spd": 3,
+        "def": 11,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["def"],
+    "statMin": 183,
+    "statMax": 185,
+    "voice": {
+      "en": "Amanda Miller",
+      "jp": "Takada Yuuki (高田憂希)"
+    },
+    "book": 6,
+    "ver": "6.11"
   },
   "Tiki - Naga's Voice": {
     "id": "Tiki - Naga's Voice",
@@ -35018,6 +35199,44 @@
     },
     "book": 3,
     "ver": "3.8"
+  },
+  "Camilla - Midnight Bloom": {
+    "id": "Camilla - Midnight Bloom",
+    "title": "暗夜中舞動的花朵",
+    "name": "卡美拉",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-tome",
+    "pool": "special",
+    "releaseDate": "2022-11-08",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [40, 43, 47],
+        "spd": [16, 19, 22],
+        "def": [29, 32, 35],
+        "res": [37, 40, 44]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 13,
+        "spd": 4,
+        "def": 6,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp"],
+    "statMin": 172,
+    "statMax": 175,
+    "voice": {
+      "en": "Misty Lee",
+      "jp": "Sawashiro Miyuki (沢城みゆき)"
+    },
+    "book": 6,
+    "ver": "6.11"
   },
   "Selena - Cutting Wit": {
     "id": "Selena - Cutting Wit",

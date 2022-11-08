@@ -191,6 +191,17 @@
     "skillA": { "HP 3": { "sp": 160, "rarity": 4 } },
     "skillB": { "Brash Assault 3": { "sp": 200, "rarity": 5 } }
   },
+  "Oboro - Fierce Fighter": {
+    "score": 80,
+    "scoreTotal": 80,
+    "poolRarity": 3,
+    "sp": 200,
+    "spTotal": 360,
+    "feather": 150,
+    "bst": 157,
+    "skillB": { "Seal Def 3": { "sp": 160, "rarity": 4 } },
+    "skillC": { "Threaten Res 3": { "sp": 200, "rarity": 5 } }
+  },
   "Nino - Pious Mage": {
     "score": 80,
     "scoreTotal": 80,
@@ -583,6 +594,18 @@
     "skillA": { "Defiant Def 3": { "sp": 160, "rarity": 4 } },
     "skillB": { "Lunge": { "sp": 150, "rarity": 3 } }
   },
+  "Roy - Young Lion": {
+    "score": 166,
+    "scoreTotal": 166,
+    "poolRarity": 3,
+    "sp": 200,
+    "spTotal": 510,
+    "feather": 150,
+    "bst": 158,
+    "assist": { "Shove": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Triangle Adept 3": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Seal Def 3": { "sp": 160, "rarity": 5 } }
+  },
   "Virion - Elite Archer": {
     "score": 166,
     "scoreTotal": 166,
@@ -869,17 +892,6 @@
     "skillA": { "Darting Blow 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Fortify Fliers": { "sp": 200, "rarity": 4 } }
   },
-  "Oboro - Fierce Fighter": {
-    "score": 166,
-    "scoreTotal": 246,
-    "poolRarity": 3,
-    "sp": 200,
-    "spTotal": 400,
-    "feather": 150,
-    "bst": 157,
-    "skillB": { "Seal Def 3": { "sp": 200, "rarity": 4 } },
-    "skillC": { "Threaten Res 3": { "sp": 200, "rarity": 5 } }
-  },
   "Hana - Focused Samurai": {
     "score": 166,
     "scoreTotal": 246,
@@ -986,18 +998,6 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
     "skillA": { "Triangle Adept 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Threaten Spd 3": { "sp": 200, "rarity": 4 } }
-  },
-  "Roy - Young Lion": {
-    "score": 166,
-    "scoreTotal": 246,
-    "poolRarity": 3,
-    "sp": 200,
-    "spTotal": 550,
-    "feather": 150,
-    "bst": 158,
-    "assist": { "Shove": { "sp": 150, "rarity": 3 } },
-    "skillA": { "Triangle Adept 3": { "sp": 200, "rarity": 4 } },
-    "skillB": { "Seal Def 3": { "sp": 200, "rarity": 5 } }
   },
   "Ross - His Father's Son": {
     "score": 166,
@@ -2199,6 +2199,18 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillB": { "Desperation 3": { "sp": 200, "rarity": 5 } }
   },
+  "Ephraim - Restoration Lord": {
+    "score": 200,
+    "scoreTotal": 400,
+    "poolRarity": 5,
+    "sp": 200,
+    "spTotal": 560,
+    "feather": 1000,
+    "bst": 157,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Seal Def 3": { "sp": 160, "rarity": 5 } },
+    "skillC": { "Threaten Def 3": { "sp": 200, "rarity": 5 } }
+  },
   "Ryoma - Peerless Samurai": {
     "score": 200,
     "scoreTotal": 400,
@@ -2752,6 +2764,19 @@
     "special": { "Astra": { "sp": 200, "rarity": 4 } },
     "skillB": { "Chill Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd/Def Gap 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Heath - Wyvern Ninja": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 178,
+    "special": { "Bonfire": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Lyon - Sunlit Prince": {
     "score": 196,
@@ -3865,18 +3890,6 @@
     "skillA": { "Life and Death 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Threaten Spd 3": { "sp": 200, "rarity": 5 } }
   },
-  "Ephraim - Restoration Lord": {
-    "score": 200,
-    "scoreTotal": 600,
-    "poolRarity": 5,
-    "sp": 200,
-    "spTotal": 600,
-    "feather": 1000,
-    "bst": 157,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Seal Def 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Threaten Def 3": { "sp": 200, "rarity": 5 } }
-  },
   "Minerva - Red Dragoon": {
     "score": 200,
     "scoreTotal": 600,
@@ -4081,6 +4094,19 @@
     "assist": { "Smite": { "sp": 150, "rarity": 4 } },
     "skillA": { "Sturdy Blow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Haar - Tempest Runner": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 182,
+    "assist": { "Swap": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 5 } }
   },
   "Marisa - Crimson Flash": {
     "score": 249,
@@ -7284,6 +7310,19 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Res Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Cherche - Shaded by Wings": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillB": { "A/D Near Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Hold": { "sp": 300, "rarity": 5 } }
   },
   "Dheginsea - Harvest Goldoan": {
     "score": 318,
@@ -10636,6 +10675,20 @@
     "skillB": { "Chill Atk 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Fliers": { "sp": 200, "rarity": 5 } }
   },
+  "Camilla - Midnight Bloom": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 172,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Close Salvo": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Seal Res 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Res Hold": { "sp": 300, "rarity": 5 } }
+  },
   "Corrin - Starry Seer": {
     "score": 318,
     "scoreTotal": 1166,
@@ -10649,6 +10702,20 @@
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Wrath 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
+  },
+  "Laegjarn - Flame and Frost": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Ophelia - Dramatic Heroine": {
     "score": 400,
