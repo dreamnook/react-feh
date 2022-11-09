@@ -2141,6 +2141,21 @@
       "icon": "skillB/Chill_Spd_Res_2.png",
       "last": true
     },
+    "Chill Def/Res 1": {
+      "id": "Chill Def/Res 1",
+      "name": "防守魔防封殺1",
+      "sp": 120,
+      "prev": ["Chill Def 1", "Chill Res 1"],
+      "icon": "skillB/Chill_Def_Res_1.png"
+    },
+    "Chill Def/Res 2": {
+      "id": "Chill Def/Res 2",
+      "name": "防守魔防封殺2",
+      "sp": 240,
+      "prev": ["Chill Def/Res 1"],
+      "icon": "skillB/Chill_Def_Res_2.png",
+      "last": true
+    },
     "Flier Formation 1": {
       "id": "Flier Formation 1",
       "name": "編隊飛行1",
