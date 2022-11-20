@@ -305,6 +305,14 @@
     "last": true,
     "icon": "skillC/Woeful_Upheaval.png"
   },
+  "All Together!": {
+    "id": "All Together!",
+    "name": "和大家永遠在一起",
+    "sp": 300,
+    "exclusive": ["Tiki - Awakened Blood"],
+    "last": true,
+    "icon": "skillC/All_Together!.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

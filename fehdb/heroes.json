@@ -1082,7 +1082,7 @@
     "statMax": 160,
     "voice": {
       "en": "Mark P. Whitten",
-      "jp": "Matsuoka Yoshitsugu (松岡禎丞)"
+      "jp": "Yoshitsugu Matsuoka (松岡禎丞)"
     },
     "book": 2,
     "ver": "2.11"
@@ -1120,7 +1120,7 @@
     "statMax": 165,
     "voice": {
       "en": "Mark P. Whitten",
-      "jp": "Matsuoka Yoshitsugu (松岡禎丞)"
+      "jp": "Yoshitsugu Matsuoka (松岡禎丞)"
     },
     "book": 3,
     "ver": "3.1"
@@ -1998,6 +1998,44 @@
     },
     "book": 6,
     "ver": "6.7"
+  },
+  "Ganglöt - Death Anew": {
+    "id": "Ganglöt - Death Anew",
+    "title": "新死神",
+    "name": "甘葛蕾特",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "rearmed": true,
+    "releaseDate": "2022-11-18",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [27, 30, 33],
+        "def": [35, 38, 42],
+        "res": [32, 35, 38]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 4,
+        "def": 8,
+        "res": 11
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp"],
+    "statMin": 187,
+    "statMax": 190,
+    "voice": {
+      "en": "Shara Kirby",
+      "jp": "You Taichi (大地葉)"
+    },
+    "book": 6,
+    "ver": "6.11"
   },
   "Líf - Lethal Swordsman": {
     "id": "Líf - Lethal Swordsman",
@@ -3560,6 +3598,43 @@
     "book": 4,
     "ver": "4.7"
   },
+  "Elice - Altean Princess": {
+    "id": "Elice - Altean Princess",
+    "title": "阿利提亞的公主",
+    "name": "艾莉絲",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-staff",
+    "releaseDate": "2022-11-18",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [32, 35, 38],
+        "def": [23, 27, 30],
+        "res": [31, 34, 37]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 5,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def"],
+    "statMin": 177,
+    "statMax": 180,
+    "voice": {
+      "en": "Jenny Yokobori",
+      "jp": "Shimamoto Sumi (島本須美)"
+    },
+    "book": 6,
+    "ver": "6.11"
+  },
   "Jagen - Veteran Knight": {
     "id": "Jagen - Veteran Knight",
     "title": "馬爾斯的軍師",
@@ -4558,6 +4633,43 @@
     "book": 4,
     "ver": "4.8"
   },
+  "Nyna - The Last Princess": {
+    "id": "Nyna - The Last Princess",
+    "title": "最後的公主",
+    "name": "妮娜",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-staff",
+    "releaseDate": "2022-11-18",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [31, 34, 37],
+        "spd": [38, 41, 45],
+        "def": [20, 23, 26],
+        "res": [35, 38, 42]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 11,
+        "def": 6,
+        "res": 8
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 176,
+    "statMax": 180,
+    "voice": {
+      "en": "Natalie Rial",
+      "jp": "佐久間レイ"
+    },
+    "book": 6,
+    "ver": "6.11"
+  },
   "Linde - Light Mage": {
     "id": "Linde - Light Mage",
     "title": "光之魔道士",
@@ -5524,6 +5636,72 @@
     "book": 4,
     "ver": "4.7"
   },
+  "Matthis - Brother to Lena": {
+    "id": "Matthis - Brother to Lena",
+    "title": "蕾娜修女的哥哥",
+    "name": "瑪吉斯",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-lance",
+    "pool": "grail",
+    "releaseDate": "2022-11-18",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [35, 38, 41],
+        "spd": [25, 28, 31],
+        "def": [31, 34, 37],
+        "res": [19, 22, 25]
+      },
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [37, 41, 44],
+        "spd": [26, 29, 32],
+        "def": [33, 36, 39],
+        "res": [20, 23, 26]
+      },
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [39, 43, 46],
+        "spd": [29, 32, 35],
+        "def": [35, 38, 41],
+        "res": [22, 25, 29]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 7,
+        "def": 9,
+        "res": 5
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 7,
+        "def": 10,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 8,
+        "def": 10,
+        "res": 6
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["atk"],
+    "statMin": 179,
+    "statMax": 180,
+    "voice": {
+      "en": "Sterling Sulieman",
+      "jp": "Reiou Tsuchida (土田玲央)"
+    },
+    "book": 6,
+    "ver": "6.11"
+  },
   "Rickard - Carefree Culprit": {
     "id": "Rickard - Carefree Culprit",
     "title": "得意忘形的怪盜",
@@ -5715,6 +5893,43 @@
     },
     "book": 2,
     "ver": "2.2"
+  },
+  "Hardin - The Coyote": {
+    "id": "Hardin - The Coyote",
+    "title": "草原之狼",
+    "name": "哈汀",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-lance",
+    "releaseDate": "2022-11-18",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [38, 41, 45],
+        "spd": [40, 44, 47],
+        "def": [29, 32, 35],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 11,
+        "def": 6,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd"],
+    "statMin": 179,
+    "statMax": 180,
+    "voice": {
+      "en": "Richard Epcar",
+      "jp": "Nakaya Kazuhiro (中谷一博)"
+    },
+    "book": 6,
+    "ver": "6.11"
   },
   "Wolf - Coyote's Loyal": {
     "id": "Wolf - Coyote's Loyal",
@@ -6306,6 +6521,43 @@
     },
     "book": 4,
     "ver": "4.10"
+  },
+  "Tiki - Awakened Blood": {
+    "id": "Tiki - Awakened Blood",
+    "title": "搖曳的神龍血脈",
+    "name": "琪姬",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-dragon",
+    "releaseDate": "2022-11-18",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [35, 38, 41],
+        "atk": [39, 42, 45],
+        "spd": [41, 44, 48],
+        "def": [29, 32, 35],
+        "res": [33, 36, 40]
+      },
+      "5-1": {
+        "hp": 14,
+        "atk": 7,
+        "spd": 14,
+        "def": 6,
+        "res": 6
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": [],
+    "statMin": 192,
+    "statMax": 195,
+    "voice": {
+      "en": "Mela Lee",
+      "jp": "Morohoshi Sumire (諸星すみれ)"
+    },
+    "book": 6,
+    "ver": "6.11"
   },
   "Nagi - Dragon Avatar": {
     "id": "Nagi - Dragon Avatar",
@@ -7578,7 +7830,7 @@
     "statMax": 160,
     "voice": {
       "en": "Christopher Patton",
-      "jp": "Saiga Mitsuki (斎賀みつき)"
+      "jp": "Mitsuki Saiga (斎賀みつき)"
     },
     "book": 2,
     "ver": "2.10"
@@ -8985,7 +9237,7 @@
     "statMax": 175,
     "voice": {
       "en": "Connor Kelley + Kayli Mills",
-      "jp": "Nabatame Hitomi (生天目仁美) with Murai Kazusa (村井かずさ)"
+      "jp": "Nabatame Hitomi (生天目仁美) with Kazusa Murai (村井かずさ)"
     },
     "book": 5,
     "ver": "5.5"
@@ -10520,7 +10772,7 @@
     "statMax": 145,
     "voice": {
       "en": "Allegra Clark",
-      "jp": "Kakazu Yumi (かかずゆみ)"
+      "jp": "Yumi Kakazu (かかずゆみ)"
     },
     "book": 2,
     "ver": "2.9"
@@ -10558,7 +10810,7 @@
     "statMax": 160,
     "voice": {
       "en": "Allegra Clark",
-      "jp": "Kakazu Yumi (かかずゆみ)"
+      "jp": "Yumi Kakazu (かかずゆみ)"
     },
     "book": 4,
     "ver": "4.9"
@@ -13761,7 +14013,7 @@
     "statMax": 165,
     "voice": {
       "en": "Brandon Winckler",
-      "jp": "Sakamaki Manabu (坂巻学)"
+      "jp": "Manabu Sakamaki (坂巻学)"
     },
     "book": 4,
     "ver": "4.0"
@@ -15454,7 +15706,7 @@
     "statMax": 165,
     "voice": {
       "en": "Kayli Mills",
-      "jp": "Murai Kazusa (村井かずさ)"
+      "jp": "Kazusa Murai (村井かずさ)"
     },
     "book": 3,
     "ver": "3.3"
@@ -15954,7 +16206,7 @@
     "statMax": 170,
     "voice": {
       "en": "Brian Kimmet",
-      "jp": "Mizunaka Masaaki (水中雅章)"
+      "jp": "Masaaki Mizunaka (水中雅章)"
     },
     "book": 3,
     "ver": "3.3"
@@ -23446,7 +23698,7 @@
     "statMax": 175,
     "voice": {
       "en": "Frank Todaro",
-      "jp": "Nagasako Takashi (長嶝高士)"
+      "jp": "Takashi Nagasako (長嶝高士)"
     },
     "book": 3,
     "ver": "3.2"
@@ -24198,7 +24450,7 @@
     "statMax": 165,
     "voice": {
       "en": "Katelyn Gault",
-      "jp": "Nakae Mitsuki (中恵光城)"
+      "jp": "Mitsuki Nakae (中恵光城)"
     },
     "book": 3,
     "ver": "3.5"
@@ -24263,7 +24515,7 @@
     "statMax": 180,
     "voice": {
       "en": "Katelyn Gault",
-      "jp": "Nakae Mitsuki (中恵光城)"
+      "jp": "Mitsuki Nakae (中恵光城)"
     },
     "book": 5,
     "ver": "5.11"
@@ -26294,7 +26546,7 @@
     "statMax": 150,
     "voice": {
       "en": "Frank Todaro",
-      "jp": "Ishida Akira (石田彰)"
+      "jp": "Akira Ishida (石田彰)"
     },
     "book": 3,
     "ver": "3.1"
@@ -28471,7 +28723,7 @@
     "statMax": 180,
     "voice": {
       "en": "Yuri Lowenthal",
-      "jp": "Masuda Yuki (増田ゆき)"
+      "jp": "Yuki Masuda (増田ゆき)"
     },
     "book": 6,
     "ver": "6.10"
@@ -28621,13 +28873,20 @@
     "id": "Phila - Pegasus Master",
     "title": "天馬的忠誠",
     "name": "菲蓮",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "moveType": "flying",
     "weaponType": "blue-lance",
     "releaseDate": "2022-10-17",
     "appearsIn": ["Awakening"],
     "stats": {
+      "3": {
+        "hp": [31, 34, 37],
+        "atk": [30, 33, 36],
+        "spd": [35, 38, 41],
+        "def": [19, 22, 25],
+        "res": [33, 36, 39]
+      },
       "4": {
         "hp": [32, 35, 38],
         "atk": [31, 34, 37],
@@ -28641,6 +28900,13 @@
         "spd": [39, 42, 46],
         "def": [22, 26, 29],
         "res": [37, 40, 43]
+      },
+      "3-1": {
+        "hp": 15,
+        "atk": 8,
+        "spd": 11,
+        "def": 3,
+        "res": 11
       },
       "4-1": {
         "hp": 15,
@@ -28663,7 +28929,7 @@
     "statMax": 185,
     "voice": {
       "en": "Nicole Balick",
-      "jp": "神田みか"
+      "jp": "Mika Kanda (神田みか)"
     },
     "book": 6,
     "ver": "6.10"
@@ -29269,7 +29535,7 @@
     "statMax": 170,
     "voice": {
       "en": "Taliesin Jaffe",
-      "jp": "Sakamaki Manabu (坂巻学)"
+      "jp": "Manabu Sakamaki (坂巻学)"
     },
     "book": 4,
     "ver": "4.6"
@@ -30483,7 +30749,7 @@
     "statMax": 160,
     "voice": {
       "en": "Jessica Gee-George",
-      "jp": "Masuda Yuki (増田ゆき)"
+      "jp": "Yuki Masuda (増田ゆき)"
     },
     "book": 3,
     "ver": "3.2"
@@ -32729,7 +32995,7 @@
     "statMax": 175,
     "voice": {
       "en": "Danielle Judovitz",
-      "jp": "Murai Kazusa (村井かずさ)"
+      "jp": "Kazusa Murai (村井かずさ)"
     },
     "book": 4,
     "ver": "4.4"
@@ -32766,7 +33032,7 @@
     "statMax": 185,
     "voice": {
       "en": "Danielle Judovitz",
-      "jp": "Murai Kazusa (村井かずさ)"
+      "jp": "Kazusa Murai (村井かずさ)"
     },
     "book": 6,
     "ver": "6.5"
@@ -35966,7 +36232,7 @@
     "statMax": 160,
     "voice": {
       "en": "—",
-      "jp": "Okumura Shou (奥村翔)"
+      "jp": "Shou Okumura (奥村翔)"
     },
     "book": 2,
     "ver": "2.9"
@@ -36690,7 +36956,7 @@
     "statMax": 160,
     "voice": {
       "en": "Lexi Klein",
-      "jp": "Nakae Mitsuki (中恵光城)"
+      "jp": "Mitsuki Nakae (中恵光城)"
     },
     "book": 3,
     "ver": "3.2"
@@ -36728,7 +36994,7 @@
     "statMax": 165,
     "voice": {
       "en": "Lexi Klein",
-      "jp": "Nakae Mitsuki (中恵光城)"
+      "jp": "Mitsuki Nakae (中恵光城)"
     },
     "book": 4,
     "ver": "4.1"

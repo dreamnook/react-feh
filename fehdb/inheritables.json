@@ -496,6 +496,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Vulture Lance+": {
+        "pool": { "grail": { "5": ["Matthis - Brother to Lena"] } },
+        "id": "Vulture Lance+",
+        "name": "禿鷹之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Berkut's Lance+": {
         "pool": { "grail": { "5": ["Berkut - Prideful Prince"] } },
         "id": "Berkut's Lance+",
@@ -664,6 +671,13 @@
       }
     },
     "green-axe": {
+      "Arcane Downfall": {
+        "pool": { "#": { "5": ["Ganglöt - Death Anew"] } },
+        "id": "Arcane Downfall",
+        "name": "魔器・絕死赫爾",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Axe+": {
         "pool": { "#": { "5": ["Gunter - Inveterate Soldier"] } },
         "id": "Silver Axe+",
@@ -2140,7 +2154,9 @@
         "refine": 350
       },
       "Trilemma+": {
-        "pool": { "#": { "5": ["Maribelle - Dire Damsel"] } },
+        "pool": {
+          "#": { "5": ["Elice - Altean Princess", "Maribelle - Dire Damsel"] }
+        },
         "id": "Trilemma+",
         "name": "托里連瑪+",
         "sp": 300,
@@ -2164,6 +2180,13 @@
         "pool": { "special": { "5": ["Lyn - Bride of the Plains"] } },
         "id": "Candlelight+",
         "name": "燭光+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Respite+": {
+        "pool": { "#": { "5": ["Nyna - The Last Princess"] } },
+        "id": "Respite+",
+        "name": "聖域+",
         "sp": 300,
         "refine": 350
       },
@@ -2360,6 +2383,7 @@
       "pool": {
         "#": {
           "5": [
+            "Nyna - The Last Princess",
             "Maria - Minerva's Sister",
             "Genny - Endearing Ally",
             "Lachesis - Lionheart's Sister",
@@ -2459,6 +2483,7 @@
         "#": {
           "5": [
             "Loki - The Trickster",
+            "Elice - Altean Princess",
             "Nanna - Nordion Princess",
             "Camilla - Light of Nohr"
           ]
@@ -3593,6 +3618,7 @@
             "Eir - Life Ascendant",
             "Letizia - Curse Director",
             "Marth - Prince of Light",
+            "Hardin - The Coyote",
             "Alm - Hero of Prophecy",
             "Alm - Imperial Ascent",
             "Quan - Luminous Lancer",
@@ -3878,6 +3904,8 @@
             "Niles - Cruel to Be Kind"
           ],
           "5": [
+            "Ganglöt - Death Anew",
+            "Tiki - Awakened Blood",
             "Est - Sweet Baby Sis",
             "Julia - Heart Usurped",
             "Guinivere - Princess of Bern",
@@ -3999,6 +4027,7 @@
       "pool": {
         "grail": {
           "4": [
+            "Matthis - Brother to Lena",
             "Sedgar - Coyote's Dutiful",
             "Navarre - Scarlet Sword",
             "Naesala - Sky's Shadow",
@@ -4166,6 +4195,7 @@
             "Mercedes - Kindly Devotee"
           ],
           "5": [
+            "Nyna - The Last Princess",
             "Delthea - Free Spirit",
             "Sigurd - Holy Knight",
             "Mist - Helpful Sister",
@@ -4200,7 +4230,7 @@
             "Brady - Daunting Priest",
             "Forrest - Fashion Forward"
           ],
-          "5": ["Genny - Endearing Ally"]
+          "5": ["Elice - Altean Princess", "Genny - Endearing Ally"]
         },
         "grail": {
           "4": [
@@ -4838,6 +4868,7 @@
         "#": {
           "5": [
             "Laegjarn - Flame Ascendant",
+            "Hardin - The Coyote",
             "Katarina - Wayward One",
             "Luthier - Odd Wayfarer",
             "Ayra - Astra's Wielder",
@@ -5073,6 +5104,7 @@
       "pool": {
         "#": {
           "5": [
+            "Hardin - The Coyote",
             "Galzus - Dark Blade of Od",
             "Eirika - Pledged Restorer",
             "Chrom - Fated Honor"
@@ -5564,6 +5596,7 @@
         },
         "#": {
           "5": [
+            "Ganglöt - Death Anew",
             "Marth - Prince of Light",
             "Nagi - Dragon Avatar",
             "Hector - General of Ostia",
@@ -5625,6 +5658,7 @@
     },
     "Distant Stance": {
       "pool": {
+        "#": { "5": ["Ganglöt - Death Anew"] },
         "legendary": { "5": ["Fae - Childlike Dragon"] },
         "special": { "5": ["Corrin - Celestial Sorcerer"] }
       },
@@ -7088,6 +7122,7 @@
     },
     "Atk/Res Ideal 3": {
       "pool": {
+        "#": { "5": ["Elice - Altean Princess"] },
         "grail": { "5": ["Hilda - Queen of Friege", "Riev - Blood Beryl"] },
         "mythic": { "5": ["Ashera - Order Goddess"] }
       },
@@ -7231,6 +7266,20 @@
       "name": "攻擊魔防的奧秘4",
       "sp": 300,
       "icon": "skillA/Atk_Res_Finish_4.png"
+    },
+    "Spd/Res Finish 3": {
+      "pool": { "#": { "5": ["Tiki - Awakened Blood"] } },
+      "id": "Spd/Res Finish 3",
+      "name": "速度魔防的奧秘3",
+      "sp": 240,
+      "icon": "skillA/Spd_Res_Finish_3.png"
+    },
+    "Spd/Res Finish 4": {
+      "pool": { "#": { "5": ["Tiki - Awakened Blood"] } },
+      "id": "Spd/Res Finish 4",
+      "name": "速度魔防的奧秘4",
+      "sp": 300,
+      "icon": "skillA/Spd_Res_Finish_4.png"
     }
   },
   "skillB": {
@@ -7446,6 +7495,7 @@
         },
         "#": {
           "5": [
+            "Ganglöt - Death Anew",
             "Deirdre - Lady of the Forest",
             "Klein - Silver Nobleman",
             "Dorcas - Serene Warrior",
@@ -7461,6 +7511,13 @@
       "name": "回擊3",
       "sp": 240,
       "icon": "skillB/Quick_Riposte_3.png"
+    },
+    "Quick Riposte 4": {
+      "pool": { "#": { "5": ["Ganglöt - Death Anew"] } },
+      "id": "Quick Riposte 4",
+      "name": "回擊4",
+      "sp": 300,
+      "icon": "skillB/Quick_Riposte_4.png"
     },
     "Wary Fighter 3": {
       "pool": {
@@ -7932,6 +7989,7 @@
     },
     "Chill Atk/Def 2": {
       "pool": {
+        "grail": { "5": ["Matthis - Brother to Lena"] },
         "duo": { "5": ["Lyn - Ninja-Friend Duo"] },
         "special": { "5": ["Lyre - Lap Cat of Luxury"] }
       },
@@ -7998,7 +8056,7 @@
     "Sabotage Spd 3": {
       "pool": {
         "mythic": { "5": ["Plumeria - Lewd Dream"] },
-        "#": { "5": ["Ewan - Eager Student"] },
+        "#": { "5": ["Nyna - The Last Princess", "Ewan - Eager Student"] },
         "special": { "5": ["Selkie - New Year's Spirit"] }
       },
       "id": "Sabotage Spd 3",
@@ -9078,6 +9136,13 @@
       "sp": 240,
       "icon": "skillB/Odd_Pulse_Tie_3.png"
     },
+    "A/S Near Trace 3": {
+      "pool": { "#": { "5": ["Hardin - The Coyote"] } },
+      "id": "A/S Near Trace 3",
+      "name": "攻擊速度近影3",
+      "sp": 240,
+      "icon": "skillB/A_S_Near_Trace_3.png"
+    },
     "A/D Near Trace 3": {
       "pool": {
         "#": { "5": ["Gustav - Sovereign Slain"] },
@@ -9255,6 +9320,13 @@
       "name": "速度防守防護屏障3",
       "sp": 240,
       "icon": "skillB/Spd_Def_Bulwark_3.png"
+    },
+    "Spd/Res Bulwark 3": {
+      "pool": { "#": { "5": ["Tiki - Awakened Blood"] } },
+      "id": "Spd/Res Bulwark 3",
+      "name": "速度魔防防護屏障3",
+      "sp": 240,
+      "icon": "skillB/Spd_Res_Bulwark_3.png"
     },
     "Spd Preempt 3": {
       "pool": { "#": { "5": ["Byleth - Sublime Light"] } },
@@ -9518,7 +9590,11 @@
       "pool": {
         "#": {
           "4": ["Nanna - Nordion Princess"],
-          "5": ["Roderick - Steady Squire", "Gatekeeper - Nothing to Report"]
+          "5": [
+            "Roderick - Steady Squire",
+            "Nyna - The Last Princess",
+            "Gatekeeper - Nothing to Report"
+          ]
         },
         "grail": {
           "4": ["Arden - Strong and Tough", "Linus - Mad Dog"],
@@ -9643,6 +9719,7 @@
         "#": {
           "5": [
             "Laegjarn - Sheathed Steel",
+            "Ganglöt - Death Anew",
             "Roshea - Coyote's Faithful",
             "Merlinus - Pherae's Clerk",
             "Caineghis - Gallia's Lion King",
@@ -9676,6 +9753,7 @@
     },
     "Joint Dist. Guard": {
       "pool": {
+        "#": { "5": ["Ganglöt - Death Anew"] },
         "special": { "5": ["Lilina - Beaming Bride"] },
         "legendary": { "5": ["Micaiah - Radiant Queen"] }
       },
@@ -11261,6 +11339,7 @@
     },
     "Atk/Res Gap 3": {
       "pool": {
+        "#": { "5": ["Elice - Altean Princess"] },
         "special": {
           "4": ["Ilyana - Awakened Appetite"],
           "5": ["Ilyana - Treat Harvester"]
@@ -11410,6 +11489,7 @@
     },
     "Rouse Def/Res 3": {
       "pool": {
+        "grail": { "4": ["Matthis - Brother to Lena"] },
         "#": { "5": ["Perceval - Knightly Ideal", "Duessel - Obsidian"] },
         "legendary": { "5": ["Chrom - Crowned Exalt"] }
       },

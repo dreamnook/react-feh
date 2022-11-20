@@ -5511,6 +5511,16 @@
       },
       "last": true
     },
+    "Coyote's Lance": {
+      "id": "Coyote's Lance",
+      "name": "草原之狼的白槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Hardin - The Coyote"],
+      "last": true
+    },
     "Iron Lance": {
       "id": "Iron Lance",
       "name": "鐵槍",
@@ -6159,6 +6169,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Defier's Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Vulture Lance": {
+      "id": "Vulture Lance",
+      "name": "禿鷹之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Vulture Lance+": {
+      "id": "Vulture Lance+",
+      "name": "禿鷹之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Vulture Lance"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -8320,6 +8363,34 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Cherche - Shaded by Wings"],
+      "last": true
+    },
+    "Arcane Downfall": {
+      "id": "Arcane Downfall",
+      "name": "魔器・絕死赫爾",
+      "mt": 16,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Iron Axe": {
@@ -20131,6 +20202,31 @@
       },
       "last": true
     },
+    "Respite": {
+      "id": "Respite",
+      "name": "聖域",
+      "mt": 8,
+      "sp": 150,
+      "prev": ["Assault"]
+    },
+    "Respite+": {
+      "id": "Respite+",
+      "name": "聖域+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Respite"],
+      "refine": {
+        "wrathful": {
+          "name": "神罰",
+          "icon": "Wrathful_Staff_W"
+        },
+        "dazzling": {
+          "name": "幻惑",
+          "icon": "Dazzling_Staff_W"
+        }
+      },
+      "last": true
+    },
     "Witchy Wand": {
       "id": "Witchy Wand",
       "name": "糖果杖",
@@ -21394,6 +21490,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Corrin - Starry Seer"],
+      "last": true
+    },
+    "Awoken Breath": {
+      "id": "Awoken Breath",
+      "name": "甦醒的龍之吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Tiki - Awakened Blood"],
       "last": true
     },
     "Arcane Grima": {

@@ -610,6 +610,14 @@
     "icon": "skillB/Quick_Riposte_3.png",
     "last": true
   },
+  "Quick Riposte 4": {
+    "id": "Quick Riposte 4",
+    "name": "回擊4",
+    "sp": 300,
+    "prev": ["Quick Riposte 3"],
+    "icon": "skillB/Quick_Riposte_4.png",
+    "last": true
+  },
   "Wary Fighter 1": {
     "id": "Wary Fighter 1",
     "name": "防守隊形1",
@@ -3361,6 +3369,30 @@
     "icon": "skillB/Odd_Pulse_Tie_3.png",
     "last": true
   },
+  "A/S Near Trace 1": {
+    "id": "A/S Near Trace 1",
+    "name": "攻擊速度近影1",
+    "sp": 100,
+    "rules": "learner.near-trace",
+    "icon": "skillB/A_S_Near_Trace_1.png"
+  },
+  "A/S Near Trace 2": {
+    "id": "A/S Near Trace 2",
+    "name": "攻擊速度近影2",
+    "sp": 120,
+    "prev": ["A/S Near Trace 1"],
+    "rules": "learner.near-trace",
+    "icon": "skillB/A_S_Near_Trace_2.png"
+  },
+  "A/S Near Trace 3": {
+    "id": "A/S Near Trace 3",
+    "name": "攻擊速度近影3",
+    "sp": 240,
+    "prev": ["A/S Near Trace 2"],
+    "rules": "learner.near-trace",
+    "icon": "skillB/A_S_Near_Trace_3.png",
+    "last": true
+  },
   "A/D Near Trace 1": {
     "id": "A/D Near Trace 1",
     "name": "攻擊防守近影1",
@@ -3815,6 +3847,30 @@
     "prev": ["Spd/Def Bulwark 2"],
     "rules": "learner.infantry-melee",
     "icon": "skillB/Spd_Def_Bulwark_3.png",
+    "last": true
+  },
+  "Spd/Res Bulwark 1": {
+    "id": "Spd/Res Bulwark 1",
+    "name": "速度魔防防護屏障1",
+    "sp": 60,
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Spd_Res_Bulwark_1.png"
+  },
+  "Spd/Res Bulwark 2": {
+    "id": "Spd/Res Bulwark 2",
+    "name": "速度魔防防護屏障2",
+    "sp": 120,
+    "prev": ["Spd/Res Bulwark 1"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Spd_Res_Bulwark_2.png"
+  },
+  "Spd/Res Bulwark 3": {
+    "id": "Spd/Res Bulwark 3",
+    "name": "速度魔防防護屏障3",
+    "sp": 240,
+    "prev": ["Spd/Res Bulwark 2"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Spd_Res_Bulwark_3.png",
     "last": true
   },
   "Spd Preempt 1": {

@@ -1272,6 +1272,34 @@
       "Everliving Domain": 5
     }
   },
+  "Ganglöt - Death Anew": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Arcane Downfall": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "Distant Stance": 5
+    },
+    "skillB": {
+      "Quick Riposte 1": 2,
+      "Quick Riposte 2": 3,
+      "Quick Riposte 3": 4,
+      "Quick Riposte 4": 5
+    },
+    "skillC": {
+      "Distant Guard 1": 2,
+      "Distant Guard 2": 3,
+      "Distant Guard 3": 4,
+      "Joint Dist. Guard": 5
+    }
+  },
   "Líf - Lethal Swordsman": {
     "weapon": {
       "Iron Sword": 1,
@@ -2273,6 +2301,33 @@
       "Rouse Spd/Res 3": 4
     }
   },
+  "Elice - Altean Princess": {
+    "weapon": {
+      "Assault": 1,
+      "Trilemma": 3,
+      "Trilemma+": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 2,
+      "Restore": 3,
+      "Restore+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Heavenly Light": 3
+    },
+    "skillA": {
+      "Atk/Res Ideal 1": 3,
+      "Atk/Res Ideal 2": 4,
+      "Atk/Res Ideal 3": 5
+    },
+    "skillC": {
+      "Atk/Res Gap 1": 1,
+      "Atk/Res Gap 2": 2,
+      "Atk/Res Gap 3": 4
+    }
+  },
   "Jagen - Veteran Knight": {
     "weapon": {
       "Iron Lance": 1,
@@ -2675,6 +2730,33 @@
       "Odd Def Wave 1": 1,
       "Odd Def Wave 2": 2,
       "Odd Def Wave 3": 4
+    }
+  },
+  "Nyna - The Last Princess": {
+    "weapon": {
+      "Assault": 1,
+      "Respite": 3,
+      "Respite+": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Mend": 2,
+      "Physic": 3,
+      "Physic+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Miracle": 3
+    },
+    "skillB": {
+      "Sabotage Spd 1": 3,
+      "Sabotage Spd 2": 4,
+      "Sabotage Spd 3": 5
+    },
+    "skillC": {
+      "Spur Def 1": 1,
+      "Drive Def 1": 2,
+      "Drive Def 2": 4
     }
   },
   "Linde - Light Mage": {
@@ -3111,6 +3193,28 @@
       "Atk Ploy 3": 5
     }
   },
+  "Matthis - Brother to Lena": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Vulture Lance": 3,
+      "Vulture Lance+": 5
+    },
+    "special": {
+      "Rising Wind": 3,
+      "Blazing Wind": 4
+    },
+    "skillB": {
+      "Chill Atk 1": 3,
+      "Chill Atk/Def 1": 4,
+      "Chill Atk/Def 2": 5
+    },
+    "skillC": {
+      "Rouse Def/Res 1": 1,
+      "Rouse Def/Res 2": 2,
+      "Rouse Def/Res 3": 4
+    }
+  },
   "Rickard - Carefree Culprit": {
     "weapon": {
       "Iron Sword": 1,
@@ -3203,6 +3307,29 @@
       "Bold Fighter 1": 1,
       "Bold Fighter 2": 2,
       "Bold Fighter 3": 4
+    }
+  },
+  "Hardin - The Coyote": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Coyote's Lance": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Surge Sparrow": 5
+    },
+    "skillB": {
+      "A/S Near Trace 1": 1,
+      "A/S Near Trace 2": 2,
+      "A/S Near Trace 3": 4
     }
   },
   "Wolf - Coyote's Loyal": {
@@ -3486,6 +3613,32 @@
     },
     "skillC": {
       "With Everyone!": 5
+    }
+  },
+  "Tiki - Awakened Blood": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Awoken Breath": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Spd/Res Finish 1": 2,
+      "Spd/Res Finish 2": 3,
+      "Spd/Res Finish 3": 4,
+      "Spd/Res Finish 4": 5
+    },
+    "skillB": {
+      "Spd/Res Bulwark 1": 1,
+      "Spd/Res Bulwark 2": 2,
+      "Spd/Res Bulwark 3": 4
+    },
+    "skillC": {
+      "All Together!": 5
     }
   },
   "Nagi - Dragon Avatar": {

@@ -796,6 +796,19 @@
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Staff Valor 3": { "sp": 120, "rarity": 5 } }
   },
+  "Elice - Altean Princess": {
+    "score": 75,
+    "scoreTotal": 233,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 177,
+    "assist": { "Restore+": { "sp": 300, "rarity": 5 } },
+    "special": { "Heavenly Light": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 5 } }
+  },
   "Mia - Moonlit Witch": {
     "score": 80,
     "scoreTotal": 236,
@@ -858,6 +871,19 @@
     "special": { "Miracle": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Nyna - The Last Princess": {
+    "score": 75,
+    "scoreTotal": 245,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 1000,
+    "bst": 176,
+    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
+    "special": { "Miracle": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Sabotage Spd 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Def 2": { "sp": 240, "rarity": 5 } }
   },
   "Gunter - Inveterate Soldier": {
     "score": 166,
@@ -2223,18 +2249,6 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
-  "Phila - Pegasus Master": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 183,
-    "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Pegasus Flight 3": { "sp": 240, "rarity": 5 } }
-  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -3199,6 +3213,18 @@
     "special": { "Astra": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Phila - Pegasus Master": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 183,
+    "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Pegasus Flight 3": { "sp": 240, "rarity": 5 } }
   },
   "Benny - Sensitive Soul": {
     "score": 199,
@@ -6439,6 +6465,18 @@
     "skillA": { "Steady Stance 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Hardin - The Coyote": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Surge Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/S Near Trace 3": { "sp": 240, "rarity": 5 } }
+  },
   "Seliph - Enduring Legacy": {
     "score": 300,
     "scoreTotal": 740,
@@ -6534,6 +6572,18 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillB": { "Spd/Def Bulwark 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Tiki - Awakened Blood": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 192,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Bulwark 3": { "sp": 240, "rarity": 5 } }
   },
   "Robin - Fell Tactician": {
     "score": 300,
@@ -8174,6 +8224,19 @@
     "special": { "Blazing Wind": { "sp": 300, "rarity": 4 } },
     "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Chill Def 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Matthis - Brother to Lena": {
+    "score": 403,
+    "scoreTotal": 880,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 780,
+    "feather": 150,
+    "bst": 179,
+    "special": { "Blazing Wind": { "sp": 300, "rarity": 4 } },
+    "skillB": { "Chill Atk/Def 2": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Def/Res 3": { "sp": 240, "rarity": 4 } }
   },
   "Holst - Hero of Leicester": {
     "score": 403,
@@ -10466,6 +10529,19 @@
     "skillA": { "Atk/Spd Push 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Renewal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Ganglöt - Death Anew": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Quick Riposte 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
   },
   "Severa - Bitter Blossom": {
     "score": 318,
