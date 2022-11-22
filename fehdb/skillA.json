@@ -3560,6 +3560,7 @@
     "name": "不壞1",
     "sp": 50,
     "atk": 3,
+    "def": 3,
     "res": -3,
     "icon": "skillA/Solid_Ground_1.png"
   },
@@ -3568,6 +3569,7 @@
     "name": "不壞2",
     "sp": 100,
     "atk": 4,
+    "def": 4,
     "res": -4,
     "prev": ["Solid Ground 1"],
     "icon": "skillA/Solid_Ground_2.png"
@@ -3577,6 +3579,7 @@
     "name": "不壞3",
     "sp": 200,
     "atk": 5,
+    "def": 5,
     "res": -5,
     "prev": ["Solid Ground 2"],
     "icon": "skillA/Solid_Ground_3.png",
@@ -3587,6 +3590,7 @@
     "name": "不壞4",
     "sp": 300,
     "atk": 7,
+    "def": 7,
     "res": -5,
     "prev": ["Solid Ground 3"],
     "icon": "skillA/Solid_Ground_4.png",
