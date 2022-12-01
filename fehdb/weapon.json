@@ -14559,6 +14559,16 @@
       "exclusive": ["Mordecai - Gentle Firetender"],
       "last": true
     },
+    "Enclosing Claw": {
+      "id": "Enclosing Claw",
+      "name": "絕闇的翼爪",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Flier)"],
+      "exclusive": ["Embla - God of Closure"],
+      "last": true
+    },
     "Whelp (Infantry)": {
       "id": "Whelp (Infantry)",
       "name": "幼獸化身・步行",
@@ -15576,6 +15586,16 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Camilla - Midnight Bloom"],
+      "last": true
+    },
+    "Enclosing Dark": {
+      "id": "Enclosing Dark",
+      "name": "絕闇恩布拉",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Fenrir"],
+      "exclusive": ["Veronica - Princess Rising"],
       "last": true
     },
     "Fire": {

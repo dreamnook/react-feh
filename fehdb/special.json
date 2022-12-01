@@ -278,6 +278,15 @@
     "exclusive": ["Deirdre - Fated Saint"],
     "last": true
   },
+  "Enclosure": {
+    "id": "Enclosure",
+    "name": "閉界",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Reprisal"],
+    "exclusive": ["Veronica - Princess Rising"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

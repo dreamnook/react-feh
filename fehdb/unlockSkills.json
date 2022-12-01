@@ -394,6 +394,36 @@
       "Chill Spd 3": 5
     }
   },
+  "Veronica - Princess Rising": {
+    "weapon": {
+      "Flux": 1,
+      "Ruin": 2,
+      "Fenrir": 3,
+      "Enclosing Dark": 5
+    },
+    "special": {
+      "Retribution": 3,
+      "Reprisal": 4,
+      "Enclosure": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "S/R Far Trace 1": 1,
+      "S/R Far Trace 2": 2,
+      "S/R Far Trace 3": 4
+    },
+    "skillC": {
+      "Panic Smoke 1": 2,
+      "Panic Smoke 2": 3,
+      "Panic Smoke 3": 4,
+      "Panic Smoke 4": 5
+    }
+  },
   "Nifl - God of Ice": {
     "weapon": {
       "Fire Breath": 1,
@@ -2042,6 +2072,32 @@
     },
     "skillC": {
       "Opening Retainer": 5
+    }
+  },
+  "Embla - God of Closure": {
+    "weapon": {
+      "Hatchling (Flier)": 1,
+      "Fledgling (Flier)": 2,
+      "Adult (Flier)": 3,
+      "Enclosing Claw": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Clash 4": 5
+    },
+    "skillB": {
+      "Beast Agility 1": 1,
+      "Beast Agility 2": 2,
+      "Beast Agility 3": 4
+    },
+    "skillC": {
+      "Severance": 5
     }
   },
   "Letizia - Curse Director": {

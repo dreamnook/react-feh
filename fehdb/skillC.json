@@ -313,6 +313,14 @@
     "last": true,
     "icon": "skillC/All_Together!.png"
   },
+  "Severance": {
+    "id": "Severance",
+    "name": "一切都被封閉的世界",
+    "sp": 300,
+    "exclusive": ["Embla - God of Closure"],
+    "last": true,
+    "icon": "skillC/Severance.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -1813,6 +1821,15 @@
     "prev": ["Panic Smoke 2"],
     "rules": "not.white-staff",
     "icon": "skillC/Panic_Smoke_3.png",
+    "last": true
+  },
+  "Panic Smoke 4": {
+    "id": "Panic Smoke 4",
+    "name": "恐慌的幻煙4",
+    "sp": 300,
+    "prev": ["Panic Smoke 3"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Panic_Smoke_4.png",
     "last": true
   },
   "Fatal Smoke 1": {

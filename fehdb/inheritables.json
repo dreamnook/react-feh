@@ -3570,6 +3570,7 @@
     },
     "Reprisal": {
       "pool": {
+        "legendary": { "5": ["Veronica - Princess Rising"] },
         "grail": { "4": ["Legion - Masked Maniac", "Zephiel - The Liberator"] },
         "#": {
           "4": ["Altena - Luminous Rider", "Kagero - Honorable Ninja"],
@@ -3654,6 +3655,7 @@
             "Camilla - Tropical Beauty"
           ]
         },
+        "mythic": { "5": ["Embla - God of Closure", "Duma - God of Strength"] },
         "legendary": {
           "5": [
             "Marth - Hero-King",
@@ -3676,8 +3678,7 @@
             "Minerva - Princess-Knight",
             "Julius - Scion of Darkness"
           ]
-        },
-        "mythic": { "5": ["Duma - God of Strength"] }
+        }
       },
       "id": "Draconic Aura",
       "name": "龍裂",
@@ -4194,8 +4195,8 @@
             "Linhardt - Hevring's Heir",
             "Mercedes - Kindly Devotee"
           ],
+          "4": ["Nyna - The Last Princess"],
           "5": [
-            "Nyna - The Last Princess",
             "Delthea - Free Spirit",
             "Sigurd - Holy Knight",
             "Mist - Helpful Sister",
@@ -4223,6 +4224,7 @@
       "pool": {
         "#": {
           "3": [
+            "Elice - Altean Princess",
             "Lena - Tender Angel",
             "Wrys - Kindly Priest",
             "Nanna - Nordion Princess",
@@ -4230,7 +4232,7 @@
             "Brady - Daunting Priest",
             "Forrest - Fashion Forward"
           ],
-          "5": ["Elice - Altean Princess", "Genny - Endearing Ally"]
+          "5": ["Genny - Endearing Ally"]
         },
         "grail": {
           "4": [
@@ -6894,6 +6896,14 @@
     },
     "Atk/Spd Catch 3": {
       "pool": {
+        "legendary": {
+          "5": [
+            "Veronica - Princess Rising",
+            "Ninian - Ice-Dragon Oracle",
+            "Xander - Gallant King",
+            "Claude - King of Unification"
+          ]
+        },
         "special": {
           "4": ["Lyre - Lap Cat of Luxury"],
           "5": [
@@ -6917,13 +6927,6 @@
             "Tana - Soothing Warmth"
           ]
         },
-        "legendary": {
-          "5": [
-            "Ninian - Ice-Dragon Oracle",
-            "Xander - Gallant King",
-            "Claude - King of Unification"
-          ]
-        },
         "duo": { "5": ["Nina - Shadowy Figures"] }
       },
       "id": "Atk/Spd Catch 3",
@@ -6933,6 +6936,14 @@
     },
     "Atk/Spd Catch 4": {
       "pool": {
+        "legendary": {
+          "5": [
+            "Veronica - Princess Rising",
+            "Ninian - Ice-Dragon Oracle",
+            "Xander - Gallant King",
+            "Claude - King of Unification"
+          ]
+        },
         "special": {
           "5": [
             "Nifl - Tropical Ice God",
@@ -6953,13 +6964,6 @@
             "Caeda - Sea-Blossom Pair",
             "Leif - Destined Scions",
             "Tana - Soothing Warmth"
-          ]
-        },
-        "legendary": {
-          "5": [
-            "Ninian - Ice-Dragon Oracle",
-            "Xander - Gallant King",
-            "Claude - King of Unification"
           ]
         },
         "duo": { "5": ["Nina - Shadowy Figures"] }
@@ -7212,14 +7216,20 @@
       "icon": "skillA/Still_Water_4.png"
     },
     "Atk/Spd Clash 3": {
-      "pool": { "#": { "5": ["Seliph - Enduring Legacy"] } },
+      "pool": {
+        "mythic": { "5": ["Embla - God of Closure"] },
+        "#": { "5": ["Seliph - Enduring Legacy"] }
+      },
       "id": "Atk/Spd Clash 3",
       "name": "攻擊速度的激戰3",
       "sp": 240,
       "icon": "skillA/Atk_Spd_Clash_3.png"
     },
     "Atk/Spd Clash 4": {
-      "pool": { "#": { "5": ["Seliph - Enduring Legacy"] } },
+      "pool": {
+        "mythic": { "5": ["Embla - God of Closure"] },
+        "#": { "5": ["Seliph - Enduring Legacy"] }
+      },
       "id": "Atk/Spd Clash 4",
       "name": "攻擊速度的激戰4",
       "sp": 300,
@@ -9230,6 +9240,7 @@
     },
     "S/R Far Trace 3": {
       "pool": {
+        "legendary": { "5": ["Veronica - Princess Rising"] },
         "special": {
           "5": ["Delthea - Prodigy in Bloom", "L'Arachel - Seeker of Justice"]
         },
@@ -9334,6 +9345,13 @@
       "name": "速度搶先3",
       "sp": 240,
       "icon": "skillB/Spd_Preempt_3.png"
+    },
+    "Beast Agility 3": {
+      "pool": { "mythic": { "5": ["Embla - God of Closure"] } },
+      "id": "Beast Agility 3",
+      "name": "絕對化身・敏捷3",
+      "sp": 240,
+      "icon": "skillB/Beast_Agility_3.png"
     }
   },
   "skillC": {
@@ -9589,12 +9607,8 @@
     "Drive Def 2": {
       "pool": {
         "#": {
-          "4": ["Nanna - Nordion Princess"],
-          "5": [
-            "Roderick - Steady Squire",
-            "Nyna - The Last Princess",
-            "Gatekeeper - Nothing to Report"
-          ]
+          "4": ["Nyna - The Last Princess", "Nanna - Nordion Princess"],
+          "5": ["Roderick - Steady Squire", "Gatekeeper - Nothing to Report"]
         },
         "grail": {
           "4": ["Arden - Strong and Tough", "Linus - Mad Dog"],
@@ -10790,6 +10804,7 @@
     },
     "Panic Smoke 3": {
       "pool": {
+        "legendary": { "5": ["Veronica - Princess Rising"] },
         "mythic": {
           "5": ["Thrasir - Omnicidal Witch", "Reginn - Bearing Hope"]
         },
@@ -10806,6 +10821,13 @@
       "name": "恐慌的幻煙3",
       "sp": 240,
       "icon": "skillC/Panic_Smoke_3.png"
+    },
+    "Panic Smoke 4": {
+      "pool": { "legendary": { "5": ["Veronica - Princess Rising"] } },
+      "id": "Panic Smoke 4",
+      "name": "恐慌的幻煙4",
+      "sp": 300,
+      "icon": "skillC/Panic_Smoke_4.png"
     },
     "Fatal Smoke 3": {
       "pool": {
@@ -11339,7 +11361,7 @@
     },
     "Atk/Res Gap 3": {
       "pool": {
-        "#": { "5": ["Elice - Altean Princess"] },
+        "#": { "4": ["Elice - Altean Princess"] },
         "special": {
           "4": ["Ilyana - Awakened Appetite"],
           "5": ["Ilyana - Treat Harvester"]

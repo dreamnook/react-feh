@@ -398,6 +398,19 @@
     "skillA": { "Atk/Res Push 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
   },
+  "Elice - Altean Princess": {
+    "score": 50,
+    "scoreTotal": 104,
+    "poolRarity": 3,
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 150,
+    "bst": 177,
+    "assist": { "Restore+": { "sp": 300, "rarity": 5 } },
+    "special": { "Heavenly Light": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 4 } }
+  },
   "Mercedes - Kindly Devotee": {
     "score": 50,
     "scoreTotal": 104,
@@ -447,6 +460,19 @@
     "bst": 145,
     "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
     "skillB": { "Live to Serve 3": { "sp": 160, "rarity": 5 } }
+  },
+  "Nyna - The Last Princess": {
+    "score": 46,
+    "scoreTotal": 126,
+    "poolRarity": 4,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 300,
+    "bst": 176,
+    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
+    "special": { "Miracle": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Sabotage Spd 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Def 2": { "sp": 240, "rarity": 4 } }
   },
   "Xane - Desert Mirage": {
     "score": 49,
@@ -796,19 +822,6 @@
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Staff Valor 3": { "sp": 120, "rarity": 5 } }
   },
-  "Elice - Altean Princess": {
-    "score": 75,
-    "scoreTotal": 233,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 930,
-    "feather": 1000,
-    "bst": 177,
-    "assist": { "Restore+": { "sp": 300, "rarity": 5 } },
-    "special": { "Heavenly Light": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 5 } }
-  },
   "Mia - Moonlit Witch": {
     "score": 80,
     "scoreTotal": 236,
@@ -871,19 +884,6 @@
     "special": { "Miracle": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Nyna - The Last Princess": {
-    "score": 75,
-    "scoreTotal": 245,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 980,
-    "feather": 1000,
-    "bst": 176,
-    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
-    "special": { "Miracle": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Sabotage Spd 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Def 2": { "sp": 240, "rarity": 5 } }
   },
   "Gunter - Inveterate Soldier": {
     "score": 166,
@@ -5403,6 +5403,19 @@
     "skillA": { "Atk/Def Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Def Bulwark 3": { "sp": 240, "rarity": 5 } }
   },
+  "Embla - God of Closure": {
+    "score": 276,
+    "scoreTotal": 681,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Beast Agility 3": { "sp": 240, "rarity": 5 } }
+  },
   "Medeus - Earth-Dragon King": {
     "score": 276,
     "scoreTotal": 681,
@@ -9136,6 +9149,20 @@
     "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Ire 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
+  },
+  "Veronica - Princess Rising": {
+    "score": 276,
+    "scoreTotal": 957,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Reprisal": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Deirdre - Fated Saint": {
     "score": 276,
