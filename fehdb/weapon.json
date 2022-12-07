@@ -4708,6 +4708,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Ephraim - Dynastic Duo"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Reginleif_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Prized Lance": {
@@ -10277,6 +10300,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Marth - Royal Altean Duo"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Tanngrisnir_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Rebecca's Bow": {
@@ -12387,6 +12432,28 @@
       "res": 3,
       "sp": 400,
       "exclusive": ["Kronya - Gleaming Blade"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Athame_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Hunting Blade": {
@@ -15596,6 +15663,36 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Veronica - Princess Rising"],
+      "last": true
+    },
+    "Retainer's Report": {
+      "id": "Retainer's Report",
+      "name": "參謀之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Hubert - Sinister Servant"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Retainer's_Report_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Fire": {
@@ -21004,6 +21101,29 @@
       "atk": 3,
       "sp": 400,
       "exclusive": ["Nah - Little Miss"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Oracle's_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Sublime Surge": {
