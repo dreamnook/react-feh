@@ -2945,6 +2945,42 @@
     "book": 6,
     "ver": "6.6"
   },
+  "Seiðr - Goddess of Hope": {
+    "id": "Seiðr - Goddess of Hope",
+    "title": "希望女神",
+    "name": "塞慈",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-tome",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "astra-atk-2",
+    "releaseDate": "2022-12-07",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [40, 43, 47],
+        "spd": [27, 30, 33],
+        "def": [13, 17, 20],
+        "res": [36, 40, 43]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 6,
+        "def": 4,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 169,
+    "statMax": 170,
+    "book": 7,
+    "ver": "7.0"
+  },
   "Marth - Altean Prince": {
     "id": "Marth - Altean Prince",
     "title": "阿麗提亞的王子",
@@ -33475,6 +33511,68 @@
     "book": 4,
     "ver": "4.4"
   },
+  "Hans - Ambitious Brute": {
+    "id": "Hans - Ambitious Brute",
+    "title": "狼子野心",
+    "name": "甘茲",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2022-12-08",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "3": {
+        "hp": [39, 42, 45],
+        "atk": [38, 41, 44],
+        "spd": [32, 35, 38],
+        "def": [28, 31, 34],
+        "res": [15, 18, 21]
+      },
+      "4": {
+        "hp": [40, 43, 46],
+        "atk": [40, 43, 47],
+        "spd": [34, 37, 41],
+        "def": [29, 32, 35],
+        "res": [16, 19, 22]
+      },
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [42, 45, 49],
+        "spd": [36, 39, 43],
+        "def": [32, 35, 38],
+        "res": [18, 21, 24]
+      },
+      "3-1": {
+        "hp": 19,
+        "atk": 14,
+        "spd": 8,
+        "def": 6,
+        "res": 3
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 15,
+        "spd": 9,
+        "def": 6,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 15,
+        "spd": 9,
+        "def": 7,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": [],
+    "statMin": 186,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.0"
+  },
   "Flora - Cold as Ice": {
     "id": "Flora - Cold as Ice",
     "title": "冰之女僕",
@@ -33846,6 +33944,39 @@
     "book": 2,
     "ver": "2.4"
   },
+  "Dwyer - Sleepy Butler": {
+    "id": "Dwyer - Sleepy Butler",
+    "title": "無精打采的使仗者",
+    "name": "迪亞",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-staff",
+    "releaseDate": "2022-12-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [34, 37, 40],
+        "spd": [32, 35, 38],
+        "def": [22, 25, 29],
+        "res": [36, 39, 43]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 9,
+        "def": 6,
+        "res": 9
+      }
+    },
+    "assets": ["def", "res"],
+    "flaws": ["hp"],
+    "statMin": 176,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.0"
+  },
   "Midori - Reliable Chemist": {
     "id": "Midori - Reliable Chemist",
     "title": "可靠的",
@@ -33911,6 +34042,39 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.0"
+  },
+  "Kiragi - Upbeat Archer": {
+    "id": "Kiragi - Upbeat Archer",
+    "title": "積極樂觀的弓箭手",
+    "name": "如月",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-bow",
+    "releaseDate": "2022-12-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [35, 38, 42],
+        "spd": [40, 43, 47],
+        "def": [34, 37, 40],
+        "res": [20, 23, 27]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 13,
+        "def": 9,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 181,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.0"
   },
   "Selkie - Free Spirit": {
     "id": "Selkie - Free Spirit",
@@ -33978,6 +34142,39 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.1"
+  },
+  "Caeldori - Perfect Angel": {
+    "id": "Caeldori - Perfect Angel",
+    "title": "追逐完美之翼",
+    "name": "纏",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "releaseDate": "2022-12-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [37, 40, 44],
+        "spd": [40, 44, 47],
+        "def": [26, 30, 33],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 11,
+        "def": 8,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.0"
   },
   "Rhajat - Black Magician": {
     "id": "Rhajat - Black Magician",
@@ -34205,6 +34402,42 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.9"
+  },
+  "Ophelia - Starlit Maiden": {
+    "id": "Ophelia - Starlit Maiden",
+    "title": "被選中的星之少女",
+    "name": "歐菲莉亞",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-tome",
+    "arcane": true,
+    "rearmed": true,
+    "pool": "special",
+    "releaseDate": "2022-12-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [41, 44, 48],
+        "spd": [33, 36, 39],
+        "def": [22, 25, 29],
+        "res": [29, 32, 35]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 14,
+        "spd": 8,
+        "def": 6,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp"],
+    "statMin": 176,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.0"
   },
   "Soleil - Adorable Adorer": {
     "id": "Soleil - Adorable Adorer",

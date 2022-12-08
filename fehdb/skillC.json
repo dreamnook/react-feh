@@ -321,6 +321,14 @@
     "last": true,
     "icon": "skillC/Severance.png"
   },
+  "Future-Focused": {
+    "id": "Future-Focused",
+    "name": "一同放眼未來",
+    "sp": 300,
+    "exclusive": ["Seiðr - Goddess of Hope"],
+    "last": true,
+    "icon": "skillC/Future-Focused.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -928,6 +936,15 @@
     "rules": "flying",
     "icon": "skillC/Def_Res_Rein_3.png",
     "last": true
+  },
+  "Atk/Spd Hold": {
+    "id": "Atk/Spd Hold",
+    "name": "攻擊速度大牽制",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Atk/Spd Rein 3"],
+    "last": true,
+    "icon": "skillC/Atk_Spd_Hold.png"
   },
   "Atk/Def Hold": {
     "id": "Atk/Def Hold",

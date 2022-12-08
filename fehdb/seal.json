@@ -5212,6 +5212,24 @@
       "prev": ["Squad Ace BL 1"],
       "icon": "seal/Squad_Ace_HP_Res_2.png",
       "last": true
+    },
+    "Squad Ace BM 1": {
+      "id": "Squad Ace BM 1",
+      "name": "第６５迷宮的霸王1",
+      "sp": 100,
+      "atk": 1,
+      "spd": 1,
+      "icon": "seal/Squad_Ace_Atk_Spd_1.png"
+    },
+    "Squad Ace BM 2": {
+      "id": "Squad Ace BM 2",
+      "name": "第６５迷宮的霸王2",
+      "sp": 200,
+      "atk": 2,
+      "spd": 2,
+      "prev": ["Squad Ace BM 1"],
+      "icon": "seal/Squad_Ace_Atk_Spd_2.png",
+      "last": true
     }
   }
 }

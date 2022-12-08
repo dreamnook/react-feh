@@ -1078,6 +1078,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Unbound Bow+": {
+        "pool": { "#": { "5": ["Kiragi - Upbeat Archer"] } },
+        "id": "Unbound Bow+",
+        "name": "孤絕之弓+",
+        "sp": 300,
+        "refine": 350
+      },
       "Clarisse's Bow+": {
         "pool": { "grail": { "5": ["Clarisse - Sniper in the Dark"] } },
         "id": "Clarisse's Bow+",
@@ -1555,6 +1562,13 @@
     },
     "beast": {},
     "red-tome": {
+      "Arcane Eclipse": {
+        "pool": { "special": { "5": ["Ophelia - Starlit Maiden"] } },
+        "id": "Arcane Eclipse",
+        "name": "魔器露奈克利普斯",
+        "sp": 300,
+        "refine": 350
+      },
       "Bolganone+": {
         "pool": { "#": { "5": ["Lilina - Delightful Noble"] } },
         "id": "Bolganone+",
@@ -2190,6 +2204,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Aid+": {
+        "pool": { "#": { "5": ["Dwyer - Sleepy Butler"] } },
+        "id": "Aid+",
+        "name": "救護+",
+        "sp": 300,
+        "refine": 350
+      },
       "Witchy Wand+": {
         "pool": { "special": { "5": ["Mia - Moonlit Witch"] } },
         "id": "Witchy Wand+",
@@ -2445,6 +2466,7 @@
             "Maribelle - Dire Damsel",
             "Mikoto - Caring Mother",
             "Azama - Carefree Monk",
+            "Dwyer - Sleepy Butler",
             "Mercedes - Kindly Devotee"
           ]
         }
@@ -3353,6 +3375,7 @@
             "Lucina - Future Witness",
             "Hinoka - Blue Sky Warrior",
             "Nyx - Rulebreaker Mage",
+            "Kiragi - Upbeat Archer",
             "Velouria - Wolf Cub",
             "Edelgard - The Future",
             "Petra - Princess of Brigid",
@@ -3368,7 +3391,8 @@
             "Eirika - Beach Restorer",
             "Greil - Heroic Exemplar",
             "Nailah - Hatari Scorcher",
-            "Ryoma - Samurai at Ease"
+            "Ryoma - Samurai at Ease",
+            "Ophelia - Starlit Maiden"
           ]
         },
         "harmonized": {
@@ -3635,6 +3659,7 @@
             "Lilith - Silent Broodling",
             "Keaton - Lupine Collector",
             "Kana - Dragon Princess",
+            "Caeldori - Perfect Angel",
             "Byleth - Proven Professor",
             "Byleth - Sublime Light",
             "Byleth - Tested Professor",
@@ -3720,6 +3745,7 @@
             "Muarim - Raw Instinct",
             "Aversa - Dark One",
             "Garon - King of Nohr",
+            "Hans - Ambitious Brute",
             "Kana - Dragon Spawn",
             "Jeralt - Blade Breaker",
             "Nemesis - King of Liberation"
@@ -3894,7 +3920,11 @@
           ]
         },
         "mythic": {
-          "5": ["Eir - Merciful Death", "Altina - Dawn's Trueblade"]
+          "5": [
+            "Eir - Merciful Death",
+            "Seiðr - Goddess of Hope",
+            "Altina - Dawn's Trueblade"
+          ]
         },
         "#": {
           "4": [
@@ -4232,7 +4262,7 @@
             "Brady - Daunting Priest",
             "Forrest - Fashion Forward"
           ],
-          "5": ["Genny - Endearing Ally"]
+          "5": ["Genny - Endearing Ally", "Dwyer - Sleepy Butler"]
         },
         "grail": {
           "4": [
@@ -4886,6 +4916,7 @@
             "Eirika - Pledged Restorer",
             "Chrom - Fated Honor",
             "Charlotte - Wily Warrior",
+            "Kiragi - Upbeat Archer",
             "Catherine - Thunder Knight"
           ]
         },
@@ -6762,7 +6793,10 @@
       "icon": "skillA/AR-D_Atk_Def_3.png"
     },
     "AR-D Atk/Res 3": {
-      "pool": { "special": { "5": ["Flora - Signature Dish"] } },
+      "pool": {
+        "special": { "5": ["Flora - Signature Dish"] },
+        "#": { "5": ["Dwyer - Sleepy Butler"] }
+      },
       "id": "AR-D Atk/Res 3",
       "name": "攻擊魔防的守城戰3",
       "sp": 240,
@@ -6917,6 +6951,7 @@
             "Eir - Life Ascendant",
             "Farina - The Great Wing",
             "Lilith - Silent Broodling",
+            "Caeldori - Perfect Angel",
             "Byleth - Sublime Light"
           ]
         },
@@ -6956,6 +6991,7 @@
             "Eir - Life Ascendant",
             "Farina - The Great Wing",
             "Lilith - Silent Broodling",
+            "Caeldori - Perfect Angel",
             "Byleth - Sublime Light"
           ]
         },
@@ -7068,8 +7104,10 @@
           ]
         },
         "special": { "4": ["Rinkah - Consuming Flame"] },
-        "legendary": { "5": ["Byleth - The Fódlan Light"] },
-        "grail": { "5": ["Holst - Hero of Leicester"] }
+        "grail": {
+          "5": ["Hans - Ambitious Brute", "Holst - Hero of Leicester"]
+        },
+        "legendary": { "5": ["Byleth - The Fódlan Light"] }
       },
       "id": "Atk/Spd Ideal 3",
       "name": "攻擊速度的萬全3",
@@ -7196,6 +7234,7 @@
     "Still Water 3": {
       "pool": {
         "duo": { "5": ["Thórr - Sun-Kissed Gods"] },
+        "mythic": { "5": ["Seiðr - Goddess of Hope"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "special": { "5": ["Lilina - Beaming Bride"] }
       },
@@ -7207,6 +7246,7 @@
     "Still Water 4": {
       "pool": {
         "duo": { "5": ["Thórr - Sun-Kissed Gods"] },
+        "mythic": { "5": ["Seiðr - Goddess of Hope"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "special": { "5": ["Lilina - Beaming Bride"] }
       },
@@ -7264,14 +7304,20 @@
       "icon": "skillA/Atk_Spd_Finish_4.png"
     },
     "Atk/Res Finish 3": {
-      "pool": { "#": { "5": ["Tiki - Fated Divinity"] } },
+      "pool": {
+        "#": { "5": ["Tiki - Fated Divinity"] },
+        "special": { "5": ["Ophelia - Starlit Maiden"] }
+      },
       "id": "Atk/Res Finish 3",
       "name": "攻擊魔防的奧秘3",
       "sp": 240,
       "icon": "skillA/Atk_Res_Finish_3.png"
     },
     "Atk/Res Finish 4": {
-      "pool": { "#": { "5": ["Tiki - Fated Divinity"] } },
+      "pool": {
+        "#": { "5": ["Tiki - Fated Divinity"] },
+        "special": { "5": ["Ophelia - Starlit Maiden"] }
+      },
       "id": "Atk/Res Finish 4",
       "name": "攻擊魔防的奧秘4",
       "sp": 300,
@@ -8009,11 +8055,21 @@
       "icon": "skillB/Chill_Atk_Def_2.png"
     },
     "Chill Atk/Res 2": {
-      "pool": { "special": { "5": ["Est - Springtime Flier"] } },
+      "pool": {
+        "mythic": { "5": ["Seiðr - Goddess of Hope"] },
+        "special": { "5": ["Est - Springtime Flier"] }
+      },
       "id": "Chill Atk/Res 2",
       "name": "攻擊魔防封殺2",
       "sp": 240,
       "icon": "skillB/Chill_Atk_Res_2.png"
+    },
+    "Chill Atk/Res 3": {
+      "pool": { "mythic": { "5": ["Seiðr - Goddess of Hope"] } },
+      "id": "Chill Atk/Res 3",
+      "name": "攻擊魔防封殺3",
+      "sp": 300,
+      "icon": "skillB/Chill_Atk_Res_3.png"
     },
     "Chill Spd/Def 2": {
       "pool": {
@@ -8834,13 +8890,24 @@
           ]
         },
         "special": {
-          "5": ["Karla - Sun-Piercing Steel", "Corrin - Daylight Ninja Act"]
+          "5": [
+            "Karla - Sun-Piercing Steel",
+            "Corrin - Daylight Ninja Act",
+            "Ophelia - Starlit Maiden"
+          ]
         }
       },
       "id": "Special Spiral 3",
       "name": "奧義之螺旋3",
       "sp": 240,
       "icon": "skillB/Special_Spiral_3.png"
+    },
+    "Special Spiral 4": {
+      "pool": { "special": { "5": ["Ophelia - Starlit Maiden"] } },
+      "id": "Special Spiral 4",
+      "name": "奧義之螺旋4",
+      "sp": 300,
+      "icon": "skillB/Special_Spiral_4.png"
     },
     "Null Follow-Up 3": {
       "pool": {
@@ -9593,6 +9660,7 @@
             "Florina - Azure-Sky Knight",
             "Anna - Secret Seller",
             "Lucina - Brave Princess",
+            "Kiragi - Upbeat Archer",
             "Hilda - Helping Hand"
           ]
         },
@@ -9888,9 +9956,9 @@
           "5": ["Tana - Frelian Starlight", "Inigo - Festival Flower"]
         },
         "legendary": { "5": ["Ryoma - Supreme Samurai"] },
+        "#": { "5": ["Caeldori - Perfect Angel", "Claude - Almyra's King"] },
         "duo": { "5": ["Sothis - Bound-Spirit Duo"] },
-        "harmonized": { "5": ["Dorothea - Twilit Harmony"] },
-        "#": { "5": ["Claude - Almyra's King"] }
+        "harmonized": { "5": ["Dorothea - Twilit Harmony"] }
       },
       "id": "Atk/Spd Rein 3",
       "name": "攻擊速度牽制3",
@@ -9973,6 +10041,13 @@
       "name": "防守魔防牽制3",
       "sp": 240,
       "icon": "skillC/Def_Res_Rein_3.png"
+    },
+    "Atk/Spd Hold": {
+      "pool": { "#": { "5": ["Caeldori - Perfect Angel"] } },
+      "id": "Atk/Spd Hold",
+      "name": "攻擊速度大牽制",
+      "sp": 300,
+      "icon": "skillC/Atk_Spd_Hold.png"
     },
     "Atk/Def Hold": {
       "pool": { "special": { "5": ["Cherche - Shaded by Wings"] } },
@@ -10327,7 +10402,8 @@
           "5": [
             "Ylgr - Fresh Snowfall",
             "Catria - Mild Middle Sister",
-            "Chrom - Fated Honor"
+            "Chrom - Fated Honor",
+            "Dwyer - Sleepy Butler"
           ]
         },
         "grail": { "5": ["Eir - Renewed Life"] },
@@ -10869,7 +10945,9 @@
             "Yuri - Ashen Valiant"
           ]
         },
-        "special": { "5": ["Soren - Hushed Voice"] },
+        "special": {
+          "5": ["Soren - Hushed Voice", "Ophelia - Starlit Maiden"]
+        },
         "duo": { "5": ["Chrom - Fate-Defying Duo"] }
       },
       "id": "Time's Pulse 3",
@@ -11416,7 +11494,8 @@
         },
         "special": {
           "5": ["Delthea - Prodigy in Bloom", "Bernadetta - Frosty Shut-In"]
-        }
+        },
+        "grail": { "4": ["Hans - Ambitious Brute"] }
       },
       "id": "Rouse Atk/Spd 3",
       "name": "攻擊速度的奮起3",

@@ -2129,6 +2129,33 @@
       "Rouse Atk/Res 4": 5
     }
   },
+  "Seiðr - Goddess of Hope": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Seiðr": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Still Water 4": 5
+    },
+    "skillB": {
+      "Chill Res 1": 2,
+      "Chill Atk/Res 1": 3,
+      "Chill Atk/Res 2": 4,
+      "Chill Atk/Res 3": 5
+    },
+    "skillC": {
+      "Future-Focused": 5
+    }
+  },
   "Marth - Altean Prince": {
     "weapon": {
       "Iron Sword": 1,
@@ -18673,6 +18700,28 @@
       "Atk Opening 3": 5
     }
   },
+  "Hans - Ambitious Brute": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Aurgelmir": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 3,
+      "Atk/Spd Ideal 2": 4,
+      "Atk/Spd Ideal 3": 5
+    },
+    "skillC": {
+      "Rouse Atk/Spd 1": 1,
+      "Rouse Atk/Spd 2": 2,
+      "Rouse Atk/Spd 3": 4
+    }
+  },
   "Flora - Cold as Ice": {
     "weapon": {
       "Iron Dagger": 1,
@@ -18883,6 +18932,33 @@
       "Ward Fliers": 4
     }
   },
+  "Dwyer - Sleepy Butler": {
+    "weapon": {
+      "Assault": 1,
+      "Aid": 3,
+      "Aid+": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 3,
+      "Martyr": 4,
+      "Martyr+": 5
+    },
+    "special": {
+      "Imbue": 4,
+      "Heavenly Light": 5
+    },
+    "skillA": {
+      "AR-D Atk/Res 1": 1,
+      "AR-D Atk/Res 2": 2,
+      "AR-D Atk/Res 3": 4
+    },
+    "skillC": {
+      "Spd Tactic 1": 3,
+      "Spd Tactic 2": 4,
+      "Spd Tactic 3": 5
+    }
+  },
   "Midori - Reliable Chemist": {
     "weapon": {
       "Iron Bow": 1,
@@ -18923,6 +18999,28 @@
       "Def Tactic 1": 3,
       "Def Tactic 2": 4,
       "Def Tactic 3": 5
+    }
+  },
+  "Kiragi - Upbeat Archer": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Unbound Bow": 4,
+      "Unbound Bow+": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Darting Blow 1": 3,
+      "Swift Sparrow 1": 4,
+      "Swift Sparrow 2": 5
+    },
+    "skillC": {
+      "Spur Spd 1": 1,
+      "Drive Spd 1": 2,
+      "Drive Spd 2": 4
     }
   },
   "Selkie - Free Spirit": {
@@ -18975,6 +19073,30 @@
       "Odd Res Wave 1": 3,
       "Odd Res Wave 2": 4,
       "Odd Res Wave 3": 5
+    }
+  },
+  "Caeldori - Perfect Angel": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Prodigy Polearm": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillC": {
+      "Atk/Spd Rein 1": 2,
+      "Atk/Spd Rein 2": 3,
+      "Atk/Spd Rein 3": 4,
+      "Atk/Spd Hold": 5
     }
   },
   "Rhajat - Black Magician": {
@@ -19116,6 +19238,35 @@
       "Chill Res 1": 1,
       "Chill Res 2": 2,
       "Chill Res 3": 4
+    }
+  },
+  "Ophelia - Starlit Maiden": {
+    "weapon": {
+      "Flux": 1,
+      "Ruin": 2,
+      "Fenrir": 4,
+      "Arcane Eclipse": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Atk/Res Finish 1": 2,
+      "Atk/Res Finish 2": 3,
+      "Atk/Res Finish 3": 4,
+      "Atk/Res Finish 4": 5
+    },
+    "skillB": {
+      "Special Spiral 1": 2,
+      "Special Spiral 2": 3,
+      "Special Spiral 3": 4,
+      "Special Spiral 4": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 1,
+      "Time's Pulse 2": 2,
+      "Time's Pulse 3": 4
     }
   },
   "Soleil - Adorable Adorer": {

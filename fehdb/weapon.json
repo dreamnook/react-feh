@@ -5544,6 +5544,16 @@
       "exclusive": ["Hardin - The Coyote"],
       "last": true
     },
+    "Prodigy Polearm": {
+      "id": "Prodigy Polearm",
+      "name": "天才的薄薙刀",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Caeldori - Perfect Angel"],
+      "last": true
+    },
     "Iron Lance": {
       "id": "Iron Lance",
       "name": "鐵槍",
@@ -8388,6 +8398,16 @@
       "exclusive": ["Cherche - Shaded by Wings"],
       "last": true
     },
+    "Aurgelmir": {
+      "id": "Aurgelmir",
+      "name": "奧爾蓋爾米爾",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Hans - Ambitious Brute"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -11147,6 +11167,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Instant Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Unbound Bow": {
+      "id": "Unbound Bow",
+      "name": "孤絕之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Unbound Bow+": {
+      "id": "Unbound Bow+",
+      "name": "孤絕之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Unbound Bow"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -15695,6 +15748,34 @@
       },
       "last": true
     },
+    "Arcane Eclipse": {
+      "id": "Arcane Eclipse",
+      "name": "魔器露奈克利普斯",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Fenrir"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Fire": {
       "id": "Fire",
       "name": "火焰",
@@ -18931,6 +19012,16 @@
       "exclusive": ["Eirika - Beach Restorer"],
       "last": true
     },
+    "Seiðr": {
+      "id": "Seiðr",
+      "name": "塞慈",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Seiðr - Goddess of Hope"],
+      "last": true
+    },
     "Wind": {
       "id": "Wind",
       "name": "烈風",
@@ -20332,6 +20423,31 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Respite"],
+      "refine": {
+        "wrathful": {
+          "name": "神罰",
+          "icon": "Wrathful_Staff_W"
+        },
+        "dazzling": {
+          "name": "幻惑",
+          "icon": "Dazzling_Staff_W"
+        }
+      },
+      "last": true
+    },
+    "Aid": {
+      "id": "Aid",
+      "name": "救護",
+      "mt": 8,
+      "sp": 150,
+      "prev": ["Assault"]
+    },
+    "Aid+": {
+      "id": "Aid+",
+      "name": "救護+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Aid"],
       "refine": {
         "wrathful": {
           "name": "神罰",

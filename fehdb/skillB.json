@@ -1320,6 +1320,14 @@
     "icon": "skillB/Chill_Atk_Res_2.png",
     "last": true
   },
+  "Chill Atk/Res 3": {
+    "id": "Chill Atk/Res 3",
+    "name": "攻擊魔防封殺3",
+    "sp": 300,
+    "prev": ["Chill Atk/Res 2"],
+    "icon": "skillB/Chill_Atk_Res_3.png",
+    "last": true
+  },
   "Chill Spd/Def 1": {
     "id": "Chill Spd/Def 1",
     "name": "速度防守封殺1",
@@ -2888,6 +2896,15 @@
     "prev": ["Special Spiral 2"],
     "rules": "learner.specialSpiral",
     "icon": "skillB/Special_Spiral_3.png",
+    "last": true
+  },
+  "Special Spiral 4": {
+    "id": "Special Spiral 4",
+    "name": "奧義之螺旋4",
+    "sp": 300,
+    "prev": ["Special Spiral 3"],
+    "rules": "learner.specialSpiral",
+    "icon": "skillB/Special_Spiral_4.png",
     "last": true
   },
   "Null Follow-Up 1": {

@@ -822,6 +822,19 @@
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Staff Valor 3": { "sp": 120, "rarity": 5 } }
   },
+  "Dwyer - Sleepy Butler": {
+    "score": 75,
+    "scoreTotal": 233,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 176,
+    "assist": { "Martyr+": { "sp": 300, "rarity": 5 } },
+    "special": { "Heavenly Light": { "sp": 150, "rarity": 5 } },
+    "skillA": { "AR-D Atk/Res 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd Tactic 3": { "sp": 240, "rarity": 5 } }
+  },
   "Mia - Moonlit Witch": {
     "score": 80,
     "scoreTotal": 236,
@@ -5130,6 +5143,18 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Kiragi - Upbeat Archer": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 181,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 5 } }
+  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -6149,6 +6174,19 @@
     "skillB": { "Desperation 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Joint Drive Spd": { "sp": 300, "rarity": 5 } }
   },
+  "Seiðr - Goddess of Hope": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 169,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Chill Atk/Res 3": { "sp": 300, "rarity": 5 } }
+  },
   "Julia - Crusader of Light": {
     "score": 276,
     "scoreTotal": 736,
@@ -6960,6 +6998,19 @@
     "skillB": { "Wrath 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Even Atk Wave 3": { "sp": 240, "rarity": 5 } }
   },
+  "Hans - Ambitious Brute": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 186,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 4 } }
+  },
   "Cervantes - Invincible General": {
     "score": 322,
     "scoreTotal": 746,
@@ -7600,6 +7651,18 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Def Menace": { "sp": 300, "rarity": 5 } }
+  },
+  "Caeldori - Perfect Angel": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Hold": { "sp": 300, "rarity": 5 } }
   },
   "Edelgard - Adrestian Emperor": {
     "score": 300,
@@ -10639,6 +10702,20 @@
     "skillA": { "Distant Def 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "A/R Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Ophelia - Starlit Maiden": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 176,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Special Spiral 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Tana - Soothing Warmth": {
     "score": 318,
