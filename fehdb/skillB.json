@@ -3918,6 +3918,7 @@
     "id": "Beast Agility 1",
     "name": "絕對化身・敏捷1",
     "sp": 60,
+    "rules": "beast",
     "icon": "skillB/Beast_Agility_1.png"
   },
   "Beast Agility 2": {
@@ -3925,6 +3926,7 @@
     "name": "絕對化身・敏捷2",
     "sp": 120,
     "prev": ["Beast Agility 1"],
+    "rules": "beast",
     "icon": "skillB/Beast_Agility_2.png"
   },
   "Beast Agility 3": {
@@ -3932,6 +3934,7 @@
     "name": "絕對化身・敏捷3",
     "sp": 240,
     "prev": ["Beast Agility 2"],
+    "rules": "beast",
     "icon": "skillB/Beast_Agility_3.png",
     "last": true
   }
