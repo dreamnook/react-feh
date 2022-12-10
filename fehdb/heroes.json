@@ -855,6 +855,7 @@
     "colorType": "green",
     "moveType": "armored",
     "weaponType": "green-axe",
+    "ascended": true,
     "releaseDate": "2021-10-18",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -1392,6 +1393,7 @@
     "colorType": "white",
     "moveType": "cavalry",
     "weaponType": "white-bow",
+    "ascended": true,
     "releaseDate": "2021-11-17",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -1782,6 +1784,7 @@
     "colorType": "green",
     "moveType": "cavalry",
     "weaponType": "green-dagger",
+    "ascended": true,
     "releaseDate": "2022-10-17",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -1848,7 +1851,6 @@
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-axe",
-    "arcane": true,
     "rearmed": true,
     "releaseDate": "2022-11-18",
     "appearsIn": ["Heroes"],
@@ -1954,7 +1956,6 @@
     "colorType": "red",
     "moveType": "cavalry",
     "weaponType": "red-sword",
-    "arcane": true,
     "rearmed": true,
     "releaseDate": "2022-09-16",
     "appearsIn": ["Heroes"],
@@ -6102,6 +6103,7 @@
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-dragon",
+    "ascended": true,
     "releaseDate": "2022-11-18",
     "appearsIn": ["Shadow Dragon / (New) Mystery"],
     "stats": {
@@ -7794,6 +7796,7 @@
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-tome",
+    "ascended": true,
     "releaseDate": "2022-07-19",
     "appearsIn": ["Echoes"],
     "stats": {
@@ -11504,6 +11507,7 @@
     "colorType": "blue",
     "moveType": "infantry",
     "weaponType": "blue-tome",
+    "ascended": true,
     "releaseDate": "2022-04-18",
     "appearsIn": ["Genealogy of the Holy War"],
     "stats": {
@@ -12032,6 +12036,7 @@
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
+    "ascended": true,
     "releaseDate": "2022-03-18",
     "appearsIn": ["Thracia 776"],
     "stats": {
@@ -15686,6 +15691,7 @@
     "colorType": "blue",
     "moveType": "armored",
     "weaponType": "blue-dragon",
+    "ascended": true,
     "releaseDate": "2022-02-18",
     "appearsIn": ["The Binding Blade"],
     "stats": {
@@ -17609,6 +17615,7 @@
     "colorType": "white",
     "moveType": "flying",
     "weaponType": "white-bow",
+    "ascended": true,
     "releaseDate": "2022-06-08",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
@@ -20745,6 +20752,7 @@
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-dagger",
+    "ascended": true,
     "releaseDate": "2022-01-07",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
@@ -25796,7 +25804,6 @@
     "colorType": "white",
     "moveType": "armored",
     "weaponType": "white-dragon",
-    "arcane": true,
     "rearmed": true,
     "releaseDate": "2022-10-17",
     "appearsIn": ["Awakening"],
@@ -34411,7 +34418,6 @@
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-tome",
-    "arcane": true,
     "rearmed": true,
     "pool": "special",
     "releaseDate": "2022-12-07",
@@ -36762,6 +36768,7 @@
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-axe",
+    "ascended": true,
     "releaseDate": "2022-09-16",
     "appearsIn": ["Three Houses"],
     "stats": {
