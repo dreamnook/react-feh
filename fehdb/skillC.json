@@ -982,6 +982,15 @@
     "last": true,
     "icon": "skillC/Spd_Res_Hold.png"
   },
+  "Def/Res Hold": {
+    "id": "Def/Res Hold",
+    "name": "防守魔防大牽制",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Def/Res Rein 3"],
+    "last": true,
+    "icon": "skillC/Def_Res_Hold.png"
+  },
   "Hone Atk 1": {
     "id": "Hone Atk 1",
     "name": "攻擊鼓舞1",

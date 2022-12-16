@@ -2156,6 +2156,27 @@
       "icon": "skillB/Chill_Def_Res_2.png",
       "last": true
     },
+    "Guard 1": {
+      "id": "Guard 1",
+      "name": "取消1",
+      "sp": 50,
+      "icon": "skillB/Guard_1.png"
+    },
+    "Guard 2": {
+      "id": "Guard 2",
+      "name": "取消2",
+      "sp": 100,
+      "prev": ["Guard 1"],
+      "icon": "skillB/Guard_2.png"
+    },
+    "Guard 3": {
+      "id": "Guard 3",
+      "name": "取消3",
+      "sp": 200,
+      "prev": ["Guard 2"],
+      "icon": "skillB/Guard_3.png",
+      "last": true
+    },
     "Flier Formation 1": {
       "id": "Flier Formation 1",
       "name": "編隊飛行1",
@@ -2609,6 +2630,21 @@
       "sp": 240,
       "prev": ["Spur Atk/Res 1"],
       "icon": "skillC/Spur_Atk_Res_2.png",
+      "last": true
+    },
+    "Spur Spd/Def 1": {
+      "id": "Spur Spd/Def 1",
+      "name": "速度防守紋章1",
+      "sp": 120,
+      "prev": ["Spur Spd 1", "Spur Def 1"],
+      "icon": "skillC/Spur_Spd_Def_1.png"
+    },
+    "Spur Spd/Def 2": {
+      "id": "Spur Spd/Def 2",
+      "name": "速度防守紋章2",
+      "sp": 240,
+      "prev": ["Spur Spd/Def 1"],
+      "icon": "skillC/Spur_Spd_Def_2.png",
       "last": true
     },
     "Spur Spd/Res 1": {

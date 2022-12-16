@@ -450,6 +450,19 @@
     "skillB": { "Renewal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
   },
+  "Nyna - The Last Princess": {
+    "score": 50,
+    "scoreTotal": 104,
+    "poolRarity": 3,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 150,
+    "bst": 176,
+    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
+    "special": { "Miracle": { "sp": 200, "rarity": 3 } },
+    "skillB": { "Sabotage Spd 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Def 2": { "sp": 240, "rarity": 4 } }
+  },
   "Elise - Budding Flower": {
     "score": 75,
     "scoreTotal": 115,
@@ -461,18 +474,18 @@
     "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
     "skillB": { "Live to Serve 3": { "sp": 160, "rarity": 5 } }
   },
-  "Nyna - The Last Princess": {
+  "Dwyer - Sleepy Butler": {
     "score": 46,
-    "scoreTotal": 126,
+    "scoreTotal": 116,
     "poolRarity": 4,
     "sp": 300,
-    "spTotal": 980,
+    "spTotal": 930,
     "feather": 300,
     "bst": 176,
-    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
-    "special": { "Miracle": { "sp": 200, "rarity": 4 } },
-    "skillB": { "Sabotage Spd 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Def 2": { "sp": 240, "rarity": 4 } }
+    "assist": { "Martyr+": { "sp": 300, "rarity": 5 } },
+    "special": { "Heavenly Light": { "sp": 150, "rarity": 4 } },
+    "skillA": { "AR-D Atk/Res 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Spd Tactic 3": { "sp": 240, "rarity": 5 } }
   },
   "Xane - Desert Mirage": {
     "score": 49,
@@ -821,19 +834,6 @@
     "special": { "Miracle": { "sp": 200, "rarity": 5 } },
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Staff Valor 3": { "sp": 120, "rarity": 5 } }
-  },
-  "Dwyer - Sleepy Butler": {
-    "score": 75,
-    "scoreTotal": 233,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 930,
-    "feather": 1000,
-    "bst": 176,
-    "assist": { "Martyr+": { "sp": 300, "rarity": 5 } },
-    "special": { "Heavenly Light": { "sp": 150, "rarity": 5 } },
-    "skillA": { "AR-D Atk/Res 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Spd Tactic 3": { "sp": 240, "rarity": 5 } }
   },
   "Mia - Moonlit Witch": {
     "score": 80,
@@ -3523,6 +3523,19 @@
     "skillA": { "Darting Blow 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Drive Res 2": { "sp": 240, "rarity": 4 } }
   },
+  "Bruno - Masked Reveler": {
+    "score": 249,
+    "scoreTotal": 534,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 200,
+    "spTotal": 550,
+    "feather": 300,
+    "bst": 185,
+    "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Fury 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Threat. Atk/Res 2": { "sp": 200, "rarity": 4 } }
+  },
   "Robin - Mystery Tactician": {
     "score": 269,
     "scoreTotal": 537,
@@ -3686,6 +3699,18 @@
     "bst": 157,
     "skillB": { "Atk Cantrip 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Hone Atk 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Dorothea - Yuletide Dancer": {
+    "score": 318,
+    "scoreTotal": 572,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 540,
+    "feather": 1000,
+    "bst": 159,
+    "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Inf. Spd Tactic": { "sp": 300, "rarity": 5 } }
   },
   "Berkut - Debonair Noble": {
     "score": 318,
@@ -6095,6 +6120,19 @@
     "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Annette - Festive Helper": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,
@@ -10883,6 +10921,20 @@
     "skillB": { "Dragon's Wrath 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
   },
+  "Black Knight - The Night's Blade": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 196,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Dart": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Special Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "D/R Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
   "Laegjarn - Flame and Frost": {
     "score": 318,
     "scoreTotal": 1166,
@@ -11245,6 +11297,20 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Chill Spd/Res 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ground Orders 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Cordelia - Unyielding Snow": {
+    "score": 530,
+    "scoreTotal": 1420,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1340,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Galeforce": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flow Guard 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Def/Res Hold": { "sp": 300, "rarity": 5 } }
   },
   "Nina - Shadowy Figures": {
     "score": 530,

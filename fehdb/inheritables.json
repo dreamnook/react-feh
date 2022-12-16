@@ -1285,6 +1285,13 @@
         "id": "Wyvern Yumi+",
         "name": "龍忍之弓+",
         "sp": 300
+      },
+      "Peppy Bow+": {
+        "pool": { "special": { "5": ["Annette - Festive Helper"] } },
+        "id": "Peppy Bow+",
+        "name": "聖夜之弓+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "dagger": {
@@ -2058,6 +2065,13 @@
         "pool": { "special": { "5": ["Artur - Silver Saint"] } },
         "id": "Snow Globe+",
         "name": "雪景球+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Peppy Cane+": {
+        "pool": { "grail": { "5": ["Bruno - Masked Reveler"] } },
+        "id": "Peppy Cane+",
+        "name": "聖夜之杖+",
         "sp": 300,
         "refine": 350
       }
@@ -3125,6 +3139,7 @@
       "pool": {
         "grail": {
           "4": [
+            "Bruno - Masked Reveler",
             "Norne - Seaside Volunteer",
             "Louise - Eternal Devotion",
             "Canas - Wisdom Seeker",
@@ -3241,6 +3256,7 @@
             "Takumi - Prince of Soup",
             "Bernadetta - Frosty Shut-In",
             "Ashe - Fabled Sea Knight",
+            "Annette - Festive Helper",
             "Ingrid - Solstice Knight"
           ]
         },
@@ -3390,6 +3406,7 @@
             "Igrene - Ninja of Nabata",
             "Eirika - Beach Restorer",
             "Greil - Heroic Exemplar",
+            "Black Knight - The Night's Blade",
             "Nailah - Hatari Scorcher",
             "Ryoma - Samurai at Ease",
             "Ophelia - Starlit Maiden"
@@ -3563,7 +3580,9 @@
           ]
         },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
-        "harmonized": { "5": ["Leif - Destined Scions"] }
+        "harmonized": {
+          "5": ["Leif - Destined Scions", "Cordelia - Unyielding Snow"]
+        }
       },
       "id": "Astra",
       "name": "流星",
@@ -3586,7 +3605,8 @@
             "Yarne - Timid Taguel"
           ]
         },
-        "special": { "5": ["Tibarn - Shipless Pirate"] }
+        "special": { "5": ["Tibarn - Shipless Pirate"] },
+        "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
       },
       "id": "Galeforce",
       "name": "疾風迅雷",
@@ -4219,13 +4239,13 @@
         },
         "#": {
           "3": [
+            "Nyna - The Last Princess",
             "Maria - Minerva's Sister",
             "Lucius - The Light",
             "Emmeryn - Gentle Exalt",
             "Linhardt - Hevring's Heir",
             "Mercedes - Kindly Devotee"
           ],
-          "4": ["Nyna - The Last Princess"],
           "5": [
             "Delthea - Free Spirit",
             "Sigurd - Holy Knight",
@@ -4262,7 +4282,8 @@
             "Brady - Daunting Priest",
             "Forrest - Fashion Forward"
           ],
-          "5": ["Genny - Endearing Ally", "Dwyer - Sleepy Butler"]
+          "4": ["Dwyer - Sleepy Butler"],
+          "5": ["Genny - Endearing Ally"]
         },
         "grail": {
           "4": [
@@ -4649,6 +4670,10 @@
     },
     "Fury 3": {
       "pool": {
+        "grail": {
+          "4": ["Takumi - Empty Vessel"],
+          "5": ["Bruno - Masked Reveler", "Legion - Masked Maniac"]
+        },
         "#": {
           "4": ["Hinata - Wild Samurai"],
           "5": [
@@ -4673,10 +4698,6 @@
             "Greil - Heroic Exemplar",
             "Takumi - Prince at Play"
           ]
-        },
-        "grail": {
-          "4": ["Takumi - Empty Vessel"],
-          "5": ["Legion - Masked Maniac"]
         },
         "mythic": { "5": ["Duma - God of Strength"] },
         "legendary": { "5": ["Micaiah - Radiant Queen"] },
@@ -5642,6 +5663,7 @@
             "Caeda - Princess of Talys",
             "Hector - Just Here to Fight",
             "Ike - Stalwart Heart",
+            "Black Knight - The Night's Blade",
             "Corrin - Celestial Sorcerer",
             "Velouria - Renewed Wolfpup",
             "Sothis - Silver Specter"
@@ -5683,7 +5705,10 @@
       "icon": "skillA/Distant_Ferocity.png"
     },
     "Distant Dart": {
-      "pool": { "duo": { "5": ["Ike - Close-Knit Siblings"] } },
+      "pool": {
+        "duo": { "5": ["Ike - Close-Knit Siblings"] },
+        "special": { "5": ["Black Knight - The Night's Blade"] }
+      },
       "id": "Distant Dart",
       "name": "遠反・飛燕架勢",
       "sp": 300,
@@ -6795,7 +6820,7 @@
     "AR-D Atk/Res 3": {
       "pool": {
         "special": { "5": ["Flora - Signature Dish"] },
-        "#": { "5": ["Dwyer - Sleepy Butler"] }
+        "#": { "4": ["Dwyer - Sleepy Butler"] }
       },
       "id": "AR-D Atk/Res 3",
       "name": "攻擊魔防的守城戰3",
@@ -7166,7 +7191,8 @@
       "pool": {
         "#": { "5": ["Elice - Altean Princess"] },
         "grail": { "5": ["Hilda - Queen of Friege", "Riev - Blood Beryl"] },
-        "mythic": { "5": ["Ashera - Order Goddess"] }
+        "mythic": { "5": ["Ashera - Order Goddess"] },
+        "special": { "5": ["Annette - Festive Helper"] }
       },
       "id": "Atk/Res Ideal 3",
       "name": "攻擊魔防萬全3",
@@ -7258,7 +7284,8 @@
     "Atk/Spd Clash 3": {
       "pool": {
         "mythic": { "5": ["Embla - God of Closure"] },
-        "#": { "5": ["Seliph - Enduring Legacy"] }
+        "#": { "5": ["Seliph - Enduring Legacy"] },
+        "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
       },
       "id": "Atk/Spd Clash 3",
       "name": "攻擊速度的激戰3",
@@ -7268,7 +7295,8 @@
     "Atk/Spd Clash 4": {
       "pool": {
         "mythic": { "5": ["Embla - God of Closure"] },
-        "#": { "5": ["Seliph - Enduring Legacy"] }
+        "#": { "5": ["Seliph - Enduring Legacy"] },
+        "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
       },
       "id": "Atk/Spd Clash 4",
       "name": "攻擊速度的激戰4",
@@ -7670,6 +7698,7 @@
           "5": [
             "Rudolf - Emperor of Rigel",
             "Ike - Stalwart Heart",
+            "Black Knight - The Night's Blade",
             "Felicia - Off the Menu",
             "Sothis - Silver Specter"
           ]
@@ -7679,6 +7708,13 @@
       "name": "奧義隊形3",
       "sp": 240,
       "icon": "skillB/Special_Fighter_3.png"
+    },
+    "Special Fighter 4": {
+      "pool": { "special": { "5": ["Black Knight - The Night's Blade"] } },
+      "id": "Special Fighter 4",
+      "name": "奧義隊形4",
+      "sp": 300,
+      "icon": "skillB/Special_Fighter_4.png"
     },
     "Daring Fighter 3": {
       "pool": { "duo": { "5": ["Marth - Royal Altean Duo"] } },
@@ -7690,7 +7726,11 @@
     "Crafty Fighter 3": {
       "pool": {
         "special": {
-          "5": ["Gustav - Majestic Love", "Surtr - Pirate of Red Sky"]
+          "5": [
+            "Gustav - Majestic Love",
+            "Surtr - Pirate of Red Sky",
+            "Annette - Festive Helper"
+          ]
         },
         "legendary": { "5": ["Hector - Marquess of Ostia"] },
         "#": { "5": ["Gatrie - Armored Amour"] }
@@ -9309,7 +9349,11 @@
       "pool": {
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "special": {
-          "5": ["Delthea - Prodigy in Bloom", "L'Arachel - Seeker of Justice"]
+          "5": [
+            "Delthea - Prodigy in Bloom",
+            "L'Arachel - Seeker of Justice",
+            "Dorothea - Yuletide Dancer"
+          ]
         },
         "duo": {
           "5": ["Corrin - Nightfall Ninja Act", "Hinoka - Fair Pirate Pair"]
@@ -9334,7 +9378,10 @@
       "icon": "skillB/Flow_Refresh_3.png"
     },
     "Flow Guard 3": {
-      "pool": { "mythic": { "5": ["Thórr - War God"] } },
+      "pool": {
+        "mythic": { "5": ["Thórr - War God"] },
+        "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
+      },
       "id": "Flow Guard 3",
       "name": "怒濤・取消3",
       "sp": 240,
@@ -10036,7 +10083,10 @@
       "icon": "skillC/Spd_Res_Rein_3.png"
     },
     "Def/Res Rein 3": {
-      "pool": { "duo": { "5": ["Hinoka - Fair Pirate Pair"] } },
+      "pool": {
+        "harmonized": { "5": ["Cordelia - Unyielding Snow"] },
+        "duo": { "5": ["Hinoka - Fair Pirate Pair"] }
+      },
       "id": "Def/Res Rein 3",
       "name": "防守魔防牽制3",
       "sp": 240,
@@ -10083,6 +10133,13 @@
       "name": "速度魔防大牽制",
       "sp": 300,
       "icon": "skillC/Spd_Res_Hold.png"
+    },
+    "Def/Res Hold": {
+      "pool": { "harmonized": { "5": ["Cordelia - Unyielding Snow"] } },
+      "id": "Def/Res Hold",
+      "name": "防守魔防大牽制",
+      "sp": 300,
+      "icon": "skillC/Def_Res_Hold.png"
     },
     "Hone Atk 3": {
       "pool": {
@@ -10410,7 +10467,7 @@
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
         "special": {
           "4": ["Lute - Summer Prodigy"],
-          "5": ["Nephenee - Sincere Dancer"]
+          "5": ["Nephenee - Sincere Dancer", "Dorothea - Yuletide Dancer"]
         }
       },
       "id": "Spd Tactic 3",
@@ -10450,7 +10507,10 @@
       "icon": "skillC/Res_Tactic_3.png"
     },
     "Inf. Spd Tactic": {
-      "pool": { "#": { "5": ["Chrom - Fated Honor"] } },
+      "pool": {
+        "#": { "5": ["Chrom - Fated Honor"] },
+        "special": { "5": ["Dorothea - Yuletide Dancer"] }
+      },
       "id": "Inf. Spd Tactic",
       "name": "速度指揮・步行重視",
       "sp": 300,
@@ -10579,11 +10639,11 @@
     },
     "Threat. Atk/Res 2": {
       "pool": {
+        "grail": { "4": ["Bruno - Masked Reveler", "Sonia - Inhuman Beauty"] },
         "legendary": {
           "5": ["Deirdre - Fated Saint", "Julia - Crusader of Light"]
         },
         "#": { "5": ["Niime - Mountain Hermit", "Morgan - Fated Darkness"] },
-        "grail": { "4": ["Sonia - Inhuman Beauty"] },
         "special": { "5": ["Sothis - Silver Specter"] }
       },
       "id": "Threat. Atk/Res 2",
@@ -11158,14 +11218,22 @@
       "icon": "skillC/A_R_Far_Save_3.png"
     },
     "D/R Far Save 2": {
-      "pool": { "special": { "5": ["Artur - Silver Saint"] } },
+      "pool": {
+        "special": {
+          "5": ["Artur - Silver Saint", "Black Knight - The Night's Blade"]
+        }
+      },
       "id": "D/R Far Save 2",
       "name": "盾之守護人・遠處2",
       "sp": 200,
       "icon": "skillC/D_R_Far_Save_2.png"
     },
     "D/R Far Save 3": {
-      "pool": { "special": { "5": ["Artur - Silver Saint"] } },
+      "pool": {
+        "special": {
+          "5": ["Artur - Silver Saint", "Black Knight - The Night's Blade"]
+        }
+      },
       "id": "D/R Far Save 3",
       "name": "盾之守護人・遠處3",
       "sp": 300,

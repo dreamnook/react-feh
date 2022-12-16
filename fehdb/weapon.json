@@ -5554,6 +5554,16 @@
       "exclusive": ["Caeldori - Perfect Angel"],
       "last": true
     },
+    "Inseverable Spear": {
+      "id": "Inseverable Spear",
+      "name": "母女的寧靜祝福",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Cordelia - Unyielding Snow"],
+      "last": true
+    },
     "Iron Lance": {
       "id": "Iron Lance",
       "name": "鐵槍",
@@ -8406,6 +8416,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Hans - Ambitious Brute"],
+      "last": true
+    },
+    "Solemn Axe": {
+      "id": "Solemn Axe",
+      "name": "莊嚴的祝福聖斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Black Knight - The Night's Blade"],
       "last": true
     },
     "Arcane Downfall": {
@@ -12158,6 +12178,39 @@
       "sp": 300,
       "prev": ["Wyvern Yumi"],
       "last": true
+    },
+    "Peppy Bow": {
+      "id": "Peppy Bow",
+      "name": "聖夜之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Peppy Bow+": {
+      "id": "Peppy Bow+",
+      "name": "聖夜之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Peppy Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "dagger": {
@@ -15746,6 +15799,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Sevenfold Gifts": {
+      "id": "Sevenfold Gifts",
+      "name": "贈送大家的七份禮物",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Dorothea - Yuletide Dancer"],
       "last": true
     },
     "Arcane Eclipse": {
@@ -19742,6 +19805,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Snow Globe"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Peppy Cane": {
+      "id": "Peppy Cane",
+      "name": "聖夜之杖",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Rexcalibur"]
+    },
+    "Peppy Cane+": {
+      "id": "Peppy Cane+",
+      "name": "聖夜之杖+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Peppy Cane"],
       "refine": {
         "atk": {
           "hp": 2,

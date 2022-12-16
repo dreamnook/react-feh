@@ -714,6 +714,15 @@
     "icon": "skillB/Special_Fighter_3.png",
     "last": true
   },
+  "Special Fighter 4": {
+    "id": "Special Fighter 4",
+    "name": "奧義隊形4",
+    "sp": 300,
+    "prev": ["Special Fighter 3"],
+    "rules": "armored",
+    "icon": "skillB/Special_Fighter_4.png",
+    "last": true
+  },
   "Daring Fighter 1": {
     "id": "Daring Fighter 1",
     "name": "急襲隊形1",

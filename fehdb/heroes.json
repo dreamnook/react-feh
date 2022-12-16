@@ -490,6 +490,54 @@
     "book": 3,
     "ver": "3.3"
   },
+  "Bruno - Masked Reveler": {
+    "id": "Bruno - Masked Reveler",
+    "title": "面具點綴的聖夜",
+    "name": "布魯諾",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "moveType": "armored",
+    "weaponType": "green-tome",
+    "pool": "grail",
+    "releaseDate": "2022-12-16",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "4": {
+        "hp": [37, 40, 43],
+        "atk": [36, 39, 43],
+        "spd": [33, 36, 39],
+        "def": [23, 26, 29],
+        "res": [28, 31, 34]
+      },
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [38, 41, 45],
+        "spd": [35, 38, 41],
+        "def": [25, 29, 32],
+        "res": [31, 34, 37]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 12,
+        "def": 6,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 12,
+        "def": 7,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["def"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.0"
+  },
   "Veronica - Brave Princess": {
     "id": "Veronica - Brave Princess",
     "title": "偉大的皇女",
@@ -4348,13 +4396,20 @@
     "id": "Nyna - The Last Princess",
     "title": "最後的公主",
     "name": "妮娜",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-staff",
     "releaseDate": "2022-11-18",
     "appearsIn": ["Shadow Dragon / (New) Mystery"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [27, 30, 33],
+        "spd": [34, 37, 40],
+        "def": [17, 20, 23],
+        "res": [31, 34, 37]
+      },
       "4": {
         "hp": [34, 37, 40],
         "atk": [29, 32, 35],
@@ -4368,6 +4423,13 @@
         "spd": [38, 41, 45],
         "def": [20, 23, 26],
         "res": [35, 38, 42]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 7,
+        "spd": 10,
+        "def": 5,
+        "res": 7
       },
       "4-1": {
         "hp": 17,
@@ -22892,6 +22954,40 @@
     "book": 1,
     "ver": "1.7"
   },
+  "Black Knight - The Night's Blade": {
+    "id": "Black Knight - The Night's Blade",
+    "title": "聖夜的守護者",
+    "name": "漆黑騎士",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "armored",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2022-12-16",
+    "appearsIn": ["Path of Radiance"],
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [40, 44, 47],
+        "spd": [41, 44, 48],
+        "def": [32, 35, 38],
+        "res": [27, 30, 33]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 14,
+        "def": 9,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["atk"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 7,
+    "ver": "7.0"
+  },
   "Petrine - Icy Flame-Lancer": {
     "id": "Petrine - Icy Flame-Lancer",
     "title": "炎槍冷血的騎將",
@@ -26567,6 +26663,40 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.6"
+  },
+  "Cordelia - Unyielding Snow": {
+    "id": "Cordelia - Unyielding Snow",
+    "title": "爭強好勝的聖夜",
+    "name": "蒂亞莫",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "pool": "harmonized",
+    "releaseDate": "2022-12-16",
+    "appearsIn": ["Awakening", "Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [39, 43, 46],
+        "def": [30, 33, 36],
+        "res": [20, 23, 27]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 10,
+        "def": 7,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.0"
   },
   "Phila - Pegasus Master": {
     "id": "Phila - Pegasus Master",
@@ -33955,19 +34085,33 @@
     "id": "Dwyer - Sleepy Butler",
     "title": "無精打采的使仗者",
     "name": "迪亞",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-staff",
     "releaseDate": "2022-12-07",
     "appearsIn": ["Fates"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [32, 35, 38],
+        "spd": [30, 33, 36],
+        "def": [20, 23, 26],
+        "res": [33, 36, 40]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [34, 37, 40],
         "spd": [32, 35, 38],
         "def": [22, 25, 29],
         "res": [36, 39, 43]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 9,
+        "def": 5,
+        "res": 8
       },
       "5-1": {
         "hp": 18,
@@ -35622,6 +35766,40 @@
     "book": 5,
     "ver": "5.1"
   },
+  "Dorothea - Yuletide Dancer": {
+    "id": "Dorothea - Yuletide Dancer",
+    "title": "聖夜中舞動的花朵",
+    "name": "多洛緹雅",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-tome",
+    "pool": "special",
+    "releaseDate": "2022-12-16",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [32, 36, 39],
+        "atk": [37, 41, 44],
+        "spd": [38, 41, 45],
+        "def": [12, 16, 19],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 14,
+        "atk": 8,
+        "spd": 11,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def", "res"],
+    "statMin": 159,
+    "statMax": 160,
+    "book": 7,
+    "ver": "7.0"
+  },
   "Petra - Princess of Brigid": {
     "id": "Petra - Princess of Brigid",
     "title": "異境公主",
@@ -36115,6 +36293,40 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.3"
+  },
+  "Annette - Festive Helper": {
+    "id": "Annette - Festive Helper",
+    "title": "勤勉者的冬祭",
+    "name": "雅妮特",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "armored",
+    "weaponType": "white-bow",
+    "pool": "special",
+    "releaseDate": "2022-12-16",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [40, 43, 47],
+        "spd": [20, 23, 27],
+        "def": [37, 40, 43],
+        "res": [37, 41, 44]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 4,
+        "def": 12,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["res"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.0"
   },
   "Ingrid - Solstice Knight": {
     "id": "Ingrid - Solstice Knight",
