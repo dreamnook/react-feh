@@ -21427,6 +21427,33 @@
       "Dull Close 3": 4
     }
   },
+  "Shez - Sharpest Blades": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 4,
+      "Asura Blades": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Swift Slice": 5
+    },
+    "skillB": {
+      "Seal Spd 1": 2,
+      "Seal Spd 2": 3,
+      "Seal Spd 3": 4,
+      "Seal Spd 4": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Oath 4": 5
+    }
+  },
   "Monica - Favored Vassal": {
     "weapon": {
       "Light": 1,

@@ -12858,6 +12858,16 @@
       "exclusive": ["Eir - Life Ascendant"],
       "last": true
     },
+    "Asura Blades": {
+      "id": "Asura Blades",
+      "name": "阿修羅的雙刃",
+      "mt": 8,
+      "spd": 5,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Shez - Sharpest Blades"],
+      "last": true
+    },
     "Iron Dagger": {
       "id": "Iron Dagger",
       "name": "鐵暗器",

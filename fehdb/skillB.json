@@ -1032,6 +1032,15 @@
     "icon": "skillB/Seal_Spd_3.png",
     "last": true
   },
+  "Seal Spd 4": {
+    "id": "Seal Spd 4",
+    "name": "速度封印4",
+    "sp": 300,
+    "prev": ["Seal Spd 3"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Seal_Spd_4.png",
+    "last": true
+  },
   "Seal Def 1": {
     "id": "Seal Def 1",
     "name": "防守封印1",

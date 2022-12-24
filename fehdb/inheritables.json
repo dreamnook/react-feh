@@ -3239,6 +3239,7 @@
           "4": [
             "Alfonse - Uplifting Love",
             "Lyon - Sunlit Prince",
+            "Annette - Festive Helper",
             "Claude - Tropical Trouble"
           ],
           "5": [
@@ -3256,7 +3257,6 @@
             "Takumi - Prince of Soup",
             "Bernadetta - Frosty Shut-In",
             "Ashe - Fabled Sea Knight",
-            "Annette - Festive Helper",
             "Ingrid - Solstice Knight"
           ]
         },
@@ -3527,7 +3527,9 @@
         "harmonized": {
           "5": ["Tana - Soothing Warmth", "Edelgard - Sun Empresses"]
         },
-        "legendary": { "5": ["Ryoma - Supreme Samurai"] }
+        "legendary": {
+          "5": ["Ryoma - Supreme Samurai", "Shez - Sharpest Blades"]
+        }
       },
       "id": "Glimmer",
       "name": "凶星",
@@ -7192,7 +7194,7 @@
         "#": { "5": ["Elice - Altean Princess"] },
         "grail": { "5": ["Hilda - Queen of Friege", "Riev - Blood Beryl"] },
         "mythic": { "5": ["Ashera - Order Goddess"] },
-        "special": { "5": ["Annette - Festive Helper"] }
+        "special": { "4": ["Annette - Festive Helper"] }
       },
       "id": "Atk/Res Ideal 3",
       "name": "攻擊魔防萬全3",
@@ -7872,12 +7874,20 @@
           "4": ["Virion - Elite Archer"],
           "5": ["Est - Junior Whitewing"]
         },
-        "grail": { "5": ["Tobin - The Clueless One"] }
+        "grail": { "5": ["Tobin - The Clueless One"] },
+        "legendary": { "5": ["Shez - Sharpest Blades"] }
       },
       "id": "Seal Spd 3",
       "name": "速度封印3",
       "sp": 160,
       "icon": "skillB/Seal_Spd_3.png"
+    },
+    "Seal Spd 4": {
+      "pool": { "legendary": { "5": ["Shez - Sharpest Blades"] } },
+      "id": "Seal Spd 4",
+      "name": "速度封印4",
+      "sp": 300,
+      "icon": "skillB/Seal_Spd_4.png"
     },
     "Seal Def 3": {
       "pool": {
@@ -11669,7 +11679,9 @@
     },
     "Atk/Spd Oath 3": {
       "pool": {
-        "legendary": { "5": ["Celica - Queen of Valentia"] },
+        "legendary": {
+          "5": ["Celica - Queen of Valentia", "Shez - Sharpest Blades"]
+        },
         "#": {
           "5": [
             "Louise - Lady of Violets",
@@ -11691,7 +11703,8 @@
     "Atk/Spd Oath 4": {
       "pool": {
         "special": { "5": ["Eirika - Beach Restorer"] },
-        "#": { "5": ["Shez - Rising Mercenary"] }
+        "#": { "5": ["Shez - Rising Mercenary"] },
+        "legendary": { "5": ["Shez - Sharpest Blades"] }
       },
       "id": "Atk/Spd Oath 4",
       "name": "攻擊速度的信義4",
