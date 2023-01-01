@@ -3359,6 +3359,22 @@
             "Nina - Shadowy Figures"
           ]
         },
+        "special": {
+          "4": ["Lewyn - Wind-Song Scion", "Lyre - Lap Cat of Luxury"],
+          "5": [
+            "Elm - Resolute Grouch",
+            "Katarina - Torchlit Wanderer",
+            "Fae - Holiday Dear",
+            "Igrene - Ninja of Nabata",
+            "Eirika - Beach Restorer",
+            "Greil - Heroic Exemplar",
+            "Black Knight - The Night's Blade",
+            "Nailah - Hatari Scorcher",
+            "Panne - Welcoming Dawn",
+            "Ryoma - Samurai at Ease",
+            "Ophelia - Starlit Maiden"
+          ]
+        },
         "#": {
           "4": [
             "Catria - Middle Whitewing",
@@ -3366,7 +3382,8 @@
             "Knoll - Darkness Watcher",
             "Marcia - Petulant Knight",
             "Frederick - Polite Knight",
-            "Ricken - Shepherd Novice"
+            "Ricken - Shepherd Novice",
+            "Kiragi - Upbeat Archer"
           ],
           "5": [
             "Sirius - Mysterious Knight",
@@ -3391,25 +3408,10 @@
             "Lucina - Future Witness",
             "Hinoka - Blue Sky Warrior",
             "Nyx - Rulebreaker Mage",
-            "Kiragi - Upbeat Archer",
             "Velouria - Wolf Cub",
             "Edelgard - The Future",
             "Petra - Princess of Brigid",
             "Hilda - Helping Hand"
-          ]
-        },
-        "special": {
-          "4": ["Lewyn - Wind-Song Scion", "Lyre - Lap Cat of Luxury"],
-          "5": [
-            "Katarina - Torchlit Wanderer",
-            "Fae - Holiday Dear",
-            "Igrene - Ninja of Nabata",
-            "Eirika - Beach Restorer",
-            "Greil - Heroic Exemplar",
-            "Black Knight - The Night's Blade",
-            "Nailah - Hatari Scorcher",
-            "Ryoma - Samurai at Ease",
-            "Ophelia - Starlit Maiden"
           ]
         },
         "harmonized": {
@@ -3570,7 +3572,8 @@
           "4": [
             "Jamke - Prince of Verdane",
             "Yen'fay - Blade Legend",
-            "Panne - Proud Taguel"
+            "Panne - Proud Taguel",
+            "Yarne - Hoppy New Year"
           ]
         },
         "special": {
@@ -3608,7 +3611,8 @@
           ]
         },
         "special": { "5": ["Tibarn - Shipless Pirate"] },
-        "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
+        "harmonized": { "5": ["Cordelia - Unyielding Snow"] },
+        "grail": { "5": ["Yarne - Hoppy New Year"] }
       },
       "id": "Galeforce",
       "name": "疾風迅雷",
@@ -3800,7 +3804,13 @@
     },
     "Bonfire": {
       "pool": {
-        "duo": { "5": ["Alfonse - Askran Duo", "Hector - Dressed-Up Duo"] },
+        "duo": {
+          "5": [
+            "Alfonse - Askran Duo",
+            "Askr - Renewed Gods",
+            "Hector - Dressed-Up Duo"
+          ]
+        },
         "#": {
           "4": [
             "Robin - High Deliverer",
@@ -3838,6 +3848,7 @@
           ],
           "5": [
             "Surtr - Pirate of Red Sky",
+            "Ash - Earnest Greetings",
             "Rudolf - Emperor of Rigel",
             "Myrrh - Spooky Monster",
             "Lissa - Pure Joy",
@@ -4282,9 +4293,9 @@
             "Nanna - Nordion Princess",
             "Natasha - Sacred Healer",
             "Brady - Daunting Priest",
+            "Dwyer - Sleepy Butler",
             "Forrest - Fashion Forward"
           ],
-          "4": ["Dwyer - Sleepy Butler"],
           "5": ["Genny - Endearing Ally"]
         },
         "grail": {
@@ -5662,6 +5673,7 @@
         },
         "special": {
           "5": [
+            "Ash - Earnest Greetings",
             "Caeda - Princess of Talys",
             "Hector - Just Here to Fight",
             "Ike - Stalwart Heart",
@@ -5715,6 +5727,13 @@
       "name": "遠反・飛燕架勢",
       "sp": 300,
       "icon": "skillA/Distant_Dart.png"
+    },
+    "Distant Reversal": {
+      "pool": { "special": { "5": ["Ash - Earnest Greetings"] } },
+      "id": "Distant Reversal",
+      "name": "遠反・金剛架勢",
+      "sp": 300,
+      "icon": "skillA/Distant_Reversal.png"
     },
     "Distant Stance": {
       "pool": {
@@ -6508,7 +6527,8 @@
     "Spd/Def Solo 3": {
       "pool": {
         "special": { "5": ["Larcei - Scion of Astra"] },
-        "#": { "5": ["Lethe - Gallia's Valkyrie"] }
+        "#": { "5": ["Lethe - Gallia's Valkyrie"] },
+        "grail": { "5": ["Yarne - Hoppy New Year"] }
       },
       "id": "Spd/Def Solo 3",
       "name": "速度防守的孤軍3",
@@ -7287,7 +7307,8 @@
       "pool": {
         "mythic": { "5": ["Embla - God of Closure"] },
         "#": { "5": ["Seliph - Enduring Legacy"] },
-        "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
+        "harmonized": { "5": ["Cordelia - Unyielding Snow"] },
+        "special": { "5": ["Panne - Welcoming Dawn"] }
       },
       "id": "Atk/Spd Clash 3",
       "name": "攻擊速度的激戰3",
@@ -7366,6 +7387,20 @@
       "name": "速度魔防的奧秘4",
       "sp": 300,
       "icon": "skillA/Spd_Res_Finish_4.png"
+    },
+    "Def/Res Finish 3": {
+      "pool": { "duo": { "5": ["Askr - Renewed Gods"] } },
+      "id": "Def/Res Finish 3",
+      "name": "防守魔防的奧秘3",
+      "sp": 240,
+      "icon": "skillA/Def_Res_Finish_3.png"
+    },
+    "Def/Res Finish 4": {
+      "pool": { "duo": { "5": ["Askr - Renewed Gods"] } },
+      "id": "Def/Res Finish 4",
+      "name": "防守魔防的奧秘4",
+      "sp": 300,
+      "icon": "skillA/Def_Res_Finish_4.png"
     }
   },
   "skillB": {
@@ -9100,7 +9135,8 @@
             "Navarre - Scarlet Ninja",
             "Shinon - Sharptongue Ninja",
             "Lethe - New Year's Claw",
-            "Nailah - Hatari Scorcher"
+            "Nailah - Hatari Scorcher",
+            "Panne - Welcoming Dawn"
           ]
         },
         "#": {
@@ -9420,6 +9456,7 @@
     },
     "Atk/Res Tempo 3": {
       "pool": {
+        "duo": { "5": ["Askr - Renewed Gods"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Arval - Cycle Keeper"] }
       },
@@ -9443,7 +9480,10 @@
       "icon": "skillB/Spd_Res_Tempo_3.png"
     },
     "Atk/Def Bulwark 3": {
-      "pool": { "mythic": { "5": ["Askr - God of Openness"] } },
+      "pool": {
+        "mythic": { "5": ["Askr - God of Openness"] },
+        "special": { "5": ["Ash - Earnest Greetings"] }
+      },
       "id": "Atk/Def Bulwark 3",
       "name": "攻擊防守防護屏障3",
       "sp": 240,
@@ -9476,6 +9516,13 @@
       "name": "絕對化身・敏捷3",
       "sp": 240,
       "icon": "skillB/Beast_Agility_3.png"
+    },
+    "Beast N Trace 3": {
+      "pool": { "special": { "5": ["Elm - Resolute Grouch"] } },
+      "id": "Beast N Trace 3",
+      "name": "絕對化身・近影3",
+      "sp": 240,
+      "icon": "skillB/Beast_N_Trace_3.png"
     }
   },
   "skillC": {
@@ -9711,13 +9758,12 @@
           ]
         },
         "#": {
-          "4": ["Tailtiu - Thunder Noble"],
+          "4": ["Tailtiu - Thunder Noble", "Kiragi - Upbeat Archer"],
           "5": [
             "Ronan - Villager of Iz",
             "Florina - Azure-Sky Knight",
             "Anna - Secret Seller",
             "Lucina - Brave Princess",
-            "Kiragi - Upbeat Archer",
             "Hilda - Helping Hand"
           ]
         },
@@ -10597,7 +10643,7 @@
         "mythic": { "5": ["Nótt - Moon's Elegance"] },
         "#": { "5": ["Alm - Imperial Ascent", "Eirika - Pledged Restorer"] },
         "legendary": { "5": ["Nanna - Beloved Princess"] },
-        "grail": { "4": ["Gonzalez - Kindly Bandit"] }
+        "grail": { "4": ["Gonzalez - Kindly Bandit", "Yarne - Hoppy New Year"] }
       },
       "id": "Threat. Atk/Spd 2",
       "name": "攻擊速度的威嚇2",
@@ -11851,6 +11897,7 @@
     },
     "C Feud 3": {
       "pool": {
+        "special": { "5": ["Elm - Resolute Grouch"] },
         "legendary": { "5": ["Xander - Gallant King"] },
         "duo": { "5": ["Nina - Shadowy Figures"] },
         "harmonized": { "5": ["Lysithea - Gifted Students"] }

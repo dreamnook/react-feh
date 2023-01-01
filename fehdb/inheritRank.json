@@ -398,6 +398,19 @@
     "skillA": { "Atk/Res Push 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
   },
+  "Dwyer - Sleepy Butler": {
+    "score": 50,
+    "scoreTotal": 104,
+    "poolRarity": 3,
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 150,
+    "bst": 176,
+    "assist": { "Martyr+": { "sp": 300, "rarity": 5 } },
+    "special": { "Heavenly Light": { "sp": 150, "rarity": 3 } },
+    "skillA": { "AR-D Atk/Res 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Spd Tactic 3": { "sp": 240, "rarity": 5 } }
+  },
   "Elice - Altean Princess": {
     "score": 50,
     "scoreTotal": 104,
@@ -473,19 +486,6 @@
     "bst": 145,
     "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
     "skillB": { "Live to Serve 3": { "sp": 160, "rarity": 5 } }
-  },
-  "Dwyer - Sleepy Butler": {
-    "score": 46,
-    "scoreTotal": 116,
-    "poolRarity": 4,
-    "sp": 300,
-    "spTotal": 930,
-    "feather": 300,
-    "bst": 176,
-    "assist": { "Martyr+": { "sp": 300, "rarity": 5 } },
-    "special": { "Heavenly Light": { "sp": 150, "rarity": 4 } },
-    "skillA": { "AR-D Atk/Res 3": { "sp": 240, "rarity": 4 } },
-    "skillC": { "Spd Tactic 3": { "sp": 240, "rarity": 5 } }
   },
   "Xane - Desert Mirage": {
     "score": 49,
@@ -3216,6 +3216,18 @@
     "skillA": { "Atk/Def Bond 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk Tactic 3": { "sp": 240, "rarity": 4 } }
   },
+  "Kiragi - Upbeat Archer": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 181,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
+  },
   "Balthus - King of Grappling": {
     "score": 199,
     "scoreTotal": 461,
@@ -4184,6 +4196,19 @@
     "assist": { "Swap": { "sp": 150, "rarity": 4 } },
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Yarne - Hoppy New Year": {
+    "score": 249,
+    "scoreTotal": 608,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 500,
+    "spTotal": 940,
+    "feather": 300,
+    "bst": 179,
+    "special": { "Galeforce": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Spd/Def Solo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Threat. Atk/Spd 2": { "sp": 200, "rarity": 4 } }
   },
   "Marisa - Crimson Flash": {
     "score": 249,
@@ -5181,18 +5206,6 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
-  "Kiragi - Upbeat Archer": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 181,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 5 } }
-  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -6108,6 +6121,19 @@
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
+  "Panne - Welcoming Dawn": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 178,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } }
+  },
   "Zephiel - Winter's Crown": {
     "score": 254,
     "scoreTotal": 721,
@@ -6133,6 +6159,19 @@
     "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Elm - Resolute Grouch": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,
@@ -7515,6 +7554,19 @@
     "skillA": { "Def/Res Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ash - Earnest Greetings": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Reversal": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Def Bulwark 3": { "sp": 240, "rarity": 5 } }
+  },
   "Edelgard - Sun Empresses": {
     "score": 318,
     "scoreTotal": 784,
@@ -7540,6 +7592,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Askr - Renewed Gods": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Def/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Tempo 3": { "sp": 240, "rarity": 5 } }
   },
   "Duma - Strength and Love": {
     "score": 318,

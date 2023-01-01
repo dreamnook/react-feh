@@ -14752,6 +14752,46 @@
       "exclusive": ["Embla - God of Closure"],
       "last": true
     },
+    "Heralding Horn": {
+      "id": "Heralding Horn",
+      "name": "開啟新年之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Infantry)"],
+      "exclusive": ["Ash - Earnest Greetings"],
+      "last": true
+    },
+    "Fang of Finality": {
+      "id": "Fang of Finality",
+      "name": "關閉舊年的爪牙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Flier)"],
+      "exclusive": ["Elm - Resolute Grouch"],
+      "last": true
+    },
+    "Keen Rabbit Fang": {
+      "id": "Keen Rabbit Fang",
+      "name": "賀年母兔的爪牙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Panne - Welcoming Dawn"],
+      "last": true
+    },
+    "Wary Rabbit Fang": {
+      "id": "Wary Rabbit Fang",
+      "name": "賀年幼兔的爪牙",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Yarne - Hoppy New Year"],
+      "last": true
+    },
     "Whelp (Infantry)": {
       "id": "Whelp (Infantry)",
       "name": "幼獸化身・步行",
@@ -20008,6 +20048,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Arval - Cycle Keeper"],
+      "last": true
+    },
+    "Duality Vessel": {
+      "id": "Duality Vessel",
+      "name": "開神與閉神的祭器",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Askr - Renewed Gods"],
       "last": true
     },
     "Stone": {

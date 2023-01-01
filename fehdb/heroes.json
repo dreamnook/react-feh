@@ -2889,6 +2889,41 @@
     "book": 6,
     "ver": "6.7"
   },
+  "Askr - Renewed Gods": {
+    "id": "Askr - Renewed Gods",
+    "title": "眾神的新春",
+    "name": "亞斯克",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "bst": 200,
+    "pool": "duo",
+    "releaseDate": "2023-01-01",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 42, 45],
+        "spd": [12, 16, 19],
+        "def": [39, 42, 46],
+        "res": [34, 37, 40]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 3,
+        "def": 12,
+        "res": 9
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["hp", "atk", "spd"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.1"
+  },
   "Ash - Retainer to Askr": {
     "id": "Ash - Retainer to Askr",
     "title": "亞斯克的眷屬",
@@ -2925,6 +2960,40 @@
     "book": 6,
     "ver": "6.0"
   },
+  "Ash - Earnest Greetings": {
+    "id": "Ash - Earnest Greetings",
+    "title": "正經八百的新年",
+    "name": "艾緒",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-beast",
+    "pool": "special",
+    "releaseDate": "2023-01-01",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [41, 44, 48],
+        "spd": [16, 19, 22],
+        "def": [40, 44, 47],
+        "res": [36, 40, 43]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 14,
+        "spd": 4,
+        "def": 11,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.1"
+  },
   "Embla - God of Closure": {
     "id": "Embla - God of Closure",
     "title": "閉神",
@@ -2960,6 +3029,40 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.11"
+  },
+  "Elm - Resolute Grouch": {
+    "id": "Elm - Resolute Grouch",
+    "title": "鬧彆扭的正月",
+    "name": "埃爾姆",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-beast",
+    "pool": "special",
+    "releaseDate": "2023-01-01",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [37, 40, 44],
+        "spd": [41, 45, 48],
+        "def": [23, 27, 30],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 12,
+        "def": 5,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.1"
   },
   "Letizia - Curse Director": {
     "id": "Letizia - Curse Director",
@@ -28443,6 +28546,40 @@
     "book": 3,
     "ver": "3.2"
   },
+  "Panne - Welcoming Dawn": {
+    "id": "Panne - Welcoming Dawn",
+    "title": "跳兔迎春",
+    "name": "貝爾貝特",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-beast",
+    "pool": "special",
+    "releaseDate": "2023-01-01",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [41, 44, 48],
+        "def": [29, 32, 35],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 14,
+        "def": 4,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.1"
+  },
   "Priam - Radiant Hero": {
     "id": "Priam - Radiant Hero",
     "title": "蒼炎的後裔",
@@ -29017,6 +29154,54 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.6"
+  },
+  "Yarne - Hoppy New Year": {
+    "id": "Yarne - Hoppy New Year",
+    "title": "動如脫兔的新春",
+    "name": "夏布雷",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-beast",
+    "pool": "grail",
+    "releaseDate": "2023-01-01",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [37, 41, 44],
+        "spd": [35, 38, 42],
+        "def": [29, 32, 35],
+        "res": [16, 19, 22]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 43, 46],
+        "spd": [37, 40, 44],
+        "def": [32, 35, 38],
+        "res": [18, 21, 24]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 10,
+        "def": 6,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 7,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.1"
   },
   "Morgan - Lad from Afar": {
     "id": "Morgan - Lad from Afar",
@@ -34085,13 +34270,20 @@
     "id": "Dwyer - Sleepy Butler",
     "title": "無精打采的使仗者",
     "name": "迪亞",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-staff",
     "releaseDate": "2022-12-07",
     "appearsIn": ["Fates"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [30, 33, 36],
+        "spd": [28, 31, 34],
+        "def": [19, 22, 25],
+        "res": [32, 35, 38]
+      },
       "4": {
         "hp": [34, 37, 40],
         "atk": [32, 35, 38],
@@ -34105,6 +34297,13 @@
         "spd": [32, 35, 38],
         "def": [22, 25, 29],
         "res": [36, 39, 43]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 8,
+        "def": 5,
+        "res": 8
       },
       "4-1": {
         "hp": 17,
@@ -34198,19 +34397,47 @@
     "id": "Kiragi - Upbeat Archer",
     "title": "積極樂觀的弓箭手",
     "name": "如月",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-bow",
     "releaseDate": "2022-12-07",
     "appearsIn": ["Fates"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [31, 34, 37],
+        "spd": [36, 39, 42],
+        "def": [30, 33, 36],
+        "res": [17, 20, 23]
+      },
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [32, 35, 39],
+        "spd": [38, 41, 45],
+        "def": [32, 35, 38],
+        "res": [18, 21, 24]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [35, 38, 42],
         "spd": [40, 43, 47],
         "def": [34, 37, 40],
         "res": [20, 23, 27]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 7,
+        "spd": 12,
+        "def": 8,
+        "res": 3
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 7,
+        "spd": 13,
+        "def": 9,
+        "res": 3
       },
       "5-1": {
         "hp": 18,

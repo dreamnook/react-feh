@@ -1504,6 +1504,15 @@
     "last": true,
     "icon": "skillA/Distant_Dart.png"
   },
+  "Distant Reversal": {
+    "id": "Distant Reversal",
+    "name": "遠反・金剛架勢",
+    "sp": 300,
+    "prev": ["Distant Counter"],
+    "rules": "ranged",
+    "last": true,
+    "icon": "skillA/Distant_Reversal.png"
+  },
   "Distant Stance": {
     "id": "Distant Stance",
     "name": "遠反・明鏡架勢",
@@ -3808,6 +3817,39 @@
     "prev": ["Spd/Res Finish 3"],
     "rules": "infantry",
     "icon": "skillA/Spd_Res_Finish_4.png",
+    "last": true
+  },
+  "Def/Res Finish 1": {
+    "id": "Def/Res Finish 1",
+    "name": "防守魔防的奧秘1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillA/Def_Res_Finish_1.png"
+  },
+  "Def/Res Finish 2": {
+    "id": "Def/Res Finish 2",
+    "name": "防守魔防的奧秘2",
+    "sp": 120,
+    "prev": ["Def/Res Finish 1"],
+    "rules": "infantry",
+    "icon": "skillA/Def_Res_Finish_2.png"
+  },
+  "Def/Res Finish 3": {
+    "id": "Def/Res Finish 3",
+    "name": "防守魔防的奧秘3",
+    "sp": 240,
+    "prev": ["Def/Res Finish 2"],
+    "rules": "infantry",
+    "icon": "skillA/Def_Res_Finish_3.png",
+    "last": true
+  },
+  "Def/Res Finish 4": {
+    "id": "Def/Res Finish 4",
+    "name": "防守魔防的奧秘4",
+    "sp": 300,
+    "prev": ["Def/Res Finish 3"],
+    "rules": "infantry",
+    "icon": "skillA/Def_Res_Finish_4.png",
     "last": true
   }
 }
