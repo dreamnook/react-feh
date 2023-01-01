@@ -1844,6 +1844,30 @@
       "rules": "learner.ideal",
       "icon": "skillA/Atk_Res_Ideal_3.png",
       "last": true
+    },
+    "Def/Res Ideal 1": {
+      "id": "Def/Res Ideal 1",
+      "name": "防守魔防的萬全1",
+      "sp": 60,
+      "rules": "learner.ideal",
+      "icon": "skillA/Def_Res_Ideal_1.png"
+    },
+    "Def/Res Ideal 2": {
+      "id": "Def/Res Ideal 2",
+      "name": "防守魔防的萬全2",
+      "sp": 120,
+      "prev": ["Def/Res Ideal 1"],
+      "rules": "learner.ideal",
+      "icon": "skillA/Def_Res_Ideal_2.png"
+    },
+    "Def/Res Ideal 3": {
+      "id": "Def/Res Ideal 3",
+      "name": "防守魔防的萬全3",
+      "sp": 240,
+      "prev": ["Def/Res Ideal 2"],
+      "rules": "learner.ideal",
+      "icon": "skillA/Def_Res_Ideal_3.png",
+      "last": true
     }
   },
   "skillB": {
@@ -3644,6 +3668,30 @@
       "prev": ["Spd/Res Oath 2"],
       "rules": "learner.oath-skills",
       "icon": "skillC/Spd_Res_Oath_3.png",
+      "last": true
+    },
+    "Odd Tempest 1": {
+      "id": "Odd Tempest 1",
+      "name": "迅雷風烈・奇數1",
+      "sp": 60,
+      "rules": "learner.tempest",
+      "icon": "skillC/Odd_Tempest_1.png"
+    },
+    "Odd Tempest 2": {
+      "id": "Odd Tempest 2",
+      "name": "迅雷風烈・奇數2",
+      "sp": 120,
+      "prev": ["Odd Tempest 1"],
+      "rules": "learner.tempest",
+      "icon": "skillC/Odd_Tempest_2.png"
+    },
+    "Odd Tempest 3": {
+      "id": "Odd Tempest 3",
+      "name": "迅雷風烈・奇數3",
+      "sp": 240,
+      "prev": ["Odd Tempest 2"],
+      "rules": "learner.tempest",
+      "icon": "skillC/Odd_Tempest_3.png",
       "last": true
     }
   },

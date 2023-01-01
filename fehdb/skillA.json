@@ -1509,7 +1509,7 @@
     "name": "遠反・金剛架勢",
     "sp": 300,
     "prev": ["Distant Counter"],
-    "rules": "ranged",
+    "rules": "melee",
     "last": true,
     "icon": "skillA/Distant_Reversal.png"
   },
