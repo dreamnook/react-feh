@@ -1847,14 +1847,14 @@
     },
     "Def/Res Ideal 1": {
       "id": "Def/Res Ideal 1",
-      "name": "防守魔防的萬全1",
+      "name": "防守魔防萬全1",
       "sp": 60,
       "rules": "learner.ideal",
       "icon": "skillA/Def_Res_Ideal_1.png"
     },
     "Def/Res Ideal 2": {
       "id": "Def/Res Ideal 2",
-      "name": "防守魔防的萬全2",
+      "name": "防守魔防萬全2",
       "sp": 120,
       "prev": ["Def/Res Ideal 1"],
       "rules": "learner.ideal",
@@ -1862,7 +1862,7 @@
     },
     "Def/Res Ideal 3": {
       "id": "Def/Res Ideal 3",
-      "name": "防守魔防的萬全3",
+      "name": "防守魔防萬全3",
       "sp": 240,
       "prev": ["Def/Res Ideal 2"],
       "rules": "learner.ideal",
