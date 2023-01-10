@@ -1947,6 +1947,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Altina - Dawn's Trueblade", "Altina - Cross-Time Duo"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Ragnell_Alondite_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Mareeta's Sword": {
@@ -4604,6 +4627,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Death Knight - The Reaper"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Scythe_of_Sariel_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Ninis's Ice Lance": {
@@ -4656,6 +4702,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Sirius - Mysterious Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Sable_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Sol Lance": {
@@ -10247,6 +10316,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Claude - The Schemer"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Cunning_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Dignified Bow": {
@@ -10288,6 +10379,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Leif - Unifier of Thracia"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Meisterbogen_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Renowned Bow": {
@@ -15861,6 +15974,26 @@
       "exclusive": ["Dorothea - Yuletide Dancer"],
       "last": true
     },
+    "Celestial Globe": {
+      "id": "Celestial Globe",
+      "name": "繼魔少女的天球儀",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Linde - Bound by Fate"],
+      "last": true
+    },
+    "Child's Compass": {
+      "id": "Child's Compass",
+      "name": "魔道寵兒的指南針",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Nino - Spirited Sorcerer"],
+      "last": true
+    },
     "Arcane Eclipse": {
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
@@ -17372,6 +17505,16 @@
       "exclusive": ["Monica - Favored Vassal"],
       "last": true
     },
+    "Guide's Hourglass": {
+      "id": "Guide's Hourglass",
+      "name": "引導之師的沙漏",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Byleth - Fount of Learning"],
+      "last": true
+    },
     "Thunder": {
       "id": "Thunder",
       "name": "雷電",
@@ -18237,6 +18380,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Spider Plush"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Magical Lantern": {
+      "id": "Magical Lantern",
+      "name": "魔道提燈",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elthunder", "Ellight"]
+    },
+    "Magical Lantern+": {
+      "id": "Magical Lantern+",
+      "name": "魔道提燈+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Magical Lantern"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -19133,6 +19309,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Seiðr - Goddess of Hope"],
+      "last": true
+    },
+    "Crow's Crystal": {
+      "id": "Crow's Crystal",
+      "name": "宿魔蒼鴉的水晶球",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Ursula - Royal-Blue Crow"],
       "last": true
     },
     "Wind": {
@@ -21477,6 +21663,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Sothis - Silver Specter"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Snow's_Grace_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Frost Breath": {

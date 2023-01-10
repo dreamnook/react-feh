@@ -47,6 +47,14 @@
     "last": true,
     "icon": "skillA/Scendscale.png"
   },
+  "Ashera's Chosen+": {
+    "id": "Ashera's Chosen+",
+    "name": "女神的三雄・神",
+    "sp": 300,
+    "exclusive": ["Altina - Dawn's Trueblade"],
+    "last": true,
+    "icon": "skillA/Ashera's_Chosen+.png"
+  },
   "Ashera's Chosen": {
     "id": "Ashera's Chosen",
     "name": "女神的三雄",
@@ -879,6 +887,15 @@
     "prev": ["Sturdy Blow 2"],
     "last": true,
     "icon": "skillA/Sturdy_Surge.png"
+  },
+  "Remote Sparrow": {
+    "id": "Remote Sparrow",
+    "name": "鬼神飛燕離擊",
+    "sp": 300,
+    "rules": "ranged",
+    "prev": ["Swift Sparrow 2"],
+    "last": true,
+    "icon": "skillA/Remote_Sparrow.png"
   },
   "Fierce Stance 1": {
     "id": "Fierce Stance 1",

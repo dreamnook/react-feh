@@ -1570,7 +1570,7 @@
     "beast": {},
     "red-tome": {
       "Arcane Eclipse": {
-        "pool": { "special": { "5": ["Ophelia - Starlit Maiden"] } },
+        "pool": { "#": { "5": ["Ophelia - Starlit Maiden"] } },
         "id": "Arcane Eclipse",
         "name": "魔器露奈克利普斯",
         "sp": 300,
@@ -1908,6 +1908,13 @@
         "pool": { "grail": { "5": ["Sophia - Cobweb Prophet"] } },
         "id": "Spider Plush+",
         "name": "蜘蛛布偶+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Magical Lantern+": {
+        "pool": { "grail": { "5": ["Soren - Wind of Tradition"] } },
+        "id": "Magical Lantern+",
+        "name": "魔道提燈+",
         "sp": 300,
         "refine": 350
       }
@@ -3250,6 +3257,7 @@
             "Navarre - Scarlet Ninja",
             "Faye - Drawn Heartstring",
             "Leila - Keen Lookout",
+            "Ursula - Royal-Blue Crow",
             "Micaiah - Wavecrest Maiden",
             "Nailah - Blessed Queen",
             "Severa - Bitter Blossom",
@@ -3360,7 +3368,11 @@
           ]
         },
         "special": {
-          "4": ["Lewyn - Wind-Song Scion", "Lyre - Lap Cat of Luxury"],
+          "4": [
+            "Lewyn - Wind-Song Scion",
+            "Lyre - Lap Cat of Luxury",
+            "Panne - Welcoming Dawn"
+          ],
           "5": [
             "Elm - Resolute Grouch",
             "Katarina - Torchlit Wanderer",
@@ -3370,9 +3382,14 @@
             "Greil - Heroic Exemplar",
             "Black Knight - The Night's Blade",
             "Nailah - Hatari Scorcher",
-            "Panne - Welcoming Dawn",
-            "Ryoma - Samurai at Ease",
-            "Ophelia - Starlit Maiden"
+            "Ryoma - Samurai at Ease"
+          ]
+        },
+        "harmonized": {
+          "5": [
+            "Linde - Bound by Fate",
+            "Sonya - Dazzling Rabbits",
+            "Roy - Blazing Bachelors"
           ]
         },
         "#": {
@@ -3409,13 +3426,11 @@
             "Hinoka - Blue Sky Warrior",
             "Nyx - Rulebreaker Mage",
             "Velouria - Wolf Cub",
+            "Ophelia - Starlit Maiden",
             "Edelgard - The Future",
             "Petra - Princess of Brigid",
             "Hilda - Helping Hand"
           ]
-        },
-        "harmonized": {
-          "5": ["Sonya - Dazzling Rabbits", "Roy - Blazing Bachelors"]
         },
         "legendary": {
           "5": ["Xander - Gallant King", "Claude - King of Unification"]
@@ -3464,6 +3479,7 @@
             "Merric - Changing Winds",
             "Delthea - Prodigy in Bloom",
             "Hector - Just Here to Fight",
+            "Nino - Spirited Sorcerer",
             "Shinon - Sharptongue Ninja",
             "Lethe - New Year's Claw",
             "Naesala - Sea's Shadow",
@@ -3703,7 +3719,8 @@
             "Dheginsea - Harvest Goldoan",
             "Kagero - Beverage Ninja",
             "Camilla - Holiday Traveler",
-            "Camilla - Tropical Beauty"
+            "Camilla - Tropical Beauty",
+            "Byleth - Fount of Learning"
           ]
         },
         "mythic": { "5": ["Embla - God of Closure", "Duma - God of Strength"] },
@@ -4033,6 +4050,7 @@
             "Limstella - Living Construct",
             "Sonia - Inhuman Beauty",
             "Riev - Blood Beryl",
+            "Soren - Wind of Tradition",
             "Gangrel - Plegia's Mad King",
             "Arete - Requiem's Beauty",
             "Aelfric - Custodian Monk",
@@ -4955,6 +4973,13 @@
           ]
         },
         "mythic": { "5": ["Eir - Merciful Death", "Reginn - Bearing Hope"] },
+        "harmonized": {
+          "5": [
+            "Linde - Bound by Fate",
+            "Mia - Harmonic Blades",
+            "Lysithea - Gifted Students"
+          ]
+        },
         "legendary": {
           "5": ["Celica - Queen of Valentia", "Lucina - Glorious Archer"]
         },
@@ -4965,9 +4990,6 @@
             "Naesala - Sky's Shadow",
             "Felix - Icy Gift Giver"
           ]
-        },
-        "harmonized": {
-          "5": ["Mia - Harmonic Blades", "Lysithea - Gifted Students"]
         }
       },
       "id": "Swift Sparrow 2",
@@ -5192,6 +5214,13 @@
       "name": "鬼神金剛迫擊",
       "sp": 300,
       "icon": "skillA/Sturdy_Surge.png"
+    },
+    "Remote Sparrow": {
+      "pool": { "harmonized": { "5": ["Linde - Bound by Fate"] } },
+      "id": "Remote Sparrow",
+      "name": "鬼神飛燕離擊",
+      "sp": 300,
+      "icon": "skillA/Remote_Sparrow.png"
     },
     "Fierce Stance 3": {
       "pool": {
@@ -6921,7 +6950,9 @@
     "Atk/Res Form 3": {
       "pool": {
         "special": { "5": ["Xane - Autumn Trickster"] },
-        "grail": { "4": ["Sophia - Cobweb Prophet"] }
+        "grail": {
+          "4": ["Sophia - Cobweb Prophet", "Soren - Wind of Tradition"]
+        }
       },
       "id": "Atk/Res Form 3",
       "name": "攻擊魔防的密集3",
@@ -7308,7 +7339,7 @@
         "mythic": { "5": ["Embla - God of Closure"] },
         "#": { "5": ["Seliph - Enduring Legacy"] },
         "harmonized": { "5": ["Cordelia - Unyielding Snow"] },
-        "special": { "5": ["Panne - Welcoming Dawn"] }
+        "special": { "4": ["Panne - Welcoming Dawn"] }
       },
       "id": "Atk/Spd Clash 3",
       "name": "攻擊速度的激戰3",
@@ -7341,14 +7372,18 @@
       "icon": "skillA/Atk_Def_Clash_4.png"
     },
     "Atk/Spd Finish 3": {
-      "pool": { "special": { "5": ["Corrin - Starry Seer"] } },
+      "pool": {
+        "special": { "5": ["Nino - Spirited Sorcerer", "Corrin - Starry Seer"] }
+      },
       "id": "Atk/Spd Finish 3",
       "name": "攻擊速度的奧秘3",
       "sp": 240,
       "icon": "skillA/Atk_Spd_Finish_3.png"
     },
     "Atk/Spd Finish 4": {
-      "pool": { "special": { "5": ["Corrin - Starry Seer"] } },
+      "pool": {
+        "special": { "5": ["Nino - Spirited Sorcerer", "Corrin - Starry Seer"] }
+      },
       "id": "Atk/Spd Finish 4",
       "name": "攻擊速度的奧秘4",
       "sp": 300,
@@ -7356,8 +7391,7 @@
     },
     "Atk/Res Finish 3": {
       "pool": {
-        "#": { "5": ["Tiki - Fated Divinity"] },
-        "special": { "5": ["Ophelia - Starlit Maiden"] }
+        "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] }
       },
       "id": "Atk/Res Finish 3",
       "name": "攻擊魔防的奧秘3",
@@ -7366,8 +7400,7 @@
     },
     "Atk/Res Finish 4": {
       "pool": {
-        "#": { "5": ["Tiki - Fated Divinity"] },
-        "special": { "5": ["Ophelia - Starlit Maiden"] }
+        "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] }
       },
       "id": "Atk/Res Finish 4",
       "name": "攻擊魔防的奧秘4",
@@ -7375,7 +7408,10 @@
       "icon": "skillA/Atk_Res_Finish_4.png"
     },
     "Spd/Res Finish 3": {
-      "pool": { "#": { "5": ["Tiki - Awakened Blood"] } },
+      "pool": {
+        "#": { "5": ["Tiki - Awakened Blood"] },
+        "special": { "5": ["Byleth - Fount of Learning"] }
+      },
       "id": "Spd/Res Finish 3",
       "name": "速度魔防的奧秘3",
       "sp": 240,
@@ -8168,11 +8204,21 @@
       "icon": "skillB/Chill_Spd_Def_2.png"
     },
     "Chill Spd/Res 2": {
-      "pool": { "duo": { "5": ["Byleth - Fell Star's Duo"] } },
+      "pool": {
+        "special": { "5": ["Ursula - Royal-Blue Crow"] },
+        "duo": { "5": ["Byleth - Fell Star's Duo"] }
+      },
       "id": "Chill Spd/Res 2",
       "name": "速度魔防封殺2",
       "sp": 240,
       "icon": "skillB/Chill_Spd_Res_2.png"
+    },
+    "Chill Spd/Res 3": {
+      "pool": { "special": { "5": ["Ursula - Royal-Blue Crow"] } },
+      "id": "Chill Spd/Res 3",
+      "name": "速度魔防封殺3",
+      "sp": 300,
+      "icon": "skillB/Chill_Spd_Res_3.png"
     },
     "Chill Def/Res 2": {
       "pool": {
@@ -8971,15 +9017,12 @@
           "5": [
             "Lewyn - Guiding Breeze",
             "Igrene - Nabata Protector",
-            "Keaton - Lupine Collector"
+            "Keaton - Lupine Collector",
+            "Ophelia - Starlit Maiden"
           ]
         },
         "special": {
-          "5": [
-            "Karla - Sun-Piercing Steel",
-            "Corrin - Daylight Ninja Act",
-            "Ophelia - Starlit Maiden"
-          ]
+          "5": ["Karla - Sun-Piercing Steel", "Corrin - Daylight Ninja Act"]
         }
       },
       "id": "Special Spiral 3",
@@ -8988,7 +9031,7 @@
       "icon": "skillB/Special_Spiral_3.png"
     },
     "Special Spiral 4": {
-      "pool": { "special": { "5": ["Ophelia - Starlit Maiden"] } },
+      "pool": { "#": { "5": ["Ophelia - Starlit Maiden"] } },
       "id": "Special Spiral 4",
       "name": "奧義之螺旋4",
       "sp": 300,
@@ -9165,7 +9208,11 @@
         },
         "mythic": { "5": ["Ashera - Order Goddess"] },
         "special": {
-          "5": ["Severa - Bitter Blossom", "Bernadetta - Frosty Shut-In"]
+          "5": [
+            "Severa - Bitter Blossom",
+            "Byleth - Fount of Learning",
+            "Bernadetta - Frosty Shut-In"
+          ]
         },
         "legendary": { "5": ["Byleth - The Fódlan Light"] }
       },
@@ -9394,6 +9441,7 @@
     "S/R Far Trace 3": {
       "pool": {
         "legendary": { "5": ["Veronica - Princess Rising"] },
+        "harmonized": { "5": ["Linde - Bound by Fate", "Azura - Hatari Duet"] },
         "special": {
           "5": [
             "Delthea - Prodigy in Bloom",
@@ -9403,8 +9451,7 @@
         },
         "duo": {
           "5": ["Corrin - Nightfall Ninja Act", "Hinoka - Fair Pirate Pair"]
-        },
-        "harmonized": { "5": ["Azura - Hatari Duet"] }
+        }
       },
       "id": "S/R Far Trace 3",
       "name": "速度魔防遠影3",
@@ -9504,7 +9551,10 @@
       "icon": "skillB/Spd_Res_Bulwark_3.png"
     },
     "Spd Preempt 3": {
-      "pool": { "#": { "5": ["Byleth - Sublime Light"] } },
+      "pool": {
+        "special": { "5": ["Nino - Spirited Sorcerer"] },
+        "#": { "5": ["Byleth - Sublime Light"] }
+      },
       "id": "Spd Preempt 3",
       "name": "速度搶先3",
       "sp": 240,
@@ -9714,7 +9764,11 @@
     "Drive Atk 2": {
       "pool": {
         "legendary": {
-          "5": ["Fjorm - Princess of Ice", "Corrin - Child of Dusk"]
+          "5": [
+            "Fjorm - Princess of Ice",
+            "Leif - Unifier of Thracia",
+            "Corrin - Child of Dusk"
+          ]
         },
         "duo": {
           "5": [
@@ -9825,7 +9879,9 @@
         },
         "#": { "5": ["Kris - Unknown Hero", "Lilith - Astral Daughter"] },
         "special": { "5": ["Larcei - Scion of Astra", "Corrin - Starry Seer"] },
-        "legendary": { "5": ["Corrin - Child of Dusk"] }
+        "legendary": {
+          "5": ["Leif - Unifier of Thracia", "Corrin - Child of Dusk"]
+        }
       },
       "id": "Joint Drive Atk",
       "name": "攻擊相互大紋章",
@@ -10081,7 +10137,8 @@
         },
         "duo": { "5": ["Dagr - New Year Jötnar"] },
         "legendary": { "5": ["Caeda - Beloved Queen"] },
-        "#": { "5": ["Erinys - Earnest Knight", "Farina - The Great Wing"] }
+        "#": { "5": ["Erinys - Earnest Knight", "Farina - The Great Wing"] },
+        "mythic": { "5": ["Altina - Dawn's Trueblade"] }
       },
       "id": "Atk/Def Rein 3",
       "name": "攻擊防守牽制3",
@@ -10156,7 +10213,10 @@
       "icon": "skillC/Atk_Spd_Hold.png"
     },
     "Atk/Def Hold": {
-      "pool": { "special": { "5": ["Cherche - Shaded by Wings"] } },
+      "pool": {
+        "mythic": { "5": ["Altina - Dawn's Trueblade"] },
+        "special": { "5": ["Cherche - Shaded by Wings"] }
+      },
       "id": "Atk/Def Hold",
       "name": "攻擊防守大牽制",
       "sp": 300,
@@ -10966,6 +11026,7 @@
     },
     "Res Smoke 3": {
       "pool": {
+        "harmonized": { "5": ["Linde - Bound by Fate"] },
         "grail": { "4": ["Brunnya - Devoted General"] },
         "special": { "5": ["Leila - Keen Lookout"] },
         "legendary": { "5": ["Robin - Fell Vessel"] }
@@ -11007,7 +11068,8 @@
             "Larcei - Keen Kin",
             "Julia - Heart Usurped"
           ]
-        }
+        },
+        "special": { "5": ["Ursula - Royal-Blue Crow"] }
       },
       "id": "Panic Smoke 3",
       "name": "恐慌的幻煙3",
@@ -11015,7 +11077,10 @@
       "icon": "skillC/Panic_Smoke_3.png"
     },
     "Panic Smoke 4": {
-      "pool": { "legendary": { "5": ["Veronica - Princess Rising"] } },
+      "pool": {
+        "legendary": { "5": ["Veronica - Princess Rising"] },
+        "special": { "5": ["Ursula - Royal-Blue Crow"] }
+      },
       "id": "Panic Smoke 4",
       "name": "恐慌的幻煙4",
       "sp": 300,
@@ -11033,7 +11098,10 @@
       "icon": "skillC/Fatal_Smoke_3.png"
     },
     "Def/Res Smoke 3": {
-      "pool": { "special": { "5": ["Leila - Keen Lookout"] } },
+      "pool": {
+        "harmonized": { "5": ["Linde - Bound by Fate"] },
+        "special": { "5": ["Leila - Keen Lookout"] }
+      },
       "id": "Def/Res Smoke 3",
       "name": "防守魔防紫煙3",
       "sp": 300,
@@ -11056,13 +11124,14 @@
             "Shinon - Scathing Archer",
             "Volke - Man of Mysteries",
             "Charlotte - Wily Warrior",
+            "Ophelia - Starlit Maiden",
             "Lysithea - Child Prodigy",
             "Marianne - Serene Adherent",
             "Yuri - Ashen Valiant"
           ]
         },
         "special": {
-          "5": ["Soren - Hushed Voice", "Ophelia - Starlit Maiden"]
+          "5": ["Nino - Spirited Sorcerer", "Soren - Hushed Voice"]
         },
         "duo": { "5": ["Chrom - Fate-Defying Duo"] }
       },
@@ -11070,6 +11139,13 @@
       "name": "初始之躍動3",
       "sp": 240,
       "icon": "skillC/Times_Pulse_3.png"
+    },
+    "Time's Pulse 4": {
+      "pool": { "special": { "5": ["Nino - Spirited Sorcerer"] } },
+      "id": "Time's Pulse 4",
+      "name": "初始之躍動4",
+      "sp": 300,
+      "icon": "skillC/Times_Pulse_4.png"
     },
     "Infantry Pulse 3": {
       "pool": {
@@ -11113,7 +11189,10 @@
       "icon": "skillC/Infantry_Flash_3.png"
     },
     "Infantry Breath 3": {
-      "pool": { "#": { "5": ["Nah - Little Miss"] } },
+      "pool": {
+        "grail": { "5": ["Soren - Wind of Tradition"] },
+        "#": { "5": ["Nah - Little Miss"] }
+      },
       "id": "Infantry Breath 3",
       "name": "步行呼吸3",
       "sp": 240,

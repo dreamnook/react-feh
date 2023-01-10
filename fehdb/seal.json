@@ -2914,6 +2914,15 @@
       "last": true,
       "icon": "skillC/Hone_Dragons.png"
     },
+    "Fortify Dragons": {
+      "id": "Fortify Dragons",
+      "name": "龍盾鼓舞",
+      "sp": 200,
+      "rules": "dragon",
+      "prev": ["Fortify Def 2", "Fortify Res 2"],
+      "last": true,
+      "icon": "skillC/Fortify_Dragons.png"
+    },
     "Hone Beasts": {
       "id": "Hone Beasts",
       "name": "獸刃鼓舞",
@@ -3620,6 +3629,30 @@
       "sp": 240,
       "prev": ["Res Opening 2"],
       "icon": "skillC/Res_Opening_3.png",
+      "last": true
+    },
+    "Rouse Atk/Def 1": {
+      "id": "Rouse Atk/Def 1",
+      "name": "攻擊防守的奮起1",
+      "sp": 60,
+      "rules": "learner.rouse-skills",
+      "icon": "skillC/Rouse_Atk_Def_1.png"
+    },
+    "Rouse Atk/Def 2": {
+      "id": "Rouse Atk/Def 2",
+      "name": "攻擊防守的奮起2",
+      "sp": 120,
+      "prev": ["Rouse Atk/Def 1"],
+      "rules": "learner.rouse-skills",
+      "icon": "skillC/Rouse_Atk_Def_2.png"
+    },
+    "Rouse Atk/Def 3": {
+      "id": "Rouse Atk/Def 3",
+      "name": "攻擊防守的奮起3",
+      "sp": 240,
+      "prev": ["Rouse Atk/Def 2"],
+      "rules": "learner.rouse-skills",
+      "icon": "skillC/Rouse_Atk_Def_3.png",
       "last": true
     },
     "Atk/Res Oath 1": {
@@ -5313,6 +5346,24 @@
       "spd": 2,
       "prev": ["Squad Ace BM 1"],
       "icon": "seal/Squad_Ace_Atk_Spd_2.png",
+      "last": true
+    },
+    "Squad Ace BN 1": {
+      "id": "Squad Ace BN 1",
+      "name": "第６６迷宮的霸王1",
+      "sp": 100,
+      "atk": 1,
+      "def": 1,
+      "icon": "seal/Squad_Ace_Atk_Def_1.png"
+    },
+    "Squad Ace BN 2": {
+      "id": "Squad Ace BN 2",
+      "name": "第６６迷宮的霸王2",
+      "sp": 200,
+      "atk": 2,
+      "def": 2,
+      "prev": ["Squad Ace BN 1"],
+      "icon": "seal/Squad_Ace_Atk_Def_2.png",
       "last": true
     }
   }

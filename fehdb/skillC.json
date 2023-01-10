@@ -1914,6 +1914,15 @@
     "icon": "skillC/Times_Pulse_3.png",
     "last": true
   },
+  "Time's Pulse 4": {
+    "id": "Time's Pulse 4",
+    "name": "初始之躍動4",
+    "sp": 300,
+    "prev": ["Time's Pulse 3"],
+    "rules": "infantry",
+    "icon": "skillC/Times_Pulse_4.png",
+    "last": true
+  },
   "Infantry Pulse 1": {
     "id": "Infantry Pulse 1",
     "name": "步行之躍動1",

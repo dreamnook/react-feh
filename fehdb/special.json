@@ -124,6 +124,15 @@
     "exclusive": ["Leif - Unifier of Thracia", "Leif - Destined Scions"],
     "last": true
   },
+  "Njörun's Zeal II": {
+    "id": "Njörun's Zeal II",
+    "name": "諾華的聖戰士・承",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Njörun's Zeal"],
+    "exclusive": ["Leif - Unifier of Thracia"],
+    "last": true
+  },
   "Twin Blades": {
     "id": "Twin Blades",
     "name": "雙刃",
@@ -223,7 +232,7 @@
     "cd": 2,
     "sp": 500,
     "prev": ["Draconic Aura"],
-    "exclusive": ["Byleth - The Fódlan Star"],
+    "exclusive": ["Byleth - The Fódlan Star", "Byleth - Fount of Learning"],
     "last": true
   },
   "Shining Emblem": {

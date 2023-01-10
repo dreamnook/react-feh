@@ -1376,6 +1376,14 @@
     "icon": "skillB/Chill_Spd_Res_2.png",
     "last": true
   },
+  "Chill Spd/Res 3": {
+    "id": "Chill Spd/Res 3",
+    "name": "速度魔防封殺3",
+    "sp": 300,
+    "prev": ["Chill Spd/Res 2"],
+    "icon": "skillB/Chill_Spd_Res_3.png",
+    "last": true
+  },
   "Chill Def/Res 1": {
     "id": "Chill Def/Res 1",
     "name": "防守魔防封殺1",

@@ -2805,6 +2805,19 @@
     "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
   },
+  "Panne - Welcoming Dawn": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 178,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Clash 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } }
+  },
   "Lyon - Sunlit Prince": {
     "score": 196,
     "scoreTotal": 436,
@@ -3892,19 +3905,6 @@
     "skillB": { "Cancel Affinity 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
-  "Altina - Dawn's Trueblade": {
-    "score": 221,
-    "scoreTotal": 589,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 1000,
-    "bst": 166,
-    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Vantage 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 5 } }
-  },
   "Elincia - Lost Princess": {
     "score": 240,
     "scoreTotal": 590,
@@ -4535,6 +4535,19 @@
     "skillA": { "Atk/Def Solo 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Fortify Def 3": { "sp": 200, "rarity": 5 } }
   },
+  "Altina - Dawn's Trueblade": {
+    "score": 276,
+    "scoreTotal": 644,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 700,
+    "feather": 1000,
+    "bst": 166,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Vantage 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Atk/Def Hold": { "sp": 300, "rarity": 5 } }
+  },
   "Loki - Spring Trickster": {
     "score": 299,
     "scoreTotal": 646,
@@ -4677,6 +4690,19 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Soren - Wind of Tradition": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 178,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Form 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Infantry Breath 3": { "sp": 240, "rarity": 5 } }
   },
   "Felix - Icy Gift Giver": {
     "score": 299,
@@ -5387,19 +5413,6 @@
     "special": { "Miracle": { "sp": 200, "rarity": 5 } },
     "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Leif - Unifier of Thracia": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 175,
-    "special": { "Astra": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Push 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Def Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Dagr - Sun's Radiance": {
     "score": 276,
@@ -6121,7 +6134,7 @@
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
-  "Panne - Welcoming Dawn": {
+  "Byleth - Fount of Learning": {
     "score": 254,
     "scoreTotal": 721,
     "poolRarity": 5,
@@ -6129,10 +6142,10 @@
     "sp": 240,
     "spTotal": 680,
     "feather": 1000,
-    "bst": 178,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Clash 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } }
+    "bst": 177,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Lull Spd/Res 3": { "sp": 240, "rarity": 5 } }
   },
   "Zephiel - Winter's Crown": {
     "score": 254,
@@ -6276,6 +6289,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
     "skillA": { "Mirror Impact": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Menace": { "sp": 300, "rarity": 5 } }
+  },
+  "Leif - Unifier of Thracia": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 175,
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Push 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
   },
   "Nótt - Moon's Elegance": {
     "score": 276,
@@ -8153,6 +8179,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Steady Impact": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Ursula - Royal-Blue Crow": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 168,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Chill Spd/Res 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Dimitri - Sky-Blue Lion": {
     "score": 318,
@@ -10565,6 +10604,19 @@
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Threat. Atk/Def 3": { "sp": 300, "rarity": 5 } }
   },
+  "Ophelia - Starlit Maiden": {
+    "score": 300,
+    "scoreTotal": 1040,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 176,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Special Spiral 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
+  },
   "Priam - Radiant Hero": {
     "score": 300,
     "scoreTotal": 1040,
@@ -10805,6 +10857,20 @@
     "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Hone Spd": { "sp": 300, "rarity": 5 } }
   },
+  "Linde - Bound by Fate": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 169,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
   "Henriette - Overflowing Love": {
     "score": 318,
     "scoreTotal": 1102,
@@ -10819,7 +10885,7 @@
     "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "A/R Far Save 3": { "sp": 300, "rarity": 5 } }
   },
-  "Ophelia - Starlit Maiden": {
+  "Nino - Spirited Sorcerer": {
     "score": 318,
     "scoreTotal": 1102,
     "poolRarity": 5,
@@ -10827,11 +10893,11 @@
     "sp": 300,
     "spTotal": 1040,
     "feather": 1000,
-    "bst": 176,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Special Spiral 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
+    "bst": 177,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd Preempt 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Tana - Soothing Warmth": {
     "score": 318,

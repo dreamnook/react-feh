@@ -4623,6 +4623,40 @@
     "book": 2,
     "ver": "2.7"
   },
+  "Linde - Bound by Fate": {
+    "id": "Linde - Bound by Fate",
+    "title": "天涯奇緣的雙輝",
+    "name": "琳達",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-tome",
+    "pool": "harmonized",
+    "releaseDate": "2023-01-10",
+    "appearsIn": ["Shadow Dragon / (New) Mystery", "Thracia 776"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [41, 44, 48],
+        "spd": [41, 45, 48],
+        "def": [12, 16, 19],
+        "res": [24, 27, 30]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 14,
+        "spd": 12,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 169,
+    "statMax": 170,
+    "book": 7,
+    "ver": "7.1"
+  },
   "Jeorge - Perfect Shot": {
     "id": "Jeorge - Perfect Shot",
     "title": "陸地第一的弓騎士",
@@ -18780,6 +18814,40 @@
     "book": 3,
     "ver": "3.7"
   },
+  "Ursula - Royal-Blue Crow": {
+    "id": "Ursula - Royal-Blue Crow",
+    "title": "高雅端麗的蒼鴉",
+    "name": "烏爾斯拉",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-tome",
+    "pool": "special",
+    "releaseDate": "2023-01-10",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 42, 46],
+        "spd": [43, 46, 49],
+        "def": [15, 18, 21],
+        "res": [19, 22, 26]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 11,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp"],
+    "statMin": 168,
+    "statMax": 170,
+    "book": 7,
+    "ver": "7.1"
+  },
   "Nino - Pious Mage": {
     "id": "Nino - Pious Mage",
     "title": "魔道驕子",
@@ -18907,6 +18975,40 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.0"
+  },
+  "Nino - Spirited Sorcerer": {
+    "id": "Nino - Spirited Sorcerer",
+    "title": "魔道精靈的寵兒",
+    "name": "妮諾",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-tome",
+    "pool": "special",
+    "releaseDate": "2023-01-10",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [38, 41, 45],
+        "spd": [42, 46, 49],
+        "def": [17, 20, 23],
+        "res": [29, 32, 35]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 13,
+        "def": 5,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.1"
   },
   "Legault - The Hurricane": {
     "id": "Legault - The Hurricane",
@@ -21906,6 +22008,54 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.4"
+  },
+  "Soren - Wind of Tradition": {
+    "id": "Soren - Wind of Tradition",
+    "title": "古法傳統的風使",
+    "name": "塞涅里歐",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "pool": "grail",
+    "releaseDate": "2023-01-10",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [37, 41, 44],
+        "spd": [28, 31, 34],
+        "def": [13, 16, 19],
+        "res": [39, 43, 46]
+      },
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [39, 43, 46],
+        "spd": [31, 34, 37],
+        "def": [14, 18, 21],
+        "res": [41, 45, 48]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 10,
+        "spd": 7,
+        "def": 4,
+        "res": 12
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 8,
+        "def": 5,
+        "res": 12
+      }
+    },
+    "assets": [],
+    "flaws": ["hp", "atk", "def", "res"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.1"
   },
   "Mist - Helpful Sister": {
     "id": "Mist - Helpful Sister",
@@ -28550,7 +28700,7 @@
     "id": "Panne - Welcoming Dawn",
     "title": "跳兔迎春",
     "name": "貝爾貝特",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "cavalry",
     "weaponType": "red-beast",
@@ -28558,12 +28708,26 @@
     "releaseDate": "2023-01-01",
     "appearsIn": ["Awakening"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [36, 39, 43],
+        "spd": [39, 42, 46],
+        "def": [26, 29, 32],
+        "res": [16, 19, 22]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [38, 41, 45],
         "spd": [41, 44, 48],
         "def": [29, 32, 35],
         "res": [18, 21, 24]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 14,
+        "def": 3,
+        "res": 3
       },
       "5-1": {
         "hp": 18,
@@ -34790,7 +34954,6 @@
     "moveType": "infantry",
     "weaponType": "red-tome",
     "rearmed": true,
-    "pool": "special",
     "releaseDate": "2022-12-07",
     "appearsIn": ["Fates"],
     "stats": {
@@ -35214,6 +35377,40 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.6"
+  },
+  "Byleth - Fount of Learning": {
+    "id": "Byleth - Fount of Learning",
+    "title": "師資流轉的宿命",
+    "name": "貝雷特",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "pool": "special",
+    "releaseDate": "2023-01-10",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 42, 46],
+        "spd": [41, 44, 48],
+        "def": [21, 25, 28],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 14,
+        "def": 3,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.1"
   },
   "Sothis - Girl on the Throne": {
     "id": "Sothis - Girl on the Throne",
