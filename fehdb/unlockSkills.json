@@ -21898,5 +21898,150 @@
       "Spd/Def Ruse 2": 2,
       "Spd/Def Ruse 3": 4
     }
+  },
+  "Alear - Dragon Child": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Libération": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Atk/Spd Ideal 4": 5
+    },
+    "skillB": {
+      "Close Call 1": 2,
+      "Close Call 2": 3,
+      "Close Call 3": 4,
+      "Close Call 4": 5
+    },
+    "skillC": {
+      "Spd Smoke 1": 2,
+      "Spd Smoke 2": 3,
+      "Spd Smoke 3": 4,
+      "Spd Smoke 4": 5
+    }
+  },
+  "Lumera - Dragon Monarch": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Monarch Blade": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Darting Stance 1": 1,
+      "Swift Stance 1": 2,
+      "Swift Stance 2": 4
+    },
+    "skillB": {
+      "Null Follow-Up 1": 3,
+      "Null Follow-Up 2": 4,
+      "Null Follow-Up 3": 5
+    }
+  },
+  "Alfred - Floral Protector": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Arcane Qiang": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Bonfire": 4
+    },
+    "skillA": {
+      "Self-Improver": 5
+    },
+    "skillB": {
+      "Flow N Trace 1": 1,
+      "Flow N Trace 2": 2,
+      "Flow N Trace 3": 4
+    },
+    "skillC": {
+      "Spur Atk 1": 2,
+      "Spur Atk 2": 3,
+      "Spur Atk 3": 4,
+      "Cross Spur Atk": 5
+    }
+  },
+  "Etie - Fitness Fighter": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Protection Bow": 3,
+      "Protection Bow+": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Atk/Def Ideal 1": 3,
+      "Atk/Def Ideal 2": 4,
+      "Atk/Def Ideal 3": 5
+    },
+    "skillC": {
+      "Atk/Def Gap 1": 1,
+      "Atk/Def Gap 2": 2,
+      "Atk/Def Gap 3": 4
+    }
+  },
+  "Céline - Joyous Royal": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 3,
+      "Joyous Tome": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Spd/Res Ideal 1": 2,
+      "Spd/Res Ideal 2": 3,
+      "Spd/Res Ideal 3": 4,
+      "Spd/Res Ideal 4": 5
+    },
+    "skillC": {
+      "Canto Control 1": 1,
+      "Canto Control 2": 2,
+      "Canto Control 3": 4
+    }
+  },
+  "Chloé - Fairy-Tale Flier": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Dreaming Spear": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "Distant Stance": 5
+    },
+    "skillB": {
+      "Pegasus Flight 1": 2,
+      "Pegasus Flight 2": 3,
+      "Pegasus Flight 3": 4,
+      "Pegasus Flight 4": 5
+    }
   }
 }

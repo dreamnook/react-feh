@@ -35382,7 +35382,7 @@
     "id": "Byleth - Fount of Learning",
     "title": "師資流轉的宿命",
     "name": "貝雷特",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "infantry",
     "weaponType": "blue-tome",
@@ -35390,12 +35390,26 @@
     "releaseDate": "2023-01-10",
     "appearsIn": ["Three Houses"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [37, 40, 44],
+        "spd": [39, 42, 46],
+        "def": [19, 22, 25],
+        "res": [20, 23, 26]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [39, 42, 46],
         "spd": [41, 44, 48],
         "def": [21, 25, 28],
         "res": [22, 26, 29]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 14,
+        "def": 2,
+        "res": 3
       },
       "5-1": {
         "hp": 18,
@@ -38754,5 +38768,233 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.1"
+  },
+  "Alear - Dragon Child": {
+    "id": "Alear - Dragon Child",
+    "title": "神龍公主",
+    "name": "琉爾",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-01-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [43, 46, 50],
+        "def": [29, 32, 35],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 16,
+        "def": 4,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.1"
+  },
+  "Lumera - Dragon Monarch": {
+    "id": "Lumera - Dragon Monarch",
+    "title": "神龍王",
+    "name": "琉彌艾爾",
+    "rarity": [5, 4, 3],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "pool": "grail",
+    "releaseDate": "2023-01-18",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "3": {
+        "hp": [36, 39, 42],
+        "atk": [36, 39, 42],
+        "spd": [36, 39, 42],
+        "def": [26, 29, 32],
+        "res": [18, 21, 24]
+      },
+      "4": {
+        "hp": [37, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [38, 41, 45],
+        "def": [27, 30, 33],
+        "res": [19, 22, 25]
+      },
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [40, 43, 47],
+        "spd": [40, 43, 47],
+        "def": [30, 33, 36],
+        "res": [21, 25, 28]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 12,
+        "def": 8,
+        "res": 2
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 13,
+        "spd": 13,
+        "def": 8,
+        "res": 2
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 13,
+        "def": 9,
+        "res": 3
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["res"],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.1"
+  },
+  "Alfred - Floral Protector": {
+    "id": "Alfred - Floral Protector",
+    "title": "守護笑容之花",
+    "name": "阿爾弗雷德",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-lance",
+    "rearmed": true,
+    "releaseDate": "2023-01-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [21, 25, 28],
+        "def": [39, 43, 46],
+        "res": [23, 27, 30]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 3,
+        "def": 10,
+        "res": 5
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def", "res"],
+    "statMin": 180,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.1"
+  },
+  "Etie - Fitness Fighter": {
+    "id": "Etie - Fitness Fighter",
+    "title": "鐵腕大小姐",
+    "name": "艾媞耶",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-bow",
+    "releaseDate": "2023-01-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 45, 48],
+        "spd": [37, 40, 44],
+        "def": [27, 30, 33],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 10,
+        "def": 6,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.1"
+  },
+  "Céline - Joyous Royal": {
+    "id": "Céline - Joyous Royal",
+    "title": "幸福的公主",
+    "name": "錫莉奴",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "releaseDate": "2023-01-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [38, 41, 45],
+        "spd": [40, 44, 47],
+        "def": [13, 17, 20],
+        "res": [35, 38, 41]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 11,
+        "spd": 11,
+        "def": 4,
+        "res": 10
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.1"
+  },
+  "Chloé - Fairy-Tale Flier": {
+    "id": "Chloé - Fairy-Tale Flier",
+    "title": "遨遊幻想之翼",
+    "name": "克蘿艾",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "releaseDate": "2023-01-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [32, 36, 39],
+        "atk": [34, 38, 41],
+        "spd": [37, 40, 43],
+        "def": [24, 28, 31],
+        "res": [39, 42, 46]
+      },
+      "5-1": {
+        "hp": 14,
+        "atk": 5,
+        "spd": 16,
+        "def": 6,
+        "res": 12
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.1"
   }
 }

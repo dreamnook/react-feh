@@ -2792,6 +2792,19 @@
     "skillB": { "Chill Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd/Def Gap 3": { "sp": 240, "rarity": 4 } }
   },
+  "Byleth - Fount of Learning": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 177,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Lull Spd/Res 3": { "sp": 240, "rarity": 5 } }
+  },
   "Heath - Wyvern Ninja": {
     "score": 196,
     "scoreTotal": 436,
@@ -5232,6 +5245,18 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Etie - Fitness Fighter": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 5 } }
+  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -6134,19 +6159,6 @@
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
-  "Byleth - Fount of Learning": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 177,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Lull Spd/Res 3": { "sp": 240, "rarity": 5 } }
-  },
   "Zephiel - Winter's Crown": {
     "score": 254,
     "scoreTotal": 721,
@@ -6620,6 +6632,18 @@
     "skillA": { "Atk/Spd Solo 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
+  "Céline - Joyous Royal": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 177,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
+  },
   "Surtr - Ruler of Flame": {
     "score": 300,
     "scoreTotal": 740,
@@ -6655,6 +6679,18 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Alfred - Floral Protector": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Flow N Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Cross Spur Atk": { "sp": 300, "rarity": 5 } }
   },
   "Flavia - Feroxi East-Khan": {
     "score": 300,
@@ -7126,6 +7162,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Lumera - Dragon Monarch": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 187,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Swift Stance 2": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
   "Cervantes - Invincible General": {
     "score": 322,
@@ -7805,6 +7854,18 @@
     "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Hold": { "sp": 300, "rarity": 5 } }
+  },
+  "Chloé - Fairy-Tale Flier": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Pegasus Flight 4": { "sp": 300, "rarity": 5 } }
   },
   "Edelgard - Adrestian Emperor": {
     "score": 300,
@@ -10800,6 +10861,19 @@
     "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
     "skillB": { "Quick Riposte 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
+  },
+  "Alear - Dragon Child": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Close Call 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Severa - Bitter Blossom": {
     "score": 318,

@@ -294,6 +294,13 @@
       }
     },
     "blue-lance": {
+      "Arcane Qiang": {
+        "pool": { "#": { "5": ["Alfred - Floral Protector"] } },
+        "id": "Arcane Qiang",
+        "name": "魔器・鍛造花槍",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Lance+": {
         "pool": {
           "#": {
@@ -1082,6 +1089,13 @@
         "pool": { "#": { "5": ["Kiragi - Upbeat Archer"] } },
         "id": "Unbound Bow+",
         "name": "孤絕之弓+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Protection Bow+": {
+        "pool": { "#": { "5": ["Etie - Fitness Fighter"] } },
+        "id": "Protection Bow+",
+        "name": "守護之弓+",
         "sp": 300,
         "refine": 350
       },
@@ -3429,7 +3443,8 @@
             "Ophelia - Starlit Maiden",
             "Edelgard - The Future",
             "Petra - Princess of Brigid",
-            "Hilda - Helping Hand"
+            "Hilda - Helping Hand",
+            "Alear - Dragon Child"
           ]
         },
         "legendary": {
@@ -3519,7 +3534,8 @@
             "Claude - The Schemer",
             "Yuri - Ashen Valiant",
             "Hapi - Drawn-Out Sigh",
-            "Monica - Favored Vassal"
+            "Monica - Favored Vassal",
+            "Chloé - Fairy-Tale Flier"
           ]
         },
         "duo": {
@@ -3705,11 +3721,16 @@
             "Byleth - Proven Professor",
             "Byleth - Sublime Light",
             "Byleth - Tested Professor",
-            "Catherine - Thunder Knight"
+            "Catherine - Thunder Knight",
+            "Etie - Fitness Fighter"
           ]
         },
         "special": {
-          "4": ["Marth - Legacied Hero", "Corrin - Daylight Ninja Act"],
+          "4": [
+            "Marth - Legacied Hero",
+            "Corrin - Daylight Ninja Act",
+            "Byleth - Fount of Learning"
+          ],
           "5": [
             "Freyr - Estival Dreams",
             "Palla - Eldest Bun-Bun",
@@ -3719,8 +3740,7 @@
             "Dheginsea - Harvest Goldoan",
             "Kagero - Beverage Ninja",
             "Camilla - Holiday Traveler",
-            "Camilla - Tropical Beauty",
-            "Byleth - Fount of Learning"
+            "Camilla - Tropical Beauty"
           ]
         },
         "mythic": { "5": ["Embla - God of Closure", "Duma - God of Strength"] },
@@ -3791,7 +3811,8 @@
             "Hans - Ambitious Brute",
             "Kana - Dragon Spawn",
             "Jeralt - Blade Breaker",
-            "Nemesis - King of Liberation"
+            "Nemesis - King of Liberation",
+            "Lumera - Dragon Monarch"
           ]
         },
         "special": {
@@ -3853,7 +3874,8 @@
             "Nah - Little Miss",
             "Rinkah - Scion of Flame",
             "Edelgard - Hegemon Husk",
-            "Mamori - Microwavin' Idol"
+            "Mamori - Microwavin' Idol",
+            "Alfred - Floral Protector"
           ]
         },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] },
@@ -3999,7 +4021,8 @@
             "Flora - Cold as Ice",
             "Selkie - Free Spirit",
             "Marianne - Adopted Daughter",
-            "Kiria - Cool Façade"
+            "Kiria - Cool Façade",
+            "Céline - Joyous Royal"
           ]
         },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
@@ -5395,7 +5418,8 @@
         "#": {
           "4": ["Tatiana - Devoted Saint"],
           "5": ["Ronan - Villager of Iz", "Ewan - Eager Student"]
-        }
+        },
+        "grail": { "4": ["Lumera - Dragon Monarch"] }
       },
       "id": "Swift Stance 2",
       "name": "飛燕明鏡架勢2",
@@ -5697,7 +5721,8 @@
             "Nagi - Dragon Avatar",
             "Hector - General of Ostia",
             "Nailah - Unflinching Eye",
-            "Byleth - Tested Professor"
+            "Byleth - Tested Professor",
+            "Chloé - Fairy-Tale Flier"
           ]
         },
         "special": {
@@ -5766,7 +5791,7 @@
     },
     "Distant Stance": {
       "pool": {
-        "#": { "5": ["Ganglöt - Death Anew"] },
+        "#": { "5": ["Ganglöt - Death Anew", "Chloé - Fairy-Tale Flier"] },
         "legendary": { "5": ["Fae - Childlike Dragon"] },
         "special": { "5": ["Corrin - Celestial Sorcerer"] }
       },
@@ -7178,7 +7203,8 @@
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
             "Miriel - Rapier Intellect",
-            "Monica - Favored Vassal"
+            "Monica - Favored Vassal",
+            "Alear - Dragon Child"
           ]
         },
         "special": { "4": ["Rinkah - Consuming Flame"] },
@@ -7198,7 +7224,8 @@
           "5": [
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
-            "Monica - Favored Vassal"
+            "Monica - Favored Vassal",
+            "Alear - Dragon Child"
           ]
         },
         "legendary": { "5": ["Byleth - The Fódlan Light"] }
@@ -7215,7 +7242,8 @@
           "5": [
             "Scáthach - Astra's Wake",
             "Priam - Radiant Hero",
-            "Edelgard - Hegemon Husk"
+            "Edelgard - Hegemon Husk",
+            "Etie - Fitness Fighter"
           ]
         },
         "special": { "4": ["Lyon - Sunlit Prince"] },
@@ -7274,6 +7302,20 @@
       "name": "速度防守萬全4",
       "sp": 300,
       "icon": "skillA/Spd_Def_Ideal_4.png"
+    },
+    "Spd/Res Ideal 3": {
+      "pool": { "#": { "5": ["Céline - Joyous Royal"] } },
+      "id": "Spd/Res Ideal 3",
+      "name": "速度魔防的萬全3",
+      "sp": 240,
+      "icon": "skillA/Spd_Res_Ideal_3.png"
+    },
+    "Spd/Res Ideal 4": {
+      "pool": { "#": { "5": ["Céline - Joyous Royal"] } },
+      "id": "Spd/Res Ideal 4",
+      "name": "速度魔防的萬全4",
+      "sp": 300,
+      "icon": "skillA/Spd_Res_Ideal_4.png"
     },
     "Def/Res Ideal 3": {
       "pool": {
@@ -7410,7 +7452,7 @@
     "Spd/Res Finish 3": {
       "pool": {
         "#": { "5": ["Tiki - Awakened Blood"] },
-        "special": { "5": ["Byleth - Fount of Learning"] }
+        "special": { "4": ["Byleth - Fount of Learning"] }
       },
       "id": "Spd/Res Finish 3",
       "name": "速度魔防的奧秘3",
@@ -8573,12 +8615,25 @@
     },
     "Pegasus Flight 3": {
       "pool": {
-        "#": { "5": ["Fiora - Airborne Warrior", "Phila - Pegasus Master"] }
+        "#": {
+          "5": [
+            "Fiora - Airborne Warrior",
+            "Phila - Pegasus Master",
+            "Chloé - Fairy-Tale Flier"
+          ]
+        }
       },
       "id": "Pegasus Flight 3",
       "name": "天馬行空3",
       "sp": 240,
       "icon": "skillB/Pegasus_Flight_3.png"
+    },
+    "Pegasus Flight 4": {
+      "pool": { "#": { "5": ["Chloé - Fairy-Tale Flier"] } },
+      "id": "Pegasus Flight 4",
+      "name": "天馬行空4",
+      "sp": 300,
+      "icon": "skillB/Pegasus_Flight_4.png"
     },
     "Wyvern Flight 3": {
       "pool": { "#": { "5": ["Melady - Crimson Rider"] } },
@@ -9059,7 +9114,8 @@
           ]
         },
         "duo": { "5": ["Eirika - Twin Refulgence"] },
-        "special": { "5": ["Velouria - Renewed Wolfpup"] }
+        "special": { "5": ["Velouria - Renewed Wolfpup"] },
+        "grail": { "5": ["Lumera - Dragon Monarch"] }
       },
       "id": "Null Follow-Up 3",
       "name": "識破・追擊效果3",
@@ -9230,12 +9286,25 @@
     },
     "Close Call 3": {
       "pool": {
-        "#": { "5": ["Mareeta - Sword of Stars", "Say'ri - Chon'sin's Blade"] }
+        "#": {
+          "5": [
+            "Mareeta - Sword of Stars",
+            "Say'ri - Chon'sin's Blade",
+            "Alear - Dragon Child"
+          ]
+        }
       },
       "id": "Close Call 3",
       "name": "迴避・一擊即離3",
       "sp": 240,
       "icon": "skillB/Close_Call_3.png"
+    },
+    "Close Call 4": {
+      "pool": { "#": { "5": ["Alear - Dragon Child"] } },
+      "id": "Close Call 4",
+      "name": "迴避・一擊即離4",
+      "sp": 300,
+      "icon": "skillB/Close_Call_4.png"
     },
     "Spurn 3": {
       "pool": {
@@ -9501,6 +9570,13 @@
       "sp": 240,
       "icon": "skillB/Flow_Flight_3.png"
     },
+    "Flow N Trace 3": {
+      "pool": { "#": { "5": ["Alfred - Floral Protector"] } },
+      "id": "Flow N Trace 3",
+      "name": "怒濤・近影3",
+      "sp": 240,
+      "icon": "skillB/Flow_N_Trace_3.png"
+    },
     "Atk/Res Tempo 3": {
       "pool": {
         "duo": { "5": ["Askr - Renewed Gods"] },
@@ -9625,7 +9701,8 @@
           "5": [
             "Ogma - Loyal Blade",
             "Ninian - Frozen Heart",
-            "Lucina - Future Witness"
+            "Lucina - Future Witness",
+            "Alfred - Floral Protector"
           ]
         }
       },
@@ -9747,7 +9824,7 @@
     "Cross Spur Atk": {
       "pool": {
         "special": { "5": ["Reginn - Bearing Dawn"] },
-        "#": { "5": ["Ninian - Frozen Heart"] }
+        "#": { "5": ["Ninian - Frozen Heart", "Alfred - Floral Protector"] }
       },
       "id": "Cross Spur Atk",
       "name": "十字攻擊紋章",
@@ -10991,7 +11068,8 @@
           "5": [
             "Sigurd - Holy Knight",
             "Nino - Pale Flower",
-            "Lilith - Silent Broodling"
+            "Lilith - Silent Broodling",
+            "Alear - Dragon Child"
           ]
         },
         "special": { "5": ["Lyn - Blazing Whirlwind"] },
@@ -11005,7 +11083,7 @@
     "Spd Smoke 4": {
       "pool": {
         "special": { "5": ["Lyn - Blazing Whirlwind"] },
-        "#": { "5": ["Lilith - Silent Broodling"] }
+        "#": { "5": ["Lilith - Silent Broodling", "Alear - Dragon Child"] }
       },
       "id": "Spd Smoke 4",
       "name": "速度紫煙4",
@@ -11633,7 +11711,7 @@
       "pool": {
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] },
         "grail": { "5": ["Mordecai - Gentle Firetender"] },
-        "#": { "5": ["Annette - Overachiever"] }
+        "#": { "5": ["Annette - Overachiever", "Etie - Fitness Fighter"] }
       },
       "id": "Atk/Def Gap 3",
       "name": "攻擊防守大開放3",
@@ -11987,7 +12065,10 @@
       "icon": "skillC/C_Feud_3.png"
     },
     "Canto Control 3": {
-      "pool": { "mythic": { "5": ["Medeus - Earth-Dragon King"] } },
+      "pool": {
+        "mythic": { "5": ["Medeus - Earth-Dragon King"] },
+        "#": { "5": ["Céline - Joyous Royal"] }
+      },
       "id": "Canto Control 3",
       "name": "再移動限制3",
       "sp": 240,

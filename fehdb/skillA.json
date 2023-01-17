@@ -116,6 +116,18 @@
     "last": true,
     "icon": "skillA/Swift_Slice.png"
   },
+  "Self-Improver": {
+    "id": "Self-Improver",
+    "name": "自己專研",
+    "atk": 10,
+    "spd": 5,
+    "def": 20,
+    "res": -5,
+    "sp": 300,
+    "exclusive": ["Alfred - Floral Protector"],
+    "last": true,
+    "icon": "skillA/Self-Improver.png"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -3554,6 +3566,39 @@
     "prev": ["Spd/Def Ideal 3"],
     "rules": "learner.ideal",
     "icon": "skillA/Spd_Def_Ideal_4.png",
+    "last": true
+  },
+  "Spd/Res Ideal 1": {
+    "id": "Spd/Res Ideal 1",
+    "name": "速度魔防的萬全1",
+    "sp": 60,
+    "rules": "learner.ideal",
+    "icon": "skillA/Spd_Res_Ideal_1.png"
+  },
+  "Spd/Res Ideal 2": {
+    "id": "Spd/Res Ideal 2",
+    "name": "速度魔防的萬全2",
+    "sp": 120,
+    "prev": ["Spd/Res Ideal 1"],
+    "rules": "learner.ideal",
+    "icon": "skillA/Spd_Res_Ideal_2.png"
+  },
+  "Spd/Res Ideal 3": {
+    "id": "Spd/Res Ideal 3",
+    "name": "速度魔防的萬全3",
+    "sp": 240,
+    "prev": ["Spd/Res Ideal 2"],
+    "rules": "learner.ideal",
+    "icon": "skillA/Spd_Res_Ideal_3.png",
+    "last": true
+  },
+  "Spd/Res Ideal 4": {
+    "id": "Spd/Res Ideal 4",
+    "name": "速度魔防的萬全4",
+    "sp": 300,
+    "prev": ["Spd/Res Ideal 3"],
+    "rules": "learner.ideal",
+    "icon": "skillA/Spd_Res_Ideal_4.png",
     "last": true
   },
   "Def/Res Ideal 1": {

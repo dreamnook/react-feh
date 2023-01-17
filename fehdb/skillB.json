@@ -1952,6 +1952,15 @@
     "icon": "skillB/Pegasus_Flight_3.png",
     "last": true
   },
+  "Pegasus Flight 4": {
+    "id": "Pegasus Flight 4",
+    "name": "天馬行空4",
+    "sp": 300,
+    "prev": ["Pegasus Flight 3"],
+    "rules": "learner.wielderFlying",
+    "icon": "skillB/Pegasus_Flight_4.png",
+    "last": true
+  },
   "Wyvern Flight 1": {
     "id": "Wyvern Flight 1",
     "name": "飛龍行空1",
@@ -3202,6 +3211,15 @@
     "icon": "skillB/Close_Call_3.png",
     "last": true
   },
+  "Close Call 4": {
+    "id": "Close Call 4",
+    "name": "迴避・一擊即離4",
+    "sp": 300,
+    "prev": ["Close Call 3"],
+    "rules": "learner.wielderInfantry",
+    "icon": "skillB/Close_Call_4.png",
+    "last": true
+  },
   "Spurn 1": {
     "id": "Spurn 1",
     "name": "迴避・憤怒1",
@@ -3770,6 +3788,30 @@
     "prev": ["Flow Flight 2"],
     "rules": "learner.wielderFlying",
     "icon": "skillB/Flow_Flight_3.png",
+    "last": true
+  },
+  "Flow N Trace 1": {
+    "id": "Flow N Trace 1",
+    "name": "怒濤・近影1",
+    "sp": 60,
+    "rules": "learner.flow-refresh",
+    "icon": "skillB/Flow_N_Trace_1.png"
+  },
+  "Flow N Trace 2": {
+    "id": "Flow N Trace 2",
+    "name": "怒濤・近影2",
+    "sp": 120,
+    "prev": ["Flow N Trace 1"],
+    "rules": "learner.flow-refresh",
+    "icon": "skillB/Flow_N_Trace_2.png"
+  },
+  "Flow N Trace 3": {
+    "id": "Flow N Trace 3",
+    "name": "怒濤・近影3",
+    "sp": 240,
+    "prev": ["Flow N Trace 2"],
+    "rules": "learner.flow-refresh",
+    "icon": "skillB/Flow_N_Trace_3.png",
     "last": true
   },
   "Atk/Res Tempo 1": {

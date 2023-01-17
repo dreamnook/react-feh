@@ -2557,6 +2557,26 @@
       "exclusive": ["Gregor - Swell Sword"],
       "last": true
     },
+    "Libération": {
+      "id": "Libération",
+      "name": "里貝拉錫翁",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Alear - Dragon Child"],
+      "last": true
+    },
+    "Monarch Blade": {
+      "id": "Monarch Blade",
+      "name": "神龍王之劍",
+      "mt": 16,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Lumera - Dragon Monarch"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -5631,6 +5651,44 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Cordelia - Unyielding Snow"],
+      "last": true
+    },
+    "Dreaming Spear": {
+      "id": "Dreaming Spear",
+      "name": "夢想的翼槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Chloé - Fairy-Tale Flier"],
+      "last": true
+    },
+    "Arcane Qiang": {
+      "id": "Arcane Qiang",
+      "name": "魔器・鍛造花槍",
+      "mt": 16,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Iron Lance": {
@@ -11333,6 +11391,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Unbound Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Protection Bow": {
+      "id": "Protection Bow",
+      "name": "守護之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Protection Bow+": {
+      "id": "Protection Bow+",
+      "name": "守護之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Protection Bow"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -19319,6 +19410,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Ursula - Royal-Blue Crow"],
+      "last": true
+    },
+    "Joyous Tome": {
+      "id": "Joyous Tome",
+      "name": "幸福良書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Céline - Joyous Royal"],
       "last": true
     },
     "Wind": {
