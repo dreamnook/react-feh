@@ -6516,6 +6516,43 @@
     "ver": "3.9",
     "df": 20
   },
+  "Gotoh - White Sage": {
+    "id": "Gotoh - White Sage",
+    "title": "大賢者",
+    "name": "迦圖",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "light-res-2",
+    "releaseDate": "2023-01-27",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 42, 46],
+        "spd": [11, 14, 18],
+        "def": [35, 38, 42],
+        "res": [38, 42, 45]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 4,
+        "def": 8,
+        "res": 9
+      }
+    },
+    "assets": ["atk", "spd", "def"],
+    "flaws": ["hp", "res"],
+    "statMin": 176,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.1",
+    "df": 5
+  },
   "Xane - Autumn Trickster": {
     "id": "Xane - Autumn Trickster",
     "title": "變化自如的收穫祭",
@@ -22138,6 +22175,43 @@
     "book": 5,
     "ver": "5.3",
     "df": 15
+  },
+  "Fomortiis - Demon King": {
+    "id": "Fomortiis - Demon King",
+    "title": "君臨黑暗的魔王",
+    "name": "弗德斯",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "armored",
+    "weaponType": "white-beast",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "anima-spd-2",
+    "releaseDate": "2023-01-27",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [41, 44, 48],
+        "spd": [12, 15, 19],
+        "def": [43, 46, 49],
+        "res": [41, 44, 47]
+      },
+      "5-1": {
+        "hp": 22,
+        "atk": 14,
+        "spd": 5,
+        "def": 9,
+        "res": 9
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": [],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.1",
+    "df": 5
   },
   "Ike - Young Mercenary": {
     "id": "Ike - Young Mercenary",

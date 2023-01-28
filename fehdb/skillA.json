@@ -128,6 +128,22 @@
     "last": true,
     "icon": "skillA/Self-Improver.png"
   },
+  "Gift of Magic": {
+    "id": "Gift of Magic",
+    "name": "向人傳授魔道者",
+    "sp": 300,
+    "exclusive": ["Gotoh - White Sage"],
+    "last": true,
+    "icon": "skillA/Gift_of_Magic.png"
+  },
+  "Nightmare": {
+    "id": "Nightmare",
+    "name": "漆黑的惡夢",
+    "sp": 300,
+    "exclusive": ["Fomortiis - Demon King"],
+    "last": true,
+    "icon": "skillA/Nightmare.png"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

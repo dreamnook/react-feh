@@ -3871,6 +3871,33 @@
       "Dragon Valor 3": 4
     }
   },
+  "Gotoh - White Sage": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Brilliant Starlight": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Gift of Magic": 5
+    },
+    "skillB": {
+      "Guard 1": 2,
+      "Guard 2": 3,
+      "Guard 3": 4,
+      "Guard 4": 5
+    },
+    "skillC": {
+      "Distant Guard 1": 2,
+      "Distant Guard 2": 3,
+      "Distant Guard 3": 4,
+      "Joint Dist. Guard": 5
+    }
+  },
   "Xane - Autumn Trickster": {
     "weapon": {
       "Stone": 1,
@@ -12257,6 +12284,31 @@
       "Rouse Atk/Res 1": 3,
       "Rouse Atk/Res 2": 4,
       "Rouse Atk/Res 3": 5
+    }
+  },
+  "Fomortiis - Demon King": {
+    "weapon": {
+      "Whelp (Armored)": 1,
+      "Yearling (Arm.)": 2,
+      "Adult (Armored)": 4,
+      "Ravager": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4
+    },
+    "skillA": {
+      "Nightmare": 5
+    },
+    "skillB": {
+      "Beast Follow-Up 1": 3,
+      "Beast Follow-Up 2": 4,
+      "Beast Follow-Up 3": 5
+    },
+    "skillC": {
+      "A/D Far Save 1": 1,
+      "A/D Far Save 2": 2,
+      "A/D Far Save 3": 4
     }
   },
   "Ike - Young Mercenary": {

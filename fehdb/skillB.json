@@ -1808,6 +1808,14 @@
     "icon": "skillB/Guard_3.png",
     "last": true
   },
+  "Guard 4": {
+    "id": "Guard 4",
+    "name": "取消4",
+    "sp": 300,
+    "prev": ["Guard 3"],
+    "icon": "skillB/Guard_4.png",
+    "last": true
+  },
   "Wrathful Staff 1": {
     "id": "Wrathful Staff 1",
     "name": "神罰之杖1",
@@ -4028,6 +4036,27 @@
     "prev": ["Beast N Trace 2"],
     "rules": "beast",
     "icon": "skillB/Beast_N_Trace_3.png",
+    "last": true
+  },
+  "Beast Follow-Up 1": {
+    "id": "Beast Follow-Up 1",
+    "name": "絕對化身・追擊1",
+    "sp": 60,
+    "icon": "skillB/Beast_Follow-Up_1.png"
+  },
+  "Beast Follow-Up 2": {
+    "id": "Beast Follow-Up 2",
+    "name": "絕對化身・追擊2",
+    "sp": 120,
+    "prev": ["Beast Follow-Up 1"],
+    "icon": "skillB/Beast_Follow-Up_2.png"
+  },
+  "Beast Follow-Up 3": {
+    "id": "Beast Follow-Up 3",
+    "name": "絕對化身・追擊3",
+    "sp": 240,
+    "prev": ["Beast Follow-Up 2"],
+    "icon": "skillB/Beast_Follow-Up_3.png",
     "last": true
   }
 }

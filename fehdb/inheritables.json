@@ -3899,7 +3899,8 @@
             "Líf - Lethal Swordsman",
             "Thórr - War God",
             "Askr - God of Openness",
-            "Ash - Retainer to Askr"
+            "Ash - Retainer to Askr",
+            "Fomortiis - Demon King"
           ]
         },
         "grail": { "4": ["Astram - Midia's Hero"] },
@@ -3995,6 +3996,7 @@
           "5": [
             "Eir - Merciful Death",
             "Seiðr - Goddess of Hope",
+            "Gotoh - White Sage",
             "Altina - Dawn's Trueblade"
           ]
         },
@@ -8487,6 +8489,7 @@
             "Morgan - Lass from Afar"
           ]
         },
+        "mythic": { "5": ["Gotoh - White Sage"] },
         "grail": {
           "4": ["Naesala - Sky's Shadow"],
           "5": [
@@ -8501,6 +8504,13 @@
       "name": "取消3",
       "sp": 200,
       "icon": "skillB/Guard_3.png"
+    },
+    "Guard 4": {
+      "pool": { "mythic": { "5": ["Gotoh - White Sage"] } },
+      "id": "Guard 4",
+      "name": "取消4",
+      "sp": 300,
+      "icon": "skillB/Guard_4.png"
     },
     "Wrathful Staff 3": {
       "pool": {
@@ -9649,6 +9659,13 @@
       "name": "絕對化身・近影3",
       "sp": 240,
       "icon": "skillB/Beast_N_Trace_3.png"
+    },
+    "Beast Follow-Up 3": {
+      "pool": { "mythic": { "5": ["Fomortiis - Demon King"] } },
+      "id": "Beast Follow-Up 3",
+      "name": "絕對化身・追擊3",
+      "sp": 240,
+      "icon": "skillB/Beast_Follow-Up_3.png"
     }
   },
   "skillC": {
@@ -10052,6 +10069,7 @@
             "Lyn - Lady of the Beach"
           ]
         },
+        "mythic": { "5": ["Gotoh - White Sage"] },
         "grail": {
           "4": [
             "Innes - Frelian Moonlight",
@@ -10072,6 +10090,7 @@
     "Joint Dist. Guard": {
       "pool": {
         "#": { "5": ["Ganglöt - Death Anew"] },
+        "mythic": { "5": ["Gotoh - White Sage"] },
         "special": { "5": ["Lilina - Beaming Bride"] },
         "legendary": { "5": ["Micaiah - Radiant Queen"] }
       },
@@ -11397,14 +11416,20 @@
       "icon": "skillC/D_R_Near_Save_3.png"
     },
     "A/D Far Save 2": {
-      "pool": { "special": { "5": ["Robin - Tactful Deliverer"] } },
+      "pool": {
+        "mythic": { "5": ["Fomortiis - Demon King"] },
+        "special": { "5": ["Robin - Tactful Deliverer"] }
+      },
       "id": "A/D Far Save 2",
       "name": "鎧之守護人・遠處2",
       "sp": 200,
       "icon": "skillC/A_D_Far_Save_2.png"
     },
     "A/D Far Save 3": {
-      "pool": { "special": { "5": ["Robin - Tactful Deliverer"] } },
+      "pool": {
+        "mythic": { "5": ["Fomortiis - Demon King"] },
+        "special": { "5": ["Robin - Tactful Deliverer"] }
+      },
       "id": "A/D Far Save 3",
       "name": "鎧之守護人・遠處3",
       "sp": 300,

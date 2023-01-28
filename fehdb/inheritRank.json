@@ -5621,6 +5621,19 @@
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
+  "Fomortiis - Demon King": {
+    "score": 276,
+    "scoreTotal": 681,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Beast Follow-Up 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "A/D Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
   "Micaiah - Wavecrest Maiden": {
     "score": 318,
     "scoreTotal": 689,
@@ -6327,6 +6340,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Menace": { "sp": 300, "rarity": 5 } }
+  },
+  "Gotoh - White Sage": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 176,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Guard 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
   },
   "Seliph - Scion of Light": {
     "score": 276,

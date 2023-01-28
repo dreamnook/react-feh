@@ -14996,6 +14996,17 @@
       "exclusive": ["Yarne - Hoppy New Year"],
       "last": true
     },
+    "Ravager": {
+      "id": "Ravager",
+      "name": "毀滅魔拳",
+      "mt": 14,
+      "atk": 2,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Armored)"],
+      "exclusive": ["Fomortiis - Demon King"],
+      "last": true
+    },
     "Whelp (Infantry)": {
       "id": "Whelp (Infantry)",
       "name": "幼獸化身・步行",
@@ -20345,6 +20356,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Askr - Renewed Gods"],
+      "last": true
+    },
+    "Brilliant Starlight": {
+      "id": "Brilliant Starlight",
+      "name": "聖光星閃",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Gotoh - White Sage"],
       "last": true
     },
     "Stone": {
