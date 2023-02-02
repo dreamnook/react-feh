@@ -3394,6 +3394,7 @@
     "id": "Spd/Def Catch 1",
     "name": "速度防守的先機1",
     "sp": 60,
+    "rules": "learner.catch",
     "icon": "skillA/Spd_Def_Catch_1.png"
   },
   "Spd/Def Catch 2": {
@@ -3401,6 +3402,7 @@
     "name": "速度防守的先機2",
     "sp": 120,
     "prev": ["Spd/Def Catch 1"],
+    "rules": "learner.catch",
     "icon": "skillA/Spd_Def_Catch_2.png"
   },
   "Spd/Def Catch 3": {
@@ -3408,6 +3410,7 @@
     "name": "速度防守的先機3",
     "sp": 240,
     "prev": ["Spd/Def Catch 2"],
+    "rules": "learner.catch",
     "icon": "skillA/Spd_Def_Catch_3.png",
     "last": true
   },
@@ -3416,6 +3419,7 @@
     "name": "速度防守的先機4",
     "sp": 300,
     "prev": ["Spd/Def Catch 3"],
+    "rules": "learner.catch",
     "icon": "skillA/Spd_Def_Catch_4.png",
     "last": true
   },
@@ -3487,14 +3491,14 @@
   },
   "Atk/Def Ideal 1": {
     "id": "Atk/Def Ideal 1",
-    "name": "攻擊防守的萬全1",
+    "name": "攻擊防守萬全1",
     "sp": 60,
     "rules": "learner.ideal",
     "icon": "skillA/Atk_Def_Ideal_1.png"
   },
   "Atk/Def Ideal 2": {
     "id": "Atk/Def Ideal 2",
-    "name": "攻擊防守的萬全2",
+    "name": "攻擊防守萬全2",
     "sp": 120,
     "prev": ["Atk/Def Ideal 1"],
     "rules": "learner.ideal",
@@ -3502,7 +3506,7 @@
   },
   "Atk/Def Ideal 3": {
     "id": "Atk/Def Ideal 3",
-    "name": "攻擊防守的萬全3",
+    "name": "攻擊防守萬全3",
     "sp": 240,
     "prev": ["Atk/Def Ideal 2"],
     "rules": "learner.ideal",
@@ -3511,7 +3515,7 @@
   },
   "Atk/Def Ideal 4": {
     "id": "Atk/Def Ideal 4",
-    "name": "攻擊防守的萬全4",
+    "name": "攻擊防守萬全4",
     "sp": 300,
     "prev": ["Atk/Def Ideal 3"],
     "rules": "learner.ideal",
@@ -3586,14 +3590,14 @@
   },
   "Spd/Res Ideal 1": {
     "id": "Spd/Res Ideal 1",
-    "name": "速度魔防的萬全1",
+    "name": "速度魔防萬全1",
     "sp": 60,
     "rules": "learner.ideal",
     "icon": "skillA/Spd_Res_Ideal_1.png"
   },
   "Spd/Res Ideal 2": {
     "id": "Spd/Res Ideal 2",
-    "name": "速度魔防的萬全2",
+    "name": "速度魔防萬全2",
     "sp": 120,
     "prev": ["Spd/Res Ideal 1"],
     "rules": "learner.ideal",
@@ -3601,7 +3605,7 @@
   },
   "Spd/Res Ideal 3": {
     "id": "Spd/Res Ideal 3",
-    "name": "速度魔防的萬全3",
+    "name": "速度魔防萬全3",
     "sp": 240,
     "prev": ["Spd/Res Ideal 2"],
     "rules": "learner.ideal",
@@ -3610,7 +3614,7 @@
   },
   "Spd/Res Ideal 4": {
     "id": "Spd/Res Ideal 4",
-    "name": "速度魔防的萬全4",
+    "name": "速度魔防萬全4",
     "sp": 300,
     "prev": ["Spd/Res Ideal 3"],
     "rules": "learner.ideal",

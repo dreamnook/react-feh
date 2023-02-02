@@ -18813,7 +18813,7 @@
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-dragon",
-    "pool": "special",
+    "pool": "grail",
     "releaseDate": "2022-10-06",
     "appearsIn": ["The Blazing Blade"],
     "stats": {

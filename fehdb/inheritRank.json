@@ -1177,18 +1177,6 @@
     "skillB": { "Firestorm Dance 2": { "sp": 240, "rarity": 4 } },
     "skillC": { "Ward Beasts": { "sp": 200, "rarity": 5 } }
   },
-  "Nils - Wandering Star": {
-    "score": 196,
-    "scoreTotal": 260,
-    "poolRarity": 4,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 440,
-    "feather": 300,
-    "bst": 176,
-    "skillB": { "Geyser Dance 2": { "sp": 240, "rarity": 4 } },
-    "skillC": { "Hone Dragons": { "sp": 200, "rarity": 5 } }
-  },
   "Athena - Borderland Sword": {
     "score": 166,
     "scoreTotal": 262,
@@ -2125,6 +2113,18 @@
     "bst": 140,
     "skillA": { "Spd/Res Bond 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Torrent Dance 3": { "sp": 200, "rarity": 5 } }
+  },
+  "Nils - Wandering Star": {
+    "score": 299,
+    "scoreTotal": 396,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 440,
+    "feather": 300,
+    "bst": 176,
+    "skillB": { "Geyser Dance 2": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Hone Dragons": { "sp": 200, "rarity": 5 } }
   },
   "Kempf - Conniving General": {
     "score": 269,

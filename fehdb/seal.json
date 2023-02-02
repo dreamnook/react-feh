@@ -1804,6 +1804,7 @@
       "id": "Spd/Def Catch 1",
       "name": "速度防守的先機1",
       "sp": 60,
+      "rules": "learner.catch",
       "icon": "skillA/Spd_Def_Catch_1.png"
     },
     "Spd/Def Catch 2": {
@@ -1811,6 +1812,7 @@
       "name": "速度防守的先機2",
       "sp": 120,
       "prev": ["Spd/Def Catch 1"],
+      "rules": "learner.catch",
       "icon": "skillA/Spd_Def_Catch_2.png"
     },
     "Spd/Def Catch 3": {
@@ -1818,6 +1820,7 @@
       "name": "速度防守的先機3",
       "sp": 240,
       "prev": ["Spd/Def Catch 2"],
+      "rules": "learner.catch",
       "icon": "skillA/Spd_Def_Catch_3.png",
       "last": true
     },
