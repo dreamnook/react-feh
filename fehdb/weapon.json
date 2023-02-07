@@ -19263,7 +19263,8 @@
       "refine": {
         "effect": {
           "name": "特效",
-          "icon": "Ífingr_W"
+          "icon": "Ífingr_W",
+          "cd": -1
         },
         "atk": {
           "hp": 2,
