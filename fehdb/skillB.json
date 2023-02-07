@@ -194,6 +194,15 @@
     "last": true,
     "icon": "skillB/Light_and_Dark.png"
   },
+  "Killing Intent+": {
+    "id": "Killing Intent+",
+    "name": "從世上消失吧・神",
+    "sp": 300,
+    "prev": ["Killing Intent"],
+    "exclusive": ["Thrasir - Omnicidal Witch"],
+    "last": true,
+    "icon": "skillB/Killing_Intent+.png"
+  },
   "Killing Intent": {
     "id": "Killing Intent",
     "name": "從世上消失吧",

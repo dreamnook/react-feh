@@ -5332,7 +5332,7 @@
     "feather": 1000,
     "bst": 162,
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Flashing Blade 4": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Bramimond - The Enigma": {
@@ -7252,7 +7252,7 @@
     "bst": 145,
     "skillA": { "B Duel Flying 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Fortify Res 4": { "sp": 300, "rarity": 5 } }
+    "skillC": { "Cross Spur Res": { "sp": 300, "rarity": 5 } }
   },
   "Dimitri - Savior King": {
     "score": 276,

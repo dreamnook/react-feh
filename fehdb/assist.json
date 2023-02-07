@@ -47,6 +47,15 @@
     "exclusive": ["Azura - Vallite Songstress", "Azura - Hatari Duet"],
     "last": true
   },
+  "Gentle Dream+": {
+    "id": "Gentle Dream+",
+    "name": "溫柔的夢・神",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Gentle Dream"],
+    "exclusive": ["Peony - Sweet Dream"],
+    "last": true
+  },
   "Gentle Dream": {
     "id": "Gentle Dream",
     "name": "溫柔的夢",

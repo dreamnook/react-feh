@@ -1906,6 +1906,32 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Catria - Mild Middle Sister"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Astra_Blade_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 3
+        },
+        "spd": {
+          "hp": 5,
+          "mt": 1,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "mt": 1,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "mt": 1,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Concealed Blade": {
@@ -4638,6 +4664,32 @@
       "atk": 3,
       "sp": 400,
       "exclusive": ["Dimitri - The Protector"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Noble_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 3
+        },
+        "spd": {
+          "hp": 5,
+          "mt": 1,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "mt": 1,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "mt": 1,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Scythe of Sariel": {
@@ -5661,6 +5713,37 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Chloé - Fairy-Tale Flier"],
+      "last": true
+    },
+    "Command Lance": {
+      "id": "Command Lance",
+      "name": "神使親衛隊隊長之槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Sigrun - Loyal Protector"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Command_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Qiang": {
@@ -11034,6 +11117,36 @@
       "exclusive": ["Laegjarn - Flame and Frost"],
       "last": true
     },
+    "Volunteer Bow": {
+      "id": "Volunteer Bow",
+      "name": "義勇兵之弓",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Norne - The Volunteer"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Volunteer_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Iron Bow": {
       "id": "Iron Bow",
       "name": "鐵弓",
@@ -14745,6 +14858,29 @@
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Lethe - New Year's Claw"],
+      "refine": {
+        "raven": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Guardian_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "New Foxkit Fang": {
@@ -17334,6 +17470,28 @@
       "res": 3,
       "sp": 400,
       "exclusive": ["Peony - Sweet Dream"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Flower_of_Joy_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Imbued Koma": {
@@ -19102,6 +19260,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Thrasir - Omnicidal Witch"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Ífingr_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Saintly Seraphim": {
@@ -20849,31 +21029,6 @@
       },
       "last": true
     },
-    "Candlelight": {
-      "id": "Candlelight",
-      "name": "燭光",
-      "mt": 7,
-      "sp": 150,
-      "prev": ["Assault"]
-    },
-    "Candlelight+": {
-      "id": "Candlelight+",
-      "name": "燭光+",
-      "mt": 11,
-      "sp": 300,
-      "prev": ["Candlelight"],
-      "refine": {
-        "wrathful": {
-          "name": "神罰",
-          "icon": "Wrathful_Staff_W"
-        },
-        "dazzling": {
-          "name": "幻惑",
-          "icon": "Dazzling_Staff_W"
-        }
-      },
-      "last": true
-    },
     "Respite": {
       "id": "Respite",
       "name": "聖域",
@@ -20912,6 +21067,31 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Aid"],
+      "refine": {
+        "wrathful": {
+          "name": "神罰",
+          "icon": "Wrathful_Staff_W"
+        },
+        "dazzling": {
+          "name": "幻惑",
+          "icon": "Dazzling_Staff_W"
+        }
+      },
+      "last": true
+    },
+    "Candlelight": {
+      "id": "Candlelight",
+      "name": "燭光",
+      "mt": 7,
+      "sp": 150,
+      "prev": ["Assault"]
+    },
+    "Candlelight+": {
+      "id": "Candlelight+",
+      "name": "燭光+",
+      "mt": 11,
+      "sp": 300,
+      "prev": ["Candlelight"],
       "refine": {
         "wrathful": {
           "name": "神罰",

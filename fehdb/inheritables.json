@@ -2229,13 +2229,6 @@
         "sp": 300,
         "refine": 350
       },
-      "Candlelight+": {
-        "pool": { "special": { "5": ["Lyn - Bride of the Plains"] } },
-        "id": "Candlelight+",
-        "name": "燭光+",
-        "sp": 300,
-        "refine": 350
-      },
       "Respite+": {
         "pool": { "#": { "3": ["Nyna - The Last Princess"] } },
         "id": "Respite+",
@@ -2247,6 +2240,13 @@
         "pool": { "#": { "3": ["Dwyer - Sleepy Butler"] } },
         "id": "Aid+",
         "name": "救護+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Candlelight+": {
+        "pool": { "special": { "5": ["Lyn - Bride of the Plains"] } },
+        "id": "Candlelight+",
+        "name": "燭光+",
         "sp": 300,
         "refine": 350
       },
@@ -7215,6 +7215,7 @@
           "5": ["Hans - Ambitious Brute", "Holst - Hero of Leicester"]
         },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
+        "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
         "special": { "4": ["Rinkah - Consuming Flame"] }
       },
       "id": "Atk/Spd Ideal 3",
@@ -7232,7 +7233,8 @@
             "Alear - Dragon Child"
           ]
         },
-        "legendary": { "5": ["Byleth - The Fódlan Light"] }
+        "legendary": { "5": ["Byleth - The Fódlan Light"] },
+        "mythic": { "5": ["Thrasir - Omnicidal Witch"] }
       },
       "id": "Atk/Spd Ideal 4",
       "name": "攻擊速度萬全4",
@@ -9771,6 +9773,7 @@
             "Merric - Wind Mage"
           ]
         },
+        "mythic": { "5": ["Peony - Sweet Dream"] },
         "harmonized": { "5": ["Azura - Hatari Duet"] }
       },
       "id": "Spur Res 3",
@@ -9845,7 +9848,10 @@
       "icon": "skillC/Cross_Spur_Atk.png"
     },
     "Cross Spur Res": {
-      "pool": { "harmonized": { "5": ["Azura - Hatari Duet"] } },
+      "pool": {
+        "mythic": { "5": ["Peony - Sweet Dream"] },
+        "harmonized": { "5": ["Azura - Hatari Duet"] }
+      },
       "id": "Cross Spur Res",
       "name": "十字魔防紋章",
       "sp": 300,
