@@ -4051,6 +4051,7 @@
     "id": "Beast Follow-Up 1",
     "name": "絕對化身・追擊1",
     "sp": 60,
+    "rules": "beast",
     "icon": "skillB/Beast_Follow-Up_1.png"
   },
   "Beast Follow-Up 2": {
@@ -4058,6 +4059,7 @@
     "name": "絕對化身・追擊2",
     "sp": 120,
     "prev": ["Beast Follow-Up 1"],
+    "rules": "beast",
     "icon": "skillB/Beast_Follow-Up_2.png"
   },
   "Beast Follow-Up 3": {
@@ -4065,6 +4067,7 @@
     "name": "絕對化身・追擊3",
     "sp": 240,
     "prev": ["Beast Follow-Up 2"],
+    "rules": "beast",
     "icon": "skillB/Beast_Follow-Up_3.png",
     "last": true
   }
