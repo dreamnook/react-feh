@@ -925,6 +925,15 @@
     "last": true,
     "icon": "skillA/Remote_Sparrow.png"
   },
+  "Remote Mirror": {
+    "id": "Remote Mirror",
+    "name": "鬼神明鏡離擊",
+    "sp": 300,
+    "rules": "ranged",
+    "prev": ["Mirror Strike 2"],
+    "last": true,
+    "icon": "skillA/Remote_Mirror.png"
+  },
   "Fierce Stance 1": {
     "id": "Fierce Stance 1",
     "name": "鬼神架勢1",

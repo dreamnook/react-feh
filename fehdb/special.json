@@ -830,5 +830,13 @@
     "rules": "white-staff",
     "prev": ["Earthwater Balm"],
     "last": true
+  },
+  "Holy Pressure": {
+    "id": "Holy Pressure",
+    "name": "重壓的聖光",
+    "cd": 3,
+    "sp": 500,
+    "rules": "white-staff",
+    "last": true
   }
 }

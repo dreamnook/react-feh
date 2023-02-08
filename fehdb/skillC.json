@@ -2208,6 +2208,30 @@
     "icon": "skillC/D_R_Near_Save_3.png",
     "last": true
   },
+  "A/S Far Save 1": {
+    "id": "A/S Far Save 1",
+    "name": "刃之守護人・遠處1",
+    "sp": 100,
+    "rules": "armored",
+    "icon": "skillC/A_S_Far_Save_1.png"
+  },
+  "A/S Far Save 2": {
+    "id": "A/S Far Save 2",
+    "name": "刃之守護人・遠處2",
+    "sp": 200,
+    "prev": ["A/S Far Save 1"],
+    "rules": "armored",
+    "icon": "skillC/A_S_Far_Save_2.png"
+  },
+  "A/S Far Save 3": {
+    "id": "A/S Far Save 3",
+    "name": "刃之守護人・遠處3",
+    "sp": 300,
+    "prev": ["A/S Far Save 2"],
+    "rules": "armored",
+    "icon": "skillC/A_S_Far_Save_3.png",
+    "last": true
+  },
   "A/D Far Save 1": {
     "id": "A/D Far Save 1",
     "name": "鎧之守護人・遠處1",

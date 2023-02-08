@@ -291,6 +291,13 @@
         "id": "Wyvern Katana+",
         "name": "龍忍之劍+",
         "sp": 300
+      },
+      "Petalfall Blade+": {
+        "pool": { "special": { "5": ["Hana - Striving Heart"] } },
+        "id": "Petalfall Blade+",
+        "name": "櫻與玫瑰之刀+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "blue-lance": {
@@ -1001,6 +1008,13 @@
         "pool": { "grail": { "5": ["Seth - Silver-Sea Knight"] } },
         "id": "Seahorse Axe+",
         "name": "海馬之斧+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Petalfall Vase+": {
+        "pool": { "grail": { "5": ["Effie - Dedicated Heart"] } },
+        "id": "Petalfall Vase+",
+        "name": "櫻與玫瑰之花瓶+",
         "sp": 300,
         "refine": 350
       }
@@ -2566,7 +2580,8 @@
     "Return+": {
       "pool": {
         "#": { "5": ["Sara - Lady of Loptr"] },
-        "special": { "5": ["Saul - Minister of Love"] }
+        "special": { "5": ["Saul - Minister of Love"] },
+        "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
       "id": "Return+",
       "name": "回歸+",
@@ -2670,7 +2685,8 @@
           "4": [
             "Mordecai - Gentle Firetender",
             "Bartre - Earsome Warrior",
-            "Keaton - Resolved Wolfskin"
+            "Keaton - Resolved Wolfskin",
+            "Effie - Dedicated Heart"
           ]
         },
         "special": {
@@ -3436,6 +3452,7 @@
             "Ryoma - Samurai at Ease",
             "Fae - Holiday Dear",
             "Katarina - Torchlit Wanderer",
+            "Takumi - Troubled Heart",
             "Black Knight - The Night's Blade",
             "Greil - Heroic Exemplar"
           ]
@@ -3958,6 +3975,7 @@
           "4": ["Manuela - Silver Caroler"],
           "5": [
             "Jakob - Devoted Monster",
+            "Hana - Striving Heart",
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
             "Gustav - Majestic Love"
@@ -4026,6 +4044,7 @@
             "Ilyana - Treat Harvester",
             "Mercedes - Unfussed Basker",
             "Soren - Hushed Voice",
+            "Leo - Shrouded Heart",
             "Artur - Silver Saint",
             "Robin - Tactful Deliverer",
             "Rhea - Witch of Creation",
@@ -4324,7 +4343,8 @@
         "special": {
           "4": ["Xane - Desert Mirage"],
           "5": ["Bruno - Masked Hare", "Laevatein - Ninja of Múspell"]
-        }
+        },
+        "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
       "id": "Miracle",
       "name": "祈禱",
@@ -4453,6 +4473,12 @@
       "id": "Earthwater Balm+",
       "name": "大地靜水的祝福+",
       "sp": 300
+    },
+    "Holy Pressure": {
+      "pool": { "duo": { "5": ["Elise - Sweetheart Royals"] } },
+      "id": "Holy Pressure",
+      "name": "重壓的聖光",
+      "sp": 500
     }
   },
   "skillA": {
@@ -5136,6 +5162,7 @@
         "special": {
           "5": [
             "Soren - Hushed Voice",
+            "Leo - Shrouded Heart",
             "Kagero - Beverage Ninja",
             "Laevatein - Bonfire's Blaze"
           ]
@@ -5255,6 +5282,13 @@
       "name": "鬼神飛燕離擊",
       "sp": 300,
       "icon": "skillA/Remote_Sparrow.png"
+    },
+    "Remote Mirror": {
+      "pool": { "special": { "5": ["Leo - Shrouded Heart"] } },
+      "id": "Remote Mirror",
+      "name": "鬼神明鏡離擊",
+      "sp": 300,
+      "icon": "skillA/Remote_Mirror.png"
     },
     "Fierce Stance 3": {
       "pool": {
@@ -5430,7 +5464,9 @@
           "5": ["Ewan - Eager Student", "Ronan - Villager of Iz"]
         },
         "grail": { "4": ["Lumera - Dragon Monarch"] },
-        "special": { "5": ["Sharena - Spring Princess"] }
+        "special": {
+          "5": ["Sharena - Spring Princess", "Takumi - Troubled Heart"]
+        }
       },
       "id": "Swift Stance 2",
       "name": "飛燕明鏡架勢2",
@@ -5438,7 +5474,10 @@
       "icon": "skillA/Swift_Stance_2.png"
     },
     "Swift Stance 3": {
-      "pool": { "#": { "5": ["Ronan - Villager of Iz"] } },
+      "pool": {
+        "#": { "5": ["Ronan - Villager of Iz"] },
+        "special": { "5": ["Takumi - Troubled Heart"] }
+      },
       "id": "Swift Stance 3",
       "name": "飛燕明鏡架勢3",
       "sp": 300,
@@ -6266,7 +6305,7 @@
           ]
         },
         "grail": {
-          "4": ["Leonie - Relentless Rays"],
+          "4": ["Leonie - Relentless Rays", "Effie - Dedicated Heart"],
           "5": ["Petrine - Icy Flame-Lancer", "Gonzalez - Kindly Bandit"]
         },
         "legendary": {
@@ -7062,7 +7101,7 @@
             "Delthea - Prodigy in Bloom"
           ]
         },
-        "duo": { "5": ["Nina - Shadowy Figures"] },
+        "duo": { "5": ["Elise - Sweetheart Royals", "Nina - Shadowy Figures"] },
         "harmonized": {
           "5": [
             "Leif - Destined Scions",
@@ -7102,7 +7141,7 @@
             "Delthea - Prodigy in Bloom"
           ]
         },
-        "duo": { "5": ["Nina - Shadowy Figures"] },
+        "duo": { "5": ["Elise - Sweetheart Royals", "Nina - Shadowy Figures"] },
         "harmonized": {
           "5": [
             "Leif - Destined Scions",
@@ -7825,6 +7864,7 @@
         "special": {
           "4": ["Manuela - Silver Caroler"],
           "5": [
+            "Hana - Striving Heart",
             "Rudolf - Emperor of Rigel",
             "Felicia - Off the Menu",
             "Ike - Stalwart Heart",
@@ -7895,7 +7935,11 @@
       "icon": "skillB/Hardy_Fighter_3.png"
     },
     "Savvy Fighter 3": {
-      "pool": { "special": { "5": ["Lucina - Future Fondness"] } },
+      "pool": {
+        "special": {
+          "5": ["Lucina - Future Fondness", "Takumi - Troubled Heart"]
+        }
+      },
       "id": "Savvy Fighter 3",
       "name": "慧眼隊形3",
       "sp": 240,
@@ -8540,12 +8584,20 @@
             "Laevatein - Kumade Warrior",
             "Sakura - Hot-Spring Healer"
           ]
-        }
+        },
+        "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
       "id": "Wrathful Staff 3",
       "name": "神罰之杖3",
       "sp": 240,
       "icon": "skillB/Wrathful_Staff_3.png"
+    },
+    "Poetic Justice": {
+      "pool": { "duo": { "5": ["Elise - Sweetheart Royals"] } },
+      "id": "Poetic Justice",
+      "name": "神罰・因果報應",
+      "sp": 300,
+      "icon": "skillB/Poetic_Justice.png"
     },
     "Dazzling Staff 3": {
       "pool": {
@@ -9493,7 +9545,7 @@
     "A/D Far Trace 3": {
       "pool": {
         "#": { "5": ["Laegjarn - Flame Ascendant"] },
-        "special": { "5": ["Shanna - Bridal Novice"] }
+        "special": { "5": ["Leo - Shrouded Heart", "Shanna - Bridal Novice"] }
       },
       "id": "A/D Far Trace 3",
       "name": "攻擊防守遠影3",
@@ -11280,6 +11332,7 @@
     },
     "Infantry Flash 3": {
       "pool": {
+        "grail": { "5": ["Effie - Dedicated Heart"] },
         "legendary": { "5": ["Marth - Hero-King"] },
         "special": { "5": ["Lewyn - Wind-Song Scion"] }
       },
@@ -11345,7 +11398,8 @@
     "Armored Stride 3": {
       "pool": {
         "#": { "5": ["Edelgard - Hegemon Husk"] },
-        "legendary": { "5": ["Edelgard - Flame Emperor"] }
+        "legendary": { "5": ["Edelgard - Flame Emperor"] },
+        "special": { "5": ["Hana - Striving Heart"] }
       },
       "id": "Armored Stride 3",
       "name": "重裝備游擊3",
@@ -11419,6 +11473,20 @@
       "name": "盾之守護人・近處3",
       "sp": 300,
       "icon": "skillC/D_R_Near_Save_3.png"
+    },
+    "A/S Far Save 2": {
+      "pool": { "special": { "5": ["Takumi - Troubled Heart"] } },
+      "id": "A/S Far Save 2",
+      "name": "刃之守護人・遠處2",
+      "sp": 200,
+      "icon": "skillC/A_S_Far_Save_2.png"
+    },
+    "A/S Far Save 3": {
+      "pool": { "special": { "5": ["Takumi - Troubled Heart"] } },
+      "id": "A/S Far Save 3",
+      "name": "刃之守護人・遠處3",
+      "sp": 300,
+      "icon": "skillC/A_S_Far_Save_3.png"
     },
     "A/D Far Save 2": {
       "pool": {
@@ -12040,7 +12108,8 @@
       "pool": {
         "special": {
           "5": ["Saul - Minister of Love", "Sephiran - Hoary Sovereign"]
-        }
+        },
+        "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
       "id": "Odd Recovery 3",
       "name": "痊癒・奇數3",

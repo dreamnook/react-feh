@@ -2675,6 +2675,21 @@
     "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wings of Mercy 3": { "sp": 240, "rarity": 5 } }
   },
+  "Elise - Sweetheart Royals": {
+    "score": 133,
+    "scoreTotal": 435,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1640,
+    "feather": 1000,
+    "bst": 200,
+    "assist": { "Return+": { "sp": 300, "rarity": 5 } },
+    "special": { "Holy Pressure": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Odd Recovery 3": { "sp": 240, "rarity": 5 } }
+  },
   "Lyon - Grado's Gaze": {
     "score": 196,
     "scoreTotal": 436,
@@ -4209,6 +4224,19 @@
     "assist": { "Swap": { "sp": 150, "rarity": 4 } },
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Effie - Dedicated Heart": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 187,
+    "assist": { "Smite": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Spd Push 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Infantry Flash 3": { "sp": 240, "rarity": 5 } }
   },
   "Yarne - Hoppy New Year": {
     "score": 249,
@@ -6211,6 +6239,19 @@
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
+  "Hana - Striving Heart": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 196,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Armored Stride 3": { "sp": 240, "rarity": 5 } }
+  },
   "Myrrh - Spooky Monster": {
     "score": 254,
     "scoreTotal": 721,
@@ -7524,6 +7565,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Sturdy Surge": { "sp": 300, "rarity": 5 } },
     "skillB": { "Flow Force 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Leo - Shrouded Heart": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Remote Mirror": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/D Far Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Navarre - Scarlet Ninja": {
     "score": 318,
@@ -11040,6 +11094,20 @@
     "skillA": { "Close Def 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "D/R Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Takumi - Troubled Heart": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Swift Stance 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Savvy Fighter 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "A/S Far Save 3": { "sp": 300, "rarity": 5 } }
   },
   "Sothis - Silver Specter": {
     "score": 318,

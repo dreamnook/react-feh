@@ -32457,6 +32457,41 @@
     "ver": "2.7",
     "df": 20
   },
+  "Takumi - Troubled Heart": {
+    "id": "Takumi - Troubled Heart",
+    "title": "不合糾葛的親愛",
+    "name": "拓海",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-tome",
+    "pool": "special",
+    "releaseDate": "2023-02-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [37, 40, 44],
+        "spd": [43, 46, 50],
+        "def": [25, 28, 31],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 16,
+        "def": 4,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
+  },
   "Hinata - Wild Samurai": {
     "id": "Hinata - Wild Samurai",
     "title": "豪邁武士",
@@ -32907,6 +32942,41 @@
     "book": 4,
     "ver": "4.11",
     "df": 15
+  },
+  "Hana - Striving Heart": {
+    "id": "Hana - Striving Heart",
+    "title": "全力以赴的愛",
+    "name": "風花",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "armored",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2023-02-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 42, 45],
+        "spd": [42, 46, 49],
+        "def": [38, 41, 45],
+        "res": [24, 27, 31]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 13,
+        "def": 11,
+        "res": 8
+      }
+    },
+    "assets": ["def", "res"],
+    "flaws": ["hp", "atk", "spd"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
   },
   "Subaki - Perfect Expert": {
     "id": "Subaki - Perfect Expert",
@@ -34214,6 +34284,41 @@
     "ver": "3.4",
     "df": 20
   },
+  "Leo - Shrouded Heart": {
+    "id": "Leo - Shrouded Heart",
+    "title": "潛藏於黑暗中的愛",
+    "name": "里昂",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-bow",
+    "pool": "special",
+    "releaseDate": "2023-02-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [42, 45, 49],
+        "spd": [28, 31, 34],
+        "def": [12, 16, 19],
+        "res": [42, 45, 48]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 15,
+        "spd": 5,
+        "def": 3,
+        "res": 10
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def"],
+    "statMin": 174,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
+  },
   "Odin - Potent Force": {
     "id": "Odin - Potent Force",
     "title": "封印著力量之人",
@@ -34477,6 +34582,42 @@
     "ver": "3.1",
     "df": 20
   },
+  "Elise - Sweetheart Royals": {
+    "id": "Elise - Sweetheart Royals",
+    "title": "純真的雙姬之愛",
+    "name": "艾麗澤",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-staff",
+    "bst": 200,
+    "pool": "duo",
+    "releaseDate": "2023-02-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [40, 43, 47],
+        "spd": [42, 46, 49],
+        "def": [12, 16, 19],
+        "res": [24, 27, 30]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 13,
+        "spd": 13,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 169,
+    "statMax": 170,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
+  },
   "Arthur - Hapless Hero": {
     "id": "Arthur - Hapless Hero",
     "title": "倒楣的英雄",
@@ -34600,6 +34741,55 @@
     "book": 1,
     "ver": "1.0",
     "df": 20
+  },
+  "Effie - Dedicated Heart": {
+    "id": "Effie - Dedicated Heart",
+    "title": "好友所示之愛",
+    "name": "艾爾菲",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2023-02-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "4": {
+        "hp": [37, 40, 43],
+        "atk": [41, 44, 47],
+        "spd": [38, 41, 45],
+        "def": [26, 29, 32],
+        "res": [18, 21, 24]
+      },
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [43, 46, 49],
+        "spd": [40, 43, 47],
+        "def": [29, 32, 35],
+        "res": [20, 23, 27]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 13,
+        "def": 7,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 13,
+        "def": 8,
+        "res": 4
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": [],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
   },
   "Silas - Loyal Knight": {
     "id": "Silas - Loyal Knight",

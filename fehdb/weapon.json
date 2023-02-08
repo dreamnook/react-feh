@@ -3763,6 +3763,39 @@
       "sp": 300,
       "prev": ["Wyvern Katana"],
       "last": true
+    },
+    "Petalfall Blade": {
+      "id": "Petalfall Blade",
+      "name": "櫻與玫瑰之刀",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Petalfall Blade+": {
+      "id": "Petalfall Blade+",
+      "name": "櫻與玫瑰之刀+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Petalfall Blade"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "blue-lance": {
@@ -10036,6 +10069,39 @@
         }
       },
       "last": true
+    },
+    "Petalfall Vase": {
+      "id": "Petalfall Vase",
+      "name": "櫻與玫瑰之花瓶",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Petalfall Vase+": {
+      "id": "Petalfall Vase+",
+      "name": "櫻與玫瑰之花瓶+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Petalfall Vase"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "bow": {
@@ -11149,6 +11215,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Duskbloom Bow": {
+      "id": "Duskbloom Bow",
+      "name": "暗夜王子的花弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Leo - Shrouded Heart"],
       "last": true
     },
     "Iron Bow": {
@@ -17779,6 +17855,16 @@
       "exclusive": ["Byleth - Fount of Learning"],
       "last": true
     },
+    "Dawnsweet Box": {
+      "id": "Dawnsweet Box",
+      "name": "白夜王子的點心盒",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Takumi - Troubled Heart"],
+      "last": true
+    },
     "Thunder": {
       "id": "Thunder",
       "name": "雷電",
@@ -20802,6 +20888,16 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["August - Astute Tactician"],
+      "last": true
+    },
+    "Dusk-Dawn Staff": {
+      "id": "Dusk-Dawn Staff",
+      "name": "白夜暗夜公主的花杖",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Elise - Sweetheart Royals"],
       "last": true
     },
     "Assault": {

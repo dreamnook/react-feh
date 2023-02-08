@@ -1849,6 +1849,15 @@
     "icon": "skillB/Wrathful_Staff_3.png",
     "last": true
   },
+  "Poetic Justice": {
+    "id": "Poetic Justice",
+    "name": "神罰・因果報應",
+    "sp": 300,
+    "prev": ["Wrathful Staff 3"],
+    "rules": "white-staff",
+    "last": true,
+    "icon": "skillB/Poetic_Justice.png"
+  },
   "Dazzling Staff 1": {
     "id": "Dazzling Staff 1",
     "name": "幻惑之杖1",

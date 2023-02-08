@@ -847,6 +847,15 @@
       "icon": "skillA/Bracing_Stance_2.png",
       "last": true
     },
+    "Fierce Breath": {
+      "id": "Fierce Breath",
+      "name": "鬼神呼吸",
+      "sp": 240,
+      "rules": "learner.breath",
+      "prev": ["Fierce Stance 2"],
+      "last": true,
+      "icon": "skillA/Fierce_Breath.png"
+    },
     "Darting Breath": {
       "id": "Darting Breath",
       "name": "飛燕呼吸",
@@ -1798,6 +1807,30 @@
       "prev": ["Atk/Def Catch 2"],
       "rules": "learner.catch",
       "icon": "skillA/Atk_Def_Catch_3.png",
+      "last": true
+    },
+    "Atk/Res Catch 1": {
+      "id": "Atk/Res Catch 1",
+      "name": "攻擊魔防的先機1",
+      "sp": 60,
+      "rules": "learner.catch",
+      "icon": "skillA/Atk_Res_Catch_1.png"
+    },
+    "Atk/Res Catch 2": {
+      "id": "Atk/Res Catch 2",
+      "name": "攻擊魔防的先機2",
+      "sp": 120,
+      "prev": ["Atk/Res Catch 1"],
+      "rules": "learner.catch",
+      "icon": "skillA/Atk_Res_Catch_2.png"
+    },
+    "Atk/Res Catch 3": {
+      "id": "Atk/Res Catch 3",
+      "name": "攻擊魔防的先機3",
+      "sp": 240,
+      "prev": ["Atk/Res Catch 2"],
+      "rules": "learner.catch",
+      "icon": "skillA/Atk_Res_Catch_3.png",
       "last": true
     },
     "Spd/Def Catch 1": {
@@ -5367,6 +5400,24 @@
       "def": 2,
       "prev": ["Squad Ace BN 1"],
       "icon": "seal/Squad_Ace_Atk_Def_2.png",
+      "last": true
+    },
+    "Squad Ace BO 1": {
+      "id": "Squad Ace BO 1",
+      "name": "第６７迷宮的霸王1",
+      "sp": 100,
+      "atk": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_Atk_Res_1.png"
+    },
+    "Squad Ace BO 2": {
+      "id": "Squad Ace BO 2",
+      "name": "第６７迷宮的霸王2",
+      "sp": 200,
+      "atk": 2,
+      "res": 2,
+      "prev": ["Squad Ace BO 1"],
+      "icon": "seal/Squad_Ace_Atk_Res_2.png",
       "last": true
     }
   }
