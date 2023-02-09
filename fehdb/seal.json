@@ -3839,6 +3839,7 @@
       "id": "Deflect Melee 1",
       "name": "連擊防禦・劍槍斧1",
       "sp": 50,
+      "rules": "melee",
       "icon": "seal/Deflect_Melee_1.png"
     },
     "Deflect Melee 2": {
@@ -3846,6 +3847,7 @@
       "name": "連擊防禦・劍槍斧2",
       "sp": 100,
       "prev": ["Deflect Melee 1"],
+      "rules": "melee",
       "icon": "seal/Deflect_Melee_2.png"
     },
     "Deflect Melee 3": {
@@ -3853,6 +3855,7 @@
       "name": "連擊防禦・劍槍斧3",
       "sp": 200,
       "prev": ["Deflect Melee 2"],
+      "rules": "melee",
       "icon": "seal/Deflect_Melee_3.png",
       "last": true
     },
