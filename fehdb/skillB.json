@@ -1882,6 +1882,15 @@
     "icon": "skillB/Dazzling_Staff_3.png",
     "last": true
   },
+  "Dazzling Shift": {
+    "id": "Dazzling Shift",
+    "name": "幻惑・轉移",
+    "sp": 300,
+    "prev": ["Dazzling Staff 3"],
+    "rules": "white-staff",
+    "last": true,
+    "icon": "skillB/Dazzling_Shift.png"
+  },
   "Shield Pulse 1": {
     "id": "Shield Pulse 1",
     "name": "盾之躍動1",
@@ -3211,6 +3220,15 @@
     "prev": ["Repel 2"],
     "rules": "learner.wielderInfantry",
     "icon": "skillB/Repel_3.png",
+    "last": true
+  },
+  "Repel 4": {
+    "id": "Repel 4",
+    "name": "迴避・擊退4",
+    "sp": 300,
+    "prev": ["Repel 3"],
+    "rules": "learner.wielderInfantry",
+    "icon": "skillB/Repel_4.png",
     "last": true
   },
   "Close Call 1": {

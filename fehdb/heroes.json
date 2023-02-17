@@ -24789,6 +24789,206 @@
     "ver": "6.6",
     "df": 10
   },
+  "Elincia - Devoted Queen": {
+    "id": "Elincia - Devoted Queen",
+    "title": "純潔女王",
+    "name": "艾琳西亞",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-staff",
+    "ascended": true,
+    "releaseDate": "2023-02-17",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [40, 44, 47],
+        "spd": [42, 45, 49],
+        "def": [15, 18, 21],
+        "res": [25, 28, 31]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 15,
+        "def": 3,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk"],
+    "statMin": 173,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
+  },
+  "Lucia - Tireless Advisor": {
+    "id": "Lucia - Tireless Advisor",
+    "title": "女王的姊妹",
+    "name": "露琪諾",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-02-17",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [42, 45, 49],
+        "def": [26, 29, 32],
+        "res": [29, 32, 35]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 15,
+        "def": 5,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
+  },
+  "Geoffrey - Realm's Protector": {
+    "id": "Geoffrey - Realm's Protector",
+    "title": "女王的騎士",
+    "name": "喬弗雷",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-lance",
+    "releaseDate": "2023-02-17",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 46, 49],
+        "spd": [37, 40, 44],
+        "def": [25, 29, 32],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 10,
+        "def": 7,
+        "res": 3
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def", "res"],
+    "statMin": 180,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
+  },
+  "Bastian - Crimea's Keystone": {
+    "id": "Bastian - Crimea's Keystone",
+    "title": "王國的中樞",
+    "name": "尤里西斯",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "releaseDate": "2023-02-17",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 44, 47],
+        "spd": [25, 28, 31],
+        "def": [17, 20, 23],
+        "res": [42, 45, 49]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 4,
+        "def": 3,
+        "res": 15
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
+  },
+  "Ludveck - Rebellious Duke": {
+    "id": "Ludveck - Rebellious Duke",
+    "title": "舊體制的召集人",
+    "name": "路德貝克",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "armored",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2023-02-17",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "3": {
+        "hp": [39, 42, 45],
+        "atk": [37, 40, 43],
+        "spd": [25, 28, 31],
+        "def": [38, 41, 44],
+        "res": [21, 24, 27]
+      },
+      "4": {
+        "hp": [40, 43, 46],
+        "atk": [39, 42, 46],
+        "spd": [26, 29, 32],
+        "def": [40, 43, 47],
+        "res": [22, 25, 28]
+      },
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [41, 44, 48],
+        "spd": [29, 32, 35],
+        "def": [42, 45, 49],
+        "res": [25, 28, 31]
+      },
+      "3-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 5,
+        "def": 14,
+        "res": 3
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 14,
+        "spd": 5,
+        "def": 15,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 14,
+        "spd": 6,
+        "def": 15,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": [],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
+  },
   "Caineghis - Gallia's Lion King": {
     "id": "Caineghis - Gallia's Lion King",
     "title": "加利亞的獅子王",

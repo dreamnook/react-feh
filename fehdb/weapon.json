@@ -2603,6 +2603,16 @@
       "exclusive": ["Lumera - Dragon Monarch"],
       "last": true
     },
+    "Queensblade": {
+      "id": "Queensblade",
+      "name": "女王護衛的怜劍",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Lucia - Tireless Advisor"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -2996,39 +3006,6 @@
       },
       "last": true
     },
-    "Spirited Sword": {
-      "id": "Spirited Sword",
-      "name": "士氣旺盛之劍",
-      "mt": 10,
-      "sp": 200,
-      "prev": ["Steel Sword"]
-    },
-    "Spirited Sword+": {
-      "id": "Spirited Sword+",
-      "name": "士氣旺盛之劍+",
-      "mt": 14,
-      "sp": 300,
-      "prev": ["Spirited Sword"],
-      "refine": {
-        "atk": {
-          "hp": 5,
-          "mt": 2
-        },
-        "spd": {
-          "hp": 5,
-          "spd": 3
-        },
-        "def": {
-          "hp": 5,
-          "def": 4
-        },
-        "res": {
-          "hp": 5,
-          "res": 4
-        }
-      },
-      "last": true
-    },
     "Instant Sword": {
       "id": "Instant Sword",
       "name": "瞬擊之劍",
@@ -3075,6 +3052,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Steadfast Sword"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Spirited Sword": {
+      "id": "Spirited Sword",
+      "name": "士氣旺盛之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Spirited Sword+": {
+      "id": "Spirited Sword+",
+      "name": "士氣旺盛之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Spirited Sword"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -5783,6 +5793,16 @@
       },
       "last": true
     },
+    "Queenslance": {
+      "id": "Queenslance",
+      "name": "女王騎士的勇槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Geoffrey - Realm's Protector"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -6215,39 +6235,6 @@
       },
       "last": true
     },
-    "Spirited Spear": {
-      "id": "Spirited Spear",
-      "name": "士氣狂盛之槍",
-      "mt": 10,
-      "sp": 200,
-      "prev": ["Steel Lance"]
-    },
-    "Spirited Spear+": {
-      "id": "Spirited Spear+",
-      "name": "士氣狂盛之槍+",
-      "mt": 14,
-      "sp": 300,
-      "prev": ["Spirited Spear"],
-      "refine": {
-        "atk": {
-          "hp": 5,
-          "mt": 2
-        },
-        "spd": {
-          "hp": 5,
-          "spd": 3
-        },
-        "def": {
-          "hp": 5,
-          "def": 4
-        },
-        "res": {
-          "hp": 5,
-          "res": 4
-        }
-      },
-      "last": true
-    },
     "Instant Lance": {
       "id": "Instant Lance",
       "name": "瞬擊之槍",
@@ -6314,19 +6301,19 @@
       },
       "last": true
     },
-    "Unbound Lance": {
-      "id": "Unbound Lance",
-      "name": "孤絕之槍",
+    "Spirited Spear": {
+      "id": "Spirited Spear",
+      "name": "士氣狂盛之槍",
       "mt": 10,
       "sp": 200,
       "prev": ["Steel Lance"]
     },
-    "Unbound Lance+": {
-      "id": "Unbound Lance+",
-      "name": "孤絕之槍+",
+    "Spirited Spear+": {
+      "id": "Spirited Spear+",
+      "name": "士氣狂盛之槍+",
       "mt": 14,
       "sp": 300,
-      "prev": ["Unbound Lance"],
+      "prev": ["Spirited Spear"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -6347,19 +6334,19 @@
       },
       "last": true
     },
-    "Rein Lance": {
-      "id": "Rein Lance",
-      "name": "牽制之槍",
+    "Unbound Lance": {
+      "id": "Unbound Lance",
+      "name": "孤絕之槍",
       "mt": 10,
       "sp": 200,
       "prev": ["Steel Lance"]
     },
-    "Rein Lance+": {
-      "id": "Rein Lance+",
-      "name": "牽制之槍+",
+    "Unbound Lance+": {
+      "id": "Unbound Lance+",
+      "name": "孤絕之槍+",
       "mt": 14,
       "sp": 300,
-      "prev": ["Rein Lance"],
+      "prev": ["Unbound Lance"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -6413,6 +6400,39 @@
       },
       "last": true
     },
+    "Rein Lance": {
+      "id": "Rein Lance",
+      "name": "牽制之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Rein Lance+": {
+      "id": "Rein Lance+",
+      "name": "牽制之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Rein Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Allied Lance": {
       "id": "Allied Lance",
       "name": "共鬥之槍",
@@ -6446,19 +6466,19 @@
       },
       "last": true
     },
-    "Defier's Lance": {
-      "id": "Defier's Lance",
-      "name": "防守逆用之槍",
+    "Vulture Lance": {
+      "id": "Vulture Lance",
+      "name": "禿鷹之槍",
       "mt": 10,
       "sp": 200,
       "prev": ["Steel Lance"]
     },
-    "Defier's Lance+": {
-      "id": "Defier's Lance+",
-      "name": "防守逆用之槍+",
+    "Vulture Lance+": {
+      "id": "Vulture Lance+",
+      "name": "禿鷹之槍+",
       "mt": 14,
       "sp": 300,
-      "prev": ["Defier's Lance"],
+      "prev": ["Vulture Lance"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -6479,19 +6499,19 @@
       },
       "last": true
     },
-    "Vulture Lance": {
-      "id": "Vulture Lance",
-      "name": "禿鷹之槍",
+    "Defier's Lance": {
+      "id": "Defier's Lance",
+      "name": "防守逆用之槍",
       "mt": 10,
       "sp": 200,
       "prev": ["Steel Lance"]
     },
-    "Vulture Lance+": {
-      "id": "Vulture Lance+",
-      "name": "禿鷹之槍+",
+    "Defier's Lance+": {
+      "id": "Defier's Lance+",
+      "name": "防守逆用之槍+",
       "mt": 14,
       "sp": 300,
-      "prev": ["Vulture Lance"],
+      "prev": ["Defier's Lance"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -9100,39 +9120,6 @@
       },
       "last": true
     },
-    "Spirited Axe": {
-      "id": "Spirited Axe",
-      "name": "士氣狂盛之斧",
-      "mt": 10,
-      "sp": 200,
-      "prev": ["Steel Axe"]
-    },
-    "Spirited Axe+": {
-      "id": "Spirited Axe+",
-      "name": "士氣狂盛之斧+",
-      "mt": 14,
-      "sp": 300,
-      "prev": ["Spirited Axe"],
-      "refine": {
-        "atk": {
-          "hp": 5,
-          "mt": 2
-        },
-        "spd": {
-          "hp": 5,
-          "spd": 3
-        },
-        "def": {
-          "hp": 5,
-          "def": 4
-        },
-        "res": {
-          "hp": 5,
-          "res": 4
-        }
-      },
-      "last": true
-    },
     "Instant Axe": {
       "id": "Instant Axe",
       "name": "瞬擊之斧",
@@ -9179,6 +9166,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Steadfast Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Spirited Axe": {
+      "id": "Spirited Axe",
+      "name": "士氣狂盛之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Spirited Axe+": {
+      "id": "Spirited Axe+",
+      "name": "士氣狂盛之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Spirited Axe"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -9311,6 +9331,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Vulture Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Defier's Axe": {
+      "id": "Defier's Axe",
+      "name": "防守逆用之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Defier's Axe+": {
+      "id": "Defier's Axe+",
+      "name": "防守逆用之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Defier's Axe"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -20004,6 +20057,39 @@
       },
       "last": true
     },
+    "Gronndeer": {
+      "id": "Gronndeer",
+      "name": "翠綠之鹿",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Rexcalibur"]
+    },
+    "Gronndeer+": {
+      "id": "Gronndeer+",
+      "name": "翠綠之鹿+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Gronndeer"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Green Egg": {
       "id": "Green Egg",
       "name": "綠之卵",
@@ -20898,6 +20984,16 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Elise - Sweetheart Royals"],
+      "last": true
+    },
+    "Crimean Scepter": {
+      "id": "Crimean Scepter",
+      "name": "克里米亞女王的權杖",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Elincia - Devoted Queen"],
       "last": true
     },
     "Assault": {

@@ -126,13 +126,6 @@
         "sp": 300,
         "refine": 350
       },
-      "Spirited Sword+": {
-        "pool": { "#": { "3": ["Scáthach - Astra's Wake"] } },
-        "id": "Spirited Sword+",
-        "name": "士氣旺盛之劍+",
-        "sp": 300,
-        "refine": 350
-      },
       "Instant Sword+": {
         "pool": { "grail": { "5": ["Bertram - Dread Cavalier"] } },
         "id": "Instant Sword+",
@@ -144,6 +137,13 @@
         "pool": { "#": { "3": ["Tanith - Bright Blade"] } },
         "id": "Steadfast Sword+",
         "name": "護衛之劍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Spirited Sword+": {
+        "pool": { "#": { "3": ["Scáthach - Astra's Wake"] } },
+        "id": "Spirited Sword+",
+        "name": "士氣旺盛之劍+",
         "sp": 300,
         "refine": 350
       },
@@ -451,13 +451,6 @@
         "sp": 300,
         "refine": 350
       },
-      "Spirited Spear+": {
-        "pool": { "#": { "5": ["Gatrie - Armored Amour"] } },
-        "id": "Spirited Spear+",
-        "name": "士氣狂盛之槍+",
-        "sp": 300,
-        "refine": 350
-      },
       "Instant Lance+": {
         "pool": {
           "#": { "5": ["Melady - Crimson Rider"] },
@@ -475,17 +468,17 @@
         "sp": 300,
         "refine": 350
       },
+      "Spirited Spear+": {
+        "pool": { "#": { "5": ["Gatrie - Armored Amour"] } },
+        "id": "Spirited Spear+",
+        "name": "士氣狂盛之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Unbound Lance+": {
         "pool": { "#": { "3": ["Marcia - Petulant Knight"] } },
         "id": "Unbound Lance+",
         "name": "孤絕之槍+",
-        "sp": 300,
-        "refine": 350
-      },
-      "Rein Lance+": {
-        "pool": { "#": { "3": ["Phila - Pegasus Master"] } },
-        "id": "Rein Lance+",
-        "name": "牽制之槍+",
         "sp": 300,
         "refine": 350
       },
@@ -496,6 +489,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Rein Lance+": {
+        "pool": { "#": { "3": ["Phila - Pegasus Master"] } },
+        "id": "Rein Lance+",
+        "name": "牽制之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Allied Lance+": {
         "pool": { "#": { "3": ["Karin - Driven Knight"] } },
         "id": "Allied Lance+",
@@ -503,17 +503,17 @@
         "sp": 300,
         "refine": 350
       },
-      "Defier's Lance+": {
-        "pool": { "grail": { "5": ["Cervantes - Invincible General"] } },
-        "id": "Defier's Lance+",
-        "name": "防守逆用之槍+",
-        "sp": 300,
-        "refine": 350
-      },
       "Vulture Lance+": {
         "pool": { "grail": { "5": ["Matthis - Brother to Lena"] } },
         "id": "Vulture Lance+",
         "name": "禿鷹之槍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Defier's Lance+": {
+        "pool": { "grail": { "5": ["Cervantes - Invincible General"] } },
+        "id": "Defier's Lance+",
+        "name": "防守逆用之槍+",
         "sp": 300,
         "refine": 350
       },
@@ -803,13 +803,6 @@
         "sp": 300,
         "refine": 350
       },
-      "Spirited Axe+": {
-        "pool": { "#": { "3": ["Basilio - Feroxi West-Khan"] } },
-        "id": "Spirited Axe+",
-        "name": "士氣狂盛之斧+",
-        "sp": 300,
-        "refine": 350
-      },
       "Instant Axe+": {
         "pool": { "#": { "3": ["Balthus - King of Grappling"] } },
         "id": "Instant Axe+",
@@ -821,6 +814,13 @@
         "pool": { "#": { "5": ["Dedue - Dimitri's Vassal"] } },
         "id": "Steadfast Axe+",
         "name": "護衛之斧+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Spirited Axe+": {
+        "pool": { "#": { "3": ["Basilio - Feroxi West-Khan"] } },
+        "id": "Spirited Axe+",
+        "name": "士氣狂盛之斧+",
         "sp": 300,
         "refine": 350
       },
@@ -849,6 +849,13 @@
         "pool": { "grail": { "5": ["Brigand Boss - Known Criminal"] } },
         "id": "Vulture Axe+",
         "name": "禿鷹之斧+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Defier's Axe+": {
+        "pool": { "grail": { "5": ["Ludveck - Rebellious Duke"] } },
+        "id": "Defier's Axe+",
+        "name": "防守逆用之斧+",
         "sp": 300,
         "refine": 350
       },
@@ -2017,6 +2024,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Gronndeer+": {
+        "pool": { "#": { "5": ["Bastian - Crimea's Keystone"] } },
+        "id": "Gronndeer+",
+        "name": "翠綠之鹿+",
+        "sp": 300,
+        "refine": 350
+      },
       "Green Egg+": {
         "pool": { "special": { "5": ["Camilla - Spring Princess"] } },
         "id": "Green Egg+",
@@ -2570,7 +2584,7 @@
     },
     "Rescue+": {
       "pool": {
-        "#": { "5": ["Flayn - Playing Innocent"] },
+        "#": { "5": ["Flayn - Playing Innocent", "Elincia - Devoted Queen"] },
         "special": { "5": ["L'Arachel - Seeker of Justice"] }
       },
       "id": "Rescue+",
@@ -3158,7 +3172,8 @@
             "Gatekeeper - Nothing to Report",
             "Catria - Mild Middle Sister",
             "Constance - Fallen Noble",
-            "Erinys - Earnest Knight"
+            "Erinys - Earnest Knight",
+            "Lucia - Tireless Advisor"
           ]
         },
         "special": {
@@ -3395,6 +3410,7 @@
             "Nyx - Rulebreaker Mage",
             "Mareeta - The Blade's Pawn",
             "Seliph - Enduring Legacy",
+            "Geoffrey - Realm's Protector",
             "Malice - Deft Sellsword",
             "Galzus - Dark Blade of Od",
             "Eirika - Pledged Restorer",
@@ -3966,6 +3982,7 @@
             "Jorge - Traveling Peddler",
             "Bertram - Dread Cavalier",
             "Flame Emperor - Bringer of War",
+            "Ludveck - Rebellious Duke",
             "Cervantes - Invincible General"
           ]
         },
@@ -4009,6 +4026,7 @@
             "Innes - Regal Strategician",
             "Fiora - Airborne Warrior",
             "Kiria - Cool Façade",
+            "Bastian - Crimea's Keystone",
             "Julia - Heart Usurped",
             "Say'ri - Chon'sin's Blade",
             "Est - Sweet Baby Sis",
@@ -4325,6 +4343,7 @@
             "Mist - Helpful Sister",
             "Maribelle - Dire Damsel",
             "Mikoto - Caring Mother",
+            "Elincia - Devoted Queen",
             "Delthea - Free Spirit",
             "Sigurd - Holy Knight"
           ]
@@ -4478,6 +4497,12 @@
       "pool": { "duo": { "5": ["Elise - Sweetheart Royals"] } },
       "id": "Holy Pressure",
       "name": "重壓的聖光",
+      "sp": 500
+    },
+    "Light's Restraint": {
+      "pool": { "#": { "5": ["Elincia - Devoted Queen"] } },
+      "id": "Light's Restraint",
+      "name": "抑制的聖光",
       "sp": 500
     }
   },
@@ -4838,7 +4863,8 @@
             "Ishtar - Echoing Thunder",
             "Joshua - Resolute Tempest",
             "Igrene - Nabata Protector",
-            "Leila - Rose amid Fangs"
+            "Leila - Rose amid Fangs",
+            "Lucia - Tireless Advisor"
           ]
         },
         "grail": { "5": ["Hana - Focused Ninja", "Zephiel - The Liberator"] },
@@ -4859,7 +4885,8 @@
             "Ishtar - Echoing Thunder",
             "Joshua - Resolute Tempest",
             "Igrene - Nabata Protector",
-            "Leila - Rose amid Fangs"
+            "Leila - Rose amid Fangs",
+            "Lucia - Tireless Advisor"
           ]
         },
         "mythic": { "5": ["Ullr - The Bowmaster"] }
@@ -5378,7 +5405,9 @@
           "3": ["Altena - Luminous Rider"],
           "5": ["Dedue - Dimitri's Vassal", "Idunn - Divine Demon"]
         },
-        "grail": { "4": ["Dorcas - Pumpkin Smasher"] },
+        "grail": {
+          "4": ["Dorcas - Pumpkin Smasher", "Ludveck - Rebellious Duke"]
+        },
         "legendary": { "5": ["Ephraim - Legendary Lord"] },
         "special": {
           "5": ["Dheginsea - Harvest Goldoan", "Robin - Fall Reincarnation"]
@@ -6294,6 +6323,7 @@
           "5": [
             "Camilla - Light of Nohr",
             "Sara - Lady of Loptr",
+            "Elincia - Devoted Queen",
             "Flavia - Feroxi East-Khan",
             "Malice - Deft Sellsword",
             "Bernadetta - Eternal Loner",
@@ -6346,6 +6376,7 @@
           "5": [
             "Camilla - Light of Nohr",
             "Sara - Lady of Loptr",
+            "Elincia - Devoted Queen",
             "Flavia - Feroxi East-Khan",
             "Malice - Deft Sellsword",
             "Bernadetta - Eternal Loner",
@@ -7836,6 +7867,7 @@
             "Caineghis - Gallia's Lion King"
           ]
         },
+        "grail": { "5": ["Ludveck - Rebellious Duke"] },
         "legendary": { "5": ["Hector - Marquess of Ostia"] },
         "special": {
           "5": [
@@ -8375,6 +8407,7 @@
     },
     "Sabotage Res 3": {
       "pool": {
+        "#": { "5": ["Bastian - Crimea's Keystone"] },
         "grail": { "5": ["Sophia - Cobweb Prophet", "Solon - Church Shadow"] },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
         "mythic": { "5": ["Yune - Chaos Goddess"] }
@@ -8606,7 +8639,8 @@
             "Maribelle - Dire Damsel",
             "Silque - Adherent of Mila",
             "Flayn - Playing Innocent",
-            "Sara - Lady of Loptr"
+            "Sara - Lady of Loptr",
+            "Elincia - Devoted Queen"
           ]
         },
         "special": {
@@ -8624,6 +8658,13 @@
       "name": "幻惑之杖3",
       "sp": 240,
       "icon": "skillB/Dazzling_Staff_3.png"
+    },
+    "Dazzling Shift": {
+      "pool": { "#": { "5": ["Elincia - Devoted Queen"] } },
+      "id": "Dazzling Shift",
+      "name": "幻惑・轉移",
+      "sp": 300,
+      "icon": "skillB/Dazzling_Shift.png"
     },
     "Shield Pulse 3": {
       "pool": {
@@ -9344,11 +9385,26 @@
       "icon": "skillB/Lull_Spd_Res_3.png"
     },
     "Repel 3": {
-      "pool": { "#": { "5": ["Larcei - Keen Kin", "Ike - Zeal Unleashed"] } },
+      "pool": {
+        "#": {
+          "5": [
+            "Larcei - Keen Kin",
+            "Ike - Zeal Unleashed",
+            "Lucia - Tireless Advisor"
+          ]
+        }
+      },
       "id": "Repel 3",
       "name": "迴避・擊退3",
       "sp": 240,
       "icon": "skillB/Repel_3.png"
+    },
+    "Repel 4": {
+      "pool": { "#": { "5": ["Lucia - Tireless Advisor"] } },
+      "id": "Repel 4",
+      "name": "迴避・擊退4",
+      "sp": 300,
+      "icon": "skillB/Repel_4.png"
     },
     "Close Call 3": {
       "pool": {
@@ -9616,7 +9672,10 @@
       "icon": "skillB/Flow_Guard_3.png"
     },
     "Flow Force 3": {
-      "pool": { "harmonized": { "5": ["Roy - Blazing Bachelors"] } },
+      "pool": {
+        "#": { "5": ["Geoffrey - Realm's Protector"] },
+        "harmonized": { "5": ["Roy - Blazing Bachelors"] }
+      },
       "id": "Flow Force 3",
       "name": "怒濤・不屈3",
       "sp": 240,
@@ -10338,7 +10397,13 @@
     },
     "Spd/Res Rein 3": {
       "pool": {
-        "#": { "5": ["Byleth - Sublime Light", "Constance - Fallen Noble"] },
+        "#": {
+          "5": [
+            "Elincia - Devoted Queen",
+            "Byleth - Sublime Light",
+            "Constance - Fallen Noble"
+          ]
+        },
         "legendary": { "5": ["Robin - Fell Vessel"] },
         "mythic": { "5": ["Triandra - Nightmare"] },
         "special": { "5": ["Tharja - Florid Charmer"] },
@@ -10396,7 +10461,7 @@
     },
     "Spd/Res Hold": {
       "pool": {
-        "#": { "5": ["Byleth - Sublime Light"] },
+        "#": { "5": ["Elincia - Devoted Queen", "Byleth - Sublime Light"] },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
       },
       "id": "Spd/Res Hold",
@@ -10879,6 +10944,7 @@
         "#": {
           "3": ["Atlas - Forest Muscle"],
           "5": [
+            "Geoffrey - Realm's Protector",
             "Líf - Arcane Blade",
             "Morgan - Devoted Darkness",
             "Dieck - Wounded Tiger"
@@ -10972,7 +11038,13 @@
     },
     "Atk/Def Menace": {
       "pool": {
-        "#": { "5": ["Líf - Arcane Blade", "Morgan - Devoted Darkness"] },
+        "#": {
+          "5": [
+            "Geoffrey - Realm's Protector",
+            "Líf - Arcane Blade",
+            "Morgan - Devoted Darkness"
+          ]
+        },
         "legendary": { "5": ["Hríd - Icy Blade"] },
         "mythic": { "5": ["Ótr - Kingsbrother"] }
       },
@@ -11021,7 +11093,11 @@
       "pool": {
         "#": {
           "3": ["Lena - Tender Angel"],
-          "5": ["Katarina - Wayward One", "Morgan - Lass from Afar"]
+          "5": [
+            "Katarina - Wayward One",
+            "Bastian - Crimea's Keystone",
+            "Morgan - Lass from Afar"
+          ]
         },
         "grail": {
           "4": ["Julius - Scion of Darkness", "Solon - Church Shadow"],
@@ -12089,7 +12165,13 @@
     },
     "Even Tempest 3": {
       "pool": {
-        "#": { "5": ["Marth - Prince of Light", "Mareeta - Astra Awakened"] },
+        "#": {
+          "5": [
+            "Marth - Prince of Light",
+            "Lucia - Tireless Advisor",
+            "Mareeta - Astra Awakened"
+          ]
+        },
         "mythic": { "5": ["Dagr - Sun's Radiance"] }
       },
       "id": "Even Tempest 3",

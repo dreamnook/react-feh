@@ -2578,6 +2578,20 @@
     "skillA": { "Grani's Shield": { "sp": 200, "rarity": 3 } },
     "skillB": { "Chill Def 3": { "sp": 240, "rarity": 5 } }
   },
+  "Elincia - Devoted Queen": {
+    "score": 125,
+    "scoreTotal": 425,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1700,
+    "feather": 1000,
+    "bst": 173,
+    "assist": { "Rescue+": { "sp": 300, "rarity": 5 } },
+    "special": { "Light's Restraint": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dazzling Shift": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Hold": { "sp": 300, "rarity": 5 } }
+  },
   "Klein - Silver Nobleman": {
     "score": 166,
     "scoreTotal": 428,
@@ -5249,6 +5263,18 @@
     "skillA": { "Brazen Def/Res 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Bastian - Crimea's Keystone": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 177,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 5 } }
+  },
   "Mamori - Microwavin' Idol": {
     "score": 240,
     "scoreTotal": 680,
@@ -6747,6 +6773,18 @@
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } }
   },
+  "Geoffrey - Realm's Protector": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Flow Force 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Menace": { "sp": 300, "rarity": 5 } }
+  },
   "Alfred - Floral Protector": {
     "score": 300,
     "scoreTotal": 740,
@@ -7242,6 +7280,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillA": { "Swift Stance 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Ludveck - Rebellious Duke": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 195,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Sturdy Stance 2": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Cervantes - Invincible General": {
     "score": 322,
@@ -11446,6 +11497,19 @@
     "skillA": { "R Duel Infantry 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd/Res Ruse 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Hone Spd": { "sp": 300, "rarity": 5 } }
+  },
+  "Lucia - Tireless Advisor": {
+    "score": 400,
+    "scoreTotal": 1240,
+    "poolRarity": 5,
+    "sp": 400,
+    "spTotal": 1240,
+    "feather": 1000,
+    "bst": 187,
+    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Repel 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Even Tempest 3": { "sp": 240, "rarity": 5 } }
   },
   "Caeda - Sea-Blossom Pair": {
     "score": 424,
