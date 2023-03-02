@@ -1017,6 +1017,15 @@
     "icon": "skillB/Seal_Atk_3.png",
     "last": true
   },
+  "Seal Atk 4": {
+    "id": "Seal Atk 4",
+    "name": "攻擊封印4",
+    "sp": 300,
+    "prev": ["Seal Atk 3"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Seal_Atk_4.png",
+    "last": true
+  },
   "Seal Spd 1": {
     "id": "Seal Spd 1",
     "name": "速度封印1",

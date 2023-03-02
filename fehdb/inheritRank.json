@@ -2262,6 +2262,18 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
+  "Bastian - Crimea's Keystone": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 177,
+    "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -2912,6 +2924,19 @@
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 4 } }
   },
+  "Hana - Striving Heart": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 196,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Armored Stride 3": { "sp": 240, "rarity": 5 } }
+  },
   "Ninian - Oracle of Destiny": {
     "score": 240,
     "scoreTotal": 440,
@@ -3318,6 +3343,18 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Pegasus Flight 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Etie - Fitness Fighter": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 183,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 4 } }
   },
   "Benny - Sensitive Soul": {
     "score": 199,
@@ -5263,18 +5300,6 @@
     "skillA": { "Brazen Def/Res 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } }
   },
-  "Bastian - Crimea's Keystone": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 177,
-    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 5 } }
-  },
   "Mamori - Microwavin' Idol": {
     "score": 240,
     "scoreTotal": 680,
@@ -5298,18 +5323,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Etie - Fitness Fighter": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 183,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -5687,6 +5700,19 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast Follow-Up 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "A/D Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Robin - Exalt's Other Half": {
+    "score": 276,
+    "scoreTotal": 681,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Seal Atk 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
   },
   "Micaiah - Wavecrest Maiden": {
     "score": 318,
@@ -6264,19 +6290,6 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Hana - Striving Heart": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 196,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Armored Stride 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,

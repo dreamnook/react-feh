@@ -19757,6 +19757,16 @@
       "exclusive": ["Céline - Joyous Royal"],
       "last": true
     },
+    "Master's Tactics": {
+      "id": "Master's Tactics",
+      "name": "神軍師之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Robin - Exalt's Other Half"],
+      "last": true
+    },
     "Wind": {
       "id": "Wind",
       "name": "烈風",

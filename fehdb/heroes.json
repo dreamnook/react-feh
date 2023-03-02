@@ -24896,19 +24896,33 @@
     "id": "Bastian - Crimea's Keystone",
     "title": "王國的中樞",
     "name": "尤里西斯",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-tome",
     "releaseDate": "2023-02-17",
     "appearsIn": ["Radiant Dawn"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [38, 42, 45],
+        "spd": [22, 25, 28],
+        "def": [15, 18, 21],
+        "res": [40, 43, 47]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [40, 44, 47],
         "spd": [25, 28, 31],
         "def": [17, 20, 23],
         "res": [42, 45, 49]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 3,
+        "def": 2,
+        "res": 15
       },
       "5-1": {
         "hp": 18,
@@ -26824,6 +26838,44 @@
     "book": 5,
     "ver": "5.10",
     "df": 10
+  },
+  "Robin - Exalt's Other Half": {
+    "id": "Robin - Exalt's Other Half",
+    "title": "聖王的摯友",
+    "name": "魯弗萊",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "bst": 200,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "earth-def-2",
+    "releaseDate": "2023-02-28",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [27, 30, 33],
+        "def": [28, 31, 34],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 6,
+        "def": 5,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.2",
+    "df": 5
   },
   "Robin - Mystery Tactician": {
     "id": "Robin - Mystery Tactician",
@@ -33147,7 +33199,7 @@
     "id": "Hana - Striving Heart",
     "title": "全力以赴的愛",
     "name": "風花",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "armored",
     "weaponType": "red-sword",
@@ -33155,12 +33207,26 @@
     "releaseDate": "2023-02-07",
     "appearsIn": ["Fates"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [35, 39, 42],
+        "spd": [40, 44, 47],
+        "def": [36, 39, 43],
+        "res": [22, 25, 28]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [38, 42, 45],
         "spd": [42, 46, 49],
         "def": [38, 41, 45],
         "res": [24, 27, 31]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 13,
+        "def": 11,
+        "res": 7
       },
       "5-1": {
         "hp": 18,
@@ -40272,19 +40338,47 @@
     "id": "Etie - Fitness Fighter",
     "title": "鐵腕大小姐",
     "name": "艾媞耶",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-bow",
     "releaseDate": "2023-01-17",
     "appearsIn": ["Engage"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [37, 40, 43],
+        "spd": [33, 36, 39],
+        "def": [23, 26, 29],
+        "res": [21, 24, 27]
+      },
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [39, 43, 46],
+        "spd": [35, 38, 42],
+        "def": [24, 27, 30],
+        "res": [22, 25, 28]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [41, 45, 48],
         "spd": [37, 40, 44],
         "def": [27, 30, 33],
         "res": [24, 28, 31]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 9,
+        "def": 5,
+        "res": 5
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 10,
+        "def": 5,
+        "res": 5
       },
       "5-1": {
         "hp": 18,

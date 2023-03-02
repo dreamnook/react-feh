@@ -14950,6 +14950,32 @@
       "A/R Near Save 3": 5
     }
   },
+  "Robin - Exalt's Other Half": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Master's Tactics": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Part of the Plan": 5
+    },
+    "skillB": {
+      "Seal Atk 1": 2,
+      "Seal Atk 2": 3,
+      "Seal Atk 3": 4,
+      "Seal Atk 4": 5
+    },
+    "skillC": {
+      "Canto Control 1": 1,
+      "Canto Control 2": 2,
+      "Canto Control 3": 4
+    }
+  },
   "Robin - Mystery Tactician": {
     "weapon": {
       "Wind": 1,

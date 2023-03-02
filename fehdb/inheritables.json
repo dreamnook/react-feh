@@ -1119,7 +1119,7 @@
         "refine": 350
       },
       "Protection Bow+": {
-        "pool": { "#": { "5": ["Etie - Fitness Fighter"] } },
+        "pool": { "#": { "3": ["Etie - Fitness Fighter"] } },
         "id": "Protection Bow+",
         "name": "守護之弓+",
         "sp": 300,
@@ -2025,7 +2025,7 @@
         "refine": 350
       },
       "Gronndeer+": {
-        "pool": { "#": { "5": ["Bastian - Crimea's Keystone"] } },
+        "pool": { "#": { "4": ["Bastian - Crimea's Keystone"] } },
         "id": "Gronndeer+",
         "name": "翠綠之鹿+",
         "sp": 300,
@@ -3732,7 +3732,8 @@
           "3": [
             "Corrin - Fateful Princess",
             "Camilla - Bewitching Beauty",
-            "Ares - Black Knight"
+            "Ares - Black Knight",
+            "Etie - Fitness Fighter"
           ],
           "5": [
             "Alm - Hero of Prophecy",
@@ -3741,7 +3742,6 @@
             "Lyn - Brave Lady",
             "Karla - Sword Vassal",
             "Kjelle - Fair Fighter",
-            "Etie - Fitness Fighter",
             "Alm - Imperial Ascent",
             "Catherine - Thunder Knight",
             "Hardin - The Coyote",
@@ -3986,13 +3986,14 @@
             "Cervantes - Invincible General"
           ]
         },
-        "legendary": { "5": ["Seliph - Scion of Light"] },
+        "legendary": {
+          "5": ["Robin - Exalt's Other Half", "Seliph - Scion of Light"]
+        },
         "mythic": { "5": ["Reginn - Bearing Hope"] },
         "special": {
-          "4": ["Manuela - Silver Caroler"],
+          "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
             "Jakob - Devoted Monster",
-            "Hana - Striving Heart",
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
             "Gustav - Majestic Love"
@@ -4022,11 +4023,11 @@
             "Ilyana - Hungering Mage",
             "Phila - Pegasus Master"
           ],
+          "4": ["Bastian - Crimea's Keystone"],
           "5": [
             "Innes - Regal Strategician",
             "Fiora - Airborne Warrior",
             "Kiria - Cool Façade",
-            "Bastian - Crimea's Keystone",
             "Julia - Heart Usurped",
             "Say'ri - Chon'sin's Blade",
             "Est - Sweet Baby Sis",
@@ -7314,12 +7315,8 @@
     "Atk/Def Ideal 3": {
       "pool": {
         "#": {
-          "3": ["Scáthach - Astra's Wake"],
-          "5": [
-            "Etie - Fitness Fighter",
-            "Edelgard - Hegemon Husk",
-            "Priam - Radiant Hero"
-          ]
+          "3": ["Scáthach - Astra's Wake", "Etie - Fitness Fighter"],
+          "5": ["Edelgard - Hegemon Husk", "Priam - Radiant Hero"]
         },
         "grail": { "5": ["Cervantes - Invincible General"] },
         "legendary": { "5": ["Byleth - The Fódlan Star"] },
@@ -7894,9 +7891,8 @@
           ]
         },
         "special": {
-          "4": ["Manuela - Silver Caroler"],
+          "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
-            "Hana - Striving Heart",
             "Rudolf - Emperor of Rigel",
             "Felicia - Off the Menu",
             "Ike - Stalwart Heart",
@@ -8068,12 +8064,20 @@
             "Jeorge - Perfect Shot",
             "Catria - Middle Whitewing"
           ]
-        }
+        },
+        "legendary": { "5": ["Robin - Exalt's Other Half"] }
       },
       "id": "Seal Atk 3",
       "name": "攻擊封印3",
       "sp": 160,
       "icon": "skillB/Seal_Atk_3.png"
+    },
+    "Seal Atk 4": {
+      "pool": { "legendary": { "5": ["Robin - Exalt's Other Half"] } },
+      "id": "Seal Atk 4",
+      "name": "攻擊封印4",
+      "sp": 300,
+      "icon": "skillB/Seal_Atk_4.png"
     },
     "Seal Spd 3": {
       "pool": {
@@ -8407,7 +8411,7 @@
     },
     "Sabotage Res 3": {
       "pool": {
-        "#": { "5": ["Bastian - Crimea's Keystone"] },
+        "#": { "4": ["Bastian - Crimea's Keystone"] },
         "grail": { "5": ["Sophia - Cobweb Prophet", "Solon - Church Shadow"] },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
         "mythic": { "5": ["Yune - Chaos Goddess"] }
@@ -11093,11 +11097,8 @@
       "pool": {
         "#": {
           "3": ["Lena - Tender Angel"],
-          "5": [
-            "Katarina - Wayward One",
-            "Bastian - Crimea's Keystone",
-            "Morgan - Lass from Afar"
-          ]
+          "4": ["Bastian - Crimea's Keystone"],
+          "5": ["Katarina - Wayward One", "Morgan - Lass from Afar"]
         },
         "grail": {
           "4": ["Julius - Scion of Darkness", "Solon - Church Shadow"],
@@ -11886,7 +11887,10 @@
     },
     "Atk/Def Gap 3": {
       "pool": {
-        "#": { "5": ["Etie - Fitness Fighter", "Annette - Overachiever"] },
+        "#": {
+          "3": ["Etie - Fitness Fighter"],
+          "5": ["Annette - Overachiever"]
+        },
         "grail": { "5": ["Mordecai - Gentle Firetender"] },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }
       },
@@ -12248,6 +12252,7 @@
     "Canto Control 3": {
       "pool": {
         "#": { "5": ["Céline - Joyous Royal"] },
+        "legendary": { "5": ["Robin - Exalt's Other Half"] },
         "mythic": { "5": ["Medeus - Earth-Dragon King"] }
       },
       "id": "Canto Control 3",
