@@ -9491,7 +9491,9 @@
       "pool": {
         "#": { "5": ["Múspell - Flame God"] },
         "legendary": { "5": ["Myrrh - Guardian Dragon"] },
-        "mythic": { "5": ["Seiros - Saint of Legend"] },
+        "mythic": {
+          "5": ["Seiros - Saint of Legend", "Mila - Goddess of Love"]
+        },
         "special": { "5": ["Rhea - Witch of Creation"] },
         "duo": { "5": ["Duma - Strength and Love"] }
       },
@@ -10928,7 +10930,9 @@
         "grail": {
           "4": ["Yarne - Hoppy New Year", "Gonzalez - Kindly Bandit"]
         },
-        "legendary": { "5": ["Nanna - Beloved Princess"] },
+        "legendary": {
+          "5": ["Celica - Queen of Valentia", "Nanna - Beloved Princess"]
+        },
         "mythic": { "5": ["Nótt - Moon's Elegance"] }
       },
       "id": "Threat. Atk/Spd 2",
@@ -11032,7 +11036,9 @@
     "Atk/Spd Menace": {
       "pool": {
         "#": { "5": ["Eirika - Pledged Restorer"] },
-        "legendary": { "5": ["Nanna - Beloved Princess"] },
+        "legendary": {
+          "5": ["Celica - Queen of Valentia", "Nanna - Beloved Princess"]
+        },
         "mythic": { "5": ["Nótt - Moon's Elegance"] }
       },
       "id": "Atk/Spd Menace",

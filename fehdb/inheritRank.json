@@ -5493,19 +5493,6 @@
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } }
   },
-  "Celica - Queen of Valentia": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 175,
-    "special": { "Miracle": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 5 } }
-  },
   "Dagr - Sun's Radiance": {
     "score": 276,
     "scoreTotal": 681,
@@ -6381,6 +6368,19 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Chill Atk/Res 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Celica - Queen of Valentia": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 175,
+    "special": { "Miracle": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Menace": { "sp": 300, "rarity": 5 } }
   },
   "Julia - Crusader of Light": {
     "score": 276,
@@ -8490,7 +8490,7 @@
     "bst": 172,
     "assist": { "Rally Def/Res+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Bracing Stance 3": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Sabotage Atk 3": { "sp": 240, "rarity": 5 } }
+    "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
   },
   "Eliwood - Blazing Knight": {
     "score": 368,

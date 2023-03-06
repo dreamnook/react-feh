@@ -177,6 +177,15 @@
     "last": true,
     "icon": "skillC/Impenetrable_Dark.png"
   },
+  "Mila's Turnwheel II": {
+    "id": "Mila's Turnwheel II",
+    "name": "美拉的齒輪・承",
+    "sp": 300,
+    "prev": ["Mila's Turnwheel"],
+    "exclusive": ["Mila - Goddess of Love"],
+    "last": true,
+    "icon": "skillC/Mila's_Turnwheel_II.png"
+  },
   "Mila's Turnwheel": {
     "id": "Mila's Turnwheel",
     "name": "美拉的齒輪",

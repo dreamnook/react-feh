@@ -129,6 +129,7 @@
     "id": "Solar Brace II",
     "name": "太陽手鐲・承",
     "sp": 300,
+    "prev": ["Solar Brace"],
     "exclusive": ["Ephraim - Legendary Lord"],
     "last": true,
     "icon": "skillB/Solar_Brace_II.png"
@@ -210,6 +211,15 @@
     "exclusive": ["Thrasir - Omnicidal Witch"],
     "last": true,
     "icon": "skillB/Killing_Intent.png"
+  },
+  "Soul of Zofia II": {
+    "id": "Soul of Zofia II",
+    "name": "索菲亞之魂・承",
+    "sp": 300,
+    "prev": ["Soul of Zofia"],
+    "exclusive": ["Celica - Queen of Valentia"],
+    "last": true,
+    "icon": "skillB/Soul_of_Zofia_II.png"
   },
   "Soul of Zofia": {
     "id": "Soul of Zofia",

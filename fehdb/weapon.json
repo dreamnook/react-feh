@@ -1779,6 +1779,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Byleth - Proven Professor", "Byleth - Tested Professor"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Creator_Sword_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Selena's Blade": {
@@ -1863,6 +1886,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Astram - Midia's Hero"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Mercurius_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Conjurer Curios": {
@@ -4850,6 +4896,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Forsyth - Loyal Lieutenant"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Sol_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Golden Naginata": {
@@ -15024,6 +15093,29 @@
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Selkie - New Year's Spirit"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "New_Foxkit_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Groom's Wing": {
@@ -19436,6 +19528,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Celica - Queen of Valentia"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Saintly_Seraphim_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Winds of Silesse": {
@@ -22244,6 +22358,33 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Mila - Goddess of Love"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "atk": 4,
+          "spd": 4,
+          "def": 4,
+          "res": 4,
+          "name": "特效",
+          "icon": "Nurturing_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Gloom Breath": {

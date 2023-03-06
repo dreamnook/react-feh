@@ -4798,12 +4798,17 @@
       "Swift Sparrow 3": 5
     },
     "skillB": {
-      "Soul of Zofia": 5
+      "Soul of Zofia": 5,
+      "Soul of Zofia II": 5
     },
     "skillC": {
       "Atk/Spd Oath 1": 1,
       "Atk/Spd Oath 2": 2,
-      "Atk/Spd Oath 3": 4
+      "Atk/Spd Oath 3": 4,
+      "Threaten Spd 1": 2,
+      "Threat. Atk/Spd 1": 3,
+      "Threat. Atk/Spd 2": 4,
+      "Atk/Spd Menace": 5
     }
   },
   "Celica - Valentia's Hope": {
@@ -5654,10 +5659,14 @@
     "skillB": {
       "Sabotage Atk 1": 1,
       "Sabotage Atk 2": 2,
-      "Sabotage Atk 3": 4
+      "Sabotage Atk 3": 4,
+      "Dragon Wall 1": 1,
+      "Dragon Wall 2": 2,
+      "Dragon Wall 3": 4
     },
     "skillC": {
-      "Mila's Turnwheel": 5
+      "Mila's Turnwheel": 5,
+      "Mila's Turnwheel II": 5
     }
   },
   "Brigand Boss - Known Criminal": {
