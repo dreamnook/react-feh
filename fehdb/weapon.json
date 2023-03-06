@@ -7369,6 +7369,39 @@
         }
       },
       "last": true
+    },
+    "Hare's Lance": {
+      "id": "Hare's Lance",
+      "name": "黑兔之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Hare's Lance+": {
+      "id": "Hare's Lance+",
+      "name": "黑兔之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Hare's Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "green-axe": {
@@ -8762,6 +8795,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Black Knight - The Night's Blade"],
+      "last": true
+    },
+    "Sisterly War Axe": {
+      "id": "Sisterly War Axe",
+      "name": "蘊藏妹妹心意的重斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Karla - Spring Reveries"],
       "last": true
     },
     "Arcane Downfall": {
@@ -11347,6 +11390,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Leo - Shrouded Heart"],
+      "last": true
+    },
+    "Bow of Repose": {
+      "id": "Bow of Repose",
+      "name": "打瞌睡之春弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Bernadetta - Late Hibernator"],
       "last": true
     },
     "Iron Bow": {
@@ -14592,6 +14645,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Florid Knife"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Bunny's Egg": {
+      "id": "Bunny's Egg",
+      "name": "白兔之卵",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Bunny's Egg+": {
+      "id": "Bunny's Egg+",
+      "name": "白兔之卵+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Bunny's Egg"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -20847,6 +20933,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Gotoh - White Sage"],
+      "last": true
+    },
+    "Nightmare's Egg": {
+      "id": "Nightmare's Egg",
+      "name": "春天淺眠惡夢之卵",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Triandra - Sunlit Nightmare"],
       "last": true
     },
     "Stone": {

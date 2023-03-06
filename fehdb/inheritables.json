@@ -682,6 +682,13 @@
         "name": "新娘的向日葵+",
         "sp": 300,
         "refine": 350
+      },
+      "Hare's Lance+": {
+        "pool": { "grail": { "5": ["Michalis - Fruiting Ambition"] } },
+        "id": "Hare's Lance+",
+        "name": "黑兔之槍+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "green-axe": {
@@ -1603,6 +1610,13 @@
         "pool": { "special": { "5": ["Sothe - Rushing Dawn"] } },
         "id": "Florid Knife+",
         "name": "薔薇匕首+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Bunny's Egg+": {
+        "pool": { "special": { "5": ["Ashe - Budding Chivalry"] } },
+        "id": "Bunny's Egg+",
+        "name": "白兔之卵+",
         "sp": 300,
         "refine": 350
       }
@@ -2639,6 +2653,7 @@
             "Deen - Bladed Sandstorm",
             "Dorcas - Pumpkin Smasher",
             "Haar - Tempest Runner",
+            "Michalis - Fruiting Ambition",
             "Itsuki - Finding a Path"
           ]
         },
@@ -3081,6 +3096,7 @@
       "pool": {
         "#": { "5": ["Azelle - Youthful Flame"] },
         "grail": { "4": ["Seth - Silver-Sea Knight"] },
+        "special": { "5": ["Ashe - Budding Chivalry"] },
         "harmonized": { "5": ["Tiki - Harmonic Hope"] }
       },
       "id": "Rally Up Spd",
@@ -3090,6 +3106,7 @@
     "Rally Up Spd+": {
       "pool": {
         "#": { "5": ["Azelle - Youthful Flame"] },
+        "special": { "5": ["Ashe - Budding Chivalry"] },
         "harmonized": { "5": ["Tiki - Harmonic Hope"] }
       },
       "id": "Rally Up Spd+",
@@ -3794,7 +3811,8 @@
             "Palla - Eldest Bun-Bun",
             "Kagero - Beverage Ninja",
             "Shanna - Bridal Novice",
-            "Tana - Frelian Starlight"
+            "Tana - Frelian Starlight",
+            "Bernadetta - Late Hibernator"
           ]
         },
         "duo": {
@@ -3803,7 +3821,8 @@
             "Ephraim - Dynastic Duo",
             "Byleth - Fell Star's Duo"
           ]
-        }
+        },
+        "harmonized": { "5": ["Karla - Spring Reveries"] }
       },
       "id": "Draconic Aura",
       "name": "龍裂",
@@ -5072,7 +5091,8 @@
             "Gunnthrá - Year's First Dream",
             "Merric - Changing Winds",
             "Shanna - Bridal Novice",
-            "Tanith - Forthright Heart"
+            "Tanith - Forthright Heart",
+            "Bernadetta - Late Hibernator"
           ]
         },
         "duo": { "5": ["Lyn - Ninja-Friend Duo"] },
@@ -5305,7 +5325,10 @@
       "icon": "skillA/Sturdy_Surge.png"
     },
     "Remote Sparrow": {
-      "pool": { "harmonized": { "5": ["Linde - Bound by Fate"] } },
+      "pool": {
+        "special": { "5": ["Bernadetta - Late Hibernator"] },
+        "harmonized": { "5": ["Linde - Bound by Fate"] }
+      },
       "id": "Remote Sparrow",
       "name": "鬼神飛燕離擊",
       "sp": 300,
@@ -5988,7 +6011,11 @@
       "icon": "skillA/Grani's_Shield.png"
     },
     "Iote's Shield": {
-      "pool": { "grail": { "4": ["Michalis - Ambitious King"] } },
+      "pool": {
+        "grail": {
+          "4": ["Michalis - Fruiting Ambition", "Michalis - Ambitious King"]
+        }
+      },
       "id": "Iote's Shield",
       "name": "艾奧特之盾",
       "sp": 200,
@@ -7130,6 +7157,7 @@
           "5": [
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
+            "Ashe - Budding Chivalry",
             "Delthea - Prodigy in Bloom"
           ]
         },
@@ -7454,7 +7482,9 @@
         "#": { "5": ["Seliph - Enduring Legacy"] },
         "mythic": { "5": ["Embla - God of Closure"] },
         "special": { "4": ["Panne - Welcoming Dawn"] },
-        "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
+        "harmonized": {
+          "5": ["Karla - Spring Reveries", "Cordelia - Unyielding Snow"]
+        }
       },
       "id": "Atk/Spd Clash 3",
       "name": "攻擊速度的激戰3",
@@ -7465,7 +7495,9 @@
       "pool": {
         "#": { "5": ["Seliph - Enduring Legacy"] },
         "mythic": { "5": ["Embla - God of Closure"] },
-        "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
+        "harmonized": {
+          "5": ["Karla - Spring Reveries", "Cordelia - Unyielding Snow"]
+        }
       },
       "id": "Atk/Spd Clash 4",
       "name": "攻擊速度的激戰4",
@@ -7686,12 +7718,21 @@
             "Death Knight - The Reaper"
           ]
         },
-        "special": { "5": ["Cordelia - Perfect Bride"] }
+        "special": {
+          "5": ["Cordelia - Perfect Bride", "Bernadetta - Late Hibernator"]
+        }
       },
       "id": "Escape Route 3",
       "name": "脫離路線3",
       "sp": 240,
       "icon": "skillB/Escape_Route_3.png"
+    },
+    "Escape Route 4": {
+      "pool": { "special": { "5": ["Bernadetta - Late Hibernator"] } },
+      "id": "Escape Route 4",
+      "name": "脫離路線4",
+      "sp": 300,
+      "icon": "skillB/Escape_Route_4.png"
     },
     "Vantage 3": {
       "pool": {
@@ -8838,13 +8879,23 @@
     "Firestorm Dance 2": {
       "pool": {
         "#": { "5": ["Lene - Yearning Dancer"] },
-        "special": { "4": ["Rafiel - Blessed Wings"] },
+        "special": {
+          "4": ["Rafiel - Blessed Wings"],
+          "5": ["Triandra - Sunlit Nightmare"]
+        },
         "harmonized": { "5": ["Dorothea - Twilit Harmony"] }
       },
       "id": "Firestorm Dance 2",
       "name": "業火疾風之舞2",
       "sp": 240,
       "icon": "skillB/Firestorm_Dance_2.png"
+    },
+    "Firestorm Dance 3": {
+      "pool": { "special": { "5": ["Triandra - Sunlit Nightmare"] } },
+      "id": "Firestorm Dance 3",
+      "name": "業火疾風之舞3",
+      "sp": 300,
+      "icon": "skillB/Firestorm_Dance_3.png"
     },
     "Caldera Dance 2": {
       "pool": {
@@ -9037,7 +9088,10 @@
       "icon": "skillB/Def_Res_Link_3.png"
     },
     "Atk/Spd Snag 3": {
-      "pool": { "#": { "5": ["Farina - The Great Wing"] } },
+      "pool": {
+        "#": { "5": ["Farina - The Great Wing"] },
+        "grail": { "4": ["Michalis - Fruiting Ambition"] }
+      },
       "id": "Atk/Spd Snag 3",
       "name": "攻擊速度干涉3",
       "sp": 240,
@@ -9702,7 +9756,10 @@
       "icon": "skillB/Flow_Flight_3.png"
     },
     "Flow N Trace 3": {
-      "pool": { "#": { "5": ["Alfred - Floral Protector"] } },
+      "pool": {
+        "#": { "5": ["Alfred - Floral Protector"] },
+        "harmonized": { "5": ["Karla - Spring Reveries"] }
+      },
       "id": "Flow N Trace 3",
       "name": "怒濤・近影3",
       "sp": 240,
@@ -10333,7 +10390,11 @@
         "#": { "5": ["Caeldori - Perfect Angel", "Claude - Almyra's King"] },
         "legendary": { "5": ["Ryoma - Supreme Samurai"] },
         "special": {
-          "5": ["Inigo - Festival Flower", "Tana - Frelian Starlight"]
+          "5": [
+            "Ashe - Budding Chivalry",
+            "Inigo - Festival Flower",
+            "Tana - Frelian Starlight"
+          ]
         },
         "duo": { "5": ["Sothis - Bound-Spirit Duo"] },
         "harmonized": { "5": ["Dorothea - Twilit Harmony"] }
@@ -10422,6 +10483,7 @@
     },
     "Def/Res Rein 3": {
       "pool": {
+        "special": { "5": ["Triandra - Sunlit Nightmare"] },
         "duo": { "5": ["Hinoka - Fair Pirate Pair"] },
         "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
       },
@@ -10476,7 +10538,10 @@
       "icon": "skillC/Spd_Res_Hold.png"
     },
     "Def/Res Hold": {
-      "pool": { "harmonized": { "5": ["Cordelia - Unyielding Snow"] } },
+      "pool": {
+        "special": { "5": ["Triandra - Sunlit Nightmare"] },
+        "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
+      },
       "id": "Def/Res Hold",
       "name": "防守魔防大牽制",
       "sp": 300,
@@ -11227,7 +11292,8 @@
           ]
         },
         "grail": { "5": ["Takumi - Empty Vessel"] },
-        "special": { "5": ["Lyn - Blazing Whirlwind"] }
+        "special": { "5": ["Lyn - Blazing Whirlwind"] },
+        "harmonized": { "5": ["Karla - Spring Reveries"] }
       },
       "id": "Spd Smoke 3",
       "name": "速度紫煙3",
@@ -11237,7 +11303,8 @@
     "Spd Smoke 4": {
       "pool": {
         "#": { "5": ["Lilith - Silent Broodling", "Alear - Dragon Child"] },
-        "special": { "5": ["Lyn - Blazing Whirlwind"] }
+        "special": { "5": ["Lyn - Blazing Whirlwind"] },
+        "harmonized": { "5": ["Karla - Spring Reveries"] }
       },
       "id": "Spd Smoke 4",
       "name": "速度紫煙4",
@@ -11249,7 +11316,9 @@
         "#": { "3": ["Rath - Wolf of Sacae"], "5": ["Claude - The Schemer"] },
         "grail": { "4": ["Panne - Proud Taguel"] },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
-        "special": { "5": ["Alfonse - Spring Prince"] }
+        "special": {
+          "5": ["Alfonse - Spring Prince", "Bernadetta - Late Hibernator"]
+        }
       },
       "id": "Def Smoke 3",
       "name": "防守紫煙3",
@@ -11331,7 +11400,9 @@
     },
     "Def/Res Smoke 3": {
       "pool": {
-        "special": { "5": ["Leila - Keen Lookout"] },
+        "special": {
+          "5": ["Leila - Keen Lookout", "Bernadetta - Late Hibernator"]
+        },
         "harmonized": { "5": ["Linde - Bound by Fate"] }
       },
       "id": "Def/Res Smoke 3",

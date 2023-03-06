@@ -2567,6 +2567,41 @@
     "ver": "4.11",
     "df": 15
   },
+  "Triandra - Sunlit Nightmare": {
+    "id": "Triandra - Sunlit Nightmare",
+    "title": "陽光的惡夢",
+    "name": "史卡畢歐薩",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-tome",
+    "pool": "special",
+    "releaseDate": "2023-03-07",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [40, 43, 47],
+        "spd": [43, 46, 50],
+        "def": [15, 18, 21],
+        "res": [15, 18, 21]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 13,
+        "spd": 7,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 162,
+    "statMax": 165,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
+  },
   "Freyja - Lady of Nightmare": {
     "id": "Freyja - Lady of Nightmare",
     "title": "惡夢的女王",
@@ -4962,6 +4997,55 @@
     "book": 1,
     "ver": "1.1",
     "df": 20
+  },
+  "Michalis - Fruiting Ambition": {
+    "id": "Michalis - Fruiting Ambition",
+    "title": "野心的春季",
+    "name": "米謝爾",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "pool": "grail",
+    "releaseDate": "2023-03-07",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "4": {
+        "hp": [37, 40, 43],
+        "atk": [40, 43, 46],
+        "spd": [26, 29, 32],
+        "def": [42, 45, 48],
+        "res": [12, 15, 18]
+      },
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [42, 45, 48],
+        "spd": [29, 32, 35],
+        "def": [44, 47, 50],
+        "res": [13, 17, 20]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 7,
+        "def": 12,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 8,
+        "def": 12,
+        "res": 4
+      }
+    },
+    "assets": [],
+    "flaws": ["res"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
   },
   "Minerva - Red Dragoon": {
     "id": "Minerva - Red Dragoon",
@@ -18443,6 +18527,41 @@
     "book": 6,
     "ver": "6.1",
     "df": 10
+  },
+  "Karla - Spring Reveries": {
+    "id": "Karla - Spring Reveries",
+    "title": "高雅的春天夢境",
+    "name": "卡菈",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "pool": "harmonized",
+    "releaseDate": "2023-03-07",
+    "appearsIn": ["Heroes", "The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [44, 47, 51],
+        "def": [21, 24, 28],
+        "res": [19, 22, 25]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 8,
+        "def": 5,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "spd", "def"],
+    "flaws": ["hp"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
   },
   "Guy - Kutolah Blade": {
     "id": "Guy - Kutolah Blade",
@@ -37505,6 +37624,41 @@
     "ver": "5.0",
     "df": 15
   },
+  "Bernadetta - Late Hibernator": {
+    "id": "Bernadetta - Late Hibernator",
+    "title": "冬眠不覺曉",
+    "name": "貝爾娜提塔",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-bow",
+    "pool": "special",
+    "releaseDate": "2023-03-07",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [40, 43, 47],
+        "spd": [44, 47, 51],
+        "def": [16, 20, 23],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 8,
+        "def": 7,
+        "res": 3
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 174,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
+  },
   "Dorothea - Solar Songstress": {
     "id": "Dorothea - Solar Songstress",
     "title": "太陽的歌姬",
@@ -37936,6 +38090,41 @@
     "book": 5,
     "ver": "5.6",
     "df": 15
+  },
+  "Ashe - Budding Chivalry": {
+    "id": "Ashe - Budding Chivalry",
+    "title": "春色的騎士精神",
+    "name": "亞修",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-dagger",
+    "pool": "special",
+    "releaseDate": "2023-03-07",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [43, 46, 49],
+        "def": [29, 32, 35],
+        "res": [13, 17, 20]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 11,
+        "def": 4,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
   },
   "Sylvain - Hanging with Tens": {
     "id": "Sylvain - Hanging with Tens",

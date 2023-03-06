@@ -4458,6 +4458,18 @@
     "skillB": { "Guard 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Dagger Valor 3": { "sp": 120, "rarity": 5 } }
   },
+  "Triandra - Sunlit Nightmare": {
+    "score": 318,
+    "scoreTotal": 636,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 600,
+    "feather": 1000,
+    "bst": 162,
+    "skillB": { "Firestorm Dance 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Hold": { "sp": 300, "rarity": 5 } }
+  },
   "Delthea - Free Spirit": {
     "score": 240,
     "scoreTotal": 640,
@@ -6472,6 +6484,19 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillB": { "Seal Spd 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Michalis - Fruiting Ambition": {
+    "score": 299,
+    "scoreTotal": 736,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 590,
+    "feather": 300,
+    "bst": 184,
+    "assist": { "Swap": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Iote's Shield": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Atk/Spd Snag 3": { "sp": 240, "rarity": 4 } }
   },
   "Veronica - Bestowed Love": {
     "score": 374,
@@ -9241,6 +9266,19 @@
     "skillA": { "AR-D Atk/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ashe - Budding Chivalry": {
+    "score": 424,
+    "scoreTotal": 933,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 1000,
+    "bst": 178,
+    "assist": { "Rally Up Spd+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Mist - Purest Spirit": {
     "score": 424,
     "scoreTotal": 933,
@@ -11117,6 +11155,20 @@
     "skillB": { "Spd Preempt 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
+  "Karla - Spring Reveries": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 178,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flow N Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
   "Tana - Soothing Warmth": {
     "score": 318,
     "scoreTotal": 1102,
@@ -11282,6 +11334,20 @@
     "skillA": { "Close Salvo": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Res 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Hold": { "sp": 300, "rarity": 5 } }
+  },
+  "Bernadetta - Late Hibernator": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Escape Route 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
   "Corrin - Starry Seer": {
     "score": 318,

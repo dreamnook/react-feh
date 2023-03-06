@@ -545,6 +545,14 @@
     "icon": "skillB/Escape_Route_3.png",
     "last": true
   },
+  "Escape Route 4": {
+    "id": "Escape Route 4",
+    "name": "脫離路線4",
+    "sp": 300,
+    "prev": ["Escape Route 3"],
+    "icon": "skillB/Escape_Route_4.png",
+    "last": true
+  },
   "Vantage 1": {
     "id": "Vantage 1",
     "name": "埋伏1",
@@ -2219,6 +2227,15 @@
     "prev": ["Firestorm Dance 1"],
     "rules": "not.white-staff",
     "icon": "skillB/Firestorm_Dance_2.png",
+    "last": true
+  },
+  "Firestorm Dance 3": {
+    "id": "Firestorm Dance 3",
+    "name": "業火疾風之舞3",
+    "sp": 300,
+    "prev": ["Firestorm Dance 2"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Firestorm_Dance_3.png",
     "last": true
   },
   "Caldera Dance 1": {

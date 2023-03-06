@@ -1786,6 +1786,30 @@
       "Spd/Res Rein 3": 5
     }
   },
+  "Triandra - Sunlit Nightmare": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Nightmare's Egg": 5
+    },
+    "assist": {
+      "Dance": 4,
+      "Frightful Dream": 5
+    },
+    "skillB": {
+      "Blaze Dance 1": 2,
+      "Firestorm Dance 1": 3,
+      "Firestorm Dance 2": 4,
+      "Firestorm Dance 3": 5
+    },
+    "skillC": {
+      "Def/Res Rein 1": 2,
+      "Def/Res Rein 2": 3,
+      "Def/Res Rein 3": 4,
+      "Def/Res Hold": 5
+    }
+  },
   "Freyja - Lady of Nightmare": {
     "weapon": {
       "Whelp (Cavalry)": 1,
@@ -3079,6 +3103,25 @@
       "Threaten Def 1": 1,
       "Threaten Def 2": 2,
       "Threaten Def 3": 4
+    }
+  },
+  "Michalis - Fruiting Ambition": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Hare's Lance": 3,
+      "Hare's Lance+": 5
+    },
+    "assist": {
+      "Swap": 4
+    },
+    "skillA": {
+      "Iote's Shield": 4
+    },
+    "skillB": {
+      "Atk/Spd Snag 1": 1,
+      "Atk/Spd Snag 2": 2,
+      "Atk/Spd Snag 3": 3
     }
   },
   "Minerva - Red Dragoon": {
@@ -10292,6 +10335,35 @@
       "Odd Tempest 1": 3,
       "Odd Tempest 2": 4,
       "Odd Tempest 3": 5
+    }
+  },
+  "Karla - Spring Reveries": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Sisterly War Axe": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Clash 4": 5
+    },
+    "skillB": {
+      "Flow N Trace 1": 1,
+      "Flow N Trace 2": 2,
+      "Flow N Trace 3": 4
+    },
+    "skillC": {
+      "Spd Smoke 1": 2,
+      "Spd Smoke 2": 3,
+      "Spd Smoke 3": 4,
+      "Spd Smoke 4": 5
     }
   },
   "Guy - Kutolah Blade": {
@@ -20691,6 +20763,36 @@
       "Rouse Atk/Spd 3": 4
     }
   },
+  "Bernadetta - Late Hibernator": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Bow of Repose": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Remote Sparrow": 5
+    },
+    "skillB": {
+      "Escape Route 1": 2,
+      "Escape Route 2": 3,
+      "Escape Route 3": 4,
+      "Escape Route 4": 5
+    },
+    "skillC": {
+      "Def Smoke 1": 2,
+      "Def Smoke 2": 3,
+      "Def Smoke 3": 4,
+      "Def/Res Smoke 3": 5
+    }
+  },
   "Dorothea - Solar Songstress": {
     "weapon": {
       "Iron Dagger": 1,
@@ -20990,6 +21092,29 @@
       "Hone Spd 2": 3,
       "Hone Spd 3": 4,
       "Joint Hone Spd": 5
+    }
+  },
+  "Ashe - Budding Chivalry": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Bunny's Egg": 3,
+      "Bunny's Egg+": 5
+    },
+    "assist": {
+      "Rally Speed": 4,
+      "Rally Up Spd": 4,
+      "Rally Up Spd+": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 1,
+      "Atk/Spd Catch 2": 2,
+      "Atk/Spd Catch 3": 4
+    },
+    "skillC": {
+      "Atk/Spd Rein 1": 3,
+      "Atk/Spd Rein 2": 4,
+      "Atk/Spd Rein 3": 5
     }
   },
   "Sylvain - Hanging with Tens": {

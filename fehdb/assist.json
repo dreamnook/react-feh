@@ -119,6 +119,7 @@
       "Lachesis - Ballroom Bloom",
       "Plumeria - Lewd Dream",
       "Triandra - Nightmare",
+      "Triandra - Sunlit Nightmare",
       "Peony - Álfar Dream Duo",
       "Plumeria - Temptation Anew",
       "Dorothea - Twilit Harmony",
@@ -172,7 +173,7 @@
     "sp": 400,
     "range": 1,
     "prev": ["Dance"],
-    "exclusive": ["Triandra - Nightmare"],
+    "exclusive": ["Triandra - Nightmare", "Triandra - Sunlit Nightmare"],
     "last": true
   },
   "Maiden's Solace": {
