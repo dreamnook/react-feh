@@ -1881,6 +1881,30 @@
       "icon": "skillA/Atk_Res_Ideal_3.png",
       "last": true
     },
+    "Spd/Def Ideal 1": {
+      "id": "Spd/Def Ideal 1",
+      "name": "速度防守萬全1",
+      "sp": 60,
+      "rules": "learner.ideal",
+      "icon": "skillA/Spd_Def_Ideal_1.png"
+    },
+    "Spd/Def Ideal 2": {
+      "id": "Spd/Def Ideal 2",
+      "name": "速度防守萬全2",
+      "sp": 120,
+      "prev": ["Spd/Def Ideal 1"],
+      "rules": "learner.ideal",
+      "icon": "skillA/Spd_Def_Ideal_2.png"
+    },
+    "Spd/Def Ideal 3": {
+      "id": "Spd/Def Ideal 3",
+      "name": "速度防守萬全3",
+      "sp": 240,
+      "prev": ["Spd/Def Ideal 2"],
+      "rules": "learner.ideal",
+      "icon": "skillA/Spd_Def_Ideal_3.png",
+      "last": true
+    },
     "Def/Res Ideal 1": {
       "id": "Def/Res Ideal 1",
       "name": "防守魔防萬全1",
@@ -3691,6 +3715,30 @@
       "icon": "skillC/Rouse_Atk_Def_3.png",
       "last": true
     },
+    "Atk/Spd Oath 1": {
+      "id": "Atk/Spd Oath 1",
+      "name": "攻擊速度的信義1",
+      "sp": 60,
+      "rules": "learner.oath-skills",
+      "icon": "skillC/Atk_Spd_Oath_1.png"
+    },
+    "Atk/Spd Oath 2": {
+      "id": "Atk/Spd Oath 2",
+      "name": "攻擊速度的信義2",
+      "sp": 120,
+      "prev": ["Atk/Spd Oath 1"],
+      "rules": "learner.oath-skills",
+      "icon": "skillC/Atk_Spd_Oath_2.png"
+    },
+    "Atk/Spd Oath 3": {
+      "id": "Atk/Spd Oath 3",
+      "name": "攻擊速度的信義3",
+      "sp": 240,
+      "prev": ["Atk/Spd Oath 2"],
+      "rules": "learner.oath-skills",
+      "icon": "skillC/Atk_Spd_Oath_3.png",
+      "last": true
+    },
     "Atk/Res Oath 1": {
       "id": "Atk/Res Oath 1",
       "name": "攻擊魔防的信義1",
@@ -5421,6 +5469,24 @@
       "res": 2,
       "prev": ["Squad Ace BO 1"],
       "icon": "seal/Squad_Ace_Atk_Res_2.png",
+      "last": true
+    },
+    "Squad Ace BP 1": {
+      "id": "Squad Ace BP 1",
+      "name": "第６８迷宮的霸王1",
+      "sp": 100,
+      "spd": 1,
+      "def": 1,
+      "icon": "seal/Squad_Ace_Spd_Def_1.png"
+    },
+    "Squad Ace BP 2": {
+      "id": "Squad Ace BP 2",
+      "name": "第６８迷宮的霸王2",
+      "sp": 200,
+      "spd": 2,
+      "def": 2,
+      "prev": ["Squad Ace BP 1"],
+      "icon": "seal/Squad_Ace_Spd_Def_2.png",
       "last": true
     }
   }
