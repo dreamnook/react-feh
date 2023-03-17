@@ -20862,6 +20862,144 @@
     "ver": "6.9",
     "df": 5
   },
+  "Tana - Soaring Princess": {
+    "id": "Tana - Soaring Princess",
+    "title": "飛向未來的公主",
+    "name": "塔娜",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-bow",
+    "rearmed": true,
+    "pool": "special",
+    "releaseDate": "2023-03-17",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [44, 47, 51],
+        "def": [19, 22, 25],
+        "res": [20, 23, 27]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 8,
+        "def": 5,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
+  },
+  "Syrene - Graceful Rider": {
+    "id": "Syrene - Graceful Rider",
+    "title": "秀麗的綠翼",
+    "name": "席琳妮",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-03-17",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [35, 39, 42],
+        "spd": [42, 45, 49],
+        "def": [18, 21, 24],
+        "res": [38, 41, 45]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 6,
+        "spd": 15,
+        "def": 6,
+        "res": 11
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
+  },
+  "Vanessa - Dutiful Rider": {
+    "id": "Vanessa - Dutiful Rider",
+    "title": "堅強的綠翼",
+    "name": "凡妮莎",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "releaseDate": "2023-03-17",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [37, 40, 43],
+        "spd": [40, 43, 47],
+        "def": [23, 27, 30],
+        "res": [31, 34, 37]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 13,
+        "def": 5,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
+  },
+  "Gilliam - Wall of Silence": {
+    "id": "Gilliam - Wall of Silence",
+    "title": "寂靜的重壁",
+    "name": "吉利安姆",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-lance",
+    "releaseDate": "2023-03-17",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [44, 47, 50],
+        "atk": [41, 44, 48],
+        "spd": [18, 21, 24],
+        "def": [45, 48, 51],
+        "res": [32, 35, 38]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 14,
+        "spd": 4,
+        "def": 13,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": [],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
+  },
   "Lyon - Shadow Prince": {
     "id": "Lyon - Shadow Prince",
     "title": "影之皇子",
@@ -21056,6 +21194,69 @@
     "book": 6,
     "ver": "6.7",
     "df": 10
+  },
+  "Vigarde - Silent Emperor": {
+    "id": "Vigarde - Silent Emperor",
+    "title": "泰然之帝",
+    "name": "維爾加多",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2023-03-17",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "3": {
+        "hp": [39, 42, 45],
+        "atk": [39, 42, 45],
+        "spd": [23, 26, 29],
+        "def": [37, 40, 43],
+        "res": [22, 25, 28]
+      },
+      "4": {
+        "hp": [40, 43, 46],
+        "atk": [42, 45, 48],
+        "spd": [24, 27, 30],
+        "def": [39, 42, 46],
+        "res": [23, 26, 29]
+      },
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [44, 47, 50],
+        "spd": [26, 30, 33],
+        "def": [41, 44, 48],
+        "res": [26, 29, 32]
+      },
+      "3-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 7,
+        "def": 13,
+        "res": 4
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 7,
+        "def": 14,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 12,
+        "spd": 8,
+        "def": 14,
+        "res": 5
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["spd"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
   },
   "Duessel - Obsidian": {
     "id": "Duessel - Obsidian",

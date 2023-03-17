@@ -429,6 +429,14 @@
     "last": true,
     "icon": "skillB/New_Divinity.png"
   },
+  "Soaring Wings": {
+    "id": "Soaring Wings",
+    "name": "翱翔天際的羽翼",
+    "sp": 300,
+    "exclusive": ["Tana - Soaring Princess"],
+    "last": true,
+    "icon": "skillB/Soaring_Wings.png"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -715,6 +723,15 @@
     "prev": ["Vengeful Fighter 2"],
     "rules": "armored",
     "icon": "skillB/Vengeful_Fighter_3.png",
+    "last": true
+  },
+  "Vengeful Fighter 4": {
+    "id": "Vengeful Fighter 4",
+    "name": "迎擊隊形4",
+    "sp": 300,
+    "prev": ["Vengeful Fighter 3"],
+    "rules": "armored",
+    "icon": "skillB/Vengeful_Fighter_4.png",
     "last": true
   },
   "Special Fighter 1": {

@@ -3440,6 +3440,39 @@
     "icon": "skillA/Spd_Def_Catch_4.png",
     "last": true
   },
+  "Spd/Res Catch 1": {
+    "id": "Spd/Res Catch 1",
+    "name": "速度魔防的先機1",
+    "sp": 60,
+    "rules": "learner.catch",
+    "icon": "skillA/Spd_Res_Catch_1.png"
+  },
+  "Spd/Res Catch 2": {
+    "id": "Spd/Res Catch 2",
+    "name": "速度魔防的先機2",
+    "sp": 120,
+    "prev": ["Spd/Res Catch 1"],
+    "rules": "learner.catch",
+    "icon": "skillA/Spd_Res_Catch_2.png"
+  },
+  "Spd/Res Catch 3": {
+    "id": "Spd/Res Catch 3",
+    "name": "速度魔防的先機3",
+    "sp": 240,
+    "prev": ["Spd/Res Catch 2"],
+    "rules": "learner.catch",
+    "icon": "skillA/Spd_Res_Catch_3.png",
+    "last": true
+  },
+  "Spd/Res Catch 4": {
+    "id": "Spd/Res Catch 4",
+    "name": "速度魔防的先機4",
+    "sp": 300,
+    "prev": ["Spd/Res Catch 3"],
+    "rules": "learner.catch",
+    "icon": "skillA/Spd_Res_Catch_4.png",
+    "last": true
+  },
   "Def/Res Catch 1": {
     "id": "Def/Res Catch 1",
     "name": "防守魔防的先機1",

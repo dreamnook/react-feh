@@ -2337,6 +2337,15 @@
     "icon": "skillC/Guidance_3.png",
     "last": true
   },
+  "Guidance 4": {
+    "id": "Guidance 4",
+    "name": "空中前導4",
+    "sp": 300,
+    "prev": ["Guidance 3"],
+    "rules": "flying",
+    "icon": "skillC/Guidance_4.png",
+    "last": true
+  },
   "Flier Guidance 1": {
     "id": "Flier Guidance 1",
     "name": "飛行前導1",

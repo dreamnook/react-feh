@@ -510,10 +510,24 @@
         "sp": 300,
         "refine": 350
       },
+      "Up-Front Lance+": {
+        "pool": { "#": { "5": ["Vanessa - Dutiful Rider"] } },
+        "id": "Up-Front Lance+",
+        "name": "堂堂正正之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Defier's Lance+": {
         "pool": { "grail": { "5": ["Cervantes - Invincible General"] } },
         "id": "Defier's Lance+",
         "name": "防守逆用之槍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Protection Pike+": {
+        "pool": { "special": { "5": ["Vigarde - Silent Emperor"] } },
+        "id": "Protection Pike+",
+        "name": "守護之槍+",
         "sp": 300,
         "refine": 350
       },
@@ -1034,6 +1048,13 @@
       }
     },
     "bow": {
+      "Arcane Náströnd": {
+        "pool": { "special": { "5": ["Tana - Soaring Princess"] } },
+        "id": "Arcane Náströnd",
+        "name": "魔器納斯特隆德",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Bow+": {
         "pool": {
           "#": { "3": ["Rebecca - Wildflower", "Virion - Elite Archer"] }
@@ -3334,6 +3355,7 @@
             "Shez - Rising Mercenary",
             "Hugh - Worldly Mage",
             "Neimi - Tearful Archer",
+            "Syrene - Graceful Rider",
             "Ishtar - Thunder Goddess",
             "Tsubasa - Madcap Idol",
             "Nino - Pale Flower",
@@ -3423,6 +3445,7 @@
             "Zelgius - Jet-Black General",
             "Ced - Hero on the Wind",
             "Sirius - Mysterious Knight",
+            "Vanessa - Dutiful Rider",
             "Lucina - Future Witness",
             "Nyx - Rulebreaker Mage",
             "Mareeta - The Blade's Pawn",
@@ -3605,7 +3628,8 @@
             "Delthea - Prodigy in Bloom",
             "Nino - Spirited Sorcerer",
             "Shinon - Sharptongue Ninja",
-            "Camilla - Midnight Bloom"
+            "Camilla - Midnight Bloom",
+            "Tana - Soaring Princess"
           ]
         },
         "duo": {
@@ -3627,7 +3651,9 @@
       "pool": {
         "#": { "5": ["Shinon - Scathing Archer"] },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
-        "special": { "5": ["Shinon - Sharptongue Ninja"] },
+        "special": {
+          "5": ["Shinon - Sharptongue Ninja", "Tana - Soaring Princess"]
+        },
         "duo": { "5": ["Chrom - Fate-Defying Duo"] }
       },
       "id": "Deadeye",
@@ -3872,6 +3898,7 @@
         },
         "mythic": { "5": ["Dagr - Sun's Radiance", "Nótt - Moon's Elegance"] },
         "special": {
+          "4": ["Vigarde - Silent Emperor"],
           "5": [
             "Corrin - Novice Vacationer",
             "Ephraim - Sparkling Gallantly",
@@ -3924,6 +3951,7 @@
             "Zeke - Past Unknown",
             "Gustav - Sovereign Slain",
             "Idunn - Divine Demon",
+            "Gilliam - Wall of Silence",
             "Owain - Chosen One"
           ]
         },
@@ -5427,7 +5455,11 @@
       "pool": {
         "#": {
           "3": ["Altena - Luminous Rider"],
-          "5": ["Dedue - Dimitri's Vassal", "Idunn - Divine Demon"]
+          "5": [
+            "Dedue - Dimitri's Vassal",
+            "Idunn - Divine Demon",
+            "Gilliam - Wall of Silence"
+          ]
         },
         "grail": {
           "4": ["Dorcas - Pumpkin Smasher", "Ludveck - Rebellious Duke"]
@@ -5445,7 +5477,13 @@
     },
     "Sturdy Stance 3": {
       "pool": {
-        "#": { "5": ["Dedue - Dimitri's Vassal", "Idunn - Divine Demon"] },
+        "#": {
+          "5": [
+            "Dedue - Dimitri's Vassal",
+            "Idunn - Divine Demon",
+            "Gilliam - Wall of Silence"
+          ]
+        },
         "special": {
           "5": ["Dheginsea - Harvest Goldoan", "Robin - Fall Reincarnation"]
         },
@@ -6143,7 +6181,8 @@
             "Tharja - Obsessive Bride",
             "Lyn - Wind's Embrace",
             "Fjorm - New Traditions",
-            "Hinoka - Relaxed Warrior"
+            "Hinoka - Relaxed Warrior",
+            "Tana - Soaring Princess"
           ]
         },
         "duo": { "5": ["Peony - Álfar Dream Duo"] },
@@ -6308,6 +6347,7 @@
     "Atk/Spd Unity": {
       "pool": {
         "#": { "5": ["Marianne - Serene Adherent"] },
+        "special": { "5": ["Tana - Soaring Princess"] },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
       },
       "id": "Atk/Spd Unity",
@@ -7245,7 +7285,13 @@
     },
     "Atk/Res Catch 3": {
       "pool": {
-        "#": { "5": ["Hapi - Drawn-Out Sigh", "Letizia - Curse Director"] },
+        "#": {
+          "5": [
+            "Vanessa - Dutiful Rider",
+            "Hapi - Drawn-Out Sigh",
+            "Letizia - Curse Director"
+          ]
+        },
         "special": {
           "4": ["Naga - Harvest Divinity"],
           "5": ["Micaiah - Wavecrest Maiden"]
@@ -7284,6 +7330,20 @@
       "name": "速度防守的先機4",
       "sp": 300,
       "icon": "skillA/Spd_Def_Catch_4.png"
+    },
+    "Spd/Res Catch 3": {
+      "pool": { "#": { "5": ["Syrene - Graceful Rider"] } },
+      "id": "Spd/Res Catch 3",
+      "name": "速度魔防的先機3",
+      "sp": 240,
+      "icon": "skillA/Spd_Res_Catch_3.png"
+    },
+    "Spd/Res Catch 4": {
+      "pool": { "#": { "5": ["Syrene - Graceful Rider"] } },
+      "id": "Spd/Res Catch 4",
+      "name": "速度魔防的先機4",
+      "sp": 300,
+      "icon": "skillA/Spd_Res_Catch_4.png"
     },
     "Def/Res Catch 3": {
       "pool": { "special": { "5": ["Freyr - Estival Dreams"] } },
@@ -7422,7 +7482,9 @@
       "pool": {
         "grail": { "5": ["Lissa - Sweet Celebrant"] },
         "mythic": { "5": ["Medeus - Earth-Dragon King"] },
-        "special": { "5": ["Surtr - Pirate of Red Sky"] }
+        "special": {
+          "5": ["Vigarde - Silent Emperor", "Surtr - Pirate of Red Sky"]
+        }
       },
       "id": "Def/Res Ideal 3",
       "name": "防守魔防萬全3",
@@ -7851,6 +7913,7 @@
           "5": ["Dorcas - Pumpkin Smasher", "Flame Emperor - Bringer of War"]
         },
         "special": {
+          "4": ["Vigarde - Silent Emperor"],
           "5": [
             "Lukas - Buffet for One",
             "Chrom - Gifted Leader",
@@ -7902,7 +7965,8 @@
             "Robin - Fell Reincarnation",
             "Mamori - Microwavin' Idol",
             "Idunn - Dark Priestess",
-            "Caineghis - Gallia's Lion King"
+            "Caineghis - Gallia's Lion King",
+            "Gilliam - Wall of Silence"
           ]
         },
         "grail": { "5": ["Ludveck - Rebellious Duke"] },
@@ -7921,6 +7985,13 @@
       "name": "迎擊隊形3",
       "sp": 240,
       "icon": "skillB/Vengeful_Fighter_3.png"
+    },
+    "Vengeful Fighter 4": {
+      "pool": { "#": { "5": ["Gilliam - Wall of Silence"] } },
+      "id": "Vengeful Fighter 4",
+      "name": "迎擊隊形4",
+      "sp": 300,
+      "icon": "skillB/Vengeful_Fighter_4.png"
     },
     "Special Fighter 3": {
       "pool": {
@@ -8778,7 +8849,11 @@
       "pool": {
         "#": {
           "3": ["Phila - Pegasus Master"],
-          "5": ["Fiora - Airborne Warrior", "Chloé - Fairy-Tale Flier"]
+          "5": [
+            "Fiora - Airborne Warrior",
+            "Syrene - Graceful Rider",
+            "Chloé - Fairy-Tale Flier"
+          ]
         }
       },
       "id": "Pegasus Flight 3",
@@ -8787,7 +8862,9 @@
       "icon": "skillB/Pegasus_Flight_3.png"
     },
     "Pegasus Flight 4": {
-      "pool": { "#": { "5": ["Chloé - Fairy-Tale Flier"] } },
+      "pool": {
+        "#": { "5": ["Syrene - Graceful Rider", "Chloé - Fairy-Tale Flier"] }
+      },
       "id": "Pegasus Flight 4",
       "name": "天馬行空4",
       "sp": 300,
@@ -11576,7 +11653,7 @@
     },
     "A/D Near Save 2": {
       "pool": {
-        "#": { "5": ["Dedue - Dimitri's Vassal"] },
+        "#": { "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"] },
         "special": { "5": ["Lucina - Future Fondness"] }
       },
       "id": "A/D Near Save 2",
@@ -11586,7 +11663,7 @@
     },
     "A/D Near Save 3": {
       "pool": {
-        "#": { "5": ["Dedue - Dimitri's Vassal"] },
+        "#": { "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"] },
         "special": { "5": ["Lucina - Future Fondness"] }
       },
       "id": "A/D Near Save 3",
@@ -11708,12 +11785,20 @@
       "pool": {
         "#": { "5": ["Tana - Winged Princess", "Olivia - Sky-High Dancer"] },
         "grail": { "5": ["Larum - Dancing Bride"] },
-        "legendary": { "5": ["Ryoma - Supreme Samurai"] }
+        "legendary": { "5": ["Ryoma - Supreme Samurai"] },
+        "special": { "5": ["Tana - Soaring Princess"] }
       },
       "id": "Guidance 3",
       "name": "空中前導3",
       "sp": 240,
       "icon": "skillC/Guidance_3.png"
+    },
+    "Guidance 4": {
+      "pool": { "special": { "5": ["Tana - Soaring Princess"] } },
+      "id": "Guidance 4",
+      "name": "空中前導4",
+      "sp": 300,
+      "icon": "skillC/Guidance_4.png"
     },
     "Flier Guidance 3": {
       "pool": {
@@ -12212,7 +12297,7 @@
     },
     "Spd/Res Oath 3": {
       "pool": {
-        "#": { "5": ["Asbel - Windswept Youth"] },
+        "#": { "5": ["Vanessa - Dutiful Rider", "Asbel - Windswept Youth"] },
         "grail": { "5": ["Díthorba - Cutting Knight"] }
       },
       "id": "Spd/Res Oath 3",

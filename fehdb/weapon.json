@@ -2659,6 +2659,16 @@
       "exclusive": ["Lucia - Tireless Advisor"],
       "last": true
     },
+    "Frelian Blade": {
+      "id": "Frelian Blade",
+      "name": "弗萊利亞的麗劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Syrene - Graceful Rider"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -5872,6 +5882,16 @@
       "exclusive": ["Geoffrey - Realm's Protector"],
       "last": true
     },
+    "Frelian Lance": {
+      "id": "Frelian Lance",
+      "name": "弗萊利亞的重槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Gilliam - Wall of Silence"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -6568,6 +6588,39 @@
       },
       "last": true
     },
+    "Up-Front Lance": {
+      "id": "Up-Front Lance",
+      "name": "堂堂正正之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Up-Front Lance+": {
+      "id": "Up-Front Lance+",
+      "name": "堂堂正正之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Up-Front Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Defier's Lance": {
       "id": "Defier's Lance",
       "name": "防守逆用之槍",
@@ -6581,6 +6634,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Defier's Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Protection Pike": {
+      "id": "Protection Pike",
+      "name": "守護之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Protection Pike+": {
+      "id": "Protection Pike+",
+      "name": "守護之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Protection Pike"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -11400,6 +11486,34 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Bernadetta - Late Hibernator"],
+      "last": true
+    },
+    "Arcane Náströnd": {
+      "id": "Arcane Náströnd",
+      "name": "魔器納斯特隆德",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Iron Bow": {
