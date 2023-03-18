@@ -525,7 +525,7 @@
         "refine": 350
       },
       "Protection Pike+": {
-        "pool": { "special": { "5": ["Vigarde - Silent Emperor"] } },
+        "pool": { "grail": { "5": ["Vigarde - Silent Emperor"] } },
         "id": "Protection Pike+",
         "name": "守護之槍+",
         "sp": 300,
@@ -3885,7 +3885,8 @@
             "Brigand Boss - Known Criminal",
             "Muarim - Raw Instinct",
             "Hans - Ambitious Brute",
-            "Lumera - Dragon Monarch"
+            "Lumera - Dragon Monarch",
+            "Vigarde - Silent Emperor"
           ]
         },
         "legendary": {
@@ -3898,7 +3899,6 @@
         },
         "mythic": { "5": ["Dagr - Sun's Radiance", "Nótt - Moon's Elegance"] },
         "special": {
-          "4": ["Vigarde - Silent Emperor"],
           "5": [
             "Corrin - Novice Vacationer",
             "Ephraim - Sparkling Gallantly",
@@ -7480,11 +7480,11 @@
     },
     "Def/Res Ideal 3": {
       "pool": {
-        "grail": { "5": ["Lissa - Sweet Celebrant"] },
+        "grail": {
+          "5": ["Lissa - Sweet Celebrant", "Vigarde - Silent Emperor"]
+        },
         "mythic": { "5": ["Medeus - Earth-Dragon King"] },
-        "special": {
-          "5": ["Vigarde - Silent Emperor", "Surtr - Pirate of Red Sky"]
-        }
+        "special": { "5": ["Surtr - Pirate of Red Sky"] }
       },
       "id": "Def/Res Ideal 3",
       "name": "防守魔防萬全3",
@@ -7909,11 +7909,14 @@
           "5": ["Surtr - Ruler of Flame"]
         },
         "grail": {
-          "4": ["Zephiel - The Liberator", "Cervantes - Invincible General"],
+          "4": [
+            "Zephiel - The Liberator",
+            "Cervantes - Invincible General",
+            "Vigarde - Silent Emperor"
+          ],
           "5": ["Dorcas - Pumpkin Smasher", "Flame Emperor - Bringer of War"]
         },
         "special": {
-          "4": ["Vigarde - Silent Emperor"],
           "5": [
             "Lukas - Buffet for One",
             "Chrom - Gifted Leader",

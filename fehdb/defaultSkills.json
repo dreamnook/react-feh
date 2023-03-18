@@ -11726,6 +11726,28 @@
       "A/D Near Save 3": 4
     }
   },
+  "Vigarde - Silent Emperor": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Protection Pike": 4,
+      "Protection Pike+": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Def/Res Ideal 1": 3,
+      "Def/Res Ideal 2": 4,
+      "Def/Res Ideal 3": 5
+    },
+    "skillB": {
+      "Wary Fighter 1": 1,
+      "Wary Fighter 2": 2,
+      "Wary Fighter 3": 4
+    }
+  },
   "Lyon - Shadow Prince": {
     "weapon": {
       "Flux": 1,
@@ -11817,28 +11839,6 @@
       "Lull Atk/Def 1": 3,
       "Lull Atk/Def 2": 4,
       "Lull Atk/Def 3": 5
-    }
-  },
-  "Vigarde - Silent Emperor": {
-    "weapon": {
-      "Iron Lance": 1,
-      "Steel Lance": 2,
-      "Protection Pike": 4,
-      "Protection Pike+": 5
-    },
-    "special": {
-      "Dragon Gaze": 4,
-      "Dragon Fang": 4
-    },
-    "skillA": {
-      "Def/Res Ideal 1": 3,
-      "Def/Res Ideal 2": 4,
-      "Def/Res Ideal 3": 5
-    },
-    "skillB": {
-      "Wary Fighter 1": 1,
-      "Wary Fighter 2": 2,
-      "Wary Fighter 3": 4
     }
   },
   "Duessel - Obsidian": {

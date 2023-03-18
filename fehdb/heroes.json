@@ -21000,6 +21000,69 @@
     "ver": "7.3",
     "df": 5
   },
+  "Vigarde - Silent Emperor": {
+    "id": "Vigarde - Silent Emperor",
+    "title": "泰然之帝",
+    "name": "維爾加多",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-lance",
+    "pool": "grail",
+    "releaseDate": "2023-03-17",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "3": {
+        "hp": [39, 42, 45],
+        "atk": [39, 42, 45],
+        "spd": [23, 26, 29],
+        "def": [37, 40, 43],
+        "res": [22, 25, 28]
+      },
+      "4": {
+        "hp": [40, 43, 46],
+        "atk": [42, 45, 48],
+        "spd": [24, 27, 30],
+        "def": [39, 42, 46],
+        "res": [23, 26, 29]
+      },
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [44, 47, 50],
+        "spd": [26, 30, 33],
+        "def": [41, 44, 48],
+        "res": [26, 29, 32]
+      },
+      "3-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 7,
+        "def": 13,
+        "res": 4
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 7,
+        "def": 14,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 12,
+        "spd": 8,
+        "def": 14,
+        "res": 5
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["spd"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
+  },
   "Lyon - Shadow Prince": {
     "id": "Lyon - Shadow Prince",
     "title": "影之皇子",
@@ -21194,69 +21257,6 @@
     "book": 6,
     "ver": "6.7",
     "df": 10
-  },
-  "Vigarde - Silent Emperor": {
-    "id": "Vigarde - Silent Emperor",
-    "title": "泰然之帝",
-    "name": "維爾加多",
-    "rarity": [5, 4, 3],
-    "colorType": "blue",
-    "moveType": "armored",
-    "weaponType": "blue-lance",
-    "pool": "special",
-    "releaseDate": "2023-03-17",
-    "appearsIn": ["The Sacred Stones"],
-    "stats": {
-      "3": {
-        "hp": [39, 42, 45],
-        "atk": [39, 42, 45],
-        "spd": [23, 26, 29],
-        "def": [37, 40, 43],
-        "res": [22, 25, 28]
-      },
-      "4": {
-        "hp": [40, 43, 46],
-        "atk": [42, 45, 48],
-        "spd": [24, 27, 30],
-        "def": [39, 42, 46],
-        "res": [23, 26, 29]
-      },
-      "5": {
-        "hp": [43, 46, 49],
-        "atk": [44, 47, 50],
-        "spd": [26, 30, 33],
-        "def": [41, 44, 48],
-        "res": [26, 29, 32]
-      },
-      "3-1": {
-        "hp": 19,
-        "atk": 11,
-        "spd": 7,
-        "def": 13,
-        "res": 4
-      },
-      "4-1": {
-        "hp": 19,
-        "atk": 12,
-        "spd": 7,
-        "def": 14,
-        "res": 4
-      },
-      "5-1": {
-        "hp": 20,
-        "atk": 12,
-        "spd": 8,
-        "def": 14,
-        "res": 5
-      }
-    },
-    "assets": ["def"],
-    "flaws": ["spd"],
-    "statMin": 196,
-    "statMax": 200,
-    "book": 7,
-    "ver": "7.3",
-    "df": 5
   },
   "Duessel - Obsidian": {
     "id": "Duessel - Obsidian",

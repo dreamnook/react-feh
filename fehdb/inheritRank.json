@@ -3482,19 +3482,6 @@
     "skillA": { "Spd/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Geyser Dance 2": { "sp": 240, "rarity": 5 } }
   },
-  "Vigarde - Silent Emperor": {
-    "score": 211,
-    "scoreTotal": 489,
-    "poolRarity": 3,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 150,
-    "bst": 196,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Def/Res Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
-  },
   "Reinhardt - Thunder's Fist": {
     "score": 249,
     "scoreTotal": 495,
@@ -7368,6 +7355,19 @@
     "bst": 195,
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Vigarde - Silent Emperor": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 196,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Def/Res Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
   },
   "Micaiah - Summer's Dawn": {
