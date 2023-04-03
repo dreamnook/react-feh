@@ -188,7 +188,7 @@
   "Foul Play": {
     "id": "Foul Play",
     "name": "把戲",
-    "sp": 150,
+    "sp": 400,
     "range": 1,
     "prev": ["Swap"],
     "exclusive": ["Yuri - Ashen Valiant", "Yuri - Underground Lord"],
