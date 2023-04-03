@@ -20871,7 +20871,6 @@
     "moveType": "flying",
     "weaponType": "white-bow",
     "rearmed": true,
-    "pool": "special",
     "releaseDate": "2023-03-17",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
@@ -20936,19 +20935,33 @@
     "id": "Vanessa - Dutiful Rider",
     "title": "堅強的綠翼",
     "name": "凡妮莎",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "flying",
     "weaponType": "blue-lance",
     "releaseDate": "2023-03-17",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
+      "4": {
+        "hp": [33, 36, 39],
+        "atk": [35, 38, 41],
+        "spd": [38, 41, 45],
+        "def": [21, 24, 27],
+        "res": [28, 31, 34]
+      },
       "5": {
         "hp": [35, 39, 42],
         "atk": [37, 40, 43],
         "spd": [40, 43, 47],
         "def": [23, 27, 30],
         "res": [31, 34, 37]
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 13,
+        "def": 4,
+        "res": 5
       },
       "5-1": {
         "hp": 17,
@@ -38296,7 +38309,7 @@
     "id": "Ashe - Budding Chivalry",
     "title": "春色的騎士精神",
     "name": "亞修",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "flying",
     "weaponType": "red-dagger",
@@ -38304,12 +38317,26 @@
     "releaseDate": "2023-03-07",
     "appearsIn": ["Three Houses"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [38, 41, 45],
+        "spd": [41, 44, 47],
+        "def": [26, 29, 32],
+        "res": [12, 15, 18]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [40, 43, 47],
         "spd": [43, 46, 49],
         "def": [29, 32, 35],
         "res": [13, 17, 20]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 11,
+        "def": 3,
+        "res": 3
       },
       "5-1": {
         "hp": 18,

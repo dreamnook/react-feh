@@ -2178,6 +2178,19 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ashe - Budding Chivalry": {
+    "score": 196,
+    "scoreTotal": 400,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 300,
+    "bst": 178,
+    "assist": { "Rally Up Spd+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Naga - Harvest Divinity": {
     "score": 196,
     "scoreTotal": 400,
@@ -2273,6 +2286,18 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
     "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Vanessa - Dutiful Rider": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 183,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd/Res Oath 3": { "sp": 240, "rarity": 4 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -5335,18 +5360,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Vanessa - Dutiful Rider": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 183,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Spd/Res Oath 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -9303,19 +9316,6 @@
     "skillA": { "AR-D Atk/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
   },
-  "Ashe - Budding Chivalry": {
-    "score": 424,
-    "scoreTotal": 933,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 400,
-    "spTotal": 880,
-    "feather": 1000,
-    "bst": 178,
-    "assist": { "Rally Up Spd+": { "sp": 400, "rarity": 5 } },
-    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
-  },
   "Mist - Purest Spirit": {
     "score": 424,
     "scoreTotal": 933,
@@ -11107,6 +11107,18 @@
     "skillB": { "Vengeful Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Near Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Tana - Soaring Princess": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 177,
+    "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Guidance 4": { "sp": 300, "rarity": 5 } }
+  },
   "Severa - Bitter Blossom": {
     "score": 318,
     "scoreTotal": 1102,
@@ -11440,19 +11452,6 @@
     "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk Smoke 4": { "sp": 300, "rarity": 5 } }
-  },
-  "Tana - Soaring Princess": {
-    "score": 530,
-    "scoreTotal": 1166,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 500,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 177,
-    "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
-    "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Guidance 4": { "sp": 300, "rarity": 5 } }
   },
   "Ophelia - Dramatic Heroine": {
     "score": 400,

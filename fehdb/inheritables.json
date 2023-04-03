@@ -511,7 +511,7 @@
         "refine": 350
       },
       "Up-Front Lance+": {
-        "pool": { "#": { "5": ["Vanessa - Dutiful Rider"] } },
+        "pool": { "#": { "4": ["Vanessa - Dutiful Rider"] } },
         "id": "Up-Front Lance+",
         "name": "堂堂正正之槍+",
         "sp": 300,
@@ -1049,7 +1049,7 @@
     },
     "bow": {
       "Arcane Náströnd": {
-        "pool": { "special": { "5": ["Tana - Soaring Princess"] } },
+        "pool": { "#": { "5": ["Tana - Soaring Princess"] } },
         "id": "Arcane Náströnd",
         "name": "魔器納斯特隆德",
         "sp": 300,
@@ -3117,7 +3117,7 @@
       "pool": {
         "#": { "5": ["Azelle - Youthful Flame"] },
         "grail": { "4": ["Seth - Silver-Sea Knight"] },
-        "special": { "5": ["Ashe - Budding Chivalry"] },
+        "special": { "4": ["Ashe - Budding Chivalry"] },
         "harmonized": { "5": ["Tiki - Harmonic Hope"] }
       },
       "id": "Rally Up Spd",
@@ -3438,6 +3438,7 @@
             "Kamui - Wandering Blade",
             "Kiragi - Upbeat Archer"
           ],
+          "4": ["Vanessa - Dutiful Rider"],
           "5": [
             "Celica - Imprisoned Soul",
             "Mia - Lady of Blades",
@@ -3445,7 +3446,6 @@
             "Zelgius - Jet-Black General",
             "Ced - Hero on the Wind",
             "Sirius - Mysterious Knight",
-            "Vanessa - Dutiful Rider",
             "Lucina - Future Witness",
             "Nyx - Rulebreaker Mage",
             "Mareeta - The Blade's Pawn",
@@ -3592,6 +3592,7 @@
             "Joshua - Resolute Tempest",
             "Corrin - Bloodbound Beast",
             "Morgan - Devoted Darkness",
+            "Tana - Soaring Princess",
             "Shinon - Scathing Archer"
           ]
         },
@@ -3628,8 +3629,7 @@
             "Delthea - Prodigy in Bloom",
             "Nino - Spirited Sorcerer",
             "Shinon - Sharptongue Ninja",
-            "Camilla - Midnight Bloom",
-            "Tana - Soaring Princess"
+            "Camilla - Midnight Bloom"
           ]
         },
         "duo": {
@@ -3649,11 +3649,9 @@
     },
     "Deadeye": {
       "pool": {
-        "#": { "5": ["Shinon - Scathing Archer"] },
+        "#": { "5": ["Tana - Soaring Princess", "Shinon - Scathing Archer"] },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
-        "special": {
-          "5": ["Shinon - Sharptongue Ninja", "Tana - Soaring Princess"]
-        },
+        "special": { "5": ["Shinon - Sharptongue Ninja"] },
         "duo": { "5": ["Chrom - Fate-Defying Duo"] }
       },
       "id": "Deadeye",
@@ -6167,6 +6165,7 @@
             "Lilith - Astral Daughter",
             "Marianne - Serene Adherent",
             "Corrin - Dream Princess",
+            "Tana - Soaring Princess",
             "Catria - Mild Middle Sister"
           ]
         },
@@ -6181,8 +6180,7 @@
             "Tharja - Obsessive Bride",
             "Lyn - Wind's Embrace",
             "Fjorm - New Traditions",
-            "Hinoka - Relaxed Warrior",
-            "Tana - Soaring Princess"
+            "Hinoka - Relaxed Warrior"
           ]
         },
         "duo": { "5": ["Peony - Álfar Dream Duo"] },
@@ -6346,8 +6344,7 @@
     },
     "Atk/Spd Unity": {
       "pool": {
-        "#": { "5": ["Marianne - Serene Adherent"] },
-        "special": { "5": ["Tana - Soaring Princess"] },
+        "#": { "5": ["Marianne - Serene Adherent", "Tana - Soaring Princess"] },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
       },
       "id": "Atk/Spd Unity",
@@ -7193,11 +7190,10 @@
           ]
         },
         "special": {
-          "4": ["Lyre - Lap Cat of Luxury"],
+          "4": ["Ashe - Budding Chivalry", "Lyre - Lap Cat of Luxury"],
           "5": [
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
-            "Ashe - Budding Chivalry",
             "Delthea - Prodigy in Bloom"
           ]
         },
@@ -7286,11 +7282,8 @@
     "Atk/Res Catch 3": {
       "pool": {
         "#": {
-          "5": [
-            "Vanessa - Dutiful Rider",
-            "Hapi - Drawn-Out Sigh",
-            "Letizia - Curse Director"
-          ]
+          "4": ["Vanessa - Dutiful Rider"],
+          "5": ["Hapi - Drawn-Out Sigh", "Letizia - Curse Director"]
         },
         "special": {
           "4": ["Naga - Harvest Divinity"],
@@ -11786,10 +11779,15 @@
     },
     "Guidance 3": {
       "pool": {
-        "#": { "5": ["Tana - Winged Princess", "Olivia - Sky-High Dancer"] },
+        "#": {
+          "5": [
+            "Tana - Winged Princess",
+            "Olivia - Sky-High Dancer",
+            "Tana - Soaring Princess"
+          ]
+        },
         "grail": { "5": ["Larum - Dancing Bride"] },
-        "legendary": { "5": ["Ryoma - Supreme Samurai"] },
-        "special": { "5": ["Tana - Soaring Princess"] }
+        "legendary": { "5": ["Ryoma - Supreme Samurai"] }
       },
       "id": "Guidance 3",
       "name": "空中前導3",
@@ -11797,7 +11795,7 @@
       "icon": "skillC/Guidance_3.png"
     },
     "Guidance 4": {
-      "pool": { "special": { "5": ["Tana - Soaring Princess"] } },
+      "pool": { "#": { "5": ["Tana - Soaring Princess"] } },
       "id": "Guidance 4",
       "name": "空中前導4",
       "sp": 300,
@@ -12300,7 +12298,10 @@
     },
     "Spd/Res Oath 3": {
       "pool": {
-        "#": { "5": ["Vanessa - Dutiful Rider", "Asbel - Windswept Youth"] },
+        "#": {
+          "4": ["Vanessa - Dutiful Rider"],
+          "5": ["Asbel - Windswept Youth"]
+        },
         "grail": { "5": ["Díthorba - Cutting Knight"] }
       },
       "id": "Spd/Res Oath 3",
