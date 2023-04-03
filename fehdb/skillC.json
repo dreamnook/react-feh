@@ -338,6 +338,14 @@
     "last": true,
     "icon": "skillC/Future-Focused.png"
   },
+  "Fetters of Dromi": {
+    "id": "Fetters of Dromi",
+    "name": "多羅米的鎖環",
+    "sp": 300,
+    "exclusive": ["Yuri - Underground Lord"],
+    "last": true,
+    "icon": "skillC/Fetters_of_Dromi.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

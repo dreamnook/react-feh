@@ -191,7 +191,7 @@
     "sp": 150,
     "range": 1,
     "prev": ["Swap"],
-    "exclusive": ["Yuri - Ashen Valiant"],
+    "exclusive": ["Yuri - Ashen Valiant", "Yuri - Underground Lord"],
     "last": true
   },
   "Call to Flame": {

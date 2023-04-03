@@ -5764,6 +5764,19 @@
     "skillA": { "Fury 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
   },
+  "Yuri - Underground Lord": {
+    "score": 276,
+    "scoreTotal": 690,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 750,
+    "feather": 1000,
+    "bst": 200,
+    "assist": { "Swap": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Hexblade": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Seal Spd 4": { "sp": 300, "rarity": 5 } }
+  },
   "Micaiah - Queen of Dawn": {
     "score": 300,
     "scoreTotal": 690,

@@ -21870,6 +21870,33 @@
       "Time's Pulse 3": 4
     }
   },
+  "Yuri - Underground Lord": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 4,
+      "Abyssal Blade": 5
+    },
+    "assist": {
+      "Swap": 4,
+      "Foul Play": 5
+    },
+    "skillA": {
+      "Sorcery Blade 1": 2,
+      "Sorcery Blade 2": 3,
+      "Sorcery Blade 3": 4,
+      "Atk/Spd Hexblade": 5
+    },
+    "skillB": {
+      "Seal Spd 1": 2,
+      "Seal Spd 2": 3,
+      "Seal Spd 3": 4,
+      "Seal Spd 4": 5
+    },
+    "skillC": {
+      "Fetters of Dromi": 5
+    }
+  },
   "Balthus - King of Grappling": {
     "weapon": {
       "Iron Axe": 1,

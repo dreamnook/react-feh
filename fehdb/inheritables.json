@@ -2678,7 +2678,9 @@
             "Itsuki - Finding a Path"
           ]
         },
-        "legendary": { "5": ["Lucina - Glorious Archer"] },
+        "legendary": {
+          "5": ["Yuri - Underground Lord", "Lucina - Glorious Archer"]
+        },
         "special": {
           "4": ["Lute - Summer Prodigy", "Kaden - Refreshed Kitsune"],
           "5": [
@@ -6972,11 +6974,21 @@
       "icon": "skillA/C_Duel_Flying_4.png"
     },
     "Sorcery Blade 3": {
-      "pool": { "#": { "5": ["Ylgr - Fresh Snowfall"] } },
+      "pool": {
+        "#": { "5": ["Ylgr - Fresh Snowfall"] },
+        "legendary": { "5": ["Yuri - Underground Lord"] }
+      },
       "id": "Sorcery Blade 3",
       "name": "魔道之刃3",
       "sp": 240,
       "icon": "skillA/Sorcery_Blade_3.png"
+    },
+    "Atk/Spd Hexblade": {
+      "pool": { "legendary": { "5": ["Yuri - Underground Lord"] } },
+      "id": "Atk/Spd Hexblade",
+      "name": "攻擊速度的魔刃",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Hexblade.png"
     },
     "Bonus Doubler 3": {
       "pool": {
@@ -8191,7 +8203,9 @@
       "pool": {
         "#": { "3": ["Est - Junior Whitewing", "Virion - Elite Archer"] },
         "grail": { "5": ["Tobin - The Clueless One"] },
-        "legendary": { "5": ["Shez - Sharpest Blades"] }
+        "legendary": {
+          "5": ["Yuri - Underground Lord", "Shez - Sharpest Blades"]
+        }
       },
       "id": "Seal Spd 3",
       "name": "速度封印3",
@@ -8199,7 +8213,11 @@
       "icon": "skillB/Seal_Spd_3.png"
     },
     "Seal Spd 4": {
-      "pool": { "legendary": { "5": ["Shez - Sharpest Blades"] } },
+      "pool": {
+        "legendary": {
+          "5": ["Yuri - Underground Lord", "Shez - Sharpest Blades"]
+        }
+      },
       "id": "Seal Spd 4",
       "name": "速度封印4",
       "sp": 300,

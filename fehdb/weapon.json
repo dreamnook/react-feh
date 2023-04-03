@@ -13554,6 +13554,16 @@
       "exclusive": ["Shez - Sharpest Blades"],
       "last": true
     },
+    "Abyssal Blade": {
+      "id": "Abyssal Blade",
+      "name": "幽暗之王的刃",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Yuri - Underground Lord"],
+      "last": true
+    },
     "Iron Dagger": {
       "id": "Iron Dagger",
       "name": "鐵暗器",

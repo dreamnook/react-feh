@@ -39362,6 +39362,44 @@
     "ver": "5.9",
     "df": 10
   },
+  "Yuri - Underground Lord": {
+    "id": "Yuri - Underground Lord",
+    "title": "幽暗統治者",
+    "name": "尤里斯",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-dagger",
+    "bst": 200,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "wind-atk-2",
+    "releaseDate": "2023-03-31",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [41, 44, 48],
+        "spd": [44, 47, 51],
+        "def": [21, 24, 27],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 14,
+        "spd": 8,
+        "def": 7,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.3",
+    "df": 5
+  },
   "Balthus - King of Grappling": {
     "id": "Balthus - King of Grappling",
     "title": "雷斯塔格鬥王",
