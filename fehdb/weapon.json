@@ -5892,6 +5892,37 @@
       "exclusive": ["Gilliam - Wall of Silence"],
       "last": true
     },
+    "Masked Lance": {
+      "id": "Masked Lance",
+      "name": "覆面騎士之槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Conrad - Masked Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Masked_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -8050,6 +8081,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Edelgard - The Future"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Victorious_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Beruka's Axe": {
@@ -17937,6 +17991,28 @@
       "sp": 400,
       "prev": ["Shine"],
       "exclusive": ["Alfonse - Askran Duo"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Imbued_Koma_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Father's Tactics": {
@@ -21340,6 +21416,21 @@
       "exclusive": ["Elincia - Devoted Queen"],
       "last": true
     },
+    "Staff of Lilies": {
+      "id": "Staff of Lilies",
+      "name": "白百合之杖",
+      "mt": 14,
+      "sp": 400,
+      "prev": ["Melancholy+"],
+      "exclusive": ["Silque - Adherent of Mila"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Staff_of_Lilies_W"
+        }
+      },
+      "last": true
+    },
     "Assault": {
       "id": "Assault",
       "name": "襲擊",
@@ -21567,8 +21658,7 @@
           "name": "幻惑",
           "icon": "Dazzling_Staff_W"
         }
-      },
-      "last": true
+      }
     },
     "Respite": {
       "id": "Respite",
@@ -22991,6 +23081,37 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Tiki - Awakened Blood"],
+      "last": true
+    },
+    "Wizened Breath": {
+      "id": "Wizened Breath",
+      "name": "老練吐息",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Bantu - Tiki's Guardian"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Wizened_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Grima": {

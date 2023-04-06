@@ -2285,13 +2285,6 @@
         "sp": 300,
         "refine": 350
       },
-      "Melancholy+": {
-        "pool": { "#": { "5": ["Silque - Adherent of Mila"] } },
-        "id": "Melancholy+",
-        "name": "憂鬱+",
-        "sp": 300,
-        "refine": 350
-      },
       "Respite+": {
         "pool": { "#": { "3": ["Nyna - The Last Princess"] } },
         "id": "Respite+",

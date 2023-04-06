@@ -4005,7 +4005,8 @@
       "Fire Breath": 1,
       "Fire Breath+": 3,
       "Dark Breath": 4,
-      "Dark Breath+": 5
+      "Dark Breath+": 5,
+      "Wizened Breath": 5
     },
     "special": {
       "Dragon Gaze": 4,
@@ -4609,7 +4610,8 @@
     "weapon": {
       "Assault": 1,
       "Melancholy": 3,
-      "Melancholy+": 5
+      "Melancholy+": 5,
+      "Staff of Lilies": 5
     },
     "assist": {
       "Heal": 1,
@@ -5456,7 +5458,8 @@
       "Iron Lance": 1,
       "Steel Lance": 3,
       "Barrier Lance": 4,
-      "Barrier Lance+": 5
+      "Barrier Lance+": 5,
+      "Masked Lance": 5
     },
     "special": {
       "Chilling Wind": 4,
