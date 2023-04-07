@@ -239,6 +239,10 @@
   "learner.ideal": {
     "moveType": 3
   },
+  "learner.clash": {
+    "moveType": 13,
+    "weaponType": 16711687
+  },
   "learner.wrath": {
     "weaponType": 16711687,
     "moveType": 3
@@ -297,8 +301,8 @@
     "moveType": 15,
     "weaponType": 65527
   },
-  "learner.clash": {
-    "moveType": 13,
-    "weaponType": 16711687
+  "learner.armored-beacon": {
+    "weaponType": 16777207,
+    "moveType": 2
   }
 }

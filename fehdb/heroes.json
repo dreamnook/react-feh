@@ -16541,6 +16541,42 @@
     "ver": "6.1",
     "df": 10
   },
+  "Mark - Winds of Hope": {
+    "id": "Mark - Winds of Hope",
+    "title": "呼喚希望的風",
+    "name": "馬克",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "bst": 200,
+    "pool": "duo",
+    "releaseDate": "2023-04-07",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [24, 27, 30],
+        "def": [17, 20, 23],
+        "res": [43, 46, 49]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 3,
+        "def": 5,
+        "res": 11
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
+  },
   "Eliwood - Knight of Lycia": {
     "id": "Eliwood - Knight of Lycia",
     "title": "呂基亞第一的騎士",
@@ -16723,6 +16759,41 @@
     "book": 3,
     "ver": "3.8",
     "df": 20
+  },
+  "Eliwood - Pledged Friend": {
+    "id": "Eliwood - Pledged Friend",
+    "title": "與好友的約定",
+    "name": "艾利烏德",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2023-04-07",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [42, 45, 49],
+        "spd": [42, 46, 49],
+        "def": [26, 29, 32],
+        "res": [17, 20, 23]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 15,
+        "spd": 13,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
   },
   "Lyn - Lady of the Plains": {
     "id": "Lyn - Lady of the Plains",
@@ -17181,6 +17252,41 @@
     "ver": "3.10",
     "df": 20
   },
+  "Hector - Sworn Friend": {
+    "id": "Hector - Sworn Friend",
+    "title": "與好友的誓約",
+    "name": "海克托爾",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "armored",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2023-04-07",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [44, 47, 50],
+        "atk": [42, 45, 48],
+        "spd": [12, 16, 19],
+        "def": [43, 47, 50],
+        "res": [38, 41, 45]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 10,
+        "spd": 3,
+        "def": 14,
+        "res": 11
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["spd", "def"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
+  },
   "Matthew - Faithful Spy": {
     "id": "Matthew - Faithful Spy",
     "title": "義賊",
@@ -17594,6 +17700,55 @@
     "ver": "1.1",
     "df": 25
   },
+  "Lucius - Calming Light": {
+    "id": "Lucius - Calming Light",
+    "title": "潛藏的光",
+    "name": "魯賽亞",
+    "rarity": [5, 4],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-staff",
+    "pool": "grail",
+    "releaseDate": "2023-04-07",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [39, 43, 46],
+        "spd": [25, 28, 31],
+        "def": [12, 15, 18],
+        "res": [42, 45, 48]
+      },
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [41, 45, 48],
+        "spd": [28, 31, 34],
+        "def": [13, 17, 20],
+        "res": [44, 47, 50]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 12,
+        "spd": 6,
+        "def": 3,
+        "res": 12
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 7,
+        "def": 4,
+        "res": 12
+      }
+    },
+    "assets": [],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
+  },
   "Rebecca - Wildflower": {
     "id": "Rebecca - Wildflower",
     "title": "樸實的野花",
@@ -17655,6 +17810,41 @@
     "book": 1,
     "ver": "1.1",
     "df": 25
+  },
+  "Rebecca - Breezy Scamp": {
+    "id": "Rebecca - Breezy Scamp",
+    "title": "爽朗的笑容",
+    "name": "蕾貝卡",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-bow",
+    "pool": "special",
+    "releaseDate": "2023-04-07",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [40, 44, 47],
+        "spd": [41, 45, 48],
+        "def": [19, 22, 26],
+        "res": [30, 33, 36]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 12,
+        "def": 3,
+        "res": 9
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["hp", "atk", "spd"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
   },
   "Pent - Fancy Fiancé": {
     "id": "Pent - Fancy Fiancé",

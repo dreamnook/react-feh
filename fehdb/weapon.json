@@ -2669,6 +2669,16 @@
       "exclusive": ["Syrene - Graceful Rider"],
       "last": true
     },
+    "Fiery War Sword": {
+      "id": "Fiery War Sword",
+      "name": "戰神的烈劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Eliwood - Pledged Friend"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -8947,6 +8957,16 @@
       "exclusive": ["Karla - Spring Reveries"],
       "last": true
     },
+    "Valiant War Axe": {
+      "id": "Valiant War Axe",
+      "name": "戰神的勇斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Hector - Sworn Friend"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -11540,6 +11560,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Bernadetta - Late Hibernator"],
+      "last": true
+    },
+    "Gusty War Bow": {
+      "id": "Gusty War Bow",
+      "name": "戰神的風弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Rebecca - Breezy Scamp"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -18296,6 +18326,16 @@
       "exclusive": ["Takumi - Troubled Heart"],
       "last": true
     },
+    "Total War Tome": {
+      "id": "Total War Tome",
+      "name": "戰神的破界戰記",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Mark - Winds of Hope"],
+      "last": true
+    },
     "Thunder": {
       "id": "Thunder",
       "name": "雷電",
@@ -21429,6 +21469,16 @@
           "icon": "Staff_of_Lilies_W"
         }
       },
+      "last": true
+    },
+    "Mystic War Staff": {
+      "id": "Mystic War Staff",
+      "name": "戰神的天杖",
+      "mt": 14,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Lucius - Calming Light"],
       "last": true
     },
     "Assault": {

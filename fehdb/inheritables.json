@@ -2566,7 +2566,11 @@
           "5": ["Maribelle - Dire Damsel", "Mikoto - Caring Mother"]
         },
         "grail": {
-          "5": ["Silque - Selfless Cleric", "Lissa - Sweet Celebrant"]
+          "5": [
+            "Silque - Selfless Cleric",
+            "Lucius - Calming Light",
+            "Lissa - Sweet Celebrant"
+          ]
         },
         "special": { "5": ["Bruno - Masked Hare"] }
       },
@@ -3391,6 +3395,7 @@
             "Tiki - Beachside Scion",
             "Takumi - Prince of Soup",
             "Micaiah - Wavecrest Maiden",
+            "Rebecca - Breezy Scamp",
             "Nailah - Blessed Queen",
             "Navarre - Scarlet Ninja",
             "Caeda - Princess of Talys",
@@ -3498,6 +3503,7 @@
           "5": [
             "Elm - Resolute Grouch",
             "Igrene - Ninja of Nabata",
+            "Eliwood - Pledged Friend",
             "Nailah - Hatari Scorcher",
             "Eirika - Beach Restorer",
             "Ryoma - Samurai at Ease",
@@ -3977,7 +3983,8 @@
             "Myrrh - Spooky Monster",
             "Rudolf - Emperor of Rigel",
             "Surtr - Pirate of Red Sky",
-            "Ash - Earnest Greetings"
+            "Ash - Earnest Greetings",
+            "Hector - Sworn Friend"
           ]
         },
         "duo": {
@@ -4043,6 +4050,12 @@
       "id": "Ignis",
       "name": "華炎",
       "sp": 200
+    },
+    "Armored Beacon": {
+      "pool": { "special": { "5": ["Hector - Sworn Friend"] } },
+      "id": "Armored Beacon",
+      "name": "重裝之聖炎",
+      "sp": 500
     },
     "Blue Flame": {
       "pool": {
@@ -4113,7 +4126,7 @@
             "Henriette - Overflowing Love"
           ]
         },
-        "duo": { "5": ["Idunn - Dragonkin Duo"] },
+        "duo": { "5": ["Idunn - Dragonkin Duo", "Mark - Winds of Hope"] },
         "harmonized": { "5": ["Altina - Cross-Time Duo"] }
       },
       "id": "Iceberg",
@@ -4431,6 +4444,7 @@
             "Silque - Selfless Cleric",
             "Rhys - Gentle Basker",
             "Nanna - Mystletainn Scion",
+            "Lucius - Calming Light",
             "Lissa - Sweet Celebrant"
           ]
         },
@@ -5236,7 +5250,7 @@
             "Laevatein - Bonfire's Blaze"
           ]
         },
-        "duo": { "5": ["Palla - Sisterly Trio"] }
+        "duo": { "5": ["Palla - Sisterly Trio", "Mark - Winds of Hope"] }
       },
       "id": "Mirror Strike 2",
       "name": "鬼神明鏡擊2",
@@ -5356,7 +5370,10 @@
       "icon": "skillA/Remote_Sparrow.png"
     },
     "Remote Mirror": {
-      "pool": { "special": { "5": ["Leo - Shrouded Heart"] } },
+      "pool": {
+        "special": { "5": ["Leo - Shrouded Heart"] },
+        "duo": { "5": ["Mark - Winds of Hope"] }
+      },
       "id": "Remote Mirror",
       "name": "鬼神明鏡離擊",
       "sp": 300,
@@ -7430,7 +7447,13 @@
     "Atk/Res Ideal 3": {
       "pool": {
         "#": { "3": ["Elice - Altean Princess"] },
-        "grail": { "5": ["Riev - Blood Beryl", "Hilda - Queen of Friege"] },
+        "grail": {
+          "5": [
+            "Lucius - Calming Light",
+            "Riev - Blood Beryl",
+            "Hilda - Queen of Friege"
+          ]
+        },
         "mythic": { "5": ["Ashera - Order Goddess"] },
         "special": { "4": ["Annette - Festive Helper"] }
       },
@@ -7578,9 +7601,29 @@
       "sp": 300,
       "icon": "skillA/Atk_Def_Clash_4.png"
     },
+    "Spd/Def Clash 3": {
+      "pool": { "special": { "5": ["Eliwood - Pledged Friend"] } },
+      "id": "Spd/Def Clash 3",
+      "name": "速度防守的激戰3",
+      "sp": 240,
+      "icon": "skillA/Spd_Def_Clash_3.png"
+    },
+    "Spd/Def Clash 4": {
+      "pool": { "special": { "5": ["Eliwood - Pledged Friend"] } },
+      "id": "Spd/Def Clash 4",
+      "name": "速度防守的激戰4",
+      "sp": 300,
+      "icon": "skillA/Spd_Def_Clash_4.png"
+    },
     "Atk/Spd Finish 3": {
       "pool": {
-        "special": { "5": ["Nino - Spirited Sorcerer", "Corrin - Starry Seer"] }
+        "special": {
+          "5": [
+            "Rebecca - Breezy Scamp",
+            "Nino - Spirited Sorcerer",
+            "Corrin - Starry Seer"
+          ]
+        }
       },
       "id": "Atk/Spd Finish 3",
       "name": "攻擊速度的奧秘3",
@@ -7977,7 +8020,8 @@
             "Zephiel - Winter's Crown",
             "Myrrh - Spooky Monster",
             "Tharja - 'Normal Girl'",
-            "Fae - Holiday Dear"
+            "Fae - Holiday Dear",
+            "Hector - Sworn Friend"
           ]
         },
         "duo": { "5": ["Idunn - Dragonkin Duo"] }
@@ -7988,7 +8032,10 @@
       "icon": "skillB/Vengeful_Fighter_3.png"
     },
     "Vengeful Fighter 4": {
-      "pool": { "#": { "5": ["Gilliam - Wall of Silence"] } },
+      "pool": {
+        "#": { "5": ["Gilliam - Wall of Silence"] },
+        "special": { "5": ["Hector - Sworn Friend"] }
+      },
       "id": "Vengeful Fighter 4",
       "name": "迎擊隊形4",
       "sp": 300,
@@ -8533,12 +8580,20 @@
         "#": { "4": ["Bastian - Crimea's Keystone"] },
         "grail": { "5": ["Sophia - Cobweb Prophet", "Solon - Church Shadow"] },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
-        "mythic": { "5": ["Yune - Chaos Goddess"] }
+        "mythic": { "5": ["Yune - Chaos Goddess"] },
+        "duo": { "5": ["Mark - Winds of Hope"] }
       },
       "id": "Sabotage Res 3",
       "name": "魔防擾亂3",
       "sp": 240,
       "icon": "skillB/Sabotage_Res_3.png"
+    },
+    "Sabotage A/R 3": {
+      "pool": { "duo": { "5": ["Mark - Winds of Hope"] } },
+      "id": "Sabotage A/R 3",
+      "name": "攻擊魔防擾亂3",
+      "sp": 300,
+      "icon": "skillB/Sabotage_A_R_3.png"
     },
     "Sudden Panic 3": {
       "pool": {
@@ -9363,7 +9418,9 @@
         },
         "grail": { "5": ["Lumera - Dragon Monarch"] },
         "legendary": { "5": ["Alm - Saint-King"] },
-        "special": { "5": ["Velouria - Renewed Wolfpup"] },
+        "special": {
+          "5": ["Rebecca - Breezy Scamp", "Velouria - Renewed Wolfpup"]
+        },
         "duo": { "5": ["Eirika - Twin Refulgence"] }
       },
       "id": "Null Follow-Up 3",
@@ -9711,6 +9768,7 @@
         "#": { "5": ["Chrom - Fated Honor"] },
         "special": {
           "5": [
+            "Eliwood - Pledged Friend",
             "Tana - Frelian Starlight",
             "Naesala - Sea's Shadow",
             "Ashe - Fabled Sea Knight"
@@ -10327,6 +10385,7 @@
         },
         "grail": {
           "4": [
+            "Lucius - Calming Light",
             "Innes - Frelian Moonlight",
             "Kronya - Gleaming Blade",
             "Jeralt - Blade Breaker"
@@ -11769,7 +11828,11 @@
     "D/R Far Save 2": {
       "pool": {
         "special": {
-          "5": ["Artur - Silver Saint", "Black Knight - The Night's Blade"]
+          "5": [
+            "Artur - Silver Saint",
+            "Black Knight - The Night's Blade",
+            "Hector - Sworn Friend"
+          ]
         }
       },
       "id": "D/R Far Save 2",
@@ -11780,7 +11843,11 @@
     "D/R Far Save 3": {
       "pool": {
         "special": {
-          "5": ["Artur - Silver Saint", "Black Knight - The Night's Blade"]
+          "5": [
+            "Artur - Silver Saint",
+            "Black Knight - The Night's Blade",
+            "Hector - Sworn Friend"
+          ]
         }
       },
       "id": "D/R Far Save 3",
@@ -12430,7 +12497,8 @@
       "pool": {
         "#": { "5": ["Céline - Joyous Royal"] },
         "legendary": { "5": ["Robin - Exalt's Other Half"] },
-        "mythic": { "5": ["Medeus - Earth-Dragon King"] }
+        "mythic": { "5": ["Medeus - Earth-Dragon King"] },
+        "duo": { "5": ["Mark - Winds of Hope"] }
       },
       "id": "Canto Control 3",
       "name": "再移動限制3",

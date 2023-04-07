@@ -9238,6 +9238,35 @@
       "Holy Ground": 5
     }
   },
+  "Mark - Winds of Hope": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 3,
+      "Total War Tome": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Warding Blow 1": 2,
+      "Mirror Strike 1": 3,
+      "Mirror Strike 2": 4,
+      "Remote Mirror": 5
+    },
+    "skillB": {
+      "Sabotage Res 1": 2,
+      "Sabotage Res 2": 3,
+      "Sabotage Res 3": 4,
+      "Sabotage A/R 3": 5
+    },
+    "skillC": {
+      "Canto Control 1": 1,
+      "Canto Control 2": 2,
+      "Canto Control 3": 4
+    }
+  },
   "Eliwood - Knight of Lycia": {
     "weapon": {
       "Iron Sword": 1,
@@ -9340,6 +9369,32 @@
       "Spd Opening 1": 1,
       "Spd Opening 2": 2,
       "Spd Opening 3": 4
+    }
+  },
+  "Eliwood - Pledged Friend": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Fiery War Sword": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Spd/Def Clash 1": 2,
+      "Spd/Def Clash 2": 3,
+      "Spd/Def Clash 3": 4,
+      "Spd/Def Clash 4": 5
+    },
+    "skillB": {
+      "S/D Near Trace 1": 1,
+      "S/D Near Trace 2": 2,
+      "S/D Near Trace 3": 4
+    },
+    "skillC": {
+      "Inborn Idealism": 5
     }
   },
   "Lyn - Lady of the Plains": {
@@ -9667,6 +9722,33 @@
       "Hone Armor": 4
     }
   },
+  "Hector - Sworn Friend": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Valiant War Axe": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Bonfire": 4,
+      "Armored Beacon": 5
+    },
+    "skillA": {
+      "Ostia's Heart": 5
+    },
+    "skillB": {
+      "Vengeful Fighter 1": 2,
+      "Vengeful Fighter 2": 3,
+      "Vengeful Fighter 3": 4,
+      "Vengeful Fighter 4": 5
+    },
+    "skillC": {
+      "D/R Far Save 1": 1,
+      "D/R Far Save 2": 2,
+      "D/R Far Save 3": 4
+    }
+  },
   "Matthew - Faithful Spy": {
     "weapon": {
       "Iron Dagger": 1,
@@ -9854,6 +9936,32 @@
       "HP 3": 5
     }
   },
+  "Lucius - Calming Light": {
+    "weapon": {
+      "Assault": 1,
+      "Mystic War Staff": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 2,
+      "Martyr": 3,
+      "Martyr+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Heavenly Light": 3
+    },
+    "skillA": {
+      "Atk/Res Ideal 1": 3,
+      "Atk/Res Ideal 2": 4,
+      "Atk/Res Ideal 3": 5
+    },
+    "skillC": {
+      "Distant Guard 1": 1,
+      "Distant Guard 2": 2,
+      "Distant Guard 3": 4
+    }
+  },
   "Rebecca - Wildflower": {
     "weapon": {
       "Iron Bow": 1,
@@ -9874,6 +9982,28 @@
       "Seal Atk 1": 3,
       "Seal Atk 2": 4,
       "Seal Atk 3": 5
+    }
+  },
+  "Rebecca - Breezy Scamp": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Gusty War Bow": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 3,
+      "Atk/Spd Finish 2": 4,
+      "Atk/Spd Finish 3": 5
+    },
+    "skillB": {
+      "Null Follow-Up 1": 1,
+      "Null Follow-Up 2": 2,
+      "Null Follow-Up 3": 4
     }
   },
   "Pent - Fancy Fiancé": {

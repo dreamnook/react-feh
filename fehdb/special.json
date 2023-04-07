@@ -501,6 +501,15 @@
     "prev": ["Glowing Ember"],
     "last": true
   },
+  "Armored Beacon": {
+    "id": "Armored Beacon",
+    "name": "重裝之聖炎",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Bonfire"],
+    "rules": "learner.armored-beacon",
+    "last": true
+  },
   "Blue Flame": {
     "id": "Blue Flame",
     "name": "青之炎",

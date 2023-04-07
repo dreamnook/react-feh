@@ -737,6 +737,20 @@
     "skillA": { "Spd/Res Form 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk Tactic 3": { "sp": 240, "rarity": 5 } }
   },
+  "Lucius - Calming Light": {
+    "score": 74,
+    "scoreTotal": 188,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 300,
+    "bst": 178,
+    "assist": { "Martyr+": { "sp": 300, "rarity": 5 } },
+    "special": { "Heavenly Light": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 4 } }
+  },
   "Lissa - Sweet Celebrant": {
     "score": 74,
     "scoreTotal": 188,
@@ -6315,6 +6329,19 @@
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
+  "Rebecca - Breezy Scamp": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
   "Elm - Resolute Grouch": {
     "score": 254,
     "scoreTotal": 721,
@@ -7744,6 +7771,19 @@
     "special": { "Sol": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Eliwood - Pledged Friend": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Def Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Artur - Silver Saint": {
     "score": 318,
@@ -11356,6 +11396,20 @@
     "skillB": { "Null C-Disrupt 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
   },
+  "Mark - Winds of Hope": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Remote Mirror": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Sabotage A/R 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
+  },
   "Shinon - Sharptongue Ninja": {
     "score": 530,
     "scoreTotal": 1102,
@@ -11465,6 +11519,19 @@
     "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Hector - Sworn Friend": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 196,
+    "special": { "Armored Beacon": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Vengeful Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "D/R Far Save 3": { "sp": 300, "rarity": 5 } }
   },
   "Ophelia - Dramatic Heroine": {
     "score": 400,

@@ -152,6 +152,14 @@
     "last": true,
     "icon": "skillA/Part_of_the_Plan.png"
   },
+  "Ostia's Heart": {
+    "id": "Ostia's Heart",
+    "name": "奧斯提亞之魂",
+    "sp": 300,
+    "exclusive": ["Hector - Sworn Friend"],
+    "last": true,
+    "icon": "skillA/Ostia's_Heart.png"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -3859,6 +3867,39 @@
     "prev": ["Atk/Def Clash 3"],
     "rules": "learner.clash",
     "icon": "skillA/Atk_Def_Clash_4.png",
+    "last": true
+  },
+  "Spd/Def Clash 1": {
+    "id": "Spd/Def Clash 1",
+    "name": "速度防守的激戰1",
+    "sp": 60,
+    "rules": "learner.clash",
+    "icon": "skillA/Spd_Def_Clash_1.png"
+  },
+  "Spd/Def Clash 2": {
+    "id": "Spd/Def Clash 2",
+    "name": "速度防守的激戰2",
+    "sp": 120,
+    "prev": ["Spd/Def Clash 1"],
+    "rules": "learner.clash",
+    "icon": "skillA/Spd_Def_Clash_2.png"
+  },
+  "Spd/Def Clash 3": {
+    "id": "Spd/Def Clash 3",
+    "name": "速度防守的激戰3",
+    "sp": 240,
+    "prev": ["Spd/Def Clash 2"],
+    "rules": "learner.clash",
+    "icon": "skillA/Spd_Def_Clash_3.png",
+    "last": true
+  },
+  "Spd/Def Clash 4": {
+    "id": "Spd/Def Clash 4",
+    "name": "速度防守的激戰4",
+    "sp": 300,
+    "prev": ["Spd/Def Clash 3"],
+    "rules": "learner.clash",
+    "icon": "skillA/Spd_Def_Clash_4.png",
     "last": true
   },
   "Atk/Spd Finish 1": {

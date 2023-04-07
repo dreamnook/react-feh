@@ -1952,6 +1952,27 @@
       "icon": "skillB/Obstruct_3.png",
       "last": true
     },
+    "Desperation 1": {
+      "id": "Desperation 1",
+      "name": "猛攻1",
+      "sp": 50,
+      "icon": "skillB/Desperation_1.png"
+    },
+    "Desperation 2": {
+      "id": "Desperation 2",
+      "name": "猛攻2",
+      "sp": 100,
+      "prev": ["Desperation 1"],
+      "icon": "skillB/Desperation_2.png"
+    },
+    "Desperation 3": {
+      "id": "Desperation 3",
+      "name": "猛攻3",
+      "sp": 200,
+      "prev": ["Desperation 2"],
+      "icon": "skillB/Desperation_3.png",
+      "last": true
+    },
     "Brash Assault 1": {
       "id": "Brash Assault 1",
       "name": "同歸於盡1",
@@ -3158,6 +3179,21 @@
       "sp": 200,
       "prev": ["Threaten Res 2"],
       "icon": "skillC/Threaten_Res_3.png",
+      "last": true
+    },
+    "Threat. Spd/Res 1": {
+      "id": "Threat. Spd/Res 1",
+      "name": "速度魔防的威嚇1",
+      "sp": 100,
+      "prev": ["Threaten Spd 1", "Threaten Res 1"],
+      "icon": "skillC/Threat._Spd_Res_1.png"
+    },
+    "Threat. Spd/Res 2": {
+      "id": "Threat. Spd/Res 2",
+      "name": "速度魔防的威嚇2",
+      "sp": 200,
+      "prev": ["Threat. Spd/Res 1"],
+      "icon": "skillC/Threat._Spd_Res_2.png",
       "last": true
     },
     "Atk Ploy 1": {
@@ -5487,6 +5523,24 @@
       "def": 2,
       "prev": ["Squad Ace BP 1"],
       "icon": "seal/Squad_Ace_Spd_Def_2.png",
+      "last": true
+    },
+    "Squad Ace BQ 1": {
+      "id": "Squad Ace BQ 1",
+      "name": "第６９迷宮的霸王1",
+      "sp": 100,
+      "spd": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_Spd_Res_1.png"
+    },
+    "Squad Ace BQ 2": {
+      "id": "Squad Ace BQ 2",
+      "name": "第６９迷宮的霸王2",
+      "sp": 200,
+      "spd": 2,
+      "res": 2,
+      "prev": ["Squad Ace BQ 1"],
+      "icon": "seal/Squad_Ace_Spd_Res_2.png",
       "last": true
     }
   }

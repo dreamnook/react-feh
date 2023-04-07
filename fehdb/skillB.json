@@ -1544,6 +1544,14 @@
     "icon": "skillB/Sabotage_Res_3.png",
     "last": true
   },
+  "Sabotage A/R 3": {
+    "id": "Sabotage A/R 3",
+    "name": "攻擊魔防擾亂3",
+    "sp": 300,
+    "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
+    "last": true,
+    "icon": "skillB/Sabotage_A_R_3.png"
+  },
   "Sudden Panic 1": {
     "id": "Sudden Panic 1",
     "name": "恐慌錯亂1",
