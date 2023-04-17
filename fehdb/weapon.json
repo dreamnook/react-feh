@@ -2679,6 +2679,16 @@
       "exclusive": ["Eliwood - Pledged Friend"],
       "last": true
     },
+    "Lone Wolf": {
+      "id": "Lone Wolf",
+      "name": "獨行俠的銳劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Felix - Lone-Wolf Blade"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -5936,6 +5946,34 @@
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
+      "mt": 16,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Arcane Lúin": {
+      "id": "Arcane Lúin",
+      "name": "魔器・魔槍盧恩",
       "mt": 16,
       "rearmed": true,
       "cd": -1,
@@ -9570,6 +9608,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Rein Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Allied Axe": {
+      "id": "Allied Axe",
+      "name": "共鬥之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Allied Axe+": {
+      "id": "Allied Axe+",
+      "name": "共鬥之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Allied Axe"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -21481,6 +21552,16 @@
       "exclusive": ["Lucius - Calming Light"],
       "last": true
     },
+    "Asclepius": {
+      "id": "Asclepius",
+      "name": "阿斯克勒庇俄斯",
+      "mt": 14,
+      "res": 3,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Cornelia - Saint Consumed"],
+      "last": true
+    },
     "Assault": {
       "id": "Assault",
       "name": "襲擊",
@@ -23162,6 +23243,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Revealing Breath": {
+      "id": "Revealing Breath",
+      "name": "福音吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Rhea - Loving Matriarch"],
       "last": true
     },
     "Arcane Grima": {

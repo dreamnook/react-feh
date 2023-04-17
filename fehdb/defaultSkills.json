@@ -20746,6 +20746,27 @@
       "D/R Near Save 3": 4
     }
   },
+  "Rhea - Loving Matriarch": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Revealing Breath": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Atk/Res Scowl 1": 2,
+      "Atk/Res Scowl 2": 3,
+      "Atk/Res Scowl 3": 4,
+      "Atk/Res Scowl 4": 5
+    },
+    "skillB": {
+      "True Dragon Wall": 5
+    }
+  },
   "Edelgard - The Future": {
     "weapon": {
       "Iron Axe": 1,
@@ -21323,6 +21344,36 @@
       "Dull Ranged 3": 4
     }
   },
+  "Felix - Lone-Wolf Blade": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Lone Wolf": 5
+    },
+    "special": {
+      "Buckler": 4,
+      "Escutcheon": 4,
+      "Godlike Reflexes": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Atk/Spd Bulwark 1": 1,
+      "Atk/Spd Bulwark 2": 2,
+      "Atk/Spd Bulwark 3": 4
+    },
+    "skillC": {
+      "Spd Smoke 1": 2,
+      "Spd Smoke 2": 3,
+      "Spd Smoke 3": 4,
+      "Spd Smoke 4": 5
+    }
+  },
   "Ashe - Fabled Sea Knight": {
     "weapon": {
       "Iron Lance": 1,
@@ -21394,6 +21445,28 @@
       "Rouse Atk/Def 1": 3,
       "Rouse Atk/Def 2": 4,
       "Rouse Atk/Def 3": 5
+    }
+  },
+  "Sylvain - Consummate Flirt": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Allied Axe": 4,
+      "Allied Axe+": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Atk/Def Catch 1": 3,
+      "Atk/Def Catch 2": 4,
+      "Atk/Def Catch 3": 5
+    },
+    "skillC": {
+      "Spur Def 1": 1,
+      "Spur Atk/Def 1": 2,
+      "Spur Atk/Def 2": 4
     }
   },
   "Mercedes - Kindly Devotee": {
@@ -21545,6 +21618,33 @@
       "Rouse Atk/Spd 1": 1,
       "Rouse Atk/Spd 2": 2,
       "Rouse Atk/Spd 3": 4
+    }
+  },
+  "Ingrid - Beacon of Honor": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Arcane Lúin": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Knightly Devotion": 5
+    },
+    "skillB": {
+      "Guard Bearing 1": 2,
+      "Guard Bearing 2": 3,
+      "Guard Bearing 3": 4,
+      "Guard Bearing 4": 5
+    },
+    "skillC": {
+      "Spd/Def Rein 1": 2,
+      "Spd/Def Rein 2": 3,
+      "Spd/Def Rein 3": 4,
+      "Spd/Def Hold": 5
     }
   },
   "Claude - The Schemer": {
@@ -22292,6 +22392,32 @@
       "Drive Def 1": 3,
       "Drive Def 2": 4,
       "Joint Drive Def": 5
+    }
+  },
+  "Cornelia - Saint Consumed": {
+    "weapon": {
+      "Assault": 1,
+      "Asclepius": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 3,
+      "Rehabilitate": 4,
+      "Rehabilitate+": 5
+    },
+    "special": {
+      "Imbue": 4,
+      "Miracle": 5
+    },
+    "skillA": {
+      "Atk/Res Solo 1": 1,
+      "Atk/Res Solo 2": 2,
+      "Atk/Res Solo 3": 4
+    },
+    "skillB": {
+      "Sabotage Def 1": 3,
+      "Sabotage Def 2": 4,
+      "Sabotage Def 3": 5
     }
   },
   "Kronya - Gleaming Blade": {

@@ -671,6 +671,20 @@
     "skillA": { "Atk/Res Push 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
   },
+  "Cornelia - Saint Consumed": {
+    "score": 81,
+    "scoreTotal": 168,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 150,
+    "bst": 177,
+    "assist": { "Rehabilitate+": { "sp": 300, "rarity": 5 } },
+    "special": { "Miracle": { "sp": 200, "rarity": 3 } },
+    "skillA": { "Atk/Res Solo 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Sabotage Def 3": { "sp": 240, "rarity": 5 } }
+  },
   "Genny - Endearing Ally": {
     "score": 75,
     "scoreTotal": 173,
@@ -2289,30 +2303,6 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
-  "Bastian - Crimea's Keystone": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 177,
-    "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
-    "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 4 } }
-  },
-  "Vanessa - Dutiful Rider": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 183,
-    "special": { "Luna": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Res Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Spd/Res Oath 3": { "sp": 240, "rarity": 4 } }
-  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -2937,6 +2927,19 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } }
   },
+  "Rebecca - Breezy Scamp": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 183,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 4 } }
+  },
   "Annette - Festive Helper": {
     "score": 196,
     "scoreTotal": 436,
@@ -3311,6 +3314,18 @@
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
   },
+  "Bastian - Crimea's Keystone": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 177,
+    "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
   "Kamui - Wandering Blade": {
     "score": 199,
     "scoreTotal": 461,
@@ -3370,6 +3385,18 @@
     "special": { "Astra": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Vanessa - Dutiful Rider": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 183,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd/Res Oath 3": { "sp": 240, "rarity": 4 } }
   },
   "Phila - Pegasus Master": {
     "score": 199,
@@ -3582,6 +3609,17 @@
     "special": { "Miracle": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Def 2": { "sp": 160, "rarity": 5 } },
     "skillC": { "Goad Cavalry": { "sp": 200, "rarity": 4 } }
+  },
+  "Rhea - Loving Matriarch": {
+    "score": 300,
+    "scoreTotal": 500,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Scowl 4": { "sp": 300, "rarity": 5 } }
   },
   "Eldigan - Lionheart": {
     "score": 300,
@@ -5351,6 +5389,18 @@
     "skillA": { "Brazen Def/Res 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Sylvain - Consummate Flirt": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 5 } }
+  },
   "Mamori - Microwavin' Idol": {
     "score": 240,
     "scoreTotal": 680,
@@ -6328,19 +6378,6 @@
     "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Rebecca - Breezy Scamp": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 183,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
   "Elm - Resolute Grouch": {
     "score": 254,
@@ -8126,6 +8163,18 @@
     "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Hold": { "sp": 300, "rarity": 5 } }
+  },
+  "Ingrid - Beacon of Honor": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Guard Bearing 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Def Hold": { "sp": 300, "rarity": 5 } }
   },
   "Chloé - Fairy-Tale Flier": {
     "score": 300,
@@ -11852,6 +11901,19 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
+  },
+  "Felix - Lone-Wolf Blade": {
+    "score": 500,
+    "scoreTotal": 1340,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1340,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Godlike Reflexes": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Bulwark 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Tibarn - Shipless Pirate": {
     "score": 530,

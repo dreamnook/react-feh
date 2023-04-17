@@ -17815,7 +17815,7 @@
     "id": "Rebecca - Breezy Scamp",
     "title": "爽朗的笑容",
     "name": "蕾貝卡",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-bow",
@@ -17823,12 +17823,26 @@
     "releaseDate": "2023-04-07",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
+      "4": {
+        "hp": [33, 36, 39],
+        "atk": [38, 42, 45],
+        "spd": [39, 43, 46],
+        "def": [17, 20, 23],
+        "res": [27, 30, 33]
+      },
       "5": {
         "hp": [35, 39, 42],
         "atk": [40, 44, 47],
         "spd": [41, 45, 48],
         "def": [19, 22, 26],
         "res": [30, 33, 36]
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 12,
+        "def": 2,
+        "res": 8
       },
       "5-1": {
         "hp": 17,
@@ -21125,13 +21139,20 @@
     "id": "Vanessa - Dutiful Rider",
     "title": "堅強的綠翼",
     "name": "凡妮莎",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "moveType": "flying",
     "weaponType": "blue-lance",
     "releaseDate": "2023-03-17",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
+      "3": {
+        "hp": [32, 35, 38],
+        "atk": [33, 36, 39],
+        "spd": [36, 39, 42],
+        "def": [20, 23, 26],
+        "res": [27, 30, 33]
+      },
       "4": {
         "hp": [33, 36, 39],
         "atk": [35, 38, 41],
@@ -21145,6 +21166,13 @@
         "spd": [40, 43, 47],
         "def": [23, 27, 30],
         "res": [31, 34, 37]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 12,
+        "def": 4,
+        "res": 5
       },
       "4-1": {
         "hp": 16,
@@ -25419,13 +25447,20 @@
     "id": "Bastian - Crimea's Keystone",
     "title": "王國的中樞",
     "name": "尤里西斯",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-tome",
     "releaseDate": "2023-02-17",
     "appearsIn": ["Radiant Dawn"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [36, 39, 42],
+        "spd": [21, 24, 27],
+        "def": [14, 17, 20],
+        "res": [38, 41, 44]
+      },
       "4": {
         "hp": [34, 37, 40],
         "atk": [38, 42, 45],
@@ -25439,6 +25474,13 @@
         "spd": [25, 28, 31],
         "def": [17, 20, 23],
         "res": [42, 45, 49]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 3,
+        "def": 2,
+        "res": 14
       },
       "4-1": {
         "hp": 17,
@@ -37577,6 +37619,40 @@
     "ver": "6.5",
     "df": 10
   },
+  "Rhea - Loving Matriarch": {
+    "id": "Rhea - Loving Matriarch",
+    "title": "純白慈母",
+    "name": "蕾雅",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-dragon",
+    "releaseDate": "2023-04-17",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 44, 47],
+        "spd": [12, 16, 19],
+        "def": [39, 42, 45],
+        "res": [43, 46, 50]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 3,
+        "def": 7,
+        "res": 16
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "atk", "spd"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
+  },
   "Edelgard - The Future": {
     "id": "Edelgard - The Future",
     "title": "黑鷲的繼承者",
@@ -38460,6 +38536,40 @@
     "ver": "5.0",
     "df": 15
   },
+  "Felix - Lone-Wolf Blade": {
+    "id": "Felix - Lone-Wolf Blade",
+    "title": "孤狼之劍",
+    "name": "菲力克斯",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-04-17",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [43, 46, 50],
+        "def": [28, 31, 34],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 16,
+        "def": 7,
+        "res": 3
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
+  },
   "Ashe - Fabled Sea Knight": {
     "id": "Ashe - Fabled Sea Knight",
     "title": "海之騎士的精神文學",
@@ -38592,6 +38702,40 @@
     "book": 4,
     "ver": "4.7",
     "df": 20
+  },
+  "Sylvain - Consummate Flirt": {
+    "id": "Sylvain - Consummate Flirt",
+    "title": "擅長搭訕的",
+    "name": "希爾凡",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "releaseDate": "2023-04-17",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 44, 47],
+        "spd": [32, 35, 38],
+        "def": [34, 37, 41],
+        "res": [20, 23, 27]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 11,
+        "def": 7,
+        "res": 4
+      }
+    },
+    "assets": ["def", "res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
   },
   "Mercedes - Kindly Devotee": {
     "id": "Mercedes - Kindly Devotee",
@@ -38841,6 +38985,41 @@
     "book": 5,
     "ver": "5.3",
     "df": 15
+  },
+  "Ingrid - Beacon of Honor": {
+    "id": "Ingrid - Beacon of Honor",
+    "title": "邁向閃耀的騎士之路",
+    "name": "英谷莉特",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "rearmed": true,
+    "releaseDate": "2023-04-17",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [41, 44, 48],
+        "spd": [43, 47, 50],
+        "def": [27, 30, 33],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 14,
+        "spd": 14,
+        "def": 6,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
   },
   "Claude - The Schemer": {
     "id": "Claude - The Schemer",
@@ -40078,6 +40257,69 @@
     "book": 5,
     "ver": "5.8",
     "df": 10
+  },
+  "Cornelia - Saint Consumed": {
+    "id": "Cornelia - Saint Consumed",
+    "title": "性格大變的聖女",
+    "name": "科爾娜莉亞",
+    "rarity": [5, 4, 3],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-staff",
+    "pool": "grail",
+    "releaseDate": "2023-04-17",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "3": {
+        "hp": [35, 38, 41],
+        "atk": [38, 41, 44],
+        "spd": [17, 20, 23],
+        "def": [19, 22, 25],
+        "res": [33, 36, 39]
+      },
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [41, 44, 47],
+        "spd": [18, 21, 24],
+        "def": [20, 23, 26],
+        "res": [35, 38, 42]
+      },
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [43, 46, 49],
+        "spd": [20, 23, 26],
+        "def": [22, 26, 29],
+        "res": [37, 40, 44]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 7,
+        "def": 3,
+        "res": 9
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 7,
+        "def": 3,
+        "res": 10
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 8,
+        "def": 4,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["def"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
   },
   "Kronya - Gleaming Blade": {
     "id": "Kronya - Gleaming Blade",

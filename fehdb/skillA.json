@@ -160,6 +160,14 @@
     "last": true,
     "icon": "skillA/Ostia's_Heart.png"
   },
+  "Knightly Devotion": {
+    "id": "Knightly Devotion",
+    "name": "忠義之槍",
+    "sp": 300,
+    "exclusive": ["Ingrid - Beacon of Honor"],
+    "last": true,
+    "icon": "skillA/Knightly_Devotion.png"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -4032,6 +4040,39 @@
     "prev": ["Def/Res Finish 3"],
     "rules": "infantry",
     "icon": "skillA/Def_Res_Finish_4.png",
+    "last": true
+  },
+  "Atk/Res Scowl 1": {
+    "id": "Atk/Res Scowl 1",
+    "name": "攻擊魔防的龍眼1",
+    "sp": 60,
+    "rules": "dragon",
+    "icon": "skillA/Atk_Res_Scowl_1.png"
+  },
+  "Atk/Res Scowl 2": {
+    "id": "Atk/Res Scowl 2",
+    "name": "攻擊魔防的龍眼2",
+    "sp": 120,
+    "prev": ["Atk/Res Scowl 1"],
+    "rules": "dragon",
+    "icon": "skillA/Atk_Res_Scowl_2.png"
+  },
+  "Atk/Res Scowl 3": {
+    "id": "Atk/Res Scowl 3",
+    "name": "攻擊魔防的龍眼3",
+    "sp": 240,
+    "prev": ["Atk/Res Scowl 2"],
+    "rules": "dragon",
+    "icon": "skillA/Atk_Res_Scowl_3.png",
+    "last": true
+  },
+  "Atk/Res Scowl 4": {
+    "id": "Atk/Res Scowl 4",
+    "name": "攻擊魔防的龍眼4",
+    "sp": 300,
+    "prev": ["Atk/Res Scowl 3"],
+    "rules": "dragon",
+    "icon": "skillA/Atk_Res_Scowl_4.png",
     "last": true
   }
 }

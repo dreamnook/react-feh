@@ -401,7 +401,7 @@
     "id": "True Dragon Wall",
     "name": "真龍鱗防護障壁",
     "sp": 300,
-    "exclusive": ["Rhea - Immaculate One"],
+    "exclusive": ["Rhea - Immaculate One", "Rhea - Loving Matriarch"],
     "last": true,
     "icon": "skillB/True_Dragon_Wall.png"
   },
@@ -2094,6 +2094,15 @@
     "prev": ["Guard Bearing 2"],
     "rules": "learner.wielderFlying",
     "icon": "skillB/Guard_Bearing_3.png",
+    "last": true
+  },
+  "Guard Bearing 4": {
+    "id": "Guard Bearing 4",
+    "name": "警戒姿態4",
+    "sp": 300,
+    "prev": ["Guard Bearing 3"],
+    "rules": "learner.wielderFlying",
+    "icon": "skillB/Guard_Bearing_4.png",
     "last": true
   },
   "Dive-Bomb 1": {
@@ -3989,6 +3998,30 @@
     "prev": ["Spd/Res Tempo 2"],
     "rules": "infantry",
     "icon": "skillB/Spd_Res_Tempo_3.png",
+    "last": true
+  },
+  "Atk/Spd Bulwark 1": {
+    "id": "Atk/Spd Bulwark 1",
+    "name": "攻擊速度防護屏障1",
+    "sp": 60,
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Atk_Spd_Bulwark_1.png"
+  },
+  "Atk/Spd Bulwark 2": {
+    "id": "Atk/Spd Bulwark 2",
+    "name": "攻擊速度防護屏障2",
+    "sp": 120,
+    "prev": ["Atk/Spd Bulwark 1"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Atk_Spd_Bulwark_2.png"
+  },
+  "Atk/Spd Bulwark 3": {
+    "id": "Atk/Spd Bulwark 3",
+    "name": "攻擊速度防護屏障3",
+    "sp": 240,
+    "prev": ["Atk/Spd Bulwark 2"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Atk_Spd_Bulwark_3.png",
     "last": true
   },
   "Atk/Def Bulwark 1": {

@@ -308,6 +308,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Lúin": {
+        "pool": { "#": { "5": ["Ingrid - Beacon of Honor"] } },
+        "id": "Arcane Lúin",
+        "name": "魔器・魔槍盧恩",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Lance+": {
         "pool": {
           "#": {
@@ -511,7 +518,7 @@
         "refine": 350
       },
       "Up-Front Lance+": {
-        "pool": { "#": { "4": ["Vanessa - Dutiful Rider"] } },
+        "pool": { "#": { "3": ["Vanessa - Dutiful Rider"] } },
         "id": "Up-Front Lance+",
         "name": "堂堂正正之槍+",
         "sp": 300,
@@ -863,6 +870,13 @@
         "pool": { "grail": { "5": ["Gonzalez - Kindly Bandit"] } },
         "id": "Rein Axe+",
         "name": "牽制之斧+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Allied Axe+": {
+        "pool": { "#": { "5": ["Sylvain - Consummate Flirt"] } },
+        "id": "Allied Axe+",
+        "name": "共鬥之斧+",
         "sp": 300,
         "refine": 350
       },
@@ -2060,7 +2074,7 @@
         "refine": 350
       },
       "Gronndeer+": {
-        "pool": { "#": { "4": ["Bastian - Crimea's Keystone"] } },
+        "pool": { "#": { "3": ["Bastian - Crimea's Keystone"] } },
         "id": "Gronndeer+",
         "name": "翠綠之鹿+",
         "sp": 300,
@@ -2588,6 +2602,7 @@
             "Emmeryn - Gentle Exalt"
           ]
         },
+        "grail": { "5": ["Cornelia - Saint Consumed"] },
         "special": {
           "5": ["Lyn - Bride of the Plains", "Laevatein - Kumade Warrior"]
         }
@@ -3346,6 +3361,7 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
+            "Sylvain - Consummate Flirt",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Celica - Valentia's Hope",
@@ -3389,13 +3405,13 @@
             "Claude - Tropical Trouble",
             "Alfonse - Uplifting Love",
             "Lyon - Sunlit Prince",
+            "Rebecca - Breezy Scamp",
             "Annette - Festive Helper"
           ],
           "5": [
             "Tiki - Beachside Scion",
             "Takumi - Prince of Soup",
             "Micaiah - Wavecrest Maiden",
-            "Rebecca - Breezy Scamp",
             "Nailah - Blessed Queen",
             "Navarre - Scarlet Ninja",
             "Caeda - Princess of Talys",
@@ -3436,9 +3452,9 @@
             "Knoll - Darkness Watcher",
             "Ricken - Shepherd Novice",
             "Kamui - Wandering Blade",
-            "Kiragi - Upbeat Archer"
+            "Kiragi - Upbeat Archer",
+            "Vanessa - Dutiful Rider"
           ],
-          "4": ["Vanessa - Dutiful Rider"],
           "5": [
             "Celica - Imprisoned Soul",
             "Mia - Lady of Blades",
@@ -3454,6 +3470,7 @@
             "Malice - Deft Sellsword",
             "Galzus - Dark Blade of Od",
             "Eirika - Pledged Restorer",
+            "Ingrid - Beacon of Honor",
             "Hinoka - Blue Sky Warrior",
             "Petra - Princess of Brigid",
             "Perceval - Knightly Ideal",
@@ -3575,6 +3592,7 @@
             "Rath - Wolf of Sacae"
           ],
           "5": [
+            "Rhea - Loving Matriarch",
             "Jaffar - Angel of Death",
             "Claude - The Schemer",
             "Rennac - Rich 'Merchant'",
@@ -4074,9 +4092,9 @@
             "Shanna - Sprightly Flier",
             "Kaze - Easygoing Ninja",
             "Ilyana - Hungering Mage",
+            "Bastian - Crimea's Keystone",
             "Phila - Pegasus Master"
           ],
-          "4": ["Bastian - Crimea's Keystone"],
           "5": [
             "Innes - Regal Strategician",
             "Fiora - Airborne Warrior",
@@ -4318,7 +4336,8 @@
             "Gwendolyn - Adorable Knight",
             "Cain - The Bull",
             "Sheena - Princess of Gra"
-          ]
+          ],
+          "5": ["Felix - Lone-Wolf Blade"]
         },
         "grail": { "4": ["Clive - Idealistic Knight"] },
         "special": { "5": ["Lyn - Blazing Whirlwind"] }
@@ -4328,7 +4347,10 @@
       "sp": 200
     },
     "Godlike Reflexes": {
-      "pool": { "special": { "5": ["Lyn - Blazing Whirlwind"] } },
+      "pool": {
+        "#": { "5": ["Felix - Lone-Wolf Blade"] },
+        "special": { "5": ["Lyn - Blazing Whirlwind"] }
+      },
       "id": "Godlike Reflexes",
       "name": "神速迴避",
       "sp": 500
@@ -4403,7 +4425,11 @@
           ]
         },
         "grail": {
-          "3": ["Eremiya - Bishop of Woe", "Pelleas - Ashnard's Orphan"],
+          "3": [
+            "Eremiya - Bishop of Woe",
+            "Cornelia - Saint Consumed",
+            "Pelleas - Ashnard's Orphan"
+          ],
           "4": ["Finn - Lance of Legend"]
         },
         "legendary": {
@@ -6695,6 +6721,7 @@
             "Morgan - Fated Darkness"
           ]
         },
+        "grail": { "4": ["Cornelia - Saint Consumed"] },
         "legendary": {
           "5": [
             "Edelgard - Flame Emperor",
@@ -7275,7 +7302,13 @@
     },
     "Atk/Def Catch 3": {
       "pool": {
-        "#": { "5": ["Zeke - Past Unknown", "Gustav - Sovereign Slain"] },
+        "#": {
+          "5": [
+            "Sylvain - Consummate Flirt",
+            "Zeke - Past Unknown",
+            "Gustav - Sovereign Slain"
+          ]
+        },
         "grail": {
           "5": ["Jeralt - Blade Breaker", "Sedgar - Coyote's Dutiful"]
         },
@@ -7304,7 +7337,7 @@
     "Atk/Res Catch 3": {
       "pool": {
         "#": {
-          "4": ["Vanessa - Dutiful Rider"],
+          "3": ["Vanessa - Dutiful Rider"],
           "5": ["Hapi - Drawn-Out Sigh", "Letizia - Curse Director"]
         },
         "special": {
@@ -7617,6 +7650,7 @@
     },
     "Atk/Spd Finish 3": {
       "pool": {
+        "#": { "5": ["Felix - Lone-Wolf Blade"] },
         "special": {
           "5": [
             "Rebecca - Breezy Scamp",
@@ -7632,6 +7666,7 @@
     },
     "Atk/Spd Finish 4": {
       "pool": {
+        "#": { "5": ["Felix - Lone-Wolf Blade"] },
         "special": { "5": ["Nino - Spirited Sorcerer", "Corrin - Starry Seer"] }
       },
       "id": "Atk/Spd Finish 4",
@@ -7687,6 +7722,20 @@
       "name": "防守魔防的奧秘4",
       "sp": 300,
       "icon": "skillA/Def_Res_Finish_4.png"
+    },
+    "Atk/Res Scowl 3": {
+      "pool": { "#": { "5": ["Rhea - Loving Matriarch"] } },
+      "id": "Atk/Res Scowl 3",
+      "name": "攻擊魔防的龍眼3",
+      "sp": 240,
+      "icon": "skillA/Atk_Res_Scowl_3.png"
+    },
+    "Atk/Res Scowl 4": {
+      "pool": { "#": { "5": ["Rhea - Loving Matriarch"] } },
+      "id": "Atk/Res Scowl 4",
+      "name": "攻擊魔防的龍眼4",
+      "sp": 300,
+      "icon": "skillA/Atk_Res_Scowl_4.png"
     }
   },
   "skillB": {
@@ -8567,6 +8616,7 @@
     "Sabotage Def 3": {
       "pool": {
         "#": { "5": ["Morgan - Fated Darkness"] },
+        "grail": { "5": ["Cornelia - Saint Consumed"] },
         "mythic": { "5": ["Mirabilis - Daydream"] },
         "special": { "5": ["Lilina - Beachside Bloom"] }
       },
@@ -8577,7 +8627,7 @@
     },
     "Sabotage Res 3": {
       "pool": {
-        "#": { "4": ["Bastian - Crimea's Keystone"] },
+        "#": { "3": ["Bastian - Crimea's Keystone"] },
         "grail": { "5": ["Sophia - Cobweb Prophet", "Solon - Church Shadow"] },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
         "mythic": { "5": ["Yune - Chaos Goddess"] },
@@ -8941,7 +8991,7 @@
     },
     "Guard Bearing 3": {
       "pool": {
-        "#": { "5": ["Annand - Knight-Defender"] },
+        "#": { "5": ["Annand - Knight-Defender", "Ingrid - Beacon of Honor"] },
         "mythic": { "5": ["Hel - Death Sovereign"] },
         "special": { "5": ["Ingrid - Solstice Knight"] }
       },
@@ -8949,6 +8999,13 @@
       "name": "警戒姿態3",
       "sp": 240,
       "icon": "skillB/Guard_Bearing_3.png"
+    },
+    "Guard Bearing 4": {
+      "pool": { "#": { "5": ["Ingrid - Beacon of Honor"] } },
+      "id": "Guard Bearing 4",
+      "name": "警戒姿態4",
+      "sp": 300,
+      "icon": "skillB/Guard_Bearing_4.png"
     },
     "Dive-Bomb 3": {
       "pool": {
@@ -9419,7 +9476,8 @@
         "grail": { "5": ["Lumera - Dragon Monarch"] },
         "legendary": { "5": ["Alm - Saint-King"] },
         "special": {
-          "5": ["Rebecca - Breezy Scamp", "Velouria - Renewed Wolfpup"]
+          "4": ["Rebecca - Breezy Scamp"],
+          "5": ["Velouria - Renewed Wolfpup"]
         },
         "duo": { "5": ["Eirika - Twin Refulgence"] }
       },
@@ -9932,6 +9990,13 @@
       "sp": 240,
       "icon": "skillB/Spd_Res_Tempo_3.png"
     },
+    "Atk/Spd Bulwark 3": {
+      "pool": { "#": { "5": ["Felix - Lone-Wolf Blade"] } },
+      "id": "Atk/Spd Bulwark 3",
+      "name": "攻擊速度防護屏障3",
+      "sp": 240,
+      "icon": "skillB/Atk_Spd_Bulwark_3.png"
+    },
     "Atk/Def Bulwark 3": {
       "pool": {
         "mythic": { "5": ["Askr - God of Openness"] },
@@ -10106,7 +10171,9 @@
     },
     "Spur Atk/Def 2": {
       "pool": {
-        "#": { "5": ["Reinhardt - Thunder's Sword"] },
+        "#": {
+          "5": ["Sylvain - Consummate Flirt", "Reinhardt - Thunder's Sword"]
+        },
         "special": { "5": ["Tana - Noble and Nimble"] }
       },
       "id": "Spur Atk/Def 2",
@@ -10590,7 +10657,7 @@
     },
     "Spd/Def Rein 3": {
       "pool": {
-        "#": { "5": ["Jill - Fiery Dracoknight"] },
+        "#": { "5": ["Ingrid - Beacon of Honor", "Jill - Fiery Dracoknight"] },
         "legendary": { "5": ["Claude - King of Unification"] },
         "special": {
           "5": ["Claude - Tropical Trouble", "Igrene - Ninja of Nabata"]
@@ -10664,7 +10731,10 @@
       "icon": "skillC/Atk_Res_Hold.png"
     },
     "Spd/Def Hold": {
-      "pool": { "harmonized": { "5": ["Tana - Soothing Warmth"] } },
+      "pool": {
+        "#": { "5": ["Ingrid - Beacon of Honor"] },
+        "harmonized": { "5": ["Tana - Soothing Warmth"] }
+      },
       "id": "Spd/Def Hold",
       "name": "速度防守大牽制",
       "sp": 300,
@@ -11310,8 +11380,7 @@
     "Atk Ploy 3": {
       "pool": {
         "#": {
-          "3": ["Lena - Tender Angel"],
-          "4": ["Bastian - Crimea's Keystone"],
+          "3": ["Lena - Tender Angel", "Bastian - Crimea's Keystone"],
           "5": ["Katarina - Wayward One", "Morgan - Lass from Afar"]
         },
         "grail": {
@@ -11431,7 +11500,8 @@
             "Sigurd - Holy Knight",
             "Nino - Pale Flower",
             "Lilith - Silent Broodling",
-            "Alear - Dragon Child"
+            "Alear - Dragon Child",
+            "Felix - Lone-Wolf Blade"
           ]
         },
         "grail": { "5": ["Takumi - Empty Vessel"] },
@@ -11445,7 +11515,13 @@
     },
     "Spd Smoke 4": {
       "pool": {
-        "#": { "5": ["Lilith - Silent Broodling", "Alear - Dragon Child"] },
+        "#": {
+          "5": [
+            "Lilith - Silent Broodling",
+            "Alear - Dragon Child",
+            "Felix - Lone-Wolf Blade"
+          ]
+        },
         "special": { "5": ["Lyn - Blazing Whirlwind"] },
         "harmonized": { "5": ["Karla - Spring Reveries"] }
       },
@@ -12377,7 +12453,7 @@
     "Spd/Res Oath 3": {
       "pool": {
         "#": {
-          "4": ["Vanessa - Dutiful Rider"],
+          "3": ["Vanessa - Dutiful Rider"],
           "5": ["Asbel - Windswept Youth"]
         },
         "grail": { "5": ["Díthorba - Cutting Knight"] }
