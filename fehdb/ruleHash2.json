@@ -161,6 +161,10 @@
     "weaponType": 16711687,
     "moveType": 1
   },
+  "learner.cavalry-melee": {
+    "weaponType": 16711687,
+    "moveType": 4
+  },
   "learner.flying-melee": {
     "weaponType": 16711687,
     "moveType": 8

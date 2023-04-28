@@ -874,7 +874,7 @@
         "refine": 350
       },
       "Allied Axe+": {
-        "pool": { "#": { "5": ["Sylvain - Consummate Flirt"] } },
+        "pool": { "#": { "4": ["Sylvain - Consummate Flirt"] } },
         "id": "Allied Axe+",
         "name": "共鬥之斧+",
         "sp": 300,
@@ -3354,6 +3354,7 @@
             "Karin - Driven Knight",
             "Basilio - Feroxi West-Khan"
           ],
+          "4": ["Sylvain - Consummate Flirt"],
           "5": [
             "Ephraim - Restoration Lord",
             "Tana - Winged Princess",
@@ -3361,7 +3362,6 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
-            "Sylvain - Consummate Flirt",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Celica - Valentia's Hope",
@@ -3706,6 +3706,7 @@
           ]
         },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
+        "mythic": { "5": ["Nerþuz - God of the Land"] },
         "special": {
           "4": ["Zihark - Ninja Blademaster"],
           "5": [
@@ -3740,6 +3741,7 @@
           ]
         },
         "grail": { "5": ["Yarne - Hoppy New Year"] },
+        "mythic": { "5": ["Nerþuz - God of the Land"] },
         "special": { "5": ["Tibarn - Shipless Pirate"] },
         "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
       },
@@ -7303,11 +7305,8 @@
     "Atk/Def Catch 3": {
       "pool": {
         "#": {
-          "5": [
-            "Sylvain - Consummate Flirt",
-            "Zeke - Past Unknown",
-            "Gustav - Sovereign Slain"
-          ]
+          "4": ["Sylvain - Consummate Flirt"],
+          "5": ["Zeke - Past Unknown", "Gustav - Sovereign Slain"]
         },
         "grail": {
           "5": ["Jeralt - Blade Breaker", "Sedgar - Coyote's Dutiful"]
@@ -7596,7 +7595,9 @@
     "Atk/Spd Clash 3": {
       "pool": {
         "#": { "5": ["Seliph - Enduring Legacy"] },
-        "mythic": { "5": ["Embla - God of Closure"] },
+        "mythic": {
+          "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
+        },
         "special": { "4": ["Panne - Welcoming Dawn"] },
         "harmonized": {
           "5": ["Karla - Spring Reveries", "Cordelia - Unyielding Snow"]
@@ -7610,7 +7611,9 @@
     "Atk/Spd Clash 4": {
       "pool": {
         "#": { "5": ["Seliph - Enduring Legacy"] },
-        "mythic": { "5": ["Embla - God of Closure"] },
+        "mythic": {
+          "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
+        },
         "harmonized": {
           "5": ["Karla - Spring Reveries", "Cordelia - Unyielding Snow"]
         }
@@ -10172,7 +10175,8 @@
     "Spur Atk/Def 2": {
       "pool": {
         "#": {
-          "5": ["Sylvain - Consummate Flirt", "Reinhardt - Thunder's Sword"]
+          "4": ["Sylvain - Consummate Flirt"],
+          "5": ["Reinhardt - Thunder's Sword"]
         },
         "special": { "5": ["Tana - Noble and Nimble"] }
       },
@@ -12272,6 +12276,7 @@
           ]
         },
         "grail": { "4": ["Hans - Ambitious Brute"] },
+        "mythic": { "5": ["Nerþuz - God of the Land"] },
         "special": {
           "5": ["Bernadetta - Frosty Shut-In", "Delthea - Prodigy in Bloom"]
         }
@@ -12374,6 +12379,13 @@
       "name": "防守魔防的奮起3",
       "sp": 240,
       "icon": "skillC/Rouse_Def_Res_3.png"
+    },
+    "Alarm Atk/Spd": {
+      "pool": { "mythic": { "5": ["Nerþuz - God of the Land"] } },
+      "id": "Alarm Atk/Spd",
+      "name": "攻擊速度的奮進",
+      "sp": 300,
+      "icon": "skillC/Alarm_Atk_Spd.png"
     },
     "Atk/Spd Oath 3": {
       "pool": {

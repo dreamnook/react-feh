@@ -15733,6 +15733,16 @@
       "exclusive": ["Fomortiis - Demon King"],
       "last": true
     },
+    "Horn of the Land": {
+      "id": "Horn of the Land",
+      "name": "地之女神之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Nerþuz - God of the Land"],
+      "last": true
+    },
     "Whelp (Infantry)": {
       "id": "Whelp (Infantry)",
       "name": "幼獸化身・步行",

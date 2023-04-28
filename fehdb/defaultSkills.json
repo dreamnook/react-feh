@@ -2283,6 +2283,34 @@
       "Future-Focused": 5
     }
   },
+  "Nerþuz - God of the Land": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 4,
+      "Horn of the Land": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "Galeforce": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Clash 4": 5
+    },
+    "skillB": {
+      "Fruit of Life": 5
+    },
+    "skillC": {
+      "Rouse Atk/Spd 1": 2,
+      "Rouse Atk/Spd 2": 3,
+      "Rouse Atk/Spd 3": 4,
+      "Alarm Atk/Spd": 5
+    }
+  },
   "Marth - Altean Prince": {
     "weapon": {
       "Iron Sword": 1,

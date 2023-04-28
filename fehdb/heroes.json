@@ -3254,6 +3254,43 @@
     "ver": "7.0",
     "df": 5
   },
+  "Nerþuz - God of the Land": {
+    "id": "Nerþuz - God of the Land",
+    "title": "地之女神",
+    "name": "那瑟斯",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-beast",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "light-spd",
+    "releaseDate": "2023-04-28",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 42, 46],
+        "spd": [43, 47, 50],
+        "def": [27, 30, 33],
+        "res": [17, 20, 23]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 14,
+        "def": 4,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.4",
+    "df": 5
+  },
   "Marth - Altean Prince": {
     "id": "Marth - Altean Prince",
     "title": "阿麗提亞的王子",
@@ -38707,19 +38744,33 @@
     "id": "Sylvain - Consummate Flirt",
     "title": "擅長搭訕的",
     "name": "希爾凡",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "moveType": "cavalry",
     "weaponType": "green-axe",
     "releaseDate": "2023-04-17",
     "appearsIn": ["Three Houses"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [38, 42, 45],
+        "spd": [30, 33, 36],
+        "def": [31, 34, 38],
+        "res": [18, 21, 24]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [40, 44, 47],
         "spd": [32, 35, 38],
         "def": [34, 37, 41],
         "res": [20, 23, 27]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 11,
+        "def": 6,
+        "res": 3
       },
       "5-1": {
         "hp": 18,
@@ -40267,7 +40318,7 @@
     "moveType": "infantry",
     "weaponType": "white-staff",
     "pool": "grail",
-    "releaseDate": "2023-04-17",
+    "releaseDate": "2023-04-18",
     "appearsIn": ["Three Houses"],
     "stats": {
       "3": {

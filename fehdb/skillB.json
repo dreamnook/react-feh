@@ -437,6 +437,14 @@
     "last": true,
     "icon": "skillB/Soaring_Wings.png"
   },
+  "Fruit of Life": {
+    "id": "Fruit of Life",
+    "name": "生於大地、歸於大地",
+    "sp": 300,
+    "exclusive": ["Nerþuz - God of the Land"],
+    "last": true,
+    "icon": "skillB/Fruit_of_Life.png"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

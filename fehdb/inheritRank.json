@@ -2303,6 +2303,18 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
+  "Sylvain - Consummate Flirt": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 179,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 4 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -5388,18 +5400,6 @@
     "special": { "Vengeance": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Def/Res 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Sylvain - Consummate Flirt": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 179,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 5 } }
   },
   "Mamori - Microwavin' Idol": {
     "score": 240,
@@ -10508,6 +10508,19 @@
     "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Close Reversal": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Drive Def": { "sp": 300, "rarity": 5 } }
+  },
+  "Nerþuz - God of the Land": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Galeforce": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Alarm Atk/Spd": { "sp": 300, "rarity": 5 } }
   },
   "Bernadetta - Frosty Shut-In": {
     "score": 318,
