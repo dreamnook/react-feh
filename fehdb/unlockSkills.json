@@ -1367,12 +1367,16 @@
       "Distant Counter": 5
     },
     "skillB": {
-      "Deadly Balance": 5
+      "Deadly Balance": 5,
+      "Deadly Balance+": 5
     },
     "skillC": {
       "Time's Pulse 1": 1,
       "Time's Pulse 2": 2,
-      "Time's Pulse 3": 4
+      "Time's Pulse 3": 4,
+      "Even Tempest 1": 1,
+      "Even Tempest 2": 2,
+      "Even Tempest 3": 4
     }
   },
   "Líf - Undying Ties Duo": {
@@ -5035,7 +5039,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Brave Lance": 3,
-      "Brave Lance+": 5
+      "Brave Lance+": 5,
+      "Valbar's Lance": 5
     },
     "special": {
       "Retribution": 3,
@@ -7174,7 +7179,8 @@
       "Iron Sword": 1,
       "Steel Sword": 2,
       "Guard Sword": 3,
-      "Guard Sword+": 5
+      "Guard Sword+": 5,
+      "Freeblade's Edge": 5
     },
     "special": {
       "Glowing Ember": 3,
@@ -12147,7 +12153,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Slaying Lance": 3,
-      "Slaying Lance+": 5
+      "Slaying Lance+": 5,
+      "Revenger Lance": 5
     },
     "special": {
       "Glowing Ember": 3,
@@ -12406,7 +12413,8 @@
       "Fire": 1,
       "Elfire": 2,
       "Rauðrserpent": 3,
-      "Rauðrserpent+": 5
+      "Rauðrserpent+": 5,
+      "Pupil's Tome": 5
     },
     "special": {
       "Chilling Wind": 3,
@@ -20836,10 +20844,15 @@
     "skillA": {
       "Atk/Res Solo 1": 1,
       "Atk/Res Solo 2": 2,
-      "Atk/Res Solo 3": 4
+      "Atk/Res Solo 3": 4,
+      "Atk/Res Ideal 1": 1,
+      "Atk/Res Ideal 2": 2,
+      "Atk/Res Ideal 3": 4,
+      "Atk/Res Ideal 4": 5
     },
     "skillB": {
-      "Raging Storm": 5
+      "Raging Storm": 5,
+      "Raging Storm II": 5
     },
     "skillC": {
       "Armored Stride 1": 2,

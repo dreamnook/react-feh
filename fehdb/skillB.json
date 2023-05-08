@@ -229,6 +229,14 @@
     "last": true,
     "icon": "skillB/Soul_of_Zofia.png"
   },
+  "Deadly Balance+": {
+    "id": "Deadly Balance+",
+    "name": "填補死者的數量・神",
+    "sp": 300,
+    "exclusive": ["Líf - Lethal Swordsman"],
+    "last": true,
+    "icon": "skillB/Deadly_Balance+.png"
+  },
   "Deadly Balance": {
     "id": "Deadly Balance",
     "name": "填補死者的數量",
@@ -244,6 +252,15 @@
     "exclusive": ["Caeda - Princess of Talys"],
     "last": true,
     "icon": "skillB/Belief_in_Love.png"
+  },
+  "Raging Storm II": {
+    "id": "Raging Storm II",
+    "name": "狂嵐・承",
+    "sp": 300,
+    "prev": ["Raging Storm"],
+    "exclusive": ["Edelgard - Flame Emperor"],
+    "last": true,
+    "icon": "skillB/Raging_Storm_II.png"
   },
   "Raging Storm": {
     "id": "Raging Storm",

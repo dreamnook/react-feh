@@ -4496,19 +4496,6 @@
     "skillA": { "Fierce Breath": { "sp": 240, "rarity": 5 } },
     "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } }
   },
-  "Edelgard - Flame Emperor": {
-    "score": 221,
-    "scoreTotal": 626,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 180,
-    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Solo 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Armored Stride 3": { "sp": 240, "rarity": 5 } }
-  },
   "Deirdre - Lady of the Forest": {
     "score": 240,
     "scoreTotal": 630,
@@ -5566,7 +5553,7 @@
     "bst": 173,
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
+    "skillC": { "Even Tempest 3": { "sp": 240, "rarity": 5 } }
   },
   "Duma - God of Strength": {
     "score": 276,
@@ -5645,6 +5632,19 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Def Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Flow Guard 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Edelgard - Flame Emperor": {
+    "score": 276,
+    "scoreTotal": 681,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Armored Stride 3": { "sp": 240, "rarity": 5 } }
   },
   "Ash - Retainer to Askr": {
     "score": 276,

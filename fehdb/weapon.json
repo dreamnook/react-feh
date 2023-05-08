@@ -2100,6 +2100,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Líf - Lethal Swordsman"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Sökkvabekkr_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Laslow's Blade": {
@@ -2689,6 +2712,38 @@
       "exclusive": ["Felix - Lone-Wolf Blade"],
       "last": true
     },
+    "Freeblade's Edge": {
+      "id": "Freeblade's Edge",
+      "name": "義勇軍正劍",
+      "mt": 16,
+      "sp": 400,
+      "prev": ["Guard Sword+"],
+      "exclusive": ["Eyvel - Mistress of Fiana"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Freeblade's_Edge_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -3079,8 +3134,7 @@
           "hp": 5,
           "res": 4
         }
-      },
-      "last": true
+      }
     },
     "Instant Sword": {
       "id": "Instant Sword",
@@ -5943,6 +5997,69 @@
       },
       "last": true
     },
+    "Valbar's Lance": {
+      "id": "Valbar's Lance",
+      "name": "巴爾博勇槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Valbar - Open and Honest"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Valbar's_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Revenger Lance": {
+      "id": "Revenger Lance",
+      "name": "復仇烈槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "exclusive": ["Cormag - Aloof Lanceman"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Revenger_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -8371,6 +8488,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Alm - Lovebird Duo"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Scepter_of_Love_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Crusher": {
@@ -16830,6 +16970,36 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Nino - Spirited Sorcerer"],
+      "last": true
+    },
+    "Pupil's Tome": {
+      "id": "Pupil's Tome",
+      "name": "見習魔道士之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Ewan - Eager Student"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Pupil's_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arcane Eclipse": {

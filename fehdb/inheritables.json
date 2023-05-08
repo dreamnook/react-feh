@@ -119,13 +119,6 @@
         "sp": 300,
         "refine": 350
       },
-      "Guard Sword+": {
-        "pool": { "#": { "5": ["Eyvel - Mistress of Fiana"] } },
-        "id": "Guard Sword+",
-        "name": "取消之劍+",
-        "sp": 300,
-        "refine": 350
-      },
       "Instant Sword+": {
         "pool": { "grail": { "5": ["Bertram - Dread Cavalier"] } },
         "id": "Instant Sword+",
@@ -6726,8 +6719,8 @@
         "grail": { "4": ["Cornelia - Saint Consumed"] },
         "legendary": {
           "5": [
-            "Edelgard - Flame Emperor",
             "Gunnthrá - Voice of Dreams",
+            "Edelgard - Flame Emperor",
             "Eitri - Youthful Sage",
             "Lilina - Firelight Leader"
           ]
@@ -7486,6 +7479,7 @@
             "Hilda - Queen of Friege"
           ]
         },
+        "legendary": { "5": ["Edelgard - Flame Emperor"] },
         "mythic": { "5": ["Ashera - Order Goddess"] },
         "special": { "4": ["Annette - Festive Helper"] }
       },
@@ -7495,7 +7489,10 @@
       "icon": "skillA/Atk_Res_Ideal_3.png"
     },
     "Atk/Res Ideal 4": {
-      "pool": { "mythic": { "5": ["Ashera - Order Goddess"] } },
+      "pool": {
+        "legendary": { "5": ["Edelgard - Flame Emperor"] },
+        "mythic": { "5": ["Ashera - Order Goddess"] }
+      },
       "id": "Atk/Res Ideal 4",
       "name": "攻擊魔防萬全4",
       "sp": 300,
@@ -12508,7 +12505,7 @@
             "Mareeta - Astra Awakened"
           ]
         },
-        "mythic": { "5": ["Dagr - Sun's Radiance"] }
+        "mythic": { "5": ["Líf - Lethal Swordsman", "Dagr - Sun's Radiance"] }
       },
       "id": "Even Tempest 3",
       "name": "迅雷風烈・偶數3",
