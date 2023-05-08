@@ -8591,6 +8591,29 @@
       "atk": 3,
       "sp": 400,
       "exclusive": ["Edelgard - Flame Emperor"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "女帝進擊",
+          "icon": "Aymr_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Runeaxe": {
