@@ -3266,6 +3266,40 @@
       "Flow Flight 3": 4
     }
   },
+  "Maria - Ritual Sacrifice": {
+    "weapon": {
+      "Assault": 1,
+      "Sacrifice Staff": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 2,
+      "Nudge": 3,
+      "Nudge+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Miracle": 3,
+      "Holy Panic": 5
+    },
+    "skillA": {
+      "Atk/Spd Bond 1": 2,
+      "Atk/Spd Bond 2": 3,
+      "Atk/Spd Bond 3": 4,
+      "Atk/Spd Unity": 5
+    },
+    "skillB": {
+      "Wrathful Staff 1": 2,
+      "Wrathful Staff 2": 3,
+      "Wrathful Staff 3": 4,
+      "Poetic Justice": 5
+    },
+    "skillC": {
+      "Even Recovery 1": 1,
+      "Even Recovery 2": 2,
+      "Even Recovery 3": 4
+    }
+  },
   "Palla - Eldest Whitewing": {
     "weapon": {
       "Iron Sword": 1,
@@ -10835,6 +10869,28 @@
       "Drive Def 2": 4
     }
   },
+  "Linus - Savage Dog": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Dead-Fang Axe": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4
+    },
+    "skillB": {
+      "Guard 1": 1,
+      "Guard 2": 2,
+      "Guard 3": 4
+    },
+    "skillC": {
+      "Panic Smoke 1": 3,
+      "Panic Smoke 2": 4,
+      "Panic Smoke 3": 5
+    }
+  },
   "Jaffar - Angel of Death": {
     "weapon": {
       "Iron Dagger": 1,
@@ -15223,6 +15279,41 @@
       "S/D Near Trace 1": 1,
       "S/D Near Trace 2": 2,
       "S/D Near Trace 3": 4
+    },
+    "skillC": {
+      "Spd Tactic 1": 2,
+      "Spd Tactic 2": 3,
+      "Spd Tactic 3": 4,
+      "Inf. Spd Tactic": 5
+    }
+  },
+  "Chrom - Fell Exalt": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Arcane Devourer": 5
+    },
+    "assist": {
+      "Reposition": 3,
+      "Fate Unchanged...": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Galeforce": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Clash 4": 5
+    },
+    "skillB": {
+      "Spd/Def Snag 1": 2,
+      "Spd/Def Snag 2": 3,
+      "Spd/Def Snag 3": 4,
+      "Spd/Def Snag 4": 5
     },
     "skillC": {
       "Spd Tactic 1": 2,
@@ -20404,6 +20495,35 @@
       "Res Ploy 3": 5
     }
   },
+  "Anankos - Seething Silence": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Silent Breath": 5
+    },
+    "special": {
+      "Daylight": 3,
+      "Noontime": 4
+    },
+    "skillA": {
+      "Darting Stance 1": 2,
+      "Kestrel Stance 1": 3,
+      "Kestrel Stance 2": 4,
+      "Kestrel Stance 3": 5
+    },
+    "skillB": {
+      "Savvy Fighter 1": 2,
+      "Savvy Fighter 2": 3,
+      "Savvy Fighter 3": 4,
+      "Savvy Fighter 4": 5
+    },
+    "skillC": {
+      "A/S Near Save 1": 1,
+      "A/S Near Save 2": 2,
+      "A/S Near Save 3": 4
+    }
+  },
   "Byleth - Proven Professor": {
     "weapon": {
       "Iron Sword": 1,
@@ -20517,6 +20637,35 @@
       "Spd/Res Rein 2": 3,
       "Spd/Res Rein 3": 4,
       "Spd/Res Hold": 5
+    }
+  },
+  "Byleth - Vengeance Vessel": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Captain's Sword": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4,
+      "Divine Pulse": 5
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "Distant A/S Solo": 5
+    },
+    "skillB": {
+      "Close Call 1": 2,
+      "Close Call 2": 3,
+      "Close Call 3": 4,
+      "Close Call 4": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Time's Pulse 4": 5
     }
   },
   "Byleth - Tested Professor": {

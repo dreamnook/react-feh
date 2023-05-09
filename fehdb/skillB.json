@@ -912,6 +912,15 @@
     "icon": "skillB/Savvy_Fighter_3.png",
     "last": true
   },
+  "Savvy Fighter 4": {
+    "id": "Savvy Fighter 4",
+    "name": "慧眼隊形4",
+    "sp": 300,
+    "prev": ["Savvy Fighter 3"],
+    "rules": "armored",
+    "icon": "skillB/Savvy_Fighter_4.png",
+    "last": true
+  },
   "Wily Fighter 1": {
     "id": "Wily Fighter 1",
     "name": "正面隊形・敵方1",
@@ -2749,6 +2758,15 @@
     "prev": ["Spd/Def Snag 2"],
     "rules": "learner.snag-skills",
     "icon": "skillB/Spd_Def_Snag_3.png",
+    "last": true
+  },
+  "Spd/Def Snag 4": {
+    "id": "Spd/Def Snag 4",
+    "name": "速度防守干涉4",
+    "sp": 300,
+    "prev": ["Spd/Def Snag 3"],
+    "rules": "learner.snag-skills",
+    "icon": "skillB/Spd_Def_Snag_4.png",
     "last": true
   },
   "Spd/Res Snag 1": {

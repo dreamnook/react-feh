@@ -2303,6 +2303,20 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
+  "Maria - Ritual Sacrifice": {
+    "score": 125,
+    "scoreTotal": 410,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1640,
+    "feather": 1000,
+    "bst": 177,
+    "assist": { "Nudge+": { "sp": 300, "rarity": 5 } },
+    "special": { "Holy Panic": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
+  },
   "Sylvain - Consummate Flirt": {
     "score": 185,
     "scoreTotal": 411,
@@ -3193,6 +3207,19 @@
     "assist": { "Swap": { "sp": 150, "rarity": 3 } },
     "skillB": { "Guard 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Linus - Savage Dog": {
+    "score": 176,
+    "scoreTotal": 454,
+    "poolRarity": 3,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 187,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Guard 3": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Morgan - Lad from Afar": {
     "score": 199,
@@ -11222,6 +11249,19 @@
     "skillB": { "Vengeful Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Near Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Anankos - Seething Silence": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 196,
+    "special": { "Noontime": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Kestrel Stance 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Savvy Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
   "Tana - Soaring Princess": {
     "score": 500,
     "scoreTotal": 1100,
@@ -11539,6 +11579,20 @@
     "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Escape Route 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Byleth - Vengeance Vessel": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Close Call 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Corrin - Starry Seer": {
     "score": 318,
@@ -11997,5 +12051,20 @@
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Chill Def/Res 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Chrom - Fell Exalt": {
+    "score": 530,
+    "scoreTotal": 1643,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1550,
+    "feather": 1000,
+    "bst": 179,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Galeforce": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Snag 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Spd Tactic": { "sp": 300, "rarity": 5 } }
   }
 }

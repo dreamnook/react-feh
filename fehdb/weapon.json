@@ -2744,6 +2744,16 @@
       },
       "last": true
     },
+    "Captain's Sword": {
+      "id": "Captain's Sword",
+      "name": "白銀之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Byleth - Vengeance Vessel"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -2751,6 +2761,34 @@
       "cd": -1,
       "sp": 300,
       "rearmed": true,
+      "prev": ["Silver Sword"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Arcane Devourer": {
+      "id": "Arcane Devourer",
+      "name": "魔器・屍王的絕劍",
+      "mt": 16,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
       "prev": ["Silver Sword"],
       "refine": {
         "atk": {
@@ -9166,6 +9204,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Hector - Sworn Friend"],
+      "last": true
+    },
+    "Dead-Fang Axe": {
+      "id": "Dead-Fang Axe",
+      "name": "死氣狂牙之斧",
+      "mt": 16,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Linus - Savage Dog"],
       "last": true
     },
     "Arcane Downfall": {
@@ -21765,6 +21813,16 @@
       "exclusive": ["Cornelia - Saint Consumed"],
       "last": true
     },
+    "Sacrifice Staff": {
+      "id": "Sacrifice Staff",
+      "name": "暗黑龍的活祭品之杖",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Maria - Ritual Sacrifice"],
+      "last": true
+    },
     "Assault": {
       "id": "Assault",
       "name": "襲擊",
@@ -23456,6 +23514,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Rhea - Loving Matriarch"],
+      "last": true
+    },
+    "Silent Breath": {
+      "id": "Silent Breath",
+      "name": "透魔龍吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Anankos - Seething Silence"],
       "last": true
     },
     "Arcane Grima": {

@@ -218,6 +218,14 @@
     "exclusive": ["Ninian - Ice-Dragon Oracle"],
     "last": true
   },
+  "Fate Unchanged...": {
+    "id": "Fate Unchanged...",
+    "name": "命運不會改變……",
+    "sp": 500,
+    "prev": ["Reposition"],
+    "exclusive": ["Chrom - Fell Exalt"],
+    "last": true
+  },
   "Heal": {
     "id": "Heal",
     "name": "聖療",

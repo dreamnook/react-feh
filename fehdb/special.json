@@ -276,7 +276,7 @@
     "cd": 2,
     "sp": 500,
     "prev": ["Draconic Aura"],
-    "exclusive": ["Byleth - Sublime Light"],
+    "exclusive": ["Byleth - Sublime Light", "Byleth - Vengeance Vessel"],
     "last": true
   },
   "Circlet of Balance": {
@@ -851,6 +851,14 @@
   "Light's Restraint": {
     "id": "Light's Restraint",
     "name": "抑制的聖光",
+    "cd": 2,
+    "sp": 500,
+    "rules": "white-staff",
+    "last": true
+  },
+  "Holy Panic": {
+    "id": "Holy Panic",
+    "name": "恐慌的聖光",
     "cd": 2,
     "sp": 500,
     "rules": "white-staff",

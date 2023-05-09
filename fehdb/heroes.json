@@ -1973,6 +1973,7 @@
     "flaws": ["hp"],
     "statMin": 187,
     "statMax": 190,
+    "rearmedWeaponId": "Arcane Downfall",
     "book": 6,
     "ver": "6.11",
     "df": 5
@@ -2081,6 +2082,7 @@
     "flaws": ["hp", "spd", "def", "res"],
     "statMin": 180,
     "statMax": 180,
+    "rearmedWeaponId": "Arcane Éljúðnir",
     "book": 6,
     "ver": "6.9",
     "df": 5
@@ -5312,6 +5314,40 @@
     "book": 6,
     "ver": "6.3",
     "df": 10
+  },
+  "Maria - Ritual Sacrifice": {
+    "id": "Maria - Ritual Sacrifice",
+    "title": "作為祭品的公主",
+    "name": "瑪莉亞",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-staff",
+    "releaseDate": "2023-05-09",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [40, 44, 47],
+        "spd": [42, 45, 49],
+        "def": [12, 16, 19],
+        "res": [32, 35, 38]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 11,
+        "spd": 15,
+        "def": 3,
+        "res": 7
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.5",
+    "df": 5
   },
   "Palla - Eldest Whitewing": {
     "id": "Palla - Eldest Whitewing",
@@ -19466,6 +19502,69 @@
     "ver": "2.6",
     "df": 25
   },
+  "Linus - Savage Dog": {
+    "id": "Linus - Savage Dog",
+    "title": "黑暗中的狂犬",
+    "name": "萊納斯",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2023-05-09",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "3": {
+        "hp": [35, 38, 41],
+        "atk": [38, 41, 44],
+        "spd": [36, 39, 42],
+        "def": [29, 32, 35],
+        "res": [14, 17, 20]
+      },
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [41, 44, 47],
+        "spd": [38, 41, 45],
+        "def": [30, 33, 36],
+        "res": [15, 18, 21]
+      },
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [43, 46, 49],
+        "spd": [40, 43, 47],
+        "def": [33, 36, 39],
+        "res": [17, 20, 23]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 12,
+        "def": 7,
+        "res": 4
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 13,
+        "def": 7,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 13,
+        "def": 8,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": [],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.5",
+    "df": 5
+  },
   "Jaffar - Angel of Death": {
     "id": "Jaffar - Angel of Death",
     "title": "死神",
@@ -21134,6 +21233,7 @@
     "flaws": ["hp"],
     "statMin": 177,
     "statMax": 180,
+    "rearmedWeaponId": "Arcane Náströnd",
     "book": 7,
     "ver": "7.3",
     "df": 5
@@ -27275,6 +27375,43 @@
     "ver": "6.8",
     "df": 5
   },
+  "Chrom - Fell Exalt": {
+    "id": "Chrom - Fell Exalt",
+    "title": "屍王",
+    "name": "庫洛武",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "rearmed": true,
+    "pool": "special",
+    "releaseDate": "2023-05-09",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [42, 45, 49],
+        "spd": [43, 46, 49],
+        "def": [26, 29, 32],
+        "res": [15, 18, 21]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 15,
+        "spd": 11,
+        "def": 5,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": [],
+    "statMin": 179,
+    "statMax": 180,
+    "rearmedWeaponId": "Arcane Devourer",
+    "book": 7,
+    "ver": "7.5",
+    "df": 5
+  },
   "Robin - High Deliverer": {
     "id": "Robin - High Deliverer",
     "title": "聖王的軍師",
@@ -27715,6 +27852,7 @@
     "flaws": ["spd", "res"],
     "statMin": 196,
     "statMax": 200,
+    "rearmedWeaponId": "Arcane Grima",
     "book": 6,
     "ver": "6.10",
     "df": 5
@@ -36917,6 +37055,7 @@
     "flaws": ["hp"],
     "statMin": 176,
     "statMax": 180,
+    "rearmedWeaponId": "Arcane Eclipse",
     "book": 7,
     "ver": "7.0",
     "df": 5
@@ -37116,6 +37255,40 @@
     "ver": "5.7",
     "df": 15
   },
+  "Anankos - Seething Silence": {
+    "id": "Anankos - Seething Silence",
+    "title": "瘋狂的透魔龍",
+    "name": "海卓拉",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-dragon",
+    "releaseDate": "2023-05-09",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [39, 43, 46],
+        "spd": [41, 44, 48],
+        "def": [33, 36, 39],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 14,
+        "def": 10,
+        "res": 7
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["atk"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 7,
+    "ver": "7.5",
+    "df": 5
+  },
   "Byleth - Proven Professor": {
     "id": "Byleth - Proven Professor",
     "title": "傭兵出身的教師",
@@ -37256,6 +37429,41 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.8",
+    "df": 5
+  },
+  "Byleth - Vengeance Vessel": {
+    "id": "Byleth - Vengeance Vessel",
+    "title": "發誓復仇的器皿",
+    "name": "貝雷絲",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2023-05-09",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 44, 47],
+        "spd": [44, 47, 51],
+        "def": [29, 32, 35],
+        "res": [22, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 8,
+        "def": 8,
+        "res": 10
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.5",
     "df": 5
   },
   "Byleth - Tested Professor": {
@@ -39068,6 +39276,7 @@
     "flaws": ["hp", "spd", "res"],
     "statMin": 184,
     "statMax": 185,
+    "rearmedWeaponId": "Arcane Lúin",
     "book": 7,
     "ver": "7.4",
     "df": 5
@@ -41268,6 +41477,7 @@
     "flaws": ["hp", "spd", "def", "res"],
     "statMin": 180,
     "statMax": 180,
+    "rearmedWeaponId": "Arcane Qiang",
     "book": 7,
     "ver": "7.1",
     "df": 5

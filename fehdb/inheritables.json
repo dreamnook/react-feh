@@ -8,6 +8,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Devourer": {
+        "pool": { "special": { "5": ["Chrom - Fell Exalt"] } },
+        "id": "Arcane Devourer",
+        "name": "魔器・屍王的絕劍",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Sword+": {
         "pool": {
           "#": { "3": ["Olivia - Blushing Beauty", "Laslow - Dancing Duelist"] }
@@ -2643,7 +2650,7 @@
     },
     "Nudge+": {
       "pool": {
-        "#": { "5": ["August - Astute Tactician"] },
+        "#": { "5": ["August - Astute Tactician", "Maria - Ritual Sacrifice"] },
         "mythic": { "5": ["Elimine - Scouring Saint"] },
         "duo": { "5": ["Hilda - Deer's Two-Piece"] }
       },
@@ -2826,7 +2833,8 @@
             "Marisa - Crimson Rabbit",
             "Fjorm - New Traditions",
             "Laegjarn - Burning Sun",
-            "Lyn - Lady of the Beach"
+            "Lyn - Lady of the Beach",
+            "Chrom - Fell Exalt"
           ]
         },
         "duo": { "5": ["Palla - Sisterly Trio", "Chrom - Fate-Defying Duo"] },
@@ -3281,7 +3289,8 @@
             "Dimitri - King of Faerghus",
             "Edelgard - Adrestian Emperor",
             "Kris - Unknown Hero",
-            "Osian - Scolded Soldier"
+            "Osian - Scolded Soldier",
+            "Anankos - Seething Silence"
           ]
         },
         "mythic": { "5": ["Sothis - Girl on the Throne"] },
@@ -3705,7 +3714,8 @@
           "5": [
             "Gaius - Thief Exposed",
             "Larcei - Scion of Astra",
-            "Tibarn - Shipless Pirate"
+            "Tibarn - Shipless Pirate",
+            "Chrom - Fell Exalt"
           ]
         },
         "harmonized": {
@@ -3735,7 +3745,7 @@
         },
         "grail": { "5": ["Yarne - Hoppy New Year"] },
         "mythic": { "5": ["Nerþuz - God of the Land"] },
-        "special": { "5": ["Tibarn - Shipless Pirate"] },
+        "special": { "5": ["Tibarn - Shipless Pirate", "Chrom - Fell Exalt"] },
         "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
       },
       "id": "Galeforce",
@@ -3850,7 +3860,8 @@
             "Kagero - Beverage Ninja",
             "Shanna - Bridal Novice",
             "Tana - Frelian Starlight",
-            "Bernadetta - Late Hibernator"
+            "Bernadetta - Late Hibernator",
+            "Byleth - Vengeance Vessel"
           ]
         },
         "duo": {
@@ -3911,6 +3922,7 @@
         },
         "mythic": { "5": ["Dagr - Sun's Radiance", "Nótt - Moon's Elegance"] },
         "special": {
+          "4": ["Linus - Savage Dog"],
           "5": [
             "Corrin - Novice Vacationer",
             "Ephraim - Sparkling Gallantly",
@@ -4414,6 +4426,7 @@
             "Mist - Helpful Sister",
             "Maribelle - Dire Damsel",
             "Mikoto - Caring Mother",
+            "Maria - Ritual Sacrifice",
             "Elincia - Devoted Queen",
             "Delthea - Free Spirit",
             "Sigurd - Holy Knight"
@@ -4579,6 +4592,12 @@
       "pool": { "#": { "5": ["Elincia - Devoted Queen"] } },
       "id": "Light's Restraint",
       "name": "抑制的聖光",
+      "sp": 500
+    },
+    "Holy Panic": {
+      "pool": { "#": { "5": ["Maria - Ritual Sacrifice"] } },
+      "id": "Holy Panic",
+      "name": "恐慌的聖光",
       "sp": 500
     }
   },
@@ -5462,7 +5481,9 @@
     },
     "Kestrel Stance 2": {
       "pool": {
-        "#": { "5": ["Say'ri - Chon'sin's Blade"] },
+        "#": {
+          "5": ["Say'ri - Chon'sin's Blade", "Anankos - Seething Silence"]
+        },
         "grail": { "5": ["Yen'fay - Blade Legend"] },
         "legendary": { "5": ["Ryoma - Supreme Samurai"] },
         "special": { "5": ["Lucina - Future Fondness"] }
@@ -5474,7 +5495,9 @@
     },
     "Kestrel Stance 3": {
       "pool": {
-        "#": { "5": ["Say'ri - Chon'sin's Blade"] },
+        "#": {
+          "5": ["Say'ri - Chon'sin's Blade", "Anankos - Seething Silence"]
+        },
         "special": { "5": ["Lucina - Future Fondness"] }
       },
       "id": "Kestrel Stance 3",
@@ -5907,6 +5930,7 @@
             "Corrin - Celestial Sorcerer",
             "Ike - Stalwart Heart",
             "Sothis - Silver Specter",
+            "Byleth - Vengeance Vessel",
             "Black Knight - The Night's Blade"
           ]
         },
@@ -6193,6 +6217,7 @@
         "#": {
           "3": ["Kent - Crimson Shield"],
           "5": [
+            "Maria - Ritual Sacrifice",
             "Hinoka - Blue Sky Warrior",
             "Selkie - Free Spirit",
             "Lilith - Astral Daughter",
@@ -6377,7 +6402,13 @@
     },
     "Atk/Spd Unity": {
       "pool": {
-        "#": { "5": ["Marianne - Serene Adherent", "Tana - Soaring Princess"] },
+        "#": {
+          "5": [
+            "Maria - Ritual Sacrifice",
+            "Marianne - Serene Adherent",
+            "Tana - Soaring Princess"
+          ]
+        },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
       },
       "id": "Atk/Spd Unity",
@@ -7595,7 +7626,10 @@
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
-        "special": { "4": ["Panne - Welcoming Dawn"] },
+        "special": {
+          "4": ["Panne - Welcoming Dawn"],
+          "5": ["Chrom - Fell Exalt"]
+        },
         "harmonized": {
           "5": ["Karla - Spring Reveries", "Cordelia - Unyielding Snow"]
         }
@@ -7611,6 +7645,7 @@
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
+        "special": { "5": ["Chrom - Fell Exalt"] },
         "harmonized": {
           "5": ["Karla - Spring Reveries", "Cordelia - Unyielding Snow"]
         }
@@ -8173,6 +8208,7 @@
     },
     "Savvy Fighter 3": {
       "pool": {
+        "#": { "5": ["Anankos - Seething Silence"] },
         "special": {
           "5": ["Lucina - Future Fondness", "Takumi - Troubled Heart"]
         }
@@ -8181,6 +8217,13 @@
       "name": "慧眼隊形3",
       "sp": 240,
       "icon": "skillB/Savvy_Fighter_3.png"
+    },
+    "Savvy Fighter 4": {
+      "pool": { "#": { "5": ["Anankos - Seething Silence"] } },
+      "id": "Savvy Fighter 4",
+      "name": "慧眼隊形4",
+      "sp": 300,
+      "icon": "skillB/Savvy_Fighter_4.png"
     },
     "Wily Fighter 3": {
       "pool": { "#": { "5": ["Idunn - Divine Demon"] } },
@@ -8816,7 +8859,10 @@
           ]
         },
         "mythic": { "5": ["Gotoh - White Sage"] },
-        "special": { "5": ["Sakura - Gentle Nekomata", "Lyn - Wind's Embrace"] }
+        "special": {
+          "4": ["Linus - Savage Dog"],
+          "5": ["Sakura - Gentle Nekomata", "Lyn - Wind's Embrace"]
+        }
       },
       "id": "Guard 3",
       "name": "取消3",
@@ -8836,7 +8882,8 @@
           "5": [
             "Genny - Endearing Ally",
             "Veronica - Brave Princess",
-            "Camilla - Light of Nohr"
+            "Camilla - Light of Nohr",
+            "Maria - Ritual Sacrifice"
           ]
         },
         "special": {
@@ -8854,7 +8901,10 @@
       "icon": "skillB/Wrathful_Staff_3.png"
     },
     "Poetic Justice": {
-      "pool": { "duo": { "5": ["Elise - Sweetheart Royals"] } },
+      "pool": {
+        "#": { "5": ["Maria - Ritual Sacrifice"] },
+        "duo": { "5": ["Elise - Sweetheart Royals"] }
+      },
       "id": "Poetic Justice",
       "name": "神罰・因果報應",
       "sp": 300,
@@ -9314,12 +9364,20 @@
       "pool": {
         "#": { "3": ["Kent - Crimson Shield"] },
         "grail": { "4": ["Deen - Bladed Sandstorm"] },
+        "special": { "5": ["Chrom - Fell Exalt"] },
         "harmonized": { "5": ["Mia - Harmonic Blades"] }
       },
       "id": "Spd/Def Snag 3",
       "name": "速度防守干涉3",
       "sp": 240,
       "icon": "skillB/Spd_Def_Snag_3.png"
+    },
+    "Spd/Def Snag 4": {
+      "pool": { "special": { "5": ["Chrom - Fell Exalt"] } },
+      "id": "Spd/Def Snag 4",
+      "name": "速度防守干涉4",
+      "sp": 300,
+      "icon": "skillB/Spd_Def_Snag_4.png"
     },
     "Spd/Res Snag 3": {
       "pool": { "special": { "5": ["Selena - Sandbar Fluorspar"] } },
@@ -9671,7 +9729,8 @@
             "Mareeta - Sword of Stars",
             "Alear - Dragon Child"
           ]
-        }
+        },
+        "special": { "5": ["Byleth - Vengeance Vessel"] }
       },
       "id": "Close Call 3",
       "name": "迴避・一擊即離3",
@@ -9679,7 +9738,10 @@
       "icon": "skillB/Close_Call_3.png"
     },
     "Close Call 4": {
-      "pool": { "#": { "5": ["Alear - Dragon Child"] } },
+      "pool": {
+        "#": { "5": ["Alear - Dragon Child"] },
+        "special": { "5": ["Byleth - Vengeance Vessel"] }
+      },
       "id": "Close Call 4",
       "name": "迴避・一擊即離4",
       "sp": 300,
@@ -11093,7 +11155,11 @@
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
         "special": {
           "4": ["Lute - Summer Prodigy"],
-          "5": ["Nephenee - Sincere Dancer", "Dorothea - Yuletide Dancer"]
+          "5": [
+            "Nephenee - Sincere Dancer",
+            "Dorothea - Yuletide Dancer",
+            "Chrom - Fell Exalt"
+          ]
         }
       },
       "id": "Spd Tactic 3",
@@ -11135,7 +11201,7 @@
     "Inf. Spd Tactic": {
       "pool": {
         "#": { "5": ["Chrom - Fated Honor"] },
-        "special": { "5": ["Dorothea - Yuletide Dancer"] }
+        "special": { "5": ["Dorothea - Yuletide Dancer", "Chrom - Fell Exalt"] }
       },
       "id": "Inf. Spd Tactic",
       "name": "速度指揮・步行重視",
@@ -11589,7 +11655,7 @@
         "mythic": {
           "5": ["Thrasir - Omnicidal Witch", "Reginn - Bearing Hope"]
         },
-        "special": { "5": ["Ursula - Royal-Blue Crow"] },
+        "special": { "5": ["Linus - Savage Dog", "Ursula - Royal-Blue Crow"] },
         "harmonized": { "5": ["Caeda - Sea-Blossom Pair"] }
       },
       "id": "Panic Smoke 3",
@@ -11654,7 +11720,11 @@
           ]
         },
         "special": {
-          "5": ["Soren - Hushed Voice", "Nino - Spirited Sorcerer"]
+          "5": [
+            "Soren - Hushed Voice",
+            "Nino - Spirited Sorcerer",
+            "Byleth - Vengeance Vessel"
+          ]
         },
         "duo": { "5": ["Chrom - Fate-Defying Duo"] }
       },
@@ -11664,7 +11734,11 @@
       "icon": "skillC/Times_Pulse_3.png"
     },
     "Time's Pulse 4": {
-      "pool": { "special": { "5": ["Nino - Spirited Sorcerer"] } },
+      "pool": {
+        "special": {
+          "5": ["Nino - Spirited Sorcerer", "Byleth - Vengeance Vessel"]
+        }
+      },
       "id": "Time's Pulse 4",
       "name": "初始之躍動4",
       "sp": 300,
@@ -11781,14 +11855,18 @@
       "icon": "skillC/Armored_Stride_3.png"
     },
     "A/S Near Save 2": {
-      "pool": { "#": { "5": ["Robin - Fell Tactician"] } },
+      "pool": {
+        "#": { "5": ["Robin - Fell Tactician", "Anankos - Seething Silence"] }
+      },
       "id": "A/S Near Save 2",
       "name": "刃之守護人・近處2",
       "sp": 200,
       "icon": "skillC/A_S_Near_Save_2.png"
     },
     "A/S Near Save 3": {
-      "pool": { "#": { "5": ["Robin - Fell Tactician"] } },
+      "pool": {
+        "#": { "5": ["Robin - Fell Tactician", "Anankos - Seething Silence"] }
+      },
       "id": "A/S Near Save 3",
       "name": "刃之守護人・近處3",
       "sp": 300,
@@ -12533,7 +12611,7 @@
     },
     "Even Recovery 3": {
       "pool": {
-        "#": { "5": ["August - Astute Tactician"] },
+        "#": { "5": ["August - Astute Tactician", "Maria - Ritual Sacrifice"] },
         "duo": { "5": ["Hilda - Deer's Two-Piece"] }
       },
       "id": "Even Recovery 3",
