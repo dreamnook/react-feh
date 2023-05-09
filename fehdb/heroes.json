@@ -1973,7 +1973,6 @@
     "flaws": ["hp"],
     "statMin": 187,
     "statMax": 190,
-    "rearmedWeaponId": "Arcane Downfall",
     "book": 6,
     "ver": "6.11",
     "df": 5
@@ -2082,7 +2081,6 @@
     "flaws": ["hp", "spd", "def", "res"],
     "statMin": 180,
     "statMax": 180,
-    "rearmedWeaponId": "Arcane Éljúðnir",
     "book": 6,
     "ver": "6.9",
     "df": 5
@@ -21233,7 +21231,6 @@
     "flaws": ["hp"],
     "statMin": 177,
     "statMax": 180,
-    "rearmedWeaponId": "Arcane Náströnd",
     "book": 7,
     "ver": "7.3",
     "df": 5
@@ -27407,7 +27404,6 @@
     "flaws": [],
     "statMin": 179,
     "statMax": 180,
-    "rearmedWeaponId": "Arcane Devourer",
     "book": 7,
     "ver": "7.5",
     "df": 5
@@ -27852,7 +27848,6 @@
     "flaws": ["spd", "res"],
     "statMin": 196,
     "statMax": 200,
-    "rearmedWeaponId": "Arcane Grima",
     "book": 6,
     "ver": "6.10",
     "df": 5
@@ -37055,7 +37050,6 @@
     "flaws": ["hp"],
     "statMin": 176,
     "statMax": 180,
-    "rearmedWeaponId": "Arcane Eclipse",
     "book": 7,
     "ver": "7.0",
     "df": 5
@@ -39276,7 +39270,6 @@
     "flaws": ["hp", "spd", "res"],
     "statMin": 184,
     "statMax": 185,
-    "rearmedWeaponId": "Arcane Lúin",
     "book": 7,
     "ver": "7.4",
     "df": 5
@@ -41477,7 +41470,6 @@
     "flaws": ["hp", "spd", "def", "res"],
     "statMin": 180,
     "statMax": 180,
-    "rearmedWeaponId": "Arcane Qiang",
     "book": 7,
     "ver": "7.1",
     "df": 5
