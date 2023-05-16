@@ -534,7 +534,7 @@
       "Protection Pike+": {
         "pool": { "grail": { "5": ["Vigarde - Silent Emperor"] } },
         "id": "Protection Pike+",
-        "name": "守護之槍+",
+        "name": "守護槍+",
         "sp": 300,
         "refine": 350
       },

@@ -6890,14 +6890,14 @@
     },
     "Protection Pike": {
       "id": "Protection Pike",
-      "name": "守護之槍",
+      "name": "守護槍",
       "mt": 10,
       "sp": 200,
       "prev": ["Steel Lance"]
     },
     "Protection Pike+": {
       "id": "Protection Pike+",
-      "name": "守護之槍+",
+      "name": "守護槍+",
       "mt": 14,
       "sp": 300,
       "prev": ["Protection Pike"],
