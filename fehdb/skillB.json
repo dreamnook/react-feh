@@ -442,7 +442,7 @@
     "id": "New Divinity",
     "name": "新的神龍王",
     "sp": 300,
-    "exclusive": ["Tiki - Fated Divinity"],
+    "exclusive": ["Tiki - Fated Divinity", "Tiki - Bridal Reflections"],
     "last": true,
     "icon": "skillB/New_Divinity.png"
   },

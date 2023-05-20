@@ -1857,6 +1857,30 @@
       "icon": "skillA/Spd_Def_Catch_3.png",
       "last": true
     },
+    "Def/Res Catch 1": {
+      "id": "Def/Res Catch 1",
+      "name": "防守魔防的先機1",
+      "sp": 60,
+      "rules": "learner.catch",
+      "icon": "skillA/Def_Res_Catch_1.png"
+    },
+    "Def/Res Catch 2": {
+      "id": "Def/Res Catch 2",
+      "name": "防守魔防的先機2",
+      "sp": 120,
+      "prev": ["Def/Res Catch 1"],
+      "rules": "learner.catch",
+      "icon": "skillA/Def_Res_Catch_2.png"
+    },
+    "Def/Res Catch 3": {
+      "id": "Def/Res Catch 3",
+      "name": "防守魔防的先機3",
+      "sp": 240,
+      "prev": ["Def/Res Catch 2"],
+      "rules": "learner.catch",
+      "icon": "skillA/Def_Res_Catch_3.png",
+      "last": true
+    },
     "Atk/Res Ideal 1": {
       "id": "Atk/Res Ideal 1",
       "name": "攻擊魔防萬全1",
@@ -3749,6 +3773,30 @@
       "prev": ["Rouse Atk/Def 2"],
       "rules": "learner.rouse-skills",
       "icon": "skillC/Rouse_Atk_Def_3.png",
+      "last": true
+    },
+    "Rouse Spd/Def 1": {
+      "id": "Rouse Spd/Def 1",
+      "name": "速度防守的奮起1",
+      "sp": 60,
+      "rules": "learner.rouse-skills",
+      "icon": "skillC/Rouse_Spd_Def_1.png"
+    },
+    "Rouse Spd/Def 2": {
+      "id": "Rouse Spd/Def 2",
+      "name": "速度防守的奮起2",
+      "sp": 120,
+      "prev": ["Rouse Spd/Def 1"],
+      "rules": "learner.rouse-skills",
+      "icon": "skillC/Rouse_Spd_Def_2.png"
+    },
+    "Rouse Spd/Def 3": {
+      "id": "Rouse Spd/Def 3",
+      "name": "速度防守的奮起3",
+      "sp": 240,
+      "prev": ["Rouse Spd/Def 2"],
+      "rules": "learner.rouse-skills",
+      "icon": "skillC/Rouse_Spd_Def_3.png",
       "last": true
     },
     "Atk/Spd Oath 1": {

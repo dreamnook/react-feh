@@ -1016,6 +1016,15 @@
     "last": true,
     "icon": "skillC/Def_Res_Hold.png"
   },
+  "S/D Rein Snap": {
+    "id": "S/D Rein Snap",
+    "name": "速度防守牽制・推手",
+    "sp": 300,
+    "rules": "learner.flying-melee",
+    "prev": ["Spd/Def Rein 3"],
+    "last": true,
+    "icon": "skillC/S_D_Rein_Snap.png"
+  },
   "Hone Atk 1": {
     "id": "Hone Atk 1",
     "name": "攻擊鼓舞1",

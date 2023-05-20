@@ -9,7 +9,7 @@
         "refine": 350
       },
       "Arcane Devourer": {
-        "pool": { "special": { "5": ["Chrom - Fell Exalt"] } },
+        "pool": { "#": { "5": ["Chrom - Fell Exalt"] } },
         "id": "Arcane Devourer",
         "name": "魔器・屍王的絕劍",
         "sp": 300,
@@ -296,6 +296,13 @@
         "pool": { "special": { "5": ["Hana - Striving Heart"] } },
         "id": "Petalfall Blade+",
         "name": "櫻與玫瑰之刀+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Bridal Blade+": {
+        "pool": { "special": { "5": ["Flavia - Bold Bride"] } },
+        "id": "Bridal Blade+",
+        "name": "新娘之劍+",
         "sp": 300,
         "refine": 350
       }
@@ -874,7 +881,7 @@
         "refine": 350
       },
       "Allied Axe+": {
-        "pool": { "#": { "4": ["Sylvain - Consummate Flirt"] } },
+        "pool": { "#": { "3": ["Sylvain - Consummate Flirt"] } },
         "id": "Allied Axe+",
         "name": "共鬥之斧+",
         "sp": 300,
@@ -1810,6 +1817,13 @@
         "pool": { "special": { "5": ["Cecilia - Etrurian Bride"] } },
         "id": "Bridal Orchid+",
         "name": "新娘的蘭花+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Ring of Affiance+": {
+        "pool": { "grail": { "5": ["Robin - Keen Groom"] } },
+        "id": "Ring of Affiance+",
+        "name": "訂婚戒指+",
         "sp": 300,
         "refine": 350
       }
@@ -2781,7 +2795,7 @@
           ],
           "5": ["Nina - Eye Spy", "Camilla - Flower of Fantasy"]
         },
-        "grail": { "4": ["Elincia - Seaside Queen"] },
+        "grail": { "4": ["Robin - Keen Groom", "Elincia - Seaside Queen"] },
         "special": {
           "4": ["Sylvain - Hanging with Tens"],
           "5": [
@@ -2818,7 +2832,8 @@
             "Wolf - Coyote's Loyal",
             "Farina - The Great Wing",
             "Lilith - Astral Daughter",
-            "Chrom - Fated Honor"
+            "Chrom - Fated Honor",
+            "Chrom - Fell Exalt"
           ]
         },
         "grail": {
@@ -2833,8 +2848,7 @@
             "Marisa - Crimson Rabbit",
             "Fjorm - New Traditions",
             "Laegjarn - Burning Sun",
-            "Lyn - Lady of the Beach",
-            "Chrom - Fell Exalt"
+            "Lyn - Lady of the Beach"
           ]
         },
         "duo": { "5": ["Palla - Sisterly Trio", "Chrom - Fate-Defying Duo"] },
@@ -3232,6 +3246,7 @@
         "special": {
           "5": [
             "Sothe - Rushing Dawn",
+            "Flavia - Bold Bride",
             "Fir - Student of Spring",
             "Brigid - Orgahil Pirate",
             "Tanith - Forthright Heart"
@@ -3354,9 +3369,9 @@
             "Palla - Eldest Whitewing",
             "Erk - Studious Mage",
             "Karin - Driven Knight",
+            "Sylvain - Consummate Flirt",
             "Basilio - Feroxi West-Khan"
           ],
-          "4": ["Sylvain - Consummate Flirt"],
           "5": [
             "Ephraim - Restoration Lord",
             "Tana - Winged Princess",
@@ -3528,6 +3543,7 @@
             "Ryoma - Samurai at Ease",
             "Fae - Holiday Dear",
             "Katarina - Torchlit Wanderer",
+            "Anna - Secret Charmer",
             "Takumi - Troubled Heart",
             "Black Knight - The Night's Blade",
             "Greil - Heroic Exemplar"
@@ -3696,7 +3712,8 @@
             "Shannan - Wielder of Astra",
             "Celica - Warrior Priestess",
             "Yarne - Timid Taguel",
-            "Mareeta - Astra Awakened"
+            "Mareeta - Astra Awakened",
+            "Chrom - Fell Exalt"
           ]
         },
         "grail": {
@@ -3714,8 +3731,7 @@
           "5": [
             "Gaius - Thief Exposed",
             "Larcei - Scion of Astra",
-            "Tibarn - Shipless Pirate",
-            "Chrom - Fell Exalt"
+            "Tibarn - Shipless Pirate"
           ]
         },
         "harmonized": {
@@ -3740,12 +3756,13 @@
             "Lyn - Lady of the Plains",
             "Roy - Brave Lion",
             "Celica - Warrior Priestess",
-            "Yarne - Timid Taguel"
+            "Yarne - Timid Taguel",
+            "Chrom - Fell Exalt"
           ]
         },
         "grail": { "5": ["Yarne - Hoppy New Year"] },
         "mythic": { "5": ["Nerþuz - God of the Land"] },
-        "special": { "5": ["Tibarn - Shipless Pirate", "Chrom - Fell Exalt"] },
+        "special": { "5": ["Tibarn - Shipless Pirate"] },
         "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
       },
       "id": "Galeforce",
@@ -3823,6 +3840,7 @@
             "Lilith - Silent Broodling",
             "Corrin - Dream Princess",
             "Quan - Luminous Lancer",
+            "Byleth - Vengeance Vessel",
             "Byleth - Proven Professor",
             "Byleth - Tested Professor"
           ]
@@ -3855,13 +3873,13 @@
             "Karla - Sun-Piercing Steel",
             "Freyr - Estival Dreams",
             "Dheginsea - Harvest Goldoan",
+            "Say'ri - Righteous Bride",
             "Camilla - Tropical Beauty",
             "Palla - Eldest Bun-Bun",
             "Kagero - Beverage Ninja",
             "Shanna - Bridal Novice",
             "Tana - Frelian Starlight",
-            "Bernadetta - Late Hibernator",
-            "Byleth - Vengeance Vessel"
+            "Bernadetta - Late Hibernator"
           ]
         },
         "duo": {
@@ -3897,6 +3915,7 @@
           "4": [
             "Kana - Dragon Spawn",
             "Gonzalez - Kindly Bandit",
+            "Linus - Savage Dog",
             "Aversa - Dark One",
             "Caellach - Tiger Eye",
             "Nemesis - King of Liberation",
@@ -3922,7 +3941,6 @@
         },
         "mythic": { "5": ["Dagr - Sun's Radiance", "Nótt - Moon's Elegance"] },
         "special": {
-          "4": ["Linus - Savage Dog"],
           "5": [
             "Corrin - Novice Vacationer",
             "Ephraim - Sparkling Gallantly",
@@ -4152,7 +4170,9 @@
           ]
         },
         "duo": { "5": ["Idunn - Dragonkin Duo", "Mark - Winds of Hope"] },
-        "harmonized": { "5": ["Altina - Cross-Time Duo"] }
+        "harmonized": {
+          "5": ["Altina - Cross-Time Duo", "Tiki - Bridal Reflections"]
+        }
       },
       "id": "Iceberg",
       "name": "冰蒼",
@@ -4214,6 +4234,12 @@
       "id": "Glacies",
       "name": "冰華",
       "sp": 200
+    },
+    "Armored Floe": {
+      "pool": { "harmonized": { "5": ["Tiki - Bridal Reflections"] } },
+      "id": "Armored Floe",
+      "name": "重裝之聖冰",
+      "sp": 500
     },
     "Growing Flame": {
       "pool": {
@@ -4963,7 +4989,8 @@
           ]
         },
         "grail": { "5": ["Hana - Focused Ninja", "Zephiel - The Liberator"] },
-        "mythic": { "5": ["Ullr - The Bowmaster"] }
+        "mythic": { "5": ["Ullr - The Bowmaster"] },
+        "special": { "5": ["Say'ri - Righteous Bride"] }
       },
       "id": "Life and Death 3",
       "name": "死線3",
@@ -4984,7 +5011,8 @@
             "Lucia - Tireless Advisor"
           ]
         },
-        "mythic": { "5": ["Ullr - The Bowmaster"] }
+        "mythic": { "5": ["Ullr - The Bowmaster"] },
+        "special": { "5": ["Say'ri - Righteous Bride"] }
       },
       "id": "Life and Death 4",
       "name": "死線4",
@@ -5166,6 +5194,7 @@
             "Gunnthrá - Year's First Dream",
             "Merric - Changing Winds",
             "Shanna - Bridal Novice",
+            "Anna - Secret Charmer",
             "Tanith - Forthright Heart",
             "Bernadetta - Late Hibernator"
           ]
@@ -5401,7 +5430,9 @@
     },
     "Remote Sparrow": {
       "pool": {
-        "special": { "5": ["Bernadetta - Late Hibernator"] },
+        "special": {
+          "5": ["Anna - Secret Charmer", "Bernadetta - Late Hibernator"]
+        },
         "harmonized": { "5": ["Linde - Bound by Fate"] }
       },
       "id": "Remote Sparrow",
@@ -5560,7 +5591,8 @@
           ]
         },
         "grail": { "4": ["Gharnef - Dark Pontifex"] },
-        "legendary": { "5": ["Fjorm - Princess of Ice"] }
+        "legendary": { "5": ["Fjorm - Princess of Ice"] },
+        "harmonized": { "5": ["Tiki - Bridal Reflections"] }
       },
       "id": "Mirror Stance 2",
       "name": "鬼神明鏡架勢2",
@@ -5570,7 +5602,8 @@
     "Mirror Stance 3": {
       "pool": {
         "#": { "5": ["Osian - Scolded Soldier"] },
-        "legendary": { "5": ["Fjorm - Princess of Ice"] }
+        "legendary": { "5": ["Fjorm - Princess of Ice"] },
+        "harmonized": { "5": ["Tiki - Bridal Reflections"] }
       },
       "id": "Mirror Stance 3",
       "name": "鬼神明鏡架勢3",
@@ -5901,6 +5934,7 @@
             "Chloé - Fairy-Tale Flier",
             "Marth - Prince of Light",
             "Ganglöt - Death Anew",
+            "Byleth - Vengeance Vessel",
             "Byleth - Tested Professor"
           ]
         },
@@ -5930,7 +5964,6 @@
             "Corrin - Celestial Sorcerer",
             "Ike - Stalwart Heart",
             "Sothis - Silver Specter",
-            "Byleth - Vengeance Vessel",
             "Black Knight - The Night's Blade"
           ]
         },
@@ -7329,7 +7362,7 @@
     "Atk/Def Catch 3": {
       "pool": {
         "#": {
-          "4": ["Sylvain - Consummate Flirt"],
+          "3": ["Sylvain - Consummate Flirt"],
           "5": ["Zeke - Past Unknown", "Gustav - Sovereign Slain"]
         },
         "grail": {
@@ -7403,7 +7436,10 @@
       "icon": "skillA/Spd_Def_Catch_4.png"
     },
     "Spd/Res Catch 3": {
-      "pool": { "#": { "5": ["Syrene - Graceful Rider"] } },
+      "pool": {
+        "#": { "5": ["Syrene - Graceful Rider"] },
+        "grail": { "4": ["Robin - Keen Groom"] }
+      },
       "id": "Spd/Res Catch 3",
       "name": "速度魔防的先機3",
       "sp": 240,
@@ -7622,14 +7658,11 @@
     },
     "Atk/Spd Clash 3": {
       "pool": {
-        "#": { "5": ["Seliph - Enduring Legacy"] },
+        "#": { "5": ["Seliph - Enduring Legacy", "Chrom - Fell Exalt"] },
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
-        "special": {
-          "4": ["Panne - Welcoming Dawn"],
-          "5": ["Chrom - Fell Exalt"]
-        },
+        "special": { "4": ["Panne - Welcoming Dawn"] },
         "harmonized": {
           "5": ["Karla - Spring Reveries", "Cordelia - Unyielding Snow"]
         }
@@ -7641,11 +7674,10 @@
     },
     "Atk/Spd Clash 4": {
       "pool": {
-        "#": { "5": ["Seliph - Enduring Legacy"] },
+        "#": { "5": ["Seliph - Enduring Legacy", "Chrom - Fell Exalt"] },
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
-        "special": { "5": ["Chrom - Fell Exalt"] },
         "harmonized": {
           "5": ["Karla - Spring Reveries", "Cordelia - Unyielding Snow"]
         }
@@ -7656,7 +7688,10 @@
       "icon": "skillA/Atk_Spd_Clash_4.png"
     },
     "Atk/Def Clash 3": {
-      "pool": { "#": { "5": ["Líf - Arcane Blade"] } },
+      "pool": {
+        "#": { "5": ["Líf - Arcane Blade"] },
+        "special": { "5": ["Flavia - Bold Bride"] }
+      },
       "id": "Atk/Def Clash 3",
       "name": "攻擊防守的激戰3",
       "sp": 240,
@@ -8361,6 +8396,7 @@
           "3": ["Oboro - Fierce Fighter", "Roy - Young Lion"],
           "5": ["Ephraim - Restoration Lord"]
         },
+        "special": { "5": ["Anna - Secret Charmer"] },
         "duo": { "5": ["Laegjarn - Flame and Frost"] }
       },
       "id": "Seal Def 3",
@@ -8369,7 +8405,10 @@
       "icon": "skillB/Seal_Def_3.png"
     },
     "Seal Def 4": {
-      "pool": { "duo": { "5": ["Laegjarn - Flame and Frost"] } },
+      "pool": {
+        "special": { "5": ["Anna - Secret Charmer"] },
+        "duo": { "5": ["Laegjarn - Flame and Frost"] }
+      },
       "id": "Seal Def 4",
       "name": "防守封印4",
       "sp": 300,
@@ -8851,7 +8890,7 @@
           ]
         },
         "grail": {
-          "4": ["Naesala - Sky's Shadow"],
+          "4": ["Linus - Savage Dog", "Naesala - Sky's Shadow"],
           "5": [
             "Haar - Black Tempest",
             "Julius - Scion of Darkness",
@@ -8859,10 +8898,7 @@
           ]
         },
         "mythic": { "5": ["Gotoh - White Sage"] },
-        "special": {
-          "4": ["Linus - Savage Dog"],
-          "5": ["Sakura - Gentle Nekomata", "Lyn - Wind's Embrace"]
-        }
+        "special": { "5": ["Sakura - Gentle Nekomata", "Lyn - Wind's Embrace"] }
       },
       "id": "Guard 3",
       "name": "取消3",
@@ -9362,9 +9398,8 @@
     },
     "Spd/Def Snag 3": {
       "pool": {
-        "#": { "3": ["Kent - Crimson Shield"] },
+        "#": { "3": ["Kent - Crimson Shield"], "5": ["Chrom - Fell Exalt"] },
         "grail": { "4": ["Deen - Bladed Sandstorm"] },
-        "special": { "5": ["Chrom - Fell Exalt"] },
         "harmonized": { "5": ["Mia - Harmonic Blades"] }
       },
       "id": "Spd/Def Snag 3",
@@ -9373,14 +9408,17 @@
       "icon": "skillB/Spd_Def_Snag_3.png"
     },
     "Spd/Def Snag 4": {
-      "pool": { "special": { "5": ["Chrom - Fell Exalt"] } },
+      "pool": { "#": { "5": ["Chrom - Fell Exalt"] } },
       "id": "Spd/Def Snag 4",
       "name": "速度防守干涉4",
       "sp": 300,
       "icon": "skillB/Spd_Def_Snag_4.png"
     },
     "Spd/Res Snag 3": {
-      "pool": { "special": { "5": ["Selena - Sandbar Fluorspar"] } },
+      "pool": {
+        "grail": { "5": ["Robin - Keen Groom"] },
+        "special": { "5": ["Selena - Sandbar Fluorspar"] }
+      },
       "id": "Spd/Res Snag 3",
       "name": "速度魔防干涉3",
       "sp": 240,
@@ -9727,10 +9765,10 @@
           "5": [
             "Say'ri - Chon'sin's Blade",
             "Mareeta - Sword of Stars",
-            "Alear - Dragon Child"
+            "Alear - Dragon Child",
+            "Byleth - Vengeance Vessel"
           ]
-        },
-        "special": { "5": ["Byleth - Vengeance Vessel"] }
+        }
       },
       "id": "Close Call 3",
       "name": "迴避・一擊即離3",
@@ -9739,8 +9777,7 @@
     },
     "Close Call 4": {
       "pool": {
-        "#": { "5": ["Alear - Dragon Child"] },
-        "special": { "5": ["Byleth - Vengeance Vessel"] }
+        "#": { "5": ["Alear - Dragon Child", "Byleth - Vengeance Vessel"] }
       },
       "id": "Close Call 4",
       "name": "迴避・一擊即離4",
@@ -10234,7 +10271,7 @@
     "Spur Atk/Def 2": {
       "pool": {
         "#": {
-          "4": ["Sylvain - Consummate Flirt"],
+          "3": ["Sylvain - Consummate Flirt"],
           "5": ["Reinhardt - Thunder's Sword"]
         },
         "special": { "5": ["Tana - Noble and Nimble"] }
@@ -10723,7 +10760,11 @@
         "#": { "5": ["Ingrid - Beacon of Honor", "Jill - Fiery Dracoknight"] },
         "legendary": { "5": ["Claude - King of Unification"] },
         "special": {
-          "5": ["Claude - Tropical Trouble", "Igrene - Ninja of Nabata"]
+          "5": [
+            "Claude - Tropical Trouble",
+            "Igrene - Ninja of Nabata",
+            "Say'ri - Righteous Bride"
+          ]
         },
         "duo": { "5": ["Lyn - Ninja-Friend Duo"] },
         "harmonized": {
@@ -10822,6 +10863,13 @@
       "name": "防守魔防大牽制",
       "sp": 300,
       "icon": "skillC/Def_Res_Hold.png"
+    },
+    "S/D Rein Snap": {
+      "pool": { "special": { "5": ["Say'ri - Righteous Bride"] } },
+      "id": "S/D Rein Snap",
+      "name": "速度防守牽制・推手",
+      "sp": 300,
+      "icon": "skillC/S_D_Rein_Snap.png"
     },
     "Hone Atk 3": {
       "pool": {
@@ -11148,18 +11196,15 @@
           "5": [
             "Ylgr - Fresh Snowfall",
             "Chrom - Fated Honor",
-            "Catria - Mild Middle Sister"
+            "Catria - Mild Middle Sister",
+            "Chrom - Fell Exalt"
           ]
         },
         "grail": { "5": ["Eir - Renewed Life"] },
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
         "special": {
           "4": ["Lute - Summer Prodigy"],
-          "5": [
-            "Nephenee - Sincere Dancer",
-            "Dorothea - Yuletide Dancer",
-            "Chrom - Fell Exalt"
-          ]
+          "5": ["Nephenee - Sincere Dancer", "Dorothea - Yuletide Dancer"]
         }
       },
       "id": "Spd Tactic 3",
@@ -11200,8 +11245,8 @@
     },
     "Inf. Spd Tactic": {
       "pool": {
-        "#": { "5": ["Chrom - Fated Honor"] },
-        "special": { "5": ["Dorothea - Yuletide Dancer", "Chrom - Fell Exalt"] }
+        "#": { "5": ["Chrom - Fated Honor", "Chrom - Fell Exalt"] },
+        "special": { "5": ["Dorothea - Yuletide Dancer"] }
       },
       "id": "Inf. Spd Tactic",
       "name": "速度指揮・步行重視",
@@ -11651,11 +11696,12 @@
             "Wolf - Coyote's Loyal"
           ]
         },
+        "grail": { "5": ["Linus - Savage Dog"] },
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "mythic": {
           "5": ["Thrasir - Omnicidal Witch", "Reginn - Bearing Hope"]
         },
-        "special": { "5": ["Linus - Savage Dog", "Ursula - Royal-Blue Crow"] },
+        "special": { "5": ["Ursula - Royal-Blue Crow"] },
         "harmonized": { "5": ["Caeda - Sea-Blossom Pair"] }
       },
       "id": "Panic Smoke 3",
@@ -11707,6 +11753,7 @@
             "Ishtar - Echoing Thunder",
             "Charlotte - Wily Warrior",
             "Ophelia - Starlit Maiden",
+            "Byleth - Vengeance Vessel",
             "Shinon - Scathing Archer",
             "Volke - Man of Mysteries"
           ]
@@ -11720,11 +11767,7 @@
           ]
         },
         "special": {
-          "5": [
-            "Soren - Hushed Voice",
-            "Nino - Spirited Sorcerer",
-            "Byleth - Vengeance Vessel"
-          ]
+          "5": ["Soren - Hushed Voice", "Nino - Spirited Sorcerer"]
         },
         "duo": { "5": ["Chrom - Fate-Defying Duo"] }
       },
@@ -11735,9 +11778,8 @@
     },
     "Time's Pulse 4": {
       "pool": {
-        "special": {
-          "5": ["Nino - Spirited Sorcerer", "Byleth - Vengeance Vessel"]
-        }
+        "#": { "5": ["Byleth - Vengeance Vessel"] },
+        "special": { "5": ["Nino - Spirited Sorcerer"] }
       },
       "id": "Time's Pulse 4",
       "name": "初始之躍動4",
@@ -11963,7 +12005,8 @@
     "A/R Far Save 2": {
       "pool": {
         "#": { "5": ["Fjorm - Ice Ascendant"] },
-        "special": { "5": ["Henriette - Overflowing Love"] }
+        "special": { "5": ["Henriette - Overflowing Love"] },
+        "harmonized": { "5": ["Tiki - Bridal Reflections"] }
       },
       "id": "A/R Far Save 2",
       "name": "冑之守護人・遠處2",
@@ -11973,7 +12016,8 @@
     "A/R Far Save 3": {
       "pool": {
         "#": { "5": ["Fjorm - Ice Ascendant"] },
-        "special": { "5": ["Henriette - Overflowing Love"] }
+        "special": { "5": ["Henriette - Overflowing Love"] },
+        "harmonized": { "5": ["Tiki - Bridal Reflections"] }
       },
       "id": "A/R Far Save 3",
       "name": "冑之守護人・遠處3",
@@ -12353,6 +12397,7 @@
         "grail": { "4": ["Hans - Ambitious Brute"] },
         "mythic": { "5": ["Nerþuz - God of the Land"] },
         "special": {
+          "4": ["Flavia - Bold Bride"],
           "5": ["Bernadetta - Frosty Shut-In", "Delthea - Prodigy in Bloom"]
         }
       },
@@ -12647,7 +12692,7 @@
     "C Feud 3": {
       "pool": {
         "legendary": { "5": ["Xander - Gallant King"] },
-        "special": { "5": ["Elm - Resolute Grouch"] },
+        "special": { "5": ["Elm - Resolute Grouch", "Anna - Secret Charmer"] },
         "duo": { "5": ["Nina - Shadowy Figures"] },
         "harmonized": { "5": ["Lysithea - Gifted Students"] }
       },

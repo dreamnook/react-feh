@@ -19508,8 +19508,8 @@
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-axe",
-    "pool": "special",
-    "releaseDate": "2023-05-09",
+    "pool": "grail",
+    "releaseDate": "2023-05-10",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
       "3": {
@@ -27381,7 +27381,6 @@
     "moveType": "cavalry",
     "weaponType": "red-sword",
     "rearmed": true,
-    "pool": "special",
     "releaseDate": "2023-05-09",
     "appearsIn": ["Awakening"],
     "stats": {
@@ -27610,6 +27609,55 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.2",
+    "df": 5
+  },
+  "Robin - Keen Groom": {
+    "id": "Robin - Keen Groom",
+    "title": "隨機應變的新郎",
+    "name": "魯弗萊",
+    "rarity": [5, 4],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-tome",
+    "pool": "grail",
+    "releaseDate": "2023-05-19",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [41, 44, 47],
+        "spd": [30, 33, 36],
+        "def": [18, 21, 24],
+        "res": [19, 22, 25]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [32, 35, 38],
+        "def": [20, 23, 27],
+        "res": [21, 24, 27]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 7,
+        "def": 3,
+        "res": 6
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 7,
+        "def": 4,
+        "res": 7
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["hp"],
+    "statMin": 168,
+    "statMax": 170,
+    "book": 7,
+    "ver": "7.5",
     "df": 5
   },
   "Robin - Mystery Tactician": {
@@ -29019,6 +29067,55 @@
     "ver": "6.0",
     "df": 10
   },
+  "Flavia - Bold Bride": {
+    "id": "Flavia - Bold Bride",
+    "title": "猛烈女傑的新娘",
+    "name": "芙拉維亞",
+    "rarity": [5, 4],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2023-05-19",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [39, 42, 45],
+        "spd": [40, 43, 47],
+        "def": [25, 28, 31],
+        "res": [13, 16, 19]
+      },
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [41, 44, 47],
+        "spd": [42, 45, 49],
+        "def": [28, 31, 34],
+        "res": [15, 18, 21]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 15,
+        "def": 4,
+        "res": 2
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 9,
+        "spd": 15,
+        "def": 5,
+        "res": 3
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.5",
+    "df": 5
+  },
   "Lon'qu - Solitary Blade": {
     "id": "Lon'qu - Solitary Blade",
     "title": "討厭女人的劍客",
@@ -29936,6 +30033,41 @@
     "ver": "4.6",
     "df": 20
   },
+  "Say'ri - Righteous Bride": {
+    "id": "Say'ri - Righteous Bride",
+    "title": "高潔的新娘",
+    "name": "彩莉",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2023-05-19",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [43, 46, 49],
+        "def": [24, 28, 31],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 11,
+        "def": 6,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.5",
+    "df": 5
+  },
   "Virion - Elite Archer": {
     "id": "Virion - Elite Archer",
     "title": "貴族弓箭手",
@@ -30224,6 +30356,41 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.8",
+    "df": 5
+  },
+  "Tiki - Bridal Reflections": {
+    "id": "Tiki - Bridal Reflections",
+    "title": "回憶的新娘",
+    "name": "琪姬",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "armored",
+    "weaponType": "white-dragon",
+    "pool": "harmonized",
+    "releaseDate": "2023-05-19",
+    "appearsIn": ["Shadow Dragon / (New) Mystery", "Awakening"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [39, 42, 46],
+        "spd": [23, 26, 30],
+        "def": [36, 40, 43],
+        "res": [42, 45, 49]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 7,
+        "def": 7,
+        "res": 15
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": ["def"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.5",
     "df": 5
   },
   "Gregor - Swell Sword": {
@@ -30536,6 +30703,41 @@
     "book": 4,
     "ver": "4.6",
     "df": 20
+  },
+  "Anna - Secret Charmer": {
+    "id": "Anna - Secret Charmer",
+    "title": "充滿祕密的新娘",
+    "name": "安娜",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-bow",
+    "pool": "special",
+    "releaseDate": "2023-05-19",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [40, 43, 47],
+        "spd": [43, 46, 49],
+        "def": [19, 22, 25],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 13,
+        "spd": 11,
+        "def": 5,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 174,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.5",
+    "df": 5
   },
   "Lucina - Future Witness": {
     "id": "Lucina - Future Witness",
@@ -37433,7 +37635,6 @@
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
-    "pool": "special",
     "releaseDate": "2023-05-09",
     "appearsIn": ["Three Houses"],
     "stats": {
@@ -38946,13 +39147,20 @@
     "id": "Sylvain - Consummate Flirt",
     "title": "擅長搭訕的",
     "name": "希爾凡",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "green",
     "moveType": "cavalry",
     "weaponType": "green-axe",
     "releaseDate": "2023-04-17",
     "appearsIn": ["Three Houses"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [36, 39, 42],
+        "spd": [28, 31, 34],
+        "def": [30, 33, 36],
+        "res": [17, 20, 23]
+      },
       "4": {
         "hp": [34, 37, 40],
         "atk": [38, 42, 45],
@@ -38966,6 +39174,13 @@
         "spd": [32, 35, 38],
         "def": [34, 37, 41],
         "res": [20, 23, 27]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 10,
+        "def": 6,
+        "res": 3
       },
       "4-1": {
         "hp": 17,

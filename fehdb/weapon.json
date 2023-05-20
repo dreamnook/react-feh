@@ -3974,6 +3974,39 @@
         }
       },
       "last": true
+    },
+    "Bridal Blade": {
+      "id": "Bridal Blade",
+      "name": "新娘之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Bridal Blade+": {
+      "id": "Bridal Blade+",
+      "name": "新娘之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Bridal Blade"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "blue-lance": {
@@ -6096,6 +6129,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Chon'sin Sprig": {
+      "id": "Chon'sin Sprig",
+      "name": "索恩希新娘之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Say'ri - Righteous Bride"],
       "last": true
     },
     "Arcane Qiang": {
@@ -11852,6 +11895,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Rebecca - Breezy Scamp"],
+      "last": true
+    },
+    "Heartbroker Bow": {
+      "id": "Heartbroker Bow",
+      "name": "贏取歡心的新娘花弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Anna - Secret Charmer"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -17739,6 +17792,39 @@
         }
       },
       "last": true
+    },
+    "Ring of Affiance": {
+      "id": "Ring of Affiance",
+      "name": "訂婚戒指",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Ring of Affiance+": {
+      "id": "Ring of Affiance+",
+      "name": "訂婚戒指+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Ring of Affiance"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "blue-tome": {
@@ -23524,6 +23610,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Anankos - Seething Silence"],
+      "last": true
+    },
+    "Twin Divinestone": {
+      "id": "Twin Divinestone",
+      "name": "兩位神龍公主的龍石",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Tiki - Bridal Reflections"],
       "last": true
     },
     "Arcane Grima": {

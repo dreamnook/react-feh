@@ -507,7 +507,7 @@
     "cd": 3,
     "sp": 500,
     "prev": ["Bonfire"],
-    "rules": "learner.armored-beacon",
+    "rules": "learner.armored-not-staff",
     "last": true
   },
   "Blue Flame": {
@@ -542,6 +542,15 @@
     "sp": 200,
     "rules": "not.white-staff",
     "prev": ["Chilling Wind"],
+    "last": true
+  },
+  "Armored Floe": {
+    "id": "Armored Floe",
+    "name": "重裝之聖冰",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Iceberg"],
+    "rules": "learner.armored-not-staff",
     "last": true
   },
   "Rising Flame": {

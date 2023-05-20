@@ -2219,6 +2219,19 @@
     "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
   },
+  "Flavia - Bold Bride": {
+    "score": 196,
+    "scoreTotal": 400,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 300,
+    "bst": 179,
+    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 4 } }
+  },
   "Naga - Harvest Divinity": {
     "score": 196,
     "scoreTotal": 400,
@@ -2316,18 +2329,6 @@
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Sylvain - Consummate Flirt": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 179,
-    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 4 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -3208,19 +3209,6 @@
     "skillB": { "Guard 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
   },
-  "Linus - Savage Dog": {
-    "score": 176,
-    "scoreTotal": 454,
-    "poolRarity": 3,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 150,
-    "bst": 187,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
-    "skillB": { "Guard 3": { "sp": 200, "rarity": 4 } },
-    "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
-  },
   "Morgan - Lad from Afar": {
     "score": 199,
     "scoreTotal": 461,
@@ -3364,6 +3352,18 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
     "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Sylvain - Consummate Flirt": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 179,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 4 } }
   },
   "Kamui - Wandering Blade": {
     "score": 199,
@@ -4287,6 +4287,19 @@
     "assist": { "Swap": { "sp": 150, "rarity": 4 } },
     "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Odd Spd Wave 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Robin - Keen Groom": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 168,
+    "assist": { "Draw Back": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Spd/Res Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Spd/Res Snag 3": { "sp": 240, "rarity": 5 } }
   },
   "Elincia - Seaside Queen": {
     "score": 299,
@@ -6035,6 +6048,19 @@
     "special": { "Astra": { "sp": 200, "rarity": 4 } },
     "skillA": { "Kestrel Stance 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Threat. Atk/Def 2": { "sp": 200, "rarity": 4 } }
+  },
+  "Linus - Savage Dog": {
+    "score": 269,
+    "scoreTotal": 693,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 187,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Guard 3": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Takumi - Wild Card": {
     "score": 300,
@@ -8627,6 +8653,19 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Def Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Wrath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Say'ri - Righteous Bride": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "S/D Rein Snap": { "sp": 300, "rarity": 5 } }
   },
   "Corrin - Celestial Sorcerer": {
     "score": 318,
@@ -11236,6 +11275,19 @@
     "skillB": { "Close Call 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
   },
+  "Byleth - Vengeance Vessel": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Close Call 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
   "Gilliam - Wall of Silence": {
     "score": 300,
     "scoreTotal": 1100,
@@ -11343,6 +11395,20 @@
     "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Anna - Secret Charmer": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Henriette - Overflowing Love": {
     "score": 318,
@@ -11580,20 +11646,6 @@
     "skillB": { "Escape Route 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
-  "Byleth - Vengeance Vessel": {
-    "score": 318,
-    "scoreTotal": 1166,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 188,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Close Call 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
-  },
   "Corrin - Starry Seer": {
     "score": 318,
     "scoreTotal": 1166,
@@ -11635,6 +11687,19 @@
     "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Tiki - Bridal Reflections": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Armored Floe": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Mirror Stance 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Far Save 3": { "sp": 300, "rarity": 5 } }
   },
   "Hector - Sworn Friend": {
     "score": 530,
@@ -12053,10 +12118,9 @@
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Chrom - Fell Exalt": {
-    "score": 530,
-    "scoreTotal": 1643,
+    "score": 500,
+    "scoreTotal": 1550,
     "poolRarity": 5,
-    "pool": "special",
     "sp": 500,
     "spTotal": 1550,
     "feather": 1000,
