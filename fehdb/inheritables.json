@@ -6030,6 +6030,13 @@
       "sp": 300,
       "icon": "skillA/Distant_Stance.png"
     },
+    "Distant A/S Solo": {
+      "pool": { "#": { "5": ["Byleth - Vengeance Vessel"] } },
+      "id": "Distant A/S Solo",
+      "name": "遠反・攻擊速度孤軍",
+      "sp": 300,
+      "icon": "skillA/Distant_A_S_Solo.png"
+    },
     "Distant Foil": {
       "pool": {
         "#": { "5": ["Rinkah - Scion of Flame"] },

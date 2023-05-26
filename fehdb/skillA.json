@@ -1605,8 +1605,8 @@
     "id": "Distant A/S Solo",
     "name": "遠反・攻擊速度孤軍",
     "sp": 300,
+    "rules": "melee",
     "prev": ["Distant Counter"],
-    "exclusive": ["Byleth - Vengeance Vessel"],
     "last": true,
     "icon": "skillA/Distant_A_S_Solo.png"
   },

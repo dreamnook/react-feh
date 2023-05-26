@@ -11284,7 +11284,7 @@
     "feather": 1000,
     "bst": 188,
     "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Distant A/S Solo": { "sp": 300, "rarity": 5 } },
     "skillB": { "Close Call 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
