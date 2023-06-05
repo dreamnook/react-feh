@@ -354,6 +354,14 @@
     "last": true,
     "icon": "skillC/Inborn_Idealism.png"
   },
+  "Rallying Cry": {
+    "id": "Rallying Cry",
+    "name": "叱吒激勵",
+    "sp": 300,
+    "exclusive": ["Hinoka - Thundering Wings"],
+    "last": true,
+    "icon": "skillC/Rallying_Cry.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

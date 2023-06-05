@@ -18536,6 +18536,34 @@
       "Def/Res Rein 3": 4
     }
   },
+  "Hinoka - Thundering Wings": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Fujin-Raijin Yumi": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Glimmer": 4,
+      "Deadeye": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "Wings of Mercy 1": 2,
+      "Wings of Mercy 2": 3,
+      "Wings of Mercy 3": 4,
+      "Wings of Mercy 4": 5
+    },
+    "skillC": {
+      "Rallying Cry": 5
+    }
+  },
   "Azama - Carefree Monk": {
     "weapon": {
       "Assault": 1,

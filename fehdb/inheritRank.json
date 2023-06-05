@@ -10588,6 +10588,19 @@
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Alarm Atk/Spd": { "sp": 300, "rarity": 5 } }
   },
+  "Hinoka - Thundering Wings": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Wings of Mercy 4": { "sp": 300, "rarity": 5 } }
+  },
   "Bernadetta - Frosty Shut-In": {
     "score": 318,
     "scoreTotal": 1039,

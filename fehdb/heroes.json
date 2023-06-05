@@ -33355,6 +33355,44 @@
     "ver": "5.8",
     "df": 15
   },
+  "Hinoka - Thundering Wings": {
+    "id": "Hinoka - Thundering Wings",
+    "title": "風雷雙翼",
+    "name": "火乃香",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-bow",
+    "bst": 200,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "fire-res-2",
+    "releaseDate": "2023-05-31",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 50],
+        "spd": [43, 46, 50],
+        "def": [20, 23, 27],
+        "res": [19, 22, 25]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 7,
+        "spd": 16,
+        "def": 4,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "spd", "def"],
+    "flaws": ["hp"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.5",
+    "df": 5
+  },
   "Azama - Carefree Monk": {
     "id": "Azama - Carefree Monk",
     "title": "飄逸的僧侶",

@@ -11907,6 +11907,16 @@
       "exclusive": ["Anna - Secret Charmer"],
       "last": true
     },
+    "Fujin-Raijin Yumi": {
+      "id": "Fujin-Raijin Yumi",
+      "name": "風神雷神弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Hinoka - Thundering Wings"],
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",

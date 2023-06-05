@@ -3646,7 +3646,11 @@
           ]
         },
         "legendary": {
-          "5": ["Ryoma - Supreme Samurai", "Shez - Sharpest Blades"]
+          "5": [
+            "Ryoma - Supreme Samurai",
+            "Shez - Sharpest Blades",
+            "Hinoka - Thundering Wings"
+          ]
         },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
         "special": {
@@ -3687,6 +3691,7 @@
     "Deadeye": {
       "pool": {
         "#": { "5": ["Tana - Soaring Princess", "Shinon - Scathing Archer"] },
+        "legendary": { "5": ["Hinoka - Thundering Wings"] },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
         "special": { "5": ["Shinon - Sharptongue Ninja"] },
         "duo": { "5": ["Chrom - Fate-Defying Duo"] }
@@ -7301,7 +7306,8 @@
             "Claude - King of Unification",
             "Xander - Gallant King",
             "Ninian - Ice-Dragon Oracle",
-            "Veronica - Princess Rising"
+            "Veronica - Princess Rising",
+            "Hinoka - Thundering Wings"
           ]
         },
         "special": {
@@ -7342,7 +7348,8 @@
             "Claude - King of Unification",
             "Xander - Gallant King",
             "Ninian - Ice-Dragon Oracle",
-            "Veronica - Princess Rising"
+            "Veronica - Princess Rising",
+            "Hinoka - Thundering Wings"
           ]
         },
         "special": {
@@ -7920,7 +7927,9 @@
           "4": ["Black Knight - Sinister General"],
           "5": ["Marth - Altean Groom"]
         },
-        "legendary": { "5": ["Lucina - Glorious Archer"] },
+        "legendary": {
+          "5": ["Lucina - Glorious Archer", "Hinoka - Thundering Wings"]
+        },
         "special": {
           "5": ["Conrad - Unmasked Knight", "Owain - Devoted Defender"]
         }
@@ -7929,6 +7938,13 @@
       "name": "救援路線3",
       "sp": 240,
       "icon": "skillB/Wings_of_Mercy_3.png"
+    },
+    "Wings of Mercy 4": {
+      "pool": { "legendary": { "5": ["Hinoka - Thundering Wings"] } },
+      "id": "Wings of Mercy 4",
+      "name": "救援路線4",
+      "sp": 300,
+      "icon": "skillB/Wings_of_Mercy_4.png"
     },
     "Escape Route 3": {
       "pool": {

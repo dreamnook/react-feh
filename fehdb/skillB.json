@@ -557,6 +557,14 @@
     "icon": "skillB/Wings_of_Mercy_3.png",
     "last": true
   },
+  "Wings of Mercy 4": {
+    "id": "Wings of Mercy 4",
+    "name": "救援路線4",
+    "sp": 300,
+    "prev": ["Wings of Mercy 3"],
+    "icon": "skillB/Wings_of_Mercy_4.png",
+    "last": true
+  },
   "Escape Route 1": {
     "id": "Escape Route 1",
     "name": "脫離路線1",
