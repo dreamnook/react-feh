@@ -3254,6 +3254,43 @@
     "ver": "7.0",
     "df": 5
   },
+  "Heiðr - Innocent Goddess": {
+    "id": "Heiðr - Innocent Goddess",
+    "title": "純潔無瑕的女神",
+    "name": "海慈",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "astra-res-2",
+    "releaseDate": "2023-06-08",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [42, 45, 49],
+        "spd": [42, 45, 48],
+        "def": [26, 29, 32],
+        "res": [17, 20, 23]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 15,
+        "spd": 10,
+        "def": 5,
+        "res": 5
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
+  },
   "Nerþuz - God of the Land": {
     "id": "Nerþuz - God of the Land",
     "title": "地之女神",
@@ -14775,6 +14812,69 @@
     "ver": "1.2",
     "df": 20
   },
+  "Murdock - Loyal General": {
+    "id": "Murdock - Loyal General",
+    "title": "伯爾尼三龍將之首",
+    "name": "墨德克",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "armored",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2023-06-08",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "3": {
+        "hp": [40, 43, 46],
+        "atk": [38, 41, 44],
+        "spd": [17, 20, 23],
+        "def": [37, 40, 43],
+        "res": [28, 31, 34]
+      },
+      "4": {
+        "hp": [41, 44, 47],
+        "atk": [40, 43, 47],
+        "spd": [18, 21, 24],
+        "def": [39, 43, 46],
+        "res": [29, 32, 35]
+      },
+      "5": {
+        "hp": [44, 47, 50],
+        "atk": [42, 45, 49],
+        "spd": [20, 23, 27],
+        "def": [41, 45, 48],
+        "res": [32, 35, 38]
+      },
+      "3-1": {
+        "hp": 20,
+        "atk": 14,
+        "spd": 3,
+        "def": 11,
+        "res": 6
+      },
+      "4-1": {
+        "hp": 20,
+        "atk": 15,
+        "spd": 3,
+        "def": 12,
+        "res": 6
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 15,
+        "spd": 4,
+        "def": 12,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["def"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
+  },
   "Brunnya - Devoted General": {
     "id": "Brunnya - Devoted General",
     "title": "忠誠不二的龍將",
@@ -15102,6 +15202,74 @@
     "ver": "5.5",
     "df": 15
   },
+  "Saul - Loving Shepherd": {
+    "id": "Saul - Loving Shepherd",
+    "title": "在野聖者",
+    "name": "薩沃爾",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-staff",
+    "releaseDate": "2023-06-08",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [37, 40, 43],
+        "spd": [41, 44, 47],
+        "def": [12, 16, 19],
+        "res": [37, 40, 43]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 12,
+        "spd": 9,
+        "def": 3,
+        "res": 12
+      }
+    },
+    "assets": [],
+    "flaws": ["hp", "def"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
+  },
+  "Dorothy - Devoted Archer": {
+    "id": "Dorothy - Devoted Archer",
+    "title": "內心美麗的弓箭手",
+    "name": "桃樂絲",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-bow",
+    "releaseDate": "2023-06-08",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [40, 43, 47],
+        "def": [22, 25, 29],
+        "res": [25, 28, 31]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 13,
+        "def": 6,
+        "res": 4
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
+  },
   "Zelot - Avowed Groom": {
     "id": "Zelot - Avowed Groom",
     "title": "新郎的誓言",
@@ -15150,6 +15318,40 @@
     "book": 5,
     "ver": "5.5",
     "df": 15
+  },
+  "Noah - Mercenary-Errant": {
+    "id": "Noah - Mercenary-Errant",
+    "title": "流浪的傭兵騎士",
+    "name": "諾亞",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-lance",
+    "releaseDate": "2023-06-08",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [42, 45, 48],
+        "def": [28, 31, 34],
+        "res": [15, 18, 21]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 10,
+        "def": 5,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
   },
   "Juno - Soaring Bride": {
     "id": "Juno - Soaring Bride",
@@ -15668,6 +15870,41 @@
     "book": 4,
     "ver": "4.3",
     "df": 20
+  },
+  "Fir - Swordmaiden": {
+    "id": "Fir - Swordmaiden",
+    "title": "為劍而生的少女",
+    "name": "菲爾",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "ascended": true,
+    "releaseDate": "2023-06-08",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [40, 44, 47],
+        "spd": [43, 46, 50],
+        "def": [31, 34, 37],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 16,
+        "def": 6,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["atk"],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
   },
   "Rutger - Lone Swordsman": {
     "id": "Rutger - Lone Swordsman",

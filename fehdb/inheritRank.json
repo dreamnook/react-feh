@@ -863,6 +863,19 @@
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Staff Valor 3": { "sp": 120, "rarity": 5 } }
   },
+  "Saul - Loving Shepherd": {
+    "score": 75,
+    "scoreTotal": 233,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 177,
+    "assist": { "Restore+": { "sp": 300, "rarity": 5 } },
+    "special": { "Heavenly Light": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Distant Def 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Res 2": { "sp": 240, "rarity": 5 } }
+  },
   "Mia - Moonlit Witch": {
     "score": 80,
     "scoreTotal": 236,
@@ -4560,6 +4573,18 @@
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
   },
+  "Dorothy - Devoted Archer": {
+    "score": 240,
+    "scoreTotal": 630,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 182,
+    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
+  },
   "Sakura - Gentle Nekomata": {
     "score": 212,
     "scoreTotal": 636,
@@ -6966,6 +6991,18 @@
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } }
   },
+  "Noah - Mercenary-Errant": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Flow Guard 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Alarm Spd/Def": { "sp": 300, "rarity": 5 } }
+  },
   "Geoffrey - Realm's Protector": {
     "score": 300,
     "scoreTotal": 740,
@@ -7473,6 +7510,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillA": { "Swift Stance 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Murdock - Loyal General": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 195,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Ludveck - Rebellious Duke": {
     "score": 322,
@@ -11275,6 +11325,19 @@
     "skillB": { "Quick Riposte 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
   },
+  "Fir - Swordmaiden": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Phys. Null Follow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
   "Alear - Dragon Child": {
     "score": 300,
     "scoreTotal": 1100,
@@ -11616,6 +11679,20 @@
     "special": { "Godlike Reflexes": { "sp": 500, "rarity": 5 } },
     "skillB": { "Shield Pulse 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Heiðr - Innocent Goddess": {
+    "score": 276,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 177,
+    "assist": { "Rally Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Tanith - Forthright Heart": {
     "score": 424,

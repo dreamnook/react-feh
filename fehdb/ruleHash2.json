@@ -308,5 +308,13 @@
   "learner.armored-not-staff": {
     "weaponType": 16777207,
     "moveType": 2
+  },
+  "learner.phy-null-follow": {
+    "moveType": 1,
+    "weaponType": 15732727
+  },
+  "learner.mag-null-follow": {
+    "moveType": 1,
+    "weaponType": 1044488
   }
 }

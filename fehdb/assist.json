@@ -226,6 +226,14 @@
     "exclusive": ["Chrom - Fell Exalt"],
     "last": true
   },
+  "Gold Serpent": {
+    "id": "Gold Serpent",
+    "name": "黃金蛇",
+    "sp": 400,
+    "prev": ["Rally Atk/Spd"],
+    "exclusive": ["Heiðr - Innocent Goddess"],
+    "last": true
+  },
   "Heal": {
     "id": "Heal",
     "name": "聖療",

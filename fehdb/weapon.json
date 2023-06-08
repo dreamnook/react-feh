@@ -2754,6 +2754,16 @@
       "exclusive": ["Byleth - Vengeance Vessel"],
       "last": true
     },
+    "Vassal-Saint Steel": {
+      "id": "Vassal-Saint Steel",
+      "name": "劍姬與劍聖的秘刀",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Wo Dao"],
+      "exclusive": ["Fir - Swordmaiden"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -6164,6 +6174,16 @@
       "exclusive": ["Say'ri - Righteous Bride"],
       "last": true
     },
+    "Ilian Merc Lance": {
+      "id": "Ilian Merc Lance",
+      "name": "伊莉亞傭兵騎士之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Noah - Mercenary-Errant"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -9282,6 +9302,16 @@
       "exclusive": ["Linus - Savage Dog"],
       "last": true
     },
+    "Wyvern Hatchet": {
+      "id": "Wyvern Hatchet",
+      "name": "龍將托馬霍克",
+      "mt": 16,
+      "def": 3,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Murdock - Loyal General"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -12377,6 +12407,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Unbound Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Defier's Bow": {
+      "id": "Defier's Bow",
+      "name": "防守逆用之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Defier's Bow+": {
+      "id": "Defier's Bow+",
+      "name": "防守逆用之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Defier's Bow"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -20722,6 +20785,16 @@
       "exclusive": ["Robin - Exalt's Other Half"],
       "last": true
     },
+    "Heiðr": {
+      "id": "Heiðr",
+      "name": "海慈",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Heiðr - Innocent Goddess"],
+      "last": true
+    },
     "Wind": {
       "id": "Wind",
       "name": "烈風",
@@ -22283,6 +22356,31 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Aid"],
+      "refine": {
+        "wrathful": {
+          "name": "神罰",
+          "icon": "Wrathful_Staff_W"
+        },
+        "dazzling": {
+          "name": "幻惑",
+          "icon": "Dazzling_Staff_W"
+        }
+      },
+      "last": true
+    },
+    "Incurable": {
+      "id": "Incurable",
+      "name": "不癒",
+      "mt": 8,
+      "sp": 150,
+      "prev": ["Assault"]
+    },
+    "Incurable+": {
+      "id": "Incurable+",
+      "name": "不癒+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Incurable"],
       "refine": {
         "wrathful": {
           "name": "神罰",

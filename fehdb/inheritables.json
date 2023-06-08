@@ -1167,6 +1167,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Defier's Bow+": {
+        "pool": { "#": { "5": ["Dorothy - Devoted Archer"] } },
+        "id": "Defier's Bow+",
+        "name": "防守逆用之弓+",
+        "sp": 300,
+        "refine": 350
+      },
       "Protection Bow+": {
         "pool": { "#": { "3": ["Etie - Fitness Fighter"] } },
         "id": "Protection Bow+",
@@ -2327,6 +2334,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Incurable+": {
+        "pool": { "#": { "5": ["Saul - Loving Shepherd"] } },
+        "id": "Incurable+",
+        "name": "不癒+",
+        "sp": 300,
+        "refine": 350
+      },
       "Candlelight+": {
         "pool": { "special": { "5": ["Lyn - Bride of the Plains"] } },
         "id": "Candlelight+",
@@ -2629,7 +2643,11 @@
       "pool": {
         "#": {
           "3": ["Nanna - Nordion Princess", "Elice - Altean Princess"],
-          "5": ["Camilla - Light of Nohr", "Loki - The Trickster"]
+          "5": [
+            "Saul - Loving Shepherd",
+            "Camilla - Light of Nohr",
+            "Loki - The Trickster"
+          ]
         },
         "special": {
           "5": [
@@ -2898,6 +2916,7 @@
           ]
         },
         "grail": { "4": ["Ignatz - Snowscape Artist"] },
+        "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
           "5": [
             "Cordelia - Perfect Bride",
@@ -3208,6 +3227,7 @@
             "Linde - Light Mage",
             "Elincia - Lost Princess",
             "Deirdre - Lady of the Forest",
+            "Dorothy - Devoted Archer",
             "Micaiah - Queen of Dawn",
             "Micaiah - Priestess of Dawn",
             "Bernadetta - Eternal Loner"
@@ -3483,6 +3503,7 @@
             "Nyx - Rulebreaker Mage",
             "Mareeta - The Blade's Pawn",
             "Seliph - Enduring Legacy",
+            "Noah - Mercenary-Errant",
             "Geoffrey - Realm's Protector",
             "Malice - Deft Sellsword",
             "Galzus - Dark Blade of Od",
@@ -3629,6 +3650,7 @@
             "Joshua - Resolute Tempest",
             "Corrin - Bloodbound Beast",
             "Morgan - Devoted Darkness",
+            "Fir - Swordmaiden",
             "Tana - Soaring Princess",
             "Shinon - Scathing Archer"
           ]
@@ -4077,6 +4099,7 @@
             "Jorge - Traveling Peddler",
             "Bertram - Dread Cavalier",
             "Flame Emperor - Bringer of War",
+            "Murdock - Loyal General",
             "Ludveck - Rebellious Duke",
             "Cervantes - Invincible General"
           ]
@@ -4501,7 +4524,7 @@
             "Dwyer - Sleepy Butler",
             "Elice - Altean Princess"
           ],
-          "5": ["Genny - Endearing Ally"]
+          "5": ["Genny - Endearing Ally", "Saul - Loving Shepherd"]
         },
         "grail": {
           "4": [
@@ -5180,7 +5203,13 @@
         "legendary": {
           "5": ["Celica - Queen of Valentia", "Lucina - Glorious Archer"]
         },
-        "mythic": { "5": ["Eir - Merciful Death", "Reginn - Bearing Hope"] },
+        "mythic": {
+          "5": [
+            "Eir - Merciful Death",
+            "Reginn - Bearing Hope",
+            "Heiðr - Innocent Goddess"
+          ]
+        },
         "special": {
           "4": ["Sothe - Rushing Dawn", "Corrin - Daylight Ninja Act"],
           "5": [
@@ -5435,6 +5464,7 @@
     },
     "Remote Sparrow": {
       "pool": {
+        "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
           "5": ["Anna - Secret Charmer", "Bernadetta - Late Hibernator"]
         },
@@ -6100,6 +6130,7 @@
       "pool": {
         "#": {
           "5": [
+            "Saul - Loving Shepherd",
             "Celica - Caring Princess",
             "Rhajat - Black Magician",
             "Micaiah - Priestess of Dawn",
@@ -7527,7 +7558,10 @@
           "3": ["Scáthach - Astra's Wake", "Etie - Fitness Fighter"],
           "5": ["Edelgard - Hegemon Husk", "Priam - Radiant Hero"]
         },
-        "grail": { "5": ["Cervantes - Invincible General"] },
+        "grail": {
+          "4": ["Murdock - Loyal General"],
+          "5": ["Cervantes - Invincible General"]
+        },
         "legendary": { "5": ["Byleth - The Fódlan Star"] },
         "mythic": { "5": ["Askr - God of Openness"] },
         "special": { "4": ["Lyon - Sunlit Prince"] },
@@ -7596,7 +7630,9 @@
       "icon": "skillA/Spd_Def_Ideal_4.png"
     },
     "Spd/Res Ideal 3": {
-      "pool": { "#": { "5": ["Céline - Joyous Royal"] } },
+      "pool": {
+        "#": { "5": ["Dorothy - Devoted Archer", "Céline - Joyous Royal"] }
+      },
       "id": "Spd/Res Ideal 3",
       "name": "速度魔防萬全3",
       "sp": 240,
@@ -7734,7 +7770,7 @@
     },
     "Atk/Spd Finish 3": {
       "pool": {
-        "#": { "5": ["Felix - Lone-Wolf Blade"] },
+        "#": { "5": ["Fir - Swordmaiden", "Felix - Lone-Wolf Blade"] },
         "special": {
           "5": [
             "Rebecca - Breezy Scamp",
@@ -7750,7 +7786,7 @@
     },
     "Atk/Spd Finish 4": {
       "pool": {
-        "#": { "5": ["Felix - Lone-Wolf Blade"] },
+        "#": { "5": ["Fir - Swordmaiden", "Felix - Lone-Wolf Blade"] },
         "special": { "5": ["Nino - Spirited Sorcerer", "Corrin - Starry Seer"] }
       },
       "id": "Atk/Spd Finish 4",
@@ -8192,6 +8228,7 @@
             "Ephraim - Sacred Twin Lord"
           ]
         },
+        "grail": { "5": ["Murdock - Loyal General"] },
         "special": {
           "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
@@ -9589,11 +9626,13 @@
             "Corrin - Bloodbound Beast",
             "Dieck - Wounded Tiger",
             "Priam - Radiant Hero",
+            "Fir - Swordmaiden",
             "Volke - Man of Mysteries"
           ]
         },
         "grail": { "5": ["Lumera - Dragon Monarch"] },
         "legendary": { "5": ["Alm - Saint-King"] },
+        "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
           "4": ["Rebecca - Breezy Scamp"],
           "5": ["Velouria - Renewed Wolfpup"]
@@ -9604,6 +9643,20 @@
       "name": "識破・追擊效果3",
       "sp": 240,
       "icon": "skillB/Null_Follow_Up_3.png"
+    },
+    "Phys. Null Follow": {
+      "pool": { "#": { "5": ["Fir - Swordmaiden"] } },
+      "id": "Phys. Null Follow",
+      "name": "理之識破・追擊",
+      "sp": 300,
+      "icon": "skillB/Phys._Null_Follow.png"
+    },
+    "Mag. Null Follow": {
+      "pool": { "mythic": { "5": ["Heiðr - Innocent Goddess"] } },
+      "id": "Mag. Null Follow",
+      "name": "魔之識破・追擊",
+      "sp": 300,
+      "icon": "skillB/Mag._Null_Follow.png"
     },
     "Null C-Disrupt 3": {
       "pool": {
@@ -10045,6 +10098,7 @@
     },
     "Flow Guard 3": {
       "pool": {
+        "#": { "5": ["Noah - Mercenary-Errant"] },
         "mythic": { "5": ["Thórr - War God"] },
         "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
       },
@@ -10458,6 +10512,7 @@
         "#": {
           "3": ["Soleil - Adorable Adorer"],
           "5": [
+            "Saul - Loving Shepherd",
             "Sara - Lady of Loptr",
             "Neimi - Tearful Archer",
             "Edelgard - Adrestian Emperor",
@@ -11722,7 +11777,11 @@
         "grail": { "5": ["Linus - Savage Dog"] },
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "mythic": {
-          "5": ["Thrasir - Omnicidal Witch", "Reginn - Bearing Hope"]
+          "5": [
+            "Thrasir - Omnicidal Witch",
+            "Reginn - Bearing Hope",
+            "Heiðr - Innocent Goddess"
+          ]
         },
         "special": { "5": ["Ursula - Royal-Blue Crow"] },
         "harmonized": { "5": ["Caeda - Sea-Blossom Pair"] }
@@ -11735,6 +11794,7 @@
     "Panic Smoke 4": {
       "pool": {
         "legendary": { "5": ["Veronica - Princess Rising"] },
+        "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": { "5": ["Ursula - Royal-Blue Crow"] }
       },
       "id": "Panic Smoke 4",
@@ -12487,7 +12547,11 @@
       "pool": {
         "#": {
           "3": ["Ferdinand - Noblest of Nobles"],
-          "5": ["Corrin - Bloodbound Beast", "Priam - Radiant Hero"]
+          "5": [
+            "Noah - Mercenary-Errant",
+            "Corrin - Bloodbound Beast",
+            "Priam - Radiant Hero"
+          ]
         }
       },
       "id": "Rouse Spd/Def 3",
@@ -12530,13 +12594,21 @@
       "sp": 300,
       "icon": "skillC/Alarm_Atk_Spd.png"
     },
+    "Alarm Spd/Def": {
+      "pool": { "#": { "5": ["Noah - Mercenary-Errant"] } },
+      "id": "Alarm Spd/Def",
+      "name": "速度防守的奮進",
+      "sp": 300,
+      "icon": "skillC/Alarm_Spd_Def.png"
+    },
     "Atk/Spd Oath 3": {
       "pool": {
         "#": {
           "5": [
             "Shez - Rising Mercenary",
             "Ike - Zeal Unleashed",
-            "Louise - Lady of Violets"
+            "Louise - Lady of Violets",
+            "Fir - Swordmaiden"
           ]
         },
         "grail": {
@@ -12555,7 +12627,7 @@
     },
     "Atk/Spd Oath 4": {
       "pool": {
-        "#": { "5": ["Shez - Rising Mercenary"] },
+        "#": { "5": ["Shez - Rising Mercenary", "Fir - Swordmaiden"] },
         "legendary": { "5": ["Shez - Sharpest Blades"] },
         "special": { "5": ["Eirika - Beach Restorer"] }
       },
@@ -12577,6 +12649,7 @@
     },
     "Atk/Res Oath 3": {
       "pool": {
+        "#": { "5": ["Dorothy - Devoted Archer"] },
         "grail": { "5": ["Pelleas - Ashnard's Orphan"] },
         "legendary": { "5": ["Julia - Crusader of Light"] },
         "mythic": { "5": ["Arval - Cycle Keeper"] },

@@ -2287,6 +2287,37 @@
       "Future-Focused": 5
     }
   },
+  "Heiðr - Innocent Goddess": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 3,
+      "Heiðr": 5
+    },
+    "assist": {
+      "Rally Attack": 3,
+      "Rally Atk/Spd": 4,
+      "Gold Serpent": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Remote Sparrow": 5
+    },
+    "skillB": {
+      "Null Follow-Up 1": 2,
+      "Null Follow-Up 2": 3,
+      "Null Follow-Up 3": 4,
+      "Mag. Null Follow": 5
+    },
+    "skillC": {
+      "Panic Smoke 1": 2,
+      "Panic Smoke 2": 3,
+      "Panic Smoke 3": 4,
+      "Panic Smoke 4": 5
+    }
+  },
   "Nerþuz - God of the Land": {
     "weapon": {
       "Whelp (Cavalry)": 1,
@@ -8341,6 +8372,28 @@
       "Wary Fighter 3": 4
     }
   },
+  "Murdock - Loyal General": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Wyvern Hatchet": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Def Ideal 1": 1,
+      "Atk/Def Ideal 2": 2,
+      "Atk/Def Ideal 3": 4
+    },
+    "skillB": {
+      "Special Fighter 1": 3,
+      "Special Fighter 2": 4,
+      "Special Fighter 3": 5
+    }
+  },
   "Brunnya - Devoted General": {
     "weapon": {
       "Thunder": 1,
@@ -8512,6 +8565,54 @@
       "Odd Recovery 3": 4
     }
   },
+  "Saul - Loving Shepherd": {
+    "weapon": {
+      "Assault": 1,
+      "Incurable": 3,
+      "Incurable+": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 2,
+      "Restore": 3,
+      "Restore+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Heavenly Light": 3
+    },
+    "skillA": {
+      "Distant Def 1": 3,
+      "Distant Def 2": 4,
+      "Distant Def 3": 5
+    },
+    "skillC": {
+      "Spur Res 1": 1,
+      "Drive Res 1": 2,
+      "Drive Res 2": 4
+    }
+  },
+  "Dorothy - Devoted Archer": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Defier's Bow": 3,
+      "Defier's Bow+": 5
+    },
+    "assist": {
+      "Ardent Sacrifice": 3
+    },
+    "skillA": {
+      "Spd/Res Ideal 1": 1,
+      "Spd/Res Ideal 2": 2,
+      "Spd/Res Ideal 3": 4
+    },
+    "skillC": {
+      "Atk/Res Oath 1": 3,
+      "Atk/Res Oath 2": 4,
+      "Atk/Res Oath 3": 5
+    }
+  },
   "Zelot - Avowed Groom": {
     "weapon": {
       "Iron Axe": 1,
@@ -8532,6 +8633,29 @@
       "Spur Atk 1": 3,
       "Drive Atk 1": 4,
       "Drive Atk 2": 5
+    }
+  },
+  "Noah - Mercenary-Errant": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Ilian Merc Lance": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillB": {
+      "Flow Guard 1": 1,
+      "Flow Guard 2": 2,
+      "Flow Guard 3": 4
+    },
+    "skillC": {
+      "Rouse Spd/Def 1": 2,
+      "Rouse Spd/Def 2": 3,
+      "Rouse Spd/Def 3": 4,
+      "Alarm Spd/Def": 5
     }
   },
   "Juno - Soaring Bride": {
@@ -8792,6 +8916,36 @@
       "Air Orders 1": 1,
       "Air Orders 2": 2,
       "Air Orders 3": 4
+    }
+  },
+  "Fir - Swordmaiden": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Wo Dao": 3,
+      "Vassal-Saint Steel": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Null Follow-Up 1": 2,
+      "Null Follow-Up 2": 3,
+      "Null Follow-Up 3": 4,
+      "Phys. Null Follow": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Oath 4": 5
     }
   },
   "Rutger - Lone Swordsman": {

@@ -3122,6 +3122,22 @@
     "icon": "skillB/Null_Follow_Up_3.png",
     "last": true
   },
+  "Phys. Null Follow": {
+    "id": "Phys. Null Follow",
+    "name": "理之識破・追擊",
+    "sp": 300,
+    "rules": "learner.phy-null-follow",
+    "last": true,
+    "icon": "skillB/Phys._Null_Follow.png"
+  },
+  "Mag. Null Follow": {
+    "id": "Mag. Null Follow",
+    "name": "魔之識破・追擊",
+    "sp": 300,
+    "rules": "learner.mag-null-follow",
+    "last": true,
+    "icon": "skillB/Mag._Null_Follow.png"
+  },
   "Null C-Disrupt 1": {
     "id": "Null C-Disrupt 1",
     "name": "識破・無法反擊1",
