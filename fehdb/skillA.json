@@ -1571,6 +1571,7 @@
     "name": "遠反・鬼神架勢",
     "sp": 300,
     "prev": ["Distant Counter"],
+    "rules": "melee",
     "last": true,
     "icon": "skillA/Distant_Ferocity.png"
   },
