@@ -112,7 +112,7 @@
     "id": "Swift Slice",
     "name": "連閃",
     "sp": 300,
-    "exclusive": ["Shez - Sharpest Blades"],
+    "exclusive": ["Shez - Sharpest Blades", "Shez - Mercenary Shine"],
     "last": true,
     "icon": "skillA/Swift_Slice.png"
   },

@@ -2255,6 +2255,21 @@
       "icon": "skillB/Chill_Atk_Def_2.png",
       "last": true
     },
+    "Chill Atk/Res 1": {
+      "id": "Chill Atk/Res 1",
+      "name": "攻擊魔防封殺1",
+      "sp": 120,
+      "prev": ["Chill Atk 1", "Chill Res 1"],
+      "icon": "skillB/Chill_Atk_Res_1.png"
+    },
+    "Chill Atk/Res 2": {
+      "id": "Chill Atk/Res 2",
+      "name": "攻擊魔防封殺2",
+      "sp": 240,
+      "prev": ["Chill Atk/Res 1"],
+      "icon": "skillB/Chill_Atk_Res_2.png",
+      "last": true
+    },
     "Chill Spd/Res 1": {
       "id": "Chill Spd/Res 1",
       "name": "速度魔防封殺1",
@@ -3539,6 +3554,27 @@
       "prev": ["Ground Orders 2"],
       "rules": "flying",
       "icon": "skillC/Ground_Orders_3.png",
+      "last": true
+    },
+    "Odd Atk Wave 1": {
+      "id": "Odd Atk Wave 1",
+      "name": "攻擊之波・奇數1",
+      "sp": 60,
+      "icon": "skillC/Odd_Atk_Wave_1.png"
+    },
+    "Odd Atk Wave 2": {
+      "id": "Odd Atk Wave 2",
+      "name": "攻擊之波・奇數2",
+      "sp": 120,
+      "prev": ["Odd Atk Wave 1"],
+      "icon": "skillC/Odd_Atk_Wave_2.png"
+    },
+    "Odd Atk Wave 3": {
+      "id": "Odd Atk Wave 3",
+      "name": "攻擊之波・奇數3",
+      "sp": 240,
+      "prev": ["Odd Atk Wave 2"],
+      "icon": "skillC/Odd_Atk_Wave_3.png",
       "last": true
     },
     "Odd Spd Wave 1": {

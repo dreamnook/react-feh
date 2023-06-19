@@ -462,6 +462,14 @@
     "last": true,
     "icon": "skillB/Fruit_of_Life.png"
   },
+  "Sunlight Bangle": {
+    "id": "Sunlight Bangle",
+    "name": "華日手鐲",
+    "sp": 300,
+    "exclusive": ["Ephraim - Sunshine Valiant"],
+    "last": true,
+    "icon": "skillB/Sunlight_Bangle.png"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -655,6 +663,14 @@
     "sp": 200,
     "prev": ["Brash Assault 2"],
     "icon": "skillB/Brash_Assault_3.png",
+    "last": true
+  },
+  "Brash Assault 4": {
+    "id": "Brash Assault 4",
+    "name": "同歸於盡4",
+    "sp": 300,
+    "prev": ["Brash Assault 3"],
+    "icon": "skillB/Brash_Assault_4.png",
     "last": true
   },
   "Quick Riposte 1": {
@@ -3309,6 +3325,15 @@
     "prev": ["Lull Spd/Def 2"],
     "rules": "learner.lull-skills",
     "icon": "skillB/Lull_Spd_Def_3.png",
+    "last": true
+  },
+  "Lull Spd/Def 4": {
+    "id": "Lull Spd/Def 4",
+    "name": "速度防守的靜謐4",
+    "sp": 300,
+    "prev": ["Lull Spd/Def 3"],
+    "rules": "learner.lull-skills",
+    "icon": "skillB/Lull_Spd_Def_4.png",
     "last": true
   },
   "Lull Spd/Res 1": {

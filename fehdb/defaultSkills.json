@@ -11628,6 +11628,33 @@
       "Odd Atk Wave 3": 4
     }
   },
+  "Ephraim - Sunshine Valiant": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Seafoam Splitter": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4
+    },
+    "skillA": {
+      "Atk/Def Clash 1": 2,
+      "Atk/Def Clash 2": 3,
+      "Atk/Def Clash 3": 4,
+      "Atk/Def Clash 4": 5
+    },
+    "skillB": {
+      "Sunlight Bangle": 5
+    },
+    "skillC": {
+      "Rouse Atk/Def 1": 2,
+      "Rouse Atk/Def 2": 3,
+      "Rouse Atk/Def 3": 4,
+      "Alarm Atk/Def": 5
+    }
+  },
   "Seth - Silver Knight": {
     "weapon": {
       "Iron Sword": 1,
@@ -12714,6 +12741,35 @@
       "S/R Far Trace 1": 3,
       "S/R Far Trace 2": 4,
       "S/R Far Trace 3": 5
+    }
+  },
+  "L'Arachel - Summer Princess": {
+    "weapon": {
+      "Assault": 1,
+      "Seaside Parasol": 3,
+      "Seaside Parasol+": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Mend": 3,
+      "Recover": 4,
+      "Recover+": 5
+    },
+    "special": {
+      "Imbue": 4,
+      "Swift-Winds Balm": 5,
+      "Earthwind Balm": 4,
+      "Earthwind Balm+": 5
+    },
+    "skillA": {
+      "Blade Session 1": 3,
+      "Blade Session 2": 4,
+      "Blade Session 3": 5
+    },
+    "skillB": {
+      "Wrathful Staff 1": 1,
+      "Wrathful Staff 2": 2,
+      "Wrathful Staff 3": 4
     }
   },
   "Dozla - Harvest Attendant": {
@@ -22865,6 +22921,36 @@
       "Atk/Spd Oath 3": 5
     }
   },
+  "Shamir - Heartbeats United": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Partnership Bow": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Deadeye": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Remote Sparrow": 5
+    },
+    "skillB": {
+      "Brash Assault 1": 2,
+      "Brash Assault 2": 3,
+      "Brash Assault 3": 4,
+      "Brash Assault 4": 5
+    },
+    "skillC": {
+      "Fatal Smoke 1": 1,
+      "Fatal Smoke 2": 2,
+      "Fatal Smoke 3": 4
+    }
+  },
   "Gatekeeper - Nothing to Report": {
     "weapon": {
       "Wind": 1,
@@ -23049,6 +23135,28 @@
       "Atk/Spd Oath 4": 5
     }
   },
+  "Shez - Mercenary Shade": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Surfer's Spade": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Atk/Spd Solo 1": 3,
+      "Atk/Spd Solo 2": 4,
+      "Atk/Spd Solo 3": 5
+    },
+    "skillB": {
+      "Chill Def 1": 1,
+      "Chill Def 2": 2,
+      "Chill Def 3": 4
+    }
+  },
   "Shez - Keen Mercenary": {
     "weapon": {
       "Iron Axe": 1,
@@ -23096,6 +23204,33 @@
       "Atk/Spd Oath 2": 3,
       "Atk/Spd Oath 3": 4,
       "Atk/Spd Oath 4": 5
+    }
+  },
+  "Shez - Mercenary Shine": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Surfer's Spire": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Swift Slice": 5
+    },
+    "skillB": {
+      "Lull Spd/Def 1": 2,
+      "Lull Spd/Def 2": 3,
+      "Lull Spd/Def 3": 4,
+      "Lull Spd/Def 4": 5
+    },
+    "skillC": {
+      "Threaten Def 1": 2,
+      "Threat. Atk/Def 1": 3,
+      "Threat. Atk/Def 2": 4,
+      "Atk/Def Menace": 5
     }
   },
   "Monica - Favored Vassal": {

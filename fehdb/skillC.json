@@ -3018,6 +3018,15 @@
     "last": true,
     "icon": "skillC/Alarm_Atk_Spd.png"
   },
+  "Alarm Atk/Def": {
+    "id": "Alarm Atk/Def",
+    "name": "攻擊防守的奮進",
+    "sp": 300,
+    "rules": "learner.cavalry-melee",
+    "prev": ["Rouse Atk/Def 3"],
+    "last": true,
+    "icon": "skillC/Alarm_Atk_Def.png"
+  },
   "Alarm Spd/Def": {
     "id": "Alarm Spd/Def",
     "name": "速度防守的奮進",

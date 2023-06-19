@@ -3301,7 +3301,7 @@
     "weaponType": "blue-beast",
     "pool": "mythic",
     "blesser": "mythic",
-    "blessing": "light-spd",
+    "blessing": "light-spd-2",
     "releaseDate": "2023-04-28",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -15240,19 +15240,33 @@
     "id": "Dorothy - Devoted Archer",
     "title": "內心美麗的弓箭手",
     "name": "桃樂絲",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-bow",
     "releaseDate": "2023-06-08",
     "appearsIn": ["The Binding Blade"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [41, 44, 47],
+        "spd": [38, 41, 45],
+        "def": [20, 23, 26],
+        "res": [22, 25, 28]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [43, 46, 49],
         "spd": [40, 43, 47],
         "def": [22, 25, 29],
         "res": [25, 28, 31]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 13,
+        "def": 5,
+        "res": 3
       },
       "5-1": {
         "hp": 18,
@@ -20730,6 +20744,41 @@
     "ver": "3.11",
     "df": 20
   },
+  "Ephraim - Sunshine Valiant": {
+    "id": "Ephraim - Sunshine Valiant",
+    "title": "英勇的炎陽",
+    "name": "艾夫拉姆",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2023-06-19",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [44, 47, 51],
+        "spd": [12, 16, 19],
+        "def": [41, 44, 47],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 17,
+        "spd": 3,
+        "def": 9,
+        "res": 5
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
+  },
   "Seth - Silver Knight": {
     "id": "Seth - Silver Knight",
     "title": "純銀的聖騎士",
@@ -22837,6 +22886,41 @@
     "book": 5,
     "ver": "5.4",
     "df": 15
+  },
+  "L'Arachel - Summer Princess": {
+    "id": "L'Arachel - Summer Princess",
+    "title": "夏日景緻的聖公主",
+    "name": "拉切爾",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-staff",
+    "pool": "special",
+    "releaseDate": "2023-06-19",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [43, 46, 50],
+        "spd": [41, 44, 47],
+        "def": [12, 16, 19],
+        "res": [27, 30, 33]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 16,
+        "spd": 9,
+        "def": 3,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def"],
+    "statMin": 173,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
   },
   "Dozla - Harvest Attendant": {
     "id": "Dozla - Harvest Attendant",
@@ -40967,6 +41051,42 @@
     "ver": "5.11",
     "df": 10
   },
+  "Shamir - Heartbeats United": {
+    "id": "Shamir - Heartbeats United",
+    "title": "心靈常伴左右",
+    "name": "薩米亞",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-bow",
+    "bst": 200,
+    "pool": "duo",
+    "releaseDate": "2023-06-19",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [43, 46, 49],
+        "def": [21, 25, 28],
+        "res": [17, 20, 23]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 11,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def"],
+    "statMin": 174,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
+  },
   "Gatekeeper - Nothing to Report": {
     "id": "Gatekeeper - Nothing to Report",
     "title": "大修道院的",
@@ -41413,6 +41533,55 @@
     "ver": "6.9",
     "df": 5
   },
+  "Shez - Mercenary Shade": {
+    "id": "Shez - Mercenary Shade",
+    "title": "傭兵的暑假",
+    "name": "謝茲",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "pool": "grail",
+    "releaseDate": "2023-06-19",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [39, 42, 45],
+        "spd": [39, 42, 46],
+        "def": [25, 28, 31],
+        "res": [18, 21, 24]
+      },
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [41, 44, 47],
+        "spd": [41, 44, 48],
+        "def": [28, 31, 34],
+        "res": [20, 23, 27]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 14,
+        "def": 6,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 9,
+        "spd": 14,
+        "def": 7,
+        "res": 4
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
+  },
   "Shez - Keen Mercenary": {
     "id": "Shez - Keen Mercenary",
     "title": "前途無量的傭兵",
@@ -41511,6 +41680,41 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.0",
+    "df": 5
+  },
+  "Shez - Mercenary Shine": {
+    "id": "Shez - Mercenary Shine",
+    "title": "盛夏的休養任務",
+    "name": "謝茲",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2023-06-19",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 50],
+        "spd": [42, 45, 48],
+        "def": [27, 30, 33],
+        "res": [15, 18, 21]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 16,
+        "spd": 10,
+        "def": 4,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.6",
     "df": 5
   },
   "Monica - Favored Vassal": {

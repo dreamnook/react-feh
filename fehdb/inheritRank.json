@@ -1493,6 +1493,20 @@
     "skillB": { "Wrathful Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd Opening 3": { "sp": 240, "rarity": 5 } }
   },
+  "L'Arachel - Summer Princess": {
+    "score": 80,
+    "scoreTotal": 286,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1080,
+    "feather": 1000,
+    "bst": 173,
+    "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
+    "special": { "Earthwind Balm+": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Blade Session 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Wrathful Staff 3": { "sp": 240, "rarity": 5 } }
+  },
   "Hilda - Deer's Two-Piece": {
     "score": 80,
     "scoreTotal": 286,
@@ -1986,6 +2000,18 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
+  },
+  "Dorothy - Devoted Archer": {
+    "score": 185,
+    "scoreTotal": 373,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 182,
+    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
   },
   "Gerome - Masked Rider": {
     "score": 374,
@@ -4573,18 +4599,6 @@
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
   },
-  "Dorothy - Devoted Archer": {
-    "score": 240,
-    "scoreTotal": 630,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 1000,
-    "bst": 182,
-    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
-  },
   "Sakura - Gentle Nekomata": {
     "score": 212,
     "scoreTotal": 636,
@@ -4974,6 +4988,19 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Shez - Mercenary Shade": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 183,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Solo 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Chill Def 3": { "sp": 240, "rarity": 4 } }
   },
   "Legion - Masked Maniac": {
     "score": 269,
@@ -8691,6 +8718,32 @@
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Def Menace": { "sp": 300, "rarity": 5 } }
   },
+  "Ephraim - Sunshine Valiant": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Alarm Atk/Def": { "sp": 300, "rarity": 5 } }
+  },
+  "Shez - Mercenary Shine": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Lull Spd/Def 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Def Menace": { "sp": 300, "rarity": 5 } }
+  },
   "Múspell - Raging Inferno": {
     "score": 318,
     "scoreTotal": 848,
@@ -12206,6 +12259,20 @@
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Chill Def/Res 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Shamir - Heartbeats United": {
+    "score": 530,
+    "scoreTotal": 1420,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1340,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Brash Assault 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Fatal Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Chrom - Fell Exalt": {
     "score": 500,

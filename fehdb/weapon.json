@@ -2764,6 +2764,16 @@
       "exclusive": ["Fir - Swordmaiden"],
       "last": true
     },
+    "Surfer's Spire": {
+      "id": "Surfer's Spire",
+      "name": "深邃海底的雙劍",
+      "mt": 11,
+      "spd": 5,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Shez - Mercenary Shine"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -6184,6 +6194,16 @@
       "exclusive": ["Noah - Mercenary-Errant"],
       "last": true
     },
+    "Surfer's Spade": {
+      "id": "Surfer's Spade",
+      "name": "深邃海底的雙槍",
+      "mt": 11,
+      "spd": 5,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Shez - Mercenary Shade"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -9312,6 +9332,16 @@
       "exclusive": ["Murdock - Loyal General"],
       "last": true
     },
+    "Seafoam Splitter": {
+      "id": "Seafoam Splitter",
+      "name": "二分蒼海的裂帛之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Ephraim - Sunshine Valiant"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -12020,6 +12050,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Partnership Bow": {
+      "id": "Partnership Bow",
+      "name": "畢生搭檔之銳弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Shamir - Heartbeats United"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -22731,6 +22771,31 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Staff of Tribute"],
+      "refine": {
+        "wrathful": {
+          "name": "神罰",
+          "icon": "Wrathful_Staff_W"
+        },
+        "dazzling": {
+          "name": "幻惑",
+          "icon": "Dazzling_Staff_W"
+        }
+      },
+      "last": true
+    },
+    "Seaside Parasol": {
+      "id": "Seaside Parasol",
+      "name": "海邊的洋傘",
+      "mt": 8,
+      "sp": 150,
+      "prev": ["Assault"]
+    },
+    "Seaside Parasol+": {
+      "id": "Seaside Parasol+",
+      "name": "海邊的洋傘+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Seaside Parasol"],
       "refine": {
         "wrathful": {
           "name": "神罰",

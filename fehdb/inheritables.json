@@ -1168,7 +1168,7 @@
         "refine": 350
       },
       "Defier's Bow+": {
-        "pool": { "#": { "5": ["Dorothy - Devoted Archer"] } },
+        "pool": { "#": { "4": ["Dorothy - Devoted Archer"] } },
         "id": "Defier's Bow+",
         "name": "防守逆用之弓+",
         "sp": 300,
@@ -2438,6 +2438,13 @@
         "name": "感謝之花杖+",
         "sp": 300,
         "refine": 350
+      },
+      "Seaside Parasol+": {
+        "pool": { "special": { "5": ["L'Arachel - Summer Princess"] } },
+        "id": "Seaside Parasol+",
+        "name": "海邊的洋傘+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "dragon": {
@@ -2588,7 +2595,9 @@
           ]
         },
         "grail": { "5": ["Nanna - Mystletainn Scion"] },
-        "special": { "5": ["Mia - Moonlit Witch"] }
+        "special": {
+          "5": ["Mia - Moonlit Witch", "L'Arachel - Summer Princess"]
+        }
       },
       "id": "Recover+",
       "name": "聖癒+",
@@ -3223,11 +3232,11 @@
             "Tatiana - Devoted Saint",
             "Tanith - Bright Blade"
           ],
+          "4": ["Dorothy - Devoted Archer"],
           "5": [
             "Linde - Light Mage",
             "Elincia - Lost Princess",
             "Deirdre - Lady of the Forest",
-            "Dorothy - Devoted Archer",
             "Micaiah - Queen of Dawn",
             "Micaiah - Priestess of Dawn",
             "Bernadetta - Eternal Loner"
@@ -3532,6 +3541,7 @@
             "Loki - Spring Trickster",
             "Black Knight - Sinister General",
             "Ylgr - Breaking the Ice",
+            "Shez - Mercenary Shade",
             "Valter - Dark Moonstone",
             "Kronya - Gleaming Blade",
             "Linus - Mad Dog"
@@ -3685,6 +3695,7 @@
             "Hector - Just Here to Fight",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
+            "Shez - Mercenary Shine",
             "Gunnthrá - Year's First Dream",
             "Merric - Changing Winds",
             "Naesala - Sea's Shadow",
@@ -3699,7 +3710,8 @@
           "5": [
             "Duma - Strength and Love",
             "Líf - Undying Ties Duo",
-            "Chrom - Fate-Defying Duo"
+            "Chrom - Fate-Defying Duo",
+            "Shamir - Heartbeats United"
           ]
         },
         "harmonized": {
@@ -3716,7 +3728,9 @@
         "legendary": { "5": ["Hinoka - Thundering Wings"] },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
         "special": { "5": ["Shinon - Sharptongue Ninja"] },
-        "duo": { "5": ["Chrom - Fate-Defying Duo"] }
+        "duo": {
+          "5": ["Chrom - Fate-Defying Duo", "Shamir - Heartbeats United"]
+        }
       },
       "id": "Deadeye",
       "name": "狙擊",
@@ -4054,6 +4068,7 @@
             "Rudolf - Emperor of Rigel",
             "Surtr - Pirate of Red Sky",
             "Ash - Earnest Greetings",
+            "Ephraim - Sunshine Valiant",
             "Hector - Sworn Friend"
           ]
         },
@@ -4598,6 +4613,18 @@
       },
       "id": "Fireflood Balm+",
       "name": "業火靜水的祝福+",
+      "sp": 300
+    },
+    "Earthwind Balm": {
+      "pool": { "special": { "5": ["L'Arachel - Summer Princess"] } },
+      "id": "Earthwind Balm",
+      "name": "疾風大地的祝福",
+      "sp": 200
+    },
+    "Earthwind Balm+": {
+      "pool": { "special": { "5": ["L'Arachel - Summer Princess"] } },
+      "id": "Earthwind Balm+",
+      "name": "疾風大地的祝福+",
       "sp": 300
     },
     "Deluge Balm": {
@@ -5233,7 +5260,9 @@
             "Bernadetta - Late Hibernator"
           ]
         },
-        "duo": { "5": ["Lyn - Ninja-Friend Duo"] },
+        "duo": {
+          "5": ["Lyn - Ninja-Friend Duo", "Shamir - Heartbeats United"]
+        },
         "harmonized": {
           "5": [
             "Mia - Harmonic Blades",
@@ -5468,6 +5497,7 @@
         "special": {
           "5": ["Anna - Secret Charmer", "Bernadetta - Late Hibernator"]
         },
+        "duo": { "5": ["Shamir - Heartbeats United"] },
         "harmonized": { "5": ["Linde - Bound by Fate"] }
       },
       "id": "Remote Sparrow",
@@ -6716,6 +6746,7 @@
             "Mareeta - Astra Awakened"
           ]
         },
+        "grail": { "5": ["Shez - Mercenary Shade"] },
         "legendary": { "5": ["Eirika - Graceful Resolve"] },
         "mythic": {
           "5": ["Freyja - Lady of Nightmare", "Sothis - Girl on the Throne"]
@@ -7308,7 +7339,10 @@
       "icon": "skillA/Def_Res_Form_3.png"
     },
     "Blade Session 3": {
-      "pool": { "#": { "5": ["Tsubasa - Madcap Idol"] } },
+      "pool": {
+        "#": { "5": ["Tsubasa - Madcap Idol"] },
+        "special": { "5": ["L'Arachel - Summer Princess"] }
+      },
       "id": "Blade Session 3",
       "name": "刃之協奏3",
       "sp": 240,
@@ -7631,7 +7665,10 @@
     },
     "Spd/Res Ideal 3": {
       "pool": {
-        "#": { "5": ["Dorothy - Devoted Archer", "Céline - Joyous Royal"] }
+        "#": {
+          "4": ["Dorothy - Devoted Archer"],
+          "5": ["Céline - Joyous Royal"]
+        }
       },
       "id": "Spd/Res Ideal 3",
       "name": "速度魔防萬全3",
@@ -7740,7 +7777,9 @@
     "Atk/Def Clash 3": {
       "pool": {
         "#": { "5": ["Líf - Arcane Blade"] },
-        "special": { "5": ["Flavia - Bold Bride"] }
+        "special": {
+          "5": ["Flavia - Bold Bride", "Ephraim - Sunshine Valiant"]
+        }
       },
       "id": "Atk/Def Clash 3",
       "name": "攻擊防守的激戰3",
@@ -7748,7 +7787,10 @@
       "icon": "skillA/Atk_Def_Clash_3.png"
     },
     "Atk/Def Clash 4": {
-      "pool": { "#": { "5": ["Líf - Arcane Blade"] } },
+      "pool": {
+        "#": { "5": ["Líf - Arcane Blade"] },
+        "special": { "5": ["Ephraim - Sunshine Valiant"] }
+      },
       "id": "Atk/Def Clash 4",
       "name": "攻擊防守的激戰4",
       "sp": 300,
@@ -8080,12 +8122,20 @@
             "Hinata - Wild Samurai",
             "Altena - Luminous Rider"
           ]
-        }
+        },
+        "duo": { "5": ["Shamir - Heartbeats United"] }
       },
       "id": "Brash Assault 3",
       "name": "同歸於盡3",
       "sp": 200,
       "icon": "skillB/Brash_Assault_3.png"
+    },
+    "Brash Assault 4": {
+      "pool": { "duo": { "5": ["Shamir - Heartbeats United"] } },
+      "id": "Brash Assault 4",
+      "name": "同歸於盡4",
+      "sp": 300,
+      "icon": "skillB/Brash_Assault_4.png"
     },
     "Quick Riposte 3": {
       "pool": {
@@ -8609,7 +8659,7 @@
           ]
         },
         "grail": {
-          "4": ["Sedgar - Coyote's Dutiful"],
+          "4": ["Shez - Mercenary Shade", "Sedgar - Coyote's Dutiful"],
           "5": ["Walhart - The Conqueror", "Jorge - Traveling Peddler"]
         },
         "special": {
@@ -8986,7 +9036,8 @@
           "5": [
             "Genny - Dressed with Care",
             "Laevatein - Kumade Warrior",
-            "Sakura - Hot-Spring Healer"
+            "Sakura - Hot-Spring Healer",
+            "L'Arachel - Summer Princess"
           ]
         },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
@@ -9780,6 +9831,7 @@
             "Lethe - New Year's Claw",
             "Navarre - Scarlet Ninja",
             "Nailah - Hatari Scorcher",
+            "Shez - Mercenary Shine",
             "Shinon - Sharptongue Ninja"
           ]
         }
@@ -9788,6 +9840,13 @@
       "name": "速度防守的靜謐3",
       "sp": 240,
       "icon": "skillB/Lull_Spd_Def_3.png"
+    },
+    "Lull Spd/Def 4": {
+      "pool": { "special": { "5": ["Shez - Mercenary Shine"] } },
+      "id": "Lull Spd/Def 4",
+      "name": "速度防守的靜謐4",
+      "sp": 300,
+      "icon": "skillB/Lull_Spd_Def_4.png"
     },
     "Lull Spd/Res 3": {
       "pool": {
@@ -11435,7 +11494,9 @@
         },
         "legendary": { "5": ["Hríd - Icy Blade"] },
         "mythic": { "5": ["Ótr - Kingsbrother"] },
-        "special": { "5": ["Rudolf - Emperor of Rigel"] }
+        "special": {
+          "5": ["Rudolf - Emperor of Rigel", "Shez - Mercenary Shine"]
+        }
       },
       "id": "Threat. Atk/Def 2",
       "name": "攻擊防守的威嚇2",
@@ -11524,7 +11585,8 @@
           ]
         },
         "legendary": { "5": ["Hríd - Icy Blade"] },
-        "mythic": { "5": ["Ótr - Kingsbrother"] }
+        "mythic": { "5": ["Ótr - Kingsbrother"] },
+        "special": { "5": ["Shez - Mercenary Shine"] }
       },
       "id": "Atk/Def Menace",
       "name": "攻擊防守的恐嚇",
@@ -11806,7 +11868,7 @@
       "pool": {
         "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
         "special": { "5": ["Freyja - Fleeting Summer"] },
-        "duo": { "5": ["Líf - Undying Ties Duo"] }
+        "duo": { "5": ["Líf - Undying Ties Duo", "Shamir - Heartbeats United"] }
       },
       "id": "Fatal Smoke 3",
       "name": "不治的幻煙3",
@@ -12507,7 +12569,11 @@
           "5": ["Orson - Passion's Folly"]
         },
         "special": {
-          "5": ["Sylvain - Hanging with Tens", "Fáfnir - Fresh Ambition"]
+          "5": [
+            "Sylvain - Hanging with Tens",
+            "Ephraim - Sunshine Valiant",
+            "Fáfnir - Fresh Ambition"
+          ]
         }
       },
       "id": "Rouse Atk/Def 3",
@@ -12594,6 +12660,13 @@
       "sp": 300,
       "icon": "skillC/Alarm_Atk_Spd.png"
     },
+    "Alarm Atk/Def": {
+      "pool": { "special": { "5": ["Ephraim - Sunshine Valiant"] } },
+      "id": "Alarm Atk/Def",
+      "name": "攻擊防守的奮進",
+      "sp": 300,
+      "icon": "skillC/Alarm_Atk_Def.png"
+    },
     "Alarm Spd/Def": {
       "pool": { "#": { "5": ["Noah - Mercenary-Errant"] } },
       "id": "Alarm Spd/Def",
@@ -12649,7 +12722,7 @@
     },
     "Atk/Res Oath 3": {
       "pool": {
-        "#": { "5": ["Dorothy - Devoted Archer"] },
+        "#": { "4": ["Dorothy - Devoted Archer"] },
         "grail": { "5": ["Pelleas - Ashnard's Orphan"] },
         "legendary": { "5": ["Julia - Crusader of Light"] },
         "mythic": { "5": ["Arval - Cycle Keeper"] },

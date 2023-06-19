@@ -815,6 +815,23 @@
     "prev": ["Fireflood Balm"],
     "last": true
   },
+  "Earthwind Balm": {
+    "id": "Earthwind Balm",
+    "name": "疾風大地的祝福",
+    "cd": 1,
+    "sp": 200,
+    "rules": "white-staff",
+    "prev": ["Solid-Earth Balm", "Still-Water Balm"]
+  },
+  "Earthwind Balm+": {
+    "id": "Earthwind Balm+",
+    "name": "疾風大地的祝福+",
+    "cd": 1,
+    "sp": 300,
+    "rules": "white-staff",
+    "prev": ["Earthwind Balm"],
+    "last": true
+  },
   "Deluge Balm": {
     "id": "Deluge Balm",
     "name": "疾風靜水的祝福",
