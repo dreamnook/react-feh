@@ -3178,6 +3178,15 @@
     "icon": "skillB/Null_C_Disrupt_3.png",
     "last": true
   },
+  "Null C-Disrupt 4": {
+    "id": "Null C-Disrupt 4",
+    "name": "識破・無法反擊4",
+    "sp": 300,
+    "prev": ["Null C-Disrupt 3"],
+    "rules": "infantry",
+    "icon": "skillB/Null_C_Disrupt_4.png",
+    "last": true
+  },
   "Mystic Boost 1": {
     "id": "Mystic Boost 1",
     "name": "生命護符1",

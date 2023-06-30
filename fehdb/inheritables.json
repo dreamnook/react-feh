@@ -2596,7 +2596,7 @@
         },
         "grail": { "5": ["Nanna - Mystletainn Scion"] },
         "special": {
-          "5": ["Mia - Moonlit Witch", "L'Arachel - Summer Princess"]
+          "5": ["L'Arachel - Summer Princess", "Mia - Moonlit Witch"]
         }
       },
       "id": "Recover+",
@@ -4185,7 +4185,9 @@
         "grail": {
           "4": ["Cecilia - Festive Instructor", "Lloyd - White Wolf"]
         },
-        "legendary": { "5": ["Deirdre - Fated Saint"] },
+        "legendary": {
+          "5": ["Guinivere - Queen of Bern", "Deirdre - Fated Saint"]
+        },
         "mythic": {
           "5": [
             "Altina - Dawn's Trueblade",
@@ -4616,7 +4618,7 @@
       "sp": 300
     },
     "Earthwind Balm": {
-      "pool": { "special": { "5": ["L'Arachel - Summer Princess"] } },
+      "pool": { "special": { "4": ["L'Arachel - Summer Princess"] } },
       "id": "Earthwind Balm",
       "name": "疾風大地的祝福",
       "sp": 200
@@ -7857,6 +7859,7 @@
     "Spd/Res Finish 3": {
       "pool": {
         "#": { "5": ["Tiki - Awakened Blood"] },
+        "legendary": { "5": ["Guinivere - Queen of Bern"] },
         "special": { "4": ["Byleth - Fount of Learning"] }
       },
       "id": "Spd/Res Finish 3",
@@ -7865,7 +7868,10 @@
       "icon": "skillA/Spd_Res_Finish_3.png"
     },
     "Spd/Res Finish 4": {
-      "pool": { "#": { "5": ["Tiki - Awakened Blood"] } },
+      "pool": {
+        "#": { "5": ["Tiki - Awakened Blood"] },
+        "legendary": { "5": ["Guinivere - Queen of Bern"] }
+      },
       "id": "Spd/Res Finish 4",
       "name": "速度魔防的奧秘4",
       "sp": 300,
@@ -9033,11 +9039,11 @@
           ]
         },
         "special": {
+          "4": ["L'Arachel - Summer Princess"],
           "5": [
             "Genny - Dressed with Care",
             "Laevatein - Kumade Warrior",
-            "Sakura - Hot-Spring Healer",
-            "L'Arachel - Summer Princess"
+            "Sakura - Hot-Spring Healer"
           ]
         },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
@@ -9712,6 +9718,7 @@
     "Null C-Disrupt 3": {
       "pool": {
         "#": { "5": ["Nailah - Unflinching Eye", "Lyon - Demon King"] },
+        "legendary": { "5": ["Guinivere - Queen of Bern"] },
         "mythic": { "5": ["Sothis - Girl on the Throne"] },
         "duo": { "5": ["Ike - Close-Knit Siblings"] },
         "harmonized": { "5": ["Altina - Cross-Time Duo"] }
@@ -9720,6 +9727,13 @@
       "name": "識破・無法反擊3",
       "sp": 240,
       "icon": "skillB/Null_C_Disrupt_3.png"
+    },
+    "Null C-Disrupt 4": {
+      "pool": { "legendary": { "5": ["Guinivere - Queen of Bern"] } },
+      "id": "Null C-Disrupt 4",
+      "name": "識破・無法反擊4",
+      "sp": 300,
+      "icon": "skillB/Null_C_Disrupt_4.png"
     },
     "Mystic Boost 3": {
       "pool": {

@@ -362,6 +362,14 @@
     "last": true,
     "icon": "skillC/Rallying_Cry.png"
   },
+  "Bern's New Way": {
+    "id": "Bern's New Way",
+    "name": "嶄新的伯尼爾之路",
+    "sp": 300,
+    "exclusive": ["Guinivere - Queen of Bern"],
+    "last": true,
+    "icon": "skillC/Bern's_New_Way.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

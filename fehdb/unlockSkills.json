@@ -8490,6 +8490,33 @@
       "Joint Drive Res": 5
     }
   },
+  "Guinivere - Queen of Bern": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 3,
+      "Radiant Aureola": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Spd/Res Finish 1": 2,
+      "Spd/Res Finish 2": 3,
+      "Spd/Res Finish 3": 4,
+      "Spd/Res Finish 4": 5
+    },
+    "skillB": {
+      "Null C-Disrupt 1": 2,
+      "Null C-Disrupt 2": 3,
+      "Null C-Disrupt 3": 4,
+      "Null C-Disrupt 4": 5
+    },
+    "skillC": {
+      "Bern's New Way": 5
+    }
+  },
   "Melady - Crimson Rider": {
     "weapon": {
       "Iron Lance": 1,

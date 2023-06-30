@@ -487,6 +487,20 @@
     "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
     "skillB": { "Live to Serve 3": { "sp": 160, "rarity": 5 } }
   },
+  "L'Arachel - Summer Princess": {
+    "score": 49,
+    "scoreTotal": 117,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1080,
+    "feather": 300,
+    "bst": 173,
+    "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
+    "special": { "Earthwind Balm+": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Blade Session 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Wrathful Staff 3": { "sp": 240, "rarity": 4 } }
+  },
   "Xane - Desert Mirage": {
     "score": 49,
     "scoreTotal": 134,
@@ -1492,20 +1506,6 @@
     "special": { "Fireflood Balm+": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wrathful Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd Opening 3": { "sp": 240, "rarity": 5 } }
-  },
-  "L'Arachel - Summer Princess": {
-    "score": 80,
-    "scoreTotal": 286,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 1080,
-    "feather": 1000,
-    "bst": 173,
-    "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
-    "special": { "Earthwind Balm+": { "sp": 300, "rarity": 5 } },
-    "skillA": { "Blade Session 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Wrathful Staff 3": { "sp": 240, "rarity": 5 } }
   },
   "Hilda - Deer's Two-Piece": {
     "score": 80,
@@ -6691,6 +6691,19 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillB": { "Seal Spd 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Guinivere - Queen of Bern": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } }
   },
   "Michalis - Fruiting Ambition": {
     "score": 299,

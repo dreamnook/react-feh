@@ -21813,6 +21813,16 @@
       "exclusive": ["Triandra - Sunlit Nightmare"],
       "last": true
     },
+    "Radiant Aureola": {
+      "id": "Radiant Aureola",
+      "name": "至光亞利艾爾",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Guinivere - Queen of Bern"],
+      "last": true
+    },
     "Stone": {
       "id": "Stone",
       "name": "洛克",

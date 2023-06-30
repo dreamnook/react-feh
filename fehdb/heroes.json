@@ -15070,6 +15070,44 @@
     "ver": "4.11",
     "df": 15
   },
+  "Guinivere - Queen of Bern": {
+    "id": "Guinivere - Queen of Bern",
+    "title": "姬妮薇雅",
+    "name": "伯尼爾王國的女王",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "bst": 200,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "water-def-2",
+    "releaseDate": "2023-06-30",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [36, 39, 43],
+        "spd": [41, 45, 48],
+        "def": [12, 16, 19],
+        "res": [37, 40, 43]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 9,
+        "spd": 12,
+        "def": 3,
+        "res": 12
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.6",
+    "df": 5
+  },
   "Melady - Crimson Rider": {
     "id": "Melady - Crimson Rider",
     "title": "紅蓮龍騎士",
@@ -22891,7 +22929,7 @@
     "id": "L'Arachel - Summer Princess",
     "title": "夏日景緻的聖公主",
     "name": "拉切爾",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "moveType": "flying",
     "weaponType": "white-staff",
@@ -22899,12 +22937,26 @@
     "releaseDate": "2023-06-19",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
+      "4": {
+        "hp": [31, 34, 37],
+        "atk": [41, 44, 48],
+        "spd": [39, 42, 45],
+        "def": [11, 14, 17],
+        "res": [24, 27, 30]
+      },
       "5": {
         "hp": [33, 37, 40],
         "atk": [43, 46, 50],
         "spd": [41, 44, 47],
         "def": [12, 16, 19],
         "res": [27, 30, 33]
+      },
+      "4-1": {
+        "hp": 14,
+        "atk": 16,
+        "spd": 9,
+        "def": 2,
+        "res": 5
       },
       "5-1": {
         "hp": 15,
