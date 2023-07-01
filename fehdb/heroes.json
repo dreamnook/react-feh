@@ -15072,8 +15072,8 @@
   },
   "Guinivere - Queen of Bern": {
     "id": "Guinivere - Queen of Bern",
-    "title": "姬妮薇雅",
-    "name": "伯尼爾王國的女王",
+    "title": "伯尼爾王國的女王",
+    "name": "姬妮薇雅",
     "rarity": [5],
     "colorType": "white",
     "moveType": "infantry",
