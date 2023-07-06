@@ -1859,6 +1859,14 @@
     "icon": "skillA/Water_Boost_3.png",
     "last": true
   },
+  "Fireflood Boost 3": {
+    "id": "Fireflood Boost 3",
+    "name": "生命業火靜水3",
+    "sp": 300,
+    "prev": ["Fire Boost 3", "Water Boost 3"],
+    "last": true,
+    "icon": "skillA/Fireflood_Boost_3.png"
+  },
   "Atk/Spd Bond 1": {
     "id": "Atk/Spd Bond 1",
     "name": "攻擊速度的羈絆1",

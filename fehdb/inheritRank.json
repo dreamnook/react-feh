@@ -4457,6 +4457,19 @@
     "skillA": { "Atk/Spd Push 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Infantry Flash 3": { "sp": 240, "rarity": 5 } }
   },
+  "Donnel - Sunny Villager": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 192,
+    "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Chill Def/Res 2": { "sp": 240, "rarity": 5 } }
+  },
   "Yarne - Hoppy New Year": {
     "score": 249,
     "scoreTotal": 608,
@@ -5105,6 +5118,19 @@
     "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
     "skillA": { "AR-D Spd/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Air Orders 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Tharja - Beach Dark Mage": {
+    "score": 254,
+    "scoreTotal": 668,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 168,
+    "assist": { "Draw Back": { "sp": 150, "rarity": 5 } },
+    "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Gap 3": { "sp": 240, "rarity": 5 } }
   },
   "Lukas - Buffet for One": {
     "score": 254,
@@ -8796,6 +8822,19 @@
     "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Ire 4": { "sp": 300, "rarity": 5 } }
   },
+  "Ymir - Seasons of Life": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Fireflood Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Mystic Boost 4": { "sp": 300, "rarity": 5 } }
+  },
   "Itsuki - Finding a Path": {
     "score": 299,
     "scoreTotal": 853,
@@ -11788,6 +11827,20 @@
     "skillB": { "Seal Res 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Hold": { "sp": 300, "rarity": 5 } }
   },
+  "Ivy - Tidal Breeze": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 173,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Sabotage A/R 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Soaring Guidance": { "sp": 300, "rarity": 5 } }
+  },
   "Bernadetta - Late Hibernator": {
     "score": 318,
     "scoreTotal": 1166,
@@ -11801,6 +11854,20 @@
     "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Escape Route 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Fjorm - Seaside Thaw": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Sacred Cowl": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Corrin - Starry Seer": {
     "score": 318,

@@ -953,6 +953,41 @@
     "ver": "5.10",
     "df": 10
   },
+  "Fjorm - Seaside Thaw": {
+    "id": "Fjorm - Seaside Thaw",
+    "title": "冰之公主與夏日大海",
+    "name": "菲約爾姆",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2023-07-07",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [39, 43, 46],
+        "spd": [43, 46, 50],
+        "def": [25, 28, 31],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 16,
+        "def": 4,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["atk", "res"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
+  },
   "Gunnthrá - Voice of Dreams": {
     "id": "Gunnthrá - Voice of Dreams",
     "title": "夢中的微笑",
@@ -1941,6 +1976,42 @@
     "book": 6,
     "ver": "6.7",
     "df": 10
+  },
+  "Ymir - Seasons of Life": {
+    "id": "Ymir - Seasons of Life",
+    "title": "育養生命的季節",
+    "name": "優彌爾",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "bst": 200,
+    "pool": "duo",
+    "releaseDate": "2023-07-07",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [42, 45, 49],
+        "spd": [15, 18, 21],
+        "def": [32, 35, 38],
+        "res": [37, 41, 44]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 15,
+        "spd": 3,
+        "def": 9,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
   },
   "Ganglöt - Death Anew": {
     "id": "Ganglöt - Death Anew",
@@ -29386,6 +29457,55 @@
     "ver": "1.0",
     "df": 25
   },
+  "Donnel - Sunny Villager": {
+    "id": "Donnel - Sunny Villager",
+    "title": "村民的夏日光景",
+    "name": "多尼",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2023-07-07",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "4": {
+        "hp": [40, 43, 47],
+        "atk": [40, 43, 46],
+        "spd": [25, 28, 31],
+        "def": [35, 38, 42],
+        "res": [24, 27, 30]
+      },
+      "5": {
+        "hp": [43, 46, 50],
+        "atk": [42, 45, 48],
+        "spd": [28, 31, 34],
+        "def": [37, 40, 44],
+        "res": [27, 30, 33]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 10,
+        "spd": 4,
+        "def": 10,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 5,
+        "def": 10,
+        "res": 6
+      }
+    },
+    "assets": ["hp", "def"],
+    "flaws": [],
+    "statMin": 192,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
+  },
   "Basilio - Feroxi West-Khan": {
     "id": "Basilio - Feroxi West-Khan",
     "title": "菲利亞的西境王",
@@ -30099,6 +30219,41 @@
     "book": 5,
     "ver": "5.1",
     "df": 15
+  },
+  "Tharja - Beach Dark Mage": {
+    "id": "Tharja - Beach Dark Mage",
+    "title": "岸邊的咒術師",
+    "name": "撒拉",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-tome",
+    "pool": "special",
+    "releaseDate": "2023-07-07",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [37, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [41, 44, 48],
+        "def": [16, 19, 22],
+        "res": [17, 20, 23]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 14,
+        "def": 4,
+        "res": 3
+      }
+    },
+    "assets": ["spd"],
+    "flaws": [],
+    "statMin": 168,
+    "statMax": 170,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
   },
   "Mustafa - Plegian Champion": {
     "id": "Mustafa - Plegian Champion",
@@ -42390,6 +42545,41 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.1",
+    "df": 5
+  },
+  "Ivy - Tidal Breeze": {
+    "id": "Ivy - Tidal Breeze",
+    "title": "海風吹拂",
+    "name": "艾比",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-tome",
+    "pool": "special",
+    "releaseDate": "2023-07-07",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [43, 46, 50],
+        "spd": [21, 25, 28],
+        "def": [17, 20, 23],
+        "res": [40, 44, 47]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 16,
+        "spd": 3,
+        "def": 3,
+        "res": 11
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 173,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.7",
     "df": 5
   }
 }

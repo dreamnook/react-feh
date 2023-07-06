@@ -297,6 +297,15 @@
     "exclusive": ["Veronica - Princess Rising"],
     "last": true
   },
+  "Frostbite Mirror": {
+    "id": "Frostbite Mirror",
+    "name": "絕冰之聖鏡",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Sacred Cowl"],
+    "exclusive": ["Fjorm - Seaside Thaw"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

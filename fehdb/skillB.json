@@ -3459,6 +3459,15 @@
     "icon": "skillB/Spurn_3.png",
     "last": true
   },
+  "Spurn 4": {
+    "id": "Spurn 4",
+    "name": "迴避・憤怒4",
+    "sp": 300,
+    "prev": ["Spurn 3"],
+    "rules": "learner.wielderInfantry",
+    "icon": "skillB/Spurn_4.png",
+    "last": true
+  },
   "Frenzy 1": {
     "id": "Frenzy 1",
     "name": "迴避・猛攻1",

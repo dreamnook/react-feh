@@ -2797,6 +2797,16 @@
       "exclusive": ["Shez - Mercenary Shine"],
       "last": true
     },
+    "Ice-Bound Brand": {
+      "id": "Ice-Bound Brand",
+      "name": "冰海之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Fjorm - Seaside Thaw"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -10926,6 +10936,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Petalfall Vase"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Wooden Tackle": {
+      "id": "Wooden Tackle",
+      "name": "木製漁具",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Wooden Tackle+": {
+      "id": "Wooden Tackle+",
+      "name": "木製漁具+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Wooden Tackle"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -20003,6 +20046,39 @@
         }
       },
       "last": true
+    },
+    "Seashell Bowl": {
+      "id": "Seashell Bowl",
+      "name": "玻璃圓缸",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elthunder", "Ellight"]
+    },
+    "Seashell Bowl+": {
+      "id": "Seashell Bowl+",
+      "name": "玻璃圓缸+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Seashell Bowl"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "green-tome": {
@@ -20965,6 +21041,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Heiðr - Innocent Goddess"],
+      "last": true
+    },
+    "Divine Draught": {
+      "id": "Divine Draught",
+      "name": "解渴的水神之杯",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Ivy - Tidal Breeze"],
       "last": true
     },
     "Wind": {
@@ -21975,6 +22061,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Guinivere - Queen of Bern"],
+      "last": true
+    },
+    "Sparkling Sun": {
+      "id": "Sparkling Sun",
+      "name": "盛夏的生命光輝",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Ymir - Seasons of Life"],
       "last": true
     },
     "Stone": {

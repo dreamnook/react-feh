@@ -295,7 +295,7 @@
     "id": "Everliving Domain",
     "name": "永生結界",
     "sp": 300,
-    "exclusive": ["Ymir - Life-Mother"],
+    "exclusive": ["Ymir - Life-Mother", "Ymir - Seasons of Life"],
     "last": true,
     "icon": "skillC/Everliving_Domain.png"
   },
@@ -2419,6 +2419,13 @@
     "rules": "flying",
     "icon": "skillC/Flier_Guidance_3.png",
     "last": true
+  },
+  "Soaring Guidance": {
+    "id": "Soaring Guidance",
+    "name": "飛走前導",
+    "sp": 300,
+    "last": true,
+    "icon": "skillC/Soaring_Guidance.png"
   },
   "Air Orders 1": {
     "id": "Air Orders 1",
