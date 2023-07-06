@@ -1929,6 +1929,30 @@
       "icon": "skillA/Spd_Def_Ideal_3.png",
       "last": true
     },
+    "Spd/Res Ideal 1": {
+      "id": "Spd/Res Ideal 1",
+      "name": "速度魔防萬全1",
+      "sp": 60,
+      "rules": "learner.ideal",
+      "icon": "skillA/Spd_Res_Ideal_1.png"
+    },
+    "Spd/Res Ideal 2": {
+      "id": "Spd/Res Ideal 2",
+      "name": "速度魔防萬全2",
+      "sp": 120,
+      "prev": ["Spd/Res Ideal 1"],
+      "rules": "learner.ideal",
+      "icon": "skillA/Spd_Res_Ideal_2.png"
+    },
+    "Spd/Res Ideal 3": {
+      "id": "Spd/Res Ideal 3",
+      "name": "速度魔防萬全3",
+      "sp": 240,
+      "prev": ["Spd/Res Ideal 2"],
+      "rules": "learner.ideal",
+      "icon": "skillA/Spd_Res_Ideal_3.png",
+      "last": true
+    },
     "Def/Res Ideal 1": {
       "id": "Def/Res Ideal 1",
       "name": "防守魔防萬全1",
@@ -2940,6 +2964,30 @@
       "prev": ["Spur Def 2", "Spur Res 2"],
       "last": true,
       "icon": "skillC/Ward_Beasts.png"
+    },
+    "Atk/Res Rein 1": {
+      "id": "Atk/Res Rein 1",
+      "name": "攻擊魔防牽制1",
+      "sp": 60,
+      "rules": "flying",
+      "icon": "skillC/Atk_Res_Rein_1.png"
+    },
+    "Atk/Res Rein 2": {
+      "id": "Atk/Res Rein 2",
+      "name": "攻擊魔防牽制2",
+      "sp": 120,
+      "prev": ["Atk/Res Rein 1"],
+      "rules": "flying",
+      "icon": "skillC/Atk_Res_Rein_2.png"
+    },
+    "Atk/Res Rein 3": {
+      "id": "Atk/Res Rein 3",
+      "name": "攻擊魔防牽制3",
+      "sp": 240,
+      "prev": ["Atk/Res Rein 2"],
+      "rules": "flying",
+      "icon": "skillC/Atk_Res_Rein_3.png",
+      "last": true
     },
     "Hone Atk 1": {
       "id": "Hone Atk 1",
