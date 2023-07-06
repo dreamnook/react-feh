@@ -3560,6 +3560,7 @@
       "id": "Soaring Guidance",
       "name": "飛走前導",
       "sp": 300,
+      "rules": "flying",
       "last": true,
       "icon": "skillC/Soaring_Guidance.png"
     },
