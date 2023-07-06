@@ -1862,6 +1862,7 @@
   "Fireflood Boost 3": {
     "id": "Fireflood Boost 3",
     "name": "生命業火靜水3",
+    "hp": 5,
     "sp": 300,
     "prev": ["Fire Boost 3", "Water Boost 3"],
     "last": true,
