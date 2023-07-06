@@ -11335,10 +11335,14 @@
     "skillB": {
       "Lull Atk/Res 1": 1,
       "Lull Atk/Res 2": 2,
-      "Lull Atk/Res 3": 4
+      "Lull Atk/Res 3": 4,
+      "Atk/Res Tempo 1": 1,
+      "Atk/Res Tempo 2": 2,
+      "Atk/Res Tempo 3": 4
     },
     "skillC": {
-      "Impenetrable Dark": 5
+      "Impenetrable Dark": 5,
+      "Impenetrable Void": 5
     }
   },
   "Eirika - Restoration Lady": {
@@ -11867,7 +11871,8 @@
       "Iron Axe": 1,
       "Steel Axe": 3,
       "Brave Axe": 4,
-      "Brave Axe+": 5
+      "Brave Axe+": 5,
+      "Father's-Son Axe": 5
     },
     "assist": {
       "Smite": 4
@@ -12585,7 +12590,8 @@
       "Iron Axe": 1,
       "Steel Axe": 3,
       "Firesweep Axe": 4,
-      "Firesweep Axe+": 5
+      "Firesweep Axe+": 5,
+      "Desert-Tiger Axe": 5
     },
     "special": {
       "New Moon": 4,
@@ -15454,7 +15460,8 @@
     },
     "assist": {
       "Reposition": 4,
-      "To Change Fate!": 5
+      "To Change Fate!": 5,
+      "To Change Fate! II": 5
     },
     "skillA": {
       "Close Counter": 5
@@ -15467,7 +15474,10 @@
     "skillC": {
       "Rouse Def/Res 1": 1,
       "Rouse Def/Res 2": 2,
-      "Rouse Def/Res 3": 4
+      "Rouse Def/Res 3": 4,
+      "Blue Feud 1": 1,
+      "Blue Feud 2": 2,
+      "Blue Feud 3": 4
     }
   },
   "Chrom - Fate-Defying Duo": {

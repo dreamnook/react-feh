@@ -169,6 +169,15 @@
     "last": true,
     "icon": "skillC/Vision_of_Arcadia.png"
   },
+  "Impenetrable Void": {
+    "id": "Impenetrable Void",
+    "name": "無法看透的……・神",
+    "sp": 300,
+    "prev": ["Impenetrable Dark"],
+    "exclusive": ["Bramimond - The Enigma"],
+    "last": true,
+    "icon": "skillC/Impenetrable_Void.png"
+  },
   "Impenetrable Dark": {
     "id": "Impenetrable Dark",
     "name": "無法看透的深邃黑暗",

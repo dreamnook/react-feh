@@ -65,6 +65,14 @@
     "exclusive": ["Peony - Sweet Dream", "Peony - Álfar Dream Duo"],
     "last": true
   },
+  "To Change Fate! II": {
+    "id": "To Change Fate! II",
+    "name": "我要改變命運！・承",
+    "sp": 500,
+    "prev": ["To Change Fate!"],
+    "exclusive": ["Chrom - Crowned Exalt"],
+    "last": true
+  },
   "To Change Fate!": {
     "id": "To Change Fate!",
     "name": "我要改變命運！",

@@ -804,12 +804,6 @@
         "name": "深綠之斧+",
         "sp": 300
       },
-      "Firesweep Axe+": {
-        "pool": { "#": { "5": ["Gerik - Desert Tiger"] } },
-        "id": "Firesweep Axe+",
-        "name": "火薙之斧+",
-        "sp": 300
-      },
       "Reprisal Axe+": {
         "pool": { "grail": { "5": ["Caellach - Tiger Eye"] } },
         "id": "Reprisal Axe+",
@@ -1168,7 +1162,7 @@
         "refine": 350
       },
       "Defier's Bow+": {
-        "pool": { "#": { "4": ["Dorothy - Devoted Archer"] } },
+        "pool": { "#": { "3": ["Dorothy - Devoted Archer"] } },
         "id": "Defier's Bow+",
         "name": "防守逆用之弓+",
         "sp": 300,
@@ -2335,7 +2329,7 @@
         "refine": 350
       },
       "Incurable+": {
-        "pool": { "#": { "5": ["Saul - Loving Shepherd"] } },
+        "pool": { "#": { "3": ["Saul - Loving Shepherd"] } },
         "id": "Incurable+",
         "name": "不癒+",
         "sp": 300,
@@ -2651,12 +2645,12 @@
     "Restore+": {
       "pool": {
         "#": {
-          "3": ["Nanna - Nordion Princess", "Elice - Altean Princess"],
-          "5": [
-            "Saul - Loving Shepherd",
-            "Camilla - Light of Nohr",
-            "Loki - The Trickster"
-          ]
+          "3": [
+            "Nanna - Nordion Princess",
+            "Elice - Altean Princess",
+            "Saul - Loving Shepherd"
+          ],
+          "5": ["Camilla - Light of Nohr", "Loki - The Trickster"]
         },
         "special": {
           "5": [
@@ -3230,9 +3224,9 @@
             "Tanya - Dagdar's Kid",
             "Miranda - Willful Princess",
             "Tatiana - Devoted Saint",
-            "Tanith - Bright Blade"
+            "Tanith - Bright Blade",
+            "Dorothy - Devoted Archer"
           ],
-          "4": ["Dorothy - Devoted Archer"],
           "5": [
             "Linde - Light Mage",
             "Elincia - Lost Princess",
@@ -4539,9 +4533,10 @@
             "Nanna - Nordion Princess",
             "Brady - Daunting Priest",
             "Dwyer - Sleepy Butler",
-            "Elice - Altean Princess"
+            "Elice - Altean Princess",
+            "Saul - Loving Shepherd"
           ],
-          "5": ["Genny - Endearing Ally", "Saul - Loving Shepherd"]
+          "5": ["Genny - Endearing Ally"]
         },
         "grail": {
           "4": [
@@ -6161,8 +6156,8 @@
     "Distant Def 3": {
       "pool": {
         "#": {
+          "3": ["Saul - Loving Shepherd"],
           "5": [
-            "Saul - Loving Shepherd",
             "Celica - Caring Princess",
             "Rhajat - Black Magician",
             "Micaiah - Priestess of Dawn",
@@ -7668,7 +7663,7 @@
     "Spd/Res Ideal 3": {
       "pool": {
         "#": {
-          "4": ["Dorothy - Devoted Archer"],
+          "3": ["Dorothy - Devoted Archer"],
           "5": ["Céline - Joyous Royal"]
         }
       },
@@ -10217,7 +10212,7 @@
     "Atk/Res Tempo 3": {
       "pool": {
         "legendary": { "5": ["Deirdre - Fated Saint"] },
-        "mythic": { "5": ["Arval - Cycle Keeper"] },
+        "mythic": { "5": ["Bramimond - The Enigma", "Arval - Cycle Keeper"] },
         "duo": { "5": ["Askr - Renewed Gods"] }
       },
       "id": "Atk/Res Tempo 3",
@@ -10583,9 +10578,8 @@
     "Drive Res 2": {
       "pool": {
         "#": {
-          "3": ["Soleil - Adorable Adorer"],
+          "3": ["Saul - Loving Shepherd", "Soleil - Adorable Adorer"],
           "5": [
-            "Saul - Loving Shepherd",
             "Sara - Lady of Loptr",
             "Neimi - Tearful Archer",
             "Edelgard - Adrestian Emperor",
@@ -12736,7 +12730,7 @@
     },
     "Atk/Res Oath 3": {
       "pool": {
-        "#": { "4": ["Dorothy - Devoted Archer"] },
+        "#": { "3": ["Dorothy - Devoted Archer"] },
         "grail": { "5": ["Pelleas - Ashnard's Orphan"] },
         "legendary": { "5": ["Julia - Crusader of Light"] },
         "mythic": { "5": ["Arval - Cycle Keeper"] },
@@ -12857,7 +12851,9 @@
     "Blue Feud 3": {
       "pool": {
         "#": { "5": ["Tine - Rumbling Thunder"] },
-        "legendary": { "5": ["Ninian - Ice-Dragon Oracle"] },
+        "legendary": {
+          "5": ["Ninian - Ice-Dragon Oracle", "Chrom - Crowned Exalt"]
+        },
         "special": { "5": ["Cath - Caper Captain"] }
       },
       "id": "Blue Feud 3",

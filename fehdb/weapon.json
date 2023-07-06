@@ -2061,6 +2061,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Kempf - Conniving General"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Venin_Edge_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Larcei's Edge": {
@@ -5169,6 +5192,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Perceval - Knightly Ideal"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Prized_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Lordly Lance": {
@@ -9342,6 +9388,71 @@
       "exclusive": ["Ephraim - Sunshine Valiant"],
       "last": true
     },
+    "Father's-Son Axe": {
+      "id": "Father's-Son Axe",
+      "name": "賈西亞之子之斧",
+      "mt": 10,
+      "spd": -5,
+      "sp": 400,
+      "exclusive": ["Ross - His Father's Son"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Father's-Son_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Desert-Tiger Axe": {
+      "id": "Desert-Tiger Axe",
+      "name": "沙漠之虎的戰斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Firesweep Axe+"],
+      "exclusive": ["Gerik - Desert Tiger"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Desert-Tiger_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -9632,8 +9743,7 @@
       "name": "火薙之斧+",
       "mt": 15,
       "sp": 300,
-      "prev": ["Firesweep Axe"],
-      "last": true
+      "prev": ["Firesweep Axe"]
     },
     "Reprisal Axe": {
       "id": "Reprisal Axe",
@@ -11492,6 +11602,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Chrom - Crowned Exalt"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Randgríðr_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Persecution Bow": {
@@ -21651,6 +21783,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Bramimond - The Enigma"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Void_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Joyful Vows": {

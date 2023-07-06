@@ -424,6 +424,19 @@
     "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Res Gap 3": { "sp": 240, "rarity": 4 } }
   },
+  "Saul - Loving Shepherd": {
+    "score": 50,
+    "scoreTotal": 104,
+    "poolRarity": 3,
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 150,
+    "bst": 177,
+    "assist": { "Restore+": { "sp": 300, "rarity": 5 } },
+    "special": { "Heavenly Light": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Distant Def 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Res 2": { "sp": 240, "rarity": 4 } }
+  },
   "Mercedes - Kindly Devotee": {
     "score": 50,
     "scoreTotal": 104,
@@ -876,19 +889,6 @@
     "special": { "Miracle": { "sp": 200, "rarity": 5 } },
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Staff Valor 3": { "sp": 120, "rarity": 5 } }
-  },
-  "Saul - Loving Shepherd": {
-    "score": 75,
-    "scoreTotal": 233,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 930,
-    "feather": 1000,
-    "bst": 177,
-    "assist": { "Restore+": { "sp": 300, "rarity": 5 } },
-    "special": { "Heavenly Light": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Distant Def 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Res 2": { "sp": 240, "rarity": 5 } }
   },
   "Mia - Moonlit Witch": {
     "score": 80,
@@ -1676,6 +1676,18 @@
     "skillA": { "Sturdy Blow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Flier Formation 3": { "sp": 240, "rarity": 4 } }
   },
+  "Dorothy - Devoted Archer": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 182,
+    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
+  },
   "L'Arachel - Seeker of Justice": {
     "score": 80,
     "scoreTotal": 302,
@@ -2000,18 +2012,6 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
-  },
-  "Dorothy - Devoted Archer": {
-    "score": 185,
-    "scoreTotal": 373,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 300,
-    "bst": 182,
-    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 4 } },
-    "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 4 } },
-    "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
   },
   "Gerome - Masked Rider": {
     "score": 374,
@@ -5593,7 +5593,7 @@
     "bst": 162,
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Def Push 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Lull Atk/Res 3": { "sp": 240, "rarity": 5 } }
+    "skillB": { "Atk/Res Tempo 3": { "sp": 240, "rarity": 5 } }
   },
   "Ashera - Order Goddess": {
     "score": 276,
@@ -8836,7 +8836,7 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "Close Counter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Rouse Def/Res 3": { "sp": 240, "rarity": 5 } }
+    "skillC": { "Blue Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Mila - Goddess of Love": {
     "score": 368,
