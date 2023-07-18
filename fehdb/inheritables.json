@@ -182,6 +182,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Defier's Sword+": {
+        "pool": { "#": { "3": ["Lapis - Mighty Flower"] } },
+        "id": "Defier's Sword+",
+        "name": "防守逆用之劍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Kadomatsu+": {
         "pool": { "special": { "5": ["Camilla - Holiday Traveler"] } },
         "id": "Kadomatsu+",
@@ -1077,6 +1084,12 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Darkbow": {
+        "pool": { "#": { "5": ["Alcryst - Tender Archer"] } },
+        "id": "Arcane Darkbow",
+        "name": "魔器・溫柔影弓",
+        "sp": 300
+      },
       "Silver Bow+": {
         "pool": {
           "#": { "3": ["Rebecca - Wildflower", "Virion - Elite Archer"] }
@@ -1671,7 +1684,14 @@
         "refine": 350
       }
     },
-    "beast": {},
+    "beast": {
+      "Arcane Nihility": {
+        "pool": { "#": { "5": ["Eitr - Hand of Nothing"] } },
+        "id": "Arcane Nihility",
+        "name": "魔器・虛無之角",
+        "sp": 300
+      }
+    },
     "red-tome": {
       "Arcane Eclipse": {
         "pool": { "#": { "5": ["Ophelia - Starlit Maiden"] } },
@@ -3510,7 +3530,8 @@
             "Ricken - Shepherd Novice",
             "Kamui - Wandering Blade",
             "Kiragi - Upbeat Archer",
-            "Vanessa - Dutiful Rider"
+            "Vanessa - Dutiful Rider",
+            "Lapis - Mighty Flower"
           ],
           "5": [
             "Celica - Imprisoned Soul",
@@ -3528,6 +3549,7 @@
             "Malice - Deft Sellsword",
             "Galzus - Dark Blade of Od",
             "Eirika - Pledged Restorer",
+            "Eitr - Hand of Nothing",
             "Ingrid - Beacon of Honor",
             "Hinoka - Blue Sky Warrior",
             "Petra - Princess of Brigid",
@@ -3673,6 +3695,7 @@
             "Morgan - Devoted Darkness",
             "Fir - Swordmaiden",
             "Tana - Soaring Princess",
+            "Alcryst - Tender Archer",
             "Shinon - Scathing Archer"
           ]
         },
@@ -3736,7 +3759,13 @@
     },
     "Deadeye": {
       "pool": {
-        "#": { "5": ["Tana - Soaring Princess", "Shinon - Scathing Archer"] },
+        "#": {
+          "5": [
+            "Tana - Soaring Princess",
+            "Alcryst - Tender Archer",
+            "Shinon - Scathing Archer"
+          ]
+        },
         "legendary": { "5": ["Hinoka - Thundering Wings"] },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
         "special": { "5": ["Shinon - Sharptongue Ninja"] },
@@ -3891,6 +3920,7 @@
             "Letizia - Curse Director",
             "Byleth - Sublime Light",
             "Lilith - Silent Broodling",
+            "Alear - Dragon Youth",
             "Corrin - Dream Princess",
             "Quan - Luminous Lancer",
             "Byleth - Vengeance Vessel",
@@ -3976,6 +4006,7 @@
             "Ashnard - Mad King",
             "Heath - Wandering Knight",
             "Galle - Azure Rider",
+            "Zephia - Scheming Dragon",
             "Jeralt - Blade Breaker",
             "Brigand Boss - Known Criminal",
             "Muarim - Raw Instinct",
@@ -4045,6 +4076,7 @@
             "Forsyth - Loyal Lieutenant",
             "Zeke - Past Unknown",
             "Gustav - Sovereign Slain",
+            "Diamant - Rising Power",
             "Idunn - Divine Demon",
             "Gilliam - Wall of Silence",
             "Owain - Chosen One"
@@ -4185,6 +4217,7 @@
             "Céline - Joyous Royal",
             "Tiki - Awakened Blood",
             "Niime - Mountain Hermit",
+            "Citrinne - Caring Noble",
             "Morgan - Lass from Afar",
             "Flora - Cold as Ice",
             "Selkie - Free Spirit",
@@ -6260,7 +6293,13 @@
     },
     "Flashing Blade 3": {
       "pool": {
-        "#": { "5": ["Mia - Lady of Blades", "Mareeta - The Blade's Pawn"] },
+        "#": {
+          "5": [
+            "Mia - Lady of Blades",
+            "Mareeta - The Blade's Pawn",
+            "Alcryst - Tender Archer"
+          ]
+        },
         "grail": { "5": ["Ylgr - Breaking the Ice"] },
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
         "special": { "5": ["Navarre - Scarlet Ninja", "Mia - Budding Blade"] }
@@ -6280,6 +6319,13 @@
       "name": "柔劍4",
       "sp": 300,
       "icon": "skillA/Flashing_Blade_4.png"
+    },
+    "Flash Sparrow": {
+      "pool": { "#": { "5": ["Alcryst - Tender Archer"] } },
+      "id": "Flash Sparrow",
+      "name": "鬼神飛燕柔擊",
+      "sp": 300,
+      "icon": "skillA/Flash_Sparrow.png"
     },
     "Fire Boost 3": {
       "pool": {
@@ -7169,7 +7215,7 @@
     },
     "Sorcery Blade 3": {
       "pool": {
-        "#": { "5": ["Ylgr - Fresh Snowfall"] },
+        "#": { "3": ["Lapis - Mighty Flower"], "5": ["Ylgr - Fresh Snowfall"] },
         "legendary": { "5": ["Yuri - Underground Lord"] }
       },
       "id": "Sorcery Blade 3",
@@ -7396,6 +7442,7 @@
             "Lilith - Silent Broodling"
           ]
         },
+        "grail": { "4": ["Zephia - Scheming Dragon"] },
         "legendary": {
           "5": [
             "Claude - King of Unification",
@@ -7583,6 +7630,7 @@
             "Monica - Favored Vassal",
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
+            "Alear - Dragon Youth",
             "Alear - Dragon Child"
           ]
         },
@@ -7605,6 +7653,7 @@
             "Monica - Favored Vassal",
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
+            "Alear - Dragon Youth",
             "Alear - Dragon Child"
           ]
         },
@@ -7872,6 +7921,20 @@
       "name": "攻擊速度的奧秘4",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Finish_4.png"
+    },
+    "Atk/Def Finish 3": {
+      "pool": { "#": { "5": ["Diamant - Rising Power"] } },
+      "id": "Atk/Def Finish 3",
+      "name": "攻擊防守的奧秘3",
+      "sp": 240,
+      "icon": "skillA/Atk_Def_Finish_3.png"
+    },
+    "Atk/Def Finish 4": {
+      "pool": { "#": { "5": ["Diamant - Rising Power"] } },
+      "id": "Atk/Def Finish 4",
+      "name": "攻擊防守的奧秘4",
+      "sp": 300,
+      "icon": "skillA/Atk_Def_Finish_4.png"
     },
     "Atk/Res Finish 3": {
       "pool": {
@@ -9013,7 +9076,10 @@
     "Windsweep 3": {
       "pool": {
         "#": { "5": ["Alm - Hero of Prophecy"] },
-        "grail": { "4": ["Lifis - Terror of Iz", "Joshua - Tempest King"] },
+        "grail": {
+          "4": ["Lifis - Terror of Iz", "Joshua - Tempest King"],
+          "5": ["Zephia - Scheming Dragon"]
+        },
         "special": {
           "5": ["Ethlyn - Glimmering Lady", "Merric - Changing Winds"]
         },
@@ -9684,6 +9750,7 @@
         "#": {
           "5": [
             "Keaton - Lupine Collector",
+            "Citrinne - Caring Noble",
             "Lewyn - Guiding Breeze",
             "Ophelia - Starlit Maiden",
             "Igrene - Nabata Protector"
@@ -9700,7 +9767,9 @@
       "icon": "skillB/Special_Spiral_3.png"
     },
     "Special Spiral 4": {
-      "pool": { "#": { "5": ["Ophelia - Starlit Maiden"] } },
+      "pool": {
+        "#": { "5": ["Citrinne - Caring Noble", "Ophelia - Starlit Maiden"] }
+      },
       "id": "Special Spiral 4",
       "name": "奧義之螺旋4",
       "sp": 300,
@@ -9935,6 +10004,7 @@
           "5": [
             "Larcei - Keen Kin",
             "Ike - Zeal Unleashed",
+            "Alear - Dragon Youth",
             "Lucia - Tireless Advisor"
           ]
         }
@@ -9945,7 +10015,9 @@
       "icon": "skillB/Repel_3.png"
     },
     "Repel 4": {
-      "pool": { "#": { "5": ["Lucia - Tireless Advisor"] } },
+      "pool": {
+        "#": { "5": ["Alear - Dragon Youth", "Lucia - Tireless Advisor"] }
+      },
       "id": "Repel 4",
       "name": "迴避・擊退4",
       "sp": 300,
@@ -10292,7 +10364,9 @@
       "icon": "skillB/Spd_Res_Tempo_3.png"
     },
     "Atk/Spd Bulwark 3": {
-      "pool": { "#": { "5": ["Felix - Lone-Wolf Blade"] } },
+      "pool": {
+        "#": { "5": ["Diamant - Rising Power", "Felix - Lone-Wolf Blade"] }
+      },
       "id": "Atk/Spd Bulwark 3",
       "name": "攻擊速度防護屏障3",
       "sp": 240,
@@ -10352,6 +10426,20 @@
       "name": "絕對化身・追擊3",
       "sp": 240,
       "icon": "skillB/Beast_Follow-Up_3.png"
+    },
+    "Beast Sense 3": {
+      "pool": { "#": { "5": ["Eitr - Hand of Nothing"] } },
+      "id": "Beast Sense 3",
+      "name": "絕對化身・察覺3",
+      "sp": 240,
+      "icon": "skillB/Beast_Sense_3.png"
+    },
+    "Beast Sense 4": {
+      "pool": { "#": { "5": ["Eitr - Hand of Nothing"] } },
+      "id": "Beast Sense 4",
+      "name": "絕對化身・察覺4",
+      "sp": 300,
+      "icon": "skillB/Beast_Sense_4.png"
     }
   },
   "skillC": {
@@ -11849,7 +11937,10 @@
     },
     "Def Smoke 3": {
       "pool": {
-        "#": { "3": ["Rath - Wolf of Sacae"], "5": ["Claude - The Schemer"] },
+        "#": {
+          "3": ["Rath - Wolf of Sacae"],
+          "5": ["Claude - The Schemer", "Alcryst - Tender Archer"]
+        },
         "grail": { "4": ["Panne - Proud Taguel"] },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
         "special": {
@@ -11942,6 +12033,7 @@
     },
     "Def/Res Smoke 3": {
       "pool": {
+        "#": { "5": ["Alcryst - Tender Archer"] },
         "special": {
           "5": ["Leila - Keen Lookout", "Bernadetta - Late Hibernator"]
         },
@@ -11963,6 +12055,7 @@
             "Ishtar - Echoing Thunder",
             "Charlotte - Wily Warrior",
             "Ophelia - Starlit Maiden",
+            "Diamant - Rising Power",
             "Byleth - Vengeance Vessel",
             "Shinon - Scathing Archer",
             "Volke - Man of Mysteries"
@@ -11992,7 +12085,7 @@
     },
     "Time's Pulse 4": {
       "pool": {
-        "#": { "5": ["Byleth - Vengeance Vessel"] },
+        "#": { "5": ["Diamant - Rising Power", "Byleth - Vengeance Vessel"] },
         "special": { "5": ["Nino - Spirited Sorcerer", "Fjorm - Seaside Thaw"] }
       },
       "id": "Time's Pulse 4",
@@ -12612,6 +12705,7 @@
         "#": {
           "5": [
             "Hugh - Worldly Mage",
+            "Eitr - Hand of Nothing",
             "Ingrid - Galatea's Heir",
             "Shamir - Archer Apart",
             "Laegjarn - Flame Ascendant"
@@ -12732,7 +12826,10 @@
       "icon": "skillC/Rouse_Def_Res_3.png"
     },
     "Alarm Atk/Spd": {
-      "pool": { "mythic": { "5": ["Nerþuz - God of the Land"] } },
+      "pool": {
+        "#": { "5": ["Eitr - Hand of Nothing"] },
+        "mythic": { "5": ["Nerþuz - God of the Land"] }
+      },
       "id": "Alarm Atk/Spd",
       "name": "攻擊速度的奮進",
       "sp": 300,
@@ -12800,7 +12897,10 @@
     },
     "Atk/Res Oath 3": {
       "pool": {
-        "#": { "3": ["Dorothy - Devoted Archer"] },
+        "#": {
+          "3": ["Dorothy - Devoted Archer"],
+          "5": ["Citrinne - Caring Noble"]
+        },
         "grail": { "5": ["Pelleas - Ashnard's Orphan"] },
         "legendary": { "5": ["Julia - Crusader of Light"] },
         "mythic": { "5": ["Arval - Cycle Keeper"] },
@@ -12813,7 +12913,10 @@
       "icon": "skillC/Atk_Res_Oath_3.png"
     },
     "Atk/Res Oath 4": {
-      "pool": { "mythic": { "5": ["Arval - Cycle Keeper"] } },
+      "pool": {
+        "#": { "5": ["Citrinne - Caring Noble"] },
+        "mythic": { "5": ["Arval - Cycle Keeper"] }
+      },
       "id": "Atk/Res Oath 4",
       "name": "攻擊魔防的信義4",
       "sp": 300,
@@ -12821,6 +12924,7 @@
     },
     "Spd/Def Oath 3": {
       "pool": {
+        "#": { "3": ["Lapis - Mighty Flower"] },
         "grail": { "5": ["Rickard - Carefree Culprit"] },
         "special": { "5": ["Marth - Legacied Hero"] }
       },
@@ -12932,7 +13036,9 @@
       "icon": "skillC/Blue_Feud_3.png"
     },
     "Green Feud 3": {
-      "pool": { "#": { "5": ["Joshua - Resolute Tempest"] } },
+      "pool": {
+        "#": { "5": ["Joshua - Resolute Tempest", "Alear - Dragon Youth"] }
+      },
       "id": "Green Feud 3",
       "name": "對綠的暗鬥3",
       "sp": 240,

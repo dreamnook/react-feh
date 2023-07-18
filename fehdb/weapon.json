@@ -2682,7 +2682,7 @@
       "cd": -1,
       "sp": 400,
       "prev": ["Silver Sword"],
-      "exclusive": ["Alear - Dragon Child"],
+      "exclusive": ["Alear - Dragon Child", "Alear - Dragon Youth"],
       "last": true
     },
     "Monarch Blade": {
@@ -2805,6 +2805,16 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Fjorm - Seaside Thaw"],
+      "last": true
+    },
+    "Fair-Fight Blade": {
+      "id": "Fair-Fight Blade",
+      "name": "正面對決的剛劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Diamant - Rising Power"],
       "last": true
     },
     "Arcane Éljúðnir": {
@@ -3471,6 +3481,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Up-Front Blade"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Defier's Sword": {
+      "id": "Defier's Sword",
+      "name": "防守逆用之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Defier's Sword+": {
+      "id": "Defier's Sword+",
+      "name": "防守逆用之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Defier's Sword"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -12265,6 +12308,16 @@
       },
       "last": true
     },
+    "Arcane Darkbow": {
+      "id": "Arcane Darkbow",
+      "name": "魔器・溫柔影弓",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Bow"],
+      "last": true
+    },
     "Iron Bow": {
       "id": "Iron Bow",
       "name": "鐵弓",
@@ -16370,6 +16423,17 @@
       "exclusive": ["Nerþuz - God of the Land"],
       "last": true
     },
+    "Arcane Nihility": {
+      "id": "Arcane Nihility",
+      "name": "魔器・虛無之角",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Adult (Cavalry)"],
+      "rules": "cavalry",
+      "last": true
+    },
     "Whelp (Infantry)": {
       "id": "Whelp (Infantry)",
       "name": "幼獸化身・步行",
@@ -17487,6 +17551,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Packleader Tome": {
+      "id": "Packleader Tome",
+      "name": "四狗頭領的魔書",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Zephia - Scheming Dragon"],
       "last": true
     },
     "Arcane Eclipse": {
@@ -21051,6 +21125,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Ivy - Tidal Breeze"],
+      "last": true
+    },
+    "Tome of Luxuries": {
+      "id": "Tome of Luxuries",
+      "name": "奢華的富書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Citrinne - Caring Noble"],
       "last": true
     },
     "Wind": {

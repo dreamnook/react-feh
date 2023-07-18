@@ -1924,6 +1924,33 @@
       "Fatal Smoke 3": 4
     }
   },
+  "Eitr - Hand of Nothing": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 4,
+      "Arcane Nihility": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Power of Nihility": 5
+    },
+    "skillB": {
+      "Beast Sense 1": 2,
+      "Beast Sense 2": 3,
+      "Beast Sense 3": 4,
+      "Beast Sense 4": 5
+    },
+    "skillC": {
+      "Rouse Atk/Spd 1": 2,
+      "Rouse Atk/Spd 2": 3,
+      "Rouse Atk/Spd 3": 4,
+      "Alarm Atk/Spd": 5
+    }
+  },
   "Reginn - Bearing Hope": {
     "weapon": {
       "Iron Sword": 1,
@@ -23591,6 +23618,35 @@
       "Spd Smoke 4": 5
     }
   },
+  "Alear - Dragon Youth": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Libération": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Atk/Spd Ideal 4": 5
+    },
+    "skillB": {
+      "Repel 1": 2,
+      "Repel 2": 3,
+      "Repel 3": 4,
+      "Repel 4": 5
+    },
+    "skillC": {
+      "Green Feud 1": 1,
+      "Green Feud 2": 2,
+      "Green Feud 3": 4
+    }
+  },
   "Lumera - Dragon Monarch": {
     "weapon": {
       "Iron Sword": 1,
@@ -23706,6 +23762,109 @@
       "Pegasus Flight 4": 5
     }
   },
+  "Diamant - Rising Power": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Fair-Fight Blade": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4
+    },
+    "skillA": {
+      "Atk/Def Finish 1": 2,
+      "Atk/Def Finish 2": 3,
+      "Atk/Def Finish 3": 4,
+      "Atk/Def Finish 4": 5
+    },
+    "skillB": {
+      "Atk/Spd Bulwark 1": 1,
+      "Atk/Spd Bulwark 2": 2,
+      "Atk/Spd Bulwark 3": 4
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Time's Pulse 4": 5
+    }
+  },
+  "Alcryst - Tender Archer": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Arcane Darkbow": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Deadeye": 5
+    },
+    "skillA": {
+      "Flashing Blade 1": 2,
+      "Flashing Blade 2": 3,
+      "Flashing Blade 3": 4,
+      "Flash Sparrow": 5
+    },
+    "skillB": {
+      "Get Behind Me!": 5
+    },
+    "skillC": {
+      "Def Smoke 1": 2,
+      "Def Smoke 2": 3,
+      "Def Smoke 3": 4,
+      "Def/Res Smoke 3": 5
+    }
+  },
+  "Lapis - Mighty Flower": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Defier's Sword": 4,
+      "Defier's Sword+": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Sorcery Blade 1": 3,
+      "Sorcery Blade 2": 4,
+      "Sorcery Blade 3": 5
+    },
+    "skillC": {
+      "Spd/Def Oath 1": 1,
+      "Spd/Def Oath 2": 2,
+      "Spd/Def Oath 3": 4
+    }
+  },
+  "Citrinne - Caring Noble": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Tome of Luxuries": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4
+    },
+    "skillB": {
+      "Special Spiral 1": 2,
+      "Special Spiral 2": 3,
+      "Special Spiral 3": 4,
+      "Special Spiral 4": 5
+    },
+    "skillC": {
+      "Atk/Res Oath 1": 2,
+      "Atk/Res Oath 2": 3,
+      "Atk/Res Oath 3": 4,
+      "Atk/Res Oath 4": 5
+    }
+  },
   "Ivy - Tidal Breeze": {
     "weapon": {
       "Wind": 1,
@@ -23734,6 +23893,28 @@
       "Flier Guidance 2": 3,
       "Flier Guidance 3": 4,
       "Soaring Guidance": 5
+    }
+  },
+  "Zephia - Scheming Dragon": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bolganone": 4,
+      "Packleader Tome": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 1,
+      "Atk/Spd Catch 2": 2,
+      "Atk/Spd Catch 3": 4
+    },
+    "skillB": {
+      "Windsweep 1": 3,
+      "Windsweep 2": 4,
+      "Windsweep 3": 5
     }
   }
 }

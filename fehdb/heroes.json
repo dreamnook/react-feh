@@ -2745,6 +2745,41 @@
     "ver": "5.7",
     "df": 15
   },
+  "Eitr - Hand of Nothing": {
+    "id": "Eitr - Hand of Nothing",
+    "title": "虛無的僕人",
+    "name": "艾特",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-beast",
+    "rearmed": true,
+    "releaseDate": "2023-07-18",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 44, 47],
+        "spd": [43, 46, 50],
+        "def": [30, 33, 37],
+        "res": [12, 16, 19]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 16,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
+  },
   "Reginn - Bearing Hope": {
     "id": "Reginn - Bearing Hope",
     "title": "希望的駿馬",
@@ -42319,6 +42354,40 @@
     "ver": "7.1",
     "df": 5
   },
+  "Alear - Dragon Youth": {
+    "id": "Alear - Dragon Youth",
+    "title": "神龍王子",
+    "name": "琉爾",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-07-18",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [42, 45, 49],
+        "def": [30, 33, 36],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 15,
+        "def": 5,
+        "res": 3
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
+  },
   "Lumera - Dragon Monarch": {
     "id": "Lumera - Dragon Monarch",
     "title": "神龍王",
@@ -42547,6 +42616,171 @@
     "ver": "7.1",
     "df": 5
   },
+  "Diamant - Rising Power": {
+    "id": "Diamant - Rising Power",
+    "title": "勇往直前的黑鐵",
+    "name": "帝亞曼德",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-07-18",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [43, 46, 50],
+        "spd": [33, 36, 40],
+        "def": [39, 43, 46],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 16,
+        "spd": 6,
+        "def": 10,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["def"],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
+  },
+  "Alcryst - Tender Archer": {
+    "id": "Alcryst - Tender Archer",
+    "title": "心思細膩的射手",
+    "name": "史塔盧克",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-bow",
+    "rearmed": true,
+    "releaseDate": "2023-07-18",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [40, 43, 47],
+        "spd": [42, 46, 49],
+        "def": [27, 30, 33],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 13,
+        "def": 4,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
+  },
+  "Lapis - Mighty Flower": {
+    "id": "Lapis - Mighty Flower",
+    "title": "不屈的野花",
+    "name": "菈琵思",
+    "rarity": [5, 4, 3],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-07-18",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [33, 36, 39],
+        "spd": [38, 41, 44],
+        "def": [22, 25, 28],
+        "res": [25, 28, 31]
+      },
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [35, 39, 42],
+        "spd": [40, 43, 47],
+        "def": [23, 26, 29],
+        "res": [26, 29, 32]
+      },
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [37, 41, 44],
+        "spd": [42, 45, 49],
+        "def": [25, 29, 32],
+        "res": [29, 32, 35]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 7,
+        "spd": 14,
+        "def": 6,
+        "res": 7
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 8,
+        "spd": 15,
+        "def": 6,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 15,
+        "def": 7,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["atk", "def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
+  },
+  "Citrinne - Caring Noble": {
+    "id": "Citrinne - Caring Noble",
+    "title": "富裕的友愛",
+    "name": "希特麗妮卡",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "releaseDate": "2023-07-18",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [43, 46, 50],
+        "spd": [23, 27, 30],
+        "def": [19, 22, 26],
+        "res": [40, 44, 47]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 16,
+        "spd": 5,
+        "def": 3,
+        "res": 11
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
+  },
   "Ivy - Tidal Breeze": {
     "id": "Ivy - Tidal Breeze",
     "title": "海風吹拂",
@@ -42577,6 +42811,69 @@
     "assets": ["atk"],
     "flaws": ["hp", "spd", "res"],
     "statMin": 173,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
+  },
+  "Zephia - Scheming Dragon": {
+    "id": "Zephia - Scheming Dragon",
+    "title": "蠱惑人心的魔龍",
+    "name": "賽皮雅",
+    "rarity": [5, 4, 3],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-tome",
+    "pool": "grail",
+    "releaseDate": "2023-07-19",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [33, 36, 39],
+        "spd": [36, 39, 42],
+        "def": [17, 20, 23],
+        "res": [18, 21, 24]
+      },
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [35, 38, 42],
+        "spd": [38, 42, 45],
+        "def": [18, 21, 24],
+        "res": [19, 22, 25]
+      },
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [37, 40, 44],
+        "spd": [40, 44, 47],
+        "def": [20, 23, 26],
+        "res": [21, 24, 28]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 10,
+        "def": 5,
+        "res": 4
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 11,
+        "def": 5,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 11,
+        "def": 6,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["spd"],
+    "statMin": 172,
     "statMax": 175,
     "book": 7,
     "ver": "7.7",

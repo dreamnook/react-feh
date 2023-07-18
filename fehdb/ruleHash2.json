@@ -280,6 +280,10 @@
     "weaponType": 65528,
     "moveType": 12
   },
+  "learner.beast-sense": {
+    "weaponType": 15728640,
+    "moveType": 13
+  },
   "learner.oath-skills": {
     "moveType": 9
   },

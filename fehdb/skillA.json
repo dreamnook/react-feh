@@ -168,6 +168,14 @@
     "last": true,
     "icon": "skillA/Knightly_Devotion.png"
   },
+  "Power of Nihility": {
+    "id": "Power of Nihility",
+    "name": "虛無之力",
+    "sp": 300,
+    "exclusive": ["Eitr - Hand of Nothing"],
+    "last": true,
+    "icon": "skillA/Power_of_Nihility.png"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -1774,6 +1782,15 @@
     "rules": "learner.flashingBlade",
     "icon": "skillA/Flashing_Blade_4.png",
     "last": true
+  },
+  "Flash Sparrow": {
+    "id": "Flash Sparrow",
+    "name": "鬼神飛燕柔擊",
+    "sp": 300,
+    "rules": "learner.flashingBlade",
+    "prev": ["Flashing Blade 3", "Swift Sparrow 2"],
+    "last": true,
+    "icon": "skillA/Flash_Sparrow.png"
   },
   "Fire Boost 1": {
     "id": "Fire Boost 1",
@@ -3961,6 +3978,39 @@
     "prev": ["Atk/Spd Finish 3"],
     "rules": "infantry",
     "icon": "skillA/Atk_Spd_Finish_4.png",
+    "last": true
+  },
+  "Atk/Def Finish 1": {
+    "id": "Atk/Def Finish 1",
+    "name": "攻擊防守的奧秘1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillA/Atk_Def_Finish_1.png"
+  },
+  "Atk/Def Finish 2": {
+    "id": "Atk/Def Finish 2",
+    "name": "攻擊防守的奧秘2",
+    "sp": 120,
+    "prev": ["Atk/Def Finish 1"],
+    "rules": "infantry",
+    "icon": "skillA/Atk_Def_Finish_2.png"
+  },
+  "Atk/Def Finish 3": {
+    "id": "Atk/Def Finish 3",
+    "name": "攻擊防守的奧秘3",
+    "sp": 240,
+    "prev": ["Atk/Def Finish 2"],
+    "rules": "infantry",
+    "icon": "skillA/Atk_Def_Finish_3.png",
+    "last": true
+  },
+  "Atk/Def Finish 4": {
+    "id": "Atk/Def Finish 4",
+    "name": "攻擊防守的奧秘4",
+    "sp": 300,
+    "prev": ["Atk/Def Finish 3"],
+    "rules": "infantry",
+    "icon": "skillA/Atk_Def_Finish_4.png",
     "last": true
   },
   "Atk/Res Finish 1": {

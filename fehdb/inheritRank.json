@@ -3512,6 +3512,18 @@
     "skillA": { "Bracing Stance 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
   },
+  "Lapis - Mighty Flower": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 188,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Sorcery Blade 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd/Def Oath 3": { "sp": 240, "rarity": 4 } }
+  },
   "Olivia - Festival Dancer": {
     "score": 254,
     "scoreTotal": 466,
@@ -7486,6 +7498,19 @@
     "skillB": { "Chill Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk Opening 3": { "sp": 240, "rarity": 4 } }
   },
+  "Zephia - Scheming Dragon": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 172,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Windsweep 3": { "sp": 240, "rarity": 5 } }
+  },
   "Bertram - Dread Cavalier": {
     "score": 322,
     "scoreTotal": 746,
@@ -8296,6 +8321,30 @@
     "special": { "Noontime": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Def Unity": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Hone Atk": { "sp": 300, "rarity": 5 } }
+  },
+  "Citrinne - Caring Noble": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 177,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Special Spiral 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Res Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Eitr - Hand of Nothing": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Beast Sense 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Alarm Atk/Spd": { "sp": 300, "rarity": 5 } }
   },
   "Líf - Arcane Blade": {
     "score": 300,
@@ -11285,6 +11334,32 @@
     "skillB": { "Velocity 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Drive Spd": { "sp": 300, "rarity": 5 } }
   },
+  "Alear - Dragon Youth": {
+    "score": 300,
+    "scoreTotal": 1040,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Repel 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Green Feud 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Diamant - Rising Power": {
+    "score": 300,
+    "scoreTotal": 1040,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Bulwark 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
   "Fjorm - Ice Ascendant": {
     "score": 300,
     "scoreTotal": 1040,
@@ -11506,6 +11581,18 @@
     "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillC": { "Guidance 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Alcryst - Tender Archer": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
   "Severa - Bitter Blossom": {
     "score": 318,

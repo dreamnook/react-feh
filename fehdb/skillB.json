@@ -470,6 +470,14 @@
     "last": true,
     "icon": "skillB/Sunlight_Bangle.png"
   },
+  "Get Behind Me!": {
+    "id": "Get Behind Me!",
+    "name": "由我守護!",
+    "sp": 300,
+    "exclusive": ["Alcryst - Tender Archer"],
+    "last": true,
+    "icon": "skillB/Get_Behind_Me!.png"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -4300,6 +4308,39 @@
     "prev": ["Beast Follow-Up 2"],
     "rules": "beast",
     "icon": "skillB/Beast_Follow-Up_3.png",
+    "last": true
+  },
+  "Beast Sense 1": {
+    "id": "Beast Sense 1",
+    "name": "絕對化身・察覺1",
+    "sp": 60,
+    "rules": "learner.beast-sense",
+    "icon": "skillB/Beast_Sense_1.png"
+  },
+  "Beast Sense 2": {
+    "id": "Beast Sense 2",
+    "name": "絕對化身・察覺2",
+    "sp": 120,
+    "prev": ["Beast Sense 1"],
+    "rules": "learner.beast-sense",
+    "icon": "skillB/Beast_Sense_2.png"
+  },
+  "Beast Sense 3": {
+    "id": "Beast Sense 3",
+    "name": "絕對化身・察覺3",
+    "sp": 240,
+    "prev": ["Beast Sense 2"],
+    "rules": "learner.beast-sense",
+    "icon": "skillB/Beast_Sense_3.png",
+    "last": true
+  },
+  "Beast Sense 4": {
+    "id": "Beast Sense 4",
+    "name": "絕對化身・察覺4",
+    "sp": 300,
+    "prev": ["Beast Sense 3"],
+    "rules": "learner.beast-sense",
+    "icon": "skillB/Beast_Sense_4.png",
     "last": true
   }
 }
