@@ -1690,7 +1690,8 @@
         "pool": { "#": { "5": ["Eitr - Hand of Nothing"] } },
         "id": "Arcane Nihility",
         "name": "魔器・虛無之角",
-        "sp": 300
+        "sp": 300,
+        "refine": 350
       }
     },
     "red-tome": {

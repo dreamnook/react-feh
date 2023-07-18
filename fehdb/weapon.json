@@ -16450,6 +16450,24 @@
       "sp": 300,
       "prev": ["Adult (Cavalry)"],
       "rules": "cavalry",
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Whelp (Infantry)": {
