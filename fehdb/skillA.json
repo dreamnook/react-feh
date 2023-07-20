@@ -669,6 +669,88 @@
     "icon": "skillA/Life_and_Death_4.png",
     "last": true
   },
+  "Solid Ground 1": {
+    "id": "Solid Ground 1",
+    "name": "不壞1",
+    "sp": 50,
+    "atk": 3,
+    "def": 3,
+    "res": -3,
+    "icon": "skillA/Solid_Ground_1.png"
+  },
+  "Solid Ground 2": {
+    "id": "Solid Ground 2",
+    "name": "不壞2",
+    "sp": 100,
+    "atk": 4,
+    "def": 4,
+    "res": -4,
+    "prev": ["Solid Ground 1"],
+    "icon": "skillA/Solid_Ground_2.png"
+  },
+  "Solid Ground 3": {
+    "id": "Solid Ground 3",
+    "name": "不壞3",
+    "sp": 200,
+    "atk": 5,
+    "def": 5,
+    "res": -5,
+    "prev": ["Solid Ground 2"],
+    "icon": "skillA/Solid_Ground_3.png",
+    "last": true
+  },
+  "Solid Ground 4": {
+    "id": "Solid Ground 4",
+    "name": "不壞4",
+    "sp": 300,
+    "atk": 7,
+    "def": 7,
+    "res": -5,
+    "prev": ["Solid Ground 3"],
+    "icon": "skillA/Solid_Ground_4.png",
+    "last": true
+  },
+  "Still Water 1": {
+    "id": "Still Water 1",
+    "name": "止水1",
+    "sp": 50,
+    "atk": 3,
+    "res": 3,
+    "def": -3,
+    "icon": "skillA/Still_Water_1.png"
+  },
+  "Still Water 2": {
+    "id": "Still Water 2",
+    "name": "止水2",
+    "sp": 100,
+    "atk": 4,
+    "res": 4,
+    "def": -4,
+    "prev": ["Still Water 1"],
+    "icon": "skillA/Still_Water_2.png"
+  },
+  "Still Water 3": {
+    "id": "Still Water 3",
+    "name": "止水3",
+    "sp": 200,
+    "atk": 5,
+    "res": 5,
+    "def": -5,
+    "prev": ["Still Water 2"],
+    "icon": "skillA/Still_Water_3.png",
+    "last": true
+  },
+  "Still Water 4": {
+    "id": "Still Water 4",
+    "name": "止水4",
+    "sp": 300,
+    "atk": 7,
+    "res": 7,
+    "def": -5,
+    "prev": ["Still Water 3"],
+    "icon": "skillA/Still_Water_4.png",
+    "last": true
+  },
   "Death Blow 1": {
     "id": "Death Blow 1",
     "name": "鬼神一擊1",
@@ -3764,88 +3846,6 @@
     "prev": ["Def/Res Ideal 3"],
     "rules": "learner.ideal",
     "icon": "skillA/Def_Res_Ideal_4.png",
-    "last": true
-  },
-  "Solid Ground 1": {
-    "id": "Solid Ground 1",
-    "name": "不壞1",
-    "sp": 50,
-    "atk": 3,
-    "def": 3,
-    "res": -3,
-    "icon": "skillA/Solid_Ground_1.png"
-  },
-  "Solid Ground 2": {
-    "id": "Solid Ground 2",
-    "name": "不壞2",
-    "sp": 100,
-    "atk": 4,
-    "def": 4,
-    "res": -4,
-    "prev": ["Solid Ground 1"],
-    "icon": "skillA/Solid_Ground_2.png"
-  },
-  "Solid Ground 3": {
-    "id": "Solid Ground 3",
-    "name": "不壞3",
-    "sp": 200,
-    "atk": 5,
-    "def": 5,
-    "res": -5,
-    "prev": ["Solid Ground 2"],
-    "icon": "skillA/Solid_Ground_3.png",
-    "last": true
-  },
-  "Solid Ground 4": {
-    "id": "Solid Ground 4",
-    "name": "不壞4",
-    "sp": 300,
-    "atk": 7,
-    "def": 7,
-    "res": -5,
-    "prev": ["Solid Ground 3"],
-    "icon": "skillA/Solid_Ground_4.png",
-    "last": true
-  },
-  "Still Water 1": {
-    "id": "Still Water 1",
-    "name": "止水1",
-    "sp": 50,
-    "atk": 3,
-    "res": 3,
-    "def": -3,
-    "icon": "skillA/Still_Water_1.png"
-  },
-  "Still Water 2": {
-    "id": "Still Water 2",
-    "name": "止水2",
-    "sp": 100,
-    "atk": 4,
-    "res": 4,
-    "def": -4,
-    "prev": ["Still Water 1"],
-    "icon": "skillA/Still_Water_2.png"
-  },
-  "Still Water 3": {
-    "id": "Still Water 3",
-    "name": "止水3",
-    "sp": 200,
-    "atk": 5,
-    "res": 5,
-    "def": -5,
-    "prev": ["Still Water 2"],
-    "icon": "skillA/Still_Water_3.png",
-    "last": true
-  },
-  "Still Water 4": {
-    "id": "Still Water 4",
-    "name": "止水4",
-    "sp": 300,
-    "atk": 7,
-    "res": 7,
-    "def": -5,
-    "prev": ["Still Water 3"],
-    "icon": "skillA/Still_Water_4.png",
     "last": true
   },
   "Atk/Spd Clash 1": {

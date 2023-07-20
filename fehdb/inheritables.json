@@ -5125,6 +5125,44 @@
       "sp": 300,
       "icon": "skillA/Life_and_Death_4.png"
     },
+    "Solid Ground 3": {
+      "pool": { "#": { "5": ["Gregor - Swell Sword"] } },
+      "id": "Solid Ground 3",
+      "name": "不壞3",
+      "sp": 200,
+      "icon": "skillA/Solid_Ground_3.png"
+    },
+    "Solid Ground 4": {
+      "pool": { "#": { "5": ["Gregor - Swell Sword"] } },
+      "id": "Solid Ground 4",
+      "name": "不壞4",
+      "sp": 300,
+      "icon": "skillA/Solid_Ground_4.png"
+    },
+    "Still Water 3": {
+      "pool": {
+        "legendary": { "5": ["Deirdre - Fated Saint"] },
+        "mythic": { "5": ["Seiðr - Goddess of Hope"] },
+        "special": { "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"] },
+        "duo": { "5": ["Thórr - Sun-Kissed Gods"] }
+      },
+      "id": "Still Water 3",
+      "name": "止水3",
+      "sp": 200,
+      "icon": "skillA/Still_Water_3.png"
+    },
+    "Still Water 4": {
+      "pool": {
+        "legendary": { "5": ["Deirdre - Fated Saint"] },
+        "mythic": { "5": ["Seiðr - Goddess of Hope"] },
+        "special": { "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"] },
+        "duo": { "5": ["Thórr - Sun-Kissed Gods"] }
+      },
+      "id": "Still Water 4",
+      "name": "止水4",
+      "sp": 300,
+      "icon": "skillA/Still_Water_4.png"
+    },
     "Death Blow 3": {
       "pool": {
         "#": {
@@ -7785,44 +7823,6 @@
       "name": "防守魔防萬全4",
       "sp": 300,
       "icon": "skillA/Def_Res_Ideal_4.png"
-    },
-    "Solid Ground 3": {
-      "pool": { "#": { "5": ["Gregor - Swell Sword"] } },
-      "id": "Solid Ground 3",
-      "name": "不壞3",
-      "sp": 200,
-      "icon": "skillA/Solid_Ground_3.png"
-    },
-    "Solid Ground 4": {
-      "pool": { "#": { "5": ["Gregor - Swell Sword"] } },
-      "id": "Solid Ground 4",
-      "name": "不壞4",
-      "sp": 300,
-      "icon": "skillA/Solid_Ground_4.png"
-    },
-    "Still Water 3": {
-      "pool": {
-        "legendary": { "5": ["Deirdre - Fated Saint"] },
-        "mythic": { "5": ["Seiðr - Goddess of Hope"] },
-        "special": { "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"] },
-        "duo": { "5": ["Thórr - Sun-Kissed Gods"] }
-      },
-      "id": "Still Water 3",
-      "name": "止水3",
-      "sp": 200,
-      "icon": "skillA/Still_Water_3.png"
-    },
-    "Still Water 4": {
-      "pool": {
-        "legendary": { "5": ["Deirdre - Fated Saint"] },
-        "mythic": { "5": ["Seiðr - Goddess of Hope"] },
-        "special": { "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"] },
-        "duo": { "5": ["Thórr - Sun-Kissed Gods"] }
-      },
-      "id": "Still Water 4",
-      "name": "止水4",
-      "sp": 300,
-      "icon": "skillA/Still_Water_4.png"
     },
     "Atk/Spd Clash 3": {
       "pool": {
