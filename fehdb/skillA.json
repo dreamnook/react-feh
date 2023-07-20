@@ -966,6 +966,15 @@
     "last": true,
     "icon": "skillA/Remote_Mirror.png"
   },
+  "Flash Sparrow": {
+    "id": "Flash Sparrow",
+    "name": "鬼神飛燕柔擊",
+    "sp": 300,
+    "rules": "learner.flashingBlade",
+    "prev": ["Flashing Blade 3", "Swift Sparrow 2"],
+    "last": true,
+    "icon": "skillA/Flash_Sparrow.png"
+  },
   "Fierce Stance 1": {
     "id": "Fierce Stance 1",
     "name": "鬼神架勢1",
@@ -1782,15 +1791,6 @@
     "rules": "learner.flashingBlade",
     "icon": "skillA/Flashing_Blade_4.png",
     "last": true
-  },
-  "Flash Sparrow": {
-    "id": "Flash Sparrow",
-    "name": "鬼神飛燕柔擊",
-    "sp": 300,
-    "rules": "learner.flashingBlade",
-    "prev": ["Flashing Blade 3", "Swift Sparrow 2"],
-    "last": true,
-    "icon": "skillA/Flash_Sparrow.png"
   },
   "Fire Boost 1": {
     "id": "Fire Boost 1",

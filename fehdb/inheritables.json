@@ -5566,6 +5566,13 @@
       "sp": 300,
       "icon": "skillA/Remote_Mirror.png"
     },
+    "Flash Sparrow": {
+      "pool": { "#": { "5": ["Alcryst - Tender Archer"] } },
+      "id": "Flash Sparrow",
+      "name": "鬼神飛燕柔擊",
+      "sp": 300,
+      "icon": "skillA/Flash_Sparrow.png"
+    },
     "Fierce Stance 3": {
       "pool": {
         "#": {
@@ -6321,13 +6328,6 @@
       "name": "柔劍4",
       "sp": 300,
       "icon": "skillA/Flashing_Blade_4.png"
-    },
-    "Flash Sparrow": {
-      "pool": { "#": { "5": ["Alcryst - Tender Archer"] } },
-      "id": "Flash Sparrow",
-      "name": "鬼神飛燕柔擊",
-      "sp": 300,
-      "icon": "skillA/Flash_Sparrow.png"
     },
     "Fire Boost 3": {
       "pool": {
