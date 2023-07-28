@@ -2601,6 +2601,43 @@
     "ver": "5.7",
     "df": 15
   },
+  "Freyr - Dream-King": {
+    "id": "Freyr - Dream-King",
+    "title": "夢之王",
+    "name": "佛羅金",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-beast",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "anima-atk",
+    "releaseDate": "2023-07-28",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [43, 46, 50],
+        "spd": [12, 16, 19],
+        "def": [37, 41, 44],
+        "res": [32, 35, 38]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 16,
+        "spd": 3,
+        "def": 8,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd", "def"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.7",
+    "df": 5
+  },
   "Triandra - Nightmare": {
     "id": "Triandra - Nightmare",
     "title": "惡夢的",

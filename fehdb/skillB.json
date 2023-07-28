@@ -3296,6 +3296,15 @@
     "icon": "skillB/Lull_Atk_Def_3.png",
     "last": true
   },
+  "Lull Atk/Def 4": {
+    "id": "Lull Atk/Def 4",
+    "name": "攻擊防守的靜謐4",
+    "sp": 300,
+    "prev": ["Lull Atk/Def 3"],
+    "rules": "learner.lull-skills",
+    "icon": "skillB/Lull_Atk_Def_4.png",
+    "last": true
+  },
   "Lull Atk/Res 1": {
     "id": "Lull Atk/Res 1",
     "name": "攻擊魔防的靜謐1",

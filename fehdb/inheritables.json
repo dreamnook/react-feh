@@ -4168,7 +4168,7 @@
         "legendary": {
           "5": ["Robin - Exalt's Other Half", "Seliph - Scion of Light"]
         },
-        "mythic": { "5": ["Reginn - Bearing Hope"] },
+        "mythic": { "5": ["Freyr - Dream-King", "Reginn - Bearing Hope"] },
         "special": {
           "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
@@ -7858,6 +7858,7 @@
     "Atk/Def Clash 3": {
       "pool": {
         "#": { "5": ["Líf - Arcane Blade"] },
+        "mythic": { "5": ["Freyr - Dream-King"] },
         "special": {
           "5": ["Flavia - Bold Bride", "Ephraim - Sunshine Valiant"]
         }
@@ -7870,6 +7871,7 @@
     "Atk/Def Clash 4": {
       "pool": {
         "#": { "5": ["Líf - Arcane Blade"] },
+        "mythic": { "5": ["Freyr - Dream-King"] },
         "special": { "5": ["Ephraim - Sunshine Valiant"] }
       },
       "id": "Atk/Def Clash 4",
@@ -9911,7 +9913,7 @@
           ]
         },
         "legendary": { "5": ["Chrom - Crowned Exalt"] },
-        "mythic": { "5": ["Ash - Retainer to Askr"] },
+        "mythic": { "5": ["Ash - Retainer to Askr", "Freyr - Dream-King"] },
         "special": { "5": ["Lyon - Sunlit Prince", "Freyr - Estival Dreams"] },
         "duo": { "5": ["Ephraim - Dynastic Duo"] },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }
@@ -9920,6 +9922,13 @@
       "name": "攻擊防守的靜謐3",
       "sp": 240,
       "icon": "skillB/Lull_Atk_Def_3.png"
+    },
+    "Lull Atk/Def 4": {
+      "pool": { "mythic": { "5": ["Freyr - Dream-King"] } },
+      "id": "Lull Atk/Def 4",
+      "name": "攻擊防守的靜謐4",
+      "sp": 300,
+      "icon": "skillB/Lull_Atk_Def_4.png"
     },
     "Lull Atk/Res 3": {
       "pool": {

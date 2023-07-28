@@ -6691,6 +6691,19 @@
     "skillB": { "Guard 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
   },
+  "Freyr - Dream-King": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Lull Atk/Def 4": { "sp": 300, "rarity": 5 } }
+  },
   "Seliph - Scion of Light": {
     "score": 276,
     "scoreTotal": 736,

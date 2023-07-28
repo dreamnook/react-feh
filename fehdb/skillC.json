@@ -379,6 +379,14 @@
     "last": true,
     "icon": "skillC/Bern's_New_Way.png"
   },
+  "Dream Deliverer": {
+    "id": "Dream Deliverer",
+    "name": "賜予人類安寧之夢",
+    "sp": 300,
+    "exclusive": ["Freyr - Dream-King"],
+    "last": true,
+    "icon": "skillC/Dream_Deliverer.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

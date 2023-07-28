@@ -1820,6 +1820,33 @@
       "Lull Atk/Def 3": 4
     }
   },
+  "Freyr - Dream-King": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 3,
+      "Dream Horn": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Def Clash 1": 2,
+      "Atk/Def Clash 2": 3,
+      "Atk/Def Clash 3": 4,
+      "Atk/Def Clash 4": 5
+    },
+    "skillB": {
+      "Lull Atk/Def 1": 2,
+      "Lull Atk/Def 2": 3,
+      "Lull Atk/Def 3": 4,
+      "Lull Atk/Def 4": 5
+    },
+    "skillC": {
+      "Dream Deliverer": 5
+    }
+  },
   "Triandra - Nightmare": {
     "weapon": {
       "Wind": 1,

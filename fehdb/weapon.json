@@ -16441,6 +16441,16 @@
       "exclusive": ["Nerþuz - God of the Land"],
       "last": true
     },
+    "Dream Horn": {
+      "id": "Dream Horn",
+      "name": "夢之王之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Freyr - Dream-King"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
