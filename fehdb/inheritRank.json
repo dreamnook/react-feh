@@ -2104,6 +2104,19 @@
     "skillA": { "Atk/Res Form 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Inf. Hexblade 3": { "sp": 240, "rarity": 4 } }
   },
+  "Tharja - Beach Dark Mage": {
+    "score": 196,
+    "scoreTotal": 395,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 168,
+    "assist": { "Draw Back": { "sp": 150, "rarity": 4 } },
+    "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Gap 3": { "sp": 240, "rarity": 4 } }
+  },
   "Kaden - Refreshed Kitsune": {
     "score": 196,
     "scoreTotal": 395,
@@ -5131,19 +5144,6 @@
     "skillA": { "AR-D Spd/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Air Orders 3": { "sp": 240, "rarity": 5 } }
   },
-  "Tharja - Beach Dark Mage": {
-    "score": 254,
-    "scoreTotal": 668,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 1000,
-    "bst": 168,
-    "assist": { "Draw Back": { "sp": 150, "rarity": 5 } },
-    "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Spd Gap 3": { "sp": 240, "rarity": 5 } }
-  },
   "Lukas - Buffet for One": {
     "score": 254,
     "scoreTotal": 668,
@@ -5658,19 +5658,6 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Guard Bearing 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Freyja - Lady of Nightmare": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 168,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Solo 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Líf - Lethal Swordsman": {
     "score": 276,
@@ -6613,6 +6600,19 @@
     "skillB": { "Desperation 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Joint Drive Spd": { "sp": 300, "rarity": 5 } }
   },
+  "Freyja - Lady of Nightmare": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 168,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Solo 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
   "Seiðr - Goddess of Hope": {
     "score": 276,
     "scoreTotal": 736,
@@ -6714,7 +6714,7 @@
     "feather": 1000,
     "bst": 180,
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Distant Ferocity": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Hone Def": { "sp": 300, "rarity": 5 } }
   },
   "Nanna - Beloved Princess": {

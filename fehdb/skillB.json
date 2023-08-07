@@ -270,6 +270,15 @@
     "last": true,
     "icon": "skillB/Raging_Storm.png"
   },
+  "Holy War's End II": {
+    "id": "Holy War's End II",
+    "name": "最後的聖戰・承",
+    "sp": 300,
+    "prev": ["Holy War's End"],
+    "exclusive": ["Seliph - Scion of Light"],
+    "last": true,
+    "icon": "skillB/Holy_War's_End_II.png"
+  },
   "Holy War's End": {
     "id": "Holy War's End",
     "name": "最後的聖戰",
@@ -301,6 +310,15 @@
     "exclusive": ["Dimitri - Savior King", "Dimitri - Sky-Blue Lion"],
     "last": true,
     "icon": "skillB/Atrocity.png"
+  },
+  "Binding Necklace+": {
+    "id": "Binding Necklace+",
+    "name": "束縛的首飾・神",
+    "sp": 300,
+    "prev": ["Binding Necklace"],
+    "exclusive": ["Freyja - Lady of Nightmare"],
+    "last": true,
+    "icon": "skillB/Binding_Necklace+.png"
   },
   "Binding Necklace": {
     "id": "Binding Necklace",

@@ -30296,7 +30296,7 @@
     "id": "Tharja - Beach Dark Mage",
     "title": "岸邊的咒術師",
     "name": "撒拉",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "cavalry",
     "weaponType": "blue-tome",
@@ -30304,12 +30304,26 @@
     "releaseDate": "2023-07-07",
     "appearsIn": ["Awakening"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [40, 43, 46],
+        "spd": [39, 42, 46],
+        "def": [14, 17, 20],
+        "res": [15, 18, 21]
+      },
       "5": {
         "hp": [37, 40, 43],
         "atk": [42, 45, 48],
         "spd": [41, 44, 48],
         "def": [16, 19, 22],
         "res": [17, 20, 23]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 10,
+        "spd": 14,
+        "def": 3,
+        "res": 2
       },
       "5-1": {
         "hp": 16,

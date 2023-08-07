@@ -2854,11 +2854,10 @@
         },
         "grail": { "4": ["Robin - Keen Groom", "Elincia - Seaside Queen"] },
         "special": {
-          "4": ["Sylvain - Hanging with Tens"],
+          "4": ["Sylvain - Hanging with Tens", "Tharja - Beach Dark Mage"],
           "5": [
             "Catria - Spring Whitewing",
             "Sanaki - Apostle in White",
-            "Tharja - Beach Dark Mage",
             "Wolt - Sunbeam Archer",
             "Selena - Sandbar Fluorspar",
             "Hinoka - Relaxed Warrior",
@@ -6157,7 +6156,10 @@
       "icon": "skillA/Distant_Pressure.png"
     },
     "Distant Ferocity": {
-      "pool": { "duo": { "5": ["Duma - Strength and Love"] } },
+      "pool": {
+        "legendary": { "5": ["Seliph - Scion of Light"] },
+        "duo": { "5": ["Duma - Strength and Love"] }
+      },
       "id": "Distant Ferocity",
       "name": "遠反・鬼神架勢",
       "sp": 300,
@@ -10277,8 +10279,8 @@
         "special": {
           "5": [
             "L'Arachel - Seeker of Justice",
-            "Dorothea - Yuletide Dancer",
             "Tharja - Beach Dark Mage",
+            "Dorothea - Yuletide Dancer",
             "Delthea - Prodigy in Bloom"
           ]
         },
@@ -11921,6 +11923,7 @@
           ]
         },
         "grail": { "5": ["Takumi - Empty Vessel"] },
+        "mythic": { "5": ["Freyja - Lady of Nightmare"] },
         "special": { "5": ["Lyn - Blazing Whirlwind"] },
         "harmonized": { "5": ["Karla - Spring Reveries"] }
       },
@@ -11938,6 +11941,7 @@
             "Felix - Lone-Wolf Blade"
           ]
         },
+        "mythic": { "5": ["Freyja - Lady of Nightmare"] },
         "special": { "5": ["Lyn - Blazing Whirlwind"] },
         "harmonized": { "5": ["Karla - Spring Reveries"] }
       },
@@ -12643,7 +12647,8 @@
     "Atk/Spd Gap 3": {
       "pool": {
         "special": {
-          "5": ["Tharja - Beach Dark Mage", "Anna - Wealth-Wisher"]
+          "4": ["Tharja - Beach Dark Mage"],
+          "5": ["Anna - Wealth-Wisher"]
         },
         "harmonized": { "5": ["Mia - Harmonic Blades"] }
       },

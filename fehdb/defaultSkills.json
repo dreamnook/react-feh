@@ -1917,12 +1917,17 @@
       "Atk/Spd Solo 4": 5
     },
     "skillB": {
-      "Binding Necklace": 5
+      "Binding Necklace": 5,
+      "Binding Necklace+": 5
     },
     "skillC": {
       "Pulse Smoke 1": 1,
       "Pulse Smoke 2": 2,
-      "Pulse Smoke 3": 4
+      "Pulse Smoke 3": 4,
+      "Spd Smoke 1": 1,
+      "Spd Smoke 2": 2,
+      "Spd Smoke 3": 4,
+      "Spd Smoke 4": 5
     }
   },
   "Freyja - Fleeting Summer": {
@@ -6630,10 +6635,12 @@
       "Ignis": 4
     },
     "skillA": {
-      "Distant Counter": 5
+      "Distant Counter": 5,
+      "Distant Ferocity": 5
     },
     "skillB": {
-      "Holy War's End": 5
+      "Holy War's End": 5,
+      "Holy War's End II": 5
     },
     "skillC": {
       "Fortify Def 1": 2,
@@ -7000,7 +7007,8 @@
       "Iron Lance": 1,
       "Steel Lance": 3,
       "Silver Lance": 4,
-      "Silver Lance+": 5
+      "Silver Lance+": 5,
+      "Thracia Kinglance": 5
     },
     "special": {
       "Glowing Ember": 4,
@@ -9115,7 +9123,8 @@
       "Iron Axe": 1,
       "Steel Axe": 3,
       "Rearguard": 4,
-      "Rearguard+": 5
+      "Rearguard+": 5,
+      "Western Axe": 5
     },
     "special": {
       "Daylight": 4,
