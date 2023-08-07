@@ -16331,7 +16331,8 @@
         "effect": {
           "hp": 3,
           "name": "特效",
-          "icon": "Nightmare_Horn_W"
+          "icon": "Nightmare_Horn_W",
+          "cd": -1
         },
         "atk": {
           "hp": 5,
