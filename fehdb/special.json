@@ -308,7 +308,7 @@
   },
   "Chivalric Aura": {
     "id": "Chivalric Aura",
-    "name": "Chivalric Aura",
+    "name": "格蘭貝魯的騎士精神",
     "cd": 2,
     "sp": 500,
     "prev": ["Draconic Aura"],
@@ -317,7 +317,7 @@
   },
   "Supreme Astra": {
     "id": "Supreme Astra",
-    "name": "Supreme Astra",
+    "name": "無雙的流星",
     "cd": 2,
     "sp": 500,
     "prev": ["Astra"],
