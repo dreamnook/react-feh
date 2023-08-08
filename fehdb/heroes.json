@@ -10389,6 +10389,41 @@
     "ver": "5.4",
     "df": 15
   },
+  "Sigurd - Proper Pourer": {
+    "id": "Sigurd - Proper Pourer",
+    "title": "奉茶款待",
+    "name": "西格爾特",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-tome",
+    "pool": "special",
+    "releaseDate": "2023-08-08",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 50],
+        "spd": [28, 31, 34],
+        "def": [32, 35, 39],
+        "res": [12, 16, 19]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 16,
+        "spd": 5,
+        "def": 5,
+        "res": 3
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp", "res"],
+    "statMin": 168,
+    "statMax": 170,
+    "book": 7,
+    "ver": "7.8",
+    "df": 5
+  },
   "Arden - Strong and Tough": {
     "id": "Arden - Strong and Tough",
     "title": "又硬、又強、又慢",
@@ -10631,6 +10666,55 @@
     "book": 1,
     "ver": "1.8",
     "df": 25
+  },
+  "Tailtiu - Teatime Mingler": {
+    "id": "Tailtiu - Teatime Mingler",
+    "title": "熱鬧的茶會",
+    "name": "提爾透",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "pool": "grail",
+    "releaseDate": "2023-08-08",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "4": {
+        "hp": [33, 36, 39],
+        "atk": [37, 40, 44],
+        "spd": [39, 42, 45],
+        "def": [16, 19, 22],
+        "res": [25, 28, 31]
+      },
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [39, 42, 46],
+        "spd": [41, 44, 47],
+        "def": [18, 21, 24],
+        "res": [27, 31, 34]
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 9,
+        "def": 3,
+        "res": 8
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 9,
+        "def": 4,
+        "res": 9
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.8",
+    "df": 5
   },
   "Lex - Young Blade": {
     "id": "Lex - Young Blade",
@@ -10880,6 +10964,41 @@
     "book": 1,
     "ver": "1.8",
     "df": 25
+  },
+  "Ayra - Together in Tea": {
+    "id": "Ayra - Together in Tea",
+    "title": "茶會牽起的情誼",
+    "name": "艾伊拉",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "pool": "harmonized",
+    "releaseDate": "2023-08-08",
+    "appearsIn": ["Genealogy of the Holy War", "Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [43, 46, 49],
+        "def": [29, 32, 35],
+        "res": [13, 17, 20]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 11,
+        "def": 4,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.8",
+    "df": 5
   },
   "Jamke - Prince of Verdane": {
     "id": "Jamke - Prince of Verdane",
@@ -39058,6 +39177,41 @@
     "ver": "4.3",
     "df": 20
   },
+  "Ferdinand - Highborn Sipper": {
+    "id": "Ferdinand - Highborn Sipper",
+    "title": "高貴的茶會",
+    "name": "菲爾迪南特",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-tome",
+    "pool": "special",
+    "releaseDate": "2023-08-08",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 42, 46],
+        "spd": [41, 45, 48],
+        "def": [18, 21, 24],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 12,
+        "def": 4,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 173,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.8",
+    "df": 5
+  },
   "Linhardt - Hevring's Heir": {
     "id": "Linhardt - Hevring's Heir",
     "title": "海弗林格伯爵家",
@@ -40587,6 +40741,41 @@
     "book": 6,
     "ver": "6.0",
     "df": 10
+  },
+  "Lysithea - Tea Sweetener": {
+    "id": "Lysithea - Tea Sweetener",
+    "title": "甜蜜時光",
+    "name": "莉絲緹亞",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-tome",
+    "pool": "special",
+    "releaseDate": "2023-08-08",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [43, 46, 49],
+        "spd": [43, 46, 50],
+        "def": [17, 20, 23],
+        "res": [19, 22, 26]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 16,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 172,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.8",
+    "df": 5
   },
   "Marianne - Adopted Daughter": {
     "id": "Marianne - Adopted Daughter",

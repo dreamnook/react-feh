@@ -2863,6 +2863,16 @@
       "exclusive": ["Diamant - Rising Power"],
       "last": true
     },
+    "Teatime's Edge": {
+      "id": "Teatime's Edge",
+      "name": "淑女茶會的銳劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Ayra - Together in Tea"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -19403,6 +19413,16 @@
       "exclusive": ["Mark - Winds of Hope"],
       "last": true
     },
+    "Knightly Manner": {
+      "id": "Knightly Manner",
+      "name": "聖騎士的嗜好",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Sigurd - Proper Pourer"],
+      "last": true
+    },
     "Thunder": {
       "id": "Thunder",
       "name": "雷電",
@@ -22164,6 +22184,72 @@
         }
       },
       "last": true
+    },
+    "Teacake Tower": {
+      "id": "Teacake Tower",
+      "name": "茶點",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Rexcalibur"]
+    },
+    "Teacake Tower+": {
+      "id": "Teacake Tower+",
+      "name": "茶點+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Teacake Tower"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Teatime Set": {
+      "id": "Teatime Set",
+      "name": "紅茶",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Rexcalibur"]
+    },
+    "Teatime Set+": {
+      "id": "Teatime Set+",
+      "name": "紅茶+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Teatime Set"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "white-tome": {
@@ -22377,6 +22463,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Ymir - Seasons of Life"],
+      "last": true
+    },
+    "Baked Treats": {
+      "id": "Baked Treats",
+      "name": "好吃的點心",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Lysithea - Tea Sweetener"],
       "last": true
     },
     "Stone": {

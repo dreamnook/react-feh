@@ -176,6 +176,14 @@
     "last": true,
     "icon": "skillA/Power_of_Nihility.png"
   },
+  "Mastermind": {
+    "id": "Mastermind",
+    "name": "天才",
+    "sp": 300,
+    "exclusive": ["Lysithea - Tea Sweetener"],
+    "last": true,
+    "icon": "skillA/Mastermind.png"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -1038,6 +1046,15 @@
     "prev": ["Swift Sparrow 2"],
     "last": true,
     "icon": "skillA/Remote_Sparrow.png"
+  },
+  "Remote Sturdy": {
+    "id": "Remote Sturdy",
+    "name": "鬼神金剛離擊",
+    "sp": 300,
+    "rules": "ranged",
+    "prev": ["Sturdy Blow 2"],
+    "last": true,
+    "icon": "skillA/Remote_Sturdy.png"
   },
   "Remote Mirror": {
     "id": "Remote Mirror",

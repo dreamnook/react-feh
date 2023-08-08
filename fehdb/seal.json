@@ -1785,6 +1785,30 @@
       "icon": "skillA/Shield_Session_3.png",
       "last": true
     },
+    "Atk/Spd Catch 1": {
+      "id": "Atk/Spd Catch 1",
+      "name": "攻擊速度的先機1",
+      "sp": 60,
+      "rules": "learner.catch",
+      "icon": "skillA/Atk_Spd_Catch_1.png"
+    },
+    "Atk/Spd Catch 2": {
+      "id": "Atk/Spd Catch 2",
+      "name": "攻擊速度的先機2",
+      "sp": 120,
+      "prev": ["Atk/Spd Catch 1"],
+      "rules": "learner.catch",
+      "icon": "skillA/Atk_Spd_Catch_2.png"
+    },
+    "Atk/Spd Catch 3": {
+      "id": "Atk/Spd Catch 3",
+      "name": "攻擊速度的先機3",
+      "sp": 240,
+      "prev": ["Atk/Spd Catch 2"],
+      "rules": "learner.catch",
+      "icon": "skillA/Atk_Spd_Catch_3.png",
+      "last": true
+    },
     "Atk/Def Catch 1": {
       "id": "Atk/Def Catch 1",
       "name": "攻擊防守的先機1",
@@ -2061,6 +2085,30 @@
       "sp": 240,
       "prev": ["Quick Riposte 2"],
       "icon": "skillB/Quick_Riposte_3.png",
+      "last": true
+    },
+    "Bold Fighter 1": {
+      "id": "Bold Fighter 1",
+      "name": "攻擊隊形1",
+      "sp": 60,
+      "rules": "armored",
+      "icon": "skillB/Bold_Fighter_1.png"
+    },
+    "Bold Fighter 2": {
+      "id": "Bold Fighter 2",
+      "name": "攻擊隊形2",
+      "sp": 120,
+      "prev": ["Bold Fighter 1"],
+      "rules": "armored",
+      "icon": "skillB/Bold_Fighter_2.png"
+    },
+    "Bold Fighter 3": {
+      "id": "Bold Fighter 3",
+      "name": "攻擊隊形3",
+      "sp": 240,
+      "prev": ["Bold Fighter 2"],
+      "rules": "armored",
+      "icon": "skillB/Bold_Fighter_3.png",
       "last": true
     },
     "Poison Strike 1": {
@@ -5751,6 +5799,36 @@
       "def": 3,
       "prev": ["Squad Ace BT 2"],
       "icon": "seal/Squad_Ace_HP_Atk_Def_3.png",
+      "last": true
+    },
+    "Squad Ace BU 1": {
+      "id": "Squad Ace BU 1",
+      "name": "第７３迷宮的霸王1",
+      "sp": 120,
+      "hp": 3,
+      "atk": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_HP_Atk_Res_1.png"
+    },
+    "Squad Ace BU 2": {
+      "id": "Squad Ace BU 2",
+      "name": "第７３迷宮的霸王2",
+      "sp": 180,
+      "hp": 4,
+      "atk": 2,
+      "res": 2,
+      "prev": ["Squad Ace BU 1"],
+      "icon": "seal/Squad_Ace_HP_Atk_Res_2.png"
+    },
+    "Squad Ace BU 3": {
+      "id": "Squad Ace BU 3",
+      "name": "第７３迷宮的霸王3",
+      "sp": 240,
+      "hp": 5,
+      "atk": 3,
+      "res": 3,
+      "prev": ["Squad Ace BU 2"],
+      "icon": "seal/Squad_Ace_HP_Atk_Res_3.png",
       "last": true
     }
   }

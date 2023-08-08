@@ -670,6 +670,23 @@
     "icon": "skillB/Desperation_3.png",
     "last": true
   },
+  "Desperation 4": {
+    "id": "Desperation 4",
+    "name": "猛攻4",
+    "sp": 300,
+    "prev": ["Desperation 3"],
+    "icon": "skillB/Desperation_4.png",
+    "last": true
+  },
+  "Flow Desperation": {
+    "id": "Flow Desperation",
+    "name": "怒濤・猛攻",
+    "sp": 300,
+    "prev": ["Desperation 3"],
+    "rules": "learner.flow-refresh",
+    "last": true,
+    "icon": "skillB/Flow_Desperation.png"
+  },
   "Brash Assault 1": {
     "id": "Brash Assault 1",
     "name": "同歸於盡1",

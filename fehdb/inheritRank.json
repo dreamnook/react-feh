@@ -4151,6 +4151,19 @@
     "skillA": { "Wind Boost 3": { "sp": 200, "rarity": 5 } },
     "skillB": { "Windsweep 3": { "sp": 240, "rarity": 4 } }
   },
+  "Tailtiu - Teatime Mingler": {
+    "score": 299,
+    "scoreTotal": 584,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 590,
+    "feather": 300,
+    "bst": 177,
+    "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Still Water 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 4 } }
+  },
   "Robin - Fell Vessel": {
     "score": 221,
     "scoreTotal": 589,
@@ -8793,6 +8806,19 @@
     "skillA": { "Steady Impact": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
+  "Sigurd - Proper Pourer": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 168,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Remote Sturdy": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Seal Res 4": { "sp": 300, "rarity": 5 } }
+  },
   "Ursula - Royal-Blue Crow": {
     "score": 318,
     "scoreTotal": 848,
@@ -8805,6 +8831,19 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillB": { "Chill Spd/Res 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Lysithea - Tea Sweetener": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 172,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Desperation 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Dimitri - Sky-Blue Lion": {
     "score": 318,
@@ -9687,6 +9726,19 @@
     "assist": { "Rally Atk/Res+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Odd Pulse Tie 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Ferdinand - Highborn Sipper": {
+    "score": 424,
+    "scoreTotal": 933,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 1000,
+    "bst": 173,
+    "assist": { "Rally Spd/Res+": { "sp": 400, "rarity": 5 } },
+    "skillB": { "Windsweep 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Dozla - Harvest Attendant": {
     "score": 424,
@@ -11746,6 +11798,20 @@
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Windsweep 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd/Def Hold": { "sp": 300, "rarity": 5 } }
+  },
+  "Ayra - Together in Tea": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flow Desperation": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Red Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Larcei - Scion of Astra": {
     "score": 318,

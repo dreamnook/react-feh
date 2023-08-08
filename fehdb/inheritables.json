@@ -2228,6 +2228,20 @@
         "name": "聖夜之杖+",
         "sp": 300,
         "refine": 350
+      },
+      "Teacake Tower+": {
+        "pool": { "grail": { "5": ["Tailtiu - Teatime Mingler"] } },
+        "id": "Teacake Tower+",
+        "name": "茶點+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Teatime Set+": {
+        "pool": { "special": { "5": ["Ferdinand - Highborn Sipper"] } },
+        "id": "Teatime Set+",
+        "name": "紅茶+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "white-tome": {
@@ -3101,7 +3115,11 @@
         },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
         "special": {
-          "5": ["Julia - Scion of the Saint", "Tana - Noble and Nimble"]
+          "5": [
+            "Julia - Scion of the Saint",
+            "Ferdinand - Highborn Sipper",
+            "Tana - Noble and Nimble"
+          ]
         }
       },
       "id": "Rally Spd/Res",
@@ -3112,7 +3130,9 @@
       "pool": {
         "#": { "5": ["Ronan - Villager of Iz"] },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
-        "special": { "5": ["Julia - Scion of the Saint"] }
+        "special": {
+          "5": ["Julia - Scion of the Saint", "Ferdinand - Highborn Sipper"]
+        }
       },
       "id": "Rally Spd/Res+",
       "name": "速度魔防支援+",
@@ -3335,6 +3355,7 @@
             "Saleh - Vernal Sage",
             "Jaffar - Angel of Night",
             "Canas - Wisdom Seeker",
+            "Tailtiu - Teatime Mingler",
             "Hinata - Samurai Groom",
             "Norne - Seaside Volunteer",
             "Donnel - Sunny Villager"
@@ -3729,6 +3750,7 @@
             "Freyja - Fleeting Summer",
             "Hector - Just Here to Fight",
             "Nifl - Tropical Ice God",
+            "Lysithea - Tea Sweetener",
             "Dimitri - Sky-Blue Lion",
             "Shez - Mercenary Shine",
             "Gunnthrá - Year's First Dream",
@@ -3818,7 +3840,11 @@
           ]
         },
         "harmonized": {
-          "5": ["Leif - Destined Scions", "Cordelia - Unyielding Snow"]
+          "5": [
+            "Leif - Destined Scions",
+            "Ayra - Together in Tea",
+            "Cordelia - Unyielding Snow"
+          ]
         }
       },
       "id": "Astra",
@@ -3957,6 +3983,7 @@
             "Karla - Sun-Piercing Steel",
             "Freyr - Estival Dreams",
             "Dheginsea - Harvest Goldoan",
+            "Sigurd - Proper Pourer",
             "Say'ri - Righteous Bride",
             "Camilla - Tropical Beauty",
             "Palla - Eldest Bun-Bun",
@@ -5140,6 +5167,7 @@
     },
     "Still Water 3": {
       "pool": {
+        "grail": { "5": ["Tailtiu - Teatime Mingler"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
         "special": { "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"] },
@@ -5419,6 +5447,7 @@
             "Cordelia - Knight Paradise",
             "Alfonse - Spring Prince",
             "Nailah - Hatari Scorcher",
+            "Sigurd - Proper Pourer",
             "Lyn - Lady of the Beach",
             "Ingrid - Solstice Knight"
           ]
@@ -5592,6 +5621,13 @@
       "name": "鬼神飛燕離擊",
       "sp": 300,
       "icon": "skillA/Remote_Sparrow.png"
+    },
+    "Remote Sturdy": {
+      "pool": { "special": { "5": ["Sigurd - Proper Pourer"] } },
+      "id": "Remote Sturdy",
+      "name": "鬼神金剛離擊",
+      "sp": 300,
+      "icon": "skillA/Remote_Sturdy.png"
     },
     "Remote Mirror": {
       "pool": {
@@ -7834,7 +7870,11 @@
         },
         "special": { "4": ["Panne - Welcoming Dawn"] },
         "harmonized": {
-          "5": ["Karla - Spring Reveries", "Cordelia - Unyielding Snow"]
+          "5": [
+            "Karla - Spring Reveries",
+            "Ayra - Together in Tea",
+            "Cordelia - Unyielding Snow"
+          ]
         }
       },
       "id": "Atk/Spd Clash 3",
@@ -7849,7 +7889,11 @@
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
         "harmonized": {
-          "5": ["Karla - Spring Reveries", "Cordelia - Unyielding Snow"]
+          "5": [
+            "Karla - Spring Reveries",
+            "Ayra - Together in Tea",
+            "Cordelia - Unyielding Snow"
+          ]
         }
       },
       "id": "Atk/Spd Clash 4",
@@ -8215,13 +8259,32 @@
         },
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
         "special": {
-          "5": ["Ishtar - Thunder's Waltz", "Gunnthrá - Year's First Dream"]
-        }
+          "5": [
+            "Ishtar - Thunder's Waltz",
+            "Lysithea - Tea Sweetener",
+            "Gunnthrá - Year's First Dream"
+          ]
+        },
+        "harmonized": { "5": ["Ayra - Together in Tea"] }
       },
       "id": "Desperation 3",
       "name": "猛攻3",
       "sp": 200,
       "icon": "skillB/Desperation_3.png"
+    },
+    "Desperation 4": {
+      "pool": { "special": { "5": ["Lysithea - Tea Sweetener"] } },
+      "id": "Desperation 4",
+      "name": "猛攻4",
+      "sp": 300,
+      "icon": "skillB/Desperation_4.png"
+    },
+    "Flow Desperation": {
+      "pool": { "harmonized": { "5": ["Ayra - Together in Tea"] } },
+      "id": "Flow Desperation",
+      "name": "怒濤・猛攻",
+      "sp": 300,
+      "icon": "skillB/Flow_Desperation.png"
     },
     "Brash Assault 3": {
       "pool": {
@@ -8641,6 +8704,7 @@
           "5": [
             "Lucina - Spring Exalt",
             "Leo - Seashore's Prince",
+            "Sigurd - Proper Pourer",
             "Camilla - Midnight Bloom"
           ]
         }
@@ -8651,7 +8715,11 @@
       "icon": "skillB/Seal_Res_3.png"
     },
     "Seal Res 4": {
-      "pool": { "special": { "5": ["Camilla - Midnight Bloom"] } },
+      "pool": {
+        "special": {
+          "5": ["Sigurd - Proper Pourer", "Camilla - Midnight Bloom"]
+        }
+      },
       "id": "Seal Res 4",
       "name": "魔防封印4",
       "sp": 300,
@@ -9087,7 +9155,11 @@
           "5": ["Zephia - Scheming Dragon"]
         },
         "special": {
-          "5": ["Ethlyn - Glimmering Lady", "Merric - Changing Winds"]
+          "5": [
+            "Ethlyn - Glimmering Lady",
+            "Ferdinand - Highborn Sipper",
+            "Merric - Changing Winds"
+          ]
         },
         "harmonized": { "5": ["Tana - Soothing Warmth"] }
       },
@@ -10661,7 +10733,7 @@
           ]
         },
         "grail": {
-          "4": ["Marth - Altean Groom"],
+          "4": ["Tailtiu - Teatime Mingler", "Marth - Altean Groom"],
           "5": ["Cynthia - Hero Chaser", "Zelot - Avowed Groom"]
         },
         "legendary": {
@@ -11090,7 +11162,9 @@
         },
         "legendary": { "5": ["Robin - Fell Vessel"] },
         "mythic": { "5": ["Triandra - Nightmare"] },
-        "special": { "5": ["Tharja - Florid Charmer"] },
+        "special": {
+          "5": ["Tharja - Florid Charmer", "Ferdinand - Highborn Sipper"]
+        },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
       },
       "id": "Spd/Res Rein 3",
@@ -12882,7 +12956,9 @@
         "legendary": {
           "5": ["Celica - Queen of Valentia", "Shez - Sharpest Blades"]
         },
-        "special": { "5": ["Eirika - Beach Restorer"] }
+        "special": {
+          "5": ["Eirika - Beach Restorer", "Lysithea - Tea Sweetener"]
+        }
       },
       "id": "Atk/Spd Oath 3",
       "name": "攻擊速度的信義3",
@@ -12893,7 +12969,9 @@
       "pool": {
         "#": { "5": ["Shez - Rising Mercenary", "Fir - Swordmaiden"] },
         "legendary": { "5": ["Shez - Sharpest Blades"] },
-        "special": { "5": ["Eirika - Beach Restorer"] }
+        "special": {
+          "5": ["Eirika - Beach Restorer", "Lysithea - Tea Sweetener"]
+        }
       },
       "id": "Atk/Spd Oath 4",
       "name": "攻擊速度的信義4",
@@ -13032,7 +13110,10 @@
       "icon": "skillC/Even_Recovery_3.png"
     },
     "Red Feud 3": {
-      "pool": { "#": { "5": ["Flavia - Feroxi East-Khan"] } },
+      "pool": {
+        "#": { "5": ["Flavia - Feroxi East-Khan"] },
+        "harmonized": { "5": ["Ayra - Together in Tea"] }
+      },
       "id": "Red Feud 3",
       "name": "對赤的暗鬥3",
       "sp": 240,
