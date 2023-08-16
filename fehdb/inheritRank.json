@@ -2258,6 +2258,19 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ferdinand - Highborn Sipper": {
+    "score": 196,
+    "scoreTotal": 400,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 300,
+    "bst": 173,
+    "assist": { "Rally Spd/Res+": { "sp": 400, "rarity": 5 } },
+    "skillB": { "Windsweep 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Ashe - Budding Chivalry": {
     "score": 196,
     "scoreTotal": 400,
@@ -6152,6 +6165,19 @@
     "skillB": { "Guard 3": { "sp": 200, "rarity": 4 } },
     "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
   },
+  "Cyril - Rhea's Attendant": {
+    "score": 269,
+    "scoreTotal": 693,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 193,
+    "special": { "Vengeance": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Sudden Panic 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Threat. Spd/Def 2": { "sp": 200, "rarity": 4 } }
+  },
   "Takumi - Wild Card": {
     "score": 300,
     "scoreTotal": 700,
@@ -8360,6 +8386,18 @@
     "skillB": { "Special Spiral 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Oath 4": { "sp": 300, "rarity": 5 } }
   },
+  "Gullveig - Seer Beyond Time": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 178,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
   "Eitr - Hand of Nothing": {
     "score": 300,
     "scoreTotal": 800,
@@ -8479,6 +8517,18 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillA": { "Bracing Stance 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "D/R Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Robin - Exalt's Deliverer": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Gambit 4": { "sp": 300, "rarity": 5 } }
   },
   "Ursula - Blue Crow": {
     "score": 403,
@@ -9726,19 +9776,6 @@
     "assist": { "Rally Atk/Res+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Odd Pulse Tie 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Ferdinand - Highborn Sipper": {
-    "score": 424,
-    "scoreTotal": 933,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 400,
-    "spTotal": 880,
-    "feather": 1000,
-    "bst": 173,
-    "assist": { "Rally Spd/Res+": { "sp": 400, "rarity": 5 } },
-    "skillB": { "Windsweep 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Dozla - Harvest Attendant": {
     "score": 424,
@@ -11647,6 +11684,18 @@
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillC": { "Guidance 4": { "sp": 300, "rarity": 5 } }
   },
+  "Soren - Radiant Confidant": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Flare": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
   "Alcryst - Tender Archer": {
     "score": 500,
     "scoreTotal": 1100,
@@ -11658,6 +11707,18 @@
     "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
     "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Corrin - Silent Bloodline": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Armored Floe": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Counter Roar 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Far Save 3": { "sp": 300, "rarity": 5 } }
   },
   "Severa - Bitter Blossom": {
     "score": 318,

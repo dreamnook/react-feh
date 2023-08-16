@@ -184,6 +184,22 @@
     "last": true,
     "icon": "skillA/Mastermind.png"
   },
+  "Realms United": {
+    "id": "Realms United",
+    "name": "與白夜和暗夜同在",
+    "sp": 300,
+    "exclusive": ["Corrin - Silent Bloodline"],
+    "last": true,
+    "icon": "skillA/Realms_United.png"
+  },
+  "Rare Talent": {
+    "id": "Rare Talent",
+    "name": "稀世的魔道天賦",
+    "sp": 300,
+    "exclusive": ["Soren - Radiant Confidant"],
+    "last": true,
+    "icon": "skillA/Rare_Talent.png"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -1073,6 +1089,15 @@
     "prev": ["Flashing Blade 3", "Swift Sparrow 2"],
     "last": true,
     "icon": "skillA/Flash_Sparrow.png"
+  },
+  "Flared Sparrow": {
+    "id": "Flared Sparrow",
+    "name": "鬼神飛燕炎擊",
+    "sp": 300,
+    "prev": ["Swift Sparrow 3"],
+    "rules": "learner.cavalry-flying-not-staff",
+    "last": true,
+    "icon": "skillA/Flared_Sparrow.png"
   },
   "Fierce Stance 1": {
     "id": "Fierce Stance 1",

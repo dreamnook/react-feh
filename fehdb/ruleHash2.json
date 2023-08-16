@@ -169,6 +169,18 @@
     "weaponType": 16711687,
     "moveType": 8
   },
+  "learner.armored-not-staff": {
+    "weaponType": 16777207,
+    "moveType": 2
+  },
+  "learner.cavalry-flying-not-staff": {
+    "weaponType": 16777207,
+    "moveType": 12
+  },
+  "learner.dragon-beast": {
+    "moveType": 15,
+    "weaponType": 16711680
+  },
   "learner.impact-skills": {
     "weaponType": 16777207,
     "moveType": 9
@@ -284,6 +296,14 @@
     "weaponType": 15728640,
     "moveType": 13
   },
+  "learner.phy-null-follow": {
+    "moveType": 1,
+    "weaponType": 15732727
+  },
+  "learner.mag-null-follow": {
+    "moveType": 1,
+    "weaponType": 1044488
+  },
   "learner.oath-skills": {
     "moveType": 9
   },
@@ -309,16 +329,8 @@
     "moveType": 15,
     "weaponType": 65527
   },
-  "learner.armored-not-staff": {
-    "weaponType": 16777207,
-    "moveType": 2
-  },
-  "learner.phy-null-follow": {
+  "learner.flare": {
     "moveType": 1,
-    "weaponType": 15732727
-  },
-  "learner.mag-null-follow": {
-    "moveType": 1,
-    "weaponType": 1044488
+    "weaponType": 61440
   }
 }

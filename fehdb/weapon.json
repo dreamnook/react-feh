@@ -2873,6 +2873,16 @@
       "exclusive": ["Ayra - Together in Tea"],
       "last": true
     },
+    "Deliverer's Brand": {
+      "id": "Deliverer's Brand",
+      "name": "聖王的軍師之劍",
+      "mt": 16,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Robin - Exalt's Deliverer"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -12398,6 +12408,16 @@
       "exclusive": ["Shamir - Heartbeats United"],
       "last": true
     },
+    "Aptitude Arrows": {
+      "id": "Aptitude Arrows",
+      "name": "良成長之弓",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Cyril - Rhea's Attendant"],
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",
@@ -19423,6 +19443,16 @@
       "exclusive": ["Sigurd - Proper Pourer"],
       "last": true
     },
+    "The Cycle's Turn": {
+      "id": "The Cycle's Turn",
+      "name": "圓環之力",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Gullveig - Seer Beyond Time"],
+      "last": true
+    },
     "Thunder": {
       "id": "Thunder",
       "name": "雷電",
@@ -21377,6 +21407,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Citrinne - Caring Noble"],
+      "last": true
+    },
+    "Arch-Sage Tome": {
+      "id": "Arch-Sage Tome",
+      "name": "大賢者之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Soren - Radiant Confidant"],
       "last": true
     },
     "Wind": {
@@ -24598,6 +24638,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Tiki - Bridal Reflections"],
+      "last": true
+    },
+    "Vallastone": {
+      "id": "Vallastone",
+      "name": "透魔的龍石",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Corrin - Silent Bloodline"],
       "last": true
     },
     "Arcane Grima": {

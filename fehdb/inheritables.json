@@ -3115,11 +3115,8 @@
         },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
         "special": {
-          "5": [
-            "Julia - Scion of the Saint",
-            "Ferdinand - Highborn Sipper",
-            "Tana - Noble and Nimble"
-          ]
+          "4": ["Ferdinand - Highborn Sipper"],
+          "5": ["Julia - Scion of the Saint", "Tana - Noble and Nimble"]
         }
       },
       "id": "Rally Spd/Res",
@@ -3131,7 +3128,7 @@
         "#": { "5": ["Ronan - Villager of Iz"] },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
         "special": {
-          "5": ["Julia - Scion of the Saint", "Ferdinand - Highborn Sipper"]
+          "5": ["Ferdinand - Highborn Sipper", "Julia - Scion of the Saint"]
         }
       },
       "id": "Rally Spd/Res+",
@@ -3386,7 +3383,8 @@
             "Edelgard - Adrestian Emperor",
             "Kris - Unknown Hero",
             "Osian - Scolded Soldier",
-            "Anankos - Seething Silence"
+            "Anankos - Seething Silence",
+            "Soren - Radiant Confidant"
           ]
         },
         "mythic": { "5": ["Sothis - Girl on the Throne"] },
@@ -3404,6 +3402,12 @@
       "id": "Noontime",
       "name": "夕陽",
       "sp": 200
+    },
+    "Flare": {
+      "pool": { "#": { "5": ["Soren - Radiant Confidant"] } },
+      "id": "Flare",
+      "name": "陽光",
+      "sp": 500
     },
     "Sol": {
       "pool": {
@@ -3571,6 +3575,7 @@
             "Malice - Deft Sellsword",
             "Galzus - Dark Blade of Od",
             "Eirika - Pledged Restorer",
+            "Gullveig - Seer Beyond Time",
             "Eitr - Hand of Nothing",
             "Ingrid - Beacon of Honor",
             "Hinoka - Blue Sky Warrior",
@@ -3908,6 +3913,7 @@
             "Lyon - Shadow Prince",
             "Narcian - Wyvern General",
             "Takumi - Empty Vessel",
+            "Cyril - Rhea's Attendant",
             "Rutger - Lone Swordsman"
           ]
         },
@@ -4171,7 +4177,8 @@
             "Robin - Fell Reincarnation",
             "Eyvel - Mistress of Fiana",
             "Hector - Brave Warrior",
-            "Tiki - Torpid Dragon"
+            "Tiki - Torpid Dragon",
+            "Robin - Exalt's Deliverer"
           ]
         },
         "grail": {
@@ -4252,7 +4259,8 @@
             "Guinivere - Princess of Bern",
             "Morgan - Fated Darkness",
             "Marianne - Adopted Daughter",
-            "Ganglöt - Death Anew"
+            "Ganglöt - Death Anew",
+            "Corrin - Silent Bloodline"
           ]
         },
         "grail": {
@@ -4354,7 +4362,10 @@
       "sp": 200
     },
     "Armored Floe": {
-      "pool": { "harmonized": { "5": ["Tiki - Bridal Reflections"] } },
+      "pool": {
+        "#": { "5": ["Corrin - Silent Bloodline"] },
+        "harmonized": { "5": ["Tiki - Bridal Reflections"] }
+      },
       "id": "Armored Floe",
       "name": "重裝之聖冰",
       "sp": 500
@@ -5326,6 +5337,7 @@
             "Eirika - Anamnesis Lady",
             "Olwen - Righteous Knight",
             "Eirika - Pledged Restorer",
+            "Gullveig - Seer Beyond Time",
             "Ishtar - Thunder Goddess",
             "Nino - Pale Flower",
             "Lewyn - Guiding Breeze",
@@ -5645,6 +5657,13 @@
       "name": "鬼神飛燕柔擊",
       "sp": 300,
       "icon": "skillA/Flash_Sparrow.png"
+    },
+    "Flared Sparrow": {
+      "pool": { "#": { "5": ["Gullveig - Seer Beyond Time"] } },
+      "id": "Flared Sparrow",
+      "name": "鬼神飛燕炎擊",
+      "sp": 300,
+      "icon": "skillA/Flared_Sparrow.png"
     },
     "Fierce Stance 3": {
       "pool": {
@@ -7941,7 +7960,13 @@
     },
     "Atk/Spd Finish 3": {
       "pool": {
-        "#": { "5": ["Fir - Swordmaiden", "Felix - Lone-Wolf Blade"] },
+        "#": {
+          "5": [
+            "Robin - Exalt's Deliverer",
+            "Fir - Swordmaiden",
+            "Felix - Lone-Wolf Blade"
+          ]
+        },
         "special": {
           "5": [
             "Rebecca - Breezy Scamp",
@@ -7958,7 +7983,13 @@
     },
     "Atk/Spd Finish 4": {
       "pool": {
-        "#": { "5": ["Fir - Swordmaiden", "Felix - Lone-Wolf Blade"] },
+        "#": {
+          "5": [
+            "Robin - Exalt's Deliverer",
+            "Fir - Swordmaiden",
+            "Felix - Lone-Wolf Blade"
+          ]
+        },
         "special": {
           "5": [
             "Nino - Spirited Sorcerer",
@@ -9022,7 +9053,8 @@
     },
     "Sudden Panic 3": {
       "pool": {
-        "#": { "5": ["Corrin - Wailing Soul", "Gerik - Desert Tiger"] }
+        "#": { "5": ["Corrin - Wailing Soul", "Gerik - Desert Tiger"] },
+        "grail": { "5": ["Cyril - Rhea's Attendant"] }
       },
       "id": "Sudden Panic 3",
       "name": "恐慌錯亂3",
@@ -9155,11 +9187,8 @@
           "5": ["Zephia - Scheming Dragon"]
         },
         "special": {
-          "5": [
-            "Ethlyn - Glimmering Lady",
-            "Ferdinand - Highborn Sipper",
-            "Merric - Changing Winds"
-          ]
+          "4": ["Ferdinand - Highborn Sipper"],
+          "5": ["Ethlyn - Glimmering Lady", "Merric - Changing Winds"]
         },
         "harmonized": { "5": ["Tana - Soothing Warmth"] }
       },
@@ -9871,6 +9900,7 @@
             "Dieck - Wounded Tiger",
             "Priam - Radiant Hero",
             "Fir - Swordmaiden",
+            "Soren - Radiant Confidant",
             "Volke - Man of Mysteries"
           ]
         },
@@ -9896,7 +9926,10 @@
       "icon": "skillB/Phys._Null_Follow.png"
     },
     "Mag. Null Follow": {
-      "pool": { "mythic": { "5": ["Heiðr - Innocent Goddess"] } },
+      "pool": {
+        "#": { "5": ["Soren - Radiant Confidant"] },
+        "mythic": { "5": ["Heiðr - Innocent Goddess"] }
+      },
       "id": "Mag. Null Follow",
       "name": "魔之識破・追擊",
       "sp": 300,
@@ -10525,6 +10558,34 @@
       "name": "絕對化身・察覺4",
       "sp": 300,
       "icon": "skillB/Beast_Sense_4.png"
+    },
+    "Gambit 3": {
+      "pool": { "#": { "5": ["Robin - Exalt's Deliverer"] } },
+      "id": "Gambit 3",
+      "name": "底牌3",
+      "sp": 240,
+      "icon": "skillB/Gambit_3.png"
+    },
+    "Gambit 4": {
+      "pool": { "#": { "5": ["Robin - Exalt's Deliverer"] } },
+      "id": "Gambit 4",
+      "name": "底牌4",
+      "sp": 300,
+      "icon": "skillB/Gambit_4.png"
+    },
+    "Counter Roar 3": {
+      "pool": { "#": { "5": ["Corrin - Silent Bloodline"] } },
+      "id": "Counter Roar 3",
+      "name": "反擊的咆嘯3",
+      "sp": 240,
+      "icon": "skillB/Counter_Roar_3.png"
+    },
+    "Counter Roar 4": {
+      "pool": { "#": { "5": ["Corrin - Silent Bloodline"] } },
+      "id": "Counter Roar 4",
+      "name": "反擊的咆嘯4",
+      "sp": 300,
+      "icon": "skillB/Counter_Roar_4.png"
     }
   },
   "skillC": {
@@ -11163,7 +11224,7 @@
         "legendary": { "5": ["Robin - Fell Vessel"] },
         "mythic": { "5": ["Triandra - Nightmare"] },
         "special": {
-          "5": ["Tharja - Florid Charmer", "Ferdinand - Highborn Sipper"]
+          "5": ["Ferdinand - Highborn Sipper", "Tharja - Florid Charmer"]
         },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
       },
@@ -11777,6 +11838,7 @@
     "Threat. Spd/Def 2": {
       "pool": {
         "#": { "3": ["Guy - Kutolah Blade"] },
+        "grail": { "4": ["Cyril - Rhea's Attendant"] },
         "special": { "5": ["Ogma - Blade on Leave", "Dimitri - Sky-Blue Lion"] }
       },
       "id": "Threat. Spd/Def 2",
@@ -12146,6 +12208,7 @@
             "Ophelia - Starlit Maiden",
             "Diamant - Rising Power",
             "Byleth - Vengeance Vessel",
+            "Soren - Radiant Confidant",
             "Shinon - Scathing Archer",
             "Volke - Man of Mysteries"
           ]
@@ -12174,7 +12237,13 @@
     },
     "Time's Pulse 4": {
       "pool": {
-        "#": { "5": ["Diamant - Rising Power", "Byleth - Vengeance Vessel"] },
+        "#": {
+          "5": [
+            "Diamant - Rising Power",
+            "Byleth - Vengeance Vessel",
+            "Soren - Radiant Confidant"
+          ]
+        },
         "special": { "5": ["Nino - Spirited Sorcerer", "Fjorm - Seaside Thaw"] }
       },
       "id": "Time's Pulse 4",
@@ -12365,14 +12434,20 @@
       "icon": "skillC/D_R_Near_Save_3.png"
     },
     "A/S Far Save 2": {
-      "pool": { "special": { "5": ["Takumi - Troubled Heart"] } },
+      "pool": {
+        "#": { "5": ["Corrin - Silent Bloodline"] },
+        "special": { "5": ["Takumi - Troubled Heart"] }
+      },
       "id": "A/S Far Save 2",
       "name": "刃之守護人・遠處2",
       "sp": 200,
       "icon": "skillC/A_S_Far_Save_2.png"
     },
     "A/S Far Save 3": {
-      "pool": { "special": { "5": ["Takumi - Troubled Heart"] } },
+      "pool": {
+        "#": { "5": ["Corrin - Silent Bloodline"] },
+        "special": { "5": ["Takumi - Troubled Heart"] }
+      },
       "id": "A/S Far Save 3",
       "name": "刃之守護人・遠處3",
       "sp": 300,
@@ -12944,6 +13019,7 @@
         "#": {
           "5": [
             "Shez - Rising Mercenary",
+            "Gullveig - Seer Beyond Time",
             "Ike - Zeal Unleashed",
             "Louise - Lady of Violets",
             "Fir - Swordmaiden"
@@ -12967,7 +13043,13 @@
     },
     "Atk/Spd Oath 4": {
       "pool": {
-        "#": { "5": ["Shez - Rising Mercenary", "Fir - Swordmaiden"] },
+        "#": {
+          "5": [
+            "Shez - Rising Mercenary",
+            "Gullveig - Seer Beyond Time",
+            "Fir - Swordmaiden"
+          ]
+        },
         "legendary": { "5": ["Shez - Sharpest Blades"] },
         "special": {
           "5": ["Eirika - Beach Restorer", "Lysithea - Tea Sweetener"]

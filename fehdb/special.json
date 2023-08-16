@@ -340,6 +340,15 @@
     "prev": ["Daylight"],
     "last": true
   },
+  "Flare": {
+    "id": "Flare",
+    "name": "陽光",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Noontime"],
+    "rules": "learner.flare",
+    "last": true
+  },
   "Sol": {
     "id": "Sol",
     "name": "太陽",

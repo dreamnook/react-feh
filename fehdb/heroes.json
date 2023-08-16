@@ -3397,6 +3397,40 @@
     "ver": "7.0",
     "df": 5
   },
+  "Gullveig - Seer Beyond Time": {
+    "id": "Gullveig - Seer Beyond Time",
+    "title": "過去、現在、未來",
+    "name": "古爾維格",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-tome",
+    "releaseDate": "2023-08-16",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [37, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [44, 47, 50],
+        "def": [24, 27, 30],
+        "res": [16, 19, 22]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 15,
+        "spd": 12,
+        "def": 3,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": [],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.8",
+    "df": 5
+  },
   "Heiðr - Innocent Goddess": {
     "id": "Heiðr - Innocent Goddess",
     "title": "純潔無瑕的女神",
@@ -24006,6 +24040,40 @@
     "ver": "7.1",
     "df": 5
   },
+  "Soren - Radiant Confidant": {
+    "id": "Soren - Radiant Confidant",
+    "title": "隨侍在神將身旁之人",
+    "name": "塞涅里歐",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "releaseDate": "2023-08-16",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [31, 34, 38],
+        "def": [12, 16, 19],
+        "res": [44, 47, 50]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 4,
+        "def": 3,
+        "res": 12
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.8",
+    "df": 5
+  },
   "Mist - Helpful Sister": {
     "id": "Mist - Helpful Sister",
     "title": "喜歡照顧人的妹妹",
@@ -28335,6 +28403,40 @@
     "statMax": 170,
     "book": 7,
     "ver": "7.5",
+    "df": 5
+  },
+  "Robin - Exalt's Deliverer": {
+    "id": "Robin - Exalt's Deliverer",
+    "title": "與聖王同在之人",
+    "name": "魯弗萊",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-08-16",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [42, 45, 49],
+        "def": [32, 35, 38],
+        "res": [23, 27, 30]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 15,
+        "def": 7,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.8",
     "df": 5
   },
   "Robin - Mystery Tactician": {
@@ -33071,6 +33173,40 @@
     "statMax": 195,
     "book": 6,
     "ver": "6.10",
+    "df": 5
+  },
+  "Corrin - Silent Bloodline": {
+    "id": "Corrin - Silent Bloodline",
+    "title": "白夜、暗夜、透魔",
+    "name": "神威",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "armored",
+    "weaponType": "white-dragon",
+    "releaseDate": "2023-08-16",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [37, 40, 44],
+        "spd": [43, 46, 49],
+        "def": [34, 37, 41],
+        "res": [37, 40, 44]
+      },
+      "5-1": {
+        "hp": 14,
+        "atk": 10,
+        "spd": 11,
+        "def": 7,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "def", "res"],
+    "flaws": [],
+    "statMin": 205,
+    "statMax": 205,
+    "book": 7,
+    "ver": "7.8",
     "df": 5
   },
   "Azura - Lady of the Lake": {
@@ -38906,6 +39042,69 @@
     "ver": "7.4",
     "df": 5
   },
+  "Cyril - Rhea's Attendant": {
+    "id": "Cyril - Rhea's Attendant",
+    "title": "大司教的隨從",
+    "name": "錐里爾",
+    "rarity": [5, 4, 3],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-bow",
+    "pool": "grail",
+    "releaseDate": "2023-08-17",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "3": {
+        "hp": [39, 42, 45],
+        "atk": [34, 37, 40],
+        "spd": [36, 39, 42],
+        "def": [28, 31, 34],
+        "res": [19, 22, 25]
+      },
+      "4": {
+        "hp": [40, 43, 46],
+        "atk": [36, 40, 43],
+        "spd": [39, 42, 45],
+        "def": [29, 32, 36],
+        "res": [20, 23, 26]
+      },
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [38, 42, 45],
+        "spd": [41, 44, 47],
+        "def": [32, 35, 39],
+        "res": [22, 26, 29]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 8,
+        "def": 4,
+        "res": 3
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 9,
+        "def": 4,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 9,
+        "def": 5,
+        "res": 4
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["atk", "res"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.8",
+    "df": 5
+  },
   "Edelgard - The Future": {
     "id": "Edelgard - The Future",
     "title": "黑鷲的繼承者",
@@ -39181,7 +39380,7 @@
     "id": "Ferdinand - Highborn Sipper",
     "title": "高貴的茶會",
     "name": "菲爾迪南特",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "moveType": "flying",
     "weaponType": "green-tome",
@@ -39189,12 +39388,26 @@
     "releaseDate": "2023-08-08",
     "appearsIn": ["Three Houses"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [37, 40, 44],
+        "spd": [39, 43, 46],
+        "def": [16, 19, 22],
+        "res": [19, 22, 25]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [39, 42, 46],
         "spd": [41, 45, 48],
         "def": [18, 21, 24],
         "res": [21, 25, 28]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 12,
+        "def": 3,
+        "res": 2
       },
       "5-1": {
         "hp": 18,

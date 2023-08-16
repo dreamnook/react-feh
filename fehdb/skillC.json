@@ -387,6 +387,14 @@
     "last": true,
     "icon": "skillC/Dream_Deliverer.png"
   },
+  "Tip the Scales!": {
+    "id": "Tip the Scales!",
+    "name": "我要扭轉戰局！",
+    "sp": 300,
+    "exclusive": ["Robin - Exalt's Deliverer"],
+    "last": true,
+    "icon": "skillC/Tip_the_Scales!.png"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
