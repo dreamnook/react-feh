@@ -73,7 +73,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Alfonse - Spring Prince": {
     "id": "Alfonse - Spring Prince",
@@ -108,7 +108,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.3",
-    "df": 20
+    "df": 25
   },
   "Alfonse - Askran Duo": {
     "id": "Alfonse - Askran Duo",
@@ -144,7 +144,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Alfonse - Uplifting Love": {
     "id": "Alfonse - Uplifting Love",
@@ -193,7 +193,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Sharena - Princess of Askr": {
     "id": "Sharena - Princess of Askr",
@@ -242,7 +242,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Sharena - Spring Princess": {
     "id": "Sharena - Spring Princess",
@@ -277,7 +277,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.3",
-    "df": 25
+    "df": 30
   },
   "Anna - Commander": {
     "id": "Anna - Commander",
@@ -326,7 +326,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Anna - Wealth-Wisher": {
     "id": "Anna - Wealth-Wisher",
@@ -361,7 +361,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Gustav - Majestic Love": {
     "id": "Gustav - Majestic Love",
@@ -396,7 +396,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Gustav - Sovereign Slain": {
     "id": "Gustav - Sovereign Slain",
@@ -430,7 +430,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Henriette - Overflowing Love": {
     "id": "Henriette - Overflowing Love",
@@ -465,7 +465,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Bruno - Masked Hare": {
     "id": "Bruno - Masked Hare",
@@ -500,7 +500,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Bruno - Masked Reveler": {
     "id": "Bruno - Masked Reveler",
@@ -549,7 +549,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Veronica - Brave Princess": {
     "id": "Veronica - Brave Princess",
@@ -583,7 +583,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.8",
-    "df": 20
+    "df": 25
   },
   "Veronica - Spring Princess": {
     "id": "Veronica - Spring Princess",
@@ -618,7 +618,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Veronica - Harmonic Pirates": {
     "id": "Veronica - Harmonic Pirates",
@@ -653,7 +653,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.8",
-    "df": 20
+    "df": 25
   },
   "Veronica - Bestowed Love": {
     "id": "Veronica - Bestowed Love",
@@ -702,7 +702,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Veronica - Princess Rising": {
     "id": "Veronica - Princess Rising",
@@ -740,7 +740,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Nifl - God of Ice": {
     "id": "Nifl - God of Ice",
@@ -774,7 +774,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Nifl - Tropical Ice God": {
     "id": "Nifl - Tropical Ice God",
@@ -809,7 +809,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Fjorm - Princess of Ice": {
     "id": "Fjorm - Princess of Ice",
@@ -846,7 +846,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.9",
-    "df": 25
+    "df": 30
   },
   "Fjorm - New Traditions": {
     "id": "Fjorm - New Traditions",
@@ -881,7 +881,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Fjorm - Bride of Rime": {
     "id": "Fjorm - Bride of Rime",
@@ -916,7 +916,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Fjorm - Ice Ascendant": {
     "id": "Fjorm - Ice Ascendant",
@@ -951,7 +951,7 @@
     "statMax": 190,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Fjorm - Seaside Thaw": {
     "id": "Fjorm - Seaside Thaw",
@@ -986,7 +986,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Gunnthrá - Voice of Dreams": {
     "id": "Gunnthrá - Voice of Dreams",
@@ -1023,7 +1023,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.0",
-    "df": 20
+    "df": 25
   },
   "Gunnthrá - Year's First Dream": {
     "id": "Gunnthrá - Year's First Dream",
@@ -1058,7 +1058,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Gunnthrá - Beaming Smile": {
     "id": "Gunnthrá - Beaming Smile",
@@ -1093,7 +1093,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Hríd - Icy Blade": {
     "id": "Hríd - Icy Blade",
@@ -1130,7 +1130,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.11",
-    "df": 20
+    "df": 25
   },
   "Hríd - Resolute Prince": {
     "id": "Hríd - Resolute Prince",
@@ -1165,7 +1165,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Ylgr - Fresh Snowfall": {
     "id": "Ylgr - Fresh Snowfall",
@@ -1199,7 +1199,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.11",
-    "df": 25
+    "df": 30
   },
   "Ylgr - Breaking the Ice": {
     "id": "Ylgr - Breaking the Ice",
@@ -1248,7 +1248,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Múspell - Flame God": {
     "id": "Múspell - Flame God",
@@ -1282,7 +1282,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Múspell - Raging Inferno": {
     "id": "Múspell - Raging Inferno",
@@ -1317,7 +1317,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Surtr - Ruler of Flame": {
     "id": "Surtr - Ruler of Flame",
@@ -1351,7 +1351,7 @@
     "statMax": 180,
     "book": 2,
     "ver": "2.11",
-    "df": 20
+    "df": 25
   },
   "Surtr - Pirate of Red Sky": {
     "id": "Surtr - Pirate of Red Sky",
@@ -1386,7 +1386,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.8",
-    "df": 15
+    "df": 20
   },
   "Laegjarn - Sheathed Steel": {
     "id": "Laegjarn - Sheathed Steel",
@@ -1420,7 +1420,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.9",
-    "df": 20
+    "df": 25
   },
   "Laegjarn - New Experiences": {
     "id": "Laegjarn - New Experiences",
@@ -1469,7 +1469,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Laegjarn - Burning Sun": {
     "id": "Laegjarn - Burning Sun",
@@ -1504,7 +1504,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Laegjarn - Flame Ascendant": {
     "id": "Laegjarn - Flame Ascendant",
@@ -1539,7 +1539,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Laegjarn - Flame and Frost": {
     "id": "Laegjarn - Flame and Frost",
@@ -1575,7 +1575,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Laevatein - Searing Steel": {
     "id": "Laevatein - Searing Steel",
@@ -1609,7 +1609,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.9",
-    "df": 25
+    "df": 30
   },
   "Laevatein - Kumade Warrior": {
     "id": "Laevatein - Kumade Warrior",
@@ -1644,7 +1644,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Laevatein - Bonfire's Blaze": {
     "id": "Laevatein - Bonfire's Blaze",
@@ -1679,7 +1679,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Laevatein - Ninja of Múspell": {
     "id": "Laevatein - Ninja of Múspell",
@@ -1714,7 +1714,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Helbindi - Savage Scourge": {
     "id": "Helbindi - Savage Scourge",
@@ -1748,7 +1748,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.9",
-    "df": 25
+    "df": 30
   },
   "Helbindi - Seaside Scourge": {
     "id": "Helbindi - Seaside Scourge",
@@ -1783,7 +1783,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Hel - Death Sovereign": {
     "id": "Hel - Death Sovereign",
@@ -1820,7 +1820,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Eir - Merciful Death": {
     "id": "Eir - Merciful Death",
@@ -1857,7 +1857,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Eir - Renewed Life": {
     "id": "Eir - Renewed Life",
@@ -1906,7 +1906,7 @@
     "statMax": 160,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Eir - Life Ascendant": {
     "id": "Eir - Life Ascendant",
@@ -1941,7 +1941,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Ymir - Life-Mother": {
     "id": "Ymir - Life-Mother",
@@ -1975,7 +1975,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Ymir - Seasons of Life": {
     "id": "Ymir - Seasons of Life",
@@ -2011,7 +2011,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Ganglöt - Death Anew": {
     "id": "Ganglöt - Death Anew",
@@ -2046,7 +2046,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Líf - Lethal Swordsman": {
     "id": "Líf - Lethal Swordsman",
@@ -2083,7 +2083,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Líf - Undying Ties Duo": {
     "id": "Líf - Undying Ties Duo",
@@ -2119,7 +2119,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Líf - Arcane Blade": {
     "id": "Líf - Arcane Blade",
@@ -2154,7 +2154,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Thrasir - Omnicidal Witch": {
     "id": "Thrasir - Omnicidal Witch",
@@ -2191,7 +2191,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Thórr - War God": {
     "id": "Thórr - War God",
@@ -2228,7 +2228,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Thórr - Sun-Kissed Gods": {
     "id": "Thórr - Sun-Kissed Gods",
@@ -2264,7 +2264,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Loki - The Trickster": {
     "id": "Loki - The Trickster",
@@ -2298,7 +2298,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.10",
-    "df": 25
+    "df": 30
   },
   "Loki - Spring Trickster": {
     "id": "Loki - Spring Trickster",
@@ -2347,7 +2347,7 @@
     "statMax": 155,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Peony - Sweet Dream": {
     "id": "Peony - Sweet Dream",
@@ -2384,7 +2384,7 @@
     "statMax": 145,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Peony - Álfar Dream Duo": {
     "id": "Peony - Álfar Dream Duo",
@@ -2420,7 +2420,7 @@
     "statMax": 155,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Mirabilis - Daydream": {
     "id": "Mirabilis - Daydream",
@@ -2457,7 +2457,7 @@
     "statMax": 160,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Mirabilis - Sugarplum Vision": {
     "id": "Mirabilis - Sugarplum Vision",
@@ -2492,7 +2492,7 @@
     "statMax": 165,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Plumeria - Lewd Dream": {
     "id": "Plumeria - Lewd Dream",
@@ -2529,7 +2529,7 @@
     "statMax": 155,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Plumeria - Temptation Anew": {
     "id": "Plumeria - Temptation Anew",
@@ -2564,7 +2564,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Freyr - Estival Dreams": {
     "id": "Freyr - Estival Dreams",
@@ -2599,7 +2599,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Freyr - Dream-King": {
     "id": "Freyr - Dream-King",
@@ -2636,7 +2636,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Triandra - Nightmare": {
     "id": "Triandra - Nightmare",
@@ -2673,7 +2673,7 @@
     "statMax": 155,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Triandra - Sunlit Nightmare": {
     "id": "Triandra - Sunlit Nightmare",
@@ -2708,7 +2708,7 @@
     "statMax": 165,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Freyja - Lady of Nightmare": {
     "id": "Freyja - Lady of Nightmare",
@@ -2745,7 +2745,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Freyja - Fleeting Summer": {
     "id": "Freyja - Fleeting Summer",
@@ -2780,7 +2780,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Eitr - Hand of Nothing": {
     "id": "Eitr - Hand of Nothing",
@@ -2815,7 +2815,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Reginn - Bearing Hope": {
     "id": "Reginn - Bearing Hope",
@@ -2852,7 +2852,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Reginn - Bearing Dawn": {
     "id": "Reginn - Bearing Dawn",
@@ -2887,7 +2887,7 @@
     "statMax": 165,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Ótr - Kingsbrother": {
     "id": "Ótr - Kingsbrother",
@@ -2924,7 +2924,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Fáfnir - Fresh Ambition": {
     "id": "Fáfnir - Fresh Ambition",
@@ -2959,7 +2959,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Dagr - Sun's Radiance": {
     "id": "Dagr - Sun's Radiance",
@@ -2996,7 +2996,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Dagr - New Year Jötnar": {
     "id": "Dagr - New Year Jötnar",
@@ -3032,7 +3032,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Nótt - Moon's Elegance": {
     "id": "Nótt - Moon's Elegance",
@@ -3069,7 +3069,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Eitri - Youthful Sage": {
     "id": "Eitri - Youthful Sage",
@@ -3107,7 +3107,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Askr - God of Openness": {
     "id": "Askr - God of Openness",
@@ -3144,7 +3144,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Askr - Renewed Gods": {
     "id": "Askr - Renewed Gods",
@@ -3180,7 +3180,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Ash - Retainer to Askr": {
     "id": "Ash - Retainer to Askr",
@@ -3217,7 +3217,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Ash - Earnest Greetings": {
     "id": "Ash - Earnest Greetings",
@@ -3252,7 +3252,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Embla - God of Closure": {
     "id": "Embla - God of Closure",
@@ -3289,7 +3289,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Elm - Resolute Grouch": {
     "id": "Elm - Resolute Grouch",
@@ -3324,7 +3324,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Letizia - Curse Director": {
     "id": "Letizia - Curse Director",
@@ -3358,7 +3358,7 @@
     "statMax": 165,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Seiðr - Goddess of Hope": {
     "id": "Seiðr - Goddess of Hope",
@@ -3395,7 +3395,7 @@
     "statMax": 170,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Gullveig - Seer Beyond Time": {
     "id": "Gullveig - Seer Beyond Time",
@@ -3466,7 +3466,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Nerþuz - God of the Land": {
     "id": "Nerþuz - God of the Land",
@@ -3503,7 +3503,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Marth - Altean Prince": {
     "id": "Marth - Altean Prince",
@@ -3565,7 +3565,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Marth - Altean Groom": {
     "id": "Marth - Altean Groom",
@@ -3614,7 +3614,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.5",
-    "df": 20
+    "df": 25
   },
   "Marth - Hero-King": {
     "id": "Marth - Hero-King",
@@ -3651,7 +3651,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.8",
-    "df": 25
+    "df": 30
   },
   "Marth - Royal Altean Duo": {
     "id": "Marth - Royal Altean Duo",
@@ -3687,7 +3687,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Marth - Legacied Hero": {
     "id": "Marth - Legacied Hero",
@@ -3736,7 +3736,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Marth - Prince of Light": {
     "id": "Marth - Prince of Light",
@@ -3770,7 +3770,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.8",
-    "df": 10
+    "df": 15
   },
   "Kris - Unknown Hero": {
     "id": "Kris - Unknown Hero",
@@ -3804,7 +3804,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Kris - Ardent Firebrand": {
     "id": "Kris - Ardent Firebrand",
@@ -3853,7 +3853,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Kris - Unsung Hero": {
     "id": "Kris - Unsung Hero",
@@ -3887,7 +3887,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Elice - Altean Princess": {
     "id": "Elice - Altean Princess",
@@ -3949,7 +3949,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Jagen - Veteran Knight": {
     "id": "Jagen - Veteran Knight",
@@ -4011,7 +4011,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Cain - The Bull": {
     "id": "Cain - The Bull",
@@ -4073,7 +4073,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Abel - The Panther": {
     "id": "Abel - The Panther",
@@ -4135,7 +4135,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Draug - Gentle Giant": {
     "id": "Draug - Gentle Giant",
@@ -4197,7 +4197,7 @@
     "statMax": 170,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Gordin - Altean Archer": {
     "id": "Gordin - Altean Archer",
@@ -4259,7 +4259,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Luke - Rowdy Squire": {
     "id": "Luke - Rowdy Squire",
@@ -4293,7 +4293,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.4",
-    "df": 20
+    "df": 25
   },
   "Roderick - Steady Squire": {
     "id": "Roderick - Steady Squire",
@@ -4355,7 +4355,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.4",
-    "df": 20
+    "df": 25
   },
   "Norne - The Volunteer": {
     "id": "Norne - The Volunteer",
@@ -4417,7 +4417,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Norne - Seaside Volunteer": {
     "id": "Norne - Seaside Volunteer",
@@ -4466,7 +4466,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Caeda - Talys's Heart": {
     "id": "Caeda - Talys's Heart",
@@ -4528,7 +4528,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Caeda - Talys's Bride": {
     "id": "Caeda - Talys's Bride",
@@ -4563,7 +4563,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.3",
-    "df": 25
+    "df": 30
   },
   "Caeda - Princess of Talys": {
     "id": "Caeda - Princess of Talys",
@@ -4598,7 +4598,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Caeda - Sea-Blossom Pair": {
     "id": "Caeda - Sea-Blossom Pair",
@@ -4633,7 +4633,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Caeda - Beloved Queen": {
     "id": "Caeda - Beloved Queen",
@@ -4671,7 +4671,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Ogma - Loyal Blade": {
     "id": "Ogma - Loyal Blade",
@@ -4733,7 +4733,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Ogma - Blade on Leave": {
     "id": "Ogma - Blade on Leave",
@@ -4782,7 +4782,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Barst - The Hatchet": {
     "id": "Barst - The Hatchet",
@@ -4844,7 +4844,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Darros - Seawalker": {
     "id": "Darros - Seawalker",
@@ -4893,7 +4893,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.8",
-    "df": 20
+    "df": 25
   },
   "Nyna - The Last Princess": {
     "id": "Nyna - The Last Princess",
@@ -4955,7 +4955,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Linde - Light Mage": {
     "id": "Linde - Light Mage",
@@ -4989,7 +4989,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Linde - Summer Rays": {
     "id": "Linde - Summer Rays",
@@ -5024,7 +5024,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.7",
-    "df": 20
+    "df": 25
   },
   "Linde - Bound by Fate": {
     "id": "Linde - Bound by Fate",
@@ -5059,7 +5059,7 @@
     "statMax": 170,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Jeorge - Perfect Shot": {
     "id": "Jeorge - Perfect Shot",
@@ -5121,7 +5121,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Astram - Midia's Hero": {
     "id": "Astram - Midia's Hero",
@@ -5184,7 +5184,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Michalis - Ambitious King": {
     "id": "Michalis - Ambitious King",
@@ -5247,7 +5247,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.1",
-    "df": 20
+    "df": 25
   },
   "Michalis - Fruiting Ambition": {
     "id": "Michalis - Fruiting Ambition",
@@ -5296,7 +5296,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Minerva - Red Dragoon": {
     "id": "Minerva - Red Dragoon",
@@ -5330,7 +5330,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Minerva - Princess-Knight": {
     "id": "Minerva - Princess-Knight",
@@ -5379,7 +5379,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Minerva - Verdant Dragoon": {
     "id": "Minerva - Verdant Dragoon",
@@ -5428,7 +5428,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Maria - Minerva's Sister": {
     "id": "Maria - Minerva's Sister",
@@ -5490,7 +5490,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Maria - Sunny Smile": {
     "id": "Maria - Sunny Smile",
@@ -5525,7 +5525,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Maria - Ritual Sacrifice": {
     "id": "Maria - Ritual Sacrifice",
@@ -5559,7 +5559,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Palla - Eldest Whitewing": {
     "id": "Palla - Eldest Whitewing",
@@ -5621,7 +5621,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Palla - Eldest Bun-Bun": {
     "id": "Palla - Eldest Bun-Bun",
@@ -5656,7 +5656,7 @@
     "statMax": 155,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Palla - Sisterly Trio": {
     "id": "Palla - Sisterly Trio",
@@ -5692,7 +5692,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Catria - Middle Whitewing": {
     "id": "Catria - Middle Whitewing",
@@ -5754,7 +5754,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Catria - Spring Whitewing": {
     "id": "Catria - Spring Whitewing",
@@ -5789,7 +5789,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.3",
-    "df": 20
+    "df": 25
   },
   "Est - Junior Whitewing": {
     "id": "Est - Junior Whitewing",
@@ -5851,7 +5851,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Est - Springtime Flier": {
     "id": "Est - Springtime Flier",
@@ -5886,7 +5886,7 @@
     "statMax": 155,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Julian - Tender Thief": {
     "id": "Julian - Tender Thief",
@@ -5920,7 +5920,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Lena - Tender Angel": {
     "id": "Lena - Tender Angel",
@@ -5982,7 +5982,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Matthis - Brother to Lena": {
     "id": "Matthis - Brother to Lena",
@@ -6045,7 +6045,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Rickard - Carefree Culprit": {
     "id": "Rickard - Carefree Culprit",
@@ -6094,7 +6094,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.8",
-    "df": 10
+    "df": 15
   },
   "Merric - Wind Mage": {
     "id": "Merric - Wind Mage",
@@ -6156,7 +6156,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Merric - Changing Winds": {
     "id": "Merric - Changing Winds",
@@ -6191,7 +6191,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Hardin - Dark Emperor": {
     "id": "Hardin - Dark Emperor",
@@ -6225,7 +6225,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.2",
-    "df": 20
+    "df": 25
   },
   "Hardin - The Coyote": {
     "id": "Hardin - The Coyote",
@@ -6259,7 +6259,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Wolf - Coyote's Loyal": {
     "id": "Wolf - Coyote's Loyal",
@@ -6293,7 +6293,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Sedgar - Coyote's Dutiful": {
     "id": "Sedgar - Coyote's Dutiful",
@@ -6356,7 +6356,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Vyland - Coyote's Justice": {
     "id": "Vyland - Coyote's Justice",
@@ -6418,7 +6418,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Roshea - Coyote's Faithful": {
     "id": "Roshea - Coyote's Faithful",
@@ -6480,7 +6480,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Camus - Sable Knight": {
     "id": "Camus - Sable Knight",
@@ -6543,7 +6543,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.4",
-    "df": 20
+    "df": 25
   },
   "Sirius - Mysterious Knight": {
     "id": "Sirius - Mysterious Knight",
@@ -6577,7 +6577,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Sheena - Princess of Gra": {
     "id": "Sheena - Princess of Gra",
@@ -6639,7 +6639,7 @@
     "statMax": 170,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Tiki - Dragon Scion": {
     "id": "Tiki - Dragon Scion",
@@ -6673,7 +6673,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Tiki - Beachside Scion": {
     "id": "Tiki - Beachside Scion",
@@ -6708,7 +6708,7 @@
     "statMax": 170,
     "book": 2,
     "ver": "2.7",
-    "df": 20
+    "df": 25
   },
   "Tiki - Legendary Dragon": {
     "id": "Tiki - Legendary Dragon",
@@ -6745,7 +6745,7 @@
     "statMax": 180,
     "book": 2,
     "ver": "2.9",
-    "df": 20
+    "df": 25
   },
   "Tiki - Torpid Dragon": {
     "id": "Tiki - Torpid Dragon",
@@ -6779,7 +6779,7 @@
     "statMax": 180,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Tiki - Harmonic Hope": {
     "id": "Tiki - Harmonic Hope",
@@ -6814,7 +6814,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Tiki - Awakened Blood": {
     "id": "Tiki - Awakened Blood",
@@ -6849,7 +6849,7 @@
     "statMax": 195,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Nagi - Dragon Avatar": {
     "id": "Nagi - Dragon Avatar",
@@ -6883,7 +6883,7 @@
     "statMax": 180,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Gotoh - White Sage": {
     "id": "Gotoh - White Sage",
@@ -6920,7 +6920,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Xane - Autumn Trickster": {
     "id": "Xane - Autumn Trickster",
@@ -6969,7 +6969,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Xane - Desert Mirage": {
     "id": "Xane - Desert Mirage",
@@ -7018,7 +7018,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Bantu - Tiki's Guardian": {
     "id": "Bantu - Tiki's Guardian",
@@ -7080,7 +7080,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Eremiya - Bishop of Woe": {
     "id": "Eremiya - Bishop of Woe",
@@ -7143,7 +7143,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Katarina - Wayward One": {
     "id": "Katarina - Wayward One",
@@ -7177,7 +7177,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.4",
-    "df": 25
+    "df": 30
   },
   "Katarina - Torchlit Wanderer": {
     "id": "Katarina - Torchlit Wanderer",
@@ -7212,7 +7212,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Clarisse - Sniper in the Dark": {
     "id": "Clarisse - Sniper in the Dark",
@@ -7275,7 +7275,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.4",
-    "df": 25
+    "df": 30
   },
   "Legion - Masked Maniac": {
     "id": "Legion - Masked Maniac",
@@ -7338,7 +7338,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.4",
-    "df": 25
+    "df": 30
   },
   "Navarre - Scarlet Sword": {
     "id": "Navarre - Scarlet Sword",
@@ -7401,7 +7401,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.2",
-    "df": 25
+    "df": 30
   },
   "Navarre - Scarlet Ninja": {
     "id": "Navarre - Scarlet Ninja",
@@ -7436,7 +7436,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Phina - Roving Dancer": {
     "id": "Phina - Roving Dancer",
@@ -7470,7 +7470,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Wrys - Kindly Priest": {
     "id": "Wrys - Kindly Priest",
@@ -7532,7 +7532,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Athena - Borderland Sword": {
     "id": "Athena - Borderland Sword",
@@ -7594,7 +7594,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.4",
-    "df": 25
+    "df": 30
   },
   "Malice - Deft Sellsword": {
     "id": "Malice - Deft Sellsword",
@@ -7628,7 +7628,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Gharnef - Dark Pontifex": {
     "id": "Gharnef - Dark Pontifex",
@@ -7691,7 +7691,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.11",
-    "df": 25
+    "df": 30
   },
   "Medeus - Earth-Dragon King": {
     "id": "Medeus - Earth-Dragon King",
@@ -7728,7 +7728,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Alm - Hero of Prophecy": {
     "id": "Alm - Hero of Prophecy",
@@ -7762,7 +7762,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.2",
-    "df": 25
+    "df": 30
   },
   "Alm - Saint-King": {
     "id": "Alm - Saint-King",
@@ -7800,7 +7800,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Alm - Imperial Ascent": {
     "id": "Alm - Imperial Ascent",
@@ -7834,7 +7834,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Alm - Lovebird Duo": {
     "id": "Alm - Lovebird Duo",
@@ -7870,7 +7870,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Lukas - Sharp Soldier": {
     "id": "Lukas - Sharp Soldier",
@@ -7932,7 +7932,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.2",
-    "df": 25
+    "df": 30
   },
   "Lukas - Buffet for One": {
     "id": "Lukas - Buffet for One",
@@ -7967,7 +7967,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Gray - Wry Comrade": {
     "id": "Gray - Wry Comrade",
@@ -8001,7 +8001,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.5",
-    "df": 25
+    "df": 30
   },
   "Tobin - The Clueless One": {
     "id": "Tobin - The Clueless One",
@@ -8050,7 +8050,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.5",
-    "df": 25
+    "df": 30
   },
   "Kliff - Curious Spirit": {
     "id": "Kliff - Curious Spirit",
@@ -8084,7 +8084,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.10",
-    "df": 25
+    "df": 30
   },
   "Faye - Devoted Heart": {
     "id": "Faye - Devoted Heart",
@@ -8118,7 +8118,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.2",
-    "df": 25
+    "df": 30
   },
   "Faye - Drawn Heartstring": {
     "id": "Faye - Drawn Heartstring",
@@ -8153,7 +8153,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Silque - Adherent of Mila": {
     "id": "Silque - Adherent of Mila",
@@ -8187,7 +8187,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Silque - Selfless Cleric": {
     "id": "Silque - Selfless Cleric",
@@ -8236,7 +8236,7 @@
     "statMax": 155,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Clair - Highborn Flier": {
     "id": "Clair - Highborn Flier",
@@ -8298,7 +8298,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.2",
-    "df": 20
+    "df": 25
   },
   "Clive - Idealistic Knight": {
     "id": "Clive - Idealistic Knight",
@@ -8347,7 +8347,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.6",
-    "df": 20
+    "df": 25
   },
   "Forsyth - Loyal Lieutenant": {
     "id": "Forsyth - Loyal Lieutenant",
@@ -8381,7 +8381,7 @@
     "statMax": 180,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Python - Apathetic Archer": {
     "id": "Python - Apathetic Archer",
@@ -8443,7 +8443,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Celica - Caring Princess": {
     "id": "Celica - Caring Princess",
@@ -8477,7 +8477,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.3",
-    "df": 25
+    "df": 30
   },
   "Celica - Imprisoned Soul": {
     "id": "Celica - Imprisoned Soul",
@@ -8511,7 +8511,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.2",
-    "df": 25
+    "df": 30
   },
   "Celica - Warrior Priestess": {
     "id": "Celica - Warrior Priestess",
@@ -8545,7 +8545,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.8",
-    "df": 25
+    "df": 30
   },
   "Celica - Queen of Valentia": {
     "id": "Celica - Queen of Valentia",
@@ -8583,7 +8583,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Celica - Valentia's Hope": {
     "id": "Celica - Valentia's Hope",
@@ -8618,7 +8618,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Mae - Bundle of Energy": {
     "id": "Mae - Bundle of Energy",
@@ -8680,7 +8680,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.3",
-    "df": 25
+    "df": 30
   },
   "Boey - Skillful Survivor": {
     "id": "Boey - Skillful Survivor",
@@ -8742,7 +8742,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.3",
-    "df": 25
+    "df": 30
   },
   "Genny - Endearing Ally": {
     "id": "Genny - Endearing Ally",
@@ -8776,7 +8776,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.3",
-    "df": 25
+    "df": 30
   },
   "Genny - Dressed with Care": {
     "id": "Genny - Dressed with Care",
@@ -8811,7 +8811,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Saber - Driven Mercenary": {
     "id": "Saber - Driven Mercenary",
@@ -8845,7 +8845,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.5",
-    "df": 25
+    "df": 30
   },
   "Valbar - Open and Honest": {
     "id": "Valbar - Open and Honest",
@@ -8907,7 +8907,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Kamui - Wandering Blade": {
     "id": "Kamui - Wandering Blade",
@@ -8969,7 +8969,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Leon - True of Heart": {
     "id": "Leon - True of Heart",
@@ -9031,7 +9031,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.5",
-    "df": 25
+    "df": 30
   },
   "Mathilda - Legendary Knight": {
     "id": "Mathilda - Legendary Knight",
@@ -9093,7 +9093,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.5",
-    "df": 20
+    "df": 25
   },
   "Luthier - Odd Wayfarer": {
     "id": "Luthier - Odd Wayfarer",
@@ -9155,7 +9155,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Luthier - Spring Hopes": {
     "id": "Luthier - Spring Hopes",
@@ -9204,7 +9204,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Delthea - Free Spirit": {
     "id": "Delthea - Free Spirit",
@@ -9238,7 +9238,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.5",
-    "df": 25
+    "df": 30
   },
   "Delthea - Tatarrah's Puppet": {
     "id": "Delthea - Tatarrah's Puppet",
@@ -9301,7 +9301,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Delthea - Prodigy in Bloom": {
     "id": "Delthea - Prodigy in Bloom",
@@ -9336,7 +9336,7 @@
     "statMax": 165,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Palla - Kind Eldest Sister": {
     "id": "Palla - Kind Eldest Sister",
@@ -9370,7 +9370,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Catria - Azure Wing Pair": {
     "id": "Catria - Azure Wing Pair",
@@ -9405,7 +9405,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Catria - Mild Middle Sister": {
     "id": "Catria - Mild Middle Sister",
@@ -9439,7 +9439,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Est - Sweet Baby Sis": {
     "id": "Est - Sweet Baby Sis",
@@ -9473,7 +9473,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Atlas - Forest Muscle": {
     "id": "Atlas - Forest Muscle",
@@ -9535,7 +9535,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Sonya - Vengeful Mage": {
     "id": "Sonya - Vengeful Mage",
@@ -9569,7 +9569,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.5",
-    "df": 25
+    "df": 30
   },
   "Sonya - Dazzling Rabbits": {
     "id": "Sonya - Dazzling Rabbits",
@@ -9604,7 +9604,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Deen - Bladed Sandstorm": {
     "id": "Deen - Bladed Sandstorm",
@@ -9653,7 +9653,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Tatiana - Devoted Saint": {
     "id": "Tatiana - Devoted Saint",
@@ -9715,7 +9715,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Zeke - Past Unknown": {
     "id": "Zeke - Past Unknown",
@@ -9749,7 +9749,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Conrad - Masked Knight": {
     "id": "Conrad - Masked Knight",
@@ -9812,7 +9812,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Conrad - Unmasked Knight": {
     "id": "Conrad - Unmasked Knight",
@@ -9861,7 +9861,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Rudolf - Emperor of Rigel": {
     "id": "Rudolf - Emperor of Rigel",
@@ -9896,7 +9896,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Berkut - Prideful Prince": {
     "id": "Berkut - Prideful Prince",
@@ -9959,7 +9959,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.5",
-    "df": 20
+    "df": 25
   },
   "Berkut - Purgatorial Prince": {
     "id": "Berkut - Purgatorial Prince",
@@ -9993,7 +9993,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Berkut - Debonair Noble": {
     "id": "Berkut - Debonair Noble",
@@ -10028,7 +10028,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Rinea - Reminiscent Belle": {
     "id": "Rinea - Reminiscent Belle",
@@ -10077,7 +10077,7 @@
     "statMax": 155,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Fernand - Traitorous Knight": {
     "id": "Fernand - Traitorous Knight",
@@ -10140,7 +10140,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Duma - God of Strength": {
     "id": "Duma - God of Strength",
@@ -10177,7 +10177,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.1",
-    "df": 20
+    "df": 25
   },
   "Duma - Strength and Love": {
     "id": "Duma - Strength and Love",
@@ -10213,7 +10213,7 @@
     "statMax": 195,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Mila - Goddess of Love": {
     "id": "Mila - Goddess of Love",
@@ -10250,7 +10250,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Brigand Boss - Known Criminal": {
     "id": "Brigand Boss - Known Criminal",
@@ -10313,7 +10313,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Sigurd - Holy Knight": {
     "id": "Sigurd - Holy Knight",
@@ -10347,7 +10347,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.8",
-    "df": 20
+    "df": 25
   },
   "Sigurd - Destined Duo": {
     "id": "Sigurd - Destined Duo",
@@ -10383,7 +10383,7 @@
     "statMax": 150,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Sigurd - Fated Holy Knight": {
     "id": "Sigurd - Fated Holy Knight",
@@ -10421,7 +10421,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "Sigurd - Proper Pourer": {
     "id": "Sigurd - Proper Pourer",
@@ -10456,7 +10456,7 @@
     "statMax": 170,
     "book": 7,
     "ver": "7.8",
-    "df": 5
+    "df": 10
   },
   "Arden - Strong and Tough": {
     "id": "Arden - Strong and Tough",
@@ -10505,7 +10505,7 @@
     "statMax": 170,
     "book": 1,
     "ver": "1.8",
-    "df": 20
+    "df": 25
   },
   "Brigid - Orgahil Pirate": {
     "id": "Brigid - Orgahil Pirate",
@@ -10540,7 +10540,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.8",
-    "df": 20
+    "df": 25
   },
   "Arvis - Emperor of Flame": {
     "id": "Arvis - Emperor of Flame",
@@ -10603,7 +10603,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.8",
-    "df": 25
+    "df": 30
   },
   "Azelle - Youthful Flame": {
     "id": "Azelle - Youthful Flame",
@@ -10637,7 +10637,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Tailtiu - Thunder Noble": {
     "id": "Tailtiu - Thunder Noble",
@@ -10699,7 +10699,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.8",
-    "df": 25
+    "df": 30
   },
   "Tailtiu - Teatime Mingler": {
     "id": "Tailtiu - Teatime Mingler",
@@ -10748,7 +10748,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.8",
-    "df": 5
+    "df": 10
   },
   "Lex - Young Blade": {
     "id": "Lex - Young Blade",
@@ -10810,7 +10810,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Quan - Luminous Lancer": {
     "id": "Quan - Luminous Lancer",
@@ -10844,7 +10844,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.9",
-    "df": 20
+    "df": 25
   },
   "Quan - Lightfoot Prince": {
     "id": "Quan - Lightfoot Prince",
@@ -10879,7 +10879,7 @@
     "statMax": 160,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Ethlyn - Spirited Princess": {
     "id": "Ethlyn - Spirited Princess",
@@ -10928,7 +10928,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.9",
-    "df": 20
+    "df": 25
   },
   "Ethlyn - Glimmering Lady": {
     "id": "Ethlyn - Glimmering Lady",
@@ -10963,7 +10963,7 @@
     "statMax": 160,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Ayra - Astra's Wielder": {
     "id": "Ayra - Astra's Wielder",
@@ -10997,7 +10997,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.8",
-    "df": 25
+    "df": 30
   },
   "Ayra - Together in Tea": {
     "id": "Ayra - Together in Tea",
@@ -11032,7 +11032,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.8",
-    "df": 5
+    "df": 10
   },
   "Jamke - Prince of Verdane": {
     "id": "Jamke - Prince of Verdane",
@@ -11095,7 +11095,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.9",
-    "df": 25
+    "df": 30
   },
   "Lewyn - Guiding Breeze": {
     "id": "Lewyn - Guiding Breeze",
@@ -11129,7 +11129,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.9",
-    "df": 25
+    "df": 30
   },
   "Lewyn - Wind-Song Scion": {
     "id": "Lewyn - Wind-Song Scion",
@@ -11178,7 +11178,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Annand - Knight-Defender": {
     "id": "Annand - Knight-Defender",
@@ -11212,7 +11212,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Díthorba - Cutting Knight": {
     "id": "Díthorba - Cutting Knight",
@@ -11275,7 +11275,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Erinys - Earnest Knight": {
     "id": "Erinys - Earnest Knight",
@@ -11309,7 +11309,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Eldigan - Lionheart": {
     "id": "Eldigan - Lionheart",
@@ -11343,7 +11343,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Eldigan - Strutting Lion": {
     "id": "Eldigan - Strutting Lion",
@@ -11392,7 +11392,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Lachesis - Lionheart's Sister": {
     "id": "Lachesis - Lionheart's Sister",
@@ -11454,7 +11454,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Lachesis - Ballroom Bloom": {
     "id": "Lachesis - Ballroom Bloom",
@@ -11503,7 +11503,7 @@
     "statMax": 160,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Deirdre - Lady of the Forest": {
     "id": "Deirdre - Lady of the Forest",
@@ -11537,7 +11537,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.8",
-    "df": 25
+    "df": 30
   },
   "Deirdre - Fated Saint": {
     "id": "Deirdre - Fated Saint",
@@ -11575,7 +11575,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.8",
-    "df": 5
+    "df": 10
   },
   "Silvia - Traveling Dancer": {
     "id": "Silvia - Traveling Dancer",
@@ -11637,7 +11637,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.9",
-    "df": 25
+    "df": 30
   },
   "Seliph - Heir of Light": {
     "id": "Seliph - Heir of Light",
@@ -11699,7 +11699,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Seliph - Scion of Light": {
     "id": "Seliph - Scion of Light",
@@ -11737,7 +11737,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Seliph - Enduring Legacy": {
     "id": "Seliph - Enduring Legacy",
@@ -11771,7 +11771,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.8",
-    "df": 5
+    "df": 10
   },
   "Larcei - Keen Kin": {
     "id": "Larcei - Keen Kin",
@@ -11805,7 +11805,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Larcei - Scion of Astra": {
     "id": "Larcei - Scion of Astra",
@@ -11840,7 +11840,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Shannan - Wielder of Astra": {
     "id": "Shannan - Wielder of Astra",
@@ -11874,7 +11874,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Scáthach - Astra's Wake": {
     "id": "Scáthach - Astra's Wake",
@@ -11936,7 +11936,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Arthur - Furious Mage": {
     "id": "Arthur - Furious Mage",
@@ -11970,7 +11970,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Tine - Rumbling Thunder": {
     "id": "Tine - Rumbling Thunder",
@@ -12004,7 +12004,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Julia - Naga's Blood": {
     "id": "Julia - Naga's Blood",
@@ -12038,7 +12038,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Julia - Crusader of Light": {
     "id": "Julia - Crusader of Light",
@@ -12076,7 +12076,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Julia - Heart Usurped": {
     "id": "Julia - Heart Usurped",
@@ -12110,7 +12110,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Julia - Scion of the Saint": {
     "id": "Julia - Scion of the Saint",
@@ -12145,7 +12145,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Ares - Black Knight": {
     "id": "Ares - Black Knight",
@@ -12207,7 +12207,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.5",
-    "df": 20
+    "df": 25
   },
   "Lene - Yearning Dancer": {
     "id": "Lene - Yearning Dancer",
@@ -12241,7 +12241,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.5",
-    "df": 25
+    "df": 30
   },
   "Ced - Hero on the Wind": {
     "id": "Ced - Hero on the Wind",
@@ -12275,7 +12275,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Travant - King of Thracia": {
     "id": "Travant - King of Thracia",
@@ -12338,7 +12338,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Altena - Luminous Rider": {
     "id": "Altena - Luminous Rider",
@@ -12400,7 +12400,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Julius - Scion of Darkness": {
     "id": "Julius - Scion of Darkness",
@@ -12463,7 +12463,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.5",
-    "df": 25
+    "df": 30
   },
   "Ishtar - Thunder Goddess": {
     "id": "Ishtar - Thunder Goddess",
@@ -12497,7 +12497,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.5",
-    "df": 25
+    "df": 30
   },
   "Ishtar - Echoing Thunder": {
     "id": "Ishtar - Echoing Thunder",
@@ -12532,7 +12532,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Hilda - Queen of Friege": {
     "id": "Hilda - Queen of Friege",
@@ -12595,7 +12595,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Ullr - The Bowmaster": {
     "id": "Ullr - The Bowmaster",
@@ -12632,7 +12632,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Leif - Prince of Leonster": {
     "id": "Leif - Prince of Leonster",
@@ -12666,7 +12666,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.4",
-    "df": 25
+    "df": 30
   },
   "Leif - Unifier of Thracia": {
     "id": "Leif - Unifier of Thracia",
@@ -12704,7 +12704,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Leif - Destined Scions": {
     "id": "Leif - Destined Scions",
@@ -12739,7 +12739,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Finn - Lance of Legend": {
     "id": "Finn - Lance of Legend",
@@ -12788,7 +12788,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.4",
-    "df": 20
+    "df": 25
   },
   "Nanna - Nordion Princess": {
     "id": "Nanna - Nordion Princess",
@@ -12850,7 +12850,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.4",
-    "df": 20
+    "df": 25
   },
   "Nanna - Mystletainn Scion": {
     "id": "Nanna - Mystletainn Scion",
@@ -12899,7 +12899,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Nanna - Beloved Princess": {
     "id": "Nanna - Beloved Princess",
@@ -12937,7 +12937,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Eyvel - Mistress of Fiana": {
     "id": "Eyvel - Mistress of Fiana",
@@ -12971,7 +12971,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Mareeta - The Blade's Pawn": {
     "id": "Mareeta - The Blade's Pawn",
@@ -13005,7 +13005,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Mareeta - Sword of Stars": {
     "id": "Mareeta - Sword of Stars",
@@ -13039,7 +13039,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Mareeta - Astra Awakened": {
     "id": "Mareeta - Astra Awakened",
@@ -13074,7 +13074,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Osian - Scolded Soldier": {
     "id": "Osian - Scolded Soldier",
@@ -13108,7 +13108,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Tanya - Dagdar's Kid": {
     "id": "Tanya - Dagdar's Kid",
@@ -13170,7 +13170,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "August - Astute Tactician": {
     "id": "August - Astute Tactician",
@@ -13204,7 +13204,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Asbel - Windswept Youth": {
     "id": "Asbel - Windswept Youth",
@@ -13238,7 +13238,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Ronan - Villager of Iz": {
     "id": "Ronan - Villager of Iz",
@@ -13272,7 +13272,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Miranda - Willful Princess": {
     "id": "Miranda - Willful Princess",
@@ -13334,7 +13334,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Karin - Driven Knight": {
     "id": "Karin - Driven Knight",
@@ -13396,7 +13396,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Reinhardt - Thunder's Fist": {
     "id": "Reinhardt - Thunder's Fist",
@@ -13458,7 +13458,7 @@
     "statMax": 145,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Reinhardt - Thunder's Sword": {
     "id": "Reinhardt - Thunder's Sword",
@@ -13492,7 +13492,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.4",
-    "df": 20
+    "df": 25
   },
   "Reinhardt - Lightning's Rondo": {
     "id": "Reinhardt - Lightning's Rondo",
@@ -13527,7 +13527,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Olwen - Blue Mage Knight": {
     "id": "Olwen - Blue Mage Knight",
@@ -13561,7 +13561,7 @@
     "statMax": 145,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Olwen - Righteous Knight": {
     "id": "Olwen - Righteous Knight",
@@ -13595,7 +13595,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.4",
-    "df": 20
+    "df": 25
   },
   "Saias - Bishop of Flame": {
     "id": "Saias - Bishop of Flame",
@@ -13658,7 +13658,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.4",
-    "df": 25
+    "df": 30
   },
   "Veld - Manfroy's Rock": {
     "id": "Veld - Manfroy's Rock",
@@ -13721,7 +13721,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Sara - Lady of Loptr": {
     "id": "Sara - Lady of Loptr",
@@ -13755,7 +13755,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Salem - Dark Sage": {
     "id": "Salem - Dark Sage",
@@ -13818,7 +13818,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Lifis - Terror of Iz": {
     "id": "Lifis - Terror of Iz",
@@ -13867,7 +13867,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.8",
-    "df": 15
+    "df": 20
   },
   "Galzus - Dark Blade of Od": {
     "id": "Galzus - Dark Blade of Od",
@@ -13901,7 +13901,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Ishtar - Thunder's Waltz": {
     "id": "Ishtar - Thunder's Waltz",
@@ -13936,7 +13936,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Kempf - Conniving General": {
     "id": "Kempf - Conniving General",
@@ -13999,7 +13999,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Roy - Young Lion": {
     "id": "Roy - Young Lion",
@@ -14061,7 +14061,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Roy - Brave Lion": {
     "id": "Roy - Brave Lion",
@@ -14095,7 +14095,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.6",
-    "df": 20
+    "df": 25
   },
   "Roy - Youthful Gifts": {
     "id": "Roy - Youthful Gifts",
@@ -14130,7 +14130,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.2",
-    "df": 20
+    "df": 25
   },
   "Roy - Blazing Lion": {
     "id": "Roy - Blazing Lion",
@@ -14168,7 +14168,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Roy - Blazing Bachelors": {
     "id": "Roy - Blazing Bachelors",
@@ -14203,7 +14203,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Wolt - Sunbeam Archer": {
     "id": "Wolt - Sunbeam Archer",
@@ -14238,7 +14238,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Merlinus - Pherae's Clerk": {
     "id": "Merlinus - Pherae's Clerk",
@@ -14300,7 +14300,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Lilina - Delightful Noble": {
     "id": "Lilina - Delightful Noble",
@@ -14362,7 +14362,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Lilina - Blush of Youth": {
     "id": "Lilina - Blush of Youth",
@@ -14397,7 +14397,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.2",
-    "df": 20
+    "df": 25
   },
   "Lilina - Beachside Bloom": {
     "id": "Lilina - Beachside Bloom",
@@ -14432,7 +14432,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Lilina - Firelight Leader": {
     "id": "Lilina - Firelight Leader",
@@ -14470,7 +14470,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Lilina - Beaming Bride": {
     "id": "Lilina - Beaming Bride",
@@ -14505,7 +14505,7 @@
     "statMax": 165,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Gwendolyn - Adorable Knight": {
     "id": "Gwendolyn - Adorable Knight",
@@ -14567,7 +14567,7 @@
     "statMax": 170,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Lugh - Anima Child": {
     "id": "Lugh - Anima Child",
@@ -14601,7 +14601,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Raigh - Dark Child": {
     "id": "Raigh - Dark Child",
@@ -14663,7 +14663,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Chad - Lycian Wildcat": {
     "id": "Chad - Lycian Wildcat",
@@ -14725,7 +14725,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Perceval - Knightly Ideal": {
     "id": "Perceval - Knightly Ideal",
@@ -14759,7 +14759,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Cecilia - Etrurian General": {
     "id": "Cecilia - Etrurian General",
@@ -14821,7 +14821,7 @@
     "statMax": 145,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Cecilia - Festive Instructor": {
     "id": "Cecilia - Festive Instructor",
@@ -14870,7 +14870,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Cecilia - Etrurian Bride": {
     "id": "Cecilia - Etrurian Bride",
@@ -14919,7 +14919,7 @@
     "statMax": 165,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Klein - Silver Nobleman": {
     "id": "Klein - Silver Nobleman",
@@ -14981,7 +14981,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Clarine - Refined Noble": {
     "id": "Clarine - Refined Noble",
@@ -15043,7 +15043,7 @@
     "statMax": 145,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Zephiel - The Liberator": {
     "id": "Zephiel - The Liberator",
@@ -15106,7 +15106,7 @@
     "statMax": 170,
     "book": 1,
     "ver": "1.2",
-    "df": 20
+    "df": 25
   },
   "Murdock - Loyal General": {
     "id": "Murdock - Loyal General",
@@ -15169,7 +15169,7 @@
     "statMax": 195,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Brunnya - Devoted General": {
     "id": "Brunnya - Devoted General",
@@ -15218,7 +15218,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Narcian - Wyvern General": {
     "id": "Narcian - Wyvern General",
@@ -15281,7 +15281,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Narcian - Vernal General": {
     "id": "Narcian - Vernal General",
@@ -15330,7 +15330,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Guinivere - Princess of Bern": {
     "id": "Guinivere - Princess of Bern",
@@ -15364,7 +15364,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Guinivere - Queen of Bern": {
     "id": "Guinivere - Queen of Bern",
@@ -15402,7 +15402,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Melady - Crimson Rider": {
     "id": "Melady - Crimson Rider",
@@ -15436,7 +15436,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Galle - Azure Rider": {
     "id": "Galle - Azure Rider",
@@ -15499,7 +15499,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Saul - Minister of Love": {
     "id": "Saul - Minister of Love",
@@ -15534,7 +15534,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Saul - Loving Shepherd": {
     "id": "Saul - Loving Shepherd",
@@ -15596,7 +15596,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Dorothy - Devoted Archer": {
     "id": "Dorothy - Devoted Archer",
@@ -15658,7 +15658,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Zelot - Avowed Groom": {
     "id": "Zelot - Avowed Groom",
@@ -15707,7 +15707,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Noah - Mercenary-Errant": {
     "id": "Noah - Mercenary-Errant",
@@ -15741,7 +15741,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Juno - Soaring Bride": {
     "id": "Juno - Soaring Bride",
@@ -15790,7 +15790,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Thea - Stormy Flier": {
     "id": "Thea - Stormy Flier",
@@ -15852,7 +15852,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Shanna - Sprightly Flier": {
     "id": "Shanna - Sprightly Flier",
@@ -15914,7 +15914,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Shanna - Bridal Novice": {
     "id": "Shanna - Bridal Novice",
@@ -15949,7 +15949,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Niime - Mountain Hermit": {
     "id": "Niime - Mountain Hermit",
@@ -15983,7 +15983,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Hugh - Worldly Mage": {
     "id": "Hugh - Worldly Mage",
@@ -16017,7 +16017,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Sue - Doe of the Plains": {
     "id": "Sue - Doe of the Plains",
@@ -16051,7 +16051,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Bartre - Fearless Warrior": {
     "id": "Bartre - Fearless Warrior",
@@ -16113,7 +16113,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Bartre - Earsome Warrior": {
     "id": "Bartre - Earsome Warrior",
@@ -16162,7 +16162,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Fir - Sword Student": {
     "id": "Fir - Sword Student",
@@ -16224,7 +16224,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Fir - Student of Spring": {
     "id": "Fir - Student of Spring",
@@ -16259,7 +16259,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Fir - Swordmaiden": {
     "id": "Fir - Swordmaiden",
@@ -16294,7 +16294,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Rutger - Lone Swordsman": {
     "id": "Rutger - Lone Swordsman",
@@ -16357,7 +16357,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Echidna - Unyielding Idealist": {
     "id": "Echidna - Unyielding Idealist",
@@ -16419,7 +16419,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Larum - Sprightly Dancer": {
     "id": "Larum - Sprightly Dancer",
@@ -16453,7 +16453,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Larum - Dancing Bride": {
     "id": "Larum - Dancing Bride",
@@ -16502,7 +16502,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Dieck - Wounded Tiger": {
     "id": "Dieck - Wounded Tiger",
@@ -16536,7 +16536,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Geese - A Life at Sea": {
     "id": "Geese - A Life at Sea",
@@ -16585,7 +16585,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.8",
-    "df": 20
+    "df": 25
   },
   "Gonzalez - Kindly Bandit": {
     "id": "Gonzalez - Kindly Bandit",
@@ -16648,7 +16648,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Sophia - Nabata Prophet": {
     "id": "Sophia - Nabata Prophet",
@@ -16710,7 +16710,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Sophia - Cobweb Prophet": {
     "id": "Sophia - Cobweb Prophet",
@@ -16759,7 +16759,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Sophia - Prescient Bride": {
     "id": "Sophia - Prescient Bride",
@@ -16794,7 +16794,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Fae - Divine Dragon": {
     "id": "Fae - Divine Dragon",
@@ -16856,7 +16856,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Fae - Holiday Dear": {
     "id": "Fae - Holiday Dear",
@@ -16891,7 +16891,7 @@
     "statMax": 180,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Fae - Childlike Dragon": {
     "id": "Fae - Childlike Dragon",
@@ -16929,7 +16929,7 @@
     "statMax": 190,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Igrene - Nabata Protector": {
     "id": "Igrene - Nabata Protector",
@@ -16963,7 +16963,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Igrene - Ninja of Nabata": {
     "id": "Igrene - Ninja of Nabata",
@@ -16998,7 +16998,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Idunn - Dark Priestess": {
     "id": "Idunn - Dark Priestess",
@@ -17032,7 +17032,7 @@
     "statMax": 180,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Idunn - Dragonkin Duo": {
     "id": "Idunn - Dragonkin Duo",
@@ -17068,7 +17068,7 @@
     "statMax": 185,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Idunn - Divine Demon": {
     "id": "Idunn - Divine Demon",
@@ -17103,7 +17103,7 @@
     "statMax": 195,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Cath - Master Thief": {
     "id": "Cath - Master Thief",
@@ -17165,7 +17165,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Cath - Caper Captain": {
     "id": "Cath - Caper Captain",
@@ -17200,7 +17200,7 @@
     "statMax": 165,
     "book": 6,
     "ver": "6.8",
-    "df": 10
+    "df": 15
   },
   "Elimine - Scouring Saint": {
     "id": "Elimine - Scouring Saint",
@@ -17237,7 +17237,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Mark - Winds of Hope": {
     "id": "Mark - Winds of Hope",
@@ -17273,7 +17273,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Eliwood - Knight of Lycia": {
     "id": "Eliwood - Knight of Lycia",
@@ -17335,7 +17335,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Eliwood - Devoted Love": {
     "id": "Eliwood - Devoted Love",
@@ -17384,7 +17384,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.2",
-    "df": 20
+    "df": 25
   },
   "Eliwood - Blazing Knight": {
     "id": "Eliwood - Blazing Knight",
@@ -17422,7 +17422,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Eliwood - Marquess Pherae": {
     "id": "Eliwood - Marquess Pherae",
@@ -17456,7 +17456,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Eliwood - Pledged Friend": {
     "id": "Eliwood - Pledged Friend",
@@ -17491,7 +17491,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Lyn - Lady of the Plains": {
     "id": "Lyn - Lady of the Plains",
@@ -17525,7 +17525,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Lyn - Bride of the Plains": {
     "id": "Lyn - Bride of the Plains",
@@ -17560,7 +17560,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.3",
-    "df": 25
+    "df": 30
   },
   "Lyn - Brave Lady": {
     "id": "Lyn - Brave Lady",
@@ -17594,7 +17594,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.6",
-    "df": 20
+    "df": 25
   },
   "Lyn - Wind's Embrace": {
     "id": "Lyn - Wind's Embrace",
@@ -17629,7 +17629,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.2",
-    "df": 20
+    "df": 25
   },
   "Lyn - Lady of the Wind": {
     "id": "Lyn - Lady of the Wind",
@@ -17666,7 +17666,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.5",
-    "df": 25
+    "df": 30
   },
   "Lyn - Lady of the Beach": {
     "id": "Lyn - Lady of the Beach",
@@ -17701,7 +17701,7 @@
     "statMax": 155,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Lyn - Ninja-Friend Duo": {
     "id": "Lyn - Ninja-Friend Duo",
@@ -17737,7 +17737,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Lyn - Blazing Whirlwind": {
     "id": "Lyn - Blazing Whirlwind",
@@ -17772,7 +17772,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Hector - General of Ostia": {
     "id": "Hector - General of Ostia",
@@ -17806,7 +17806,7 @@
     "statMax": 170,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Hector - Just Here to Fight": {
     "id": "Hector - Just Here to Fight",
@@ -17841,7 +17841,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.2",
-    "df": 20
+    "df": 25
   },
   "Hector - Marquess of Ostia": {
     "id": "Hector - Marquess of Ostia",
@@ -17878,7 +17878,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.6",
-    "df": 20
+    "df": 25
   },
   "Hector - Brave Warrior": {
     "id": "Hector - Brave Warrior",
@@ -17912,7 +17912,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.8",
-    "df": 20
+    "df": 25
   },
   "Hector - Dressed-Up Duo": {
     "id": "Hector - Dressed-Up Duo",
@@ -17948,7 +17948,7 @@
     "statMax": 180,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Hector - Sworn Friend": {
     "id": "Hector - Sworn Friend",
@@ -17983,7 +17983,7 @@
     "statMax": 200,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Matthew - Faithful Spy": {
     "id": "Matthew - Faithful Spy",
@@ -18045,7 +18045,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Leila - Rose amid Fangs": {
     "id": "Leila - Rose amid Fangs",
@@ -18079,7 +18079,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Leila - Keen Lookout": {
     "id": "Leila - Keen Lookout",
@@ -18114,7 +18114,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.8",
-    "df": 10
+    "df": 15
   },
   "Serra - Outspoken Cleric": {
     "id": "Serra - Outspoken Cleric",
@@ -18176,7 +18176,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Sain - Green Lance": {
     "id": "Sain - Green Lance",
@@ -18210,7 +18210,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Kent - Crimson Shield": {
     "id": "Kent - Crimson Shield",
@@ -18272,7 +18272,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Raven - Peerless Fighter": {
     "id": "Raven - Peerless Fighter",
@@ -18334,7 +18334,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Lucius - The Light": {
     "id": "Lucius - The Light",
@@ -18396,7 +18396,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.1",
-    "df": 25
+    "df": 30
   },
   "Lucius - Calming Light": {
     "id": "Lucius - Calming Light",
@@ -18445,7 +18445,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Rebecca - Wildflower": {
     "id": "Rebecca - Wildflower",
@@ -18507,7 +18507,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.1",
-    "df": 25
+    "df": 30
   },
   "Rebecca - Breezy Scamp": {
     "id": "Rebecca - Breezy Scamp",
@@ -18556,7 +18556,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Pent - Fancy Fiancé": {
     "id": "Pent - Fancy Fiancé",
@@ -18591,7 +18591,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Pent - Mage General": {
     "id": "Pent - Mage General",
@@ -18625,7 +18625,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "Louise - Eternal Devotion": {
     "id": "Louise - Eternal Devotion",
@@ -18674,7 +18674,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Louise - Lady of Violets": {
     "id": "Louise - Lady of Violets",
@@ -18708,7 +18708,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "Erk - Studious Mage": {
     "id": "Erk - Studious Mage",
@@ -18770,7 +18770,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "Priscilla - Delicate Princess": {
     "id": "Priscilla - Delicate Princess",
@@ -18832,7 +18832,7 @@
     "statMax": 145,
     "book": 1,
     "ver": "1.1",
-    "df": 20
+    "df": 25
   },
   "Dorcas - Serene Warrior": {
     "id": "Dorcas - Serene Warrior",
@@ -18866,7 +18866,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.9",
-    "df": 25
+    "df": 30
   },
   "Dorcas - Pumpkin Smasher": {
     "id": "Dorcas - Pumpkin Smasher",
@@ -18915,7 +18915,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.10",
-    "df": 20
+    "df": 25
   },
   "Zephiel - Winter's Crown": {
     "id": "Zephiel - Winter's Crown",
@@ -18950,7 +18950,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Heath - Wandering Knight": {
     "id": "Heath - Wandering Knight",
@@ -19013,7 +19013,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Heath - Wyvern Ninja": {
     "id": "Heath - Wyvern Ninja",
@@ -19062,7 +19062,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Fiora - Defrosted Ilian": {
     "id": "Fiora - Defrosted Ilian",
@@ -19111,7 +19111,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Fiora - Airborne Warrior": {
     "id": "Fiora - Airborne Warrior",
@@ -19145,7 +19145,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Farina - The Great Wing": {
     "id": "Farina - The Great Wing",
@@ -19179,7 +19179,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "Florina - Lovely Flier": {
     "id": "Florina - Lovely Flier",
@@ -19241,7 +19241,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Florina - Azure-Sky Knight": {
     "id": "Florina - Azure-Sky Knight",
@@ -19276,7 +19276,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Canas - Wisdom Seeker": {
     "id": "Canas - Wisdom Seeker",
@@ -19325,7 +19325,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.6",
-    "df": 25
+    "df": 30
   },
   "Karel - Sword Demon": {
     "id": "Karel - Sword Demon",
@@ -19359,7 +19359,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.1",
-    "df": 25
+    "df": 30
   },
   "Karla - Sword Vassal": {
     "id": "Karla - Sword Vassal",
@@ -19393,7 +19393,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.6",
-    "df": 25
+    "df": 30
   },
   "Karla - Sun-Piercing Steel": {
     "id": "Karla - Sun-Piercing Steel",
@@ -19428,7 +19428,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Karla - Spring Reveries": {
     "id": "Karla - Spring Reveries",
@@ -19463,7 +19463,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Guy - Kutolah Blade": {
     "id": "Guy - Kutolah Blade",
@@ -19525,7 +19525,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Rath - Wolf of Sacae": {
     "id": "Rath - Wolf of Sacae",
@@ -19587,7 +19587,7 @@
     "statMax": 160,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Hawkeye - Desert Guardian": {
     "id": "Hawkeye - Desert Guardian",
@@ -19649,7 +19649,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Ninian - Oracle of Destiny": {
     "id": "Ninian - Oracle of Destiny",
@@ -19683,7 +19683,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.1",
-    "df": 25
+    "df": 30
   },
   "Ninian - Bright-Eyed Bride": {
     "id": "Ninian - Bright-Eyed Bride",
@@ -19718,7 +19718,7 @@
     "statMax": 140,
     "book": 2,
     "ver": "2.5",
-    "df": 20
+    "df": 25
   },
   "Ninian - Frozen Heart": {
     "id": "Ninian - Frozen Heart",
@@ -19752,7 +19752,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Ninian - Ice-Dragon Oracle": {
     "id": "Ninian - Ice-Dragon Oracle",
@@ -19790,7 +19790,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Nils - Bright Bard": {
     "id": "Nils - Bright Bard",
@@ -19824,7 +19824,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Nils - Wandering Star": {
     "id": "Nils - Wandering Star",
@@ -19873,7 +19873,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Limstella - Living Construct": {
     "id": "Limstella - Living Construct",
@@ -19936,7 +19936,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Sonia - Inhuman Beauty": {
     "id": "Sonia - Inhuman Beauty",
@@ -19999,7 +19999,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "Lloyd - White Wolf": {
     "id": "Lloyd - White Wolf",
@@ -20062,7 +20062,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.3",
-    "df": 25
+    "df": 30
   },
   "Linus - Mad Dog": {
     "id": "Linus - Mad Dog",
@@ -20125,7 +20125,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.6",
-    "df": 25
+    "df": 30
   },
   "Linus - Savage Dog": {
     "id": "Linus - Savage Dog",
@@ -20188,7 +20188,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Jaffar - Angel of Death": {
     "id": "Jaffar - Angel of Death",
@@ -20222,7 +20222,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.1",
-    "df": 25
+    "df": 30
   },
   "Jaffar - Angel of Night": {
     "id": "Jaffar - Angel of Night",
@@ -20271,7 +20271,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Ursula - Blue Crow": {
     "id": "Ursula - Blue Crow",
@@ -20334,7 +20334,7 @@
     "statMax": 145,
     "book": 1,
     "ver": "1.1",
-    "df": 20
+    "df": 25
   },
   "Ursula - Clear-Blue Crow": {
     "id": "Ursula - Clear-Blue Crow",
@@ -20369,7 +20369,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Ursula - Royal-Blue Crow": {
     "id": "Ursula - Royal-Blue Crow",
@@ -20404,7 +20404,7 @@
     "statMax": 170,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Nino - Pious Mage": {
     "id": "Nino - Pious Mage",
@@ -20466,7 +20466,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Nino - Pale Flower": {
     "id": "Nino - Pale Flower",
@@ -20500,7 +20500,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.6",
-    "df": 20
+    "df": 25
   },
   "Nino - Flower of Frost": {
     "id": "Nino - Flower of Frost",
@@ -20535,7 +20535,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Nino - Spirited Sorcerer": {
     "id": "Nino - Spirited Sorcerer",
@@ -20570,7 +20570,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Legault - The Hurricane": {
     "id": "Legault - The Hurricane",
@@ -20632,7 +20632,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.6",
-    "df": 25
+    "df": 30
   },
   "Bramimond - The Enigma": {
     "id": "Bramimond - The Enigma",
@@ -20669,7 +20669,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Eirika - Restoration Lady": {
     "id": "Eirika - Restoration Lady",
@@ -20731,7 +20731,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Eirika - Anamnesis Lady": {
     "id": "Eirika - Anamnesis Lady",
@@ -20765,7 +20765,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.1",
-    "df": 20
+    "df": 25
   },
   "Eirika - Graceful Resolve": {
     "id": "Eirika - Graceful Resolve",
@@ -20802,7 +20802,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.10",
-    "df": 20
+    "df": 25
   },
   "Eirika - Gentle as Snow": {
     "id": "Eirika - Gentle as Snow",
@@ -20837,7 +20837,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Eirika - Twin Refulgence": {
     "id": "Eirika - Twin Refulgence",
@@ -20873,7 +20873,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "Eirika - Pledged Restorer": {
     "id": "Eirika - Pledged Restorer",
@@ -20907,7 +20907,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.8",
-    "df": 10
+    "df": 15
   },
   "Eirika - Beach Restorer": {
     "id": "Eirika - Beach Restorer",
@@ -20942,7 +20942,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Ephraim - Restoration Lord": {
     "id": "Ephraim - Restoration Lord",
@@ -20976,7 +20976,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Ephraim - Legendary Lord": {
     "id": "Ephraim - Legendary Lord",
@@ -21013,7 +21013,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.2",
-    "df": 20
+    "df": 25
   },
   "Ephraim - Sacred Twin Lord": {
     "id": "Ephraim - Sacred Twin Lord",
@@ -21047,7 +21047,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.8",
-    "df": 20
+    "df": 25
   },
   "Ephraim - Sparkling Gallantly": {
     "id": "Ephraim - Sparkling Gallantly",
@@ -21082,7 +21082,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Ephraim - Dynastic Duo": {
     "id": "Ephraim - Dynastic Duo",
@@ -21118,7 +21118,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Ephraim - Sunshine Valiant": {
     "id": "Ephraim - Sunshine Valiant",
@@ -21153,7 +21153,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Seth - Silver Knight": {
     "id": "Seth - Silver Knight",
@@ -21215,7 +21215,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.6",
-    "df": 20
+    "df": 25
   },
   "Seth - Silver-Sea Knight": {
     "id": "Seth - Silver-Sea Knight",
@@ -21264,7 +21264,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Orson - Passion's Folly": {
     "id": "Orson - Passion's Folly",
@@ -21327,7 +21327,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Colm - Capable Thief": {
     "id": "Colm - Capable Thief",
@@ -21389,7 +21389,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Neimi - Tearful Archer": {
     "id": "Neimi - Tearful Archer",
@@ -21423,7 +21423,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Lute - Prodigy": {
     "id": "Lute - Prodigy",
@@ -21457,7 +21457,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.9",
-    "df": 25
+    "df": 30
   },
   "Lute - Summer Prodigy": {
     "id": "Lute - Summer Prodigy",
@@ -21506,7 +21506,7 @@
     "statMax": 155,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Artur - Silver Saint": {
     "id": "Artur - Silver Saint",
@@ -21541,7 +21541,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Ross - His Father's Son": {
     "id": "Ross - His Father's Son",
@@ -21603,7 +21603,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Innes - Regal Strategician": {
     "id": "Innes - Regal Strategician",
@@ -21637,7 +21637,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.6",
-    "df": 25
+    "df": 30
   },
   "Innes - Flawless Form": {
     "id": "Innes - Flawless Form",
@@ -21672,7 +21672,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.6",
-    "df": 20
+    "df": 25
   },
   "Innes - Frelian Moonlight": {
     "id": "Innes - Frelian Moonlight",
@@ -21721,7 +21721,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "Tana - Winged Princess": {
     "id": "Tana - Winged Princess",
@@ -21755,7 +21755,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.6",
-    "df": 20
+    "df": 25
   },
   "Tana - Noble and Nimble": {
     "id": "Tana - Noble and Nimble",
@@ -21790,7 +21790,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.6",
-    "df": 20
+    "df": 25
   },
   "Tana - Frelian Starlight": {
     "id": "Tana - Frelian Starlight",
@@ -21825,7 +21825,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "Tana - Soothing Warmth": {
     "id": "Tana - Soothing Warmth",
@@ -21860,7 +21860,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Tana - Soaring Princess": {
     "id": "Tana - Soaring Princess",
@@ -21895,7 +21895,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Syrene - Graceful Rider": {
     "id": "Syrene - Graceful Rider",
@@ -21929,7 +21929,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Vanessa - Dutiful Rider": {
     "id": "Vanessa - Dutiful Rider",
@@ -21991,7 +21991,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Gilliam - Wall of Silence": {
     "id": "Gilliam - Wall of Silence",
@@ -22025,7 +22025,7 @@
     "statMax": 195,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Vigarde - Silent Emperor": {
     "id": "Vigarde - Silent Emperor",
@@ -22088,7 +22088,7 @@
     "statMax": 200,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Lyon - Shadow Prince": {
     "id": "Lyon - Shadow Prince",
@@ -22151,7 +22151,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.1",
-    "df": 25
+    "df": 30
   },
   "Lyon - Demon King": {
     "id": "Lyon - Demon King",
@@ -22185,7 +22185,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Lyon - Grado's Gaze": {
     "id": "Lyon - Grado's Gaze",
@@ -22234,7 +22234,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "Lyon - Sunlit Prince": {
     "id": "Lyon - Sunlit Prince",
@@ -22283,7 +22283,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.7",
-    "df": 10
+    "df": 15
   },
   "Duessel - Obsidian": {
     "id": "Duessel - Obsidian",
@@ -22317,7 +22317,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Selena - Sandbar Fluorspar": {
     "id": "Selena - Sandbar Fluorspar",
@@ -22352,7 +22352,7 @@
     "statMax": 150,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Selena - Fluorspar": {
     "id": "Selena - Fluorspar",
@@ -22386,7 +22386,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Riev - Blood Beryl": {
     "id": "Riev - Blood Beryl",
@@ -22449,7 +22449,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Valter - Dark Moonstone": {
     "id": "Valter - Dark Moonstone",
@@ -22512,7 +22512,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.6",
-    "df": 20
+    "df": 25
   },
   "Caellach - Tiger Eye": {
     "id": "Caellach - Tiger Eye",
@@ -22575,7 +22575,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Cormag - Aloof Lanceman": {
     "id": "Cormag - Aloof Lanceman",
@@ -22638,7 +22638,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Knoll - Darkness Watcher": {
     "id": "Knoll - Darkness Watcher",
@@ -22700,7 +22700,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Natasha - Sacred Healer": {
     "id": "Natasha - Sacred Healer",
@@ -22762,7 +22762,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Amelia - Rose of the War": {
     "id": "Amelia - Rose of the War",
@@ -22796,7 +22796,7 @@
     "statMax": 175,
     "book": 1,
     "ver": "1.6",
-    "df": 20
+    "df": 25
   },
   "Joshua - Tempest King": {
     "id": "Joshua - Tempest King",
@@ -22845,7 +22845,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.9",
-    "df": 25
+    "df": 30
   },
   "Joshua - Tropical Gambler": {
     "id": "Joshua - Tropical Gambler",
@@ -22880,7 +22880,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Joshua - Resolute Tempest": {
     "id": "Joshua - Resolute Tempest",
@@ -22915,7 +22915,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Gerik - Desert Tiger": {
     "id": "Gerik - Desert Tiger",
@@ -22949,7 +22949,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Marisa - Crimson Flash": {
     "id": "Marisa - Crimson Flash",
@@ -22998,7 +22998,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.1",
-    "df": 25
+    "df": 30
   },
   "Marisa - Crimson Rabbit": {
     "id": "Marisa - Crimson Rabbit",
@@ -23033,7 +23033,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Tethys - Beloved Dancer": {
     "id": "Tethys - Beloved Dancer",
@@ -23095,7 +23095,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Ewan - Eager Student": {
     "id": "Ewan - Eager Student",
@@ -23129,7 +23129,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "L'Arachel - Princess of Light": {
     "id": "L'Arachel - Princess of Light",
@@ -23191,7 +23191,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.1",
-    "df": 20
+    "df": 25
   },
   "L'Arachel - Harvest Princess": {
     "id": "L'Arachel - Harvest Princess",
@@ -23226,7 +23226,7 @@
     "statMax": 155,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "L'Arachel - Seeker of Justice": {
     "id": "L'Arachel - Seeker of Justice",
@@ -23261,7 +23261,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.4",
-    "df": 15
+    "df": 20
   },
   "L'Arachel - Summer Princess": {
     "id": "L'Arachel - Summer Princess",
@@ -23310,7 +23310,7 @@
     "statMax": 175,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Dozla - Harvest Attendant": {
     "id": "Dozla - Harvest Attendant",
@@ -23345,7 +23345,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Rennac - Rich 'Merchant'": {
     "id": "Rennac - Rich 'Merchant'",
@@ -23379,7 +23379,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Myrrh - Great Dragon": {
     "id": "Myrrh - Great Dragon",
@@ -23413,7 +23413,7 @@
     "statMax": 170,
     "book": 2,
     "ver": "2.1",
-    "df": 20
+    "df": 25
   },
   "Myrrh - Spooky Monster": {
     "id": "Myrrh - Spooky Monster",
@@ -23448,7 +23448,7 @@
     "statMax": 180,
     "book": 2,
     "ver": "2.10",
-    "df": 20
+    "df": 25
   },
   "Myrrh - Spring Harmony": {
     "id": "Myrrh - Spring Harmony",
@@ -23483,7 +23483,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Myrrh - Guardian Dragon": {
     "id": "Myrrh - Guardian Dragon",
@@ -23521,7 +23521,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Saleh - Vernal Sage": {
     "id": "Saleh - Vernal Sage",
@@ -23570,7 +23570,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Fomortiis - Demon King": {
     "id": "Fomortiis - Demon King",
@@ -23607,7 +23607,7 @@
     "statMax": 195,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Ike - Young Mercenary": {
     "id": "Ike - Young Mercenary",
@@ -23641,7 +23641,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.2",
-    "df": 25
+    "df": 30
   },
   "Ike - Brave Mercenary": {
     "id": "Ike - Brave Mercenary",
@@ -23675,7 +23675,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.6",
-    "df": 25
+    "df": 30
   },
   "Ike - Stalwart Heart": {
     "id": "Ike - Stalwart Heart",
@@ -23710,7 +23710,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Ike - Close-Knit Siblings": {
     "id": "Ike - Close-Knit Siblings",
@@ -23746,7 +23746,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Titania - Mighty Mercenary": {
     "id": "Titania - Mighty Mercenary",
@@ -23808,7 +23808,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.2",
-    "df": 20
+    "df": 25
   },
   "Titania - Warm Knight": {
     "id": "Titania - Warm Knight",
@@ -23857,7 +23857,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Soren - Shrewd Strategist": {
     "id": "Soren - Shrewd Strategist",
@@ -23919,7 +23919,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.2",
-    "df": 25
+    "df": 30
   },
   "Soren - Addled Strategist": {
     "id": "Soren - Addled Strategist",
@@ -23954,7 +23954,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Soren - Hushed Voice": {
     "id": "Soren - Hushed Voice",
@@ -23989,7 +23989,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Soren - Wind of Tradition": {
     "id": "Soren - Wind of Tradition",
@@ -24038,7 +24038,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Soren - Radiant Confidant": {
     "id": "Soren - Radiant Confidant",
@@ -24106,7 +24106,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.2",
-    "df": 25
+    "df": 30
   },
   "Mist - Purest Spirit": {
     "id": "Mist - Purest Spirit",
@@ -24141,7 +24141,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Greil - Heroic Exemplar": {
     "id": "Greil - Heroic Exemplar",
@@ -24176,7 +24176,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Oscar - Agile Horseman": {
     "id": "Oscar - Agile Horseman",
@@ -24238,7 +24238,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.7",
-    "df": 20
+    "df": 25
   },
   "Boyd - Future Great": {
     "id": "Boyd - Future Great",
@@ -24287,7 +24287,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Rolf - Tricky Archer": {
     "id": "Rolf - Tricky Archer",
@@ -24336,7 +24336,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Shinon - Scathing Archer": {
     "id": "Shinon - Scathing Archer",
@@ -24370,7 +24370,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Shinon - Sharptongue Ninja": {
     "id": "Shinon - Sharptongue Ninja",
@@ -24405,7 +24405,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Gatrie - Armored Amour": {
     "id": "Gatrie - Armored Amour",
@@ -24439,7 +24439,7 @@
     "statMax": 185,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Mia - Lady of Blades": {
     "id": "Mia - Lady of Blades",
@@ -24473,7 +24473,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.9",
-    "df": 25
+    "df": 30
   },
   "Mia - Budding Blade": {
     "id": "Mia - Budding Blade",
@@ -24508,7 +24508,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Elincia - Lost Princess": {
     "id": "Elincia - Lost Princess",
@@ -24542,7 +24542,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.7",
-    "df": 20
+    "df": 25
   },
   "Nephenee - Fierce Halberdier": {
     "id": "Nephenee - Fierce Halberdier",
@@ -24576,7 +24576,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.7",
-    "df": 25
+    "df": 30
   },
   "Nephenee - Sincere Dancer": {
     "id": "Nephenee - Sincere Dancer",
@@ -24611,7 +24611,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.9",
-    "df": 20
+    "df": 25
   },
   "Bertram - Dread Cavalier": {
     "id": "Bertram - Dread Cavalier",
@@ -24674,7 +24674,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Zihark - Ninja Blademaster": {
     "id": "Zihark - Ninja Blademaster",
@@ -24723,7 +24723,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Sanaki - Apostle in White": {
     "id": "Sanaki - Apostle in White",
@@ -24758,7 +24758,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.5",
-    "df": 20
+    "df": 25
   },
   "Sigrun - Steadfast Bride": {
     "id": "Sigrun - Steadfast Bride",
@@ -24793,7 +24793,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Sigrun - Loyal Protector": {
     "id": "Sigrun - Loyal Protector",
@@ -24842,7 +24842,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Tanith - Forthright Heart": {
     "id": "Tanith - Forthright Heart",
@@ -24877,7 +24877,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Tanith - Bright Blade": {
     "id": "Tanith - Bright Blade",
@@ -24939,7 +24939,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Marcia - Petulant Knight": {
     "id": "Marcia - Petulant Knight",
@@ -25001,7 +25001,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Sephiran - Hoary Sovereign": {
     "id": "Sephiran - Hoary Sovereign",
@@ -25036,7 +25036,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Astrid - Resolute Damsel": {
     "id": "Astrid - Resolute Damsel",
@@ -25070,7 +25070,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Jill - Fiery Dracoknight": {
     "id": "Jill - Fiery Dracoknight",
@@ -25104,7 +25104,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Volke - Man of Mysteries": {
     "id": "Volke - Man of Mysteries",
@@ -25138,7 +25138,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Ashnard - Mad King": {
     "id": "Ashnard - Mad King",
@@ -25201,7 +25201,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Black Knight - Sinister General": {
     "id": "Black Knight - Sinister General",
@@ -25250,7 +25250,7 @@
     "statMax": 170,
     "book": 1,
     "ver": "1.7",
-    "df": 20
+    "df": 25
   },
   "Black Knight - The Night's Blade": {
     "id": "Black Knight - The Night's Blade",
@@ -25285,7 +25285,7 @@
     "statMax": 200,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Petrine - Icy Flame-Lancer": {
     "id": "Petrine - Icy Flame-Lancer",
@@ -25348,7 +25348,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Ilyana - Treat Harvester": {
     "id": "Ilyana - Treat Harvester",
@@ -25383,7 +25383,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.10",
-    "df": 20
+    "df": 25
   },
   "Ilyana - Hungering Mage": {
     "id": "Ilyana - Hungering Mage",
@@ -25445,7 +25445,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.9",
-    "df": 15
+    "df": 20
   },
   "Ilyana - Awakened Appetite": {
     "id": "Ilyana - Awakened Appetite",
@@ -25494,7 +25494,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.4",
-    "df": 10
+    "df": 15
   },
   "Micaiah - Priestess of Dawn": {
     "id": "Micaiah - Priestess of Dawn",
@@ -25528,7 +25528,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.1",
-    "df": 25
+    "df": 30
   },
   "Micaiah - Summer's Dawn": {
     "id": "Micaiah - Summer's Dawn",
@@ -25563,7 +25563,7 @@
     "statMax": 140,
     "book": 2,
     "ver": "2.8",
-    "df": 25
+    "df": 30
   },
   "Micaiah - Queen of Dawn": {
     "id": "Micaiah - Queen of Dawn",
@@ -25597,7 +25597,7 @@
     "statMax": 155,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Micaiah - Dawn Wind's Duo": {
     "id": "Micaiah - Dawn Wind's Duo",
@@ -25633,7 +25633,7 @@
     "statMax": 155,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Micaiah - Radiant Queen": {
     "id": "Micaiah - Radiant Queen",
@@ -25671,7 +25671,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.8",
-    "df": 10
+    "df": 15
   },
   "Micaiah - Wavecrest Maiden": {
     "id": "Micaiah - Wavecrest Maiden",
@@ -25706,7 +25706,7 @@
     "statMax": 165,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Sothe - Zephyr": {
     "id": "Sothe - Zephyr",
@@ -25768,7 +25768,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.1",
-    "df": 25
+    "df": 30
   },
   "Sothe - Rushing Dawn": {
     "id": "Sothe - Rushing Dawn",
@@ -25817,7 +25817,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.8",
-    "df": 10
+    "df": 15
   },
   "Rhys - Gentle Basker": {
     "id": "Rhys - Gentle Basker",
@@ -25866,7 +25866,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Mia - Moonlit Witch": {
     "id": "Mia - Moonlit Witch",
@@ -25901,7 +25901,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.10",
-    "df": 20
+    "df": 25
   },
   "Mia - Harmonic Blades": {
     "id": "Mia - Harmonic Blades",
@@ -25936,7 +25936,7 @@
     "statMax": 160,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Jorge - Traveling Peddler": {
     "id": "Jorge - Traveling Peddler",
@@ -25999,7 +25999,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.8",
-    "df": 15
+    "df": 20
   },
   "Pelleas - Ashnard's Orphan": {
     "id": "Pelleas - Ashnard's Orphan",
@@ -26062,7 +26062,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.8",
-    "df": 10
+    "df": 15
   },
   "Ike - Vanguard Legend": {
     "id": "Ike - Vanguard Legend",
@@ -26099,7 +26099,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.1",
-    "df": 25
+    "df": 30
   },
   "Ike - Zeal Unleashed": {
     "id": "Ike - Zeal Unleashed",
@@ -26133,7 +26133,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Elincia - Estival Princess": {
     "id": "Elincia - Estival Princess",
@@ -26168,7 +26168,7 @@
     "statMax": 140,
     "book": 2,
     "ver": "2.8",
-    "df": 25
+    "df": 30
   },
   "Elincia - Seaside Queen": {
     "id": "Elincia - Seaside Queen",
@@ -26217,7 +26217,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Elincia - Devoted Queen": {
     "id": "Elincia - Devoted Queen",
@@ -26252,7 +26252,7 @@
     "statMax": 175,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Lucia - Tireless Advisor": {
     "id": "Lucia - Tireless Advisor",
@@ -26286,7 +26286,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Geoffrey - Realm's Protector": {
     "id": "Geoffrey - Realm's Protector",
@@ -26320,7 +26320,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Bastian - Crimea's Keystone": {
     "id": "Bastian - Crimea's Keystone",
@@ -26382,7 +26382,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Ludveck - Rebellious Duke": {
     "id": "Ludveck - Rebellious Duke",
@@ -26445,7 +26445,7 @@
     "statMax": 195,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Caineghis - Gallia's Lion King": {
     "id": "Caineghis - Gallia's Lion King",
@@ -26479,7 +26479,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Ranulf - Friend of Nations": {
     "id": "Ranulf - Friend of Nations",
@@ -26513,7 +26513,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Mordecai - Kindhearted Tiger": {
     "id": "Mordecai - Kindhearted Tiger",
@@ -26575,7 +26575,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Mordecai - Gentle Firetender": {
     "id": "Mordecai - Gentle Firetender",
@@ -26624,7 +26624,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Lethe - Gallia's Valkyrie": {
     "id": "Lethe - Gallia's Valkyrie",
@@ -26658,7 +26658,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Lethe - New Year's Claw": {
     "id": "Lethe - New Year's Claw",
@@ -26693,7 +26693,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Kyza - Tiger of Fortune": {
     "id": "Kyza - Tiger of Fortune",
@@ -26742,7 +26742,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Lyre - Lap Cat of Luxury": {
     "id": "Lyre - Lap Cat of Luxury",
@@ -26791,7 +26791,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Dheginsea - Harvest Goldoan": {
     "id": "Dheginsea - Harvest Goldoan",
@@ -26826,7 +26826,7 @@
     "statMax": 185,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Kurthnaga - Autumn Goldoan": {
     "id": "Kurthnaga - Autumn Goldoan",
@@ -26875,7 +26875,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Ena - Autumn Tactician": {
     "id": "Ena - Autumn Tactician",
@@ -26924,7 +26924,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Tibarn - Lord of the Air": {
     "id": "Tibarn - Lord of the Air",
@@ -26958,7 +26958,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.1",
-    "df": 20
+    "df": 25
   },
   "Tibarn - Shipless Pirate": {
     "id": "Tibarn - Shipless Pirate",
@@ -26993,7 +26993,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.8",
-    "df": 20
+    "df": 25
   },
   "Rafiel - Blessed Wings": {
     "id": "Rafiel - Blessed Wings",
@@ -27042,7 +27042,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Reyson - White Prince": {
     "id": "Reyson - White Prince",
@@ -27104,7 +27104,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.1",
-    "df": 20
+    "df": 25
   },
   "Leanne - Forest's Song": {
     "id": "Leanne - Forest's Song",
@@ -27138,7 +27138,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.1",
-    "df": 20
+    "df": 25
   },
   "Naesala - Sky's Shadow": {
     "id": "Naesala - Sky's Shadow",
@@ -27201,7 +27201,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.1",
-    "df": 20
+    "df": 25
   },
   "Naesala - Sea's Shadow": {
     "id": "Naesala - Sea's Shadow",
@@ -27236,7 +27236,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.8",
-    "df": 15
+    "df": 20
   },
   "Muarim - Raw Instinct": {
     "id": "Muarim - Raw Instinct",
@@ -27299,7 +27299,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Vika - Sea-Dark Wing": {
     "id": "Vika - Sea-Dark Wing",
@@ -27348,7 +27348,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.8",
-    "df": 15
+    "df": 20
   },
   "Nailah - Unflinching Eye": {
     "id": "Nailah - Unflinching Eye",
@@ -27382,7 +27382,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.1",
-    "df": 25
+    "df": 30
   },
   "Nailah - Blessed Queen": {
     "id": "Nailah - Blessed Queen",
@@ -27417,7 +27417,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Nailah - Hatari Scorcher": {
     "id": "Nailah - Hatari Scorcher",
@@ -27452,7 +27452,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Altina - Dawn's Trueblade": {
     "id": "Altina - Dawn's Trueblade",
@@ -27489,7 +27489,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.11",
-    "df": 20
+    "df": 25
   },
   "Altina - Cross-Time Duo": {
     "id": "Altina - Cross-Time Duo",
@@ -27524,7 +27524,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Sanaki - Begnion's Apostle": {
     "id": "Sanaki - Begnion's Apostle",
@@ -27558,7 +27558,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Zelgius - Jet-Black General": {
     "id": "Zelgius - Jet-Black General",
@@ -27592,7 +27592,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.1",
-    "df": 20
+    "df": 25
   },
   "Oliver - Admirer of Beauty": {
     "id": "Oliver - Admirer of Beauty",
@@ -27655,7 +27655,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.1",
-    "df": 25
+    "df": 30
   },
   "Haar - Black Tempest": {
     "id": "Haar - Black Tempest",
@@ -27718,7 +27718,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Haar - Tempest Runner": {
     "id": "Haar - Tempest Runner",
@@ -27767,7 +27767,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Yune - Chaos Goddess": {
     "id": "Yune - Chaos Goddess",
@@ -27804,7 +27804,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.3",
-    "df": 20
+    "df": 25
   },
   "Ashera - Order Goddess": {
     "id": "Ashera - Order Goddess",
@@ -27841,7 +27841,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Chrom - Exalted Prince": {
     "id": "Chrom - Exalted Prince",
@@ -27903,7 +27903,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Chrom - Spring Exalt": {
     "id": "Chrom - Spring Exalt",
@@ -27938,7 +27938,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.1",
-    "df": 25
+    "df": 30
   },
   "Chrom - Gifted Leader": {
     "id": "Chrom - Gifted Leader",
@@ -27973,7 +27973,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.0",
-    "df": 20
+    "df": 25
   },
   "Chrom - Knight Exalt": {
     "id": "Chrom - Knight Exalt",
@@ -28007,7 +28007,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.3",
-    "df": 20
+    "df": 25
   },
   "Chrom - Crowned Exalt": {
     "id": "Chrom - Crowned Exalt",
@@ -28045,7 +28045,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.2",
-    "df": 20
+    "df": 25
   },
   "Chrom - Fate-Defying Duo": {
     "id": "Chrom - Fate-Defying Duo",
@@ -28081,7 +28081,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Chrom - Fated Honor": {
     "id": "Chrom - Fated Honor",
@@ -28115,7 +28115,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.8",
-    "df": 5
+    "df": 10
   },
   "Chrom - Fell Exalt": {
     "id": "Chrom - Fell Exalt",
@@ -28150,7 +28150,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Robin - High Deliverer": {
     "id": "Robin - High Deliverer",
@@ -28212,7 +28212,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Robin - Festive Tactician": {
     "id": "Robin - Festive Tactician",
@@ -28247,7 +28247,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.0",
-    "df": 20
+    "df": 25
   },
   "Robin - Fell Reincarnation": {
     "id": "Robin - Fell Reincarnation",
@@ -28281,7 +28281,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.2",
-    "df": 20
+    "df": 25
   },
   "Robin - Fall Reincarnation": {
     "id": "Robin - Fall Reincarnation",
@@ -28316,7 +28316,7 @@
     "statMax": 190,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Robin - Exalt's Other Half": {
     "id": "Robin - Exalt's Other Half",
@@ -28354,7 +28354,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Robin - Keen Groom": {
     "id": "Robin - Keen Groom",
@@ -28403,7 +28403,7 @@
     "statMax": 170,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Robin - Exalt's Deliverer": {
     "id": "Robin - Exalt's Deliverer",
@@ -28500,7 +28500,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Robin - Seaside Tactician": {
     "id": "Robin - Seaside Tactician",
@@ -28535,7 +28535,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.4",
-    "df": 25
+    "df": 30
   },
   "Robin - Fell Vessel": {
     "id": "Robin - Fell Vessel",
@@ -28572,7 +28572,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.3",
-    "df": 20
+    "df": 25
   },
   "Robin - Fall Vessel": {
     "id": "Robin - Fall Vessel",
@@ -28607,7 +28607,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Robin - Tactful Deliverer": {
     "id": "Robin - Tactful Deliverer",
@@ -28642,7 +28642,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Robin - Fell Tactician": {
     "id": "Robin - Fell Tactician",
@@ -28677,7 +28677,7 @@
     "statMax": 200,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Lissa - Sprightly Cleric": {
     "id": "Lissa - Sprightly Cleric",
@@ -28739,7 +28739,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Lissa - Pure Joy": {
     "id": "Lissa - Pure Joy",
@@ -28774,7 +28774,7 @@
     "statMax": 175,
     "book": 2,
     "ver": "2.0",
-    "df": 20
+    "df": 25
   },
   "Lissa - Sweet Celebrant": {
     "id": "Lissa - Sweet Celebrant",
@@ -28823,7 +28823,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Emmeryn - Gentle Exalt": {
     "id": "Emmeryn - Gentle Exalt",
@@ -28885,7 +28885,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Frederick - Polite Knight": {
     "id": "Frederick - Polite Knight",
@@ -28947,7 +28947,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Frederick - Horizon Watcher": {
     "id": "Frederick - Horizon Watcher",
@@ -28982,7 +28982,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.4",
-    "df": 25
+    "df": 30
   },
   "Sully - Crimson Knight": {
     "id": "Sully - Crimson Knight",
@@ -29044,7 +29044,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Stahl - Viridian Knight": {
     "id": "Stahl - Viridian Knight",
@@ -29106,7 +29106,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Sumia - Maid of Flowers": {
     "id": "Sumia - Maid of Flowers",
@@ -29140,7 +29140,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.7",
-    "df": 20
+    "df": 25
   },
   "Maribelle - Dire Damsel": {
     "id": "Maribelle - Dire Damsel",
@@ -29174,7 +29174,7 @@
     "statMax": 145,
     "book": 2,
     "ver": "2.7",
-    "df": 20
+    "df": 25
   },
   "Miriel - Rapier Intellect": {
     "id": "Miriel - Rapier Intellect",
@@ -29236,7 +29236,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Ricken - Shepherd Novice": {
     "id": "Ricken - Shepherd Novice",
@@ -29298,7 +29298,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Cordelia - Knight Paragon": {
     "id": "Cordelia - Knight Paragon",
@@ -29360,7 +29360,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Cordelia - Perfect Bride": {
     "id": "Cordelia - Perfect Bride",
@@ -29395,7 +29395,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.3",
-    "df": 25
+    "df": 30
   },
   "Cordelia - Knight Paradise": {
     "id": "Cordelia - Knight Paradise",
@@ -29430,7 +29430,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.6",
-    "df": 20
+    "df": 25
   },
   "Cordelia - Unyielding Snow": {
     "id": "Cordelia - Unyielding Snow",
@@ -29465,7 +29465,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Phila - Pegasus Master": {
     "id": "Phila - Pegasus Master",
@@ -29527,7 +29527,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Libra - Fetching Friar": {
     "id": "Libra - Fetching Friar",
@@ -29589,7 +29589,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.7",
-    "df": 25
+    "df": 30
   },
   "Gaius - Candy Stealer": {
     "id": "Gaius - Candy Stealer",
@@ -29651,7 +29651,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Gaius - Thief Exposed": {
     "id": "Gaius - Thief Exposed",
@@ -29686,7 +29686,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.4",
-    "df": 25
+    "df": 30
   },
   "Donnel - Village Hero": {
     "id": "Donnel - Village Hero",
@@ -29748,7 +29748,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Donnel - Sunny Villager": {
     "id": "Donnel - Sunny Villager",
@@ -29797,7 +29797,7 @@
     "statMax": 195,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Basilio - Feroxi West-Khan": {
     "id": "Basilio - Feroxi West-Khan",
@@ -29859,7 +29859,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Flavia - Feroxi East-Khan": {
     "id": "Flavia - Feroxi East-Khan",
@@ -29893,7 +29893,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Flavia - Bold Bride": {
     "id": "Flavia - Bold Bride",
@@ -29942,7 +29942,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Lon'qu - Solitary Blade": {
     "id": "Lon'qu - Solitary Blade",
@@ -30004,7 +30004,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Olivia - Blushing Beauty": {
     "id": "Olivia - Blushing Beauty",
@@ -30066,7 +30066,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Olivia - Festival Dancer": {
     "id": "Olivia - Festival Dancer",
@@ -30101,7 +30101,7 @@
     "statMax": 140,
     "book": 1,
     "ver": "1.7",
-    "df": 25
+    "df": 30
   },
   "Olivia - Sky-High Dancer": {
     "id": "Olivia - Sky-High Dancer",
@@ -30135,7 +30135,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.7",
-    "df": 20
+    "df": 25
   },
   "Gangrel - Plegia's Mad King": {
     "id": "Gangrel - Plegia's Mad King",
@@ -30198,7 +30198,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Henry - Twisted Mind": {
     "id": "Henry - Twisted Mind",
@@ -30260,7 +30260,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Henry - Happy Vampire": {
     "id": "Henry - Happy Vampire",
@@ -30295,7 +30295,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.8",
-    "df": 20
+    "df": 25
   },
   "Henry - Peculiar Egg": {
     "id": "Henry - Peculiar Egg",
@@ -30344,7 +30344,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.3",
-    "df": 10
+    "df": 15
   },
   "Tharja - Dark Shadow": {
     "id": "Tharja - Dark Shadow",
@@ -30406,7 +30406,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Tharja - 'Normal Girl'": {
     "id": "Tharja - 'Normal Girl'",
@@ -30441,7 +30441,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.0",
-    "df": 20
+    "df": 25
   },
   "Tharja - Obsessive Bride": {
     "id": "Tharja - Obsessive Bride",
@@ -30476,7 +30476,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.5",
-    "df": 25
+    "df": 30
   },
   "Tharja - Florid Charmer": {
     "id": "Tharja - Florid Charmer",
@@ -30511,7 +30511,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Tharja - Beach Dark Mage": {
     "id": "Tharja - Beach Dark Mage",
@@ -30560,7 +30560,7 @@
     "statMax": 170,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Mustafa - Plegian Champion": {
     "id": "Mustafa - Plegian Champion",
@@ -30622,7 +30622,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Aversa - Dark One": {
     "id": "Aversa - Dark One",
@@ -30685,7 +30685,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.10",
-    "df": 20
+    "df": 25
   },
   "Walhart - The Conqueror": {
     "id": "Walhart - The Conqueror",
@@ -30748,7 +30748,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.7",
-    "df": 20
+    "df": 25
   },
   "Cervantes - Invincible General": {
     "id": "Cervantes - Invincible General",
@@ -30811,7 +30811,7 @@
     "statMax": 195,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Yen'fay - Blade Legend": {
     "id": "Yen'fay - Blade Legend",
@@ -30874,7 +30874,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Say'ri - Chon'sin's Blade": {
     "id": "Say'ri - Chon'sin's Blade",
@@ -30908,7 +30908,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Say'ri - Righteous Bride": {
     "id": "Say'ri - Righteous Bride",
@@ -30943,7 +30943,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Virion - Elite Archer": {
     "id": "Virion - Elite Archer",
@@ -31005,7 +31005,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Cherche - Wyvern Friend": {
     "id": "Cherche - Wyvern Friend",
@@ -31067,7 +31067,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Cherche - Shaded by Wings": {
     "id": "Cherche - Shaded by Wings",
@@ -31102,7 +31102,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Tiki - Naga's Voice": {
     "id": "Tiki - Naga's Voice",
@@ -31164,7 +31164,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Tiki - Summering Scion": {
     "id": "Tiki - Summering Scion",
@@ -31199,7 +31199,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.4",
-    "df": 25
+    "df": 30
   },
   "Tiki - Fated Divinity": {
     "id": "Tiki - Fated Divinity",
@@ -31233,7 +31233,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.8",
-    "df": 5
+    "df": 10
   },
   "Tiki - Bridal Reflections": {
     "id": "Tiki - Bridal Reflections",
@@ -31268,7 +31268,7 @@
     "statMax": 195,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Gregor - Swell Sword": {
     "id": "Gregor - Swell Sword",
@@ -31302,7 +31302,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Nowi - Eternal Youth": {
     "id": "Nowi - Eternal Youth",
@@ -31364,7 +31364,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Nowi - Eternal Witch": {
     "id": "Nowi - Eternal Witch",
@@ -31399,7 +31399,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.8",
-    "df": 20
+    "df": 25
   },
   "Panne - Proud Taguel": {
     "id": "Panne - Proud Taguel",
@@ -31462,7 +31462,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Panne - Welcoming Dawn": {
     "id": "Panne - Welcoming Dawn",
@@ -31511,7 +31511,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Priam - Radiant Hero": {
     "id": "Priam - Radiant Hero",
@@ -31545,7 +31545,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Anna - Secret Seller": {
     "id": "Anna - Secret Seller",
@@ -31579,7 +31579,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.6",
-    "df": 20
+    "df": 25
   },
   "Anna - Secret Charmer": {
     "id": "Anna - Secret Charmer",
@@ -31614,7 +31614,7 @@
     "statMax": 175,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Lucina - Future Witness": {
     "id": "Lucina - Future Witness",
@@ -31648,7 +31648,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Lucina - Spring Exalt": {
     "id": "Lucina - Spring Exalt",
@@ -31683,7 +31683,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.1",
-    "df": 25
+    "df": 30
   },
   "Marth - Enigmatic Blade": {
     "id": "Marth - Enigmatic Blade",
@@ -31732,7 +31732,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.4",
-    "df": 25
+    "df": 30
   },
   "Lucina - Brave Princess": {
     "id": "Lucina - Brave Princess",
@@ -31766,7 +31766,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.6",
-    "df": 25
+    "df": 30
   },
   "Lucina - Glorious Archer": {
     "id": "Lucina - Glorious Archer",
@@ -31803,7 +31803,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.7",
-    "df": 25
+    "df": 30
   },
   "Lucina - Future Fondness": {
     "id": "Lucina - Future Fondness",
@@ -31838,7 +31838,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Owain - Chosen One": {
     "id": "Owain - Chosen One",
@@ -31872,7 +31872,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.10",
-    "df": 25
+    "df": 30
   },
   "Owain - Devoted Defender": {
     "id": "Owain - Devoted Defender",
@@ -31921,7 +31921,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.2",
-    "df": 10
+    "df": 15
   },
   "Inigo - Indigo Dancer": {
     "id": "Inigo - Indigo Dancer",
@@ -31956,7 +31956,7 @@
     "statMax": 140,
     "book": 1,
     "ver": "1.7",
-    "df": 25
+    "df": 30
   },
   "Inigo - Festival Flower": {
     "id": "Inigo - Festival Flower",
@@ -31991,7 +31991,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Brady - Daunting Priest": {
     "id": "Brady - Daunting Priest",
@@ -32053,7 +32053,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Gerome - Masked Rider": {
     "id": "Gerome - Masked Rider",
@@ -32102,7 +32102,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.3",
-    "df": 20
+    "df": 25
   },
   "Yarne - Timid Taguel": {
     "id": "Yarne - Timid Taguel",
@@ -32136,7 +32136,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Yarne - Hoppy New Year": {
     "id": "Yarne - Hoppy New Year",
@@ -32185,7 +32185,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Morgan - Lad from Afar": {
     "id": "Morgan - Lad from Afar",
@@ -32247,7 +32247,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.3",
-    "df": 25
+    "df": 30
   },
   "Morgan - Fated Darkness": {
     "id": "Morgan - Fated Darkness",
@@ -32281,7 +32281,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Morgan - Lass from Afar": {
     "id": "Morgan - Lass from Afar",
@@ -32315,7 +32315,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.3",
-    "df": 20
+    "df": 25
   },
   "Morgan - Devoted Darkness": {
     "id": "Morgan - Devoted Darkness",
@@ -32349,7 +32349,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Severa - Bitter Blossom": {
     "id": "Severa - Bitter Blossom",
@@ -32384,7 +32384,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Noire - Shade Seeker": {
     "id": "Noire - Shade Seeker",
@@ -32419,7 +32419,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.6",
-    "df": 25
+    "df": 30
   },
   "Nah - Little Miss": {
     "id": "Nah - Little Miss",
@@ -32453,7 +32453,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Kjelle - Fair Fighter": {
     "id": "Kjelle - Fair Fighter",
@@ -32487,7 +32487,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Cynthia - Hero Chaser": {
     "id": "Cynthia - Hero Chaser",
@@ -32550,7 +32550,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.6",
-    "df": 20
+    "df": 25
   },
   "Naga - Dragon Divinity": {
     "id": "Naga - Dragon Divinity",
@@ -32587,7 +32587,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Naga - Harvest Divinity": {
     "id": "Naga - Harvest Divinity",
@@ -32636,7 +32636,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Corrin - Fateful Prince": {
     "id": "Corrin - Fateful Prince",
@@ -32698,7 +32698,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Corrin - Enjoying Tradition": {
     "id": "Corrin - Enjoying Tradition",
@@ -32747,7 +32747,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.1",
-    "df": 25
+    "df": 30
   },
   "Corrin - Dream Prince": {
     "id": "Corrin - Dream Prince",
@@ -32781,7 +32781,7 @@
     "statMax": 170,
     "book": 2,
     "ver": "2.11",
-    "df": 25
+    "df": 30
   },
   "Corrin - Bloodbound Beast": {
     "id": "Corrin - Bloodbound Beast",
@@ -32815,7 +32815,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Corrin - Daylight Ninja Act": {
     "id": "Corrin - Daylight Ninja Act",
@@ -32864,7 +32864,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Corrin - Celestial Sorcerer": {
     "id": "Corrin - Celestial Sorcerer",
@@ -32899,7 +32899,7 @@
     "statMax": 195,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Corrin - Fateful Princess": {
     "id": "Corrin - Fateful Princess",
@@ -32961,7 +32961,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Corrin - Novice Vacationer": {
     "id": "Corrin - Novice Vacationer",
@@ -32996,7 +32996,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.5",
-    "df": 20
+    "df": 25
   },
   "Corrin - Dream Princess": {
     "id": "Corrin - Dream Princess",
@@ -33030,7 +33030,7 @@
     "statMax": 170,
     "book": 2,
     "ver": "2.11",
-    "df": 25
+    "df": 30
   },
   "Corrin - Wailing Soul": {
     "id": "Corrin - Wailing Soul",
@@ -33064,7 +33064,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.5",
-    "df": 20
+    "df": 25
   },
   "Corrin - Child of Dusk": {
     "id": "Corrin - Child of Dusk",
@@ -33102,7 +33102,7 @@
     "statMax": 185,
     "book": 4,
     "ver": "4.8",
-    "df": 15
+    "df": 20
   },
   "Corrin - Nightfall Ninja Act": {
     "id": "Corrin - Nightfall Ninja Act",
@@ -33138,7 +33138,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Corrin - Starry Seer": {
     "id": "Corrin - Starry Seer",
@@ -33173,7 +33173,7 @@
     "statMax": 195,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Corrin - Silent Bloodline": {
     "id": "Corrin - Silent Bloodline",
@@ -33241,7 +33241,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Azura - Lady of Ballads": {
     "id": "Azura - Lady of Ballads",
@@ -33276,7 +33276,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.7",
-    "df": 25
+    "df": 30
   },
   "Azura - Celebratory Spirit": {
     "id": "Azura - Celebratory Spirit",
@@ -33311,7 +33311,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.0",
-    "df": 20
+    "df": 25
   },
   "Azura - Young Songstress": {
     "id": "Azura - Young Songstress",
@@ -33360,7 +33360,7 @@
     "statMax": 140,
     "book": 2,
     "ver": "2.11",
-    "df": 25
+    "df": 30
   },
   "Azura - Vallite Songstress": {
     "id": "Azura - Vallite Songstress",
@@ -33397,7 +33397,7 @@
     "statMax": 140,
     "book": 3,
     "ver": "3.0",
-    "df": 20
+    "df": 25
   },
   "Azura - Hatari Duet": {
     "id": "Azura - Hatari Duet",
@@ -33432,7 +33432,7 @@
     "statMax": 155,
     "book": 6,
     "ver": "6.1",
-    "df": 10
+    "df": 15
   },
   "Gunter - Inveterate Soldier": {
     "id": "Gunter - Inveterate Soldier",
@@ -33494,7 +33494,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Felicia - Maid Mayhem": {
     "id": "Felicia - Maid Mayhem",
@@ -33556,7 +33556,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Felicia - Off the Menu": {
     "id": "Felicia - Off the Menu",
@@ -33591,7 +33591,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Jakob - Devoted Servant": {
     "id": "Jakob - Devoted Servant",
@@ -33653,7 +33653,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Jakob - Devoted Monster": {
     "id": "Jakob - Devoted Monster",
@@ -33688,7 +33688,7 @@
     "statMax": 165,
     "book": 1,
     "ver": "1.8",
-    "df": 20
+    "df": 25
   },
   "Lilith - Astral Daughter": {
     "id": "Lilith - Astral Daughter",
@@ -33722,7 +33722,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Lilith - Silent Broodling": {
     "id": "Lilith - Silent Broodling",
@@ -33756,7 +33756,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Mikoto - Caring Mother": {
     "id": "Mikoto - Caring Mother",
@@ -33790,7 +33790,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.11",
-    "df": 25
+    "df": 30
   },
   "Ryoma - Peerless Samurai": {
     "id": "Ryoma - Peerless Samurai",
@@ -33824,7 +33824,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Ryoma - Supreme Samurai": {
     "id": "Ryoma - Supreme Samurai",
@@ -33861,7 +33861,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.5",
-    "df": 20
+    "df": 25
   },
   "Ryoma - Dancing Samurai": {
     "id": "Ryoma - Dancing Samurai",
@@ -33896,7 +33896,7 @@
     "statMax": 140,
     "book": 2,
     "ver": "2.8",
-    "df": 25
+    "df": 30
   },
   "Ryoma - Samurai at Ease": {
     "id": "Ryoma - Samurai at Ease",
@@ -33931,7 +33931,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.1",
-    "df": 20
+    "df": 25
   },
   "Saizo - Angry Ninja": {
     "id": "Saizo - Angry Ninja",
@@ -33993,7 +33993,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Kagero - Honorable Ninja": {
     "id": "Kagero - Honorable Ninja",
@@ -34055,7 +34055,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Kagero - Spring Ninja": {
     "id": "Kagero - Spring Ninja",
@@ -34090,7 +34090,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.3",
-    "df": 20
+    "df": 25
   },
   "Kagero - Beverage Ninja": {
     "id": "Kagero - Beverage Ninja",
@@ -34125,7 +34125,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.10",
-    "df": 20
+    "df": 25
   },
   "Hinoka - Warrior Princess": {
     "id": "Hinoka - Warrior Princess",
@@ -34159,7 +34159,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Hinoka - Blue Sky Warrior": {
     "id": "Hinoka - Blue Sky Warrior",
@@ -34193,7 +34193,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.4",
-    "df": 20
+    "df": 25
   },
   "Hinoka - Relaxed Warrior": {
     "id": "Hinoka - Relaxed Warrior",
@@ -34228,7 +34228,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.1",
-    "df": 20
+    "df": 25
   },
   "Hinoka - Fair Pirate Pair": {
     "id": "Hinoka - Fair Pirate Pair",
@@ -34264,7 +34264,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.8",
-    "df": 15
+    "df": 20
   },
   "Hinoka - Thundering Wings": {
     "id": "Hinoka - Thundering Wings",
@@ -34302,7 +34302,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Azama - Carefree Monk": {
     "id": "Azama - Carefree Monk",
@@ -34364,7 +34364,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Setsuna - Absent Archer": {
     "id": "Setsuna - Absent Archer",
@@ -34426,7 +34426,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Takumi - Wild Card": {
     "id": "Takumi - Wild Card",
@@ -34460,7 +34460,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Takumi - Prince of Soup": {
     "id": "Takumi - Prince of Soup",
@@ -34495,7 +34495,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.0",
-    "df": 25
+    "df": 30
   },
   "Takumi - Empty Vessel": {
     "id": "Takumi - Empty Vessel",
@@ -34558,7 +34558,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.2",
-    "df": 25
+    "df": 30
   },
   "Takumi - Prince at Play": {
     "id": "Takumi - Prince at Play",
@@ -34593,7 +34593,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.7",
-    "df": 20
+    "df": 25
   },
   "Takumi - Troubled Heart": {
     "id": "Takumi - Troubled Heart",
@@ -34628,7 +34628,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Hinata - Wild Samurai": {
     "id": "Hinata - Wild Samurai",
@@ -34690,7 +34690,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Hinata - Samurai Groom": {
     "id": "Hinata - Samurai Groom",
@@ -34739,7 +34739,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Oboro - Fierce Fighter": {
     "id": "Oboro - Fierce Fighter",
@@ -34801,7 +34801,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Oboro - Fierce Bride-to-Be": {
     "id": "Oboro - Fierce Bride-to-Be",
@@ -34836,7 +34836,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.5",
-    "df": 20
+    "df": 25
   },
   "Sakura - Loving Priestess": {
     "id": "Sakura - Loving Priestess",
@@ -34898,7 +34898,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Sakura - Gentle Nekomata": {
     "id": "Sakura - Gentle Nekomata",
@@ -34933,7 +34933,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.8",
-    "df": 25
+    "df": 30
   },
   "Sakura - Hot-Spring Healer": {
     "id": "Sakura - Hot-Spring Healer",
@@ -34968,7 +34968,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.1",
-    "df": 20
+    "df": 25
   },
   "Hana - Focused Samurai": {
     "id": "Hana - Focused Samurai",
@@ -35030,7 +35030,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Hana - Focused Ninja": {
     "id": "Hana - Focused Ninja",
@@ -35079,7 +35079,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.11",
-    "df": 15
+    "df": 20
   },
   "Hana - Striving Heart": {
     "id": "Hana - Striving Heart",
@@ -35128,7 +35128,7 @@
     "statMax": 200,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Subaki - Perfect Expert": {
     "id": "Subaki - Perfect Expert",
@@ -35190,7 +35190,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Kaze - Easygoing Ninja": {
     "id": "Kaze - Easygoing Ninja",
@@ -35252,7 +35252,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.5",
-    "df": 25
+    "df": 30
   },
   "Orochi - Merry Diviner": {
     "id": "Orochi - Merry Diviner",
@@ -35314,7 +35314,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Rinkah - Scion of Flame": {
     "id": "Rinkah - Scion of Flame",
@@ -35348,7 +35348,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Rinkah - Consuming Flame": {
     "id": "Rinkah - Consuming Flame",
@@ -35397,7 +35397,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Kaden - Kitsune Braggart": {
     "id": "Kaden - Kitsune Braggart",
@@ -35431,7 +35431,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Kaden - Refreshed Kitsune": {
     "id": "Kaden - Refreshed Kitsune",
@@ -35480,7 +35480,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Garon - King of Nohr": {
     "id": "Garon - King of Nohr",
@@ -35543,7 +35543,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.9",
-    "df": 25
+    "df": 30
   },
   "Xander - Paragon Knight": {
     "id": "Xander - Paragon Knight",
@@ -35606,7 +35606,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.3",
-    "df": 20
+    "df": 25
   },
   "Xander - Spring Prince": {
     "id": "Xander - Spring Prince",
@@ -35641,7 +35641,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.1",
-    "df": 20
+    "df": 25
   },
   "Xander - Student Swimmer": {
     "id": "Xander - Student Swimmer",
@@ -35676,7 +35676,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.5",
-    "df": 25
+    "df": 30
   },
   "Xander - Dancing Knight": {
     "id": "Xander - Dancing Knight",
@@ -35711,7 +35711,7 @@
     "statMax": 140,
     "book": 2,
     "ver": "2.8",
-    "df": 25
+    "df": 30
   },
   "Xander - Gallant King": {
     "id": "Xander - Gallant King",
@@ -35749,7 +35749,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Laslow - Dancing Duelist": {
     "id": "Laslow - Dancing Duelist",
@@ -35811,7 +35811,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Peri - Playful Slayer": {
     "id": "Peri - Playful Slayer",
@@ -35873,7 +35873,7 @@
     "statMax": 155,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Camilla - Bewitching Beauty": {
     "id": "Camilla - Bewitching Beauty",
@@ -35935,7 +35935,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Camilla - Spring Princess": {
     "id": "Camilla - Spring Princess",
@@ -35970,7 +35970,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.1",
-    "df": 20
+    "df": 25
   },
   "Camilla - Holiday Traveler": {
     "id": "Camilla - Holiday Traveler",
@@ -36005,7 +36005,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.0",
-    "df": 20
+    "df": 25
   },
   "Camilla - Tropical Beauty": {
     "id": "Camilla - Tropical Beauty",
@@ -36040,7 +36040,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.7",
-    "df": 20
+    "df": 25
   },
   "Camilla - Flower of Fantasy": {
     "id": "Camilla - Flower of Fantasy",
@@ -36074,7 +36074,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.11",
-    "df": 20
+    "df": 25
   },
   "Camilla - Steamy Secrets": {
     "id": "Camilla - Steamy Secrets",
@@ -36123,7 +36123,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.1",
-    "df": 20
+    "df": 25
   },
   "Camilla - Light of Nohr": {
     "id": "Camilla - Light of Nohr",
@@ -36157,7 +36157,7 @@
     "statMax": 155,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Camilla - Midnight Bloom": {
     "id": "Camilla - Midnight Bloom",
@@ -36192,7 +36192,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.11",
-    "df": 5
+    "df": 10
   },
   "Selena - Cutting Wit": {
     "id": "Selena - Cutting Wit",
@@ -36254,7 +36254,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Beruka - Quiet Assassin": {
     "id": "Beruka - Quiet Assassin",
@@ -36316,7 +36316,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Leo - Sorcerous Prince": {
     "id": "Leo - Sorcerous Prince",
@@ -36350,7 +36350,7 @@
     "statMax": 145,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Leo - Seashore's Prince": {
     "id": "Leo - Seashore's Prince",
@@ -36385,7 +36385,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.5",
-    "df": 25
+    "df": 30
   },
   "Leo - Extra Tomatoes": {
     "id": "Leo - Extra Tomatoes",
@@ -36434,7 +36434,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Leo - Shrouded Heart": {
     "id": "Leo - Shrouded Heart",
@@ -36469,7 +36469,7 @@
     "statMax": 175,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Odin - Potent Force": {
     "id": "Odin - Potent Force",
@@ -36531,7 +36531,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Niles - Cruel to Be Kind": {
     "id": "Niles - Cruel to Be Kind",
@@ -36593,7 +36593,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Niles - Forbidden Tease": {
     "id": "Niles - Forbidden Tease",
@@ -36628,7 +36628,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.10",
-    "df": 20
+    "df": 25
   },
   "Elise - Budding Flower": {
     "id": "Elise - Budding Flower",
@@ -36662,7 +36662,7 @@
     "statMax": 145,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Elise - Tropical Flower": {
     "id": "Elise - Tropical Flower",
@@ -36697,7 +36697,7 @@
     "statMax": 150,
     "book": 1,
     "ver": "1.5",
-    "df": 25
+    "df": 30
   },
   "Elise - Bubbling Flower": {
     "id": "Elise - Bubbling Flower",
@@ -36732,7 +36732,7 @@
     "statMax": 145,
     "book": 3,
     "ver": "3.1",
-    "df": 20
+    "df": 25
   },
   "Elise - Sweetheart Royals": {
     "id": "Elise - Sweetheart Royals",
@@ -36768,7 +36768,7 @@
     "statMax": 170,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Arthur - Hapless Hero": {
     "id": "Arthur - Hapless Hero",
@@ -36830,7 +36830,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.0",
-    "df": 25
+    "df": 30
   },
   "Effie - Army of One": {
     "id": "Effie - Army of One",
@@ -36892,7 +36892,7 @@
     "statMax": 170,
     "book": 1,
     "ver": "1.0",
-    "df": 20
+    "df": 25
   },
   "Effie - Dedicated Heart": {
     "id": "Effie - Dedicated Heart",
@@ -36941,7 +36941,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.2",
-    "df": 5
+    "df": 10
   },
   "Silas - Loyal Knight": {
     "id": "Silas - Loyal Knight",
@@ -37003,7 +37003,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.9",
-    "df": 20
+    "df": 25
   },
   "Benny - Sensitive Soul": {
     "id": "Benny - Sensitive Soul",
@@ -37065,7 +37065,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Charlotte - Money Maiden": {
     "id": "Charlotte - Money Maiden",
@@ -37100,7 +37100,7 @@
     "statMax": 160,
     "book": 1,
     "ver": "1.3",
-    "df": 25
+    "df": 30
   },
   "Charlotte - Wily Warrior": {
     "id": "Charlotte - Wily Warrior",
@@ -37134,7 +37134,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Iago - Nohr's Tactician": {
     "id": "Iago - Nohr's Tactician",
@@ -37197,7 +37197,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Hans - Ambitious Brute": {
     "id": "Hans - Ambitious Brute",
@@ -37260,7 +37260,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Flora - Cold as Ice": {
     "id": "Flora - Cold as Ice",
@@ -37294,7 +37294,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.9",
-    "df": 25
+    "df": 30
   },
   "Flora - Signature Dish": {
     "id": "Flora - Signature Dish",
@@ -37329,7 +37329,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.4",
-    "df": 20
+    "df": 25
   },
   "Keaton - Lupine Collector": {
     "id": "Keaton - Lupine Collector",
@@ -37363,7 +37363,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Keaton - Resolved Wolfskin": {
     "id": "Keaton - Resolved Wolfskin",
@@ -37412,7 +37412,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Nyx - Rulebreaker Mage": {
     "id": "Nyx - Rulebreaker Mage",
@@ -37446,7 +37446,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Kana - Dragon Spawn": {
     "id": "Kana - Dragon Spawn",
@@ -37509,7 +37509,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.5",
-    "df": 25
+    "df": 30
   },
   "Kana - Dragon Princess": {
     "id": "Kana - Dragon Princess",
@@ -37543,7 +37543,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.4",
-    "df": 25
+    "df": 30
   },
   "Shigure - Dark Sky Singer": {
     "id": "Shigure - Dark Sky Singer",
@@ -37578,7 +37578,7 @@
     "statMax": 140,
     "book": 1,
     "ver": "1.7",
-    "df": 25
+    "df": 30
   },
   "Shigure - Uplifting Artist": {
     "id": "Shigure - Uplifting Artist",
@@ -37640,7 +37640,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.4",
-    "df": 20
+    "df": 25
   },
   "Dwyer - Sleepy Butler": {
     "id": "Dwyer - Sleepy Butler",
@@ -37702,7 +37702,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Midori - Reliable Chemist": {
     "id": "Midori - Reliable Chemist",
@@ -37736,7 +37736,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Shiro - Raw Talent": {
     "id": "Shiro - Raw Talent",
@@ -37770,7 +37770,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.0",
-    "df": 25
+    "df": 30
   },
   "Kiragi - Upbeat Archer": {
     "id": "Kiragi - Upbeat Archer",
@@ -37832,7 +37832,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Selkie - Free Spirit": {
     "id": "Selkie - Free Spirit",
@@ -37866,7 +37866,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Selkie - New Year's Spirit": {
     "id": "Selkie - New Year's Spirit",
@@ -37901,7 +37901,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Caeldori - Perfect Angel": {
     "id": "Caeldori - Perfect Angel",
@@ -37935,7 +37935,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Rhajat - Black Magician": {
     "id": "Rhajat - Black Magician",
@@ -37969,7 +37969,7 @@
     "statMax": 150,
     "book": 2,
     "ver": "2.0",
-    "df": 25
+    "df": 30
   },
   "Siegbert - Future King": {
     "id": "Siegbert - Future King",
@@ -38003,7 +38003,7 @@
     "statMax": 160,
     "book": 2,
     "ver": "2.0",
-    "df": 20
+    "df": 25
   },
   "Forrest - Fashion Forward": {
     "id": "Forrest - Fashion Forward",
@@ -38065,7 +38065,7 @@
     "statMax": 155,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Velouria - Wolf Cub": {
     "id": "Velouria - Wolf Cub",
@@ -38099,7 +38099,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.2",
-    "df": 20
+    "df": 25
   },
   "Velouria - Renewed Wolfpup": {
     "id": "Velouria - Renewed Wolfpup",
@@ -38134,7 +38134,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Ophelia - Dramatic Heroine": {
     "id": "Ophelia - Dramatic Heroine",
@@ -38168,7 +38168,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.9",
-    "df": 25
+    "df": 30
   },
   "Ophelia - Starlit Maiden": {
     "id": "Ophelia - Starlit Maiden",
@@ -38203,7 +38203,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Soleil - Adorable Adorer": {
     "id": "Soleil - Adorable Adorer",
@@ -38265,7 +38265,7 @@
     "statMax": 165,
     "book": 2,
     "ver": "2.0",
-    "df": 25
+    "df": 30
   },
   "Nina - Eye Spy": {
     "id": "Nina - Eye Spy",
@@ -38299,7 +38299,7 @@
     "statMax": 155,
     "book": 2,
     "ver": "2.9",
-    "df": 25
+    "df": 30
   },
   "Nina - Shadowy Figures": {
     "id": "Nina - Shadowy Figures",
@@ -38335,7 +38335,7 @@
     "statMax": 170,
     "book": 6,
     "ver": "6.8",
-    "df": 10
+    "df": 15
   },
   "Arete - Requiem's Beauty": {
     "id": "Arete - Requiem's Beauty",
@@ -38398,7 +38398,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.7",
-    "df": 15
+    "df": 20
   },
   "Anankos - Seething Silence": {
     "id": "Anankos - Seething Silence",
@@ -38432,7 +38432,7 @@
     "statMax": 200,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Byleth - Proven Professor": {
     "id": "Byleth - Proven Professor",
@@ -38466,7 +38466,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Byleth - Fell Star's Duo": {
     "id": "Byleth - Fell Star's Duo",
@@ -38502,7 +38502,7 @@
     "statMax": 155,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Byleth - The Fódlan Light": {
     "id": "Byleth - The Fódlan Light",
@@ -38540,7 +38540,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Byleth - Sublime Light": {
     "id": "Byleth - Sublime Light",
@@ -38574,7 +38574,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.8",
-    "df": 5
+    "df": 10
   },
   "Byleth - Vengeance Vessel": {
     "id": "Byleth - Vengeance Vessel",
@@ -38608,7 +38608,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.5",
-    "df": 5
+    "df": 10
   },
   "Byleth - Tested Professor": {
     "id": "Byleth - Tested Professor",
@@ -38642,7 +38642,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Byleth - The Fódlan Star": {
     "id": "Byleth - The Fódlan Star",
@@ -38680,7 +38680,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Byleth - Fount of Learning": {
     "id": "Byleth - Fount of Learning",
@@ -38729,7 +38729,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Sothis - Girl on the Throne": {
     "id": "Sothis - Girl on the Throne",
@@ -38766,7 +38766,7 @@
     "statMax": 175,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Sothis - Silver Specter": {
     "id": "Sothis - Silver Specter",
@@ -38801,7 +38801,7 @@
     "statMax": 185,
     "book": 4,
     "ver": "4.0",
-    "df": 20
+    "df": 25
   },
   "Sothis - Bound-Spirit Duo": {
     "id": "Sothis - Bound-Spirit Duo",
@@ -38837,7 +38837,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Jeralt - Blade Breaker": {
     "id": "Jeralt - Blade Breaker",
@@ -38900,7 +38900,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.8",
-    "df": 5
+    "df": 10
   },
   "Seiros - Saint of Legend": {
     "id": "Seiros - Saint of Legend",
@@ -38937,7 +38937,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Rhea - Witch of Creation": {
     "id": "Rhea - Witch of Creation",
@@ -38972,7 +38972,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.10",
-    "df": 10
+    "df": 15
   },
   "Rhea - Immaculate One": {
     "id": "Rhea - Immaculate One",
@@ -39006,7 +39006,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.5",
-    "df": 10
+    "df": 15
   },
   "Rhea - Loving Matriarch": {
     "id": "Rhea - Loving Matriarch",
@@ -39040,7 +39040,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Cyril - Rhea's Attendant": {
     "id": "Cyril - Rhea's Attendant",
@@ -39137,7 +39137,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Edelgard - Flame Emperor": {
     "id": "Edelgard - Flame Emperor",
@@ -39175,7 +39175,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.4",
-    "df": 20
+    "df": 25
   },
   "Edelgard - Adrestian Emperor": {
     "id": "Edelgard - Adrestian Emperor",
@@ -39209,7 +39209,7 @@
     "statMax": 185,
     "book": 4,
     "ver": "4.8",
-    "df": 15
+    "df": 20
   },
   "Edelgard - Hegemon Husk": {
     "id": "Edelgard - Hegemon Husk",
@@ -39243,7 +39243,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Edelgard - Sun Empresses": {
     "id": "Edelgard - Sun Empresses",
@@ -39278,7 +39278,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Hubert - Sinister Servant": {
     "id": "Hubert - Sinister Servant",
@@ -39312,7 +39312,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Ferdinand - Noblest of Nobles": {
     "id": "Ferdinand - Noblest of Nobles",
@@ -39374,7 +39374,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Ferdinand - Highborn Sipper": {
     "id": "Ferdinand - Highborn Sipper",
@@ -39423,7 +39423,7 @@
     "statMax": 175,
     "book": 7,
     "ver": "7.8",
-    "df": 5
+    "df": 10
   },
   "Linhardt - Hevring's Heir": {
     "id": "Linhardt - Hevring's Heir",
@@ -39485,7 +39485,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Caspar - Summer Intensity": {
     "id": "Caspar - Summer Intensity",
@@ -39534,7 +39534,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Bernadetta - Eternal Loner": {
     "id": "Bernadetta - Eternal Loner",
@@ -39568,7 +39568,7 @@
     "statMax": 160,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Bernadetta - Frosty Shut-In": {
     "id": "Bernadetta - Frosty Shut-In",
@@ -39603,7 +39603,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Bernadetta - Late Hibernator": {
     "id": "Bernadetta - Late Hibernator",
@@ -39638,7 +39638,7 @@
     "statMax": 175,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Dorothea - Solar Songstress": {
     "id": "Dorothea - Solar Songstress",
@@ -39673,7 +39673,7 @@
     "statMax": 160,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Dorothea - Twilit Harmony": {
     "id": "Dorothea - Twilit Harmony",
@@ -39708,7 +39708,7 @@
     "statMax": 155,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Dorothea - Yuletide Dancer": {
     "id": "Dorothea - Yuletide Dancer",
@@ -39743,7 +39743,7 @@
     "statMax": 160,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Petra - Princess of Brigid": {
     "id": "Petra - Princess of Brigid",
@@ -39777,7 +39777,7 @@
     "statMax": 155,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Dimitri - The Protector": {
     "id": "Dimitri - The Protector",
@@ -39811,7 +39811,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Dimitri - King of Faerghus": {
     "id": "Dimitri - King of Faerghus",
@@ -39845,7 +39845,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.8",
-    "df": 15
+    "df": 20
   },
   "Dimitri - Savior King": {
     "id": "Dimitri - Savior King",
@@ -39883,7 +39883,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Dimitri - Savage Boar": {
     "id": "Dimitri - Savage Boar",
@@ -39917,7 +39917,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.5",
-    "df": 15
+    "df": 20
   },
   "Dimitri - Sky-Blue Lion": {
     "id": "Dimitri - Sky-Blue Lion",
@@ -39952,7 +39952,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Dedue - Dimitri's Vassal": {
     "id": "Dedue - Dimitri's Vassal",
@@ -39986,7 +39986,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Felix - Icy Gift Giver": {
     "id": "Felix - Icy Gift Giver",
@@ -40035,7 +40035,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Felix - Lone-Wolf Blade": {
     "id": "Felix - Lone-Wolf Blade",
@@ -40069,7 +40069,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Ashe - Fabled Sea Knight": {
     "id": "Ashe - Fabled Sea Knight",
@@ -40104,7 +40104,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Ashe - Budding Chivalry": {
     "id": "Ashe - Budding Chivalry",
@@ -40153,7 +40153,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Sylvain - Hanging with Tens": {
     "id": "Sylvain - Hanging with Tens",
@@ -40202,7 +40202,7 @@
     "statMax": 155,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Sylvain - Consummate Flirt": {
     "id": "Sylvain - Consummate Flirt",
@@ -40264,7 +40264,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Mercedes - Kindly Devotee": {
     "id": "Mercedes - Kindly Devotee",
@@ -40326,7 +40326,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Mercedes - Unfussed Basker": {
     "id": "Mercedes - Unfussed Basker",
@@ -40361,7 +40361,7 @@
     "statMax": 160,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Annette - Overachiever": {
     "id": "Annette - Overachiever",
@@ -40395,7 +40395,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Annette - Festive Helper": {
     "id": "Annette - Festive Helper",
@@ -40444,7 +40444,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Ingrid - Solstice Knight": {
     "id": "Ingrid - Solstice Knight",
@@ -40479,7 +40479,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Ingrid - Galatea's Heir": {
     "id": "Ingrid - Galatea's Heir",
@@ -40513,7 +40513,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Ingrid - Beacon of Honor": {
     "id": "Ingrid - Beacon of Honor",
@@ -40548,7 +40548,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Claude - The Schemer": {
     "id": "Claude - The Schemer",
@@ -40582,7 +40582,7 @@
     "statMax": 150,
     "book": 3,
     "ver": "3.7",
-    "df": 20
+    "df": 25
   },
   "Claude - Almyra's King": {
     "id": "Claude - Almyra's King",
@@ -40616,7 +40616,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.8",
-    "df": 15
+    "df": 20
   },
   "Claude - King of Unification": {
     "id": "Claude - King of Unification",
@@ -40654,7 +40654,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.2",
-    "df": 15
+    "df": 20
   },
   "Claude - Tropical Trouble": {
     "id": "Claude - Tropical Trouble",
@@ -40703,7 +40703,7 @@
     "statMax": 175,
     "book": 6,
     "ver": "6.6",
-    "df": 10
+    "df": 15
   },
   "Lorenz - Highborn Heat": {
     "id": "Lorenz - Highborn Heat",
@@ -40752,7 +40752,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.7",
-    "df": 20
+    "df": 25
   },
   "Raphael - Muscle-Monger": {
     "id": "Raphael - Muscle-Monger",
@@ -40801,7 +40801,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.1",
-    "df": 15
+    "df": 20
   },
   "Ignatz - Snowscape Artist": {
     "id": "Ignatz - Snowscape Artist",
@@ -40850,7 +40850,7 @@
     "statMax": 185,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Lysithea - Child Prodigy": {
     "id": "Lysithea - Child Prodigy",
@@ -40884,7 +40884,7 @@
     "statMax": 160,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Lysithea - Earnest Seeker": {
     "id": "Lysithea - Earnest Seeker",
@@ -40918,7 +40918,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.8",
-    "df": 15
+    "df": 20
   },
   "Lysithea - Gifted Students": {
     "id": "Lysithea - Gifted Students",
@@ -40953,7 +40953,7 @@
     "statMax": 165,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Lysithea - Tea Sweetener": {
     "id": "Lysithea - Tea Sweetener",
@@ -40988,7 +40988,7 @@
     "statMax": 175,
     "book": 7,
     "ver": "7.8",
-    "df": 5
+    "df": 10
   },
   "Marianne - Adopted Daughter": {
     "id": "Marianne - Adopted Daughter",
@@ -41022,7 +41022,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Marianne - Serene Adherent": {
     "id": "Marianne - Serene Adherent",
@@ -41056,7 +41056,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.8",
-    "df": 10
+    "df": 15
   },
   "Hilda - Idle Maiden": {
     "id": "Hilda - Idle Maiden",
@@ -41090,7 +41090,7 @@
     "statMax": 170,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Hilda - Holiday Layabout": {
     "id": "Hilda - Holiday Layabout",
@@ -41139,7 +41139,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.0",
-    "df": 15
+    "df": 20
   },
   "Hilda - Deer's Two-Piece": {
     "id": "Hilda - Deer's Two-Piece",
@@ -41175,7 +41175,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Hilda - Helping Hand": {
     "id": "Hilda - Helping Hand",
@@ -41210,7 +41210,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Leonie - Relentless Rays": {
     "id": "Leonie - Relentless Rays",
@@ -41259,7 +41259,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.6",
-    "df": 15
+    "df": 20
   },
   "Yuri - Ashen Valiant": {
     "id": "Yuri - Ashen Valiant",
@@ -41293,7 +41293,7 @@
     "statMax": 180,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Yuri - Underground Lord": {
     "id": "Yuri - Underground Lord",
@@ -41331,7 +41331,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.3",
-    "df": 5
+    "df": 10
   },
   "Balthus - King of Grappling": {
     "id": "Balthus - King of Grappling",
@@ -41393,7 +41393,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Constance - Fallen Noble": {
     "id": "Constance - Fallen Noble",
@@ -41427,7 +41427,7 @@
     "statMax": 170,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Hapi - Drawn-Out Sigh": {
     "id": "Hapi - Drawn-Out Sigh",
@@ -41461,7 +41461,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Aelfric - Custodian Monk": {
     "id": "Aelfric - Custodian Monk",
@@ -41524,7 +41524,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.9",
-    "df": 10
+    "df": 15
   },
   "Seteth - Seiros Adherent": {
     "id": "Seteth - Seiros Adherent",
@@ -41586,7 +41586,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Flayn - Playing Innocent": {
     "id": "Flayn - Playing Innocent",
@@ -41620,7 +41620,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Manuela - Silver Caroler": {
     "id": "Manuela - Silver Caroler",
@@ -41669,7 +41669,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.0",
-    "df": 10
+    "df": 15
   },
   "Catherine - Thunder Knight": {
     "id": "Catherine - Thunder Knight",
@@ -41703,7 +41703,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Shamir - Archer Apart": {
     "id": "Shamir - Archer Apart",
@@ -41737,7 +41737,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Shamir - Lone-Moon Ninja": {
     "id": "Shamir - Lone-Moon Ninja",
@@ -41786,7 +41786,7 @@
     "statMax": 185,
     "book": 5,
     "ver": "5.11",
-    "df": 10
+    "df": 15
   },
   "Shamir - Heartbeats United": {
     "id": "Shamir - Heartbeats United",
@@ -41822,7 +41822,7 @@
     "statMax": 175,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Gatekeeper - Nothing to Report": {
     "id": "Gatekeeper - Nothing to Report",
@@ -41856,7 +41856,7 @@
     "statMax": 175,
     "book": 5,
     "ver": "5.8",
-    "df": 10
+    "df": 15
   },
   "Cornelia - Saint Consumed": {
     "id": "Cornelia - Saint Consumed",
@@ -41919,7 +41919,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.4",
-    "df": 5
+    "df": 10
   },
   "Kronya - Gleaming Blade": {
     "id": "Kronya - Gleaming Blade",
@@ -41982,7 +41982,7 @@
     "statMax": 165,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Solon - Church Shadow": {
     "id": "Solon - Church Shadow",
@@ -42045,7 +42045,7 @@
     "statMax": 165,
     "book": 5,
     "ver": "5.3",
-    "df": 15
+    "df": 20
   },
   "Death Knight - The Reaper": {
     "id": "Death Knight - The Reaper",
@@ -42108,7 +42108,7 @@
     "statMax": 160,
     "book": 3,
     "ver": "3.8",
-    "df": 20
+    "df": 25
   },
   "Flame Emperor - Bringer of War": {
     "id": "Flame Emperor - Bringer of War",
@@ -42171,7 +42171,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.3",
-    "df": 20
+    "df": 25
   },
   "Nemesis - King of Liberation": {
     "id": "Nemesis - King of Liberation",
@@ -42234,7 +42234,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.10",
-    "df": 15
+    "df": 20
   },
   "Shez - Rising Mercenary": {
     "id": "Shez - Rising Mercenary",
@@ -42268,7 +42268,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Shez - Mercenary Shade": {
     "id": "Shez - Mercenary Shade",
@@ -42317,7 +42317,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Shez - Keen Mercenary": {
     "id": "Shez - Keen Mercenary",
@@ -42379,7 +42379,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Shez - Sharpest Blades": {
     "id": "Shez - Sharpest Blades",
@@ -42417,7 +42417,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.0",
-    "df": 5
+    "df": 10
   },
   "Shez - Mercenary Shine": {
     "id": "Shez - Mercenary Shine",
@@ -42452,7 +42452,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.6",
-    "df": 5
+    "df": 10
   },
   "Monica - Favored Vassal": {
     "id": "Monica - Favored Vassal",
@@ -42486,7 +42486,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Arval - Cycle Keeper": {
     "id": "Arval - Cycle Keeper",
@@ -42523,7 +42523,7 @@
     "statMax": 180,
     "book": 6,
     "ver": "6.10",
-    "df": 5
+    "df": 10
   },
   "Holst - Hero of Leicester": {
     "id": "Holst - Hero of Leicester",
@@ -42586,7 +42586,7 @@
     "statMax": 190,
     "book": 6,
     "ver": "6.9",
-    "df": 5
+    "df": 10
   },
   "Itsuki - Finding a Path": {
     "id": "Itsuki - Finding a Path",
@@ -42635,7 +42635,7 @@
     "statMax": 175,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Tsubasa - Madcap Idol": {
     "id": "Tsubasa - Madcap Idol",
@@ -42669,7 +42669,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Mamori - Microwavin' Idol": {
     "id": "Mamori - Microwavin' Idol",
@@ -42703,7 +42703,7 @@
     "statMax": 180,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Kiria - Cool Façade": {
     "id": "Kiria - Cool Façade",
@@ -42737,7 +42737,7 @@
     "statMax": 165,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Eleonora - Shooting Starlet": {
     "id": "Eleonora - Shooting Starlet",
@@ -42771,7 +42771,7 @@
     "statMax": 170,
     "book": 4,
     "ver": "4.1",
-    "df": 20
+    "df": 25
   },
   "Alear - Dragon Child": {
     "id": "Alear - Dragon Child",
@@ -42805,7 +42805,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Alear - Dragon Youth": {
     "id": "Alear - Dragon Youth",
@@ -42839,7 +42839,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Lumera - Dragon Monarch": {
     "id": "Lumera - Dragon Monarch",
@@ -42902,7 +42902,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Alfred - Floral Protector": {
     "id": "Alfred - Floral Protector",
@@ -42937,7 +42937,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Etie - Fitness Fighter": {
     "id": "Etie - Fitness Fighter",
@@ -42999,7 +42999,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Céline - Joyous Royal": {
     "id": "Céline - Joyous Royal",
@@ -43033,7 +43033,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Chloé - Fairy-Tale Flier": {
     "id": "Chloé - Fairy-Tale Flier",
@@ -43067,7 +43067,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.1",
-    "df": 5
+    "df": 10
   },
   "Diamant - Rising Power": {
     "id": "Diamant - Rising Power",
@@ -43101,7 +43101,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Alcryst - Tender Archer": {
     "id": "Alcryst - Tender Archer",
@@ -43136,7 +43136,7 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Lapis - Mighty Flower": {
     "id": "Lapis - Mighty Flower",
@@ -43198,7 +43198,7 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Citrinne - Caring Noble": {
     "id": "Citrinne - Caring Noble",
@@ -43232,7 +43232,7 @@
     "statMax": 180,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Ivy - Tidal Breeze": {
     "id": "Ivy - Tidal Breeze",
@@ -43267,7 +43267,7 @@
     "statMax": 175,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   },
   "Zephia - Scheming Dragon": {
     "id": "Zephia - Scheming Dragon",
@@ -43330,6 +43330,6 @@
     "statMax": 175,
     "book": 7,
     "ver": "7.7",
-    "df": 5
+    "df": 10
   }
 }
