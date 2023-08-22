@@ -2470,6 +2470,7 @@
     "id": "Atk Cantrip 1",
     "name": "攻擊魅惑1",
     "sp": 60,
+    "rules": "not.white-staff",
     "icon": "skillB/Atk_Cantrip_1.png"
   },
   "Atk Cantrip 2": {
@@ -2477,6 +2478,7 @@
     "name": "攻擊魅惑2",
     "sp": 120,
     "prev": ["Atk Cantrip 1"],
+    "rules": "not.white-staff",
     "icon": "skillB/Atk_Cantrip_2.png"
   },
   "Atk Cantrip 3": {
@@ -2484,6 +2486,7 @@
     "name": "攻擊魅惑3",
     "sp": 240,
     "prev": ["Atk Cantrip 2"],
+    "rules": "not.white-staff",
     "icon": "skillB/Atk_Cantrip_3.png",
     "last": true
   },
@@ -2491,6 +2494,7 @@
     "id": "Spd Cantrip 1",
     "name": "速度魅惑1",
     "sp": 60,
+    "rules": "not.white-staff",
     "icon": "skillB/Spd_Cantrip_1.png"
   },
   "Spd Cantrip 2": {
@@ -2498,6 +2502,7 @@
     "name": "速度魅惑2",
     "sp": 120,
     "prev": ["Spd Cantrip 1"],
+    "rules": "not.white-staff",
     "icon": "skillB/Spd_Cantrip_2.png"
   },
   "Spd Cantrip 3": {
@@ -2505,6 +2510,7 @@
     "name": "速度魅惑3",
     "sp": 240,
     "prev": ["Spd Cantrip 2"],
+    "rules": "not.white-staff",
     "icon": "skillB/Spd_Cantrip_3.png",
     "last": true
   },
@@ -2512,6 +2518,7 @@
     "id": "Def Cantrip 1",
     "name": "防守魅惑1",
     "sp": 60,
+    "rules": "not.white-staff",
     "icon": "skillB/Def_Cantrip_1.png"
   },
   "Def Cantrip 2": {
@@ -2519,6 +2526,7 @@
     "name": "防守魅惑2",
     "sp": 120,
     "prev": ["Def Cantrip 1"],
+    "rules": "not.white-staff",
     "icon": "skillB/Def_Cantrip_2.png"
   },
   "Def Cantrip 3": {
@@ -2526,6 +2534,7 @@
     "name": "防守魅惑3",
     "sp": 240,
     "prev": ["Def Cantrip 2"],
+    "rules": "not.white-staff",
     "icon": "skillB/Def_Cantrip_3.png",
     "last": true
   },
@@ -2533,6 +2542,7 @@
     "id": "Res Cantrip 1",
     "name": "魔防魅惑1",
     "sp": 60,
+    "rules": "not.white-staff",
     "icon": "skillB/Res_Cantrip_1.png"
   },
   "Res Cantrip 2": {
@@ -2540,6 +2550,7 @@
     "name": "魔防魅惑2",
     "sp": 120,
     "prev": ["Res Cantrip 1"],
+    "rules": "not.white-staff",
     "icon": "skillB/Res_Cantrip_2.png"
   },
   "Res Cantrip 3": {
@@ -2547,6 +2558,7 @@
     "name": "魔防魅惑3",
     "sp": 240,
     "prev": ["Res Cantrip 2"],
+    "rules": "not.white-staff",
     "icon": "skillB/Res_Cantrip_3.png",
     "last": true
   },

@@ -1058,7 +1058,7 @@
     "id": "Remote Sparrow",
     "name": "鬼神飛燕離擊",
     "sp": 300,
-    "rules": "ranged",
+    "rules": "learner.ranged-not-staff",
     "prev": ["Swift Sparrow 2"],
     "last": true,
     "icon": "skillA/Remote_Sparrow.png"
@@ -1067,7 +1067,7 @@
     "id": "Remote Sturdy",
     "name": "鬼神金剛離擊",
     "sp": 300,
-    "rules": "ranged",
+    "rules": "learner.ranged-not-staff",
     "prev": ["Sturdy Blow 2"],
     "last": true,
     "icon": "skillA/Remote_Sturdy.png"
@@ -1076,7 +1076,7 @@
     "id": "Remote Mirror",
     "name": "鬼神明鏡離擊",
     "sp": 300,
-    "rules": "ranged",
+    "rules": "learner.ranged-not-staff",
     "prev": ["Mirror Strike 2"],
     "last": true,
     "icon": "skillA/Remote_Mirror.png"

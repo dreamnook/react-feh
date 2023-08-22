@@ -181,6 +181,10 @@
     "moveType": 15,
     "weaponType": 16711680
   },
+  "learner.ranged-not-staff": {
+    "moveType": 15,
+    "weaponType": 65520
+  },
   "learner.impact-skills": {
     "weaponType": 16777207,
     "moveType": 9
