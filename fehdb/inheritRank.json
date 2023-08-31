@@ -10881,6 +10881,20 @@
     "skillA": { "Close Reversal": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Drive Def": { "sp": 300, "rarity": 5 } }
   },
+  "Alear - Awoken Divinity": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
+  },
   "Nerþuz - God of the Land": {
     "score": 460,
     "scoreTotal": 1012,

@@ -24650,6 +24650,16 @@
       "exclusive": ["Corrin - Silent Bloodline"],
       "last": true
     },
+    "Dragon's Fist": {
+      "id": "Dragon's Fist",
+      "name": "神龍體術",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Alear - Awoken Divinity"],
+      "last": true
+    },
     "Arcane Grima": {
       "id": "Arcane Grima",
       "name": "魔器津利",

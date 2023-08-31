@@ -23911,6 +23911,37 @@
       "Spd Smoke 4": 5
     }
   },
+  "Alear - Awoken Divinity": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Dragon's Fist": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Dragon Blast": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Null C-Disrupt 1": 2,
+      "Null C-Disrupt 2": 3,
+      "Null C-Disrupt 3": 4,
+      "Null C-Disrupt 4": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Pledge": 5
+    }
+  },
   "Alear - Dragon Youth": {
     "weapon": {
       "Iron Sword": 1,

@@ -324,6 +324,15 @@
     "exclusive": ["Ayra - Together in Tea"],
     "last": true
   },
+  "Dragon Blast": {
+    "id": "Dragon Blast",
+    "name": "神龍破",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Glimmer"],
+    "exclusive": ["Alear - Awoken Divinity"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

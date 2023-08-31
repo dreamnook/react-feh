@@ -3239,6 +3239,15 @@
     "icon": "skillC/Def_Res_Oath_3.png",
     "last": true
   },
+  "Atk/Spd Pledge": {
+    "id": "Atk/Spd Pledge",
+    "name": "攻擊速度的信念",
+    "sp": 300,
+    "prev": ["Atk/Spd Oath 3"],
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillC/Atk_Spd_Pledge.png"
+  },
   "Odd Tempest 1": {
     "id": "Odd Tempest 1",
     "name": "迅雷風烈・奇數1",

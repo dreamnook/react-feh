@@ -42807,6 +42807,44 @@
     "ver": "7.1",
     "dfKey": 5
   },
+  "Alear - Awoken Divinity": {
+    "id": "Alear - Awoken Divinity",
+    "title": "救世神龍",
+    "name": "琉爾",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-dragon",
+    "bst": 200,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "fire-def-2",
+    "releaseDate": "2023-08-31",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [37, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [44, 47, 50],
+        "def": [30, 33, 36],
+        "res": [33, 37, 40]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 12,
+        "def": 5,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["res"],
+    "statMin": 198,
+    "statMax": 200,
+    "book": 7,
+    "ver": "7.8",
+    "dfKey": 6
+  },
   "Alear - Dragon Youth": {
     "id": "Alear - Dragon Youth",
     "title": "神龍王子",
