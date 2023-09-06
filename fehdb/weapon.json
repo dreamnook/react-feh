@@ -22480,7 +22480,8 @@
       "refine": {
         "effect": {
           "name": "特效",
-          "icon": "Phantasm_Tome_W"
+          "icon": "Phantasm_Tome_W",
+          "cd": -1
         },
         "atk": {
           "hp": 2,
