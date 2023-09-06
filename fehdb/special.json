@@ -247,6 +247,7 @@
   "Requiem Dance": {
     "id": "Requiem Dance",
     "name": "鎮魂之舞",
+    "cd": 3,
     "sp": 500,
     "prev": ["Glacies"],
     "exclusive": ["Marianne - Serene Adherent"],
