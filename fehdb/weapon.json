@@ -2137,6 +2137,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Itsuki - Finding a Path"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Mirage_Falchion_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Sökkvabekkr": {
