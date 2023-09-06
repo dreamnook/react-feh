@@ -6205,7 +6205,10 @@
       "icon": "skillA/Distant_Storm.png"
     },
     "Distant Pressure": {
-      "pool": { "#": { "5": ["Marth - Prince of Light"] } },
+      "pool": {
+        "#": { "5": ["Marth - Prince of Light"] },
+        "mythic": { "5": ["Hel - Death Sovereign"] }
+      },
       "id": "Distant Pressure",
       "name": "遠反・速度的奮擊",
       "sp": 300,
@@ -8976,6 +8979,7 @@
     "Chill Def/Res 2": {
       "pool": {
         "grail": { "5": ["Donnel - Sunny Villager"] },
+        "mythic": { "5": ["Mirabilis - Daydream"] },
         "special": { "5": ["Katarina - Torchlit Wanderer"] },
         "duo": { "5": ["Nina - Shadowy Figures"] },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
@@ -8986,7 +8990,10 @@
       "icon": "skillB/Chill_Def_Res_2.png"
     },
     "Chill Def/Res 3": {
-      "pool": { "duo": { "5": ["Nina - Shadowy Figures"] } },
+      "pool": {
+        "mythic": { "5": ["Mirabilis - Daydream"] },
+        "duo": { "5": ["Nina - Shadowy Figures"] }
+      },
       "id": "Chill Def/Res 3",
       "name": "防守魔防封殺3",
       "sp": 300,

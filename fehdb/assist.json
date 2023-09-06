@@ -82,6 +82,15 @@
     "exclusive": ["Chrom - Crowned Exalt", "Chrom - Fate-Defying Duo"],
     "last": true
   },
+  "Whimsical Dream+": {
+    "id": "Whimsical Dream+",
+    "name": "白色夢境・神",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Whimsical Dream"],
+    "exclusive": ["Mirabilis - Daydream"],
+    "last": true
+  },
   "Whimsical Dream": {
     "id": "Whimsical Dream",
     "name": "白色夢境",

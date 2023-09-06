@@ -2611,7 +2611,7 @@
     "weaponType": "blue-beast",
     "pool": "mythic",
     "blesser": "mythic",
-    "blessing": "anima-atk",
+    "blessing": "anima-atk-2",
     "releaseDate": "2023-07-28",
     "appearsIn": ["Heroes"],
     "stats": {

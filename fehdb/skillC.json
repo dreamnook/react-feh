@@ -203,6 +203,15 @@
     "last": true,
     "icon": "skillC/Mila's_Turnwheel.png"
   },
+  "Inevitable Death+": {
+    "id": "Inevitable Death+",
+    "name": "無法逃離的死亡・神",
+    "sp": 300,
+    "prev": ["Inevitable Death"],
+    "exclusive": ["Hel - Death Sovereign"],
+    "last": true,
+    "icon": "skillC/Inevitable_Death+.png"
+  },
   "Inevitable Death": {
     "id": "Inevitable Death",
     "name": "無法逃離的死亡",

@@ -2331,6 +2331,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Mirabilis - Daydream"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Flower_of_Ease_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Amatsu": {
@@ -2520,6 +2543,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Marth - Prince of Light"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Genesis_Falchion_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Soleil's Shine": {
@@ -5919,6 +5965,29 @@
       "sp": 400,
       "prev": ["Slaying Spear"],
       "exclusive": ["Eirika - Pledged Restorer"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Binding_Reginleif_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Sworn Lance": {
@@ -9026,6 +9095,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Hel - Death Sovereign"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Hel's_Reaper_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Sneering Axe": {
@@ -21225,6 +21317,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Gatekeeper - Nothing to Report"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Charging_Horn_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Ninjutsu Scrolls": {
@@ -22363,6 +22477,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Marianne - Serene Adherent"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Phantasm_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "New Dawn": {

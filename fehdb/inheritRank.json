@@ -5682,7 +5682,7 @@
     "feather": 1000,
     "bst": 167,
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Distant Pressure": { "sp": 300, "rarity": 5 } },
     "skillB": { "Guard Bearing 3": { "sp": 240, "rarity": 5 } }
   },
   "Líf - Lethal Swordsman": {
@@ -6288,19 +6288,6 @@
     "skillA": { "Atk/Res Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Sabotage Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Mirabilis - Daydream": {
-    "score": 276,
-    "scoreTotal": 718,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 157,
-    "skillA": { "Fort. Def/Res 3": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Sabotage Def 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Def/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
   "Ninian - Ice-Dragon Oracle": {
     "score": 276,
@@ -7744,6 +7731,19 @@
     "skillA": { "B Duel Flying 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Cross Spur Res": { "sp": 300, "rarity": 5 } }
+  },
+  "Mirabilis - Daydream": {
+    "score": 276,
+    "scoreTotal": 773,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 840,
+    "feather": 1000,
+    "bst": 157,
+    "skillA": { "Fort. Def/Res 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Chill Def/Res 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
   "Dimitri - Savior King": {
     "score": 276,

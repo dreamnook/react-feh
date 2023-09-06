@@ -1238,7 +1238,8 @@
       "Luna": 4
     },
     "skillA": {
-      "Distant Counter": 5
+      "Distant Counter": 5,
+      "Distant Pressure": 5
     },
     "skillB": {
       "Guard Bearing 1": 1,
@@ -1246,7 +1247,8 @@
       "Guard Bearing 3": 4
     },
     "skillC": {
-      "Inevitable Death": 5
+      "Inevitable Death": 5,
+      "Inevitable Death+": 5
     }
   },
   "Eir - Merciful Death": {
@@ -1697,7 +1699,8 @@
     },
     "assist": {
       "Dance": 4,
-      "Whimsical Dream": 5
+      "Whimsical Dream": 5,
+      "Whimsical Dream+": 5
     },
     "skillA": {
       "Fortress Res 1": 2,
@@ -1708,7 +1711,11 @@
     "skillB": {
       "Sabotage Def 1": 1,
       "Sabotage Def 2": 2,
-      "Sabotage Def 3": 4
+      "Sabotage Def 3": 4,
+      "Chill Def 1": 1,
+      "Chill Def/Res 1": 2,
+      "Chill Def/Res 2": 4,
+      "Chill Def/Res 3": 5
     },
     "skillC": {
       "Def/Res Gap 1": 3,
