@@ -2998,6 +2998,41 @@
     "ver": "5.3",
     "dfKey": 3
   },
+  "Dagr - Bluster Princess": {
+    "id": "Dagr - Bluster Princess",
+    "title": "暴風公主",
+    "name": "達古",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2023-09-07",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [42, 45, 48],
+        "spd": [43, 46, 50],
+        "def": [27, 30, 33],
+        "res": [19, 22, 26]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 16,
+        "def": 6,
+        "res": 3
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": [],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
+  },
   "Dagr - New Year Jötnar": {
     "id": "Dagr - New Year Jötnar",
     "title": "巨人姊妹的新年",
@@ -5790,6 +5825,41 @@
     "book": 2,
     "ver": "2.3",
     "dfKey": 2
+  },
+  "Catria - Windswept Knight": {
+    "id": "Catria - Windswept Knight",
+    "title": "隨風飛舞的天馬騎士",
+    "name": "卡秋雅",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-bow",
+    "pool": "special",
+    "releaseDate": "2023-09-07",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [42, 45, 48],
+        "spd": [42, 45, 49],
+        "def": [21, 25, 28],
+        "res": [27, 30, 33]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 15,
+        "def": 3,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
   },
   "Est - Junior Whitewing": {
     "id": "Est - Junior Whitewing",
@@ -34092,6 +34162,42 @@
     "ver": "2.3",
     "dfKey": 2
   },
+  "Kagero - Bond Unwavering": {
+    "id": "Kagero - Bond Unwavering",
+    "title": "絕不動搖的情誼",
+    "name": "陽炎",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-dagger",
+    "bst": 200,
+    "pool": "duo",
+    "releaseDate": "2023-09-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [44, 47, 50],
+        "spd": [42, 45, 49],
+        "def": [17, 20, 23],
+        "res": [20, 23, 27]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 15,
+        "def": 3,
+        "res": 4
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": [],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
+  },
   "Kagero - Beverage Ninja": {
     "id": "Kagero - Beverage Ninja",
     "title": "收穫祭的女忍者",
@@ -38400,6 +38506,55 @@
     "ver": "5.7",
     "dfKey": 3
   },
+  "Fuga - Force of Gales": {
+    "id": "Fuga - Force of Gales",
+    "title": "考驗的烈風",
+    "name": "楓賀",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2023-09-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [41, 44, 47],
+        "spd": [24, 27, 30],
+        "def": [40, 43, 47],
+        "res": [24, 27, 30]
+      },
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [43, 46, 49],
+        "spd": [26, 30, 33],
+        "def": [42, 45, 49],
+        "res": [27, 30, 33]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 7,
+        "def": 15,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 8,
+        "def": 15,
+        "res": 4
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["spd"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
+  },
   "Anankos - Seething Silence": {
     "id": "Anankos - Seething Silence",
     "title": "瘋狂的透魔龍",
@@ -40655,6 +40810,41 @@
     "book": 5,
     "ver": "5.2",
     "dfKey": 3
+  },
+  "Claude - Golden Breeze": {
+    "id": "Claude - Golden Breeze",
+    "title": "金色之風",
+    "name": "庫羅德",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-dagger",
+    "pool": "special",
+    "releaseDate": "2023-09-07",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [41, 44, 48],
+        "spd": [44, 47, 51],
+        "def": [21, 24, 27],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 8,
+        "def": 7,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["res"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
   },
   "Claude - Tropical Trouble": {
     "id": "Claude - Tropical Trouble",

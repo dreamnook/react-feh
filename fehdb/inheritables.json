@@ -1074,6 +1074,13 @@
         "name": "木製漁具+",
         "sp": 300,
         "refine": 350
+      },
+      "Wind Tribe Club+": {
+        "pool": { "grail": { "5": ["Fuga - Force of Gales"] } },
+        "id": "Wind Tribe Club+",
+        "name": "風之部落的金棒+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "bow": {
@@ -1401,6 +1408,13 @@
         "pool": { "special": { "5": ["Annette - Festive Helper"] } },
         "id": "Peppy Bow+",
         "name": "聖夜之弓+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Whitewind Bow+": {
+        "pool": { "special": { "5": ["Catria - Windswept Knight"] } },
+        "id": "Whitewind Bow+",
+        "name": "白風之弓+",
         "sp": 300,
         "refine": 350
       }
@@ -3324,6 +3338,7 @@
             "Sothe - Rushing Dawn",
             "Flavia - Bold Bride",
             "Fir - Student of Spring",
+            "Catria - Windswept Knight",
             "Brigid - Orgahil Pirate",
             "Tanith - Forthright Heart"
           ]
@@ -3637,6 +3652,7 @@
             "Anna - Secret Charmer",
             "Takumi - Troubled Heart",
             "Black Knight - The Night's Blade",
+            "Claude - Golden Breeze",
             "Greil - Heroic Exemplar"
           ]
         },
@@ -3644,7 +3660,8 @@
           "5": [
             "Dagr - New Year Jötnar",
             "Eirika - Twin Refulgence",
-            "Nina - Shadowy Figures"
+            "Nina - Shadowy Figures",
+            "Kagero - Bond Unwavering"
           ]
         },
         "harmonized": {
@@ -3662,7 +3679,8 @@
     "Lethality": {
       "pool": {
         "#": { "5": ["Volke - Man of Mysteries"] },
-        "duo": { "5": ["Nina - Shadowy Figures"] }
+        "special": { "5": ["Claude - Golden Breeze"] },
+        "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] }
       },
       "id": "Lethality",
       "name": "滅殺",
@@ -3704,9 +3722,9 @@
             "Rhea - Loving Matriarch",
             "Jaffar - Angel of Death",
             "Claude - The Schemer",
-            "Rennac - Rich 'Merchant'",
             "Hapi - Drawn-Out Sigh",
             "Monica - Favored Vassal",
+            "Rennac - Rich 'Merchant'",
             "Dimitri - Savage Boar",
             "Arthur - Furious Mage",
             "Chloé - Fairy-Tale Flier",
@@ -3762,8 +3780,8 @@
             "Gunnthrá - Year's First Dream",
             "Merric - Changing Winds",
             "Naesala - Sea's Shadow",
-            "Fáfnir - Fresh Ambition",
             "Delthea - Prodigy in Bloom",
+            "Fáfnir - Fresh Ambition",
             "Nino - Spirited Sorcerer",
             "Shinon - Sharptongue Ninja",
             "Camilla - Midnight Bloom",
@@ -3991,6 +4009,7 @@
             "Freyr - Estival Dreams",
             "Dheginsea - Harvest Goldoan",
             "Sigurd - Proper Pourer",
+            "Dagr - Bluster Princess",
             "Say'ri - Righteous Bride",
             "Camilla - Tropical Beauty",
             "Palla - Eldest Bun-Bun",
@@ -4117,7 +4136,7 @@
             "Owain - Chosen One"
           ]
         },
-        "grail": { "4": ["Astram - Midia's Hero"] },
+        "grail": { "4": ["Fuga - Force of Gales", "Astram - Midia's Hero"] },
         "legendary": {
           "5": [
             "Robin - Fell Vessel",
@@ -5390,7 +5409,11 @@
           ]
         },
         "duo": {
-          "5": ["Lyn - Ninja-Friend Duo", "Shamir - Heartbeats United"]
+          "5": [
+            "Lyn - Ninja-Friend Duo",
+            "Kagero - Bond Unwavering",
+            "Shamir - Heartbeats United"
+          ]
         },
         "harmonized": {
           "5": [
@@ -5627,7 +5650,9 @@
         "special": {
           "5": ["Anna - Secret Charmer", "Bernadetta - Late Hibernator"]
         },
-        "duo": { "5": ["Shamir - Heartbeats United"] },
+        "duo": {
+          "5": ["Kagero - Bond Unwavering", "Shamir - Heartbeats United"]
+        },
         "harmonized": { "5": ["Linde - Bound by Fate"] }
       },
       "id": "Remote Sparrow",
@@ -6380,7 +6405,9 @@
     "Heavy Blade 3": {
       "pool": {
         "#": { "5": ["Ike - Young Mercenary"] },
-        "grail": { "5": ["Jamke - Prince of Verdane"] },
+        "grail": {
+          "5": ["Fuga - Force of Gales", "Jamke - Prince of Verdane"]
+        },
         "special": { "5": ["Tibarn - Shipless Pirate"] },
         "duo": { "5": ["Ephraim - Dynastic Duo"] }
       },
@@ -7558,6 +7585,7 @@
           "5": [
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
+            "Catria - Windswept Knight",
             "Delthea - Prodigy in Bloom"
           ]
         },
@@ -7891,7 +7919,10 @@
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
-        "special": { "4": ["Panne - Welcoming Dawn"] },
+        "special": {
+          "4": ["Panne - Welcoming Dawn"],
+          "5": ["Dagr - Bluster Princess"]
+        },
         "harmonized": {
           "5": [
             "Karla - Spring Reveries",
@@ -7911,6 +7942,7 @@
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
+        "special": { "5": ["Dagr - Bluster Princess"] },
         "harmonized": {
           "5": [
             "Karla - Spring Reveries",
@@ -8089,6 +8121,20 @@
       "name": "攻擊魔防的龍眼4",
       "sp": 300,
       "icon": "skillA/Atk_Res_Scowl_4.png"
+    },
+    "Atk/Spd Prime 3": {
+      "pool": { "special": { "5": ["Claude - Golden Breeze"] } },
+      "id": "Atk/Spd Prime 3",
+      "name": "攻擊速度的準備3",
+      "sp": 240,
+      "icon": "skillA/Atk_Spd_Prime_3.png"
+    },
+    "Atk/Spd Prime 4": {
+      "pool": { "special": { "5": ["Claude - Golden Breeze"] } },
+      "id": "Atk/Spd Prime 4",
+      "name": "攻擊速度的準備4",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Prime_4.png"
     }
   },
   "skillB": {
@@ -10001,12 +10047,20 @@
             "Gunnthrá - Beaming Smile",
             "Fáfnir - Fresh Ambition"
           ]
-        }
+        },
+        "duo": { "5": ["Kagero - Bond Unwavering"] }
       },
       "id": "Disarm Trap 3",
       "name": "解除陷阱3",
-      "sp": 200,
+      "sp": 240,
       "icon": "skillB/Disarm_Trap_3.png"
+    },
+    "Disarm Trap 4": {
+      "pool": { "duo": { "5": ["Kagero - Bond Unwavering"] } },
+      "id": "Disarm Trap 4",
+      "name": "解除陷阱4",
+      "sp": 300,
+      "icon": "skillB/Disarm_Trap_4.png"
     },
     "Lull Atk/Spd 3": {
       "pool": {
@@ -10388,7 +10442,10 @@
       "icon": "skillB/A_R_Far_Trace_3.png"
     },
     "S/D Far Trace 3": {
-      "pool": { "#": { "5": ["Florina - Azure-Sky Knight"] } },
+      "pool": {
+        "#": { "5": ["Florina - Azure-Sky Knight"] },
+        "special": { "5": ["Catria - Windswept Knight"] }
+      },
       "id": "S/D Far Trace 3",
       "name": "速度防守遠影3",
       "sp": 240,
@@ -11804,6 +11861,7 @@
         },
         "grail": {
           "4": [
+            "Fuga - Force of Gales",
             "Petrine - Icy Flame-Lancer",
             "Yen'fay - Blade Legend",
             "Fernand - Traitorous Knight"
@@ -12896,7 +12954,11 @@
         "mythic": { "5": ["Nerþuz - God of the Land"] },
         "special": {
           "4": ["Flavia - Bold Bride"],
-          "5": ["Bernadetta - Frosty Shut-In", "Delthea - Prodigy in Bloom"]
+          "5": [
+            "Dagr - Bluster Princess",
+            "Bernadetta - Frosty Shut-In",
+            "Delthea - Prodigy in Bloom"
+          ]
         }
       },
       "id": "Rouse Atk/Spd 3",
@@ -13009,7 +13071,8 @@
     "Alarm Atk/Spd": {
       "pool": {
         "#": { "5": ["Eitr - Hand of Nothing"] },
-        "mythic": { "5": ["Nerþuz - God of the Land"] }
+        "mythic": { "5": ["Nerþuz - God of the Land"] },
+        "special": { "5": ["Dagr - Bluster Princess"] }
       },
       "id": "Alarm Atk/Spd",
       "name": "攻擊速度的奮進",
@@ -13053,7 +13116,11 @@
           ]
         },
         "special": {
-          "5": ["Eirika - Beach Restorer", "Lysithea - Tea Sweetener"]
+          "5": [
+            "Eirika - Beach Restorer",
+            "Lysithea - Tea Sweetener",
+            "Claude - Golden Breeze"
+          ]
         }
       },
       "id": "Atk/Spd Oath 3",
@@ -13072,7 +13139,11 @@
         },
         "legendary": { "5": ["Shez - Sharpest Blades"] },
         "special": {
-          "5": ["Eirika - Beach Restorer", "Lysithea - Tea Sweetener"]
+          "5": [
+            "Eirika - Beach Restorer",
+            "Lysithea - Tea Sweetener",
+            "Claude - Golden Breeze"
+          ]
         }
       },
       "id": "Atk/Spd Oath 4",
@@ -13254,7 +13325,7 @@
       "pool": {
         "legendary": { "5": ["Xander - Gallant King"] },
         "special": { "5": ["Elm - Resolute Grouch", "Anna - Secret Charmer"] },
-        "duo": { "5": ["Nina - Shadowy Figures"] },
+        "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] },
         "harmonized": { "5": ["Lysithea - Gifted Students"] }
       },
       "id": "C Feud 3",

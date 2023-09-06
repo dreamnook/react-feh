@@ -4186,5 +4186,38 @@
     "rules": "dragon",
     "icon": "skillA/Atk_Res_Scowl_4.png",
     "last": true
+  },
+  "Atk/Spd Prime 1": {
+    "id": "Atk/Spd Prime 1",
+    "name": "攻擊速度的準備1",
+    "sp": 60,
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Atk_Spd_Prime_1.png"
+  },
+  "Atk/Spd Prime 2": {
+    "id": "Atk/Spd Prime 2",
+    "name": "攻擊速度的準備2",
+    "sp": 120,
+    "prev": ["Atk/Spd Prime 1"],
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Atk_Spd_Prime_2.png"
+  },
+  "Atk/Spd Prime 3": {
+    "id": "Atk/Spd Prime 3",
+    "name": "攻擊速度的準備3",
+    "sp": 240,
+    "prev": ["Atk/Spd Prime 2"],
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Atk_Spd_Prime_3.png",
+    "last": true
+  },
+  "Atk/Spd Prime 4": {
+    "id": "Atk/Spd Prime 4",
+    "name": "攻擊速度的準備4",
+    "sp": 300,
+    "prev": ["Atk/Spd Prime 3"],
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Atk_Spd_Prime_4.png",
+    "last": true
   }
 }

@@ -2129,6 +2129,33 @@
       "Even Tempest 3": 4
     }
   },
+  "Dagr - Bluster Princess": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Fujin Uchiwa": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Clash 4": 5
+    },
+    "skillB": {
+      "Twin-Sky Wing": 5
+    },
+    "skillC": {
+      "Rouse Atk/Spd 1": 2,
+      "Rouse Atk/Spd 2": 3,
+      "Rouse Atk/Spd 3": 4,
+      "Alarm Atk/Spd": 5
+    }
+  },
   "Dagr - New Year Jötnar": {
     "weapon": {
       "Iron Bow": 1,
@@ -3601,6 +3628,28 @@
       "Spur Spd 1": 1,
       "Drive Spd 1": 2,
       "Drive Spd 2": 4
+    }
+  },
+  "Catria - Windswept Knight": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Whitewind Bow": 3,
+      "Whitewind Bow+": 5
+    },
+    "assist": {
+      "Harsh Command": 4,
+      "Harsh Command+": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 1,
+      "Atk/Spd Catch 2": 2,
+      "Atk/Spd Catch 3": 4
+    },
+    "skillB": {
+      "S/D Far Trace 1": 3,
+      "S/D Far Trace 2": 4,
+      "S/D Far Trace 3": 5
     }
   },
   "Est - Junior Whitewing": {
@@ -19008,6 +19057,36 @@
       "Goad Fliers": 4
     }
   },
+  "Kagero - Bond Unwavering": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 4,
+      "Brightwind Fans": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4,
+      "Lethality": 5
+    },
+    "skillA": {
+      "Death Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Remote Sparrow": 5
+    },
+    "skillB": {
+      "Disarm Trap 1": 2,
+      "Disarm Trap 2": 3,
+      "Disarm Trap 3": 4,
+      "Disarm Trap 4": 5
+    },
+    "skillC": {
+      "C Feud 1": 1,
+      "C Feud 2": 2,
+      "C Feud 3": 4
+    }
+  },
   "Kagero - Beverage Ninja": {
     "weapon": {
       "Iron Dagger": 1,
@@ -21249,6 +21328,28 @@
       "Res Ploy 3": 5
     }
   },
+  "Fuga - Force of Gales": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Wind Tribe Club": 3,
+      "Wind Tribe Club+": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4
+    },
+    "skillA": {
+      "Heavy Blade 1": 3,
+      "Heavy Blade 2": 4,
+      "Heavy Blade 3": 5
+    },
+    "skillC": {
+      "Threaten Atk 1": 1,
+      "Threat. Atk/Def 1": 2,
+      "Threat. Atk/Def 2": 4
+    }
+  },
   "Anankos - Seething Silence": {
     "weapon": {
       "Fire Breath": 1,
@@ -22710,6 +22811,34 @@
       "Spd/Def Rein 1": 1,
       "Spd/Def Rein 2": 2,
       "Spd/Def Rein 3": 4
+    }
+  },
+  "Claude - Golden Breeze": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 4,
+      "Playful Pinwheel": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4,
+      "Lethality": 5
+    },
+    "skillA": {
+      "Atk/Spd Prime 1": 2,
+      "Atk/Spd Prime 2": 3,
+      "Atk/Spd Prime 3": 4,
+      "Atk/Spd Prime 4": 5
+    },
+    "skillB": {
+      "Deep Star": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Oath 4": 5
     }
   },
   "Claude - Tropical Trouble": {

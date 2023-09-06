@@ -249,6 +249,9 @@
     "moveType": 8,
     "colorType": 8
   },
+  "learner.def-dmger": {
+    "weaponType": 15732727
+  },
   "learner.sorcery-blade": {
     "moveType": 1,
     "weaponType": 15732727

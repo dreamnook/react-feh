@@ -2952,6 +2952,16 @@
       "exclusive": ["Robin - Exalt's Deliverer"],
       "last": true
     },
+    "Fujin Uchiwa": {
+      "id": "Fujin Uchiwa",
+      "name": "風神的扇子",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Dagr - Bluster Princess"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -11274,6 +11284,39 @@
         }
       },
       "last": true
+    },
+    "Wind Tribe Club": {
+      "id": "Wind Tribe Club",
+      "name": "風之部落的金棒",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Wind Tribe Club+": {
+      "id": "Wind Tribe Club+",
+      "name": "風之部落的金棒+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Wind Tribe Club"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "bow": {
@@ -14003,6 +14046,39 @@
         }
       },
       "last": true
+    },
+    "Whitewind Bow": {
+      "id": "Whitewind Bow",
+      "name": "白風之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Whitewind Bow+": {
+      "id": "Whitewind Bow+",
+      "name": "白風之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Whitewind Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "dagger": {
@@ -14668,6 +14744,26 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Yuri - Underground Lord"],
+      "last": true
+    },
+    "Brightwind Fans": {
+      "id": "Brightwind Fans",
+      "name": "隨風飛舞的白夜咒扇",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Kagero - Bond Unwavering"],
+      "last": true
+    },
+    "Playful Pinwheel": {
+      "id": "Playful Pinwheel",
+      "name": "風車",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Claude - Golden Breeze"],
       "last": true
     },
     "Iron Dagger": {

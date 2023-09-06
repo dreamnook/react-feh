@@ -3082,17 +3082,6 @@
     "skillB": { "Escape Route 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Dragons": { "sp": 200, "rarity": 5 } }
   },
-  "Larum - Sprightly Dancer": {
-    "score": 240,
-    "scoreTotal": 440,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 440,
-    "feather": 1000,
-    "bst": 156,
-    "skillB": { "Disarm Trap 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Spd/Res Gap 3": { "sp": 240, "rarity": 5 } }
-  },
   "Faye - Devoted Heart": {
     "score": 240,
     "scoreTotal": 440,
@@ -3652,6 +3641,17 @@
     "special": { "Miracle": { "sp": 200, "rarity": 3 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Larum - Sprightly Dancer": {
+    "score": 240,
+    "scoreTotal": 480,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 1000,
+    "bst": 156,
+    "skillB": { "Disarm Trap 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd/Res Gap 3": { "sp": 240, "rarity": 5 } }
   },
   "Phina - Roving Dancer": {
     "score": 240,
@@ -4546,6 +4546,19 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 4 } },
     "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Fuga - Force of Gales": {
+    "score": 249,
+    "scoreTotal": 615,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Bonfire": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Heavy Blade 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Threat. Atk/Def 2": { "sp": 200, "rarity": 4 } }
   },
   "Linde - Summer Rays": {
     "score": 254,
@@ -6214,18 +6227,6 @@
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillC": { "Goad Armor": { "sp": 200, "rarity": 5 } }
   },
-  "Rennac - Rich 'Merchant'": {
-    "score": 300,
-    "scoreTotal": 700,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 700,
-    "feather": 1000,
-    "bst": 177,
-    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Solo 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Disarm Trap 3": { "sp": 200, "rarity": 5 } }
-  },
   "Lyn - Lady of the Plains": {
     "score": 500,
     "scoreTotal": 700,
@@ -7047,6 +7048,18 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd/Res Tempo 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Rennac - Rich 'Merchant'": {
+    "score": 300,
+    "scoreTotal": 740,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 177,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Solo 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Disarm Trap 3": { "sp": 240, "rarity": 5 } }
   },
   "Dimitri - Savage Boar": {
     "score": 300,
@@ -8947,6 +8960,19 @@
     "skillA": { "Atk/Def Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Wrath 4": { "sp": 300, "rarity": 5 } }
   },
+  "Dagr - Bluster Princess": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Alarm Atk/Spd": { "sp": 300, "rarity": 5 } }
+  },
   "Say'ri - Righteous Bride": {
     "score": 318,
     "scoreTotal": 848,
@@ -9250,20 +9276,6 @@
     "skillB": { "Flier Formation 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Hone Fliers": { "sp": 200, "rarity": 5 } }
   },
-  "Palla - Eldest Bun-Bun": {
-    "score": 254,
-    "scoreTotal": 890,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 840,
-    "feather": 1000,
-    "bst": 155,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Disarm Trap 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Hone Fliers": { "sp": 200, "rarity": 5 } }
-  },
   "Yuri - Ashen Valiant": {
     "score": 300,
     "scoreTotal": 890,
@@ -9341,19 +9353,6 @@
     "special": { "Blazing Thunder": { "sp": 300, "rarity": 5 } },
     "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "A/R Far Trace 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Gunnthrá - Beaming Smile": {
-    "score": 424,
-    "scoreTotal": 890,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 400,
-    "spTotal": 840,
-    "feather": 1000,
-    "bst": 150,
-    "assist": { "Rally Def/Res+": { "sp": 400, "rarity": 5 } },
-    "skillA": { "AR-O Spd/Res 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Disarm Trap 3": { "sp": 200, "rarity": 5 } }
   },
   "Fjorm - Princess of Ice": {
     "score": 276,
@@ -9699,6 +9698,20 @@
     "skillB": { "Def/Res Link 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
   },
+  "Palla - Eldest Bun-Bun": {
+    "score": 254,
+    "scoreTotal": 933,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 880,
+    "feather": 1000,
+    "bst": 155,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Disarm Trap 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Hone Fliers": { "sp": 200, "rarity": 5 } }
+  },
   "Pent - Fancy Fiancé": {
     "score": 424,
     "scoreTotal": 933,
@@ -9711,6 +9724,19 @@
     "assist": { "Rally Up Atk+": { "sp": 400, "rarity": 5 } },
     "skillB": { "Dull Ranged 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Gunnthrá - Beaming Smile": {
+    "score": 424,
+    "scoreTotal": 933,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 1000,
+    "bst": 150,
+    "assist": { "Rally Def/Res+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "AR-O Spd/Res 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Disarm Trap 3": { "sp": 240, "rarity": 5 } }
   },
   "Ursula - Clear-Blue Crow": {
     "score": 424,
@@ -9789,6 +9815,19 @@
     "assist": { "Rally Atk/Def+": { "sp": 400, "rarity": 5 } },
     "skillA": { "AR-D Atk/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Catria - Windswept Knight": {
+    "score": 424,
+    "scoreTotal": 933,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 1000,
+    "bst": 184,
+    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "S/D Far Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Mist - Purest Spirit": {
     "score": 424,
@@ -11541,20 +11580,6 @@
     "skillB": { "Savvy Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "A/D Near Save 3": { "sp": 300, "rarity": 5 } }
   },
-  "Fáfnir - Fresh Ambition": {
-    "score": 318,
-    "scoreTotal": 1060,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 1000,
-    "feather": 1000,
-    "bst": 169,
-    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Solo 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Disarm Trap 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Rouse Atk/Def 4": { "sp": 300, "rarity": 5 } }
-  },
   "Sophia - Prescient Bride": {
     "score": 424,
     "scoreTotal": 1060,
@@ -11789,6 +11814,20 @@
     "skillA": { "B Duel Cavalry 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Hone Spd": { "sp": 300, "rarity": 5 } }
+  },
+  "Fáfnir - Fresh Ambition": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 169,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Solo 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Disarm Trap 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Def 4": { "sp": 300, "rarity": 5 } }
   },
   "Linde - Bound by Fate": {
     "score": 318,
@@ -12151,6 +12190,19 @@
     "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Claude - Golden Breeze": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Lethality": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Tiki - Bridal Reflections": {
     "score": 530,
@@ -12579,6 +12631,20 @@
     "special": { "Lethality": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Chill Def/Res 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Kagero - Bond Unwavering": {
+    "score": 530,
+    "scoreTotal": 1420,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1340,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Lethality": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Disarm Trap 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Shamir - Heartbeats United": {

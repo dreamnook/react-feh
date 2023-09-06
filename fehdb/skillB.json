@@ -504,6 +504,22 @@
     "last": true,
     "icon": "skillB/Gold_Unwinding.png"
   },
+  "Twin-Sky Wing": {
+    "id": "Twin-Sky Wing",
+    "name": "雙姬的天翼",
+    "sp": 300,
+    "exclusive": ["Dagr - Bluster Princess"],
+    "last": true,
+    "icon": "skillB/Twin-Sky_Wing.png"
+  },
+  "Deep Star": {
+    "id": "Deep Star",
+    "name": "真落星",
+    "sp": 300,
+    "exclusive": ["Claude - Golden Breeze"],
+    "last": true,
+    "icon": "skillB/Deep_Star.png"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -3282,14 +3298,14 @@
   "Disarm Trap 1": {
     "id": "Disarm Trap 1",
     "name": "解除陷阱1",
-    "sp": 50,
+    "sp": 60,
     "rules": "dagger",
     "icon": "skillB/Disarm_Trap_1.png"
   },
   "Disarm Trap 2": {
     "id": "Disarm Trap 2",
     "name": "解除陷阱2",
-    "sp": 100,
+    "sp": 120,
     "prev": ["Disarm Trap 1"],
     "rules": "dagger",
     "icon": "skillB/Disarm_Trap_2.png"
@@ -3297,10 +3313,19 @@
   "Disarm Trap 3": {
     "id": "Disarm Trap 3",
     "name": "解除陷阱3",
-    "sp": 200,
+    "sp": 240,
     "prev": ["Disarm Trap 2"],
     "rules": "dagger",
     "icon": "skillB/Disarm_Trap_3.png",
+    "last": true
+  },
+  "Disarm Trap 4": {
+    "id": "Disarm Trap 4",
+    "name": "解除陷阱4",
+    "sp": 300,
+    "prev": ["Disarm Trap 3"],
+    "rules": "dagger",
+    "icon": "skillB/Disarm_Trap_4.png",
     "last": true
   },
   "Lull Atk/Spd 1": {
