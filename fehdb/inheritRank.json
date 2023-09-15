@@ -2310,6 +2310,19 @@
     "skillA": { "Atk/Res Catch 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
+  "Catria - Windswept Knight": {
+    "score": 196,
+    "scoreTotal": 400,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 300,
+    "bst": 184,
+    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "S/D Far Trace 3": { "sp": 240, "rarity": 5 } }
+  },
   "Sanaki - Begnion's Apostle": {
     "score": 200,
     "scoreTotal": 400,
@@ -4675,6 +4688,30 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Patty - Youthful Thief": {
+    "score": 240,
+    "scoreTotal": 630,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 187,
+    "assist": { "Pivot": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Dull Ranged 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Fee - Aspiring Knight": {
+    "score": 240,
+    "scoreTotal": 630,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 188,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 5 } }
   },
   "Sakura - Gentle Nekomata": {
     "score": 212,
@@ -7654,6 +7691,19 @@
     "skillA": { "Swift Stance 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
+  "Arion - Gungnir's Heir": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 189,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Wyvern Flight 3": { "sp": 240, "rarity": 5 } }
+  },
   "Murdock - Loyal General": {
     "score": 322,
     "scoreTotal": 746,
@@ -8507,6 +8557,18 @@
     "skillA": { "Sturdy Stance 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Near Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Febail - Mercenary Waif": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Hexblade": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Phys. Null Follow": { "sp": 300, "rarity": 5 } }
+  },
   "Tiki - Fated Divinity": {
     "score": 300,
     "scoreTotal": 800,
@@ -9354,6 +9416,18 @@
     "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "A/R Far Trace 3": { "sp": 240, "rarity": 5 } }
   },
+  "Plumeria - Rapturous Dream": {
+    "score": 300,
+    "scoreTotal": 900,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 168,
+    "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Wings of Mercy 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
+  },
   "Fjorm - Princess of Ice": {
     "score": 276,
     "scoreTotal": 902,
@@ -9815,19 +9889,6 @@
     "assist": { "Rally Atk/Def+": { "sp": 400, "rarity": 5 } },
     "skillA": { "AR-D Atk/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Catria - Windswept Knight": {
-    "score": 424,
-    "scoreTotal": 933,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 400,
-    "spTotal": 880,
-    "feather": 1000,
-    "bst": 184,
-    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
-    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "S/D Far Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Mist - Purest Spirit": {
     "score": 424,
@@ -12362,6 +12423,19 @@
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Ced - Sage of the Wind": {
+    "score": 300,
+    "scoreTotal": 1200,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Special Spiral 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Infantry Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Lilina - Beaming Bride": {
     "score": 318,

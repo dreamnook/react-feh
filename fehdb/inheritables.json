@@ -189,6 +189,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Protection Edge+": {
+        "pool": { "#": { "5": ["Fee - Aspiring Knight"] } },
+        "id": "Protection Edge+",
+        "name": "守護劍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Kadomatsu+": {
         "pool": { "special": { "5": ["Camilla - Holiday Traveler"] } },
         "id": "Kadomatsu+",
@@ -1510,6 +1517,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Miasma Dagger+": {
+        "pool": { "#": { "5": ["Patty - Youthful Thief"] } },
+        "id": "Miasma Dagger+",
+        "name": "毒煙暗器+",
+        "sp": 300,
+        "refine": 350
+      },
       "Seashell+": {
         "pool": { "special": { "5": ["Frederick - Horizon Watcher"] } },
         "id": "Seashell+",
@@ -1873,6 +1887,12 @@
       }
     },
     "blue-tome": {
+      "Arcane Euphoria": {
+        "pool": { "#": { "5": ["Plumeria - Rapturous Dream"] } },
+        "id": "Arcane Euphoria",
+        "name": "魔器・陶醉之花",
+        "sp": 300
+      },
       "Shine+": {
         "pool": { "grail": { "5": ["Oliver - Admirer of Beauty"] } },
         "id": "Shine+",
@@ -2914,6 +2934,7 @@
           "5": [
             "Olwen - Blue Mage Knight",
             "Sumia - Maid of Flowers",
+            "Fee - Aspiring Knight",
             "Wolf - Coyote's Loyal",
             "Farina - The Great Wing",
             "Lilith - Astral Daughter",
@@ -2952,7 +2973,7 @@
             "Marth - Altean Prince",
             "Colm - Capable Thief"
           ],
-          "5": ["Kaden - Kitsune Braggart"]
+          "5": ["Kaden - Kitsune Braggart", "Patty - Youthful Thief"]
         },
         "grail": {
           "4": [
@@ -3337,8 +3358,8 @@
           "5": [
             "Sothe - Rushing Dawn",
             "Flavia - Bold Bride",
-            "Fir - Student of Spring",
             "Catria - Windswept Knight",
+            "Fir - Student of Spring",
             "Brigid - Orgahil Pirate",
             "Tanith - Forthright Heart"
           ]
@@ -3593,6 +3614,7 @@
             "Gullveig - Seer Beyond Time",
             "Eitr - Hand of Nothing",
             "Ingrid - Beacon of Honor",
+            "Febail - Mercenary Waif",
             "Hinoka - Blue Sky Warrior",
             "Petra - Princess of Brigid",
             "Perceval - Knightly Ideal",
@@ -4213,6 +4235,7 @@
             "Jorge - Traveling Peddler",
             "Bertram - Dread Cavalier",
             "Flame Emperor - Bringer of War",
+            "Arion - Gungnir's Heir",
             "Murdock - Loyal General",
             "Ludveck - Rebellious Duke",
             "Cervantes - Invincible General"
@@ -4432,7 +4455,8 @@
           "5": [
             "Hinoka - Warrior Princess",
             "Olwen - Righteous Knight",
-            "Igrene - Nabata Protector"
+            "Igrene - Nabata Protector",
+            "Ced - Sage of the Wind"
           ]
         },
         "grail": {
@@ -5198,6 +5222,7 @@
     },
     "Still Water 3": {
       "pool": {
+        "#": { "5": ["Plumeria - Rapturous Dream"] },
         "grail": { "5": ["Tailtiu - Teatime Mingler"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
@@ -5211,6 +5236,7 @@
     },
     "Still Water 4": {
       "pool": {
+        "#": { "5": ["Plumeria - Rapturous Dream"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
         "special": { "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"] },
@@ -7343,7 +7369,10 @@
     },
     "Sorcery Blade 3": {
       "pool": {
-        "#": { "3": ["Lapis - Mighty Flower"], "5": ["Ylgr - Fresh Snowfall"] },
+        "#": {
+          "3": ["Lapis - Mighty Flower"],
+          "5": ["Febail - Mercenary Waif", "Ylgr - Fresh Snowfall"]
+        },
         "legendary": { "5": ["Yuri - Underground Lord"] }
       },
       "id": "Sorcery Blade 3",
@@ -7357,6 +7386,13 @@
       "name": "攻擊速度的魔刃",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Hexblade.png"
+    },
+    "Spd/Res Hexblade": {
+      "pool": { "#": { "5": ["Febail - Mercenary Waif"] } },
+      "id": "Spd/Res Hexblade",
+      "name": "速度魔防的魔刃",
+      "sp": 300,
+      "icon": "skillA/Spd_Res_Hexblade.png"
     },
     "Bonus Doubler 3": {
       "pool": {
@@ -7581,11 +7617,14 @@
           ]
         },
         "special": {
-          "4": ["Ashe - Budding Chivalry", "Lyre - Lap Cat of Luxury"],
+          "4": [
+            "Ashe - Budding Chivalry",
+            "Catria - Windswept Knight",
+            "Lyre - Lap Cat of Luxury"
+          ],
           "5": [
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
-            "Catria - Windswept Knight",
             "Delthea - Prodigy in Bloom"
           ]
         },
@@ -7651,6 +7690,7 @@
           "5": ["Zeke - Past Unknown", "Gustav - Sovereign Slain"]
         },
         "grail": {
+          "4": ["Arion - Gungnir's Heir"],
           "5": ["Jeralt - Blade Breaker", "Sedgar - Coyote's Dutiful"]
         },
         "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
@@ -7760,7 +7800,8 @@
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
             "Alear - Dragon Youth",
-            "Alear - Dragon Child"
+            "Alear - Dragon Child",
+            "Ced - Sage of the Wind"
           ]
         },
         "grail": {
@@ -7783,7 +7824,8 @@
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
             "Alear - Dragon Youth",
-            "Alear - Dragon Child"
+            "Alear - Dragon Child",
+            "Ced - Sage of the Wind"
           ]
         },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
@@ -7857,7 +7899,10 @@
     },
     "Spd/Def Ideal 3": {
       "pool": {
-        "#": { "3": ["Kamui - Wandering Blade"], "5": ["Hugh - Worldly Mage"] }
+        "#": {
+          "3": ["Kamui - Wandering Blade"],
+          "5": ["Patty - Youthful Thief", "Hugh - Worldly Mage"]
+        }
       },
       "id": "Spd/Def Ideal 3",
       "name": "速度防守萬全3",
@@ -8236,7 +8281,7 @@
             "Palla - Eldest Whitewing",
             "Cain - The Bull"
           ],
-          "5": ["Faye - Devoted Heart"]
+          "5": ["Faye - Devoted Heart", "Plumeria - Rapturous Dream"]
         },
         "grail": {
           "4": ["Black Knight - Sinister General"],
@@ -8255,7 +8300,10 @@
       "icon": "skillB/Wings_of_Mercy_3.png"
     },
     "Wings of Mercy 4": {
-      "pool": { "legendary": { "5": ["Hinoka - Thundering Wings"] } },
+      "pool": {
+        "#": { "5": ["Plumeria - Rapturous Dream"] },
+        "legendary": { "5": ["Hinoka - Thundering Wings"] }
+      },
       "id": "Wings of Mercy 4",
       "name": "救援路線4",
       "sp": 300,
@@ -9414,6 +9462,7 @@
       "pool": {
         "#": {
           "5": [
+            "Fee - Aspiring Knight",
             "Nino - Pale Flower",
             "Petra - Princess of Brigid",
             "Catria - Mild Middle Sister"
@@ -9455,7 +9504,10 @@
       "icon": "skillB/Pegasus_Flight_4.png"
     },
     "Wyvern Flight 3": {
-      "pool": { "#": { "5": ["Melady - Crimson Rider"] } },
+      "pool": {
+        "#": { "5": ["Melady - Crimson Rider"] },
+        "grail": { "5": ["Arion - Gungnir's Heir"] }
+      },
       "id": "Wyvern Flight 3",
       "name": "飛龍行空3",
       "sp": 240,
@@ -9657,7 +9709,10 @@
     },
     "Dull Ranged 3": {
       "pool": {
-        "#": { "3": ["Morgan - Lad from Afar"] },
+        "#": {
+          "3": ["Morgan - Lad from Afar"],
+          "5": ["Patty - Youthful Thief"]
+        },
         "grail": { "4": ["Felix - Icy Gift Giver"] },
         "special": { "5": ["Pent - Fancy Fiancé"] }
       },
@@ -9916,7 +9971,8 @@
             "Citrinne - Caring Noble",
             "Lewyn - Guiding Breeze",
             "Ophelia - Starlit Maiden",
-            "Igrene - Nabata Protector"
+            "Igrene - Nabata Protector",
+            "Ced - Sage of the Wind"
           ]
         },
         "special": {
@@ -9931,7 +9987,13 @@
     },
     "Special Spiral 4": {
       "pool": {
-        "#": { "5": ["Citrinne - Caring Noble", "Ophelia - Starlit Maiden"] }
+        "#": {
+          "5": [
+            "Citrinne - Caring Noble",
+            "Ophelia - Starlit Maiden",
+            "Ced - Sage of the Wind"
+          ]
+        }
       },
       "id": "Special Spiral 4",
       "name": "奧義之螺旋4",
@@ -9945,6 +10007,7 @@
             "Nyx - Rulebreaker Mage",
             "Mareeta - The Blade's Pawn",
             "Galzus - Dark Blade of Od",
+            "Febail - Mercenary Waif",
             "Corrin - Dream Prince",
             "Hilda - Idle Maiden",
             "Asbel - Windswept Youth",
@@ -9975,7 +10038,9 @@
       "icon": "skillB/Null_Follow_Up_3.png"
     },
     "Phys. Null Follow": {
-      "pool": { "#": { "5": ["Fir - Swordmaiden"] } },
+      "pool": {
+        "#": { "5": ["Febail - Mercenary Waif", "Fir - Swordmaiden"] }
+      },
       "id": "Phys. Null Follow",
       "name": "理之識破・追擊",
       "sp": 300,
@@ -10896,6 +10961,7 @@
         "#": {
           "3": ["Tailtiu - Thunder Noble", "Kiragi - Upbeat Archer"],
           "5": [
+            "Fee - Aspiring Knight",
             "Lucina - Brave Princess",
             "Ronan - Villager of Iz",
             "Florina - Azure-Sky Knight",
@@ -12053,7 +12119,11 @@
       "pool": {
         "#": {
           "3": ["Forrest - Fashion Forward", "Ilyana - Hungering Mage"],
-          "5": ["Sonya - Vengeful Mage", "Lute - Prodigy"]
+          "5": [
+            "Sonya - Vengeful Mage",
+            "Lute - Prodigy",
+            "Plumeria - Rapturous Dream"
+          ]
         },
         "grail": { "5": ["Arete - Requiem's Beauty"] },
         "legendary": { "5": ["Gunnthrá - Voice of Dreams"] },
@@ -12063,6 +12133,13 @@
       "name": "魔防謀策3",
       "sp": 240,
       "icon": "skillC/Res_Ploy_3.png"
+    },
+    "Def/Res Ploy 3": {
+      "pool": { "#": { "5": ["Plumeria - Rapturous Dream"] } },
+      "id": "Def/Res Ploy 3",
+      "name": "防守魔防謀策3",
+      "sp": 300,
+      "icon": "skillC/Def_Res_Ploy_3.png"
     },
     "Panic Ploy 3": {
       "pool": {
@@ -12332,7 +12409,8 @@
             "Nils - Bright Bard",
             "Dorcas - Serene Warrior",
             "Helbindi - Savage Scourge",
-            "Gerik - Desert Tiger"
+            "Gerik - Desert Tiger",
+            "Ced - Sage of the Wind"
           ]
         },
         "grail": { "5": ["Boyd - Future Great", "Marisa - Crimson Flash"] },
@@ -12345,6 +12423,13 @@
       "name": "步行之躍動3",
       "sp": 240,
       "icon": "skillC/Infantry_Pulse_3.png"
+    },
+    "Infantry Pulse 4": {
+      "pool": { "#": { "5": ["Ced - Sage of the Wind"] } },
+      "id": "Infantry Pulse 4",
+      "name": "步行之躍動4",
+      "sp": 300,
+      "icon": "skillC/Infantry_Pulse_4.png"
     },
     "Infantry Rush 3": {
       "pool": {

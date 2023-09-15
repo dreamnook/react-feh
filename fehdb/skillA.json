@@ -3097,6 +3097,15 @@
     "last": true,
     "icon": "skillA/Atk_Spd_Hexblade.png"
   },
+  "Spd/Res Hexblade": {
+    "id": "Spd/Res Hexblade",
+    "name": "速度魔防的魔刃",
+    "sp": 300,
+    "prev": ["Sorcery Blade 3"],
+    "rules": "learner.sorcery-blade",
+    "last": true,
+    "icon": "skillA/Spd_Res_Hexblade.png"
+  },
   "Bonus Doubler 1": {
     "id": "Bonus Doubler 1",
     "name": "強化增幅1",

@@ -143,7 +143,8 @@
       "Mirabilis - Sugarplum Vision",
       "Ninian - Frozen Heart",
       "Larum - Dancing Bride",
-      "Ninian - Ice-Dragon Oracle"
+      "Ninian - Ice-Dragon Oracle",
+      "Plumeria - Rapturous Dream"
     ],
     "last": true
   },
@@ -249,6 +250,14 @@
     "sp": 400,
     "prev": ["Rally Atk/Spd"],
     "exclusive": ["Heiðr - Innocent Goddess"],
+    "last": true
+  },
+  "Cloying Dreams": {
+    "id": "Cloying Dreams",
+    "name": "甘甜的蜜之夢",
+    "sp": 400,
+    "prev": ["Dance"],
+    "exclusive": ["Plumeria - Rapturous Dream"],
     "last": true
   },
   "Heal": {

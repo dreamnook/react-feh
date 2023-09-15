@@ -3679,6 +3679,39 @@
       },
       "last": true
     },
+    "Protection Edge": {
+      "id": "Protection Edge",
+      "name": "守護劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Protection Edge+": {
+      "id": "Protection Edge+",
+      "name": "守護劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Protection Edge"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Kadomatsu": {
       "id": "Kadomatsu",
       "name": "門松",
@@ -6500,6 +6533,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Heired Gungnir": {
+      "id": "Heired Gungnir",
+      "name": "繼承岡格尼爾",
+      "mt": 16,
+      "def": 3,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Arion - Gungnir's Heir"],
       "last": true
     },
     "Arcane Qiang": {
@@ -12576,6 +12619,16 @@
       "exclusive": ["Cyril - Rhea's Attendant"],
       "last": true
     },
+    "Heired Yewfelle": {
+      "id": "Heired Yewfelle",
+      "name": "繼承伊奇巴爾",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Febail - Mercenary Waif"],
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",
@@ -15115,6 +15168,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Armorpin Dagger"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Miasma Dagger": {
+      "id": "Miasma Dagger",
+      "name": "毒煙暗器",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Miasma Dagger+": {
+      "id": "Miasma Dagger+",
+      "name": "毒煙暗器+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Miasma Dagger"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -19664,6 +19750,16 @@
       "exclusive": ["Gullveig - Seer Beyond Time"],
       "last": true
     },
+    "Arcane Euphoria": {
+      "id": "Arcane Euphoria",
+      "name": "魔器・陶醉之花",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Thoron"],
+      "last": true
+    },
     "Thunder": {
       "id": "Thunder",
       "name": "雷電",
@@ -21650,6 +21746,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Soren - Radiant Confidant"],
+      "last": true
+    },
+    "Heired Forseti": {
+      "id": "Heired Forseti",
+      "name": "繼承弗魯賽提",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Ced - Sage of the Wind"],
       "last": true
     },
     "Wind": {

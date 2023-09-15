@@ -2531,6 +2531,41 @@
     "ver": "4.9",
     "dfKey": 3
   },
+  "Plumeria - Rapturous Dream": {
+    "id": "Plumeria - Rapturous Dream",
+    "title": "陶醉之夢",
+    "name": "普路梅莉亞",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-tome",
+    "rearmed": true,
+    "releaseDate": "2023-09-15",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 50],
+        "spd": [15, 18, 21],
+        "def": [16, 19, 22],
+        "res": [42, 45, 48]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 7,
+        "spd": 3,
+        "def": 4,
+        "res": 10
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 168,
+    "statMax": 170,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
+  },
   "Plumeria - Temptation Anew": {
     "id": "Plumeria - Temptation Anew",
     "title": "誘惑的初夢",
@@ -5830,7 +5865,7 @@
     "id": "Catria - Windswept Knight",
     "title": "隨風飛舞的天馬騎士",
     "name": "卡秋雅",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "flying",
     "weaponType": "blue-bow",
@@ -5838,12 +5873,26 @@
     "releaseDate": "2023-09-07",
     "appearsIn": ["Shadow Dragon / (New) Mystery"],
     "stats": {
+      "4": {
+        "hp": [33, 36, 39],
+        "atk": [40, 43, 46],
+        "spd": [40, 43, 47],
+        "def": [19, 22, 25],
+        "res": [24, 27, 30]
+      },
       "5": {
         "hp": [35, 39, 42],
         "atk": [42, 45, 48],
         "spd": [42, 45, 49],
         "def": [21, 25, 28],
         "res": [27, 30, 33]
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 15,
+        "def": 2,
+        "res": 5
       },
       "5-1": {
         "hp": 17,
@@ -12313,6 +12362,41 @@
     "ver": "2.5",
     "dfKey": 1
   },
+  "Ced - Sage of the Wind": {
+    "id": "Ced - Sage of the Wind",
+    "title": "風之聖戰士",
+    "name": "賽提",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "ascended": true,
+    "releaseDate": "2023-09-15",
+    "appearsIn": ["Genealogy of the Holy War", "Thracia 776"],
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [42, 45, 49],
+        "spd": [43, 46, 49],
+        "def": [19, 22, 26],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 15,
+        "spd": 11,
+        "def": 3,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["res"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
+  },
   "Ced - Hero on the Wind": {
     "id": "Ced - Hero on the Wind",
     "title": "風之勇者",
@@ -12666,6 +12750,171 @@
     "book": 6,
     "ver": "6.4",
     "dfKey": 4
+  },
+  "Arion - Gungnir's Heir": {
+    "id": "Arion - Gungnir's Heir",
+    "title": "天槍的繼承者",
+    "name": "阿利翁",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "pool": "grail",
+    "releaseDate": "2023-09-16",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [37, 40, 43],
+        "spd": [29, 32, 35],
+        "def": [38, 41, 44],
+        "res": [15, 18, 21]
+      },
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [40, 43, 46],
+        "spd": [31, 34, 37],
+        "def": [40, 43, 46],
+        "res": [16, 19, 22]
+      },
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [42, 45, 48],
+        "spd": [33, 36, 39],
+        "def": [43, 46, 50],
+        "res": [17, 21, 24]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 11,
+        "def": 6,
+        "res": 7
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 12,
+        "def": 6,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 12,
+        "def": 7,
+        "res": 8
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["res"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
+  },
+  "Febail - Mercenary Waif": {
+    "id": "Febail - Mercenary Waif",
+    "title": "愛護小孩的傭兵",
+    "name": "法巴魯",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-bow",
+    "releaseDate": "2023-09-15",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [42, 45, 49],
+        "def": [22, 26, 29],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 15,
+        "def": 4,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
+  },
+  "Fee - Aspiring Knight": {
+    "id": "Fee - Aspiring Knight",
+    "title": "見習天馬騎士",
+    "name": "霏",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-09-15",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [37, 40, 44],
+        "spd": [42, 45, 49],
+        "def": [23, 26, 30],
+        "res": [36, 40, 43]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 10,
+        "spd": 15,
+        "def": 7,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "spd", "def"],
+    "flaws": ["hp", "res"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
+  },
+  "Patty - Youthful Thief": {
+    "id": "Patty - Youthful Thief",
+    "title": "天真無邪的盜賊",
+    "name": "帕蒂",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-dagger",
+    "releaseDate": "2023-09-15",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [37, 41, 44],
+        "spd": [42, 45, 49],
+        "def": [34, 37, 41],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 15,
+        "def": 7,
+        "res": 5
+      }
+    },
+    "assets": ["spd", "def", "res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
   },
   "Ullr - The Bowmaster": {
     "id": "Ullr - The Bowmaster",

@@ -1729,6 +1729,14 @@
     "icon": "skillC/Res_Ploy_3.png",
     "last": true
   },
+  "Def/Res Ploy 3": {
+    "id": "Def/Res Ploy 3",
+    "name": "防守魔防謀策3",
+    "sp": 300,
+    "prev": ["Def Ploy 3", "Res Ploy 3"],
+    "last": true,
+    "icon": "skillC/Def_Res_Ploy_3.png"
+  },
   "Panic Ploy 1": {
     "id": "Panic Ploy 1",
     "name": "恐慌奇策1",
@@ -2029,6 +2037,15 @@
     "prev": ["Infantry Pulse 2"],
     "rules": "infantry",
     "icon": "skillC/Infantry_Pulse_3.png",
+    "last": true
+  },
+  "Infantry Pulse 4": {
+    "id": "Infantry Pulse 4",
+    "name": "步行之躍動4",
+    "sp": 300,
+    "prev": ["Infantry Pulse 3"],
+    "rules": "infantry",
+    "icon": "skillC/Infantry_Pulse_4.png",
     "last": true
   },
   "Infantry Rush 1": {
