@@ -1,7 +1,6 @@
 {
   "Feh": {
     "id": "Feh",
-    "portrait": "Feh.png",
     "title": "愛睏的貓頭鷹",
     "name": "菲",
     "rarity": [5],
@@ -12852,19 +12851,33 @@
     "id": "Fee - Aspiring Knight",
     "title": "見習天馬騎士",
     "name": "霏",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "flying",
     "weaponType": "red-sword",
     "releaseDate": "2023-09-15",
     "appearsIn": ["Genealogy of the Holy War"],
     "stats": {
+      "4": {
+        "hp": [31, 34, 37],
+        "atk": [35, 38, 42],
+        "spd": [40, 43, 47],
+        "def": [21, 24, 27],
+        "res": [33, 37, 40]
+      },
       "5": {
         "hp": [33, 37, 40],
         "atk": [37, 40, 44],
         "spd": [42, 45, 49],
         "def": [23, 26, 30],
         "res": [36, 40, 43]
+      },
+      "4-1": {
+        "hp": 14,
+        "atk": 10,
+        "spd": 15,
+        "def": 6,
+        "res": 6
       },
       "5-1": {
         "hp": 15,

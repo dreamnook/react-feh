@@ -190,7 +190,7 @@
         "refine": 350
       },
       "Protection Edge+": {
-        "pool": { "#": { "5": ["Fee - Aspiring Knight"] } },
+        "pool": { "#": { "4": ["Fee - Aspiring Knight"] } },
         "id": "Protection Edge+",
         "name": "守護劍+",
         "sp": 300,
@@ -2932,10 +2932,10 @@
             "Kent - Crimson Shield",
             "Cath - Master Thief"
           ],
+          "4": ["Fee - Aspiring Knight"],
           "5": [
             "Olwen - Blue Mage Knight",
             "Sumia - Maid of Flowers",
-            "Fee - Aspiring Knight",
             "Wolf - Coyote's Loyal",
             "Farina - The Great Wing",
             "Lilith - Astral Daughter",
@@ -9462,8 +9462,8 @@
     "Aerobatics 3": {
       "pool": {
         "#": {
+          "4": ["Fee - Aspiring Knight"],
           "5": [
-            "Fee - Aspiring Knight",
             "Nino - Pale Flower",
             "Petra - Princess of Brigid",
             "Catria - Mild Middle Sister"
@@ -10961,8 +10961,8 @@
       "pool": {
         "#": {
           "3": ["Tailtiu - Thunder Noble", "Kiragi - Upbeat Archer"],
+          "4": ["Fee - Aspiring Knight"],
           "5": [
-            "Fee - Aspiring Knight",
             "Lucina - Brave Princess",
             "Ronan - Villager of Iz",
             "Florina - Azure-Sky Knight",

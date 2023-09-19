@@ -2013,6 +2013,18 @@
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
   },
+  "Fee - Aspiring Knight": {
+    "score": 185,
+    "scoreTotal": 373,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 188,
+    "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
+    "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
+  },
   "Gerome - Masked Rider": {
     "score": 374,
     "scoreTotal": 374,
@@ -4700,18 +4712,6 @@
     "assist": { "Pivot": { "sp": 150, "rarity": 5 } },
     "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Dull Ranged 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Fee - Aspiring Knight": {
-    "score": 240,
-    "scoreTotal": 630,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 1000,
-    "bst": 188,
-    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
-    "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 5 } }
   },
   "Sakura - Gentle Nekomata": {
     "score": 212,
