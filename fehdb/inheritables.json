@@ -4834,7 +4834,7 @@
       "id": "HP 3",
       "name": "ＨＰ3",
       "sp": 160,
-      "icon": "skillA/HP_3.png"
+      "icon": "skillA/HP_3"
     },
     "Attack 3": {
       "pool": {
@@ -4852,7 +4852,7 @@
       "id": "Attack 3",
       "name": "攻擊3",
       "sp": 120,
-      "icon": "skillA/Attack_3.png"
+      "icon": "skillA/Attack_3"
     },
     "Speed 3": {
       "pool": {
@@ -4868,7 +4868,7 @@
       "id": "Speed 3",
       "name": "速度3",
       "sp": 120,
-      "icon": "skillA/Speed_3.png"
+      "icon": "skillA/Speed_3"
     },
     "Defense 3": {
       "pool": {
@@ -4885,7 +4885,7 @@
       "id": "Defense 3",
       "name": "防守3",
       "sp": 120,
-      "icon": "skillA/Defense_3.png"
+      "icon": "skillA/Defense_3"
     },
     "Resistance 3": {
       "pool": {
@@ -4903,7 +4903,7 @@
       "id": "Resistance 3",
       "name": "魔防3",
       "sp": 120,
-      "icon": "skillA/Resistance_3.png"
+      "icon": "skillA/Resistance_3"
     },
     "HP/Atk 2": {
       "pool": {
@@ -4914,7 +4914,7 @@
       "id": "HP/Atk 2",
       "name": "ＨＰ攻擊2",
       "sp": 200,
-      "icon": "skillA/HP_Atk_2.png"
+      "icon": "skillA/HP_Atk_2"
     },
     "HP/Spd 2": {
       "pool": {
@@ -4927,7 +4927,7 @@
       "id": "HP/Spd 2",
       "name": "ＨＰ速度2",
       "sp": 200,
-      "icon": "skillA/HP_Spd_2.png"
+      "icon": "skillA/HP_Spd_2"
     },
     "HP/Def 2": {
       "pool": {
@@ -4938,7 +4938,7 @@
       "id": "HP/Def 2",
       "name": "ＨＰ防守2",
       "sp": 200,
-      "icon": "skillA/HP_Def_2.png"
+      "icon": "skillA/HP_Def_2"
     },
     "HP/Res 2": {
       "pool": {
@@ -4951,7 +4951,7 @@
       "id": "HP/Res 2",
       "name": "ＨＰ魔防2",
       "sp": 200,
-      "icon": "skillA/HP_Res_2.png"
+      "icon": "skillA/HP_Res_2"
     },
     "Atk/Spd 2": {
       "pool": {
@@ -4968,7 +4968,7 @@
       "id": "Atk/Spd 2",
       "name": "攻擊速度2",
       "sp": 160,
-      "icon": "skillA/Atk_Spd_2.png"
+      "icon": "skillA/Atk_Spd_2"
     },
     "Atk/Def 2": {
       "pool": {
@@ -4980,7 +4980,7 @@
       "id": "Atk/Def 2",
       "name": "攻擊防守2",
       "sp": 160,
-      "icon": "skillA/Atk_Def_2.png"
+      "icon": "skillA/Atk_Def_2"
     },
     "Atk/Res 2": {
       "pool": {
@@ -4991,7 +4991,7 @@
       "id": "Atk/Res 2",
       "name": "攻擊魔防2",
       "sp": 160,
-      "icon": "skillA/Atk_Res_2.png"
+      "icon": "skillA/Atk_Res_2"
     },
     "Spd/Def 2": {
       "pool": {
@@ -5001,7 +5001,7 @@
       "id": "Spd/Def 2",
       "name": "速度防守2",
       "sp": 160,
-      "icon": "skillA/Spd_Def_2.png"
+      "icon": "skillA/Spd_Def_2"
     },
     "Spd/Res 2": {
       "pool": {
@@ -5011,7 +5011,7 @@
       "id": "Spd/Res 2",
       "name": "速度魔防2",
       "sp": 160,
-      "icon": "skillA/Spd_Res_2.png"
+      "icon": "skillA/Spd_Res_2"
     },
     "Def/Res 2": {
       "pool": {
@@ -5021,7 +5021,7 @@
       "id": "Def/Res 2",
       "name": "防守魔防2",
       "sp": 160,
-      "icon": "skillA/Def_Res_2.png"
+      "icon": "skillA/Def_Res_2"
     },
     "Fortress Def 3": {
       "pool": {
@@ -5037,7 +5037,7 @@
       "id": "Fortress Def 3",
       "name": "防守堡壘3",
       "sp": 160,
-      "icon": "skillA/Fortress_Def_3.png"
+      "icon": "skillA/Fortress_Def_3"
     },
     "Fortress Res 3": {
       "pool": {
@@ -5051,7 +5051,7 @@
       "id": "Fortress Res 3",
       "name": "魔防堡壘3",
       "sp": 160,
-      "icon": "skillA/Fortress_Res_3.png"
+      "icon": "skillA/Fortress_Res_3"
     },
     "Fort. Def/Res 2": {
       "pool": {
@@ -5071,7 +5071,7 @@
       "id": "Fort. Def/Res 2",
       "name": "防守魔防堡壘2",
       "sp": 200,
-      "icon": "skillA/Fort._Def_Res_2.png"
+      "icon": "skillA/Fort._Def_Res_2"
     },
     "Fort. Def/Res 3": {
       "pool": {
@@ -5087,7 +5087,7 @@
       "id": "Fort. Def/Res 3",
       "name": "防守魔防堡壘3",
       "sp": 300,
-      "icon": "skillA/Fort._Def_Res_3.png"
+      "icon": "skillA/Fort._Def_Res_3"
     },
     "Fury 3": {
       "pool": {
@@ -5129,7 +5129,7 @@
       "id": "Fury 3",
       "name": "獅子奮迅3",
       "sp": 200,
-      "icon": "skillA/Fury_3.png"
+      "icon": "skillA/Fury_3"
     },
     "Fury 4": {
       "pool": {
@@ -5152,7 +5152,7 @@
       "id": "Fury 4",
       "name": "獅子奮迅4",
       "sp": 300,
-      "icon": "skillA/Fury_4.png"
+      "icon": "skillA/Fury_4"
     },
     "Life and Death 3": {
       "pool": {
@@ -5183,7 +5183,7 @@
       "id": "Life and Death 3",
       "name": "死線3",
       "sp": 200,
-      "icon": "skillA/Life_and_Death_3.png"
+      "icon": "skillA/Life_and_Death_3"
     },
     "Life and Death 4": {
       "pool": {
@@ -5205,21 +5205,21 @@
       "id": "Life and Death 4",
       "name": "死線4",
       "sp": 300,
-      "icon": "skillA/Life_and_Death_4.png"
+      "icon": "skillA/Life_and_Death_4"
     },
     "Solid Ground 3": {
       "pool": { "#": { "5": ["Gregor - Swell Sword"] } },
       "id": "Solid Ground 3",
       "name": "不壞3",
       "sp": 200,
-      "icon": "skillA/Solid_Ground_3.png"
+      "icon": "skillA/Solid_Ground_3"
     },
     "Solid Ground 4": {
       "pool": { "#": { "5": ["Gregor - Swell Sword"] } },
       "id": "Solid Ground 4",
       "name": "不壞4",
       "sp": 300,
-      "icon": "skillA/Solid_Ground_4.png"
+      "icon": "skillA/Solid_Ground_4"
     },
     "Still Water 3": {
       "pool": {
@@ -5233,7 +5233,7 @@
       "id": "Still Water 3",
       "name": "止水3",
       "sp": 200,
-      "icon": "skillA/Still_Water_3.png"
+      "icon": "skillA/Still_Water_3"
     },
     "Still Water 4": {
       "pool": {
@@ -5246,7 +5246,7 @@
       "id": "Still Water 4",
       "name": "止水4",
       "sp": 300,
-      "icon": "skillA/Still_Water_4.png"
+      "icon": "skillA/Still_Water_4"
     },
     "Death Blow 3": {
       "pool": {
@@ -5286,7 +5286,7 @@
       "id": "Death Blow 3",
       "name": "鬼神一擊3",
       "sp": 200,
-      "icon": "skillA/Death_Blow_3.png"
+      "icon": "skillA/Death_Blow_3"
     },
     "Death Blow 4": {
       "pool": {
@@ -5303,7 +5303,7 @@
       "id": "Death Blow 4",
       "name": "鬼神一擊4",
       "sp": 300,
-      "icon": "skillA/Death_Blow_4.png"
+      "icon": "skillA/Death_Blow_4"
     },
     "Darting Blow 3": {
       "pool": {
@@ -5324,7 +5324,7 @@
       "id": "Darting Blow 3",
       "name": "飛燕一擊3",
       "sp": 200,
-      "icon": "skillA/Darting_Blow_3.png"
+      "icon": "skillA/Darting_Blow_3"
     },
     "Darting Blow 4": {
       "pool": {
@@ -5334,7 +5334,7 @@
       "id": "Darting Blow 4",
       "name": "飛燕一擊4",
       "sp": 300,
-      "icon": "skillA/Darting_Blow_4.png"
+      "icon": "skillA/Darting_Blow_4"
     },
     "Armored Blow 3": {
       "pool": {
@@ -5352,7 +5352,7 @@
       "id": "Armored Blow 3",
       "name": "金剛一擊3",
       "sp": 200,
-      "icon": "skillA/Armored_Blow_3.png"
+      "icon": "skillA/Armored_Blow_3"
     },
     "Warding Blow 3": {
       "pool": {
@@ -5368,7 +5368,7 @@
       "id": "Warding Blow 3",
       "name": "明鏡一擊3",
       "sp": 200,
-      "icon": "skillA/Warding_Blow_3.png"
+      "icon": "skillA/Warding_Blow_3"
     },
     "Swift Sparrow 2": {
       "pool": {
@@ -5453,7 +5453,7 @@
       "id": "Swift Sparrow 2",
       "name": "鬼神飛燕擊2",
       "sp": 240,
-      "icon": "skillA/Swift_Sparrow_2.png"
+      "icon": "skillA/Swift_Sparrow_2"
     },
     "Swift Sparrow 3": {
       "pool": {
@@ -5489,7 +5489,7 @@
       "id": "Swift Sparrow 3",
       "name": "鬼神飛燕擊3",
       "sp": 300,
-      "icon": "skillA/Swift_Sparrow_3.png"
+      "icon": "skillA/Swift_Sparrow_3"
     },
     "Sturdy Blow 2": {
       "pool": {
@@ -5520,7 +5520,7 @@
       "id": "Sturdy Blow 2",
       "name": "鬼神金剛擊2",
       "sp": 240,
-      "icon": "skillA/Sturdy_Blow_2.png"
+      "icon": "skillA/Sturdy_Blow_2"
     },
     "Sturdy Impact": {
       "pool": {
@@ -5539,7 +5539,7 @@
       "id": "Sturdy Impact",
       "name": "鬼神金剛瞬擊",
       "sp": 300,
-      "icon": "skillA/Sturdy_Impact.png"
+      "icon": "skillA/Sturdy_Impact"
     },
     "Mirror Strike 2": {
       "pool": {
@@ -5567,7 +5567,7 @@
       "id": "Mirror Strike 2",
       "name": "鬼神明鏡擊2",
       "sp": 240,
-      "icon": "skillA/Mirror_Strike_2.png"
+      "icon": "skillA/Mirror_Strike_2"
     },
     "Mirror Impact": {
       "pool": {
@@ -5581,7 +5581,7 @@
       "id": "Mirror Impact",
       "name": "鬼神明鏡瞬擊",
       "sp": 300,
-      "icon": "skillA/Mirror_Impact.png"
+      "icon": "skillA/Mirror_Impact"
     },
     "Steady Blow 2": {
       "pool": {
@@ -5600,7 +5600,7 @@
       "id": "Steady Blow 2",
       "name": "飛燕金剛擊2",
       "sp": 240,
-      "icon": "skillA/Steady_Blow_2.png"
+      "icon": "skillA/Steady_Blow_2"
     },
     "Steady Impact": {
       "pool": {
@@ -5615,7 +5615,7 @@
       "id": "Steady Impact",
       "name": "飛燕金剛瞬擊",
       "sp": 300,
-      "icon": "skillA/Steady_Impact.png"
+      "icon": "skillA/Steady_Impact"
     },
     "Swift Strike 2": {
       "pool": {
@@ -5626,14 +5626,14 @@
       "id": "Swift Strike 2",
       "name": "飛燕明鏡擊2",
       "sp": 240,
-      "icon": "skillA/Swift_Strike_2.png"
+      "icon": "skillA/Swift_Strike_2"
     },
     "Swift Impact": {
       "pool": { "harmonized": { "5": ["Dorothea - Twilit Harmony"] } },
       "id": "Swift Impact",
       "name": "飛燕明鏡瞬擊",
       "sp": 300,
-      "icon": "skillA/Swift_Impact.png"
+      "icon": "skillA/Swift_Impact"
     },
     "Bracing Blow 2": {
       "pool": {
@@ -5643,7 +5643,7 @@
       "id": "Bracing Blow 2",
       "name": "金剛明鏡擊2",
       "sp": 240,
-      "icon": "skillA/Bracing_Blow_2.png"
+      "icon": "skillA/Bracing_Blow_2"
     },
     "Surge Sparrow": {
       "pool": {
@@ -5659,7 +5659,7 @@
       "id": "Surge Sparrow",
       "name": "鬼神飛燕迫擊",
       "sp": 300,
-      "icon": "skillA/Surge_Sparrow.png"
+      "icon": "skillA/Surge_Sparrow"
     },
     "Sturdy Surge": {
       "pool": {
@@ -5669,7 +5669,7 @@
       "id": "Sturdy Surge",
       "name": "鬼神金剛迫擊",
       "sp": 300,
-      "icon": "skillA/Sturdy_Surge.png"
+      "icon": "skillA/Sturdy_Surge"
     },
     "Remote Sparrow": {
       "pool": {
@@ -5685,14 +5685,14 @@
       "id": "Remote Sparrow",
       "name": "鬼神飛燕離擊",
       "sp": 300,
-      "icon": "skillA/Remote_Sparrow.png"
+      "icon": "skillA/Remote_Sparrow"
     },
     "Remote Sturdy": {
       "pool": { "special": { "5": ["Sigurd - Proper Pourer"] } },
       "id": "Remote Sturdy",
       "name": "鬼神金剛離擊",
       "sp": 300,
-      "icon": "skillA/Remote_Sturdy.png"
+      "icon": "skillA/Remote_Sturdy"
     },
     "Remote Mirror": {
       "pool": {
@@ -5702,21 +5702,21 @@
       "id": "Remote Mirror",
       "name": "鬼神明鏡離擊",
       "sp": 300,
-      "icon": "skillA/Remote_Mirror.png"
+      "icon": "skillA/Remote_Mirror"
     },
     "Flash Sparrow": {
       "pool": { "#": { "5": ["Alcryst - Tender Archer"] } },
       "id": "Flash Sparrow",
       "name": "鬼神飛燕柔擊",
       "sp": 300,
-      "icon": "skillA/Flash_Sparrow.png"
+      "icon": "skillA/Flash_Sparrow"
     },
     "Flared Sparrow": {
       "pool": { "#": { "5": ["Gullveig - Seer Beyond Time"] } },
       "id": "Flared Sparrow",
       "name": "鬼神飛燕炎擊",
       "sp": 300,
-      "icon": "skillA/Flared_Sparrow.png"
+      "icon": "skillA/Flared_Sparrow"
     },
     "Fierce Stance 3": {
       "pool": {
@@ -5732,14 +5732,14 @@
       "id": "Fierce Stance 3",
       "name": "鬼神架勢3",
       "sp": 200,
-      "icon": "skillA/Fierce_Stance_3.png"
+      "icon": "skillA/Fierce_Stance_3"
     },
     "Darting Stance 3": {
       "pool": { "#": { "3": ["Shigure - Uplifting Artist"] } },
       "id": "Darting Stance 3",
       "name": "飛燕架勢3",
       "sp": 200,
-      "icon": "skillA/Darting_Stance_3.png"
+      "icon": "skillA/Darting_Stance_3"
     },
     "Steady Stance 3": {
       "pool": {
@@ -5752,14 +5752,14 @@
       "id": "Steady Stance 3",
       "name": "金剛架勢3",
       "sp": 200,
-      "icon": "skillA/Steady_Stance_3.png"
+      "icon": "skillA/Steady_Stance_3"
     },
     "Steady Stance 4": {
       "pool": { "#": { "5": ["Surtr - Ruler of Flame"] } },
       "id": "Steady Stance 4",
       "name": "金剛架勢4",
       "sp": 300,
-      "icon": "skillA/Steady_Stance_4.png"
+      "icon": "skillA/Steady_Stance_4"
     },
     "Warding Stance 3": {
       "pool": {
@@ -5769,14 +5769,14 @@
       "id": "Warding Stance 3",
       "name": "明鏡架勢3",
       "sp": 200,
-      "icon": "skillA/Warding_Stance_3.png"
+      "icon": "skillA/Warding_Stance_3"
     },
     "Warding Stance 4": {
       "pool": { "#": { "5": ["Berkut - Purgatorial Prince"] } },
       "id": "Warding Stance 4",
       "name": "明鏡架勢4",
       "sp": 300,
-      "icon": "skillA/Warding_Stance_4.png"
+      "icon": "skillA/Warding_Stance_4"
     },
     "Kestrel Stance 2": {
       "pool": {
@@ -5790,7 +5790,7 @@
       "id": "Kestrel Stance 2",
       "name": "鬼神飛燕架勢2",
       "sp": 240,
-      "icon": "skillA/Kestrel_Stance_2.png"
+      "icon": "skillA/Kestrel_Stance_2"
     },
     "Kestrel Stance 3": {
       "pool": {
@@ -5802,7 +5802,7 @@
       "id": "Kestrel Stance 3",
       "name": "鬼神飛燕架勢3",
       "sp": 300,
-      "icon": "skillA/Kestrel_Stance_3.png"
+      "icon": "skillA/Kestrel_Stance_3"
     },
     "Sturdy Stance 2": {
       "pool": {
@@ -5826,7 +5826,7 @@
       "id": "Sturdy Stance 2",
       "name": "鬼神金剛架勢2",
       "sp": 240,
-      "icon": "skillA/Sturdy_Stance_2.png"
+      "icon": "skillA/Sturdy_Stance_2"
     },
     "Sturdy Stance 3": {
       "pool": {
@@ -5845,7 +5845,7 @@
       "id": "Sturdy Stance 3",
       "name": "鬼神金剛架勢3",
       "sp": 300,
-      "icon": "skillA/Sturdy_Stance_3.png"
+      "icon": "skillA/Sturdy_Stance_3"
     },
     "Mirror Stance 2": {
       "pool": {
@@ -5865,7 +5865,7 @@
       "id": "Mirror Stance 2",
       "name": "鬼神明鏡架勢2",
       "sp": 240,
-      "icon": "skillA/Mirror_Stance_2.png"
+      "icon": "skillA/Mirror_Stance_2"
     },
     "Mirror Stance 3": {
       "pool": {
@@ -5876,7 +5876,7 @@
       "id": "Mirror Stance 3",
       "name": "鬼神明鏡架勢3",
       "sp": 300,
-      "icon": "skillA/Mirror_Stance_3.png"
+      "icon": "skillA/Mirror_Stance_3"
     },
     "Steady Posture 2": {
       "pool": {
@@ -5892,7 +5892,7 @@
       "id": "Steady Posture 2",
       "name": "飛燕金剛架勢2",
       "sp": 240,
-      "icon": "skillA/Steady_Posture_2.png"
+      "icon": "skillA/Steady_Posture_2"
     },
     "Steady Posture 3": {
       "pool": {
@@ -5901,7 +5901,7 @@
       "id": "Steady Posture 3",
       "name": "飛燕金剛架勢3",
       "sp": 300,
-      "icon": "skillA/Steady_Posture_3.png"
+      "icon": "skillA/Steady_Posture_3"
     },
     "Swift Stance 2": {
       "pool": {
@@ -5917,7 +5917,7 @@
       "id": "Swift Stance 2",
       "name": "飛燕明鏡架勢2",
       "sp": 240,
-      "icon": "skillA/Swift_Stance_2.png"
+      "icon": "skillA/Swift_Stance_2"
     },
     "Swift Stance 3": {
       "pool": {
@@ -5927,7 +5927,7 @@
       "id": "Swift Stance 3",
       "name": "飛燕明鏡架勢3",
       "sp": 300,
-      "icon": "skillA/Swift_Stance_3.png"
+      "icon": "skillA/Swift_Stance_3"
     },
     "Bracing Stance 2": {
       "pool": {
@@ -5944,7 +5944,7 @@
       "id": "Bracing Stance 2",
       "name": "金剛明鏡架勢2",
       "sp": 240,
-      "icon": "skillA/Bracing_Stance_2.png"
+      "icon": "skillA/Bracing_Stance_2"
     },
     "Bracing Stance 3": {
       "pool": {
@@ -5955,35 +5955,35 @@
       "id": "Bracing Stance 3",
       "name": "金剛明鏡架勢3",
       "sp": 300,
-      "icon": "skillA/Bracing_Stance_3.png"
+      "icon": "skillA/Bracing_Stance_3"
     },
     "Fierce Breath": {
       "pool": { "legendary": { "5": ["Tiki - Legendary Dragon"] } },
       "id": "Fierce Breath",
       "name": "鬼神呼吸",
       "sp": 240,
-      "icon": "skillA/Fierce_Breath.png"
+      "icon": "skillA/Fierce_Breath"
     },
     "Darting Breath": {
       "pool": { "#": { "5": ["Ike - Zeal Unleashed"] } },
       "id": "Darting Breath",
       "name": "飛燕呼吸",
       "sp": 240,
-      "icon": "skillA/Darting_Breath.png"
+      "icon": "skillA/Darting_Breath"
     },
     "Steady Breath": {
       "pool": { "#": { "5": ["Ike - Brave Mercenary"] } },
       "id": "Steady Breath",
       "name": "金剛呼吸",
       "sp": 240,
-      "icon": "skillA/Steady_Breath.png"
+      "icon": "skillA/Steady_Breath"
     },
     "Warding Breath": {
       "pool": { "legendary": { "5": ["Ike - Vanguard Legend"] } },
       "id": "Warding Breath",
       "name": "明鏡呼吸",
       "sp": 240,
-      "icon": "skillA/Warding_Breath.png"
+      "icon": "skillA/Warding_Breath"
     },
     "Defiant Atk 3": {
       "pool": {
@@ -6004,7 +6004,7 @@
       "id": "Defiant Atk 3",
       "name": "攻擊覺醒3",
       "sp": 160,
-      "icon": "skillA/Defiant_Atk_3.png"
+      "icon": "skillA/Defiant_Atk_3"
     },
     "Defiant Spd 3": {
       "pool": {
@@ -6017,7 +6017,7 @@
       "id": "Defiant Spd 3",
       "name": "速度覺醒3",
       "sp": 160,
-      "icon": "skillA/Defiant_Spd_3.png"
+      "icon": "skillA/Defiant_Spd_3"
     },
     "Defiant Def 3": {
       "pool": {
@@ -6033,7 +6033,7 @@
       "id": "Defiant Def 3",
       "name": "防守覺醒3",
       "sp": 160,
-      "icon": "skillA/Defiant_Def_3.png"
+      "icon": "skillA/Defiant_Def_3"
     },
     "Defiant Res 3": {
       "pool": {
@@ -6043,7 +6043,7 @@
       "id": "Defiant Res 3",
       "name": "魔防覺醒3",
       "sp": 160,
-      "icon": "skillA/Defiant_Res_3.png"
+      "icon": "skillA/Defiant_Res_3"
     },
     "Brazen Atk/Spd 3": {
       "pool": {
@@ -6062,14 +6062,14 @@
       "id": "Brazen Atk/Spd 3",
       "name": "攻擊速度大覺醒3",
       "sp": 240,
-      "icon": "skillA/Brazen_Atk_Spd_3.png"
+      "icon": "skillA/Brazen_Atk_Spd_3"
     },
     "Brazen Atk/Spd 4": {
       "pool": { "special": { "5": ["Wolt - Sunbeam Archer"] } },
       "id": "Brazen Atk/Spd 4",
       "name": "攻擊速度大覺醒4",
       "sp": 300,
-      "icon": "skillA/Brazen_Atk_Spd_4.png"
+      "icon": "skillA/Brazen_Atk_Spd_4"
     },
     "Brazen Atk/Def 3": {
       "pool": {
@@ -6080,7 +6080,7 @@
       "id": "Brazen Atk/Def 3",
       "name": "攻擊防守大覺醒3",
       "sp": 240,
-      "icon": "skillA/Brazen_Atk_Def_3.png"
+      "icon": "skillA/Brazen_Atk_Def_3"
     },
     "Brazen Atk/Res 3": {
       "pool": {
@@ -6094,21 +6094,21 @@
       "id": "Brazen Atk/Res 3",
       "name": "攻擊魔防大覺醒3",
       "sp": 240,
-      "icon": "skillA/Brazen_Atk_Res_3.png"
+      "icon": "skillA/Brazen_Atk_Res_3"
     },
     "Brazen Spd/Def 3": {
       "pool": { "#": { "3": ["Norne - The Volunteer"] } },
       "id": "Brazen Spd/Def 3",
       "name": "速度防守大覺醒3",
       "sp": 240,
-      "icon": "skillA/Brazen_Spd_Def_3.png"
+      "icon": "skillA/Brazen_Spd_Def_3"
     },
     "Brazen Spd/Res 3": {
       "pool": { "#": { "3": ["Echidna - Unyielding Idealist"] } },
       "id": "Brazen Spd/Res 3",
       "name": "速度魔防大覺醒3",
       "sp": 240,
-      "icon": "skillA/Brazen_Spd_Res_3.png"
+      "icon": "skillA/Brazen_Spd_Res_3"
     },
     "Brazen Def/Res 3": {
       "pool": {
@@ -6119,7 +6119,7 @@
       "id": "Brazen Def/Res 3",
       "name": "防守魔防大覺醒3",
       "sp": 240,
-      "icon": "skillA/Brazen_Def_Res_3.png"
+      "icon": "skillA/Brazen_Def_Res_3"
     },
     "Triangle Adept 3": {
       "pool": {
@@ -6139,7 +6139,7 @@
       "id": "Triangle Adept 3",
       "name": "強化相剋3",
       "sp": 200,
-      "icon": "skillA/Triangle_Adept_3.png"
+      "icon": "skillA/Triangle_Adept_3"
     },
     "Close Counter": {
       "pool": {
@@ -6157,14 +6157,14 @@
       "id": "Close Counter",
       "name": "近距離反擊",
       "sp": 300,
-      "icon": "skillA/Close_Counter.png"
+      "icon": "skillA/Close_Counter"
     },
     "Close Reversal": {
       "pool": { "#": { "5": ["Gatekeeper - Nothing to Report"] } },
       "id": "Close Reversal",
       "name": "近反・金剛架勢",
       "sp": 300,
-      "icon": "skillA/Close_Reversal.png"
+      "icon": "skillA/Close_Reversal"
     },
     "Close Salvo": {
       "pool": {
@@ -6174,7 +6174,7 @@
       "id": "Close Salvo",
       "name": "近反・攻擊的奮擊",
       "sp": 300,
-      "icon": "skillA/Close_Salvo.png"
+      "icon": "skillA/Close_Salvo"
     },
     "Close Foil": {
       "pool": {
@@ -6183,14 +6183,14 @@
       "id": "Close Foil",
       "name": "金剛反擊・近距離",
       "sp": 300,
-      "icon": "skillA/Close_Foil.png"
+      "icon": "skillA/Close_Foil"
     },
     "Close Ward": {
       "pool": { "special": { "5": ["Plumeria - Temptation Anew"] } },
       "id": "Close Ward",
       "name": "明鏡反擊・近距離",
       "sp": 300,
-      "icon": "skillA/Close_Ward.png"
+      "icon": "skillA/Close_Ward"
     },
     "Distant Counter": {
       "pool": {
@@ -6247,14 +6247,14 @@
       "id": "Distant Counter",
       "name": "遠距離反擊",
       "sp": 300,
-      "icon": "skillA/Distant_Counter.png"
+      "icon": "skillA/Distant_Counter"
     },
     "Distant Storm": {
       "pool": { "legendary": { "5": ["Caeda - Beloved Queen"] } },
       "id": "Distant Storm",
       "name": "遠反・攻擊的奮擊",
       "sp": 300,
-      "icon": "skillA/Distant_Storm.png"
+      "icon": "skillA/Distant_Storm"
     },
     "Distant Pressure": {
       "pool": {
@@ -6264,7 +6264,7 @@
       "id": "Distant Pressure",
       "name": "遠反・速度的奮擊",
       "sp": 300,
-      "icon": "skillA/Distant_Pressure.png"
+      "icon": "skillA/Distant_Pressure"
     },
     "Distant Ferocity": {
       "pool": {
@@ -6274,7 +6274,7 @@
       "id": "Distant Ferocity",
       "name": "遠反・鬼神架勢",
       "sp": 300,
-      "icon": "skillA/Distant_Ferocity.png"
+      "icon": "skillA/Distant_Ferocity"
     },
     "Distant Dart": {
       "pool": {
@@ -6284,14 +6284,14 @@
       "id": "Distant Dart",
       "name": "遠反・飛燕架勢",
       "sp": 300,
-      "icon": "skillA/Distant_Dart.png"
+      "icon": "skillA/Distant_Dart"
     },
     "Distant Reversal": {
       "pool": { "special": { "5": ["Ash - Earnest Greetings"] } },
       "id": "Distant Reversal",
       "name": "遠反・金剛架勢",
       "sp": 300,
-      "icon": "skillA/Distant_Reversal.png"
+      "icon": "skillA/Distant_Reversal"
     },
     "Distant Stance": {
       "pool": {
@@ -6302,14 +6302,14 @@
       "id": "Distant Stance",
       "name": "遠反・明鏡架勢",
       "sp": 300,
-      "icon": "skillA/Distant_Stance.png"
+      "icon": "skillA/Distant_Stance"
     },
     "Distant A/S Solo": {
       "pool": { "#": { "5": ["Byleth - Vengeance Vessel"] } },
       "id": "Distant A/S Solo",
       "name": "遠反・攻擊速度孤軍",
       "sp": 300,
-      "icon": "skillA/Distant_A_S_Solo.png"
+      "icon": "skillA/Distant_A_S_Solo"
     },
     "Distant Foil": {
       "pool": {
@@ -6319,7 +6319,7 @@
       "id": "Distant Foil",
       "name": "金剛反擊・遠距離",
       "sp": 300,
-      "icon": "skillA/Distant_Foil.png"
+      "icon": "skillA/Distant_Foil"
     },
     "Distant Ward": {
       "pool": {
@@ -6331,7 +6331,7 @@
       "id": "Distant Ward",
       "name": "明鏡反擊・遠距離",
       "sp": 300,
-      "icon": "skillA/Distant_Ward.png"
+      "icon": "skillA/Distant_Ward"
     },
     "Close Def 3": {
       "pool": {
@@ -6353,7 +6353,7 @@
       "id": "Close Def 3",
       "name": "近距離防禦3",
       "sp": 240,
-      "icon": "skillA/Close_Def_3.png"
+      "icon": "skillA/Close_Def_3"
     },
     "Close Def 4": {
       "pool": {
@@ -6363,7 +6363,7 @@
       "id": "Close Def 4",
       "name": "近距離防禦4",
       "sp": 300,
-      "icon": "skillA/Close_Def_4.png"
+      "icon": "skillA/Close_Def_4"
     },
     "Distant Def 3": {
       "pool": {
@@ -6387,7 +6387,7 @@
       "id": "Distant Def 3",
       "name": "遠距離防禦3",
       "sp": 240,
-      "icon": "skillA/Distant_Def_3.png"
+      "icon": "skillA/Distant_Def_3"
     },
     "Distant Def 4": {
       "pool": {
@@ -6397,14 +6397,14 @@
       "id": "Distant Def 4",
       "name": "遠距離防禦4",
       "sp": 300,
-      "icon": "skillA/Distant_Def_4.png"
+      "icon": "skillA/Distant_Def_4"
     },
     "Svalinn Shield": {
       "pool": { "#": { "3": ["Sheena - Princess of Gra"] } },
       "id": "Svalinn Shield",
       "name": "斯瓦爾之盾",
       "sp": 200,
-      "icon": "skillA/Svalinn_Shield.png"
+      "icon": "skillA/Svalinn_Shield"
     },
     "Grani's Shield": {
       "pool": {
@@ -6416,7 +6416,7 @@
       "id": "Grani's Shield",
       "name": "格拉尼之盾",
       "sp": 200,
-      "icon": "skillA/Grani's_Shield.png"
+      "icon": "skillA/Grani's_Shield"
     },
     "Iote's Shield": {
       "pool": {
@@ -6427,7 +6427,7 @@
       "id": "Iote's Shield",
       "name": "艾奧特之盾",
       "sp": 200,
-      "icon": "skillA/Iote's_Shield.png"
+      "icon": "skillA/Iote's_Shield"
     },
     "Heavy Blade 3": {
       "pool": {
@@ -6441,7 +6441,7 @@
       "id": "Heavy Blade 3",
       "name": "剛劍3",
       "sp": 240,
-      "icon": "skillA/Heavy_Blade_3.png"
+      "icon": "skillA/Heavy_Blade_3"
     },
     "Heavy Blade 4": {
       "pool": {
@@ -6451,7 +6451,7 @@
       "id": "Heavy Blade 4",
       "name": "剛劍4",
       "sp": 300,
-      "icon": "skillA/Heavy_Blade_4.png"
+      "icon": "skillA/Heavy_Blade_4"
     },
     "Flashing Blade 3": {
       "pool": {
@@ -6469,7 +6469,7 @@
       "id": "Flashing Blade 3",
       "name": "柔劍3",
       "sp": 240,
-      "icon": "skillA/Flashing_Blade_3.png"
+      "icon": "skillA/Flashing_Blade_3"
     },
     "Flashing Blade 4": {
       "pool": {
@@ -6480,7 +6480,7 @@
       "id": "Flashing Blade 4",
       "name": "柔劍4",
       "sp": 300,
-      "icon": "skillA/Flashing_Blade_4.png"
+      "icon": "skillA/Flashing_Blade_4"
     },
     "Fire Boost 3": {
       "pool": {
@@ -6496,7 +6496,7 @@
       "id": "Fire Boost 3",
       "name": "生命業火3",
       "sp": 200,
-      "icon": "skillA/Fire_Boost_3.png"
+      "icon": "skillA/Fire_Boost_3"
     },
     "Wind Boost 3": {
       "pool": {
@@ -6510,7 +6510,7 @@
       "id": "Wind Boost 3",
       "name": "生命疾風3",
       "sp": 200,
-      "icon": "skillA/Wind_Boost_3.png"
+      "icon": "skillA/Wind_Boost_3"
     },
     "Earth Boost 3": {
       "pool": {
@@ -6523,7 +6523,7 @@
       "id": "Earth Boost 3",
       "name": "生命大地3",
       "sp": 200,
-      "icon": "skillA/Earth_Boost_3.png"
+      "icon": "skillA/Earth_Boost_3"
     },
     "Water Boost 3": {
       "pool": {
@@ -6534,14 +6534,14 @@
       "id": "Water Boost 3",
       "name": "生命靜水3",
       "sp": 200,
-      "icon": "skillA/Water_Boost_3.png"
+      "icon": "skillA/Water_Boost_3"
     },
     "Fireflood Boost 3": {
       "pool": { "duo": { "5": ["Ymir - Seasons of Life"] } },
       "id": "Fireflood Boost 3",
       "name": "生命業火靜水3",
       "sp": 300,
-      "icon": "skillA/Fireflood_Boost_3.png"
+      "icon": "skillA/Fireflood_Boost_3"
     },
     "Atk/Spd Bond 3": {
       "pool": {
@@ -6578,7 +6578,7 @@
       "id": "Atk/Spd Bond 3",
       "name": "攻擊速度的羈絆3",
       "sp": 240,
-      "icon": "skillA/Atk_Spd_Bond_3.png"
+      "icon": "skillA/Atk_Spd_Bond_3"
     },
     "Atk/Spd Bond 4": {
       "pool": {
@@ -6588,7 +6588,7 @@
       "id": "Atk/Spd Bond 4",
       "name": "攻擊速度的羈絆4",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Bond_4.png"
+      "icon": "skillA/Atk_Spd_Bond_4"
     },
     "Atk/Def Bond 3": {
       "pool": {
@@ -6617,14 +6617,14 @@
       "id": "Atk/Def Bond 3",
       "name": "攻擊防守的羈絆3",
       "sp": 240,
-      "icon": "skillA/Atk_Def_Bond_3.png"
+      "icon": "skillA/Atk_Def_Bond_3"
     },
     "Atk/Def Bond 4": {
       "pool": { "special": { "5": ["Quan - Lightfoot Prince"] } },
       "id": "Atk/Def Bond 4",
       "name": "攻擊防守的羈絆4",
       "sp": 300,
-      "icon": "skillA/Atk_Def_Bond_4.png"
+      "icon": "skillA/Atk_Def_Bond_4"
     },
     "Atk/Res Bond 3": {
       "pool": {
@@ -6654,7 +6654,7 @@
       "id": "Atk/Res Bond 3",
       "name": "攻擊魔防的羈絆3",
       "sp": 240,
-      "icon": "skillA/Atk_Res_Bond_3.png"
+      "icon": "skillA/Atk_Res_Bond_3"
     },
     "Atk/Res Bond 4": {
       "pool": {
@@ -6664,7 +6664,7 @@
       "id": "Atk/Res Bond 4",
       "name": "攻擊魔防的羈絆4",
       "sp": 300,
-      "icon": "skillA/Atk_Res_Bond_4.png"
+      "icon": "skillA/Atk_Res_Bond_4"
     },
     "Spd/Def Bond 3": {
       "pool": {
@@ -6680,14 +6680,14 @@
       "id": "Spd/Def Bond 3",
       "name": "速度防守的羈絆3",
       "sp": 240,
-      "icon": "skillA/Spd_Def_Bond_3.png"
+      "icon": "skillA/Spd_Def_Bond_3"
     },
     "Spd/Def Bond 4": {
       "pool": { "#": { "5": ["Astrid - Resolute Damsel"] } },
       "id": "Spd/Def Bond 4",
       "name": "速度防守的羈絆4",
       "sp": 300,
-      "icon": "skillA/Spd_Def_Bond_4.png"
+      "icon": "skillA/Spd_Def_Bond_4"
     },
     "Spd/Res Bond 3": {
       "pool": {
@@ -6701,14 +6701,14 @@
       "id": "Spd/Res Bond 3",
       "name": "速度魔防的羈絆3",
       "sp": 240,
-      "icon": "skillA/Spd_Res_Bond_3.png"
+      "icon": "skillA/Spd_Res_Bond_3"
     },
     "Spd/Res Bond 4": {
       "pool": { "#": { "5": ["Neimi - Tearful Archer"] } },
       "id": "Spd/Res Bond 4",
       "name": "速度魔防的羈絆4",
       "sp": 300,
-      "icon": "skillA/Spd_Res_Bond_4.png"
+      "icon": "skillA/Spd_Res_Bond_4"
     },
     "Def/Res Bond 3": {
       "pool": {
@@ -6722,14 +6722,14 @@
       "id": "Def/Res Bond 3",
       "name": "防守魔防的羈絆3",
       "sp": 240,
-      "icon": "skillA/Def_Res_Bond_3.png"
+      "icon": "skillA/Def_Res_Bond_3"
     },
     "Def/Res Bond 4": {
       "pool": { "#": { "5": ["August - Astute Tactician"] } },
       "id": "Def/Res Bond 4",
       "name": "防守魔防的羈絆4",
       "sp": 300,
-      "icon": "skillA/Def_Res_Bond_4.png"
+      "icon": "skillA/Def_Res_Bond_4"
     },
     "Atk/Spd Unity": {
       "pool": {
@@ -6745,7 +6745,7 @@
       "id": "Atk/Spd Unity",
       "name": "攻擊速度的連帶",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Unity.png"
+      "icon": "skillA/Atk_Spd_Unity"
     },
     "Atk/Def Unity": {
       "pool": {
@@ -6756,7 +6756,7 @@
       "id": "Atk/Def Unity",
       "name": "攻擊防守的連帶",
       "sp": 300,
-      "icon": "skillA/Atk_Def_Unity.png"
+      "icon": "skillA/Atk_Def_Unity"
     },
     "Atk/Res Unity": {
       "pool": {
@@ -6768,14 +6768,14 @@
       "id": "Atk/Res Unity",
       "name": "攻擊魔防的連帶",
       "sp": 300,
-      "icon": "skillA/Atk_Res_Unity.png"
+      "icon": "skillA/Atk_Res_Unity"
     },
     "Def/Res Unity": {
       "pool": { "legendary": { "5": ["Myrrh - Guardian Dragon"] } },
       "id": "Def/Res Unity",
       "name": "防守魔防的連帶",
       "sp": 300,
-      "icon": "skillA/Def_Res_Unity.png"
+      "icon": "skillA/Def_Res_Unity"
     },
     "Atk/Spd Push 3": {
       "pool": {
@@ -6828,7 +6828,7 @@
       "id": "Atk/Spd Push 3",
       "name": "攻擊速度的奮擊3",
       "sp": 240,
-      "icon": "skillA/Atk_Spd_Push_3.png"
+      "icon": "skillA/Atk_Spd_Push_3"
     },
     "Atk/Spd Push 4": {
       "pool": {
@@ -6875,7 +6875,7 @@
       "id": "Atk/Spd Push 4",
       "name": "攻擊速度的奮擊4",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Push_4.png"
+      "icon": "skillA/Atk_Spd_Push_4"
     },
     "Atk/Def Push 3": {
       "pool": {
@@ -6894,7 +6894,7 @@
       "id": "Atk/Def Push 3",
       "name": "攻擊防守的奮擊3",
       "sp": 240,
-      "icon": "skillA/Atk_Def_Push_3.png"
+      "icon": "skillA/Atk_Def_Push_3"
     },
     "Atk/Def Push 4": {
       "pool": {
@@ -6905,7 +6905,7 @@
       "id": "Atk/Def Push 4",
       "name": "攻擊防守的奮擊4",
       "sp": 300,
-      "icon": "skillA/Atk_Def_Push_4.png"
+      "icon": "skillA/Atk_Def_Push_4"
     },
     "Atk/Res Push 3": {
       "pool": {
@@ -6933,7 +6933,7 @@
       "id": "Atk/Res Push 3",
       "name": "攻擊魔防的奮擊3",
       "sp": 240,
-      "icon": "skillA/Atk_Res_Push_3.png"
+      "icon": "skillA/Atk_Res_Push_3"
     },
     "Atk/Res Push 4": {
       "pool": {
@@ -6950,7 +6950,7 @@
       "id": "Atk/Res Push 4",
       "name": "攻擊魔防的奮擊4",
       "sp": 300,
-      "icon": "skillA/Atk_Res_Push_4.png"
+      "icon": "skillA/Atk_Res_Push_4"
     },
     "Atk/Spd Solo 3": {
       "pool": {
@@ -6994,7 +6994,7 @@
       "id": "Atk/Spd Solo 3",
       "name": "攻擊速度的孤軍3",
       "sp": 240,
-      "icon": "skillA/Atk_Spd_Solo_3.png"
+      "icon": "skillA/Atk_Spd_Solo_3"
     },
     "Atk/Spd Solo 4": {
       "pool": {
@@ -7026,7 +7026,7 @@
       "id": "Atk/Spd Solo 4",
       "name": "攻擊速度的孤軍4",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Solo_4.png"
+      "icon": "skillA/Atk_Spd_Solo_4"
     },
     "Atk/Def Solo 3": {
       "pool": {
@@ -7049,7 +7049,7 @@
       "id": "Atk/Def Solo 3",
       "name": "攻擊防守的孤軍3",
       "sp": 240,
-      "icon": "skillA/Atk_Def_Solo_3.png"
+      "icon": "skillA/Atk_Def_Solo_3"
     },
     "Atk/Def Solo 4": {
       "pool": {
@@ -7066,7 +7066,7 @@
       "id": "Atk/Def Solo 4",
       "name": "攻擊防守的孤軍4",
       "sp": 300,
-      "icon": "skillA/Atk_Def_Solo_4.png"
+      "icon": "skillA/Atk_Def_Solo_4"
     },
     "Atk/Res Solo 3": {
       "pool": {
@@ -7096,7 +7096,7 @@
       "id": "Atk/Res Solo 3",
       "name": "攻擊魔防的孤軍3",
       "sp": 240,
-      "icon": "skillA/Atk_Res_Solo_3.png"
+      "icon": "skillA/Atk_Res_Solo_3"
     },
     "Atk/Res Solo 4": {
       "pool": {
@@ -7118,7 +7118,7 @@
       "id": "Atk/Res Solo 4",
       "name": "攻擊魔防的孤軍4",
       "sp": 300,
-      "icon": "skillA/Atk_Res_Solo_4.png"
+      "icon": "skillA/Atk_Res_Solo_4"
     },
     "Spd/Def Solo 3": {
       "pool": {
@@ -7129,14 +7129,14 @@
       "id": "Spd/Def Solo 3",
       "name": "速度防守的孤軍3",
       "sp": 240,
-      "icon": "skillA/Spd_Def_Solo_3.png"
+      "icon": "skillA/Spd_Def_Solo_3"
     },
     "Spd/Def Solo 4": {
       "pool": { "special": { "5": ["Larcei - Scion of Astra"] } },
       "id": "Spd/Def Solo 4",
       "name": "速度防守的孤軍4",
       "sp": 300,
-      "icon": "skillA/Spd_Def_Solo_4.png"
+      "icon": "skillA/Spd_Def_Solo_4"
     },
     "Spd/Res Solo 3": {
       "pool": {
@@ -7149,14 +7149,14 @@
       "id": "Spd/Res Solo 3",
       "name": "速度魔防的孤軍3",
       "sp": 240,
-      "icon": "skillA/Spd_Res_Solo_3.png"
+      "icon": "skillA/Spd_Res_Solo_3"
     },
     "Spd/Res Solo 4": {
       "pool": { "#": { "5": ["Nyx - Rulebreaker Mage"] } },
       "id": "Spd/Res Solo 4",
       "name": "速度魔防的孤軍4",
       "sp": 300,
-      "icon": "skillA/Spd_Res_Solo_4.png"
+      "icon": "skillA/Spd_Res_Solo_4"
     },
     "Def/Res Solo 3": {
       "pool": {
@@ -7167,14 +7167,14 @@
       "id": "Def/Res Solo 3",
       "name": "防守魔防的孤軍3",
       "sp": 240,
-      "icon": "skillA/Def_Res_Solo_3.png"
+      "icon": "skillA/Def_Res_Solo_3"
     },
     "Def/Res Solo 4": {
       "pool": { "#": { "5": ["Duessel - Obsidian"] } },
       "id": "Def/Res Solo 4",
       "name": "防守魔防的孤軍4",
       "sp": 300,
-      "icon": "skillA/Def_Res_Solo_4.png"
+      "icon": "skillA/Def_Res_Solo_4"
     },
     "R Duel Infantry 3": {
       "pool": {
@@ -7184,28 +7184,28 @@
       "id": "R Duel Infantry 3",
       "name": "赤色死鬥・步行3",
       "sp": 300,
-      "icon": "skillA/R_Duel_Infantry_3.png"
+      "icon": "skillA/R_Duel_Infantry_3"
     },
     "R Duel Infantry 4": {
       "pool": { "#": { "5": ["Azelle - Youthful Flame"] } },
       "id": "R Duel Infantry 4",
       "name": "赤色死鬥・步行4",
       "sp": 300,
-      "icon": "skillA/R_Duel_Infantry_4.png"
+      "icon": "skillA/R_Duel_Infantry_4"
     },
     "R Duel Cavalry 3": {
       "pool": { "special": { "5": ["Severa - Bitter Blossom"] } },
       "id": "R Duel Cavalry 3",
       "name": "赤色死鬥・騎馬3",
       "sp": 300,
-      "icon": "skillA/R_Duel_Cavalry_3.png"
+      "icon": "skillA/R_Duel_Cavalry_3"
     },
     "R Duel Cavalry 4": {
       "pool": { "special": { "5": ["Severa - Bitter Blossom"] } },
       "id": "R Duel Cavalry 4",
       "name": "赤色死鬥・騎馬4",
       "sp": 300,
-      "icon": "skillA/R_Duel_Cavalry_4.png"
+      "icon": "skillA/R_Duel_Cavalry_4"
     },
     "R Duel Flying 3": {
       "pool": {
@@ -7216,14 +7216,14 @@
       "id": "R Duel Flying 3",
       "name": "赤色死鬥・飛行3",
       "sp": 300,
-      "icon": "skillA/R_Duel_Flying_3.png"
+      "icon": "skillA/R_Duel_Flying_3"
     },
     "R Duel Flying 4": {
       "pool": { "#": { "5": ["Palla - Kind Eldest Sister"] } },
       "id": "R Duel Flying 4",
       "name": "赤色死鬥・飛行4",
       "sp": 300,
-      "icon": "skillA/R_Duel_Flying_4.png"
+      "icon": "skillA/R_Duel_Flying_4"
     },
     "B Duel Infantry 3": {
       "pool": {
@@ -7233,7 +7233,7 @@
       "id": "B Duel Infantry 3",
       "name": "青色死鬥・步行3",
       "sp": 300,
-      "icon": "skillA/B_Duel_Infantry_3.png"
+      "icon": "skillA/B_Duel_Infantry_3"
     },
     "B Duel Infantry 4": {
       "pool": {
@@ -7242,21 +7242,21 @@
       "id": "B Duel Infantry 4",
       "name": "青色死鬥・步行4",
       "sp": 300,
-      "icon": "skillA/B_Duel_Infantry_4.png"
+      "icon": "skillA/B_Duel_Infantry_4"
     },
     "B Duel Cavalry 3": {
       "pool": { "special": { "5": ["Ashe - Fabled Sea Knight"] } },
       "id": "B Duel Cavalry 3",
       "name": "青色死鬥・騎馬3",
       "sp": 300,
-      "icon": "skillA/B_Duel_Cavalry_3.png"
+      "icon": "skillA/B_Duel_Cavalry_3"
     },
     "B Duel Cavalry 4": {
       "pool": { "special": { "5": ["Ashe - Fabled Sea Knight"] } },
       "id": "B Duel Cavalry 4",
       "name": "青色死鬥・騎馬4",
       "sp": 300,
-      "icon": "skillA/B_Duel_Cavalry_4.png"
+      "icon": "skillA/B_Duel_Cavalry_4"
     },
     "B Duel Flying 3": {
       "pool": {
@@ -7267,14 +7267,14 @@
       "id": "B Duel Flying 3",
       "name": "青色死鬥・飛行3",
       "sp": 300,
-      "icon": "skillA/B_Duel_Flying_3.png"
+      "icon": "skillA/B_Duel_Flying_3"
     },
     "B Duel Flying 4": {
       "pool": { "#": { "5": ["Erinys - Earnest Knight"] } },
       "id": "B Duel Flying 4",
       "name": "青色死鬥・飛行4",
       "sp": 300,
-      "icon": "skillA/B_Duel_Flying_4.png"
+      "icon": "skillA/B_Duel_Flying_4"
     },
     "G Duel Infantry 3": {
       "pool": {
@@ -7283,28 +7283,28 @@
       "id": "G Duel Infantry 3",
       "name": "綠色死鬥・步行3",
       "sp": 300,
-      "icon": "skillA/G_Duel_Infantry_3.png"
+      "icon": "skillA/G_Duel_Infantry_3"
     },
     "G Duel Infantry 4": {
       "pool": { "#": { "5": ["Pent - Mage General"] } },
       "id": "G Duel Infantry 4",
       "name": "綠色死鬥・步行4",
       "sp": 300,
-      "icon": "skillA/G_Duel_Infantry_4.png"
+      "icon": "skillA/G_Duel_Infantry_4"
     },
     "G Duel Cavalry 3": {
       "pool": { "mythic": { "5": ["Ótr - Kingsbrother"] } },
       "id": "G Duel Cavalry 3",
       "name": "綠色死鬥・騎馬3",
       "sp": 300,
-      "icon": "skillA/G_Duel_Cavalry_3.png"
+      "icon": "skillA/G_Duel_Cavalry_3"
     },
     "G Duel Cavalry 4": {
       "pool": { "mythic": { "5": ["Ótr - Kingsbrother"] } },
       "id": "G Duel Cavalry 4",
       "name": "綠色死鬥・騎馬4",
       "sp": 300,
-      "icon": "skillA/G_Duel_Cavalry_4.png"
+      "icon": "skillA/G_Duel_Cavalry_4"
     },
     "G Duel Flying 3": {
       "pool": {
@@ -7315,14 +7315,14 @@
       "id": "G Duel Flying 3",
       "name": "綠色死鬥・飛行3",
       "sp": 300,
-      "icon": "skillA/G_Duel_Flying_3.png"
+      "icon": "skillA/G_Duel_Flying_3"
     },
     "G Duel Flying 4": {
       "pool": { "special": { "5": ["Inigo - Festival Flower"] } },
       "id": "G Duel Flying 4",
       "name": "綠色死鬥・飛行4",
       "sp": 300,
-      "icon": "skillA/G_Duel_Flying_4.png"
+      "icon": "skillA/G_Duel_Flying_4"
     },
     "C Duel Infantry 3": {
       "pool": {
@@ -7331,42 +7331,42 @@
       "id": "C Duel Infantry 3",
       "name": "無色死鬥・步行3",
       "sp": 300,
-      "icon": "skillA/C_Duel_Infantry_3.png"
+      "icon": "skillA/C_Duel_Infantry_3"
     },
     "C Duel Infantry 4": {
       "pool": { "#": { "5": ["Yuri - Ashen Valiant"] } },
       "id": "C Duel Infantry 4",
       "name": "無色死鬥・步行4",
       "sp": 300,
-      "icon": "skillA/C_Duel_Infantry_4.png"
+      "icon": "skillA/C_Duel_Infantry_4"
     },
     "C Duel Cavalry 3": {
       "pool": { "special": { "5": ["Saul - Minister of Love"] } },
       "id": "C Duel Cavalry 3",
       "name": "無色死鬥・騎馬3",
       "sp": 300,
-      "icon": "skillA/C_Duel_Cavalry_3.png"
+      "icon": "skillA/C_Duel_Cavalry_3"
     },
     "C Duel Cavalry 4": {
       "pool": { "special": { "5": ["Saul - Minister of Love"] } },
       "id": "C Duel Cavalry 4",
       "name": "無色死鬥・騎馬4",
       "sp": 300,
-      "icon": "skillA/C_Duel_Cavalry_4.png"
+      "icon": "skillA/C_Duel_Cavalry_4"
     },
     "C Duel Flying 3": {
       "pool": { "special": { "5": ["Igrene - Ninja of Nabata"] } },
       "id": "C Duel Flying 3",
       "name": "無色死鬥・飛行3",
       "sp": 300,
-      "icon": "skillA/C_Duel_Flying_3.png"
+      "icon": "skillA/C_Duel_Flying_3"
     },
     "C Duel Flying 4": {
       "pool": { "special": { "5": ["Igrene - Ninja of Nabata"] } },
       "id": "C Duel Flying 4",
       "name": "無色死鬥・飛行4",
       "sp": 300,
-      "icon": "skillA/C_Duel_Flying_4.png"
+      "icon": "skillA/C_Duel_Flying_4"
     },
     "Sorcery Blade 3": {
       "pool": {
@@ -7379,21 +7379,21 @@
       "id": "Sorcery Blade 3",
       "name": "魔道之刃3",
       "sp": 240,
-      "icon": "skillA/Sorcery_Blade_3.png"
+      "icon": "skillA/Sorcery_Blade_3"
     },
     "Atk/Spd Hexblade": {
       "pool": { "legendary": { "5": ["Yuri - Underground Lord"] } },
       "id": "Atk/Spd Hexblade",
       "name": "攻擊速度的魔刃",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Hexblade.png"
+      "icon": "skillA/Atk_Spd_Hexblade"
     },
     "Spd/Res Hexblade": {
       "pool": { "#": { "5": ["Febail - Mercenary Waif"] } },
       "id": "Spd/Res Hexblade",
       "name": "速度魔防的魔刃",
       "sp": 300,
-      "icon": "skillA/Spd_Res_Hexblade.png"
+      "icon": "skillA/Spd_Res_Hexblade"
     },
     "Bonus Doubler 3": {
       "pool": {
@@ -7405,28 +7405,28 @@
       "id": "Bonus Doubler 3",
       "name": "強化增幅3",
       "sp": 240,
-      "icon": "skillA/Bonus_Doubler_3.png"
+      "icon": "skillA/Bonus_Doubler_3"
     },
     "AR-O Atk/Spd 3": {
       "pool": { "mythic": { "5": ["Naga - Dragon Divinity"] } },
       "id": "AR-O Atk/Spd 3",
       "name": "攻擊速度的攻城戰3",
       "sp": 240,
-      "icon": "skillA/AR-O_Atk_Spd_3.png"
+      "icon": "skillA/AR-O_Atk_Spd_3"
     },
     "AR-O Atk/Def 3": {
       "pool": { "special": { "5": ["Lukas - Buffet for One"] } },
       "id": "AR-O Atk/Def 3",
       "name": "攻擊防守的攻城戰3",
       "sp": 240,
-      "icon": "skillA/AR-O_Atk_Def_3.png"
+      "icon": "skillA/AR-O_Atk_Def_3"
     },
     "AR-O Spd/Res 3": {
       "pool": { "special": { "5": ["Gunnthrá - Beaming Smile"] } },
       "id": "AR-O Spd/Res 3",
       "name": "速度魔防的攻城戰3",
       "sp": 240,
-      "icon": "skillA/AR-O_Spd_Res_3.png"
+      "icon": "skillA/AR-O_Spd_Res_3"
     },
     "AR-D Atk/Spd 3": {
       "pool": {
@@ -7436,21 +7436,21 @@
       "id": "AR-D Atk/Spd 3",
       "name": "攻擊速度的守城戰3",
       "sp": 240,
-      "icon": "skillA/AR-D_Atk_Spd_3.png"
+      "icon": "skillA/AR-D_Atk_Spd_3"
     },
     "AR-D Atk/Spd 4": {
       "pool": { "#": { "5": ["Nifl - God of Ice"] } },
       "id": "AR-D Atk/Spd 4",
       "name": "攻擊速度的守城戰4",
       "sp": 300,
-      "icon": "skillA/AR-D_Atk_Spd_4.png"
+      "icon": "skillA/AR-D_Atk_Spd_4"
     },
     "AR-D Atk/Def 3": {
       "pool": { "special": { "5": ["Dozla - Harvest Attendant"] } },
       "id": "AR-D Atk/Def 3",
       "name": "攻擊防守的守城戰3",
       "sp": 240,
-      "icon": "skillA/AR-D_Atk_Def_3.png"
+      "icon": "skillA/AR-D_Atk_Def_3"
     },
     "AR-D Atk/Res 3": {
       "pool": {
@@ -7460,21 +7460,21 @@
       "id": "AR-D Atk/Res 3",
       "name": "攻擊魔防的守城戰3",
       "sp": 240,
-      "icon": "skillA/AR-D_Atk_Res_3.png"
+      "icon": "skillA/AR-D_Atk_Res_3"
     },
     "AR-D Spd/Def 3": {
       "pool": { "special": { "5": ["Sigrun - Steadfast Bride"] } },
       "id": "AR-D Spd/Def 3",
       "name": "速度防守的守城戰3",
       "sp": 240,
-      "icon": "skillA/AR-D_Spd_Def_3.png"
+      "icon": "skillA/AR-D_Spd_Def_3"
     },
     "AR-D Spd/Res 3": {
       "pool": { "#": { "3": ["Mercedes - Kindly Devotee"] } },
       "id": "AR-D Spd/Res 3",
       "name": "速度魔防的守城戰3",
       "sp": 240,
-      "icon": "skillA/AR-D_Spd_Res_3.png"
+      "icon": "skillA/AR-D_Spd_Res_3"
     },
     "AR-D Def/Res 3": {
       "pool": {
@@ -7483,14 +7483,14 @@
       "id": "AR-D Def/Res 3",
       "name": "防守魔防的守城戰3",
       "sp": 240,
-      "icon": "skillA/AR-D_Def_Res_3.png"
+      "icon": "skillA/AR-D_Def_Res_3"
     },
     "AR-D Def/Res 4": {
       "pool": { "#": { "5": ["Múspell - Flame God"] } },
       "id": "AR-D Def/Res 4",
       "name": "防守魔防的守城戰4",
       "sp": 300,
-      "icon": "skillA/AR-D_Def_Res_4.png"
+      "icon": "skillA/AR-D_Def_Res_4"
     },
     "Atk/Spd Form 3": {
       "pool": {
@@ -7510,7 +7510,7 @@
       "id": "Atk/Spd Form 3",
       "name": "攻擊速度的密集3",
       "sp": 240,
-      "icon": "skillA/Atk_Spd_Form_3.png"
+      "icon": "skillA/Atk_Spd_Form_3"
     },
     "Atk/Def Form 3": {
       "pool": {
@@ -7532,7 +7532,7 @@
       "id": "Atk/Def Form 3",
       "name": "攻擊防守的密集3",
       "sp": 240,
-      "icon": "skillA/Atk_Def_Form_3.png"
+      "icon": "skillA/Atk_Def_Form_3"
     },
     "Atk/Res Form 3": {
       "pool": {
@@ -7544,7 +7544,7 @@
       "id": "Atk/Res Form 3",
       "name": "攻擊魔防的密集3",
       "sp": 240,
-      "icon": "skillA/Atk_Res_Form_3.png"
+      "icon": "skillA/Atk_Res_Form_3"
     },
     "Spd/Def Form 3": {
       "pool": {
@@ -7557,7 +7557,7 @@
       "id": "Spd/Def Form 3",
       "name": "速度防守的密集3",
       "sp": 240,
-      "icon": "skillA/Spd_Def_Form_3.png"
+      "icon": "skillA/Spd_Def_Form_3"
     },
     "Spd/Res Form 3": {
       "pool": {
@@ -7567,7 +7567,7 @@
       "id": "Spd/Res Form 3",
       "name": "速度魔防的密集3",
       "sp": 240,
-      "icon": "skillA/Spd_Res_Form_3.png"
+      "icon": "skillA/Spd_Res_Form_3"
     },
     "Def/Res Form 3": {
       "pool": {
@@ -7577,7 +7577,7 @@
       "id": "Def/Res Form 3",
       "name": "防守魔防的密集3",
       "sp": 240,
-      "icon": "skillA/Def_Res_Form_3.png"
+      "icon": "skillA/Def_Res_Form_3"
     },
     "Blade Session 3": {
       "pool": {
@@ -7587,14 +7587,14 @@
       "id": "Blade Session 3",
       "name": "刃之協奏3",
       "sp": 240,
-      "icon": "skillA/Blade_Session_3.png"
+      "icon": "skillA/Blade_Session_3"
     },
     "Shield Session 3": {
       "pool": { "#": { "5": ["Mamori - Microwavin' Idol"] } },
       "id": "Shield Session 3",
       "name": "盾之協奏3",
       "sp": 240,
-      "icon": "skillA/Shield_Session_3.png"
+      "icon": "skillA/Shield_Session_3"
     },
     "Atk/Spd Catch 3": {
       "pool": {
@@ -7641,7 +7641,7 @@
       "id": "Atk/Spd Catch 3",
       "name": "攻擊速度的先機3",
       "sp": 240,
-      "icon": "skillA/Atk_Spd_Catch_3.png"
+      "icon": "skillA/Atk_Spd_Catch_3"
     },
     "Atk/Spd Catch 4": {
       "pool": {
@@ -7682,7 +7682,7 @@
       "id": "Atk/Spd Catch 4",
       "name": "攻擊速度的先機4",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Catch_4.png"
+      "icon": "skillA/Atk_Spd_Catch_4"
     },
     "Atk/Def Catch 3": {
       "pool": {
@@ -7703,7 +7703,7 @@
       "id": "Atk/Def Catch 3",
       "name": "攻擊防守的先機3",
       "sp": 240,
-      "icon": "skillA/Atk_Def_Catch_3.png"
+      "icon": "skillA/Atk_Def_Catch_3"
     },
     "Atk/Def Catch 4": {
       "pool": {
@@ -7714,7 +7714,7 @@
       "id": "Atk/Def Catch 4",
       "name": "攻擊防守的先機4",
       "sp": 300,
-      "icon": "skillA/Atk_Def_Catch_4.png"
+      "icon": "skillA/Atk_Def_Catch_4"
     },
     "Atk/Res Catch 3": {
       "pool": {
@@ -7731,7 +7731,7 @@
       "id": "Atk/Res Catch 3",
       "name": "攻擊魔防的先機3",
       "sp": 240,
-      "icon": "skillA/Atk_Res_Catch_3.png"
+      "icon": "skillA/Atk_Res_Catch_3"
     },
     "Atk/Res Catch 4": {
       "pool": {
@@ -7742,7 +7742,7 @@
       "id": "Atk/Res Catch 4",
       "name": "攻擊魔防的先機4",
       "sp": 300,
-      "icon": "skillA/Atk_Res_Catch_4.png"
+      "icon": "skillA/Atk_Res_Catch_4"
     },
     "Spd/Def Catch 3": {
       "pool": {
@@ -7752,14 +7752,14 @@
       "id": "Spd/Def Catch 3",
       "name": "速度防守的先機3",
       "sp": 240,
-      "icon": "skillA/Spd_Def_Catch_3.png"
+      "icon": "skillA/Spd_Def_Catch_3"
     },
     "Spd/Def Catch 4": {
       "pool": { "#": { "5": ["Sain - Green Lance"] } },
       "id": "Spd/Def Catch 4",
       "name": "速度防守的先機4",
       "sp": 300,
-      "icon": "skillA/Spd_Def_Catch_4.png"
+      "icon": "skillA/Spd_Def_Catch_4"
     },
     "Spd/Res Catch 3": {
       "pool": {
@@ -7769,28 +7769,28 @@
       "id": "Spd/Res Catch 3",
       "name": "速度魔防的先機3",
       "sp": 240,
-      "icon": "skillA/Spd_Res_Catch_3.png"
+      "icon": "skillA/Spd_Res_Catch_3"
     },
     "Spd/Res Catch 4": {
       "pool": { "#": { "5": ["Syrene - Graceful Rider"] } },
       "id": "Spd/Res Catch 4",
       "name": "速度魔防的先機4",
       "sp": 300,
-      "icon": "skillA/Spd_Res_Catch_4.png"
+      "icon": "skillA/Spd_Res_Catch_4"
     },
     "Def/Res Catch 3": {
       "pool": { "special": { "5": ["Freyr - Estival Dreams"] } },
       "id": "Def/Res Catch 3",
       "name": "防守魔防的先機3",
       "sp": 240,
-      "icon": "skillA/Def_Res_Catch_3.png"
+      "icon": "skillA/Def_Res_Catch_3"
     },
     "Def/Res Catch 4": {
       "pool": { "special": { "5": ["Freyr - Estival Dreams"] } },
       "id": "Def/Res Catch 4",
       "name": "防守魔防的先機4",
       "sp": 300,
-      "icon": "skillA/Def_Res_Catch_4.png"
+      "icon": "skillA/Def_Res_Catch_4"
     },
     "Atk/Spd Ideal 3": {
       "pool": {
@@ -7815,7 +7815,7 @@
       "id": "Atk/Spd Ideal 3",
       "name": "攻擊速度萬全3",
       "sp": 240,
-      "icon": "skillA/Atk_Spd_Ideal_3.png"
+      "icon": "skillA/Atk_Spd_Ideal_3"
     },
     "Atk/Spd Ideal 4": {
       "pool": {
@@ -7835,7 +7835,7 @@
       "id": "Atk/Spd Ideal 4",
       "name": "攻擊速度萬全4",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Ideal_4.png"
+      "icon": "skillA/Atk_Spd_Ideal_4"
     },
     "Atk/Def Ideal 3": {
       "pool": {
@@ -7855,7 +7855,7 @@
       "id": "Atk/Def Ideal 3",
       "name": "攻擊防守萬全3",
       "sp": 240,
-      "icon": "skillA/Atk_Def_Ideal_3.png"
+      "icon": "skillA/Atk_Def_Ideal_3"
     },
     "Atk/Def Ideal 4": {
       "pool": {
@@ -7867,7 +7867,7 @@
       "id": "Atk/Def Ideal 4",
       "name": "攻擊防守萬全4",
       "sp": 300,
-      "icon": "skillA/Atk_Def_Ideal_4.png"
+      "icon": "skillA/Atk_Def_Ideal_4"
     },
     "Atk/Res Ideal 3": {
       "pool": {
@@ -7886,7 +7886,7 @@
       "id": "Atk/Res Ideal 3",
       "name": "攻擊魔防萬全3",
       "sp": 240,
-      "icon": "skillA/Atk_Res_Ideal_3.png"
+      "icon": "skillA/Atk_Res_Ideal_3"
     },
     "Atk/Res Ideal 4": {
       "pool": {
@@ -7896,7 +7896,7 @@
       "id": "Atk/Res Ideal 4",
       "name": "攻擊魔防萬全4",
       "sp": 300,
-      "icon": "skillA/Atk_Res_Ideal_4.png"
+      "icon": "skillA/Atk_Res_Ideal_4"
     },
     "Spd/Def Ideal 3": {
       "pool": {
@@ -7908,14 +7908,14 @@
       "id": "Spd/Def Ideal 3",
       "name": "速度防守萬全3",
       "sp": 240,
-      "icon": "skillA/Spd_Def_Ideal_3.png"
+      "icon": "skillA/Spd_Def_Ideal_3"
     },
     "Spd/Def Ideal 4": {
       "pool": { "#": { "5": ["Hugh - Worldly Mage"] } },
       "id": "Spd/Def Ideal 4",
       "name": "速度防守萬全4",
       "sp": 300,
-      "icon": "skillA/Spd_Def_Ideal_4.png"
+      "icon": "skillA/Spd_Def_Ideal_4"
     },
     "Spd/Res Ideal 3": {
       "pool": {
@@ -7927,14 +7927,14 @@
       "id": "Spd/Res Ideal 3",
       "name": "速度魔防萬全3",
       "sp": 240,
-      "icon": "skillA/Spd_Res_Ideal_3.png"
+      "icon": "skillA/Spd_Res_Ideal_3"
     },
     "Spd/Res Ideal 4": {
       "pool": { "#": { "5": ["Céline - Joyous Royal"] } },
       "id": "Spd/Res Ideal 4",
       "name": "速度魔防萬全4",
       "sp": 300,
-      "icon": "skillA/Spd_Res_Ideal_4.png"
+      "icon": "skillA/Spd_Res_Ideal_4"
     },
     "Def/Res Ideal 3": {
       "pool": {
@@ -7947,7 +7947,7 @@
       "id": "Def/Res Ideal 3",
       "name": "防守魔防萬全3",
       "sp": 240,
-      "icon": "skillA/Def_Res_Ideal_3.png"
+      "icon": "skillA/Def_Res_Ideal_3"
     },
     "Def/Res Ideal 4": {
       "pool": {
@@ -7957,7 +7957,7 @@
       "id": "Def/Res Ideal 4",
       "name": "防守魔防萬全4",
       "sp": 300,
-      "icon": "skillA/Def_Res_Ideal_4.png"
+      "icon": "skillA/Def_Res_Ideal_4"
     },
     "Atk/Spd Clash 3": {
       "pool": {
@@ -7980,7 +7980,7 @@
       "id": "Atk/Spd Clash 3",
       "name": "攻擊速度的激戰3",
       "sp": 240,
-      "icon": "skillA/Atk_Spd_Clash_3.png"
+      "icon": "skillA/Atk_Spd_Clash_3"
     },
     "Atk/Spd Clash 4": {
       "pool": {
@@ -8000,7 +8000,7 @@
       "id": "Atk/Spd Clash 4",
       "name": "攻擊速度的激戰4",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Clash_4.png"
+      "icon": "skillA/Atk_Spd_Clash_4"
     },
     "Atk/Def Clash 3": {
       "pool": {
@@ -8013,7 +8013,7 @@
       "id": "Atk/Def Clash 3",
       "name": "攻擊防守的激戰3",
       "sp": 240,
-      "icon": "skillA/Atk_Def_Clash_3.png"
+      "icon": "skillA/Atk_Def_Clash_3"
     },
     "Atk/Def Clash 4": {
       "pool": {
@@ -8024,21 +8024,21 @@
       "id": "Atk/Def Clash 4",
       "name": "攻擊防守的激戰4",
       "sp": 300,
-      "icon": "skillA/Atk_Def_Clash_4.png"
+      "icon": "skillA/Atk_Def_Clash_4"
     },
     "Spd/Def Clash 3": {
       "pool": { "special": { "5": ["Eliwood - Pledged Friend"] } },
       "id": "Spd/Def Clash 3",
       "name": "速度防守的激戰3",
       "sp": 240,
-      "icon": "skillA/Spd_Def_Clash_3.png"
+      "icon": "skillA/Spd_Def_Clash_3"
     },
     "Spd/Def Clash 4": {
       "pool": { "special": { "5": ["Eliwood - Pledged Friend"] } },
       "id": "Spd/Def Clash 4",
       "name": "速度防守的激戰4",
       "sp": 300,
-      "icon": "skillA/Spd_Def_Clash_4.png"
+      "icon": "skillA/Spd_Def_Clash_4"
     },
     "Atk/Spd Finish 3": {
       "pool": {
@@ -8062,7 +8062,7 @@
       "id": "Atk/Spd Finish 3",
       "name": "攻擊速度的奧秘3",
       "sp": 240,
-      "icon": "skillA/Atk_Spd_Finish_3.png"
+      "icon": "skillA/Atk_Spd_Finish_3"
     },
     "Atk/Spd Finish 4": {
       "pool": {
@@ -8085,21 +8085,21 @@
       "id": "Atk/Spd Finish 4",
       "name": "攻擊速度的奧秘4",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Finish_4.png"
+      "icon": "skillA/Atk_Spd_Finish_4"
     },
     "Atk/Def Finish 3": {
       "pool": { "#": { "5": ["Diamant - Rising Power"] } },
       "id": "Atk/Def Finish 3",
       "name": "攻擊防守的奧秘3",
       "sp": 240,
-      "icon": "skillA/Atk_Def_Finish_3.png"
+      "icon": "skillA/Atk_Def_Finish_3"
     },
     "Atk/Def Finish 4": {
       "pool": { "#": { "5": ["Diamant - Rising Power"] } },
       "id": "Atk/Def Finish 4",
       "name": "攻擊防守的奧秘4",
       "sp": 300,
-      "icon": "skillA/Atk_Def_Finish_4.png"
+      "icon": "skillA/Atk_Def_Finish_4"
     },
     "Atk/Res Finish 3": {
       "pool": {
@@ -8108,7 +8108,7 @@
       "id": "Atk/Res Finish 3",
       "name": "攻擊魔防的奧秘3",
       "sp": 240,
-      "icon": "skillA/Atk_Res_Finish_3.png"
+      "icon": "skillA/Atk_Res_Finish_3"
     },
     "Atk/Res Finish 4": {
       "pool": {
@@ -8117,7 +8117,7 @@
       "id": "Atk/Res Finish 4",
       "name": "攻擊魔防的奧秘4",
       "sp": 300,
-      "icon": "skillA/Atk_Res_Finish_4.png"
+      "icon": "skillA/Atk_Res_Finish_4"
     },
     "Spd/Res Finish 3": {
       "pool": {
@@ -8128,7 +8128,7 @@
       "id": "Spd/Res Finish 3",
       "name": "速度魔防的奧秘3",
       "sp": 240,
-      "icon": "skillA/Spd_Res_Finish_3.png"
+      "icon": "skillA/Spd_Res_Finish_3"
     },
     "Spd/Res Finish 4": {
       "pool": {
@@ -8138,49 +8138,49 @@
       "id": "Spd/Res Finish 4",
       "name": "速度魔防的奧秘4",
       "sp": 300,
-      "icon": "skillA/Spd_Res_Finish_4.png"
+      "icon": "skillA/Spd_Res_Finish_4"
     },
     "Def/Res Finish 3": {
       "pool": { "duo": { "5": ["Askr - Renewed Gods"] } },
       "id": "Def/Res Finish 3",
       "name": "防守魔防的奧秘3",
       "sp": 240,
-      "icon": "skillA/Def_Res_Finish_3.png"
+      "icon": "skillA/Def_Res_Finish_3"
     },
     "Def/Res Finish 4": {
       "pool": { "duo": { "5": ["Askr - Renewed Gods"] } },
       "id": "Def/Res Finish 4",
       "name": "防守魔防的奧秘4",
       "sp": 300,
-      "icon": "skillA/Def_Res_Finish_4.png"
+      "icon": "skillA/Def_Res_Finish_4"
     },
     "Atk/Res Scowl 3": {
       "pool": { "#": { "5": ["Rhea - Loving Matriarch"] } },
       "id": "Atk/Res Scowl 3",
       "name": "攻擊魔防的龍眼3",
       "sp": 240,
-      "icon": "skillA/Atk_Res_Scowl_3.png"
+      "icon": "skillA/Atk_Res_Scowl_3"
     },
     "Atk/Res Scowl 4": {
       "pool": { "#": { "5": ["Rhea - Loving Matriarch"] } },
       "id": "Atk/Res Scowl 4",
       "name": "攻擊魔防的龍眼4",
       "sp": 300,
-      "icon": "skillA/Atk_Res_Scowl_4.png"
+      "icon": "skillA/Atk_Res_Scowl_4"
     },
     "Atk/Spd Prime 3": {
       "pool": { "special": { "5": ["Claude - Golden Breeze"] } },
       "id": "Atk/Spd Prime 3",
       "name": "攻擊速度的準備3",
       "sp": 240,
-      "icon": "skillA/Atk_Spd_Prime_3.png"
+      "icon": "skillA/Atk_Spd_Prime_3"
     },
     "Atk/Spd Prime 4": {
       "pool": { "special": { "5": ["Claude - Golden Breeze"] } },
       "id": "Atk/Spd Prime 4",
       "name": "攻擊速度的準備4",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Prime_4.png"
+      "icon": "skillA/Atk_Spd_Prime_4"
     }
   },
   "skillB": {
@@ -8191,7 +8191,7 @@
       "id": "Knock Back",
       "name": "擊退",
       "sp": 150,
-      "icon": "skillB/Knock_Back.png"
+      "icon": "skillB/Knock_Back"
     },
     "Lunge": {
       "pool": {
@@ -8203,7 +8203,7 @@
       "id": "Lunge",
       "name": "衝敵斬",
       "sp": 150,
-      "icon": "skillB/Lunge.png"
+      "icon": "skillB/Lunge"
     },
     "Drag Back": {
       "pool": {
@@ -8219,7 +8219,7 @@
       "id": "Drag Back",
       "name": "引誘",
       "sp": 150,
-      "icon": "skillB/Drag_Back.png"
+      "icon": "skillB/Drag_Back"
     },
     "Hit and Run": {
       "pool": {
@@ -8232,7 +8232,7 @@
       "id": "Hit and Run",
       "name": "一擊即離",
       "sp": 150,
-      "icon": "skillB/Hit_and_Run.png"
+      "icon": "skillB/Hit_and_Run"
     },
     "Pass 3": {
       "pool": {
@@ -8249,7 +8249,7 @@
       "id": "Pass 3",
       "name": "穿越3",
       "sp": 200,
-      "icon": "skillB/Pass_3.png"
+      "icon": "skillB/Pass_3"
     },
     "Obstruct 3": {
       "pool": {
@@ -8270,7 +8270,7 @@
       "id": "Obstruct 3",
       "name": "阻止進軍3",
       "sp": 200,
-      "icon": "skillB/Obstruct_3.png"
+      "icon": "skillB/Obstruct_3"
     },
     "Wings of Mercy 3": {
       "pool": {
@@ -8298,7 +8298,7 @@
       "id": "Wings of Mercy 3",
       "name": "救援路線3",
       "sp": 240,
-      "icon": "skillB/Wings_of_Mercy_3.png"
+      "icon": "skillB/Wings_of_Mercy_3"
     },
     "Wings of Mercy 4": {
       "pool": {
@@ -8308,7 +8308,7 @@
       "id": "Wings of Mercy 4",
       "name": "救援路線4",
       "sp": 300,
-      "icon": "skillB/Wings_of_Mercy_4.png"
+      "icon": "skillB/Wings_of_Mercy_4"
     },
     "Escape Route 3": {
       "pool": {
@@ -8334,14 +8334,14 @@
       "id": "Escape Route 3",
       "name": "脫離路線3",
       "sp": 240,
-      "icon": "skillB/Escape_Route_3.png"
+      "icon": "skillB/Escape_Route_3"
     },
     "Escape Route 4": {
       "pool": { "special": { "5": ["Bernadetta - Late Hibernator"] } },
       "id": "Escape Route 4",
       "name": "脫離路線4",
       "sp": 300,
-      "icon": "skillB/Escape_Route_4.png"
+      "icon": "skillB/Escape_Route_4"
     },
     "Vantage 3": {
       "pool": {
@@ -8369,7 +8369,7 @@
       "id": "Vantage 3",
       "name": "埋伏3",
       "sp": 200,
-      "icon": "skillB/Vantage_3.png"
+      "icon": "skillB/Vantage_3"
     },
     "Desperation 3": {
       "pool": {
@@ -8402,21 +8402,21 @@
       "id": "Desperation 3",
       "name": "猛攻3",
       "sp": 200,
-      "icon": "skillB/Desperation_3.png"
+      "icon": "skillB/Desperation_3"
     },
     "Desperation 4": {
       "pool": { "special": { "5": ["Lysithea - Tea Sweetener"] } },
       "id": "Desperation 4",
       "name": "猛攻4",
       "sp": 300,
-      "icon": "skillB/Desperation_4.png"
+      "icon": "skillB/Desperation_4"
     },
     "Flow Desperation": {
       "pool": { "harmonized": { "5": ["Ayra - Together in Tea"] } },
       "id": "Flow Desperation",
       "name": "怒濤・猛攻",
       "sp": 300,
-      "icon": "skillB/Flow_Desperation.png"
+      "icon": "skillB/Flow_Desperation"
     },
     "Brash Assault 3": {
       "pool": {
@@ -8433,14 +8433,14 @@
       "id": "Brash Assault 3",
       "name": "同歸於盡3",
       "sp": 200,
-      "icon": "skillB/Brash_Assault_3.png"
+      "icon": "skillB/Brash_Assault_3"
     },
     "Brash Assault 4": {
       "pool": { "duo": { "5": ["Shamir - Heartbeats United"] } },
       "id": "Brash Assault 4",
       "name": "同歸於盡4",
       "sp": 300,
-      "icon": "skillB/Brash_Assault_4.png"
+      "icon": "skillB/Brash_Assault_4"
     },
     "Quick Riposte 3": {
       "pool": {
@@ -8467,14 +8467,14 @@
       "id": "Quick Riposte 3",
       "name": "回擊3",
       "sp": 240,
-      "icon": "skillB/Quick_Riposte_3.png"
+      "icon": "skillB/Quick_Riposte_3"
     },
     "Quick Riposte 4": {
       "pool": { "#": { "5": ["Ganglöt - Death Anew"] } },
       "id": "Quick Riposte 4",
       "name": "回擊4",
       "sp": 300,
-      "icon": "skillB/Quick_Riposte_4.png"
+      "icon": "skillB/Quick_Riposte_4"
     },
     "Wary Fighter 3": {
       "pool": {
@@ -8503,7 +8503,7 @@
       "id": "Wary Fighter 3",
       "name": "防守隊形3",
       "sp": 240,
-      "icon": "skillB/Wary_Fighter_3.png"
+      "icon": "skillB/Wary_Fighter_3"
     },
     "Bold Fighter 3": {
       "pool": {
@@ -8533,7 +8533,7 @@
       "id": "Bold Fighter 3",
       "name": "攻擊隊形3",
       "sp": 240,
-      "icon": "skillB/Bold_Fighter_3.png"
+      "icon": "skillB/Bold_Fighter_3"
     },
     "Vengeful Fighter 3": {
       "pool": {
@@ -8562,7 +8562,7 @@
       "id": "Vengeful Fighter 3",
       "name": "迎擊隊形3",
       "sp": 240,
-      "icon": "skillB/Vengeful_Fighter_3.png"
+      "icon": "skillB/Vengeful_Fighter_3"
     },
     "Vengeful Fighter 4": {
       "pool": {
@@ -8572,7 +8572,7 @@
       "id": "Vengeful Fighter 4",
       "name": "迎擊隊形4",
       "sp": 300,
-      "icon": "skillB/Vengeful_Fighter_4.png"
+      "icon": "skillB/Vengeful_Fighter_4"
     },
     "Special Fighter 3": {
       "pool": {
@@ -8598,21 +8598,21 @@
       "id": "Special Fighter 3",
       "name": "奧義隊形3",
       "sp": 240,
-      "icon": "skillB/Special_Fighter_3.png"
+      "icon": "skillB/Special_Fighter_3"
     },
     "Special Fighter 4": {
       "pool": { "special": { "5": ["Black Knight - The Night's Blade"] } },
       "id": "Special Fighter 4",
       "name": "奧義隊形4",
       "sp": 300,
-      "icon": "skillB/Special_Fighter_4.png"
+      "icon": "skillB/Special_Fighter_4"
     },
     "Daring Fighter 3": {
       "pool": { "duo": { "5": ["Marth - Royal Altean Duo"] } },
       "id": "Daring Fighter 3",
       "name": "急襲隊形3",
       "sp": 240,
-      "icon": "skillB/Daring_Fighter_3.png"
+      "icon": "skillB/Daring_Fighter_3"
     },
     "Crafty Fighter 3": {
       "pool": {
@@ -8629,7 +8629,7 @@
       "id": "Crafty Fighter 3",
       "name": "抑制隊形3",
       "sp": 240,
-      "icon": "skillB/Crafty_Fighter_3.png"
+      "icon": "skillB/Crafty_Fighter_3"
     },
     "Slick Fighter 3": {
       "pool": {
@@ -8645,7 +8645,7 @@
       "id": "Slick Fighter 3",
       "name": "正面隊形・自己3",
       "sp": 240,
-      "icon": "skillB/Slick_Fighter_3.png"
+      "icon": "skillB/Slick_Fighter_3"
     },
     "Hardy Fighter 3": {
       "pool": {
@@ -8654,7 +8654,7 @@
       "id": "Hardy Fighter 3",
       "name": "盾壁隊形3",
       "sp": 240,
-      "icon": "skillB/Hardy_Fighter_3.png"
+      "icon": "skillB/Hardy_Fighter_3"
     },
     "Savvy Fighter 3": {
       "pool": {
@@ -8666,21 +8666,21 @@
       "id": "Savvy Fighter 3",
       "name": "慧眼隊形3",
       "sp": 240,
-      "icon": "skillB/Savvy_Fighter_3.png"
+      "icon": "skillB/Savvy_Fighter_3"
     },
     "Savvy Fighter 4": {
       "pool": { "#": { "5": ["Anankos - Seething Silence"] } },
       "id": "Savvy Fighter 4",
       "name": "慧眼隊形4",
       "sp": 300,
-      "icon": "skillB/Savvy_Fighter_4.png"
+      "icon": "skillB/Savvy_Fighter_4"
     },
     "Wily Fighter 3": {
       "pool": { "#": { "5": ["Idunn - Divine Demon"] } },
       "id": "Wily Fighter 3",
       "name": "正面隊形・敵方3",
       "sp": 240,
-      "icon": "skillB/Wily_Fighter_3.png"
+      "icon": "skillB/Wily_Fighter_3"
     },
     "Odd Follow-Up 3": {
       "pool": {
@@ -8693,7 +8693,7 @@
       "id": "Odd Follow-Up 3",
       "name": "追擊隊形・奇數3",
       "sp": 240,
-      "icon": "skillB/Odd_Follow-Up_3.png"
+      "icon": "skillB/Odd_Follow-Up_3"
     },
     "Even Follow-Up 3": {
       "pool": {
@@ -8705,7 +8705,7 @@
       "id": "Even Follow-Up 3",
       "name": "追擊隊形・偶數3",
       "sp": 240,
-      "icon": "skillB/Even_Follow-Up_3.png"
+      "icon": "skillB/Even_Follow-Up_3"
     },
     "Poison Strike 3": {
       "pool": {
@@ -8721,7 +8721,7 @@
       "id": "Poison Strike 3",
       "name": "蛇毒3",
       "sp": 240,
-      "icon": "skillB/Poison_Strike_3.png"
+      "icon": "skillB/Poison_Strike_3"
     },
     "Renewal 3": {
       "pool": {
@@ -8743,7 +8743,7 @@
       "id": "Renewal 3",
       "name": "回復3",
       "sp": 240,
-      "icon": "skillB/Renewal_3.png"
+      "icon": "skillB/Renewal_3"
     },
     "Live to Serve 3": {
       "pool": {
@@ -8756,7 +8756,7 @@
       "id": "Live to Serve 3",
       "name": "奉獻之喜悅3",
       "sp": 160,
-      "icon": "skillB/Live_to_Serve_3.png"
+      "icon": "skillB/Live_to_Serve_3"
     },
     "Seal Atk 3": {
       "pool": {
@@ -8772,14 +8772,14 @@
       "id": "Seal Atk 3",
       "name": "攻擊封印3",
       "sp": 160,
-      "icon": "skillB/Seal_Atk_3.png"
+      "icon": "skillB/Seal_Atk_3"
     },
     "Seal Atk 4": {
       "pool": { "legendary": { "5": ["Robin - Exalt's Other Half"] } },
       "id": "Seal Atk 4",
       "name": "攻擊封印4",
       "sp": 300,
-      "icon": "skillB/Seal_Atk_4.png"
+      "icon": "skillB/Seal_Atk_4"
     },
     "Seal Spd 3": {
       "pool": {
@@ -8792,7 +8792,7 @@
       "id": "Seal Spd 3",
       "name": "速度封印3",
       "sp": 160,
-      "icon": "skillB/Seal_Spd_3.png"
+      "icon": "skillB/Seal_Spd_3"
     },
     "Seal Spd 4": {
       "pool": {
@@ -8803,7 +8803,7 @@
       "id": "Seal Spd 4",
       "name": "速度封印4",
       "sp": 300,
-      "icon": "skillB/Seal_Spd_4.png"
+      "icon": "skillB/Seal_Spd_4"
     },
     "Seal Def 3": {
       "pool": {
@@ -8817,7 +8817,7 @@
       "id": "Seal Def 3",
       "name": "防守封印3",
       "sp": 160,
-      "icon": "skillB/Seal_Def_3.png"
+      "icon": "skillB/Seal_Def_3"
     },
     "Seal Def 4": {
       "pool": {
@@ -8827,7 +8827,7 @@
       "id": "Seal Def 4",
       "name": "防守封印4",
       "sp": 300,
-      "icon": "skillB/Seal_Def_4.png"
+      "icon": "skillB/Seal_Def_4"
     },
     "Seal Res 3": {
       "pool": {
@@ -8844,7 +8844,7 @@
       "id": "Seal Res 3",
       "name": "魔防封印3",
       "sp": 160,
-      "icon": "skillB/Seal_Res_3.png"
+      "icon": "skillB/Seal_Res_3"
     },
     "Seal Res 4": {
       "pool": {
@@ -8855,21 +8855,21 @@
       "id": "Seal Res 4",
       "name": "魔防封印4",
       "sp": 300,
-      "icon": "skillB/Seal_Res_4.png"
+      "icon": "skillB/Seal_Res_4"
     },
     "Seal Atk/Spd 2": {
       "pool": { "special": { "5": ["Frederick - Horizon Watcher"] } },
       "id": "Seal Atk/Spd 2",
       "name": "攻擊速度封印2",
       "sp": 200,
-      "icon": "skillB/Seal_Atk_Spd_2.png"
+      "icon": "skillB/Seal_Atk_Spd_2"
     },
     "Seal Atk/Res 2": {
       "pool": { "#": { "3": ["Miranda - Willful Princess"] } },
       "id": "Seal Atk/Res 2",
       "name": "攻擊魔防封印2",
       "sp": 200,
-      "icon": "skillB/Seal_Atk_Res_2.png"
+      "icon": "skillB/Seal_Atk_Res_2"
     },
     "Seal Atk/Def 2": {
       "pool": {
@@ -8879,28 +8879,28 @@
       "id": "Seal Atk/Def 2",
       "name": "攻擊防守封印2",
       "sp": 200,
-      "icon": "skillB/Seal_Atk_Def_2.png"
+      "icon": "skillB/Seal_Atk_Def_2"
     },
     "Seal Spd/Def 2": {
       "pool": { "#": { "3": ["Thea - Stormy Flier"] } },
       "id": "Seal Spd/Def 2",
       "name": "速度防守封印2",
       "sp": 200,
-      "icon": "skillB/Seal_Spd_Def_2.png"
+      "icon": "skillB/Seal_Spd_Def_2"
     },
     "Seal Spd/Res 2": {
       "pool": { "special": { "5": ["Lute - Summer Prodigy"] } },
       "id": "Seal Spd/Res 2",
       "name": "速度魔防封印2",
       "sp": 200,
-      "icon": "skillB/Seal_Spd_Res_2.png"
+      "icon": "skillB/Seal_Spd_Res_2"
     },
     "Seal Def/Res 2": {
       "pool": { "#": { "3": ["Ares - Black Knight"] } },
       "id": "Seal Def/Res 2",
       "name": "防守魔防封印2",
       "sp": 200,
-      "icon": "skillB/Seal_Def_Res_2.png"
+      "icon": "skillB/Seal_Def_Res_2"
     },
     "Chill Atk 3": {
       "pool": {
@@ -8929,7 +8929,7 @@
       "id": "Chill Atk 3",
       "name": "攻擊封殺3",
       "sp": 240,
-      "icon": "skillB/Chill_Atk_3.png"
+      "icon": "skillB/Chill_Atk_3"
     },
     "Chill Spd 3": {
       "pool": {
@@ -8957,7 +8957,7 @@
       "id": "Chill Spd 3",
       "name": "速度封殺3",
       "sp": 240,
-      "icon": "skillB/Chill_Spd_3.png"
+      "icon": "skillB/Chill_Spd_3"
     },
     "Chill Def 3": {
       "pool": {
@@ -8980,7 +8980,7 @@
       "id": "Chill Def 3",
       "name": "防守封殺3",
       "sp": 240,
-      "icon": "skillB/Chill_Def_3.png"
+      "icon": "skillB/Chill_Def_3"
     },
     "Chill Res 3": {
       "pool": {
@@ -9003,7 +9003,7 @@
       "id": "Chill Res 3",
       "name": "魔防封殺3",
       "sp": 240,
-      "icon": "skillB/Chill_Res_3.png"
+      "icon": "skillB/Chill_Res_3"
     },
     "Chill Atk/Spd 2": {
       "pool": {
@@ -9013,7 +9013,7 @@
       "id": "Chill Atk/Spd 2",
       "name": "攻擊速度封殺2",
       "sp": 240,
-      "icon": "skillB/Chill_Atk_Spd_2.png"
+      "icon": "skillB/Chill_Atk_Spd_2"
     },
     "Chill Atk/Def 2": {
       "pool": {
@@ -9024,7 +9024,7 @@
       "id": "Chill Atk/Def 2",
       "name": "攻擊防守封殺2",
       "sp": 240,
-      "icon": "skillB/Chill_Atk_Def_2.png"
+      "icon": "skillB/Chill_Atk_Def_2"
     },
     "Chill Atk/Res 2": {
       "pool": {
@@ -9034,14 +9034,14 @@
       "id": "Chill Atk/Res 2",
       "name": "攻擊魔防封殺2",
       "sp": 240,
-      "icon": "skillB/Chill_Atk_Res_2.png"
+      "icon": "skillB/Chill_Atk_Res_2"
     },
     "Chill Atk/Res 3": {
       "pool": { "mythic": { "5": ["Seiðr - Goddess of Hope"] } },
       "id": "Chill Atk/Res 3",
       "name": "攻擊魔防封殺3",
       "sp": 300,
-      "icon": "skillB/Chill_Atk_Res_3.png"
+      "icon": "skillB/Chill_Atk_Res_3"
     },
     "Chill Spd/Def 2": {
       "pool": {
@@ -9052,7 +9052,7 @@
       "id": "Chill Spd/Def 2",
       "name": "速度防守封殺2",
       "sp": 240,
-      "icon": "skillB/Chill_Spd_Def_2.png"
+      "icon": "skillB/Chill_Spd_Def_2"
     },
     "Chill Spd/Res 2": {
       "pool": {
@@ -9062,14 +9062,14 @@
       "id": "Chill Spd/Res 2",
       "name": "速度魔防封殺2",
       "sp": 240,
-      "icon": "skillB/Chill_Spd_Res_2.png"
+      "icon": "skillB/Chill_Spd_Res_2"
     },
     "Chill Spd/Res 3": {
       "pool": { "special": { "5": ["Ursula - Royal-Blue Crow"] } },
       "id": "Chill Spd/Res 3",
       "name": "速度魔防封殺3",
       "sp": 300,
-      "icon": "skillB/Chill_Spd_Res_3.png"
+      "icon": "skillB/Chill_Spd_Res_3"
     },
     "Chill Def/Res 2": {
       "pool": {
@@ -9082,7 +9082,7 @@
       "id": "Chill Def/Res 2",
       "name": "防守魔防封殺2",
       "sp": 240,
-      "icon": "skillB/Chill_Def_Res_2.png"
+      "icon": "skillB/Chill_Def_Res_2"
     },
     "Chill Def/Res 3": {
       "pool": {
@@ -9092,7 +9092,7 @@
       "id": "Chill Def/Res 3",
       "name": "防守魔防封殺3",
       "sp": 300,
-      "icon": "skillB/Chill_Def_Res_3.png"
+      "icon": "skillB/Chill_Def_Res_3"
     },
     "Sabotage Atk 3": {
       "pool": {
@@ -9104,7 +9104,7 @@
       "id": "Sabotage Atk 3",
       "name": "攻擊擾亂3",
       "sp": 240,
-      "icon": "skillB/Sabotage_Atk_3.png"
+      "icon": "skillB/Sabotage_Atk_3"
     },
     "Sabotage Spd 3": {
       "pool": {
@@ -9118,7 +9118,7 @@
       "id": "Sabotage Spd 3",
       "name": "速度擾亂3",
       "sp": 240,
-      "icon": "skillB/Sabotage_Spd_3.png"
+      "icon": "skillB/Sabotage_Spd_3"
     },
     "Sabotage Def 3": {
       "pool": {
@@ -9130,7 +9130,7 @@
       "id": "Sabotage Def 3",
       "name": "防守擾亂3",
       "sp": 240,
-      "icon": "skillB/Sabotage_Def_3.png"
+      "icon": "skillB/Sabotage_Def_3"
     },
     "Sabotage Res 3": {
       "pool": {
@@ -9144,7 +9144,7 @@
       "id": "Sabotage Res 3",
       "name": "魔防擾亂3",
       "sp": 240,
-      "icon": "skillB/Sabotage_Res_3.png"
+      "icon": "skillB/Sabotage_Res_3"
     },
     "Sabotage A/R 3": {
       "pool": {
@@ -9154,7 +9154,7 @@
       "id": "Sabotage A/R 3",
       "name": "攻擊魔防擾亂3",
       "sp": 300,
-      "icon": "skillB/Sabotage_A_R_3.png"
+      "icon": "skillB/Sabotage_A_R_3"
     },
     "Sudden Panic 3": {
       "pool": {
@@ -9164,7 +9164,7 @@
       "id": "Sudden Panic 3",
       "name": "恐慌錯亂3",
       "sp": 240,
-      "icon": "skillB/Sudden_Panic_3.png"
+      "icon": "skillB/Sudden_Panic_3"
     },
     "Swordbreaker 3": {
       "pool": {
@@ -9177,7 +9177,7 @@
       "id": "Swordbreaker 3",
       "name": "破劍者3",
       "sp": 200,
-      "icon": "skillB/Swordbreaker_3.png"
+      "icon": "skillB/Swordbreaker_3"
     },
     "Lancebreaker 3": {
       "pool": {
@@ -9187,7 +9187,7 @@
       "id": "Lancebreaker 3",
       "name": "破槍者3",
       "sp": 200,
-      "icon": "skillB/Lancebreaker_3.png"
+      "icon": "skillB/Lancebreaker_3"
     },
     "Axebreaker 3": {
       "pool": {
@@ -9196,7 +9196,7 @@
       "id": "Axebreaker 3",
       "name": "破斧者3",
       "sp": 200,
-      "icon": "skillB/Axebreaker_3.png"
+      "icon": "skillB/Axebreaker_3"
     },
     "Bowbreaker 3": {
       "pool": {
@@ -9206,21 +9206,21 @@
       "id": "Bowbreaker 3",
       "name": "破弓者3",
       "sp": 200,
-      "icon": "skillB/Bowbreaker_3.png"
+      "icon": "skillB/Bowbreaker_3"
     },
     "Daggerbreaker 3": {
       "pool": { "#": { "3": ["Kagero - Honorable Ninja"] } },
       "id": "Daggerbreaker 3",
       "name": "破暗器者3",
       "sp": 200,
-      "icon": "skillB/Daggerbreaker_3.png"
+      "icon": "skillB/Daggerbreaker_3"
     },
     "R Tomebreaker 3": {
       "pool": { "#": { "3": ["Odin - Potent Force"] } },
       "id": "R Tomebreaker 3",
       "name": "破紅魔者3",
       "sp": 200,
-      "icon": "skillB/R_Tomebreaker_3.png"
+      "icon": "skillB/R_Tomebreaker_3"
     },
     "B Tomebreaker 3": {
       "pool": {
@@ -9230,14 +9230,14 @@
       "id": "B Tomebreaker 3",
       "name": "破青魔者3",
       "sp": 200,
-      "icon": "skillB/B_Tomebreaker_3.png"
+      "icon": "skillB/B_Tomebreaker_3"
     },
     "G Tomebreaker 3": {
       "pool": { "#": { "3": ["Henry - Twisted Mind"] } },
       "id": "G Tomebreaker 3",
       "name": "破綠魔者3",
       "sp": 200,
-      "icon": "skillB/G_Tomebreaker_3.png"
+      "icon": "skillB/G_Tomebreaker_3"
     },
     "Cancel Affinity 3": {
       "pool": {
@@ -9252,7 +9252,7 @@
       "id": "Cancel Affinity 3",
       "name": "抵銷互克3",
       "sp": 200,
-      "icon": "skillB/Cancel_Affinity_3.png"
+      "icon": "skillB/Cancel_Affinity_3"
     },
     "Live for Honor": {
       "pool": {
@@ -9267,7 +9267,7 @@
       "id": "Live for Honor",
       "name": "榮耀之喜悅",
       "sp": 100,
-      "icon": "skillB/Live_for_Honor.png"
+      "icon": "skillB/Live_for_Honor"
     },
     "Live for Bounty": {
       "pool": {
@@ -9282,7 +9282,7 @@
       "id": "Live for Bounty",
       "name": "豐饒之喜悅",
       "sp": 100,
-      "icon": "skillB/Live_for_Bounty.png"
+      "icon": "skillB/Live_for_Bounty"
     },
     "Windsweep 3": {
       "pool": {
@@ -9300,14 +9300,14 @@
       "id": "Windsweep 3",
       "name": "疾風橫掃3",
       "sp": 240,
-      "icon": "skillB/Windsweep_3.png"
+      "icon": "skillB/Windsweep_3"
     },
     "Watersweep 3": {
       "pool": { "#": { "3": ["Soren - Shrewd Strategist"] } },
       "id": "Watersweep 3",
       "name": "流水橫掃3",
       "sp": 240,
-      "icon": "skillB/Watersweep_3.png"
+      "icon": "skillB/Watersweep_3"
     },
     "Guard 3": {
       "pool": {
@@ -9337,14 +9337,14 @@
       "id": "Guard 3",
       "name": "取消3",
       "sp": 200,
-      "icon": "skillB/Guard_3.png"
+      "icon": "skillB/Guard_3"
     },
     "Guard 4": {
       "pool": { "mythic": { "5": ["Gotoh - White Sage"] } },
       "id": "Guard 4",
       "name": "取消4",
       "sp": 300,
-      "icon": "skillB/Guard_4.png"
+      "icon": "skillB/Guard_4"
     },
     "Wrathful Staff 3": {
       "pool": {
@@ -9369,7 +9369,7 @@
       "id": "Wrathful Staff 3",
       "name": "神罰之杖3",
       "sp": 240,
-      "icon": "skillB/Wrathful_Staff_3.png"
+      "icon": "skillB/Wrathful_Staff_3"
     },
     "Poetic Justice": {
       "pool": {
@@ -9379,7 +9379,7 @@
       "id": "Poetic Justice",
       "name": "神罰・因果報應",
       "sp": 300,
-      "icon": "skillB/Poetic_Justice.png"
+      "icon": "skillB/Poetic_Justice"
     },
     "Dazzling Staff 3": {
       "pool": {
@@ -9406,14 +9406,14 @@
       "id": "Dazzling Staff 3",
       "name": "幻惑之杖3",
       "sp": 240,
-      "icon": "skillB/Dazzling_Staff_3.png"
+      "icon": "skillB/Dazzling_Staff_3"
     },
     "Dazzling Shift": {
       "pool": { "#": { "5": ["Elincia - Devoted Queen"] } },
       "id": "Dazzling Shift",
       "name": "幻惑・轉移",
       "sp": 300,
-      "icon": "skillB/Dazzling_Shift.png"
+      "icon": "skillB/Dazzling_Shift"
     },
     "Shield Pulse 3": {
       "pool": {
@@ -9426,7 +9426,7 @@
       "id": "Shield Pulse 3",
       "name": "盾之躍動3",
       "sp": 240,
-      "icon": "skillB/Shield_Pulse_3.png"
+      "icon": "skillB/Shield_Pulse_3"
     },
     "Flier Formation 3": {
       "pool": {
@@ -9457,7 +9457,7 @@
       "id": "Flier Formation 3",
       "name": "編隊飛行3",
       "sp": 240,
-      "icon": "skillB/Flier_Formation_3.png"
+      "icon": "skillB/Flier_Formation_3"
     },
     "Aerobatics 3": {
       "pool": {
@@ -9477,7 +9477,7 @@
       "id": "Aerobatics 3",
       "name": "特技飛行3",
       "sp": 240,
-      "icon": "skillB/Aerobatics_3.png"
+      "icon": "skillB/Aerobatics_3"
     },
     "Pegasus Flight 3": {
       "pool": {
@@ -9493,7 +9493,7 @@
       "id": "Pegasus Flight 3",
       "name": "天馬行空3",
       "sp": 240,
-      "icon": "skillB/Pegasus_Flight_3.png"
+      "icon": "skillB/Pegasus_Flight_3"
     },
     "Pegasus Flight 4": {
       "pool": {
@@ -9502,7 +9502,7 @@
       "id": "Pegasus Flight 4",
       "name": "天馬行空4",
       "sp": 300,
-      "icon": "skillB/Pegasus_Flight_4.png"
+      "icon": "skillB/Pegasus_Flight_4"
     },
     "Wyvern Flight 3": {
       "pool": {
@@ -9512,7 +9512,7 @@
       "id": "Wyvern Flight 3",
       "name": "飛龍行空3",
       "sp": 240,
-      "icon": "skillB/Wyvern_Flight_3.png"
+      "icon": "skillB/Wyvern_Flight_3"
     },
     "Guard Bearing 3": {
       "pool": {
@@ -9523,14 +9523,14 @@
       "id": "Guard Bearing 3",
       "name": "警戒姿態3",
       "sp": 240,
-      "icon": "skillB/Guard_Bearing_3.png"
+      "icon": "skillB/Guard_Bearing_3"
     },
     "Guard Bearing 4": {
       "pool": { "#": { "5": ["Ingrid - Beacon of Honor"] } },
       "id": "Guard Bearing 4",
       "name": "警戒姿態4",
       "sp": 300,
-      "icon": "skillB/Guard_Bearing_4.png"
+      "icon": "skillB/Guard_Bearing_4"
     },
     "Dive-Bomb 3": {
       "pool": {
@@ -9543,7 +9543,7 @@
       "id": "Dive-Bomb 3",
       "name": "空中突襲3",
       "sp": 240,
-      "icon": "skillB/Dive-Bomb_3.png"
+      "icon": "skillB/Dive-Bomb_3"
     },
     "Wrath 3": {
       "pool": {
@@ -9567,35 +9567,35 @@
       "id": "Wrath 3",
       "name": "憤怒3",
       "sp": 240,
-      "icon": "skillB/Wrath_3.png"
+      "icon": "skillB/Wrath_3"
     },
     "Blaze Dance 3": {
       "pool": { "special": { "5": ["Olivia - Festival Dancer"] } },
       "id": "Blaze Dance 3",
       "name": "業火之舞3",
       "sp": 200,
-      "icon": "skillB/Blaze_Dance_3.png"
+      "icon": "skillB/Blaze_Dance_3"
     },
     "Gale Dance 3": {
       "pool": { "special": { "5": ["Inigo - Indigo Dancer"] } },
       "id": "Gale Dance 3",
       "name": "疾風之舞3",
       "sp": 200,
-      "icon": "skillB/Gale_Dance_3.png"
+      "icon": "skillB/Gale_Dance_3"
     },
     "Earth Dance 3": {
       "pool": { "special": { "5": ["Azura - Celebratory Spirit"] } },
       "id": "Earth Dance 3",
       "name": "大地之舞3",
       "sp": 200,
-      "icon": "skillB/Earth_Dance_3.png"
+      "icon": "skillB/Earth_Dance_3"
     },
     "Torrent Dance 3": {
       "pool": { "grail": { "5": ["Azura - Young Songstress"] } },
       "id": "Torrent Dance 3",
       "name": "靜水之舞3",
       "sp": 200,
-      "icon": "skillB/Torrent_Dance_3.png"
+      "icon": "skillB/Torrent_Dance_3"
     },
     "Firestorm Dance 2": {
       "pool": {
@@ -9609,14 +9609,14 @@
       "id": "Firestorm Dance 2",
       "name": "業火疾風之舞2",
       "sp": 240,
-      "icon": "skillB/Firestorm_Dance_2.png"
+      "icon": "skillB/Firestorm_Dance_2"
     },
     "Firestorm Dance 3": {
       "pool": { "special": { "5": ["Triandra - Sunlit Nightmare"] } },
       "id": "Firestorm Dance 3",
       "name": "業火疾風之舞3",
       "sp": 300,
-      "icon": "skillB/Firestorm_Dance_3.png"
+      "icon": "skillB/Firestorm_Dance_3"
     },
     "Caldera Dance 2": {
       "pool": {
@@ -9626,7 +9626,7 @@
       "id": "Caldera Dance 2",
       "name": "業火大地之舞2",
       "sp": 240,
-      "icon": "skillB/Caldera_Dance_2.png"
+      "icon": "skillB/Caldera_Dance_2"
     },
     "Fireflood Dance 2": {
       "pool": {
@@ -9636,21 +9636,21 @@
       "id": "Fireflood Dance 2",
       "name": "業火靜水之舞2",
       "sp": 240,
-      "icon": "skillB/Fireflood_Dance_2.png"
+      "icon": "skillB/Fireflood_Dance_2"
     },
     "Rockslide Dance 2": {
       "pool": { "special": { "5": ["Elincia - Estival Princess"] } },
       "id": "Rockslide Dance 2",
       "name": "疾風大地之舞2",
       "sp": 240,
-      "icon": "skillB/Rockslide_Dance_2.png"
+      "icon": "skillB/Rockslide_Dance_2"
     },
     "Deluge Dance 2": {
       "pool": { "#": { "3": ["Silvia - Traveling Dancer"] } },
       "id": "Deluge Dance 2",
       "name": "疾風靜水之舞2",
       "sp": 240,
-      "icon": "skillB/Deluge_Dance_2.png"
+      "icon": "skillB/Deluge_Dance_2"
     },
     "Geyser Dance 2": {
       "pool": {
@@ -9661,7 +9661,7 @@
       "id": "Geyser Dance 2",
       "name": "大地靜水之舞2",
       "sp": 240,
-      "icon": "skillB/Geyser_Dance_2.png"
+      "icon": "skillB/Geyser_Dance_2"
     },
     "Atk Cantrip 3": {
       "pool": {
@@ -9671,28 +9671,28 @@
       "id": "Atk Cantrip 3",
       "name": "攻擊魅惑3",
       "sp": 240,
-      "icon": "skillB/Atk_Cantrip_3.png"
+      "icon": "skillB/Atk_Cantrip_3"
     },
     "Spd Cantrip 3": {
       "pool": { "special": { "5": ["Mirabilis - Sugarplum Vision"] } },
       "id": "Spd Cantrip 3",
       "name": "速度魅惑3",
       "sp": 240,
-      "icon": "skillB/Spd_Cantrip_3.png"
+      "icon": "skillB/Spd_Cantrip_3"
     },
     "Def Cantrip 3": {
       "pool": { "special": { "4": ["Lachesis - Ballroom Bloom"] } },
       "id": "Def Cantrip 3",
       "name": "防守魅惑3",
       "sp": 240,
-      "icon": "skillB/Def_Cantrip_3.png"
+      "icon": "skillB/Def_Cantrip_3"
     },
     "Res Cantrip 3": {
       "pool": { "duo": { "5": ["Peony - Álfar Dream Duo"] } },
       "id": "Res Cantrip 3",
       "name": "魔防魅惑3",
       "sp": 240,
-      "icon": "skillB/Res_Cantrip_3.png"
+      "icon": "skillB/Res_Cantrip_3"
     },
     "Dull Close 3": {
       "pool": {
@@ -9706,7 +9706,7 @@
       "id": "Dull Close 3",
       "name": "強化無效・近距離3",
       "sp": 240,
-      "icon": "skillB/Dull_Close_3.png"
+      "icon": "skillB/Dull_Close_3"
     },
     "Dull Ranged 3": {
       "pool": {
@@ -9720,7 +9720,7 @@
       "id": "Dull Ranged 3",
       "name": "強化無效・遠距離3",
       "sp": 240,
-      "icon": "skillB/Dull_Ranged_3.png"
+      "icon": "skillB/Dull_Ranged_3"
     },
     "Atk/Spd Link 3": {
       "pool": {
@@ -9738,7 +9738,7 @@
       "id": "Atk/Spd Link 3",
       "name": "攻擊速度連動3",
       "sp": 240,
-      "icon": "skillB/Atk_Spd_Link_3.png"
+      "icon": "skillB/Atk_Spd_Link_3"
     },
     "Atk/Def Link 3": {
       "pool": {
@@ -9753,7 +9753,7 @@
       "id": "Atk/Def Link 3",
       "name": "攻擊防守連動3",
       "sp": 240,
-      "icon": "skillB/Atk_Def_Link_3.png"
+      "icon": "skillB/Atk_Def_Link_3"
     },
     "Atk/Res Link 3": {
       "pool": {
@@ -9766,7 +9766,7 @@
       "id": "Atk/Res Link 3",
       "name": "攻擊魔防連動3",
       "sp": 240,
-      "icon": "skillB/Atk_Res_Link_3.png"
+      "icon": "skillB/Atk_Res_Link_3"
     },
     "Spd/Def Link 3": {
       "pool": {
@@ -9780,7 +9780,7 @@
       "id": "Spd/Def Link 3",
       "name": "速度防守連動3",
       "sp": 240,
-      "icon": "skillB/Spd_Def_Link_3.png"
+      "icon": "skillB/Spd_Def_Link_3"
     },
     "Spd/Res Link 3": {
       "pool": {
@@ -9793,7 +9793,7 @@
       "id": "Spd/Res Link 3",
       "name": "速度魔防連動3",
       "sp": 240,
-      "icon": "skillB/Spd_Res_Link_3.png"
+      "icon": "skillB/Spd_Res_Link_3"
     },
     "Def/Res Link 3": {
       "pool": {
@@ -9809,7 +9809,7 @@
       "id": "Def/Res Link 3",
       "name": "防守魔防連動3",
       "sp": 240,
-      "icon": "skillB/Def_Res_Link_3.png"
+      "icon": "skillB/Def_Res_Link_3"
     },
     "Atk/Spd Snag 3": {
       "pool": {
@@ -9819,7 +9819,7 @@
       "id": "Atk/Spd Snag 3",
       "name": "攻擊速度干涉3",
       "sp": 240,
-      "icon": "skillB/Atk_Spd_Snag_3.png"
+      "icon": "skillB/Atk_Spd_Snag_3"
     },
     "Atk/Def Snag 3": {
       "pool": {
@@ -9829,14 +9829,14 @@
       "id": "Atk/Def Snag 3",
       "name": "攻擊防守干涉3",
       "sp": 240,
-      "icon": "skillB/Atk_Def_Snag_3.png"
+      "icon": "skillB/Atk_Def_Snag_3"
     },
     "Atk/Res Snag 3": {
       "pool": { "special": { "5": ["Cath - Caper Captain"] } },
       "id": "Atk/Res Snag 3",
       "name": "攻擊魔防干涉3",
       "sp": 240,
-      "icon": "skillB/Atk_Res_Snag_3.png"
+      "icon": "skillB/Atk_Res_Snag_3"
     },
     "Spd/Def Snag 3": {
       "pool": {
@@ -9847,14 +9847,14 @@
       "id": "Spd/Def Snag 3",
       "name": "速度防守干涉3",
       "sp": 240,
-      "icon": "skillB/Spd_Def_Snag_3.png"
+      "icon": "skillB/Spd_Def_Snag_3"
     },
     "Spd/Def Snag 4": {
       "pool": { "#": { "5": ["Chrom - Fell Exalt"] } },
       "id": "Spd/Def Snag 4",
       "name": "速度防守干涉4",
       "sp": 300,
-      "icon": "skillB/Spd_Def_Snag_4.png"
+      "icon": "skillB/Spd_Def_Snag_4"
     },
     "Spd/Res Snag 3": {
       "pool": {
@@ -9864,14 +9864,14 @@
       "id": "Spd/Res Snag 3",
       "name": "速度魔防干涉3",
       "sp": 240,
-      "icon": "skillB/Spd_Res_Snag_3.png"
+      "icon": "skillB/Spd_Res_Snag_3"
     },
     "Def/Res Snag 3": {
       "pool": { "#": { "5": ["Wolf - Coyote's Loyal"] } },
       "id": "Def/Res Snag 3",
       "name": "防守魔防干涉3",
       "sp": 240,
-      "icon": "skillB/Def_Res_Snag_3.png"
+      "icon": "skillB/Def_Res_Snag_3"
     },
     "Atk Feint 3": {
       "pool": {
@@ -9881,7 +9881,7 @@
       "id": "Atk Feint 3",
       "name": "攻擊共謀3",
       "sp": 240,
-      "icon": "skillB/Atk_Feint_3.png"
+      "icon": "skillB/Atk_Feint_3"
     },
     "Spd Feint 3": {
       "pool": {
@@ -9892,21 +9892,21 @@
       "id": "Spd Feint 3",
       "name": "速度共謀3",
       "sp": 240,
-      "icon": "skillB/Spd_Feint_3.png"
+      "icon": "skillB/Spd_Feint_3"
     },
     "Def Feint 3": {
       "pool": { "special": { "5": ["Innes - Flawless Form"] } },
       "id": "Def Feint 3",
       "name": "防守共謀3",
       "sp": 240,
-      "icon": "skillB/Def_Feint_3.png"
+      "icon": "skillB/Def_Feint_3"
     },
     "Res Feint 3": {
       "pool": { "special": { "5": ["Mist - Purest Spirit"] } },
       "id": "Res Feint 3",
       "name": "魔防共謀3",
       "sp": 240,
-      "icon": "skillB/Res_Feint_3.png"
+      "icon": "skillB/Res_Feint_3"
     },
     "Atk/Spd Ruse 3": {
       "pool": {
@@ -9915,7 +9915,7 @@
       "id": "Atk/Spd Ruse 3",
       "name": "攻擊速度大共謀3",
       "sp": 240,
-      "icon": "skillB/Atk_Spd_Ruse_3.png"
+      "icon": "skillB/Atk_Spd_Ruse_3"
     },
     "Atk/Def Ruse 3": {
       "pool": {
@@ -9925,7 +9925,7 @@
       "id": "Atk/Def Ruse 3",
       "name": "攻擊防守大共謀3",
       "sp": 240,
-      "icon": "skillB/Atk_Def_Ruse_3.png"
+      "icon": "skillB/Atk_Def_Ruse_3"
     },
     "Atk/Res Ruse 3": {
       "pool": {
@@ -9935,14 +9935,14 @@
       "id": "Atk/Res Ruse 3",
       "name": "攻擊魔防大共謀3",
       "sp": 240,
-      "icon": "skillB/Atk_Res_Ruse_3.png"
+      "icon": "skillB/Atk_Res_Ruse_3"
     },
     "Spd/Def Ruse 3": {
       "pool": { "#": { "5": ["Eleonora - Shooting Starlet"] } },
       "id": "Spd/Def Ruse 3",
       "name": "速度防守大共謀3",
       "sp": 240,
-      "icon": "skillB/Spd_Def_Ruse_3.png"
+      "icon": "skillB/Spd_Def_Ruse_3"
     },
     "Spd/Res Ruse 3": {
       "pool": {
@@ -9952,7 +9952,7 @@
       "id": "Spd/Res Ruse 3",
       "name": "速度魔防大共謀3",
       "sp": 240,
-      "icon": "skillB/Spd_Res_Ruse_3.png"
+      "icon": "skillB/Spd_Res_Ruse_3"
     },
     "Def/Res Ruse 3": {
       "pool": {
@@ -9962,7 +9962,7 @@
       "id": "Def/Res Ruse 3",
       "name": "防守魔防大共謀3",
       "sp": 240,
-      "icon": "skillB/Def_Res_Ruse_3.png"
+      "icon": "skillB/Def_Res_Ruse_3"
     },
     "Special Spiral 3": {
       "pool": {
@@ -9984,7 +9984,7 @@
       "id": "Special Spiral 3",
       "name": "奧義之螺旋3",
       "sp": 240,
-      "icon": "skillB/Special_Spiral_3.png"
+      "icon": "skillB/Special_Spiral_3"
     },
     "Special Spiral 4": {
       "pool": {
@@ -9999,7 +9999,7 @@
       "id": "Special Spiral 4",
       "name": "奧義之螺旋4",
       "sp": 300,
-      "icon": "skillB/Special_Spiral_4.png"
+      "icon": "skillB/Special_Spiral_4"
     },
     "Null Follow-Up 3": {
       "pool": {
@@ -10036,7 +10036,7 @@
       "id": "Null Follow-Up 3",
       "name": "識破・追擊效果3",
       "sp": 240,
-      "icon": "skillB/Null_Follow_Up_3.png"
+      "icon": "skillB/Null_Follow_Up_3"
     },
     "Phys. Null Follow": {
       "pool": {
@@ -10045,7 +10045,7 @@
       "id": "Phys. Null Follow",
       "name": "理之識破・追擊",
       "sp": 300,
-      "icon": "skillB/Phys._Null_Follow.png"
+      "icon": "skillB/Phys._Null_Follow"
     },
     "Mag. Null Follow": {
       "pool": {
@@ -10055,7 +10055,7 @@
       "id": "Mag. Null Follow",
       "name": "魔之識破・追擊",
       "sp": 300,
-      "icon": "skillB/Mag._Null_Follow.png"
+      "icon": "skillB/Mag._Null_Follow"
     },
     "Null C-Disrupt 3": {
       "pool": {
@@ -10070,7 +10070,7 @@
       "id": "Null C-Disrupt 3",
       "name": "識破・無法反擊3",
       "sp": 240,
-      "icon": "skillB/Null_C_Disrupt_3.png"
+      "icon": "skillB/Null_C_Disrupt_3"
     },
     "Null C-Disrupt 4": {
       "pool": {
@@ -10081,7 +10081,7 @@
       "id": "Null C-Disrupt 4",
       "name": "識破・無法反擊4",
       "sp": 300,
-      "icon": "skillB/Null_C_Disrupt_4.png"
+      "icon": "skillB/Null_C_Disrupt_4"
     },
     "Mystic Boost 3": {
       "pool": {
@@ -10092,7 +10092,7 @@
       "id": "Mystic Boost 3",
       "name": "生命護符3",
       "sp": 240,
-      "icon": "skillB/Mystic_Boost_3.png"
+      "icon": "skillB/Mystic_Boost_3"
     },
     "Mystic Boost 4": {
       "pool": {
@@ -10102,7 +10102,7 @@
       "id": "Mystic Boost 4",
       "name": "生命護符4",
       "sp": 300,
-      "icon": "skillB/Mystic_Boost_4.png"
+      "icon": "skillB/Mystic_Boost_4"
     },
     "Disarm Trap 3": {
       "pool": {
@@ -10119,14 +10119,14 @@
       "id": "Disarm Trap 3",
       "name": "解除陷阱3",
       "sp": 240,
-      "icon": "skillB/Disarm_Trap_3.png"
+      "icon": "skillB/Disarm_Trap_3"
     },
     "Disarm Trap 4": {
       "pool": { "duo": { "5": ["Kagero - Bond Unwavering"] } },
       "id": "Disarm Trap 4",
       "name": "解除陷阱4",
       "sp": 300,
-      "icon": "skillB/Disarm_Trap_4.png"
+      "icon": "skillB/Disarm_Trap_4"
     },
     "Lull Atk/Spd 3": {
       "pool": {
@@ -10144,7 +10144,7 @@
       "id": "Lull Atk/Spd 3",
       "name": "攻擊速度的靜謐3",
       "sp": 240,
-      "icon": "skillB/Lull_Atk_Spd_3.png"
+      "icon": "skillB/Lull_Atk_Spd_3"
     },
     "Lull Atk/Def 3": {
       "pool": {
@@ -10164,14 +10164,14 @@
       "id": "Lull Atk/Def 3",
       "name": "攻擊防守的靜謐3",
       "sp": 240,
-      "icon": "skillB/Lull_Atk_Def_3.png"
+      "icon": "skillB/Lull_Atk_Def_3"
     },
     "Lull Atk/Def 4": {
       "pool": { "mythic": { "5": ["Freyr - Dream-King"] } },
       "id": "Lull Atk/Def 4",
       "name": "攻擊防守的靜謐4",
       "sp": 300,
-      "icon": "skillB/Lull_Atk_Def_4.png"
+      "icon": "skillB/Lull_Atk_Def_4"
     },
     "Lull Atk/Res 3": {
       "pool": {
@@ -10191,7 +10191,7 @@
       "id": "Lull Atk/Res 3",
       "name": "攻擊魔防的靜謐3",
       "sp": 240,
-      "icon": "skillB/Lull_Atk_Res_3.png"
+      "icon": "skillB/Lull_Atk_Res_3"
     },
     "Lull Spd/Def 3": {
       "pool": {
@@ -10219,14 +10219,14 @@
       "id": "Lull Spd/Def 3",
       "name": "速度防守的靜謐3",
       "sp": 240,
-      "icon": "skillB/Lull_Spd_Def_3.png"
+      "icon": "skillB/Lull_Spd_Def_3"
     },
     "Lull Spd/Def 4": {
       "pool": { "special": { "5": ["Shez - Mercenary Shine"] } },
       "id": "Lull Spd/Def 4",
       "name": "速度防守的靜謐4",
       "sp": 300,
-      "icon": "skillB/Lull_Spd_Def_4.png"
+      "icon": "skillB/Lull_Spd_Def_4"
     },
     "Lull Spd/Res 3": {
       "pool": {
@@ -10250,7 +10250,7 @@
       "id": "Lull Spd/Res 3",
       "name": "速度魔防的靜謐3",
       "sp": 240,
-      "icon": "skillB/Lull_Spd_Res_3.png"
+      "icon": "skillB/Lull_Spd_Res_3"
     },
     "Repel 3": {
       "pool": {
@@ -10266,7 +10266,7 @@
       "id": "Repel 3",
       "name": "迴避・擊退3",
       "sp": 240,
-      "icon": "skillB/Repel_3.png"
+      "icon": "skillB/Repel_3"
     },
     "Repel 4": {
       "pool": {
@@ -10275,7 +10275,7 @@
       "id": "Repel 4",
       "name": "迴避・擊退4",
       "sp": 300,
-      "icon": "skillB/Repel_4.png"
+      "icon": "skillB/Repel_4"
     },
     "Close Call 3": {
       "pool": {
@@ -10291,7 +10291,7 @@
       "id": "Close Call 3",
       "name": "迴避・一擊即離3",
       "sp": 240,
-      "icon": "skillB/Close_Call_3.png"
+      "icon": "skillB/Close_Call_3"
     },
     "Close Call 4": {
       "pool": {
@@ -10300,7 +10300,7 @@
       "id": "Close Call 4",
       "name": "迴避・一擊即離4",
       "sp": 300,
-      "icon": "skillB/Close_Call_4.png"
+      "icon": "skillB/Close_Call_4"
     },
     "Spurn 3": {
       "pool": {
@@ -10319,14 +10319,14 @@
       "id": "Spurn 3",
       "name": "迴避・憤怒3",
       "sp": 240,
-      "icon": "skillB/Spurn_3.png"
+      "icon": "skillB/Spurn_3"
     },
     "Spurn 4": {
       "pool": { "special": { "5": ["Fjorm - Seaside Thaw"] } },
       "id": "Spurn 4",
       "name": "迴避・憤怒4",
       "sp": 300,
-      "icon": "skillB/Spurn_4.png"
+      "icon": "skillB/Spurn_4"
     },
     "Frenzy 3": {
       "pool": {
@@ -10336,14 +10336,14 @@
       "id": "Frenzy 3",
       "name": "迴避・猛攻3",
       "sp": 240,
-      "icon": "skillB/Frenzy_3.png"
+      "icon": "skillB/Frenzy_3"
     },
     "Velocity 3": {
       "pool": { "#": { "5": ["Hilda - Helping Hand"] } },
       "id": "Velocity 3",
       "name": "迴避・節拍3",
       "sp": 240,
-      "icon": "skillB/Velocity_3.png"
+      "icon": "skillB/Velocity_3"
     },
     "Dragon's Ire 3": {
       "pool": {
@@ -10356,14 +10356,14 @@
       "id": "Dragon's Ire 3",
       "name": "龍的逆鱗3",
       "sp": 240,
-      "icon": "skillB/Dragon's_Ire_3.png"
+      "icon": "skillB/Dragon's_Ire_3"
     },
     "Dragon's Ire 4": {
       "pool": { "special": { "5": ["Corrin - Celestial Sorcerer"] } },
       "id": "Dragon's Ire 4",
       "name": "龍的逆鱗4",
       "sp": 300,
-      "icon": "skillB/Dragon's_Ire_4.png"
+      "icon": "skillB/Dragon's_Ire_4"
     },
     "Dragon Wall 3": {
       "pool": {
@@ -10378,7 +10378,7 @@
       "id": "Dragon Wall 3",
       "name": "龍鱗防護障壁3",
       "sp": 240,
-      "icon": "skillB/Dragon_Wall_3.png"
+      "icon": "skillB/Dragon_Wall_3"
     },
     "Dragon's Wrath 3": {
       "pool": {
@@ -10390,7 +10390,7 @@
       "id": "Dragon's Wrath 3",
       "name": "龍之魔鱗3",
       "sp": 240,
-      "icon": "skillB/Dragon's_Wrath_3.png"
+      "icon": "skillB/Dragon's_Wrath_3"
     },
     "Dragon's Wrath 4": {
       "pool": {
@@ -10399,7 +10399,7 @@
       "id": "Dragon's Wrath 4",
       "name": "龍之魔鱗4",
       "sp": 300,
-      "icon": "skillB/Dragon's_Wrath_4.png"
+      "icon": "skillB/Dragon's_Wrath_4"
     },
     "Even Pulse Tie 3": {
       "pool": {
@@ -10409,7 +10409,7 @@
       "id": "Even Pulse Tie 3",
       "name": "鼓動的封緘・偶數3",
       "sp": 240,
-      "icon": "skillB/Even_Pulse_Tie_3.png"
+      "icon": "skillB/Even_Pulse_Tie_3"
     },
     "Odd Pulse Tie 3": {
       "pool": {
@@ -10419,14 +10419,14 @@
       "id": "Odd Pulse Tie 3",
       "name": "鼓動的封緘・奇數3",
       "sp": 240,
-      "icon": "skillB/Odd_Pulse_Tie_3.png"
+      "icon": "skillB/Odd_Pulse_Tie_3"
     },
     "A/S Near Trace 3": {
       "pool": { "#": { "5": ["Hardin - The Coyote"] } },
       "id": "A/S Near Trace 3",
       "name": "攻擊速度近影3",
       "sp": 240,
-      "icon": "skillB/A_S_Near_Trace_3.png"
+      "icon": "skillB/A_S_Near_Trace_3"
     },
     "A/D Near Trace 3": {
       "pool": {
@@ -10437,14 +10437,14 @@
       "id": "A/D Near Trace 3",
       "name": "攻擊防守近影3",
       "sp": 240,
-      "icon": "skillB/A_D_Near_Trace_3.png"
+      "icon": "skillB/A_D_Near_Trace_3"
     },
     "A/R Near Trace 3": {
       "pool": { "#": { "5": ["Ymir - Life-Mother"] } },
       "id": "A/R Near Trace 3",
       "name": "攻擊魔防近影3",
       "sp": 240,
-      "icon": "skillB/A_R_Near_Trace_3.png"
+      "icon": "skillB/A_R_Near_Trace_3"
     },
     "S/D Near Trace 3": {
       "pool": {
@@ -10461,7 +10461,7 @@
       "id": "S/D Near Trace 3",
       "name": "速度防守近影3",
       "sp": 240,
-      "icon": "skillB/S_D_Near_Trace_3.png"
+      "icon": "skillB/S_D_Near_Trace_3"
     },
     "S/R Near Trace 3": {
       "pool": {
@@ -10471,7 +10471,7 @@
       "id": "S/R Near Trace 3",
       "name": "速度魔防近影3",
       "sp": 240,
-      "icon": "skillB/S_R_Near_Trace_3.png"
+      "icon": "skillB/S_R_Near_Trace_3"
     },
     "A/S Far Trace 3": {
       "pool": {
@@ -10481,7 +10481,7 @@
       "id": "A/S Far Trace 3",
       "name": "攻擊速度遠影3",
       "sp": 240,
-      "icon": "skillB/A_S_Far_Trace_3.png"
+      "icon": "skillB/A_S_Far_Trace_3"
     },
     "A/D Far Trace 3": {
       "pool": {
@@ -10491,7 +10491,7 @@
       "id": "A/D Far Trace 3",
       "name": "攻擊防守遠影3",
       "sp": 240,
-      "icon": "skillB/A_D_Far_Trace_3.png"
+      "icon": "skillB/A_D_Far_Trace_3"
     },
     "A/R Far Trace 3": {
       "pool": {
@@ -10505,7 +10505,7 @@
       "id": "A/R Far Trace 3",
       "name": "攻擊魔防遠影3",
       "sp": 240,
-      "icon": "skillB/A_R_Far_Trace_3.png"
+      "icon": "skillB/A_R_Far_Trace_3"
     },
     "S/D Far Trace 3": {
       "pool": {
@@ -10515,7 +10515,7 @@
       "id": "S/D Far Trace 3",
       "name": "速度防守遠影3",
       "sp": 240,
-      "icon": "skillB/S_D_Far_Trace_3.png"
+      "icon": "skillB/S_D_Far_Trace_3"
     },
     "S/R Far Trace 3": {
       "pool": {
@@ -10536,7 +10536,7 @@
       "id": "S/R Far Trace 3",
       "name": "速度魔防遠影3",
       "sp": 240,
-      "icon": "skillB/S_R_Far_Trace_3.png"
+      "icon": "skillB/S_R_Far_Trace_3"
     },
     "Flow Refresh 3": {
       "pool": {
@@ -10548,7 +10548,7 @@
       "id": "Flow Refresh 3",
       "name": "怒濤・再起3",
       "sp": 240,
-      "icon": "skillB/Flow_Refresh_3.png"
+      "icon": "skillB/Flow_Refresh_3"
     },
     "Flow Guard 3": {
       "pool": {
@@ -10559,7 +10559,7 @@
       "id": "Flow Guard 3",
       "name": "怒濤・取消3",
       "sp": 240,
-      "icon": "skillB/Flow_Guard_3.png"
+      "icon": "skillB/Flow_Guard_3"
     },
     "Flow Force 3": {
       "pool": {
@@ -10569,21 +10569,21 @@
       "id": "Flow Force 3",
       "name": "怒濤・不屈3",
       "sp": 240,
-      "icon": "skillB/Flow_Force_3.png"
+      "icon": "skillB/Flow_Force_3"
     },
     "Flow Feather 3": {
       "pool": { "#": { "5": ["Est - Sweet Baby Sis"] } },
       "id": "Flow Feather 3",
       "name": "怒濤・天馬行空3",
       "sp": 240,
-      "icon": "skillB/Flow_Feather_3.png"
+      "icon": "skillB/Flow_Feather_3"
     },
     "Flow Flight 3": {
       "pool": { "special": { "5": ["Maria - Sunny Smile"] } },
       "id": "Flow Flight 3",
       "name": "怒濤・飛龍行空3",
       "sp": 240,
-      "icon": "skillB/Flow_Flight_3.png"
+      "icon": "skillB/Flow_Flight_3"
     },
     "Flow N Trace 3": {
       "pool": {
@@ -10593,7 +10593,7 @@
       "id": "Flow N Trace 3",
       "name": "怒濤・近影3",
       "sp": 240,
-      "icon": "skillB/Flow_N_Trace_3.png"
+      "icon": "skillB/Flow_N_Trace_3"
     },
     "Atk/Res Tempo 3": {
       "pool": {
@@ -10604,21 +10604,21 @@
       "id": "Atk/Res Tempo 3",
       "name": "攻擊魔防節拍3",
       "sp": 240,
-      "icon": "skillB/Atk_Res_Tempo_3.png"
+      "icon": "skillB/Atk_Res_Tempo_3"
     },
     "Spd/Def Tempo 3": {
       "pool": { "special": { "5": ["Mia - Budding Blade"] } },
       "id": "Spd/Def Tempo 3",
       "name": "速度防守節拍3",
       "sp": 240,
-      "icon": "skillB/Spd_Def_Tempo_3.png"
+      "icon": "skillB/Spd_Def_Tempo_3"
     },
     "Spd/Res Tempo 3": {
       "pool": { "#": { "5": ["Monica - Favored Vassal"] } },
       "id": "Spd/Res Tempo 3",
       "name": "速度魔防節拍3",
       "sp": 240,
-      "icon": "skillB/Spd_Res_Tempo_3.png"
+      "icon": "skillB/Spd_Res_Tempo_3"
     },
     "Atk/Spd Bulwark 3": {
       "pool": {
@@ -10627,7 +10627,7 @@
       "id": "Atk/Spd Bulwark 3",
       "name": "攻擊速度防護屏障3",
       "sp": 240,
-      "icon": "skillB/Atk_Spd_Bulwark_3.png"
+      "icon": "skillB/Atk_Spd_Bulwark_3"
     },
     "Atk/Def Bulwark 3": {
       "pool": {
@@ -10637,21 +10637,21 @@
       "id": "Atk/Def Bulwark 3",
       "name": "攻擊防守防護屏障3",
       "sp": 240,
-      "icon": "skillB/Atk_Def_Bulwark_3.png"
+      "icon": "skillB/Atk_Def_Bulwark_3"
     },
     "Spd/Def Bulwark 3": {
       "pool": { "#": { "5": ["Shez - Rising Mercenary"] } },
       "id": "Spd/Def Bulwark 3",
       "name": "速度防守防護屏障3",
       "sp": 240,
-      "icon": "skillB/Spd_Def_Bulwark_3.png"
+      "icon": "skillB/Spd_Def_Bulwark_3"
     },
     "Spd/Res Bulwark 3": {
       "pool": { "#": { "5": ["Tiki - Awakened Blood"] } },
       "id": "Spd/Res Bulwark 3",
       "name": "速度魔防防護屏障3",
       "sp": 240,
-      "icon": "skillB/Spd_Res_Bulwark_3.png"
+      "icon": "skillB/Spd_Res_Bulwark_3"
     },
     "Spd Preempt 3": {
       "pool": {
@@ -10661,70 +10661,70 @@
       "id": "Spd Preempt 3",
       "name": "速度搶先3",
       "sp": 240,
-      "icon": "skillB/Spd_Preempt_3.png"
+      "icon": "skillB/Spd_Preempt_3"
     },
     "Beast Agility 3": {
       "pool": { "mythic": { "5": ["Embla - God of Closure"] } },
       "id": "Beast Agility 3",
       "name": "絕對化身・敏捷3",
       "sp": 240,
-      "icon": "skillB/Beast_Agility_3.png"
+      "icon": "skillB/Beast_Agility_3"
     },
     "Beast N Trace 3": {
       "pool": { "special": { "5": ["Elm - Resolute Grouch"] } },
       "id": "Beast N Trace 3",
       "name": "絕對化身・近影3",
       "sp": 240,
-      "icon": "skillB/Beast_N_Trace_3.png"
+      "icon": "skillB/Beast_N_Trace_3"
     },
     "Beast Follow-Up 3": {
       "pool": { "mythic": { "5": ["Fomortiis - Demon King"] } },
       "id": "Beast Follow-Up 3",
       "name": "絕對化身・追擊3",
       "sp": 240,
-      "icon": "skillB/Beast_Follow-Up_3.png"
+      "icon": "skillB/Beast_Follow-Up_3"
     },
     "Beast Sense 3": {
       "pool": { "#": { "5": ["Eitr - Hand of Nothing"] } },
       "id": "Beast Sense 3",
       "name": "絕對化身・察覺3",
       "sp": 240,
-      "icon": "skillB/Beast_Sense_3.png"
+      "icon": "skillB/Beast_Sense_3"
     },
     "Beast Sense 4": {
       "pool": { "#": { "5": ["Eitr - Hand of Nothing"] } },
       "id": "Beast Sense 4",
       "name": "絕對化身・察覺4",
       "sp": 300,
-      "icon": "skillB/Beast_Sense_4.png"
+      "icon": "skillB/Beast_Sense_4"
     },
     "Gambit 3": {
       "pool": { "#": { "5": ["Robin - Exalt's Deliverer"] } },
       "id": "Gambit 3",
       "name": "底牌3",
       "sp": 240,
-      "icon": "skillB/Gambit_3.png"
+      "icon": "skillB/Gambit_3"
     },
     "Gambit 4": {
       "pool": { "#": { "5": ["Robin - Exalt's Deliverer"] } },
       "id": "Gambit 4",
       "name": "底牌4",
       "sp": 300,
-      "icon": "skillB/Gambit_4.png"
+      "icon": "skillB/Gambit_4"
     },
     "Counter Roar 3": {
       "pool": { "#": { "5": ["Corrin - Silent Bloodline"] } },
       "id": "Counter Roar 3",
       "name": "反擊的咆嘯3",
       "sp": 240,
-      "icon": "skillB/Counter_Roar_3.png"
+      "icon": "skillB/Counter_Roar_3"
     },
     "Counter Roar 4": {
       "pool": { "#": { "5": ["Corrin - Silent Bloodline"] } },
       "id": "Counter Roar 4",
       "name": "反擊的咆嘯4",
       "sp": 300,
-      "icon": "skillB/Counter_Roar_4.png"
+      "icon": "skillB/Counter_Roar_4"
     }
   },
   "skillC": {
@@ -10739,7 +10739,7 @@
       "id": "Breath of Life 3",
       "name": "生命氣息3",
       "sp": 200,
-      "icon": "skillC/Breath_of_Life_3.png"
+      "icon": "skillC/Breath_of_Life_3"
     },
     "Savage Blow 3": {
       "pool": {
@@ -10759,7 +10759,7 @@
       "id": "Savage Blow 3",
       "name": "死亡氣息3",
       "sp": 200,
-      "icon": "skillC/Savage_Blow_3.png"
+      "icon": "skillC/Savage_Blow_3"
     },
     "Spur Atk 3": {
       "pool": {
@@ -10780,7 +10780,7 @@
       "id": "Spur Atk 3",
       "name": "攻擊紋章3",
       "sp": 200,
-      "icon": "skillC/Spur_Atk_3.png"
+      "icon": "skillC/Spur_Atk_3"
     },
     "Spur Spd 3": {
       "pool": {
@@ -10797,7 +10797,7 @@
       "id": "Spur Spd 3",
       "name": "速度紋章3",
       "sp": 200,
-      "icon": "skillC/Spur_Spd_3.png"
+      "icon": "skillC/Spur_Spd_3"
     },
     "Spur Def 3": {
       "pool": {
@@ -10815,7 +10815,7 @@
       "id": "Spur Def 3",
       "name": "防守紋章3",
       "sp": 200,
-      "icon": "skillC/Spur_Def_3.png"
+      "icon": "skillC/Spur_Def_3"
     },
     "Spur Res 3": {
       "pool": {
@@ -10834,14 +10834,14 @@
       "id": "Spur Res 3",
       "name": "魔防紋章3",
       "sp": 200,
-      "icon": "skillC/Spur_Res_3.png"
+      "icon": "skillC/Spur_Res_3"
     },
     "Spur Atk/Spd 2": {
       "pool": { "#": { "3": ["Sothe - Zephyr", "Ricken - Shepherd Novice"] } },
       "id": "Spur Atk/Spd 2",
       "name": "攻擊速度紋章2",
       "sp": 240,
-      "icon": "skillC/Spur_Atk_Spd_2.png"
+      "icon": "skillC/Spur_Atk_Spd_2"
     },
     "Spur Atk/Def 2": {
       "pool": {
@@ -10854,14 +10854,14 @@
       "id": "Spur Atk/Def 2",
       "name": "攻擊防守紋章2",
       "sp": 240,
-      "icon": "skillC/Spur_Atk_Def_2.png"
+      "icon": "skillC/Spur_Atk_Def_2"
     },
     "Spur Atk/Res 2": {
       "pool": { "#": { "3": ["Libra - Fetching Friar"] } },
       "id": "Spur Atk/Res 2",
       "name": "攻擊魔防紋章2",
       "sp": 240,
-      "icon": "skillC/Spur_Atk_Res_2.png"
+      "icon": "skillC/Spur_Atk_Res_2"
     },
     "Spur Spd/Def 2": {
       "pool": {
@@ -10870,7 +10870,7 @@
       "id": "Spur Spd/Def 2",
       "name": "速度防守紋章2",
       "sp": 240,
-      "icon": "skillC/Spur_Spd_Def_2.png"
+      "icon": "skillC/Spur_Spd_Def_2"
     },
     "Spur Spd/Res 2": {
       "pool": {
@@ -10880,7 +10880,7 @@
       "id": "Spur Spd/Res 2",
       "name": "速度魔防紋章2",
       "sp": 240,
-      "icon": "skillC/Spur_Spd_Res_2.png"
+      "icon": "skillC/Spur_Spd_Res_2"
     },
     "Spur Def/Res 2": {
       "pool": {
@@ -10893,7 +10893,7 @@
       "id": "Spur Def/Res 2",
       "name": "防守魔防紋章2",
       "sp": 240,
-      "icon": "skillC/Spur_Def_Res_2.png"
+      "icon": "skillC/Spur_Def_Res_2"
     },
     "Cross Spur Atk": {
       "pool": {
@@ -10903,7 +10903,7 @@
       "id": "Cross Spur Atk",
       "name": "十字攻擊紋章",
       "sp": 300,
-      "icon": "skillC/Cross_Spur_Atk.png"
+      "icon": "skillC/Cross_Spur_Atk"
     },
     "Cross Spur Res": {
       "pool": {
@@ -10913,7 +10913,7 @@
       "id": "Cross Spur Res",
       "name": "十字魔防紋章",
       "sp": 300,
-      "icon": "skillC/Cross_Spur_Res.png"
+      "icon": "skillC/Cross_Spur_Res"
     },
     "Drive Atk 2": {
       "pool": {
@@ -10955,7 +10955,7 @@
       "id": "Drive Atk 2",
       "name": "攻擊大紋章2",
       "sp": 240,
-      "icon": "skillC/Drive_Atk_2.png"
+      "icon": "skillC/Drive_Atk_2"
     },
     "Drive Spd 2": {
       "pool": {
@@ -10984,7 +10984,7 @@
       "id": "Drive Spd 2",
       "name": "速度大紋章2",
       "sp": 240,
-      "icon": "skillC/Drive_Spd_2.png"
+      "icon": "skillC/Drive_Spd_2"
     },
     "Drive Def 2": {
       "pool": {
@@ -11004,7 +11004,7 @@
       "id": "Drive Def 2",
       "name": "防守大紋章2",
       "sp": 240,
-      "icon": "skillC/Drive_Def_2.png"
+      "icon": "skillC/Drive_Def_2"
     },
     "Drive Res 2": {
       "pool": {
@@ -11027,7 +11027,7 @@
       "id": "Drive Res 2",
       "name": "魔防大紋章2",
       "sp": 240,
-      "icon": "skillC/Drive_Res_2.png"
+      "icon": "skillC/Drive_Res_2"
     },
     "Joint Drive Atk": {
       "pool": {
@@ -11047,7 +11047,7 @@
       "id": "Joint Drive Atk",
       "name": "攻擊相互大紋章",
       "sp": 300,
-      "icon": "skillC/Joint_Drive_Atk.png"
+      "icon": "skillC/Joint_Drive_Atk"
     },
     "Joint Drive Spd": {
       "pool": {
@@ -11066,14 +11066,14 @@
       "id": "Joint Drive Spd",
       "name": "速度相互大紋章",
       "sp": 300,
-      "icon": "skillC/Joint_Drive_Spd.png"
+      "icon": "skillC/Joint_Drive_Spd"
     },
     "Joint Drive Def": {
       "pool": { "#": { "5": ["Gatekeeper - Nothing to Report"] } },
       "id": "Joint Drive Def",
       "name": "防守相互大紋章",
       "sp": 300,
-      "icon": "skillC/Joint_Drive_Def.png"
+      "icon": "skillC/Joint_Drive_Def"
     },
     "Joint Drive Res": {
       "pool": {
@@ -11091,7 +11091,7 @@
       "id": "Joint Drive Res",
       "name": "魔防相互大紋章",
       "sp": 300,
-      "icon": "skillC/Joint_Drive_Res.png"
+      "icon": "skillC/Joint_Drive_Res"
     },
     "Close Guard 3": {
       "pool": {
@@ -11110,7 +11110,7 @@
       "id": "Close Guard 3",
       "name": "近距離警戒3",
       "sp": 240,
-      "icon": "skillC/Close_Guard_3.png"
+      "icon": "skillC/Close_Guard_3"
     },
     "Distant Guard 3": {
       "pool": {
@@ -11151,7 +11151,7 @@
       "id": "Distant Guard 3",
       "name": "遠距離警戒3",
       "sp": 240,
-      "icon": "skillC/Distant_Guard_3.png"
+      "icon": "skillC/Distant_Guard_3"
     },
     "Joint Dist. Guard": {
       "pool": {
@@ -11163,7 +11163,7 @@
       "id": "Joint Dist. Guard",
       "name": "遠距離相互警戒",
       "sp": 300,
-      "icon": "skillC/Joint_Dist._Guard.png"
+      "icon": "skillC/Joint_Dist._Guard"
     },
     "Goad Armor": {
       "pool": {
@@ -11173,14 +11173,14 @@
       "id": "Goad Armor",
       "name": "重刃紋章",
       "sp": 200,
-      "icon": "skillC/Goad_Armor.png"
+      "icon": "skillC/Goad_Armor"
     },
     "Ward Armor": {
       "pool": { "#": { "3": ["Draug - Gentle Giant"] } },
       "id": "Ward Armor",
       "name": "重盾紋章",
       "sp": 200,
-      "icon": "skillC/Ward_Armor.png"
+      "icon": "skillC/Ward_Armor"
     },
     "Goad Cavalry": {
       "pool": {
@@ -11190,7 +11190,7 @@
       "id": "Goad Cavalry",
       "name": "騎刃紋章",
       "sp": 200,
-      "icon": "skillC/Goad_Cavalry.png"
+      "icon": "skillC/Goad_Cavalry"
     },
     "Ward Cavalry": {
       "pool": {
@@ -11203,7 +11203,7 @@
       "id": "Ward Cavalry",
       "name": "騎盾紋章",
       "sp": 200,
-      "icon": "skillC/Ward_Cavalry.png"
+      "icon": "skillC/Ward_Cavalry"
     },
     "Goad Fliers": {
       "pool": {
@@ -11218,7 +11218,7 @@
       "id": "Goad Fliers",
       "name": "飛刃紋章",
       "sp": 200,
-      "icon": "skillC/Goad_Fliers.png"
+      "icon": "skillC/Goad_Fliers"
     },
     "Ward Fliers": {
       "pool": {
@@ -11231,7 +11231,7 @@
       "id": "Ward Fliers",
       "name": "飛盾紋章",
       "sp": 200,
-      "icon": "skillC/Ward_Fliers.png"
+      "icon": "skillC/Ward_Fliers"
     },
     "Goad Dragons": {
       "pool": {
@@ -11242,7 +11242,7 @@
       "id": "Goad Dragons",
       "name": "龍刃紋章",
       "sp": 200,
-      "icon": "skillC/Goad_Dragons.png"
+      "icon": "skillC/Goad_Dragons"
     },
     "Ward Dragons": {
       "pool": {
@@ -11252,14 +11252,14 @@
       "id": "Ward Dragons",
       "name": "龍盾紋章",
       "sp": 200,
-      "icon": "skillC/Ward_Dragons.png"
+      "icon": "skillC/Ward_Dragons"
     },
     "Goad Beasts": {
       "pool": { "#": { "5": ["Kaden - Kitsune Braggart"] } },
       "id": "Goad Beasts",
       "name": "獸刃紋章",
       "sp": 200,
-      "icon": "skillC/Goad_Beasts.png"
+      "icon": "skillC/Goad_Beasts"
     },
     "Ward Beasts": {
       "pool": {
@@ -11269,7 +11269,7 @@
       "id": "Ward Beasts",
       "name": "獸盾紋章",
       "sp": 200,
-      "icon": "skillC/Ward_Beasts.png"
+      "icon": "skillC/Ward_Beasts"
     },
     "Atk/Spd Rein 3": {
       "pool": {
@@ -11288,7 +11288,7 @@
       "id": "Atk/Spd Rein 3",
       "name": "攻擊速度牽制3",
       "sp": 240,
-      "icon": "skillC/Atk_Spd_Rein_3.png"
+      "icon": "skillC/Atk_Spd_Rein_3"
     },
     "Atk/Def Rein 3": {
       "pool": {
@@ -11309,7 +11309,7 @@
       "id": "Atk/Def Rein 3",
       "name": "攻擊防守牽制3",
       "sp": 240,
-      "icon": "skillC/Atk_Def_Rein_3.png"
+      "icon": "skillC/Atk_Def_Rein_3"
     },
     "Atk/Res Rein 3": {
       "pool": {
@@ -11329,7 +11329,7 @@
       "id": "Atk/Res Rein 3",
       "name": "攻擊魔防牽制3",
       "sp": 240,
-      "icon": "skillC/Atk_Res_Rein_3.png"
+      "icon": "skillC/Atk_Res_Rein_3"
     },
     "Spd/Def Rein 3": {
       "pool": {
@@ -11350,7 +11350,7 @@
       "id": "Spd/Def Rein 3",
       "name": "速度防守牽制3",
       "sp": 240,
-      "icon": "skillC/Spd_Def_Rein_3.png"
+      "icon": "skillC/Spd_Def_Rein_3"
     },
     "Spd/Res Rein 3": {
       "pool": {
@@ -11371,7 +11371,7 @@
       "id": "Spd/Res Rein 3",
       "name": "速度魔防牽制3",
       "sp": 240,
-      "icon": "skillC/Spd_Res_Rein_3.png"
+      "icon": "skillC/Spd_Res_Rein_3"
     },
     "Def/Res Rein 3": {
       "pool": {
@@ -11382,14 +11382,14 @@
       "id": "Def/Res Rein 3",
       "name": "防守魔防牽制3",
       "sp": 240,
-      "icon": "skillC/Def_Res_Rein_3.png"
+      "icon": "skillC/Def_Res_Rein_3"
     },
     "Atk/Spd Hold": {
       "pool": { "#": { "5": ["Caeldori - Perfect Angel"] } },
       "id": "Atk/Spd Hold",
       "name": "攻擊速度大牽制",
       "sp": 300,
-      "icon": "skillC/Atk_Spd_Hold.png"
+      "icon": "skillC/Atk_Spd_Hold"
     },
     "Atk/Def Hold": {
       "pool": {
@@ -11399,7 +11399,7 @@
       "id": "Atk/Def Hold",
       "name": "攻擊防守大牽制",
       "sp": 300,
-      "icon": "skillC/Atk_Def_Hold.png"
+      "icon": "skillC/Atk_Def_Hold"
     },
     "Atk/Res Hold": {
       "pool": {
@@ -11410,7 +11410,7 @@
       "id": "Atk/Res Hold",
       "name": "攻擊魔防大牽制",
       "sp": 300,
-      "icon": "skillC/Atk_Res_Hold.png"
+      "icon": "skillC/Atk_Res_Hold"
     },
     "Spd/Def Hold": {
       "pool": {
@@ -11420,7 +11420,7 @@
       "id": "Spd/Def Hold",
       "name": "速度防守大牽制",
       "sp": 300,
-      "icon": "skillC/Spd_Def_Hold.png"
+      "icon": "skillC/Spd_Def_Hold"
     },
     "Spd/Res Hold": {
       "pool": {
@@ -11430,7 +11430,7 @@
       "id": "Spd/Res Hold",
       "name": "速度魔防大牽制",
       "sp": 300,
-      "icon": "skillC/Spd_Res_Hold.png"
+      "icon": "skillC/Spd_Res_Hold"
     },
     "Def/Res Hold": {
       "pool": {
@@ -11440,14 +11440,14 @@
       "id": "Def/Res Hold",
       "name": "防守魔防大牽制",
       "sp": 300,
-      "icon": "skillC/Def_Res_Hold.png"
+      "icon": "skillC/Def_Res_Hold"
     },
     "S/D Rein Snap": {
       "pool": { "special": { "5": ["Say'ri - Righteous Bride"] } },
       "id": "S/D Rein Snap",
       "name": "速度防守牽制・推手",
       "sp": 300,
-      "icon": "skillC/S_D_Rein_Snap.png"
+      "icon": "skillC/S_D_Rein_Snap"
     },
     "Hone Atk 3": {
       "pool": {
@@ -11479,7 +11479,7 @@
       "id": "Hone Atk 3",
       "name": "攻擊鼓舞3",
       "sp": 200,
-      "icon": "skillC/Hone_Atk_3.png"
+      "icon": "skillC/Hone_Atk_3"
     },
     "Hone Atk 4": {
       "pool": {
@@ -11490,7 +11490,7 @@
       "id": "Hone Atk 4",
       "name": "攻擊鼓舞4",
       "sp": 300,
-      "icon": "skillC/Hone_Atk_4.png"
+      "icon": "skillC/Hone_Atk_4"
     },
     "Hone Spd 3": {
       "pool": {
@@ -11519,7 +11519,7 @@
       "id": "Hone Spd 3",
       "name": "速度鼓舞3",
       "sp": 200,
-      "icon": "skillC/Hone_Spd_3.png"
+      "icon": "skillC/Hone_Spd_3"
     },
     "Hone Spd 4": {
       "pool": {
@@ -11528,7 +11528,7 @@
       "id": "Hone Spd 4",
       "name": "速度鼓舞4",
       "sp": 300,
-      "icon": "skillC/Hone_Spd_4.png"
+      "icon": "skillC/Hone_Spd_4"
     },
     "Fortify Def 3": {
       "pool": {
@@ -11554,14 +11554,14 @@
       "id": "Fortify Def 3",
       "name": "防守鼓舞3",
       "sp": 200,
-      "icon": "skillC/Fortify_Def_3.png"
+      "icon": "skillC/Fortify_Def_3"
     },
     "Fortify Def 4": {
       "pool": { "special": { "5": ["Joshua - Tropical Gambler"] } },
       "id": "Fortify Def 4",
       "name": "防守鼓舞4",
       "sp": 300,
-      "icon": "skillC/Fortify_Def_4.png"
+      "icon": "skillC/Fortify_Def_4"
     },
     "Fortify Res 3": {
       "pool": {
@@ -11583,14 +11583,14 @@
       "id": "Fortify Res 3",
       "name": "魔防鼓舞3",
       "sp": 200,
-      "icon": "skillC/Fortify_Res_3.png"
+      "icon": "skillC/Fortify_Res_3"
     },
     "Fortify Res 4": {
       "pool": { "mythic": { "5": ["Peony - Sweet Dream"] } },
       "id": "Fortify Res 4",
       "name": "魔防鼓舞4",
       "sp": 300,
-      "icon": "skillC/Fortify_Res_4.png"
+      "icon": "skillC/Fortify_Res_4"
     },
     "Joint Hone Atk": {
       "pool": {
@@ -11606,7 +11606,7 @@
       "id": "Joint Hone Atk",
       "name": "攻擊相互鼓舞",
       "sp": 300,
-      "icon": "skillC/Joint_Hone_Atk.png"
+      "icon": "skillC/Joint_Hone_Atk"
     },
     "Joint Hone Spd": {
       "pool": {
@@ -11619,7 +11619,7 @@
       "id": "Joint Hone Spd",
       "name": "速度相互鼓舞",
       "sp": 300,
-      "icon": "skillC/Joint_Hone_Spd.png"
+      "icon": "skillC/Joint_Hone_Spd"
     },
     "Joint Hone Def": {
       "pool": {
@@ -11630,14 +11630,14 @@
       "id": "Joint Hone Def",
       "name": "防守相互鼓舞",
       "sp": 300,
-      "icon": "skillC/Joint_Hone_Def.png"
+      "icon": "skillC/Joint_Hone_Def"
     },
     "Joint Hone Res": {
       "pool": { "duo": { "5": ["Sigurd - Destined Duo"] } },
       "id": "Joint Hone Res",
       "name": "魔防相互鼓舞",
       "sp": 300,
-      "icon": "skillC/Joint_Hone_Res.png"
+      "icon": "skillC/Joint_Hone_Res"
     },
     "Hone Armor": {
       "pool": {
@@ -11647,7 +11647,7 @@
       "id": "Hone Armor",
       "name": "重刃鼓舞",
       "sp": 200,
-      "icon": "skillC/Hone_Armor.png"
+      "icon": "skillC/Hone_Armor"
     },
     "Fortify Armor": {
       "pool": {
@@ -11657,7 +11657,7 @@
       "id": "Fortify Armor",
       "name": "重盾鼓舞",
       "sp": 200,
-      "icon": "skillC/Fortify_Armor.png"
+      "icon": "skillC/Fortify_Armor"
     },
     "Hone Cavalry": {
       "pool": {
@@ -11667,14 +11667,14 @@
       "id": "Hone Cavalry",
       "name": "騎刃鼓舞",
       "sp": 200,
-      "icon": "skillC/Hone_Cavalry.png"
+      "icon": "skillC/Hone_Cavalry"
     },
     "Fortify Cavalry": {
       "pool": { "#": { "3": ["Jagen - Veteran Knight"] } },
       "id": "Fortify Cavalry",
       "name": "騎盾鼓舞",
       "sp": 200,
-      "icon": "skillC/Fortify_Cavalry.png"
+      "icon": "skillC/Fortify_Cavalry"
     },
     "Hone Fliers": {
       "pool": {
@@ -11698,7 +11698,7 @@
       "id": "Hone Fliers",
       "name": "飛刃鼓舞",
       "sp": 200,
-      "icon": "skillC/Hone_Fliers.png"
+      "icon": "skillC/Hone_Fliers"
     },
     "Fortify Fliers": {
       "pool": {
@@ -11710,7 +11710,7 @@
       "id": "Fortify Fliers",
       "name": "飛盾鼓舞",
       "sp": 200,
-      "icon": "skillC/Fortify_Fliers.png"
+      "icon": "skillC/Fortify_Fliers"
     },
     "Hone Dragons": {
       "pool": {
@@ -11720,7 +11720,7 @@
       "id": "Hone Dragons",
       "name": "龍刃鼓舞",
       "sp": 200,
-      "icon": "skillC/Hone_Dragons.png"
+      "icon": "skillC/Hone_Dragons"
     },
     "Fortify Dragons": {
       "pool": {
@@ -11730,7 +11730,7 @@
       "id": "Fortify Dragons",
       "name": "龍盾鼓舞",
       "sp": 200,
-      "icon": "skillC/Fortify_Dragons.png"
+      "icon": "skillC/Fortify_Dragons"
     },
     "Hone Beasts": {
       "pool": {
@@ -11739,14 +11739,14 @@
       "id": "Hone Beasts",
       "name": "獸刃鼓舞",
       "sp": 200,
-      "icon": "skillC/Hone_Beasts.png"
+      "icon": "skillC/Hone_Beasts"
     },
     "Fortify Beasts": {
       "pool": { "#": { "3": ["Reyson - White Prince"] } },
       "id": "Fortify Beasts",
       "name": "獸盾鼓舞",
       "sp": 200,
-      "icon": "skillC/Hone_Beasts.png"
+      "icon": "skillC/Hone_Beasts"
     },
     "Atk Tactic 3": {
       "pool": {
@@ -11765,7 +11765,7 @@
       "id": "Atk Tactic 3",
       "name": "攻擊指揮3",
       "sp": 240,
-      "icon": "skillC/Atk_Tactic_3.png"
+      "icon": "skillC/Atk_Tactic_3"
     },
     "Spd Tactic 3": {
       "pool": {
@@ -11788,7 +11788,7 @@
       "id": "Spd Tactic 3",
       "name": "速度指揮3",
       "sp": 240,
-      "icon": "skillC/Spd_Tactic_3.png"
+      "icon": "skillC/Spd_Tactic_3"
     },
     "Def Tactic 3": {
       "pool": {
@@ -11808,7 +11808,7 @@
       "id": "Def Tactic 3",
       "name": "防守指揮3",
       "sp": 240,
-      "icon": "skillC/Def_Tactic_3.png"
+      "icon": "skillC/Def_Tactic_3"
     },
     "Res Tactic 3": {
       "pool": {
@@ -11819,7 +11819,7 @@
       "id": "Res Tactic 3",
       "name": "魔防指揮3",
       "sp": 240,
-      "icon": "skillC/Res_Tactic_3.png"
+      "icon": "skillC/Res_Tactic_3"
     },
     "Inf. Spd Tactic": {
       "pool": {
@@ -11829,7 +11829,7 @@
       "id": "Inf. Spd Tactic",
       "name": "速度指揮・步行重視",
       "sp": 300,
-      "icon": "skillC/Inf._Spd_Tactic.png"
+      "icon": "skillC/Inf._Spd_Tactic"
     },
     "Threaten Atk 3": {
       "pool": {
@@ -11847,7 +11847,7 @@
       "id": "Threaten Atk 3",
       "name": "攻擊威嚇3",
       "sp": 200,
-      "icon": "skillC/Threaten_Atk_3.png"
+      "icon": "skillC/Threaten_Atk_3"
     },
     "Threaten Spd 3": {
       "pool": {
@@ -11860,7 +11860,7 @@
       "id": "Threaten Spd 3",
       "name": "速度威嚇3",
       "sp": 200,
-      "icon": "skillC/Threaten_Spd_3.png"
+      "icon": "skillC/Threaten_Spd_3"
     },
     "Threaten Def 3": {
       "pool": {
@@ -11880,7 +11880,7 @@
       "id": "Threaten Def 3",
       "name": "防守威嚇3",
       "sp": 200,
-      "icon": "skillC/Threaten_Def_3.png"
+      "icon": "skillC/Threaten_Def_3"
     },
     "Threaten Res 3": {
       "pool": {
@@ -11890,7 +11890,7 @@
       "id": "Threaten Res 3",
       "name": "魔防威嚇3",
       "sp": 200,
-      "icon": "skillC/Threaten_Res_3.png"
+      "icon": "skillC/Threaten_Res_3"
     },
     "Threat. Atk/Spd 2": {
       "pool": {
@@ -11906,14 +11906,14 @@
       "id": "Threat. Atk/Spd 2",
       "name": "攻擊速度的威嚇2",
       "sp": 200,
-      "icon": "skillC/Threat._Atk_Spd_2.png"
+      "icon": "skillC/Threat._Atk_Spd_2"
     },
     "Threat. Atk/Spd 3": {
       "pool": { "#": { "5": ["Alm - Imperial Ascent"] } },
       "id": "Threat. Atk/Spd 3",
       "name": "攻擊速度的威嚇3",
       "sp": 300,
-      "icon": "skillC/Threat._Atk_Spd_3.png"
+      "icon": "skillC/Threat._Atk_Spd_3"
     },
     "Threat. Atk/Def 2": {
       "pool": {
@@ -11943,7 +11943,7 @@
       "id": "Threat. Atk/Def 2",
       "name": "攻擊防守的威嚇2",
       "sp": 200,
-      "icon": "skillC/Threat._Atk_Def_2.png"
+      "icon": "skillC/Threat._Atk_Def_2"
     },
     "Threat. Atk/Def 3": {
       "pool": {
@@ -11953,7 +11953,7 @@
       "id": "Threat. Atk/Def 3",
       "name": "攻擊防守的威嚇3",
       "sp": 300,
-      "icon": "skillC/Threat._Atk_Def_3.png"
+      "icon": "skillC/Threat._Atk_Def_3"
     },
     "Threat. Atk/Res 2": {
       "pool": {
@@ -11967,14 +11967,14 @@
       "id": "Threat. Atk/Res 2",
       "name": "攻擊魔防的威嚇2",
       "sp": 200,
-      "icon": "skillC/Threat._Atk_Res_2.png"
+      "icon": "skillC/Threat._Atk_Res_2"
     },
     "Threat. Atk/Res 3": {
       "pool": { "special": { "5": ["Sothis - Silver Specter"] } },
       "id": "Threat. Atk/Res 3",
       "name": "攻擊魔防的威嚇3",
       "sp": 300,
-      "icon": "skillC/Threat._Atk_Res_3.png"
+      "icon": "skillC/Threat._Atk_Res_3"
     },
     "Threat. Spd/Def 2": {
       "pool": {
@@ -11985,14 +11985,14 @@
       "id": "Threat. Spd/Def 2",
       "name": "攻擊速度的威嚇2",
       "sp": 200,
-      "icon": "skillC/Threat._Spd_Def_2.png"
+      "icon": "skillC/Threat._Spd_Def_2"
     },
     "Threat. Spd/Res 2": {
       "pool": { "#": { "5": ["Arthur - Furious Mage"] } },
       "id": "Threat. Spd/Res 2",
       "name": "速度魔防的威嚇2",
       "sp": 200,
-      "icon": "skillC/Threat._Spd_Res_2.png"
+      "icon": "skillC/Threat._Spd_Res_2"
     },
     "Threat. Def/Res 2": {
       "pool": {
@@ -12003,7 +12003,7 @@
       "id": "Threat. Def/Res 2",
       "name": "防守魔防的威嚇2",
       "sp": 200,
-      "icon": "skillC/Threat._Def_Res_2.png"
+      "icon": "skillC/Threat._Def_Res_2"
     },
     "Atk/Spd Menace": {
       "pool": {
@@ -12016,7 +12016,7 @@
       "id": "Atk/Spd Menace",
       "name": "攻擊速度的恐嚇",
       "sp": 300,
-      "icon": "skillC/Atk_Spd_Menace.png"
+      "icon": "skillC/Atk_Spd_Menace"
     },
     "Atk/Def Menace": {
       "pool": {
@@ -12034,7 +12034,7 @@
       "id": "Atk/Def Menace",
       "name": "攻擊防守的恐嚇",
       "sp": 300,
-      "icon": "skillC/Atk_Def_Menace.png"
+      "icon": "skillC/Atk_Def_Menace"
     },
     "Atk/Res Menace": {
       "pool": {
@@ -12046,21 +12046,21 @@
       "id": "Atk/Res Menace",
       "name": "攻擊魔防的恐嚇",
       "sp": 300,
-      "icon": "skillC/Atk_Res_Menace.png"
+      "icon": "skillC/Atk_Res_Menace"
     },
     "Spd/Def Menace": {
       "pool": { "special": { "5": ["Dimitri - Sky-Blue Lion"] } },
       "id": "Spd/Def Menace",
       "name": "速度防守的恐嚇",
       "sp": 300,
-      "icon": "skillC/Spd_Def_Menace.png"
+      "icon": "skillC/Spd_Def_Menace"
     },
     "Spd/Res Menace": {
       "pool": { "#": { "5": ["Arthur - Furious Mage"] } },
       "id": "Spd/Res Menace",
       "name": "速度魔防的恐嚇",
       "sp": 300,
-      "icon": "skillC/Spd_Res_Menace.png"
+      "icon": "skillC/Spd_Res_Menace"
     },
     "Def/Res Menace": {
       "pool": {
@@ -12070,7 +12070,7 @@
       "id": "Def/Res Menace",
       "name": "防守魔防的恐嚇",
       "sp": 300,
-      "icon": "skillC/Def_Res_Menace.png"
+      "icon": "skillC/Def_Res_Menace"
     },
     "Atk Ploy 3": {
       "pool": {
@@ -12087,7 +12087,7 @@
       "id": "Atk Ploy 3",
       "name": "攻擊謀策3",
       "sp": 240,
-      "icon": "skillC/Atk_Ploy_3.png"
+      "icon": "skillC/Atk_Ploy_3"
     },
     "Spd Ploy 3": {
       "pool": {
@@ -12100,7 +12100,7 @@
       "id": "Spd Ploy 3",
       "name": "速度謀策3",
       "sp": 240,
-      "icon": "skillC/Spd_Ploy_3.png"
+      "icon": "skillC/Spd_Ploy_3"
     },
     "Def Ploy 3": {
       "pool": {
@@ -12114,7 +12114,7 @@
       "id": "Def Ploy 3",
       "name": "防守謀策3",
       "sp": 240,
-      "icon": "skillC/Def_Ploy_3.png"
+      "icon": "skillC/Def_Ploy_3"
     },
     "Res Ploy 3": {
       "pool": {
@@ -12133,14 +12133,14 @@
       "id": "Res Ploy 3",
       "name": "魔防謀策3",
       "sp": 240,
-      "icon": "skillC/Res_Ploy_3.png"
+      "icon": "skillC/Res_Ploy_3"
     },
     "Def/Res Ploy 3": {
       "pool": { "#": { "5": ["Plumeria - Rapturous Dream"] } },
       "id": "Def/Res Ploy 3",
       "name": "防守魔防謀策3",
       "sp": 300,
-      "icon": "skillC/Def_Res_Ploy_3.png"
+      "icon": "skillC/Def_Res_Ploy_3"
     },
     "Panic Ploy 3": {
       "pool": {
@@ -12154,14 +12154,14 @@
       "id": "Panic Ploy 3",
       "name": "恐慌奇策3",
       "sp": 240,
-      "icon": "skillC/Panic_Ploy_3.png"
+      "icon": "skillC/Panic_Ploy_3"
     },
     "Stall Ploy 3": {
       "pool": { "special": { "5": ["Naesala - Sea's Shadow"] } },
       "id": "Stall Ploy 3",
       "name": "空轉奇策3",
       "sp": 240,
-      "icon": "skillC/Stall_Ploy_3.png"
+      "icon": "skillC/Stall_Ploy_3"
     },
     "Atk Smoke 3": {
       "pool": {
@@ -12186,7 +12186,7 @@
       "id": "Atk Smoke 3",
       "name": "攻擊紫煙3",
       "sp": 240,
-      "icon": "skillC/Atk_Smoke_3.png"
+      "icon": "skillC/Atk_Smoke_3"
     },
     "Atk Smoke 4": {
       "pool": {
@@ -12196,7 +12196,7 @@
       "id": "Atk Smoke 4",
       "name": "攻擊紫煙4",
       "sp": 300,
-      "icon": "skillC/Atk_Smoke_4.png"
+      "icon": "skillC/Atk_Smoke_4"
     },
     "Spd Smoke 3": {
       "pool": {
@@ -12218,7 +12218,7 @@
       "id": "Spd Smoke 3",
       "name": "速度紫煙3",
       "sp": 240,
-      "icon": "skillC/Spd_Smoke_3.png"
+      "icon": "skillC/Spd_Smoke_3"
     },
     "Spd Smoke 4": {
       "pool": {
@@ -12236,7 +12236,7 @@
       "id": "Spd Smoke 4",
       "name": "速度紫煙4",
       "sp": 300,
-      "icon": "skillC/Spd_Smoke_4.png"
+      "icon": "skillC/Spd_Smoke_4"
     },
     "Def Smoke 3": {
       "pool": {
@@ -12253,7 +12253,7 @@
       "id": "Def Smoke 3",
       "name": "防守紫煙3",
       "sp": 240,
-      "icon": "skillC/Def_Smoke_3.png"
+      "icon": "skillC/Def_Smoke_3"
     },
     "Res Smoke 3": {
       "pool": {
@@ -12265,7 +12265,7 @@
       "id": "Res Smoke 3",
       "name": "魔防紫煙3",
       "sp": 240,
-      "icon": "skillC/Res_Smoke_3.png"
+      "icon": "skillC/Res_Smoke_3"
     },
     "Pulse Smoke 3": {
       "pool": {
@@ -12284,7 +12284,7 @@
       "id": "Pulse Smoke 3",
       "name": "躍動的幻煙3",
       "sp": 240,
-      "icon": "skillC/Pulse_Smoke_3.png"
+      "icon": "skillC/Pulse_Smoke_3"
     },
     "Panic Smoke 3": {
       "pool": {
@@ -12310,7 +12310,7 @@
       "id": "Panic Smoke 3",
       "name": "恐慌的幻煙3",
       "sp": 240,
-      "icon": "skillC/Panic_Smoke_3.png"
+      "icon": "skillC/Panic_Smoke_3"
     },
     "Panic Smoke 4": {
       "pool": {
@@ -12321,7 +12321,7 @@
       "id": "Panic Smoke 4",
       "name": "恐慌的幻煙4",
       "sp": 300,
-      "icon": "skillC/Panic_Smoke_4.png"
+      "icon": "skillC/Panic_Smoke_4"
     },
     "Fatal Smoke 3": {
       "pool": {
@@ -12332,7 +12332,7 @@
       "id": "Fatal Smoke 3",
       "name": "不治的幻煙3",
       "sp": 240,
-      "icon": "skillC/Fatal_Smoke_3.png"
+      "icon": "skillC/Fatal_Smoke_3"
     },
     "Def/Res Smoke 3": {
       "pool": {
@@ -12345,7 +12345,7 @@
       "id": "Def/Res Smoke 3",
       "name": "防守魔防紫煙3",
       "sp": 300,
-      "icon": "skillC/Def_Res_Smoke_3.png"
+      "icon": "skillC/Def_Res_Smoke_3"
     },
     "Time's Pulse 3": {
       "pool": {
@@ -12385,7 +12385,7 @@
       "id": "Time's Pulse 3",
       "name": "初始之躍動3",
       "sp": 240,
-      "icon": "skillC/Times_Pulse_3.png"
+      "icon": "skillC/Times_Pulse_3"
     },
     "Time's Pulse 4": {
       "pool": {
@@ -12401,7 +12401,7 @@
       "id": "Time's Pulse 4",
       "name": "初始之躍動4",
       "sp": 300,
-      "icon": "skillC/Times_Pulse_4.png"
+      "icon": "skillC/Times_Pulse_4"
     },
     "Infantry Pulse 3": {
       "pool": {
@@ -12423,14 +12423,14 @@
       "id": "Infantry Pulse 3",
       "name": "步行之躍動3",
       "sp": 240,
-      "icon": "skillC/Infantry_Pulse_3.png"
+      "icon": "skillC/Infantry_Pulse_3"
     },
     "Infantry Pulse 4": {
       "pool": { "#": { "5": ["Ced - Sage of the Wind"] } },
       "id": "Infantry Pulse 4",
       "name": "步行之躍動4",
       "sp": 300,
-      "icon": "skillC/Infantry_Pulse_4.png"
+      "icon": "skillC/Infantry_Pulse_4"
     },
     "Infantry Rush 3": {
       "pool": {
@@ -12443,7 +12443,7 @@
       "id": "Infantry Rush 3",
       "name": "步行之剛擊3",
       "sp": 240,
-      "icon": "skillC/Infantry_Rush_3.png"
+      "icon": "skillC/Infantry_Rush_3"
     },
     "Infantry Flash 3": {
       "pool": {
@@ -12454,7 +12454,7 @@
       "id": "Infantry Flash 3",
       "name": "步行之柔擊3",
       "sp": 240,
-      "icon": "skillC/Infantry_Flash_3.png"
+      "icon": "skillC/Infantry_Flash_3"
     },
     "Infantry Breath 3": {
       "pool": {
@@ -12464,7 +12464,7 @@
       "id": "Infantry Breath 3",
       "name": "步行呼吸3",
       "sp": 240,
-      "icon": "skillC/Infantry_Breath_3.png"
+      "icon": "skillC/Infantry_Breath_3"
     },
     "Inf. Hexblade 3": {
       "pool": {
@@ -12474,7 +12474,7 @@
       "id": "Inf. Hexblade 3",
       "name": "步行之魔刃3",
       "sp": 240,
-      "icon": "skillC/Inf._Hexblade_3.png"
+      "icon": "skillC/Inf._Hexblade_3"
     },
     "Inf. Null Follow 3": {
       "pool": {
@@ -12483,7 +12483,7 @@
       "id": "Inf. Null Follow 3",
       "name": "步行識破追擊3",
       "sp": 240,
-      "icon": "skillC/Inf._Null_Follow_3.png"
+      "icon": "skillC/Inf._Null_Follow_3"
     },
     "Armor March 3": {
       "pool": {
@@ -12508,7 +12508,7 @@
       "id": "Armor March 3",
       "name": "重裝備行軍3",
       "sp": 240,
-      "icon": "skillC/Armor_March_3.png"
+      "icon": "skillC/Armor_March_3"
     },
     "Armored Stride 3": {
       "pool": {
@@ -12519,7 +12519,7 @@
       "id": "Armored Stride 3",
       "name": "重裝備游擊3",
       "sp": 240,
-      "icon": "skillC/Armored_Stride_3.png"
+      "icon": "skillC/Armored_Stride_3"
     },
     "A/S Near Save 2": {
       "pool": {
@@ -12528,7 +12528,7 @@
       "id": "A/S Near Save 2",
       "name": "刃之守護人・近處2",
       "sp": 200,
-      "icon": "skillC/A_S_Near_Save_2.png"
+      "icon": "skillC/A_S_Near_Save_2"
     },
     "A/S Near Save 3": {
       "pool": {
@@ -12537,7 +12537,7 @@
       "id": "A/S Near Save 3",
       "name": "刃之守護人・近處3",
       "sp": 300,
-      "icon": "skillC/A_S_Near_Save_3.png"
+      "icon": "skillC/A_S_Near_Save_3"
     },
     "A/D Near Save 2": {
       "pool": {
@@ -12547,7 +12547,7 @@
       "id": "A/D Near Save 2",
       "name": "鎧之守護人・近處2",
       "sp": 200,
-      "icon": "skillC/A_D_Near_Save_2.png"
+      "icon": "skillC/A_D_Near_Save_2"
     },
     "A/D Near Save 3": {
       "pool": {
@@ -12557,21 +12557,21 @@
       "id": "A/D Near Save 3",
       "name": "鎧之守護人・近處3",
       "sp": 300,
-      "icon": "skillC/A_D_Near_Save_3.png"
+      "icon": "skillC/A_D_Near_Save_3"
     },
     "A/R Near Save 2": {
       "pool": { "special": { "5": ["Robin - Fall Reincarnation"] } },
       "id": "A/R Near Save 2",
       "name": "冑之守護人・近處2",
       "sp": 200,
-      "icon": "skillC/A_R_Near_Save_2.png"
+      "icon": "skillC/A_R_Near_Save_2"
     },
     "A/R Near Save 3": {
       "pool": { "special": { "5": ["Robin - Fall Reincarnation"] } },
       "id": "A/R Near Save 3",
       "name": "冑之守護人・近處3",
       "sp": 300,
-      "icon": "skillC/A_R_Near_Save_3.png"
+      "icon": "skillC/A_R_Near_Save_3"
     },
     "D/R Near Save 2": {
       "pool": {
@@ -12581,7 +12581,7 @@
       "id": "D/R Near Save 2",
       "name": "盾之守護人・近處2",
       "sp": 200,
-      "icon": "skillC/D_R_Near_Save_2.png"
+      "icon": "skillC/D_R_Near_Save_2"
     },
     "D/R Near Save 3": {
       "pool": {
@@ -12591,7 +12591,7 @@
       "id": "D/R Near Save 3",
       "name": "盾之守護人・近處3",
       "sp": 300,
-      "icon": "skillC/D_R_Near_Save_3.png"
+      "icon": "skillC/D_R_Near_Save_3"
     },
     "A/S Far Save 2": {
       "pool": {
@@ -12601,7 +12601,7 @@
       "id": "A/S Far Save 2",
       "name": "刃之守護人・遠處2",
       "sp": 200,
-      "icon": "skillC/A_S_Far_Save_2.png"
+      "icon": "skillC/A_S_Far_Save_2"
     },
     "A/S Far Save 3": {
       "pool": {
@@ -12611,7 +12611,7 @@
       "id": "A/S Far Save 3",
       "name": "刃之守護人・遠處3",
       "sp": 300,
-      "icon": "skillC/A_S_Far_Save_3.png"
+      "icon": "skillC/A_S_Far_Save_3"
     },
     "A/D Far Save 2": {
       "pool": {
@@ -12621,7 +12621,7 @@
       "id": "A/D Far Save 2",
       "name": "鎧之守護人・遠處2",
       "sp": 200,
-      "icon": "skillC/A_D_Far_Save_2.png"
+      "icon": "skillC/A_D_Far_Save_2"
     },
     "A/D Far Save 3": {
       "pool": {
@@ -12631,7 +12631,7 @@
       "id": "A/D Far Save 3",
       "name": "鎧之守護人・遠處3",
       "sp": 300,
-      "icon": "skillC/A_D_Far_Save_3.png"
+      "icon": "skillC/A_D_Far_Save_3"
     },
     "A/R Far Save 2": {
       "pool": {
@@ -12642,7 +12642,7 @@
       "id": "A/R Far Save 2",
       "name": "冑之守護人・遠處2",
       "sp": 200,
-      "icon": "skillC/A_R_Far_Save_2.png"
+      "icon": "skillC/A_R_Far_Save_2"
     },
     "A/R Far Save 3": {
       "pool": {
@@ -12653,7 +12653,7 @@
       "id": "A/R Far Save 3",
       "name": "冑之守護人・遠處3",
       "sp": 300,
-      "icon": "skillC/A_R_Far_Save_3.png"
+      "icon": "skillC/A_R_Far_Save_3"
     },
     "D/R Far Save 2": {
       "pool": {
@@ -12668,7 +12668,7 @@
       "id": "D/R Far Save 2",
       "name": "盾之守護人・遠處2",
       "sp": 200,
-      "icon": "skillC/D_R_Far_Save_2.png"
+      "icon": "skillC/D_R_Far_Save_2"
     },
     "D/R Far Save 3": {
       "pool": {
@@ -12683,7 +12683,7 @@
       "id": "D/R Far Save 3",
       "name": "盾之守護人・遠處3",
       "sp": 300,
-      "icon": "skillC/D_R_Far_Save_3.png"
+      "icon": "skillC/D_R_Far_Save_3"
     },
     "Guidance 3": {
       "pool": {
@@ -12700,14 +12700,14 @@
       "id": "Guidance 3",
       "name": "空中前導3",
       "sp": 240,
-      "icon": "skillC/Guidance_3.png"
+      "icon": "skillC/Guidance_3"
     },
     "Guidance 4": {
       "pool": { "#": { "5": ["Tana - Soaring Princess"] } },
       "id": "Guidance 4",
       "name": "空中前導4",
       "sp": 300,
-      "icon": "skillC/Guidance_4.png"
+      "icon": "skillC/Guidance_4"
     },
     "Flier Guidance 3": {
       "pool": {
@@ -12718,14 +12718,14 @@
       "id": "Flier Guidance 3",
       "name": "飛行前導3",
       "sp": 240,
-      "icon": "skillC/Flier_Guidance_3.png"
+      "icon": "skillC/Flier_Guidance_3"
     },
     "Soaring Guidance": {
       "pool": { "special": { "5": ["Ivy - Tidal Breeze"] } },
       "id": "Soaring Guidance",
       "name": "飛走前導",
       "sp": 300,
-      "icon": "skillC/Soaring_Guidance.png"
+      "icon": "skillC/Soaring_Guidance"
     },
     "Air Orders 3": {
       "pool": {
@@ -12742,7 +12742,7 @@
       "id": "Air Orders 3",
       "name": "前導傳令・天3",
       "sp": 240,
-      "icon": "skillC/Air_Orders_3.png"
+      "icon": "skillC/Air_Orders_3"
     },
     "Ground Orders 3": {
       "pool": {
@@ -12761,7 +12761,7 @@
       "id": "Ground Orders 3",
       "name": "前導傳令・地3",
       "sp": 240,
-      "icon": "skillC/Ground_Orders_3.png"
+      "icon": "skillC/Ground_Orders_3"
     },
     "Odd Atk Wave 3": {
       "pool": {
@@ -12782,7 +12782,7 @@
       "id": "Odd Atk Wave 3",
       "name": "攻擊之波・奇數3",
       "sp": 240,
-      "icon": "skillC/Odd_Atk_Wave_3.png"
+      "icon": "skillC/Odd_Atk_Wave_3"
     },
     "Odd Spd Wave 3": {
       "pool": {
@@ -12802,7 +12802,7 @@
       "id": "Odd Spd Wave 3",
       "name": "速度之波・奇數3",
       "sp": 240,
-      "icon": "skillC/Odd_Spd_Wave_3.png"
+      "icon": "skillC/Odd_Spd_Wave_3"
     },
     "Odd Def Wave 3": {
       "pool": {
@@ -12816,7 +12816,7 @@
       "id": "Odd Def Wave 3",
       "name": "防守之波・奇數3",
       "sp": 240,
-      "icon": "skillC/Odd_Def_Wave_3.png"
+      "icon": "skillC/Odd_Def_Wave_3"
     },
     "Odd Res Wave 3": {
       "pool": {
@@ -12832,7 +12832,7 @@
       "id": "Odd Res Wave 3",
       "name": "魔防之波・奇數3",
       "sp": 240,
-      "icon": "skillC/Odd_Res_Wave_3.png"
+      "icon": "skillC/Odd_Res_Wave_3"
     },
     "Even Atk Wave 3": {
       "pool": {
@@ -12854,7 +12854,7 @@
       "id": "Even Atk Wave 3",
       "name": "攻擊之波・偶數3",
       "sp": 240,
-      "icon": "skillC/Even_Atk_Wave_3.png"
+      "icon": "skillC/Even_Atk_Wave_3"
     },
     "Even Spd Wave 3": {
       "pool": {
@@ -12866,7 +12866,7 @@
       "id": "Even Spd Wave 3",
       "name": "速度之波・偶數3",
       "sp": 240,
-      "icon": "skillC/Even_Spd_Wave_3.png"
+      "icon": "skillC/Even_Spd_Wave_3"
     },
     "Even Def Wave 3": {
       "pool": {
@@ -12880,7 +12880,7 @@
       "id": "Even Def Wave 3",
       "name": "防守之波・偶數3",
       "sp": 240,
-      "icon": "skillC/Even_Def_Wave_3.png"
+      "icon": "skillC/Even_Def_Wave_3"
     },
     "Even Res Wave 3": {
       "pool": {
@@ -12893,7 +12893,7 @@
       "id": "Even Res Wave 3",
       "name": "魔防之波・偶數3",
       "sp": 240,
-      "icon": "skillC/Even_Res_Wave_3.png"
+      "icon": "skillC/Even_Res_Wave_3"
     },
     "Atk Opening 3": {
       "pool": {
@@ -12909,7 +12909,7 @@
       "id": "Atk Opening 3",
       "name": "攻擊開放3",
       "sp": 240,
-      "icon": "skillC/Atk_Opening_3.png"
+      "icon": "skillC/Atk_Opening_3"
     },
     "Spd Opening 3": {
       "pool": {
@@ -12923,7 +12923,7 @@
       "id": "Spd Opening 3",
       "name": "速度開放3",
       "sp": 240,
-      "icon": "skillC/Spd_Opening_3.png"
+      "icon": "skillC/Spd_Opening_3"
     },
     "Def Opening 3": {
       "pool": {
@@ -12937,7 +12937,7 @@
       "id": "Def Opening 3",
       "name": "防守開放3",
       "sp": 240,
-      "icon": "skillC/Def_Opening_3.png"
+      "icon": "skillC/Def_Opening_3"
     },
     "Res Opening 3": {
       "pool": {
@@ -12951,7 +12951,7 @@
       "id": "Res Opening 3",
       "name": "魔防開放3",
       "sp": 240,
-      "icon": "skillC/Res_Opening_3.png"
+      "icon": "skillC/Res_Opening_3"
     },
     "Atk/Spd Gap 3": {
       "pool": {
@@ -12964,7 +12964,7 @@
       "id": "Atk/Spd Gap 3",
       "name": "攻擊速度大開放3",
       "sp": 240,
-      "icon": "skillC/Atk_Spd_Gap_3.png"
+      "icon": "skillC/Atk_Spd_Gap_3"
     },
     "Atk/Def Gap 3": {
       "pool": {
@@ -12978,7 +12978,7 @@
       "id": "Atk/Def Gap 3",
       "name": "攻擊防守大開放3",
       "sp": 240,
-      "icon": "skillC/Atk_Def_Gap_3.png"
+      "icon": "skillC/Atk_Def_Gap_3"
     },
     "Atk/Res Gap 3": {
       "pool": {
@@ -12991,7 +12991,7 @@
       "id": "Atk/Res Gap 3",
       "name": "攻擊魔防大開放3",
       "sp": 240,
-      "icon": "skillC/Atk_Res_Gap_3.png"
+      "icon": "skillC/Atk_Res_Gap_3"
     },
     "Spd/Def Gap 3": {
       "pool": {
@@ -13001,7 +13001,7 @@
       "id": "Spd/Def Gap 3",
       "name": "速度防守大開放3",
       "sp": 240,
-      "icon": "skillC/Spd_Def_Gap_3.png"
+      "icon": "skillC/Spd_Def_Gap_3"
     },
     "Spd/Res Gap 3": {
       "pool": {
@@ -13013,7 +13013,7 @@
       "id": "Spd/Res Gap 3",
       "name": "速度魔防大開放3",
       "sp": 240,
-      "icon": "skillC/Spd_Res_Gap_3.png"
+      "icon": "skillC/Spd_Res_Gap_3"
     },
     "Def/Res Gap 3": {
       "pool": {
@@ -13023,7 +13023,7 @@
       "id": "Def/Res Gap 3",
       "name": "防守魔防大開放3",
       "sp": 240,
-      "icon": "skillC/Def_Res_Gap_3.png"
+      "icon": "skillC/Def_Res_Gap_3"
     },
     "Rouse Atk/Spd 3": {
       "pool": {
@@ -13050,7 +13050,7 @@
       "id": "Rouse Atk/Spd 3",
       "name": "攻擊速度的奮起3",
       "sp": 240,
-      "icon": "skillC/Rouse_Atk_Spd_3.png"
+      "icon": "skillC/Rouse_Atk_Spd_3"
     },
     "Rouse Atk/Spd 4": {
       "pool": {
@@ -13060,7 +13060,7 @@
       "id": "Rouse Atk/Spd 4",
       "name": "攻擊速度的奮起4",
       "sp": 300,
-      "icon": "skillC/Rouse_Atk_Spd_4.png"
+      "icon": "skillC/Rouse_Atk_Spd_4"
     },
     "Rouse Atk/Def 3": {
       "pool": {
@@ -13080,14 +13080,14 @@
       "id": "Rouse Atk/Def 3",
       "name": "攻擊防守的奮起3",
       "sp": 240,
-      "icon": "skillC/Rouse_Atk_Def_3.png"
+      "icon": "skillC/Rouse_Atk_Def_3"
     },
     "Rouse Atk/Def 4": {
       "pool": { "special": { "5": ["Fáfnir - Fresh Ambition"] } },
       "id": "Rouse Atk/Def 4",
       "name": "攻擊防守的奮起4",
       "sp": 300,
-      "icon": "skillC/Rouse_Atk_Def_4.png"
+      "icon": "skillC/Rouse_Atk_Def_4"
     },
     "Rouse Atk/Res 3": {
       "pool": {
@@ -13101,14 +13101,14 @@
       "id": "Rouse Atk/Res 3",
       "name": "攻擊魔防的奮起3",
       "sp": 240,
-      "icon": "skillC/Rouse_Atk_Res_3.png"
+      "icon": "skillC/Rouse_Atk_Res_3"
     },
     "Rouse Atk/Res 4": {
       "pool": { "#": { "5": ["Letizia - Curse Director"] } },
       "id": "Rouse Atk/Res 4",
       "name": "攻擊魔防的奮起4",
       "sp": 300,
-      "icon": "skillC/Rouse_Atk_Res_4.png"
+      "icon": "skillC/Rouse_Atk_Res_4"
     },
     "Rouse Spd/Def 3": {
       "pool": {
@@ -13124,14 +13124,14 @@
       "id": "Rouse Spd/Def 3",
       "name": "速度防守的奮起3",
       "sp": 240,
-      "icon": "skillC/Rouse_Spd_Def_3.png"
+      "icon": "skillC/Rouse_Spd_Def_3"
     },
     "Rouse Spd/Def 4": {
       "pool": { "#": { "5": ["Priam - Radiant Hero"] } },
       "id": "Rouse Spd/Def 4",
       "name": "速度防守的奮起4",
       "sp": 300,
-      "icon": "skillC/Rouse_Spd_Def_4.png"
+      "icon": "skillC/Rouse_Spd_Def_4"
     },
     "Rouse Spd/Res 3": {
       "pool": {
@@ -13141,7 +13141,7 @@
       "id": "Rouse Spd/Res 3",
       "name": "速度魔防的奮起3",
       "sp": 240,
-      "icon": "skillC/Rouse_Spd_Res_3.png"
+      "icon": "skillC/Rouse_Spd_Res_3"
     },
     "Rouse Def/Res 3": {
       "pool": {
@@ -13152,7 +13152,7 @@
       "id": "Rouse Def/Res 3",
       "name": "防守魔防的奮起3",
       "sp": 240,
-      "icon": "skillC/Rouse_Def_Res_3.png"
+      "icon": "skillC/Rouse_Def_Res_3"
     },
     "Alarm Atk/Spd": {
       "pool": {
@@ -13163,21 +13163,21 @@
       "id": "Alarm Atk/Spd",
       "name": "攻擊速度的奮進",
       "sp": 300,
-      "icon": "skillC/Alarm_Atk_Spd.png"
+      "icon": "skillC/Alarm_Atk_Spd"
     },
     "Alarm Atk/Def": {
       "pool": { "special": { "5": ["Ephraim - Sunshine Valiant"] } },
       "id": "Alarm Atk/Def",
       "name": "攻擊防守的奮進",
       "sp": 300,
-      "icon": "skillC/Alarm_Atk_Def.png"
+      "icon": "skillC/Alarm_Atk_Def"
     },
     "Alarm Spd/Def": {
       "pool": { "#": { "5": ["Noah - Mercenary-Errant"] } },
       "id": "Alarm Spd/Def",
       "name": "速度防守的奮進",
       "sp": 300,
-      "icon": "skillC/Alarm_Spd_Def.png"
+      "icon": "skillC/Alarm_Spd_Def"
     },
     "Atk/Spd Oath 3": {
       "pool": {
@@ -13212,7 +13212,7 @@
       "id": "Atk/Spd Oath 3",
       "name": "攻擊速度的信義3",
       "sp": 240,
-      "icon": "skillC/Atk_Spd_Oath_3.png"
+      "icon": "skillC/Atk_Spd_Oath_3"
     },
     "Atk/Spd Oath 4": {
       "pool": {
@@ -13235,7 +13235,7 @@
       "id": "Atk/Spd Oath 4",
       "name": "攻擊速度的信義4",
       "sp": 300,
-      "icon": "skillC/Atk_Spd_Oath_4.png"
+      "icon": "skillC/Atk_Spd_Oath_4"
     },
     "Atk/Def Oath 3": {
       "pool": {
@@ -13246,7 +13246,7 @@
       "id": "Atk/Def Oath 3",
       "name": "攻擊防守的信義3",
       "sp": 240,
-      "icon": "skillC/Atk_Def_Oath_3.png"
+      "icon": "skillC/Atk_Def_Oath_3"
     },
     "Atk/Res Oath 3": {
       "pool": {
@@ -13263,7 +13263,7 @@
       "id": "Atk/Res Oath 3",
       "name": "攻擊魔防的信義3",
       "sp": 240,
-      "icon": "skillC/Atk_Res_Oath_3.png"
+      "icon": "skillC/Atk_Res_Oath_3"
     },
     "Atk/Res Oath 4": {
       "pool": {
@@ -13273,7 +13273,7 @@
       "id": "Atk/Res Oath 4",
       "name": "攻擊魔防的信義4",
       "sp": 300,
-      "icon": "skillC/Atk_Res_Oath_4.png"
+      "icon": "skillC/Atk_Res_Oath_4"
     },
     "Spd/Def Oath 3": {
       "pool": {
@@ -13284,7 +13284,7 @@
       "id": "Spd/Def Oath 3",
       "name": "速度防守的信義3",
       "sp": 240,
-      "icon": "skillC/Spd_Def_Oath_3.png"
+      "icon": "skillC/Spd_Def_Oath_3"
     },
     "Spd/Res Oath 3": {
       "pool": {
@@ -13297,21 +13297,21 @@
       "id": "Spd/Res Oath 3",
       "name": "速度魔防的信義3",
       "sp": 240,
-      "icon": "skillC/Spd_Res_Oath_3.png"
+      "icon": "skillC/Spd_Res_Oath_3"
     },
     "Def/Res Oath 3": {
       "pool": { "duo": { "5": ["Alfonse - Askran Duo"] } },
       "id": "Def/Res Oath 3",
       "name": "防守魔防的信義3",
       "sp": 240,
-      "icon": "skillC/Def_Res_Oath_3.png"
+      "icon": "skillC/Def_Res_Oath_3"
     },
     "Atk/Spd Pledge": {
       "pool": { "legendary": { "5": ["Alear - Awoken Divinity"] } },
       "id": "Atk/Spd Pledge",
       "name": "攻擊速度的信念",
       "sp": 300,
-      "icon": "skillC/Atk_Spd_Pledge.png"
+      "icon": "skillC/Atk_Spd_Pledge"
     },
     "Odd Tempest 3": {
       "pool": {
@@ -13328,7 +13328,7 @@
       "id": "Odd Tempest 3",
       "name": "迅雷風烈・奇數3",
       "sp": 240,
-      "icon": "skillC/Odd_Tempest_3.png"
+      "icon": "skillC/Odd_Tempest_3"
     },
     "Even Tempest 3": {
       "pool": {
@@ -13344,14 +13344,14 @@
       "id": "Even Tempest 3",
       "name": "迅雷風烈・偶數3",
       "sp": 240,
-      "icon": "skillC/Even_Tempest_3.png"
+      "icon": "skillC/Even_Tempest_3"
     },
     "Assault Troop 3": {
       "pool": { "harmonized": { "5": ["Edelgard - Sun Empresses"] } },
       "id": "Assault Troop 3",
       "name": "一齊突擊3",
       "sp": 240,
-      "icon": "skillC/Assault_Troop_3.png"
+      "icon": "skillC/Assault_Troop_3"
     },
     "Odd Recovery 3": {
       "pool": {
@@ -13363,7 +13363,7 @@
       "id": "Odd Recovery 3",
       "name": "痊癒・奇數3",
       "sp": 240,
-      "icon": "skillC/Odd_Recovery_3.png"
+      "icon": "skillC/Odd_Recovery_3"
     },
     "Even Recovery 3": {
       "pool": {
@@ -13373,7 +13373,7 @@
       "id": "Even Recovery 3",
       "name": "痊癒・偶數3",
       "sp": 240,
-      "icon": "skillC/Even_Recovery_3.png"
+      "icon": "skillC/Even_Recovery_3"
     },
     "Red Feud 3": {
       "pool": {
@@ -13383,7 +13383,7 @@
       "id": "Red Feud 3",
       "name": "對赤的暗鬥3",
       "sp": 240,
-      "icon": "skillC/Red_Feud_3.png"
+      "icon": "skillC/Red_Feud_3"
     },
     "Blue Feud 3": {
       "pool": {
@@ -13396,7 +13396,7 @@
       "id": "Blue Feud 3",
       "name": "對青的暗鬥3",
       "sp": 240,
-      "icon": "skillC/Blue_Feud_3.png"
+      "icon": "skillC/Blue_Feud_3"
     },
     "Green Feud 3": {
       "pool": {
@@ -13405,7 +13405,7 @@
       "id": "Green Feud 3",
       "name": "對綠的暗鬥3",
       "sp": 240,
-      "icon": "skillC/Green_Feud_3.png"
+      "icon": "skillC/Green_Feud_3"
     },
     "C Feud 3": {
       "pool": {
@@ -13417,7 +13417,7 @@
       "id": "C Feud 3",
       "name": "對無的暗鬥3",
       "sp": 240,
-      "icon": "skillC/C_Feud_3.png"
+      "icon": "skillC/C_Feud_3"
     },
     "Canto Control 3": {
       "pool": {
@@ -13429,21 +13429,21 @@
       "id": "Canto Control 3",
       "name": "再移動限制3",
       "sp": 240,
-      "icon": "skillC/Canto_Control_3.png"
+      "icon": "skillC/Canto_Control_3"
     },
     "Sword Exp. 3": {
       "pool": { "#": { "3": ["Athena - Borderland Sword"] } },
       "id": "Sword Exp. 3",
       "name": "劍之經驗3",
       "sp": 120,
-      "icon": "skillC/Sword_Exp._3.png"
+      "icon": "skillC/Sword_Exp._3"
     },
     "Lance Exp. 3": {
       "pool": { "special": { "5": ["Narcian - Vernal General"] } },
       "id": "Lance Exp. 3",
       "name": "槍之經驗3",
       "sp": 120,
-      "icon": "skillC/Lance_Exp._3.png"
+      "icon": "skillC/Lance_Exp._3"
     },
     "Axe Exp. 3": {
       "pool": {
@@ -13453,63 +13453,63 @@
       "id": "Axe Exp. 3",
       "name": "斧之經驗3",
       "sp": 120,
-      "icon": "skillC/Axe_Experience_3.png"
+      "icon": "skillC/Axe_Experience_3"
     },
     "Bow Exp. 3": {
       "pool": { "#": { "5": ["Faye - Devoted Heart"] } },
       "id": "Bow Exp. 3",
       "name": "弓之經驗3",
       "sp": 120,
-      "icon": "skillC/Bow_Exp._3.png"
+      "icon": "skillC/Bow_Exp._3"
     },
     "Dagger Exp. 3": {
       "pool": { "#": { "3": ["Tethys - Beloved Dancer"] } },
       "id": "Dagger Exp. 3",
       "name": "暗器之經驗3",
       "sp": 120,
-      "icon": "skillC/Dagger_Exp._3.png"
+      "icon": "skillC/Dagger_Exp._3"
     },
     "R Tome Exp. 3": {
       "pool": { "#": { "5": ["Eirika - Anamnesis Lady"] } },
       "id": "R Tome Exp. 3",
       "name": "赤魔之經驗3",
       "sp": 120,
-      "icon": "skillC/R_Tome_Exp._3.png"
+      "icon": "skillC/R_Tome_Exp._3"
     },
     "B Tome Exp. 3": {
       "pool": { "#": { "3": ["Mae - Bundle of Energy"] } },
       "id": "B Tome Exp. 3",
       "name": "青魔之經驗3",
       "sp": 120,
-      "icon": "skillC/B_Tome_Exp._3.png"
+      "icon": "skillC/B_Tome_Exp._3"
     },
     "G Tome Exp. 3": {
       "pool": { "#": { "5": ["Olwen - Righteous Knight"] } },
       "id": "G Tome Exp. 3",
       "name": "綠魔之經驗3",
       "sp": 120,
-      "icon": "skillC/G_Tome_Exp._3.png"
+      "icon": "skillC/G_Tome_Exp._3"
     },
     "Staff Exp. 3": {
       "pool": { "#": { "5": ["Silque - Adherent of Mila"] } },
       "id": "Staff Exp. 3",
       "name": "杖之經驗3",
       "sp": 120,
-      "icon": "skillC/Staff_Exp._3.png"
+      "icon": "skillC/Staff_Exp._3"
     },
     "Dragon Exp. 3": {
       "pool": { "special": { "4": ["Kurthnaga - Autumn Goldoan"] } },
       "id": "Dragon Exp. 3",
       "name": "龍之經驗3",
       "sp": 120,
-      "icon": "skillC/Dragon_Exp._3.png"
+      "icon": "skillC/Dragon_Exp._3"
     },
     "Beast Exp. 3": {
       "pool": { "#": { "3": ["Mordecai - Kindhearted Tiger"] } },
       "id": "Beast Exp. 3",
       "name": "獸之經驗3",
       "sp": 120,
-      "icon": "skillC/Beast_Exp._3.png"
+      "icon": "skillC/Beast_Exp._3"
     },
     "Sword Valor 3": {
       "pool": {
@@ -13524,21 +13524,21 @@
       "id": "Sword Valor 3",
       "name": "劍之技巧3",
       "sp": 120,
-      "icon": "skillC/Sword_Valor_3.png"
+      "icon": "skillC/Sword_Valor_3"
     },
     "Lance Valor 3": {
       "pool": { "special": { "5": ["Robin - Seaside Tactician"] } },
       "id": "Lance Valor 3",
       "name": "槍之技巧3",
       "sp": 120,
-      "icon": "skillC/Lance_Valor_3.png"
+      "icon": "skillC/Lance_Valor_3"
     },
     "Axe Valor 3": {
       "pool": { "special": { "5": ["Tiki - Summering Scion"] } },
       "id": "Axe Valor 3",
       "name": "斧之技巧3",
       "sp": 120,
-      "icon": "skillC/Axe_Valor_3.png"
+      "icon": "skillC/Axe_Valor_3"
     },
     "Bow Valor 3": {
       "pool": {
@@ -13548,7 +13548,7 @@
       "id": "Bow Valor 3",
       "name": "弓之技巧3",
       "sp": 120,
-      "icon": "skillC/Bow_Valor_3.png"
+      "icon": "skillC/Bow_Valor_3"
     },
     "Dagger Valor 3": {
       "pool": {
@@ -13559,21 +13559,21 @@
       "id": "Dagger Valor 3",
       "name": "暗器之技巧3",
       "sp": 120,
-      "icon": "skillC/Dagger_Valor_3.png"
+      "icon": "skillC/Dagger_Valor_3"
     },
     "R Tome Valor 3": {
       "pool": { "special": { "5": ["Tharja - 'Normal Girl'"] } },
       "id": "R Tome Valor 3",
       "name": "赤魔之技巧3",
       "sp": 120,
-      "icon": "skillC/R_Tome_Valor_3.png"
+      "icon": "skillC/R_Tome_Valor_3"
     },
     "B Tome Valor 3": {
       "pool": { "special": { "5": ["Shigure - Dark Sky Singer"] } },
       "id": "B Tome Valor 3",
       "name": "青魔之技巧3",
       "sp": 120,
-      "icon": "skillC/B_Tome_Valor_3.png"
+      "icon": "skillC/B_Tome_Valor_3"
     },
     "G Tome Valor 3": {
       "pool": {
@@ -13582,14 +13582,14 @@
       "id": "G Tome Valor 3",
       "name": "綠魔之技巧3",
       "sp": 120,
-      "icon": "skillC/G_Tome_Valor_3.png"
+      "icon": "skillC/G_Tome_Valor_3"
     },
     "Staff Valor 3": {
       "pool": { "#": { "5": ["Maribelle - Dire Damsel"] } },
       "id": "Staff Valor 3",
       "name": "杖之技巧3",
       "sp": 120,
-      "icon": "skillC/Staff_Valor_3.png"
+      "icon": "skillC/Staff_Valor_3"
     },
     "Dragon Valor 3": {
       "pool": {
@@ -13599,14 +13599,14 @@
       "id": "Dragon Valor 3",
       "name": "龍之技巧3",
       "sp": 120,
-      "icon": "skillC/Dragon_Valor_3.png"
+      "icon": "skillC/Dragon_Valor_3"
     },
     "Beast Valor 3": {
       "pool": { "#": { "5": ["Keaton - Lupine Collector"] } },
       "id": "Beast Valor 3",
       "name": "獸之技巧3",
       "sp": 120,
-      "icon": "skillC/Beast_Valor_3.png"
+      "icon": "skillC/Beast_Valor_3"
     }
   }
 }

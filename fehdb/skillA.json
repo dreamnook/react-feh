@@ -5,7 +5,7 @@
     "sp": 300,
     "exclusive": ["Robin - Fell Vessel"],
     "last": true,
-    "icon": "skillA/Dragonskin_II.png"
+    "icon": "skillA/Dragonskin_II"
   },
   "Dragonskin": {
     "id": "Dragonskin",
@@ -13,7 +13,7 @@
     "sp": 300,
     "exclusive": ["Robin - Fell Vessel"],
     "last": true,
-    "icon": "skillA/Dragonskin.png"
+    "icon": "skillA/Dragonskin"
   },
   "Laws of Sacae II": {
     "id": "Laws of Sacae II",
@@ -21,7 +21,7 @@
     "sp": 300,
     "exclusive": ["Lyn - Lady of the Wind"],
     "last": true,
-    "icon": "skillA/Laws_of_Sacae_II.png"
+    "icon": "skillA/Laws_of_Sacae_II"
   },
   "Laws of Sacae": {
     "id": "Laws of Sacae",
@@ -29,7 +29,7 @@
     "sp": 300,
     "exclusive": ["Lyn - Lady of the Wind"],
     "last": true,
-    "icon": "skillA/Laws_of_Sacae.png"
+    "icon": "skillA/Laws_of_Sacae"
   },
   "Ostian Counter": {
     "id": "Ostian Counter",
@@ -37,7 +37,7 @@
     "sp": 350,
     "exclusive": ["Hector - Brave Warrior"],
     "last": true,
-    "icon": "skillA/Ostian_Counter.png"
+    "icon": "skillA/Ostian_Counter"
   },
   "Scendscale": {
     "id": "Scendscale",
@@ -45,7 +45,7 @@
     "sp": 300,
     "exclusive": ["Alm - Imperial Ascent"],
     "last": true,
-    "icon": "skillA/Scendscale.png"
+    "icon": "skillA/Scendscale"
   },
   "Ashera's Chosen+": {
     "id": "Ashera's Chosen+",
@@ -53,7 +53,7 @@
     "sp": 300,
     "exclusive": ["Altina - Dawn's Trueblade"],
     "last": true,
-    "icon": "skillA/Ashera's_Chosen+.png"
+    "icon": "skillA/Ashera's_Chosen+"
   },
   "Ashera's Chosen": {
     "id": "Ashera's Chosen",
@@ -61,7 +61,7 @@
     "sp": 300,
     "exclusive": ["Altina - Dawn's Trueblade"],
     "last": true,
-    "icon": "skillA/Ashera's_Chosen.png"
+    "icon": "skillA/Ashera's_Chosen"
   },
   "Dragoon Shield": {
     "id": "Dragoon Shield",
@@ -72,7 +72,7 @@
     "sp": 300,
     "exclusive": ["Minerva - Princess-Knight"],
     "last": true,
-    "icon": "skillA/Dragoon_Shield.png"
+    "icon": "skillA/Dragoon_Shield"
   },
   "Dragonscale": {
     "id": "Dragonscale",
@@ -80,7 +80,7 @@
     "sp": 300,
     "exclusive": ["Robin - Fall Vessel"],
     "last": true,
-    "icon": "skillA/Dragonscale.png"
+    "icon": "skillA/Dragonscale"
   },
   "Verdict of Sacae": {
     "id": "Verdict of Sacae",
@@ -88,7 +88,7 @@
     "sp": 300,
     "exclusive": ["Lyn - Blazing Whirlwind"],
     "last": true,
-    "icon": "skillA/Verdict_of_Sacae.png"
+    "icon": "skillA/Verdict_of_Sacae"
   },
   "Dragonhide": {
     "id": "Dragonhide",
@@ -96,7 +96,7 @@
     "sp": 300,
     "exclusive": ["Robin - Fell Tactician"],
     "last": true,
-    "icon": "skillA/Dragonhide.png"
+    "icon": "skillA/Dragonhide"
   },
   "Duality": {
     "id": "Duality",
@@ -106,7 +106,7 @@
     "res": 9,
     "exclusive": ["Arval - Cycle Keeper"],
     "last": true,
-    "icon": "skillA/Duality.png"
+    "icon": "skillA/Duality"
   },
   "Swift Slice": {
     "id": "Swift Slice",
@@ -114,7 +114,7 @@
     "sp": 300,
     "exclusive": ["Shez - Sharpest Blades", "Shez - Mercenary Shine"],
     "last": true,
-    "icon": "skillA/Swift_Slice.png"
+    "icon": "skillA/Swift_Slice"
   },
   "Self-Improver": {
     "id": "Self-Improver",
@@ -126,7 +126,7 @@
     "sp": 300,
     "exclusive": ["Alfred - Floral Protector"],
     "last": true,
-    "icon": "skillA/Self-Improver.png"
+    "icon": "skillA/Self-Improver"
   },
   "Gift of Magic": {
     "id": "Gift of Magic",
@@ -134,7 +134,7 @@
     "sp": 300,
     "exclusive": ["Gotoh - White Sage"],
     "last": true,
-    "icon": "skillA/Gift_of_Magic.png"
+    "icon": "skillA/Gift_of_Magic"
   },
   "Nightmare": {
     "id": "Nightmare",
@@ -142,7 +142,7 @@
     "sp": 300,
     "exclusive": ["Fomortiis - Demon King"],
     "last": true,
-    "icon": "skillA/Nightmare.png"
+    "icon": "skillA/Nightmare"
   },
   "Part of the Plan": {
     "id": "Part of the Plan",
@@ -150,7 +150,7 @@
     "sp": 300,
     "exclusive": ["Robin - Exalt's Other Half"],
     "last": true,
-    "icon": "skillA/Part_of_the_Plan.png"
+    "icon": "skillA/Part_of_the_Plan"
   },
   "Ostia's Heart": {
     "id": "Ostia's Heart",
@@ -158,7 +158,7 @@
     "sp": 300,
     "exclusive": ["Hector - Sworn Friend"],
     "last": true,
-    "icon": "skillA/Ostia's_Heart.png"
+    "icon": "skillA/Ostia's_Heart"
   },
   "Knightly Devotion": {
     "id": "Knightly Devotion",
@@ -166,7 +166,7 @@
     "sp": 300,
     "exclusive": ["Ingrid - Beacon of Honor"],
     "last": true,
-    "icon": "skillA/Knightly_Devotion.png"
+    "icon": "skillA/Knightly_Devotion"
   },
   "Power of Nihility": {
     "id": "Power of Nihility",
@@ -174,7 +174,7 @@
     "sp": 300,
     "exclusive": ["Eitr - Hand of Nothing"],
     "last": true,
-    "icon": "skillA/Power_of_Nihility.png"
+    "icon": "skillA/Power_of_Nihility"
   },
   "Mastermind": {
     "id": "Mastermind",
@@ -182,7 +182,7 @@
     "sp": 300,
     "exclusive": ["Lysithea - Tea Sweetener"],
     "last": true,
-    "icon": "skillA/Mastermind.png"
+    "icon": "skillA/Mastermind"
   },
   "Realms United": {
     "id": "Realms United",
@@ -190,7 +190,7 @@
     "sp": 300,
     "exclusive": ["Corrin - Silent Bloodline"],
     "last": true,
-    "icon": "skillA/Realms_United.png"
+    "icon": "skillA/Realms_United"
   },
   "Rare Talent": {
     "id": "Rare Talent",
@@ -198,14 +198,14 @@
     "sp": 300,
     "exclusive": ["Soren - Radiant Confidant"],
     "last": true,
-    "icon": "skillA/Rare_Talent.png"
+    "icon": "skillA/Rare_Talent"
   },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
     "sp": 40,
     "hp": 3,
-    "icon": "skillA/HP_1.png"
+    "icon": "skillA/HP_1"
   },
   "HP 2": {
     "id": "HP 2",
@@ -213,7 +213,7 @@
     "sp": 80,
     "hp": 4,
     "prev": ["HP 1"],
-    "icon": "skillA/HP_2.png"
+    "icon": "skillA/HP_2"
   },
   "HP 3": {
     "id": "HP 3",
@@ -221,7 +221,7 @@
     "sp": 160,
     "hp": 5,
     "prev": ["HP 2"],
-    "icon": "skillA/HP_3.png",
+    "icon": "skillA/HP_3",
     "last": true
   },
   "Attack 1": {
@@ -229,7 +229,7 @@
     "name": "攻擊1",
     "sp": 30,
     "atk": 1,
-    "icon": "skillA/Attack_1.png"
+    "icon": "skillA/Attack_1"
   },
   "Attack 2": {
     "id": "Attack 2",
@@ -237,7 +237,7 @@
     "sp": 60,
     "atk": 2,
     "prev": ["Attack 1"],
-    "icon": "skillA/Attack_2.png"
+    "icon": "skillA/Attack_2"
   },
   "Attack 3": {
     "id": "Attack 3",
@@ -245,7 +245,7 @@
     "sp": 120,
     "atk": 3,
     "prev": ["Attack 2"],
-    "icon": "skillA/Attack_3.png",
+    "icon": "skillA/Attack_3",
     "last": true
   },
   "Speed 1": {
@@ -253,7 +253,7 @@
     "name": "速度1",
     "sp": 30,
     "spd": 1,
-    "icon": "skillA/Speed_1.png"
+    "icon": "skillA/Speed_1"
   },
   "Speed 2": {
     "id": "Speed 2",
@@ -261,7 +261,7 @@
     "sp": 60,
     "spd": 2,
     "prev": ["Speed 1"],
-    "icon": "skillA/Speed_2.png"
+    "icon": "skillA/Speed_2"
   },
   "Speed 3": {
     "id": "Speed 3",
@@ -269,7 +269,7 @@
     "sp": 120,
     "spd": 3,
     "prev": ["Speed 2"],
-    "icon": "skillA/Speed_3.png",
+    "icon": "skillA/Speed_3",
     "last": true
   },
   "Defense 1": {
@@ -277,7 +277,7 @@
     "name": "防守1",
     "sp": 30,
     "def": 1,
-    "icon": "skillA/Defense_1.png"
+    "icon": "skillA/Defense_1"
   },
   "Defense 2": {
     "id": "Defense 2",
@@ -285,7 +285,7 @@
     "sp": 60,
     "def": 2,
     "prev": ["Defense 1"],
-    "icon": "skillA/Defense_2.png"
+    "icon": "skillA/Defense_2"
   },
   "Defense 3": {
     "id": "Defense 3",
@@ -293,7 +293,7 @@
     "sp": 120,
     "def": 3,
     "prev": ["Defense 2"],
-    "icon": "skillA/Defense_3.png",
+    "icon": "skillA/Defense_3",
     "last": true
   },
   "Resistance 1": {
@@ -301,7 +301,7 @@
     "name": "魔防1",
     "sp": 30,
     "res": 1,
-    "icon": "skillA/Resistance_1.png"
+    "icon": "skillA/Resistance_1"
   },
   "Resistance 2": {
     "id": "Resistance 2",
@@ -309,7 +309,7 @@
     "sp": 60,
     "res": 2,
     "prev": ["Resistance 1"],
-    "icon": "skillA/Resistance_2.png"
+    "icon": "skillA/Resistance_2"
   },
   "Resistance 3": {
     "id": "Resistance 3",
@@ -317,7 +317,7 @@
     "sp": 120,
     "res": 3,
     "prev": ["Resistance 2"],
-    "icon": "skillA/Resistance_3.png",
+    "icon": "skillA/Resistance_3",
     "last": true
   },
   "HP/Atk 1": {
@@ -327,7 +327,7 @@
     "hp": 3,
     "atk": 1,
     "prev": ["HP 1", "Attack 1"],
-    "icon": "skillA/HP_Atk_1.png"
+    "icon": "skillA/HP_Atk_1"
   },
   "HP/Atk 2": {
     "id": "HP/Atk 2",
@@ -336,7 +336,7 @@
     "hp": 4,
     "atk": 2,
     "prev": ["HP/Atk 1"],
-    "icon": "skillA/HP_Atk_2.png",
+    "icon": "skillA/HP_Atk_2",
     "last": true
   },
   "HP/Spd 1": {
@@ -346,7 +346,7 @@
     "hp": 3,
     "spd": 1,
     "prev": ["HP 1", "Speed 1"],
-    "icon": "skillA/HP_Spd_1.png"
+    "icon": "skillA/HP_Spd_1"
   },
   "HP/Spd 2": {
     "id": "HP/Spd 2",
@@ -355,7 +355,7 @@
     "hp": 4,
     "spd": 2,
     "prev": ["HP/Spd 1"],
-    "icon": "skillA/HP_Spd_2.png",
+    "icon": "skillA/HP_Spd_2",
     "last": true
   },
   "HP/Def 1": {
@@ -365,7 +365,7 @@
     "hp": 3,
     "def": 1,
     "prev": ["HP 1", "Defense 1"],
-    "icon": "skillA/HP_Def_1.png"
+    "icon": "skillA/HP_Def_1"
   },
   "HP/Def 2": {
     "id": "HP/Def 2",
@@ -374,7 +374,7 @@
     "hp": 4,
     "def": 2,
     "prev": ["HP/Def 1"],
-    "icon": "skillA/HP_Def_2.png",
+    "icon": "skillA/HP_Def_2",
     "last": true
   },
   "HP/Res 1": {
@@ -384,7 +384,7 @@
     "hp": 3,
     "res": 1,
     "prev": ["HP 1", "Resistance 1"],
-    "icon": "skillA/HP_Res_1.png"
+    "icon": "skillA/HP_Res_1"
   },
   "HP/Res 2": {
     "id": "HP/Res 2",
@@ -393,7 +393,7 @@
     "hp": 4,
     "res": 2,
     "prev": ["HP/Res 1"],
-    "icon": "skillA/HP_Res_2.png",
+    "icon": "skillA/HP_Res_2",
     "last": true
   },
   "Atk/Spd 1": {
@@ -403,7 +403,7 @@
     "atk": 1,
     "spd": 1,
     "prev": ["Attack 1", "Speed 1"],
-    "icon": "skillA/Atk_Spd_1.png"
+    "icon": "skillA/Atk_Spd_1"
   },
   "Atk/Spd 2": {
     "id": "Atk/Spd 2",
@@ -412,7 +412,7 @@
     "atk": 2,
     "spd": 2,
     "prev": ["Atk/Spd 1"],
-    "icon": "skillA/Atk_Spd_2.png",
+    "icon": "skillA/Atk_Spd_2",
     "last": true
   },
   "Atk/Def 1": {
@@ -422,7 +422,7 @@
     "atk": 1,
     "def": 1,
     "prev": ["Attack 1", "Defense 1"],
-    "icon": "skillA/Atk_Def_1.png"
+    "icon": "skillA/Atk_Def_1"
   },
   "Atk/Def 2": {
     "id": "Atk/Def 2",
@@ -431,7 +431,7 @@
     "atk": 2,
     "def": 2,
     "prev": ["Atk/Def 1"],
-    "icon": "skillA/Atk_Def_2.png",
+    "icon": "skillA/Atk_Def_2",
     "last": true
   },
   "Atk/Res 1": {
@@ -441,7 +441,7 @@
     "atk": 1,
     "res": 1,
     "prev": ["Attack 1", "Resistance 1"],
-    "icon": "skillA/Atk_Res_1.png"
+    "icon": "skillA/Atk_Res_1"
   },
   "Atk/Res 2": {
     "id": "Atk/Res 2",
@@ -450,7 +450,7 @@
     "atk": 2,
     "res": 2,
     "prev": ["Atk/Res 1"],
-    "icon": "skillA/Atk_Res_2.png",
+    "icon": "skillA/Atk_Res_2",
     "last": true
   },
   "Spd/Def 1": {
@@ -460,7 +460,7 @@
     "spd": 1,
     "def": 1,
     "prev": ["Speed 1", "Defense 1"],
-    "icon": "skillA/Spd_Def_1.png"
+    "icon": "skillA/Spd_Def_1"
   },
   "Spd/Def 2": {
     "id": "Spd/Def 2",
@@ -469,7 +469,7 @@
     "spd": 2,
     "def": 2,
     "prev": ["Spd/Def 1"],
-    "icon": "skillA/Spd_Def_2.png",
+    "icon": "skillA/Spd_Def_2",
     "last": true
   },
   "Spd/Res 1": {
@@ -479,7 +479,7 @@
     "spd": 1,
     "res": 1,
     "prev": ["Speed 1", "Resistance 1"],
-    "icon": "skillA/Spd_Res_1.png"
+    "icon": "skillA/Spd_Res_1"
   },
   "Spd/Res 2": {
     "id": "Spd/Res 2",
@@ -488,7 +488,7 @@
     "spd": 2,
     "res": 2,
     "prev": ["Spd/Res 1"],
-    "icon": "skillA/Spd_Res_2.png",
+    "icon": "skillA/Spd_Res_2",
     "last": true
   },
   "Def/Res 1": {
@@ -498,7 +498,7 @@
     "def": 1,
     "res": 1,
     "prev": ["Defense 1", "Resistance 1"],
-    "icon": "skillA/Def_Res_1.png"
+    "icon": "skillA/Def_Res_1"
   },
   "Def/Res 2": {
     "id": "Def/Res 2",
@@ -507,7 +507,7 @@
     "def": 2,
     "res": 2,
     "prev": ["Def/Res 1"],
-    "icon": "skillA/Def_Res_2.png",
+    "icon": "skillA/Def_Res_2",
     "last": true
   },
   "Fortress Def 1": {
@@ -516,7 +516,7 @@
     "sp": 40,
     "atk": -3,
     "def": 3,
-    "icon": "skillA/Fortress_Def_1.png"
+    "icon": "skillA/Fortress_Def_1"
   },
   "Fortress Def 2": {
     "id": "Fortress Def 2",
@@ -525,7 +525,7 @@
     "atk": -3,
     "def": 4,
     "prev": ["Fortress Def 1"],
-    "icon": "skillA/Fortress_Def_2.png"
+    "icon": "skillA/Fortress_Def_2"
   },
   "Fortress Def 3": {
     "id": "Fortress Def 3",
@@ -534,7 +534,7 @@
     "atk": -3,
     "def": 5,
     "prev": ["Fortress Def 2"],
-    "icon": "skillA/Fortress_Def_3.png",
+    "icon": "skillA/Fortress_Def_3",
     "last": true
   },
   "Fortress Res 1": {
@@ -543,7 +543,7 @@
     "sp": 40,
     "atk": -3,
     "res": 3,
-    "icon": "skillA/Fortress_Res_1.png"
+    "icon": "skillA/Fortress_Res_1"
   },
   "Fortress Res 2": {
     "id": "Fortress Res 2",
@@ -552,7 +552,7 @@
     "atk": -3,
     "res": 4,
     "prev": ["Fortress Res 1"],
-    "icon": "skillA/Fortress_Res_2.png"
+    "icon": "skillA/Fortress_Res_2"
   },
   "Fortress Res 3": {
     "id": "Fortress Res 3",
@@ -561,7 +561,7 @@
     "atk": -3,
     "res": 5,
     "prev": ["Fortress Res 2"],
-    "icon": "skillA/Fortress_Res_3.png",
+    "icon": "skillA/Fortress_Res_3",
     "last": true
   },
   "Fort. Def/Res 1": {
@@ -572,7 +572,7 @@
     "def": 3,
     "res": 3,
     "prev": ["Fortress Def 1", "Fortress Res 1"],
-    "icon": "skillA/Fort._Def_Res_1.png"
+    "icon": "skillA/Fort._Def_Res_1"
   },
   "Fort. Def/Res 2": {
     "id": "Fort. Def/Res 2",
@@ -582,7 +582,7 @@
     "def": 4,
     "res": 4,
     "prev": ["Fort. Def/Res 1"],
-    "icon": "skillA/Fort._Def_Res_2.png"
+    "icon": "skillA/Fort._Def_Res_2"
   },
   "Fort. Def/Res 3": {
     "id": "Fort. Def/Res 3",
@@ -592,7 +592,7 @@
     "def": 6,
     "res": 6,
     "prev": ["Fort. Def/Res 2"],
-    "icon": "skillA/Fort._Def_Res_3.png",
+    "icon": "skillA/Fort._Def_Res_3",
     "last": true
   },
   "Fury 1": {
@@ -604,7 +604,7 @@
     "def": 1,
     "res": 1,
     "rules": "not.white-staff",
-    "icon": "skillA/Fury_1.png"
+    "icon": "skillA/Fury_1"
   },
   "Fury 2": {
     "id": "Fury 2",
@@ -616,7 +616,7 @@
     "res": 2,
     "prev": ["Fury 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Fury_2.png"
+    "icon": "skillA/Fury_2"
   },
   "Fury 3": {
     "id": "Fury 3",
@@ -628,7 +628,7 @@
     "res": 3,
     "prev": ["Fury 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Fury_3.png",
+    "icon": "skillA/Fury_3",
     "last": true
   },
   "Fury 4": {
@@ -641,7 +641,7 @@
     "res": 4,
     "prev": ["Fury 3"],
     "rules": "not.white-staff",
-    "icon": "skillA/Fury_4.png",
+    "icon": "skillA/Fury_4",
     "last": true
   },
   "Life and Death 1": {
@@ -653,7 +653,7 @@
     "def": -3,
     "res": -3,
     "rules": "not.white-staff",
-    "icon": "skillA/Life_and_Death_1.png"
+    "icon": "skillA/Life_and_Death_1"
   },
   "Life and Death 2": {
     "id": "Life and Death 2",
@@ -665,7 +665,7 @@
     "res": -4,
     "prev": ["Life and Death 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Life_and_Death_2.png"
+    "icon": "skillA/Life_and_Death_2"
   },
   "Life and Death 3": {
     "id": "Life and Death 3",
@@ -677,7 +677,7 @@
     "res": -5,
     "prev": ["Life and Death 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Life_and_Death_3.png",
+    "icon": "skillA/Life_and_Death_3",
     "last": true
   },
   "Life and Death 4": {
@@ -690,7 +690,7 @@
     "res": -5,
     "prev": ["Life and Death 3"],
     "rules": "not.white-staff",
-    "icon": "skillA/Life_and_Death_4.png",
+    "icon": "skillA/Life_and_Death_4",
     "last": true
   },
   "Solid Ground 1": {
@@ -700,7 +700,7 @@
     "atk": 3,
     "def": 3,
     "res": -3,
-    "icon": "skillA/Solid_Ground_1.png"
+    "icon": "skillA/Solid_Ground_1"
   },
   "Solid Ground 2": {
     "id": "Solid Ground 2",
@@ -710,7 +710,7 @@
     "def": 4,
     "res": -4,
     "prev": ["Solid Ground 1"],
-    "icon": "skillA/Solid_Ground_2.png"
+    "icon": "skillA/Solid_Ground_2"
   },
   "Solid Ground 3": {
     "id": "Solid Ground 3",
@@ -720,7 +720,7 @@
     "def": 5,
     "res": -5,
     "prev": ["Solid Ground 2"],
-    "icon": "skillA/Solid_Ground_3.png",
+    "icon": "skillA/Solid_Ground_3",
     "last": true
   },
   "Solid Ground 4": {
@@ -731,7 +731,7 @@
     "def": 7,
     "res": -5,
     "prev": ["Solid Ground 3"],
-    "icon": "skillA/Solid_Ground_4.png",
+    "icon": "skillA/Solid_Ground_4",
     "last": true
   },
   "Still Water 1": {
@@ -741,7 +741,7 @@
     "atk": 3,
     "res": 3,
     "def": -3,
-    "icon": "skillA/Still_Water_1.png"
+    "icon": "skillA/Still_Water_1"
   },
   "Still Water 2": {
     "id": "Still Water 2",
@@ -751,7 +751,7 @@
     "res": 4,
     "def": -4,
     "prev": ["Still Water 1"],
-    "icon": "skillA/Still_Water_2.png"
+    "icon": "skillA/Still_Water_2"
   },
   "Still Water 3": {
     "id": "Still Water 3",
@@ -761,7 +761,7 @@
     "res": 5,
     "def": -5,
     "prev": ["Still Water 2"],
-    "icon": "skillA/Still_Water_3.png",
+    "icon": "skillA/Still_Water_3",
     "last": true
   },
   "Still Water 4": {
@@ -772,7 +772,7 @@
     "res": 7,
     "def": -5,
     "prev": ["Still Water 3"],
-    "icon": "skillA/Still_Water_4.png",
+    "icon": "skillA/Still_Water_4",
     "last": true
   },
   "Death Blow 1": {
@@ -780,7 +780,7 @@
     "name": "鬼神一擊1",
     "sp": 50,
     "rules": "not.white-staff",
-    "icon": "skillA/Death_Blow_1.png"
+    "icon": "skillA/Death_Blow_1"
   },
   "Death Blow 2": {
     "id": "Death Blow 2",
@@ -788,7 +788,7 @@
     "sp": 100,
     "prev": ["Death Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Death_Blow_2.png"
+    "icon": "skillA/Death_Blow_2"
   },
   "Death Blow 3": {
     "id": "Death Blow 3",
@@ -796,7 +796,7 @@
     "sp": 200,
     "prev": ["Death Blow 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Death_Blow_3.png",
+    "icon": "skillA/Death_Blow_3",
     "last": true
   },
   "Death Blow 4": {
@@ -805,7 +805,7 @@
     "sp": 300,
     "prev": ["Death Blow 3"],
     "rules": "not.white-staff",
-    "icon": "skillA/Death_Blow_4.png",
+    "icon": "skillA/Death_Blow_4",
     "last": true
   },
   "Darting Blow 1": {
@@ -813,7 +813,7 @@
     "name": "飛燕一擊1",
     "sp": 50,
     "rules": "not.white-staff",
-    "icon": "skillA/Darting_Blow_1.png"
+    "icon": "skillA/Darting_Blow_1"
   },
   "Darting Blow 2": {
     "id": "Darting Blow 2",
@@ -821,7 +821,7 @@
     "sp": 100,
     "prev": ["Darting Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Darting_Blow_2.png"
+    "icon": "skillA/Darting_Blow_2"
   },
   "Darting Blow 3": {
     "id": "Darting Blow 3",
@@ -829,7 +829,7 @@
     "sp": 200,
     "prev": ["Darting Blow 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Darting_Blow_3.png",
+    "icon": "skillA/Darting_Blow_3",
     "last": true
   },
   "Darting Blow 4": {
@@ -838,7 +838,7 @@
     "sp": 300,
     "prev": ["Darting Blow 3"],
     "rules": "not.white-staff",
-    "icon": "skillA/Darting_Blow_4.png",
+    "icon": "skillA/Darting_Blow_4",
     "last": true
   },
   "Armored Blow 1": {
@@ -846,7 +846,7 @@
     "name": "金剛一擊1",
     "sp": 50,
     "rules": "not.white-staff",
-    "icon": "skillA/Armored_Blow_1.png"
+    "icon": "skillA/Armored_Blow_1"
   },
   "Armored Blow 2": {
     "id": "Armored Blow 2",
@@ -854,7 +854,7 @@
     "sp": 100,
     "prev": ["Armored Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Armored_Blow_2.png"
+    "icon": "skillA/Armored_Blow_2"
   },
   "Armored Blow 3": {
     "id": "Armored Blow 3",
@@ -862,7 +862,7 @@
     "sp": 200,
     "prev": ["Armored Blow 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Armored_Blow_3.png",
+    "icon": "skillA/Armored_Blow_3",
     "last": true
   },
   "Warding Blow 1": {
@@ -870,7 +870,7 @@
     "name": "明鏡一擊1",
     "sp": 50,
     "rules": "not.white-staff",
-    "icon": "skillA/Warding_Blow_1.png"
+    "icon": "skillA/Warding_Blow_1"
   },
   "Warding Blow 2": {
     "id": "Warding Blow 2",
@@ -878,7 +878,7 @@
     "sp": 100,
     "prev": ["Warding Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Warding_Blow_2.png"
+    "icon": "skillA/Warding_Blow_2"
   },
   "Warding Blow 3": {
     "id": "Warding Blow 3",
@@ -886,7 +886,7 @@
     "sp": 200,
     "prev": ["Warding Blow 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Warding_Blow_3.png",
+    "icon": "skillA/Warding_Blow_3",
     "last": true
   },
   "Swift Sparrow 1": {
@@ -895,7 +895,7 @@
     "sp": 120,
     "prev": ["Death Blow 1", "Darting Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Swift_Sparrow_1.png"
+    "icon": "skillA/Swift_Sparrow_1"
   },
   "Swift Sparrow 2": {
     "id": "Swift Sparrow 2",
@@ -903,7 +903,7 @@
     "sp": 240,
     "prev": ["Swift Sparrow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Swift_Sparrow_2.png",
+    "icon": "skillA/Swift_Sparrow_2",
     "last": true
   },
   "Swift Sparrow 3": {
@@ -912,7 +912,7 @@
     "sp": 300,
     "prev": ["Swift Sparrow 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Swift_Sparrow_3.png",
+    "icon": "skillA/Swift_Sparrow_3",
     "last": true
   },
   "Sturdy Blow 1": {
@@ -921,7 +921,7 @@
     "sp": 120,
     "prev": ["Death Blow 1", "Armored Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Sturdy_Blow_1.png"
+    "icon": "skillA/Sturdy_Blow_1"
   },
   "Sturdy Blow 2": {
     "id": "Sturdy Blow 2",
@@ -929,7 +929,7 @@
     "sp": 240,
     "prev": ["Sturdy Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Sturdy_Blow_2.png",
+    "icon": "skillA/Sturdy_Blow_2",
     "last": true
   },
   "Sturdy Impact": {
@@ -939,7 +939,7 @@
     "rules": "learner.impact-skills",
     "prev": ["Sturdy Blow 2"],
     "last": true,
-    "icon": "skillA/Sturdy_Impact.png"
+    "icon": "skillA/Sturdy_Impact"
   },
   "Mirror Strike 1": {
     "id": "Mirror Strike 1",
@@ -947,7 +947,7 @@
     "sp": 120,
     "prev": ["Death Blow 1", "Warding Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Mirror_Strike_1.png"
+    "icon": "skillA/Mirror_Strike_1"
   },
   "Mirror Strike 2": {
     "id": "Mirror Strike 2",
@@ -955,7 +955,7 @@
     "sp": 240,
     "prev": ["Mirror Strike 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Mirror_Strike_2.png",
+    "icon": "skillA/Mirror_Strike_2",
     "last": true
   },
   "Mirror Impact": {
@@ -965,7 +965,7 @@
     "rules": "learner.impact-skills",
     "prev": ["Mirror Strike 2"],
     "last": true,
-    "icon": "skillA/Mirror_Impact.png"
+    "icon": "skillA/Mirror_Impact"
   },
   "Steady Blow 1": {
     "id": "Steady Blow 1",
@@ -973,7 +973,7 @@
     "sp": 120,
     "prev": ["Darting Blow 1", "Armored Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Steady_Blow_1.png"
+    "icon": "skillA/Steady_Blow_1"
   },
   "Steady Blow 2": {
     "id": "Steady Blow 2",
@@ -981,7 +981,7 @@
     "sp": 240,
     "prev": ["Steady Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Steady_Blow_2.png",
+    "icon": "skillA/Steady_Blow_2",
     "last": true
   },
   "Steady Impact": {
@@ -991,7 +991,7 @@
     "rules": "learner.impact-skills",
     "prev": ["Steady Blow 2"],
     "last": true,
-    "icon": "skillA/Steady_Impact.png"
+    "icon": "skillA/Steady_Impact"
   },
   "Swift Strike 1": {
     "id": "Swift Strike 1",
@@ -999,7 +999,7 @@
     "sp": 120,
     "prev": ["Darting Blow 1", "Warding Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Swift_Strike_1.png"
+    "icon": "skillA/Swift_Strike_1"
   },
   "Swift Strike 2": {
     "id": "Swift Strike 2",
@@ -1007,7 +1007,7 @@
     "sp": 240,
     "prev": ["Swift Strike 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Swift_Strike_2.png",
+    "icon": "skillA/Swift_Strike_2",
     "last": true
   },
   "Swift Impact": {
@@ -1017,7 +1017,7 @@
     "rules": "learner.impact-skills",
     "prev": ["Swift Strike 2"],
     "last": true,
-    "icon": "skillA/Swift_Impact.png"
+    "icon": "skillA/Swift_Impact"
   },
   "Bracing Blow 1": {
     "id": "Bracing Blow 1",
@@ -1025,7 +1025,7 @@
     "sp": 120,
     "prev": ["Armored Blow 1", "Warding Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Bracing_Blow_1.png"
+    "icon": "skillA/Bracing_Blow_1"
   },
   "Bracing Blow 2": {
     "id": "Bracing Blow 2",
@@ -1033,7 +1033,7 @@
     "sp": 240,
     "prev": ["Bracing Blow 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Bracing_Blow_2.png",
+    "icon": "skillA/Bracing_Blow_2",
     "last": true
   },
   "Surge Sparrow": {
@@ -1043,7 +1043,7 @@
     "rules": "melee",
     "prev": ["Swift Sparrow 2"],
     "last": true,
-    "icon": "skillA/Surge_Sparrow.png"
+    "icon": "skillA/Surge_Sparrow"
   },
   "Sturdy Surge": {
     "id": "Sturdy Surge",
@@ -1052,7 +1052,7 @@
     "rules": "melee",
     "prev": ["Sturdy Blow 2"],
     "last": true,
-    "icon": "skillA/Sturdy_Surge.png"
+    "icon": "skillA/Sturdy_Surge"
   },
   "Remote Sparrow": {
     "id": "Remote Sparrow",
@@ -1061,7 +1061,7 @@
     "rules": "learner.ranged-not-staff",
     "prev": ["Swift Sparrow 2"],
     "last": true,
-    "icon": "skillA/Remote_Sparrow.png"
+    "icon": "skillA/Remote_Sparrow"
   },
   "Remote Sturdy": {
     "id": "Remote Sturdy",
@@ -1070,7 +1070,7 @@
     "rules": "learner.ranged-not-staff",
     "prev": ["Sturdy Blow 2"],
     "last": true,
-    "icon": "skillA/Remote_Sturdy.png"
+    "icon": "skillA/Remote_Sturdy"
   },
   "Remote Mirror": {
     "id": "Remote Mirror",
@@ -1079,7 +1079,7 @@
     "rules": "learner.ranged-not-staff",
     "prev": ["Mirror Strike 2"],
     "last": true,
-    "icon": "skillA/Remote_Mirror.png"
+    "icon": "skillA/Remote_Mirror"
   },
   "Flash Sparrow": {
     "id": "Flash Sparrow",
@@ -1088,7 +1088,7 @@
     "rules": "learner.flashingBlade",
     "prev": ["Flashing Blade 3", "Swift Sparrow 2"],
     "last": true,
-    "icon": "skillA/Flash_Sparrow.png"
+    "icon": "skillA/Flash_Sparrow"
   },
   "Flared Sparrow": {
     "id": "Flared Sparrow",
@@ -1097,14 +1097,14 @@
     "prev": ["Swift Sparrow 3"],
     "rules": "learner.cavalry-flying-not-staff",
     "last": true,
-    "icon": "skillA/Flared_Sparrow.png"
+    "icon": "skillA/Flared_Sparrow"
   },
   "Fierce Stance 1": {
     "id": "Fierce Stance 1",
     "name": "鬼神架勢1",
     "sp": 50,
     "rules": "not.white-staff",
-    "icon": "skillA/Fierce_Stance_1.png"
+    "icon": "skillA/Fierce_Stance_1"
   },
   "Fierce Stance 2": {
     "id": "Fierce Stance 2",
@@ -1112,7 +1112,7 @@
     "sp": 100,
     "prev": ["Fierce Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Fierce_Stance_2.png"
+    "icon": "skillA/Fierce_Stance_2"
   },
   "Fierce Stance 3": {
     "id": "Fierce Stance 3",
@@ -1120,7 +1120,7 @@
     "sp": 200,
     "prev": ["Fierce Stance 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Fierce_Stance_3.png",
+    "icon": "skillA/Fierce_Stance_3",
     "last": true
   },
   "Darting Stance 1": {
@@ -1128,7 +1128,7 @@
     "name": "飛燕架勢1",
     "sp": 50,
     "rules": "not.white-staff",
-    "icon": "skillA/Darting_Stance_1.png"
+    "icon": "skillA/Darting_Stance_1"
   },
   "Darting Stance 2": {
     "id": "Darting Stance 2",
@@ -1136,7 +1136,7 @@
     "sp": 100,
     "prev": ["Darting Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Darting_Stance_2.png"
+    "icon": "skillA/Darting_Stance_2"
   },
   "Darting Stance 3": {
     "id": "Darting Stance 3",
@@ -1144,28 +1144,28 @@
     "sp": 200,
     "prev": ["Darting Stance 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Darting_Stance_3.png",
+    "icon": "skillA/Darting_Stance_3",
     "last": true
   },
   "Steady Stance 1": {
     "id": "Steady Stance 1",
     "name": "金剛架勢1",
     "sp": 50,
-    "icon": "skillA/Steady_Stance_1.png"
+    "icon": "skillA/Steady_Stance_1"
   },
   "Steady Stance 2": {
     "id": "Steady Stance 2",
     "name": "金剛架勢2",
     "sp": 100,
     "prev": ["Steady Stance 1"],
-    "icon": "skillA/Steady_Stance_2.png"
+    "icon": "skillA/Steady_Stance_2"
   },
   "Steady Stance 3": {
     "id": "Steady Stance 3",
     "name": "金剛架勢3",
     "sp": 200,
     "prev": ["Steady Stance 2"],
-    "icon": "skillA/Steady_Stance_3.png",
+    "icon": "skillA/Steady_Stance_3",
     "last": true
   },
   "Steady Stance 4": {
@@ -1173,28 +1173,28 @@
     "name": "金剛架勢4",
     "sp": 300,
     "prev": ["Steady Stance 3"],
-    "icon": "skillA/Steady_Stance_4.png",
+    "icon": "skillA/Steady_Stance_4",
     "last": true
   },
   "Warding Stance 1": {
     "id": "Warding Stance 1",
     "name": "明鏡架勢1",
     "sp": 50,
-    "icon": "skillA/Warding_Stance_1.png"
+    "icon": "skillA/Warding_Stance_1"
   },
   "Warding Stance 2": {
     "id": "Warding Stance 2",
     "name": "明鏡架勢2",
     "sp": 100,
     "prev": ["Warding Stance 1"],
-    "icon": "skillA/Warding_Stance_2.png"
+    "icon": "skillA/Warding_Stance_2"
   },
   "Warding Stance 3": {
     "id": "Warding Stance 3",
     "name": "明鏡架勢3",
     "sp": 200,
     "prev": ["Warding Stance 2"],
-    "icon": "skillA/Warding_Stance_3.png",
+    "icon": "skillA/Warding_Stance_3",
     "last": true
   },
   "Warding Stance 4": {
@@ -1202,7 +1202,7 @@
     "name": "明鏡架勢4",
     "sp": 300,
     "prev": ["Warding Stance 3"],
-    "icon": "skillA/Warding_Stance_4.png",
+    "icon": "skillA/Warding_Stance_4",
     "last": true
   },
   "Kestrel Stance 1": {
@@ -1211,7 +1211,7 @@
     "sp": 120,
     "prev": ["Fierce Stance 1", "Swift Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Kestrel_Stance_1.png"
+    "icon": "skillA/Kestrel_Stance_1"
   },
   "Kestrel Stance 2": {
     "id": "Kestrel Stance 2",
@@ -1219,7 +1219,7 @@
     "sp": 240,
     "prev": ["Kestrel Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Kestrel_Stance_2.png",
+    "icon": "skillA/Kestrel_Stance_2",
     "last": true
   },
   "Kestrel Stance 3": {
@@ -1228,7 +1228,7 @@
     "sp": 300,
     "prev": ["Kestrel Stance 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Kestrel_Stance_3.png",
+    "icon": "skillA/Kestrel_Stance_3",
     "last": true
   },
   "Sturdy Stance 1": {
@@ -1237,7 +1237,7 @@
     "sp": 120,
     "prev": ["Fierce Stance 1", "Steady Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Sturdy_Stance_1.png"
+    "icon": "skillA/Sturdy_Stance_1"
   },
   "Sturdy Stance 2": {
     "id": "Sturdy Stance 2",
@@ -1245,7 +1245,7 @@
     "sp": 240,
     "prev": ["Sturdy Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Sturdy_Stance_2.png",
+    "icon": "skillA/Sturdy_Stance_2",
     "last": true
   },
   "Sturdy Stance 3": {
@@ -1254,7 +1254,7 @@
     "sp": 300,
     "prev": ["Sturdy Stance 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Sturdy_Stance_3.png",
+    "icon": "skillA/Sturdy_Stance_3",
     "last": true
   },
   "Mirror Stance 1": {
@@ -1263,7 +1263,7 @@
     "sp": 120,
     "prev": ["Fierce Stance 1", "Warding Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Mirror_Stance_1.png"
+    "icon": "skillA/Mirror_Stance_1"
   },
   "Mirror Stance 2": {
     "id": "Mirror Stance 2",
@@ -1271,7 +1271,7 @@
     "sp": 240,
     "prev": ["Mirror Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Mirror_Stance_2.png",
+    "icon": "skillA/Mirror_Stance_2",
     "last": true
   },
   "Mirror Stance 3": {
@@ -1280,7 +1280,7 @@
     "sp": 300,
     "prev": ["Mirror Stance 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Mirror_Stance_3.png",
+    "icon": "skillA/Mirror_Stance_3",
     "last": true
   },
   "Steady Posture 1": {
@@ -1289,7 +1289,7 @@
     "sp": 120,
     "prev": ["Darting Stance 1", "Steady Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Steady_Posture_1.png"
+    "icon": "skillA/Steady_Posture_1"
   },
   "Steady Posture 2": {
     "id": "Steady Posture 2",
@@ -1297,7 +1297,7 @@
     "sp": 240,
     "prev": ["Steady Posture 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Steady_Posture_2.png",
+    "icon": "skillA/Steady_Posture_2",
     "last": true
   },
   "Steady Posture 3": {
@@ -1306,7 +1306,7 @@
     "sp": 300,
     "prev": ["Steady Posture 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Steady_Posture_3.png",
+    "icon": "skillA/Steady_Posture_3",
     "last": true
   },
   "Swift Stance 1": {
@@ -1315,7 +1315,7 @@
     "sp": 120,
     "prev": ["Darting Stance 1", "Warding Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Swift_Stance_1.png"
+    "icon": "skillA/Swift_Stance_1"
   },
   "Swift Stance 2": {
     "id": "Swift Stance 2",
@@ -1323,7 +1323,7 @@
     "sp": 240,
     "prev": ["Swift Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Swift_Stance_2.png",
+    "icon": "skillA/Swift_Stance_2",
     "last": true
   },
   "Swift Stance 3": {
@@ -1332,7 +1332,7 @@
     "sp": 300,
     "prev": ["Swift Stance 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Swift_Stance_3.png",
+    "icon": "skillA/Swift_Stance_3",
     "last": true
   },
   "Bracing Stance 1": {
@@ -1341,7 +1341,7 @@
     "sp": 120,
     "prev": ["Steady Stance 1", "Warding Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Bracing_Stance_1.png"
+    "icon": "skillA/Bracing_Stance_1"
   },
   "Bracing Stance 2": {
     "id": "Bracing Stance 2",
@@ -1349,7 +1349,7 @@
     "sp": 240,
     "prev": ["Bracing Stance 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Bracing_Stance_2.png",
+    "icon": "skillA/Bracing_Stance_2",
     "last": true
   },
   "Bracing Stance 3": {
@@ -1358,7 +1358,7 @@
     "sp": 300,
     "prev": ["Bracing Stance 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Bracing_Stance_3.png",
+    "icon": "skillA/Bracing_Stance_3",
     "last": true
   },
   "Fierce Breath": {
@@ -1368,7 +1368,7 @@
     "rules": "learner.breath",
     "prev": ["Fierce Stance 2"],
     "last": true,
-    "icon": "skillA/Fierce_Breath.png"
+    "icon": "skillA/Fierce_Breath"
   },
   "Darting Breath": {
     "id": "Darting Breath",
@@ -1377,7 +1377,7 @@
     "rules": "learner.breath",
     "prev": ["Darting Stance 2"],
     "last": true,
-    "icon": "skillA/Darting_Breath.png"
+    "icon": "skillA/Darting_Breath"
   },
   "Steady Breath": {
     "id": "Steady Breath",
@@ -1386,7 +1386,7 @@
     "rules": "learner.breath",
     "prev": ["Steady Stance 2"],
     "last": true,
-    "icon": "skillA/Steady_Breath.png"
+    "icon": "skillA/Steady_Breath"
   },
   "Warding Breath": {
     "id": "Warding Breath",
@@ -1395,111 +1395,111 @@
     "rules": "learner.breath",
     "prev": ["Warding Stance 2"],
     "last": true,
-    "icon": "skillA/Warding_Breath.png"
+    "icon": "skillA/Warding_Breath"
   },
   "Defiant Atk 1": {
     "id": "Defiant Atk 1",
     "name": "攻擊覺醒1",
     "sp": 40,
-    "icon": "skillA/Defiant_Atk_1.png"
+    "icon": "skillA/Defiant_Atk_1"
   },
   "Defiant Atk 2": {
     "id": "Defiant Atk 2",
     "name": "攻擊覺醒2",
     "sp": 80,
     "prev": ["Defiant Atk 1"],
-    "icon": "skillA/Defiant_Atk_2.png"
+    "icon": "skillA/Defiant_Atk_2"
   },
   "Defiant Atk 3": {
     "id": "Defiant Atk 3",
     "name": "攻擊覺醒3",
     "sp": 160,
     "prev": ["Defiant Atk 2"],
-    "icon": "skillA/Defiant_Atk_3.png",
+    "icon": "skillA/Defiant_Atk_3",
     "last": true
   },
   "Defiant Spd 1": {
     "id": "Defiant Spd 1",
     "name": "速度覺醒1",
     "sp": 40,
-    "icon": "skillA/Defiant_Spd_1.png"
+    "icon": "skillA/Defiant_Spd_1"
   },
   "Defiant Spd 2": {
     "id": "Defiant Spd 2",
     "name": "速度覺醒2",
     "sp": 80,
     "prev": ["Defiant Spd 1"],
-    "icon": "skillA/Defiant_Spd_2.png"
+    "icon": "skillA/Defiant_Spd_2"
   },
   "Defiant Spd 3": {
     "id": "Defiant Spd 3",
     "name": "速度覺醒3",
     "sp": 160,
     "prev": ["Defiant Spd 2"],
-    "icon": "skillA/Defiant_Spd_3.png",
+    "icon": "skillA/Defiant_Spd_3",
     "last": true
   },
   "Defiant Def 1": {
     "id": "Defiant Def 1",
     "name": "防守覺醒1",
     "sp": 40,
-    "icon": "skillA/Defiant_Def_1.png"
+    "icon": "skillA/Defiant_Def_1"
   },
   "Defiant Def 2": {
     "id": "Defiant Def 2",
     "name": "防守覺醒2",
     "sp": 80,
     "prev": ["Defiant Def 1"],
-    "icon": "skillA/Defiant_Def_2.png"
+    "icon": "skillA/Defiant_Def_2"
   },
   "Defiant Def 3": {
     "id": "Defiant Def 3",
     "name": "防守覺醒3",
     "sp": 160,
     "prev": ["Defiant Def 2"],
-    "icon": "skillA/Defiant_Def_3.png",
+    "icon": "skillA/Defiant_Def_3",
     "last": true
   },
   "Defiant Res 1": {
     "id": "Defiant Res 1",
     "name": "魔防覺醒1",
     "sp": 40,
-    "icon": "skillA/Defiant_Res_1.png"
+    "icon": "skillA/Defiant_Res_1"
   },
   "Defiant Res 2": {
     "id": "Defiant Res 2",
     "name": "魔防覺醒2",
     "sp": 80,
     "prev": ["Defiant Res 1"],
-    "icon": "skillA/Defiant_Res_2.png"
+    "icon": "skillA/Defiant_Res_2"
   },
   "Defiant Res 3": {
     "id": "Defiant Res 3",
     "name": "魔防覺醒3",
     "sp": 160,
     "prev": ["Defiant Res 2"],
-    "icon": "skillA/Defiant_Res_3.png",
+    "icon": "skillA/Defiant_Res_3",
     "last": true
   },
   "Brazen Atk/Spd 1": {
     "id": "Brazen Atk/Spd 1",
     "name": "攻擊速度大覺醒1",
     "sp": 60,
-    "icon": "skillA/Brazen_Atk_Spd_1.png"
+    "icon": "skillA/Brazen_Atk_Spd_1"
   },
   "Brazen Atk/Spd 2": {
     "id": "Brazen Atk/Spd 2",
     "name": "攻擊速度大覺醒2",
     "sp": 120,
     "prev": ["Brazen Atk/Spd 1"],
-    "icon": "skillA/Brazen_Atk_Spd_2.png"
+    "icon": "skillA/Brazen_Atk_Spd_2"
   },
   "Brazen Atk/Spd 3": {
     "id": "Brazen Atk/Spd 3",
     "name": "攻擊速度大覺醒3",
     "sp": 240,
     "prev": ["Brazen Atk/Spd 2"],
-    "icon": "skillA/Brazen_Atk_Spd_3.png",
+    "icon": "skillA/Brazen_Atk_Spd_3",
     "last": true
   },
   "Brazen Atk/Spd 4": {
@@ -1507,112 +1507,112 @@
     "name": "攻擊速度大覺醒4",
     "sp": 300,
     "prev": ["Brazen Atk/Spd 3"],
-    "icon": "skillA/Brazen_Atk_Spd_4.png",
+    "icon": "skillA/Brazen_Atk_Spd_4",
     "last": true
   },
   "Brazen Atk/Def 1": {
     "id": "Brazen Atk/Def 1",
     "name": "攻擊防守大覺醒1",
     "sp": 60,
-    "icon": "skillA/Brazen_Atk_Def_1.png"
+    "icon": "skillA/Brazen_Atk_Def_1"
   },
   "Brazen Atk/Def 2": {
     "id": "Brazen Atk/Def 2",
     "name": "攻擊防守大覺醒2",
     "sp": 120,
     "prev": ["Brazen Atk/Def 1"],
-    "icon": "skillA/Brazen_Atk_Def_2.png"
+    "icon": "skillA/Brazen_Atk_Def_2"
   },
   "Brazen Atk/Def 3": {
     "id": "Brazen Atk/Def 3",
     "name": "攻擊防守大覺醒3",
     "sp": 240,
     "prev": ["Brazen Atk/Def 2"],
-    "icon": "skillA/Brazen_Atk_Def_3.png",
+    "icon": "skillA/Brazen_Atk_Def_3",
     "last": true
   },
   "Brazen Atk/Res 1": {
     "id": "Brazen Atk/Res 1",
     "name": "攻擊魔防大覺醒1",
     "sp": 60,
-    "icon": "skillA/Brazen_Atk_Res_1.png"
+    "icon": "skillA/Brazen_Atk_Res_1"
   },
   "Brazen Atk/Res 2": {
     "id": "Brazen Atk/Res 2",
     "name": "攻擊魔防大覺醒2",
     "sp": 120,
     "prev": ["Brazen Atk/Res 1"],
-    "icon": "skillA/Brazen_Atk_Res_2.png"
+    "icon": "skillA/Brazen_Atk_Res_2"
   },
   "Brazen Atk/Res 3": {
     "id": "Brazen Atk/Res 3",
     "name": "攻擊魔防大覺醒3",
     "sp": 240,
     "prev": ["Brazen Atk/Res 2"],
-    "icon": "skillA/Brazen_Atk_Res_3.png",
+    "icon": "skillA/Brazen_Atk_Res_3",
     "last": true
   },
   "Brazen Spd/Def 1": {
     "id": "Brazen Spd/Def 1",
     "name": "速度防守大覺醒1",
     "sp": 60,
-    "icon": "skillA/Brazen_Spd_Def_1.png"
+    "icon": "skillA/Brazen_Spd_Def_1"
   },
   "Brazen Spd/Def 2": {
     "id": "Brazen Spd/Def 2",
     "name": "速度防守大覺醒2",
     "sp": 120,
     "prev": ["Brazen Spd/Def 1"],
-    "icon": "skillA/Brazen_Spd_Def_2.png"
+    "icon": "skillA/Brazen_Spd_Def_2"
   },
   "Brazen Spd/Def 3": {
     "id": "Brazen Spd/Def 3",
     "name": "速度防守大覺醒3",
     "sp": 240,
     "prev": ["Brazen Spd/Def 2"],
-    "icon": "skillA/Brazen_Spd_Def_3.png",
+    "icon": "skillA/Brazen_Spd_Def_3",
     "last": true
   },
   "Brazen Spd/Res 1": {
     "id": "Brazen Spd/Res 1",
     "name": "速度魔防大覺醒1",
     "sp": 60,
-    "icon": "skillA/Brazen_Spd_Res_1.png"
+    "icon": "skillA/Brazen_Spd_Res_1"
   },
   "Brazen Spd/Res 2": {
     "id": "Brazen Spd/Res 2",
     "name": "速度魔防大覺醒2",
     "sp": 120,
     "prev": ["Brazen Spd/Res 1"],
-    "icon": "skillA/Brazen_Spd_Res_2.png"
+    "icon": "skillA/Brazen_Spd_Res_2"
   },
   "Brazen Spd/Res 3": {
     "id": "Brazen Spd/Res 3",
     "name": "速度魔防大覺醒3",
     "sp": 240,
     "prev": ["Brazen Spd/Res 2"],
-    "icon": "skillA/Brazen_Spd_Res_3.png",
+    "icon": "skillA/Brazen_Spd_Res_3",
     "last": true
   },
   "Brazen Def/Res 1": {
     "id": "Brazen Def/Res 1",
     "name": "防守魔防大覺醒1",
     "sp": 60,
-    "icon": "skillA/Brazen_Def_Res_1.png"
+    "icon": "skillA/Brazen_Def_Res_1"
   },
   "Brazen Def/Res 2": {
     "id": "Brazen Def/Res 2",
     "name": "防守魔防大覺醒2",
     "sp": 120,
     "prev": ["Brazen Def/Res 1"],
-    "icon": "skillA/Brazen_Def_Res_2.png"
+    "icon": "skillA/Brazen_Def_Res_2"
   },
   "Brazen Def/Res 3": {
     "id": "Brazen Def/Res 3",
     "name": "防守魔防大覺醒3",
     "sp": 240,
     "prev": ["Brazen Def/Res 2"],
-    "icon": "skillA/Brazen_Def_Res_3.png",
+    "icon": "skillA/Brazen_Def_Res_3",
     "last": true
   },
   "Triangle Adept 1": {
@@ -1620,7 +1620,7 @@
     "name": "強化相剋1",
     "sp": 50,
     "rules": "learner.triangleAdept",
-    "icon": "skillA/Triangle_Adept_1.png"
+    "icon": "skillA/Triangle_Adept_1"
   },
   "Triangle Adept 2": {
     "id": "Triangle Adept 2",
@@ -1628,7 +1628,7 @@
     "sp": 100,
     "prev": ["Triangle Adept 1"],
     "rules": "learner.triangleAdept",
-    "icon": "skillA/Triangle_Adept_2.png"
+    "icon": "skillA/Triangle_Adept_2"
   },
   "Triangle Adept 3": {
     "id": "Triangle Adept 3",
@@ -1636,7 +1636,7 @@
     "sp": 200,
     "prev": ["Triangle Adept 2"],
     "rules": "learner.triangleAdept",
-    "icon": "skillA/Triangle_Adept_3.png",
+    "icon": "skillA/Triangle_Adept_3",
     "last": true
   },
   "Close Counter": {
@@ -1645,7 +1645,7 @@
     "sp": 300,
     "rules": "ranged",
     "last": true,
-    "icon": "skillA/Close_Counter.png"
+    "icon": "skillA/Close_Counter"
   },
   "Close Reversal": {
     "id": "Close Reversal",
@@ -1654,7 +1654,7 @@
     "prev": ["Close Counter"],
     "rules": "ranged",
     "last": true,
-    "icon": "skillA/Close_Reversal.png"
+    "icon": "skillA/Close_Reversal"
   },
   "Close Salvo": {
     "id": "Close Salvo",
@@ -1663,7 +1663,7 @@
     "prev": ["Close Counter"],
     "rules": "ranged",
     "last": true,
-    "icon": "skillA/Close_Salvo.png"
+    "icon": "skillA/Close_Salvo"
   },
   "Close Foil": {
     "id": "Close Foil",
@@ -1671,7 +1671,7 @@
     "sp": 300,
     "rules": "ranged",
     "last": true,
-    "icon": "skillA/Close_Foil.png"
+    "icon": "skillA/Close_Foil"
   },
   "Close Ward": {
     "id": "Close Ward",
@@ -1679,7 +1679,7 @@
     "sp": 300,
     "rules": "ranged",
     "last": true,
-    "icon": "skillA/Close_Ward.png"
+    "icon": "skillA/Close_Ward"
   },
   "Distant Counter": {
     "id": "Distant Counter",
@@ -1687,7 +1687,7 @@
     "sp": 300,
     "rules": "melee",
     "last": true,
-    "icon": "skillA/Distant_Counter.png"
+    "icon": "skillA/Distant_Counter"
   },
   "Distant Storm": {
     "id": "Distant Storm",
@@ -1696,7 +1696,7 @@
     "rules": "melee",
     "prev": ["Distant Counter"],
     "last": true,
-    "icon": "skillA/Distant_Storm.png"
+    "icon": "skillA/Distant_Storm"
   },
   "Distant Pressure": {
     "id": "Distant Pressure",
@@ -1705,7 +1705,7 @@
     "prev": ["Distant Counter"],
     "rules": "melee",
     "last": true,
-    "icon": "skillA/Distant_Pressure.png"
+    "icon": "skillA/Distant_Pressure"
   },
   "Distant Ferocity": {
     "id": "Distant Ferocity",
@@ -1714,7 +1714,7 @@
     "prev": ["Distant Counter"],
     "rules": "melee",
     "last": true,
-    "icon": "skillA/Distant_Ferocity.png"
+    "icon": "skillA/Distant_Ferocity"
   },
   "Distant Dart": {
     "id": "Distant Dart",
@@ -1723,7 +1723,7 @@
     "rules": "melee",
     "prev": ["Distant Counter"],
     "last": true,
-    "icon": "skillA/Distant_Dart.png"
+    "icon": "skillA/Distant_Dart"
   },
   "Distant Reversal": {
     "id": "Distant Reversal",
@@ -1732,7 +1732,7 @@
     "prev": ["Distant Counter"],
     "rules": "melee",
     "last": true,
-    "icon": "skillA/Distant_Reversal.png"
+    "icon": "skillA/Distant_Reversal"
   },
   "Distant Stance": {
     "id": "Distant Stance",
@@ -1741,7 +1741,7 @@
     "prev": ["Distant Counter"],
     "rules": "melee",
     "last": true,
-    "icon": "skillA/Distant_Stance.png"
+    "icon": "skillA/Distant_Stance"
   },
   "Distant A/S Solo": {
     "id": "Distant A/S Solo",
@@ -1750,7 +1750,7 @@
     "rules": "melee",
     "prev": ["Distant Counter"],
     "last": true,
-    "icon": "skillA/Distant_A_S_Solo.png"
+    "icon": "skillA/Distant_A_S_Solo"
   },
   "Distant Foil": {
     "id": "Distant Foil",
@@ -1758,7 +1758,7 @@
     "sp": 300,
     "rules": "melee",
     "last": true,
-    "icon": "skillA/Distant_Foil.png"
+    "icon": "skillA/Distant_Foil"
   },
   "Distant Ward": {
     "id": "Distant Ward",
@@ -1766,27 +1766,27 @@
     "sp": 300,
     "rules": "melee",
     "last": true,
-    "icon": "skillA/Distant_Ward.png"
+    "icon": "skillA/Distant_Ward"
   },
   "Close Def 1": {
     "id": "Close Def 1",
     "name": "近距離防禦1",
     "sp": 60,
-    "icon": "skillA/Close_Def_1.png"
+    "icon": "skillA/Close_Def_1"
   },
   "Close Def 2": {
     "id": "Close Def 2",
     "name": "近距離防禦2",
     "sp": 120,
     "prev": ["Close Def 1"],
-    "icon": "skillA/Close_Def_2.png"
+    "icon": "skillA/Close_Def_2"
   },
   "Close Def 3": {
     "id": "Close Def 3",
     "name": "近距離防禦3",
     "sp": 240,
     "prev": ["Close Def 2"],
-    "icon": "skillA/Close_Def_3.png",
+    "icon": "skillA/Close_Def_3",
     "last": true
   },
   "Close Def 4": {
@@ -1794,28 +1794,28 @@
     "name": "近距離防禦4",
     "sp": 300,
     "prev": ["Close Def 3"],
-    "icon": "skillA/Close_Def_4.png",
+    "icon": "skillA/Close_Def_4",
     "last": true
   },
   "Distant Def 1": {
     "id": "Distant Def 1",
     "name": "遠距離防禦1",
     "sp": 60,
-    "icon": "skillA/Distant_Def_1.png"
+    "icon": "skillA/Distant_Def_1"
   },
   "Distant Def 2": {
     "id": "Distant Def 2",
     "name": "遠距離防禦2",
     "sp": 120,
     "prev": ["Distant Def 1"],
-    "icon": "skillA/Distant_Def_2.png"
+    "icon": "skillA/Distant_Def_2"
   },
   "Distant Def 3": {
     "id": "Distant Def 3",
     "name": "遠距離防禦3",
     "sp": 240,
     "prev": ["Distant Def 2"],
-    "icon": "skillA/Distant_Def_3.png",
+    "icon": "skillA/Distant_Def_3",
     "last": true
   },
   "Distant Def 4": {
@@ -1823,7 +1823,7 @@
     "name": "遠距離防禦4",
     "sp": 300,
     "prev": ["Distant Def 3"],
-    "icon": "skillA/Distant_Def_4.png",
+    "icon": "skillA/Distant_Def_4",
     "last": true
   },
   "Svalinn Shield": {
@@ -1832,7 +1832,7 @@
     "sp": 200,
     "rules": "armored",
     "last": true,
-    "icon": "skillA/Svalinn_Shield.png"
+    "icon": "skillA/Svalinn_Shield"
   },
   "Grani's Shield": {
     "id": "Grani's Shield",
@@ -1840,7 +1840,7 @@
     "sp": 200,
     "rules": "cavalry",
     "last": true,
-    "icon": "skillA/Grani's_Shield.png"
+    "icon": "skillA/Grani's_Shield"
   },
   "Iote's Shield": {
     "id": "Iote's Shield",
@@ -1848,14 +1848,14 @@
     "sp": 200,
     "rules": "flying",
     "last": true,
-    "icon": "skillA/Iote's_Shield.png"
+    "icon": "skillA/Iote's_Shield"
   },
   "Heavy Blade 1": {
     "id": "Heavy Blade 1",
     "name": "剛劍1",
     "sp": 60,
     "rules": "not.white-staff",
-    "icon": "skillA/Heavy_Blade_1.png"
+    "icon": "skillA/Heavy_Blade_1"
   },
   "Heavy Blade 2": {
     "id": "Heavy Blade 2",
@@ -1863,7 +1863,7 @@
     "sp": 120,
     "prev": ["Heavy Blade 1"],
     "rules": "not.white-staff",
-    "icon": "skillA/Heavy_Blade_2.png"
+    "icon": "skillA/Heavy_Blade_2"
   },
   "Heavy Blade 3": {
     "id": "Heavy Blade 3",
@@ -1871,7 +1871,7 @@
     "sp": 240,
     "prev": ["Heavy Blade 2"],
     "rules": "not.white-staff",
-    "icon": "skillA/Heavy_Blade_3.png",
+    "icon": "skillA/Heavy_Blade_3",
     "last": true
   },
   "Heavy Blade 4": {
@@ -1880,7 +1880,7 @@
     "sp": 300,
     "prev": ["Heavy Blade 3"],
     "rules": "not.white-staff",
-    "icon": "skillA/Heavy_Blade_4.png",
+    "icon": "skillA/Heavy_Blade_4",
     "last": true
   },
   "Flashing Blade 1": {
@@ -1888,7 +1888,7 @@
     "name": "柔劍1",
     "sp": 60,
     "rules": "learner.flashingBlade",
-    "icon": "skillA/Flashing_Blade_1.png"
+    "icon": "skillA/Flashing_Blade_1"
   },
   "Flashing Blade 2": {
     "id": "Flashing Blade 2",
@@ -1896,7 +1896,7 @@
     "sp": 120,
     "prev": ["Flashing Blade 1"],
     "rules": "learner.flashingBlade",
-    "icon": "skillA/Flashing_Blade_2.png"
+    "icon": "skillA/Flashing_Blade_2"
   },
   "Flashing Blade 3": {
     "id": "Flashing Blade 3",
@@ -1904,7 +1904,7 @@
     "sp": 240,
     "prev": ["Flashing Blade 2"],
     "rules": "learner.flashingBlade",
-    "icon": "skillA/Flashing_Blade_3.png",
+    "icon": "skillA/Flashing_Blade_3",
     "last": true
   },
   "Flashing Blade 4": {
@@ -1913,91 +1913,91 @@
     "sp": 300,
     "prev": ["Flashing Blade 3"],
     "rules": "learner.flashingBlade",
-    "icon": "skillA/Flashing_Blade_4.png",
+    "icon": "skillA/Flashing_Blade_4",
     "last": true
   },
   "Fire Boost 1": {
     "id": "Fire Boost 1",
     "name": "生命業火1",
     "sp": 50,
-    "icon": "skillA/Fire_Boost_1.png"
+    "icon": "skillA/Fire_Boost_1"
   },
   "Fire Boost 2": {
     "id": "Fire Boost 2",
     "name": "生命業火2",
     "sp": 100,
     "prev": ["Fire Boost 1"],
-    "icon": "skillA/Fire_Boost_2.png"
+    "icon": "skillA/Fire_Boost_2"
   },
   "Fire Boost 3": {
     "id": "Fire Boost 3",
     "name": "生命業火3",
     "sp": 200,
     "prev": ["Fire Boost 2"],
-    "icon": "skillA/Fire_Boost_3.png",
+    "icon": "skillA/Fire_Boost_3",
     "last": true
   },
   "Wind Boost 1": {
     "id": "Wind Boost 1",
     "name": "生命疾風1",
     "sp": 50,
-    "icon": "skillA/Wind_Boost_1.png"
+    "icon": "skillA/Wind_Boost_1"
   },
   "Wind Boost 2": {
     "id": "Wind Boost 2",
     "name": "生命疾風2",
     "sp": 100,
     "prev": ["Wind Boost 1"],
-    "icon": "skillA/Wind_Boost_2.png"
+    "icon": "skillA/Wind_Boost_2"
   },
   "Wind Boost 3": {
     "id": "Wind Boost 3",
     "name": "生命疾風3",
     "sp": 200,
     "prev": ["Wind Boost 2"],
-    "icon": "skillA/Wind_Boost_3.png",
+    "icon": "skillA/Wind_Boost_3",
     "last": true
   },
   "Earth Boost 1": {
     "id": "Earth Boost 1",
     "name": "生命大地1",
     "sp": 50,
-    "icon": "skillA/Earth_Boost_1.png"
+    "icon": "skillA/Earth_Boost_1"
   },
   "Earth Boost 2": {
     "id": "Earth Boost 2",
     "name": "生命大地2",
     "sp": 100,
     "prev": ["Earth Boost 1"],
-    "icon": "skillA/Earth_Boost_2.png"
+    "icon": "skillA/Earth_Boost_2"
   },
   "Earth Boost 3": {
     "id": "Earth Boost 3",
     "name": "生命大地3",
     "sp": 200,
     "prev": ["Earth Boost 2"],
-    "icon": "skillA/Earth_Boost_3.png",
+    "icon": "skillA/Earth_Boost_3",
     "last": true
   },
   "Water Boost 1": {
     "id": "Water Boost 1",
     "name": "生命靜水1",
     "sp": 50,
-    "icon": "skillA/Water_Boost_1.png"
+    "icon": "skillA/Water_Boost_1"
   },
   "Water Boost 2": {
     "id": "Water Boost 2",
     "name": "生命靜水2",
     "sp": 100,
     "prev": ["Water Boost 1"],
-    "icon": "skillA/Water_Boost_2.png"
+    "icon": "skillA/Water_Boost_2"
   },
   "Water Boost 3": {
     "id": "Water Boost 3",
     "name": "生命靜水3",
     "sp": 200,
     "prev": ["Water Boost 2"],
-    "icon": "skillA/Water_Boost_3.png",
+    "icon": "skillA/Water_Boost_3",
     "last": true
   },
   "Fireflood Boost 3": {
@@ -2007,27 +2007,27 @@
     "sp": 300,
     "prev": ["Fire Boost 3", "Water Boost 3"],
     "last": true,
-    "icon": "skillA/Fireflood_Boost_3.png"
+    "icon": "skillA/Fireflood_Boost_3"
   },
   "Atk/Spd Bond 1": {
     "id": "Atk/Spd Bond 1",
     "name": "攻擊速度的羈絆1",
     "sp": 60,
-    "icon": "skillA/Atk_Spd_Bond_1.png"
+    "icon": "skillA/Atk_Spd_Bond_1"
   },
   "Atk/Spd Bond 2": {
     "id": "Atk/Spd Bond 2",
     "name": "攻擊速度的羈絆2",
     "sp": 120,
     "prev": ["Atk/Spd Bond 1"],
-    "icon": "skillA/Atk_Spd_Bond_2.png"
+    "icon": "skillA/Atk_Spd_Bond_2"
   },
   "Atk/Spd Bond 3": {
     "id": "Atk/Spd Bond 3",
     "name": "攻擊速度的羈絆3",
     "sp": 240,
     "prev": ["Atk/Spd Bond 2"],
-    "icon": "skillA/Atk_Spd_Bond_3.png",
+    "icon": "skillA/Atk_Spd_Bond_3",
     "last": true
   },
   "Atk/Spd Bond 4": {
@@ -2035,28 +2035,28 @@
     "name": "攻擊速度的羈絆4",
     "sp": 300,
     "prev": ["Atk/Spd Bond 3"],
-    "icon": "skillA/Atk_Spd_Bond_4.png",
+    "icon": "skillA/Atk_Spd_Bond_4",
     "last": true
   },
   "Atk/Def Bond 1": {
     "id": "Atk/Def Bond 1",
     "name": "攻擊防守的羈絆1",
     "sp": 60,
-    "icon": "skillA/Atk_Def_Bond_1.png"
+    "icon": "skillA/Atk_Def_Bond_1"
   },
   "Atk/Def Bond 2": {
     "id": "Atk/Def Bond 2",
     "name": "攻擊防守的羈絆2",
     "sp": 120,
     "prev": ["Atk/Def Bond 1"],
-    "icon": "skillA/Atk_Def_Bond_2.png"
+    "icon": "skillA/Atk_Def_Bond_2"
   },
   "Atk/Def Bond 3": {
     "id": "Atk/Def Bond 3",
     "name": "攻擊防守的羈絆3",
     "sp": 240,
     "prev": ["Atk/Def Bond 2"],
-    "icon": "skillA/Atk_Def_Bond_3.png",
+    "icon": "skillA/Atk_Def_Bond_3",
     "last": true
   },
   "Atk/Def Bond 4": {
@@ -2064,28 +2064,28 @@
     "name": "攻擊防守的羈絆4",
     "sp": 300,
     "prev": ["Atk/Def Bond 3"],
-    "icon": "skillA/Atk_Def_Bond_4.png",
+    "icon": "skillA/Atk_Def_Bond_4",
     "last": true
   },
   "Atk/Res Bond 1": {
     "id": "Atk/Res Bond 1",
     "name": "攻擊魔防的羈絆1",
     "sp": 60,
-    "icon": "skillA/Atk_Res_Bond_1.png"
+    "icon": "skillA/Atk_Res_Bond_1"
   },
   "Atk/Res Bond 2": {
     "id": "Atk/Res Bond 2",
     "name": "攻擊魔防的羈絆2",
     "sp": 120,
     "prev": ["Atk/Res Bond 1"],
-    "icon": "skillA/Atk_Res_Bond_2.png"
+    "icon": "skillA/Atk_Res_Bond_2"
   },
   "Atk/Res Bond 3": {
     "id": "Atk/Res Bond 3",
     "name": "攻擊魔防的羈絆3",
     "sp": 240,
     "prev": ["Atk/Res Bond 2"],
-    "icon": "skillA/Atk_Res_Bond_3.png",
+    "icon": "skillA/Atk_Res_Bond_3",
     "last": true
   },
   "Atk/Res Bond 4": {
@@ -2093,28 +2093,28 @@
     "name": "攻擊魔防的羈絆4",
     "sp": 300,
     "prev": ["Atk/Res Bond 3"],
-    "icon": "skillA/Atk_Res_Bond_4.png",
+    "icon": "skillA/Atk_Res_Bond_4",
     "last": true
   },
   "Spd/Def Bond 1": {
     "id": "Spd/Def Bond 1",
     "name": "速度防守的羈絆1",
     "sp": 60,
-    "icon": "skillA/Spd_Def_Bond_1.png"
+    "icon": "skillA/Spd_Def_Bond_1"
   },
   "Spd/Def Bond 2": {
     "id": "Spd/Def Bond 2",
     "name": "速度防守的羈絆2",
     "sp": 120,
     "prev": ["Spd/Def Bond 1"],
-    "icon": "skillA/Spd_Def_Bond_2.png"
+    "icon": "skillA/Spd_Def_Bond_2"
   },
   "Spd/Def Bond 3": {
     "id": "Spd/Def Bond 3",
     "name": "速度防守的羈絆3",
     "sp": 240,
     "prev": ["Spd/Def Bond 2"],
-    "icon": "skillA/Spd_Def_Bond_3.png",
+    "icon": "skillA/Spd_Def_Bond_3",
     "last": true
   },
   "Spd/Def Bond 4": {
@@ -2122,28 +2122,28 @@
     "name": "速度防守的羈絆4",
     "sp": 300,
     "prev": ["Spd/Def Bond 3"],
-    "icon": "skillA/Spd_Def_Bond_4.png",
+    "icon": "skillA/Spd_Def_Bond_4",
     "last": true
   },
   "Spd/Res Bond 1": {
     "id": "Spd/Res Bond 1",
     "name": "速度魔防的羈絆1",
     "sp": 60,
-    "icon": "skillA/Spd_Res_Bond_1.png"
+    "icon": "skillA/Spd_Res_Bond_1"
   },
   "Spd/Res Bond 2": {
     "id": "Spd/Res Bond 2",
     "name": "速度魔防的羈絆2",
     "sp": 120,
     "prev": ["Spd/Res Bond 1"],
-    "icon": "skillA/Spd_Res_Bond_2.png"
+    "icon": "skillA/Spd_Res_Bond_2"
   },
   "Spd/Res Bond 3": {
     "id": "Spd/Res Bond 3",
     "name": "速度魔防的羈絆3",
     "sp": 240,
     "prev": ["Spd/Res Bond 2"],
-    "icon": "skillA/Spd_Res_Bond_3.png",
+    "icon": "skillA/Spd_Res_Bond_3",
     "last": true
   },
   "Spd/Res Bond 4": {
@@ -2151,28 +2151,28 @@
     "name": "速度魔防的羈絆4",
     "sp": 300,
     "prev": ["Spd/Res Bond 3"],
-    "icon": "skillA/Spd_Res_Bond_4.png",
+    "icon": "skillA/Spd_Res_Bond_4",
     "last": true
   },
   "Def/Res Bond 1": {
     "id": "Def/Res Bond 1",
     "name": "防守魔防的羈絆1",
     "sp": 60,
-    "icon": "skillA/Def_Res_Bond_1.png"
+    "icon": "skillA/Def_Res_Bond_1"
   },
   "Def/Res Bond 2": {
     "id": "Def/Res Bond 2",
     "name": "防守魔防的羈絆2",
     "sp": 120,
     "prev": ["Def/Res Bond 1"],
-    "icon": "skillA/Def_Res_Bond_2.png"
+    "icon": "skillA/Def_Res_Bond_2"
   },
   "Def/Res Bond 3": {
     "id": "Def/Res Bond 3",
     "name": "防守魔防的羈絆3",
     "sp": 240,
     "prev": ["Def/Res Bond 2"],
-    "icon": "skillA/Def_Res_Bond_3.png",
+    "icon": "skillA/Def_Res_Bond_3",
     "last": true
   },
   "Def/Res Bond 4": {
@@ -2180,7 +2180,7 @@
     "name": "防守魔防的羈絆4",
     "sp": 300,
     "prev": ["Def/Res Bond 3"],
-    "icon": "skillA/Def_Res_Bond_4.png",
+    "icon": "skillA/Def_Res_Bond_4",
     "last": true
   },
   "Atk/Spd Unity": {
@@ -2189,7 +2189,7 @@
     "sp": 300,
     "prev": ["Atk/Spd Bond 3"],
     "last": true,
-    "icon": "skillA/Atk_Spd_Unity.png"
+    "icon": "skillA/Atk_Spd_Unity"
   },
   "Atk/Def Unity": {
     "id": "Atk/Def Unity",
@@ -2197,7 +2197,7 @@
     "sp": 300,
     "prev": ["Atk/Def Bond 3"],
     "last": true,
-    "icon": "skillA/Atk_Def_Unity.png"
+    "icon": "skillA/Atk_Def_Unity"
   },
   "Atk/Res Unity": {
     "id": "Atk/Res Unity",
@@ -2205,7 +2205,7 @@
     "sp": 300,
     "prev": ["Atk/Res Bond 3"],
     "last": true,
-    "icon": "skillA/Atk_Res_Unity.png"
+    "icon": "skillA/Atk_Res_Unity"
   },
   "Def/Res Unity": {
     "id": "Def/Res Unity",
@@ -2213,27 +2213,27 @@
     "sp": 300,
     "prev": ["Def/Res Bond 3"],
     "last": true,
-    "icon": "skillA/Def_Res_Unity.png"
+    "icon": "skillA/Def_Res_Unity"
   },
   "Atk/Spd Push 1": {
     "id": "Atk/Spd Push 1",
     "name": "攻擊速度的奮擊1",
     "sp": 60,
-    "icon": "skillA/Atk_Spd_Push_1.png"
+    "icon": "skillA/Atk_Spd_Push_1"
   },
   "Atk/Spd Push 2": {
     "id": "Atk/Spd Push 2",
     "name": "攻擊速度的奮擊2",
     "sp": 120,
     "prev": ["Atk/Spd Push 1"],
-    "icon": "skillA/Atk_Spd_Push_2.png"
+    "icon": "skillA/Atk_Spd_Push_2"
   },
   "Atk/Spd Push 3": {
     "id": "Atk/Spd Push 3",
     "name": "攻擊速度的奮擊3",
     "sp": 240,
     "prev": ["Atk/Spd Push 2"],
-    "icon": "skillA/Atk_Spd_Push_3.png",
+    "icon": "skillA/Atk_Spd_Push_3",
     "last": true
   },
   "Atk/Spd Push 4": {
@@ -2241,28 +2241,28 @@
     "name": "攻擊速度的奮擊4",
     "sp": 300,
     "prev": ["Atk/Spd Push 3"],
-    "icon": "skillA/Atk_Spd_Push_4.png",
+    "icon": "skillA/Atk_Spd_Push_4",
     "last": true
   },
   "Atk/Def Push 1": {
     "id": "Atk/Def Push 1",
     "name": "攻擊防守的奮擊1",
     "sp": 60,
-    "icon": "skillA/Atk_Def_Push_1.png"
+    "icon": "skillA/Atk_Def_Push_1"
   },
   "Atk/Def Push 2": {
     "id": "Atk/Def Push 2",
     "name": "攻擊防守的奮擊2",
     "sp": 120,
     "prev": ["Atk/Def Push 1"],
-    "icon": "skillA/Atk_Def_Push_2.png"
+    "icon": "skillA/Atk_Def_Push_2"
   },
   "Atk/Def Push 3": {
     "id": "Atk/Def Push 3",
     "name": "攻擊防守的奮擊3",
     "sp": 240,
     "prev": ["Atk/Def Push 2"],
-    "icon": "skillA/Atk_Def_Push_3.png",
+    "icon": "skillA/Atk_Def_Push_3",
     "last": true
   },
   "Atk/Def Push 4": {
@@ -2270,28 +2270,28 @@
     "name": "攻擊防守的奮擊4",
     "sp": 300,
     "prev": ["Atk/Def Push 3"],
-    "icon": "skillA/Atk_Def_Push_4.png",
+    "icon": "skillA/Atk_Def_Push_4",
     "last": true
   },
   "Atk/Res Push 1": {
     "id": "Atk/Res Push 1",
     "name": "攻擊魔防的奮擊1",
     "sp": 60,
-    "icon": "skillA/Atk_Res_Push_1.png"
+    "icon": "skillA/Atk_Res_Push_1"
   },
   "Atk/Res Push 2": {
     "id": "Atk/Res Push 2",
     "name": "攻擊魔防的奮擊2",
     "sp": 120,
     "prev": ["Atk/Res Push 1"],
-    "icon": "skillA/Atk_Res_Push_2.png"
+    "icon": "skillA/Atk_Res_Push_2"
   },
   "Atk/Res Push 3": {
     "id": "Atk/Res Push 3",
     "name": "攻擊魔防的奮擊3",
     "sp": 240,
     "prev": ["Atk/Res Push 2"],
-    "icon": "skillA/Atk_Res_Push_3.png",
+    "icon": "skillA/Atk_Res_Push_3",
     "last": true
   },
   "Atk/Res Push 4": {
@@ -2299,28 +2299,28 @@
     "name": "攻擊魔防的奮擊4",
     "sp": 300,
     "prev": ["Atk/Res Push 3"],
-    "icon": "skillA/Atk_Res_Push_4.png",
+    "icon": "skillA/Atk_Res_Push_4",
     "last": true
   },
   "Atk/Spd Solo 1": {
     "id": "Atk/Spd Solo 1",
     "name": "攻擊速度的孤軍1",
     "sp": 60,
-    "icon": "skillA/Atk_Spd_Solo_1.png"
+    "icon": "skillA/Atk_Spd_Solo_1"
   },
   "Atk/Spd Solo 2": {
     "id": "Atk/Spd Solo 2",
     "name": "攻擊速度的孤軍2",
     "sp": 120,
     "prev": ["Atk/Spd Solo 1"],
-    "icon": "skillA/Atk_Spd_Solo_2.png"
+    "icon": "skillA/Atk_Spd_Solo_2"
   },
   "Atk/Spd Solo 3": {
     "id": "Atk/Spd Solo 3",
     "name": "攻擊速度的孤軍3",
     "sp": 240,
     "prev": ["Atk/Spd Solo 2"],
-    "icon": "skillA/Atk_Spd_Solo_3.png",
+    "icon": "skillA/Atk_Spd_Solo_3",
     "last": true
   },
   "Atk/Spd Solo 4": {
@@ -2328,28 +2328,28 @@
     "name": "攻擊速度的孤軍4",
     "sp": 300,
     "prev": ["Atk/Spd Solo 3"],
-    "icon": "skillA/Atk_Spd_Solo_4.png",
+    "icon": "skillA/Atk_Spd_Solo_4",
     "last": true
   },
   "Atk/Def Solo 1": {
     "id": "Atk/Def Solo 1",
     "name": "攻擊防守的孤軍1",
     "sp": 60,
-    "icon": "skillA/Atk_Def_Solo_1.png"
+    "icon": "skillA/Atk_Def_Solo_1"
   },
   "Atk/Def Solo 2": {
     "id": "Atk/Def Solo 2",
     "name": "攻擊防守的孤軍2",
     "sp": 120,
     "prev": ["Atk/Def Solo 1"],
-    "icon": "skillA/Atk_Def_Solo_2.png"
+    "icon": "skillA/Atk_Def_Solo_2"
   },
   "Atk/Def Solo 3": {
     "id": "Atk/Def Solo 3",
     "name": "攻擊防守的孤軍3",
     "sp": 240,
     "prev": ["Atk/Def Solo 2"],
-    "icon": "skillA/Atk_Def_Solo_3.png",
+    "icon": "skillA/Atk_Def_Solo_3",
     "last": true
   },
   "Atk/Def Solo 4": {
@@ -2357,28 +2357,28 @@
     "name": "攻擊防守的孤軍4",
     "sp": 300,
     "prev": ["Atk/Def Solo 3"],
-    "icon": "skillA/Atk_Def_Solo_4.png",
+    "icon": "skillA/Atk_Def_Solo_4",
     "last": true
   },
   "Atk/Res Solo 1": {
     "id": "Atk/Res Solo 1",
     "name": "攻擊魔防的孤軍1",
     "sp": 60,
-    "icon": "skillA/Atk_Res_Solo_1.png"
+    "icon": "skillA/Atk_Res_Solo_1"
   },
   "Atk/Res Solo 2": {
     "id": "Atk/Res Solo 2",
     "name": "攻擊魔防的孤軍2",
     "sp": 120,
     "prev": ["Atk/Res Solo 1"],
-    "icon": "skillA/Atk_Res_Solo_2.png"
+    "icon": "skillA/Atk_Res_Solo_2"
   },
   "Atk/Res Solo 3": {
     "id": "Atk/Res Solo 3",
     "name": "攻擊魔防的孤軍3",
     "sp": 240,
     "prev": ["Atk/Res Solo 2"],
-    "icon": "skillA/Atk_Res_Solo_3.png",
+    "icon": "skillA/Atk_Res_Solo_3",
     "last": true
   },
   "Atk/Res Solo 4": {
@@ -2386,28 +2386,28 @@
     "name": "攻擊魔防的孤軍4",
     "sp": 300,
     "prev": ["Atk/Res Solo 3"],
-    "icon": "skillA/Atk_Res_Solo_4.png",
+    "icon": "skillA/Atk_Res_Solo_4",
     "last": true
   },
   "Spd/Def Solo 1": {
     "id": "Spd/Def Solo 1",
     "name": "速度防守的孤軍1",
     "sp": 60,
-    "icon": "skillA/Spd_Def_Solo_1.png"
+    "icon": "skillA/Spd_Def_Solo_1"
   },
   "Spd/Def Solo 2": {
     "id": "Spd/Def Solo 2",
     "name": "速度防守的孤軍2",
     "sp": 120,
     "prev": ["Spd/Def Solo 1"],
-    "icon": "skillA/Spd_Def_Solo_2.png"
+    "icon": "skillA/Spd_Def_Solo_2"
   },
   "Spd/Def Solo 3": {
     "id": "Spd/Def Solo 3",
     "name": "速度防守的孤軍3",
     "sp": 240,
     "prev": ["Spd/Def Solo 2"],
-    "icon": "skillA/Spd_Def_Solo_3.png",
+    "icon": "skillA/Spd_Def_Solo_3",
     "last": true
   },
   "Spd/Def Solo 4": {
@@ -2415,28 +2415,28 @@
     "name": "速度防守的孤軍4",
     "sp": 300,
     "prev": ["Spd/Def Solo 3"],
-    "icon": "skillA/Spd_Def_Solo_4.png",
+    "icon": "skillA/Spd_Def_Solo_4",
     "last": true
   },
   "Spd/Res Solo 1": {
     "id": "Spd/Res Solo 1",
     "name": "速度魔防的孤軍1",
     "sp": 60,
-    "icon": "skillA/Spd_Res_Solo_1.png"
+    "icon": "skillA/Spd_Res_Solo_1"
   },
   "Spd/Res Solo 2": {
     "id": "Spd/Res Solo 2",
     "name": "速度魔防的孤軍2",
     "sp": 120,
     "prev": ["Spd/Res Solo 1"],
-    "icon": "skillA/Spd_Res_Solo_2.png"
+    "icon": "skillA/Spd_Res_Solo_2"
   },
   "Spd/Res Solo 3": {
     "id": "Spd/Res Solo 3",
     "name": "速度魔防的孤軍3",
     "sp": 240,
     "prev": ["Spd/Res Solo 2"],
-    "icon": "skillA/Spd_Res_Solo_3.png",
+    "icon": "skillA/Spd_Res_Solo_3",
     "last": true
   },
   "Spd/Res Solo 4": {
@@ -2444,28 +2444,28 @@
     "name": "速度魔防的孤軍4",
     "sp": 300,
     "prev": ["Spd/Res Solo 3"],
-    "icon": "skillA/Spd_Res_Solo_4.png",
+    "icon": "skillA/Spd_Res_Solo_4",
     "last": true
   },
   "Def/Res Solo 1": {
     "id": "Def/Res Solo 1",
     "name": "防守魔防的孤軍1",
     "sp": 60,
-    "icon": "skillA/Def_Res_Solo_1.png"
+    "icon": "skillA/Def_Res_Solo_1"
   },
   "Def/Res Solo 2": {
     "id": "Def/Res Solo 2",
     "name": "防守魔防的孤軍2",
     "sp": 120,
     "prev": ["Def/Res Solo 1"],
-    "icon": "skillA/Def_Res_Solo_2.png"
+    "icon": "skillA/Def_Res_Solo_2"
   },
   "Def/Res Solo 3": {
     "id": "Def/Res Solo 3",
     "name": "防守魔防的孤軍3",
     "sp": 240,
     "prev": ["Def/Res Solo 2"],
-    "icon": "skillA/Def_Res_Solo_3.png",
+    "icon": "skillA/Def_Res_Solo_3",
     "last": true
   },
   "Def/Res Solo 4": {
@@ -2473,7 +2473,7 @@
     "name": "防守魔防的孤軍4",
     "sp": 300,
     "prev": ["Def/Res Solo 3"],
-    "icon": "skillA/Def_Res_Solo_4.png",
+    "icon": "skillA/Def_Res_Solo_4",
     "last": true
   },
   "R Duel Infantry 1": {
@@ -2484,7 +2484,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.r-duel-infantry",
-    "icon": "skillA/R_Duel_Infantry_1.png"
+    "icon": "skillA/R_Duel_Infantry_1"
   },
   "R Duel Infantry 2": {
     "id": "R Duel Infantry 2",
@@ -2495,7 +2495,7 @@
     "bbst": 165,
     "prev": ["R Duel Infantry 1"],
     "rules": "learner.r-duel-infantry",
-    "icon": "skillA/R_Duel_Infantry_2.png"
+    "icon": "skillA/R_Duel_Infantry_2"
   },
   "R Duel Infantry 3": {
     "id": "R Duel Infantry 3",
@@ -2506,7 +2506,7 @@
     "bbst": 170,
     "prev": ["R Duel Infantry 2"],
     "rules": "learner.r-duel-infantry",
-    "icon": "skillA/R_Duel_Infantry_3.png",
+    "icon": "skillA/R_Duel_Infantry_3",
     "last": true
   },
   "R Duel Infantry 4": {
@@ -2522,7 +2522,7 @@
     "bbst": 175,
     "prev": ["R Duel Infantry 3"],
     "rules": "learner.r-duel-infantry",
-    "icon": "skillA/R_Duel_Infantry_4.png",
+    "icon": "skillA/R_Duel_Infantry_4",
     "last": true
   },
   "R Duel Cavalry 1": {
@@ -2533,7 +2533,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.r-duel-cavalry",
-    "icon": "skillA/R_Duel_Cavalry_1.png"
+    "icon": "skillA/R_Duel_Cavalry_1"
   },
   "R Duel Cavalry 2": {
     "id": "R Duel Cavalry 2",
@@ -2544,7 +2544,7 @@
     "bbst": 165,
     "prev": ["R Duel Cavalry 1"],
     "rules": "learner.r-duel-cavalry",
-    "icon": "skillA/R_Duel_Cavalry_2.png"
+    "icon": "skillA/R_Duel_Cavalry_2"
   },
   "R Duel Cavalry 3": {
     "id": "R Duel Cavalry 3",
@@ -2555,7 +2555,7 @@
     "bbst": 170,
     "prev": ["R Duel Cavalry 2"],
     "rules": "learner.r-duel-cavalry",
-    "icon": "skillA/R_Duel_Cavalry_3.png",
+    "icon": "skillA/R_Duel_Cavalry_3",
     "last": true
   },
   "R Duel Cavalry 4": {
@@ -2571,7 +2571,7 @@
     "bbst": 175,
     "prev": ["R Duel Cavalry 3"],
     "rules": "learner.r-duel-cavalry",
-    "icon": "skillA/R_Duel_Cavalry_4.png",
+    "icon": "skillA/R_Duel_Cavalry_4",
     "last": true
   },
   "R Duel Flying 1": {
@@ -2582,7 +2582,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.r-duel-flying",
-    "icon": "skillA/R_Duel_Flying_1.png"
+    "icon": "skillA/R_Duel_Flying_1"
   },
   "R Duel Flying 2": {
     "id": "R Duel Flying 2",
@@ -2593,7 +2593,7 @@
     "bbst": 165,
     "prev": ["R Duel Flying 1"],
     "rules": "learner.r-duel-flying",
-    "icon": "skillA/R_Duel_Flying_2.png"
+    "icon": "skillA/R_Duel_Flying_2"
   },
   "R Duel Flying 3": {
     "id": "R Duel Flying 3",
@@ -2604,7 +2604,7 @@
     "bbst": 170,
     "prev": ["R Duel Flying 2"],
     "rules": "learner.r-duel-flying",
-    "icon": "skillA/R_Duel_Flying_3.png",
+    "icon": "skillA/R_Duel_Flying_3",
     "last": true
   },
   "R Duel Flying 4": {
@@ -2620,7 +2620,7 @@
     "bbst": 175,
     "prev": ["R Duel Flying 3"],
     "rules": "learner.r-duel-flying",
-    "icon": "skillA/R_Duel_Flying_4.png",
+    "icon": "skillA/R_Duel_Flying_4",
     "last": true
   },
   "B Duel Infantry 1": {
@@ -2631,7 +2631,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.b-duel-infantry",
-    "icon": "skillA/B_Duel_Infantry_1.png"
+    "icon": "skillA/B_Duel_Infantry_1"
   },
   "B Duel Infantry 2": {
     "id": "B Duel Infantry 2",
@@ -2642,7 +2642,7 @@
     "bbst": 165,
     "prev": ["B Duel Infantry 1"],
     "rules": "learner.b-duel-infantry",
-    "icon": "skillA/B_Duel_Infantry_2.png"
+    "icon": "skillA/B_Duel_Infantry_2"
   },
   "B Duel Infantry 3": {
     "id": "B Duel Infantry 3",
@@ -2653,7 +2653,7 @@
     "bbst": 170,
     "prev": ["B Duel Infantry 2"],
     "rules": "learner.b-duel-infantry",
-    "icon": "skillA/B_Duel_Infantry_3.png",
+    "icon": "skillA/B_Duel_Infantry_3",
     "last": true
   },
   "B Duel Infantry 4": {
@@ -2669,7 +2669,7 @@
     "bbst": 175,
     "prev": ["B Duel Infantry 3"],
     "rules": "learner.b-duel-infantry",
-    "icon": "skillA/B_Duel_Infantry_4.png",
+    "icon": "skillA/B_Duel_Infantry_4",
     "last": true
   },
   "B Duel Cavalry 1": {
@@ -2680,7 +2680,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.b-duel-cavalry",
-    "icon": "skillA/B_Duel_Cavalry_1.png"
+    "icon": "skillA/B_Duel_Cavalry_1"
   },
   "B Duel Cavalry 2": {
     "id": "B Duel Cavalry 2",
@@ -2691,7 +2691,7 @@
     "bbst": 165,
     "prev": ["B Duel Cavalry 1"],
     "rules": "learner.b-duel-cavalry",
-    "icon": "skillA/B_Duel_Cavalry_2.png"
+    "icon": "skillA/B_Duel_Cavalry_2"
   },
   "B Duel Cavalry 3": {
     "id": "B Duel Cavalry 3",
@@ -2702,7 +2702,7 @@
     "bbst": 170,
     "prev": ["B Duel Cavalry 2"],
     "rules": "learner.b-duel-cavalry",
-    "icon": "skillA/B_Duel_Cavalry_3.png",
+    "icon": "skillA/B_Duel_Cavalry_3",
     "last": true
   },
   "B Duel Cavalry 4": {
@@ -2718,7 +2718,7 @@
     "bbst": 175,
     "prev": ["B Duel Cavalry 3"],
     "rules": "learner.b-duel-cavalry",
-    "icon": "skillA/B_Duel_Cavalry_4.png",
+    "icon": "skillA/B_Duel_Cavalry_4",
     "last": true
   },
   "B Duel Flying 1": {
@@ -2729,7 +2729,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.b-duel-flying",
-    "icon": "skillA/B_Duel_Flying_1.png"
+    "icon": "skillA/B_Duel_Flying_1"
   },
   "B Duel Flying 2": {
     "id": "B Duel Flying 2",
@@ -2740,7 +2740,7 @@
     "bbst": 165,
     "prev": ["B Duel Flying 1"],
     "rules": "learner.b-duel-flying",
-    "icon": "skillA/B_Duel_Flying_2.png"
+    "icon": "skillA/B_Duel_Flying_2"
   },
   "B Duel Flying 3": {
     "id": "B Duel Flying 3",
@@ -2751,7 +2751,7 @@
     "bbst": 170,
     "prev": ["B Duel Flying 2"],
     "rules": "learner.b-duel-flying",
-    "icon": "skillA/B_Duel_Flying_3.png",
+    "icon": "skillA/B_Duel_Flying_3",
     "last": true
   },
   "B Duel Flying 4": {
@@ -2767,7 +2767,7 @@
     "bbst": 175,
     "prev": ["B Duel Flying 3"],
     "rules": "learner.b-duel-flying",
-    "icon": "skillA/B_Duel_Flying_4.png",
+    "icon": "skillA/B_Duel_Flying_4",
     "last": true
   },
   "G Duel Infantry 1": {
@@ -2778,7 +2778,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.g-duel-infantry",
-    "icon": "skillA/G_Duel_Infantry_1.png"
+    "icon": "skillA/G_Duel_Infantry_1"
   },
   "G Duel Infantry 2": {
     "id": "G Duel Infantry 2",
@@ -2789,7 +2789,7 @@
     "bbst": 165,
     "prev": ["G Duel Infantry 1"],
     "rules": "learner.g-duel-infantry",
-    "icon": "skillA/G_Duel_Infantry_2.png"
+    "icon": "skillA/G_Duel_Infantry_2"
   },
   "G Duel Infantry 3": {
     "id": "G Duel Infantry 3",
@@ -2800,7 +2800,7 @@
     "bbst": 170,
     "prev": ["G Duel Infantry 2"],
     "rules": "learner.g-duel-infantry",
-    "icon": "skillA/G_Duel_Infantry_3.png",
+    "icon": "skillA/G_Duel_Infantry_3",
     "last": true
   },
   "G Duel Infantry 4": {
@@ -2816,7 +2816,7 @@
     "bbst": 175,
     "prev": ["G Duel Infantry 3"],
     "rules": "learner.g-duel-infantry",
-    "icon": "skillA/G_Duel_Infantry_4.png",
+    "icon": "skillA/G_Duel_Infantry_4",
     "last": true
   },
   "G Duel Cavalry 1": {
@@ -2827,7 +2827,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.g-duel-cavalry",
-    "icon": "skillA/G_Duel_Cavalry_1.png"
+    "icon": "skillA/G_Duel_Cavalry_1"
   },
   "G Duel Cavalry 2": {
     "id": "G Duel Cavalry 2",
@@ -2838,7 +2838,7 @@
     "bbst": 165,
     "prev": ["G Duel Cavalry 1"],
     "rules": "learner.g-duel-cavalry",
-    "icon": "skillA/G_Duel_Cavalry_2.png"
+    "icon": "skillA/G_Duel_Cavalry_2"
   },
   "G Duel Cavalry 3": {
     "id": "G Duel Cavalry 3",
@@ -2849,7 +2849,7 @@
     "bbst": 170,
     "prev": ["G Duel Cavalry 2"],
     "rules": "learner.g-duel-cavalry",
-    "icon": "skillA/G_Duel_Cavalry_3.png",
+    "icon": "skillA/G_Duel_Cavalry_3",
     "last": true
   },
   "G Duel Cavalry 4": {
@@ -2865,7 +2865,7 @@
     "bbst": 175,
     "prev": ["G Duel Cavalry 3"],
     "rules": "learner.g-duel-cavalry",
-    "icon": "skillA/G_Duel_Cavalry_4.png",
+    "icon": "skillA/G_Duel_Cavalry_4",
     "last": true
   },
   "G Duel Flying 1": {
@@ -2876,7 +2876,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.g-duel-flying",
-    "icon": "skillA/G_Duel_Flying_1.png"
+    "icon": "skillA/G_Duel_Flying_1"
   },
   "G Duel Flying 2": {
     "id": "G Duel Flying 2",
@@ -2887,7 +2887,7 @@
     "bbst": 165,
     "prev": ["G Duel Flying 1"],
     "rules": "learner.g-duel-flying",
-    "icon": "skillA/G_Duel_Flying_2.png"
+    "icon": "skillA/G_Duel_Flying_2"
   },
   "G Duel Flying 3": {
     "id": "G Duel Flying 3",
@@ -2898,7 +2898,7 @@
     "bbst": 170,
     "prev": ["G Duel Flying 2"],
     "rules": "learner.g-duel-flying",
-    "icon": "skillA/G_Duel_Flying_3.png",
+    "icon": "skillA/G_Duel_Flying_3",
     "last": true
   },
   "G Duel Flying 4": {
@@ -2914,7 +2914,7 @@
     "bbst": 175,
     "prev": ["G Duel Flying 3"],
     "rules": "learner.g-duel-flying",
-    "icon": "skillA/G_Duel_Flying_4.png",
+    "icon": "skillA/G_Duel_Flying_4",
     "last": true
   },
   "C Duel Infantry 1": {
@@ -2925,7 +2925,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.c-duel-infantry",
-    "icon": "skillA/C_Duel_Infantry_1.png"
+    "icon": "skillA/C_Duel_Infantry_1"
   },
   "C Duel Infantry 2": {
     "id": "C Duel Infantry 2",
@@ -2936,7 +2936,7 @@
     "bbst": 165,
     "prev": ["C Duel Infantry 1"],
     "rules": "learner.c-duel-infantry",
-    "icon": "skillA/C_Duel_Infantry_2.png"
+    "icon": "skillA/C_Duel_Infantry_2"
   },
   "C Duel Infantry 3": {
     "id": "C Duel Infantry 3",
@@ -2947,7 +2947,7 @@
     "bbst": 170,
     "prev": ["C Duel Infantry 2"],
     "rules": "learner.c-duel-infantry",
-    "icon": "skillA/C_Duel_Infantry_3.png",
+    "icon": "skillA/C_Duel_Infantry_3",
     "last": true
   },
   "C Duel Infantry 4": {
@@ -2963,7 +2963,7 @@
     "bbst": 175,
     "prev": ["C Duel Infantry 3"],
     "rules": "learner.c-duel-infantry",
-    "icon": "skillA/C_Duel_Infantry_4.png",
+    "icon": "skillA/C_Duel_Infantry_4",
     "last": true
   },
   "C Duel Cavalry 1": {
@@ -2974,7 +2974,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.c-duel-cavalry",
-    "icon": "skillA/C_Duel_Cavalry_1.png"
+    "icon": "skillA/C_Duel_Cavalry_1"
   },
   "C Duel Cavalry 2": {
     "id": "C Duel Cavalry 2",
@@ -2985,7 +2985,7 @@
     "bbst": 165,
     "prev": ["C Duel Cavalry 1"],
     "rules": "learner.c-duel-cavalry",
-    "icon": "skillA/C_Duel_Cavalry_2.png"
+    "icon": "skillA/C_Duel_Cavalry_2"
   },
   "C Duel Cavalry 3": {
     "id": "C Duel Cavalry 3",
@@ -2996,7 +2996,7 @@
     "bbst": 170,
     "prev": ["C Duel Cavalry 2"],
     "rules": "learner.c-duel-cavalry",
-    "icon": "skillA/C_Duel_Cavalry_3.png",
+    "icon": "skillA/C_Duel_Cavalry_3",
     "last": true
   },
   "C Duel Cavalry 4": {
@@ -3012,7 +3012,7 @@
     "bbst": 175,
     "prev": ["C Duel Cavalry 3"],
     "rules": "learner.c-duel-cavalry",
-    "icon": "skillA/C_Duel_Cavalry_4.png",
+    "icon": "skillA/C_Duel_Cavalry_4",
     "last": true
   },
   "C Duel Flying 1": {
@@ -3023,7 +3023,7 @@
     "bst": 160,
     "bbst": 160,
     "rules": "learner.c-duel-flying",
-    "icon": "skillA/C_Duel_Flying_1.png"
+    "icon": "skillA/C_Duel_Flying_1"
   },
   "C Duel Flying 2": {
     "id": "C Duel Flying 2",
@@ -3034,7 +3034,7 @@
     "bbst": 165,
     "prev": ["C Duel Flying 1"],
     "rules": "learner.c-duel-flying",
-    "icon": "skillA/C_Duel_Flying_2.png"
+    "icon": "skillA/C_Duel_Flying_2"
   },
   "C Duel Flying 3": {
     "id": "C Duel Flying 3",
@@ -3045,7 +3045,7 @@
     "bbst": 170,
     "prev": ["C Duel Flying 2"],
     "rules": "learner.c-duel-flying",
-    "icon": "skillA/C_Duel_Flying_3.png",
+    "icon": "skillA/C_Duel_Flying_3",
     "last": true
   },
   "C Duel Flying 4": {
@@ -3061,7 +3061,7 @@
     "bbst": 175,
     "prev": ["C Duel Flying 3"],
     "rules": "learner.c-duel-flying",
-    "icon": "skillA/C_Duel_Flying_4.png",
+    "icon": "skillA/C_Duel_Flying_4",
     "last": true
   },
   "Sorcery Blade 1": {
@@ -3069,7 +3069,7 @@
     "name": "魔道之刃1",
     "sp": 60,
     "rules": "learner.sorcery-blade",
-    "icon": "skillA/Sorcery_Blade_1.png"
+    "icon": "skillA/Sorcery_Blade_1"
   },
   "Sorcery Blade 2": {
     "id": "Sorcery Blade 2",
@@ -3077,7 +3077,7 @@
     "sp": 120,
     "prev": ["Sorcery Blade 1"],
     "rules": "learner.sorcery-blade",
-    "icon": "skillA/Sorcery_Blade_2.png"
+    "icon": "skillA/Sorcery_Blade_2"
   },
   "Sorcery Blade 3": {
     "id": "Sorcery Blade 3",
@@ -3085,7 +3085,7 @@
     "sp": 240,
     "prev": ["Sorcery Blade 2"],
     "rules": "learner.sorcery-blade",
-    "icon": "skillA/Sorcery_Blade_3.png",
+    "icon": "skillA/Sorcery_Blade_3",
     "last": true
   },
   "Atk/Spd Hexblade": {
@@ -3095,7 +3095,7 @@
     "prev": ["Sorcery Blade 3"],
     "rules": "learner.sorcery-blade",
     "last": true,
-    "icon": "skillA/Atk_Spd_Hexblade.png"
+    "icon": "skillA/Atk_Spd_Hexblade"
   },
   "Spd/Res Hexblade": {
     "id": "Spd/Res Hexblade",
@@ -3104,14 +3104,14 @@
     "prev": ["Sorcery Blade 3"],
     "rules": "learner.sorcery-blade",
     "last": true,
-    "icon": "skillA/Spd_Res_Hexblade.png"
+    "icon": "skillA/Spd_Res_Hexblade"
   },
   "Bonus Doubler 1": {
     "id": "Bonus Doubler 1",
     "name": "強化增幅1",
     "sp": 60,
     "rules": "infantry",
-    "icon": "skillA/Bonus_Doubler_1.png"
+    "icon": "skillA/Bonus_Doubler_1"
   },
   "Bonus Doubler 2": {
     "id": "Bonus Doubler 2",
@@ -3119,7 +3119,7 @@
     "sp": 120,
     "prev": ["Bonus Doubler 1"],
     "rules": "infantry",
-    "icon": "skillA/Bonus_Doubler_2.png"
+    "icon": "skillA/Bonus_Doubler_2"
   },
   "Bonus Doubler 3": {
     "id": "Bonus Doubler 3",
@@ -3127,91 +3127,91 @@
     "sp": 240,
     "prev": ["Bonus Doubler 2"],
     "rules": "infantry",
-    "icon": "skillA/Bonus_Doubler_3.png",
+    "icon": "skillA/Bonus_Doubler_3",
     "last": true
   },
   "AR-O Atk/Spd 1": {
     "id": "AR-O Atk/Spd 1",
     "name": "攻擊速度的攻城戰1",
     "sp": 60,
-    "icon": "skillA/AR-O_Atk_Spd_1.png"
+    "icon": "skillA/AR-O_Atk_Spd_1"
   },
   "AR-O Atk/Spd 2": {
     "id": "AR-O Atk/Spd 2",
     "name": "攻擊速度的攻城戰2",
     "sp": 120,
     "prev": ["AR-O Atk/Spd 1"],
-    "icon": "skillA/AR-O_Atk_Spd_2.png"
+    "icon": "skillA/AR-O_Atk_Spd_2"
   },
   "AR-O Atk/Spd 3": {
     "id": "AR-O Atk/Spd 3",
     "name": "攻擊速度的攻城戰3",
     "sp": 240,
     "prev": ["AR-O Atk/Spd 2"],
-    "icon": "skillA/AR-O_Atk_Spd_3.png",
+    "icon": "skillA/AR-O_Atk_Spd_3",
     "last": true
   },
   "AR-O Atk/Def 1": {
     "id": "AR-O Atk/Def 1",
     "name": "攻擊防守的攻城戰1",
     "sp": 60,
-    "icon": "skillA/AR-O_Atk_Def_1.png"
+    "icon": "skillA/AR-O_Atk_Def_1"
   },
   "AR-O Atk/Def 2": {
     "id": "AR-O Atk/Def 2",
     "name": "攻擊防守的攻城戰2",
     "sp": 120,
     "prev": ["AR-O Atk/Def 1"],
-    "icon": "skillA/AR-O_Atk_Def_2.png"
+    "icon": "skillA/AR-O_Atk_Def_2"
   },
   "AR-O Atk/Def 3": {
     "id": "AR-O Atk/Def 3",
     "name": "攻擊防守的攻城戰3",
     "sp": 240,
     "prev": ["AR-O Atk/Def 2"],
-    "icon": "skillA/AR-O_Atk_Def_3.png",
+    "icon": "skillA/AR-O_Atk_Def_3",
     "last": true
   },
   "AR-O Spd/Res 1": {
     "id": "AR-O Spd/Res 1",
     "name": "速度魔防的攻城戰1",
     "sp": 60,
-    "icon": "skillA/AR-O_Spd_Res_1.png"
+    "icon": "skillA/AR-O_Spd_Res_1"
   },
   "AR-O Spd/Res 2": {
     "id": "AR-O Spd/Res 2",
     "name": "速度魔防的攻城戰2",
     "sp": 120,
     "prev": ["AR-O Spd/Res 1"],
-    "icon": "skillA/AR-O_Spd_Res_2.png"
+    "icon": "skillA/AR-O_Spd_Res_2"
   },
   "AR-O Spd/Res 3": {
     "id": "AR-O Spd/Res 3",
     "name": "速度魔防的攻城戰3",
     "sp": 240,
     "prev": ["AR-O Spd/Res 2"],
-    "icon": "skillA/AR-O_Spd_Res_3.png",
+    "icon": "skillA/AR-O_Spd_Res_3",
     "last": true
   },
   "AR-D Atk/Spd 1": {
     "id": "AR-D Atk/Spd 1",
     "name": "攻擊速度的守城戰1",
     "sp": 60,
-    "icon": "skillA/AR-D_Atk_Spd_1.png"
+    "icon": "skillA/AR-D_Atk_Spd_1"
   },
   "AR-D Atk/Spd 2": {
     "id": "AR-D Atk/Spd 2",
     "name": "攻擊速度的守城戰2",
     "sp": 120,
     "prev": ["AR-D Atk/Spd 1"],
-    "icon": "skillA/AR-D_Atk_Spd_2.png"
+    "icon": "skillA/AR-D_Atk_Spd_2"
   },
   "AR-D Atk/Spd 3": {
     "id": "AR-D Atk/Spd 3",
     "name": "攻擊速度的守城戰3",
     "sp": 240,
     "prev": ["AR-D Atk/Spd 2"],
-    "icon": "skillA/AR-D_Atk_Spd_3.png",
+    "icon": "skillA/AR-D_Atk_Spd_3",
     "last": true
   },
   "AR-D Atk/Spd 4": {
@@ -3219,112 +3219,112 @@
     "name": "攻擊速度的守城戰4",
     "sp": 300,
     "prev": ["AR-D Atk/Spd 3"],
-    "icon": "skillA/AR-D_Atk_Spd_4.png",
+    "icon": "skillA/AR-D_Atk_Spd_4",
     "last": true
   },
   "AR-D Atk/Def 1": {
     "id": "AR-D Atk/Def 1",
     "name": "攻擊防守的守城戰1",
     "sp": 60,
-    "icon": "skillA/AR-D_Atk_Def_1.png"
+    "icon": "skillA/AR-D_Atk_Def_1"
   },
   "AR-D Atk/Def 2": {
     "id": "AR-D Atk/Def 2",
     "name": "攻擊防守的守城戰2",
     "sp": 120,
     "prev": ["AR-D Atk/Def 1"],
-    "icon": "skillA/AR-D_Atk_Def_2.png"
+    "icon": "skillA/AR-D_Atk_Def_2"
   },
   "AR-D Atk/Def 3": {
     "id": "AR-D Atk/Def 3",
     "name": "攻擊防守的守城戰3",
     "sp": 240,
     "prev": ["AR-D Atk/Def 2"],
-    "icon": "skillA/AR-D_Atk_Def_3.png",
+    "icon": "skillA/AR-D_Atk_Def_3",
     "last": true
   },
   "AR-D Atk/Res 1": {
     "id": "AR-D Atk/Res 1",
     "name": "攻擊魔防的守城戰1",
     "sp": 60,
-    "icon": "skillA/AR-D_Atk_Res_1.png"
+    "icon": "skillA/AR-D_Atk_Res_1"
   },
   "AR-D Atk/Res 2": {
     "id": "AR-D Atk/Res 2",
     "name": "攻擊魔防的守城戰2",
     "sp": 120,
     "prev": ["AR-D Atk/Res 1"],
-    "icon": "skillA/AR-D_Atk_Res_2.png"
+    "icon": "skillA/AR-D_Atk_Res_2"
   },
   "AR-D Atk/Res 3": {
     "id": "AR-D Atk/Res 3",
     "name": "攻擊魔防的守城戰3",
     "sp": 240,
     "prev": ["AR-D Atk/Res 2"],
-    "icon": "skillA/AR-D_Atk_Res_3.png",
+    "icon": "skillA/AR-D_Atk_Res_3",
     "last": true
   },
   "AR-D Spd/Def 1": {
     "id": "AR-D Spd/Def 1",
     "name": "速度防守的守城戰1",
     "sp": 60,
-    "icon": "skillA/AR-D_Spd_Def_1.png"
+    "icon": "skillA/AR-D_Spd_Def_1"
   },
   "AR-D Spd/Def 2": {
     "id": "AR-D Spd/Def 2",
     "name": "速度防守的守城戰2",
     "sp": 120,
     "prev": ["AR-D Spd/Def 1"],
-    "icon": "skillA/AR-D_Spd_Def_2.png"
+    "icon": "skillA/AR-D_Spd_Def_2"
   },
   "AR-D Spd/Def 3": {
     "id": "AR-D Spd/Def 3",
     "name": "速度防守的守城戰3",
     "sp": 240,
     "prev": ["AR-D Spd/Def 2"],
-    "icon": "skillA/AR-D_Spd_Def_3.png",
+    "icon": "skillA/AR-D_Spd_Def_3",
     "last": true
   },
   "AR-D Spd/Res 1": {
     "id": "AR-D Spd/Res 1",
     "name": "速度魔防的守城戰1",
     "sp": 60,
-    "icon": "skillA/AR-D_Spd_Res_1.png"
+    "icon": "skillA/AR-D_Spd_Res_1"
   },
   "AR-D Spd/Res 2": {
     "id": "AR-D Spd/Res 2",
     "name": "速度魔防的守城戰2",
     "sp": 120,
     "prev": ["AR-D Spd/Res 1"],
-    "icon": "skillA/AR-D_Spd_Res_2.png"
+    "icon": "skillA/AR-D_Spd_Res_2"
   },
   "AR-D Spd/Res 3": {
     "id": "AR-D Spd/Res 3",
     "name": "速度魔防的守城戰3",
     "sp": 240,
     "prev": ["AR-D Spd/Res 2"],
-    "icon": "skillA/AR-D_Spd_Res_3.png",
+    "icon": "skillA/AR-D_Spd_Res_3",
     "last": true
   },
   "AR-D Def/Res 1": {
     "id": "AR-D Def/Res 1",
     "name": "防守魔防的守城戰1",
     "sp": 60,
-    "icon": "skillA/AR-D_Def_Res_1.png"
+    "icon": "skillA/AR-D_Def_Res_1"
   },
   "AR-D Def/Res 2": {
     "id": "AR-D Def/Res 2",
     "name": "防守魔防的守城戰2",
     "sp": 120,
     "prev": ["AR-D Def/Res 1"],
-    "icon": "skillA/AR-D_Def_Res_2.png"
+    "icon": "skillA/AR-D_Def_Res_2"
   },
   "AR-D Def/Res 3": {
     "id": "AR-D Def/Res 3",
     "name": "防守魔防的守城戰3",
     "sp": 240,
     "prev": ["AR-D Def/Res 2"],
-    "icon": "skillA/AR-D_Def_Res_3.png",
+    "icon": "skillA/AR-D_Def_Res_3",
     "last": true
   },
   "AR-D Def/Res 4": {
@@ -3332,175 +3332,175 @@
     "name": "防守魔防的守城戰4",
     "sp": 300,
     "prev": ["AR-D Def/Res 3"],
-    "icon": "skillA/AR-D_Def_Res_4.png",
+    "icon": "skillA/AR-D_Def_Res_4",
     "last": true
   },
   "Atk/Spd Form 1": {
     "id": "Atk/Spd Form 1",
     "name": "攻擊速度的密集1",
     "sp": 60,
-    "icon": "skillA/Atk_Spd_Form_1.png"
+    "icon": "skillA/Atk_Spd_Form_1"
   },
   "Atk/Spd Form 2": {
     "id": "Atk/Spd Form 2",
     "name": "攻擊速度的密集2",
     "sp": 120,
     "prev": ["Atk/Spd Form 1"],
-    "icon": "skillA/Atk_Spd_Form_2.png"
+    "icon": "skillA/Atk_Spd_Form_2"
   },
   "Atk/Spd Form 3": {
     "id": "Atk/Spd Form 3",
     "name": "攻擊速度的密集3",
     "sp": 240,
     "prev": ["Atk/Spd Form 2"],
-    "icon": "skillA/Atk_Spd_Form_3.png",
+    "icon": "skillA/Atk_Spd_Form_3",
     "last": true
   },
   "Atk/Def Form 1": {
     "id": "Atk/Def Form 1",
     "name": "攻擊防守的密集1",
     "sp": 60,
-    "icon": "skillA/Atk_Def_Form_1.png"
+    "icon": "skillA/Atk_Def_Form_1"
   },
   "Atk/Def Form 2": {
     "id": "Atk/Def Form 2",
     "name": "攻擊防守的密集2",
     "sp": 120,
     "prev": ["Atk/Def Form 1"],
-    "icon": "skillA/Atk_Def_Form_2.png"
+    "icon": "skillA/Atk_Def_Form_2"
   },
   "Atk/Def Form 3": {
     "id": "Atk/Def Form 3",
     "name": "攻擊防守的密集3",
     "sp": 240,
     "prev": ["Atk/Def Form 2"],
-    "icon": "skillA/Atk_Def_Form_3.png",
+    "icon": "skillA/Atk_Def_Form_3",
     "last": true
   },
   "Atk/Res Form 1": {
     "id": "Atk/Res Form 1",
     "name": "攻擊魔防的密集1",
     "sp": 60,
-    "icon": "skillA/Atk_Res_Form_1.png"
+    "icon": "skillA/Atk_Res_Form_1"
   },
   "Atk/Res Form 2": {
     "id": "Atk/Res Form 2",
     "name": "攻擊魔防的密集2",
     "sp": 120,
     "prev": ["Atk/Res Form 1"],
-    "icon": "skillA/Atk_Res_Form_2.png"
+    "icon": "skillA/Atk_Res_Form_2"
   },
   "Atk/Res Form 3": {
     "id": "Atk/Res Form 3",
     "name": "攻擊魔防的密集3",
     "sp": 240,
     "prev": ["Atk/Res Form 2"],
-    "icon": "skillA/Atk_Res_Form_3.png",
+    "icon": "skillA/Atk_Res_Form_3",
     "last": true
   },
   "Spd/Def Form 1": {
     "id": "Spd/Def Form 1",
     "name": "速度防守的密集1",
     "sp": 60,
-    "icon": "skillA/Spd_Def_Form_1.png"
+    "icon": "skillA/Spd_Def_Form_1"
   },
   "Spd/Def Form 2": {
     "id": "Spd/Def Form 2",
     "name": "速度防守的密集2",
     "sp": 120,
     "prev": ["Spd/Def Form 1"],
-    "icon": "skillA/Spd_Def_Form_2.png"
+    "icon": "skillA/Spd_Def_Form_2"
   },
   "Spd/Def Form 3": {
     "id": "Spd/Def Form 3",
     "name": "速度防守的密集3",
     "sp": 240,
     "prev": ["Spd/Def Form 2"],
-    "icon": "skillA/Spd_Def_Form_3.png",
+    "icon": "skillA/Spd_Def_Form_3",
     "last": true
   },
   "Spd/Res Form 1": {
     "id": "Spd/Res Form 1",
     "name": "速度魔防的密集1",
     "sp": 60,
-    "icon": "skillA/Spd_Res_Form_1.png"
+    "icon": "skillA/Spd_Res_Form_1"
   },
   "Spd/Res Form 2": {
     "id": "Spd/Res Form 2",
     "name": "速度魔防的密集2",
     "sp": 120,
     "prev": ["Spd/Res Form 1"],
-    "icon": "skillA/Spd_Res_Form_2.png"
+    "icon": "skillA/Spd_Res_Form_2"
   },
   "Spd/Res Form 3": {
     "id": "Spd/Res Form 3",
     "name": "速度魔防的密集3",
     "sp": 240,
     "prev": ["Spd/Res Form 2"],
-    "icon": "skillA/Spd_Res_Form_3.png",
+    "icon": "skillA/Spd_Res_Form_3",
     "last": true
   },
   "Def/Res Form 1": {
     "id": "Def/Res Form 1",
     "name": "防守魔防的密集1",
     "sp": 60,
-    "icon": "skillA/Def_Res_Form_1.png"
+    "icon": "skillA/Def_Res_Form_1"
   },
   "Def/Res Form 2": {
     "id": "Def/Res Form 2",
     "name": "防守魔防的密集2",
     "sp": 120,
     "prev": ["Def/Res Form 1"],
-    "icon": "skillA/Def_Res_Form_2.png"
+    "icon": "skillA/Def_Res_Form_2"
   },
   "Def/Res Form 3": {
     "id": "Def/Res Form 3",
     "name": "防守魔防的密集3",
     "sp": 240,
     "prev": ["Def/Res Form 2"],
-    "icon": "skillA/Def_Res_Form_3.png",
+    "icon": "skillA/Def_Res_Form_3",
     "last": true
   },
   "Blade Session 1": {
     "id": "Blade Session 1",
     "name": "刃之協奏1",
     "sp": 60,
-    "icon": "skillA/Blade_Session_1.png"
+    "icon": "skillA/Blade_Session_1"
   },
   "Blade Session 2": {
     "id": "Blade Session 2",
     "name": "刃之協奏2",
     "sp": 120,
     "prev": ["Blade Session 1"],
-    "icon": "skillA/Blade_Session_2.png"
+    "icon": "skillA/Blade_Session_2"
   },
   "Blade Session 3": {
     "id": "Blade Session 3",
     "name": "刃之協奏3",
     "sp": 240,
     "prev": ["Blade Session 2"],
-    "icon": "skillA/Blade_Session_3.png",
+    "icon": "skillA/Blade_Session_3",
     "last": true
   },
   "Shield Session 1": {
     "id": "Shield Session 1",
     "name": "盾之協奏1",
     "sp": 60,
-    "icon": "skillA/Shield_Session_1.png"
+    "icon": "skillA/Shield_Session_1"
   },
   "Shield Session 2": {
     "id": "Shield Session 2",
     "name": "盾之協奏2",
     "sp": 120,
     "prev": ["Shield Session 1"],
-    "icon": "skillA/Shield_Session_2.png"
+    "icon": "skillA/Shield_Session_2"
   },
   "Shield Session 3": {
     "id": "Shield Session 3",
     "name": "盾之協奏3",
     "sp": 240,
     "prev": ["Shield Session 2"],
-    "icon": "skillA/Shield_Session_3.png",
+    "icon": "skillA/Shield_Session_3",
     "last": true
   },
   "Atk/Spd Catch 1": {
@@ -3508,7 +3508,7 @@
     "name": "攻擊速度的先機1",
     "sp": 60,
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Spd_Catch_1.png"
+    "icon": "skillA/Atk_Spd_Catch_1"
   },
   "Atk/Spd Catch 2": {
     "id": "Atk/Spd Catch 2",
@@ -3516,7 +3516,7 @@
     "sp": 120,
     "prev": ["Atk/Spd Catch 1"],
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Spd_Catch_2.png"
+    "icon": "skillA/Atk_Spd_Catch_2"
   },
   "Atk/Spd Catch 3": {
     "id": "Atk/Spd Catch 3",
@@ -3524,7 +3524,7 @@
     "sp": 240,
     "prev": ["Atk/Spd Catch 2"],
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Spd_Catch_3.png",
+    "icon": "skillA/Atk_Spd_Catch_3",
     "last": true
   },
   "Atk/Spd Catch 4": {
@@ -3533,7 +3533,7 @@
     "sp": 300,
     "prev": ["Atk/Spd Catch 3"],
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Spd_Catch_4.png",
+    "icon": "skillA/Atk_Spd_Catch_4",
     "last": true
   },
   "Atk/Def Catch 1": {
@@ -3541,7 +3541,7 @@
     "name": "攻擊防守的先機1",
     "sp": 60,
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Def_Catch_1.png"
+    "icon": "skillA/Atk_Def_Catch_1"
   },
   "Atk/Def Catch 2": {
     "id": "Atk/Def Catch 2",
@@ -3549,7 +3549,7 @@
     "sp": 120,
     "prev": ["Atk/Def Catch 1"],
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Def_Catch_2.png"
+    "icon": "skillA/Atk_Def_Catch_2"
   },
   "Atk/Def Catch 3": {
     "id": "Atk/Def Catch 3",
@@ -3557,7 +3557,7 @@
     "sp": 240,
     "prev": ["Atk/Def Catch 2"],
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Def_Catch_3.png",
+    "icon": "skillA/Atk_Def_Catch_3",
     "last": true
   },
   "Atk/Def Catch 4": {
@@ -3566,7 +3566,7 @@
     "sp": 300,
     "prev": ["Atk/Def Catch 3"],
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Def_Catch_4.png",
+    "icon": "skillA/Atk_Def_Catch_4",
     "last": true
   },
   "Atk/Res Catch 1": {
@@ -3574,7 +3574,7 @@
     "name": "攻擊魔防的先機1",
     "sp": 60,
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Res_Catch_1.png"
+    "icon": "skillA/Atk_Res_Catch_1"
   },
   "Atk/Res Catch 2": {
     "id": "Atk/Res Catch 2",
@@ -3582,7 +3582,7 @@
     "sp": 120,
     "prev": ["Atk/Res Catch 1"],
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Res_Catch_2.png"
+    "icon": "skillA/Atk_Res_Catch_2"
   },
   "Atk/Res Catch 3": {
     "id": "Atk/Res Catch 3",
@@ -3590,7 +3590,7 @@
     "sp": 240,
     "prev": ["Atk/Res Catch 2"],
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Res_Catch_3.png",
+    "icon": "skillA/Atk_Res_Catch_3",
     "last": true
   },
   "Atk/Res Catch 4": {
@@ -3599,7 +3599,7 @@
     "sp": 300,
     "prev": ["Atk/Res Catch 3"],
     "rules": "learner.catch",
-    "icon": "skillA/Atk_Res_Catch_4.png",
+    "icon": "skillA/Atk_Res_Catch_4",
     "last": true
   },
   "Spd/Def Catch 1": {
@@ -3607,7 +3607,7 @@
     "name": "速度防守的先機1",
     "sp": 60,
     "rules": "learner.catch",
-    "icon": "skillA/Spd_Def_Catch_1.png"
+    "icon": "skillA/Spd_Def_Catch_1"
   },
   "Spd/Def Catch 2": {
     "id": "Spd/Def Catch 2",
@@ -3615,7 +3615,7 @@
     "sp": 120,
     "prev": ["Spd/Def Catch 1"],
     "rules": "learner.catch",
-    "icon": "skillA/Spd_Def_Catch_2.png"
+    "icon": "skillA/Spd_Def_Catch_2"
   },
   "Spd/Def Catch 3": {
     "id": "Spd/Def Catch 3",
@@ -3623,7 +3623,7 @@
     "sp": 240,
     "prev": ["Spd/Def Catch 2"],
     "rules": "learner.catch",
-    "icon": "skillA/Spd_Def_Catch_3.png",
+    "icon": "skillA/Spd_Def_Catch_3",
     "last": true
   },
   "Spd/Def Catch 4": {
@@ -3632,7 +3632,7 @@
     "sp": 300,
     "prev": ["Spd/Def Catch 3"],
     "rules": "learner.catch",
-    "icon": "skillA/Spd_Def_Catch_4.png",
+    "icon": "skillA/Spd_Def_Catch_4",
     "last": true
   },
   "Spd/Res Catch 1": {
@@ -3640,7 +3640,7 @@
     "name": "速度魔防的先機1",
     "sp": 60,
     "rules": "learner.catch",
-    "icon": "skillA/Spd_Res_Catch_1.png"
+    "icon": "skillA/Spd_Res_Catch_1"
   },
   "Spd/Res Catch 2": {
     "id": "Spd/Res Catch 2",
@@ -3648,7 +3648,7 @@
     "sp": 120,
     "prev": ["Spd/Res Catch 1"],
     "rules": "learner.catch",
-    "icon": "skillA/Spd_Res_Catch_2.png"
+    "icon": "skillA/Spd_Res_Catch_2"
   },
   "Spd/Res Catch 3": {
     "id": "Spd/Res Catch 3",
@@ -3656,7 +3656,7 @@
     "sp": 240,
     "prev": ["Spd/Res Catch 2"],
     "rules": "learner.catch",
-    "icon": "skillA/Spd_Res_Catch_3.png",
+    "icon": "skillA/Spd_Res_Catch_3",
     "last": true
   },
   "Spd/Res Catch 4": {
@@ -3665,7 +3665,7 @@
     "sp": 300,
     "prev": ["Spd/Res Catch 3"],
     "rules": "learner.catch",
-    "icon": "skillA/Spd_Res_Catch_4.png",
+    "icon": "skillA/Spd_Res_Catch_4",
     "last": true
   },
   "Def/Res Catch 1": {
@@ -3673,7 +3673,7 @@
     "name": "防守魔防的先機1",
     "sp": 60,
     "rules": "learner.catch",
-    "icon": "skillA/Def_Res_Catch_1.png"
+    "icon": "skillA/Def_Res_Catch_1"
   },
   "Def/Res Catch 2": {
     "id": "Def/Res Catch 2",
@@ -3681,7 +3681,7 @@
     "sp": 120,
     "prev": ["Def/Res Catch 1"],
     "rules": "learner.catch",
-    "icon": "skillA/Def_Res_Catch_2.png"
+    "icon": "skillA/Def_Res_Catch_2"
   },
   "Def/Res Catch 3": {
     "id": "Def/Res Catch 3",
@@ -3689,7 +3689,7 @@
     "sp": 240,
     "prev": ["Def/Res Catch 2"],
     "rules": "learner.catch",
-    "icon": "skillA/Def_Res_Catch_3.png",
+    "icon": "skillA/Def_Res_Catch_3",
     "last": true
   },
   "Def/Res Catch 4": {
@@ -3698,7 +3698,7 @@
     "sp": 300,
     "prev": ["Def/Res Catch 3"],
     "rules": "learner.catch",
-    "icon": "skillA/Def_Res_Catch_4.png",
+    "icon": "skillA/Def_Res_Catch_4",
     "last": true
   },
   "Atk/Spd Ideal 1": {
@@ -3706,7 +3706,7 @@
     "name": "攻擊速度萬全1",
     "sp": 60,
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Spd_Ideal_1.png"
+    "icon": "skillA/Atk_Spd_Ideal_1"
   },
   "Atk/Spd Ideal 2": {
     "id": "Atk/Spd Ideal 2",
@@ -3714,7 +3714,7 @@
     "sp": 120,
     "prev": ["Atk/Spd Ideal 1"],
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Spd_Ideal_2.png"
+    "icon": "skillA/Atk_Spd_Ideal_2"
   },
   "Atk/Spd Ideal 3": {
     "id": "Atk/Spd Ideal 3",
@@ -3722,7 +3722,7 @@
     "sp": 240,
     "prev": ["Atk/Spd Ideal 2"],
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Spd_Ideal_3.png",
+    "icon": "skillA/Atk_Spd_Ideal_3",
     "last": true
   },
   "Atk/Spd Ideal 4": {
@@ -3731,7 +3731,7 @@
     "sp": 300,
     "prev": ["Atk/Spd Ideal 3"],
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Spd_Ideal_4.png",
+    "icon": "skillA/Atk_Spd_Ideal_4",
     "last": true
   },
   "Atk/Def Ideal 1": {
@@ -3739,7 +3739,7 @@
     "name": "攻擊防守萬全1",
     "sp": 60,
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Def_Ideal_1.png"
+    "icon": "skillA/Atk_Def_Ideal_1"
   },
   "Atk/Def Ideal 2": {
     "id": "Atk/Def Ideal 2",
@@ -3747,7 +3747,7 @@
     "sp": 120,
     "prev": ["Atk/Def Ideal 1"],
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Def_Ideal_2.png"
+    "icon": "skillA/Atk_Def_Ideal_2"
   },
   "Atk/Def Ideal 3": {
     "id": "Atk/Def Ideal 3",
@@ -3755,7 +3755,7 @@
     "sp": 240,
     "prev": ["Atk/Def Ideal 2"],
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Def_Ideal_3.png",
+    "icon": "skillA/Atk_Def_Ideal_3",
     "last": true
   },
   "Atk/Def Ideal 4": {
@@ -3764,7 +3764,7 @@
     "sp": 300,
     "prev": ["Atk/Def Ideal 3"],
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Def_Ideal_4.png",
+    "icon": "skillA/Atk_Def_Ideal_4",
     "last": true
   },
   "Atk/Res Ideal 1": {
@@ -3772,7 +3772,7 @@
     "name": "攻擊魔防萬全1",
     "sp": 60,
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Res_Ideal_1.png"
+    "icon": "skillA/Atk_Res_Ideal_1"
   },
   "Atk/Res Ideal 2": {
     "id": "Atk/Res Ideal 2",
@@ -3780,7 +3780,7 @@
     "sp": 120,
     "prev": ["Atk/Res Ideal 1"],
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Res_Ideal_2.png"
+    "icon": "skillA/Atk_Res_Ideal_2"
   },
   "Atk/Res Ideal 3": {
     "id": "Atk/Res Ideal 3",
@@ -3788,7 +3788,7 @@
     "sp": 240,
     "prev": ["Atk/Res Ideal 2"],
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Res_Ideal_3.png",
+    "icon": "skillA/Atk_Res_Ideal_3",
     "last": true
   },
   "Atk/Res Ideal 4": {
@@ -3797,7 +3797,7 @@
     "sp": 300,
     "prev": ["Atk/Res Ideal 3"],
     "rules": "learner.ideal",
-    "icon": "skillA/Atk_Res_Ideal_4.png",
+    "icon": "skillA/Atk_Res_Ideal_4",
     "last": true
   },
   "Spd/Def Ideal 1": {
@@ -3805,7 +3805,7 @@
     "name": "速度防守萬全1",
     "sp": 60,
     "rules": "learner.ideal",
-    "icon": "skillA/Spd_Def_Ideal_1.png"
+    "icon": "skillA/Spd_Def_Ideal_1"
   },
   "Spd/Def Ideal 2": {
     "id": "Spd/Def Ideal 2",
@@ -3813,7 +3813,7 @@
     "sp": 120,
     "prev": ["Spd/Def Ideal 1"],
     "rules": "learner.ideal",
-    "icon": "skillA/Spd_Def_Ideal_2.png"
+    "icon": "skillA/Spd_Def_Ideal_2"
   },
   "Spd/Def Ideal 3": {
     "id": "Spd/Def Ideal 3",
@@ -3821,7 +3821,7 @@
     "sp": 240,
     "prev": ["Spd/Def Ideal 2"],
     "rules": "learner.ideal",
-    "icon": "skillA/Spd_Def_Ideal_3.png",
+    "icon": "skillA/Spd_Def_Ideal_3",
     "last": true
   },
   "Spd/Def Ideal 4": {
@@ -3830,7 +3830,7 @@
     "sp": 300,
     "prev": ["Spd/Def Ideal 3"],
     "rules": "learner.ideal",
-    "icon": "skillA/Spd_Def_Ideal_4.png",
+    "icon": "skillA/Spd_Def_Ideal_4",
     "last": true
   },
   "Spd/Res Ideal 1": {
@@ -3838,7 +3838,7 @@
     "name": "速度魔防萬全1",
     "sp": 60,
     "rules": "learner.ideal",
-    "icon": "skillA/Spd_Res_Ideal_1.png"
+    "icon": "skillA/Spd_Res_Ideal_1"
   },
   "Spd/Res Ideal 2": {
     "id": "Spd/Res Ideal 2",
@@ -3846,7 +3846,7 @@
     "sp": 120,
     "prev": ["Spd/Res Ideal 1"],
     "rules": "learner.ideal",
-    "icon": "skillA/Spd_Res_Ideal_2.png"
+    "icon": "skillA/Spd_Res_Ideal_2"
   },
   "Spd/Res Ideal 3": {
     "id": "Spd/Res Ideal 3",
@@ -3854,7 +3854,7 @@
     "sp": 240,
     "prev": ["Spd/Res Ideal 2"],
     "rules": "learner.ideal",
-    "icon": "skillA/Spd_Res_Ideal_3.png",
+    "icon": "skillA/Spd_Res_Ideal_3",
     "last": true
   },
   "Spd/Res Ideal 4": {
@@ -3863,7 +3863,7 @@
     "sp": 300,
     "prev": ["Spd/Res Ideal 3"],
     "rules": "learner.ideal",
-    "icon": "skillA/Spd_Res_Ideal_4.png",
+    "icon": "skillA/Spd_Res_Ideal_4",
     "last": true
   },
   "Def/Res Ideal 1": {
@@ -3871,7 +3871,7 @@
     "name": "防守魔防萬全1",
     "sp": 60,
     "rules": "learner.ideal",
-    "icon": "skillA/Def_Res_Ideal_1.png"
+    "icon": "skillA/Def_Res_Ideal_1"
   },
   "Def/Res Ideal 2": {
     "id": "Def/Res Ideal 2",
@@ -3879,7 +3879,7 @@
     "sp": 120,
     "prev": ["Def/Res Ideal 1"],
     "rules": "learner.ideal",
-    "icon": "skillA/Def_Res_Ideal_2.png"
+    "icon": "skillA/Def_Res_Ideal_2"
   },
   "Def/Res Ideal 3": {
     "id": "Def/Res Ideal 3",
@@ -3887,7 +3887,7 @@
     "sp": 240,
     "prev": ["Def/Res Ideal 2"],
     "rules": "learner.ideal",
-    "icon": "skillA/Def_Res_Ideal_3.png",
+    "icon": "skillA/Def_Res_Ideal_3",
     "last": true
   },
   "Def/Res Ideal 4": {
@@ -3896,7 +3896,7 @@
     "sp": 300,
     "prev": ["Def/Res Ideal 3"],
     "rules": "learner.ideal",
-    "icon": "skillA/Def_Res_Ideal_4.png",
+    "icon": "skillA/Def_Res_Ideal_4",
     "last": true
   },
   "Atk/Spd Clash 1": {
@@ -3904,7 +3904,7 @@
     "name": "攻擊速度的激戰1",
     "sp": 60,
     "rules": "learner.clash",
-    "icon": "skillA/Atk_Spd_Clash_1.png"
+    "icon": "skillA/Atk_Spd_Clash_1"
   },
   "Atk/Spd Clash 2": {
     "id": "Atk/Spd Clash 2",
@@ -3912,7 +3912,7 @@
     "sp": 120,
     "prev": ["Atk/Spd Clash 1"],
     "rules": "learner.clash",
-    "icon": "skillA/Atk_Spd_Clash_2.png"
+    "icon": "skillA/Atk_Spd_Clash_2"
   },
   "Atk/Spd Clash 3": {
     "id": "Atk/Spd Clash 3",
@@ -3920,7 +3920,7 @@
     "sp": 240,
     "prev": ["Atk/Spd Clash 2"],
     "rules": "learner.clash",
-    "icon": "skillA/Atk_Spd_Clash_3.png",
+    "icon": "skillA/Atk_Spd_Clash_3",
     "last": true
   },
   "Atk/Spd Clash 4": {
@@ -3929,7 +3929,7 @@
     "sp": 300,
     "prev": ["Atk/Spd Clash 3"],
     "rules": "learner.clash",
-    "icon": "skillA/Atk_Spd_Clash_4.png",
+    "icon": "skillA/Atk_Spd_Clash_4",
     "last": true
   },
   "Atk/Def Clash 1": {
@@ -3937,7 +3937,7 @@
     "name": "攻擊防守的激戰1",
     "sp": 60,
     "rules": "learner.clash",
-    "icon": "skillA/Atk_Def_Clash_1.png"
+    "icon": "skillA/Atk_Def_Clash_1"
   },
   "Atk/Def Clash 2": {
     "id": "Atk/Def Clash 2",
@@ -3945,7 +3945,7 @@
     "sp": 120,
     "prev": ["Atk/Def Clash 1"],
     "rules": "learner.clash",
-    "icon": "skillA/Atk_Def_Clash_2.png"
+    "icon": "skillA/Atk_Def_Clash_2"
   },
   "Atk/Def Clash 3": {
     "id": "Atk/Def Clash 3",
@@ -3953,7 +3953,7 @@
     "sp": 240,
     "prev": ["Atk/Def Clash 2"],
     "rules": "learner.clash",
-    "icon": "skillA/Atk_Def_Clash_3.png",
+    "icon": "skillA/Atk_Def_Clash_3",
     "last": true
   },
   "Atk/Def Clash 4": {
@@ -3962,7 +3962,7 @@
     "sp": 300,
     "prev": ["Atk/Def Clash 3"],
     "rules": "learner.clash",
-    "icon": "skillA/Atk_Def_Clash_4.png",
+    "icon": "skillA/Atk_Def_Clash_4",
     "last": true
   },
   "Spd/Def Clash 1": {
@@ -3970,7 +3970,7 @@
     "name": "速度防守的激戰1",
     "sp": 60,
     "rules": "learner.clash",
-    "icon": "skillA/Spd_Def_Clash_1.png"
+    "icon": "skillA/Spd_Def_Clash_1"
   },
   "Spd/Def Clash 2": {
     "id": "Spd/Def Clash 2",
@@ -3978,7 +3978,7 @@
     "sp": 120,
     "prev": ["Spd/Def Clash 1"],
     "rules": "learner.clash",
-    "icon": "skillA/Spd_Def_Clash_2.png"
+    "icon": "skillA/Spd_Def_Clash_2"
   },
   "Spd/Def Clash 3": {
     "id": "Spd/Def Clash 3",
@@ -3986,7 +3986,7 @@
     "sp": 240,
     "prev": ["Spd/Def Clash 2"],
     "rules": "learner.clash",
-    "icon": "skillA/Spd_Def_Clash_3.png",
+    "icon": "skillA/Spd_Def_Clash_3",
     "last": true
   },
   "Spd/Def Clash 4": {
@@ -3995,7 +3995,7 @@
     "sp": 300,
     "prev": ["Spd/Def Clash 3"],
     "rules": "learner.clash",
-    "icon": "skillA/Spd_Def_Clash_4.png",
+    "icon": "skillA/Spd_Def_Clash_4",
     "last": true
   },
   "Atk/Spd Finish 1": {
@@ -4003,7 +4003,7 @@
     "name": "攻擊速度的奧秘1",
     "sp": 60,
     "rules": "infantry",
-    "icon": "skillA/Atk_Spd_Finish_1.png"
+    "icon": "skillA/Atk_Spd_Finish_1"
   },
   "Atk/Spd Finish 2": {
     "id": "Atk/Spd Finish 2",
@@ -4011,7 +4011,7 @@
     "sp": 120,
     "prev": ["Atk/Spd Finish 1"],
     "rules": "infantry",
-    "icon": "skillA/Atk_Spd_Finish_2.png"
+    "icon": "skillA/Atk_Spd_Finish_2"
   },
   "Atk/Spd Finish 3": {
     "id": "Atk/Spd Finish 3",
@@ -4019,7 +4019,7 @@
     "sp": 240,
     "prev": ["Atk/Spd Finish 2"],
     "rules": "infantry",
-    "icon": "skillA/Atk_Spd_Finish_3.png",
+    "icon": "skillA/Atk_Spd_Finish_3",
     "last": true
   },
   "Atk/Spd Finish 4": {
@@ -4028,7 +4028,7 @@
     "sp": 300,
     "prev": ["Atk/Spd Finish 3"],
     "rules": "infantry",
-    "icon": "skillA/Atk_Spd_Finish_4.png",
+    "icon": "skillA/Atk_Spd_Finish_4",
     "last": true
   },
   "Atk/Def Finish 1": {
@@ -4036,7 +4036,7 @@
     "name": "攻擊防守的奧秘1",
     "sp": 60,
     "rules": "infantry",
-    "icon": "skillA/Atk_Def_Finish_1.png"
+    "icon": "skillA/Atk_Def_Finish_1"
   },
   "Atk/Def Finish 2": {
     "id": "Atk/Def Finish 2",
@@ -4044,7 +4044,7 @@
     "sp": 120,
     "prev": ["Atk/Def Finish 1"],
     "rules": "infantry",
-    "icon": "skillA/Atk_Def_Finish_2.png"
+    "icon": "skillA/Atk_Def_Finish_2"
   },
   "Atk/Def Finish 3": {
     "id": "Atk/Def Finish 3",
@@ -4052,7 +4052,7 @@
     "sp": 240,
     "prev": ["Atk/Def Finish 2"],
     "rules": "infantry",
-    "icon": "skillA/Atk_Def_Finish_3.png",
+    "icon": "skillA/Atk_Def_Finish_3",
     "last": true
   },
   "Atk/Def Finish 4": {
@@ -4061,7 +4061,7 @@
     "sp": 300,
     "prev": ["Atk/Def Finish 3"],
     "rules": "infantry",
-    "icon": "skillA/Atk_Def_Finish_4.png",
+    "icon": "skillA/Atk_Def_Finish_4",
     "last": true
   },
   "Atk/Res Finish 1": {
@@ -4069,7 +4069,7 @@
     "name": "攻擊魔防的奧秘1",
     "sp": 60,
     "rules": "infantry",
-    "icon": "skillA/Atk_Res_Finish_1.png"
+    "icon": "skillA/Atk_Res_Finish_1"
   },
   "Atk/Res Finish 2": {
     "id": "Atk/Res Finish 2",
@@ -4077,7 +4077,7 @@
     "sp": 120,
     "prev": ["Atk/Res Finish 1"],
     "rules": "infantry",
-    "icon": "skillA/Atk_Res_Finish_2.png"
+    "icon": "skillA/Atk_Res_Finish_2"
   },
   "Atk/Res Finish 3": {
     "id": "Atk/Res Finish 3",
@@ -4085,7 +4085,7 @@
     "sp": 240,
     "prev": ["Atk/Res Finish 2"],
     "rules": "infantry",
-    "icon": "skillA/Atk_Res_Finish_3.png",
+    "icon": "skillA/Atk_Res_Finish_3",
     "last": true
   },
   "Atk/Res Finish 4": {
@@ -4094,7 +4094,7 @@
     "sp": 300,
     "prev": ["Atk/Res Finish 3"],
     "rules": "infantry",
-    "icon": "skillA/Atk_Res_Finish_4.png",
+    "icon": "skillA/Atk_Res_Finish_4",
     "last": true
   },
   "Spd/Res Finish 1": {
@@ -4102,7 +4102,7 @@
     "name": "速度魔防的奧秘1",
     "sp": 60,
     "rules": "infantry",
-    "icon": "skillA/Spd_Res_Finish_1.png"
+    "icon": "skillA/Spd_Res_Finish_1"
   },
   "Spd/Res Finish 2": {
     "id": "Spd/Res Finish 2",
@@ -4110,7 +4110,7 @@
     "sp": 120,
     "prev": ["Spd/Res Finish 1"],
     "rules": "infantry",
-    "icon": "skillA/Spd_Res_Finish_2.png"
+    "icon": "skillA/Spd_Res_Finish_2"
   },
   "Spd/Res Finish 3": {
     "id": "Spd/Res Finish 3",
@@ -4118,7 +4118,7 @@
     "sp": 240,
     "prev": ["Spd/Res Finish 2"],
     "rules": "infantry",
-    "icon": "skillA/Spd_Res_Finish_3.png",
+    "icon": "skillA/Spd_Res_Finish_3",
     "last": true
   },
   "Spd/Res Finish 4": {
@@ -4127,7 +4127,7 @@
     "sp": 300,
     "prev": ["Spd/Res Finish 3"],
     "rules": "infantry",
-    "icon": "skillA/Spd_Res_Finish_4.png",
+    "icon": "skillA/Spd_Res_Finish_4",
     "last": true
   },
   "Def/Res Finish 1": {
@@ -4135,7 +4135,7 @@
     "name": "防守魔防的奧秘1",
     "sp": 60,
     "rules": "infantry",
-    "icon": "skillA/Def_Res_Finish_1.png"
+    "icon": "skillA/Def_Res_Finish_1"
   },
   "Def/Res Finish 2": {
     "id": "Def/Res Finish 2",
@@ -4143,7 +4143,7 @@
     "sp": 120,
     "prev": ["Def/Res Finish 1"],
     "rules": "infantry",
-    "icon": "skillA/Def_Res_Finish_2.png"
+    "icon": "skillA/Def_Res_Finish_2"
   },
   "Def/Res Finish 3": {
     "id": "Def/Res Finish 3",
@@ -4151,7 +4151,7 @@
     "sp": 240,
     "prev": ["Def/Res Finish 2"],
     "rules": "infantry",
-    "icon": "skillA/Def_Res_Finish_3.png",
+    "icon": "skillA/Def_Res_Finish_3",
     "last": true
   },
   "Def/Res Finish 4": {
@@ -4160,7 +4160,7 @@
     "sp": 300,
     "prev": ["Def/Res Finish 3"],
     "rules": "infantry",
-    "icon": "skillA/Def_Res_Finish_4.png",
+    "icon": "skillA/Def_Res_Finish_4",
     "last": true
   },
   "Atk/Res Scowl 1": {
@@ -4168,7 +4168,7 @@
     "name": "攻擊魔防的龍眼1",
     "sp": 60,
     "rules": "dragon",
-    "icon": "skillA/Atk_Res_Scowl_1.png"
+    "icon": "skillA/Atk_Res_Scowl_1"
   },
   "Atk/Res Scowl 2": {
     "id": "Atk/Res Scowl 2",
@@ -4176,7 +4176,7 @@
     "sp": 120,
     "prev": ["Atk/Res Scowl 1"],
     "rules": "dragon",
-    "icon": "skillA/Atk_Res_Scowl_2.png"
+    "icon": "skillA/Atk_Res_Scowl_2"
   },
   "Atk/Res Scowl 3": {
     "id": "Atk/Res Scowl 3",
@@ -4184,7 +4184,7 @@
     "sp": 240,
     "prev": ["Atk/Res Scowl 2"],
     "rules": "dragon",
-    "icon": "skillA/Atk_Res_Scowl_3.png",
+    "icon": "skillA/Atk_Res_Scowl_3",
     "last": true
   },
   "Atk/Res Scowl 4": {
@@ -4193,7 +4193,7 @@
     "sp": 300,
     "prev": ["Atk/Res Scowl 3"],
     "rules": "dragon",
-    "icon": "skillA/Atk_Res_Scowl_4.png",
+    "icon": "skillA/Atk_Res_Scowl_4",
     "last": true
   },
   "Atk/Spd Prime 1": {
@@ -4201,7 +4201,7 @@
     "name": "攻擊速度的準備1",
     "sp": 60,
     "rules": "learner.def-dmger",
-    "icon": "skillA/Atk_Spd_Prime_1.png"
+    "icon": "skillA/Atk_Spd_Prime_1"
   },
   "Atk/Spd Prime 2": {
     "id": "Atk/Spd Prime 2",
@@ -4209,7 +4209,7 @@
     "sp": 120,
     "prev": ["Atk/Spd Prime 1"],
     "rules": "learner.def-dmger",
-    "icon": "skillA/Atk_Spd_Prime_2.png"
+    "icon": "skillA/Atk_Spd_Prime_2"
   },
   "Atk/Spd Prime 3": {
     "id": "Atk/Spd Prime 3",
@@ -4217,7 +4217,7 @@
     "sp": 240,
     "prev": ["Atk/Spd Prime 2"],
     "rules": "learner.def-dmger",
-    "icon": "skillA/Atk_Spd_Prime_3.png",
+    "icon": "skillA/Atk_Spd_Prime_3",
     "last": true
   },
   "Atk/Spd Prime 4": {
@@ -4226,7 +4226,7 @@
     "sp": 300,
     "prev": ["Atk/Spd Prime 3"],
     "rules": "learner.def-dmger",
-    "icon": "skillA/Atk_Spd_Prime_4.png",
+    "icon": "skillA/Atk_Spd_Prime_4",
     "last": true
   }
 }
