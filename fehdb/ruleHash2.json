@@ -253,15 +253,11 @@
     "weaponType": 15732727
   },
   "learner.melee-def-dmger": {
-    "weaponType": {
-      "weaponType": 15728647
-    }
+    "weaponType": 15728647
   },
   "learner.flying-melee-def-dmger": {
     "moveType": 8,
-    "weaponType": {
-      "weaponType": 15728647
-    }
+    "weaponType": 15728647
   },
   "learner.sorcery-blade": {
     "moveType": 1,
