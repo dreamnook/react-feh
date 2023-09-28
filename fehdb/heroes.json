@@ -26586,6 +26586,44 @@
     "ver": "7.2",
     "dfKey": 5
   },
+  "Elincia - Undaunted Queen": {
+    "id": "Elincia - Undaunted Queen",
+    "title": "心之女王",
+    "name": "艾琳西亞",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-sword",
+    "bst": 200,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "wind-res-2",
+    "releaseDate": "2023-09-28",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [44, 47, 51],
+        "def": [20, 23, 26],
+        "res": [30, 34, 37]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 6,
+        "res": 12
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.9",
+    "dfKey": 6
+  },
   "Lucia - Tireless Advisor": {
     "id": "Lucia - Tireless Advisor",
     "title": "女王的姊妹",

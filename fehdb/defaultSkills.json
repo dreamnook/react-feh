@@ -14951,6 +14951,33 @@
       "Spd/Res Hold": 5
     }
   },
+  "Elincia - Undaunted Queen": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Absolute Amiti": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Clash 4": 5
+    },
+    "skillB": {
+      "Dive-Bomb 1": 2,
+      "Dive-Bomb 2": 3,
+      "Dive-Bomb 3": 4,
+      "Aerial Maneuvers": 5
+    },
+    "skillC": {
+      "Heart of Crimea": 5
+    }
+  },
   "Lucia - Tireless Advisor": {
     "weapon": {
       "Iron Sword": 1,

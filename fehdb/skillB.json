@@ -2254,6 +2254,15 @@
     "icon": "skillB/Dive-Bomb_3",
     "last": true
   },
+  "Aerial Maneuvers": {
+    "id": "Aerial Maneuvers",
+    "name": "空中猛襲",
+    "sp": 300,
+    "prev": ["Dive-Bomb 3"],
+    "rules": "learner.flying-melee-def-dmger",
+    "last": true,
+    "icon": "skillB/Aerial_Maneuvers"
+  },
   "Wrath 1": {
     "id": "Wrath 1",
     "name": "憤怒1",

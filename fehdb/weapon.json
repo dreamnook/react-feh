@@ -2962,6 +2962,16 @@
       "exclusive": ["Dagr - Bluster Princess"],
       "last": true
     },
+    "Absolute Amiti": {
+      "id": "Absolute Amiti",
+      "name": "純潔亞米特",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Elincia - Undaunted Queen"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",

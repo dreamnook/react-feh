@@ -4097,6 +4097,7 @@
             "Roy - Blazing Lion",
             "Eitri - Youthful Sage",
             "Julia - Crusader of Light",
+            "Elincia - Undaunted Queen",
             "Corrin - Child of Dusk"
           ]
         },
@@ -7962,6 +7963,7 @@
     "Atk/Spd Clash 3": {
       "pool": {
         "#": { "5": ["Seliph - Enduring Legacy", "Chrom - Fell Exalt"] },
+        "legendary": { "5": ["Elincia - Undaunted Queen"] },
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
@@ -7985,6 +7987,7 @@
     "Atk/Spd Clash 4": {
       "pool": {
         "#": { "5": ["Seliph - Enduring Legacy", "Chrom - Fell Exalt"] },
+        "legendary": { "5": ["Elincia - Undaunted Queen"] },
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
@@ -9537,6 +9540,7 @@
         "#": {
           "5": ["Morgan - Devoted Darkness", "Lilith - Silent Broodling"]
         },
+        "legendary": { "5": ["Elincia - Undaunted Queen"] },
         "mythic": { "5": ["Naga - Dragon Divinity"] },
         "special": { "5": ["Tibarn - Shipless Pirate"] }
       },
@@ -9544,6 +9548,13 @@
       "name": "空中突襲3",
       "sp": 240,
       "icon": "skillB/Dive-Bomb_3"
+    },
+    "Aerial Maneuvers": {
+      "pool": { "legendary": { "5": ["Elincia - Undaunted Queen"] } },
+      "id": "Aerial Maneuvers",
+      "name": "空中猛襲",
+      "sp": 300,
+      "icon": "skillB/Aerial_Maneuvers"
     },
     "Wrath 3": {
       "pool": {

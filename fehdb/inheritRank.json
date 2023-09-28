@@ -6820,6 +6820,19 @@
     "skillA": { "Spd/Res Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } }
   },
+  "Elincia - Undaunted Queen": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Aerial Maneuvers": { "sp": 300, "rarity": 5 } }
+  },
   "Michalis - Fruiting Ambition": {
     "score": 299,
     "scoreTotal": 736,

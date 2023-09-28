@@ -404,6 +404,14 @@
     "last": true,
     "icon": "skillC/Tip_the_Scales!"
   },
+  "Heart of Crimea": {
+    "id": "Heart of Crimea",
+    "name": "克里米亞之心",
+    "sp": 300,
+    "exclusive": ["Elincia - Undaunted Queen"],
+    "last": true,
+    "icon": "skillC/Heart_of_Crimea"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
