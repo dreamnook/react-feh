@@ -1996,6 +1996,7 @@
     "name": "防守魔防紫煙3",
     "sp": 300,
     "prev": ["Def Smoke 3", "Res Smoke 3"],
+    "rules": "not.white-staff",
     "last": true,
     "icon": "skillC/Def_Res_Smoke_3"
   },
