@@ -3130,6 +3130,15 @@
     "icon": "skillA/Bonus_Doubler_3",
     "last": true
   },
+  "Bonus Doubler 4": {
+    "id": "Bonus Doubler 4",
+    "name": "強化增幅4",
+    "sp": 300,
+    "prev": ["Bonus Doubler 3"],
+    "rules": "infantry",
+    "icon": "skillA/Bonus_Doubler_4",
+    "last": true
+  },
   "AR-O Atk/Spd 1": {
     "id": "AR-O Atk/Spd 1",
     "name": "攻擊速度的攻城戰1",

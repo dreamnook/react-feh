@@ -1974,6 +1974,20 @@
     "skillA": { "Atk/Spd 2": { "sp": 160, "rarity": 4 } },
     "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 5 } }
   },
+  "Flayn - Silly Kitty-Cat": {
+    "score": 133,
+    "scoreTotal": 371,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 174,
+    "assist": { "Rescue+": { "sp": 300, "rarity": 5 } },
+    "special": { "Holy Pressure": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Unity": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dazzle Far Trace": { "sp": 300, "rarity": 5 } }
+  },
   "Xander - Spring Prince": {
     "score": 212,
     "scoreTotal": 371,
@@ -3822,6 +3836,18 @@
     "skillA": { "Sturdy Blow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Dull Close 3": { "sp": 240, "rarity": 5 } }
   },
+  "Seadall - Misfortune-Teller": {
+    "score": 254,
+    "scoreTotal": 509,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 1000,
+    "bst": 172,
+    "skillA": { "Atk/Res Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Inf. Null Follow 3": { "sp": 240, "rarity": 5 } }
+  },
   "Soren - Shrewd Strategist": {
     "score": 249,
     "scoreTotal": 511,
@@ -5115,6 +5141,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Spd Solo 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Chill Def 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Kellam - Pumpkin Knight": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 200,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Legion - Masked Maniac": {
     "score": 269,
@@ -12223,6 +12262,20 @@
     "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
+  "Anna - Twice the Anna": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Miracle": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Gambit 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Rein Snap": { "sp": 300, "rarity": 5 } }
+  },
   "Corrin - Starry Seer": {
     "score": 318,
     "scoreTotal": 1166,
@@ -12747,6 +12800,20 @@
     "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Brash Assault 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Fatal Smoke 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Timerra - Trick or Meat": {
+    "score": 530,
+    "scoreTotal": 1484,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Vital Astra": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Bonus Doubler 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Chrom - Fell Exalt": {
     "score": 500,

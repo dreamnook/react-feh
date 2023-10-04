@@ -3355,6 +3355,21 @@
       "icon": "skillC/Threaten_Res_3",
       "last": true
     },
+    "Threat. Atk/Def 1": {
+      "id": "Threat. Atk/Def 1",
+      "name": "攻擊防守的威嚇1",
+      "sp": 100,
+      "prev": ["Threaten Atk 1", "Threaten Def 1"],
+      "icon": "skillC/Threat._Atk_Def_1"
+    },
+    "Threat. Atk/Def 2": {
+      "id": "Threat. Atk/Def 2",
+      "name": "攻擊防守的威嚇2",
+      "sp": 200,
+      "prev": ["Threat. Atk/Def 1"],
+      "icon": "skillC/Threat._Atk_Def_2",
+      "last": true
+    },
     "Threat. Spd/Res 1": {
       "id": "Threat. Spd/Res 1",
       "name": "速度魔防的威嚇1",
@@ -4064,6 +4079,30 @@
       "prev": ["Odd Tempest 2"],
       "rules": "learner.tempest",
       "icon": "skillC/Odd_Tempest_3",
+      "last": true
+    },
+    "Even Tempest 1": {
+      "id": "Even Tempest 1",
+      "name": "迅雷風烈・偶數1",
+      "sp": 60,
+      "rules": "learner.tempest",
+      "icon": "skillC/Even_Tempest_1"
+    },
+    "Even Tempest 2": {
+      "id": "Even Tempest 2",
+      "name": "迅雷風烈・偶數2",
+      "sp": 120,
+      "prev": ["Even Tempest 1"],
+      "rules": "learner.tempest",
+      "icon": "skillC/Even_Tempest_2"
+    },
+    "Even Tempest 3": {
+      "id": "Even Tempest 3",
+      "name": "迅雷風烈・偶數3",
+      "sp": 240,
+      "prev": ["Even Tempest 2"],
+      "rules": "learner.tempest",
+      "icon": "skillC/Even_Tempest_3",
       "last": true
     }
   },

@@ -1074,6 +1074,15 @@
     "last": true,
     "icon": "skillC/Def_Res_Hold"
   },
+  "A/S Rein Snap": {
+    "id": "A/S Rein Snap",
+    "name": "攻擊速度牽制・推手",
+    "sp": 300,
+    "rules": "learner.flying-melee",
+    "prev": ["Atk/Spd Rein 3"],
+    "last": true,
+    "icon": "skillC/A_S_Rein_Snap"
+  },
   "S/D Rein Snap": {
     "id": "S/D Rein Snap",
     "name": "速度防守牽制・推手",

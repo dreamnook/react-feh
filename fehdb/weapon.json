@@ -4314,6 +4314,39 @@
         }
       },
       "last": true
+    },
+    "Farmer's Tool": {
+      "id": "Farmer's Tool",
+      "name": "農具",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Farmer's Tool+": {
+      "id": "Farmer's Tool+",
+      "name": "農具+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Farmer's Tool"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "blue-lance": {
@@ -6630,6 +6663,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Inspirited Spear": {
+      "id": "Inspirited Spear",
+      "name": "翩然起舞滿月的寶槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Timerra - Trick or Meat"],
       "last": true
     },
     "Arcane Qiang": {
@@ -9910,6 +9953,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Payday Pouch": {
+      "id": "Payday Pouch",
+      "name": "一夕致富的大袋子",
+      "mt": 16,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Anna - Twice the Anna"],
       "last": true
     },
     "Arcane Downfall": {
@@ -18907,6 +18960,39 @@
         }
       },
       "last": true
+    },
+    "Pumpkin Stem": {
+      "id": "Pumpkin Stem",
+      "name": "南瓜之杖",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Pumpkin Stem+": {
+      "id": "Pumpkin Stem+",
+      "name": "南瓜之杖+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Pumpkin Stem"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "blue-tome": {
@@ -23349,6 +23435,16 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Maria - Ritual Sacrifice"],
+      "last": true
+    },
+    "Kitty-Cat Parasol": {
+      "id": "Kitty-Cat Parasol",
+      "name": "妖貓陽傘",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Flayn - Silly Kitty-Cat"],
       "last": true
     },
     "Assault": {

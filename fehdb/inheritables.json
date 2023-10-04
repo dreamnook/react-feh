@@ -319,6 +319,13 @@
         "name": "新娘之劍+",
         "sp": 300,
         "refine": 350
+      },
+      "Farmer's Tool+": {
+        "pool": { "grail": { "5": ["Kellam - Pumpkin Knight"] } },
+        "id": "Farmer's Tool+",
+        "name": "農具+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "blue-lance": {
@@ -1884,6 +1891,13 @@
         "name": "訂婚戒指+",
         "sp": 300,
         "refine": 350
+      },
+      "Pumpkin Stem+": {
+        "pool": { "special": { "5": ["Seadall - Misfortune-Teller"] } },
+        "id": "Pumpkin Stem+",
+        "name": "南瓜之杖+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "blue-tome": {
@@ -2752,7 +2766,9 @@
     "Rescue+": {
       "pool": {
         "#": { "5": ["Flayn - Playing Innocent", "Elincia - Devoted Queen"] },
-        "special": { "5": ["L'Arachel - Seeker of Justice"] }
+        "special": {
+          "5": ["L'Arachel - Seeker of Justice", "Flayn - Silly Kitty-Cat"]
+        }
       },
       "id": "Rescue+",
       "name": "救援+",
@@ -3883,7 +3899,8 @@
           "5": [
             "Gaius - Thief Exposed",
             "Larcei - Scion of Astra",
-            "Tibarn - Shipless Pirate"
+            "Tibarn - Shipless Pirate",
+            "Timerra - Trick or Meat"
           ]
         },
         "harmonized": {
@@ -3899,7 +3916,10 @@
       "sp": 200
     },
     "Vital Astra": {
-      "pool": { "#": { "5": ["Mareeta - Astra Awakened"] } },
+      "pool": {
+        "#": { "5": ["Mareeta - Astra Awakened"] },
+        "special": { "5": ["Timerra - Trick or Meat"] }
+      },
       "id": "Vital Astra",
       "name": "心流星",
       "sp": 500
@@ -4229,6 +4249,7 @@
           "4": [
             "Robin - Mystery Tactician",
             "Zelot - Avowed Groom",
+            "Kellam - Pumpkin Knight",
             "Travant - King of Thracia",
             "Orson - Passion's Folly",
             "Petrine - Icy Flame-Lancer",
@@ -4651,9 +4672,14 @@
         },
         "special": {
           "4": ["Xane - Desert Mirage"],
-          "5": ["Bruno - Masked Hare", "Laevatein - Ninja of Múspell"]
+          "5": [
+            "Bruno - Masked Hare",
+            "Flayn - Silly Kitty-Cat",
+            "Laevatein - Ninja of Múspell"
+          ]
         },
-        "duo": { "5": ["Elise - Sweetheart Royals"] }
+        "duo": { "5": ["Elise - Sweetheart Royals"] },
+        "harmonized": { "5": ["Anna - Twice the Anna"] }
       },
       "id": "Miracle",
       "name": "祈禱",
@@ -4798,7 +4824,10 @@
       "sp": 300
     },
     "Holy Pressure": {
-      "pool": { "duo": { "5": ["Elise - Sweetheart Royals"] } },
+      "pool": {
+        "special": { "5": ["Flayn - Silly Kitty-Cat"] },
+        "duo": { "5": ["Elise - Sweetheart Royals"] }
+      },
       "id": "Holy Pressure",
       "name": "重壓的聖光",
       "sp": 500
@@ -6641,6 +6670,7 @@
         "mythic": { "5": ["Eir - Merciful Death", "Yune - Chaos Goddess"] },
         "special": {
           "5": [
+            "Flayn - Silly Kitty-Cat",
             "Nowi - Eternal Witch",
             "Sanaki - Apostle in White",
             "Takumi - Prince of Soup",
@@ -6763,7 +6793,9 @@
       "pool": {
         "#": { "5": ["Ymir - Life-Mother"] },
         "mythic": { "5": ["Eir - Merciful Death", "Yune - Chaos Goddess"] },
-        "special": { "5": ["Rhea - Witch of Creation"] },
+        "special": {
+          "5": ["Flayn - Silly Kitty-Cat", "Rhea - Witch of Creation"]
+        },
         "harmonized": { "5": ["Altina - Cross-Time Duo"] }
       },
       "id": "Atk/Res Unity",
@@ -7400,13 +7432,23 @@
       "pool": {
         "#": { "5": ["Lyon - Demon King", "Nah - Little Miss"] },
         "legendary": { "5": ["Roy - Blazing Lion"] },
-        "special": { "4": ["Caspar - Summer Intensity"] },
+        "special": {
+          "4": ["Caspar - Summer Intensity"],
+          "5": ["Timerra - Trick or Meat"]
+        },
         "duo": { "5": ["Alm - Lovebird Duo"] }
       },
       "id": "Bonus Doubler 3",
       "name": "強化增幅3",
       "sp": 240,
       "icon": "skillA/Bonus_Doubler_3"
+    },
+    "Bonus Doubler 4": {
+      "pool": { "special": { "5": ["Timerra - Trick or Meat"] } },
+      "id": "Bonus Doubler 4",
+      "name": "強化增幅4",
+      "sp": 300,
+      "icon": "skillA/Bonus_Doubler_4"
     },
     "AR-O Atk/Spd 3": {
       "pool": { "mythic": { "5": ["Naga - Dragon Divinity"] } },
@@ -7845,7 +7887,7 @@
           "5": ["Edelgard - Hegemon Husk", "Priam - Radiant Hero"]
         },
         "grail": {
-          "4": ["Murdock - Loyal General"],
+          "4": ["Kellam - Pumpkin Knight", "Murdock - Loyal General"],
           "5": ["Cervantes - Invincible General"]
         },
         "legendary": { "5": ["Byleth - The Fódlan Star"] },
@@ -8106,7 +8148,8 @@
     },
     "Atk/Res Finish 3": {
       "pool": {
-        "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] }
+        "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] },
+        "special": { "5": ["Seadall - Misfortune-Teller"] }
       },
       "id": "Atk/Res Finish 3",
       "name": "攻擊魔防的奧秘3",
@@ -8172,14 +8215,20 @@
       "icon": "skillA/Atk_Res_Scowl_4"
     },
     "Atk/Spd Prime 3": {
-      "pool": { "special": { "5": ["Claude - Golden Breeze"] } },
+      "pool": {
+        "special": { "5": ["Claude - Golden Breeze"] },
+        "harmonized": { "5": ["Anna - Twice the Anna"] }
+      },
       "id": "Atk/Spd Prime 3",
       "name": "攻擊速度的準備3",
       "sp": 240,
       "icon": "skillA/Atk_Spd_Prime_3"
     },
     "Atk/Spd Prime 4": {
-      "pool": { "special": { "5": ["Claude - Golden Breeze"] } },
+      "pool": {
+        "special": { "5": ["Claude - Golden Breeze"] },
+        "harmonized": { "5": ["Anna - Twice the Anna"] }
+      },
       "id": "Atk/Spd Prime 4",
       "name": "攻擊速度的準備4",
       "sp": 300,
@@ -8549,7 +8598,9 @@
             "Gilliam - Wall of Silence"
           ]
         },
-        "grail": { "5": ["Ludveck - Rebellious Duke"] },
+        "grail": {
+          "5": ["Kellam - Pumpkin Knight", "Ludveck - Rebellious Duke"]
+        },
         "legendary": { "5": ["Hector - Marquess of Ostia"] },
         "special": {
           "5": [
@@ -9401,7 +9452,8 @@
             "Lyn - Bride of the Plains",
             "Eirika - Gentle as Snow",
             "Bruno - Masked Hare",
-            "Fjorm - Bride of Rime"
+            "Fjorm - Bride of Rime",
+            "Flayn - Silly Kitty-Cat"
           ]
         },
         "duo": { "5": ["Hilda - Deer's Two-Piece"] }
@@ -9417,6 +9469,13 @@
       "name": "幻惑・轉移",
       "sp": 300,
       "icon": "skillB/Dazzling_Shift"
+    },
+    "Dazzle Far Trace": {
+      "pool": { "special": { "5": ["Flayn - Silly Kitty-Cat"] } },
+      "id": "Dazzle Far Trace",
+      "name": "Dazzle Far Trace",
+      "sp": 300,
+      "icon": "skillB/Dazzle_Far_Trace"
     },
     "Shield Pulse 3": {
       "pool": {
@@ -10325,7 +10384,7 @@
           ]
         },
         "legendary": { "5": ["Roy - Blazing Lion"] },
-        "special": { "5": ["Fjorm - Seaside Thaw"] }
+        "special": { "5": ["Fjorm - Seaside Thaw", "Timerra - Trick or Meat"] }
       },
       "id": "Spurn 3",
       "name": "迴避・憤怒3",
@@ -10333,7 +10392,9 @@
       "icon": "skillB/Spurn_3"
     },
     "Spurn 4": {
-      "pool": { "special": { "5": ["Fjorm - Seaside Thaw"] } },
+      "pool": {
+        "special": { "5": ["Fjorm - Seaside Thaw", "Timerra - Trick or Meat"] }
+      },
       "id": "Spurn 4",
       "name": "迴避・憤怒4",
       "sp": 300,
@@ -10710,14 +10771,20 @@
       "icon": "skillB/Beast_Sense_4"
     },
     "Gambit 3": {
-      "pool": { "#": { "5": ["Robin - Exalt's Deliverer"] } },
+      "pool": {
+        "#": { "5": ["Robin - Exalt's Deliverer"] },
+        "harmonized": { "5": ["Anna - Twice the Anna"] }
+      },
       "id": "Gambit 3",
       "name": "底牌3",
       "sp": 240,
       "icon": "skillB/Gambit_3"
     },
     "Gambit 4": {
-      "pool": { "#": { "5": ["Robin - Exalt's Deliverer"] } },
+      "pool": {
+        "#": { "5": ["Robin - Exalt's Deliverer"] },
+        "harmonized": { "5": ["Anna - Twice the Anna"] }
+      },
       "id": "Gambit 4",
       "name": "底牌4",
       "sp": 300,
@@ -11294,7 +11361,9 @@
           ]
         },
         "duo": { "5": ["Sothis - Bound-Spirit Duo"] },
-        "harmonized": { "5": ["Dorothea - Twilit Harmony"] }
+        "harmonized": {
+          "5": ["Dorothea - Twilit Harmony", "Anna - Twice the Anna"]
+        }
       },
       "id": "Atk/Spd Rein 3",
       "name": "攻擊速度牽制3",
@@ -11452,6 +11521,13 @@
       "name": "防守魔防大牽制",
       "sp": 300,
       "icon": "skillC/Def_Res_Hold"
+    },
+    "A/S Rein Snap": {
+      "pool": { "harmonized": { "5": ["Anna - Twice the Anna"] } },
+      "id": "A/S Rein Snap",
+      "name": "攻擊速度牽制・推手",
+      "sp": 300,
+      "icon": "skillC/A_S_Rein_Snap"
     },
     "S/D Rein Snap": {
       "pool": { "special": { "5": ["Say'ri - Righteous Bride"] } },
@@ -12388,7 +12464,8 @@
           "5": [
             "Soren - Hushed Voice",
             "Nino - Spirited Sorcerer",
-            "Fjorm - Seaside Thaw"
+            "Fjorm - Seaside Thaw",
+            "Timerra - Trick or Meat"
           ]
         },
         "duo": { "5": ["Chrom - Fate-Defying Duo"] }
@@ -12407,7 +12484,13 @@
             "Soren - Radiant Confidant"
           ]
         },
-        "special": { "5": ["Nino - Spirited Sorcerer", "Fjorm - Seaside Thaw"] }
+        "special": {
+          "5": [
+            "Nino - Spirited Sorcerer",
+            "Fjorm - Seaside Thaw",
+            "Timerra - Trick or Meat"
+          ]
+        }
       },
       "id": "Time's Pulse 4",
       "name": "初始之躍動4",
@@ -12489,7 +12572,8 @@
     },
     "Inf. Null Follow 3": {
       "pool": {
-        "#": { "5": ["Celica - Valentia's Hope", "Gregor - Swell Sword"] }
+        "#": { "5": ["Celica - Valentia's Hope", "Gregor - Swell Sword"] },
+        "special": { "5": ["Seadall - Misfortune-Teller"] }
       },
       "id": "Inf. Null Follow 3",
       "name": "步行識破追擊3",

@@ -17725,6 +17725,35 @@
       "Joint Drive Spd": 5
     }
   },
+  "Anna - Twice the Anna": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Payday Pouch": 5
+    },
+    "special": {
+      "Miracle": 3
+    },
+    "skillA": {
+      "Atk/Spd Prime 1": 2,
+      "Atk/Spd Prime 2": 3,
+      "Atk/Spd Prime 3": 4,
+      "Atk/Spd Prime 4": 5
+    },
+    "skillB": {
+      "Gambit 1": 2,
+      "Gambit 2": 3,
+      "Gambit 3": 4,
+      "Gambit 4": 5
+    },
+    "skillC": {
+      "Atk/Spd Rein 1": 2,
+      "Atk/Spd Rein 2": 3,
+      "Atk/Spd Rein 3": 4,
+      "A/S Rein Snap": 5
+    }
+  },
   "Anna - Secret Charmer": {
     "weapon": {
       "Iron Bow": 1,
@@ -18338,6 +18367,28 @@
     "skillC": {
       "Divine Fang": 5,
       "Divine Fang+": 5
+    }
+  },
+  "Kellam - Pumpkin Knight": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Farmer's Tool": 3,
+      "Farmer's Tool+": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Def Ideal 1": 1,
+      "Atk/Def Ideal 2": 2,
+      "Atk/Def Ideal 3": 4
+    },
+    "skillB": {
+      "Vengeful Fighter 1": 3,
+      "Vengeful Fighter 2": 4,
+      "Vengeful Fighter 3": 5
     }
   },
   "Naga - Harvest Divinity": {
@@ -23568,6 +23619,35 @@
       "Drive Atk 2": 5
     }
   },
+  "Flayn - Silly Kitty-Cat": {
+    "weapon": {
+      "Assault": 1,
+      "Kitty-Cat Parasol": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 2,
+      "Rescue": 3,
+      "Rescue+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Miracle": 3,
+      "Holy Pressure": 5
+    },
+    "skillA": {
+      "Atk/Res Bond 1": 2,
+      "Atk/Res Bond 2": 3,
+      "Atk/Res Bond 3": 4,
+      "Atk/Res Unity": 5
+    },
+    "skillB": {
+      "Dazzling Staff 1": 2,
+      "Dazzling Staff 2": 3,
+      "Dazzling Staff 3": 4,
+      "Dazzle Far Trace": 5
+    }
+  },
   "Flayn - Playing Innocent": {
     "weapon": {
       "Assault": 1,
@@ -24530,6 +24610,58 @@
       "Flier Guidance 2": 3,
       "Flier Guidance 3": 4,
       "Soaring Guidance": 5
+    }
+  },
+  "Timerra - Trick or Meat": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Inspirited Spear": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Vital Astra": 5
+    },
+    "skillA": {
+      "Bonus Doubler 1": 2,
+      "Bonus Doubler 2": 3,
+      "Bonus Doubler 3": 4,
+      "Bonus Doubler 4": 5
+    },
+    "skillB": {
+      "Spurn 1": 2,
+      "Spurn 2": 3,
+      "Spurn 3": 4,
+      "Spurn 4": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Time's Pulse 4": 5
+    }
+  },
+  "Seadall - Misfortune-Teller": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Pumpkin Stem": 3,
+      "Pumpkin Stem+": 5
+    },
+    "assist": {
+      "Dance": 3
+    },
+    "skillA": {
+      "Atk/Res Finish 1": 1,
+      "Atk/Res Finish 2": 2,
+      "Atk/Res Finish 3": 4
+    },
+    "skillC": {
+      "Inf. Null Follow 1": 3,
+      "Inf. Null Follow 2": 4,
+      "Inf. Null Follow 3": 5
     }
   },
   "Zephia - Scheming Dragon": {
