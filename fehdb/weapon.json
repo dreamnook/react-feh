@@ -2117,6 +2117,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Larcei - Keen Kin"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Larcei's_Edge_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Balmung": {
@@ -5570,6 +5593,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Tsubasa - Madcap Idol"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Mirage_Feather_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Thorn Lance": {
@@ -6553,6 +6599,37 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Arion - Gungnir's Heir"],
+      "last": true
+    },
+    "Hyperion Lance": {
+      "id": "Hyperion Lance",
+      "name": "傭兵龍騎士之槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Heath - Wandering Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Hyperion_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Qiang": {
@@ -9026,6 +9103,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Fir - Student of Spring"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Bun-Bun_Baton_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Inveterate Axe": {
@@ -14827,6 +14927,36 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Claude - Golden Breeze"],
+      "last": true
+    },
+    "Wildcat Dagger": {
+      "id": "Wildcat Dagger",
+      "name": "山貓暗器",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Chad - Lycian Wildcat"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Wildcat_Dagger_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Iron Dagger": {
