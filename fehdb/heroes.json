@@ -31951,41 +31951,6 @@
     "ver": "4.6",
     "dfKey": 2
   },
-  "Anna - Twice the Anna": {
-    "id": "Anna - Twice the Anna",
-    "title": "安娜與安娜",
-    "name": "安娜",
-    "rarity": [5],
-    "colorType": "green",
-    "moveType": "flying",
-    "weaponType": "green-axe",
-    "pool": "harmonized",
-    "releaseDate": "2023-10-05",
-    "appearsIn": ["Awakening", "Engage"],
-    "stats": {
-      "5": {
-        "hp": [36, 40, 43],
-        "atk": [41, 44, 48],
-        "spd": [44, 47, 51],
-        "def": [27, 31, 34],
-        "res": [23, 27, 30]
-      },
-      "5-1": {
-        "hp": 18,
-        "atk": 14,
-        "spd": 8,
-        "def": 9,
-        "res": 5
-      }
-    },
-    "assets": ["atk", "spd"],
-    "flaws": ["hp", "def", "res"],
-    "statMin": 189,
-    "statMax": 190,
-    "book": 7,
-    "ver": "7.10",
-    "dfKey": 6
-  },
   "Anna - Secret Charmer": {
     "id": "Anna - Secret Charmer",
     "title": "充滿祕密的新娘",
@@ -42162,6 +42127,40 @@
     "ver": "4.10",
     "dfKey": 3
   },
+  "Flayn - Playing Innocent": {
+    "id": "Flayn - Playing Innocent",
+    "title": "迷糊的大小姐",
+    "name": "芙蓮",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-staff",
+    "releaseDate": "2020-10-19",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [36, 39, 42],
+        "spd": [23, 27, 30],
+        "def": [18, 21, 24],
+        "res": [32, 35, 38]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 5,
+        "def": 4,
+        "res": 9
+      }
+    },
+    "assets": [],
+    "flaws": ["hp", "spd"],
+    "statMin": 162,
+    "statMax": 165,
+    "book": 4,
+    "ver": "4.10",
+    "dfKey": 3
+  },
   "Flayn - Silly Kitty-Cat": {
     "id": "Flayn - Silly Kitty-Cat",
     "title": "迷糊貓裝扮",
@@ -42196,40 +42195,6 @@
     "book": 7,
     "ver": "7.10",
     "dfKey": 6
-  },
-  "Flayn - Playing Innocent": {
-    "id": "Flayn - Playing Innocent",
-    "title": "迷糊的大小姐",
-    "name": "芙蓮",
-    "rarity": [5],
-    "colorType": "white",
-    "moveType": "flying",
-    "weaponType": "white-staff",
-    "releaseDate": "2020-10-19",
-    "appearsIn": ["Three Houses"],
-    "stats": {
-      "5": {
-        "hp": [36, 40, 43],
-        "atk": [36, 39, 42],
-        "spd": [23, 27, 30],
-        "def": [18, 21, 24],
-        "res": [32, 35, 38]
-      },
-      "5-1": {
-        "hp": 18,
-        "atk": 11,
-        "spd": 5,
-        "def": 4,
-        "res": 9
-      }
-    },
-    "assets": [],
-    "flaws": ["hp", "spd"],
-    "statMin": 162,
-    "statMax": 165,
-    "book": 4,
-    "ver": "4.10",
-    "dfKey": 3
   },
   "Manuela - Silver Caroler": {
     "id": "Manuela - Silver Caroler",
@@ -43947,6 +43912,41 @@
     "flaws": ["hp", "spd"],
     "statMin": 193,
     "statMax": 195,
+    "book": 7,
+    "ver": "7.10",
+    "dfKey": 6
+  },
+  "Anna - Twice the Anna": {
+    "id": "Anna - Twice the Anna",
+    "title": "安娜與安娜",
+    "name": "安娜",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-axe",
+    "pool": "harmonized",
+    "releaseDate": "2023-10-05",
+    "appearsIn": ["Awakening", "Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [44, 47, 51],
+        "def": [27, 31, 34],
+        "res": [23, 27, 30]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 8,
+        "def": 9,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 189,
+    "statMax": 190,
     "book": 7,
     "ver": "7.10",
     "dfKey": 6

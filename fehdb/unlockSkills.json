@@ -17725,35 +17725,6 @@
       "Joint Drive Spd": 5
     }
   },
-  "Anna - Twice the Anna": {
-    "weapon": {
-      "Iron Axe": 1,
-      "Steel Axe": 2,
-      "Silver Axe": 3,
-      "Payday Pouch": 5
-    },
-    "special": {
-      "Miracle": 3
-    },
-    "skillA": {
-      "Atk/Spd Prime 1": 2,
-      "Atk/Spd Prime 2": 3,
-      "Atk/Spd Prime 3": 4,
-      "Atk/Spd Prime 4": 5
-    },
-    "skillB": {
-      "Gambit 1": 2,
-      "Gambit 2": 3,
-      "Gambit 3": 4,
-      "Gambit 4": 5
-    },
-    "skillC": {
-      "Atk/Spd Rein 1": 2,
-      "Atk/Spd Rein 2": 3,
-      "Atk/Spd Rein 3": 4,
-      "A/S Rein Snap": 5
-    }
-  },
   "Anna - Secret Charmer": {
     "weapon": {
       "Iron Bow": 1,
@@ -23619,6 +23590,34 @@
       "Drive Atk 2": 5
     }
   },
+  "Flayn - Playing Innocent": {
+    "weapon": {
+      "Assault": 1,
+      "Caduceus Staff": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 2,
+      "Rescue": 3,
+      "Rescue+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Still-Water Balm": 3,
+      "Deluge Balm": 4,
+      "Deluge Balm+": 5
+    },
+    "skillB": {
+      "Dazzling Staff 1": 1,
+      "Dazzling Staff 2": 2,
+      "Dazzling Staff 3": 4
+    },
+    "skillC": {
+      "Ground Orders 1": 3,
+      "Ground Orders 2": 4,
+      "Ground Orders 3": 5
+    }
+  },
   "Flayn - Silly Kitty-Cat": {
     "weapon": {
       "Assault": 1,
@@ -23646,34 +23645,6 @@
       "Dazzling Staff 2": 3,
       "Dazzling Staff 3": 4,
       "Dazzle Far Trace": 5
-    }
-  },
-  "Flayn - Playing Innocent": {
-    "weapon": {
-      "Assault": 1,
-      "Caduceus Staff": 5
-    },
-    "assist": {
-      "Heal": 1,
-      "Reconcile": 2,
-      "Rescue": 3,
-      "Rescue+": 5
-    },
-    "special": {
-      "Imbue": 2,
-      "Still-Water Balm": 3,
-      "Deluge Balm": 4,
-      "Deluge Balm+": 5
-    },
-    "skillB": {
-      "Dazzling Staff 1": 1,
-      "Dazzling Staff 2": 2,
-      "Dazzling Staff 3": 4
-    },
-    "skillC": {
-      "Ground Orders 1": 3,
-      "Ground Orders 2": 4,
-      "Ground Orders 3": 5
     }
   },
   "Manuela - Silver Caroler": {
@@ -24641,6 +24612,35 @@
       "Time's Pulse 2": 3,
       "Time's Pulse 3": 4,
       "Time's Pulse 4": 5
+    }
+  },
+  "Anna - Twice the Anna": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Payday Pouch": 5
+    },
+    "special": {
+      "Miracle": 3
+    },
+    "skillA": {
+      "Atk/Spd Prime 1": 2,
+      "Atk/Spd Prime 2": 3,
+      "Atk/Spd Prime 3": 4,
+      "Atk/Spd Prime 4": 5
+    },
+    "skillB": {
+      "Gambit 1": 2,
+      "Gambit 2": 3,
+      "Gambit 3": 4,
+      "Gambit 4": 5
+    },
+    "skillC": {
+      "Atk/Spd Rein 1": 2,
+      "Atk/Spd Rein 2": 3,
+      "Atk/Spd Rein 3": 4,
+      "A/S Rein Snap": 5
     }
   },
   "Seadall - Misfortune-Teller": {

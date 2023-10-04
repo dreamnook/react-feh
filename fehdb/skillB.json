@@ -2070,7 +2070,7 @@
   },
   "Dazzle Far Trace": {
     "id": "Dazzle Far Trace",
-    "name": "Dazzle Far Trace",
+    "name": "幻惑・遠影",
     "sp": 300,
     "rules": "white-staff",
     "last": true,

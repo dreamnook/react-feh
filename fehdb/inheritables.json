@@ -9473,7 +9473,7 @@
     "Dazzle Far Trace": {
       "pool": { "special": { "5": ["Flayn - Silly Kitty-Cat"] } },
       "id": "Dazzle Far Trace",
-      "name": "Dazzle Far Trace",
+      "name": "幻惑・遠影",
       "sp": 300,
       "icon": "skillB/Dazzle_Far_Trace"
     },
