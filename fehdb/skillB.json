@@ -2465,6 +2465,15 @@
     "icon": "skillB/Rockslide_Dance_2",
     "last": true
   },
+  "Rockslide Dance 3": {
+    "id": "Rockslide Dance 3",
+    "name": "疾風大地之舞3",
+    "sp": 300,
+    "prev": ["Rockslide Dance 2"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Rockslide_Dance_3",
+    "last": true
+  },
   "Deluge Dance 1": {
     "id": "Deluge Dance 1",
     "name": "疾風靜水之舞1",
@@ -4030,6 +4039,15 @@
     "prev": ["Flow Refresh 2"],
     "rules": "learner.flow-refresh",
     "icon": "skillB/Flow_Refresh_3",
+    "last": true
+  },
+  "Flow Refresh 4": {
+    "id": "Flow Refresh 4",
+    "name": "怒濤・再起4",
+    "sp": 300,
+    "prev": ["Flow Refresh 3"],
+    "rules": "learner.flow-refresh",
+    "icon": "skillB/Flow_Refresh_4",
     "last": true
   },
   "Flow Guard 1": {

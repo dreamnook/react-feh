@@ -200,6 +200,18 @@
     "last": true,
     "icon": "skillA/Rare_Talent"
   },
+  "Beyond Witchery": {
+    "id": "Beyond Witchery",
+    "name": "超越魔女者",
+    "sp": 300,
+    "atk": 8,
+    "spd": 8,
+    "def": 8,
+    "res": 8,
+    "exclusive": ["Sonya - Beautiful Mage"],
+    "last": true,
+    "icon": "skillA/Beyond_Witchery"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

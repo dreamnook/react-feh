@@ -145,7 +145,9 @@
       "Larum - Dancing Bride",
       "Ninian - Ice-Dragon Oracle",
       "Plumeria - Rapturous Dream",
-      "Seadall - Misfortune-Teller"
+      "Seadall - Misfortune-Teller",
+      "Peony - Cherished Dream",
+      "Triandra - Reverent Dream"
     ],
     "last": true
   },
@@ -259,6 +261,22 @@
     "sp": 400,
     "prev": ["Dance"],
     "exclusive": ["Plumeria - Rapturous Dream"],
+    "last": true
+  },
+  "Tender Dream": {
+    "id": "Tender Dream",
+    "name": "溫柔之人的夢",
+    "sp": 400,
+    "prev": ["Dance"],
+    "exclusive": ["Peony - Cherished Dream"],
+    "last": true
+  },
+  "Harrowing Dream": {
+    "id": "Harrowing Dream",
+    "name": "可怕過去的夢",
+    "sp": 400,
+    "prev": ["Dance"],
+    "exclusive": ["Triandra - Reverent Dream"],
     "last": true
   },
   "Heal": {

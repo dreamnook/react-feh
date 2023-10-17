@@ -1344,6 +1344,18 @@
     "skillB": { "Def Cantrip 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Air Orders 3": { "sp": 240, "rarity": 5 } }
   },
+  "Seadall - Misfortune-Teller": {
+    "score": 196,
+    "scoreTotal": 272,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 300,
+    "bst": 172,
+    "skillA": { "Atk/Res Finish 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Inf. Null Follow 3": { "sp": 240, "rarity": 5 } }
+  },
   "Saizo - Angry Ninja": {
     "score": 199,
     "scoreTotal": 279,
@@ -1688,6 +1700,30 @@
     "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
   },
+  "Patty - Youthful Thief": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 187,
+    "assist": { "Pivot": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Dull Ranged 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Fee - Aspiring Knight": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 188,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
+  },
   "L'Arachel - Seeker of Justice": {
     "score": 80,
     "scoreTotal": 302,
@@ -2026,18 +2062,6 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
-  },
-  "Fee - Aspiring Knight": {
-    "score": 185,
-    "scoreTotal": 373,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 300,
-    "bst": 188,
-    "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
-    "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
   },
   "Gerome - Masked Rider": {
     "score": 374,
@@ -3836,18 +3860,6 @@
     "skillA": { "Sturdy Blow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Dull Close 3": { "sp": 240, "rarity": 5 } }
   },
-  "Seadall - Misfortune-Teller": {
-    "score": 254,
-    "scoreTotal": 509,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 1000,
-    "bst": 172,
-    "skillA": { "Atk/Res Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Inf. Null Follow 3": { "sp": 240, "rarity": 5 } }
-  },
   "Soren - Shrewd Strategist": {
     "score": 249,
     "scoreTotal": 511,
@@ -4726,18 +4738,6 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Patty - Youthful Thief": {
-    "score": 240,
-    "scoreTotal": 630,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 1000,
-    "bst": 187,
-    "assist": { "Pivot": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Dull Ranged 3": { "sp": 240, "rarity": 5 } }
   },
   "Sakura - Gentle Nekomata": {
     "score": 212,
@@ -5656,6 +5656,18 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Hestia - Duma's Witch": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Res Ploy 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -7704,6 +7716,19 @@
     "skillB": { "Chill Spd/Def 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk Smoke 3": { "sp": 240, "rarity": 4 } }
   },
+  "Marla - Duma's Witch": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 182,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Inf. Hexblade 3": { "sp": 240, "rarity": 4 } }
+  },
   "Muarim - Raw Instinct": {
     "score": 322,
     "scoreTotal": 746,
@@ -8548,6 +8573,18 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Spd/Res Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Pegasus Flight 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Mycen - Zofia's Champion": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Joint Close Guard": { "sp": 300, "rarity": 5 } }
   },
   "Caeldori - Perfect Angel": {
     "score": 300,
@@ -9479,6 +9516,42 @@
     "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wings of Mercy 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Triandra - Reverent Dream": {
+    "score": 300,
+    "scoreTotal": 900,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 178,
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flow Refresh 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Def Hold": { "sp": 300, "rarity": 5 } }
+  },
+  "Peony - Cherished Dream": {
+    "score": 300,
+    "scoreTotal": 900,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 179,
+    "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Rockslide Dance 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Cross Spur Spd": { "sp": 300, "rarity": 5 } }
+  },
+  "Sonya - Beautiful Mage": {
+    "score": 300,
+    "scoreTotal": 900,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Escape Route 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Res Ploy 3": { "sp": 300, "rarity": 5 } }
   },
   "Fjorm - Princess of Ice": {
     "score": 276,

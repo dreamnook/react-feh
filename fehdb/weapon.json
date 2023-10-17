@@ -2995,6 +2995,16 @@
       "exclusive": ["Elincia - Undaunted Queen"],
       "last": true
     },
+    "Flower of Tribute": {
+      "id": "Flower of Tribute",
+      "name": "犧牲之花",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Triandra - Reverent Dream"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -6675,6 +6685,16 @@
       "exclusive": ["Timerra - Trick or Meat"],
       "last": true
     },
+    "Worldly Lance": {
+      "id": "Worldly Lance",
+      "name": "老練之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Mycen - Zofia's Champion"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -9963,6 +9983,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Anna - Twice the Anna"],
+      "last": true
+    },
+    "Flower of Caring": {
+      "id": "Flower of Caring",
+      "name": "親愛之花",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Peony - Cherished Dream"],
       "last": true
     },
     "Arcane Downfall": {
@@ -18664,6 +18694,39 @@
       },
       "last": true
     },
+    "Rauðrdeer": {
+      "id": "Rauðrdeer",
+      "name": "赤紅之鹿",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Rauðrdeer+": {
+      "id": "Rauðrdeer+",
+      "name": "赤紅之鹿+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Rauðrdeer"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Tomato Tome": {
       "id": "Tomato Tome",
       "name": "番茄之書",
@@ -20297,6 +20360,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Blárlion"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Blárdeer": {
+      "id": "Blárdeer",
+      "name": "蒼藍之鹿",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elthunder", "Ellight"]
+    },
+    "Blárdeer+": {
+      "id": "Blárdeer+",
+      "name": "蒼藍之鹿+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Blárdeer"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -22000,6 +22096,34 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Ced - Sage of the Wind"],
+      "last": true
+    },
+    "Arc. Caliburnus": {
+      "id": "Arc. Caliburnus",
+      "name": "魔器卡力布盧努斯",
+      "mt": 14,
+      "cd": -1,
+      "sp": 300,
+      "rearmed": true,
+      "prev": ["Rexcalibur"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Wind": {

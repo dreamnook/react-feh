@@ -190,7 +190,7 @@
         "refine": 350
       },
       "Protection Edge+": {
-        "pool": { "#": { "4": ["Fee - Aspiring Knight"] } },
+        "pool": { "#": { "3": ["Fee - Aspiring Knight"] } },
         "id": "Protection Edge+",
         "name": "守護劍+",
         "sp": 300,
@@ -1525,7 +1525,7 @@
         "refine": 350
       },
       "Miasma Dagger+": {
-        "pool": { "#": { "5": ["Patty - Youthful Thief"] } },
+        "pool": { "#": { "3": ["Patty - Youthful Thief"] } },
         "id": "Miasma Dagger+",
         "name": "毒煙暗器+",
         "sp": 300,
@@ -1829,6 +1829,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Rauðrdeer+": {
+        "pool": { "grail": { "5": ["Marla - Duma's Witch"] } },
+        "id": "Rauðrdeer+",
+        "name": "赤紅之鹿+",
+        "sp": 300,
+        "refine": 350
+      },
       "Tomato Tome+": {
         "pool": { "special": { "5": ["Leo - Seashore's Prince"] } },
         "id": "Tomato Tome+",
@@ -1974,6 +1981,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Blárdeer+": {
+        "pool": { "#": { "5": ["Hestia - Duma's Witch"] } },
+        "id": "Blárdeer+",
+        "name": "蒼藍之鹿+",
+        "sp": 300,
+        "refine": 350
+      },
       "Blue Egg+": {
         "pool": { "special": { "5": ["Lucina - Spring Exalt"] } },
         "id": "Blue Egg+",
@@ -2109,6 +2123,13 @@
       }
     },
     "green-tome": {
+      "Arc. Caliburnus": {
+        "pool": { "#": { "5": ["Sonya - Beautiful Mage"] } },
+        "id": "Arc. Caliburnus",
+        "name": "魔器卡力布盧努斯",
+        "sp": 300,
+        "refine": 350
+      },
       "Rexcalibur+": {
         "pool": { "#": { "3": ["Soren - Shrewd Strategist"] } },
         "id": "Rexcalibur+",
@@ -2946,9 +2967,9 @@
             "Merlinus - Pherae's Clerk",
             "Norne - The Volunteer",
             "Kent - Crimson Shield",
-            "Cath - Master Thief"
+            "Cath - Master Thief",
+            "Fee - Aspiring Knight"
           ],
-          "4": ["Fee - Aspiring Knight"],
           "5": [
             "Olwen - Blue Mage Knight",
             "Sumia - Maid of Flowers",
@@ -2988,9 +3009,10 @@
             "Cherche - Wyvern Friend",
             "Eirika - Restoration Lady",
             "Marth - Altean Prince",
-            "Colm - Capable Thief"
+            "Colm - Capable Thief",
+            "Patty - Youthful Thief"
           ],
-          "5": ["Kaden - Kitsune Braggart", "Patty - Youthful Thief"]
+          "5": ["Kaden - Kitsune Braggart"]
         },
         "grail": {
           "4": [
@@ -4165,6 +4187,7 @@
             "Edelgard - Hegemon Husk",
             "Gregor - Swell Sword",
             "Líf - Arcane Blade",
+            "Mycen - Zofia's Champion",
             "Nah - Little Miss",
             "Idunn - Dark Priestess",
             "Laegjarn - Sheathed Steel",
@@ -4312,6 +4335,7 @@
             "Innes - Regal Strategician",
             "Fiora - Airborne Warrior",
             "Kiria - Cool Façade",
+            "Hestia - Duma's Witch",
             "Julia - Heart Usurped",
             "Say'ri - Chon'sin's Blade",
             "Est - Sweet Baby Sis",
@@ -4401,7 +4425,8 @@
             "Hilda - Queen of Friege",
             "Salem - Dark Sage",
             "Limstella - Living Construct",
-            "Díthorba - Cutting Knight"
+            "Díthorba - Cutting Knight",
+            "Marla - Duma's Witch"
           ]
         },
         "legendary": { "5": ["Gunnthrá - Voice of Dreams"] },
@@ -4478,6 +4503,7 @@
           "5": [
             "Hinoka - Warrior Princess",
             "Olwen - Righteous Knight",
+            "Sonya - Beautiful Mage",
             "Igrene - Nabata Protector",
             "Ced - Sage of the Wind"
           ]
@@ -6579,6 +6605,7 @@
           "3": ["Kent - Crimson Shield"],
           "5": [
             "Maria - Ritual Sacrifice",
+            "Peony - Cherished Dream",
             "Hinoka - Blue Sky Warrior",
             "Selkie - Free Spirit",
             "Lilith - Astral Daughter",
@@ -6767,6 +6794,7 @@
         "#": {
           "5": [
             "Maria - Ritual Sacrifice",
+            "Peony - Cherished Dream",
             "Marianne - Serene Adherent",
             "Tana - Soaring Princess"
           ]
@@ -7914,7 +7942,10 @@
     },
     "Atk/Res Ideal 3": {
       "pool": {
-        "#": { "3": ["Elice - Altean Princess"] },
+        "#": {
+          "3": ["Elice - Altean Princess"],
+          "5": ["Hestia - Duma's Witch"]
+        },
         "grail": {
           "5": [
             "Lucius - Calming Light",
@@ -7944,8 +7975,8 @@
     "Spd/Def Ideal 3": {
       "pool": {
         "#": {
-          "3": ["Kamui - Wandering Blade"],
-          "5": ["Patty - Youthful Thief", "Hugh - Worldly Mage"]
+          "3": ["Patty - Youthful Thief", "Kamui - Wandering Blade"],
+          "5": ["Hugh - Worldly Mage"]
         }
       },
       "id": "Spd/Def Ideal 3",
@@ -8004,7 +8035,13 @@
     },
     "Atk/Spd Clash 3": {
       "pool": {
-        "#": { "5": ["Seliph - Enduring Legacy", "Chrom - Fell Exalt"] },
+        "#": {
+          "5": [
+            "Seliph - Enduring Legacy",
+            "Triandra - Reverent Dream",
+            "Chrom - Fell Exalt"
+          ]
+        },
         "legendary": { "5": ["Elincia - Undaunted Queen"] },
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
@@ -8028,7 +8065,13 @@
     },
     "Atk/Spd Clash 4": {
       "pool": {
-        "#": { "5": ["Seliph - Enduring Legacy", "Chrom - Fell Exalt"] },
+        "#": {
+          "5": [
+            "Seliph - Enduring Legacy",
+            "Triandra - Reverent Dream",
+            "Chrom - Fell Exalt"
+          ]
+        },
         "legendary": { "5": ["Elincia - Undaunted Queen"] },
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
@@ -8049,7 +8092,7 @@
     },
     "Atk/Def Clash 3": {
       "pool": {
-        "#": { "5": ["Líf - Arcane Blade"] },
+        "#": { "5": ["Líf - Arcane Blade", "Mycen - Zofia's Champion"] },
         "mythic": { "5": ["Freyr - Dream-King"] },
         "special": {
           "5": ["Flavia - Bold Bride", "Ephraim - Sunshine Valiant"]
@@ -8062,7 +8105,7 @@
     },
     "Atk/Def Clash 4": {
       "pool": {
-        "#": { "5": ["Líf - Arcane Blade"] },
+        "#": { "5": ["Líf - Arcane Blade", "Mycen - Zofia's Champion"] },
         "mythic": { "5": ["Freyr - Dream-King"] },
         "special": { "5": ["Ephraim - Sunshine Valiant"] }
       },
@@ -8149,7 +8192,7 @@
     "Atk/Res Finish 3": {
       "pool": {
         "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] },
-        "special": { "5": ["Seadall - Misfortune-Teller"] }
+        "special": { "4": ["Seadall - Misfortune-Teller"] }
       },
       "id": "Atk/Res Finish 3",
       "name": "攻擊魔防的奧秘3",
@@ -8370,7 +8413,11 @@
             "Marth - Altean Prince",
             "Chad - Lycian Wildcat"
           ],
-          "5": ["Ninian - Oracle of Destiny", "Yarne - Timid Taguel"]
+          "5": [
+            "Ninian - Oracle of Destiny",
+            "Sonya - Beautiful Mage",
+            "Yarne - Timid Taguel"
+          ]
         },
         "grail": {
           "5": [
@@ -8389,7 +8436,10 @@
       "icon": "skillB/Escape_Route_3"
     },
     "Escape Route 4": {
-      "pool": { "special": { "5": ["Bernadetta - Late Hibernator"] } },
+      "pool": {
+        "#": { "5": ["Sonya - Beautiful Mage"] },
+        "special": { "5": ["Bernadetta - Late Hibernator"] }
+      },
       "id": "Escape Route 4",
       "name": "脫離路線4",
       "sp": 300,
@@ -9189,7 +9239,13 @@
     "Sabotage Res 3": {
       "pool": {
         "#": { "3": ["Bastian - Crimea's Keystone"] },
-        "grail": { "5": ["Sophia - Cobweb Prophet", "Solon - Church Shadow"] },
+        "grail": {
+          "5": [
+            "Sophia - Cobweb Prophet",
+            "Solon - Church Shadow",
+            "Marla - Duma's Witch"
+          ]
+        },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
         "mythic": { "5": ["Yune - Chaos Goddess"] },
         "special": { "5": ["Ivy - Tidal Breeze"] },
@@ -9524,7 +9580,7 @@
     "Aerobatics 3": {
       "pool": {
         "#": {
-          "4": ["Fee - Aspiring Knight"],
+          "3": ["Fee - Aspiring Knight"],
           "5": [
             "Nino - Pale Flower",
             "Petra - Princess of Brigid",
@@ -9709,11 +9765,21 @@
       "icon": "skillB/Fireflood_Dance_2"
     },
     "Rockslide Dance 2": {
-      "pool": { "special": { "5": ["Elincia - Estival Princess"] } },
+      "pool": {
+        "#": { "5": ["Peony - Cherished Dream"] },
+        "special": { "5": ["Elincia - Estival Princess"] }
+      },
       "id": "Rockslide Dance 2",
       "name": "疾風大地之舞2",
       "sp": 240,
       "icon": "skillB/Rockslide_Dance_2"
+    },
+    "Rockslide Dance 3": {
+      "pool": { "#": { "5": ["Peony - Cherished Dream"] } },
+      "id": "Rockslide Dance 3",
+      "name": "疾風大地之舞3",
+      "sp": 300,
+      "icon": "skillB/Rockslide_Dance_3"
     },
     "Deluge Dance 2": {
       "pool": { "#": { "3": ["Silvia - Traveling Dancer"] } },
@@ -9780,10 +9846,7 @@
     },
     "Dull Ranged 3": {
       "pool": {
-        "#": {
-          "3": ["Morgan - Lad from Afar"],
-          "5": ["Patty - Youthful Thief"]
-        },
+        "#": { "3": ["Patty - Youthful Thief", "Morgan - Lad from Afar"] },
         "grail": { "4": ["Felix - Icy Gift Giver"] },
         "special": { "5": ["Pent - Fancy Fiancé"] }
       },
@@ -10612,7 +10675,7 @@
     },
     "Flow Refresh 3": {
       "pool": {
-        "#": { "5": ["Sain - Green Lance"] },
+        "#": { "5": ["Triandra - Reverent Dream", "Sain - Green Lance"] },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
         "mythic": { "5": ["Ótr - Kingsbrother"] },
         "harmonized": { "5": ["Caeda - Sea-Blossom Pair"] }
@@ -10621,6 +10684,13 @@
       "name": "怒濤・再起3",
       "sp": 240,
       "icon": "skillB/Flow_Refresh_3"
+    },
+    "Flow Refresh 4": {
+      "pool": { "#": { "5": ["Triandra - Reverent Dream"] } },
+      "id": "Flow Refresh 4",
+      "name": "怒濤・再起4",
+      "sp": 300,
+      "icon": "skillB/Flow_Refresh_4"
     },
     "Flow Guard 3": {
       "pool": {
@@ -10869,7 +10939,7 @@
             "Saizo - Angry Ninja",
             "Jeorge - Perfect Shot"
           ],
-          "5": ["Lyn - Lady of the Plains"]
+          "5": ["Lyn - Lady of the Plains", "Peony - Cherished Dream"]
         }
       },
       "id": "Spur Spd 3",
@@ -10983,6 +11053,13 @@
       "sp": 300,
       "icon": "skillC/Cross_Spur_Atk"
     },
+    "Cross Spur Spd": {
+      "pool": { "#": { "5": ["Peony - Cherished Dream"] } },
+      "id": "Cross Spur Spd",
+      "name": "十字速度紋章",
+      "sp": 300,
+      "icon": "skillC/Cross_Spur_Spd"
+    },
     "Cross Spur Res": {
       "pool": {
         "mythic": { "5": ["Peony - Sweet Dream"] },
@@ -11038,8 +11115,11 @@
     "Drive Spd 2": {
       "pool": {
         "#": {
-          "3": ["Tailtiu - Thunder Noble", "Kiragi - Upbeat Archer"],
-          "4": ["Fee - Aspiring Knight"],
+          "3": [
+            "Fee - Aspiring Knight",
+            "Tailtiu - Thunder Noble",
+            "Kiragi - Upbeat Archer"
+          ],
           "5": [
             "Lucina - Brave Princess",
             "Ronan - Villager of Iz",
@@ -11175,7 +11255,11 @@
       "pool": {
         "#": {
           "3": ["Natasha - Sacred Healer", "Balthus - King of Grappling"],
-          "5": ["Veronica - Brave Princess", "Bernadetta - Eternal Loner"]
+          "5": [
+            "Veronica - Brave Princess",
+            "Mycen - Zofia's Champion",
+            "Bernadetta - Eternal Loner"
+          ]
         },
         "grail": {
           "4": ["Death Knight - The Reaper"],
@@ -11230,6 +11314,13 @@
       "name": "遠距離警戒3",
       "sp": 240,
       "icon": "skillC/Distant_Guard_3"
+    },
+    "Joint Close Guard": {
+      "pool": { "#": { "5": ["Mycen - Zofia's Champion"] } },
+      "id": "Joint Close Guard",
+      "name": "近距離相互警戒",
+      "sp": 300,
+      "icon": "skillC/Joint_Close_Guard"
     },
     "Joint Dist. Guard": {
       "pool": {
@@ -11413,7 +11504,13 @@
     },
     "Spd/Def Rein 3": {
       "pool": {
-        "#": { "5": ["Ingrid - Beacon of Honor", "Jill - Fiery Dracoknight"] },
+        "#": {
+          "5": [
+            "Ingrid - Beacon of Honor",
+            "Triandra - Reverent Dream",
+            "Jill - Fiery Dracoknight"
+          ]
+        },
         "legendary": { "5": ["Claude - King of Unification"] },
         "special": {
           "5": [
@@ -11494,7 +11591,7 @@
     },
     "Spd/Def Hold": {
       "pool": {
-        "#": { "5": ["Ingrid - Beacon of Honor"] },
+        "#": { "5": ["Ingrid - Beacon of Honor", "Triandra - Reverent Dream"] },
         "harmonized": { "5": ["Tana - Soothing Warmth"] }
       },
       "id": "Spd/Def Hold",
@@ -12209,8 +12306,10 @@
           "3": ["Forrest - Fashion Forward", "Ilyana - Hungering Mage"],
           "5": [
             "Sonya - Vengeful Mage",
+            "Hestia - Duma's Witch",
             "Lute - Prodigy",
-            "Plumeria - Rapturous Dream"
+            "Plumeria - Rapturous Dream",
+            "Sonya - Beautiful Mage"
           ]
         },
         "grail": { "5": ["Arete - Requiem's Beauty"] },
@@ -12221,6 +12320,13 @@
       "name": "魔防謀策3",
       "sp": 240,
       "icon": "skillC/Res_Ploy_3"
+    },
+    "Atk/Res Ploy 3": {
+      "pool": { "#": { "5": ["Sonya - Beautiful Mage"] } },
+      "id": "Atk/Res Ploy 3",
+      "name": "攻擊魔防謀策3",
+      "sp": 300,
+      "icon": "skillC/Atk_Res_Ploy_3"
     },
     "Def/Res Ploy 3": {
       "pool": { "#": { "5": ["Plumeria - Rapturous Dream"] } },
@@ -12563,6 +12669,7 @@
     "Inf. Hexblade 3": {
       "pool": {
         "#": { "5": ["Hubert - Sinister Servant"] },
+        "grail": { "4": ["Marla - Duma's Witch"] },
         "special": { "4": ["Xane - Autumn Trickster"] }
       },
       "id": "Inf. Hexblade 3",

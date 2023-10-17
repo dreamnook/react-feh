@@ -636,6 +636,14 @@
     "last": true,
     "icon": "skillC/Cross_Spur_Atk"
   },
+  "Cross Spur Spd": {
+    "id": "Cross Spur Spd",
+    "name": "十字速度紋章",
+    "sp": 300,
+    "prev": ["Spur Spd 3"],
+    "last": true,
+    "icon": "skillC/Cross_Spur_Spd"
+  },
   "Cross Spur Res": {
     "id": "Cross Spur Res",
     "name": "十字魔防紋章",
@@ -777,6 +785,14 @@
     "prev": ["Distant Guard 2"],
     "icon": "skillC/Distant_Guard_3",
     "last": true
+  },
+  "Joint Close Guard": {
+    "id": "Joint Close Guard",
+    "name": "近距離相互警戒",
+    "sp": 300,
+    "prev": ["Close Guard 3"],
+    "last": true,
+    "icon": "skillC/Joint_Close_Guard"
   },
   "Joint Dist. Guard": {
     "id": "Joint Dist. Guard",
@@ -1745,6 +1761,14 @@
     "prev": ["Res Ploy 2"],
     "icon": "skillC/Res_Ploy_3",
     "last": true
+  },
+  "Atk/Res Ploy 3": {
+    "id": "Atk/Res Ploy 3",
+    "name": "攻擊魔防謀策3",
+    "sp": 300,
+    "prev": ["Atk Ploy 3", "Res Ploy 3"],
+    "last": true,
+    "icon": "skillC/Atk_Res_Ploy_3"
   },
   "Def/Res Ploy 3": {
     "id": "Def/Res Ploy 3",
