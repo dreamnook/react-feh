@@ -9527,7 +9527,8 @@
     "bst": 178,
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Flow Refresh 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Spd/Def Hold": { "sp": 300, "rarity": 5 } }
+    "skillC": { "Spd/Def Hold": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Death Blow Echo": { "sp": 0, "rarity": 5 } }
   },
   "Peony - Cherished Dream": {
     "score": 300,
@@ -9539,7 +9540,8 @@
     "bst": 179,
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Rockslide Dance 3": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Cross Spur Spd": { "sp": 300, "rarity": 5 } }
+    "skillC": { "Cross Spur Spd": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Atk Oath Echo": { "sp": 0, "rarity": 5 } }
   },
   "Sonya - Beautiful Mage": {
     "score": 300,

@@ -13810,5 +13810,21 @@
       "sp": 120,
       "icon": "skillC/Beast_Valor_3"
     }
+  },
+  "skillX": {
+    "Death Blow Echo": {
+      "pool": { "#": { "5": ["Triandra - Reverent Dream"] } },
+      "id": "Death Blow Echo",
+      "name": "響・鬼神一擊",
+      "sp": 0,
+      "icon": "skillX/Death_Blow_Echo"
+    },
+    "Atk Oath Echo": {
+      "pool": { "#": { "5": ["Peony - Cherished Dream"] } },
+      "id": "Atk Oath Echo",
+      "name": "響・攻擊的信義",
+      "sp": 0,
+      "icon": "skillX/Atk_Oath_Echo"
+    }
   }
 }
