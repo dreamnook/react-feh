@@ -3,6 +3,7 @@
     "id": "Death Blow Echo",
     "name": "響・鬼神一擊",
     "sp": 0,
+    "rules": "not.white-staff",
     "last": true,
     "icon": "skillX/Death_Blow_Echo"
   },
@@ -10,6 +11,7 @@
     "id": "Atk Oath Echo",
     "name": "響・攻擊的信義",
     "sp": 0,
+    "rules": "learner.oath-skills",
     "last": true,
     "icon": "skillX/Atk_Oath_Echo"
   }
