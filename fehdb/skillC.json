@@ -415,7 +415,6 @@
   "Fell Protection": {
     "id": "Fell Protection",
     "name": "邪龍的救濟",
-    "cd": 1,
     "sp": 300,
     "exclusive": ["Veyle - Gentle Dragon"],
     "last": true,
