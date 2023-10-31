@@ -20039,6 +20039,16 @@
       "exclusive": ["Gullveig - Seer Beyond Time"],
       "last": true
     },
+    "Obscurité": {
+      "id": "Obscurité",
+      "name": "暗黑無光",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Veyle - Gentle Dragon"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",

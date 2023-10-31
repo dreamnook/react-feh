@@ -4364,7 +4364,8 @@
             "Altina - Dawn's Trueblade",
             "Eir - Merciful Death",
             "Seiðr - Goddess of Hope",
-            "Gotoh - White Sage"
+            "Gotoh - White Sage",
+            "Veyle - Gentle Dragon"
           ]
         },
         "special": {
@@ -8192,6 +8193,7 @@
     "Atk/Res Finish 3": {
       "pool": {
         "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] },
+        "mythic": { "5": ["Veyle - Gentle Dragon"] },
         "special": { "4": ["Seadall - Misfortune-Teller"] }
       },
       "id": "Atk/Res Finish 3",
@@ -8201,7 +8203,8 @@
     },
     "Atk/Res Finish 4": {
       "pool": {
-        "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] }
+        "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] },
+        "mythic": { "5": ["Veyle - Gentle Dragon"] }
       },
       "id": "Atk/Res Finish 4",
       "name": "攻擊魔防的奧秘4",
@@ -10740,13 +10743,26 @@
     "Atk/Res Tempo 3": {
       "pool": {
         "legendary": { "5": ["Deirdre - Fated Saint"] },
-        "mythic": { "5": ["Bramimond - The Enigma", "Arval - Cycle Keeper"] },
+        "mythic": {
+          "5": [
+            "Bramimond - The Enigma",
+            "Arval - Cycle Keeper",
+            "Veyle - Gentle Dragon"
+          ]
+        },
         "duo": { "5": ["Askr - Renewed Gods"] }
       },
       "id": "Atk/Res Tempo 3",
       "name": "攻擊魔防節拍3",
       "sp": 240,
       "icon": "skillB/Atk_Res_Tempo_3"
+    },
+    "Atk/Res Tempo 4": {
+      "pool": { "mythic": { "5": ["Veyle - Gentle Dragon"] } },
+      "id": "Atk/Res Tempo 4",
+      "name": "攻擊魔防節拍4",
+      "sp": 300,
+      "icon": "skillB/Atk_Res_Tempo_4"
     },
     "Spd/Def Tempo 3": {
       "pool": { "special": { "5": ["Mia - Budding Blade"] } },

@@ -412,6 +412,15 @@
     "last": true,
     "icon": "skillC/Heart_of_Crimea"
   },
+  "Fell Protection": {
+    "id": "Fell Protection",
+    "name": "邪龍的救濟",
+    "cd": 1,
+    "sp": 300,
+    "exclusive": ["Veyle - Gentle Dragon"],
+    "last": true,
+    "icon": "skillC/Fell_Protection"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

@@ -44340,5 +44340,42 @@
     "book": 7,
     "ver": "7.7",
     "dfKey": 5
+  },
+  "Veyle - Gentle Dragon": {
+    "id": "Veyle - Gentle Dragon",
+    "title": "善良的龍",
+    "name": "貝珥",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "astra-def-2",
+    "releaseDate": "2023-10-31",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [43, 46, 50],
+        "spd": [26, 30, 33],
+        "def": [18, 21, 24],
+        "res": [43, 46, 50]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 16,
+        "spd": 8,
+        "def": 4,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.10",
+    "dfKey": 6
   }
 }

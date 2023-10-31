@@ -24846,5 +24846,32 @@
       "Windsweep 2": 4,
       "Windsweep 3": 5
     }
+  },
+  "Veyle - Gentle Dragon": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Thoron": 4,
+      "Obscurité": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Atk/Res Finish 1": 2,
+      "Atk/Res Finish 2": 3,
+      "Atk/Res Finish 3": 4,
+      "Atk/Res Finish 4": 5
+    },
+    "skillB": {
+      "Atk/Res Tempo 1": 2,
+      "Atk/Res Tempo 2": 3,
+      "Atk/Res Tempo 3": 4,
+      "Atk/Res Tempo 4": 5
+    },
+    "skillC": {
+      "Fell Protection": 5
+    }
   }
 }

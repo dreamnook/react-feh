@@ -6832,6 +6832,19 @@
     "skillA": { "Distant Ferocity": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Hone Def": { "sp": 300, "rarity": 5 } }
   },
+  "Veyle - Gentle Dragon": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Tempo 4": { "sp": 300, "rarity": 5 } }
+  },
   "Nanna - Beloved Princess": {
     "score": 276,
     "scoreTotal": 736,

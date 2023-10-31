@@ -4194,6 +4194,15 @@
     "icon": "skillB/Atk_Res_Tempo_3",
     "last": true
   },
+  "Atk/Res Tempo 4": {
+    "id": "Atk/Res Tempo 4",
+    "name": "攻擊魔防節拍4",
+    "sp": 300,
+    "prev": ["Atk/Res Tempo 3"],
+    "rules": "infantry",
+    "icon": "skillB/Atk_Res_Tempo_4",
+    "last": true
+  },
   "Spd/Def Tempo 1": {
     "id": "Spd/Def Tempo 1",
     "name": "速度防守節拍1",
