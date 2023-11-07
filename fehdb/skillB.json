@@ -303,6 +303,16 @@
     "last": true,
     "icon": "skillB/Blue_Lion_Rule"
   },
+  "Atrocity II": {
+    "id": "Atrocity II",
+    "name": "無慘・承",
+    "cd": 1,
+    "sp": 300,
+    "prev": ["Atrocity"],
+    "exclusive": ["Dimitri - Savior King"],
+    "last": true,
+    "icon": "skillB/Atrocity_II"
+  },
   "Atrocity": {
     "id": "Atrocity",
     "name": "無慘",

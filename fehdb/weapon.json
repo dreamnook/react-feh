@@ -3005,6 +3005,38 @@
       "exclusive": ["Triandra - Reverent Dream"],
       "last": true
     },
+    "Brilliant Rapier": {
+      "id": "Brilliant Rapier",
+      "name": "光明刺劍",
+      "mt": 16,
+      "spd": 3,
+      "sp": 400,
+      "exclusive": ["Marth - Legacied Hero"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Brilliant_Rapier_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -5626,6 +5658,29 @@
       "def": 3,
       "sp": 400,
       "exclusive": ["Altena - Luminous Rider"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Earthly_Gáe_Bolg_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Mirage Feather": {
@@ -5950,6 +6005,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Dimitri - Savior King"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Areadbhar_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Obsidian Lance": {
@@ -9041,6 +9119,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Osian - Scolded Soldier"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Vouge_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arthur's Axe": {
@@ -9082,6 +9183,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Mamori - Microwavin' Idol"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Mirage_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Devil Axe": {
@@ -9993,6 +10117,37 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Peony - Cherished Dream"],
+      "last": true
+    },
+    "Flame Battleaxe": {
+      "id": "Flame Battleaxe",
+      "name": "炎帝的烈斧",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Flame Emperor - Bringer of War"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Flame_Battleaxe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Downfall": {
@@ -17999,6 +18154,28 @@
       "res": 3,
       "sp": 400,
       "exclusive": ["Plumeria - Lewd Dream"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Flower_of_Plenty_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Studied Forblaze": {

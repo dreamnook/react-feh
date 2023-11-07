@@ -179,6 +179,14 @@
     "exclusive": ["Nils - Bright Bard", "Nils - Wandering Star"],
     "last": true
   },
+  "Sweet Dreams+": {
+    "id": "Sweet Dreams+",
+    "name": "甜蜜夢境・神",
+    "sp": 400,
+    "prev": ["Sweet Dreams"],
+    "exclusive": ["Plumeria - Lewd Dream"],
+    "last": true
+  },
   "Sweet Dreams": {
     "id": "Sweet Dreams",
     "name": "甜蜜夢境",

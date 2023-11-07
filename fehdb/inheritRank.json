@@ -6365,19 +6365,6 @@
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
-  "Plumeria - Lewd Dream": {
-    "score": 276,
-    "scoreTotal": 718,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 152,
-    "skillA": { "Atk/Res Push 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Sabotage Spd 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 5 } }
-  },
   "Ninian - Ice-Dragon Oracle": {
     "score": 276,
     "scoreTotal": 718,
@@ -7885,6 +7872,19 @@
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Cross Spur Res": { "sp": 300, "rarity": 5 } }
   },
+  "Plumeria - Lewd Dream": {
+    "score": 276,
+    "scoreTotal": 773,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 840,
+    "feather": 1000,
+    "bst": 152,
+    "skillA": { "Atk/Res Push 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Sabotage Spd 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Res Hold": { "sp": 300, "rarity": 5 } }
+  },
   "Mirabilis - Daydream": {
     "score": 276,
     "scoreTotal": 773,
@@ -7908,7 +7908,7 @@
     "feather": 1000,
     "bst": 180,
     "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
-    "skillA": { "Sturdy Impact": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
   "Hubert - Sinister Servant": {

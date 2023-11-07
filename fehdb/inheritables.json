@@ -8043,7 +8043,9 @@
             "Chrom - Fell Exalt"
           ]
         },
-        "legendary": { "5": ["Elincia - Undaunted Queen"] },
+        "legendary": {
+          "5": ["Elincia - Undaunted Queen", "Dimitri - Savior King"]
+        },
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
@@ -8073,7 +8075,9 @@
             "Chrom - Fell Exalt"
           ]
         },
-        "legendary": { "5": ["Elincia - Undaunted Queen"] },
+        "legendary": {
+          "5": ["Elincia - Undaunted Queen", "Dimitri - Savior King"]
+        },
         "mythic": {
           "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
         },
@@ -11596,6 +11600,7 @@
     },
     "Atk/Res Hold": {
       "pool": {
+        "mythic": { "5": ["Plumeria - Lewd Dream"] },
         "special": {
           "5": ["Sophia - Prescient Bride", "Camilla - Midnight Bloom"]
         }
