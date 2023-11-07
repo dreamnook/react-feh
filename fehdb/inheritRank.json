@@ -6611,6 +6611,19 @@
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
+  "Reina - Sanguine Shinobi": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd/Def Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Elm - Resolute Grouch": {
     "score": 254,
     "scoreTotal": 721,
@@ -8850,6 +8863,19 @@
     "skillA": { "Bracing Stance 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd Cantrip 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ground Orders 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Saizo - Hoshido's Flame": {
+    "score": 318,
+    "scoreTotal": 827,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 780,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Growing Flame": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Def Solo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Def Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Sharena - Spring Princess": {
     "score": 318,
@@ -11794,6 +11820,19 @@
     "skillA": { "Atk/Def Push 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Hold": { "sp": 300, "rarity": 5 } }
   },
+  "Heather - Wandering Ninja": {
+    "score": 424,
+    "scoreTotal": 1060,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 1000,
+    "feather": 1000,
+    "bst": 187,
+    "assist": { "Rally Atk/Spd+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Ruse 4": { "sp": 300, "rarity": 5 } }
+  },
   "Igrene - Nabata Protector": {
     "score": 300,
     "scoreTotal": 1080,
@@ -12240,6 +12279,20 @@
     "skillB": { "Sabotage A/R 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
   },
+  "Zelgius - Ninja Knight": {
+    "score": 318,
+    "scoreTotal": 1102,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 201,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant D/R Solo": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Special Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Assault Troop 3": { "sp": 240, "rarity": 5 } }
+  },
   "Shinon - Sharptongue Ninja": {
     "score": 530,
     "scoreTotal": 1102,
@@ -12405,6 +12458,20 @@
     "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Sanaki - Dawnsworn Ninja": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flared Mirror": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Sabotage A/R 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
   },
   "Claude - Golden Breeze": {
     "score": 530,

@@ -15173,6 +15173,31 @@
       "Even Tempest 3": 4
     }
   },
+  "Heather - Wandering Ninja": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 4,
+      "Spy's Shuriken": 5
+    },
+    "assist": {
+      "Rally Speed": 4,
+      "Rally Atk/Spd": 4,
+      "Rally Atk/Spd+": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Remote Sparrow": 5
+    },
+    "skillB": {
+      "Spd/Def Ruse 1": 2,
+      "Spd/Def Ruse 2": 3,
+      "Spd/Def Ruse 3": 4,
+      "Spd/Def Ruse 4": 5
+    }
+  },
   "Geoffrey - Realm's Protector": {
     "weapon": {
       "Iron Lance": 1,
@@ -15862,6 +15887,36 @@
       "Hone Atk 3": 4
     }
   },
+  "Sanaki - Dawnsworn Ninja": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bolganone": 4,
+      "Radiant Scrolls": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Warding Blow 1": 2,
+      "Mirror Strike 1": 3,
+      "Mirror Strike 2": 4,
+      "Flared Mirror": 5
+    },
+    "skillB": {
+      "Sabotage Res 1": 2,
+      "Sabotage Res 2": 3,
+      "Sabotage Res 3": 4,
+      "Sabotage A/R 3": 5
+    },
+    "skillC": {
+      "Def Ploy 1": 2,
+      "Def Ploy 2": 3,
+      "Def Ploy 3": 4,
+      "Def/Res Ploy 3": 5
+    }
+  },
   "Zelgius - Jet-Black General": {
     "weapon": {
       "Iron Sword": 1,
@@ -15886,6 +15941,34 @@
       "Panic Ploy 1": 1,
       "Panic Ploy 2": 2,
       "Panic Ploy 3": 4
+    }
+  },
+  "Zelgius - Ninja Knight": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Scarlet Spear": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4,
+      "Lightless Luna": 5
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "Distant D/R Solo": 5
+    },
+    "skillB": {
+      "Special Fighter 1": 2,
+      "Special Fighter 2": 3,
+      "Special Fighter 3": 4,
+      "Special Fighter 4": 5
+    },
+    "skillC": {
+      "Assault Troop 1": 1,
+      "Assault Troop 2": 2,
+      "Assault Troop 3": 4
     }
   },
   "Oliver - Admirer of Beauty": {
@@ -15954,6 +16037,32 @@
       "Atk/Def Oath 3": 5
     }
   },
+  "Ashera - Order Goddess": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Order's Sentence": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillA": {
+      "Atk/Res Ideal 1": 2,
+      "Atk/Res Ideal 2": 3,
+      "Atk/Res Ideal 3": 4,
+      "Atk/Res Ideal 4": 5
+    },
+    "skillB": {
+      "Lull Spd/Res 1": 1,
+      "Lull Spd/Res 2": 2,
+      "Lull Spd/Res 3": 4
+    },
+    "skillC": {
+      "Order's Restraint": 5
+    }
+  },
   "Yune - Chaos Goddess": {
     "weapon": {
       "Wind": 1,
@@ -15979,32 +16088,6 @@
     "skillC": {
       "Chaos Named": 5,
       "Chaos Named+": 5
-    }
-  },
-  "Ashera - Order Goddess": {
-    "weapon": {
-      "Stone": 1,
-      "Elstone": 2,
-      "Atlas": 4,
-      "Order's Sentence": 5
-    },
-    "special": {
-      "Chilling Wind": 4,
-      "Glacies": 4
-    },
-    "skillA": {
-      "Atk/Res Ideal 1": 2,
-      "Atk/Res Ideal 2": 3,
-      "Atk/Res Ideal 3": 4,
-      "Atk/Res Ideal 4": 5
-    },
-    "skillB": {
-      "Lull Spd/Res 1": 1,
-      "Lull Spd/Res 2": 2,
-      "Lull Spd/Res 3": 4
-    },
-    "skillC": {
-      "Order's Restraint": 5
     }
   },
   "Chrom - Exalted Prince": {
@@ -19372,6 +19455,28 @@
       "Spur Spd 3": 5
     }
   },
+  "Saizo - Hoshido's Flame": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Kumo Naginata": 3,
+      "Kumo Naginata+": 5
+    },
+    "special": {
+      "Rising Flame": 4,
+      "Growing Flame": 4
+    },
+    "skillA": {
+      "Atk/Def Solo 1": 3,
+      "Atk/Def Solo 2": 4,
+      "Atk/Def Solo 3": 5
+    },
+    "skillC": {
+      "Def Smoke 1": 1,
+      "Def Smoke 2": 2,
+      "Def Smoke 3": 4
+    }
+  },
   "Kagero - Honorable Ninja": {
     "weapon": {
       "Iron Dagger": 1,
@@ -21740,6 +21845,28 @@
       "A/S Near Save 1": 1,
       "A/S Near Save 2": 2,
       "A/S Near Save 3": 4
+    }
+  },
+  "Reina - Sanguine Shinobi": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Kumo Yumi": 3,
+      "Kumo Yumi+": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 1,
+      "Atk/Spd Catch 2": 2,
+      "Atk/Spd Catch 3": 4
+    },
+    "skillC": {
+      "Spd/Def Rein 1": 3,
+      "Spd/Def Rein 2": 4,
+      "Spd/Def Rein 3": 5
     }
   },
   "Byleth - Proven Professor": {

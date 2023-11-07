@@ -26936,6 +26936,41 @@
     "ver": "7.2",
     "dfKey": 5
   },
+  "Heather - Wandering Ninja": {
+    "id": "Heather - Wandering Ninja",
+    "title": "流浪忍者",
+    "name": "海瑟",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-dagger",
+    "pool": "special",
+    "releaseDate": "2023-11-07",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [39, 42, 46],
+        "spd": [44, 47, 51],
+        "def": [24, 27, 31],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 8,
+        "def": 8,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd", "def"],
+    "flaws": ["res"],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
+  },
   "Geoffrey - Realm's Protector": {
     "id": "Geoffrey - Realm's Protector",
     "title": "女王的騎士",
@@ -28208,6 +28243,42 @@
     "ver": "1.0",
     "dfKey": 1
   },
+  "Sanaki - Dawnsworn Ninja": {
+    "id": "Sanaki - Dawnsworn Ninja",
+    "title": "向破曉起誓的雙忍",
+    "name": "莎娜琪",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-tome",
+    "bst": 205,
+    "pool": "duo",
+    "releaseDate": "2023-11-07",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 51],
+        "spd": [21, 24, 28],
+        "def": [12, 16, 19],
+        "res": [43, 47, 50]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 5,
+        "def": 3,
+        "res": 14
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 174,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
+  },
   "Zelgius - Jet-Black General": {
     "id": "Zelgius - Jet-Black General",
     "title": "漆黑之將",
@@ -28241,6 +28312,41 @@
     "book": 2,
     "ver": "2.1",
     "dfKey": 2
+  },
+  "Zelgius - Ninja Knight": {
+    "id": "Zelgius - Ninja Knight",
+    "title": "紅漆忍者",
+    "name": "塞爾吉烏斯",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2023-11-07",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [46, 49, 52],
+        "atk": [44, 47, 51],
+        "spd": [12, 16, 19],
+        "def": [44, 47, 50],
+        "res": [38, 42, 45]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 17,
+        "spd": 3,
+        "def": 10,
+        "res": 9
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd", "res"],
+    "statMin": 201,
+    "statMax": 205,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
   },
   "Oliver - Admirer of Beauty": {
     "id": "Oliver - Admirer of Beauty",
@@ -28417,43 +28523,6 @@
     "ver": "6.11",
     "dfKey": 5
   },
-  "Yune - Chaos Goddess": {
-    "id": "Yune - Chaos Goddess",
-    "title": "甦醒的負之女神",
-    "name": "芸娜",
-    "rarity": [5],
-    "colorType": "green",
-    "moveType": "flying",
-    "weaponType": "green-tome",
-    "pool": "mythic",
-    "blesser": "mythic",
-    "blessing": "dark-spd",
-    "releaseDate": "2019-03-29",
-    "appearsIn": ["Radiant Dawn"],
-    "stats": {
-      "5": {
-        "hp": [34, 38, 41],
-        "atk": [30, 33, 36],
-        "spd": [23, 27, 30],
-        "def": [12, 15, 19],
-        "res": [34, 37, 40]
-      },
-      "5-1": {
-        "hp": 16,
-        "atk": 9,
-        "spd": 5,
-        "def": 5,
-        "res": 9
-      }
-    },
-    "assets": ["def"],
-    "flaws": ["hp", "spd"],
-    "statMin": 150,
-    "statMax": 150,
-    "book": 3,
-    "ver": "3.3",
-    "dfKey": 2
-  },
   "Ashera - Order Goddess": {
     "id": "Ashera - Order Goddess",
     "title": "甦醒的正之女神",
@@ -28490,6 +28559,43 @@
     "book": 5,
     "ver": "5.5",
     "dfKey": 3
+  },
+  "Yune - Chaos Goddess": {
+    "id": "Yune - Chaos Goddess",
+    "title": "甦醒的負之女神",
+    "name": "芸娜",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-tome",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "dark-spd",
+    "releaseDate": "2019-03-29",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [30, 33, 36],
+        "spd": [23, 27, 30],
+        "def": [12, 15, 19],
+        "res": [34, 37, 40]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 5,
+        "def": 5,
+        "res": 9
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["hp", "spd"],
+    "statMin": 150,
+    "statMax": 150,
+    "book": 3,
+    "ver": "3.3",
+    "dfKey": 2
   },
   "Chrom - Exalted Prince": {
     "id": "Chrom - Exalted Prince",
@@ -34692,6 +34798,41 @@
     "ver": "1.0",
     "dfKey": 1
   },
+  "Saizo - Hoshido's Flame": {
+    "id": "Saizo - Hoshido's Flame",
+    "title": "白夜的爆炎忍者",
+    "name": "彩造",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2023-11-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [38, 41, 45],
+        "spd": [41, 45, 48],
+        "def": [41, 45, 48],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 11,
+        "spd": 12,
+        "def": 12,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
+  },
   "Kagero - Honorable Ninja": {
     "id": "Kagero - Honorable Ninja",
     "title": "古風之忍",
@@ -39215,6 +39356,41 @@
     "book": 7,
     "ver": "7.5",
     "dfKey": 5
+  },
+  "Reina - Sanguine Shinobi": {
+    "id": "Reina - Sanguine Shinobi",
+    "title": "溫柔又殘虐的忍者",
+    "name": "夕霧",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-bow",
+    "pool": "special",
+    "releaseDate": "2023-11-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [42, 45, 48],
+        "def": [21, 24, 28],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 10,
+        "def": 5,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
   },
   "Byleth - Proven Professor": {
     "id": "Byleth - Proven Professor",

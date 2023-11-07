@@ -334,6 +334,15 @@
     "exclusive": ["Alear - Awoken Divinity"],
     "last": true
   },
+  "Lightless Luna": {
+    "id": "Lightless Luna",
+    "name": "漆黑月光",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Luna"],
+    "exclusive": ["Zelgius - Ninja Knight"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

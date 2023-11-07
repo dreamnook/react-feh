@@ -738,6 +738,12 @@
         "name": "黑兔之槍+",
         "sp": 300,
         "refine": 350
+      },
+      "Kumo Naginata+": {
+        "pool": { "special": { "5": ["Saizo - Hoshido's Flame"] } },
+        "id": "Kumo Naginata+",
+        "name": "白夜忍之薙刀+",
+        "sp": 300
       }
     },
     "green-axe": {
@@ -1429,6 +1435,13 @@
         "pool": { "special": { "5": ["Catria - Windswept Knight"] } },
         "id": "Whitewind Bow+",
         "name": "白風之弓+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Kumo Yumi+": {
+        "pool": { "special": { "5": ["Reina - Sanguine Shinobi"] } },
+        "id": "Kumo Yumi+",
+        "name": "白夜忍之和弓+",
         "sp": 300,
         "refine": 350
       }
@@ -3052,6 +3065,7 @@
             "Ursula - Clear-Blue Crow",
             "L'Arachel - Harvest Princess",
             "Inigo - Festival Flower",
+            "Heather - Wandering Ninja",
             "Soren - Addled Strategist"
           ]
         }
@@ -3076,6 +3090,7 @@
             "Ursula - Clear-Blue Crow",
             "L'Arachel - Harvest Princess",
             "Inigo - Festival Flower",
+            "Heather - Wandering Ninja",
             "Soren - Addled Strategist"
           ]
         }
@@ -3712,6 +3727,7 @@
             "Katarina - Torchlit Wanderer",
             "Anna - Secret Charmer",
             "Takumi - Troubled Heart",
+            "Zelgius - Ninja Knight",
             "Black Knight - The Night's Blade",
             "Claude - Golden Breeze",
             "Greil - Heroic Exemplar"
@@ -3831,6 +3847,7 @@
             "Takumi - Prince at Play",
             "Kagero - Spring Ninja",
             "Lethe - New Year's Claw",
+            "Reina - Sanguine Shinobi",
             "Veronica - Spring Princess",
             "Freyja - Fleeting Summer",
             "Hector - Just Here to Fight",
@@ -4386,7 +4403,13 @@
             "Henriette - Overflowing Love"
           ]
         },
-        "duo": { "5": ["Idunn - Dragonkin Duo", "Mark - Winds of Hope"] },
+        "duo": {
+          "5": [
+            "Idunn - Dragonkin Duo",
+            "Mark - Winds of Hope",
+            "Sanaki - Dawnsworn Ninja"
+          ]
+        },
         "harmonized": {
           "5": ["Altina - Cross-Time Duo", "Tiki - Bridal Reflections"]
         }
@@ -4468,7 +4491,8 @@
           "3": ["Lilina - Delightful Noble"],
           "5": ["Tiki - Dragon Scion"]
         },
-        "grail": { "4": ["Arvis - Emperor of Flame"] }
+        "grail": { "4": ["Arvis - Emperor of Flame"] },
+        "special": { "5": ["Saizo - Hoshido's Flame"] }
       },
       "id": "Growing Flame",
       "name": "爆火",
@@ -5487,6 +5511,7 @@
             "Gunnthrá - Year's First Dream",
             "Merric - Changing Winds",
             "Shanna - Bridal Novice",
+            "Heather - Wandering Ninja",
             "Anna - Secret Charmer",
             "Tanith - Forthright Heart",
             "Bernadetta - Late Hibernator"
@@ -5619,7 +5644,13 @@
             "Laevatein - Bonfire's Blaze"
           ]
         },
-        "duo": { "5": ["Palla - Sisterly Trio", "Mark - Winds of Hope"] }
+        "duo": {
+          "5": [
+            "Palla - Sisterly Trio",
+            "Mark - Winds of Hope",
+            "Sanaki - Dawnsworn Ninja"
+          ]
+        }
       },
       "id": "Mirror Strike 2",
       "name": "鬼神明鏡擊2",
@@ -5732,7 +5763,11 @@
       "pool": {
         "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
-          "5": ["Anna - Secret Charmer", "Bernadetta - Late Hibernator"]
+          "5": [
+            "Heather - Wandering Ninja",
+            "Anna - Secret Charmer",
+            "Bernadetta - Late Hibernator"
+          ]
         },
         "duo": {
           "5": ["Kagero - Bond Unwavering", "Shamir - Heartbeats United"]
@@ -5774,6 +5809,13 @@
       "name": "鬼神飛燕炎擊",
       "sp": 300,
       "icon": "skillA/Flared_Sparrow"
+    },
+    "Flared Mirror": {
+      "pool": { "duo": { "5": ["Sanaki - Dawnsworn Ninja"] } },
+      "id": "Flared Mirror",
+      "name": "鬼神明鏡炎擊",
+      "sp": 300,
+      "icon": "skillA/Flared_Mirror"
     },
     "Fierce Stance 3": {
       "pool": {
@@ -6289,6 +6331,7 @@
             "Corrin - Celestial Sorcerer",
             "Ike - Stalwart Heart",
             "Sothis - Silver Specter",
+            "Zelgius - Ninja Knight",
             "Black Knight - The Night's Blade"
           ]
         },
@@ -6367,6 +6410,13 @@
       "name": "遠反・攻擊速度孤軍",
       "sp": 300,
       "icon": "skillA/Distant_A_S_Solo"
+    },
+    "Distant D/R Solo": {
+      "pool": { "special": { "5": ["Zelgius - Ninja Knight"] } },
+      "id": "Distant D/R Solo",
+      "name": "遠反・防守魔防孤軍",
+      "sp": 300,
+      "icon": "skillA/Distant_D_R_Solo"
     },
     "Distant Foil": {
       "pool": {
@@ -7104,7 +7154,11 @@
         "legendary": { "5": ["Ephraim - Legendary Lord"] },
         "special": {
           "4": ["Minerva - Verdant Dragoon"],
-          "5": ["Ryoma - Samurai at Ease", "Ephraim - Sparkling Gallantly"]
+          "5": [
+            "Saizo - Hoshido's Flame",
+            "Ryoma - Samurai at Ease",
+            "Ephraim - Sparkling Gallantly"
+          ]
         },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }
       },
@@ -7696,6 +7750,7 @@
             "Lyre - Lap Cat of Luxury"
           ],
           "5": [
+            "Reina - Sanguine Shinobi",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
             "Delthea - Prodigy in Bloom"
@@ -8702,6 +8757,7 @@
             "Felicia - Off the Menu",
             "Ike - Stalwart Heart",
             "Sothis - Silver Specter",
+            "Zelgius - Ninja Knight",
             "Black Knight - The Night's Blade"
           ]
         }
@@ -8712,7 +8768,11 @@
       "icon": "skillB/Special_Fighter_3"
     },
     "Special Fighter 4": {
-      "pool": { "special": { "5": ["Black Knight - The Night's Blade"] } },
+      "pool": {
+        "special": {
+          "5": ["Zelgius - Ninja Knight", "Black Knight - The Night's Blade"]
+        }
+      },
       "id": "Special Fighter 4",
       "name": "奧義隊形4",
       "sp": 300,
@@ -9256,7 +9316,7 @@
         "legendary": { "5": ["Lilina - Firelight Leader"] },
         "mythic": { "5": ["Yune - Chaos Goddess"] },
         "special": { "5": ["Ivy - Tidal Breeze"] },
-        "duo": { "5": ["Mark - Winds of Hope"] }
+        "duo": { "5": ["Mark - Winds of Hope", "Sanaki - Dawnsworn Ninja"] }
       },
       "id": "Sabotage Res 3",
       "name": "魔防擾亂3",
@@ -9266,7 +9326,7 @@
     "Sabotage A/R 3": {
       "pool": {
         "special": { "5": ["Ivy - Tidal Breeze"] },
-        "duo": { "5": ["Mark - Winds of Hope"] }
+        "duo": { "5": ["Mark - Winds of Hope", "Sanaki - Dawnsworn Ninja"] }
       },
       "id": "Sabotage A/R 3",
       "name": "攻擊魔防擾亂3",
@@ -10078,11 +10138,21 @@
       "icon": "skillB/Atk_Res_Ruse_3"
     },
     "Spd/Def Ruse 3": {
-      "pool": { "#": { "5": ["Eleonora - Shooting Starlet"] } },
+      "pool": {
+        "#": { "5": ["Eleonora - Shooting Starlet"] },
+        "special": { "5": ["Heather - Wandering Ninja"] }
+      },
       "id": "Spd/Def Ruse 3",
       "name": "速度防守大共謀3",
       "sp": 240,
       "icon": "skillB/Spd_Def_Ruse_3"
+    },
+    "Spd/Def Ruse 4": {
+      "pool": { "special": { "5": ["Heather - Wandering Ninja"] } },
+      "id": "Spd/Def Ruse 4",
+      "name": "速度防守大共謀4",
+      "sp": 300,
+      "icon": "skillB/Spd_Def_Ruse_4"
     },
     "Spd/Res Ruse 3": {
       "pool": {
@@ -11535,6 +11605,7 @@
         "special": {
           "5": [
             "Claude - Tropical Trouble",
+            "Reina - Sanguine Shinobi",
             "Igrene - Ninja of Nabata",
             "Say'ri - Righteous Bride"
           ]
@@ -12314,7 +12385,8 @@
           "4": ["Arvis - Emperor of Flame"],
           "5": ["Cecilia - Festive Instructor"]
         },
-        "special": { "5": ["Gaius - Thief Exposed"] }
+        "special": { "5": ["Gaius - Thief Exposed"] },
+        "duo": { "5": ["Sanaki - Dawnsworn Ninja"] }
       },
       "id": "Def Ploy 3",
       "name": "防守謀策3",
@@ -12350,7 +12422,10 @@
       "icon": "skillC/Atk_Res_Ploy_3"
     },
     "Def/Res Ploy 3": {
-      "pool": { "#": { "5": ["Plumeria - Rapturous Dream"] } },
+      "pool": {
+        "#": { "5": ["Plumeria - Rapturous Dream"] },
+        "duo": { "5": ["Sanaki - Dawnsworn Ninja"] }
+      },
       "id": "Def/Res Ploy 3",
       "name": "防守魔防謀策3",
       "sp": 300,
@@ -12461,7 +12536,11 @@
         "grail": { "4": ["Panne - Proud Taguel"] },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
         "special": {
-          "5": ["Alfonse - Spring Prince", "Bernadetta - Late Hibernator"]
+          "5": [
+            "Alfonse - Spring Prince",
+            "Saizo - Hoshido's Flame",
+            "Bernadetta - Late Hibernator"
+          ]
         }
       },
       "id": "Def Smoke 3",
@@ -13570,7 +13649,10 @@
       "icon": "skillC/Even_Tempest_3"
     },
     "Assault Troop 3": {
-      "pool": { "harmonized": { "5": ["Edelgard - Sun Empresses"] } },
+      "pool": {
+        "special": { "5": ["Zelgius - Ninja Knight"] },
+        "harmonized": { "5": ["Edelgard - Sun Empresses"] }
+      },
       "id": "Assault Troop 3",
       "name": "一齊突擊3",
       "sp": 240,

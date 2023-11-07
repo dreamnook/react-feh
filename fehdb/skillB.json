@@ -3147,6 +3147,15 @@
     "icon": "skillB/Spd_Def_Ruse_3",
     "last": true
   },
+  "Spd/Def Ruse 4": {
+    "id": "Spd/Def Ruse 4",
+    "name": "速度防守大共謀4",
+    "sp": 300,
+    "prev": ["Spd/Def Ruse 3"],
+    "rules": "learner.ruse-skills",
+    "icon": "skillB/Spd_Def_Ruse_4",
+    "last": true
+  },
   "Spd/Res Ruse 1": {
     "id": "Spd/Res Ruse 1",
     "name": "速度魔防大共謀1",

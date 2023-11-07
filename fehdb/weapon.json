@@ -6773,6 +6773,16 @@
       "exclusive": ["Mycen - Zofia's Champion"],
       "last": true
     },
+    "Scarlet Spear": {
+      "id": "Scarlet Spear",
+      "name": "將軍忍者的紅槍",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Zelgius - Ninja Knight"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -8396,6 +8406,21 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Kumo Naginata": {
+      "id": "Kumo Naginata",
+      "name": "白夜忍之薙刀",
+      "mt": 6,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Kumo Naginata+": {
+      "id": "Kumo Naginata+",
+      "name": "白夜忍之薙刀+",
+      "mt": 9,
+      "sp": 300,
+      "prev": ["Kumo Naginata"],
       "last": true
     }
   },
@@ -14480,6 +14505,39 @@
         }
       },
       "last": true
+    },
+    "Kumo Yumi": {
+      "id": "Kumo Yumi",
+      "name": "白夜忍之和弓",
+      "mt": 4,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Kumo Yumi+": {
+      "id": "Kumo Yumi+",
+      "name": "白夜忍之和弓+",
+      "mt": 7,
+      "sp": 300,
+      "prev": ["Kumo Yumi"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "dagger": {
@@ -15195,6 +15253,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Spy's Shuriken": {
+      "id": "Spy's Shuriken",
+      "name": "密探忍者的手裏劍",
+      "mt": 9,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Heather - Wandering Ninja"],
       "last": true
     },
     "Iron Dagger": {
@@ -18466,6 +18534,16 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Zephia - Scheming Dragon"],
+      "last": true
+    },
+    "Radiant Scrolls": {
+      "id": "Radiant Scrolls",
+      "name": "光炎姊妹的忍法帖",
+      "mt": 8,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Sanaki - Dawnsworn Ninja"],
       "last": true
     },
     "Arcane Eclipse": {

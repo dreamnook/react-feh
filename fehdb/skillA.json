@@ -1106,10 +1106,19 @@
     "id": "Flared Sparrow",
     "name": "鬼神飛燕炎擊",
     "sp": 300,
-    "prev": ["Swift Sparrow 3"],
+    "prev": ["Swift Sparrow 2"],
     "rules": "learner.cavalry-flying-not-staff",
     "last": true,
     "icon": "skillA/Flared_Sparrow"
+  },
+  "Flared Mirror": {
+    "id": "Flared Mirror",
+    "name": "鬼神明鏡炎擊",
+    "sp": 300,
+    "prev": ["Mirror Strike 2"],
+    "rules": "learner.cavalry-flying-not-staff",
+    "last": true,
+    "icon": "skillA/Flared_Mirror"
   },
   "Fierce Stance 1": {
     "id": "Fierce Stance 1",
@@ -1763,6 +1772,15 @@
     "prev": ["Distant Counter"],
     "last": true,
     "icon": "skillA/Distant_A_S_Solo"
+  },
+  "Distant D/R Solo": {
+    "id": "Distant D/R Solo",
+    "name": "遠反・防守魔防孤軍",
+    "sp": 300,
+    "rules": "melee",
+    "prev": ["Distant Counter"],
+    "last": true,
+    "icon": "skillA/Distant_D_R_Solo"
   },
   "Distant Foil": {
     "id": "Distant Foil",

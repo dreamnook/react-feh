@@ -1935,6 +1935,30 @@
       "icon": "skillA/Def_Res_Catch_3",
       "last": true
     },
+    "Atk/Def Ideal 1": {
+      "id": "Atk/Def Ideal 1",
+      "name": "攻擊防守萬全1",
+      "sp": 60,
+      "rules": "learner.ideal",
+      "icon": "skillA/Atk_Def_Ideal_1"
+    },
+    "Atk/Def Ideal 2": {
+      "id": "Atk/Def Ideal 2",
+      "name": "攻擊防守萬全2",
+      "sp": 120,
+      "prev": ["Atk/Def Ideal 1"],
+      "rules": "learner.ideal",
+      "icon": "skillA/Atk_Def_Ideal_2"
+    },
+    "Atk/Def Ideal 3": {
+      "id": "Atk/Def Ideal 3",
+      "name": "攻擊防守萬全3",
+      "sp": 240,
+      "prev": ["Atk/Def Ideal 2"],
+      "rules": "learner.ideal",
+      "icon": "skillA/Atk_Def_Ideal_3",
+      "last": true
+    },
     "Atk/Res Ideal 1": {
       "id": "Atk/Res Ideal 1",
       "name": "攻擊魔防萬全1",
@@ -4031,6 +4055,30 @@
       "prev": ["Atk/Res Oath 2"],
       "rules": "learner.oath-skills",
       "icon": "skillC/Atk_Res_Oath_3",
+      "last": true
+    },
+    "Spd/Def Oath 1": {
+      "id": "Spd/Def Oath 1",
+      "name": "速度防守的信義1",
+      "sp": 60,
+      "rules": "learner.oath-skills",
+      "icon": "skillC/Spd_Def_Oath_1"
+    },
+    "Spd/Def Oath 2": {
+      "id": "Spd/Def Oath 2",
+      "name": "速度防守的信義2",
+      "sp": 120,
+      "prev": ["Spd/Def Oath 1"],
+      "rules": "learner.oath-skills",
+      "icon": "skillC/Spd_Def_Oath_2"
+    },
+    "Spd/Def Oath 3": {
+      "id": "Spd/Def Oath 3",
+      "name": "速度防守的信義3",
+      "sp": 240,
+      "prev": ["Spd/Def Oath 2"],
+      "rules": "learner.oath-skills",
+      "icon": "skillC/Spd_Def_Oath_3",
       "last": true
     },
     "Spd/Res Oath 1": {
