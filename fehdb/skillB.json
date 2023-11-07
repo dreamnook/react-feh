@@ -306,7 +306,6 @@
   "Atrocity II": {
     "id": "Atrocity II",
     "name": "無慘・承",
-    "cd": 1,
     "sp": 300,
     "prev": ["Atrocity"],
     "exclusive": ["Dimitri - Savior King"],
