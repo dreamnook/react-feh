@@ -14,5 +14,12 @@
     "rules": "learner.oath-skills",
     "last": true,
     "icon": "skillX/Atk_Oath_Echo"
+  },
+  "Fleeting Echo": {
+    "id": "Fleeting Echo",
+    "name": "響・飛燕離擊",
+    "sp": 0,
+    "last": true,
+    "icon": "skillX/Fleeting_Echo"
   }
 }

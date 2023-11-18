@@ -7807,6 +7807,19 @@
     "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wyvern Flight 3": { "sp": 240, "rarity": 5 } }
   },
+  "Fargus - Badon Buccaneer": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 193,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 5 } }
+  },
   "Murdock - Loyal General": {
     "score": 322,
     "scoreTotal": 746,
@@ -7858,6 +7871,18 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillA": { "Def/Res Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Isadora - Escort of Pherae": {
+    "score": 300,
+    "scoreTotal": 750,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 750,
+    "feather": 1000,
+    "bst": 184,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Def Snag 4": { "sp": 300, "rarity": 5 } }
   },
   "Micaiah - Summer's Dawn": {
     "score": 254,
@@ -7960,6 +7985,18 @@
     "special": { "Blazing Light": { "sp": 300, "rarity": 5 } },
     "skillA": { "Steady Blow 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Wil - Unequaled Archer": {
+    "score": 300,
+    "scoreTotal": 780,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 780,
+    "feather": 1000,
+    "bst": 188,
+    "assist": { "Rally Up Res": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Res Push 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
   },
   "Olwen - Righteous Knight": {
     "score": 300,
@@ -8697,6 +8734,19 @@
     "skillA": { "Spd/Res Hexblade": { "sp": 300, "rarity": 5 } },
     "skillB": { "Phys. Null Follow": { "sp": 300, "rarity": 5 } }
   },
+  "Nino - Fang's Heart": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Tempo 4": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Fleeting Echo": { "sp": 0, "rarity": 5 } }
+  },
   "Tiki - Fated Divinity": {
     "score": 300,
     "scoreTotal": 800,
@@ -8720,6 +8770,18 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillA": { "Bracing Stance 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "D/R Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Harken - Troubled Warrior": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 192,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Brash Assault 4": { "sp": 300, "rarity": 5 } }
   },
   "Robin - Exalt's Deliverer": {
     "score": 300,
@@ -11962,6 +12024,18 @@
     "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillC": { "Guidance 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Ginnungagap - Ruler of Nihility": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Lethality": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Fireflood Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Fatal Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Soren - Radiant Confidant": {
     "score": 500,

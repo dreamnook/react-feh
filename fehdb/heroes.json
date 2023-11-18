@@ -2921,6 +2921,41 @@
     "ver": "7.7",
     "dfKey": 5
   },
+  "Ginnungagap - Ruler of Nihility": {
+    "id": "Ginnungagap - Ruler of Nihility",
+    "title": "虛無之王",
+    "name": "金倫加",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-dagger",
+    "rearmed": true,
+    "releaseDate": "2023-11-17",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 51],
+        "spd": [27, 31, 34],
+        "def": [26, 30, 33],
+        "res": [29, 32, 35]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 9,
+        "def": 8,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 180,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
+  },
   "Reginn - Bearing Hope": {
     "id": "Reginn - Bearing Hope",
     "title": "希望的駿馬",
@@ -18623,6 +18658,74 @@
     "ver": "7.4",
     "dfKey": 5
   },
+  "Harken - Troubled Warrior": {
+    "id": "Harken - Troubled Warrior",
+    "title": "影之勇者",
+    "name": "哈肯",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-11-17",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [43, 46, 50],
+        "spd": [29, 32, 35],
+        "def": [43, 46, 50],
+        "res": [24, 27, 31]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 7,
+        "spd": 6,
+        "def": 16,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "def", "res"],
+    "flaws": ["hp"],
+    "statMin": 192,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
+  },
+  "Isadora - Escort of Pherae": {
+    "id": "Isadora - Escort of Pherae",
+    "title": "費雷的守護騎士",
+    "name": "伊莎多拉",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-lance",
+    "releaseDate": "2023-11-17",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [40, 43, 47],
+        "spd": [43, 46, 49],
+        "def": [29, 32, 35],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 13,
+        "spd": 11,
+        "def": 6,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
+  },
   "Matthew - Faithful Spy": {
     "id": "Matthew - Faithful Spy",
     "title": "義賊",
@@ -19084,6 +19187,40 @@
     "book": 7,
     "ver": "7.4",
     "dfKey": 5
+  },
+  "Wil - Unequaled Archer": {
+    "id": "Wil - Unequaled Archer",
+    "title": "稀世的弓箭手",
+    "name": "威爾",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-bow",
+    "releaseDate": "2023-11-17",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [42, 45, 49],
+        "spd": [31, 34, 37],
+        "def": [23, 27, 30],
+        "res": [36, 40, 43]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 8,
+        "def": 5,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["def", "res"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
   },
   "Rebecca - Wildflower": {
     "id": "Rebecca - Wildflower",
@@ -21210,6 +21347,41 @@
     "ver": "7.1",
     "dfKey": 5
   },
+  "Nino - Fang's Heart": {
+    "id": "Nino - Fang's Heart",
+    "title": "心與牙同在",
+    "name": "妮諾",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-dagger",
+    "attuned": true,
+    "releaseDate": "2023-11-17",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [41, 44, 48],
+        "spd": [44, 47, 51],
+        "def": [22, 26, 29],
+        "res": [29, 33, 36]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 14,
+        "spd": 8,
+        "def": 4,
+        "res": 11
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
+  },
   "Legault - The Hurricane": {
     "id": "Legault - The Hurricane",
     "title": "疾風",
@@ -21271,6 +21443,69 @@
     "book": 2,
     "ver": "2.6",
     "dfKey": 1
+  },
+  "Fargus - Badon Buccaneer": {
+    "id": "Fargus - Badon Buccaneer",
+    "title": "巴頓海的首領",
+    "name": "法格斯",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2023-11-18",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "3": {
+        "hp": [36, 39, 42],
+        "atk": [39, 42, 45],
+        "spd": [24, 27, 30],
+        "def": [33, 36, 39],
+        "res": [25, 28, 31]
+      },
+      "4": {
+        "hp": [37, 40, 43],
+        "atk": [41, 44, 47],
+        "spd": [25, 28, 31],
+        "def": [35, 38, 42],
+        "res": [27, 30, 33]
+      },
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [44, 47, 51],
+        "spd": [27, 31, 34],
+        "def": [37, 40, 44],
+        "res": [28, 32, 35]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 7,
+        "spd": 8,
+        "def": 9,
+        "res": 9
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 7,
+        "spd": 8,
+        "def": 10,
+        "res": 10
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 8,
+        "spd": 9,
+        "def": 10,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["spd", "res"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
   },
   "Bramimond - The Enigma": {
     "id": "Bramimond - The Enigma",

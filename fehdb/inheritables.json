@@ -1223,6 +1223,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Halting Bow+": {
+        "pool": { "#": { "5": ["Wil - Unequaled Archer"] } },
+        "id": "Halting Bow+",
+        "name": "制止之弓+",
+        "sp": 300,
+        "refine": 350
+      },
       "Clarisse's Bow+": {
         "pool": { "grail": { "5": ["Clarisse - Sniper in the Dark"] } },
         "id": "Clarisse's Bow+",
@@ -1446,6 +1453,13 @@
       }
     },
     "dagger": {
+      "Arcane Void": {
+        "pool": { "#": { "5": ["Ginnungagap - Ruler of Nihility"] } },
+        "id": "Arcane Void",
+        "name": "魔器金倫加",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Dagger+": {
         "pool": {
           "#": { "3": ["Jakob - Devoted Servant", "Felicia - Maid Mayhem"] }
@@ -2985,6 +2999,7 @@
           "5": [
             "Olwen - Blue Mage Knight",
             "Sumia - Maid of Flowers",
+            "Isadora - Escort of Pherae",
             "Wolf - Coyote's Loyal",
             "Farina - The Great Wing",
             "Lilith - Astral Daughter",
@@ -3340,7 +3355,7 @@
     },
     "Rally Up Res": {
       "pool": {
-        "#": { "5": ["Lugh - Anima Child"] },
+        "#": { "5": ["Wil - Unequaled Archer", "Lugh - Anima Child"] },
         "special": { "5": ["Lilina - Beachside Bloom"] }
       },
       "id": "Rally Up Res",
@@ -3682,6 +3697,7 @@
             "Ophelia - Starlit Maiden",
             "Hilda - Helping Hand",
             "Alear - Dragon Child",
+            "Ginnungagap - Ruler of Nihility",
             "Volke - Man of Mysteries"
           ]
         },
@@ -3754,7 +3770,9 @@
     },
     "Lethality": {
       "pool": {
-        "#": { "5": ["Volke - Man of Mysteries"] },
+        "#": {
+          "5": ["Ginnungagap - Ruler of Nihility", "Volke - Man of Mysteries"]
+        },
         "special": { "5": ["Claude - Golden Breeze"] },
         "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] }
       },
@@ -4045,6 +4063,7 @@
             "Flavia - Feroxi East-Khan",
             "Eir - Life Ascendant",
             "Caeldori - Perfect Angel",
+            "Nino - Fang's Heart",
             "Dorcas - Serene Warrior",
             "Ephraim - Sacred Twin Lord",
             "Tibarn - Lord of the Air",
@@ -4147,6 +4166,7 @@
             "Muarim - Raw Instinct",
             "Hans - Ambitious Brute",
             "Lumera - Dragon Monarch",
+            "Fargus - Badon Buccaneer",
             "Vigarde - Silent Emperor"
           ]
         },
@@ -4204,6 +4224,7 @@
             "Gregor - Swell Sword",
             "Líf - Arcane Blade",
             "Mycen - Zofia's Champion",
+            "Harken - Troubled Warrior",
             "Nah - Little Miss",
             "Idunn - Dark Priestess",
             "Laegjarn - Sheathed Steel",
@@ -5465,6 +5486,7 @@
             "Olwen - Righteous Knight",
             "Eirika - Pledged Restorer",
             "Gullveig - Seer Beyond Time",
+            "Nino - Fang's Heart",
             "Ishtar - Thunder Goddess",
             "Nino - Pale Flower",
             "Lewyn - Guiding Breeze",
@@ -5796,7 +5818,9 @@
       "icon": "skillA/Remote_Mirror"
     },
     "Flash Sparrow": {
-      "pool": { "#": { "5": ["Alcryst - Tender Archer"] } },
+      "pool": {
+        "#": { "5": ["Nino - Fang's Heart", "Alcryst - Tender Archer"] }
+      },
       "id": "Flash Sparrow",
       "name": "鬼神飛燕柔擊",
       "sp": 300,
@@ -6633,7 +6657,10 @@
     },
     "Water Boost 3": {
       "pool": {
-        "#": { "3": ["Mustafa - Plegian Champion"] },
+        "#": {
+          "3": ["Mustafa - Plegian Champion"],
+          "5": ["Ginnungagap - Ruler of Nihility"]
+        },
         "grail": { "5": ["Berkut - Prideful Prince"] },
         "duo": { "5": ["Ymir - Seasons of Life"] }
       },
@@ -6643,7 +6670,10 @@
       "icon": "skillA/Water_Boost_3"
     },
     "Fireflood Boost 3": {
-      "pool": { "duo": { "5": ["Ymir - Seasons of Life"] } },
+      "pool": {
+        "#": { "5": ["Ginnungagap - Ruler of Nihility"] },
+        "duo": { "5": ["Ymir - Seasons of Life"] }
+      },
       "id": "Fireflood Boost 3",
       "name": "生命業火靜水3",
       "sp": 300,
@@ -7022,7 +7052,11 @@
       "pool": {
         "#": {
           "3": ["Brady - Daunting Priest"],
-          "5": ["Est - Sweet Baby Sis", "Guinivere - Princess of Bern"]
+          "5": [
+            "Est - Sweet Baby Sis",
+            "Wil - Unequaled Archer",
+            "Guinivere - Princess of Bern"
+          ]
         },
         "grail": {
           "4": [
@@ -7970,7 +8004,11 @@
           "5": ["Edelgard - Hegemon Husk", "Priam - Radiant Hero"]
         },
         "grail": {
-          "4": ["Kellam - Pumpkin Knight", "Murdock - Loyal General"],
+          "4": [
+            "Kellam - Pumpkin Knight",
+            "Fargus - Badon Buccaneer",
+            "Murdock - Loyal General"
+          ],
           "5": ["Cervantes - Invincible General"]
         },
         "legendary": { "5": ["Byleth - The Fódlan Star"] },
@@ -8090,6 +8128,7 @@
         "#": {
           "5": [
             "Seliph - Enduring Legacy",
+            "Isadora - Escort of Pherae",
             "Triandra - Reverent Dream",
             "Chrom - Fell Exalt"
           ]
@@ -8122,6 +8161,7 @@
         "#": {
           "5": [
             "Seliph - Enduring Legacy",
+            "Isadora - Escort of Pherae",
             "Triandra - Reverent Dream",
             "Chrom - Fell Exalt"
           ]
@@ -8148,7 +8188,13 @@
     },
     "Atk/Def Clash 3": {
       "pool": {
-        "#": { "5": ["Líf - Arcane Blade", "Mycen - Zofia's Champion"] },
+        "#": {
+          "5": [
+            "Líf - Arcane Blade",
+            "Mycen - Zofia's Champion",
+            "Harken - Troubled Warrior"
+          ]
+        },
         "mythic": { "5": ["Freyr - Dream-King"] },
         "special": {
           "5": ["Flavia - Bold Bride", "Ephraim - Sunshine Valiant"]
@@ -8161,7 +8207,13 @@
     },
     "Atk/Def Clash 4": {
       "pool": {
-        "#": { "5": ["Líf - Arcane Blade", "Mycen - Zofia's Champion"] },
+        "#": {
+          "5": [
+            "Líf - Arcane Blade",
+            "Mycen - Zofia's Champion",
+            "Harken - Troubled Warrior"
+          ]
+        },
         "mythic": { "5": ["Freyr - Dream-King"] },
         "special": { "5": ["Ephraim - Sunshine Valiant"] }
       },
@@ -8586,7 +8638,8 @@
             "Bartre - Fearless Warrior",
             "Hinata - Wild Samurai",
             "Altena - Luminous Rider"
-          ]
+          ],
+          "5": ["Harken - Troubled Warrior"]
         },
         "duo": { "5": ["Shamir - Heartbeats United"] }
       },
@@ -8596,7 +8649,10 @@
       "icon": "skillB/Brash_Assault_3"
     },
     "Brash Assault 4": {
-      "pool": { "duo": { "5": ["Shamir - Heartbeats United"] } },
+      "pool": {
+        "#": { "5": ["Harken - Troubled Warrior"] },
+        "duo": { "5": ["Shamir - Heartbeats United"] }
+      },
       "id": "Brash Assault 4",
       "name": "同歸於盡4",
       "sp": 300,
@@ -10019,6 +10075,7 @@
     },
     "Atk/Def Snag 3": {
       "pool": {
+        "#": { "5": ["Isadora - Escort of Pherae"] },
         "grail": { "4": ["Luthier - Spring Hopes"] },
         "special": { "4": ["Kaden - Refreshed Kitsune"] }
       },
@@ -10026,6 +10083,13 @@
       "name": "攻擊防守干涉3",
       "sp": 240,
       "icon": "skillB/Atk_Def_Snag_3"
+    },
+    "Atk/Def Snag 4": {
+      "pool": { "#": { "5": ["Isadora - Escort of Pherae"] } },
+      "id": "Atk/Def Snag 4",
+      "name": "攻擊防守干涉4",
+      "sp": 300,
+      "icon": "skillB/Atk_Def_Snag_4"
     },
     "Atk/Res Snag 3": {
       "pool": { "special": { "5": ["Cath - Caper Captain"] } },
@@ -10835,11 +10899,21 @@
       "icon": "skillB/Atk_Res_Tempo_4"
     },
     "Spd/Def Tempo 3": {
-      "pool": { "special": { "5": ["Mia - Budding Blade"] } },
+      "pool": {
+        "#": { "5": ["Nino - Fang's Heart"] },
+        "special": { "5": ["Mia - Budding Blade"] }
+      },
       "id": "Spd/Def Tempo 3",
       "name": "速度防守節拍3",
       "sp": 240,
       "icon": "skillB/Spd_Def_Tempo_3"
+    },
+    "Spd/Def Tempo 4": {
+      "pool": { "#": { "5": ["Nino - Fang's Heart"] } },
+      "id": "Spd/Def Tempo 4",
+      "name": "速度防守節拍4",
+      "sp": 300,
+      "icon": "skillB/Spd_Def_Tempo_4"
     },
     "Spd/Res Tempo 3": {
       "pool": { "#": { "5": ["Monica - Favored Vassal"] } },
@@ -11369,6 +11443,7 @@
             "Roshea - Coyote's Faithful"
           ],
           "5": [
+            "Wil - Unequaled Archer",
             "Laegjarn - Sheathed Steel",
             "Caineghis - Gallia's Lion King",
             "Ganglöt - Death Anew"
@@ -12614,6 +12689,7 @@
     },
     "Fatal Smoke 3": {
       "pool": {
+        "#": { "5": ["Ginnungagap - Ruler of Nihility"] },
         "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
         "special": { "5": ["Freyja - Fleeting Summer"] },
         "duo": { "5": ["Líf - Undying Ties Duo", "Shamir - Heartbeats United"] }
@@ -12622,6 +12698,13 @@
       "name": "不治的幻煙3",
       "sp": 240,
       "icon": "skillC/Fatal_Smoke_3"
+    },
+    "Fatal Smoke 4": {
+      "pool": { "#": { "5": ["Ginnungagap - Ruler of Nihility"] } },
+      "id": "Fatal Smoke 4",
+      "name": "不治的幻煙4",
+      "sp": 300,
+      "icon": "skillC/Fatal_Smoke_4"
     },
     "Def/Res Smoke 3": {
       "pool": {
@@ -12710,7 +12793,13 @@
             "Ced - Sage of the Wind"
           ]
         },
-        "grail": { "5": ["Boyd - Future Great", "Marisa - Crimson Flash"] },
+        "grail": {
+          "5": [
+            "Boyd - Future Great",
+            "Marisa - Crimson Flash",
+            "Fargus - Badon Buccaneer"
+          ]
+        },
         "special": {
           "4": ["Geese - A Life at Sea"],
           "5": ["Xander - Student Swimmer"]
@@ -13924,6 +14013,13 @@
       "name": "響・攻擊的信義",
       "sp": 0,
       "icon": "skillX/Atk_Oath_Echo"
+    },
+    "Fleeting Echo": {
+      "pool": { "#": { "5": ["Nino - Fang's Heart"] } },
+      "id": "Fleeting Echo",
+      "name": "響・飛燕離擊",
+      "sp": 0,
+      "icon": "skillX/Fleeting_Echo"
     }
   }
 }

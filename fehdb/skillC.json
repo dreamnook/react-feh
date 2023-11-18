@@ -420,6 +420,14 @@
     "last": true,
     "icon": "skillC/Fell_Protection"
   },
+  "Fanged Ties": {
+    "id": "Fanged Ties",
+    "name": "牙的羈絆",
+    "sp": 300,
+    "exclusive": ["Nino - Fang's Heart"],
+    "last": true,
+    "icon": "skillC/Fanged_Ties"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -2021,6 +2029,15 @@
     "prev": ["Fatal Smoke 2"],
     "rules": "not.white-staff",
     "icon": "skillC/Fatal_Smoke_3",
+    "last": true
+  },
+  "Fatal Smoke 4": {
+    "id": "Fatal Smoke 4",
+    "name": "不治的幻煙4",
+    "sp": 300,
+    "prev": ["Fatal Smoke 3"],
+    "rules": "not.white-staff",
+    "icon": "skillC/Fatal_Smoke_4",
     "last": true
   },
   "Def/Res Smoke 3": {

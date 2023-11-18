@@ -529,6 +529,14 @@
     "last": true,
     "icon": "skillB/Deep_Star"
   },
+  "Ruler of Nihility": {
+    "id": "Ruler of Nihility",
+    "name": "虛無之王",
+    "sp": 300,
+    "exclusive": ["Ginnungagap - Ruler of Nihility"],
+    "last": true,
+    "icon": "skillB/Ruler_of_Nihility"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -2850,6 +2858,15 @@
     "icon": "skillB/Atk_Def_Snag_3",
     "last": true
   },
+  "Atk/Def Snag 4": {
+    "id": "Atk/Def Snag 4",
+    "name": "攻擊防守干涉4",
+    "sp": 300,
+    "prev": ["Atk/Def Snag 3"],
+    "rules": "learner.snag-skills",
+    "icon": "skillB/Atk_Def_Snag_4",
+    "last": true
+  },
   "Atk/Res Snag 1": {
     "id": "Atk/Res Snag 1",
     "name": "攻擊魔防干涉1",
@@ -4243,6 +4260,15 @@
     "prev": ["Spd/Def Tempo 2"],
     "rules": "infantry",
     "icon": "skillB/Spd_Def_Tempo_3",
+    "last": true
+  },
+  "Spd/Def Tempo 4": {
+    "id": "Spd/Def Tempo 4",
+    "name": "速度防守節拍4",
+    "sp": 300,
+    "prev": ["Spd/Def Tempo 3"],
+    "rules": "infantry",
+    "icon": "skillB/Spd_Def_Tempo_4",
     "last": true
   },
   "Spd/Res Tempo 1": {

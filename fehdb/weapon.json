@@ -3037,6 +3037,16 @@
       },
       "last": true
     },
+    "Troubling Blade": {
+      "id": "Troubling Blade",
+      "name": "影之勇者的黑劍",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Harken - Troubled Warrior"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -6783,6 +6793,16 @@
       "exclusive": ["Zelgius - Ninja Knight"],
       "last": true
     },
+    "Guarding Lance": {
+      "id": "Guarding Lance",
+      "name": "守護騎士的白槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Isadora - Escort of Pherae"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -10175,6 +10195,16 @@
       },
       "last": true
     },
+    "Corsair Cleaver": {
+      "id": "Corsair Cleaver",
+      "name": "海盜首領的大斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Fargus - Badon Buccaneer"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -13501,6 +13531,39 @@
       },
       "last": true
     },
+    "Halting Bow": {
+      "id": "Halting Bow",
+      "name": "制止之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Halting Bow+": {
+      "id": "Halting Bow+",
+      "name": "制止之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Halting Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Clarisse's Bow": {
       "id": "Clarisse's Bow",
       "name": "克萊涅之弓",
@@ -15245,6 +15308,44 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Heather - Wandering Ninja"],
+      "last": true
+    },
+    "Göndul": {
+      "id": "Göndul",
+      "name": "貢多爾",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Nino - Fang's Heart"],
+      "last": true
+    },
+    "Arcane Void": {
+      "id": "Arcane Void",
+      "name": "魔器金倫加",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Dagger"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Iron Dagger": {
