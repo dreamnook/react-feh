@@ -1442,8 +1442,7 @@
         "pool": { "special": { "5": ["Reina - Sanguine Shinobi"] } },
         "id": "Kumo Yumi+",
         "name": "白夜忍之和弓+",
-        "sp": 300,
-        "refine": 350
+        "sp": 300
       }
     },
     "dagger": {
