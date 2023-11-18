@@ -1994,7 +1994,7 @@
         "refine": 350
       },
       "Blárdeer+": {
-        "pool": { "#": { "5": ["Hestia - Duma's Witch"] } },
+        "pool": { "#": { "3": ["Hestia - Duma's Witch"] } },
         "id": "Blárdeer+",
         "name": "蒼藍之鹿+",
         "sp": 300,
@@ -3842,11 +3842,11 @@
         },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
         "special": {
+          "4": ["Reina - Sanguine Shinobi"],
           "5": [
             "Takumi - Prince at Play",
             "Kagero - Spring Ninja",
             "Lethe - New Year's Claw",
-            "Reina - Sanguine Shinobi",
             "Veronica - Spring Princess",
             "Freyja - Fleeting Summer",
             "Hector - Just Here to Fight",
@@ -4345,13 +4345,13 @@
             "Kaze - Easygoing Ninja",
             "Ilyana - Hungering Mage",
             "Bastian - Crimea's Keystone",
+            "Hestia - Duma's Witch",
             "Phila - Pegasus Master"
           ],
           "5": [
             "Innes - Regal Strategician",
             "Fiora - Airborne Warrior",
             "Kiria - Cool Façade",
-            "Hestia - Duma's Witch",
             "Julia - Heart Usurped",
             "Say'ri - Chon'sin's Blade",
             "Est - Sweet Baby Sis",
@@ -4491,7 +4491,7 @@
           "5": ["Tiki - Dragon Scion"]
         },
         "grail": { "4": ["Arvis - Emperor of Flame"] },
-        "special": { "5": ["Saizo - Hoshido's Flame"] }
+        "special": { "4": ["Saizo - Hoshido's Flame"] }
       },
       "id": "Growing Flame",
       "name": "爆火",
@@ -7746,10 +7746,10 @@
           "4": [
             "Ashe - Budding Chivalry",
             "Catria - Windswept Knight",
-            "Lyre - Lap Cat of Luxury"
+            "Lyre - Lap Cat of Luxury",
+            "Reina - Sanguine Shinobi"
           ],
           "5": [
-            "Reina - Sanguine Shinobi",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
             "Delthea - Prodigy in Bloom"
@@ -7997,10 +7997,7 @@
     },
     "Atk/Res Ideal 3": {
       "pool": {
-        "#": {
-          "3": ["Elice - Altean Princess"],
-          "5": ["Hestia - Duma's Witch"]
-        },
+        "#": { "3": ["Elice - Altean Princess", "Hestia - Duma's Witch"] },
         "grail": {
           "5": [
             "Lucius - Calming Light",
@@ -12395,10 +12392,13 @@
     "Res Ploy 3": {
       "pool": {
         "#": {
-          "3": ["Forrest - Fashion Forward", "Ilyana - Hungering Mage"],
+          "3": [
+            "Forrest - Fashion Forward",
+            "Ilyana - Hungering Mage",
+            "Hestia - Duma's Witch"
+          ],
           "5": [
             "Sonya - Vengeful Mage",
-            "Hestia - Duma's Witch",
             "Lute - Prodigy",
             "Plumeria - Rapturous Dream",
             "Sonya - Beautiful Mage"
@@ -12535,11 +12535,8 @@
         "grail": { "4": ["Panne - Proud Taguel"] },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
         "special": {
-          "5": [
-            "Alfonse - Spring Prince",
-            "Saizo - Hoshido's Flame",
-            "Bernadetta - Late Hibernator"
-          ]
+          "4": ["Saizo - Hoshido's Flame"],
+          "5": ["Alfonse - Spring Prince", "Bernadetta - Late Hibernator"]
         }
       },
       "id": "Def Smoke 3",

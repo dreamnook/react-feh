@@ -10576,19 +10576,47 @@
     "id": "Hestia - Duma's Witch",
     "title": "多馬的魔女",
     "name": "海斯特",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "moveType": "infantry",
     "weaponType": "blue-tome",
     "releaseDate": "2023-10-16",
     "appearsIn": ["Echoes"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [37, 40, 43],
+        "spd": [24, 27, 30],
+        "def": [17, 20, 23],
+        "res": [36, 39, 42]
+      },
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [40, 43, 46],
+        "spd": [25, 28, 31],
+        "def": [18, 21, 24],
+        "res": [38, 41, 45]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [42, 45, 48],
         "spd": [28, 31, 34],
         "def": [20, 23, 27],
         "res": [40, 43, 47]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 6,
+        "def": 3,
+        "res": 12
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 6,
+        "def": 3,
+        "res": 13
       },
       "5-1": {
         "hp": 18,
@@ -34802,7 +34830,7 @@
     "id": "Saizo - Hoshido's Flame",
     "title": "白夜的爆炎忍者",
     "name": "彩造",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "infantry",
     "weaponType": "blue-lance",
@@ -34810,12 +34838,26 @@
     "releaseDate": "2023-11-07",
     "appearsIn": ["Fates"],
     "stats": {
+      "4": {
+        "hp": [31, 34, 37],
+        "atk": [35, 38, 42],
+        "spd": [39, 43, 46],
+        "def": [39, 43, 46],
+        "res": [20, 23, 26]
+      },
       "5": {
         "hp": [33, 37, 40],
         "atk": [38, 41, 45],
         "spd": [41, 45, 48],
         "def": [41, 45, 48],
         "res": [22, 25, 29]
+      },
+      "4-1": {
+        "hp": 14,
+        "atk": 10,
+        "spd": 12,
+        "def": 12,
+        "res": 5
       },
       "5-1": {
         "hp": 15,
@@ -39361,7 +39403,7 @@
     "id": "Reina - Sanguine Shinobi",
     "title": "溫柔又殘虐的忍者",
     "name": "夕霧",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "moveType": "flying",
     "weaponType": "green-bow",
@@ -39369,12 +39411,26 @@
     "releaseDate": "2023-11-07",
     "appearsIn": ["Fates"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [38, 41, 45],
+        "spd": [40, 43, 46],
+        "def": [19, 22, 25],
+        "res": [25, 28, 31]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [40, 43, 47],
         "spd": [42, 45, 48],
         "def": [21, 24, 28],
         "res": [28, 31, 34]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 10,
+        "def": 4,
+        "res": 4
       },
       "5-1": {
         "hp": 18,

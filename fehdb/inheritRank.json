@@ -3095,6 +3095,19 @@
     "skillA": { "Atk/Spd Finish 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 4 } }
   },
+  "Reina - Sanguine Shinobi": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 183,
+    "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Spd/Def Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Annette - Festive Helper": {
     "score": 196,
     "scoreTotal": 436,
@@ -3530,6 +3543,18 @@
     "skillA": { "Brazen Atk/Def 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Close Guard 3": { "sp": 240, "rarity": 5 } }
   },
+  "Hestia - Duma's Witch": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 182,
+    "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Res Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
   "Scáthach - Astra's Wake": {
     "score": 199,
     "scoreTotal": 461,
@@ -3883,6 +3908,19 @@
     "assist": { "Rally Spd/Def": { "sp": 300, "rarity": 4 } },
     "skillB": { "Lancebreaker 3": { "sp": 200, "rarity": 4 } },
     "skillC": { "Spur Spd/Def 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Saizo - Hoshido's Flame": {
+    "score": 245,
+    "scoreTotal": 517,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 780,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Growing Flame": { "sp": 300, "rarity": 4 } },
+    "skillA": { "Atk/Def Solo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Def Smoke 3": { "sp": 240, "rarity": 4 } }
   },
   "Soleil - Adorable Adorer": {
     "score": 249,
@@ -5657,18 +5695,6 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
-  "Hestia - Duma's Witch": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 182,
-    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Res Ploy 3": { "sp": 240, "rarity": 5 } }
-  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -6610,19 +6636,6 @@
     "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Reina - Sanguine Shinobi": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 183,
-    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Spd/Def Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Elm - Resolute Grouch": {
     "score": 254,
@@ -8863,19 +8876,6 @@
     "skillA": { "Bracing Stance 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd Cantrip 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ground Orders 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Saizo - Hoshido's Flame": {
-    "score": 318,
-    "scoreTotal": 827,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 193,
-    "special": { "Growing Flame": { "sp": 300, "rarity": 5 } },
-    "skillA": { "Atk/Def Solo 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Def Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Sharena - Spring Princess": {
     "score": 318,
