@@ -19192,19 +19192,47 @@
     "id": "Wil - Unequaled Archer",
     "title": "稀世的弓箭手",
     "name": "威爾",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-bow",
     "releaseDate": "2023-11-17",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
+      "3": {
+        "hp": [35, 38, 41],
+        "atk": [38, 41, 44],
+        "spd": [27, 30, 33],
+        "def": [20, 23, 26],
+        "res": [32, 35, 38]
+      },
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [40, 43, 47],
+        "spd": [29, 32, 35],
+        "def": [21, 24, 27],
+        "res": [33, 37, 40]
+      },
       "5": {
         "hp": [39, 42, 45],
         "atk": [42, 45, 49],
         "spd": [31, 34, 37],
         "def": [23, 27, 30],
         "res": [36, 40, 43]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 14,
+        "spd": 7,
+        "def": 4,
+        "res": 6
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 15,
+        "spd": 8,
+        "def": 4,
+        "res": 6
       },
       "5-1": {
         "hp": 18,

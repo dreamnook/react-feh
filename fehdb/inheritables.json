@@ -1224,7 +1224,7 @@
         "refine": 350
       },
       "Halting Bow+": {
-        "pool": { "#": { "5": ["Wil - Unequaled Archer"] } },
+        "pool": { "#": { "3": ["Wil - Unequaled Archer"] } },
         "id": "Halting Bow+",
         "name": "制止之弓+",
         "sp": 300,
@@ -3355,7 +3355,7 @@
     },
     "Rally Up Res": {
       "pool": {
-        "#": { "5": ["Wil - Unequaled Archer", "Lugh - Anima Child"] },
+        "#": { "3": ["Wil - Unequaled Archer"], "5": ["Lugh - Anima Child"] },
         "special": { "5": ["Lilina - Beachside Bloom"] }
       },
       "id": "Rally Up Res",
@@ -7051,12 +7051,8 @@
     "Atk/Res Push 3": {
       "pool": {
         "#": {
-          "3": ["Brady - Daunting Priest"],
-          "5": [
-            "Est - Sweet Baby Sis",
-            "Wil - Unequaled Archer",
-            "Guinivere - Princess of Bern"
-          ]
+          "3": ["Brady - Daunting Priest", "Wil - Unequaled Archer"],
+          "5": ["Est - Sweet Baby Sis", "Guinivere - Princess of Bern"]
         },
         "grail": {
           "4": [
@@ -11440,10 +11436,10 @@
           "3": [
             "Linhardt - Hevring's Heir",
             "Merlinus - Pherae's Clerk",
-            "Roshea - Coyote's Faithful"
+            "Roshea - Coyote's Faithful",
+            "Wil - Unequaled Archer"
           ],
           "5": [
-            "Wil - Unequaled Archer",
             "Laegjarn - Sheathed Steel",
             "Caineghis - Gallia's Lion King",
             "Ganglöt - Death Anew"

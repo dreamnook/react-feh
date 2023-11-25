@@ -3972,6 +3972,18 @@
     "skillB": { "Renewal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Res Tactic 3": { "sp": 240, "rarity": 5 } }
   },
+  "Wil - Unequaled Archer": {
+    "score": 249,
+    "scoreTotal": 544,
+    "poolRarity": 3,
+    "sp": 300,
+    "spTotal": 780,
+    "feather": 150,
+    "bst": 188,
+    "assist": { "Rally Up Res": { "sp": 300, "rarity": 4 } },
+    "skillA": { "Atk/Res Push 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
+  },
   "Minerva - Princess-Knight": {
     "score": 299,
     "scoreTotal": 549,
@@ -7985,18 +7997,6 @@
     "special": { "Blazing Light": { "sp": 300, "rarity": 5 } },
     "skillA": { "Steady Blow 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
-  },
-  "Wil - Unequaled Archer": {
-    "score": 300,
-    "scoreTotal": 780,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 188,
-    "assist": { "Rally Up Res": { "sp": 300, "rarity": 5 } },
-    "skillA": { "Atk/Res Push 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
   },
   "Olwen - Righteous Knight": {
     "score": 300,
