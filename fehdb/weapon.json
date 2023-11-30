@@ -18629,6 +18629,16 @@
       "exclusive": ["Sanaki - Dawnsworn Ninja"],
       "last": true
     },
+    "Incipit Kvasir": {
+      "id": "Incipit Kvasir",
+      "name": "起始庫瓦希爾",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Fenrir"],
+      "exclusive": ["Kvasir - Seer of the Past"],
+      "last": true
+    },
     "Arcane Eclipse": {
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
@@ -23591,6 +23601,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Lysithea - Tea Sweetener"],
+      "last": true
+    },
+    "Quietus Gullveig": {
+      "id": "Quietus Gullveig",
+      "name": "終末古爾維格",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Gullveig - Golden Seer"],
       "last": true
     },
     "Stone": {

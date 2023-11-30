@@ -1125,6 +1125,15 @@
     "icon": "skillB/Poison_Strike_3",
     "last": true
   },
+  "Occultist's Strike": {
+    "id": "Occultist's Strike",
+    "name": "魔之蛇毒",
+    "sp": 300,
+    "prev": ["Poison Strike 3"],
+    "rules": "learner.res-dmg-not-staff",
+    "last": true,
+    "icon": "skillB/Occultist's_Strike"
+  },
   "Renewal 1": {
     "id": "Renewal 1",
     "name": "回復1",
@@ -3525,6 +3534,15 @@
     "prev": ["Lull Spd/Res 2"],
     "rules": "learner.lull-skills",
     "icon": "skillB/Lull_Spd_Res_3",
+    "last": true
+  },
+  "Lull Spd/Res 4": {
+    "id": "Lull Spd/Res 4",
+    "name": "速度魔防的靜謐4",
+    "sp": 300,
+    "prev": ["Lull Spd/Res 3"],
+    "rules": "learner.lull-skills",
+    "icon": "skillB/Lull_Spd_Res_4",
     "last": true
   },
   "Repel 1": {

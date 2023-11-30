@@ -134,6 +134,12 @@
   "not.white": {
     "colorType": 7
   },
+  "learner.armored-cavalry": {
+    "moveType": 6
+  },
+  "learner.res-dmg-not-staff": {
+    "weaponType": 1044480
+  },
   "learner.wielder": {
     "weaponType": 7
   },

@@ -343,6 +343,24 @@
     "exclusive": ["Zelgius - Ninja Knight"],
     "last": true
   },
+  "Time Is Light": {
+    "id": "Time Is Light",
+    "name": "時間等同光",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Vengeance"],
+    "exclusive": ["Gullveig - Golden Seer"],
+    "last": true
+  },
+  "Light Is Time": {
+    "id": "Light Is Time",
+    "name": "光等同時間",
+    "cd": 5,
+    "sp": 500,
+    "prev": ["Reprisal"],
+    "exclusive": ["Kvasir - Seer of the Past"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

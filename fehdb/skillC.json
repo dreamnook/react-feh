@@ -3341,6 +3341,15 @@
     "last": true,
     "icon": "skillC/Atk_Spd_Pledge"
   },
+  "Incite Atk/Spd": {
+    "id": "Incite Atk/Spd",
+    "name": "攻擊速度的奮激",
+    "sp": 300,
+    "prev": ["Rouse Atk/Spd 3"],
+    "rules": "learner.armored-cavalry",
+    "last": true,
+    "icon": "skillC/Incite_Atk_Spd"
+  },
   "Odd Tempest 1": {
     "id": "Odd Tempest 1",
     "name": "迅雷風烈・奇數1",

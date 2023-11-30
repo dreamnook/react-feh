@@ -4009,6 +4009,7 @@
         },
         "grail": { "4": ["Legion - Masked Maniac", "Zephiel - The Liberator"] },
         "legendary": { "5": ["Veronica - Princess Rising"] },
+        "mythic": { "5": ["Kvasir - Seer of the Past"] },
         "special": { "5": ["Henry - Happy Vampire", "Tharja - Florid Charmer"] }
       },
       "id": "Reprisal",
@@ -4035,6 +4036,7 @@
             "Rutger - Lone Swordsman"
           ]
         },
+        "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "4": ["Narcian - Vernal General"] }
       },
       "id": "Vengeance",
@@ -5511,6 +5513,7 @@
           "5": [
             "Eir - Merciful Death",
             "Reginn - Bearing Hope",
+            "Gullveig - Golden Seer",
             "Heiðr - Innocent Goddess"
           ]
         },
@@ -5827,7 +5830,10 @@
       "icon": "skillA/Flash_Sparrow"
     },
     "Flared Sparrow": {
-      "pool": { "#": { "5": ["Gullveig - Seer Beyond Time"] } },
+      "pool": {
+        "#": { "5": ["Gullveig - Seer Beyond Time"] },
+        "mythic": { "5": ["Gullveig - Golden Seer"] }
+      },
       "id": "Flared Sparrow",
       "name": "鬼神飛燕炎擊",
       "sp": 300,
@@ -7772,6 +7778,7 @@
             "Hinoka - Thundering Wings"
           ]
         },
+        "mythic": { "5": ["Kvasir - Seer of the Past"] },
         "special": {
           "4": [
             "Ashe - Budding Chivalry",
@@ -7819,6 +7826,7 @@
             "Hinoka - Thundering Wings"
           ]
         },
+        "mythic": { "5": ["Kvasir - Seer of the Past"] },
         "special": {
           "5": [
             "Nifl - Tropical Ice God",
@@ -8935,12 +8943,20 @@
             "Kaze - Easygoing Ninja"
           ]
         },
-        "grail": { "4": ["Clarisse - Sniper in the Dark"] }
+        "grail": { "4": ["Clarisse - Sniper in the Dark"] },
+        "mythic": { "5": ["Gullveig - Golden Seer"] }
       },
       "id": "Poison Strike 3",
       "name": "蛇毒3",
       "sp": 240,
       "icon": "skillB/Poison_Strike_3"
+    },
+    "Occultist's Strike": {
+      "pool": { "mythic": { "5": ["Gullveig - Golden Seer"] } },
+      "id": "Occultist's Strike",
+      "name": "魔之蛇毒",
+      "sp": 300,
+      "icon": "skillB/Occultist's_Strike"
     },
     "Renewal 3": {
       "pool": {
@@ -10504,7 +10520,9 @@
           ]
         },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
-        "mythic": { "5": ["Ashera - Order Goddess"] },
+        "mythic": {
+          "5": ["Ashera - Order Goddess", "Kvasir - Seer of the Past"]
+        },
         "special": {
           "5": [
             "Byleth - Fount of Learning",
@@ -10517,6 +10535,13 @@
       "name": "速度魔防的靜謐3",
       "sp": 240,
       "icon": "skillB/Lull_Spd_Res_3"
+    },
+    "Lull Spd/Res 4": {
+      "pool": { "mythic": { "5": ["Kvasir - Seer of the Past"] } },
+      "id": "Lull Spd/Res 4",
+      "name": "速度魔防的靜謐4",
+      "sp": 300,
+      "icon": "skillB/Lull_Spd_Res_4"
     },
     "Repel 3": {
       "pool": {
@@ -12619,6 +12644,7 @@
       "pool": {
         "grail": { "4": ["Brunnya - Devoted General"] },
         "legendary": { "5": ["Robin - Fell Vessel"] },
+        "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "5": ["Leila - Keen Lookout"] },
         "harmonized": { "5": ["Linde - Bound by Fate"] }
       },
@@ -12705,6 +12731,7 @@
     "Def/Res Smoke 3": {
       "pool": {
         "#": { "5": ["Alcryst - Tender Archer"] },
+        "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": {
           "5": ["Leila - Keen Lookout", "Bernadetta - Late Hibernator"]
         },
@@ -13420,7 +13447,9 @@
           ]
         },
         "grail": { "4": ["Hans - Ambitious Brute"] },
-        "mythic": { "5": ["Nerþuz - God of the Land"] },
+        "mythic": {
+          "5": ["Kvasir - Seer of the Past", "Nerþuz - God of the Land"]
+        },
         "special": {
           "4": ["Flavia - Bold Bride"],
           "5": [
@@ -13695,6 +13724,13 @@
       "name": "攻擊速度的信念",
       "sp": 300,
       "icon": "skillC/Atk_Spd_Pledge"
+    },
+    "Incite Atk/Spd": {
+      "pool": { "mythic": { "5": ["Kvasir - Seer of the Past"] } },
+      "id": "Incite Atk/Spd",
+      "name": "攻擊速度的奮激",
+      "sp": 300,
+      "icon": "skillC/Incite_Atk_Spd"
     },
     "Odd Tempest 3": {
       "pool": {

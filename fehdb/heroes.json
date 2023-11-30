@@ -3605,6 +3605,43 @@
     "ver": "7.8",
     "dfKey": 6
   },
+  "Gullveig - Golden Seer": {
+    "id": "Gullveig - Golden Seer",
+    "title": "黃金魔女",
+    "name": "古爾維格",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-tome",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "anima-spd-2",
+    "releaseDate": "2023-11-29",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [42, 45, 49],
+        "spd": [44, 47, 50],
+        "def": [24, 27, 30],
+        "res": [15, 18, 21]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 15,
+        "spd": 12,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 174,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
+  },
   "Heiðr - Innocent Goddess": {
     "id": "Heiðr - Innocent Goddess",
     "title": "純潔無瑕的女神",
@@ -3641,6 +3678,43 @@
     "book": 7,
     "ver": "7.6",
     "dfKey": 5
+  },
+  "Kvasir - Seer of the Past": {
+    "id": "Kvasir - Seer of the Past",
+    "title": "過去的魔女",
+    "name": "庫瓦希爾",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-tome",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "dark-spd-2",
+    "releaseDate": "2023-11-29",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [44, 47, 51],
+        "def": [13, 17, 20],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 5,
+        "spd": 17,
+        "def": 4,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 174,
+    "statMax": 175,
+    "book": 7,
+    "ver": "7.11",
+    "dfKey": 6
   },
   "Nerþuz - God of the Land": {
     "id": "Nerþuz - God of the Land",

@@ -11209,6 +11209,34 @@
     "skillA": { "Close Reversal": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Drive Def": { "sp": 300, "rarity": 5 } }
   },
+  "Gullveig - Golden Seer": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Vengeance": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Occultist's Strike": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Kvasir - Seer of the Past": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Reprisal": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Lull Spd/Res 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Incite Atk/Spd": { "sp": 300, "rarity": 5 } }
+  },
   "Alear - Awoken Divinity": {
     "score": 276,
     "scoreTotal": 1012,
