@@ -2106,7 +2106,7 @@
     "id": "Shield Pulse 1",
     "name": "盾之躍動1",
     "sp": 60,
-    "rules": "not.white-staff",
+    "rules": "learner.infantry-armored-melee",
     "icon": "skillB/Shield_Pulse_1"
   },
   "Shield Pulse 2": {
@@ -2114,7 +2114,7 @@
     "name": "盾之躍動2",
     "sp": 120,
     "prev": ["Shield Pulse 1"],
-    "rules": "not.white-staff",
+    "rules": "learner.infantry-armored-melee",
     "icon": "skillB/Shield_Pulse_2"
   },
   "Shield Pulse 3": {
@@ -2122,9 +2122,18 @@
     "name": "盾之躍動3",
     "sp": 240,
     "prev": ["Shield Pulse 2"],
-    "rules": "not.white-staff",
+    "rules": "learner.infantry-armored-melee",
     "icon": "skillB/Shield_Pulse_3",
     "last": true
+  },
+  "Buffer 4": {
+    "id": "Buffer 4",
+    "name": "迴避・盾躍",
+    "sp": 300,
+    "rules": "learner.wielderInfantry",
+    "prev": ["Shield Pulse 3"],
+    "last": true,
+    "icon": "skillB/Buffer_4"
   },
   "Flier Formation 1": {
     "id": "Flier Formation 1",
@@ -4455,6 +4464,15 @@
     "prev": ["Beast Agility 2"],
     "rules": "beast",
     "icon": "skillB/Beast_Agility_3",
+    "last": true
+  },
+  "Beast Agility 4": {
+    "id": "Beast Agility 4",
+    "name": "絕對化身・敏捷4",
+    "sp": 300,
+    "prev": ["Beast Agility 3"],
+    "rules": "beast",
+    "icon": "skillB/Beast_Agility_4",
     "last": true
   },
   "Beast N Trace 1": {

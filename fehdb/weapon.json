@@ -3070,6 +3070,16 @@
       "exclusive": ["Harken - Troubled Warrior"],
       "last": true
     },
+    "Striving Sword": {
+      "id": "Striving Sword",
+      "name": "憧憬之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Severa - Secret Dreamer"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -3800,6 +3810,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Protection Edge"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Null Blade": {
+      "id": "Null Blade",
+      "name": "識破追擊之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Null Blade+": {
+      "id": "Null Blade+",
+      "name": "識破追擊之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Null Blade"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -10254,6 +10297,34 @@
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
+      "mt": 16,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Arcane Þrima": {
+      "id": "Arcane Þrima",
+      "name": "魔器蘇莉瑪",
       "mt": 16,
       "rearmed": true,
       "cd": -1,
@@ -17538,6 +17609,16 @@
       "exclusive": ["Freyr - Dream-King"],
       "last": true
     },
+    "World-Tree Tail": {
+      "id": "World-Tree Tail",
+      "name": "世界樹的栗鼠尾巴",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Ratatoskr - Mending Hand"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -18758,6 +18839,16 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Kvasir - Seer of the Past"],
+      "last": true
+    },
+    "Grimleal Text": {
+      "id": "Grimleal Text",
+      "name": "禁書津利",
+      "mt": 14,
+      "res": 3,
+      "sp": 400,
+      "prev": ["Fenrir"],
+      "exclusive": ["Validar - Fell Architect"],
       "last": true
     },
     "Arcane Eclipse": {
@@ -23767,6 +23858,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Hvítrvulture"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Hvítrdeer": {
+      "id": "Hvítrdeer",
+      "name": "純白之鹿",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Atlas"]
+    },
+    "Hvítrdeer+": {
+      "id": "Hvítrdeer+",
+      "name": "純白之鹿+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Hvítrdeer"],
       "refine": {
         "atk": {
           "hp": 2,

@@ -2712,6 +2712,33 @@
       "Alarm Atk/Spd": 5
     }
   },
+  "Ratatoskr - Mending Hand": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 3,
+      "World-Tree Tail": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Clash 4": 5
+    },
+    "skillB": {
+      "Beast Agility 1": 2,
+      "Beast Agility 2": 3,
+      "Beast Agility 3": 4,
+      "Beast Agility 4": 5
+    },
+    "skillC": {
+      "Mending Heart": 5
+    }
+  },
   "Marth - Altean Prince": {
     "weapon": {
       "Iron Sword": 1,
@@ -17713,6 +17740,28 @@
       "Def Tactic 3": 4
     }
   },
+  "Validar - Fell Architect": {
+    "weapon": {
+      "Flux": 1,
+      "Ruin": 3,
+      "Fenrir": 3,
+      "Grimleal Text": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Glacies": 4
+    },
+    "skillB": {
+      "Brash Assault 1": 3,
+      "Brash Assault 2": 4,
+      "Brash Assault 3": 5
+    },
+    "skillC": {
+      "Atk Ploy 1": 1,
+      "Atk Ploy 2": 2,
+      "Atk Ploy 3": 4
+    }
+  },
   "Aversa - Dark One": {
     "weapon": {
       "Flux": 1,
@@ -18345,6 +18394,36 @@
       "A/D Near Save 3": 4
     }
   },
+  "Lucina - Fate's Resolve": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Arcane Þrima": 5
+    },
+    "assist": {
+      "Swap": 3,
+      "Future Sight": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Clash 4": 5
+    },
+    "skillB": {
+      "Spd/Def Snag 1": 2,
+      "Spd/Def Snag 2": 3,
+      "Spd/Def Snag 3": 4,
+      "Spd/Def Snag 4": 5
+    },
+    "skillC": {
+      "Rouse Def/Res 1": 2,
+      "Rouse Def/Res 2": 3,
+      "Rouse Def/Res 3": 4,
+      "Alarm Def/Res": 5
+    }
+  },
   "Owain - Chosen One": {
     "weapon": {
       "Iron Sword": 1,
@@ -18439,6 +18518,28 @@
       "Atk/Spd Rein 1": 1,
       "Atk/Spd Rein 2": 2,
       "Atk/Spd Rein 3": 4
+    }
+  },
+  "Inigo - Flower Picker": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Null Blade": 3,
+      "Null Blade+": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Atk/Spd Form 1": 1,
+      "Atk/Spd Form 2": 2,
+      "Atk/Spd Form 3": 4
+    },
+    "skillB": {
+      "Wrath 1": 3,
+      "Wrath 2": 4,
+      "Wrath 3": 5
     }
   },
   "Brady - Daunting Priest": {
@@ -18538,6 +18639,28 @@
       "Threaten Spd 1": 1,
       "Threat. Atk/Spd 1": 2,
       "Threat. Atk/Spd 2": 4
+    }
+  },
+  "Laurent - The Elucidator": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Hvítrdeer": 3,
+      "Hvítrdeer+": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Atk/Res Ideal 1": 1,
+      "Atk/Res Ideal 2": 2,
+      "Atk/Res Ideal 3": 4
+    },
+    "skillC": {
+      "Rouse Atk/Res 1": 3,
+      "Rouse Atk/Res 2": 4,
+      "Rouse Atk/Res 3": 5
     }
   },
   "Morgan - Lad from Afar": {
@@ -18675,6 +18798,31 @@
       "Hone Atk 2": 3,
       "Hone Atk 3": 4,
       "Joint Hone Atk": 5
+    }
+  },
+  "Severa - Secret Dreamer": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Striving Sword": 5
+    },
+    "special": {
+      "Buckler": 3,
+      "Escutcheon": 4,
+      "Godlike Reflexes": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Shield Pulse 1": 2,
+      "Shield Pulse 2": 3,
+      "Shield Pulse 3": 4,
+      "Buffer 4": 5
     }
   },
   "Noire - Shade Seeker": {

@@ -5707,6 +5707,30 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Laurent - The Elucidator": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Res 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Inigo - Flower Picker": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Wrath 3": { "sp": 240, "rarity": 5 } }
+  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -6545,6 +6569,19 @@
     "skillB": { "Chill Atk 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Savage Blow 3": { "sp": 200, "rarity": 5 } }
   },
+  "Validar - Fell Architect": {
+    "score": 322,
+    "scoreTotal": 720,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 183,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Brash Assault 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
   "Eliwood - Devoted Love": {
     "score": 374,
     "scoreTotal": 720,
@@ -6869,6 +6906,19 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Res Tempo 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Ratatoskr - Mending Hand": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Beast Agility 4": { "sp": 300, "rarity": 5 } }
   },
   "Nanna - Beloved Princess": {
     "score": 276,
@@ -11897,6 +11947,19 @@
     "skillB": { "Savvy Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "A/D Near Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Lucina - Fate's Resolve": {
+    "score": 300,
+    "scoreTotal": 1050,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1050,
+    "feather": 1000,
+    "bst": 184,
+    "assist": { "Swap": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Snag 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Alarm Def/Res": { "sp": 300, "rarity": 5 } }
+  },
   "Sophia - Prescient Bride": {
     "score": 424,
     "scoreTotal": 1060,
@@ -12088,6 +12151,18 @@
     "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
     "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Severa - Secret Dreamer": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Godlike Reflexes": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Buffer 4": { "sp": 300, "rarity": 5 } }
   },
   "Corrin - Silent Bloodline": {
     "score": 500,

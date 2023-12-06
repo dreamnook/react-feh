@@ -175,6 +175,10 @@
     "weaponType": 16711687,
     "moveType": 8
   },
+  "learner.infantry-armored-melee": {
+    "weaponType": 16711687,
+    "moveType": 1
+  },
   "learner.armored-not-staff": {
     "weaponType": 16777207,
     "moveType": 2

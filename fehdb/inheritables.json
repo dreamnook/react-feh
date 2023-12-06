@@ -196,6 +196,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Null Blade+": {
+        "pool": { "#": { "5": ["Inigo - Flower Picker"] } },
+        "id": "Null Blade+",
+        "name": "識破追擊之劍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Kadomatsu+": {
         "pool": { "special": { "5": ["Camilla - Holiday Traveler"] } },
         "id": "Kadomatsu+",
@@ -751,6 +758,13 @@
         "pool": { "#": { "5": ["Ganglöt - Death Anew"] } },
         "id": "Arcane Downfall",
         "name": "魔器・絕死赫爾",
+        "sp": 300,
+        "refine": 350
+      },
+      "Arcane Þrima": {
+        "pool": { "#": { "5": ["Lucina - Fate's Resolve"] } },
+        "id": "Arcane Þrima",
+        "name": "魔器蘇莉瑪",
         "sp": 300,
         "refine": 350
       },
@@ -2347,6 +2361,13 @@
         "name": "純白禿鷹+",
         "sp": 300,
         "refine": 350
+      },
+      "Hvítrdeer+": {
+        "pool": { "#": { "5": ["Laurent - The Elucidator"] } },
+        "id": "Hvítrdeer+",
+        "name": "純白之鹿+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "white-staff": {
@@ -2855,7 +2876,8 @@
             "Gray - Wry Comrade",
             "Shiro - Raw Talent",
             "Laevatein - Searing Steel",
-            "Yuri - Ashen Valiant"
+            "Yuri - Ashen Valiant",
+            "Lucina - Fate's Resolve"
           ]
         },
         "grail": {
@@ -3568,6 +3590,7 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
+            "Inigo - Flower Picker",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Celica - Valentia's Hope",
@@ -3722,6 +3745,7 @@
             "Bramimond - The Enigma",
             "Hel - Death Sovereign",
             "Freyja - Lady of Nightmare",
+            "Ratatoskr - Mending Hand",
             "Ótr - Kingsbrother"
           ]
         },
@@ -4375,6 +4399,7 @@
             "Innes - Regal Strategician",
             "Fiora - Airborne Warrior",
             "Kiria - Cool Façade",
+            "Laurent - The Elucidator",
             "Julia - Heart Usurped",
             "Say'ri - Chon'sin's Blade",
             "Est - Sweet Baby Sis",
@@ -4462,6 +4487,7 @@
             "Riev - Blood Beryl",
             "Aelfric - Custodian Monk",
             "Delthea - Tatarrah's Puppet",
+            "Validar - Fell Architect",
             "Saias - Bishop of Flame",
             "Arete - Requiem's Beauty",
             "Conrad - Masked Knight",
@@ -4639,7 +4665,7 @@
             "Cain - The Bull",
             "Sheena - Princess of Gra"
           ],
-          "5": ["Felix - Lone-Wolf Blade"]
+          "5": ["Severa - Secret Dreamer", "Felix - Lone-Wolf Blade"]
         },
         "grail": { "4": ["Clive - Idealistic Knight"] },
         "special": { "5": ["Lyn - Blazing Whirlwind"] }
@@ -4650,7 +4676,7 @@
     },
     "Godlike Reflexes": {
       "pool": {
-        "#": { "5": ["Felix - Lone-Wolf Blade"] },
+        "#": { "5": ["Severa - Secret Dreamer", "Felix - Lone-Wolf Blade"] },
         "special": { "5": ["Lyn - Blazing Whirlwind"] }
       },
       "id": "Godlike Reflexes",
@@ -7657,7 +7683,11 @@
       "pool": {
         "#": {
           "3": ["Ricken - Shepherd Novice"],
-          "5": ["Petra - Princess of Brigid", "Anna - Secret Seller"]
+          "5": [
+            "Inigo - Flower Picker",
+            "Petra - Princess of Brigid",
+            "Anna - Secret Seller"
+          ]
         },
         "special": {
           "5": [
@@ -8039,7 +8069,10 @@
     },
     "Atk/Res Ideal 3": {
       "pool": {
-        "#": { "3": ["Elice - Altean Princess", "Hestia - Duma's Witch"] },
+        "#": {
+          "3": ["Elice - Altean Princess", "Hestia - Duma's Witch"],
+          "5": ["Laurent - The Elucidator"]
+        },
         "grail": {
           "5": [
             "Lucius - Calming Light",
@@ -8134,6 +8167,7 @@
             "Seliph - Enduring Legacy",
             "Isadora - Escort of Pherae",
             "Triandra - Reverent Dream",
+            "Lucina - Fate's Resolve",
             "Chrom - Fell Exalt"
           ]
         },
@@ -8141,7 +8175,11 @@
           "5": ["Elincia - Undaunted Queen", "Dimitri - Savior King"]
         },
         "mythic": {
-          "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
+          "5": [
+            "Embla - God of Closure",
+            "Ratatoskr - Mending Hand",
+            "Nerþuz - God of the Land"
+          ]
         },
         "special": {
           "4": ["Panne - Welcoming Dawn"],
@@ -8167,6 +8205,7 @@
             "Seliph - Enduring Legacy",
             "Isadora - Escort of Pherae",
             "Triandra - Reverent Dream",
+            "Lucina - Fate's Resolve",
             "Chrom - Fell Exalt"
           ]
         },
@@ -8174,7 +8213,11 @@
           "5": ["Elincia - Undaunted Queen", "Dimitri - Savior King"]
         },
         "mythic": {
-          "5": ["Embla - God of Closure", "Nerþuz - God of the Land"]
+          "5": [
+            "Embla - God of Closure",
+            "Ratatoskr - Mending Hand",
+            "Nerþuz - God of the Land"
+          ]
         },
         "special": { "5": ["Dagr - Bluster Princess"] },
         "harmonized": {
@@ -8246,6 +8289,7 @@
           "5": [
             "Robin - Exalt's Deliverer",
             "Fir - Swordmaiden",
+            "Severa - Secret Dreamer",
             "Felix - Lone-Wolf Blade"
           ]
         },
@@ -8270,6 +8314,7 @@
           "5": [
             "Robin - Exalt's Deliverer",
             "Fir - Swordmaiden",
+            "Severa - Secret Dreamer",
             "Felix - Lone-Wolf Blade"
           ]
         },
@@ -8645,6 +8690,7 @@
           ],
           "5": ["Harken - Troubled Warrior"]
         },
+        "grail": { "5": ["Validar - Fell Architect"] },
         "duo": { "5": ["Shamir - Heartbeats United"] }
       },
       "id": "Brash Assault 3",
@@ -9666,7 +9712,7 @@
     },
     "Shield Pulse 3": {
       "pool": {
-        "#": { "5": ["Saber - Driven Mercenary"] },
+        "#": { "5": ["Saber - Driven Mercenary", "Severa - Secret Dreamer"] },
         "legendary": {
           "5": ["Fjorm - Princess of Ice", "Corrin - Child of Dusk"]
         },
@@ -9676,6 +9722,13 @@
       "name": "盾之躍動3",
       "sp": 240,
       "icon": "skillB/Shield_Pulse_3"
+    },
+    "Buffer 4": {
+      "pool": { "#": { "5": ["Severa - Secret Dreamer"] } },
+      "id": "Buffer 4",
+      "name": "迴避・盾躍",
+      "sp": 300,
+      "icon": "skillB/Buffer_4"
     },
     "Flier Formation 3": {
       "pool": {
@@ -9808,6 +9861,7 @@
           "5": [
             "Nephenee - Fierce Halberdier",
             "Karla - Sword Vassal",
+            "Inigo - Flower Picker",
             "Shannan - Wielder of Astra",
             "Rinkah - Scion of Flame",
             "Osian - Scolded Soldier",
@@ -10112,7 +10166,10 @@
     },
     "Spd/Def Snag 3": {
       "pool": {
-        "#": { "3": ["Kent - Crimson Shield"], "5": ["Chrom - Fell Exalt"] },
+        "#": {
+          "3": ["Kent - Crimson Shield"],
+          "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"]
+        },
         "grail": { "4": ["Deen - Bladed Sandstorm"] },
         "harmonized": { "5": ["Mia - Harmonic Blades"] }
       },
@@ -10122,7 +10179,9 @@
       "icon": "skillB/Spd_Def_Snag_3"
     },
     "Spd/Def Snag 4": {
-      "pool": { "#": { "5": ["Chrom - Fell Exalt"] } },
+      "pool": {
+        "#": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] }
+      },
       "id": "Spd/Def Snag 4",
       "name": "速度防守干涉4",
       "sp": 300,
@@ -10987,11 +11046,22 @@
       "icon": "skillB/Spd_Preempt_3"
     },
     "Beast Agility 3": {
-      "pool": { "mythic": { "5": ["Embla - God of Closure"] } },
+      "pool": {
+        "mythic": {
+          "5": ["Embla - God of Closure", "Ratatoskr - Mending Hand"]
+        }
+      },
       "id": "Beast Agility 3",
       "name": "絕對化身・敏捷3",
       "sp": 240,
       "icon": "skillB/Beast_Agility_3"
+    },
+    "Beast Agility 4": {
+      "pool": { "mythic": { "5": ["Ratatoskr - Mending Hand"] } },
+      "id": "Beast Agility 4",
+      "name": "絕對化身・敏捷4",
+      "sp": 300,
+      "icon": "skillB/Beast_Agility_4"
     },
     "Beast N Trace 3": {
       "pool": { "special": { "5": ["Elm - Resolute Grouch"] } },
@@ -12447,7 +12517,11 @@
           "5": ["Katarina - Wayward One", "Morgan - Lass from Afar"]
         },
         "grail": {
-          "4": ["Julius - Scion of Darkness", "Solon - Church Shadow"],
+          "4": [
+            "Julius - Scion of Darkness",
+            "Validar - Fell Architect",
+            "Solon - Church Shadow"
+          ],
           "5": ["Oliver - Admirer of Beauty"]
         },
         "special": { "5": ["Leo - Seashore's Prince"] }
@@ -13503,7 +13577,13 @@
     },
     "Rouse Atk/Res 3": {
       "pool": {
-        "#": { "5": ["Lyon - Demon King", "Letizia - Curse Director"] },
+        "#": {
+          "5": [
+            "Laurent - The Elucidator",
+            "Lyon - Demon King",
+            "Letizia - Curse Director"
+          ]
+        },
         "grail": {
           "4": ["Hilda - Queen of Friege"],
           "5": ["Saleh - Vernal Sage"]
@@ -13557,7 +13637,13 @@
     },
     "Rouse Def/Res 3": {
       "pool": {
-        "#": { "5": ["Perceval - Knightly Ideal", "Duessel - Obsidian"] },
+        "#": {
+          "5": [
+            "Perceval - Knightly Ideal",
+            "Duessel - Obsidian",
+            "Lucina - Fate's Resolve"
+          ]
+        },
         "grail": { "4": ["Matthis - Brother to Lena"] },
         "legendary": { "5": ["Chrom - Crowned Exalt"] }
       },
@@ -13590,6 +13676,13 @@
       "name": "速度防守的奮進",
       "sp": 300,
       "icon": "skillC/Alarm_Spd_Def"
+    },
+    "Alarm Def/Res": {
+      "pool": { "#": { "5": ["Lucina - Fate's Resolve"] } },
+      "id": "Alarm Def/Res",
+      "name": "防守魔防的奮進",
+      "sp": 300,
+      "icon": "skillC/Alarm_Def_Res"
     },
     "Atk/Spd Oath 3": {
       "pool": {

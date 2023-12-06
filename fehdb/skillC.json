@@ -428,6 +428,14 @@
     "last": true,
     "icon": "skillC/Fanged_Ties"
   },
+  "Mending Heart": {
+    "id": "Mending Heart",
+    "name": "治癒者之心",
+    "sp": 300,
+    "exclusive": ["Ratatoskr - Mending Hand"],
+    "last": true,
+    "icon": "skillC/Mending_Heart"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -3169,6 +3177,15 @@
     "prev": ["Rouse Spd/Def 3"],
     "last": true,
     "icon": "skillC/Alarm_Spd_Def"
+  },
+  "Alarm Def/Res": {
+    "id": "Alarm Def/Res",
+    "name": "防守魔防的奮進",
+    "sp": 300,
+    "rules": "learner.cavalry-melee",
+    "prev": ["Rouse Def/Res 3"],
+    "last": true,
+    "icon": "skillC/Alarm_Def_Res"
   },
   "Atk/Spd Oath 1": {
     "id": "Atk/Spd Oath 1",

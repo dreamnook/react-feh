@@ -3753,6 +3753,43 @@
     "ver": "7.4",
     "dfKey": 5
   },
+  "Ratatoskr - Mending Hand": {
+    "id": "Ratatoskr - Mending Hand",
+    "title": "看護的治癒者",
+    "name": "拉塔托斯克",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-beast",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "astra-spd-2",
+    "releaseDate": "2023-12-07",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 44, 47],
+        "spd": [43, 46, 50],
+        "def": [30, 34, 37],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 7,
+        "def": 12,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
+  },
   "Marth - Altean Prince": {
     "id": "Marth - Altean Prince",
     "title": "阿麗提亞的王子",
@@ -31743,6 +31780,69 @@
     "ver": "4.6",
     "dfKey": 2
   },
+  "Validar - Fell Architect": {
+    "id": "Validar - Fell Architect",
+    "title": "絕望之路上的引導者",
+    "name": "法烏達",
+    "rarity": [5, 4, 3],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-tome",
+    "pool": "grail",
+    "releaseDate": "2023-12-07",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "3": {
+        "hp": [35, 38, 41],
+        "atk": [38, 41, 44],
+        "spd": [11, 14, 17],
+        "def": [28, 31, 34],
+        "res": [35, 38, 41]
+      },
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [41, 44, 47],
+        "spd": [12, 15, 18],
+        "def": [29, 32, 35],
+        "res": [37, 41, 44]
+      },
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [43, 46, 49],
+        "spd": [13, 17, 20],
+        "def": [32, 35, 38],
+        "res": [39, 43, 46]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 3,
+        "def": 8,
+        "res": 9
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 3,
+        "def": 8,
+        "res": 10
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 4,
+        "def": 9,
+        "res": 10
+      }
+    },
+    "assets": [],
+    "flaws": ["spd", "res"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
+  },
   "Aversa - Dark One": {
     "id": "Aversa - Dark One",
     "title": "黑暗遊女",
@@ -32959,6 +33059,41 @@
     "ver": "6.2",
     "dfKey": 4
   },
+  "Lucina - Fate's Resolve": {
+    "id": "Lucina - Fate's Resolve",
+    "title": "開創未來的決心",
+    "name": "露琪娜",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "rearmed": true,
+    "releaseDate": "2023-12-07",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [44, 47, 51],
+        "def": [28, 31, 34],
+        "res": [20, 23, 26]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 8,
+        "def": 7,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
+  },
   "Owain - Chosen One": {
     "id": "Owain - Chosen One",
     "title": "封印著力量之人",
@@ -33111,6 +33246,40 @@
     "book": 5,
     "ver": "5.3",
     "dfKey": 3
+  },
+  "Inigo - Flower Picker": {
+    "id": "Inigo - Flower Picker",
+    "title": "綻開的笑容",
+    "name": "阿茲爾",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-12-07",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 47],
+        "spd": [42, 45, 49],
+        "def": [31, 34, 37],
+        "res": [27, 30, 33]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 15,
+        "def": 8,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
   },
   "Brady - Daunting Priest": {
     "id": "Brady - Daunting Priest",
@@ -33305,6 +33474,40 @@
     "book": 7,
     "ver": "7.0",
     "dfKey": 5
+  },
+  "Laurent - The Elucidator": {
+    "id": "Laurent - The Elucidator",
+    "title": "真理的求道者",
+    "name": "羅藍",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "releaseDate": "2023-12-07",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [43, 46, 50],
+        "spd": [26, 30, 33],
+        "def": [21, 24, 27],
+        "res": [40, 43, 47]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 7,
+        "spd": 8,
+        "def": 7,
+        "res": 13
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
   },
   "Morgan - Lad from Afar": {
     "id": "Morgan - Lad from Afar",
@@ -33504,6 +33707,40 @@
     "book": 5,
     "ver": "5.3",
     "dfKey": 3
+  },
+  "Severa - Secret Dreamer": {
+    "id": "Severa - Secret Dreamer",
+    "title": "深藏的憧憬",
+    "name": "瑟琳娜",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2023-12-07",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [39, 43, 46],
+        "spd": [44, 47, 51],
+        "def": [33, 37, 40],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 15,
+        "res": 5
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["atk", "def"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
   },
   "Noire - Shade Seeker": {
     "id": "Noire - Shade Seeker",

@@ -287,6 +287,14 @@
     "exclusive": ["Triandra - Reverent Dream"],
     "last": true
   },
+  "Future Sight": {
+    "id": "Future Sight",
+    "name": "改變未來的眼眸",
+    "sp": 400,
+    "prev": ["Swap"],
+    "exclusive": ["Lucina - Fate's Resolve"],
+    "last": true
+  },
   "Heal": {
     "id": "Heal",
     "name": "聖療",
