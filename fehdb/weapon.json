@@ -2150,6 +2150,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Shannan - Wielder of Astra"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Balmung_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Mirage Falchion": {
@@ -5798,6 +5821,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Palla - Sisterly Trio"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Whitedown_Spear_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Weighted Lance": {
@@ -12410,6 +12456,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Eleonora - Shooting Starlet"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Mirage_Longbow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Randgríðr": {
@@ -13030,6 +13098,37 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Febail - Mercenary Waif"],
+      "last": true
+    },
+    "Sacaen-Wolf Bow": {
+      "id": "Sacaen-Wolf Bow",
+      "name": "幼狼之銳弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "exclusive": ["Rath - Wolf of Sacae"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Sacaen-Wolf_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arcane Náströnd": {
@@ -18235,6 +18334,28 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Iago - Nohr's Tactician"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Iago's_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Dark Scripture": {
