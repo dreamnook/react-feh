@@ -12530,7 +12530,8 @@
       "refine": {
         "effect": {
           "name": "特效",
-          "icon": "Mirage_Longbow_W"
+          "icon": "Mirage_Longbow_W",
+          "cd": -1
         },
         "atk": {
           "hp": 2,
