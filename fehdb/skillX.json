@@ -19,6 +19,7 @@
     "id": "Fleeting Echo",
     "name": "響・飛燕離擊",
     "sp": 0,
+    "rules": "learner.ranged-not-staff",
     "last": true,
     "icon": "skillX/Fleeting_Echo"
   }
