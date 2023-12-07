@@ -2128,7 +2128,7 @@
   },
   "Buffer 4": {
     "id": "Buffer 4",
-    "name": "迴避・盾躍",
+    "name": "迴避・盾之躍動",
     "sp": 300,
     "rules": "learner.wielderInfantry",
     "prev": ["Shield Pulse 3"],

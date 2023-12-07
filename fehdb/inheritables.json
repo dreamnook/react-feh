@@ -764,7 +764,7 @@
       "Arcane Þrima": {
         "pool": { "#": { "5": ["Lucina - Fate's Resolve"] } },
         "id": "Arcane Þrima",
-        "name": "魔器蘇莉瑪",
+        "name": "魔器斯利瑪",
         "sp": 300,
         "refine": 350
       },
@@ -9726,7 +9726,7 @@
     "Buffer 4": {
       "pool": { "#": { "5": ["Severa - Secret Dreamer"] } },
       "id": "Buffer 4",
-      "name": "迴避・盾躍",
+      "name": "迴避・盾之躍動",
       "sp": 300,
       "icon": "skillB/Buffer_4"
     },
