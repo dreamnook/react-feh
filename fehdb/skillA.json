@@ -4267,5 +4267,38 @@
     "rules": "learner.def-dmger",
     "icon": "skillA/Atk_Spd_Prime_4",
     "last": true
+  },
+  "Atk/Def Prime 1": {
+    "id": "Atk/Def Prime 1",
+    "name": "攻擊防守的準備1",
+    "sp": 60,
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Atk_Def_Prime_1"
+  },
+  "Atk/Def Prime 2": {
+    "id": "Atk/Def Prime 2",
+    "name": "攻擊防守的準備2",
+    "sp": 120,
+    "prev": ["Atk/Def Prime 1"],
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Atk_Def_Prime_2"
+  },
+  "Atk/Def Prime 3": {
+    "id": "Atk/Def Prime 3",
+    "name": "攻擊防守的準備3",
+    "sp": 240,
+    "prev": ["Atk/Def Prime 2"],
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Atk_Def_Prime_3",
+    "last": true
+  },
+  "Atk/Def Prime 4": {
+    "id": "Atk/Def Prime 4",
+    "name": "攻擊防守的準備4",
+    "sp": 300,
+    "prev": ["Atk/Def Prime 3"],
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Atk_Def_Prime_4",
+    "last": true
   }
 }

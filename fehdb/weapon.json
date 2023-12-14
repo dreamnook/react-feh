@@ -3080,6 +3080,16 @@
       "exclusive": ["Severa - Secret Dreamer"],
       "last": true
     },
+    "Holy Yule Blade": {
+      "id": "Holy Yule Blade",
+      "name": "老師的聖夜之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Byleth - Frosty Professors"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -6892,6 +6902,16 @@
       "exclusive": ["Isadora - Escort of Pherae"],
       "last": true
     },
+    "Black Yule Lance": {
+      "id": "Black Yule Lance",
+      "name": "黑鷲的聖夜之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Edelgard - Snowfall Future"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -10292,6 +10312,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Fargus - Badon Buccaneer"],
+      "last": true
+    },
+    "Blue Yule Axe": {
+      "id": "Blue Yule Axe",
+      "name": "青獅子的聖夜之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Dimitri - Blessed Protector"],
       "last": true
     },
     "Arcane Downfall": {
@@ -14754,6 +14784,39 @@
       "sp": 300,
       "prev": ["Kumo Yumi"],
       "last": true
+    },
+    "Golden Yule Bow": {
+      "id": "Golden Yule Bow",
+      "name": "金鹿的聖夜之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Golden Yule Bow+": {
+      "id": "Golden Yule Bow+",
+      "name": "金鹿的聖夜之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Golden Yule Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "dagger": {
@@ -15489,6 +15552,16 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Nino - Fang's Heart"],
+      "last": true
+    },
+    "Silent Yule Knife": {
+      "id": "Silent Yule Knife",
+      "name": "無形的聖夜之刃",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Yunaka - Spirited Envoy"],
       "last": true
     },
     "Arcane Void": {

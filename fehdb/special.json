@@ -361,6 +361,15 @@
     "exclusive": ["Kvasir - Seer of the Past"],
     "last": true
   },
+  "Supreme Heaven": {
+    "id": "Supreme Heaven",
+    "name": "真霸天",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Draconic Aura"],
+    "exclusive": ["Byleth - Frosty Professors"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -549,6 +558,15 @@
     "prev": ["Draconic Aura"],
     "last": true
   },
+  "No Quarter": {
+    "id": "No Quarter",
+    "name": "車懸",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Draconic Aura"],
+    "rules": "learner.wielderNotArmor",
+    "last": true
+  },
   "Glowing Ember": {
     "id": "Glowing Ember",
     "name": "螢火",
@@ -577,6 +595,15 @@
   "Armored Beacon": {
     "id": "Armored Beacon",
     "name": "重裝之聖炎",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Bonfire"],
+    "rules": "learner.armored-not-staff",
+    "last": true
+  },
+  "Armored Blaze": {
+    "id": "Armored Blaze",
+    "name": "重裝之大炎",
     "cd": 3,
     "sp": 500,
     "prev": ["Bonfire"],

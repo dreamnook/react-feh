@@ -1464,6 +1464,13 @@
         "id": "Kumo Yumi+",
         "name": "白夜忍之和弓+",
         "sp": 300
+      },
+      "Golden Yule Bow+": {
+        "pool": { "grail": { "5": ["Claude - Yuletide Schemer"] } },
+        "id": "Golden Yule Bow+",
+        "name": "金鹿的聖夜之弓+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "dagger": {
@@ -2363,7 +2370,7 @@
         "refine": 350
       },
       "Hvítrdeer+": {
-        "pool": { "#": { "5": ["Laurent - The Elucidator"] } },
+        "pool": { "#": { "4": ["Laurent - The Elucidator"] } },
         "id": "Hvítrdeer+",
         "name": "純白之鹿+",
         "sp": 300,
@@ -3551,7 +3558,10 @@
             "Priam - Radiant Hero"
           ]
         },
-        "grail": { "4": ["Itsuki - Finding a Path"] },
+        "grail": {
+          "4": ["Itsuki - Finding a Path"],
+          "5": ["Claude - Yuletide Schemer"]
+        },
         "legendary": {
           "5": ["Ephraim - Legendary Lord", "Ike - Vanguard Legend"]
         },
@@ -3767,6 +3777,7 @@
             "Anna - Secret Charmer",
             "Takumi - Troubled Heart",
             "Zelgius - Ninja Knight",
+            "Yunaka - Spirited Envoy",
             "Black Knight - The Night's Blade",
             "Claude - Golden Breeze",
             "Greil - Heroic Exemplar"
@@ -4142,13 +4153,15 @@
             "Kagero - Beverage Ninja",
             "Shanna - Bridal Novice",
             "Tana - Frelian Starlight",
-            "Bernadetta - Late Hibernator"
+            "Bernadetta - Late Hibernator",
+            "Dimitri - Blessed Protector"
           ]
         },
         "duo": {
           "5": [
             "Marth - Royal Altean Duo",
             "Ephraim - Dynastic Duo",
+            "Byleth - Frosty Professors",
             "Byleth - Fell Star's Duo"
           ]
         },
@@ -4231,6 +4244,12 @@
       "name": "破天",
       "sp": 500
     },
+    "No Quarter": {
+      "pool": { "special": { "5": ["Dimitri - Blessed Protector"] } },
+      "id": "No Quarter",
+      "name": "車懸",
+      "sp": 500
+    },
     "Bonfire": {
       "pool": {
         "#": {
@@ -4297,7 +4316,8 @@
             "Surtr - Pirate of Red Sky",
             "Ash - Earnest Greetings",
             "Ephraim - Sunshine Valiant",
-            "Hector - Sworn Friend"
+            "Hector - Sworn Friend",
+            "Edelgard - Snowfall Future"
           ]
         },
         "duo": {
@@ -4374,6 +4394,12 @@
       "name": "重裝之聖炎",
       "sp": 500
     },
+    "Armored Blaze": {
+      "pool": { "special": { "5": ["Edelgard - Snowfall Future"] } },
+      "id": "Armored Blaze",
+      "name": "重裝之大炎",
+      "sp": 500
+    },
     "Blue Flame": {
       "pool": {
         "#": { "5": ["Owain - Chosen One"] },
@@ -4395,11 +4421,11 @@
             "Hestia - Duma's Witch",
             "Phila - Pegasus Master"
           ],
+          "4": ["Laurent - The Elucidator"],
           "5": [
             "Innes - Regal Strategician",
             "Fiora - Airborne Warrior",
             "Kiria - Cool Façade",
-            "Laurent - The Elucidator",
             "Julia - Heart Usurped",
             "Say'ri - Chon'sin's Blade",
             "Est - Sweet Baby Sis",
@@ -5564,7 +5590,8 @@
             "Heather - Wandering Ninja",
             "Anna - Secret Charmer",
             "Tanith - Forthright Heart",
-            "Bernadetta - Late Hibernator"
+            "Bernadetta - Late Hibernator",
+            "Yunaka - Spirited Envoy"
           ]
         },
         "duo": {
@@ -5858,7 +5885,8 @@
     "Flared Sparrow": {
       "pool": {
         "#": { "5": ["Gullveig - Seer Beyond Time"] },
-        "mythic": { "5": ["Gullveig - Golden Seer"] }
+        "mythic": { "5": ["Gullveig - Golden Seer"] },
+        "special": { "5": ["Yunaka - Spirited Envoy"] }
       },
       "id": "Flared Sparrow",
       "name": "鬼神飛燕炎擊",
@@ -6694,7 +6722,7 @@
           "5": ["Ginnungagap - Ruler of Nihility"]
         },
         "grail": { "5": ["Berkut - Prideful Prince"] },
-        "duo": { "5": ["Ymir - Seasons of Life"] }
+        "duo": { "5": ["Ymir - Seasons of Life", "Byleth - Frosty Professors"] }
       },
       "id": "Water Boost 3",
       "name": "生命靜水3",
@@ -6704,7 +6732,7 @@
     "Fireflood Boost 3": {
       "pool": {
         "#": { "5": ["Ginnungagap - Ruler of Nihility"] },
-        "duo": { "5": ["Ymir - Seasons of Life"] }
+        "duo": { "5": ["Ymir - Seasons of Life", "Byleth - Frosty Professors"] }
       },
       "id": "Fireflood Boost 3",
       "name": "生命業火靜水3",
@@ -7689,6 +7717,7 @@
             "Anna - Secret Seller"
           ]
         },
+        "grail": { "5": ["Claude - Yuletide Schemer"] },
         "special": {
           "5": [
             "Juno - Soaring Bride",
@@ -8071,7 +8100,7 @@
       "pool": {
         "#": {
           "3": ["Elice - Altean Princess", "Hestia - Duma's Witch"],
-          "5": ["Laurent - The Elucidator"]
+          "4": ["Laurent - The Elucidator"]
         },
         "grail": {
           "5": [
@@ -8418,7 +8447,9 @@
     },
     "Atk/Spd Prime 3": {
       "pool": {
-        "special": { "5": ["Claude - Golden Breeze"] },
+        "special": {
+          "5": ["Claude - Golden Breeze", "Dimitri - Blessed Protector"]
+        },
         "harmonized": { "5": ["Anna - Twice the Anna"] }
       },
       "id": "Atk/Spd Prime 3",
@@ -8428,13 +8459,29 @@
     },
     "Atk/Spd Prime 4": {
       "pool": {
-        "special": { "5": ["Claude - Golden Breeze"] },
+        "special": {
+          "5": ["Claude - Golden Breeze", "Dimitri - Blessed Protector"]
+        },
         "harmonized": { "5": ["Anna - Twice the Anna"] }
       },
       "id": "Atk/Spd Prime 4",
       "name": "攻擊速度的準備4",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Prime_4"
+    },
+    "Atk/Def Prime 3": {
+      "pool": { "special": { "5": ["Edelgard - Snowfall Future"] } },
+      "id": "Atk/Def Prime 3",
+      "name": "攻擊防守的準備3",
+      "sp": 240,
+      "icon": "skillA/Atk_Def_Prime_3"
+    },
+    "Atk/Def Prime 4": {
+      "pool": { "special": { "5": ["Edelgard - Snowfall Future"] } },
+      "id": "Atk/Def Prime 4",
+      "name": "攻擊防守的準備4",
+      "sp": 300,
+      "icon": "skillA/Atk_Def_Prime_4"
     }
   },
   "skillB": {
@@ -8764,12 +8811,20 @@
             "Hector - Just Here to Fight",
             "Greil - Heroic Exemplar"
           ]
-        }
+        },
+        "duo": { "5": ["Byleth - Frosty Professors"] }
       },
       "id": "Wary Fighter 3",
       "name": "防守隊形3",
       "sp": 240,
       "icon": "skillB/Wary_Fighter_3"
+    },
+    "Weaving Fighter": {
+      "pool": { "duo": { "5": ["Byleth - Frosty Professors"] } },
+      "id": "Weaving Fighter",
+      "name": "理之防守隊形",
+      "sp": 300,
+      "icon": "skillB/Weaving_Fighter"
     },
     "Bold Fighter 3": {
       "pool": {
@@ -8880,6 +8935,31 @@
       "sp": 300,
       "icon": "skillB/Special_Fighter_4"
     },
+    "Odd Follow-Up 3": {
+      "pool": {
+        "special": {
+          "4": ["Raphael - Muscle-Monger"],
+          "5": ["Artur - Silver Saint"]
+        },
+        "duo": { "5": ["Hector - Dressed-Up Duo"] }
+      },
+      "id": "Odd Follow-Up 3",
+      "name": "追擊隊形・奇數3",
+      "sp": 240,
+      "icon": "skillB/Odd_Follow-Up_3"
+    },
+    "Even Follow-Up 3": {
+      "pool": {
+        "special": {
+          "4": ["Hilda - Holiday Layabout"],
+          "5": ["Robin - Tactful Deliverer"]
+        }
+      },
+      "id": "Even Follow-Up 3",
+      "name": "追擊隊形・偶數3",
+      "sp": 240,
+      "icon": "skillB/Even_Follow-Up_3"
+    },
     "Daring Fighter 3": {
       "pool": { "duo": { "5": ["Marth - Royal Altean Duo"] } },
       "id": "Daring Fighter 3",
@@ -8955,31 +9035,6 @@
       "sp": 240,
       "icon": "skillB/Wily_Fighter_3"
     },
-    "Odd Follow-Up 3": {
-      "pool": {
-        "special": {
-          "4": ["Raphael - Muscle-Monger"],
-          "5": ["Artur - Silver Saint"]
-        },
-        "duo": { "5": ["Hector - Dressed-Up Duo"] }
-      },
-      "id": "Odd Follow-Up 3",
-      "name": "追擊隊形・奇數3",
-      "sp": 240,
-      "icon": "skillB/Odd_Follow-Up_3"
-    },
-    "Even Follow-Up 3": {
-      "pool": {
-        "special": {
-          "4": ["Hilda - Holiday Layabout"],
-          "5": ["Robin - Tactful Deliverer"]
-        }
-      },
-      "id": "Even Follow-Up 3",
-      "name": "追擊隊形・偶數3",
-      "sp": 240,
-      "icon": "skillB/Even_Follow-Up_3"
-    },
     "Poison Strike 3": {
       "pool": {
         "#": {
@@ -8990,12 +9045,20 @@
           ]
         },
         "grail": { "4": ["Clarisse - Sniper in the Dark"] },
-        "mythic": { "5": ["Gullveig - Golden Seer"] }
+        "mythic": { "5": ["Gullveig - Golden Seer"] },
+        "special": { "5": ["Yunaka - Spirited Envoy"] }
       },
       "id": "Poison Strike 3",
       "name": "蛇毒3",
       "sp": 240,
       "icon": "skillB/Poison_Strike_3"
+    },
+    "Assassin's Strike": {
+      "pool": { "special": { "5": ["Yunaka - Spirited Envoy"] } },
+      "id": "Assassin's Strike",
+      "name": "理之蛇毒",
+      "sp": 300,
+      "icon": "skillB/Assassin's_Strike"
     },
     "Occultist's Strike": {
       "pool": { "mythic": { "5": ["Gullveig - Golden Seer"] } },
@@ -9289,6 +9352,7 @@
     "Chill Atk/Spd 2": {
       "pool": {
         "#": { "5": ["Jill - Fiery Dracoknight", "Erinys - Earnest Knight"] },
+        "grail": { "5": ["Claude - Yuletide Schemer"] },
         "duo": { "5": ["Palla - Sisterly Trio"] }
       },
       "id": "Chill Atk/Spd 2",
@@ -12551,7 +12615,9 @@
           "4": ["Arvis - Emperor of Flame"],
           "5": ["Cecilia - Festive Instructor"]
         },
-        "special": { "5": ["Gaius - Thief Exposed"] },
+        "special": {
+          "5": ["Gaius - Thief Exposed", "Edelgard - Snowfall Future"]
+        },
         "duo": { "5": ["Sanaki - Dawnsworn Ninja"] }
       },
       "id": "Def Ploy 3",
@@ -12593,6 +12659,7 @@
     "Def/Res Ploy 3": {
       "pool": {
         "#": { "5": ["Plumeria - Rapturous Dream"] },
+        "special": { "5": ["Edelgard - Snowfall Future"] },
         "duo": { "5": ["Sanaki - Dawnsworn Ninja"] }
       },
       "id": "Def/Res Ploy 3",
@@ -12764,7 +12831,9 @@
             "Heiðr - Innocent Goddess"
           ]
         },
-        "special": { "5": ["Ursula - Royal-Blue Crow"] },
+        "special": {
+          "5": ["Ursula - Royal-Blue Crow", "Dimitri - Blessed Protector"]
+        },
         "harmonized": { "5": ["Caeda - Sea-Blossom Pair"] }
       },
       "id": "Panic Smoke 3",
@@ -12776,7 +12845,9 @@
       "pool": {
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "mythic": { "5": ["Heiðr - Innocent Goddess"] },
-        "special": { "5": ["Ursula - Royal-Blue Crow"] }
+        "special": {
+          "5": ["Ursula - Royal-Blue Crow", "Dimitri - Blessed Protector"]
+        }
       },
       "id": "Panic Smoke 4",
       "name": "恐慌的幻煙4",
@@ -12787,7 +12858,9 @@
       "pool": {
         "#": { "5": ["Ginnungagap - Ruler of Nihility"] },
         "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
-        "special": { "5": ["Freyja - Fleeting Summer"] },
+        "special": {
+          "5": ["Freyja - Fleeting Summer", "Yunaka - Spirited Envoy"]
+        },
         "duo": { "5": ["Líf - Undying Ties Duo", "Shamir - Heartbeats United"] }
       },
       "id": "Fatal Smoke 3",
@@ -12796,7 +12869,10 @@
       "icon": "skillC/Fatal_Smoke_3"
     },
     "Fatal Smoke 4": {
-      "pool": { "#": { "5": ["Ginnungagap - Ruler of Nihility"] } },
+      "pool": {
+        "#": { "5": ["Ginnungagap - Ruler of Nihility"] },
+        "special": { "5": ["Yunaka - Spirited Envoy"] }
+      },
       "id": "Fatal Smoke 4",
       "name": "不治的幻煙4",
       "sp": 300,
@@ -13121,6 +13197,7 @@
       "pool": {
         "#": { "5": ["Fjorm - Ice Ascendant"] },
         "special": { "5": ["Henriette - Overflowing Love"] },
+        "duo": { "5": ["Byleth - Frosty Professors"] },
         "harmonized": { "5": ["Tiki - Bridal Reflections"] }
       },
       "id": "A/R Far Save 2",
@@ -13132,6 +13209,7 @@
       "pool": {
         "#": { "5": ["Fjorm - Ice Ascendant"] },
         "special": { "5": ["Henriette - Overflowing Love"] },
+        "duo": { "5": ["Byleth - Frosty Professors"] },
         "harmonized": { "5": ["Tiki - Bridal Reflections"] }
       },
       "id": "A/R Far Save 3",
@@ -13578,11 +13656,8 @@
     "Rouse Atk/Res 3": {
       "pool": {
         "#": {
-          "5": [
-            "Laurent - The Elucidator",
-            "Lyon - Demon King",
-            "Letizia - Curse Director"
-          ]
+          "4": ["Laurent - The Elucidator"],
+          "5": ["Lyon - Demon King", "Letizia - Curse Director"]
         },
         "grail": {
           "4": ["Hilda - Queen of Friege"],

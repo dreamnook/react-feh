@@ -147,16 +147,32 @@
     "moveType": 1,
     "weaponType": 7
   },
+  "learner.wielderNotInfantry": {
+    "moveType": 14,
+    "weaponType": 7
+  },
   "learner.wielderArmor": {
     "moveType": 2,
+    "weaponType": 7
+  },
+  "learner.wielderNotArmor": {
+    "moveType": 13,
     "weaponType": 7
   },
   "learner.wielderCavalry": {
     "moveType": 4,
     "weaponType": 7
   },
+  "learner.wielderNotCavalry": {
+    "moveType": 11,
+    "weaponType": 7
+  },
   "learner.wielderFlying": {
     "moveType": 8,
+    "weaponType": 7
+  },
+  "learner.wielderNotFlying": {
+    "moveType": 7,
     "weaponType": 7
   },
   "learner.flow-refresh": {
@@ -177,10 +193,14 @@
   },
   "learner.infantry-armored-melee": {
     "weaponType": 16711687,
-    "moveType": 1
+    "moveType": 3
   },
   "learner.armored-not-staff": {
     "weaponType": 16777207,
+    "moveType": 2
+  },
+  "learner.armored-def-dmg": {
+    "weaponType": 15732727,
     "moveType": 2
   },
   "learner.cavalry-flying-not-staff": {

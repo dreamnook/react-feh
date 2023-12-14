@@ -537,6 +537,22 @@
     "last": true,
     "icon": "skillB/Ruler_of_Nihility"
   },
+  "Raging Tempest": {
+    "id": "Raging Tempest",
+    "name": "真狂嵐",
+    "sp": 300,
+    "exclusive": ["Edelgard - Snowfall Future"],
+    "last": true,
+    "icon": "skillB/Raging_Tempest"
+  },
+  "Barbarity": {
+    "id": "Barbarity",
+    "name": "真無慘",
+    "sp": 300,
+    "exclusive": ["Dimitri - Blessed Protector"],
+    "last": true,
+    "icon": "skillB/Barbarity"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -810,6 +826,15 @@
     "icon": "skillB/Wary_Fighter_3",
     "last": true
   },
+  "Weaving Fighter": {
+    "id": "Weaving Fighter",
+    "name": "理之防守隊形",
+    "sp": 300,
+    "prev": ["Wary Fighter 3"],
+    "rules": "learner.armored-def-dmg",
+    "last": true,
+    "icon": "skillB/Weaving_Fighter"
+  },
   "Bold Fighter 1": {
     "id": "Bold Fighter 1",
     "name": "攻擊隊形1",
@@ -898,6 +923,54 @@
     "prev": ["Special Fighter 3"],
     "rules": "armored",
     "icon": "skillB/Special_Fighter_4",
+    "last": true
+  },
+  "Odd Follow-Up 1": {
+    "id": "Odd Follow-Up 1",
+    "name": "追擊隊形・奇數1",
+    "sp": 60,
+    "rules": "armored",
+    "icon": "skillB/Odd_Follow-Up_1"
+  },
+  "Odd Follow-Up 2": {
+    "id": "Odd Follow-Up 2",
+    "name": "追擊隊形・奇數2",
+    "sp": 120,
+    "prev": ["Odd Follow-Up 1"],
+    "rules": "armored",
+    "icon": "skillB/Odd_Follow-Up_2"
+  },
+  "Odd Follow-Up 3": {
+    "id": "Odd Follow-Up 3",
+    "name": "追擊隊形・奇數3",
+    "sp": 240,
+    "prev": ["Odd Follow-Up 2"],
+    "rules": "armored",
+    "icon": "skillB/Odd_Follow-Up_3",
+    "last": true
+  },
+  "Even Follow-Up 1": {
+    "id": "Even Follow-Up 1",
+    "name": "追擊隊形・偶數1",
+    "sp": 60,
+    "rules": "armored",
+    "icon": "skillB/Even_Follow-Up_1"
+  },
+  "Even Follow-Up 2": {
+    "id": "Even Follow-Up 2",
+    "name": "追擊隊形・偶數2",
+    "sp": 120,
+    "prev": ["Even Follow-Up 1"],
+    "rules": "armored",
+    "icon": "skillB/Even_Follow-Up_2"
+  },
+  "Even Follow-Up 3": {
+    "id": "Even Follow-Up 3",
+    "name": "追擊隊形・偶數3",
+    "sp": 240,
+    "prev": ["Even Follow-Up 2"],
+    "rules": "armored",
+    "icon": "skillB/Even_Follow-Up_3",
     "last": true
   },
   "Daring Fighter 1": {
@@ -1053,54 +1126,6 @@
     "icon": "skillB/Wily_Fighter_3",
     "last": true
   },
-  "Odd Follow-Up 1": {
-    "id": "Odd Follow-Up 1",
-    "name": "追擊隊形・奇數1",
-    "sp": 60,
-    "rules": "armored",
-    "icon": "skillB/Odd_Follow-Up_1"
-  },
-  "Odd Follow-Up 2": {
-    "id": "Odd Follow-Up 2",
-    "name": "追擊隊形・奇數2",
-    "sp": 120,
-    "prev": ["Odd Follow-Up 1"],
-    "rules": "armored",
-    "icon": "skillB/Odd_Follow-Up_2"
-  },
-  "Odd Follow-Up 3": {
-    "id": "Odd Follow-Up 3",
-    "name": "追擊隊形・奇數3",
-    "sp": 240,
-    "prev": ["Odd Follow-Up 2"],
-    "rules": "armored",
-    "icon": "skillB/Odd_Follow-Up_3",
-    "last": true
-  },
-  "Even Follow-Up 1": {
-    "id": "Even Follow-Up 1",
-    "name": "追擊隊形・偶數1",
-    "sp": 60,
-    "rules": "armored",
-    "icon": "skillB/Even_Follow-Up_1"
-  },
-  "Even Follow-Up 2": {
-    "id": "Even Follow-Up 2",
-    "name": "追擊隊形・偶數2",
-    "sp": 120,
-    "prev": ["Even Follow-Up 1"],
-    "rules": "armored",
-    "icon": "skillB/Even_Follow-Up_2"
-  },
-  "Even Follow-Up 3": {
-    "id": "Even Follow-Up 3",
-    "name": "追擊隊形・偶數3",
-    "sp": 240,
-    "prev": ["Even Follow-Up 2"],
-    "rules": "armored",
-    "icon": "skillB/Even_Follow-Up_3",
-    "last": true
-  },
   "Poison Strike 1": {
     "id": "Poison Strike 1",
     "name": "蛇毒1",
@@ -1124,6 +1149,15 @@
     "rules": "not.white-staff",
     "icon": "skillB/Poison_Strike_3",
     "last": true
+  },
+  "Assassin's Strike": {
+    "id": "Assassin's Strike",
+    "name": "理之蛇毒",
+    "sp": 300,
+    "prev": ["Poison Strike 3"],
+    "rules": "learner.def-dmger",
+    "last": true,
+    "icon": "skillB/Assassin's_Strike"
   },
   "Occultist's Strike": {
     "id": "Occultist's Strike",

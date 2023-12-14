@@ -33479,19 +33479,33 @@
     "id": "Laurent - The Elucidator",
     "title": "真理的求道者",
     "name": "羅藍",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-tome",
     "releaseDate": "2023-12-07",
     "appearsIn": ["Awakening"],
     "stats": {
+      "4": {
+        "hp": [33, 36, 39],
+        "atk": [40, 43, 46],
+        "spd": [25, 28, 31],
+        "def": [19, 22, 25],
+        "res": [38, 41, 45]
+      },
       "5": {
         "hp": [35, 39, 42],
         "atk": [43, 46, 50],
         "spd": [26, 30, 33],
         "def": [21, 24, 27],
         "res": [40, 43, 47]
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 6,
+        "spd": 8,
+        "def": 6,
+        "res": 13
       },
       "5-1": {
         "hp": 17,
@@ -40319,6 +40333,42 @@
     "ver": "7.1",
     "dfKey": 5
   },
+  "Byleth - Frosty Professors": {
+    "id": "Byleth - Frosty Professors",
+    "title": "馳騁雪原的領導者",
+    "name": "貝雷特",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "armored",
+    "weaponType": "red-sword",
+    "bst": 205,
+    "pool": "duo",
+    "releaseDate": "2023-12-14",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [44, 47, 50],
+        "atk": [43, 46, 50],
+        "spd": [14, 18, 21],
+        "def": [41, 45, 48],
+        "res": [42, 46, 49]
+      },
+      "5-1": {
+        "hp": 23,
+        "atk": 7,
+        "spd": 5,
+        "def": 12,
+        "res": 13
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd", "def", "res"],
+    "statMin": 202,
+    "statMax": 205,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
+  },
   "Sothis - Girl on the Throne": {
     "id": "Sothis - Girl on the Throne",
     "title": "王座少女",
@@ -40867,6 +40917,41 @@
     "book": 6,
     "ver": "6.6",
     "dfKey": 4
+  },
+  "Edelgard - Snowfall Future": {
+    "id": "Edelgard - Snowfall Future",
+    "title": "於雪中起舞的黑鷲",
+    "name": "艾黛爾賈特",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2023-12-14",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [44, 47, 51],
+        "spd": [13, 17, 20],
+        "def": [43, 47, 50],
+        "res": [41, 44, 48]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 8,
+        "spd": 4,
+        "def": 14,
+        "res": 14
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["spd", "def"],
+    "statMin": 201,
+    "statMax": 205,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
   },
   "Hubert - Sinister Servant": {
     "id": "Hubert - Sinister Servant",
@@ -41541,6 +41626,41 @@
     "book": 6,
     "ver": "6.6",
     "dfKey": 4
+  },
+  "Dimitri - Blessed Protector": {
+    "id": "Dimitri - Blessed Protector",
+    "title": "神聖的青獅子",
+    "name": "帝彌托利",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2023-12-14",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [44, 47, 51],
+        "spd": [42, 46, 49],
+        "def": [29, 32, 35],
+        "res": [16, 19, 22]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 8,
+        "spd": 13,
+        "def": 8,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
   },
   "Dedue - Dimitri's Vassal": {
     "id": "Dedue - Dimitri's Vassal",
@@ -42327,6 +42447,41 @@
     "book": 6,
     "ver": "6.6",
     "dfKey": 4
+  },
+  "Claude - Yuletide Schemer": {
+    "id": "Claude - Yuletide Schemer",
+    "title": "聖夜的金鹿",
+    "name": "庫羅德",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "armored",
+    "weaponType": "white-bow",
+    "pool": "grail",
+    "releaseDate": "2023-12-14",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [40, 43, 47],
+        "spd": [43, 46, 50],
+        "def": [28, 32, 35],
+        "res": [31, 34, 37]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 7,
+        "def": 10,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
   },
   "Lorenz - Highborn Heat": {
     "id": "Lorenz - Highborn Heat",
@@ -45033,6 +45188,41 @@
     "statMax": 190,
     "book": 7,
     "ver": "7.10",
+    "dfKey": 6
+  },
+  "Yunaka - Spirited Envoy": {
+    "id": "Yunaka - Spirited Envoy",
+    "title": "充滿活力的冬祭使者",
+    "name": "尤娜卡",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-dagger",
+    "pool": "special",
+    "releaseDate": "2023-12-14",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [39, 43, 46],
+        "spd": [44, 47, 51],
+        "def": [17, 21, 24],
+        "res": [27, 30, 33]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 8,
+        "def": 8,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 180,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.0",
     "dfKey": 6
   },
   "Seadall - Misfortune-Teller": {

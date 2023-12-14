@@ -2165,6 +2165,30 @@
       "icon": "skillB/Bold_Fighter_3",
       "last": true
     },
+    "Special Fighter 1": {
+      "id": "Special Fighter 1",
+      "name": "奧義隊形1",
+      "sp": 60,
+      "rules": "armored",
+      "icon": "skillB/Special_Fighter_1"
+    },
+    "Special Fighter 2": {
+      "id": "Special Fighter 2",
+      "name": "奧義隊形2",
+      "sp": 120,
+      "prev": ["Special Fighter 1"],
+      "rules": "armored",
+      "icon": "skillB/Special_Fighter_2"
+    },
+    "Special Fighter 3": {
+      "id": "Special Fighter 3",
+      "name": "奧義隊形3",
+      "sp": 240,
+      "prev": ["Special Fighter 2"],
+      "rules": "armored",
+      "icon": "skillB/Special_Fighter_3",
+      "last": true
+    },
     "Poison Strike 1": {
       "id": "Poison Strike 1",
       "name": "蛇毒1",
@@ -3791,6 +3815,27 @@
       "sp": 240,
       "prev": ["Odd Def Wave 2"],
       "icon": "skillC/Odd_Def_Wave_3",
+      "last": true
+    },
+    "Odd Res Wave 1": {
+      "id": "Odd Res Wave 1",
+      "name": "魔防之波・奇數1",
+      "sp": 60,
+      "icon": "skillC/Odd_Res_Wave_1"
+    },
+    "Odd Res Wave 2": {
+      "id": "Odd Res Wave 2",
+      "name": "魔防之波・奇數2",
+      "sp": 120,
+      "prev": ["Odd Res Wave 1"],
+      "icon": "skillC/Odd_Res_Wave_2"
+    },
+    "Odd Res Wave 3": {
+      "id": "Odd Res Wave 3",
+      "name": "魔防之波・奇數3",
+      "sp": 240,
+      "prev": ["Odd Res Wave 2"],
+      "icon": "skillC/Odd_Res_Wave_3",
       "last": true
     },
     "Even Atk Wave 1": {

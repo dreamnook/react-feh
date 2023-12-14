@@ -2458,6 +2458,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Laurent - The Elucidator": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 182,
+    "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Rouse Atk/Res 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -5706,18 +5718,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Laurent - The Elucidator": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 182,
-    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Rouse Atk/Res 3": { "sp": 240, "rarity": 5 } }
   },
   "Inigo - Flower Picker": {
     "score": 240,
@@ -12104,6 +12104,19 @@
     "skillB": { "Savvy Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Near Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Claude - Yuletide Schemer": {
+    "score": 388,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 196,
+    "special": { "Sol": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Chill Atk/Spd 2": { "sp": 240, "rarity": 5 } }
+  },
   "Tana - Soaring Princess": {
     "score": 500,
     "scoreTotal": 1100,
@@ -12566,6 +12579,20 @@
     "skillB": { "Escape Route 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
+  "Yunaka - Spirited Envoy": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Assassin's Strike": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Fatal Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
   "Fjorm - Seaside Thaw": {
     "score": 318,
     "scoreTotal": 1166,
@@ -12650,6 +12677,20 @@
     "skillB": { "Sabotage A/R 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
   },
+  "Byleth - Frosty Professors": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Fireflood Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Weaving Fighter": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
   "Claude - Golden Breeze": {
     "score": 530,
     "scoreTotal": 1166,
@@ -12662,6 +12703,19 @@
     "special": { "Lethality": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Dimitri - Blessed Protector": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "No Quarter": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Tiki - Bridal Reflections": {
     "score": 530,
@@ -12688,6 +12742,19 @@
     "special": { "Armored Beacon": { "sp": 500, "rarity": 5 } },
     "skillB": { "Vengeful Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "D/R Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Edelgard - Snowfall Future": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 201,
+    "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Def Prime 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
   },
   "Ophelia - Dramatic Heroine": {
     "score": 400,
