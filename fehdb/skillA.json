@@ -1097,7 +1097,7 @@
     "id": "Flash Sparrow",
     "name": "鬼神飛燕柔擊",
     "sp": 300,
-    "rules": "learner.flashingBlade",
+    "rules": "learner.infantry-armored-melee-not-staff",
     "prev": ["Flashing Blade 3", "Swift Sparrow 2"],
     "last": true,
     "icon": "skillA/Flash_Sparrow"
@@ -1640,7 +1640,7 @@
     "id": "Triangle Adept 1",
     "name": "強化相剋1",
     "sp": 50,
-    "rules": "learner.triangleAdept",
+    "rules": "not.white",
     "icon": "skillA/Triangle_Adept_1"
   },
   "Triangle Adept 2": {
@@ -1648,7 +1648,7 @@
     "name": "強化相剋2",
     "sp": 100,
     "prev": ["Triangle Adept 1"],
-    "rules": "learner.triangleAdept",
+    "rules": "not.white",
     "icon": "skillA/Triangle_Adept_2"
   },
   "Triangle Adept 3": {
@@ -1656,7 +1656,7 @@
     "name": "強化相剋3",
     "sp": 200,
     "prev": ["Triangle Adept 2"],
-    "rules": "learner.triangleAdept",
+    "rules": "not.white",
     "icon": "skillA/Triangle_Adept_3",
     "last": true
   },
@@ -1917,7 +1917,7 @@
     "id": "Flashing Blade 1",
     "name": "柔劍1",
     "sp": 60,
-    "rules": "learner.flashingBlade",
+    "rules": "learner.infantry-armored-melee-not-staff",
     "icon": "skillA/Flashing_Blade_1"
   },
   "Flashing Blade 2": {
@@ -1925,7 +1925,7 @@
     "name": "柔劍2",
     "sp": 120,
     "prev": ["Flashing Blade 1"],
-    "rules": "learner.flashingBlade",
+    "rules": "learner.infantry-armored-melee-not-staff",
     "icon": "skillA/Flashing_Blade_2"
   },
   "Flashing Blade 3": {
@@ -1933,7 +1933,7 @@
     "name": "柔劍3",
     "sp": 240,
     "prev": ["Flashing Blade 2"],
-    "rules": "learner.flashingBlade",
+    "rules": "learner.infantry-armored-melee-not-staff",
     "icon": "skillA/Flashing_Blade_3",
     "last": true
   },
@@ -1942,7 +1942,7 @@
     "name": "柔劍4",
     "sp": 300,
     "prev": ["Flashing Blade 3"],
-    "rules": "learner.flashingBlade",
+    "rules": "learner.infantry-armored-melee-not-staff",
     "icon": "skillA/Flashing_Blade_4",
     "last": true
   },

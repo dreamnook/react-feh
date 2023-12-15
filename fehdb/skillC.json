@@ -2975,7 +2975,7 @@
     "id": "Rouse Atk/Spd 1",
     "name": "攻擊速度的奮起1",
     "sp": 60,
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Spd_1"
   },
   "Rouse Atk/Spd 2": {
@@ -2983,7 +2983,7 @@
     "name": "攻擊速度的奮起2",
     "sp": 120,
     "prev": ["Rouse Atk/Spd 1"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Spd_2"
   },
   "Rouse Atk/Spd 3": {
@@ -2991,7 +2991,7 @@
     "name": "攻擊速度的奮起3",
     "sp": 240,
     "prev": ["Rouse Atk/Spd 2"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Spd_3",
     "last": true
   },
@@ -3000,7 +3000,7 @@
     "name": "攻擊速度的奮起4",
     "sp": 300,
     "prev": ["Rouse Atk/Spd 3"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Spd_4",
     "last": true
   },
@@ -3008,7 +3008,7 @@
     "id": "Rouse Atk/Def 1",
     "name": "攻擊防守的奮起1",
     "sp": 60,
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Def_1"
   },
   "Rouse Atk/Def 2": {
@@ -3016,7 +3016,7 @@
     "name": "攻擊防守的奮起2",
     "sp": 120,
     "prev": ["Rouse Atk/Def 1"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Def_2"
   },
   "Rouse Atk/Def 3": {
@@ -3024,7 +3024,7 @@
     "name": "攻擊防守的奮起3",
     "sp": 240,
     "prev": ["Rouse Atk/Def 2"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Def_3",
     "last": true
   },
@@ -3033,7 +3033,7 @@
     "name": "攻擊防守的奮起4",
     "sp": 300,
     "prev": ["Rouse Atk/Def 3"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Def_4",
     "last": true
   },
@@ -3041,7 +3041,7 @@
     "id": "Rouse Atk/Res 1",
     "name": "攻擊魔防的奮起1",
     "sp": 60,
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Res_1"
   },
   "Rouse Atk/Res 2": {
@@ -3049,7 +3049,7 @@
     "name": "攻擊魔防的奮起2",
     "sp": 120,
     "prev": ["Rouse Atk/Res 1"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Res_2"
   },
   "Rouse Atk/Res 3": {
@@ -3057,7 +3057,7 @@
     "name": "攻擊魔防的奮起3",
     "sp": 240,
     "prev": ["Rouse Atk/Res 2"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Res_3",
     "last": true
   },
@@ -3066,7 +3066,7 @@
     "name": "攻擊魔防的奮起4",
     "sp": 300,
     "prev": ["Rouse Atk/Res 3"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Atk_Res_4",
     "last": true
   },
@@ -3074,7 +3074,7 @@
     "id": "Rouse Spd/Def 1",
     "name": "速度防守的奮起1",
     "sp": 60,
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Spd_Def_1"
   },
   "Rouse Spd/Def 2": {
@@ -3082,7 +3082,7 @@
     "name": "速度防守的奮起2",
     "sp": 120,
     "prev": ["Rouse Spd/Def 1"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Spd_Def_2"
   },
   "Rouse Spd/Def 3": {
@@ -3090,7 +3090,7 @@
     "name": "速度防守的奮起3",
     "sp": 240,
     "prev": ["Rouse Spd/Def 2"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Spd_Def_3",
     "last": true
   },
@@ -3099,7 +3099,7 @@
     "name": "速度防守的奮起4",
     "sp": 300,
     "prev": ["Rouse Spd/Def 3"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Spd_Def_4",
     "last": true
   },
@@ -3107,7 +3107,7 @@
     "id": "Rouse Spd/Res 1",
     "name": "速度魔防的奮起1",
     "sp": 60,
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Spd_Res_1"
   },
   "Rouse Spd/Res 2": {
@@ -3115,7 +3115,7 @@
     "name": "速度魔防的奮起2",
     "sp": 120,
     "prev": ["Rouse Spd/Res 1"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Spd_Res_2"
   },
   "Rouse Spd/Res 3": {
@@ -3123,7 +3123,7 @@
     "name": "速度魔防的奮起3",
     "sp": 240,
     "prev": ["Rouse Spd/Res 2"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Spd_Res_3",
     "last": true
   },
@@ -3131,7 +3131,7 @@
     "id": "Rouse Def/Res 1",
     "name": "防守魔防的奮起1",
     "sp": 60,
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Def_Res_1"
   },
   "Rouse Def/Res 2": {
@@ -3139,7 +3139,7 @@
     "name": "防守魔防的奮起2",
     "sp": 120,
     "prev": ["Rouse Def/Res 1"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Def_Res_2"
   },
   "Rouse Def/Res 3": {
@@ -3147,7 +3147,7 @@
     "name": "防守魔防的奮起3",
     "sp": 240,
     "prev": ["Rouse Def/Res 2"],
-    "rules": "learner.rouse-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillC/Rouse_Def_Res_3",
     "last": true
   },

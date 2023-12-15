@@ -2344,7 +2344,7 @@
     "id": "Wrath 1",
     "name": "憤怒1",
     "sp": 60,
-    "rules": "learner.wrath",
+    "rules": "learner.infantry-armored-melee",
     "icon": "skillB/Wrath_1"
   },
   "Wrath 2": {
@@ -2352,7 +2352,7 @@
     "name": "憤怒2",
     "sp": 120,
     "prev": ["Wrath 1"],
-    "rules": "learner.wrath",
+    "rules": "learner.infantry-armored-melee",
     "icon": "skillB/Wrath_2"
   },
   "Wrath 3": {
@@ -2360,7 +2360,7 @@
     "name": "憤怒3",
     "sp": 240,
     "prev": ["Wrath 2"],
-    "rules": "learner.wrath",
+    "rules": "learner.infantry-armored-melee",
     "icon": "skillB/Wrath_3",
     "last": true
   },
@@ -2866,7 +2866,7 @@
     "id": "Atk/Spd Snag 1",
     "name": "攻擊速度干涉1",
     "sp": 60,
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Atk_Spd_Snag_1"
   },
   "Atk/Spd Snag 2": {
@@ -2874,7 +2874,7 @@
     "name": "攻擊速度干涉2",
     "sp": 120,
     "prev": ["Atk/Spd Snag 1"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Atk_Spd_Snag_2"
   },
   "Atk/Spd Snag 3": {
@@ -2882,7 +2882,7 @@
     "name": "攻擊速度干涉3",
     "sp": 240,
     "prev": ["Atk/Spd Snag 2"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Atk_Spd_Snag_3",
     "last": true
   },
@@ -2890,7 +2890,7 @@
     "id": "Atk/Def Snag 1",
     "name": "攻擊防守干涉1",
     "sp": 60,
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Atk_Def_Snag_1"
   },
   "Atk/Def Snag 2": {
@@ -2898,7 +2898,7 @@
     "name": "攻擊防守干涉2",
     "sp": 120,
     "prev": ["Atk/Def Snag 1"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Atk_Def_Snag_2"
   },
   "Atk/Def Snag 3": {
@@ -2906,7 +2906,7 @@
     "name": "攻擊防守干涉3",
     "sp": 240,
     "prev": ["Atk/Def Snag 2"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Atk_Def_Snag_3",
     "last": true
   },
@@ -2915,7 +2915,7 @@
     "name": "攻擊防守干涉4",
     "sp": 300,
     "prev": ["Atk/Def Snag 3"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Atk_Def_Snag_4",
     "last": true
   },
@@ -2923,7 +2923,7 @@
     "id": "Atk/Res Snag 1",
     "name": "攻擊魔防干涉1",
     "sp": 60,
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Atk_Res_Snag_1"
   },
   "Atk/Res Snag 2": {
@@ -2931,7 +2931,7 @@
     "name": "攻擊魔防干涉2",
     "sp": 120,
     "prev": ["Atk/Res Snag 1"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Atk_Res_Snag_2"
   },
   "Atk/Res Snag 3": {
@@ -2939,7 +2939,7 @@
     "name": "攻擊魔防干涉3",
     "sp": 240,
     "prev": ["Atk/Res Snag 2"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Atk_Res_Snag_3",
     "last": true
   },
@@ -2947,7 +2947,7 @@
     "id": "Spd/Def Snag 1",
     "name": "速度防守干涉1",
     "sp": 60,
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Spd_Def_Snag_1"
   },
   "Spd/Def Snag 2": {
@@ -2955,7 +2955,7 @@
     "name": "速度防守干涉2",
     "sp": 120,
     "prev": ["Spd/Def Snag 1"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Spd_Def_Snag_2"
   },
   "Spd/Def Snag 3": {
@@ -2963,7 +2963,7 @@
     "name": "速度防守干涉3",
     "sp": 240,
     "prev": ["Spd/Def Snag 2"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Spd_Def_Snag_3",
     "last": true
   },
@@ -2972,7 +2972,7 @@
     "name": "速度防守干涉4",
     "sp": 300,
     "prev": ["Spd/Def Snag 3"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Spd_Def_Snag_4",
     "last": true
   },
@@ -2980,7 +2980,7 @@
     "id": "Spd/Res Snag 1",
     "name": "速度魔防干涉1",
     "sp": 60,
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Spd_Res_Snag_1"
   },
   "Spd/Res Snag 2": {
@@ -2988,7 +2988,7 @@
     "name": "速度魔防干涉2",
     "sp": 120,
     "prev": ["Spd/Res Snag 1"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Spd_Res_Snag_2"
   },
   "Spd/Res Snag 3": {
@@ -2996,7 +2996,7 @@
     "name": "速度魔防干涉3",
     "sp": 240,
     "prev": ["Spd/Res Snag 2"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Spd_Res_Snag_3",
     "last": true
   },
@@ -3004,7 +3004,7 @@
     "id": "Def/Res Snag 1",
     "name": "防守魔防干涉1",
     "sp": 60,
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Def_Res_Snag_1"
   },
   "Def/Res Snag 2": {
@@ -3012,7 +3012,7 @@
     "name": "防守魔防干涉2",
     "sp": 120,
     "prev": ["Def/Res Snag 1"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Def_Res_Snag_2"
   },
   "Def/Res Snag 3": {
@@ -3020,7 +3020,7 @@
     "name": "防守魔防干涉3",
     "sp": 240,
     "prev": ["Def/Res Snag 2"],
-    "rules": "learner.snag-skills",
+    "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Def_Res_Snag_3",
     "last": true
   },
@@ -3277,7 +3277,7 @@
     "id": "Special Spiral 1",
     "name": "奧義之螺旋1",
     "sp": 60,
-    "rules": "learner.specialSpiral",
+    "rules": "learner.infantry-armored-melee-not-staff",
     "icon": "skillB/Special_Spiral_1"
   },
   "Special Spiral 2": {
@@ -3285,7 +3285,7 @@
     "name": "奧義之螺旋2",
     "sp": 120,
     "prev": ["Special Spiral 1"],
-    "rules": "learner.specialSpiral",
+    "rules": "learner.infantry-armored-melee-not-staff",
     "icon": "skillB/Special_Spiral_2"
   },
   "Special Spiral 3": {
@@ -3293,7 +3293,7 @@
     "name": "奧義之螺旋3",
     "sp": 240,
     "prev": ["Special Spiral 2"],
-    "rules": "learner.specialSpiral",
+    "rules": "learner.infantry-armored-melee-not-staff",
     "icon": "skillB/Special_Spiral_3",
     "last": true
   },
@@ -3302,7 +3302,7 @@
     "name": "奧義之螺旋4",
     "sp": 300,
     "prev": ["Special Spiral 3"],
-    "rules": "learner.specialSpiral",
+    "rules": "learner.infantry-armored-melee-not-staff",
     "icon": "skillB/Special_Spiral_4",
     "last": true
   },
@@ -3445,7 +3445,7 @@
     "id": "Lull Atk/Spd 1",
     "name": "攻擊速度的靜謐1",
     "sp": 60,
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Atk_Spd_1"
   },
   "Lull Atk/Spd 2": {
@@ -3453,7 +3453,7 @@
     "name": "攻擊速度的靜謐2",
     "sp": 120,
     "prev": ["Lull Atk/Spd 1"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Atk_Spd_2"
   },
   "Lull Atk/Spd 3": {
@@ -3461,7 +3461,7 @@
     "name": "攻擊速度的靜謐3",
     "sp": 240,
     "prev": ["Lull Atk/Spd 2"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Atk_Spd_3",
     "last": true
   },
@@ -3469,7 +3469,7 @@
     "id": "Lull Atk/Def 1",
     "name": "攻擊防守的靜謐1",
     "sp": 60,
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Atk_Def_1"
   },
   "Lull Atk/Def 2": {
@@ -3477,7 +3477,7 @@
     "name": "攻擊防守的靜謐2",
     "sp": 120,
     "prev": ["Lull Atk/Def 1"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Atk_Def_2"
   },
   "Lull Atk/Def 3": {
@@ -3485,7 +3485,7 @@
     "name": "攻擊防守的靜謐3",
     "sp": 240,
     "prev": ["Lull Atk/Def 2"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Atk_Def_3",
     "last": true
   },
@@ -3494,7 +3494,7 @@
     "name": "攻擊防守的靜謐4",
     "sp": 300,
     "prev": ["Lull Atk/Def 3"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Atk_Def_4",
     "last": true
   },
@@ -3502,7 +3502,7 @@
     "id": "Lull Atk/Res 1",
     "name": "攻擊魔防的靜謐1",
     "sp": 60,
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Atk_Res_1"
   },
   "Lull Atk/Res 2": {
@@ -3510,7 +3510,7 @@
     "name": "攻擊魔防的靜謐2",
     "sp": 120,
     "prev": ["Lull Atk/Res 1"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Atk_Res_2"
   },
   "Lull Atk/Res 3": {
@@ -3518,7 +3518,7 @@
     "name": "攻擊魔防的靜謐3",
     "sp": 240,
     "prev": ["Lull Atk/Res 2"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Atk_Res_3",
     "last": true
   },
@@ -3526,7 +3526,7 @@
     "id": "Lull Spd/Def 1",
     "name": "速度防守的靜謐1",
     "sp": 60,
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Spd_Def_1"
   },
   "Lull Spd/Def 2": {
@@ -3534,7 +3534,7 @@
     "name": "速度防守的靜謐2",
     "sp": 120,
     "prev": ["Lull Spd/Def 1"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Spd_Def_2"
   },
   "Lull Spd/Def 3": {
@@ -3542,7 +3542,7 @@
     "name": "速度防守的靜謐3",
     "sp": 240,
     "prev": ["Lull Spd/Def 2"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Spd_Def_3",
     "last": true
   },
@@ -3551,7 +3551,7 @@
     "name": "速度防守的靜謐4",
     "sp": 300,
     "prev": ["Lull Spd/Def 3"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Spd_Def_4",
     "last": true
   },
@@ -3559,7 +3559,7 @@
     "id": "Lull Spd/Res 1",
     "name": "速度魔防的靜謐1",
     "sp": 60,
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Spd_Res_1"
   },
   "Lull Spd/Res 2": {
@@ -3567,7 +3567,7 @@
     "name": "速度魔防的靜謐2",
     "sp": 120,
     "prev": ["Lull Spd/Res 1"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Spd_Res_2"
   },
   "Lull Spd/Res 3": {
@@ -3575,7 +3575,7 @@
     "name": "速度魔防的靜謐3",
     "sp": 240,
     "prev": ["Lull Spd/Res 2"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Spd_Res_3",
     "last": true
   },
@@ -3584,7 +3584,7 @@
     "name": "速度魔防的靜謐4",
     "sp": 300,
     "prev": ["Lull Spd/Res 3"],
-    "rules": "learner.lull-skills",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Spd_Res_4",
     "last": true
   },
@@ -3829,7 +3829,7 @@
     "id": "Even Pulse Tie 1",
     "name": "鼓動的封緘・偶數1",
     "sp": 60,
-    "rules": "learner.pulse-tie",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Even_Pulse_Tie_1"
   },
   "Even Pulse Tie 2": {
@@ -3837,7 +3837,7 @@
     "name": "鼓動的封緘・偶數2",
     "sp": 120,
     "prev": ["Even Pulse Tie 1"],
-    "rules": "learner.pulse-tie",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Even_Pulse_Tie_2"
   },
   "Even Pulse Tie 3": {
@@ -3845,7 +3845,7 @@
     "name": "鼓動的封緘・偶數3",
     "sp": 240,
     "prev": ["Even Pulse Tie 2"],
-    "rules": "learner.pulse-tie",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Even_Pulse_Tie_3",
     "last": true
   },
@@ -3853,7 +3853,7 @@
     "id": "Odd Pulse Tie 1",
     "name": "鼓動的封緘・奇數1",
     "sp": 60,
-    "rules": "learner.pulse-tie",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Odd_Pulse_Tie_1"
   },
   "Odd Pulse Tie 2": {
@@ -3861,7 +3861,7 @@
     "name": "鼓動的封緘・奇數2",
     "sp": 120,
     "prev": ["Odd Pulse Tie 1"],
-    "rules": "learner.pulse-tie",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Odd_Pulse_Tie_2"
   },
   "Odd Pulse Tie 3": {
@@ -3869,7 +3869,7 @@
     "name": "鼓動的封緘・奇數3",
     "sp": 240,
     "prev": ["Odd Pulse Tie 2"],
-    "rules": "learner.pulse-tie",
+    "rules": "learner.infantry-cavalry",
     "icon": "skillB/Odd_Pulse_Tie_3",
     "last": true
   },

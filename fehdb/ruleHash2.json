@@ -39,7 +39,7 @@
     "weaponType": 256
   },
   "blue-dagger": {
-    "weaponType": 256
+    "weaponType": 512
   },
   "green-dagger": {
     "weaponType": 1024
@@ -87,7 +87,7 @@
     "weaponType": 240
   },
   "dagger": {
-    "weaponType": 3328
+    "weaponType": 3840
   },
   "tome": {
     "weaponType": 61440
@@ -195,6 +195,13 @@
     "weaponType": 16711687,
     "moveType": 3
   },
+  "learner.infantry-armored-melee-not-staff": {
+    "weaponType": 16777207,
+    "moveType": 3
+  },
+  "learner.infantry-cavalry": {
+    "moveType": 5
+  },
   "learner.armored-not-staff": {
     "weaponType": 16777207,
     "moveType": 2
@@ -223,13 +230,6 @@
     "weaponType": 16711687,
     "moveType": 3,
     "colorType": 15
-  },
-  "learner.triangleAdept": {
-    "colorType": 7
-  },
-  "learner.flashingBlade": {
-    "weaponType": 16777207,
-    "moveType": 3
   },
   "learner.r-duel-infantry": {
     "moveType": 1,
@@ -303,30 +303,12 @@
     "moveType": 13,
     "weaponType": 16711687
   },
-  "learner.wrath": {
-    "weaponType": 16711687,
-    "moveType": 3
-  },
   "learner.cancelAffinity": {
     "weaponType": 16713863
-  },
-  "learner.specialSpiral": {
-    "weaponType": 16777207,
-    "moveType": 3
   },
   "learner.ruse-skills": {
     "weaponType": 16777207,
     "moveType": 5
-  },
-  "learner.lull-skills": {
-    "moveType": 5
-  },
-  "learner.pulse-tie": {
-    "moveType": 5
-  },
-  "learner.snag-skills": {
-    "weaponType": 16777207,
-    "moveType": 12
   },
   "learner.near-trace": {
     "weaponType": 16711687,
@@ -350,9 +332,6 @@
   },
   "learner.oath-skills": {
     "moveType": 9
-  },
-  "learner.rouse-skills": {
-    "moveType": 5
   },
   "learner.inf-hexblade": {
     "moveType": 1,

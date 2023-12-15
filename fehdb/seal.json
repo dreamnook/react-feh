@@ -1180,7 +1180,7 @@
       "id": "Flashing Blade 1",
       "name": "柔劍1",
       "sp": 60,
-      "rules": "learner.flashingBlade",
+      "rules": "learner.infantry-armored-melee-not-staff",
       "icon": "skillA/Flashing_Blade_1"
     },
     "Flashing Blade 2": {
@@ -1188,7 +1188,7 @@
       "name": "柔劍2",
       "sp": 120,
       "prev": ["Flashing Blade 1"],
-      "rules": "learner.flashingBlade",
+      "rules": "learner.infantry-armored-melee-not-staff",
       "icon": "skillA/Flashing_Blade_2"
     },
     "Flashing Blade 3": {
@@ -1196,7 +1196,7 @@
       "name": "柔劍3",
       "sp": 240,
       "prev": ["Flashing Blade 2"],
-      "rules": "learner.flashingBlade",
+      "rules": "learner.infantry-armored-melee-not-staff",
       "icon": "skillA/Flashing_Blade_3",
       "last": true
     },
@@ -4010,7 +4010,7 @@
       "id": "Rouse Atk/Def 1",
       "name": "攻擊防守的奮起1",
       "sp": 60,
-      "rules": "learner.rouse-skills",
+      "rules": "learner.infantry-cavalry",
       "icon": "skillC/Rouse_Atk_Def_1"
     },
     "Rouse Atk/Def 2": {
@@ -4018,7 +4018,7 @@
       "name": "攻擊防守的奮起2",
       "sp": 120,
       "prev": ["Rouse Atk/Def 1"],
-      "rules": "learner.rouse-skills",
+      "rules": "learner.infantry-cavalry",
       "icon": "skillC/Rouse_Atk_Def_2"
     },
     "Rouse Atk/Def 3": {
@@ -4026,7 +4026,7 @@
       "name": "攻擊防守的奮起3",
       "sp": 240,
       "prev": ["Rouse Atk/Def 2"],
-      "rules": "learner.rouse-skills",
+      "rules": "learner.infantry-cavalry",
       "icon": "skillC/Rouse_Atk_Def_3",
       "last": true
     },
@@ -4034,7 +4034,7 @@
       "id": "Rouse Spd/Def 1",
       "name": "速度防守的奮起1",
       "sp": 60,
-      "rules": "learner.rouse-skills",
+      "rules": "learner.infantry-cavalry",
       "icon": "skillC/Rouse_Spd_Def_1"
     },
     "Rouse Spd/Def 2": {
@@ -4042,7 +4042,7 @@
       "name": "速度防守的奮起2",
       "sp": 120,
       "prev": ["Rouse Spd/Def 1"],
-      "rules": "learner.rouse-skills",
+      "rules": "learner.infantry-cavalry",
       "icon": "skillC/Rouse_Spd_Def_2"
     },
     "Rouse Spd/Def 3": {
@@ -4050,7 +4050,7 @@
       "name": "速度防守的奮起3",
       "sp": 240,
       "prev": ["Rouse Spd/Def 2"],
-      "rules": "learner.rouse-skills",
+      "rules": "learner.infantry-cavalry",
       "icon": "skillC/Rouse_Spd_Def_3",
       "last": true
     },
