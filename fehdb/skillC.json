@@ -3363,7 +3363,7 @@
     "name": "攻擊速度的奮激",
     "sp": 300,
     "prev": ["Rouse Atk/Spd 3"],
-    "rules": "learner.armored-cavalry",
+    "rules": "learner.infantry-cavalry",
     "last": true,
     "icon": "skillC/Incite_Atk_Spd"
   },
