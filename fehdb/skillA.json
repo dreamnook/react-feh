@@ -948,7 +948,7 @@
     "id": "Sturdy Impact",
     "name": "鬼神金剛瞬擊",
     "sp": 300,
-    "rules": "learner.impact-skills",
+    "rules": "learner.infantry-flying-not-staff",
     "prev": ["Sturdy Blow 2"],
     "last": true,
     "icon": "skillA/Sturdy_Impact"
@@ -974,7 +974,7 @@
     "id": "Mirror Impact",
     "name": "鬼神明鏡瞬擊",
     "sp": 300,
-    "rules": "learner.impact-skills",
+    "rules": "learner.infantry-flying-not-staff",
     "prev": ["Mirror Strike 2"],
     "last": true,
     "icon": "skillA/Mirror_Impact"
@@ -1000,7 +1000,7 @@
     "id": "Steady Impact",
     "name": "飛燕金剛瞬擊",
     "sp": 300,
-    "rules": "learner.impact-skills",
+    "rules": "learner.infantry-flying-not-staff",
     "prev": ["Steady Blow 2"],
     "last": true,
     "icon": "skillA/Steady_Impact"
@@ -1026,7 +1026,7 @@
     "id": "Swift Impact",
     "name": "飛燕明鏡瞬擊",
     "sp": 300,
-    "rules": "learner.impact-skills",
+    "rules": "learner.infantry-flying-not-staff",
     "prev": ["Swift Strike 2"],
     "last": true,
     "icon": "skillA/Swift_Impact"
@@ -1097,7 +1097,7 @@
     "id": "Flash Sparrow",
     "name": "鬼神飛燕柔擊",
     "sp": 300,
-    "rules": "learner.infantry-armored-melee-not-staff",
+    "rules": "learner.infantry-armored-not-staff",
     "prev": ["Flashing Blade 3", "Swift Sparrow 2"],
     "last": true,
     "icon": "skillA/Flash_Sparrow"
@@ -1917,7 +1917,7 @@
     "id": "Flashing Blade 1",
     "name": "柔劍1",
     "sp": 60,
-    "rules": "learner.infantry-armored-melee-not-staff",
+    "rules": "learner.infantry-armored-not-staff",
     "icon": "skillA/Flashing_Blade_1"
   },
   "Flashing Blade 2": {
@@ -1925,7 +1925,7 @@
     "name": "柔劍2",
     "sp": 120,
     "prev": ["Flashing Blade 1"],
-    "rules": "learner.infantry-armored-melee-not-staff",
+    "rules": "learner.infantry-armored-not-staff",
     "icon": "skillA/Flashing_Blade_2"
   },
   "Flashing Blade 3": {
@@ -1933,7 +1933,7 @@
     "name": "柔劍3",
     "sp": 240,
     "prev": ["Flashing Blade 2"],
-    "rules": "learner.infantry-armored-melee-not-staff",
+    "rules": "learner.infantry-armored-not-staff",
     "icon": "skillA/Flashing_Blade_3",
     "last": true
   },
@@ -1942,7 +1942,7 @@
     "name": "柔劍4",
     "sp": 300,
     "prev": ["Flashing Blade 3"],
-    "rules": "learner.infantry-armored-melee-not-staff",
+    "rules": "learner.infantry-armored-not-staff",
     "icon": "skillA/Flashing_Blade_4",
     "last": true
   },
@@ -3098,7 +3098,7 @@
     "id": "Sorcery Blade 1",
     "name": "魔道之刃1",
     "sp": 60,
-    "rules": "learner.sorcery-blade",
+    "rules": "learner.infantry-def-dmger",
     "icon": "skillA/Sorcery_Blade_1"
   },
   "Sorcery Blade 2": {
@@ -3106,7 +3106,7 @@
     "name": "魔道之刃2",
     "sp": 120,
     "prev": ["Sorcery Blade 1"],
-    "rules": "learner.sorcery-blade",
+    "rules": "learner.infantry-def-dmger",
     "icon": "skillA/Sorcery_Blade_2"
   },
   "Sorcery Blade 3": {
@@ -3114,7 +3114,7 @@
     "name": "魔道之刃3",
     "sp": 240,
     "prev": ["Sorcery Blade 2"],
-    "rules": "learner.sorcery-blade",
+    "rules": "learner.infantry-def-dmger",
     "icon": "skillA/Sorcery_Blade_3",
     "last": true
   },
@@ -3123,7 +3123,7 @@
     "name": "攻擊速度的魔刃",
     "sp": 300,
     "prev": ["Sorcery Blade 3"],
-    "rules": "learner.sorcery-blade",
+    "rules": "learner.infantry-def-dmger",
     "last": true,
     "icon": "skillA/Atk_Spd_Hexblade"
   },
@@ -3132,7 +3132,7 @@
     "name": "速度魔防的魔刃",
     "sp": 300,
     "prev": ["Sorcery Blade 3"],
-    "rules": "learner.sorcery-blade",
+    "rules": "learner.infantry-def-dmger",
     "last": true,
     "icon": "skillA/Spd_Res_Hexblade"
   },

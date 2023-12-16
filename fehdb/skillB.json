@@ -740,7 +740,7 @@
     "name": "怒濤・猛攻",
     "sp": 300,
     "prev": ["Desperation 3"],
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "last": true,
     "icon": "skillB/Flow_Desperation"
   },
@@ -3277,7 +3277,7 @@
     "id": "Special Spiral 1",
     "name": "奧義之螺旋1",
     "sp": 60,
-    "rules": "learner.infantry-armored-melee-not-staff",
+    "rules": "learner.infantry-armored-not-staff",
     "icon": "skillB/Special_Spiral_1"
   },
   "Special Spiral 2": {
@@ -3285,7 +3285,7 @@
     "name": "奧義之螺旋2",
     "sp": 120,
     "prev": ["Special Spiral 1"],
-    "rules": "learner.infantry-armored-melee-not-staff",
+    "rules": "learner.infantry-armored-not-staff",
     "icon": "skillB/Special_Spiral_2"
   },
   "Special Spiral 3": {
@@ -3293,7 +3293,7 @@
     "name": "奧義之螺旋3",
     "sp": 240,
     "prev": ["Special Spiral 2"],
-    "rules": "learner.infantry-armored-melee-not-staff",
+    "rules": "learner.infantry-armored-not-staff",
     "icon": "skillB/Special_Spiral_3",
     "last": true
   },
@@ -3302,7 +3302,7 @@
     "name": "奧義之螺旋4",
     "sp": 300,
     "prev": ["Special Spiral 3"],
-    "rules": "learner.infantry-armored-melee-not-staff",
+    "rules": "learner.infantry-armored-not-staff",
     "icon": "skillB/Special_Spiral_4",
     "last": true
   },
@@ -3334,7 +3334,7 @@
     "id": "Phys. Null Follow",
     "name": "理之識破・追擊",
     "sp": 300,
-    "rules": "learner.phy-null-follow",
+    "rules": "learner.infantry-def-dmger",
     "last": true,
     "icon": "skillB/Phys._Null_Follow"
   },
@@ -4117,7 +4117,7 @@
     "id": "Flow Refresh 1",
     "name": "怒濤・再起1",
     "sp": 60,
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_Refresh_1"
   },
   "Flow Refresh 2": {
@@ -4125,7 +4125,7 @@
     "name": "怒濤・再起2",
     "sp": 120,
     "prev": ["Flow Refresh 1"],
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_Refresh_2"
   },
   "Flow Refresh 3": {
@@ -4133,7 +4133,7 @@
     "name": "怒濤・再起3",
     "sp": 240,
     "prev": ["Flow Refresh 2"],
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_Refresh_3",
     "last": true
   },
@@ -4142,7 +4142,7 @@
     "name": "怒濤・再起4",
     "sp": 300,
     "prev": ["Flow Refresh 3"],
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_Refresh_4",
     "last": true
   },
@@ -4150,7 +4150,7 @@
     "id": "Flow Guard 1",
     "name": "怒濤・取消1",
     "sp": 60,
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_Guard_1"
   },
   "Flow Guard 2": {
@@ -4158,7 +4158,7 @@
     "name": "怒濤・取消2",
     "sp": 120,
     "prev": ["Flow Guard 1"],
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_Guard_2"
   },
   "Flow Guard 3": {
@@ -4166,7 +4166,7 @@
     "name": "怒濤・取消3",
     "sp": 240,
     "prev": ["Flow Guard 2"],
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_Guard_3",
     "last": true
   },
@@ -4174,7 +4174,7 @@
     "id": "Flow Force 1",
     "name": "怒濤・不屈1",
     "sp": 60,
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_Force_1"
   },
   "Flow Force 2": {
@@ -4182,7 +4182,7 @@
     "name": "怒濤・不屈2",
     "sp": 120,
     "prev": ["Flow Force 1"],
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_Force_2"
   },
   "Flow Force 3": {
@@ -4190,7 +4190,7 @@
     "name": "怒濤・不屈3",
     "sp": 240,
     "prev": ["Flow Force 2"],
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_Force_3",
     "last": true
   },
@@ -4246,7 +4246,7 @@
     "id": "Flow N Trace 1",
     "name": "怒濤・近影1",
     "sp": 60,
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_N_Trace_1"
   },
   "Flow N Trace 2": {
@@ -4254,7 +4254,7 @@
     "name": "怒濤・近影2",
     "sp": 120,
     "prev": ["Flow N Trace 1"],
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_N_Trace_2"
   },
   "Flow N Trace 3": {
@@ -4262,7 +4262,7 @@
     "name": "怒濤・近影3",
     "sp": 240,
     "prev": ["Flow N Trace 2"],
-    "rules": "learner.flow-refresh",
+    "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_N_Trace_3",
     "last": true
   },

@@ -134,8 +134,20 @@
   "not.white": {
     "colorType": 7
   },
+  "learner.infantry-cavalry": {
+    "moveType": 5
+  },
   "learner.armored-cavalry": {
     "moveType": 6
+  },
+  "learner.def-dmger": {
+    "weaponType": 15732727
+  },
+  "learner.melee-def-dmger": {
+    "weaponType": 15728647
+  },
+  "learner.def-dmg-not-staff": {
+    "weaponType": 15732735
   },
   "learner.res-dmg-not-staff": {
     "weaponType": 1044480
@@ -175,32 +187,33 @@
     "moveType": 7,
     "weaponType": 7
   },
-  "learner.flow-refresh": {
-    "weaponType": 7,
-    "moveType": 12
+  "learner.wielderCavalryFlying": {
+    "moveType": 12,
+    "weaponType": 7
   },
   "learner.infantry-melee": {
     "weaponType": 16711687,
     "moveType": 1
   },
-  "learner.cavalry-melee": {
-    "weaponType": 16711687,
-    "moveType": 4
+  "learner.infantry-tome": {
+    "weaponType": 61440,
+    "moveType": 1
   },
-  "learner.flying-melee": {
-    "weaponType": 16711687,
-    "moveType": 8
+  "learner.infantry-def-dmger": {
+    "moveType": 1,
+    "weaponType": 15732727
   },
   "learner.infantry-armored-melee": {
     "weaponType": 16711687,
     "moveType": 3
   },
-  "learner.infantry-armored-melee-not-staff": {
+  "learner.infantry-armored-not-staff": {
     "weaponType": 16777207,
     "moveType": 3
   },
-  "learner.infantry-cavalry": {
-    "moveType": 5
+  "learner.infantry-flying-not-staff": {
+    "weaponType": 16777207,
+    "moveType": 9
   },
   "learner.armored-not-staff": {
     "weaponType": 16777207,
@@ -210,9 +223,21 @@
     "weaponType": 15732727,
     "moveType": 2
   },
+  "learner.cavalry-melee": {
+    "weaponType": 16711687,
+    "moveType": 4
+  },
   "learner.cavalry-flying-not-staff": {
     "weaponType": 16777207,
     "moveType": 12
+  },
+  "learner.flying-melee": {
+    "weaponType": 16711687,
+    "moveType": 8
+  },
+  "learner.flying-melee-def-dmger": {
+    "moveType": 8,
+    "weaponType": 15728647
   },
   "learner.dragon-beast": {
     "moveType": 15,
@@ -221,10 +246,6 @@
   "learner.ranged-not-staff": {
     "moveType": 15,
     "weaponType": 65520
-  },
-  "learner.impact-skills": {
-    "weaponType": 16777207,
-    "moveType": 9
   },
   "learner.breath": {
     "weaponType": 16711687,
@@ -279,20 +300,6 @@
     "moveType": 8,
     "colorType": 8
   },
-  "learner.def-dmger": {
-    "weaponType": 15732727
-  },
-  "learner.melee-def-dmger": {
-    "weaponType": 15728647
-  },
-  "learner.flying-melee-def-dmger": {
-    "moveType": 8,
-    "weaponType": 15728647
-  },
-  "learner.sorcery-blade": {
-    "moveType": 1,
-    "weaponType": 15732727
-  },
   "learner.catch": {
     "moveType": 12
   },
@@ -322,20 +329,12 @@
     "weaponType": 15728640,
     "moveType": 13
   },
-  "learner.phy-null-follow": {
-    "moveType": 1,
-    "weaponType": 15732727
-  },
   "learner.mag-null-follow": {
     "moveType": 1,
     "weaponType": 1044488
   },
   "learner.oath-skills": {
     "moveType": 9
-  },
-  "learner.inf-hexblade": {
-    "moveType": 1,
-    "weaponType": 61440
   },
   "learner.armored-stride": {
     "moveType": 2,
@@ -345,15 +344,8 @@
     "weaponType": 16711687,
     "moveType": 9
   },
-  "learner.galeforce": {
-    "weaponType": 15728647
-  },
   "learner.ruptured-sky": {
     "moveType": 15,
     "weaponType": 65527
-  },
-  "learner.flare": {
-    "moveType": 1,
-    "weaponType": 61440
   }
 }

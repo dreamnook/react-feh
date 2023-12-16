@@ -2199,7 +2199,7 @@
     "id": "Inf. Hexblade 1",
     "name": "步行之魔刃1",
     "sp": 60,
-    "rules": "learner.inf-hexblade",
+    "rules": "learner.infantry-tome",
     "icon": "skillC/Inf._Hexblade_1"
   },
   "Inf. Hexblade 2": {
@@ -2207,7 +2207,7 @@
     "name": "步行之魔刃2",
     "sp": 120,
     "prev": ["Inf. Hexblade 1"],
-    "rules": "learner.inf-hexblade",
+    "rules": "learner.infantry-tome",
     "icon": "skillC/Inf._Hexblade_2"
   },
   "Inf. Hexblade 3": {
@@ -2215,7 +2215,7 @@
     "name": "步行之魔刃3",
     "sp": 240,
     "prev": ["Inf. Hexblade 2"],
-    "rules": "learner.inf-hexblade",
+    "rules": "learner.infantry-tome",
     "icon": "skillC/Inf._Hexblade_3",
     "last": true
   },

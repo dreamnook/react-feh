@@ -1180,7 +1180,7 @@
       "id": "Flashing Blade 1",
       "name": "柔劍1",
       "sp": 60,
-      "rules": "learner.infantry-armored-melee-not-staff",
+      "rules": "learner.infantry-armored-not-staff",
       "icon": "skillA/Flashing_Blade_1"
     },
     "Flashing Blade 2": {
@@ -1188,7 +1188,7 @@
       "name": "柔劍2",
       "sp": 120,
       "prev": ["Flashing Blade 1"],
-      "rules": "learner.infantry-armored-melee-not-staff",
+      "rules": "learner.infantry-armored-not-staff",
       "icon": "skillA/Flashing_Blade_2"
     },
     "Flashing Blade 3": {
@@ -1196,7 +1196,7 @@
       "name": "柔劍3",
       "sp": 240,
       "prev": ["Flashing Blade 2"],
-      "rules": "learner.infantry-armored-melee-not-staff",
+      "rules": "learner.infantry-armored-not-staff",
       "icon": "skillA/Flashing_Blade_3",
       "last": true
     },
@@ -1603,7 +1603,7 @@
       "id": "Sorcery Blade 1",
       "name": "魔道之刃1",
       "sp": 60,
-      "rules": "learner.sorcery-blade",
+      "rules": "learner.infantry-def-dmger",
       "icon": "skillA/Sorcery_Blade_1"
     },
     "Sorcery Blade 2": {
@@ -1611,7 +1611,7 @@
       "name": "魔道之刃2",
       "sp": 120,
       "prev": ["Sorcery Blade 1"],
-      "rules": "learner.sorcery-blade",
+      "rules": "learner.infantry-def-dmger",
       "icon": "skillA/Sorcery_Blade_2"
     },
     "Sorcery Blade 3": {
@@ -1619,7 +1619,7 @@
       "name": "魔道之刃3",
       "sp": 240,
       "prev": ["Sorcery Blade 2"],
-      "rules": "learner.sorcery-blade",
+      "rules": "learner.infantry-def-dmger",
       "icon": "skillA/Sorcery_Blade_3",
       "last": true
     },
@@ -3614,7 +3614,7 @@
       "id": "Inf. Hexblade 1",
       "name": "步行之魔刃1",
       "sp": 60,
-      "rules": "learner.inf-hexblade",
+      "rules": "learner.infantry-tome",
       "icon": "skillC/Inf._Hexblade_1"
     },
     "Inf. Hexblade 2": {
@@ -3622,7 +3622,7 @@
       "name": "步行之魔刃2",
       "sp": 120,
       "prev": ["Inf. Hexblade 1"],
-      "rules": "learner.inf-hexblade",
+      "rules": "learner.infantry-tome",
       "icon": "skillC/Inf._Hexblade_2"
     },
     "Inf. Hexblade 3": {
@@ -3630,7 +3630,7 @@
       "name": "步行之魔刃3",
       "sp": 240,
       "prev": ["Inf. Hexblade 2"],
-      "rules": "learner.inf-hexblade",
+      "rules": "learner.infantry-tome",
       "icon": "skillC/Inf._Hexblade_3",
       "last": true
     },

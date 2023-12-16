@@ -392,7 +392,7 @@
     "cd": 3,
     "sp": 500,
     "prev": ["Noontime"],
-    "rules": "learner.flare",
+    "rules": "learner.infantry-tome",
     "last": true
   },
   "Sol": {
@@ -495,7 +495,7 @@
     "name": "疾風迅雷",
     "cd": 5,
     "sp": 500,
-    "rules": "learner.galeforce",
+    "rules": "learner.melee-def-dmger",
     "prev": ["Astra"],
     "last": true
   },
