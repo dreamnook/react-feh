@@ -1386,7 +1386,7 @@
     "id": "Fierce Breath",
     "name": "鬼神呼吸",
     "sp": 240,
-    "rules": "learner.breath",
+    "rules": "learner.infantry-armored-melee",
     "prev": ["Fierce Stance 2"],
     "last": true,
     "icon": "skillA/Fierce_Breath"
@@ -1395,7 +1395,7 @@
     "id": "Darting Breath",
     "name": "飛燕呼吸",
     "sp": 240,
-    "rules": "learner.breath",
+    "rules": "learner.infantry-armored-melee",
     "prev": ["Darting Stance 2"],
     "last": true,
     "icon": "skillA/Darting_Breath"
@@ -1404,7 +1404,7 @@
     "id": "Steady Breath",
     "name": "金剛呼吸",
     "sp": 240,
-    "rules": "learner.breath",
+    "rules": "learner.infantry-armored-melee",
     "prev": ["Steady Stance 2"],
     "last": true,
     "icon": "skillA/Steady_Breath"
@@ -1413,7 +1413,7 @@
     "id": "Warding Breath",
     "name": "明鏡呼吸",
     "sp": 240,
-    "rules": "learner.breath",
+    "rules": "learner.infantry-armored-melee",
     "prev": ["Warding Stance 2"],
     "last": true,
     "icon": "skillA/Warding_Breath"
@@ -3546,7 +3546,7 @@
     "id": "Atk/Spd Catch 1",
     "name": "攻擊速度的先機1",
     "sp": 60,
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Spd_Catch_1"
   },
   "Atk/Spd Catch 2": {
@@ -3554,7 +3554,7 @@
     "name": "攻擊速度的先機2",
     "sp": 120,
     "prev": ["Atk/Spd Catch 1"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Spd_Catch_2"
   },
   "Atk/Spd Catch 3": {
@@ -3562,7 +3562,7 @@
     "name": "攻擊速度的先機3",
     "sp": 240,
     "prev": ["Atk/Spd Catch 2"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Spd_Catch_3",
     "last": true
   },
@@ -3571,7 +3571,7 @@
     "name": "攻擊速度的先機4",
     "sp": 300,
     "prev": ["Atk/Spd Catch 3"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Spd_Catch_4",
     "last": true
   },
@@ -3579,7 +3579,7 @@
     "id": "Atk/Def Catch 1",
     "name": "攻擊防守的先機1",
     "sp": 60,
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Def_Catch_1"
   },
   "Atk/Def Catch 2": {
@@ -3587,7 +3587,7 @@
     "name": "攻擊防守的先機2",
     "sp": 120,
     "prev": ["Atk/Def Catch 1"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Def_Catch_2"
   },
   "Atk/Def Catch 3": {
@@ -3595,7 +3595,7 @@
     "name": "攻擊防守的先機3",
     "sp": 240,
     "prev": ["Atk/Def Catch 2"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Def_Catch_3",
     "last": true
   },
@@ -3604,7 +3604,7 @@
     "name": "攻擊防守的先機4",
     "sp": 300,
     "prev": ["Atk/Def Catch 3"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Def_Catch_4",
     "last": true
   },
@@ -3612,7 +3612,7 @@
     "id": "Atk/Res Catch 1",
     "name": "攻擊魔防的先機1",
     "sp": 60,
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Res_Catch_1"
   },
   "Atk/Res Catch 2": {
@@ -3620,7 +3620,7 @@
     "name": "攻擊魔防的先機2",
     "sp": 120,
     "prev": ["Atk/Res Catch 1"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Res_Catch_2"
   },
   "Atk/Res Catch 3": {
@@ -3628,7 +3628,7 @@
     "name": "攻擊魔防的先機3",
     "sp": 240,
     "prev": ["Atk/Res Catch 2"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Res_Catch_3",
     "last": true
   },
@@ -3637,7 +3637,7 @@
     "name": "攻擊魔防的先機4",
     "sp": 300,
     "prev": ["Atk/Res Catch 3"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Atk_Res_Catch_4",
     "last": true
   },
@@ -3645,7 +3645,7 @@
     "id": "Spd/Def Catch 1",
     "name": "速度防守的先機1",
     "sp": 60,
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Spd_Def_Catch_1"
   },
   "Spd/Def Catch 2": {
@@ -3653,7 +3653,7 @@
     "name": "速度防守的先機2",
     "sp": 120,
     "prev": ["Spd/Def Catch 1"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Spd_Def_Catch_2"
   },
   "Spd/Def Catch 3": {
@@ -3661,7 +3661,7 @@
     "name": "速度防守的先機3",
     "sp": 240,
     "prev": ["Spd/Def Catch 2"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Spd_Def_Catch_3",
     "last": true
   },
@@ -3670,7 +3670,7 @@
     "name": "速度防守的先機4",
     "sp": 300,
     "prev": ["Spd/Def Catch 3"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Spd_Def_Catch_4",
     "last": true
   },
@@ -3678,7 +3678,7 @@
     "id": "Spd/Res Catch 1",
     "name": "速度魔防的先機1",
     "sp": 60,
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Spd_Res_Catch_1"
   },
   "Spd/Res Catch 2": {
@@ -3686,7 +3686,7 @@
     "name": "速度魔防的先機2",
     "sp": 120,
     "prev": ["Spd/Res Catch 1"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Spd_Res_Catch_2"
   },
   "Spd/Res Catch 3": {
@@ -3694,7 +3694,7 @@
     "name": "速度魔防的先機3",
     "sp": 240,
     "prev": ["Spd/Res Catch 2"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Spd_Res_Catch_3",
     "last": true
   },
@@ -3703,7 +3703,7 @@
     "name": "速度魔防的先機4",
     "sp": 300,
     "prev": ["Spd/Res Catch 3"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Spd_Res_Catch_4",
     "last": true
   },
@@ -3711,7 +3711,7 @@
     "id": "Def/Res Catch 1",
     "name": "防守魔防的先機1",
     "sp": 60,
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Def_Res_Catch_1"
   },
   "Def/Res Catch 2": {
@@ -3719,7 +3719,7 @@
     "name": "防守魔防的先機2",
     "sp": 120,
     "prev": ["Def/Res Catch 1"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Def_Res_Catch_2"
   },
   "Def/Res Catch 3": {
@@ -3727,7 +3727,7 @@
     "name": "防守魔防的先機3",
     "sp": 240,
     "prev": ["Def/Res Catch 2"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Def_Res_Catch_3",
     "last": true
   },
@@ -3736,7 +3736,7 @@
     "name": "防守魔防的先機4",
     "sp": 300,
     "prev": ["Def/Res Catch 3"],
-    "rules": "learner.catch",
+    "rules": "learner.cavalry-flying",
     "icon": "skillA/Def_Res_Catch_4",
     "last": true
   },
@@ -3744,7 +3744,7 @@
     "id": "Atk/Spd Ideal 1",
     "name": "攻擊速度萬全1",
     "sp": 60,
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Spd_Ideal_1"
   },
   "Atk/Spd Ideal 2": {
@@ -3752,7 +3752,7 @@
     "name": "攻擊速度萬全2",
     "sp": 120,
     "prev": ["Atk/Spd Ideal 1"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Spd_Ideal_2"
   },
   "Atk/Spd Ideal 3": {
@@ -3760,7 +3760,7 @@
     "name": "攻擊速度萬全3",
     "sp": 240,
     "prev": ["Atk/Spd Ideal 2"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Spd_Ideal_3",
     "last": true
   },
@@ -3769,7 +3769,7 @@
     "name": "攻擊速度萬全4",
     "sp": 300,
     "prev": ["Atk/Spd Ideal 3"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Spd_Ideal_4",
     "last": true
   },
@@ -3777,7 +3777,7 @@
     "id": "Atk/Def Ideal 1",
     "name": "攻擊防守萬全1",
     "sp": 60,
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Def_Ideal_1"
   },
   "Atk/Def Ideal 2": {
@@ -3785,7 +3785,7 @@
     "name": "攻擊防守萬全2",
     "sp": 120,
     "prev": ["Atk/Def Ideal 1"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Def_Ideal_2"
   },
   "Atk/Def Ideal 3": {
@@ -3793,7 +3793,7 @@
     "name": "攻擊防守萬全3",
     "sp": 240,
     "prev": ["Atk/Def Ideal 2"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Def_Ideal_3",
     "last": true
   },
@@ -3802,7 +3802,7 @@
     "name": "攻擊防守萬全4",
     "sp": 300,
     "prev": ["Atk/Def Ideal 3"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Def_Ideal_4",
     "last": true
   },
@@ -3810,7 +3810,7 @@
     "id": "Atk/Res Ideal 1",
     "name": "攻擊魔防萬全1",
     "sp": 60,
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Res_Ideal_1"
   },
   "Atk/Res Ideal 2": {
@@ -3818,7 +3818,7 @@
     "name": "攻擊魔防萬全2",
     "sp": 120,
     "prev": ["Atk/Res Ideal 1"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Res_Ideal_2"
   },
   "Atk/Res Ideal 3": {
@@ -3826,7 +3826,7 @@
     "name": "攻擊魔防萬全3",
     "sp": 240,
     "prev": ["Atk/Res Ideal 2"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Res_Ideal_3",
     "last": true
   },
@@ -3835,7 +3835,7 @@
     "name": "攻擊魔防萬全4",
     "sp": 300,
     "prev": ["Atk/Res Ideal 3"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Atk_Res_Ideal_4",
     "last": true
   },
@@ -3843,7 +3843,7 @@
     "id": "Spd/Def Ideal 1",
     "name": "速度防守萬全1",
     "sp": 60,
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Spd_Def_Ideal_1"
   },
   "Spd/Def Ideal 2": {
@@ -3851,7 +3851,7 @@
     "name": "速度防守萬全2",
     "sp": 120,
     "prev": ["Spd/Def Ideal 1"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Spd_Def_Ideal_2"
   },
   "Spd/Def Ideal 3": {
@@ -3859,7 +3859,7 @@
     "name": "速度防守萬全3",
     "sp": 240,
     "prev": ["Spd/Def Ideal 2"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Spd_Def_Ideal_3",
     "last": true
   },
@@ -3868,7 +3868,7 @@
     "name": "速度防守萬全4",
     "sp": 300,
     "prev": ["Spd/Def Ideal 3"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Spd_Def_Ideal_4",
     "last": true
   },
@@ -3876,7 +3876,7 @@
     "id": "Spd/Res Ideal 1",
     "name": "速度魔防萬全1",
     "sp": 60,
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Spd_Res_Ideal_1"
   },
   "Spd/Res Ideal 2": {
@@ -3884,7 +3884,7 @@
     "name": "速度魔防萬全2",
     "sp": 120,
     "prev": ["Spd/Res Ideal 1"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Spd_Res_Ideal_2"
   },
   "Spd/Res Ideal 3": {
@@ -3892,7 +3892,7 @@
     "name": "速度魔防萬全3",
     "sp": 240,
     "prev": ["Spd/Res Ideal 2"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Spd_Res_Ideal_3",
     "last": true
   },
@@ -3901,7 +3901,7 @@
     "name": "速度魔防萬全4",
     "sp": 300,
     "prev": ["Spd/Res Ideal 3"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Spd_Res_Ideal_4",
     "last": true
   },
@@ -3909,7 +3909,7 @@
     "id": "Def/Res Ideal 1",
     "name": "防守魔防萬全1",
     "sp": 60,
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Def_Res_Ideal_1"
   },
   "Def/Res Ideal 2": {
@@ -3917,7 +3917,7 @@
     "name": "防守魔防萬全2",
     "sp": 120,
     "prev": ["Def/Res Ideal 1"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Def_Res_Ideal_2"
   },
   "Def/Res Ideal 3": {
@@ -3925,7 +3925,7 @@
     "name": "防守魔防萬全3",
     "sp": 240,
     "prev": ["Def/Res Ideal 2"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Def_Res_Ideal_3",
     "last": true
   },
@@ -3934,7 +3934,7 @@
     "name": "防守魔防萬全4",
     "sp": 300,
     "prev": ["Def/Res Ideal 3"],
-    "rules": "learner.ideal",
+    "rules": "learner.infantry-armored",
     "icon": "skillA/Def_Res_Ideal_4",
     "last": true
   },
@@ -3942,7 +3942,7 @@
     "id": "Atk/Spd Clash 1",
     "name": "攻擊速度的激戰1",
     "sp": 60,
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Atk_Spd_Clash_1"
   },
   "Atk/Spd Clash 2": {
@@ -3950,7 +3950,7 @@
     "name": "攻擊速度的激戰2",
     "sp": 120,
     "prev": ["Atk/Spd Clash 1"],
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Atk_Spd_Clash_2"
   },
   "Atk/Spd Clash 3": {
@@ -3958,7 +3958,7 @@
     "name": "攻擊速度的激戰3",
     "sp": 240,
     "prev": ["Atk/Spd Clash 2"],
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Atk_Spd_Clash_3",
     "last": true
   },
@@ -3967,7 +3967,7 @@
     "name": "攻擊速度的激戰4",
     "sp": 300,
     "prev": ["Atk/Spd Clash 3"],
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Atk_Spd_Clash_4",
     "last": true
   },
@@ -3975,7 +3975,7 @@
     "id": "Atk/Def Clash 1",
     "name": "攻擊防守的激戰1",
     "sp": 60,
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Atk_Def_Clash_1"
   },
   "Atk/Def Clash 2": {
@@ -3983,7 +3983,7 @@
     "name": "攻擊防守的激戰2",
     "sp": 120,
     "prev": ["Atk/Def Clash 1"],
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Atk_Def_Clash_2"
   },
   "Atk/Def Clash 3": {
@@ -3991,7 +3991,7 @@
     "name": "攻擊防守的激戰3",
     "sp": 240,
     "prev": ["Atk/Def Clash 2"],
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Atk_Def_Clash_3",
     "last": true
   },
@@ -4000,7 +4000,7 @@
     "name": "攻擊防守的激戰4",
     "sp": 300,
     "prev": ["Atk/Def Clash 3"],
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Atk_Def_Clash_4",
     "last": true
   },
@@ -4008,7 +4008,7 @@
     "id": "Spd/Def Clash 1",
     "name": "速度防守的激戰1",
     "sp": 60,
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Spd_Def_Clash_1"
   },
   "Spd/Def Clash 2": {
@@ -4016,7 +4016,7 @@
     "name": "速度防守的激戰2",
     "sp": 120,
     "prev": ["Spd/Def Clash 1"],
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Spd_Def_Clash_2"
   },
   "Spd/Def Clash 3": {
@@ -4024,7 +4024,7 @@
     "name": "速度防守的激戰3",
     "sp": 240,
     "prev": ["Spd/Def Clash 2"],
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Spd_Def_Clash_3",
     "last": true
   },
@@ -4033,7 +4033,7 @@
     "name": "速度防守的激戰4",
     "sp": 300,
     "prev": ["Spd/Def Clash 3"],
-    "rules": "learner.clash",
+    "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Spd_Def_Clash_4",
     "last": true
   },

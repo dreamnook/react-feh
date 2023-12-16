@@ -163,6 +163,10 @@
     "moveType": 14,
     "weaponType": 7
   },
+  "learner.wielderInfantryArmored": {
+    "moveType": 3,
+    "weaponType": 7
+  },
   "learner.wielderArmor": {
     "moveType": 2,
     "weaponType": 7
@@ -203,6 +207,9 @@
     "moveType": 1,
     "weaponType": 15732727
   },
+  "learner.infantry-armored": {
+    "moveType": 3
+  },
   "learner.infantry-armored-melee": {
     "weaponType": 16711687,
     "moveType": 3
@@ -210,6 +217,10 @@
   "learner.infantry-armored-not-staff": {
     "weaponType": 16777207,
     "moveType": 3
+  },
+  "learner.infantry-cavalry-flying-melee": {
+    "moveType": 13,
+    "weaponType": 16711687
   },
   "learner.infantry-flying-not-staff": {
     "weaponType": 16777207,
@@ -226,6 +237,9 @@
   "learner.cavalry-melee": {
     "weaponType": 16711687,
     "moveType": 4
+  },
+  "learner.cavalry-flying": {
+    "moveType": 12
   },
   "learner.cavalry-flying-not-staff": {
     "weaponType": 16777207,
@@ -246,11 +260,6 @@
   "learner.ranged-not-staff": {
     "moveType": 15,
     "weaponType": 65520
-  },
-  "learner.breath": {
-    "weaponType": 16711687,
-    "moveType": 3,
-    "colorType": 15
   },
   "learner.r-duel-infantry": {
     "moveType": 1,
@@ -299,16 +308,6 @@
   "learner.c-duel-flying": {
     "moveType": 8,
     "colorType": 8
-  },
-  "learner.catch": {
-    "moveType": 12
-  },
-  "learner.ideal": {
-    "moveType": 3
-  },
-  "learner.clash": {
-    "moveType": 13,
-    "weaponType": 16711687
   },
   "learner.cancelAffinity": {
     "weaponType": 16713863
