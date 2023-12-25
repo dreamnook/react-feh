@@ -37698,6 +37698,44 @@
     "ver": "6.11",
     "dfKey": 5
   },
+  "Camilla - Alluring Darkness": {
+    "id": "Camilla - Alluring Darkness",
+    "title": "黑檀的芬芳妖花",
+    "name": "卡美拉",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-tome",
+    "bst": 200,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "water-atk-2",
+    "releaseDate": "2023-12-25",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [43, 46, 49],
+        "def": [19, 22, 26],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 11,
+        "def": 3,
+        "res": 3
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp", "res"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.0",
+    "dfKey": 6
+  },
   "Selena - Cutting Wit": {
     "id": "Selena - Cutting Wit",
     "title": "深藏的憧憬",

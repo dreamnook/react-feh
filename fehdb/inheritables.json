@@ -4181,6 +4181,7 @@
             "Marth - Hero-King",
             "Hector - Marquess of Ostia",
             "Sigurd - Fated Holy Knight",
+            "Camilla - Alluring Darkness",
             "Byleth - The Fódlan Star",
             "Byleth - The Fódlan Light"
           ]
@@ -5662,7 +5663,11 @@
           ]
         },
         "legendary": {
-          "5": ["Celica - Queen of Valentia", "Lucina - Glorious Archer"]
+          "5": [
+            "Celica - Queen of Valentia",
+            "Camilla - Alluring Darkness",
+            "Lucina - Glorious Archer"
+          ]
         },
         "mythic": {
           "5": [
@@ -5954,6 +5959,7 @@
     },
     "Remote Sparrow": {
       "pool": {
+        "legendary": { "5": ["Camilla - Alluring Darkness"] },
         "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
           "5": [
@@ -11632,12 +11638,21 @@
             "Narcian - Wyvern General",
             "Nemesis - King of Liberation"
           ]
-        }
+        },
+        "legendary": { "5": ["Camilla - Alluring Darkness"] }
       },
       "id": "Savage Blow 3",
       "name": "死亡氣息3",
       "sp": 200,
       "icon": "skillC/Savage_Blow_3"
+    },
+    "Deadly Miasma": {
+      "pool": { "legendary": { "5": ["Camilla - Alluring Darkness"] } },
+      "id": "Deadly Miasma",
+      "name": "死之瘴氣",
+      "sp": 300,
+      "icon": "skillC/Deadly_Miasma",
+      "rules": "flying"
     },
     "Spur Atk 3": {
       "pool": {

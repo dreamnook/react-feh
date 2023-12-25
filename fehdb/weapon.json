@@ -22742,6 +22742,16 @@
       "exclusive": ["Ced - Sage of the Wind"],
       "last": true
     },
+    "Bewitching Tome": {
+      "id": "Bewitching Tome",
+      "name": "妖豔的夜之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Camilla - Alluring Darkness"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",

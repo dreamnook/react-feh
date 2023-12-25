@@ -478,6 +478,14 @@
     "icon": "skillC/Savage_Blow_3",
     "last": true
   },
+  "Deadly Miasma": {
+    "id": "Deadly Miasma",
+    "name": "死之瘴氣",
+    "sp": 300,
+    "rules": "flying",
+    "last": true,
+    "icon": "skillC/Deadly_Miasma"
+  },
   "Spur Atk 1": {
     "id": "Spur Atk 1",
     "name": "攻擊紋章1",

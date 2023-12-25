@@ -553,6 +553,14 @@
     "last": true,
     "icon": "skillB/Barbarity"
   },
+  "Spoil Rotten": {
+    "id": "Spoil Rotten",
+    "name": "讓我來疼愛你",
+    "sp": 300,
+    "exclusive": ["Camilla - Alluring Darkness"],
+    "last": true,
+    "icon": "skillB/Spoil_Rotten"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

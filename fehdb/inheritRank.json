@@ -6972,6 +6972,19 @@
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Aerial Maneuvers": { "sp": 300, "rarity": 5 } }
   },
+  "Camilla - Alluring Darkness": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Deadly Miasma": { "sp": 300, "rarity": 5 } }
+  },
   "Michalis - Fruiting Ambition": {
     "score": 299,
     "scoreTotal": 736,
