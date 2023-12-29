@@ -436,6 +436,14 @@
     "last": true,
     "icon": "skillC/Mending_Heart"
   },
+  "Future-Sighted": {
+    "id": "Future-Sighted",
+    "name": "一同改變未來",
+    "sp": 300,
+    "exclusive": ["Seiðr - Time's Goddesses"],
+    "last": true,
+    "icon": "skillC/Future-Sighted"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -2246,6 +2254,14 @@
     "sp": 240,
     "prev": ["Inf. Null Follow 2"],
     "icon": "skillC/Inf._Null_Follow_3",
+    "last": true
+  },
+  "Inf. Null Follow 4": {
+    "id": "Inf. Null Follow 4",
+    "name": "步行識破追擊4",
+    "sp": 300,
+    "prev": ["Inf. Null Follow 3"],
+    "icon": "skillC/Inf._Null_Follow_4",
     "last": true
   },
   "Armor March 1": {

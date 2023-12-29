@@ -5204,6 +5204,19 @@
     "skillA": { "Atk/Spd Solo 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Chill Def 3": { "sp": 240, "rarity": 4 } }
   },
+  "Kana - Rising Sunlight": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Dragon's Ire 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Res 2": { "sp": 240, "rarity": 4 } }
+  },
   "Kellam - Pumpkin Knight": {
     "score": 299,
     "scoreTotal": 665,
@@ -6698,6 +6711,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Kana - Rising Dragon": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Scowl 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,
@@ -9326,6 +9352,19 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Fireflood Boost 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Mystic Boost 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Seiðr - Time's Goddesses": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Remote Mirror": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Sabotage S/R 3": { "sp": 300, "rarity": 5 } }
   },
   "Itsuki - Finding a Path": {
     "score": 299,
@@ -12606,6 +12645,20 @@
     "skillB": { "Assassin's Strike": { "sp": 300, "rarity": 5 } },
     "skillC": { "Fatal Smoke 4": { "sp": 300, "rarity": 5 } }
   },
+  "Kvasir - Unknown Future": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Reprisal": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Lull Spd/Res 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
+  },
   "Fjorm - Seaside Thaw": {
     "score": 318,
     "scoreTotal": 1166,
@@ -12716,6 +12769,19 @@
     "special": { "Lethality": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Nerþuz - New-Year Doter": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Aether": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Wild": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Dimitri - Blessed Protector": {
     "score": 530,

@@ -17693,6 +17693,17 @@
       "exclusive": ["Ratatoskr - Mending Hand"],
       "last": true
     },
+    "Cute Paper Crane": {
+      "id": "Cute Paper Crane",
+      "name": "地之女神的摺紙鶴",
+      "mt": 14,
+      "atk": 2,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Nerþuz - New-Year Doter"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -20683,6 +20694,16 @@
       "exclusive": ["Veyle - Gentle Dragon"],
       "last": true
     },
+    "Goddess Temari": {
+      "id": "Goddess Temari",
+      "name": "女神姊妹的手鞠",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Seiðr - Time's Goddesses"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -22750,6 +22771,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Camilla - Alluring Darkness"],
+      "last": true
+    },
+    "Faded Paper Fan": {
+      "id": "Faded Paper Fan",
+      "name": "過去的女神的扇子",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Kvasir - Unknown Future"],
       "last": true
     },
     "Arc. Caliburnus": {
@@ -26494,6 +26525,72 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Serenity Breath"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Dragon's Stone": {
+      "id": "Dragon's Stone",
+      "name": "龍年御子的龍石",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Fire Breath+"]
+    },
+    "Dragon's Stone+": {
+      "id": "Dragon's Stone+",
+      "name": "龍年御子的龍石+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Dragon's Stone"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "New-Sun Stone": {
+      "id": "New-Sun Stone",
+      "name": "龍年幼姬的龍石",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Fire Breath+"]
+    },
+    "New-Sun Stone+": {
+      "id": "New-Sun Stone+",
+      "name": "龍年幼姬的龍石+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["New-Sun Stone"],
       "refine": {
         "atk": {
           "hp": 5,

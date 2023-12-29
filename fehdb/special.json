@@ -358,7 +358,7 @@
     "cd": 5,
     "sp": 500,
     "prev": ["Reprisal"],
-    "exclusive": ["Kvasir - Seer of the Past"],
+    "exclusive": ["Kvasir - Seer of the Past", "Kvasir - Unknown Future"],
     "last": true
   },
   "Supreme Heaven": {

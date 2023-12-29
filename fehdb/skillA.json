@@ -2506,6 +2506,15 @@
     "icon": "skillA/Def_Res_Solo_4",
     "last": true
   },
+  "Atk/Spd Wild": {
+    "id": "Atk/Spd Wild",
+    "name": "攻擊速度的野性",
+    "sp": 300,
+    "prev": ["Atk/Spd Solo 3"],
+    "rules": "learner.dragon-beast",
+    "last": true,
+    "icon": "skillA/Atk_Spd_Wild"
+  },
   "R Duel Infantry 1": {
     "id": "R Duel Infantry 1",
     "name": "赤色死鬥・步行1",

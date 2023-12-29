@@ -485,7 +485,7 @@
     "id": "Fruit of Life",
     "name": "生於大地、歸於大地",
     "sp": 300,
-    "exclusive": ["Nerþuz - God of the Land"],
+    "exclusive": ["Nerþuz - God of the Land", "Nerþuz - New-Year Doter"],
     "last": true,
     "icon": "skillB/Fruit_of_Life"
   },
@@ -1744,6 +1744,14 @@
     "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
     "last": true,
     "icon": "skillB/Sabotage_A_R_3"
+  },
+  "Sabotage S/R 3": {
+    "id": "Sabotage S/R 3",
+    "name": "速度魔防擾亂3",
+    "sp": 300,
+    "prev": ["Sabotage Spd 3", "Sabotage Res 3"],
+    "last": true,
+    "icon": "skillB/Sabotage_S_R_3"
   },
   "Sudden Panic 1": {
     "id": "Sudden Panic 1",

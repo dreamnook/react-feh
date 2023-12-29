@@ -2712,6 +2712,20 @@
         "name": "幽靜吐息+",
         "sp": 300,
         "refine": 350
+      },
+      "Dragon's Stone+": {
+        "pool": { "special": { "5": ["Kana - Rising Dragon"] } },
+        "id": "Dragon's Stone+",
+        "name": "龍年御子的龍石+",
+        "sp": 300,
+        "refine": 350
+      },
+      "New-Sun Stone+": {
+        "pool": { "grail": { "5": ["Kana - Rising Sunlight"] } },
+        "id": "New-Sun Stone+",
+        "name": "龍年幼姬的龍石+",
+        "sp": 300,
+        "refine": 350
       }
     }
   },
@@ -3692,6 +3706,7 @@
             "Tiki - Beachside Scion",
             "Takumi - Prince of Soup",
             "Micaiah - Wavecrest Maiden",
+            "Kana - Rising Dragon",
             "Nailah - Blessed Queen",
             "Navarre - Scarlet Ninja",
             "Caeda - Princess of Talys",
@@ -3822,6 +3837,7 @@
             "Yunaka - Spirited Envoy",
             "Black Knight - The Night's Blade",
             "Claude - Golden Breeze",
+            "Nerþuz - New-Year Doter",
             "Greil - Heroic Exemplar"
           ]
         },
@@ -3871,7 +3887,9 @@
             "Lucina - Brave Princess"
           ]
         },
-        "special": { "5": ["Greil - Heroic Exemplar"] }
+        "special": {
+          "5": ["Nerþuz - New-Year Doter", "Greil - Heroic Exemplar"]
+        }
       },
       "id": "Aether",
       "name": "天空",
@@ -3927,6 +3945,7 @@
             "Leo - Extra Tomatoes",
             "Innes - Frelian Moonlight",
             "Felix - Icy Gift Giver",
+            "Kana - Rising Sunlight",
             "Clarisse - Sniper in the Dark"
           ]
         },
@@ -4095,7 +4114,13 @@
         "grail": { "4": ["Legion - Masked Maniac", "Zephiel - The Liberator"] },
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "mythic": { "5": ["Kvasir - Seer of the Past"] },
-        "special": { "5": ["Henry - Happy Vampire", "Tharja - Florid Charmer"] }
+        "special": {
+          "5": [
+            "Henry - Happy Vampire",
+            "Tharja - Florid Charmer",
+            "Kvasir - Unknown Future"
+          ]
+        }
       },
       "id": "Reprisal",
       "name": "血仇",
@@ -4540,6 +4565,7 @@
         },
         "duo": {
           "5": [
+            "Seiðr - Time's Goddesses",
             "Idunn - Dragonkin Duo",
             "Mark - Winds of Hope",
             "Sanaki - Dawnsworn Ninja"
@@ -5699,7 +5725,8 @@
             "Anna - Secret Charmer",
             "Tanith - Forthright Heart",
             "Bernadetta - Late Hibernator",
-            "Yunaka - Spirited Envoy"
+            "Yunaka - Spirited Envoy",
+            "Kvasir - Unknown Future"
           ]
         },
         "duo": {
@@ -5835,6 +5862,7 @@
         },
         "duo": {
           "5": [
+            "Seiðr - Time's Goddesses",
             "Palla - Sisterly Trio",
             "Mark - Winds of Hope",
             "Sanaki - Dawnsworn Ninja"
@@ -5990,7 +6018,7 @@
     "Remote Mirror": {
       "pool": {
         "special": { "5": ["Leo - Shrouded Heart"] },
-        "duo": { "5": ["Mark - Winds of Hope"] }
+        "duo": { "5": ["Seiðr - Time's Goddesses", "Mark - Winds of Hope"] }
       },
       "id": "Remote Mirror",
       "name": "鬼神明鏡離擊",
@@ -6000,7 +6028,8 @@
     },
     "Flash Sparrow": {
       "pool": {
-        "#": { "5": ["Nino - Fang's Heart", "Alcryst - Tender Archer"] }
+        "#": { "5": ["Nino - Fang's Heart", "Alcryst - Tender Archer"] },
+        "special": { "5": ["Kvasir - Unknown Future"] }
       },
       "id": "Flash Sparrow",
       "name": "鬼神飛燕柔擊",
@@ -7357,7 +7386,8 @@
             "Katarina - Torchlit Wanderer",
             "Naesala - Sea's Shadow",
             "Fáfnir - Fresh Ambition",
-            "Shinon - Sharptongue Ninja"
+            "Shinon - Sharptongue Ninja",
+            "Nerþuz - New-Year Doter"
           ]
         },
         "duo": { "5": ["Sothis - Bound-Spirit Duo"] }
@@ -7550,6 +7580,14 @@
       "name": "防守魔防的孤軍4",
       "sp": 300,
       "icon": "skillA/Def_Res_Solo_4"
+    },
+    "Atk/Spd Wild": {
+      "pool": { "special": { "5": ["Nerþuz - New-Year Doter"] } },
+      "id": "Atk/Spd Wild",
+      "name": "攻擊速度的野性",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Wild",
+      "rules": "learner.dragon-beast"
     },
     "R Duel Infantry 3": {
       "pool": {
@@ -8671,7 +8709,10 @@
       "rules": "infantry"
     },
     "Atk/Res Scowl 3": {
-      "pool": { "#": { "5": ["Rhea - Loving Matriarch"] } },
+      "pool": {
+        "#": { "5": ["Rhea - Loving Matriarch"] },
+        "special": { "5": ["Kana - Rising Dragon"] }
+      },
       "id": "Atk/Res Scowl 3",
       "name": "攻擊魔防的龍眼3",
       "sp": 240,
@@ -9774,7 +9815,13 @@
         "legendary": { "5": ["Lilina - Firelight Leader"] },
         "mythic": { "5": ["Yune - Chaos Goddess"] },
         "special": { "5": ["Ivy - Tidal Breeze"] },
-        "duo": { "5": ["Mark - Winds of Hope", "Sanaki - Dawnsworn Ninja"] }
+        "duo": {
+          "5": [
+            "Seiðr - Time's Goddesses",
+            "Mark - Winds of Hope",
+            "Sanaki - Dawnsworn Ninja"
+          ]
+        }
       },
       "id": "Sabotage Res 3",
       "name": "魔防擾亂3",
@@ -9790,6 +9837,13 @@
       "name": "攻擊魔防擾亂3",
       "sp": 300,
       "icon": "skillB/Sabotage_A_R_3"
+    },
+    "Sabotage S/R 3": {
+      "pool": { "duo": { "5": ["Seiðr - Time's Goddesses"] } },
+      "id": "Sabotage S/R 3",
+      "name": "速度魔防擾亂3",
+      "sp": 300,
+      "icon": "skillB/Sabotage_S_R_3"
     },
     "Sudden Panic 3": {
       "pool": {
@@ -11017,7 +11071,8 @@
           "5": [
             "Byleth - Fount of Learning",
             "Bernadetta - Frosty Shut-In",
-            "Severa - Bitter Blossom"
+            "Severa - Bitter Blossom",
+            "Kvasir - Unknown Future"
           ]
         }
       },
@@ -11028,7 +11083,10 @@
       "rules": "learner.infantry-cavalry"
     },
     "Lull Spd/Res 4": {
-      "pool": { "mythic": { "5": ["Kvasir - Seer of the Past"] } },
+      "pool": {
+        "mythic": { "5": ["Kvasir - Seer of the Past"] },
+        "special": { "5": ["Kvasir - Unknown Future"] }
+      },
       "id": "Lull Spd/Res 4",
       "name": "速度魔防的靜謐4",
       "sp": 300,
@@ -11140,6 +11198,7 @@
     },
     "Dragon's Ire 3": {
       "pool": {
+        "grail": { "5": ["Kana - Rising Sunlight"] },
         "legendary": { "5": ["Fae - Childlike Dragon"] },
         "special": {
           "5": ["Robin - Fall Vessel", "Corrin - Celestial Sorcerer"]
@@ -11167,7 +11226,9 @@
         "mythic": {
           "5": ["Seiros - Saint of Legend", "Mila - Goddess of Love"]
         },
-        "special": { "5": ["Rhea - Witch of Creation"] },
+        "special": {
+          "5": ["Kana - Rising Dragon", "Rhea - Witch of Creation"]
+        },
         "duo": { "5": ["Duma - Strength and Love"] }
       },
       "id": "Dragon Wall 3",
@@ -11921,7 +11982,13 @@
             "Marianne - Adopted Daughter"
           ]
         },
-        "grail": { "4": ["Rhys - Gentle Basker", "Lyon - Shadow Prince"] },
+        "grail": {
+          "4": [
+            "Rhys - Gentle Basker",
+            "Lyon - Shadow Prince",
+            "Kana - Rising Sunlight"
+          ]
+        },
         "legendary": { "5": ["Ike - Vanguard Legend"] },
         "special": {
           "5": ["Azura - Lady of Ballads", "Elincia - Estival Princess"]
@@ -13203,7 +13270,9 @@
         },
         "grail": { "5": ["Takumi - Empty Vessel"] },
         "mythic": { "5": ["Freyja - Lady of Nightmare"] },
-        "special": { "5": ["Lyn - Blazing Whirlwind"] },
+        "special": {
+          "5": ["Lyn - Blazing Whirlwind", "Nerþuz - New-Year Doter"]
+        },
         "harmonized": { "5": ["Karla - Spring Reveries"] }
       },
       "id": "Spd Smoke 3",
@@ -13222,7 +13291,9 @@
           ]
         },
         "mythic": { "5": ["Freyja - Lady of Nightmare"] },
-        "special": { "5": ["Lyn - Blazing Whirlwind"] },
+        "special": {
+          "5": ["Lyn - Blazing Whirlwind", "Nerþuz - New-Year Doter"]
+        },
         "harmonized": { "5": ["Karla - Spring Reveries"] }
       },
       "id": "Spd Smoke 4",
@@ -13522,12 +13593,21 @@
     "Inf. Null Follow 3": {
       "pool": {
         "#": { "5": ["Celica - Valentia's Hope", "Gregor - Swell Sword"] },
-        "special": { "5": ["Seadall - Misfortune-Teller"] }
+        "special": {
+          "5": ["Seadall - Misfortune-Teller", "Kvasir - Unknown Future"]
+        }
       },
       "id": "Inf. Null Follow 3",
       "name": "步行識破追擊3",
       "sp": 240,
       "icon": "skillC/Inf._Null_Follow_3"
+    },
+    "Inf. Null Follow 4": {
+      "pool": { "special": { "5": ["Kvasir - Unknown Future"] } },
+      "id": "Inf. Null Follow 4",
+      "name": "步行識破追擊4",
+      "sp": 300,
+      "icon": "skillC/Inf._Null_Follow_4"
     },
     "Armor March 3": {
       "pool": {
