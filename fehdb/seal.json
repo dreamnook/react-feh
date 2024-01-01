@@ -4378,7 +4378,7 @@
     },
     "Distant Counter (M)": {
       "id": "Distant Counter (M)",
-      "name": "遠反・劍槍斧",
+      "name": "遠反・劍槍斧專用",
       "sp": 300,
       "rules": "learner.wielder",
       "last": true,

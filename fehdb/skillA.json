@@ -2511,7 +2511,7 @@
     "name": "攻擊速度的野性",
     "sp": 300,
     "prev": ["Atk/Spd Solo 3"],
-    "rules": "learner.dragon-beast",
+    "rules": "beast",
     "last": true,
     "icon": "skillA/Atk_Spd_Wild"
   },

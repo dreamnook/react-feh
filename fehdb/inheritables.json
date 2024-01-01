@@ -2716,14 +2716,14 @@
       "Dragon's Stone+": {
         "pool": { "special": { "5": ["Kana - Rising Dragon"] } },
         "id": "Dragon's Stone+",
-        "name": "龍年御子的龍石+",
+        "name": "辰年御子的龍石+",
         "sp": 300,
         "refine": 350
       },
       "New-Sun Stone+": {
         "pool": { "grail": { "5": ["Kana - Rising Sunlight"] } },
         "id": "New-Sun Stone+",
-        "name": "龍年幼姬的龍石+",
+        "name": "辰年幼姬的龍石+",
         "sp": 300,
         "refine": 350
       }
@@ -7587,7 +7587,7 @@
       "name": "攻擊速度的野性",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Wild",
-      "rules": "learner.dragon-beast"
+      "rules": "beast"
     },
     "R Duel Infantry 3": {
       "pool": {
