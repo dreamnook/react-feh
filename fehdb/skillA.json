@@ -212,6 +212,14 @@
     "last": true,
     "icon": "skillA/Beyond_Witchery"
   },
+  "Thunder's Fist": {
+    "id": "Thunder's Fist",
+    "name": "雷神的親信",
+    "sp": 300,
+    "exclusive": ["Reinhardt - Thrud Reborn"],
+    "last": true,
+    "icon": "skillA/Thunder's_Fist"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

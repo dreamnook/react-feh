@@ -15640,6 +15640,16 @@
       "exclusive": ["Yunaka - Spirited Envoy"],
       "last": true
     },
+    "Blade Royale": {
+      "id": "Blade Royale",
+      "name": "王者之刃",
+      "mt": 9,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Perne - Dacian Scoundrel"],
+      "last": true
+    },
     "Arcane Void": {
       "id": "Arcane Void",
       "name": "魔器金倫加",
@@ -16050,6 +16060,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Miasma Dagger"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Clever Dagger": {
+      "id": "Clever Dagger",
+      "name": "攻防暗器",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Clever Dagger+": {
+      "id": "Clever Dagger+",
+      "name": "攻防暗器+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Clever Dagger"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -20852,6 +20895,16 @@
       },
       "last": true
     },
+    "Arcane Thunder": {
+      "id": "Arcane Thunder",
+      "name": "魔器・雷公之書",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Thoron"],
+      "last": true
+    },
     "Thunder": {
       "id": "Thunder",
       "name": "雷電",
@@ -24439,6 +24492,26 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Flayn - Silly Kitty-Cat"],
+      "last": true
+    },
+    "Repair": {
+      "id": "Repair",
+      "name": "修復",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Safy - Font of Piety"],
+      "last": true
+    },
+    "Thief": {
+      "id": "Thief",
+      "name": "盜取",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Tina - Playful Scamp"],
       "last": true
     },
     "Assault": {

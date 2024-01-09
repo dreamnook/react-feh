@@ -8214,6 +8214,70 @@
       "Even Recovery 3": 4
     }
   },
+  "Safy - Font of Piety": {
+    "weapon": {
+      "Assault": 1,
+      "Repair": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 3,
+      "Return": 4,
+      "Return+": 5
+    },
+    "special": {
+      "Imbue": 4,
+      "Miracle": 5,
+      "Holy Panic": 5
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Still Water 4": 5
+    },
+    "skillC": {
+      "Atk Ploy 1": 2,
+      "Atk Ploy 2": 3,
+      "Atk Ploy 3": 4,
+      "Atk/Spd Ploy 3": 5
+    }
+  },
+  "Tina - Playful Scamp": {
+    "weapon": {
+      "Assault": 1,
+      "Thief": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 3,
+      "Nudge": 4,
+      "Nudge+": 5
+    },
+    "special": {
+      "Imbue": 4,
+      "Miracle": 5,
+      "Holy Pressure": 5
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Atk/Spd Ideal 4": 5
+    },
+    "skillB": {
+      "Wrathful Staff 1": 2,
+      "Wrathful Staff 2": 3,
+      "Wrathful Staff 3": 4,
+      "Wrathful Tempo": 5
+    },
+    "skillC": {
+      "Infantry Pulse 1": 2,
+      "Infantry Pulse 2": 3,
+      "Infantry Pulse 3": 4,
+      "Infantry Pulse 4": 5
+    }
+  },
   "Asbel - Windswept Youth": {
     "weapon": {
       "Wind": 1,
@@ -8240,6 +8304,27 @@
       "Spd/Res Oath 1": 1,
       "Spd/Res Oath 2": 2,
       "Spd/Res Oath 3": 4
+    }
+  },
+  "Lara - Step Lively": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Clever Dagger": 4,
+      "Clever Dagger+": 5
+    },
+    "assist": {
+      "Dance": 4
+    },
+    "skillB": {
+      "Gale Dance 1": 3,
+      "Rockslide Dance 1": 4,
+      "Rockslide Dance 2": 5
+    },
+    "skillC": {
+      "Atk Smoke 1": 1,
+      "Atk Smoke 2": 2,
+      "Atk Smoke 3": 4
     }
   },
   "Ronan - Villager of Iz": {
@@ -8386,6 +8471,33 @@
       "Joint Hone Atk": 5
     }
   },
+  "Reinhardt - Thrud Reborn": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Thoron": 4,
+      "Arcane Thunder": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Thunder's Fist": 5
+    },
+    "skillB": {
+      "S/R Far Trace 1": 2,
+      "S/R Far Trace 2": 3,
+      "S/R Far Trace 3": 4,
+      "S/R Far Trace 4": 5
+    },
+    "skillC": {
+      "Res Smoke 1": 2,
+      "Res Smoke 2": 3,
+      "Res Smoke 3": 4,
+      "Def/Res Smoke 3": 5
+    }
+  },
   "Olwen - Blue Mage Knight": {
     "weapon": {
       "Thunder": 1,
@@ -8527,6 +8639,28 @@
       "Sabotage Atk 1": 3,
       "Sabotage Atk 2": 4,
       "Sabotage Atk 3": 5
+    }
+  },
+  "Perne - Dacian Scoundrel": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 4,
+      "Blade Royale": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillB": {
+      "Null Follow-Up 1": 3,
+      "Null Follow-Up 2": 4,
+      "Null Follow-Up 3": 5
+    },
+    "skillC": {
+      "Spur Spd 1": 1,
+      "Drive Spd 1": 2,
+      "Drive Spd 2": 4
     }
   },
   "Lifis - Terror of Iz": {

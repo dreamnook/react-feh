@@ -226,6 +226,10 @@
     "weaponType": 16777207,
     "moveType": 9
   },
+  "learner.infantry-white-staff": {
+    "moveType": 1,
+    "weaponType": 8
+  },
   "learner.armored-not-staff": {
     "weaponType": 16777207,
     "moveType": 2

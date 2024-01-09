@@ -2111,6 +2111,14 @@
     "last": true,
     "icon": "skillB/Poetic_Justice"
   },
+  "Wrathful Tempo": {
+    "id": "Wrathful Tempo",
+    "name": "神罰・節拍",
+    "sp": 300,
+    "rules": "learner.infantry-white-staff",
+    "last": true,
+    "icon": "skillB/Wrathful_Tempo"
+  },
   "Dazzling Staff 1": {
     "id": "Dazzling Staff 1",
     "name": "幻惑之杖1",
@@ -4127,6 +4135,15 @@
     "prev": ["S/R Far Trace 2"],
     "rules": "learner.far-trace",
     "icon": "skillB/S_R_Far_Trace_3",
+    "last": true
+  },
+  "S/R Far Trace 4": {
+    "id": "S/R Far Trace 4",
+    "name": "速度魔防遠影4",
+    "sp": 300,
+    "prev": ["S/R Far Trace 3"],
+    "rules": "learner.far-trace",
+    "icon": "skillB/S_R_Far_Trace_4",
     "last": true
   },
   "Flow Refresh 1": {

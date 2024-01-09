@@ -1578,6 +1578,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Clever Dagger+": {
+        "pool": { "#": { "5": ["Lara - Step Lively"] } },
+        "id": "Clever Dagger+",
+        "name": "攻防暗器+",
+        "sp": 300,
+        "refine": 350
+      },
       "Seashell+": {
         "pool": { "special": { "5": ["Frederick - Horizon Watcher"] } },
         "id": "Seashell+",
@@ -1962,6 +1969,12 @@
         "name": "魔器・陶醉之花",
         "sp": 300,
         "refine": 350
+      },
+      "Arcane Thunder": {
+        "pool": { "#": { "5": ["Reinhardt - Thrud Reborn"] } },
+        "id": "Arcane Thunder",
+        "name": "魔器・雷公之書",
+        "sp": 300
       },
       "Shine+": {
         "pool": { "grail": { "5": ["Oliver - Admirer of Beauty"] } },
@@ -2872,7 +2885,7 @@
     },
     "Return+": {
       "pool": {
-        "#": { "5": ["Sara - Lady of Loptr"] },
+        "#": { "5": ["Sara - Lady of Loptr", "Safy - Font of Piety"] },
         "special": { "5": ["Saul - Minister of Love"] },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
@@ -2883,7 +2896,13 @@
     },
     "Nudge+": {
       "pool": {
-        "#": { "5": ["August - Astute Tactician", "Maria - Ritual Sacrifice"] },
+        "#": {
+          "5": [
+            "August - Astute Tactician",
+            "Maria - Ritual Sacrifice",
+            "Tina - Playful Scamp"
+          ]
+        },
         "mythic": { "5": ["Elimine - Scouring Saint"] },
         "duo": { "5": ["Hilda - Deer's Two-Piece"] }
       },
@@ -3662,6 +3681,7 @@
             "Gatrie - Armored Amour",
             "Shez - Rising Mercenary",
             "Hugh - Worldly Mage",
+            "Reinhardt - Thrud Reborn",
             "Neimi - Tearful Archer",
             "Syrene - Graceful Rider",
             "Ishtar - Thunder Goddess",
@@ -4282,6 +4302,7 @@
             "Brigand Boss - Known Criminal",
             "Muarim - Raw Instinct",
             "Hans - Ambitious Brute",
+            "Perne - Dacian Scoundrel",
             "Lumera - Dragon Monarch",
             "Fargus - Badon Buccaneer",
             "Vigarde - Silent Emperor"
@@ -4877,8 +4898,10 @@
             "Mist - Helpful Sister",
             "Maribelle - Dire Damsel",
             "Mikoto - Caring Mother",
+            "Safy - Font of Piety",
             "Maria - Ritual Sacrifice",
             "Elincia - Devoted Queen",
+            "Tina - Playful Scamp",
             "Delthea - Free Spirit",
             "Sigurd - Holy Knight"
           ]
@@ -5066,6 +5089,7 @@
     },
     "Holy Pressure": {
       "pool": {
+        "#": { "5": ["Tina - Playful Scamp"] },
         "special": { "5": ["Flayn - Silly Kitty-Cat"] },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
@@ -5082,7 +5106,9 @@
       "rules": "white-staff"
     },
     "Holy Panic": {
-      "pool": { "#": { "5": ["Maria - Ritual Sacrifice"] } },
+      "pool": {
+        "#": { "5": ["Safy - Font of Piety", "Maria - Ritual Sacrifice"] }
+      },
       "id": "Holy Panic",
       "name": "恐慌的聖光",
       "sp": 500,
@@ -5501,7 +5527,7 @@
     },
     "Still Water 3": {
       "pool": {
-        "#": { "5": ["Plumeria - Rapturous Dream"] },
+        "#": { "5": ["Safy - Font of Piety", "Plumeria - Rapturous Dream"] },
         "grail": { "5": ["Tailtiu - Teatime Mingler"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
@@ -5515,7 +5541,7 @@
     },
     "Still Water 4": {
       "pool": {
-        "#": { "5": ["Plumeria - Rapturous Dream"] },
+        "#": { "5": ["Safy - Font of Piety", "Plumeria - Rapturous Dream"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
         "special": { "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"] },
@@ -8264,6 +8290,7 @@
         "#": {
           "3": ["Miriel - Rapier Intellect"],
           "5": [
+            "Tina - Playful Scamp",
             "Monica - Favored Vassal",
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
@@ -8289,6 +8316,7 @@
       "pool": {
         "#": {
           "5": [
+            "Tina - Playful Scamp",
             "Monica - Favored Vassal",
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
@@ -10055,7 +10083,8 @@
             "Genny - Endearing Ally",
             "Veronica - Brave Princess",
             "Camilla - Light of Nohr",
-            "Maria - Ritual Sacrifice"
+            "Maria - Ritual Sacrifice",
+            "Tina - Playful Scamp"
           ]
         },
         "special": {
@@ -10084,6 +10113,14 @@
       "sp": 300,
       "icon": "skillB/Poetic_Justice",
       "rules": "white-staff"
+    },
+    "Wrathful Tempo": {
+      "pool": { "#": { "5": ["Tina - Playful Scamp"] } },
+      "id": "Wrathful Tempo",
+      "name": "神罰・節拍",
+      "sp": 300,
+      "icon": "skillB/Wrathful_Tempo",
+      "rules": "learner.infantry-white-staff"
     },
     "Dazzling Staff 3": {
       "pool": {
@@ -10390,7 +10427,7 @@
     },
     "Rockslide Dance 2": {
       "pool": {
-        "#": { "5": ["Peony - Cherished Dream"] },
+        "#": { "5": ["Lara - Step Lively", "Peony - Cherished Dream"] },
         "special": { "5": ["Elincia - Estival Princess"] }
       },
       "id": "Rockslide Dance 2",
@@ -10840,7 +10877,9 @@
             "Volke - Man of Mysteries"
           ]
         },
-        "grail": { "5": ["Lumera - Dragon Monarch"] },
+        "grail": {
+          "5": ["Perne - Dacian Scoundrel", "Lumera - Dragon Monarch"]
+        },
         "legendary": { "5": ["Alm - Saint-King"] },
         "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
@@ -11392,6 +11431,7 @@
     },
     "S/R Far Trace 3": {
       "pool": {
+        "#": { "5": ["Reinhardt - Thrud Reborn"] },
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "special": {
           "5": [
@@ -11410,6 +11450,14 @@
       "name": "速度魔防遠影3",
       "sp": 240,
       "icon": "skillB/S_R_Far_Trace_3",
+      "rules": "learner.far-trace"
+    },
+    "S/R Far Trace 4": {
+      "pool": { "#": { "5": ["Reinhardt - Thrud Reborn"] } },
+      "id": "S/R Far Trace 4",
+      "name": "速度魔防遠影4",
+      "sp": 300,
+      "icon": "skillB/S_R_Far_Trace_4",
       "rules": "learner.far-trace"
     },
     "Flow Refresh 3": {
@@ -11937,7 +11985,10 @@
             "Anna - Secret Seller"
           ]
         },
-        "grail": { "5": ["Norne - Seaside Volunteer"] },
+        "grail": {
+          "4": ["Perne - Dacian Scoundrel"],
+          "5": ["Norne - Seaside Volunteer"]
+        },
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
         "special": {
           "5": [
@@ -13112,7 +13163,11 @@
       "pool": {
         "#": {
           "3": ["Lena - Tender Angel", "Bastian - Crimea's Keystone"],
-          "5": ["Katarina - Wayward One", "Morgan - Lass from Afar"]
+          "5": [
+            "Safy - Font of Piety",
+            "Katarina - Wayward One",
+            "Morgan - Lass from Afar"
+          ]
         },
         "grail": {
           "4": [
@@ -13183,6 +13238,13 @@
       "sp": 240,
       "icon": "skillC/Res_Ploy_3"
     },
+    "Atk/Spd Ploy 3": {
+      "pool": { "#": { "5": ["Safy - Font of Piety"] } },
+      "id": "Atk/Spd Ploy 3",
+      "name": "攻擊速度謀策3",
+      "sp": 300,
+      "icon": "skillC/Atk_Spd_Ploy_3"
+    },
     "Atk/Res Ploy 3": {
       "pool": { "#": { "5": ["Sonya - Beautiful Mage"] } },
       "id": "Atk/Res Ploy 3",
@@ -13227,6 +13289,7 @@
         "#": {
           "3": ["Kaze - Easygoing Ninja"],
           "5": [
+            "Lara - Step Lively",
             "Lyn - Brave Lady",
             "Gustav - Sovereign Slain",
             "Leila - Rose amid Fangs"
@@ -13326,6 +13389,7 @@
     },
     "Res Smoke 3": {
       "pool": {
+        "#": { "5": ["Reinhardt - Thrud Reborn"] },
         "grail": { "4": ["Brunnya - Devoted General"] },
         "legendary": { "5": ["Robin - Fell Vessel"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
@@ -13429,7 +13493,7 @@
     },
     "Def/Res Smoke 3": {
       "pool": {
-        "#": { "5": ["Alcryst - Tender Archer"] },
+        "#": { "5": ["Reinhardt - Thrud Reborn", "Alcryst - Tender Archer"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": {
           "5": ["Leila - Keen Lookout", "Bernadetta - Late Hibernator"]
@@ -13511,6 +13575,7 @@
       "pool": {
         "#": {
           "5": [
+            "Tina - Playful Scamp",
             "Nils - Bright Bard",
             "Dorcas - Serene Warrior",
             "Helbindi - Savage Scourge",
@@ -13537,7 +13602,9 @@
       "rules": "infantry"
     },
     "Infantry Pulse 4": {
-      "pool": { "#": { "5": ["Ced - Sage of the Wind"] } },
+      "pool": {
+        "#": { "5": ["Tina - Playful Scamp", "Ced - Sage of the Wind"] }
+      },
       "id": "Infantry Pulse 4",
       "name": "步行之躍動4",
       "sp": 300,

@@ -1960,6 +1960,19 @@
     "skillB": { "Drag Back": { "sp": 150, "rarity": 3 } },
     "skillC": { "Drive Def 2": { "sp": 240, "rarity": 5 } }
   },
+  "Safy - Font of Piety": {
+    "score": 125,
+    "scoreTotal": 350,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 183,
+    "assist": { "Return+": { "sp": 300, "rarity": 5 } },
+    "special": { "Holy Panic": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Ploy 3": { "sp": 300, "rarity": 5 } }
+  },
   "Linde - Light Mage": {
     "score": 200,
     "scoreTotal": 350,
@@ -2787,6 +2800,20 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dazzling Shift": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Res Hold": { "sp": 300, "rarity": 5 } }
+  },
+  "Tina - Playful Scamp": {
+    "score": 125,
+    "scoreTotal": 425,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1700,
+    "feather": 1000,
+    "bst": 183,
+    "assist": { "Nudge+": { "sp": 300, "rarity": 5 } },
+    "special": { "Holy Pressure": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Wrathful Tempo": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Infantry Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Klein - Silver Nobleman": {
     "score": 166,
@@ -3788,6 +3815,17 @@
     "bst": 161,
     "skillA": { "Spd/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Geyser Dance 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Lara - Step Lively": {
+    "score": 240,
+    "scoreTotal": 480,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 1000,
+    "bst": 177,
+    "skillB": { "Rockslide Dance 2": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Reinhardt - Thunder's Fist": {
     "score": 249,
@@ -7895,6 +7933,19 @@
     "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 4 } }
   },
+  "Perne - Dacian Scoundrel": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 187,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
+  },
   "Lumera - Dragon Monarch": {
     "score": 322,
     "scoreTotal": 746,
@@ -8667,6 +8718,18 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Surge Sparrow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Menace": { "sp": 300, "rarity": 5 } }
+  },
+  "Reinhardt - Thrud Reborn": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillB": { "S/R Far Trace 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
   "Neimi - Tearful Archer": {
     "score": 300,

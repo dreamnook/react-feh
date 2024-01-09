@@ -1802,6 +1802,14 @@
     "icon": "skillC/Res_Ploy_3",
     "last": true
   },
+  "Atk/Spd Ploy 3": {
+    "id": "Atk/Spd Ploy 3",
+    "name": "攻擊速度謀策3",
+    "sp": 300,
+    "prev": ["Atk Ploy 3", "Spd Ploy 3"],
+    "last": true,
+    "icon": "skillC/Atk_Spd_Ploy_3"
+  },
   "Atk/Res Ploy 3": {
     "id": "Atk/Res Ploy 3",
     "name": "攻擊魔防謀策3",
