@@ -6916,7 +6916,6 @@
       "id": "Stoutheart Lance",
       "name": "自信者的長槍",
       "mt": 16,
-      "atk": 18,
       "sp": 400,
       "exclusive": ["Ferdinand - Noblest of Nobles"],
       "refine": {
