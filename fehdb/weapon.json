@@ -20904,10 +20904,6 @@
       "sp": 300,
       "prev": ["Thoron"],
       "refine": {
-        "effect": {
-          "name": "特效",
-          "icon": "Arcane_Thunder_W"
-        },
         "atk": {
           "hp": 2,
           "mt": 1
