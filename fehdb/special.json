@@ -177,6 +177,7 @@
     "id": "Righteous Wind",
     "name": "聖風",
     "sp": 500,
+    "cd": 2,
     "prev": ["Glimmer"],
     "exclusive": ["Merric - Changing Winds"],
     "last": true
