@@ -8868,7 +8868,8 @@
     "special": {
       "Rising Flame": 3,
       "Blazing Flame": 4,
-      "Gifted Magic": 5
+      "Gifted Magic": 5,
+      "Gifted Magic II": 5
     },
     "skillA": {
       "Atk/Res Solo 1": 2,
@@ -8879,7 +8880,8 @@
     "skillB": {
       "Sabotage Res 1": 1,
       "Sabotage Res 2": 2,
-      "Sabotage Res 3": 4
+      "Sabotage Res 3": 4,
+      "Sabotage A/R 3": 5
     },
     "skillC": {
       "Pulse Smoke 1": 3,
@@ -19325,7 +19327,8 @@
     "special": {
       "Dragon Gaze": 3,
       "Dragon Fang": 4,
-      "Negating Fang": 5
+      "Negating Fang": 5,
+      "Negating Fang II": 5
     },
     "skillA": {
       "Distant Counter": 5
@@ -19333,7 +19336,11 @@
     "skillB": {
       "Shield Pulse 1": 1,
       "Shield Pulse 2": 2,
-      "Shield Pulse 3": 4
+      "Shield Pulse 3": 4,
+      "Guard 1": 1,
+      "Guard 2": 2,
+      "Guard 3": 4,
+      "Guard 4": 5
     },
     "skillC": {
       "Spur Atk 1": 2,

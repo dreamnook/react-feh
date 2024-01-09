@@ -6574,8 +6574,8 @@
             "Hector - Marquess of Ostia",
             "Caeda - Beloved Queen",
             "Seliph - Scion of Light",
-            "Corrin - Child of Dusk",
-            "Fae - Childlike Dragon"
+            "Fae - Childlike Dragon",
+            "Corrin - Child of Dusk"
           ]
         },
         "mythic": {
@@ -9828,6 +9828,7 @@
     },
     "Sabotage A/R 3": {
       "pool": {
+        "legendary": { "5": ["Lilina - Firelight Leader"] },
         "special": { "5": ["Ivy - Tidal Breeze"] },
         "duo": { "5": ["Mark - Winds of Hope", "Sanaki - Dawnsworn Ninja"] }
       },
@@ -10028,6 +10029,7 @@
             "Caellach - Tiger Eye"
           ]
         },
+        "legendary": { "5": ["Corrin - Child of Dusk"] },
         "mythic": { "5": ["Gotoh - White Sage"] },
         "special": { "5": ["Sakura - Gentle Nekomata", "Lyn - Wind's Embrace"] }
       },
@@ -10037,7 +10039,10 @@
       "icon": "skillB/Guard_3"
     },
     "Guard 4": {
-      "pool": { "mythic": { "5": ["Gotoh - White Sage"] } },
+      "pool": {
+        "legendary": { "5": ["Corrin - Child of Dusk"] },
+        "mythic": { "5": ["Gotoh - White Sage"] }
+      },
       "id": "Guard 4",
       "name": "取消4",
       "sp": 300,

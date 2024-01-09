@@ -10537,20 +10537,6 @@
     "skillB": { "Flow Refresh 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Def Menace": { "sp": 300, "rarity": 5 } }
   },
-  "Corrin - Child of Dusk": {
-    "score": 276,
-    "scoreTotal": 957,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 1040,
-    "feather": 1000,
-    "bst": 180,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Shield Pulse 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
-  },
   "Fae - Childlike Dragon": {
     "score": 276,
     "scoreTotal": 957,
@@ -11151,20 +11137,6 @@
     "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Inf. Spd Tactic": { "sp": 300, "rarity": 5 } }
   },
-  "Lilina - Firelight Leader": {
-    "score": 276,
-    "scoreTotal": 994,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 1080,
-    "feather": 1000,
-    "bst": 180,
-    "special": { "Blazing Flame": { "sp": 300, "rarity": 5 } },
-    "skillA": { "Atk/Res Solo 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Sabotage Res 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
-  },
   "Est - Springtime Flier": {
     "score": 318,
     "scoreTotal": 996,
@@ -11351,6 +11323,20 @@
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Res 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Incite Atk/Spd": { "sp": 300, "rarity": 5 } }
+  },
+  "Corrin - Child of Dusk": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Guard 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
   },
   "Alear - Awoken Divinity": {
     "score": 276,
@@ -11997,6 +11983,20 @@
     "special": { "Galeforce": { "sp": 500, "rarity": 5 } },
     "skillA": { "Death Blow 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk Tactic 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Lilina - Firelight Leader": {
+    "score": 276,
+    "scoreTotal": 1049,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1140,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Blazing Flame": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Res Solo 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Sabotage A/R 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Lucina - Future Fondness": {
     "score": 318,

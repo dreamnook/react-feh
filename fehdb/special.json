@@ -199,6 +199,14 @@
     "exclusive": ["Corrin - Child of Dusk", "Corrin - Starry Seer"],
     "last": true
   },
+  "Negating Fang II": {
+    "id": "Negating Fang II",
+    "name": "反龍穿・承",
+    "sp": 500,
+    "prev": ["Negating Fang"],
+    "exclusive": ["Corrin - Child of Dusk"],
+    "last": true
+  },
   "Seiðr Shell": {
     "id": "Seiðr Shell",
     "name": "魔彈",
@@ -215,6 +223,15 @@
     "sp": 500,
     "prev": ["Blazing Flame"],
     "exclusive": ["Lilina - Firelight Leader", "Lilina - Beaming Bride"],
+    "last": true
+  },
+  "Gifted Magic II": {
+    "id": "Gifted Magic II",
+    "name": "魔道天賦・承",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Gifted Magic"],
+    "exclusive": ["Lilina - Firelight Leader"],
     "last": true
   },
   "Holy-Knight Aura": {
