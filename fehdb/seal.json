@@ -6153,6 +6153,36 @@
       "prev": ["Squad Ace BY 2"],
       "icon": "seal/Squad_Ace_Atk_Spd_Def_3",
       "last": true
+    },
+    "Squad Ace BZ 1": {
+      "id": "Squad Ace BZ 1",
+      "name": "第７８迷宮的霸王1",
+      "sp": 120,
+      "atk": 1,
+      "spd": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_Atk_Spd_Res_1"
+    },
+    "Squad Ace BZ 2": {
+      "id": "Squad Ace BZ 2",
+      "name": "第７８迷宮的霸王2",
+      "sp": 180,
+      "atk": 2,
+      "spd": 2,
+      "res": 2,
+      "prev": ["Squad Ace BZ 1"],
+      "icon": "seal/Squad_Ace_Atk_Spd_Res_2"
+    },
+    "Squad Ace BZ 3": {
+      "id": "Squad Ace BZ 3",
+      "name": "第７８迷宮的霸王3",
+      "sp": 240,
+      "atk": 3,
+      "spd": 3,
+      "res": 3,
+      "prev": ["Squad Ace BZ 2"],
+      "icon": "seal/Squad_Ace_Atk_Spd_Res_3",
+      "last": true
     }
   }
 }

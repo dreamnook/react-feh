@@ -6912,6 +6912,38 @@
       "exclusive": ["Edelgard - Snowfall Future"],
       "last": true
     },
+    "Stoutheart Lance": {
+      "id": "Stoutheart Lance",
+      "name": "自信者的長槍",
+      "mt": 16,
+      "atk": 18,
+      "sp": 400,
+      "exclusive": ["Ferdinand - Noblest of Nobles"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Stoutheart_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -9518,6 +9550,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Minerva - Princess-Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Dragoon_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Aymr": {
@@ -15237,6 +15292,28 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Leila - Rose amid Fangs"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Constant_Dagger_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Candied Dagger": {
@@ -18480,6 +18557,28 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Kiria - Cool Façade"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Mirage_Rod_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Hades Ω": {
@@ -18624,6 +18723,28 @@
       "cd": -1,
       "prev": ["Bolganone"],
       "exclusive": ["Lilina - Firelight Leader"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Studied_Forblaze_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Petrify": {
@@ -22380,6 +22501,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Merric - Changing Winds"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Winds_of_Change_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Blood Tome": {
@@ -25700,6 +25843,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Corrin - Child of Dusk"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Primordial_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Frostfire Breath": {

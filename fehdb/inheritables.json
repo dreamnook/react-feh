@@ -197,7 +197,7 @@
         "refine": 350
       },
       "Null Blade+": {
-        "pool": { "#": { "5": ["Inigo - Flower Picker"] } },
+        "pool": { "#": { "3": ["Inigo - Flower Picker"] } },
         "id": "Null Blade+",
         "name": "識破追擊之劍+",
         "sp": 300,
@@ -2371,7 +2371,7 @@
         "refine": 350
       },
       "Hvítrdeer+": {
-        "pool": { "#": { "4": ["Laurent - The Elucidator"] } },
+        "pool": { "#": { "3": ["Laurent - The Elucidator"] } },
         "id": "Hvítrdeer+",
         "name": "純白之鹿+",
         "sp": 300,
@@ -3613,8 +3613,7 @@
           ]
         },
         "grail": {
-          "4": ["Itsuki - Finding a Path"],
-          "5": ["Claude - Yuletide Schemer"]
+          "4": ["Claude - Yuletide Schemer", "Itsuki - Finding a Path"]
         },
         "legendary": {
           "5": ["Ephraim - Legendary Lord", "Ike - Vanguard Legend"]
@@ -3646,7 +3645,8 @@
             "Erk - Studious Mage",
             "Karin - Driven Knight",
             "Sylvain - Consummate Flirt",
-            "Basilio - Feroxi West-Khan"
+            "Basilio - Feroxi West-Khan",
+            "Inigo - Flower Picker"
           ],
           "5": [
             "Ephraim - Restoration Lord",
@@ -3655,7 +3655,6 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
-            "Inigo - Flower Picker",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Celica - Valentia's Hope",
@@ -3700,13 +3699,13 @@
             "Alfonse - Uplifting Love",
             "Lyon - Sunlit Prince",
             "Rebecca - Breezy Scamp",
-            "Annette - Festive Helper"
+            "Annette - Festive Helper",
+            "Kana - Rising Dragon"
           ],
           "5": [
             "Tiki - Beachside Scion",
             "Takumi - Prince of Soup",
             "Micaiah - Wavecrest Maiden",
-            "Kana - Rising Dragon",
             "Nailah - Blessed Queen",
             "Navarre - Scarlet Ninja",
             "Caeda - Princess of Talys",
@@ -4506,9 +4505,9 @@
             "Ilyana - Hungering Mage",
             "Bastian - Crimea's Keystone",
             "Hestia - Duma's Witch",
+            "Laurent - The Elucidator",
             "Phila - Pegasus Master"
           ],
-          "4": ["Laurent - The Elucidator"],
           "5": [
             "Innes - Regal Strategician",
             "Fiora - Airborne Warrior",
@@ -7947,14 +7946,10 @@
     "Atk/Spd Form 3": {
       "pool": {
         "#": {
-          "3": ["Ricken - Shepherd Novice"],
-          "5": [
-            "Inigo - Flower Picker",
-            "Petra - Princess of Brigid",
-            "Anna - Secret Seller"
-          ]
+          "3": ["Ricken - Shepherd Novice", "Inigo - Flower Picker"],
+          "5": ["Petra - Princess of Brigid", "Anna - Secret Seller"]
         },
-        "grail": { "5": ["Claude - Yuletide Schemer"] },
+        "grail": { "4": ["Claude - Yuletide Schemer"] },
         "special": {
           "5": [
             "Juno - Soaring Bride",
@@ -8352,8 +8347,11 @@
     "Atk/Res Ideal 3": {
       "pool": {
         "#": {
-          "3": ["Elice - Altean Princess", "Hestia - Duma's Witch"],
-          "4": ["Laurent - The Elucidator"]
+          "3": [
+            "Elice - Altean Princess",
+            "Hestia - Duma's Witch",
+            "Laurent - The Elucidator"
+          ]
         },
         "grail": {
           "5": [
@@ -8711,7 +8709,7 @@
     "Atk/Res Scowl 3": {
       "pool": {
         "#": { "5": ["Rhea - Loving Matriarch"] },
-        "special": { "5": ["Kana - Rising Dragon"] }
+        "special": { "4": ["Kana - Rising Dragon"] }
       },
       "id": "Atk/Res Scowl 3",
       "name": "攻擊魔防的龍眼3",
@@ -10286,10 +10284,10 @@
     "Wrath 3": {
       "pool": {
         "#": {
+          "3": ["Inigo - Flower Picker"],
           "5": [
             "Nephenee - Fierce Halberdier",
             "Karla - Sword Vassal",
-            "Inigo - Flower Picker",
             "Shannan - Wielder of Astra",
             "Rinkah - Scion of Flame",
             "Osian - Scolded Soldier",
@@ -14248,7 +14246,7 @@
     "Rouse Atk/Res 3": {
       "pool": {
         "#": {
-          "4": ["Laurent - The Elucidator"],
+          "3": ["Laurent - The Elucidator"],
           "5": ["Lyon - Demon King", "Letizia - Curse Director"]
         },
         "grail": {

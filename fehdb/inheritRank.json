@@ -2458,18 +2458,6 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
-  "Laurent - The Elucidator": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 182,
-    "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 4 } },
-    "skillC": { "Rouse Atk/Res 3": { "sp": 240, "rarity": 5 } }
-  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -3146,6 +3134,19 @@
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 4 } }
   },
+  "Kana - Rising Dragon": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Scowl 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
+  },
   "Hana - Striving Heart": {
     "score": 196,
     "scoreTotal": 436,
@@ -3579,6 +3580,18 @@
     "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
   },
+  "Laurent - The Elucidator": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 182,
+    "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Rouse Atk/Res 3": { "sp": 240, "rarity": 5 } }
+  },
   "Vanessa - Dutiful Rider": {
     "score": 199,
     "scoreTotal": 461,
@@ -3638,6 +3651,18 @@
     "special": { "Luna": { "sp": 200, "rarity": 4 } },
     "skillA": { "Sorcery Blade 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd/Def Oath 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Inigo - Flower Picker": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 193,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Wrath 3": { "sp": 240, "rarity": 5 } }
   },
   "Olivia - Festival Dancer": {
     "score": 254,
@@ -5217,6 +5242,19 @@
     "skillB": { "Dragon's Ire 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Res 2": { "sp": 240, "rarity": 4 } }
   },
+  "Claude - Yuletide Schemer": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 196,
+    "special": { "Sol": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Chill Atk/Spd 2": { "sp": 240, "rarity": 5 } }
+  },
   "Kellam - Pumpkin Knight": {
     "score": 299,
     "scoreTotal": 665,
@@ -5731,18 +5769,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Inigo - Flower Picker": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 193,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Wrath 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -6711,19 +6737,6 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Kana - Rising Dragon": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 193,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Scowl 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,
@@ -12155,19 +12168,6 @@
     "skillA": { "Kestrel Stance 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Savvy Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Near Save 3": { "sp": 300, "rarity": 5 } }
-  },
-  "Claude - Yuletide Schemer": {
-    "score": 388,
-    "scoreTotal": 1100,
-    "poolRarity": 5,
-    "pool": "grail",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 196,
-    "special": { "Sol": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Chill Atk/Spd 2": { "sp": 240, "rarity": 5 } }
   },
   "Tana - Soaring Princess": {
     "score": 500,
