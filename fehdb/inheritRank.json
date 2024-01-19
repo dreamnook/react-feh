@@ -13111,20 +13111,6 @@
     "skillB": { "A/R Far Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
   },
-  "Igrene - Sworn Protectors": {
-    "score": 318,
-    "scoreTotal": 1208,
-    "poolRarity": 5,
-    "pool": "harmonized",
-    "sp": 300,
-    "spTotal": 1140,
-    "feather": 1000,
-    "bst": 188,
-    "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
-    "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Spd/Def Tempo 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
-  },
   "Yarne - Timid Taguel": {
     "score": 500,
     "scoreTotal": 1220,
@@ -13218,6 +13204,20 @@
     "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
     "skillA": { "Close Salvo": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Igrene - Sworn Protectors": {
+    "score": 318,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Tempo 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse Up: Blades": { "sp": 300, "rarity": 5 } }
   },
   "Byleth - Proven Professor": {
     "score": 500,

@@ -2117,9 +2117,8 @@
   "Pulse Up: Blades": {
     "id": "Pulse Up: Blades",
     "name": "鍛鍊之躍動・刃",
-    "cd": -1,
     "sp": 300,
-    "exclusive": ["Igrene - Sworn Protectors"],
+    "rules": "infantry",
     "last": true,
     "icon": "skillC/Pulse_Up_Blades"
   },

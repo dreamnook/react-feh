@@ -13628,6 +13628,14 @@
       "icon": "skillC/Times_Pulse_4",
       "rules": "infantry"
     },
+    "Pulse Up: Blades": {
+      "pool": { "harmonized": { "5": ["Igrene - Sworn Protectors"] } },
+      "id": "Pulse Up: Blades",
+      "name": "鍛鍊之躍動・刃",
+      "sp": 300,
+      "icon": "skillC/Pulse_Up_Blades",
+      "rules": "infantry"
+    },
     "Infantry Pulse 3": {
       "pool": {
         "#": {
