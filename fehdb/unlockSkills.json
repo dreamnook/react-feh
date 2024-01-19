@@ -9637,6 +9637,30 @@
       "Aerobatics 3": 4
     }
   },
+  "Juno - Nimble Grace": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Blade of Sands": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillB": {
+      "Guard Bearing 1": 2,
+      "Guard Bearing 2": 3,
+      "Guard Bearing 3": 4,
+      "Guard Bearing 4": 5
+    },
+    "skillC": {
+      "Atk/Def Oath 1": 2,
+      "Atk/Def Oath 2": 3,
+      "Atk/Def Oath 3": 4,
+      "Atk/Def Oath 4": 5
+    }
+  },
   "Thea - Stormy Flier": {
     "weapon": {
       "Iron Lance": 1,
@@ -10260,6 +10284,36 @@
       "Spd/Def Rein 1": 3,
       "Spd/Def Rein 2": 4,
       "Spd/Def Rein 3": 5
+    }
+  },
+  "Igrene - Sworn Protectors": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Sandglass Bow": 5
+    },
+    "special": {
+      "Rising Wind": 3,
+      "Blazing Wind": 4
+    },
+    "skillA": {
+      "Death Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Flash Sparrow": 5
+    },
+    "skillB": {
+      "Spd/Def Tempo 1": 2,
+      "Spd/Def Tempo 2": 3,
+      "Spd/Def Tempo 3": 4,
+      "Spd/Def Tempo 4": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Pulse Up: Blades": 5
     }
   },
   "Idunn - Dark Priestess": {
@@ -11817,6 +11871,28 @@
       "Threaten Atk 1": 1,
       "Threaten Atk 2": 2,
       "Threaten Atk 3": 4
+    }
+  },
+  "Hawkeye - Taciturn Guardian": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Nabata Lance": 3,
+      "Nabata Lance+": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Def/Res Ideal 1": 3,
+      "Def/Res Ideal 2": 4,
+      "Def/Res Ideal 3": 5
+    },
+    "skillC": {
+      "Panic Ploy 1": 1,
+      "Panic Ploy 2": 2,
+      "Panic Ploy 3": 4
     }
   },
   "Ninian - Oracle of Destiny": {
@@ -16148,6 +16224,28 @@
       "Stall Ploy 3": 5
     }
   },
+  "Tormod - Indomitable Will": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Nabata Beacon": 3,
+      "Nabata Beacon+": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4
+    },
+    "skillB": {
+      "Spd/Res Tempo 1": 3,
+      "Spd/Res Tempo 2": 4,
+      "Spd/Res Tempo 3": 5
+    },
+    "skillC": {
+      "Spd/Res Gap 1": 1,
+      "Spd/Res Gap 2": 2,
+      "Spd/Res Gap 3": 4
+    }
+  },
   "Muarim - Raw Instinct": {
     "weapon": {
       "Whelp (Infantry)": 1,
@@ -16325,6 +16423,37 @@
       "Atk/Res Oath 1": 1,
       "Atk/Res Oath 2": 2,
       "Atk/Res Oath 3": 4
+    }
+  },
+  "Altina - Unrivaled Dawn": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Arcadian Axes": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Iceberg": 4,
+      "Arms of the Three": 5
+    },
+    "skillA": {
+      "Atk/Res Finish 1": 2,
+      "Atk/Res Finish 2": 3,
+      "Atk/Res Finish 3": 4,
+      "Atk/Res Finish 4": 5
+    },
+    "skillB": {
+      "Atk/Def Bulwark 1": 2,
+      "Atk/Def Bulwark 2": 3,
+      "Atk/Def Bulwark 3": 4,
+      "Atk/Def Bulwark 4": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Time's Pulse 4": 5
     }
   },
   "Sanaki - Begnion's Apostle": {

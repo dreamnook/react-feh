@@ -3090,6 +3090,16 @@
       "exclusive": ["Byleth - Frosty Professors"],
       "last": true
     },
+    "Blade of Sands": {
+      "id": "Blade of Sands",
+      "name": "沙漠天馬騎士之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Juno - Nimble Grace"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -8582,6 +8592,39 @@
       "sp": 300,
       "prev": ["Kumo Naginata"],
       "last": true
+    },
+    "Nabata Lance": {
+      "id": "Nabata Lance",
+      "name": "納巴塔之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Nabata Lance+": {
+      "id": "Nabata Lance+",
+      "name": "納巴塔之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Nabata Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "green-axe": {
@@ -10376,6 +10419,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Dimitri - Blessed Protector"],
+      "last": true
+    },
+    "Arcadian Axes": {
+      "id": "Arcadian Axes",
+      "name": "永恆理想鄉之雙斧",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Altina - Unrivaled Dawn"],
       "last": true
     },
     "Arcane Downfall": {
@@ -13285,6 +13338,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Sandglass Bow": {
+      "id": "Sandglass Bow",
+      "name": "悠遠的黃沙之絆弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Igrene - Sworn Protectors"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -19845,6 +19908,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Pumpkin Stem"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Nabata Beacon": {
+      "id": "Nabata Beacon",
+      "name": "納巴塔的燭台",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Nabata Beacon+": {
+      "id": "Nabata Beacon+",
+      "name": "納巴塔的燭台+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Nabata Beacon"],
       "refine": {
         "atk": {
           "hp": 2,

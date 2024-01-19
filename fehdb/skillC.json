@@ -2114,6 +2114,15 @@
     "icon": "skillC/Times_Pulse_4",
     "last": true
   },
+  "Pulse Up: Blades": {
+    "id": "Pulse Up: Blades",
+    "name": "鍛鍊之躍動・刃",
+    "cd": -1,
+    "sp": 300,
+    "exclusive": ["Igrene - Sworn Protectors"],
+    "last": true,
+    "icon": "skillC/Pulse_Up_Blades"
+  },
   "Infantry Pulse 1": {
     "id": "Infantry Pulse 1",
     "name": "步行之躍動1",
@@ -3274,6 +3283,15 @@
     "prev": ["Atk/Def Oath 2"],
     "rules": "learner.oath-skills",
     "icon": "skillC/Atk_Def_Oath_3",
+    "last": true
+  },
+  "Atk/Def Oath 4": {
+    "id": "Atk/Def Oath 4",
+    "name": "攻擊防守的信義4",
+    "sp": 300,
+    "prev": ["Atk/Def Oath 3"],
+    "rules": "learner.oath-skills",
+    "icon": "skillC/Atk_Def_Oath_4",
     "last": true
   },
   "Atk/Res Oath 1": {

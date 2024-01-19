@@ -1192,6 +1192,17 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Seal Res 3": { "sp": 160, "rarity": 5 } }
   },
+  "Lara - Step Lively": {
+    "score": 185,
+    "scoreTotal": 257,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 300,
+    "bst": 177,
+    "skillB": { "Rockslide Dance 2": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Smoke 3": { "sp": 240, "rarity": 4 } }
+  },
   "Bruno - Masked Hare": {
     "score": 80,
     "scoreTotal": 260,
@@ -3161,6 +3172,19 @@
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 4 } }
   },
+  "Hawkeye - Taciturn Guardian": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Def/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Panic Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
   "Kana - Rising Dragon": {
     "score": 196,
     "scoreTotal": 436,
@@ -3815,17 +3839,6 @@
     "bst": 161,
     "skillA": { "Spd/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Geyser Dance 2": { "sp": 240, "rarity": 5 } }
-  },
-  "Lara - Step Lively": {
-    "score": 240,
-    "scoreTotal": 480,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 1000,
-    "bst": 177,
-    "skillB": { "Rockslide Dance 2": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Reinhardt - Thunder's Fist": {
     "score": 249,
@@ -6763,6 +6776,19 @@
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
+  "Tormod - Indomitable Will": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Spd/Res Tempo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd/Res Gap 3": { "sp": 240, "rarity": 5 } }
+  },
   "Elm - Resolute Grouch": {
     "score": 254,
     "scoreTotal": 721,
@@ -9402,6 +9428,19 @@
     "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
     "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "S/D Rein Snap": { "sp": 300, "rarity": 5 } }
+  },
+  "Juno - Nimble Grace": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Guard Bearing 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Def Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Corrin - Celestial Sorcerer": {
     "score": 318,
@@ -12750,6 +12789,20 @@
     "skillB": { "Gambit 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Rein Snap": { "sp": 300, "rarity": 5 } }
   },
+  "Altina - Unrivaled Dawn": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Def Bulwark 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
   "Corrin - Starry Seer": {
     "score": 318,
     "scoreTotal": 1166,
@@ -13057,6 +13110,20 @@
     "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "A/R Far Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
+  },
+  "Igrene - Sworn Protectors": {
+    "score": 318,
+    "scoreTotal": 1208,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 1140,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Tempo 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Yarne - Timid Taguel": {
     "score": 500,

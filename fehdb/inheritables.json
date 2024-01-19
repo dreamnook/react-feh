@@ -751,6 +751,13 @@
         "id": "Kumo Naginata+",
         "name": "白夜忍之薙刀+",
         "sp": 300
+      },
+      "Nabata Lance+": {
+        "pool": { "special": { "5": ["Hawkeye - Taciturn Guardian"] } },
+        "id": "Nabata Lance+",
+        "name": "納巴塔之槍+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "green-axe": {
@@ -1579,7 +1586,7 @@
         "refine": 350
       },
       "Clever Dagger+": {
-        "pool": { "#": { "5": ["Lara - Step Lively"] } },
+        "pool": { "#": { "4": ["Lara - Step Lively"] } },
         "id": "Clever Dagger+",
         "name": "攻防暗器+",
         "sp": 300,
@@ -1958,6 +1965,13 @@
         "pool": { "special": { "5": ["Seadall - Misfortune-Teller"] } },
         "id": "Pumpkin Stem+",
         "name": "南瓜之杖+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Nabata Beacon+": {
+        "pool": { "special": { "5": ["Tormod - Indomitable Will"] } },
+        "id": "Nabata Beacon+",
+        "name": "納巴塔的燭台+",
         "sp": 300,
         "refine": 350
       }
@@ -3848,6 +3862,7 @@
             "Eliwood - Pledged Friend",
             "Nailah - Hatari Scorcher",
             "Eirika - Beach Restorer",
+            "Juno - Nimble Grace",
             "Ryoma - Samurai at Ease",
             "Fae - Holiday Dear",
             "Katarina - Torchlit Wanderer",
@@ -4241,6 +4256,7 @@
           "5": [
             "Camilla - Holiday Traveler",
             "Karla - Sun-Piercing Steel",
+            "Tormod - Indomitable Will",
             "Freyr - Estival Dreams",
             "Dheginsea - Harvest Goldoan",
             "Sigurd - Proper Pourer",
@@ -4479,7 +4495,11 @@
         },
         "mythic": { "5": ["Freyr - Dream-King", "Reginn - Bearing Hope"] },
         "special": {
-          "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
+          "4": [
+            "Manuela - Silver Caroler",
+            "Hawkeye - Taciturn Guardian",
+            "Hana - Striving Heart"
+          ],
           "5": [
             "Jakob - Devoted Monster",
             "Cherche - Shaded by Wings",
@@ -4581,7 +4601,8 @@
             "Tharja - 'Normal Girl'",
             "Flora - Signature Dish",
             "Selkie - New Year's Spirit",
-            "Henriette - Overflowing Love"
+            "Henriette - Overflowing Love",
+            "Altina - Unrivaled Dawn"
           ]
         },
         "duo": {
@@ -4731,7 +4752,8 @@
             "Matthis - Brother to Lena"
           ]
         },
-        "legendary": { "5": ["Dimitri - Savior King"] }
+        "legendary": { "5": ["Dimitri - Savior King"] },
+        "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
       "id": "Blazing Wind",
       "name": "強風",
@@ -5766,7 +5788,8 @@
           "5": [
             "Mia - Harmonic Blades",
             "Lysithea - Gifted Students",
-            "Linde - Bound by Fate"
+            "Linde - Bound by Fate",
+            "Igrene - Sworn Protectors"
           ]
         }
       },
@@ -6055,7 +6078,8 @@
     "Flash Sparrow": {
       "pool": {
         "#": { "5": ["Nino - Fang's Heart", "Alcryst - Tender Archer"] },
-        "special": { "5": ["Kvasir - Unknown Future"] }
+        "special": { "5": ["Kvasir - Unknown Future"] },
+        "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
       "id": "Flash Sparrow",
       "name": "鬼神飛燕柔擊",
@@ -8458,7 +8482,9 @@
           "5": ["Lissa - Sweet Celebrant", "Vigarde - Silent Emperor"]
         },
         "mythic": { "5": ["Medeus - Earth-Dragon King"] },
-        "special": { "5": ["Surtr - Pirate of Red Sky"] }
+        "special": {
+          "5": ["Hawkeye - Taciturn Guardian", "Surtr - Pirate of Red Sky"]
+        }
       },
       "id": "Def/Res Ideal 3",
       "name": "防守魔防萬全3",
@@ -8677,7 +8703,10 @@
       "pool": {
         "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] },
         "mythic": { "5": ["Veyle - Gentle Dragon"] },
-        "special": { "4": ["Seadall - Misfortune-Teller"] }
+        "special": {
+          "4": ["Seadall - Misfortune-Teller"],
+          "5": ["Altina - Unrivaled Dawn"]
+        }
       },
       "id": "Atk/Res Finish 3",
       "name": "攻擊魔防的奧秘3",
@@ -8688,7 +8717,8 @@
     "Atk/Res Finish 4": {
       "pool": {
         "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] },
-        "mythic": { "5": ["Veyle - Gentle Dragon"] }
+        "mythic": { "5": ["Veyle - Gentle Dragon"] },
+        "special": { "5": ["Altina - Unrivaled Dawn"] }
       },
       "id": "Atk/Res Finish 4",
       "name": "攻擊魔防的奧秘4",
@@ -10285,7 +10315,7 @@
       "pool": {
         "#": { "5": ["Annand - Knight-Defender", "Ingrid - Beacon of Honor"] },
         "mythic": { "5": ["Hel - Death Sovereign"] },
-        "special": { "5": ["Ingrid - Solstice Knight"] }
+        "special": { "5": ["Juno - Nimble Grace", "Ingrid - Solstice Knight"] }
       },
       "id": "Guard Bearing 3",
       "name": "警戒姿態3",
@@ -10294,7 +10324,10 @@
       "rules": "learner.wielderFlying"
     },
     "Guard Bearing 4": {
-      "pool": { "#": { "5": ["Ingrid - Beacon of Honor"] } },
+      "pool": {
+        "#": { "5": ["Ingrid - Beacon of Honor"] },
+        "special": { "5": ["Juno - Nimble Grace"] }
+      },
       "id": "Guard Bearing 4",
       "name": "警戒姿態4",
       "sp": 300,
@@ -10428,7 +10461,7 @@
     },
     "Rockslide Dance 2": {
       "pool": {
-        "#": { "5": ["Lara - Step Lively", "Peony - Cherished Dream"] },
+        "#": { "4": ["Lara - Step Lively"], "5": ["Peony - Cherished Dream"] },
         "special": { "5": ["Elincia - Estival Princess"] }
       },
       "id": "Rockslide Dance 2",
@@ -11561,7 +11594,8 @@
     "Spd/Def Tempo 3": {
       "pool": {
         "#": { "5": ["Nino - Fang's Heart"] },
-        "special": { "5": ["Mia - Budding Blade"] }
+        "special": { "5": ["Mia - Budding Blade"] },
+        "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
       "id": "Spd/Def Tempo 3",
       "name": "速度防守節拍3",
@@ -11570,7 +11604,10 @@
       "rules": "infantry"
     },
     "Spd/Def Tempo 4": {
-      "pool": { "#": { "5": ["Nino - Fang's Heart"] } },
+      "pool": {
+        "#": { "5": ["Nino - Fang's Heart"] },
+        "harmonized": { "5": ["Igrene - Sworn Protectors"] }
+      },
       "id": "Spd/Def Tempo 4",
       "name": "速度防守節拍4",
       "sp": 300,
@@ -11578,7 +11615,10 @@
       "rules": "infantry"
     },
     "Spd/Res Tempo 3": {
-      "pool": { "#": { "5": ["Monica - Favored Vassal"] } },
+      "pool": {
+        "#": { "5": ["Monica - Favored Vassal"] },
+        "special": { "5": ["Tormod - Indomitable Will"] }
+      },
       "id": "Spd/Res Tempo 3",
       "name": "速度魔防節拍3",
       "sp": 240,
@@ -11598,12 +11638,22 @@
     "Atk/Def Bulwark 3": {
       "pool": {
         "mythic": { "5": ["Askr - God of Openness"] },
-        "special": { "5": ["Ash - Earnest Greetings"] }
+        "special": {
+          "5": ["Ash - Earnest Greetings", "Altina - Unrivaled Dawn"]
+        }
       },
       "id": "Atk/Def Bulwark 3",
       "name": "攻擊防守防護屏障3",
       "sp": 240,
       "icon": "skillB/Atk_Def_Bulwark_3",
+      "rules": "learner.infantry-melee"
+    },
+    "Atk/Def Bulwark 4": {
+      "pool": { "special": { "5": ["Altina - Unrivaled Dawn"] } },
+      "id": "Atk/Def Bulwark 4",
+      "name": "攻擊防守防護屏障4",
+      "sp": 300,
+      "icon": "skillB/Atk_Def_Bulwark_4",
       "rules": "learner.infantry-melee"
     },
     "Spd/Def Bulwark 3": {
@@ -13271,7 +13321,10 @@
           "4": ["Garon - King of Nohr", "Gangrel - Plegia's Mad King"],
           "5": ["Valter - Dark Moonstone"]
         },
-        "special": { "5": ["Helbindi - Seaside Scourge"] }
+        "special": {
+          "4": ["Hawkeye - Taciturn Guardian"],
+          "5": ["Helbindi - Seaside Scourge"]
+        }
       },
       "id": "Panic Ploy 3",
       "name": "恐慌奇策3",
@@ -13289,8 +13342,8 @@
       "pool": {
         "#": {
           "3": ["Kaze - Easygoing Ninja"],
+          "4": ["Lara - Step Lively"],
           "5": [
-            "Lara - Step Lively",
             "Lyn - Brave Lady",
             "Gustav - Sovereign Slain",
             "Leila - Rose amid Fangs"
@@ -13538,10 +13591,12 @@
             "Soren - Hushed Voice",
             "Nino - Spirited Sorcerer",
             "Fjorm - Seaside Thaw",
+            "Altina - Unrivaled Dawn",
             "Timerra - Trick or Meat"
           ]
         },
-        "duo": { "5": ["Chrom - Fate-Defying Duo"] }
+        "duo": { "5": ["Chrom - Fate-Defying Duo"] },
+        "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
       "id": "Time's Pulse 3",
       "name": "初始之躍動3",
@@ -13562,6 +13617,7 @@
           "5": [
             "Nino - Spirited Sorcerer",
             "Fjorm - Seaside Thaw",
+            "Altina - Unrivaled Dawn",
             "Timerra - Trick or Meat"
           ]
         }
@@ -14229,7 +14285,8 @@
         "#": {
           "3": ["Miranda - Willful Princess"],
           "5": ["Larum - Sprightly Dancer"]
-        }
+        },
+        "special": { "5": ["Tormod - Indomitable Will"] }
       },
       "id": "Spd/Res Gap 3",
       "name": "速度魔防大開放3",
@@ -14496,12 +14553,21 @@
       "pool": {
         "#": { "3": ["Kamui - Wandering Blade"] },
         "grail": { "5": ["Haar - Tempest Runner", "Kyza - Tiger of Fortune"] },
-        "mythic": { "5": ["Altina - Dawn's Trueblade"] }
+        "mythic": { "5": ["Altina - Dawn's Trueblade"] },
+        "special": { "5": ["Juno - Nimble Grace"] }
       },
       "id": "Atk/Def Oath 3",
       "name": "攻擊防守的信義3",
       "sp": 240,
       "icon": "skillC/Atk_Def_Oath_3",
+      "rules": "learner.oath-skills"
+    },
+    "Atk/Def Oath 4": {
+      "pool": { "special": { "5": ["Juno - Nimble Grace"] } },
+      "id": "Atk/Def Oath 4",
+      "name": "攻擊防守的信義4",
+      "sp": 300,
+      "icon": "skillC/Atk_Def_Oath_4",
       "rules": "learner.oath-skills"
     },
     "Atk/Res Oath 3": {

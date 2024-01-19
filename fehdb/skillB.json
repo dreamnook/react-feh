@@ -4437,6 +4437,15 @@
     "icon": "skillB/Atk_Def_Bulwark_3",
     "last": true
   },
+  "Atk/Def Bulwark 4": {
+    "id": "Atk/Def Bulwark 4",
+    "name": "攻擊防守防護屏障4",
+    "sp": 300,
+    "prev": ["Atk/Def Bulwark 3"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Atk_Def_Bulwark_4",
+    "last": true
+  },
   "Spd/Def Bulwark 1": {
     "id": "Spd/Def Bulwark 1",
     "name": "速度防守防護屏障1",

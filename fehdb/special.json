@@ -388,6 +388,15 @@
     "exclusive": ["Byleth - Frosty Professors"],
     "last": true
   },
+  "Arms of the Three": {
+    "id": "Arms of the Three",
+    "name": "三雄的雙刃",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Iceberg"],
+    "exclusive": ["Altina - Unrivaled Dawn"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
