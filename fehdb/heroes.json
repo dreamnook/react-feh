@@ -20963,7 +20963,7 @@
     "colorType": "blue",
     "moveType": "infantry",
     "weaponType": "blue-lance",
-    "pool": "special",
+    "pool": "grail",
     "releaseDate": "2024-01-19",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
@@ -35973,7 +35973,7 @@
     "colorType": "blue",
     "moveType": "infantry",
     "weaponType": "blue-lance",
-    "pool": "special",
+    "pool": "grail",
     "releaseDate": "2023-11-07",
     "appearsIn": ["Fates"],
     "stats": {

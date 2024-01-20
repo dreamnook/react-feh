@@ -747,13 +747,13 @@
         "refine": 350
       },
       "Kumo Naginata+": {
-        "pool": { "special": { "5": ["Saizo - Hoshido's Flame"] } },
+        "pool": { "grail": { "5": ["Saizo - Hoshido's Flame"] } },
         "id": "Kumo Naginata+",
         "name": "白夜忍之薙刀+",
         "sp": 300
       },
       "Nabata Lance+": {
-        "pool": { "special": { "5": ["Hawkeye - Taciturn Guardian"] } },
+        "pool": { "grail": { "5": ["Hawkeye - Taciturn Guardian"] } },
         "id": "Nabata Lance+",
         "name": "納巴塔之槍+",
         "sp": 300,
@@ -4475,6 +4475,7 @@
           "4": [
             "Robin - Mystery Tactician",
             "Zelot - Avowed Groom",
+            "Hawkeye - Taciturn Guardian",
             "Kellam - Pumpkin Knight",
             "Travant - King of Thracia",
             "Orson - Passion's Folly",
@@ -4495,11 +4496,7 @@
         },
         "mythic": { "5": ["Freyr - Dream-King", "Reginn - Bearing Hope"] },
         "special": {
-          "4": [
-            "Manuela - Silver Caroler",
-            "Hawkeye - Taciturn Guardian",
-            "Hana - Striving Heart"
-          ],
+          "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
             "Jakob - Devoted Monster",
             "Cherche - Shaded by Wings",
@@ -4698,8 +4695,9 @@
           "3": ["Lilina - Delightful Noble"],
           "5": ["Tiki - Dragon Scion"]
         },
-        "grail": { "4": ["Arvis - Emperor of Flame"] },
-        "special": { "4": ["Saizo - Hoshido's Flame"] }
+        "grail": {
+          "4": ["Arvis - Emperor of Flame", "Saizo - Hoshido's Flame"]
+        }
       },
       "id": "Growing Flame",
       "name": "爆火",
@@ -7490,14 +7488,11 @@
             "Shinon - Scathing Archer"
           ]
         },
+        "grail": { "5": ["Saizo - Hoshido's Flame"] },
         "legendary": { "5": ["Ephraim - Legendary Lord"] },
         "special": {
           "4": ["Minerva - Verdant Dragoon"],
-          "5": [
-            "Saizo - Hoshido's Flame",
-            "Ryoma - Samurai at Ease",
-            "Ephraim - Sparkling Gallantly"
-          ]
+          "5": ["Ryoma - Samurai at Ease", "Ephraim - Sparkling Gallantly"]
         },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }
       },
@@ -8479,12 +8474,14 @@
     "Def/Res Ideal 3": {
       "pool": {
         "grail": {
-          "5": ["Lissa - Sweet Celebrant", "Vigarde - Silent Emperor"]
+          "5": [
+            "Lissa - Sweet Celebrant",
+            "Hawkeye - Taciturn Guardian",
+            "Vigarde - Silent Emperor"
+          ]
         },
         "mythic": { "5": ["Medeus - Earth-Dragon King"] },
-        "special": {
-          "5": ["Hawkeye - Taciturn Guardian", "Surtr - Pirate of Red Sky"]
-        }
+        "special": { "5": ["Surtr - Pirate of Red Sky"] }
       },
       "id": "Def/Res Ideal 3",
       "name": "防守魔防萬全3",
@@ -13318,13 +13315,14 @@
       "pool": {
         "#": { "5": ["Luke - Rowdy Squire", "Zelgius - Jet-Black General"] },
         "grail": {
-          "4": ["Garon - King of Nohr", "Gangrel - Plegia's Mad King"],
+          "4": [
+            "Hawkeye - Taciturn Guardian",
+            "Garon - King of Nohr",
+            "Gangrel - Plegia's Mad King"
+          ],
           "5": ["Valter - Dark Moonstone"]
         },
-        "special": {
-          "4": ["Hawkeye - Taciturn Guardian"],
-          "5": ["Helbindi - Seaside Scourge"]
-        }
+        "special": { "5": ["Helbindi - Seaside Scourge"] }
       },
       "id": "Panic Ploy 3",
       "name": "恐慌奇策3",
@@ -13428,10 +13426,9 @@
           "3": ["Rath - Wolf of Sacae"],
           "5": ["Claude - The Schemer", "Alcryst - Tender Archer"]
         },
-        "grail": { "4": ["Panne - Proud Taguel"] },
+        "grail": { "4": ["Panne - Proud Taguel", "Saizo - Hoshido's Flame"] },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
         "special": {
-          "4": ["Saizo - Hoshido's Flame"],
           "5": ["Alfonse - Spring Prince", "Bernadetta - Late Hibernator"]
         }
       },

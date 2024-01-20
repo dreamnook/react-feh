@@ -3172,19 +3172,6 @@
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 4 } }
   },
-  "Hawkeye - Taciturn Guardian": {
-    "score": 196,
-    "scoreTotal": 436,
-    "poolRarity": 4,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 193,
-    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Def/Res Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Panic Ploy 3": { "sp": 240, "rarity": 4 } }
-  },
   "Kana - Rising Dragon": {
     "score": 196,
     "scoreTotal": 436,
@@ -3996,19 +3983,6 @@
     "assist": { "Rally Spd/Def": { "sp": 300, "rarity": 4 } },
     "skillB": { "Lancebreaker 3": { "sp": 200, "rarity": 4 } },
     "skillC": { "Spur Spd/Def 2": { "sp": 240, "rarity": 5 } }
-  },
-  "Saizo - Hoshido's Flame": {
-    "score": 245,
-    "scoreTotal": 517,
-    "poolRarity": 4,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 300,
-    "bst": 193,
-    "special": { "Growing Flame": { "sp": 300, "rarity": 4 } },
-    "skillA": { "Atk/Def Solo 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Def Smoke 3": { "sp": 240, "rarity": 4 } }
   },
   "Soleil - Adorable Adorer": {
     "score": 249,
@@ -5279,6 +5253,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Spd Solo 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Chill Def 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Hawkeye - Taciturn Guardian": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Def/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Panic Ploy 3": { "sp": 240, "rarity": 4 } }
   },
   "Kana - Rising Sunlight": {
     "score": 299,
@@ -8684,6 +8671,19 @@
     "assist": { "Rally Atk/Spd": { "sp": 300, "rarity": 4 } },
     "skillA": { "Spd/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def Tactic 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Saizo - Hoshido's Flame": {
+    "score": 374,
+    "scoreTotal": 790,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 780,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Growing Flame": { "sp": 300, "rarity": 4 } },
+    "skillA": { "Atk/Def Solo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Def Smoke 3": { "sp": 240, "rarity": 4 } }
   },
   "Arthur - Furious Mage": {
     "score": 300,
