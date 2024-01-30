@@ -4219,6 +4219,35 @@
     "icon": "skillA/Def_Res_Finish_4",
     "last": true
   },
+  "Atk/Spd Scowl 1": {
+    "id": "Atk/Spd Scowl 1",
+    "name": "攻擊速度的龍眼1",
+    "sp": 60,
+    "icon": "skillA/Atk_Spd_Scowl_1"
+  },
+  "Atk/Spd Scowl 2": {
+    "id": "Atk/Spd Scowl 2",
+    "name": "攻擊速度的龍眼2",
+    "sp": 120,
+    "prev": ["Atk/Spd Scowl 1"],
+    "icon": "skillA/Atk_Spd_Scowl_2"
+  },
+  "Atk/Spd Scowl 3": {
+    "id": "Atk/Spd Scowl 3",
+    "name": "攻擊速度的龍眼3",
+    "sp": 240,
+    "prev": ["Atk/Spd Scowl 2"],
+    "icon": "skillA/Atk_Spd_Scowl_3",
+    "last": true
+  },
+  "Atk/Spd Scowl 4": {
+    "id": "Atk/Spd Scowl 4",
+    "name": "攻擊速度的龍眼4",
+    "sp": 300,
+    "prev": ["Atk/Spd Scowl 3"],
+    "icon": "skillA/Atk_Spd_Scowl_4",
+    "last": true
+  },
   "Atk/Res Scowl 1": {
     "id": "Atk/Res Scowl 1",
     "name": "攻擊魔防的龍眼1",

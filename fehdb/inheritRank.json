@@ -3133,6 +3133,19 @@
     "skillA": { "Atk/Spd Finish 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 4 } }
   },
+  "Tormod - Indomitable Will": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 183,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Spd/Res Tempo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd/Res Gap 3": { "sp": 240, "rarity": 4 } }
+  },
   "Reina - Sanguine Shinobi": {
     "score": 196,
     "scoreTotal": 436,
@@ -6763,19 +6776,6 @@
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
-  "Tormod - Indomitable Will": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 183,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Spd/Res Tempo 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Spd/Res Gap 3": { "sp": 240, "rarity": 5 } }
-  },
   "Elm - Resolute Grouch": {
     "score": 254,
     "scoreTotal": 721,
@@ -10137,6 +10137,19 @@
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
   },
+  "Lumera - In Distant Skies": {
+    "score": 368,
+    "scoreTotal": 920,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 400,
+    "spTotal": 1000,
+    "feather": 1000,
+    "bst": 193,
+    "assist": { "Rally Def/Res+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Spd Scowl 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Ruse 4": { "sp": 300, "rarity": 5 } }
+  },
   "Fjorm - New Traditions": {
     "score": 254,
     "scoreTotal": 922,
@@ -12244,6 +12257,19 @@
     "skillA": { "Distant A/S Solo": { "sp": 300, "rarity": 5 } },
     "skillB": { "Close Call 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Marth - Of Beginnings": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Potent 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
   },
   "Gilliam - Wall of Silence": {
     "score": 300,

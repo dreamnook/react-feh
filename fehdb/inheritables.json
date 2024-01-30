@@ -3348,7 +3348,9 @@
         },
         "grail": { "4": ["Corrin - Enjoying Tradition"] },
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
-        "mythic": { "5": ["Mila - Goddess of Love"] },
+        "mythic": {
+          "5": ["Mila - Goddess of Love", "Lumera - In Distant Skies"]
+        },
         "special": {
           "4": ["Henry - Peculiar Egg"],
           "5": [
@@ -3367,7 +3369,9 @@
     "Rally Def/Res+": {
       "pool": {
         "#": { "5": ["Nifl - God of Ice", "Louise - Lady of Violets"] },
-        "mythic": { "5": ["Mila - Goddess of Love"] },
+        "mythic": {
+          "5": ["Mila - Goddess of Love", "Lumera - In Distant Skies"]
+        },
         "special": {
           "5": [
             "Henry - Peculiar Egg",
@@ -3966,6 +3970,7 @@
             "Corrin - Bloodbound Beast",
             "Morgan - Devoted Darkness",
             "Fir - Swordmaiden",
+            "Marth - Of Beginnings",
             "Tana - Soaring Princess",
             "Alcryst - Tender Archer",
             "Shinon - Scathing Archer"
@@ -4251,12 +4256,12 @@
           "4": [
             "Marth - Legacied Hero",
             "Byleth - Fount of Learning",
-            "Corrin - Daylight Ninja Act"
+            "Corrin - Daylight Ninja Act",
+            "Tormod - Indomitable Will"
           ],
           "5": [
             "Camilla - Holiday Traveler",
             "Karla - Sun-Piercing Steel",
-            "Tormod - Indomitable Will",
             "Freyr - Estival Dreams",
             "Dheginsea - Harvest Goldoan",
             "Sigurd - Proper Pourer",
@@ -8635,6 +8640,7 @@
           "5": [
             "Robin - Exalt's Deliverer",
             "Fir - Swordmaiden",
+            "Marth - Of Beginnings",
             "Severa - Secret Dreamer",
             "Felix - Lone-Wolf Blade"
           ]
@@ -8661,6 +8667,7 @@
           "5": [
             "Robin - Exalt's Deliverer",
             "Fir - Swordmaiden",
+            "Marth - Of Beginnings",
             "Severa - Secret Dreamer",
             "Felix - Lone-Wolf Blade"
           ]
@@ -8761,6 +8768,20 @@
       "sp": 300,
       "icon": "skillA/Def_Res_Finish_4",
       "rules": "infantry"
+    },
+    "Atk/Spd Scowl 3": {
+      "pool": { "mythic": { "5": ["Lumera - In Distant Skies"] } },
+      "id": "Atk/Spd Scowl 3",
+      "name": "攻擊速度的龍眼3",
+      "sp": 240,
+      "icon": "skillA/Atk_Spd_Scowl_3"
+    },
+    "Atk/Spd Scowl 4": {
+      "pool": { "mythic": { "5": ["Lumera - In Distant Skies"] } },
+      "id": "Atk/Spd Scowl 4",
+      "name": "攻擊速度的龍眼4",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Scowl_4"
     },
     "Atk/Res Scowl 3": {
       "pool": {
@@ -10775,12 +10796,21 @@
     },
     "Atk/Spd Ruse 3": {
       "pool": {
-        "#": { "5": ["Eliwood - Marquess Pherae", "Anna - Secret Seller"] }
+        "#": { "5": ["Eliwood - Marquess Pherae", "Anna - Secret Seller"] },
+        "mythic": { "5": ["Lumera - In Distant Skies"] }
       },
       "id": "Atk/Spd Ruse 3",
       "name": "攻擊速度大共謀3",
       "sp": 240,
       "icon": "skillB/Atk_Spd_Ruse_3",
+      "rules": "learner.ruse-skills"
+    },
+    "Atk/Spd Ruse 4": {
+      "pool": { "mythic": { "5": ["Lumera - In Distant Skies"] } },
+      "id": "Atk/Spd Ruse 4",
+      "name": "攻擊速度大共謀4",
+      "sp": 300,
+      "icon": "skillB/Atk_Spd_Ruse_4",
       "rules": "learner.ruse-skills"
     },
     "Atk/Def Ruse 3": {
@@ -11769,6 +11799,22 @@
       "sp": 300,
       "icon": "skillB/Counter_Roar_4",
       "rules": "learner.dragon-beast"
+    },
+    "Potent 3": {
+      "pool": { "#": { "5": ["Marth - Of Beginnings"] } },
+      "id": "Potent 3",
+      "name": "神速3",
+      "sp": 240,
+      "icon": "skillB/Potent_3",
+      "rules": "learner.infantry-cavalry-flying-def-dmger"
+    },
+    "Potent 4": {
+      "pool": { "#": { "5": ["Marth - Of Beginnings"] } },
+      "id": "Potent 4",
+      "name": "神速4",
+      "sp": 300,
+      "icon": "skillB/Potent_4",
+      "rules": "learner.infantry-cavalry-flying-def-dmger"
     }
   },
   "skillC": {
@@ -13724,7 +13770,13 @@
     },
     "Inf. Null Follow 3": {
       "pool": {
-        "#": { "5": ["Celica - Valentia's Hope", "Gregor - Swell Sword"] },
+        "#": {
+          "5": [
+            "Celica - Valentia's Hope",
+            "Gregor - Swell Sword",
+            "Marth - Of Beginnings"
+          ]
+        },
         "special": {
           "5": ["Seadall - Misfortune-Teller", "Kvasir - Unknown Future"]
         }
@@ -13735,7 +13787,10 @@
       "icon": "skillC/Inf._Null_Follow_3"
     },
     "Inf. Null Follow 4": {
-      "pool": { "special": { "5": ["Kvasir - Unknown Future"] } },
+      "pool": {
+        "#": { "5": ["Marth - Of Beginnings"] },
+        "special": { "5": ["Kvasir - Unknown Future"] }
+      },
       "id": "Inf. Null Follow 4",
       "name": "步行識破追擊4",
       "sp": 300,
@@ -14291,7 +14346,7 @@
           "3": ["Miranda - Willful Princess"],
           "5": ["Larum - Sprightly Dancer"]
         },
-        "special": { "5": ["Tormod - Indomitable Will"] }
+        "special": { "4": ["Tormod - Indomitable Will"] }
       },
       "id": "Spd/Res Gap 3",
       "name": "速度魔防大開放3",

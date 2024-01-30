@@ -3100,6 +3100,16 @@
       "exclusive": ["Juno - Nimble Grace"],
       "last": true
     },
+    "Hero-King Sword": {
+      "id": "Hero-King Sword",
+      "name": "英雄王之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Marth - Of Beginnings"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -26478,6 +26488,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Alear - Awoken Divinity"],
+      "last": true
+    },
+    "Monarch's Stone": {
+      "id": "Monarch's Stone",
+      "name": "純白神龍王吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Lumera - In Distant Skies"],
       "last": true
     },
     "Arcane Grima": {

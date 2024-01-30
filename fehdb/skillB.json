@@ -3168,6 +3168,15 @@
     "icon": "skillB/Atk_Spd_Ruse_3",
     "last": true
   },
+  "Atk/Spd Ruse 4": {
+    "id": "Atk/Spd Ruse 4",
+    "name": "攻擊速度大共謀4",
+    "sp": 300,
+    "prev": ["Atk/Spd Ruse 3"],
+    "rules": "learner.ruse-skills",
+    "icon": "skillB/Atk_Spd_Ruse_4",
+    "last": true
+  },
   "Atk/Def Ruse 1": {
     "id": "Atk/Def Ruse 1",
     "name": "攻擊防守大共謀1",
@@ -4696,6 +4705,39 @@
     "prev": ["Counter Roar 3"],
     "rules": "learner.dragon-beast",
     "icon": "skillB/Counter_Roar_4",
+    "last": true
+  },
+  "Potent 1": {
+    "id": "Potent 1",
+    "name": "神速1",
+    "sp": 60,
+    "rules": "learner.infantry-cavalry-flying-def-dmger",
+    "icon": "skillB/Potent_1"
+  },
+  "Potent 2": {
+    "id": "Potent 2",
+    "name": "神速2",
+    "sp": 120,
+    "prev": ["Potent 1"],
+    "rules": "learner.infantry-cavalry-flying-def-dmger",
+    "icon": "skillB/Potent_2"
+  },
+  "Potent 3": {
+    "id": "Potent 3",
+    "name": "神速3",
+    "sp": 240,
+    "prev": ["Potent 2"],
+    "rules": "learner.infantry-cavalry-flying-def-dmger",
+    "icon": "skillB/Potent_3",
+    "last": true
+  },
+  "Potent 4": {
+    "id": "Potent 4",
+    "name": "神速4",
+    "sp": 300,
+    "prev": ["Potent 3"],
+    "rules": "learner.infantry-cavalry-flying-def-dmger",
+    "icon": "skillB/Potent_4",
     "last": true
   }
 }

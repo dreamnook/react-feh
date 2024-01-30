@@ -444,6 +444,14 @@
     "last": true,
     "icon": "skillC/Future-Sighted"
   },
+  "Dragon Monarch": {
+    "id": "Dragon Monarch",
+    "name": "里特司的神龍王",
+    "sp": 300,
+    "exclusive": ["Lumera - In Distant Skies"],
+    "last": true,
+    "icon": "skillC/Dragon_Monarch"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

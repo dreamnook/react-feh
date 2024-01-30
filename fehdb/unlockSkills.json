@@ -2976,6 +2976,37 @@
       "Even Tempest 3": 5
     }
   },
+  "Marth - Of Beginnings": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Hero-King Sword": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Glimmer": 4,
+      "Lodestar Rush": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Potent 1": 2,
+      "Potent 2": 3,
+      "Potent 3": 4,
+      "Potent 4": 5
+    },
+    "skillC": {
+      "Inf. Null Follow 1": 2,
+      "Inf. Null Follow 2": 3,
+      "Inf. Null Follow 3": 4,
+      "Inf. Null Follow 4": 5
+    }
+  },
   "Kris - Unknown Hero": {
     "weapon": {
       "Iron Sword": 1,
@@ -25548,6 +25579,34 @@
       "Null Follow-Up 1": 3,
       "Null Follow-Up 2": 4,
       "Null Follow-Up 3": 5
+    }
+  },
+  "Lumera - In Distant Skies": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Monarch's Stone": 5
+    },
+    "assist": {
+      "Rally Resistance": 3,
+      "Rally Def/Res": 4,
+      "Rally Def/Res+": 5
+    },
+    "skillA": {
+      "Atk/Spd Scowl 1": 2,
+      "Atk/Spd Scowl 2": 3,
+      "Atk/Spd Scowl 3": 4,
+      "Atk/Spd Scowl 4": 5
+    },
+    "skillB": {
+      "Atk/Spd Ruse 1": 2,
+      "Atk/Spd Ruse 2": 3,
+      "Atk/Spd Ruse 3": 4,
+      "Atk/Spd Ruse 4": 5
+    },
+    "skillC": {
+      "Dragon Monarch": 5
     }
   },
   "Alfred - Floral Protector": {

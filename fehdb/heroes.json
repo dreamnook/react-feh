@@ -4163,6 +4163,41 @@
     "ver": "5.8",
     "dfKey": 4
   },
+  "Marth - Of Beginnings": {
+    "id": "Marth - Of Beginnings",
+    "title": "初始紋章士",
+    "name": "馬爾斯",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "emblem": true,
+    "releaseDate": "2024-01-30",
+    "appearsIn": ["Shadow Dragon / (New) Mystery", "Engage"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [42, 45, 48],
+        "spd": [44, 47, 51],
+        "def": [30, 33, 36],
+        "res": [24, 27, 30]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 8,
+        "def": 9,
+        "res": 10
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.1",
+    "dfKey": 6
+  },
   "Kris - Unknown Hero": {
     "id": "Kris - Unknown Hero",
     "title": "無名英雄",
@@ -28766,7 +28801,7 @@
     "id": "Tormod - Indomitable Will",
     "title": "不屈壯志",
     "name": "多邦克",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-tome",
@@ -28774,12 +28809,26 @@
     "releaseDate": "2024-01-19",
     "appearsIn": ["Radiant Dawn"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [38, 41, 45],
+        "spd": [40, 43, 46],
+        "def": [19, 22, 25],
+        "res": [24, 27, 30]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [40, 43, 47],
         "spd": [42, 45, 48],
         "def": [21, 25, 28],
         "res": [26, 30, 33]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 10,
+        "def": 2,
+        "res": 7
       },
       "5-1": {
         "hp": 18,
@@ -45455,6 +45504,43 @@
     "book": 7,
     "ver": "7.1",
     "dfKey": 5
+  },
+  "Lumera - In Distant Skies": {
+    "id": "Lumera - In Distant Skies",
+    "title": "遙遠天空的神龍",
+    "name": "琉彌艾爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-dragon",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "light-def-2",
+    "releaseDate": "2024-01-30",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [34, 37, 41],
+        "atk": [39, 43, 46],
+        "spd": [43, 46, 50],
+        "def": [23, 27, 30],
+        "res": [37, 40, 43]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 7,
+        "def": 5,
+        "res": 16
+      }
+    },
+    "assets": ["hp", "spd"],
+    "flaws": ["atk", "def"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.1",
+    "dfKey": 6
   },
   "Alfred - Floral Protector": {
     "id": "Alfred - Floral Protector",

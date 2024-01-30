@@ -397,6 +397,15 @@
     "exclusive": ["Altina - Unrivaled Dawn"],
     "last": true
   },
+  "Lodestar Rush": {
+    "id": "Lodestar Rush",
+    "name": "星之突擊",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Glimmer"],
+    "exclusive": ["Marth - Of Beginnings"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
