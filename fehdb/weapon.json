@@ -7032,6 +7032,38 @@
       },
       "last": true
     },
+    "Airborne Spear": {
+      "id": "Airborne Spear",
+      "name": "純潔無瑕的白槍",
+      "mt": 16,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Fiora - Airborne Warrior"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Airborne_Spear_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Righteous Lance": {
       "id": "Righteous Lance",
       "name": "強大高貴之魂槍",
