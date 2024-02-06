@@ -1586,7 +1586,7 @@
         "refine": 350
       },
       "Clever Dagger+": {
-        "pool": { "#": { "4": ["Lara - Step Lively"] } },
+        "pool": { "#": { "3": ["Lara - Step Lively"] } },
         "id": "Clever Dagger+",
         "name": "攻防暗器+",
         "sp": 300,
@@ -10281,7 +10281,7 @@
           ]
         },
         "legendary": { "5": ["Azura - Vallite Songstress"] },
-        "mythic": { "5": ["Triandra - Nightmare", "Peony - Sweet Dream"] },
+        "mythic": { "5": ["Peony - Sweet Dream", "Triandra - Nightmare"] },
         "special": { "4": ["Juno - Soaring Bride"] },
         "harmonized": { "5": ["Tiki - Harmonic Hope"] }
       },
@@ -10435,6 +10435,7 @@
     "Firestorm Dance 2": {
       "pool": {
         "#": { "5": ["Lene - Yearning Dancer"] },
+        "mythic": { "5": ["Triandra - Nightmare"] },
         "special": {
           "4": ["Rafiel - Blessed Wings"],
           "5": ["Triandra - Sunlit Nightmare"]
@@ -10448,7 +10449,10 @@
       "rules": "not.white-staff"
     },
     "Firestorm Dance 3": {
-      "pool": { "special": { "5": ["Triandra - Sunlit Nightmare"] } },
+      "pool": {
+        "mythic": { "5": ["Triandra - Nightmare"] },
+        "special": { "5": ["Triandra - Sunlit Nightmare"] }
+      },
       "id": "Firestorm Dance 3",
       "name": "業火疾風之舞3",
       "sp": 300,
@@ -10479,7 +10483,7 @@
     },
     "Rockslide Dance 2": {
       "pool": {
-        "#": { "4": ["Lara - Step Lively"], "5": ["Peony - Cherished Dream"] },
+        "#": { "3": ["Lara - Step Lively"], "5": ["Peony - Cherished Dream"] },
         "special": { "5": ["Elincia - Estival Princess"] }
       },
       "id": "Rockslide Dance 2",
@@ -13385,8 +13389,7 @@
     "Atk Smoke 3": {
       "pool": {
         "#": {
-          "3": ["Kaze - Easygoing Ninja"],
-          "4": ["Lara - Step Lively"],
+          "3": ["Lara - Step Lively", "Kaze - Easygoing Ninja"],
           "5": [
             "Lyn - Brave Lady",
             "Gustav - Sovereign Slain",
@@ -13551,7 +13554,9 @@
     "Panic Smoke 4": {
       "pool": {
         "legendary": { "5": ["Veronica - Princess Rising"] },
-        "mythic": { "5": ["Heiðr - Innocent Goddess"] },
+        "mythic": {
+          "5": ["Reginn - Bearing Hope", "Heiðr - Innocent Goddess"]
+        },
         "special": {
           "5": ["Ursula - Royal-Blue Crow", "Dimitri - Blessed Protector"]
         }

@@ -2341,6 +2341,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Caeda - Princess of Talys"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Feather_Sword_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Gurgurant": {
@@ -2350,6 +2373,29 @@
       "def": 3,
       "sp": 400,
       "exclusive": ["Ashnard - Mad King"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Gurgurant_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Chaos Ragnell": {
@@ -2506,6 +2552,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Reginn - Bearing Hope"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Lyngheiðr_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arden's Blade": {
@@ -9592,6 +9661,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Rinkah - Scion of Flame"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Rinkah's_Club_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Dragoon Axe": {
@@ -12739,6 +12831,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Bernadetta - Eternal Loner"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Persecution_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Bow of Beauty": {
@@ -22788,6 +22902,28 @@
       "atk": 3,
       "sp": 400,
       "exclusive": ["Triandra - Nightmare"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Flower_of_Sorrow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Hrist": {

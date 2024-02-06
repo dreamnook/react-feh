@@ -197,6 +197,15 @@
     "exclusive": ["Plumeria - Lewd Dream", "Plumeria - Temptation Anew"],
     "last": true
   },
+  "Frightful Dream+": {
+    "id": "Frightful Dream+",
+    "name": "可怕的夢・神",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Frightful Dream+"],
+    "exclusive": ["Triandra - Nightmare"],
+    "last": true
+  },
   "Frightful Dream": {
     "id": "Frightful Dream",
     "name": "可怕的夢",

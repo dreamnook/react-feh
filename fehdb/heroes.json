@@ -14237,13 +14237,20 @@
     "id": "Lara - Step Lively",
     "title": "動人的舞步",
     "name": "拉菈",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-dagger",
     "releaseDate": "2024-01-10",
     "appearsIn": ["Thracia 776"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [28, 31, 34],
+        "spd": [36, 39, 42],
+        "def": [27, 30, 33],
+        "res": [18, 21, 24]
+      },
       "4": {
         "hp": [34, 37, 40],
         "atk": [29, 32, 36],
@@ -14257,6 +14264,13 @@
         "spd": [40, 44, 47],
         "def": [31, 34, 37],
         "res": [21, 24, 28]
+      },
+      "3-1": {
+        "hp": 15,
+        "atk": 4,
+        "spd": 10,
+        "def": 7,
+        "res": 4
       },
       "4-1": {
         "hp": 15,

@@ -1192,17 +1192,6 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Seal Res 3": { "sp": 160, "rarity": 5 } }
   },
-  "Lara - Step Lively": {
-    "score": 185,
-    "scoreTotal": 257,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 300,
-    "bst": 177,
-    "skillB": { "Rockslide Dance 2": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk Smoke 3": { "sp": 240, "rarity": 4 } }
-  },
   "Bruno - Masked Hare": {
     "score": 80,
     "scoreTotal": 260,
@@ -1554,6 +1543,17 @@
     "bst": 150,
     "skillA": { "Mirror Stance 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Deluge Dance 2": { "sp": 240, "rarity": 4 } }
+  },
+  "Lara - Step Lively": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 150,
+    "bst": 177,
+    "skillB": { "Rockslide Dance 2": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Smoke 3": { "sp": 240, "rarity": 4 } }
   },
   "Chad - Lycian Wildcat": {
     "score": 199,
@@ -6504,19 +6504,6 @@
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk Tactic 3": { "sp": 240, "rarity": 5 } }
   },
-  "Triandra - Nightmare": {
-    "score": 276,
-    "scoreTotal": 718,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 151,
-    "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 5 } }
-  },
   "Ninian - Ice-Dragon Oracle": {
     "score": 276,
     "scoreTotal": 718,
@@ -8100,6 +8087,19 @@
     "skillA": { "B Duel Flying 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Cross Spur Res": { "sp": 300, "rarity": 5 } }
+  },
+  "Triandra - Nightmare": {
+    "score": 276,
+    "scoreTotal": 773,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 840,
+    "feather": 1000,
+    "bst": 151,
+    "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Firestorm Dance 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Plumeria - Lewd Dream": {
     "score": 276,
@@ -9887,20 +9887,6 @@
     "skillB": { "Shield Pulse 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
   },
-  "Reginn - Bearing Hope": {
-    "score": 276,
-    "scoreTotal": 902,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 980,
-    "feather": 1000,
-    "bst": 168,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
-  },
   "Alm - Saint-King": {
     "score": 276,
     "scoreTotal": 902,
@@ -10637,6 +10623,20 @@
     "skillA": { "Mirror Impact": { "sp": 300, "rarity": 5 } },
     "skillB": { "Chill Atk/Spd 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Goad Fliers": { "sp": 200, "rarity": 5 } }
+  },
+  "Reginn - Bearing Hope": {
+    "score": 276,
+    "scoreTotal": 957,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 168,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Ótr - Kingsbrother": {
     "score": 276,
