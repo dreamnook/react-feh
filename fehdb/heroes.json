@@ -22655,6 +22655,41 @@
     "ver": "7.6",
     "dfKey": 5
   },
+  "Ephraim - Ardent Prince": {
+    "id": "Ephraim - Ardent Prince",
+    "title": "胸懷仁義的王子",
+    "name": "艾夫拉姆",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2024-02-07",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [44, 47, 50],
+        "atk": [45, 48, 52],
+        "spd": [13, 17, 20],
+        "def": [44, 48, 51],
+        "res": [38, 41, 45]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 9,
+        "spd": 4,
+        "def": 15,
+        "res": 11
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["spd", "def"],
+    "statMin": 201,
+    "statMax": 205,
+    "book": 8,
+    "ver": "8.2",
+    "dfKey": 6
+  },
   "Seth - Silver Knight": {
     "id": "Seth - Silver Knight",
     "title": "純銀的聖騎士",
@@ -23590,6 +23625,55 @@
     "ver": "7.3",
     "dfKey": 5
   },
+  "Vigarde - Warmhearted Sire": {
+    "id": "Vigarde - Warmhearted Sire",
+    "title": "慈愛的皇帝",
+    "name": "維加爾多",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "moveType": "armored",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2024-02-07",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "4": {
+        "hp": [45, 48, 52],
+        "atk": [40, 43, 46],
+        "spd": [21, 24, 27],
+        "def": [41, 44, 47],
+        "res": [27, 30, 33]
+      },
+      "5": {
+        "hp": [48, 51, 55],
+        "atk": [42, 45, 48],
+        "spd": [23, 26, 30],
+        "def": [44, 47, 50],
+        "res": [28, 31, 35]
+      },
+      "4-1": {
+        "hp": 20,
+        "atk": 10,
+        "spd": 6,
+        "def": 9,
+        "res": 12
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 10,
+        "spd": 7,
+        "def": 10,
+        "res": 12
+      }
+    },
+    "assets": ["hp", "spd", "res"],
+    "flaws": [],
+    "statMin": 200,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.2",
+    "dfKey": 6
+  },
   "Lyon - Shadow Prince": {
     "id": "Lyon - Shadow Prince",
     "title": "影之皇子",
@@ -23785,6 +23869,42 @@
     "ver": "6.7",
     "dfKey": 4
   },
+  "Lyon - Esteemed Royals": {
+    "id": "Lyon - Esteemed Royals",
+    "title": "溫和的皇子與公主",
+    "name": "利昂",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-tome",
+    "bst": 205,
+    "pool": "duo",
+    "releaseDate": "2024-02-07",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [44, 47, 51],
+        "spd": [12, 16, 19],
+        "def": [22, 26, 29],
+        "res": [43, 46, 50]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 3,
+        "def": 4,
+        "res": 16
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 174,
+    "statMax": 175,
+    "book": 8,
+    "ver": "8.2",
+    "dfKey": 6
+  },
   "Duessel - Obsidian": {
     "id": "Duessel - Obsidian",
     "title": "黑曜石",
@@ -23887,6 +24007,41 @@
     "book": 5,
     "ver": "5.0",
     "dfKey": 3
+  },
+  "Selena - Admiring General": {
+    "id": "Selena - Admiring General",
+    "title": "暗藏愛意的螢光之將",
+    "name": "瑟萊娜",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-tome",
+    "pool": "special",
+    "releaseDate": "2024-02-07",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [43, 46, 50],
+        "def": [17, 20, 23],
+        "res": [19, 22, 25]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 6,
+        "spd": 16,
+        "def": 3,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 173,
+    "statMax": 175,
+    "book": 8,
+    "ver": "8.2",
+    "dfKey": 6
   },
   "Riev - Blood Beryl": {
     "id": "Riev - Blood Beryl",
@@ -25022,6 +25177,41 @@
     "book": 6,
     "ver": "6.5",
     "dfKey": 4
+  },
+  "Myrrh - Adored Dragon": {
+    "id": "Myrrh - Adored Dragon",
+    "title": "心愛的龍人大人",
+    "name": "梅爾",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "armored",
+    "weaponType": "white-dragon",
+    "pool": "special",
+    "releaseDate": "2024-02-07",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [47, 50, 54],
+        "atk": [44, 47, 51],
+        "spd": [12, 16, 19],
+        "def": [45, 48, 52],
+        "res": [41, 45, 48]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 8,
+        "spd": 3,
+        "def": 9,
+        "res": 12
+      }
+    },
+    "assets": ["hp", "atk", "def"],
+    "flaws": ["spd", "res"],
+    "statMin": 206,
+    "statMax": 210,
+    "book": 8,
+    "ver": "8.2",
+    "dfKey": 6
   },
   "Saleh - Vernal Sage": {
     "id": "Saleh - Vernal Sage",

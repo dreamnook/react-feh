@@ -5306,6 +5306,19 @@
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Chill Atk/Spd 2": { "sp": 240, "rarity": 5 } }
   },
+  "Vigarde - Warmhearted Sire": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 200,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Even Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
   "Kellam - Pumpkin Knight": {
     "score": 299,
     "scoreTotal": 665,
@@ -9481,6 +9494,19 @@
     "skillA": { "Remote Mirror": { "sp": 300, "rarity": 5 } },
     "skillB": { "Sabotage S/R 3": { "sp": 300, "rarity": 5 } }
   },
+  "Lyon - Esteemed Royals": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Occultist's Strike": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Incite Atk/Res": { "sp": 300, "rarity": 5 } }
+  },
   "Itsuki - Finding a Path": {
     "score": 299,
     "scoreTotal": 853,
@@ -10320,6 +10346,19 @@
     "assist": { "Rally Atk/Res+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Odd Pulse Tie 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Selena - Admiring General": {
+    "score": 424,
+    "scoreTotal": 933,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 1000,
+    "bst": 173,
+    "assist": { "Rally Up Atk+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "A/R Far Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Dozla - Harvest Attendant": {
     "score": 424,
@@ -12964,6 +13003,19 @@
     "skillB": { "Vengeful Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "D/R Far Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Ephraim - Ardent Prince": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 201,
+    "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Earthfire Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
   "Edelgard - Snowfall Future": {
     "score": 530,
     "scoreTotal": 1166,
@@ -12976,6 +13028,19 @@
     "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Def Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Myrrh - Adored Dragon": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 206,
+    "special": { "Armored Beacon": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Def/Res Scowl 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Canny Fighter": { "sp": 300, "rarity": 5 } }
   },
   "Ophelia - Dramatic Heroine": {
     "score": 400,

@@ -7032,6 +7032,16 @@
       },
       "last": true
     },
+    "Righteous Lance": {
+      "id": "Righteous Lance",
+      "name": "強大高貴之魂槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Ephraim - Ardent Prince"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -12100,6 +12110,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Wind Tribe Club"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Axe of Devotion": {
+      "id": "Axe of Devotion",
+      "name": "愛之祭典之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Axe of Devotion+": {
+      "id": "Axe of Devotion+",
+      "name": "愛之祭典之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Axe of Devotion"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -20084,6 +20127,39 @@
         }
       },
       "last": true
+    },
+    "Devoted Basket": {
+      "id": "Devoted Basket",
+      "name": "愛之祭典的花籃",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Devoted Basket+": {
+      "id": "Devoted Basket+",
+      "name": "愛之祭典的花籃+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Devoted Basket"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "blue-tome": {
@@ -23236,6 +23312,15 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Kvasir - Unknown Future"],
+      "last": true
+    },
+    "Tender Vessel": {
+      "id": "Tender Vessel",
+      "name": "瞬逝溫柔之心器",
+      "mt": 14,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Lyon - Esteemed Royals"],
       "last": true
     },
     "Arc. Caliburnus": {
@@ -26634,6 +26719,15 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Lumera - In Distant Skies"],
+      "last": true
+    },
+    "Loving Breath": {
+      "id": "Loving Breath",
+      "name": "純愛吐息",
+      "mt": 16,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Myrrh - Adored Dragon"],
       "last": true
     },
     "Arcane Grima": {

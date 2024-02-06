@@ -242,6 +242,10 @@
     "weaponType": 15732727,
     "moveType": 2
   },
+  "learner.armored-res-dmg": {
+    "weaponType": 1044488,
+    "moveType": 2
+  },
   "learner.cavalry-melee": {
     "weaponType": 16711687,
     "moveType": 4

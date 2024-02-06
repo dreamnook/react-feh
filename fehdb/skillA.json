@@ -220,6 +220,14 @@
     "last": true,
     "icon": "skillA/Thunder's_Fist"
   },
+  "Gray Illusion": {
+    "id": "Gray Illusion",
+    "name": "黯淡之夢",
+    "sp": 300,
+    "exclusive": ["Lyon - Esteemed Royals"],
+    "last": true,
+    "icon": "skillA/Gray_Illusion"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -2037,6 +2045,15 @@
     "prev": ["Water Boost 2"],
     "icon": "skillA/Water_Boost_3",
     "last": true
+  },
+  "Earthfire Boost 3": {
+    "id": "Earthfire Boost 3",
+    "name": "生命業火大地3",
+    "hp": 5,
+    "sp": 300,
+    "prev": ["Fire Boost 3", "Earth Boost 3"],
+    "last": true,
+    "icon": "skillA/Earthfire_Boost_3"
   },
   "Fireflood Boost 3": {
     "id": "Fireflood Boost 3",
@@ -4223,6 +4240,7 @@
     "id": "Atk/Spd Scowl 1",
     "name": "攻擊速度的龍眼1",
     "sp": 60,
+    "rules": "dragon",
     "icon": "skillA/Atk_Spd_Scowl_1"
   },
   "Atk/Spd Scowl 2": {
@@ -4230,6 +4248,7 @@
     "name": "攻擊速度的龍眼2",
     "sp": 120,
     "prev": ["Atk/Spd Scowl 1"],
+    "rules": "dragon",
     "icon": "skillA/Atk_Spd_Scowl_2"
   },
   "Atk/Spd Scowl 3": {
@@ -4237,6 +4256,7 @@
     "name": "攻擊速度的龍眼3",
     "sp": 240,
     "prev": ["Atk/Spd Scowl 2"],
+    "rules": "dragon",
     "icon": "skillA/Atk_Spd_Scowl_3",
     "last": true
   },
@@ -4245,6 +4265,7 @@
     "name": "攻擊速度的龍眼4",
     "sp": 300,
     "prev": ["Atk/Spd Scowl 3"],
+    "rules": "dragon",
     "icon": "skillA/Atk_Spd_Scowl_4",
     "last": true
   },
@@ -4279,6 +4300,39 @@
     "prev": ["Atk/Res Scowl 3"],
     "rules": "dragon",
     "icon": "skillA/Atk_Res_Scowl_4",
+    "last": true
+  },
+  "Def/Res Scowl 1": {
+    "id": "Def/Res Scowl 1",
+    "name": "防守魔防的龍眼1",
+    "sp": 60,
+    "rules": "dragon",
+    "icon": "skillA/Def_Res_Scowl_1"
+  },
+  "Def/Res Scowl 2": {
+    "id": "Def/Res Scowl 2",
+    "name": "防守魔防的龍眼2",
+    "sp": 120,
+    "prev": ["Def/Res Scowl 1"],
+    "rules": "dragon",
+    "icon": "skillA/Def_Res_Scowl_2"
+  },
+  "Def/Res Scowl 3": {
+    "id": "Def/Res Scowl 3",
+    "name": "防守魔防的龍眼3",
+    "sp": 240,
+    "prev": ["Def/Res Scowl 2"],
+    "rules": "dragon",
+    "icon": "skillA/Def_Res_Scowl_3",
+    "last": true
+  },
+  "Def/Res Scowl 4": {
+    "id": "Def/Res Scowl 4",
+    "name": "防守魔防的龍眼4",
+    "sp": 300,
+    "prev": ["Def/Res Scowl 3"],
+    "rules": "dragon",
+    "icon": "skillA/Def_Res_Scowl_4",
     "last": true
   },
   "Atk/Spd Prime 1": {

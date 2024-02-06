@@ -1122,6 +1122,13 @@
         "name": "風之部落的金棒+",
         "sp": 300,
         "refine": 350
+      },
+      "Axe of Devotion+": {
+        "pool": { "grail": { "5": ["Vigarde - Warmhearted Sire"] } },
+        "id": "Axe of Devotion+",
+        "name": "愛之祭典之斧+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "bow": {
@@ -1972,6 +1979,13 @@
         "pool": { "special": { "5": ["Tormod - Indomitable Will"] } },
         "id": "Nabata Beacon+",
         "name": "納巴塔的燭台+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Devoted Basket+": {
+        "pool": { "special": { "5": ["Selena - Admiring General"] } },
+        "id": "Devoted Basket+",
+        "name": "愛之祭典的花籃+",
         "sp": 300,
         "refine": 350
       }
@@ -3399,7 +3413,11 @@
         },
         "special": {
           "4": ["Naga - Harvest Divinity"],
-          "5": ["Pent - Fancy Fiancé", "Elise - Bubbling Flower"]
+          "5": [
+            "Pent - Fancy Fiancé",
+            "Selena - Admiring General",
+            "Elise - Bubbling Flower"
+          ]
         }
       },
       "id": "Rally Up Atk",
@@ -3421,6 +3439,7 @@
           "5": [
             "Naga - Harvest Divinity",
             "Pent - Fancy Fiancé",
+            "Selena - Admiring General",
             "Elise - Bubbling Flower"
           ]
         }
@@ -4441,7 +4460,9 @@
             "Ash - Earnest Greetings",
             "Ephraim - Sunshine Valiant",
             "Hector - Sworn Friend",
-            "Edelgard - Snowfall Future"
+            "Ephraim - Ardent Prince",
+            "Edelgard - Snowfall Future",
+            "Myrrh - Adored Dragon"
           ]
         },
         "duo": {
@@ -4481,6 +4502,7 @@
             "Robin - Mystery Tactician",
             "Zelot - Avowed Groom",
             "Hawkeye - Taciturn Guardian",
+            "Vigarde - Warmhearted Sire",
             "Kellam - Pumpkin Knight",
             "Travant - King of Thracia",
             "Orson - Passion's Folly",
@@ -4516,14 +4538,20 @@
       "rules": "not.white-staff"
     },
     "Armored Beacon": {
-      "pool": { "special": { "5": ["Hector - Sworn Friend"] } },
+      "pool": {
+        "special": { "5": ["Hector - Sworn Friend", "Myrrh - Adored Dragon"] }
+      },
       "id": "Armored Beacon",
       "name": "重裝之聖炎",
       "sp": 500,
       "rules": "learner.armored-not-staff"
     },
     "Armored Blaze": {
-      "pool": { "special": { "5": ["Edelgard - Snowfall Future"] } },
+      "pool": {
+        "special": {
+          "5": ["Ephraim - Ardent Prince", "Edelgard - Snowfall Future"]
+        }
+      },
       "id": "Armored Blaze",
       "name": "重裝之大炎",
       "sp": 500,
@@ -4610,6 +4638,7 @@
         "duo": {
           "5": [
             "Seiðr - Time's Goddesses",
+            "Lyon - Esteemed Royals",
             "Idunn - Dragonkin Duo",
             "Mark - Winds of Hope",
             "Sanaki - Dawnsworn Ninja"
@@ -6960,7 +6989,8 @@
           "3": ["Atlas - Forest Muscle", "Boey - Skillful Survivor"],
           "5": ["Amelia - Rose of the War"]
         },
-        "grail": { "5": ["Darros - Seawalker"] }
+        "grail": { "5": ["Darros - Seawalker"] },
+        "special": { "5": ["Ephraim - Ardent Prince"] }
       },
       "id": "Earth Boost 3",
       "name": "生命大地3",
@@ -6980,6 +7010,13 @@
       "name": "生命靜水3",
       "sp": 200,
       "icon": "skillA/Water_Boost_3"
+    },
+    "Earthfire Boost 3": {
+      "pool": { "special": { "5": ["Ephraim - Ardent Prince"] } },
+      "id": "Earthfire Boost 3",
+      "name": "生命業火大地3",
+      "sp": 300,
+      "icon": "skillA/Earthfire_Boost_3"
     },
     "Fireflood Boost 3": {
       "pool": {
@@ -8025,7 +8062,8 @@
           "4": [
             "Haar - Tempest Runner",
             "Donnel - Sunny Villager",
-            "Zelot - Avowed Groom"
+            "Zelot - Avowed Groom",
+            "Vigarde - Warmhearted Sire"
           ]
         },
         "special": {
@@ -8131,6 +8169,7 @@
           "5": [
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
+            "Selena - Admiring General",
             "Delthea - Prodigy in Bloom"
           ]
         },
@@ -8774,14 +8813,16 @@
       "id": "Atk/Spd Scowl 3",
       "name": "攻擊速度的龍眼3",
       "sp": 240,
-      "icon": "skillA/Atk_Spd_Scowl_3"
+      "icon": "skillA/Atk_Spd_Scowl_3",
+      "rules": "dragon"
     },
     "Atk/Spd Scowl 4": {
       "pool": { "mythic": { "5": ["Lumera - In Distant Skies"] } },
       "id": "Atk/Spd Scowl 4",
       "name": "攻擊速度的龍眼4",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Scowl_4"
+      "icon": "skillA/Atk_Spd_Scowl_4",
+      "rules": "dragon"
     },
     "Atk/Res Scowl 3": {
       "pool": {
@@ -8800,6 +8841,22 @@
       "name": "攻擊魔防的龍眼4",
       "sp": 300,
       "icon": "skillA/Atk_Res_Scowl_4",
+      "rules": "dragon"
+    },
+    "Def/Res Scowl 3": {
+      "pool": { "special": { "5": ["Myrrh - Adored Dragon"] } },
+      "id": "Def/Res Scowl 3",
+      "name": "防守魔防的龍眼3",
+      "sp": 240,
+      "icon": "skillA/Def_Res_Scowl_3",
+      "rules": "dragon"
+    },
+    "Def/Res Scowl 4": {
+      "pool": { "special": { "5": ["Myrrh - Adored Dragon"] } },
+      "id": "Def/Res Scowl 4",
+      "name": "防守魔防的龍眼4",
+      "sp": 300,
+      "icon": "skillA/Def_Res_Scowl_4",
       "rules": "dragon"
     },
     "Atk/Spd Prime 3": {
@@ -9175,6 +9232,7 @@
             "Chrom - Gifted Leader",
             "Jakob - Devoted Monster",
             "Hector - Just Here to Fight",
+            "Myrrh - Adored Dragon",
             "Greil - Heroic Exemplar"
           ]
         },
@@ -9193,6 +9251,14 @@
       "sp": 300,
       "icon": "skillB/Weaving_Fighter",
       "rules": "learner.armored-def-dmg"
+    },
+    "Canny Fighter": {
+      "pool": { "special": { "5": ["Myrrh - Adored Dragon"] } },
+      "id": "Canny Fighter",
+      "name": "魔之防守隊形",
+      "sp": 300,
+      "icon": "skillB/Canny_Fighter",
+      "rules": "learner.armored-res-dmg"
     },
     "Bold Fighter 3": {
       "pool": {
@@ -9324,6 +9390,7 @@
     },
     "Even Follow-Up 3": {
       "pool": {
+        "grail": { "5": ["Vigarde - Warmhearted Sire"] },
         "special": {
           "4": ["Hilda - Holiday Layabout"],
           "5": ["Robin - Tactful Deliverer"]
@@ -9428,7 +9495,8 @@
         },
         "grail": { "4": ["Clarisse - Sniper in the Dark"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
-        "special": { "5": ["Yunaka - Spirited Envoy"] }
+        "special": { "5": ["Yunaka - Spirited Envoy"] },
+        "duo": { "5": ["Lyon - Esteemed Royals"] }
       },
       "id": "Poison Strike 3",
       "name": "蛇毒3",
@@ -9445,7 +9513,10 @@
       "rules": "learner.def-dmger"
     },
     "Occultist's Strike": {
-      "pool": { "mythic": { "5": ["Gullveig - Golden Seer"] } },
+      "pool": {
+        "mythic": { "5": ["Gullveig - Golden Seer"] },
+        "duo": { "5": ["Lyon - Esteemed Royals"] }
+      },
       "id": "Occultist's Strike",
       "name": "魔之蛇毒",
       "sp": 300,
@@ -11472,7 +11543,11 @@
       "pool": {
         "#": { "5": ["Hapi - Drawn-Out Sigh", "Letizia - Curse Director"] },
         "special": {
-          "5": ["Mercedes - Unfussed Basker", "Lilina - Beaming Bride"]
+          "5": [
+            "Mercedes - Unfussed Basker",
+            "Selena - Admiring General",
+            "Lilina - Beaming Bride"
+          ]
         },
         "duo": { "5": ["Thórr - Sun-Kissed Gods"] },
         "harmonized": { "5": ["Lysithea - Gifted Students"] }
@@ -13862,7 +13937,9 @@
     "A/D Near Save 2": {
       "pool": {
         "#": { "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"] },
-        "special": { "5": ["Lucina - Future Fondness"] }
+        "special": {
+          "5": ["Lucina - Future Fondness", "Ephraim - Ardent Prince"]
+        }
       },
       "id": "A/D Near Save 2",
       "name": "鎧之守護人・近處2",
@@ -13873,7 +13950,9 @@
     "A/D Near Save 3": {
       "pool": {
         "#": { "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"] },
-        "special": { "5": ["Lucina - Future Fondness"] }
+        "special": {
+          "5": ["Lucina - Future Fondness", "Ephraim - Ardent Prince"]
+        }
       },
       "id": "A/D Near Save 3",
       "name": "鎧之守護人・近處3",
@@ -14448,7 +14527,8 @@
           "4": ["Hilda - Queen of Friege"],
           "5": ["Saleh - Vernal Sage"]
         },
-        "special": { "5": ["Cecilia - Etrurian Bride"] }
+        "special": { "5": ["Cecilia - Etrurian Bride"] },
+        "duo": { "5": ["Lyon - Esteemed Royals"] }
       },
       "id": "Rouse Atk/Res 3",
       "name": "攻擊魔防的奮起3",
@@ -14712,6 +14792,14 @@
       "name": "攻擊速度的奮激",
       "sp": 300,
       "icon": "skillC/Incite_Atk_Spd",
+      "rules": "learner.infantry-cavalry"
+    },
+    "Incite Atk/Res": {
+      "pool": { "duo": { "5": ["Lyon - Esteemed Royals"] } },
+      "id": "Incite Atk/Res",
+      "name": "攻擊魔防的奮激",
+      "sp": 300,
+      "icon": "skillC/Incite_Atk_Res",
       "rules": "learner.infantry-cavalry"
     },
     "Odd Tempest 3": {

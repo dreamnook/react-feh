@@ -452,6 +452,14 @@
     "last": true,
     "icon": "skillC/Dragon_Monarch"
   },
+  "Darkling Dragon": {
+    "id": "Darkling Dragon",
+    "name": "闇之樹海的龍神",
+    "sp": 300,
+    "exclusive": ["Myrrh - Adored Dragon"],
+    "last": true,
+    "icon": "skillC/Darkling_Dragon"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -3423,6 +3431,15 @@
     "rules": "learner.infantry-cavalry",
     "last": true,
     "icon": "skillC/Incite_Atk_Spd"
+  },
+  "Incite Atk/Res": {
+    "id": "Incite Atk/Res",
+    "name": "攻擊魔防的奮激",
+    "sp": 300,
+    "prev": ["Rouse Atk/Res 3"],
+    "rules": "learner.infantry-cavalry",
+    "last": true,
+    "icon": "skillC/Incite_Atk_Res"
   },
   "Odd Tempest 1": {
     "id": "Odd Tempest 1",

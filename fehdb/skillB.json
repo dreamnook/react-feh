@@ -561,6 +561,14 @@
     "last": true,
     "icon": "skillB/Spoil_Rotten"
   },
+  "Sunlit Bangle D": {
+    "id": "Sunlit Bangle D",
+    "name": "華日手鐲・護",
+    "sp": 300,
+    "exclusive": ["Ephraim - Ardent Prince"],
+    "last": true,
+    "icon": "skillB/Sunlit_Bangle_D"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -842,6 +850,15 @@
     "rules": "learner.armored-def-dmg",
     "last": true,
     "icon": "skillB/Weaving_Fighter"
+  },
+  "Canny Fighter": {
+    "id": "Canny Fighter",
+    "name": "魔之防守隊形",
+    "sp": 300,
+    "prev": ["Wary Fighter 3"],
+    "rules": "learner.armored-res-dmg",
+    "last": true,
+    "icon": "skillB/Canny_Fighter"
   },
   "Bold Fighter 1": {
     "id": "Bold Fighter 1",
