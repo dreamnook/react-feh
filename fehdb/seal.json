@@ -1959,6 +1959,30 @@
       "icon": "skillA/Def_Res_Catch_3",
       "last": true
     },
+    "Atk/Spd Ideal 1": {
+      "id": "Atk/Spd Ideal 1",
+      "name": "攻擊速度萬全1",
+      "sp": 60,
+      "rules": "learner.infantry-armored",
+      "icon": "skillA/Atk_Spd_Ideal_1"
+    },
+    "Atk/Spd Ideal 2": {
+      "id": "Atk/Spd Ideal 2",
+      "name": "攻擊速度萬全2",
+      "sp": 120,
+      "prev": ["Atk/Spd Ideal 1"],
+      "rules": "learner.infantry-armored",
+      "icon": "skillA/Atk_Spd_Ideal_2"
+    },
+    "Atk/Spd Ideal 3": {
+      "id": "Atk/Spd Ideal 3",
+      "name": "攻擊速度萬全3",
+      "sp": 240,
+      "prev": ["Atk/Spd Ideal 2"],
+      "rules": "learner.infantry-armored",
+      "icon": "skillA/Atk_Spd_Ideal_3",
+      "last": true
+    },
     "Atk/Def Ideal 1": {
       "id": "Atk/Def Ideal 1",
       "name": "攻擊防守萬全1",
@@ -2776,6 +2800,30 @@
       "prev": ["Mystic Boost 2"],
       "icon": "skillB/Mystic_Boost_3",
       "last": true
+    },
+    "Dragon's Wrath 1": {
+      "id": "Dragon's Wrath 1",
+      "name": "龍之魔鱗1",
+      "sp": 60,
+      "rules": "dragon",
+      "icon": "skillB/Dragon's_Wrath_1"
+    },
+    "Dragon's Wrath 2": {
+      "id": "Dragon's Wrath 2",
+      "name": "龍之魔鱗2",
+      "sp": 120,
+      "prev": ["Dragon's Wrath 1"],
+      "rules": "dragon",
+      "icon": "skillB/Dragon's_Wrath_2"
+    },
+    "Dragon's Wrath 3": {
+      "id": "Dragon's Wrath 3",
+      "name": "龍之魔鱗3",
+      "sp": 240,
+      "prev": ["Dragon's Wrath 2"],
+      "rules": "dragon",
+      "icon": "skillB/Dragon's_Wrath_3",
+      "last": true
     }
   },
   "skillC": {
@@ -3139,6 +3187,30 @@
       "icon": "skillC/Atk_Res_Rein_3",
       "last": true
     },
+    "Spd/Def Rein 1": {
+      "id": "Spd/Def Rein 1",
+      "name": "速度防守牽制1",
+      "sp": 60,
+      "rules": "flying",
+      "icon": "skillC/Spd_Def_Rein_1"
+    },
+    "Spd/Def Rein 2": {
+      "id": "Spd/Def Rein 2",
+      "name": "速度防守牽制2",
+      "sp": 120,
+      "prev": ["Spd/Def Rein 1"],
+      "rules": "flying",
+      "icon": "skillC/Spd_Def_Rein_2"
+    },
+    "Spd/Def Rein 3": {
+      "id": "Spd/Def Rein 3",
+      "name": "速度防守牽制3",
+      "sp": 240,
+      "prev": ["Spd/Def Rein 2"],
+      "rules": "flying",
+      "icon": "skillC/Spd_Def_Rein_3",
+      "last": true
+    },
     "Hone Atk 1": {
       "id": "Hone Atk 1",
       "name": "攻擊鼓舞1",
@@ -3440,6 +3512,21 @@
       "sp": 200,
       "prev": ["Threat. Atk/Def 1"],
       "icon": "skillC/Threat._Atk_Def_2",
+      "last": true
+    },
+    "Threat. Atk/Res 1": {
+      "id": "Threat. Atk/Res 1",
+      "name": "攻擊魔防的威嚇1",
+      "sp": 100,
+      "prev": ["Threaten Atk 1", "Threaten Res 1"],
+      "icon": "skillC/Threat._Atk_Res_1"
+    },
+    "Threat. Atk/Res 2": {
+      "id": "Threat. Atk/Res 2",
+      "name": "攻擊魔防的威嚇2",
+      "sp": 200,
+      "prev": ["Threat. Atk/Res 1"],
+      "icon": "skillC/Threat._Atk_Res_2",
       "last": true
     },
     "Threat. Spd/Res 1": {
