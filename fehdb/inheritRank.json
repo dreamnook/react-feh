@@ -2332,6 +2332,19 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
   },
+  "Selena - Admiring General": {
+    "score": 196,
+    "scoreTotal": 400,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 880,
+    "feather": 300,
+    "bst": 173,
+    "assist": { "Rally Up Atk+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "A/R Far Trace 3": { "sp": 240, "rarity": 5 } }
+  },
   "Ferdinand - Highborn Sipper": {
     "score": 196,
     "scoreTotal": 400,
@@ -10346,19 +10359,6 @@
     "assist": { "Rally Atk/Res+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Odd Pulse Tie 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Selena - Admiring General": {
-    "score": 424,
-    "scoreTotal": 933,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 400,
-    "spTotal": 880,
-    "feather": 1000,
-    "bst": 173,
-    "assist": { "Rally Up Atk+": { "sp": 400, "rarity": 5 } },
-    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "A/R Far Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Dozla - Harvest Attendant": {
     "score": 424,

@@ -3412,12 +3412,8 @@
           ]
         },
         "special": {
-          "4": ["Naga - Harvest Divinity"],
-          "5": [
-            "Pent - Fancy Fiancé",
-            "Selena - Admiring General",
-            "Elise - Bubbling Flower"
-          ]
+          "4": ["Selena - Admiring General", "Naga - Harvest Divinity"],
+          "5": ["Pent - Fancy Fiancé", "Elise - Bubbling Flower"]
         }
       },
       "id": "Rally Up Atk",
@@ -3437,9 +3433,9 @@
         },
         "special": {
           "5": [
+            "Selena - Admiring General",
             "Naga - Harvest Divinity",
             "Pent - Fancy Fiancé",
-            "Selena - Admiring General",
             "Elise - Bubbling Flower"
           ]
         }
@@ -8161,6 +8157,7 @@
         "mythic": { "5": ["Kvasir - Seer of the Past"] },
         "special": {
           "4": [
+            "Selena - Admiring General",
             "Ashe - Budding Chivalry",
             "Catria - Windswept Knight",
             "Lyre - Lap Cat of Luxury",
@@ -8169,7 +8166,6 @@
           "5": [
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
-            "Selena - Admiring General",
             "Delthea - Prodigy in Bloom"
           ]
         },
@@ -11544,8 +11540,8 @@
         "#": { "5": ["Hapi - Drawn-Out Sigh", "Letizia - Curse Director"] },
         "special": {
           "5": [
-            "Mercedes - Unfussed Basker",
             "Selena - Admiring General",
+            "Mercedes - Unfussed Basker",
             "Lilina - Beaming Bride"
           ]
         },

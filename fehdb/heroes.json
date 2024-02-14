@@ -24012,7 +24012,7 @@
     "id": "Selena - Admiring General",
     "title": "暗藏愛意的螢光之將",
     "name": "瑟萊娜",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "cavalry",
     "weaponType": "red-tome",
@@ -24020,12 +24020,26 @@
     "releaseDate": "2024-02-07",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [40, 43, 46],
+        "spd": [41, 44, 48],
+        "def": [15, 18, 21],
+        "res": [17, 20, 23]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [42, 45, 49],
         "spd": [43, 46, 50],
         "def": [17, 20, 23],
         "res": [19, 22, 25]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 6,
+        "spd": 16,
+        "def": 2,
+        "res": 4
       },
       "5-1": {
         "hp": 18,
