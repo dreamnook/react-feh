@@ -3962,6 +3962,39 @@
       },
       "last": true
     },
+    "Reversal Blade": {
+      "id": "Reversal Blade",
+      "name": "強化反轉之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Reversal Blade+": {
+      "id": "Reversal Blade+",
+      "name": "強化反轉之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Reversal Blade"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Kadomatsu": {
       "id": "Kadomatsu",
       "name": "門松",
@@ -7072,6 +7105,16 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Ephraim - Ardent Prince"],
+      "last": true
+    },
+    "Penitent Lance": {
+      "id": "Penitent Lance",
+      "name": "炎之槍",
+      "mt": 16,
+      "def": 3,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Mauvier - Penitent Knight"],
       "last": true
     },
     "Arcane Qiang": {
@@ -10573,6 +10616,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Altina - Unrivaled Dawn"],
+      "last": true
+    },
+    "Axe of Adoration": {
+      "id": "Axe of Adoration",
+      "name": "可愛之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Rosado - Adorable Artist"],
       "last": true
     },
     "Arcane Downfall": {
@@ -21195,6 +21248,16 @@
       "exclusive": ["Seiðr - Time's Goddesses"],
       "last": true
     },
+    "Icebound Tome": {
+      "id": "Icebound Tome",
+      "name": "流風回雪書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Ivy - Snow Queen"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -24890,6 +24953,26 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Tina - Playful Scamp"],
+      "last": true
+    },
+    "Arcane Charmer": {
+      "id": "Arcane Charmer",
+      "name": "魔器・可愛雪杖",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Assault"],
+      "refine": {
+        "wrathful": {
+          "name": "神罰",
+          "icon": "Wrathful_Staff_W"
+        },
+        "dazzling": {
+          "name": "幻惑",
+          "icon": "Dazzling_Staff_W"
+        }
+      },
       "last": true
     },
     "Assault": {

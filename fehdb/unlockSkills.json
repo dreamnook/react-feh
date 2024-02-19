@@ -25970,6 +25970,114 @@
       "Soaring Guidance": 5
     }
   },
+  "Ivy - Snow Queen": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Thoron": 3,
+      "Icebound Tome": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Obsession": 5
+    },
+    "skillB": {
+      "A/R Far Trace 1": 2,
+      "A/R Far Trace 2": 3,
+      "A/R Far Trace 3": 4,
+      "A/R Far Trace 4": 5
+    },
+    "skillC": {
+      "Savage Blow 1": 2,
+      "Savage Blow 2": 3,
+      "Savage Blow 3": 4,
+      "Deadly Miasma": 5
+    },
+    "skillX": {
+      "Soaring Echo": 5
+    }
+  },
+  "Kagetsu - Onigiri Samurai": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Reversal Blade": 3,
+      "Reversal Blade+": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 1,
+      "Atk/Spd Ideal 2": 2,
+      "Atk/Spd Ideal 3": 4
+    },
+    "skillB": {
+      "Null Follow-Up 1": 3,
+      "Null Follow-Up 2": 4,
+      "Null Follow-Up 3": 5
+    }
+  },
+  "Hortensia - Little Charmer": {
+    "weapon": {
+      "Assault": 1,
+      "Arcane Charmer": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 2,
+      "Rescue": 3,
+      "Rescue+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Miracle": 3,
+      "Glitter of Light": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "Wrathful Staff 1": 2,
+      "Wrathful Staff 2": 3,
+      "Wrathful Staff 3": 4,
+      "Poetic Justice": 5
+    },
+    "skillC": {
+      "Glittering Anima": 5
+    }
+  },
+  "Rosado - Adorable Artist": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Axe of Adoration": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Bonfire": 4
+    },
+    "skillA": {
+      "Earth Boost 1": 2,
+      "Earth Boost 2": 3,
+      "Earth Boost 3": 4,
+      "Earthwind Boost 3": 5
+    },
+    "skillB": {
+      "Wyvern Flight 1": 2,
+      "Wyvern Flight 2": 3,
+      "Wyvern Flight 3": 4,
+      "Wyvern Rift": 5
+    }
+  },
   "Timerra - Trick or Meat": {
     "weapon": {
       "Iron Lance": 1,
@@ -26128,6 +26236,28 @@
     },
     "skillC": {
       "Fell Protection": 5
+    }
+  },
+  "Mauvier - Penitent Knight": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Penitent Lance": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillB": {
+      "Seal Atk 1": 3,
+      "Seal Atk 2": 4,
+      "Seal Atk 3": 5
+    },
+    "skillC": {
+      "Rouse Atk/Def 1": 1,
+      "Rouse Atk/Def 2": 2,
+      "Rouse Atk/Def 3": 4
     }
   }
 }

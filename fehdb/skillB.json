@@ -2315,6 +2315,14 @@
     "icon": "skillB/Wyvern_Flight_3",
     "last": true
   },
+  "Wyvern Rift": {
+    "id": "Wyvern Rift",
+    "name": "飛龍裂空",
+    "sp": 300,
+    "rules": "learner.wielderFlying",
+    "last": true,
+    "icon": "skillB/Wyvern_Rift"
+  },
   "Guard Bearing 1": {
     "id": "Guard Bearing 1",
     "name": "警戒姿態1",
@@ -4113,6 +4121,15 @@
     "prev": ["A/R Far Trace 2"],
     "rules": "learner.far-trace",
     "icon": "skillB/A_R_Far_Trace_3",
+    "last": true
+  },
+  "A/R Far Trace 4": {
+    "id": "A/R Far Trace 4",
+    "name": "攻擊魔防遠影4",
+    "sp": 300,
+    "prev": ["A/R Far Trace 3"],
+    "rules": "learner.far-trace",
+    "icon": "skillB/A_R_Far_Trace_4",
     "last": true
   },
   "S/D Far Trace 1": {

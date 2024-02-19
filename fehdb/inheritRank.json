@@ -1971,6 +1971,19 @@
     "skillB": { "Drag Back": { "sp": 150, "rarity": 3 } },
     "skillC": { "Drive Def 2": { "sp": 240, "rarity": 5 } }
   },
+  "Hortensia - Little Charmer": {
+    "score": 125,
+    "scoreTotal": 350,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 177,
+    "assist": { "Rescue+": { "sp": 300, "rarity": 5 } },
+    "special": { "Glitter of Light": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } }
+  },
   "Safy - Font of Piety": {
     "score": 125,
     "scoreTotal": 350,
@@ -2125,6 +2138,19 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
     "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Mauvier - Penitent Knight": {
+    "score": 211,
+    "scoreTotal": 387,
+    "poolRarity": 3,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 600,
+    "feather": 150,
+    "bst": 185,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Seal Atk 3": { "sp": 160, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Def 3": { "sp": 240, "rarity": 4 } }
   },
   "Sylvain - Hanging with Tens": {
     "score": 196,
@@ -5847,6 +5873,18 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Kagetsu - Onigiri Samurai": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 192,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -8831,6 +8869,19 @@
     "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
+  "Ivy - Snow Queen": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 178,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillB": { "A/R Far Trace 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Deadly Miasma": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Soaring Echo": { "sp": 0, "rarity": 5 } }
+  },
   "Eitr - Hand of Nothing": {
     "score": 300,
     "scoreTotal": 800,
@@ -8975,6 +9026,18 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
+  },
+  "Rosado - Adorable Artist": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Earthwind Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Wyvern Rift": { "sp": 300, "rarity": 5 } }
   },
   "Rhea - Immaculate One": {
     "score": 300,

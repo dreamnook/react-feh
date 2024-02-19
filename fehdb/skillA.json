@@ -228,6 +228,14 @@
     "last": true,
     "icon": "skillA/Gray_Illusion"
   },
+  "Obsession": {
+    "id": "Obsession",
+    "name": "執著",
+    "sp": 300,
+    "exclusive": ["Ivy - Snow Queen"],
+    "last": true,
+    "icon": "skillA/Obsession"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -2063,6 +2071,15 @@
     "prev": ["Fire Boost 3", "Water Boost 3"],
     "last": true,
     "icon": "skillA/Fireflood_Boost_3"
+  },
+  "Earthwind Boost 3": {
+    "id": "Earthwind Boost 3",
+    "name": "生命業火大地3",
+    "hp": 5,
+    "sp": 300,
+    "prev": ["Wind Boost 3", "Earth Boost 3"],
+    "last": true,
+    "icon": "skillA/Earthwind_Boost_3"
   },
   "Atk/Spd Bond 1": {
     "id": "Atk/Spd Bond 1",

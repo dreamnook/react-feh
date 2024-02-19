@@ -203,6 +203,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Reversal Blade+": {
+        "pool": { "#": { "5": ["Kagetsu - Onigiri Samurai"] } },
+        "id": "Reversal Blade+",
+        "name": "強化反轉之劍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Kadomatsu+": {
         "pool": { "special": { "5": ["Camilla - Holiday Traveler"] } },
         "id": "Kadomatsu+",
@@ -2421,6 +2428,13 @@
       }
     },
     "white-staff": {
+      "Arcane Charmer": {
+        "pool": { "#": { "5": ["Hortensia - Little Charmer"] } },
+        "id": "Arcane Charmer",
+        "name": "魔器・可愛雪杖",
+        "sp": 300,
+        "refine": 350
+      },
       "Absorb+": {
         "pool": {
           "#": {
@@ -2902,7 +2916,13 @@
     },
     "Rescue+": {
       "pool": {
-        "#": { "5": ["Flayn - Playing Innocent", "Elincia - Devoted Queen"] },
+        "#": {
+          "5": [
+            "Flayn - Playing Innocent",
+            "Hortensia - Little Charmer",
+            "Elincia - Devoted Queen"
+          ]
+        },
         "special": {
           "5": ["L'Arachel - Seeker of Justice", "Flayn - Silly Kitty-Cat"]
         }
@@ -3708,6 +3728,7 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
+            "Kagetsu - Onigiri Samurai",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Celica - Valentia's Hope",
@@ -3823,6 +3844,7 @@
             "Galzus - Dark Blade of Od",
             "Eirika - Pledged Restorer",
             "Gullveig - Seer Beyond Time",
+            "Ivy - Snow Queen",
             "Eitr - Hand of Nothing",
             "Ingrid - Beacon of Honor",
             "Febail - Mercenary Waif",
@@ -4408,6 +4430,7 @@
             "Gregor - Swell Sword",
             "Líf - Arcane Blade",
             "Mycen - Zofia's Champion",
+            "Rosado - Adorable Artist",
             "Harken - Troubled Warrior",
             "Nah - Little Miss",
             "Idunn - Dark Priestess",
@@ -4519,7 +4542,11 @@
         },
         "mythic": { "5": ["Freyr - Dream-King", "Reginn - Bearing Hope"] },
         "special": {
-          "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
+          "4": [
+            "Mauvier - Penitent Knight",
+            "Manuela - Silver Caroler",
+            "Hana - Striving Heart"
+          ],
           "5": [
             "Jakob - Devoted Monster",
             "Cherche - Shaded by Wings",
@@ -4949,6 +4976,7 @@
             "Mist - Helpful Sister",
             "Maribelle - Dire Damsel",
             "Mikoto - Caring Mother",
+            "Hortensia - Little Charmer",
             "Safy - Font of Piety",
             "Maria - Ritual Sacrifice",
             "Elincia - Devoted Queen",
@@ -5162,6 +5190,13 @@
       },
       "id": "Holy Panic",
       "name": "恐慌的聖光",
+      "sp": 500,
+      "rules": "white-staff"
+    },
+    "Glitter of Light": {
+      "pool": { "#": { "5": ["Hortensia - Little Charmer"] } },
+      "id": "Glitter of Light",
+      "name": "輝印的聖光",
       "sp": 500,
       "rules": "white-staff"
     }
@@ -6983,7 +7018,7 @@
       "pool": {
         "#": {
           "3": ["Atlas - Forest Muscle", "Boey - Skillful Survivor"],
-          "5": ["Amelia - Rose of the War"]
+          "5": ["Amelia - Rose of the War", "Rosado - Adorable Artist"]
         },
         "grail": { "5": ["Darros - Seawalker"] },
         "special": { "5": ["Ephraim - Ardent Prince"] }
@@ -7023,6 +7058,13 @@
       "name": "生命業火靜水3",
       "sp": 300,
       "icon": "skillA/Fireflood_Boost_3"
+    },
+    "Earthwind Boost 3": {
+      "pool": { "#": { "5": ["Rosado - Adorable Artist"] } },
+      "id": "Earthwind Boost 3",
+      "name": "生命業火大地3",
+      "sp": 300,
+      "icon": "skillA/Earthwind_Boost_3"
     },
     "Atk/Spd Bond 3": {
       "pool": {
@@ -8137,6 +8179,7 @@
       "pool": {
         "#": {
           "5": [
+            "Hortensia - Little Charmer",
             "Eir - Life Ascendant",
             "Caeldori - Perfect Angel",
             "Farina - The Great Wing",
@@ -8188,6 +8231,7 @@
       "pool": {
         "#": {
           "5": [
+            "Hortensia - Little Charmer",
             "Eir - Life Ascendant",
             "Caeldori - Perfect Angel",
             "Farina - The Great Wing",
@@ -8351,6 +8395,7 @@
           "3": ["Miriel - Rapier Intellect"],
           "5": [
             "Tina - Playful Scamp",
+            "Kagetsu - Onigiri Samurai",
             "Monica - Favored Vassal",
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
@@ -9564,7 +9609,8 @@
             "Catria - Middle Whitewing"
           ]
         },
-        "legendary": { "5": ["Robin - Exalt's Other Half"] }
+        "legendary": { "5": ["Robin - Exalt's Other Half"] },
+        "special": { "5": ["Mauvier - Penitent Knight"] }
       },
       "id": "Seal Atk 3",
       "name": "攻擊封印3",
@@ -10199,6 +10245,7 @@
             "Genny - Endearing Ally",
             "Veronica - Brave Princess",
             "Camilla - Light of Nohr",
+            "Hortensia - Little Charmer",
             "Maria - Ritual Sacrifice",
             "Tina - Playful Scamp"
           ]
@@ -10221,7 +10268,9 @@
     },
     "Poetic Justice": {
       "pool": {
-        "#": { "5": ["Maria - Ritual Sacrifice"] },
+        "#": {
+          "5": ["Hortensia - Little Charmer", "Maria - Ritual Sacrifice"]
+        },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
       "id": "Poetic Justice",
@@ -10387,13 +10436,21 @@
     },
     "Wyvern Flight 3": {
       "pool": {
-        "#": { "5": ["Melady - Crimson Rider"] },
+        "#": { "5": ["Melady - Crimson Rider", "Rosado - Adorable Artist"] },
         "grail": { "5": ["Arion - Gungnir's Heir"] }
       },
       "id": "Wyvern Flight 3",
       "name": "飛龍行空3",
       "sp": 240,
       "icon": "skillB/Wyvern_Flight_3",
+      "rules": "learner.wielderFlying"
+    },
+    "Wyvern Rift": {
+      "pool": { "#": { "5": ["Rosado - Adorable Artist"] } },
+      "id": "Wyvern Rift",
+      "name": "飛龍裂空",
+      "sp": 300,
+      "icon": "skillB/Wyvern_Rift",
       "rules": "learner.wielderFlying"
     },
     "Guard Bearing 3": {
@@ -10990,6 +11047,7 @@
       "pool": {
         "#": {
           "5": [
+            "Kagetsu - Onigiri Samurai",
             "Nyx - Rulebreaker Mage",
             "Mareeta - The Blade's Pawn",
             "Galzus - Dark Blade of Od",
@@ -11537,7 +11595,13 @@
     },
     "A/R Far Trace 3": {
       "pool": {
-        "#": { "5": ["Hapi - Drawn-Out Sigh", "Letizia - Curse Director"] },
+        "#": {
+          "5": [
+            "Hapi - Drawn-Out Sigh",
+            "Ivy - Snow Queen",
+            "Letizia - Curse Director"
+          ]
+        },
         "special": {
           "5": [
             "Selena - Admiring General",
@@ -11552,6 +11616,14 @@
       "name": "攻擊魔防遠影3",
       "sp": 240,
       "icon": "skillB/A_R_Far_Trace_3",
+      "rules": "learner.far-trace"
+    },
+    "A/R Far Trace 4": {
+      "pool": { "#": { "5": ["Ivy - Snow Queen"] } },
+      "id": "A/R Far Trace 4",
+      "name": "攻擊魔防遠影4",
+      "sp": 300,
+      "icon": "skillB/A_R_Far_Trace_4",
       "rules": "learner.far-trace"
     },
     "S/D Far Trace 3": {
@@ -11910,7 +11982,11 @@
       "pool": {
         "#": {
           "3": ["Camilla - Bewitching Beauty", "Bantu - Tiki's Guardian"],
-          "5": ["Leo - Sorcerous Prince", "Rhajat - Black Magician"]
+          "5": [
+            "Leo - Sorcerous Prince",
+            "Rhajat - Black Magician",
+            "Ivy - Snow Queen"
+          ]
         },
         "grail": {
           "4": ["Riev - Blood Beryl"],
@@ -11928,7 +12004,10 @@
       "icon": "skillC/Savage_Blow_3"
     },
     "Deadly Miasma": {
-      "pool": { "legendary": { "5": ["Camilla - Alluring Darkness"] } },
+      "pool": {
+        "#": { "5": ["Ivy - Snow Queen"] },
+        "legendary": { "5": ["Camilla - Alluring Darkness"] }
+      },
       "id": "Deadly Miasma",
       "name": "死之瘴氣",
       "sp": 300,
@@ -14492,6 +14571,7 @@
           "5": ["Orson - Passion's Folly"]
         },
         "special": {
+          "4": ["Mauvier - Penitent Knight"],
           "5": [
             "Sylvain - Hanging with Tens",
             "Ephraim - Sunshine Valiant",
@@ -15151,6 +15231,14 @@
       "sp": 0,
       "icon": "skillX/Fleeting_Echo",
       "rules": "learner.ranged-not-staff"
+    },
+    "Soaring Echo": {
+      "pool": { "#": { "5": ["Ivy - Snow Queen"] } },
+      "id": "Soaring Echo",
+      "name": "響・飛走前導",
+      "sp": 0,
+      "icon": "skillX/Soaring_Echo",
+      "rules": "flying"
     }
   }
 }

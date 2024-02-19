@@ -1033,5 +1033,13 @@
     "sp": 500,
     "rules": "white-staff",
     "last": true
+  },
+  "Glitter of Light": {
+    "id": "Glitter of Light",
+    "name": "輝印的聖光",
+    "sp": 500,
+    "prev": ["Miracle"],
+    "rules": "white-staff",
+    "last": true
   }
 }

@@ -46125,6 +46125,144 @@
     "ver": "7.7",
     "dfKey": 5
   },
+  "Ivy - Snow Queen": {
+    "id": "Ivy - Snow Queen",
+    "title": "流風迴雪",
+    "name": "艾比",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-tome",
+    "attuned": true,
+    "releaseDate": "2024-02-19",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [44, 47, 51],
+        "spd": [31, 34, 38],
+        "def": [23, 26, 29],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 8,
+        "spd": 4,
+        "def": 11,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.2",
+    "dfKey": 6
+  },
+  "Kagetsu - Onigiri Samurai": {
+    "id": "Kagetsu - Onigiri Samurai",
+    "title": "飯糰武士",
+    "name": "花月",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2024-02-19",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [40, 43, 47],
+        "spd": [44, 47, 51],
+        "def": [32, 35, 38],
+        "res": [22, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 8,
+        "def": 9,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": [],
+    "statMin": 192,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.2",
+    "dfKey": 6
+  },
+  "Hortensia - Little Charmer": {
+    "id": "Hortensia - Little Charmer",
+    "title": "可愛的雪花",
+    "name": "奧爾坦希亞",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-staff",
+    "rearmed": true,
+    "releaseDate": "2024-02-19",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [33, 36, 40],
+        "atk": [41, 44, 48],
+        "spd": [44, 47, 51],
+        "def": [12, 16, 19],
+        "res": [31, 34, 37]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 14,
+        "spd": 8,
+        "def": 3,
+        "res": 8
+      }
+    },
+    "assets": ["hp", "atk", "spd"],
+    "flaws": ["def"],
+    "statMin": 177,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.2",
+    "dfKey": 6
+  },
+  "Rosado - Adorable Artist": {
+    "id": "Rosado - Adorable Artist",
+    "title": "畫中可人",
+    "name": "羅薩德",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-axe",
+    "releaseDate": "2024-02-19",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 46],
+        "spd": [43, 46, 50],
+        "def": [40, 44, 47],
+        "res": [12, 16, 19]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 7,
+        "def": 11,
+        "res": 3
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.2",
+    "dfKey": 6
+  },
   "Timerra - Trick or Meat": {
     "id": "Timerra - Trick or Meat",
     "title": "給糖不如給肉",
@@ -46377,6 +46515,69 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.10",
+    "dfKey": 6
+  },
+  "Mauvier - Penitent Knight": {
+    "id": "Mauvier - Penitent Knight",
+    "title": "救贖騎士",
+    "name": "莫布",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2024-02-19",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "3": {
+        "hp": [35, 38, 41],
+        "atk": [36, 39, 42],
+        "spd": [12, 15, 18],
+        "def": [38, 41, 44],
+        "res": [28, 31, 34]
+      },
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [38, 42, 45],
+        "spd": [13, 16, 19],
+        "def": [40, 43, 46],
+        "res": [30, 33, 36]
+      },
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [40, 44, 47],
+        "spd": [14, 18, 21],
+        "def": [43, 46, 50],
+        "res": [32, 35, 38]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 4,
+        "def": 6,
+        "res": 10
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 4,
+        "def": 6,
+        "res": 11
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 5,
+        "def": 7,
+        "res": 11
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["atk", "spd"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.2",
     "dfKey": 6
   }
 }

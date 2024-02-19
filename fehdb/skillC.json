@@ -460,6 +460,14 @@
     "last": true,
     "icon": "skillC/Darkling_Dragon"
   },
+  "Glittering Anima": {
+    "id": "Glittering Anima",
+    "name": "輝煌原力",
+    "sp": 300,
+    "exclusive": ["Hortensia - Little Charmer"],
+    "last": true,
+    "icon": "skillC/Glittering_Anima"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
