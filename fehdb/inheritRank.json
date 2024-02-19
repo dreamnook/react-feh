@@ -2139,19 +2139,6 @@
     "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 4 } }
   },
-  "Mauvier - Penitent Knight": {
-    "score": 211,
-    "scoreTotal": 387,
-    "poolRarity": 3,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 600,
-    "feather": 150,
-    "bst": 185,
-    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
-    "skillB": { "Seal Atk 3": { "sp": 160, "rarity": 5 } },
-    "skillC": { "Rouse Atk/Def 3": { "sp": 240, "rarity": 4 } }
-  },
   "Sylvain - Hanging with Tens": {
     "score": 196,
     "scoreTotal": 395,
@@ -4478,6 +4465,19 @@
     "special": { "Vengeance": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Res 2": { "sp": 160, "rarity": 5 } },
     "skillC": { "Drive Res 2": { "sp": 240, "rarity": 4 } }
+  },
+  "Mauvier - Penitent Knight": {
+    "score": 322,
+    "scoreTotal": 591,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 600,
+    "feather": 150,
+    "bst": 185,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Seal Atk 3": { "sp": 160, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Def 3": { "sp": 240, "rarity": 4 } }
   },
   "Jaffar - Angel of Death": {
     "score": 200,

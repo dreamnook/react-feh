@@ -46525,7 +46525,7 @@
     "colorType": "blue",
     "moveType": "cavalry",
     "weaponType": "blue-lance",
-    "pool": "special",
+    "pool": "grail",
     "releaseDate": "2024-02-19",
     "appearsIn": ["Engage"],
     "stats": {

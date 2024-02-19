@@ -4519,6 +4519,7 @@
         "grail": {
           "4": [
             "Robin - Mystery Tactician",
+            "Mauvier - Penitent Knight",
             "Zelot - Avowed Groom",
             "Hawkeye - Taciturn Guardian",
             "Vigarde - Warmhearted Sire",
@@ -4542,11 +4543,7 @@
         },
         "mythic": { "5": ["Freyr - Dream-King", "Reginn - Bearing Hope"] },
         "special": {
-          "4": [
-            "Mauvier - Penitent Knight",
-            "Manuela - Silver Caroler",
-            "Hana - Striving Heart"
-          ],
+          "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
             "Jakob - Devoted Monster",
             "Cherche - Shaded by Wings",
@@ -9609,8 +9606,8 @@
             "Catria - Middle Whitewing"
           ]
         },
-        "legendary": { "5": ["Robin - Exalt's Other Half"] },
-        "special": { "5": ["Mauvier - Penitent Knight"] }
+        "grail": { "5": ["Mauvier - Penitent Knight"] },
+        "legendary": { "5": ["Robin - Exalt's Other Half"] }
       },
       "id": "Seal Atk 3",
       "name": "攻擊封印3",
@@ -14567,11 +14564,10 @@
       "pool": {
         "#": { "5": ["Edelgard - The Future", "Mareeta - Sword of Stars"] },
         "grail": {
-          "4": ["Bertram - Dread Cavalier"],
+          "4": ["Mauvier - Penitent Knight", "Bertram - Dread Cavalier"],
           "5": ["Orson - Passion's Folly"]
         },
         "special": {
-          "4": ["Mauvier - Penitent Knight"],
           "5": [
             "Sylvain - Hanging with Tens",
             "Ephraim - Sunshine Valiant",
