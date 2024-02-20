@@ -24964,13 +24964,53 @@
       "sp": 300,
       "prev": ["Assault"],
       "refine": {
-        "wrathful": {
-          "name": "神罰",
-          "icon": "Wrathful_Staff_W"
+        "wrathful+mt": {
+          "name": "神罰+威力",
+          "icon": "Wrathful_Staff_W",
+          "hp": 2,
+          "mt": 1
         },
-        "dazzling": {
-          "name": "幻惑",
-          "icon": "Dazzling_Staff_W"
+        "wrathful+spd": {
+          "name": "神罰+速度",
+          "icon": "Wrathful_Staff_W",
+          "hp": 2,
+          "spd": 2
+        },
+        "wrathful+def": {
+          "name": "神罰+防守",
+          "icon": "Wrathful_Staff_W",
+          "hp": 2,
+          "def": 3
+        },
+        "wrathful+res": {
+          "name": "神罰+魔防",
+          "icon": "Wrathful_Staff_W",
+          "hp": 2,
+          "res": 3
+        },
+        "dazzling+mt": {
+          "name": "幻惑+威力",
+          "icon": "Dazzling_Staff_W",
+          "hp": 2,
+          "mt": 1
+        },
+        "dazzling+spd": {
+          "name": "幻惑+速度",
+          "icon": "Dazzling_Staff_W",
+          "hp": 2,
+          "spd": 2
+        },
+        "dazzling+def": {
+          "name": "幻惑+防守",
+          "icon": "Dazzling_Staff_W",
+          "hp": 2,
+          "def": 3
+        },
+        "dazzling+res": {
+          "name": "幻惑+魔防",
+          "icon": "Dazzling_Staff_W",
+          "hp": 2,
+          "res": 3
         }
       },
       "last": true
