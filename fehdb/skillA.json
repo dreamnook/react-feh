@@ -2074,7 +2074,7 @@
   },
   "Earthwind Boost 3": {
     "id": "Earthwind Boost 3",
-    "name": "生命業火大地3",
+    "name": "生命疾風大地3",
     "hp": 5,
     "sp": 300,
     "prev": ["Wind Boost 3", "Earth Boost 3"],
