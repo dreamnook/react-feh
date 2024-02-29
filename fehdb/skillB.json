@@ -4537,6 +4537,15 @@
     "icon": "skillB/Spd_Res_Bulwark_3",
     "last": true
   },
+  "Spd/Res Bulwark 4": {
+    "id": "Spd/Res Bulwark 4",
+    "name": "速度魔防防護屏障4",
+    "sp": 300,
+    "prev": ["Spd/Res Bulwark 3"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Spd_Res_Bulwark_4",
+    "last": true
+  },
   "Spd Preempt 1": {
     "id": "Spd Preempt 1",
     "name": "速度搶先1",

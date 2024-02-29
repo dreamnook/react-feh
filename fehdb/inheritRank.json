@@ -2508,6 +2508,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Kagetsu - Onigiri Samurai": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 192,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -5872,18 +5884,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Kagetsu - Onigiri Samurai": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 192,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -11594,6 +11594,19 @@
     "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wings of Mercy 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Alear - Engaging Fire": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Spd/Res Bulwark 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
   },
   "Bernadetta - Frosty Shut-In": {
     "score": 318,

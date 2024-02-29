@@ -204,7 +204,7 @@
         "refine": 350
       },
       "Reversal Blade+": {
-        "pool": { "#": { "5": ["Kagetsu - Onigiri Samurai"] } },
+        "pool": { "#": { "4": ["Kagetsu - Onigiri Samurai"] } },
         "id": "Reversal Blade+",
         "name": "強化反轉之劍+",
         "sp": 300,
@@ -3721,6 +3721,7 @@
             "Basilio - Feroxi West-Khan",
             "Inigo - Flower Picker"
           ],
+          "4": ["Kagetsu - Onigiri Samurai"],
           "5": [
             "Ephraim - Restoration Lord",
             "Tana - Winged Princess",
@@ -3728,7 +3729,6 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
-            "Kagetsu - Onigiri Samurai",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Celica - Valentia's Hope",
@@ -4625,7 +4625,11 @@
           "4": ["Cecilia - Festive Instructor", "Lloyd - White Wolf"]
         },
         "legendary": {
-          "5": ["Guinivere - Queen of Bern", "Deirdre - Fated Saint"]
+          "5": [
+            "Guinivere - Queen of Bern",
+            "Deirdre - Fated Saint",
+            "Alear - Engaging Fire"
+          ]
         },
         "mythic": {
           "5": [
@@ -4672,6 +4676,13 @@
       "name": "冰蒼",
       "sp": 200,
       "rules": "not.white-staff"
+    },
+    "Dragon's Roar": {
+      "pool": { "legendary": { "5": ["Alear - Engaging Fire"] } },
+      "id": "Dragon's Roar",
+      "name": "龍之咆哮",
+      "sp": 500,
+      "rules": "dragon"
     },
     "Glacies": {
       "pool": {
@@ -8390,9 +8401,9 @@
       "pool": {
         "#": {
           "3": ["Miriel - Rapier Intellect"],
+          "4": ["Kagetsu - Onigiri Samurai"],
           "5": [
             "Tina - Playful Scamp",
-            "Kagetsu - Onigiri Samurai",
             "Monica - Favored Vassal",
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
@@ -11043,8 +11054,8 @@
     "Null Follow-Up 3": {
       "pool": {
         "#": {
+          "4": ["Kagetsu - Onigiri Samurai"],
           "5": [
-            "Kagetsu - Onigiri Samurai",
             "Nyx - Rulebreaker Mage",
             "Mareeta - The Blade's Pawn",
             "Galzus - Dark Blade of Od",
@@ -11836,11 +11847,22 @@
       "rules": "learner.infantry-melee"
     },
     "Spd/Res Bulwark 3": {
-      "pool": { "#": { "5": ["Tiki - Awakened Blood"] } },
+      "pool": {
+        "#": { "5": ["Tiki - Awakened Blood"] },
+        "legendary": { "5": ["Alear - Engaging Fire"] }
+      },
       "id": "Spd/Res Bulwark 3",
       "name": "速度魔防防護屏障3",
       "sp": 240,
       "icon": "skillB/Spd_Res_Bulwark_3",
+      "rules": "learner.infantry-melee"
+    },
+    "Spd/Res Bulwark 4": {
+      "pool": { "legendary": { "5": ["Alear - Engaging Fire"] } },
+      "id": "Spd/Res Bulwark 4",
+      "name": "速度魔防防護屏障4",
+      "sp": 300,
+      "icon": "skillB/Spd_Res_Bulwark_4",
       "rules": "learner.infantry-melee"
     },
     "Spd Preempt 3": {
@@ -14725,7 +14747,8 @@
           "5": [
             "Celica - Queen of Valentia",
             "Shez - Sharpest Blades",
-            "Alear - Awoken Divinity"
+            "Alear - Awoken Divinity",
+            "Alear - Engaging Fire"
           ]
         },
         "special": {
@@ -14851,7 +14874,11 @@
       "rules": "learner.oath-skills"
     },
     "Atk/Spd Pledge": {
-      "pool": { "legendary": { "5": ["Alear - Awoken Divinity"] } },
+      "pool": {
+        "legendary": {
+          "5": ["Alear - Awoken Divinity", "Alear - Engaging Fire"]
+        }
+      },
       "id": "Atk/Spd Pledge",
       "name": "攻擊速度的信念",
       "sp": 300,

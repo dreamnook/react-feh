@@ -679,6 +679,15 @@
     "prev": ["Chilling Wind"],
     "last": true
   },
+  "Dragon's Roar": {
+    "id": "Dragon's Roar",
+    "name": "龍之咆哮",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Iceberg"],
+    "rules": "dragon",
+    "last": true
+  },
   "Glacies": {
     "id": "Glacies",
     "name": "冰華",

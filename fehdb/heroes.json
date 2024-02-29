@@ -45660,6 +45660,44 @@
     "ver": "7.7",
     "dfKey": 5
   },
+  "Alear - Engaging Fire": {
+    "id": "Alear - Engaging Fire",
+    "title": "繫承的絆炎",
+    "name": "琉爾",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-dragon",
+    "bst": 205,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "earth-spd-2",
+    "releaseDate": "2024-02-29",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [37, 40, 43],
+        "atk": [38, 41, 45],
+        "spd": [43, 46, 49],
+        "def": [27, 30, 33],
+        "res": [38, 41, 44]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 11,
+        "def": 4,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": [],
+    "statMin": 198,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.2",
+    "dfKey": 6
+  },
   "Lumera - Dragon Monarch": {
     "id": "Lumera - Dragon Monarch",
     "title": "神龍王",
@@ -46164,19 +46202,33 @@
     "id": "Kagetsu - Onigiri Samurai",
     "title": "飯糰武士",
     "name": "花月",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
     "releaseDate": "2024-02-19",
     "appearsIn": ["Engage"],
     "stats": {
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [38, 41, 45],
+        "spd": [41, 44, 47],
+        "def": [30, 33, 36],
+        "res": [20, 23, 26]
+      },
       "5": {
         "hp": [39, 42, 45],
         "atk": [40, 43, 47],
         "spd": [44, 47, 51],
         "def": [32, 35, 38],
         "res": [22, 25, 28]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 7,
+        "def": 9,
+        "res": 7
       },
       "5-1": {
         "hp": 18,

@@ -236,6 +236,14 @@
     "last": true,
     "icon": "skillA/Obsession"
   },
+  "Emblems' Miracle": {
+    "id": "Emblems' Miracle",
+    "name": "紋章奇蹟",
+    "sp": 300,
+    "exclusive": ["Alear - Engaging Fire"],
+    "last": true,
+    "icon": "skillA/Emblems'_Miracle"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

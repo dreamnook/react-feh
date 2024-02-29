@@ -25694,6 +25694,34 @@
       "Green Feud 3": 4
     }
   },
+  "Alear - Engaging Fire": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Divine One's Arts": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Iceberg": 4,
+      "Dragon's Roar": 5
+    },
+    "skillA": {
+      "Emblems' Miracle": 5
+    },
+    "skillB": {
+      "Spd/Res Bulwark 1": 2,
+      "Spd/Res Bulwark 2": 3,
+      "Spd/Res Bulwark 3": 4,
+      "Spd/Res Bulwark 4": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Pledge": 5
+    }
+  },
   "Lumera - Dragon Monarch": {
     "weapon": {
       "Iron Sword": 1,

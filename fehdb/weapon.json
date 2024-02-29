@@ -26887,6 +26887,16 @@
       "exclusive": ["Myrrh - Adored Dragon"],
       "last": true
     },
+    "Divine One's Arts": {
+      "id": "Divine One's Arts",
+      "name": "神龍王體術",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Alear - Engaging Fire"],
+      "last": true
+    },
     "Arcane Grima": {
       "id": "Arcane Grima",
       "name": "魔器津利",
