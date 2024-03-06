@@ -7944,7 +7944,8 @@
           "3": ["Lapis - Mighty Flower"],
           "5": ["Febail - Mercenary Waif", "Ylgr - Fresh Snowfall"]
         },
-        "legendary": { "5": ["Yuri - Underground Lord"] }
+        "legendary": { "5": ["Yuri - Underground Lord"] },
+        "mythic": { "5": ["Dagr - Sun's Radiance"] }
       },
       "id": "Sorcery Blade 3",
       "name": "魔道之刃3",
@@ -7953,7 +7954,10 @@
       "rules": "learner.infantry-def-dmger"
     },
     "Atk/Spd Hexblade": {
-      "pool": { "legendary": { "5": ["Yuri - Underground Lord"] } },
+      "pool": {
+        "legendary": { "5": ["Yuri - Underground Lord"] },
+        "mythic": { "5": ["Dagr - Sun's Radiance"] }
+      },
       "id": "Atk/Spd Hexblade",
       "name": "攻擊速度的魔刃",
       "sp": 300,
@@ -8876,6 +8880,7 @@
     "Atk/Res Scowl 3": {
       "pool": {
         "#": { "5": ["Rhea - Loving Matriarch"] },
+        "mythic": { "5": ["Seiros - Saint of Legend"] },
         "special": { "4": ["Kana - Rising Dragon"] }
       },
       "id": "Atk/Res Scowl 3",
@@ -8885,7 +8890,10 @@
       "rules": "dragon"
     },
     "Atk/Res Scowl 4": {
-      "pool": { "#": { "5": ["Rhea - Loving Matriarch"] } },
+      "pool": {
+        "#": { "5": ["Rhea - Loving Matriarch"] },
+        "mythic": { "5": ["Seiros - Saint of Legend"] }
+      },
       "id": "Atk/Res Scowl 4",
       "name": "攻擊魔防的龍眼4",
       "sp": 300,

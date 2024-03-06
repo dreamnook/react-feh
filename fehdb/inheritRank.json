@@ -6051,7 +6051,7 @@
     "feather": 1000,
     "bst": 176,
     "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Spd Hexblade": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Tempest 3": { "sp": 240, "rarity": 5 } }
   },
   "Seiros - Saint of Legend": {
@@ -6064,7 +6064,7 @@
     "feather": 1000,
     "bst": 177,
     "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Mirror Impact": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Res Scowl 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
   },
   "Arval - Cycle Keeper": {

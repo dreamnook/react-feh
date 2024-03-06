@@ -220,6 +220,15 @@
     "last": true,
     "icon": "skillC/Inevitable_Death"
   },
+  "Wings of Light+": {
+    "id": "Wings of Light+",
+    "name": "燦爛光翼・神",
+    "sp": 300,
+    "prev": ["Wings of Light"],
+    "exclusive": ["Seiros - Saint of Legend"],
+    "last": true,
+    "icon": "skillC/Wings_of_Light+"
+  },
   "Wings of Light": {
     "id": "Wings of Light",
     "name": "燦爛光翼",

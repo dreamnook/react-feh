@@ -345,6 +345,15 @@
     "last": true,
     "icon": "skillB/Fallen_Star"
   },
+  "Sun-Twin Wing+": {
+    "id": "Sun-Twin Wing+",
+    "name": "雙姬的陽翼・神",
+    "sp": 300,
+    "prev": ["Sun-Twin Wing"],
+    "exclusive": ["Dagr - Sun's Radiance"],
+    "last": true,
+    "icon": "skillB/Sun-Twin_Wing+"
+  },
   "Sun-Twin Wing": {
     "id": "Sun-Twin Wing",
     "name": "雙姬的陽翼",

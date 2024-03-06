@@ -9672,6 +9672,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Annette - Overachiever"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Crusher_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Bun-Bun Baton": {
@@ -10063,6 +10086,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Dagr - Sun's Radiance"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Skinfaxi_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Axe of Despair": {
@@ -13602,6 +13648,36 @@
       "exclusive": ["Igrene - Sworn Protectors"],
       "last": true
     },
+    "Lucky Bow": {
+      "id": "Lucky Bow",
+      "name": "咒語之弓",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Midori - Reliable Chemist"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Lucky_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",
@@ -15668,6 +15744,28 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Gangrel - Plegia's Mad King"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Levin_Dagger_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Summer Strikers": {
@@ -24361,6 +24459,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Micaiah - Dawn Wind's Duo"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Joyful_Vows_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Jokers Wild": {
@@ -26338,6 +26458,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Corrin - Bloodbound Beast"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Brutal_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Nurturing Breath": {
@@ -26533,6 +26676,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Seiros - Saint of Legend"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Aurora_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Lilac-Jade Breath": {
