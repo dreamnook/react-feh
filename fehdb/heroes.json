@@ -2528,6 +2528,41 @@
     "ver": "6.0",
     "dfKey": 4
   },
+  "Mirabilis - Spring Daydream": {
+    "id": "Mirabilis - Spring Daydream",
+    "title": "午睡天氣的",
+    "name": "露琵娜斯",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-tome",
+    "pool": "special",
+    "releaseDate": "2024-03-07",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [33, 36, 40],
+        "spd": [15, 18, 21],
+        "def": [33, 36, 39],
+        "res": [37, 41, 44]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 6,
+        "spd": 3,
+        "def": 10,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 168,
+    "statMax": 170,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
+  },
   "Plumeria - Lewd Dream": {
     "id": "Plumeria - Lewd Dream",
     "title": "淫夢的",
@@ -42114,6 +42149,55 @@
     "ver": "5.3",
     "dfKey": 3
   },
+  "Linhardt - Spring Snoozer": {
+    "id": "Linhardt - Spring Snoozer",
+    "title": "春眠之徒",
+    "name": "林哈爾特",
+    "rarity": [5, 4],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-bow",
+    "pool": "grail",
+    "releaseDate": "2024-03-07",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [40, 44, 47],
+        "spd": [25, 28, 31],
+        "def": [21, 24, 27],
+        "res": [40, 43, 46]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 46, 49],
+        "spd": [28, 31, 34],
+        "def": [22, 25, 28],
+        "res": [43, 46, 50]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 6,
+        "def": 8,
+        "res": 6
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 7,
+        "def": 8,
+        "res": 7
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
+  },
   "Caspar - Summer Intensity": {
     "id": "Caspar - Summer Intensity",
     "title": "灼熱的猛烈特訓",
@@ -42927,6 +43011,41 @@
     "book": 7,
     "ver": "7.4",
     "dfKey": 5
+  },
+  "Sylvain - Spring Flingster": {
+    "id": "Sylvain - Spring Flingster",
+    "title": "期待著春天的邂逅",
+    "name": "希爾凡",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2024-03-07",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 51],
+        "spd": [41, 45, 48],
+        "def": [29, 32, 35],
+        "res": [17, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 12,
+        "def": 6,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
   },
   "Mercedes - Kindly Devotee": {
     "id": "Mercedes - Kindly Devotee",
@@ -45798,6 +45917,41 @@
     "ver": "8.1",
     "dfKey": 6
   },
+  "Framme - Spring Fangirl": {
+    "id": "Framme - Spring Fangirl",
+    "title": "季節中最愛春天",
+    "name": "芙嵐",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2024-03-07",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [38, 41, 45],
+        "spd": [43, 46, 49],
+        "def": [26, 30, 33],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 11,
+        "def": 8,
+        "res": 7
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["def"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
+  },
   "Alfred - Floral Protector": {
     "id": "Alfred - Floral Protector",
     "title": "守護笑容之花",
@@ -45962,6 +46116,41 @@
     "book": 7,
     "ver": "7.1",
     "dfKey": 5
+  },
+  "Chloé - Spring Wings": {
+    "id": "Chloé - Spring Wings",
+    "title": "飛舞春空的雙翼",
+    "name": "克蘿艾",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-tome",
+    "pool": "harmonized",
+    "releaseDate": "2024-03-07",
+    "appearsIn": ["Awakening", "Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 43, 46],
+        "spd": [44, 47, 51],
+        "def": [19, 22, 25],
+        "res": [23, 26, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 5,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
   },
   "Diamant - Rising Power": {
     "id": "Diamant - Rising Power",

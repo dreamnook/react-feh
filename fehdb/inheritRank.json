@@ -4011,6 +4011,18 @@
     "skillA": { "Sturdy Blow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Dull Close 3": { "sp": 240, "rarity": 5 } }
   },
+  "Mirabilis - Spring Daydream": {
+    "score": 254,
+    "scoreTotal": 509,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 1000,
+    "bst": 168,
+    "skillB": { "Mystic Boost 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Soren - Shrewd Strategist": {
     "score": 249,
     "scoreTotal": 511,
@@ -5174,6 +5186,19 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
     "skillA": { "Life and Death 3": { "sp": 200, "rarity": 5 } },
     "skillB": { "Wrath 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Linhardt - Spring Snoozer": {
+    "score": 299,
+    "scoreTotal": 646,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 300,
+    "bst": 188,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Still Water 3": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Sabotage Def 3": { "sp": 240, "rarity": 4 } }
   },
   "Xander - Paragon Knight": {
     "score": 403,
@@ -12874,6 +12899,20 @@
     "skillB": { "Escape Route 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
+  "Chloé - Spring Wings": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 178,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Occultist's Strike": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Crux": { "sp": 300, "rarity": 5 } }
+  },
   "Yunaka - Spirited Envoy": {
     "score": 318,
     "scoreTotal": 1166,
@@ -12957,6 +12996,20 @@
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Wrath 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
+  },
+  "Framme - Spring Fangirl": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Firestorm Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Infantry Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Black Knight - The Night's Blade": {
     "score": 318,
@@ -13603,5 +13656,19 @@
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd/Def Snag 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Inf. Spd Tactic": { "sp": 300, "rarity": 5 } }
+  },
+  "Sylvain - Spring Flingster": {
+    "score": 530,
+    "scoreTotal": 1590,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 185,
+    "assist": { "Rally Atk/Spd+": { "sp": 400, "rarity": 5 } },
+    "special": { "No Quarter": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/D Near Trace 4": { "sp": 300, "rarity": 5 } }
   }
 }

@@ -148,7 +148,8 @@
       "Seadall - Misfortune-Teller",
       "Peony - Cherished Dream",
       "Triandra - Reverent Dream",
-      "Lara - Step Lively"
+      "Lara - Step Lively",
+      "Mirabilis - Spring Daydream"
     ],
     "last": true
   },
@@ -303,6 +304,14 @@
     "sp": 400,
     "prev": ["Swap"],
     "exclusive": ["Lucina - Fate's Resolve"],
+    "last": true
+  },
+  "Spring's Dream": {
+    "id": "Spring's Dream",
+    "name": "白春之夢",
+    "sp": 400,
+    "prev": ["Dance"],
+    "exclusive": ["Mirabilis - Spring Daydream"],
     "last": true
   },
   "Heal": {

@@ -2062,6 +2062,15 @@
     "icon": "skillA/Water_Boost_3",
     "last": true
   },
+  "Firestorm Boost 3": {
+    "id": "Firestorm Boost 3",
+    "name": "生命業火疾風3",
+    "hp": 5,
+    "sp": 300,
+    "prev": ["Fire Boost 3", "Wind Boost 3"],
+    "last": true,
+    "icon": "skillA/Firestorm_Boost_3"
+  },
   "Earthfire Boost 3": {
     "id": "Earthfire Boost 3",
     "name": "生命業火大地3",

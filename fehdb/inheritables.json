@@ -1492,6 +1492,13 @@
         "name": "金鹿的聖夜之弓+",
         "sp": 300,
         "refine": 350
+      },
+      "Carrot Bow+": {
+        "pool": { "grail": { "5": ["Linhardt - Spring Snoozer"] } },
+        "id": "Carrot Bow+",
+        "name": "胡蘿蔔弓+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "dagger": {
@@ -3206,7 +3213,8 @@
             "L'Arachel - Harvest Princess",
             "Inigo - Festival Flower",
             "Heather - Wandering Ninja",
-            "Soren - Addled Strategist"
+            "Soren - Addled Strategist",
+            "Sylvain - Spring Flingster"
           ]
         }
       },
@@ -3232,7 +3240,8 @@
             "L'Arachel - Harvest Princess",
             "Inigo - Festival Flower",
             "Heather - Wandering Ninja",
-            "Soren - Addled Strategist"
+            "Soren - Addled Strategist",
+            "Sylvain - Spring Flingster"
           ]
         }
       },
@@ -4310,7 +4319,8 @@
             "Shanna - Bridal Novice",
             "Tana - Frelian Starlight",
             "Bernadetta - Late Hibernator",
-            "Dimitri - Blessed Protector"
+            "Dimitri - Blessed Protector",
+            "Sylvain - Spring Flingster"
           ]
         },
         "duo": {
@@ -4321,7 +4331,9 @@
             "Byleth - Fell Star's Duo"
           ]
         },
-        "harmonized": { "5": ["Karla - Spring Reveries"] }
+        "harmonized": {
+          "5": ["Karla - Spring Reveries", "Chloé - Spring Wings"]
+        }
       },
       "id": "Draconic Aura",
       "name": "龍裂",
@@ -4382,7 +4394,8 @@
             "Corrin - Novice Vacationer",
             "Ephraim - Sparkling Gallantly",
             "Mia - Budding Blade",
-            "Corrin - Starry Seer"
+            "Corrin - Starry Seer",
+            "Framme - Spring Fangirl"
           ]
         }
       },
@@ -4405,7 +4418,11 @@
       "rules": "learner.ruptured-sky"
     },
     "No Quarter": {
-      "pool": { "special": { "5": ["Dimitri - Blessed Protector"] } },
+      "pool": {
+        "special": {
+          "5": ["Dimitri - Blessed Protector", "Sylvain - Spring Flingster"]
+        }
+      },
       "id": "No Quarter",
       "name": "車懸",
       "sp": 500,
@@ -4701,6 +4718,7 @@
         "grail": {
           "4": [
             "Brunnya - Devoted General",
+            "Linhardt - Spring Snoozer",
             "Soren - Wind of Tradition",
             "Sonia - Inhuman Beauty",
             "Riev - Blood Beryl",
@@ -5622,7 +5640,9 @@
     "Still Water 3": {
       "pool": {
         "#": { "5": ["Safy - Font of Piety", "Plumeria - Rapturous Dream"] },
-        "grail": { "5": ["Tailtiu - Teatime Mingler"] },
+        "grail": {
+          "5": ["Tailtiu - Teatime Mingler", "Linhardt - Spring Snoozer"]
+        },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
         "special": { "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"] },
@@ -5860,6 +5880,7 @@
             "Mia - Harmonic Blades",
             "Lysithea - Gifted Students",
             "Linde - Bound by Fate",
+            "Chloé - Spring Wings",
             "Igrene - Sworn Protectors"
           ]
         }
@@ -6119,7 +6140,7 @@
         "duo": {
           "5": ["Kagero - Bond Unwavering", "Shamir - Heartbeats United"]
         },
-        "harmonized": { "5": ["Linde - Bound by Fate"] }
+        "harmonized": { "5": ["Linde - Bound by Fate", "Chloé - Spring Wings"] }
       },
       "id": "Remote Sparrow",
       "name": "鬼神飛燕離擊",
@@ -7015,7 +7036,9 @@
           "4": ["Astram - Midia's Hero"],
           "5": ["Lifis - Terror of Iz"]
         },
-        "special": { "5": ["Charlotte - Money Maiden"] }
+        "special": {
+          "5": ["Charlotte - Money Maiden", "Framme - Spring Fangirl"]
+        }
       },
       "id": "Wind Boost 3",
       "name": "生命疾風3",
@@ -7049,6 +7072,13 @@
       "name": "生命靜水3",
       "sp": 200,
       "icon": "skillA/Water_Boost_3"
+    },
+    "Firestorm Boost 3": {
+      "pool": { "special": { "5": ["Framme - Spring Fangirl"] } },
+      "id": "Firestorm Boost 3",
+      "name": "生命業火疾風3",
+      "sp": 300,
+      "icon": "skillA/Firestorm_Boost_3"
     },
     "Earthfire Boost 3": {
       "pool": { "special": { "5": ["Ephraim - Ardent Prince"] } },
@@ -8620,7 +8650,7 @@
         },
         "special": {
           "4": ["Panne - Welcoming Dawn"],
-          "5": ["Dagr - Bluster Princess"]
+          "5": ["Dagr - Bluster Princess", "Sylvain - Spring Flingster"]
         },
         "harmonized": {
           "5": [
@@ -8657,7 +8687,9 @@
             "Nerþuz - God of the Land"
           ]
         },
-        "special": { "5": ["Dagr - Bluster Princess"] },
+        "special": {
+          "5": ["Dagr - Bluster Princess", "Sylvain - Spring Flingster"]
+        },
         "harmonized": {
           "5": [
             "Karla - Spring Reveries",
@@ -9553,7 +9585,8 @@
         "grail": { "4": ["Clarisse - Sniper in the Dark"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "5": ["Yunaka - Spirited Envoy"] },
-        "duo": { "5": ["Lyon - Esteemed Royals"] }
+        "duo": { "5": ["Lyon - Esteemed Royals"] },
+        "harmonized": { "5": ["Chloé - Spring Wings"] }
       },
       "id": "Poison Strike 3",
       "name": "蛇毒3",
@@ -9572,7 +9605,8 @@
     "Occultist's Strike": {
       "pool": {
         "mythic": { "5": ["Gullveig - Golden Seer"] },
-        "duo": { "5": ["Lyon - Esteemed Royals"] }
+        "duo": { "5": ["Lyon - Esteemed Royals"] },
+        "harmonized": { "5": ["Chloé - Spring Wings"] }
       },
       "id": "Occultist's Strike",
       "name": "魔之蛇毒",
@@ -9997,7 +10031,10 @@
     "Sabotage Def 3": {
       "pool": {
         "#": { "5": ["Morgan - Fated Darkness"] },
-        "grail": { "5": ["Cornelia - Saint Consumed"] },
+        "grail": {
+          "4": ["Linhardt - Spring Snoozer"],
+          "5": ["Cornelia - Saint Consumed"]
+        },
         "mythic": { "5": ["Mirabilis - Daydream"] },
         "special": { "5": ["Lilina - Beachside Bloom"] }
       },
@@ -11153,6 +11190,7 @@
       "pool": {
         "#": { "5": ["Eir - Life Ascendant"] },
         "mythic": { "5": ["Eir - Merciful Death"] },
+        "special": { "5": ["Mirabilis - Spring Daydream"] },
         "duo": { "5": ["Ymir - Seasons of Life", "Micaiah - Dawn Wind's Duo"] }
       },
       "id": "Mystic Boost 3",
@@ -11407,7 +11445,13 @@
           ]
         },
         "legendary": { "5": ["Roy - Blazing Lion"] },
-        "special": { "5": ["Fjorm - Seaside Thaw", "Timerra - Trick or Meat"] }
+        "special": {
+          "5": [
+            "Fjorm - Seaside Thaw",
+            "Framme - Spring Fangirl",
+            "Timerra - Trick or Meat"
+          ]
+        }
       },
       "id": "Spurn 3",
       "name": "迴避・憤怒3",
@@ -11417,7 +11461,13 @@
     },
     "Spurn 4": {
       "pool": {
-        "special": { "5": ["Fjorm - Seaside Thaw", "Timerra - Trick or Meat"] }
+        "special": {
+          "5": [
+            "Fjorm - Seaside Thaw",
+            "Framme - Spring Fangirl",
+            "Timerra - Trick or Meat"
+          ]
+        }
       },
       "id": "Spurn 4",
       "name": "迴避・憤怒4",
@@ -11566,7 +11616,8 @@
             "Eliwood - Pledged Friend",
             "Tana - Frelian Starlight",
             "Naesala - Sea's Shadow",
-            "Ashe - Fabled Sea Knight"
+            "Ashe - Fabled Sea Knight",
+            "Sylvain - Spring Flingster"
           ]
         }
       },
@@ -11574,6 +11625,14 @@
       "name": "速度防守近影3",
       "sp": 240,
       "icon": "skillB/S_D_Near_Trace_3",
+      "rules": "learner.near-trace"
+    },
+    "S/D Near Trace 4": {
+      "pool": { "special": { "5": ["Sylvain - Spring Flingster"] } },
+      "id": "S/D Near Trace 4",
+      "name": "速度防守近影4",
+      "sp": 300,
+      "icon": "skillB/S_D_Near_Trace_4",
       "rules": "learner.near-trace"
     },
     "S/R Near Trace 3": {
@@ -12644,6 +12703,7 @@
         "special": {
           "5": [
             "Naga - Harvest Divinity",
+            "Mirabilis - Spring Daydream",
             "Katarina - Torchlit Wanderer",
             "Sophia - Prescient Bride",
             "Camilla - Midnight Bloom"
@@ -12700,7 +12760,9 @@
         "special": {
           "5": ["Ferdinand - Highborn Sipper", "Tharja - Florid Charmer"]
         },
-        "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
+        "harmonized": {
+          "5": ["Sonya - Dazzling Rabbits", "Chloé - Spring Wings"]
+        }
       },
       "id": "Spd/Res Rein 3",
       "name": "速度魔防牽制3",
@@ -12800,6 +12862,14 @@
       "sp": 300,
       "icon": "skillC/S_D_Rein_Snap",
       "rules": "learner.flying-melee"
+    },
+    "Spd/Res Crux": {
+      "pool": { "harmonized": { "5": ["Chloé - Spring Wings"] } },
+      "id": "Spd/Res Crux",
+      "name": "速度魔防的十字牽制",
+      "sp": 300,
+      "icon": "skillC/Spd_Res_Crux",
+      "rules": "flying"
     },
     "Hone Atk 3": {
       "pool": {
@@ -13882,7 +13952,7 @@
         },
         "special": {
           "4": ["Geese - A Life at Sea"],
-          "5": ["Xander - Student Swimmer"]
+          "5": ["Xander - Student Swimmer", "Framme - Spring Fangirl"]
         }
       },
       "id": "Infantry Pulse 3",
@@ -13893,7 +13963,8 @@
     },
     "Infantry Pulse 4": {
       "pool": {
-        "#": { "5": ["Tina - Playful Scamp", "Ced - Sage of the Wind"] }
+        "#": { "5": ["Tina - Playful Scamp", "Ced - Sage of the Wind"] },
+        "special": { "5": ["Framme - Spring Fangirl"] }
       },
       "id": "Infantry Pulse 4",
       "name": "步行之躍動4",

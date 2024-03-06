@@ -7117,6 +7117,16 @@
       "exclusive": ["Mauvier - Penitent Knight"],
       "last": true
     },
+    "Flingster Spear": {
+      "id": "Flingster Spear",
+      "name": "春天的邂逅之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Sylvain - Spring Flingster"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -10672,6 +10682,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Rosado - Adorable Artist"],
+      "last": true
+    },
+    "Hippity-Hop Axe": {
+      "id": "Hippity-Hop Axe",
+      "name": "春天跳躍的白兔之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Framme - Spring Fangirl"],
       "last": true
     },
     "Arcane Downfall": {
@@ -15262,6 +15282,39 @@
         }
       },
       "last": true
+    },
+    "Carrot Bow": {
+      "id": "Carrot Bow",
+      "name": "胡蘿蔔弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Carrot Bow+": {
+      "id": "Carrot Bow+",
+      "name": "胡蘿蔔弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Carrot Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "dagger": {
@@ -19512,6 +19565,16 @@
       "exclusive": ["Validar - Fell Architect"],
       "last": true
     },
+    "Sky-Hopper Egg": {
+      "id": "Sky-Hopper Egg",
+      "name": "飛舞春風天馬兔之卵",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Chloé - Spring Wings"],
+      "last": true
+    },
     "Arcane Eclipse": {
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
@@ -21354,6 +21417,16 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Ivy - Snow Queen"],
+      "last": true
+    },
+    "Daydream Egg": {
+      "id": "Daydream Egg",
+      "name": "春色蕩漾的白夢之卵",
+      "mt": 14,
+      "res": 3,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Mirabilis - Spring Daydream"],
       "last": true
     },
     "Arcane Euphoria": {

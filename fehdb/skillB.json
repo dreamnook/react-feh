@@ -4036,6 +4036,15 @@
     "icon": "skillB/S_D_Near_Trace_3",
     "last": true
   },
+  "S/D Near Trace 4": {
+    "id": "S/D Near Trace 4",
+    "name": "速度防守近影4",
+    "sp": 300,
+    "prev": ["S/D Near Trace 3"],
+    "rules": "learner.near-trace",
+    "icon": "skillB/S_D_Near_Trace_4",
+    "last": true
+  },
   "S/R Near Trace 1": {
     "id": "S/R Near Trace 1",
     "name": "速度魔防近影1",

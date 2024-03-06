@@ -1181,6 +1181,15 @@
     "last": true,
     "icon": "skillC/S_D_Rein_Snap"
   },
+  "Spd/Res Crux": {
+    "id": "Spd/Res Crux",
+    "name": "速度魔防的十字牽制",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Spd/Res Rein 3"],
+    "last": true,
+    "icon": "skillC/Spd_Res_Crux"
+  },
   "Hone Atk 1": {
     "id": "Hone Atk 1",
     "name": "攻擊鼓舞1",
