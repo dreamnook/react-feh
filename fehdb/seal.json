@@ -4165,6 +4165,30 @@
       "icon": "skillC/Rouse_Spd_Def_3",
       "last": true
     },
+    "Rouse Def/Res 1": {
+      "id": "Rouse Def/Res 1",
+      "name": "防守魔防的奮起1",
+      "sp": 60,
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Def_Res_1"
+    },
+    "Rouse Def/Res 2": {
+      "id": "Rouse Def/Res 2",
+      "name": "防守魔防的奮起2",
+      "sp": 120,
+      "prev": ["Rouse Def/Res 1"],
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Def_Res_2"
+    },
+    "Rouse Def/Res 3": {
+      "id": "Rouse Def/Res 3",
+      "name": "防守魔防的奮起3",
+      "sp": 240,
+      "prev": ["Rouse Def/Res 2"],
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Def_Res_3",
+      "last": true
+    },
     "Atk/Spd Oath 1": {
       "id": "Atk/Spd Oath 1",
       "name": "攻擊速度的信義1",

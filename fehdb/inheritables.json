@@ -14037,7 +14037,8 @@
       "id": "Inf. Null Follow 3",
       "name": "步行識破追擊3",
       "sp": 240,
-      "icon": "skillC/Inf._Null_Follow_3"
+      "icon": "skillC/Inf._Null_Follow_3",
+      "rules": "infantry"
     },
     "Inf. Null Follow 4": {
       "pool": {
@@ -14047,7 +14048,8 @@
       "id": "Inf. Null Follow 4",
       "name": "步行識破追擊4",
       "sp": 300,
-      "icon": "skillC/Inf._Null_Follow_4"
+      "icon": "skillC/Inf._Null_Follow_4",
+      "rules": "infantry"
     },
     "Armor March 3": {
       "pool": {

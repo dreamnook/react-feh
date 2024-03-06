@@ -2297,6 +2297,7 @@
     "id": "Inf. Null Follow 1",
     "name": "步行識破追擊1",
     "sp": 60,
+    "rules": "infantry",
     "icon": "skillC/Inf._Null_Follow_1"
   },
   "Inf. Null Follow 2": {
@@ -2304,6 +2305,7 @@
     "name": "步行識破追擊2",
     "sp": 120,
     "prev": ["Inf. Null Follow 1"],
+    "rules": "infantry",
     "icon": "skillC/Inf._Null_Follow_2"
   },
   "Inf. Null Follow 3": {
@@ -2311,6 +2313,7 @@
     "name": "步行識破追擊3",
     "sp": 240,
     "prev": ["Inf. Null Follow 2"],
+    "rules": "infantry",
     "icon": "skillC/Inf._Null_Follow_3",
     "last": true
   },
@@ -2319,6 +2322,7 @@
     "name": "步行識破追擊4",
     "sp": 300,
     "prev": ["Inf. Null Follow 3"],
+    "rules": "infantry",
     "icon": "skillC/Inf._Null_Follow_4",
     "last": true
   },
