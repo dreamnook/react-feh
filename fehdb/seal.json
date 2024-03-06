@@ -2102,6 +2102,30 @@
       "rules": "learner.infantry-armored",
       "icon": "skillA/Def_Res_Ideal_3",
       "last": true
+    },
+    "Atk/Def Clash 1": {
+      "id": "Atk/Def Clash 1",
+      "name": "攻擊防守的激戰1",
+      "sp": 60,
+      "rules": "learner.infantry-cavalry-flying-melee",
+      "icon": "skillA/Atk_Def_Clash_1"
+    },
+    "Atk/Def Clash 2": {
+      "id": "Atk/Def Clash 2",
+      "name": "攻擊防守的激戰2",
+      "sp": 120,
+      "prev": ["Atk/Def Clash 1"],
+      "rules": "learner.infantry-cavalry-flying-melee",
+      "icon": "skillA/Atk_Def_Clash_2"
+    },
+    "Atk/Def Clash 3": {
+      "id": "Atk/Def Clash 3",
+      "name": "攻擊防守的激戰3",
+      "sp": 240,
+      "prev": ["Atk/Def Clash 2"],
+      "rules": "learner.infantry-cavalry-flying-melee",
+      "icon": "skillA/Atk_Def_Clash_3",
+      "last": true
     }
   },
   "skillB": {
