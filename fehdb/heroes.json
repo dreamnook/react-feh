@@ -2532,7 +2532,7 @@
     "id": "Mirabilis - Spring Daydream",
     "title": "午睡天氣的",
     "name": "露琵娜斯",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "flying",
     "weaponType": "blue-tome",
@@ -2540,12 +2540,26 @@
     "releaseDate": "2024-03-07",
     "appearsIn": ["Heroes"],
     "stats": {
+      "4": {
+        "hp": [31, 34, 37],
+        "atk": [30, 33, 37],
+        "spd": [13, 16, 19],
+        "def": [31, 34, 37],
+        "res": [35, 39, 42]
+      },
       "5": {
         "hp": [33, 37, 40],
         "atk": [33, 36, 40],
         "spd": [15, 18, 21],
         "def": [33, 36, 39],
         "res": [37, 41, 44]
+      },
+      "4-1": {
+        "hp": 14,
+        "atk": 5,
+        "spd": 2,
+        "def": 10,
+        "res": 8
       },
       "5-1": {
         "hp": 15,
@@ -5134,6 +5148,41 @@
     "ver": "6.2",
     "dfKey": 4
   },
+  "Caeda - Marth's Faithful": {
+    "id": "Caeda - Marth's Faithful",
+    "title": "英雄王的知己",
+    "name": "希達",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-lance",
+    "attuned": true,
+    "releaseDate": "2024-03-15",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 42, 46],
+        "spd": [44, 47, 51],
+        "def": [26, 30, 33],
+        "res": [31, 34, 37]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 8,
+        "def": 8,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
+  },
   "Ogma - Loyal Blade": {
     "id": "Ogma - Loyal Blade",
     "title": "塔利斯的傭兵",
@@ -5306,6 +5355,41 @@
     "book": 1,
     "ver": "1.0",
     "dfKey": 1
+  },
+  "Castor - Loving Son": {
+    "id": "Castor - Loving Son",
+    "title": "塔利斯的獵人",
+    "name": "卡西姆",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-bow",
+    "pool": "grail",
+    "releaseDate": "2024-03-15",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [43, 46, 50],
+        "spd": [36, 39, 43],
+        "def": [30, 33, 36],
+        "res": [21, 24, 27]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 7,
+        "spd": 9,
+        "def": 9,
+        "res": 9
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": [],
+    "statMin": 187,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
   },
   "Darros - Seawalker": {
     "id": "Darros - Seawalker",
@@ -6703,6 +6787,75 @@
     "ver": "4.4",
     "dfKey": 2
   },
+  "Merric - Wind Pontifex": {
+    "id": "Merric - Wind Pontifex",
+    "title": "風之祭司",
+    "name": "馬利克",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-tome",
+    "ascended": true,
+    "releaseDate": "2024-03-15",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [40, 43, 47],
+        "spd": [43, 46, 50],
+        "def": [20, 23, 27],
+        "res": [17, 20, 23]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 7,
+        "def": 4,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "spd", "def"],
+    "flaws": ["hp"],
+    "statMin": 173,
+    "statMax": 175,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
+  },
+  "Arlen - Mage of Khadein": {
+    "id": "Arlen - Mage of Khadein",
+    "title": "卡達因的魔道士",
+    "name": "艾爾連恩",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "releaseDate": "2024-03-15",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [38, 42, 45],
+        "spd": [41, 45, 48],
+        "def": [35, 38, 42],
+        "res": [13, 17, 20]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 9,
+        "spd": 12,
+        "def": 8,
+        "res": 4
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["hp", "atk", "spd", "res"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
+  },
   "Hardin - Dark Emperor": {
     "id": "Hardin - Dark Emperor",
     "title": "暗黑皇帝",
@@ -6991,6 +7144,40 @@
     "book": 5,
     "ver": "5.10",
     "dfKey": 4
+  },
+  "Yuliya - Princess of Grust": {
+    "id": "Yuliya - Princess of Grust",
+    "title": "哥爾尼亞的公主",
+    "name": "尤蜜娜",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-staff",
+    "releaseDate": "2024-03-15",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [38, 41, 45],
+        "spd": [43, 46, 50],
+        "def": [18, 21, 24],
+        "res": [33, 36, 39]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 7,
+        "def": 6,
+        "res": 12
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
   },
   "Camus - Sable Knight": {
     "id": "Camus - Sable Knight",
@@ -46391,13 +46578,20 @@
     "id": "Kagetsu - Onigiri Samurai",
     "title": "飯糰武士",
     "name": "花月",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
     "releaseDate": "2024-02-19",
     "appearsIn": ["Engage"],
     "stats": {
+      "3": {
+        "hp": [35, 38, 41],
+        "atk": [36, 39, 42],
+        "spd": [39, 42, 45],
+        "def": [28, 31, 34],
+        "res": [19, 22, 25]
+      },
       "4": {
         "hp": [36, 39, 42],
         "atk": [38, 41, 45],
@@ -46411,6 +46605,13 @@
         "spd": [44, 47, 51],
         "def": [32, 35, 38],
         "res": [22, 25, 28]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 7,
+        "def": 8,
+        "res": 7
       },
       "4-1": {
         "hp": 17,

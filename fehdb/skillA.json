@@ -3237,6 +3237,24 @@
     "icon": "skillA/Bonus_Doubler_4",
     "last": true
   },
+  "C Bonus Doubler": {
+    "id": "C Bonus Doubler",
+    "name": "近反・強化增幅",
+    "sp": 300,
+    "rules": "learner.infantry-ranged",
+    "prev": ["Close Counter"],
+    "last": true,
+    "icon": "skillA/C_Bonus_Doubler"
+  },
+  "D Bonus Doubler": {
+    "id": "D Bonus Doubler",
+    "name": "遠反・強化增幅",
+    "sp": 300,
+    "rules": ["learner.infantry-melee"],
+    "prev": ["Distant Counter"],
+    "last": true,
+    "icon": "skillA/D_Bonus_Doubler"
+  },
   "AR-O Atk/Spd 1": {
     "id": "AR-O Atk/Spd 1",
     "name": "攻擊速度的攻城戰1",

@@ -3453,6 +3453,15 @@
     "last": true,
     "icon": "skillC/Atk_Spd_Pledge"
   },
+  "Def/Res Pledge": {
+    "id": "Def/Res Pledge",
+    "name": "防守魔防的信念",
+    "sp": 300,
+    "prev": ["Def/Res Oath 3"],
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillC/Def_Res_Pledge"
+  },
   "Incite Atk/Spd": {
     "id": "Incite Atk/Spd",
     "name": "攻擊速度的奮激",

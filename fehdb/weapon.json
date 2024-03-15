@@ -7127,6 +7127,16 @@
       "exclusive": ["Sylvain - Spring Flingster"],
       "last": true
     },
+    "Pure-Wing Spear": {
+      "id": "Pure-Wing Spear",
+      "name": "純白羽翼之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Caeda - Marth's Faithful"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -14111,6 +14121,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Unbound Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Vulture Bow": {
+      "id": "Vulture Bow",
+      "name": "禿鷹之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Vulture Bow+": {
+      "id": "Vulture Bow+",
+      "name": "禿鷹之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Vulture Bow"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -23590,6 +23633,16 @@
       "exclusive": ["Lyon - Esteemed Royals"],
       "last": true
     },
+    "Tender Excalibur": {
+      "id": "Tender Excalibur",
+      "name": "柔風埃克斯卡利伯",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Merric - Wind Pontifex"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",
@@ -24769,6 +24822,16 @@
       "exclusive": ["Gullveig - Golden Seer"],
       "last": true
     },
+    "Lightburst Tome": {
+      "id": "Lightburst Tome",
+      "name": "激雷之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Arlen - Mage of Khadein"],
+      "last": true
+    },
     "Stone": {
       "id": "Stone",
       "name": "洛克",
@@ -25500,6 +25563,31 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Incurable"],
+      "refine": {
+        "wrathful": {
+          "name": "神罰",
+          "icon": "Wrathful_Staff_W"
+        },
+        "dazzling": {
+          "name": "幻惑",
+          "icon": "Dazzling_Staff_W"
+        }
+      },
+      "last": true
+    },
+    "Sunlight": {
+      "id": "Sunlight",
+      "name": "曦光",
+      "mt": 8,
+      "sp": 150,
+      "prev": ["Assault"]
+    },
+    "Sunlight+": {
+      "id": "Sunlight+",
+      "name": "曦光+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Sunlight"],
       "refine": {
         "wrathful": {
           "name": "神罰",

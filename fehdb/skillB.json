@@ -578,6 +578,15 @@
     "last": true,
     "icon": "skillB/Sunlit_Bangle_D"
   },
+  "Believe in Love?": {
+    "id": "Believe in Love?",
+    "name": "你有心愛的人嗎",
+    "atk": 14,
+    "sp": 300,
+    "exclusive": ["Caeda - Marth's Faithful"],
+    "last": true,
+    "icon": "skillB/Believe_in_Love"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -1461,7 +1470,15 @@
     "sp": 200,
     "prev": ["Seal Spd/Res 1"],
     "rules": "not.white-staff",
-    "icon": "skillB/Seal_Spd_Res_2",
+    "icon": "skillB/Seal_Spd_Res_2"
+  },
+  "Seal Spd/Res 3": {
+    "id": "Seal Spd/Res 3",
+    "name": "速度魔防封印3",
+    "sp": 300,
+    "prev": ["Seal Spd/Res 2"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Seal_Spd_Res_3",
     "last": true
   },
   "Seal Def/Res 1": {

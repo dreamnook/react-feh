@@ -414,6 +414,15 @@
     "exclusive": ["Marth - Of Beginnings"],
     "last": true
   },
+  "Sacred Wind": {
+    "id": "Sacred Wind",
+    "name": "神聖風",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Glimmer"],
+    "exclusive": ["Merric - Wind Pontifex"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

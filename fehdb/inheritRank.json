@@ -953,6 +953,19 @@
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
   },
+  "Yuliya - Princess of Grust": {
+    "score": 75,
+    "scoreTotal": 245,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 1000,
+    "bst": 182,
+    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
+    "special": { "Deluge Balm": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 5 } }
+  },
   "Gunter - Inveterate Soldier": {
     "score": 166,
     "scoreTotal": 246,
@@ -1343,6 +1356,18 @@
     "bst": 157,
     "skillB": { "Def Cantrip 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Air Orders 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Mirabilis - Spring Daydream": {
+    "score": 196,
+    "scoreTotal": 272,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 300,
+    "bst": 168,
+    "skillB": { "Mystic Boost 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 4 } }
   },
   "Seadall - Misfortune-Teller": {
     "score": 196,
@@ -2507,18 +2532,6 @@
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Kagetsu - Onigiri Samurai": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 192,
-    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -3741,6 +3754,18 @@
     "skillA": { "Sorcery Blade 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd/Def Oath 3": { "sp": 240, "rarity": 4 } }
   },
+  "Kagetsu - Onigiri Samurai": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 192,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
   "Inigo - Flower Picker": {
     "score": 199,
     "scoreTotal": 461,
@@ -4010,18 +4035,6 @@
     "bst": 157,
     "skillA": { "Sturdy Blow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Dull Close 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Mirabilis - Spring Daydream": {
-    "score": 254,
-    "scoreTotal": 509,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 1000,
-    "bst": 168,
-    "skillB": { "Mystic Boost 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Soren - Shrewd Strategist": {
     "score": 249,
@@ -8931,6 +8944,18 @@
     "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Def Menace": { "sp": 300, "rarity": 5 } }
   },
+  "Arlen - Mage of Khadein": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "C Bonus Doubler": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Tempo 4": { "sp": 300, "rarity": 5 } }
+  },
   "Syrene - Graceful Rider": {
     "score": 300,
     "scoreTotal": 800,
@@ -9087,6 +9112,19 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Brash Assault 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Caeda - Marth's Faithful": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "D Bonus Doubler": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Pledge": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Guard Echo": { "sp": 0, "rarity": 5 } }
   },
   "Robin - Exalt's Deliverer": {
     "score": 300,
@@ -11633,6 +11671,19 @@
     "skillB": { "Spd/Res Bulwark 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
   },
+  "Castor - Loving Son": {
+    "score": 388,
+    "scoreTotal": 1036,
+    "poolRarity": 5,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Sudden Panic 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Threat. Atk/Def 2": { "sp": 200, "rarity": 5 } }
+  },
   "Bernadetta - Frosty Shut-In": {
     "score": 318,
     "scoreTotal": 1039,
@@ -12345,6 +12396,19 @@
     "skillA": { "Atk/Spd Push 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Renewal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Merric - Wind Pontifex": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 173,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Seal Spd/Res 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Incite Atk/Spd": { "sp": 300, "rarity": 5 } }
   },
   "Ganglöt - Death Anew": {
     "score": 300,

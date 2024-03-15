@@ -199,6 +199,10 @@
     "weaponType": 16711687,
     "moveType": 1
   },
+  "learner.infantry-ranged": {
+    "weaponType": 65528,
+    "moveType": 1
+  },
   "learner.infantry-tome": {
     "weaponType": 61440,
     "moveType": 1

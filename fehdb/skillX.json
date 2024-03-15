@@ -30,5 +30,12 @@
     "rules": "flying",
     "last": true,
     "icon": "skillX/Soaring_Echo"
+  },
+  "Guard Echo": {
+    "id": "Guard Echo",
+    "name": "響・取消",
+    "sp": 0,
+    "last": true,
+    "icon": "skillX/Guard_Echo"
   }
 }
