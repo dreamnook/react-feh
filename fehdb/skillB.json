@@ -581,7 +581,6 @@
   "Believe in Love?": {
     "id": "Believe in Love?",
     "name": "你有心愛的人嗎",
-    "atk": 14,
     "sp": 300,
     "exclusive": ["Caeda - Marth's Faithful"],
     "last": true,
