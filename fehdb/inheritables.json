@@ -3706,7 +3706,8 @@
             "Nagi - Dragon Avatar",
             "Lyon - Demon King",
             "Lucina - Brave Princess",
-            "Priam - Radiant Hero"
+            "Priam - Radiant Hero",
+            "Ike - Of Radiance"
           ]
         },
         "grail": {
@@ -8927,7 +8928,10 @@
       "rules": "infantry"
     },
     "Def/Res Finish 3": {
-      "pool": { "duo": { "5": ["Askr - Renewed Gods"] } },
+      "pool": {
+        "#": { "5": ["Ike - Of Radiance"] },
+        "duo": { "5": ["Askr - Renewed Gods"] }
+      },
       "id": "Def/Res Finish 3",
       "name": "防守魔防的奧秘3",
       "sp": 240,
@@ -8935,7 +8939,10 @@
       "rules": "infantry"
     },
     "Def/Res Finish 4": {
-      "pool": { "duo": { "5": ["Askr - Renewed Gods"] } },
+      "pool": {
+        "#": { "5": ["Ike - Of Radiance"] },
+        "duo": { "5": ["Askr - Renewed Gods"] }
+      },
       "id": "Def/Res Finish 4",
       "name": "防守魔防的奧秘4",
       "sp": 300,
@@ -12112,6 +12119,22 @@
       "sp": 300,
       "icon": "skillB/Potent_4",
       "rules": "learner.infantry-cavalry-flying-def-dmger"
+    },
+    "Laguz Friend 3": {
+      "pool": { "#": { "5": ["Ike - Of Radiance"] } },
+      "id": "Laguz Friend 3",
+      "name": "不動3",
+      "sp": 240,
+      "icon": "skillB/Laguz_Friend_3",
+      "rules": "infantry"
+    },
+    "Laguz Friend 4": {
+      "pool": { "#": { "5": ["Ike - Of Radiance"] } },
+      "id": "Laguz Friend 4",
+      "name": "不動4",
+      "sp": 300,
+      "icon": "skillB/Laguz_Friend_4",
+      "rules": "infantry"
     }
   },
   "skillC": {
@@ -15181,7 +15204,7 @@
     },
     "Canto Control 3": {
       "pool": {
-        "#": { "5": ["Céline - Joyous Royal"] },
+        "#": { "5": ["Céline - Joyous Royal", "Ike - Of Radiance"] },
         "legendary": { "5": ["Robin - Exalt's Other Half"] },
         "mythic": { "5": ["Medeus - Earth-Dragon King"] },
         "duo": { "5": ["Mark - Winds of Hope"] }

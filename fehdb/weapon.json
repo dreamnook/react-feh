@@ -3179,6 +3179,16 @@
       "exclusive": ["Marth - Of Beginnings"],
       "last": true
     },
+    "Emblem Ragnell": {
+      "id": "Emblem Ragnell",
+      "name": "蒼炎勇者之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Ike - Of Radiance"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",

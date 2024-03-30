@@ -4816,5 +4816,38 @@
     "rules": "learner.infantry-cavalry-flying-def-dmger",
     "icon": "skillB/Potent_4",
     "last": true
+  },
+  "Laguz Friend 1": {
+    "id": "Laguz Friend 1",
+    "name": "不動1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillB/Laguz_Friend_1"
+  },
+  "Laguz Friend 2": {
+    "id": "Laguz Friend 2",
+    "name": "不動2",
+    "sp": 120,
+    "prev": ["Laguz Friend 1"],
+    "rules": "infantry",
+    "icon": "skillB/Laguz_Friend_2"
+  },
+  "Laguz Friend 3": {
+    "id": "Laguz Friend 3",
+    "name": "不動3",
+    "sp": 240,
+    "prev": ["Laguz Friend 2"],
+    "rules": "infantry",
+    "icon": "skillB/Laguz_Friend_3",
+    "last": true
+  },
+  "Laguz Friend 4": {
+    "id": "Laguz Friend 4",
+    "name": "不動4",
+    "sp": 300,
+    "prev": ["Laguz Friend 3"],
+    "rules": "infantry",
+    "icon": "skillB/Laguz_Friend_4",
+    "last": true
   }
 }

@@ -28103,6 +28103,41 @@
     "ver": "4.5",
     "dfKey": 2
   },
+  "Ike - Of Radiance": {
+    "id": "Ike - Of Radiance",
+    "title": "蒼炎紋章士",
+    "name": "艾克",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "emblem": true,
+    "releaseDate": "2024-03-29",
+    "appearsIn": ["Radiant Dawn", "Engage"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [44, 47, 51],
+        "spd": [14, 18, 21],
+        "def": [42, 45, 49],
+        "res": [38, 42, 45]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 8,
+        "spd": 5,
+        "def": 15,
+        "res": 9
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.3",
+    "dfKey": 6
+  },
   "Elincia - Estival Princess": {
     "id": "Elincia - Estival Princess",
     "title": "夏季天空的公主",

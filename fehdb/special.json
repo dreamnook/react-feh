@@ -423,6 +423,15 @@
     "exclusive": ["Merric - Wind Pontifex"],
     "last": true
   },
+  "Great Aether": {
+    "id": "Great Aether",
+    "name": "霸克・天空",
+    "cd": 4,
+    "sp": 500,
+    "prev": ["Sol"],
+    "exclusive": ["Ike - Of Radiance"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

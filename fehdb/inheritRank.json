@@ -12252,6 +12252,19 @@
     "skillB": { "Hardy Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "A/R Far Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Ike - Of Radiance": {
+    "score": 300,
+    "scoreTotal": 1040,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Sol": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Def/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
+  },
   "Idunn - Divine Demon": {
     "score": 300,
     "scoreTotal": 1040,

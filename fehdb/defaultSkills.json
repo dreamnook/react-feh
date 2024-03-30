@@ -15896,6 +15896,36 @@
       "Atk/Spd Oath 3": 4
     }
   },
+  "Ike - Of Radiance": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Emblem Ragnell": 5
+    },
+    "special": {
+      "Daylight": 4,
+      "Sol": 4,
+      "Great Aether": 5
+    },
+    "skillA": {
+      "Def/Res Finish 1": 2,
+      "Def/Res Finish 2": 3,
+      "Def/Res Finish 3": 4,
+      "Def/Res Finish 4": 5
+    },
+    "skillB": {
+      "Laguz Friend 1": 2,
+      "Laguz Friend 2": 3,
+      "Laguz Friend 3": 4,
+      "Laguz Friend 4": 5
+    },
+    "skillC": {
+      "Canto Control 1": 1,
+      "Canto Control 2": 2,
+      "Canto Control 3": 4
+    }
+  },
   "Elincia - Estival Princess": {
     "weapon": {
       "Iron Dagger": 1,
