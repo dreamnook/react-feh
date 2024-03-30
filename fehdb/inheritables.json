@@ -2581,7 +2581,7 @@
         "refine": 350
       },
       "Sunlight+": {
-        "pool": { "#": { "5": ["Yuliya - Princess of Grust"] } },
+        "pool": { "#": { "4": ["Yuliya - Princess of Grust"] } },
         "id": "Sunlight+",
         "name": "曦光+",
         "sp": 300,
@@ -2818,7 +2818,8 @@
             "Linhardt - Hevring's Heir",
             "Nyna - The Last Princess"
           ],
-          "5": ["Genny - Endearing Ally", "Yuliya - Princess of Grust"]
+          "4": ["Yuliya - Princess of Grust"],
+          "5": ["Genny - Endearing Ally"]
         },
         "grail": {
           "5": [
@@ -4376,6 +4377,7 @@
           "4": [
             "Kana - Dragon Spawn",
             "Gonzalez - Kindly Bandit",
+            "Castor - Loving Son",
             "Linus - Savage Dog",
             "Aversa - Dark One",
             "Caellach - Tiger Eye",
@@ -4393,8 +4395,7 @@
             "Lumera - Dragon Monarch",
             "Fargus - Badon Buccaneer",
             "Vigarde - Silent Emperor"
-          ],
-          "5": ["Castor - Loving Son"]
+          ]
         },
         "legendary": {
           "5": [
@@ -5173,7 +5174,8 @@
     "Deluge Balm": {
       "pool": {
         "#": {
-          "5": ["Yuliya - Princess of Grust", "Flayn - Playing Innocent"]
+          "4": ["Yuliya - Princess of Grust"],
+          "5": ["Flayn - Playing Innocent"]
         },
         "special": { "5": ["Saul - Minister of Love"] }
       },
@@ -8900,7 +8902,10 @@
     },
     "Spd/Res Finish 3": {
       "pool": {
-        "#": { "5": ["Yuliya - Princess of Grust", "Tiki - Awakened Blood"] },
+        "#": {
+          "4": ["Yuliya - Princess of Grust"],
+          "5": ["Tiki - Awakened Blood"]
+        },
         "legendary": { "5": ["Guinivere - Queen of Bern"] },
         "special": { "4": ["Byleth - Fount of Learning"] }
       },
@@ -10145,7 +10150,7 @@
     "Sudden Panic 3": {
       "pool": {
         "#": { "5": ["Corrin - Wailing Soul", "Gerik - Desert Tiger"] },
-        "grail": { "5": ["Cyril - Rhea's Attendant", "Castor - Loving Son"] }
+        "grail": { "5": ["Castor - Loving Son", "Cyril - Rhea's Attendant"] }
       },
       "id": "Sudden Panic 3",
       "name": "恐慌錯亂3",
@@ -13422,9 +13427,9 @@
             "Fuga - Force of Gales",
             "Petrine - Icy Flame-Lancer",
             "Yen'fay - Blade Legend",
+            "Castor - Loving Son",
             "Fernand - Traitorous Knight"
-          ],
-          "5": ["Castor - Loving Son"]
+          ]
         },
         "legendary": { "5": ["Hríd - Icy Blade"] },
         "mythic": { "5": ["Ótr - Kingsbrother"] },
@@ -14626,7 +14631,8 @@
       "pool": {
         "#": {
           "3": ["Etie - Fitness Fighter"],
-          "5": ["Yuliya - Princess of Grust", "Annette - Overachiever"]
+          "4": ["Yuliya - Princess of Grust"],
+          "5": ["Annette - Overachiever"]
         },
         "grail": { "5": ["Mordecai - Gentle Firetender"] },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }

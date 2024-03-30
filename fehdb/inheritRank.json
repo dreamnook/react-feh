@@ -514,6 +514,19 @@
     "skillA": { "Blade Session 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wrathful Staff 3": { "sp": 240, "rarity": 4 } }
   },
+  "Yuliya - Princess of Grust": {
+    "score": 46,
+    "scoreTotal": 126,
+    "poolRarity": 4,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 300,
+    "bst": 182,
+    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
+    "special": { "Deluge Balm": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 4 } }
+  },
   "Xane - Desert Mirage": {
     "score": 49,
     "scoreTotal": 134,
@@ -952,19 +965,6 @@
     "special": { "Miracle": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Yuliya - Princess of Grust": {
-    "score": 75,
-    "scoreTotal": 245,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 980,
-    "feather": 1000,
-    "bst": 182,
-    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
-    "special": { "Deluge Balm": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunter - Inveterate Soldier": {
     "score": 166,
@@ -6507,6 +6507,19 @@
     "skillA": { "Kestrel Stance 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Threat. Atk/Def 2": { "sp": 200, "rarity": 4 } }
   },
+  "Castor - Loving Son": {
+    "score": 269,
+    "scoreTotal": 693,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 187,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Sudden Panic 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Threat. Atk/Def 2": { "sp": 200, "rarity": 4 } }
+  },
   "Linus - Savage Dog": {
     "score": 269,
     "scoreTotal": 693,
@@ -11670,19 +11683,6 @@
     "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
     "skillB": { "Spd/Res Bulwark 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
-  },
-  "Castor - Loving Son": {
-    "score": 388,
-    "scoreTotal": 1036,
-    "poolRarity": 5,
-    "pool": "grail",
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 1000,
-    "bst": 187,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Sudden Panic 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Threat. Atk/Def 2": { "sp": 200, "rarity": 5 } }
   },
   "Bernadetta - Frosty Shut-In": {
     "score": 318,
