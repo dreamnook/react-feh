@@ -2982,6 +2982,20 @@
       "sp": 300,
       "rules": "white-staff"
     },
+    "Magic Shield": {
+      "pool": { "special": { "5": ["Emmeryn - Selfless Exalt"] } },
+      "id": "Magic Shield",
+      "name": "魔術之盾",
+      "sp": 300,
+      "rules": "white-staff"
+    },
+    "Magic Shield+": {
+      "pool": { "special": { "5": ["Emmeryn - Selfless Exalt"] } },
+      "id": "Magic Shield+",
+      "name": "魔術之盾+",
+      "sp": 400,
+      "rules": "white-staff"
+    },
     "Swap": {
       "pool": {
         "#": {
@@ -3168,7 +3182,13 @@
             "Lyn - Lady of the Beach"
           ]
         },
-        "duo": { "5": ["Palla - Sisterly Trio", "Chrom - Fate-Defying Duo"] },
+        "duo": {
+          "5": [
+            "Palla - Sisterly Trio",
+            "Chrom - Fate-Defying Duo",
+            "Robin - Vessels of Fate"
+          ]
+        },
         "harmonized": { "5": ["Mia - Harmonic Blades"] }
       },
       "id": "Reposition",
@@ -3678,7 +3698,9 @@
             "Robin - Fall Reincarnation"
           ]
         },
-        "duo": { "5": ["Sothis - Bound-Spirit Duo"] },
+        "duo": {
+          "5": ["Sothis - Bound-Spirit Duo", "Robin - Vessels of Fate"]
+        },
         "harmonized": { "5": ["Myrrh - Spring Harmony"] }
       },
       "id": "Noontime",
@@ -3687,7 +3709,10 @@
       "rules": "not.white-staff"
     },
     "Flare": {
-      "pool": { "#": { "5": ["Soren - Radiant Confidant"] } },
+      "pool": {
+        "#": { "5": ["Soren - Radiant Confidant"] },
+        "duo": { "5": ["Robin - Vessels of Fate"] }
+      },
       "id": "Flare",
       "name": "陽光",
       "sp": 500,
@@ -4483,7 +4508,13 @@
             "Owain - Chosen One"
           ]
         },
-        "grail": { "4": ["Fuga - Force of Gales", "Astram - Midia's Hero"] },
+        "grail": {
+          "4": [
+            "Fuga - Force of Gales",
+            "Frederick - Youth in Service",
+            "Astram - Midia's Hero"
+          ]
+        },
         "legendary": {
           "5": [
             "Robin - Fell Vessel",
@@ -4504,7 +4535,8 @@
           "4": [
             "Owain - Devoted Defender",
             "Minerva - Verdant Dragoon",
-            "Heath - Wyvern Ninja"
+            "Heath - Wyvern Ninja",
+            "Lissa - Littlest Princess"
           ],
           "5": [
             "Xander - Student Swimmer",
@@ -4585,6 +4617,7 @@
             "Jakob - Devoted Monster",
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
+            "Robin - Fated Vessel",
             "Gustav - Majestic Love"
           ]
         }
@@ -5051,6 +5084,7 @@
           "5": [
             "Bruno - Masked Hare",
             "Flayn - Silly Kitty-Cat",
+            "Emmeryn - Selfless Exalt",
             "Laevatein - Ninja of Múspell"
           ]
         },
@@ -5227,7 +5261,10 @@
       "rules": "white-staff"
     },
     "Light's Restraint": {
-      "pool": { "#": { "5": ["Elincia - Devoted Queen"] } },
+      "pool": {
+        "#": { "5": ["Elincia - Devoted Queen"] },
+        "special": { "5": ["Emmeryn - Selfless Exalt"] }
+      },
       "id": "Light's Restraint",
       "name": "抑制的聖光",
       "sp": 500,
@@ -5875,6 +5912,7 @@
             "Nailah - Blessed Queen",
             "Reginn - Bearing Dawn",
             "Leila - Keen Lookout",
+            "Robin - Fated Vessel",
             "Niles - Forbidden Tease",
             "Palla - Eldest Bun-Bun",
             "L'Arachel - Harvest Princess",
@@ -6195,7 +6233,7 @@
     "Flash Sparrow": {
       "pool": {
         "#": { "5": ["Nino - Fang's Heart", "Alcryst - Tender Archer"] },
-        "special": { "5": ["Kvasir - Unknown Future"] },
+        "special": { "5": ["Robin - Fated Vessel", "Kvasir - Unknown Future"] },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
       "id": "Flash Sparrow",
@@ -8760,6 +8798,7 @@
             "Harken - Troubled Warrior"
           ]
         },
+        "grail": { "5": ["Frederick - Youth in Service"] },
         "mythic": { "5": ["Freyr - Dream-King"] },
         "special": {
           "5": ["Flavia - Bold Bride", "Ephraim - Sunshine Valiant"]
@@ -8930,6 +8969,7 @@
     "Def/Res Finish 3": {
       "pool": {
         "#": { "5": ["Ike - Of Radiance"] },
+        "special": { "4": ["Lissa - Littlest Princess"] },
         "duo": { "5": ["Askr - Renewed Gods"] }
       },
       "id": "Def/Res Finish 3",
@@ -10375,7 +10415,8 @@
           "5": [
             "Genny - Dressed with Care",
             "Laevatein - Kumade Warrior",
-            "Sakura - Hot-Spring Healer"
+            "Sakura - Hot-Spring Healer",
+            "Emmeryn - Selfless Exalt"
           ]
         },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
@@ -10391,6 +10432,7 @@
         "#": {
           "5": ["Hortensia - Little Charmer", "Maria - Ritual Sacrifice"]
         },
+        "special": { "5": ["Emmeryn - Selfless Exalt"] },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
       "id": "Poetic Justice",
@@ -10836,12 +10878,21 @@
             "Hinoka - Relaxed Warrior",
             "Lyn - Lady of the Beach"
           ]
-        }
+        },
+        "duo": { "5": ["Robin - Vessels of Fate"] }
       },
       "id": "Atk/Spd Link 3",
       "name": "攻擊速度連動3",
       "sp": 240,
       "icon": "skillB/Atk_Spd_Link_3",
+      "rules": "not.white-staff"
+    },
+    "Atk/Spd Link 4": {
+      "pool": { "duo": { "5": ["Robin - Vessels of Fate"] } },
+      "id": "Atk/Spd Link 4",
+      "name": "攻擊速度連動4",
+      "sp": 300,
+      "icon": "skillB/Atk_Spd_Link_4",
       "rules": "not.white-staff"
     },
     "Atk/Def Link 3": {
@@ -12135,6 +12186,22 @@
       "sp": 300,
       "icon": "skillB/Laguz_Friend_4",
       "rules": "infantry"
+    },
+    "Magic Gambit 3": {
+      "pool": { "special": { "5": ["Robin - Fated Vessel"] } },
+      "id": "Magic Gambit 3",
+      "name": "底牌・魔道3",
+      "sp": 240,
+      "icon": "skillB/Magic_Gambit_3",
+      "rules": "tome"
+    },
+    "Magic Gambit 4": {
+      "pool": { "special": { "5": ["Robin - Fated Vessel"] } },
+      "id": "Magic Gambit 4",
+      "name": "底牌・魔道4",
+      "sp": 300,
+      "icon": "skillB/Magic_Gambit_4",
+      "rules": "tome"
     }
   },
   "skillC": {
@@ -12549,7 +12616,7 @@
           ]
         },
         "grail": {
-          "4": ["Death Knight - The Reaper"],
+          "4": ["Frederick - Youth in Service", "Death Knight - The Reaper"],
           "5": ["Hinata - Samurai Groom"]
         },
         "special": {
@@ -13971,6 +14038,7 @@
         },
         "special": {
           "5": [
+            "Lissa - Littlest Princess",
             "Soren - Hushed Voice",
             "Nino - Spirited Sorcerer",
             "Fjorm - Seaside Thaw",
@@ -14120,7 +14188,8 @@
         },
         "special": {
           "5": ["Seadall - Misfortune-Teller", "Kvasir - Unknown Future"]
-        }
+        },
+        "duo": { "5": ["Robin - Vessels of Fate"] }
       },
       "id": "Inf. Null Follow 3",
       "name": "步行識破追擊3",
@@ -14131,7 +14200,8 @@
     "Inf. Null Follow 4": {
       "pool": {
         "#": { "5": ["Marth - Of Beginnings"] },
-        "special": { "5": ["Kvasir - Unknown Future"] }
+        "special": { "5": ["Kvasir - Unknown Future"] },
+        "duo": { "5": ["Robin - Vessels of Fate"] }
       },
       "id": "Inf. Null Follow 4",
       "name": "步行識破追擊4",
@@ -14989,6 +15059,7 @@
         "grail": { "5": ["Pelleas - Ashnard's Orphan"] },
         "legendary": { "5": ["Julia - Crusader of Light"] },
         "mythic": { "5": ["Arval - Cycle Keeper"] },
+        "special": { "5": ["Emmeryn - Selfless Exalt"] },
         "duo": { "5": ["Micaiah - Dawn Wind's Duo"] },
         "harmonized": { "5": ["Altina - Cross-Time Duo"] }
       },
@@ -15001,7 +15072,8 @@
     "Atk/Res Oath 4": {
       "pool": {
         "#": { "5": ["Citrinne - Caring Noble"] },
-        "mythic": { "5": ["Arval - Cycle Keeper"] }
+        "mythic": { "5": ["Arval - Cycle Keeper"] },
+        "special": { "5": ["Emmeryn - Selfless Exalt"] }
       },
       "id": "Atk/Res Oath 4",
       "name": "攻擊魔防的信義4",

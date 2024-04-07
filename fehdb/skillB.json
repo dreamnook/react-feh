@@ -2816,6 +2816,15 @@
     "icon": "skillB/Atk_Spd_Link_3",
     "last": true
   },
+  "Atk/Spd Link 4": {
+    "id": "Atk/Spd Link 4",
+    "name": "攻擊速度連動4",
+    "sp": 300,
+    "prev": ["Atk/Spd Link 3"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Atk_Spd_Link_4",
+    "last": true
+  },
   "Atk/Def Link 1": {
     "id": "Atk/Def Link 1",
     "name": "攻擊防守連動1",
@@ -4848,6 +4857,39 @@
     "prev": ["Laguz Friend 3"],
     "rules": "infantry",
     "icon": "skillB/Laguz_Friend_4",
+    "last": true
+  },
+  "Magic Gambit 1": {
+    "id": "Magic Gambit 1",
+    "name": "底牌・魔道1",
+    "sp": 60,
+    "rules": "tome",
+    "icon": "skillB/Magic_Gambit_1"
+  },
+  "Magic Gambit 2": {
+    "id": "Magic Gambit 2",
+    "name": "底牌・魔道2",
+    "sp": 120,
+    "prev": ["Magic Gambit 1"],
+    "rules": "tome",
+    "icon": "skillB/Magic_Gambit_2"
+  },
+  "Magic Gambit 3": {
+    "id": "Magic Gambit 3",
+    "name": "底牌・魔道3",
+    "sp": 240,
+    "prev": ["Magic Gambit 2"],
+    "rules": "tome",
+    "icon": "skillB/Magic_Gambit_3",
+    "last": true
+  },
+  "Magic Gambit 4": {
+    "id": "Magic Gambit 4",
+    "name": "底牌・魔道4",
+    "sp": 300,
+    "prev": ["Magic Gambit 3"],
+    "rules": "tome",
+    "icon": "skillB/Magic_Gambit_4",
     "last": true
   }
 }

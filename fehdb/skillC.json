@@ -409,7 +409,7 @@
     "id": "Tip the Scales!",
     "name": "我要扭轉戰局！",
     "sp": 300,
-    "exclusive": ["Robin - Exalt's Deliverer"],
+    "exclusive": ["Robin - Exalt's Deliverer", "Robin - Fated Vessel"],
     "last": true,
     "icon": "skillC/Tip_the_Scales!"
   },

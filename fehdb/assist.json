@@ -479,6 +479,21 @@
     "prev": ["Nudge"],
     "last": true
   },
+  "Magic Shield": {
+    "id": "Magic Shield",
+    "name": "魔術之盾",
+    "sp": 300,
+    "rules": "white-staff",
+    "prev": ["Mend"]
+  },
+  "Magic Shield+": {
+    "id": "Magic Shield+",
+    "name": "魔術之盾+",
+    "sp": 400,
+    "rules": "white-staff",
+    "prev": ["Magic Shield"],
+    "last": true
+  },
   "Swap": {
     "id": "Swap",
     "name": "替換",

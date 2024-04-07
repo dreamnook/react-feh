@@ -10714,6 +10714,26 @@
       "exclusive": ["Framme - Spring Fangirl"],
       "last": true
     },
+    "New War Axe": {
+      "id": "New War Axe",
+      "name": "戰神的戰斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Lissa - Littlest Princess"],
+      "last": true
+    },
+    "Heavy War Axe": {
+      "id": "Heavy War Axe",
+      "name": "戰神的護斧",
+      "mt": 16,
+      "def": 3,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Frederick - Youth in Service"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -19715,6 +19735,16 @@
       "exclusive": ["Chloé - Spring Wings"],
       "last": true
     },
+    "Fell War Tome": {
+      "id": "Fell War Tome",
+      "name": "戰神的魔書",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Fenrir"],
+      "exclusive": ["Robin - Fated Vessel"],
+      "last": true
+    },
     "Arcane Eclipse": {
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
@@ -21567,6 +21597,16 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Mirabilis - Spring Daydream"],
+      "last": true
+    },
+    "Draconic Pacts": {
+      "id": "Draconic Pacts",
+      "name": "邪痕與聖痕的龍血",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Robin - Vessels of Fate"],
       "last": true
     },
     "Arcane Euphoria": {
@@ -25306,6 +25346,16 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Tina - Playful Scamp"],
+      "last": true
+    },
+    "Exalt's War Staff": {
+      "id": "Exalt's War Staff",
+      "name": "戰神的聖杖",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Emmeryn - Selfless Exalt"],
       "last": true
     },
     "Arcane Charmer": {

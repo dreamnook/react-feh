@@ -2318,6 +2318,20 @@
     "skillB": { "Geyser Dance 2": { "sp": 240, "rarity": 4 } },
     "skillC": { "Hone Dragons": { "sp": 200, "rarity": 5 } }
   },
+  "Emmeryn - Selfless Exalt": {
+    "score": 133,
+    "scoreTotal": 398,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 182,
+    "assist": { "Magic Shield+": { "sp": 400, "rarity": 5 } },
+    "special": { "Light's Restraint": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Res Oath 4": { "sp": 300, "rarity": 5 } }
+  },
   "Kempf - Conniving General": {
     "score": 269,
     "scoreTotal": 398,
@@ -3235,6 +3249,19 @@
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Lissa - Littlest Princess": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Bonfire": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Def/Res Finish 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Kana - Rising Dragon": {
     "score": 196,
@@ -5355,6 +5382,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Spd Solo 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Chill Def 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Frederick - Youth in Service": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 185,
+    "special": { "Bonfire": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Close Guard 3": { "sp": 240, "rarity": 4 } }
   },
   "Hawkeye - Taciturn Guardian": {
     "score": 299,
@@ -9568,6 +9608,19 @@
     "skillA": { "Atk/Def Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Wrath 4": { "sp": 300, "rarity": 5 } }
   },
+  "Robin - Fated Vessel": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Magic Gambit 4": { "sp": 300, "rarity": 5 } }
+  },
   "Dagr - Bluster Princess": {
     "score": 318,
     "scoreTotal": 848,
@@ -13594,6 +13647,20 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
+  },
+  "Robin - Vessels of Fate": {
+    "score": 530,
+    "scoreTotal": 1325,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1250,
+    "feather": 1000,
+    "bst": 205,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Flare": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Atk/Spd Link 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
   },
   "Felix - Lone-Wolf Blade": {
     "score": 500,
