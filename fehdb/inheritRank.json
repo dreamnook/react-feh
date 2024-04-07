@@ -514,19 +514,6 @@
     "skillA": { "Blade Session 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wrathful Staff 3": { "sp": 240, "rarity": 4 } }
   },
-  "Yuliya - Princess of Grust": {
-    "score": 46,
-    "scoreTotal": 126,
-    "poolRarity": 4,
-    "sp": 300,
-    "spTotal": 980,
-    "feather": 300,
-    "bst": 182,
-    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
-    "special": { "Deluge Balm": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 4 } }
-  },
   "Xane - Desert Mirage": {
     "score": 49,
     "scoreTotal": 134,
@@ -552,6 +539,19 @@
     "bst": 148,
     "assist": { "Rehabilitate+": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Yuliya - Princess of Grust": {
+    "score": 50,
+    "scoreTotal": 146,
+    "poolRarity": 3,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 150,
+    "bst": 182,
+    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
+    "special": { "Deluge Balm": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 4 } }
   },
   "Chrom - Spring Exalt": {
     "score": 159,

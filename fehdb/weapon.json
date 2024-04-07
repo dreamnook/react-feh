@@ -13170,6 +13170,28 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Jorge - Traveling Peddler"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Daniel-Made_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Wind Parthia": {
@@ -18045,6 +18067,29 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Nailah - Blessed Queen"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Bride's_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Sky-Pirate Claw": {
@@ -19148,6 +19193,28 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Lysithea - Child Prodigy"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Hades_Ω_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Iago's Tome": {
@@ -19190,6 +19257,28 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Julia - Heart Usurped"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Dark_Scripture_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Sun's Percussors": {
@@ -26617,6 +26706,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Lilith - Astral Daughter"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Astral_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Brutal Breath": {

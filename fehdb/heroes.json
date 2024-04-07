@@ -7177,13 +7177,20 @@
     "id": "Yuliya - Princess of Grust",
     "title": "哥爾尼亞的公主",
     "name": "尤蜜娜",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-staff",
     "releaseDate": "2024-03-15",
     "appearsIn": ["Shadow Dragon / (New) Mystery"],
     "stats": {
+      "3": {
+        "hp": [31, 34, 37],
+        "atk": [34, 37, 40],
+        "spd": [38, 41, 44],
+        "def": [15, 18, 21],
+        "res": [29, 32, 35]
+      },
       "4": {
         "hp": [32, 35, 38],
         "atk": [36, 39, 43],
@@ -7197,6 +7204,13 @@
         "spd": [43, 46, 50],
         "def": [18, 21, 24],
         "res": [33, 36, 39]
+      },
+      "3-1": {
+        "hp": 15,
+        "atk": 10,
+        "spd": 6,
+        "def": 5,
+        "res": 11
       },
       "4-1": {
         "hp": 15,
