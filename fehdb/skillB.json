@@ -1779,6 +1779,14 @@
     "icon": "skillB/Sabotage_Res_3",
     "last": true
   },
+  "Sabotage A/D 3": {
+    "id": "Sabotage A/D 3",
+    "name": "攻擊防守擾亂3",
+    "sp": 300,
+    "prev": ["Sabotage Atk 3", "Sabotage Def 3"],
+    "last": true,
+    "icon": "skillB/Sabotage_A_D_3"
+  },
   "Sabotage A/R 3": {
     "id": "Sabotage A/R 3",
     "name": "攻擊魔防擾亂3",
@@ -4499,6 +4507,15 @@
     "icon": "skillB/Atk_Spd_Bulwark_3",
     "last": true
   },
+  "Atk/Spd Bulwark 4": {
+    "id": "Atk/Spd Bulwark 4",
+    "name": "攻擊速度防護屏障4",
+    "sp": 300,
+    "prev": ["Atk/Spd Bulwark 3"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillB/Atk_Spd_Bulwark_4",
+    "last": true
+  },
   "Atk/Def Bulwark 1": {
     "id": "Atk/Def Bulwark 1",
     "name": "攻擊防守防護屏障1",
@@ -4891,5 +4908,14 @@
     "rules": "tome",
     "icon": "skillB/Magic_Gambit_4",
     "last": true
+  },
+  "A/D Cantrip 3": {
+    "id": "A/D Cantrip 3",
+    "name": "攻擊防守魅惑3",
+    "sp": 300,
+    "prev": ["Atk Cantrip 3", "Def Cantrip 3"],
+    "rules": "not.white-staff",
+    "last": true,
+    "icon": "skillB/A_D_Cantrip_3"
   }
 }

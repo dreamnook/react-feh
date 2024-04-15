@@ -7147,6 +7147,16 @@
       "exclusive": ["Caeda - Marth's Faithful"],
       "last": true
     },
+    "Forager Naginata": {
+      "id": "Forager Naginata",
+      "name": "農田主人之薙刀",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Mozu - Tragic Start"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -10732,6 +10742,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Frederick - Youth in Service"],
+      "last": true
+    },
+    "Tri-Path Splitter": {
+      "id": "Tri-Path Splitter",
+      "name": "歌頌三條道路的法具",
+      "mt": 16,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Azura - Song's Reflection"],
       "last": true
     },
     "Arcane Downfall": {
@@ -14325,6 +14345,39 @@
       },
       "last": true
     },
+    "Lucrative Bow": {
+      "id": "Lucrative Bow",
+      "name": "有利狀態之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Lucrative Bow+": {
+      "id": "Lucrative Bow+",
+      "name": "有利狀態之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Lucrative Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Clarisse's Bow": {
       "id": "Clarisse's Bow",
       "name": "克萊涅之弓",
@@ -16209,6 +16262,16 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Perne - Dacian Scoundrel"],
+      "last": true
+    },
+    "Perspicacious": {
+      "id": "Perspicacious",
+      "name": "傳送兵法之刃",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Yukimura - Puppet Master"],
       "last": true
     },
     "Arcane Void": {
@@ -20161,6 +20224,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Rauðrdeer"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Rauðrlantern": {
+      "id": "Rauðrlantern",
+      "name": "赤紅提燈",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Rauðrlantern+": {
+      "id": "Rauðrlantern+",
+      "name": "赤紅提燈+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Rauðrlantern"],
       "refine": {
         "atk": {
           "hp": 2,

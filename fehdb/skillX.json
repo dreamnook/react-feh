@@ -37,5 +37,12 @@
     "sp": 0,
     "last": true,
     "icon": "skillX/Guard_Echo"
+  },
+  "Mercy-Wing Echo": {
+    "id": "Mercy-Wing Echo",
+    "name": "響・救援路線",
+    "sp": 0,
+    "last": true,
+    "icon": "skillX/Mercy-Wing_Echo"
   }
 }

@@ -5963,6 +5963,18 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Hayato - Diviner of Reppu": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Windsweep 3": { "sp": 240, "rarity": 5 } }
+  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -8997,6 +9009,18 @@
     "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Def Menace": { "sp": 300, "rarity": 5 } }
   },
+  "Yukimura - Puppet Master": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Fireflood Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Sabotage A/D 3": { "sp": 300, "rarity": 5 } }
+  },
   "Arlen - Mage of Khadein": {
     "score": 300,
     "scoreTotal": 800,
@@ -10065,6 +10089,19 @@
     "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wings of Mercy 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Azura - Song's Reflection": {
+    "score": 300,
+    "scoreTotal": 900,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 175,
+    "skillA": { "Firestorm Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/D Cantrip 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Cross Spur Atk": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Mercy-Wing Echo": { "sp": 0, "rarity": 5 } }
   },
   "Triandra - Reverent Dream": {
     "score": 300,
@@ -12566,6 +12603,32 @@
     "skillA": { "Kestrel Stance 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Savvy Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Mozu - Tragic Start": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 198,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Bonus Doubler 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Bulwark 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Candace - Sly Snatcher": {
+    "score": 388,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Sorcery Blade 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Def Ploy 3": { "sp": 240, "rarity": 5 } }
   },
   "Tana - Soaring Princess": {
     "score": 500,

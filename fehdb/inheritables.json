@@ -1272,6 +1272,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Lucrative Bow+": {
+        "pool": { "grail": { "5": ["Candace - Sly Snatcher"] } },
+        "id": "Lucrative Bow+",
+        "name": "有利狀態之弓+",
+        "sp": 300,
+        "refine": 350
+      },
       "Clarisse's Bow+": {
         "pool": { "grail": { "5": ["Clarisse - Sniper in the Dark"] } },
         "id": "Clarisse's Bow+",
@@ -1923,6 +1930,13 @@
         "pool": { "grail": { "5": ["Marla - Duma's Witch"] } },
         "id": "Rauðrdeer+",
         "name": "赤紅之鹿+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Rauðrlantern+": {
+        "pool": { "#": { "5": ["Hayato - Diviner of Reppu"] } },
+        "id": "Rauðrlantern+",
+        "name": "赤紅提燈+",
         "sp": 300,
         "refine": 350
       },
@@ -3779,6 +3793,7 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
+            "Hayato - Diviner of Reppu",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Celica - Valentia's Hope",
@@ -4505,6 +4520,7 @@
             "Diamant - Rising Power",
             "Idunn - Divine Demon",
             "Gilliam - Wall of Silence",
+            "Mozu - Tragic Start",
             "Owain - Chosen One"
           ]
         },
@@ -4681,6 +4697,7 @@
             "Tiki - Awakened Blood",
             "Niime - Mountain Hermit",
             "Citrinne - Caring Noble",
+            "Yukimura - Puppet Master",
             "Morgan - Lass from Afar",
             "Flora - Cold as Ice",
             "Selkie - Free Spirit",
@@ -4789,7 +4806,8 @@
             "Limstella - Living Construct",
             "Díthorba - Cutting Knight",
             "Marla - Duma's Witch"
-          ]
+          ],
+          "5": ["Candace - Sly Snatcher"]
         },
         "legendary": { "5": ["Gunnthrá - Voice of Dreams"] },
         "mythic": {
@@ -7101,7 +7119,7 @@
     },
     "Wind Boost 3": {
       "pool": {
-        "#": { "5": ["Gray - Wry Comrade"] },
+        "#": { "5": ["Gray - Wry Comrade", "Azura - Song's Reflection"] },
         "grail": {
           "4": ["Astram - Midia's Hero"],
           "5": ["Lifis - Terror of Iz"]
@@ -7133,7 +7151,7 @@
       "pool": {
         "#": {
           "3": ["Mustafa - Plegian Champion"],
-          "5": ["Ginnungagap - Ruler of Nihility"]
+          "5": ["Yukimura - Puppet Master", "Ginnungagap - Ruler of Nihility"]
         },
         "grail": { "5": ["Berkut - Prideful Prince"] },
         "duo": { "5": ["Ymir - Seasons of Life", "Byleth - Frosty Professors"] }
@@ -7144,7 +7162,10 @@
       "icon": "skillA/Water_Boost_3"
     },
     "Firestorm Boost 3": {
-      "pool": { "special": { "5": ["Framme - Spring Fangirl"] } },
+      "pool": {
+        "#": { "5": ["Azura - Song's Reflection"] },
+        "special": { "5": ["Framme - Spring Fangirl"] }
+      },
       "id": "Firestorm Boost 3",
       "name": "生命業火疾風3",
       "sp": 300,
@@ -7159,7 +7180,9 @@
     },
     "Fireflood Boost 3": {
       "pool": {
-        "#": { "5": ["Ginnungagap - Ruler of Nihility"] },
+        "#": {
+          "5": ["Yukimura - Puppet Master", "Ginnungagap - Ruler of Nihility"]
+        },
         "duo": { "5": ["Ymir - Seasons of Life", "Byleth - Frosty Professors"] }
       },
       "id": "Fireflood Boost 3",
@@ -8044,6 +8067,7 @@
           "3": ["Lapis - Mighty Flower"],
           "5": ["Febail - Mercenary Waif", "Ylgr - Fresh Snowfall"]
         },
+        "grail": { "5": ["Candace - Sly Snatcher"] },
         "legendary": { "5": ["Yuri - Underground Lord"] },
         "mythic": { "5": ["Dagr - Sun's Radiance"] }
       },
@@ -8074,7 +8098,9 @@
     },
     "Bonus Doubler 3": {
       "pool": {
-        "#": { "5": ["Lyon - Demon King", "Nah - Little Miss"] },
+        "#": {
+          "5": ["Lyon - Demon King", "Nah - Little Miss", "Mozu - Tragic Start"]
+        },
         "legendary": { "5": ["Roy - Blazing Lion"] },
         "special": {
           "4": ["Caspar - Summer Intensity"],
@@ -8089,7 +8115,10 @@
       "rules": "infantry"
     },
     "Bonus Doubler 4": {
-      "pool": { "special": { "5": ["Timerra - Trick or Meat"] } },
+      "pool": {
+        "#": { "5": ["Mozu - Tragic Start"] },
+        "special": { "5": ["Timerra - Trick or Meat"] }
+      },
       "id": "Bonus Doubler 4",
       "name": "強化增幅4",
       "sp": 300,
@@ -8523,6 +8552,7 @@
           "3": ["Miriel - Rapier Intellect", "Kagetsu - Onigiri Samurai"],
           "5": [
             "Tina - Playful Scamp",
+            "Hayato - Diviner of Reppu",
             "Monica - Favored Vassal",
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
@@ -10137,7 +10167,7 @@
     },
     "Sabotage Def 3": {
       "pool": {
-        "#": { "5": ["Morgan - Fated Darkness"] },
+        "#": { "5": ["Yukimura - Puppet Master", "Morgan - Fated Darkness"] },
         "grail": {
           "4": ["Linhardt - Spring Snoozer"],
           "5": ["Cornelia - Saint Consumed"]
@@ -10175,6 +10205,13 @@
       "name": "魔防擾亂3",
       "sp": 240,
       "icon": "skillB/Sabotage_Res_3"
+    },
+    "Sabotage A/D 3": {
+      "pool": { "#": { "5": ["Yukimura - Puppet Master"] } },
+      "id": "Sabotage A/D 3",
+      "name": "攻擊防守擾亂3",
+      "sp": 300,
+      "icon": "skillB/Sabotage_A_D_3"
     },
     "Sabotage A/R 3": {
       "pool": {
@@ -10332,7 +10369,7 @@
     },
     "Windsweep 3": {
       "pool": {
-        "#": { "5": ["Alm - Hero of Prophecy"] },
+        "#": { "5": ["Alm - Hero of Prophecy", "Hayato - Diviner of Reppu"] },
         "grail": {
           "4": ["Lifis - Terror of Iz", "Joshua - Tempest King"],
           "5": ["Zephia - Scheming Dragon"]
@@ -10826,7 +10863,10 @@
       "rules": "not.white-staff"
     },
     "Def Cantrip 3": {
-      "pool": { "special": { "4": ["Lachesis - Ballroom Bloom"] } },
+      "pool": {
+        "#": { "5": ["Azura - Song's Reflection"] },
+        "special": { "4": ["Lachesis - Ballroom Bloom"] }
+      },
       "id": "Def Cantrip 3",
       "name": "防守魅惑3",
       "sp": 240,
@@ -11998,12 +12038,26 @@
     },
     "Atk/Spd Bulwark 3": {
       "pool": {
-        "#": { "5": ["Diamant - Rising Power", "Felix - Lone-Wolf Blade"] }
+        "#": {
+          "5": [
+            "Diamant - Rising Power",
+            "Mozu - Tragic Start",
+            "Felix - Lone-Wolf Blade"
+          ]
+        }
       },
       "id": "Atk/Spd Bulwark 3",
       "name": "攻擊速度防護屏障3",
       "sp": 240,
       "icon": "skillB/Atk_Spd_Bulwark_3",
+      "rules": "learner.infantry-melee"
+    },
+    "Atk/Spd Bulwark 4": {
+      "pool": { "#": { "5": ["Mozu - Tragic Start"] } },
+      "id": "Atk/Spd Bulwark 4",
+      "name": "攻擊速度防護屏障4",
+      "sp": 300,
+      "icon": "skillB/Atk_Spd_Bulwark_4",
       "rules": "learner.infantry-melee"
     },
     "Atk/Def Bulwark 3": {
@@ -12202,6 +12256,14 @@
       "sp": 300,
       "icon": "skillB/Magic_Gambit_4",
       "rules": "tome"
+    },
+    "A/D Cantrip 3": {
+      "pool": { "#": { "5": ["Azura - Song's Reflection"] } },
+      "id": "A/D Cantrip 3",
+      "name": "攻擊防守魅惑3",
+      "sp": 300,
+      "icon": "skillB/A_D_Cantrip_3",
+      "rules": "not.white-staff"
     }
   },
   "skillC": {
@@ -12265,7 +12327,8 @@
           "5": [
             "Lucina - Future Witness",
             "Alfred - Floral Protector",
-            "Ninian - Frozen Heart"
+            "Ninian - Frozen Heart",
+            "Azura - Song's Reflection"
           ]
         },
         "special": { "5": ["Reginn - Bearing Dawn"] }
@@ -12390,7 +12453,13 @@
     },
     "Cross Spur Atk": {
       "pool": {
-        "#": { "5": ["Alfred - Floral Protector", "Ninian - Frozen Heart"] },
+        "#": {
+          "5": [
+            "Alfred - Floral Protector",
+            "Ninian - Frozen Heart",
+            "Azura - Song's Reflection"
+          ]
+        },
         "special": { "5": ["Reginn - Bearing Dawn"] }
       },
       "id": "Cross Spur Atk",
@@ -13702,7 +13771,7 @@
         "#": { "5": ["Flora - Cold as Ice"] },
         "grail": {
           "4": ["Arvis - Emperor of Flame"],
-          "5": ["Cecilia - Festive Instructor"]
+          "5": ["Cecilia - Festive Instructor", "Candace - Sly Snatcher"]
         },
         "special": {
           "5": ["Gaius - Thief Exposed", "Edelgard - Snowfall Future"]
@@ -14976,7 +15045,8 @@
             "Gullveig - Seer Beyond Time",
             "Ike - Zeal Unleashed",
             "Louise - Lady of Violets",
-            "Fir - Swordmaiden"
+            "Fir - Swordmaiden",
+            "Mozu - Tragic Start"
           ]
         },
         "grail": {
@@ -15011,7 +15081,8 @@
           "5": [
             "Shez - Rising Mercenary",
             "Gullveig - Seer Beyond Time",
-            "Fir - Swordmaiden"
+            "Fir - Swordmaiden",
+            "Mozu - Tragic Start"
           ]
         },
         "legendary": { "5": ["Shez - Sharpest Blades"] },
@@ -15525,6 +15596,13 @@
       "name": "響・取消",
       "sp": 0,
       "icon": "skillX/Guard_Echo"
+    },
+    "Mercy-Wing Echo": {
+      "pool": { "#": { "5": ["Azura - Song's Reflection"] } },
+      "id": "Mercy-Wing Echo",
+      "name": "響・救援路線",
+      "sp": 0,
+      "icon": "skillX/Mercy-Wing_Echo"
     }
   }
 }

@@ -169,7 +169,8 @@
       "Leanne - Forest's Song",
       "Rafiel - Blessed Wings",
       "Azura - Hatari Duet",
-      "Dorothea - Yuletide Dancer"
+      "Dorothea - Yuletide Dancer",
+      "Azura - Song's Reflection"
     ],
     "last": true
   },
@@ -312,6 +313,14 @@
     "sp": 400,
     "prev": ["Dance"],
     "exclusive": ["Mirabilis - Spring Daydream"],
+    "last": true
+  },
+  "Changing Waters": {
+    "id": "Changing Waters",
+    "name": "流動水脈",
+    "sp": 400,
+    "prev": ["Sing"],
+    "exclusive": ["Azura - Song's Reflection"],
     "last": true
   },
   "Heal": {
