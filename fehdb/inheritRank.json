@@ -2547,6 +2547,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Hayato - Diviner of Reppu": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 182,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Windsweep 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -5963,18 +5975,6 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
-  "Hayato - Diviner of Reppu": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 182,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Windsweep 3": { "sp": 240, "rarity": 5 } }
-  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -8125,6 +8125,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillA": { "Swift Stance 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Candace - Sly Snatcher": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 188,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Sorcery Blade 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Def Ploy 3": { "sp": 240, "rarity": 5 } }
   },
   "Arion - Gungnir's Heir": {
     "score": 322,
@@ -12616,19 +12629,6 @@
     "skillA": { "Bonus Doubler 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Spd Bulwark 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
-  },
-  "Candace - Sly Snatcher": {
-    "score": 388,
-    "scoreTotal": 1100,
-    "poolRarity": 5,
-    "pool": "grail",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 188,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Sorcery Blade 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Def Ploy 3": { "sp": 240, "rarity": 5 } }
   },
   "Tana - Soaring Princess": {
     "score": 500,

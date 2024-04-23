@@ -38443,19 +38443,33 @@
     "id": "Hayato - Diviner of Reppu",
     "title": "烈風城的符咒師",
     "name": "月讀",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-tome",
     "releaseDate": "2024-04-15",
     "appearsIn": ["Fates"],
     "stats": {
+      "4": {
+        "hp": [33, 36, 39],
+        "atk": [38, 41, 45],
+        "spd": [39, 42, 45],
+        "def": [19, 22, 25],
+        "res": [26, 29, 32]
+      },
       "5": {
         "hp": [35, 39, 42],
         "atk": [40, 43, 47],
         "spd": [42, 45, 49],
         "def": [21, 24, 27],
         "res": [27, 31, 34]
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 13,
+        "spd": 5,
+        "def": 6,
+        "res": 9
       },
       "5-1": {
         "hp": 17,
@@ -40564,20 +40578,48 @@
     "id": "Candace - Sly Snatcher",
     "title": "神出鬼沒的探險家",
     "name": "朵菈潔",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-bow",
     "pool": "grail",
-    "releaseDate": "2024-04-15",
+    "releaseDate": "2024-04-16",
     "appearsIn": ["Fates"],
     "stats": {
+      "3": {
+        "hp": [31, 34, 37],
+        "atk": [38, 41, 44],
+        "spd": [29, 32, 35],
+        "def": [18, 21, 24],
+        "res": [36, 39, 42]
+      },
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [40, 43, 47],
+        "spd": [30, 33, 36],
+        "def": [19, 22, 25],
+        "res": [38, 42, 45]
+      },
       "5": {
         "hp": [34, 38, 41],
         "atk": [42, 45, 49],
         "spd": [33, 36, 39],
         "def": [21, 25, 28],
         "res": [40, 44, 47]
+      },
+      "3-1": {
+        "hp": 15,
+        "atk": 14,
+        "spd": 7,
+        "def": 2,
+        "res": 10
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 15,
+        "spd": 7,
+        "def": 2,
+        "res": 11
       },
       "5-1": {
         "hp": 16,

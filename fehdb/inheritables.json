@@ -1934,7 +1934,7 @@
         "refine": 350
       },
       "Rauðrlantern+": {
-        "pool": { "#": { "5": ["Hayato - Diviner of Reppu"] } },
+        "pool": { "#": { "4": ["Hayato - Diviner of Reppu"] } },
         "id": "Rauðrlantern+",
         "name": "赤紅提燈+",
         "sp": 300,
@@ -3786,6 +3786,7 @@
             "Kagetsu - Onigiri Samurai",
             "Inigo - Flower Picker"
           ],
+          "4": ["Hayato - Diviner of Reppu"],
           "5": [
             "Ephraim - Restoration Lord",
             "Tana - Winged Princess",
@@ -3793,7 +3794,6 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
-            "Hayato - Diviner of Reppu",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Celica - Valentia's Hope",
@@ -4805,9 +4805,9 @@
             "Salem - Dark Sage",
             "Limstella - Living Construct",
             "Díthorba - Cutting Knight",
-            "Marla - Duma's Witch"
-          ],
-          "5": ["Candace - Sly Snatcher"]
+            "Marla - Duma's Witch",
+            "Candace - Sly Snatcher"
+          ]
         },
         "legendary": { "5": ["Gunnthrá - Voice of Dreams"] },
         "mythic": {
@@ -8067,7 +8067,7 @@
           "3": ["Lapis - Mighty Flower"],
           "5": ["Febail - Mercenary Waif", "Ylgr - Fresh Snowfall"]
         },
-        "grail": { "5": ["Candace - Sly Snatcher"] },
+        "grail": { "4": ["Candace - Sly Snatcher"] },
         "legendary": { "5": ["Yuri - Underground Lord"] },
         "mythic": { "5": ["Dagr - Sun's Radiance"] }
       },
@@ -8550,9 +8550,9 @@
       "pool": {
         "#": {
           "3": ["Miriel - Rapier Intellect", "Kagetsu - Onigiri Samurai"],
+          "4": ["Hayato - Diviner of Reppu"],
           "5": [
             "Tina - Playful Scamp",
-            "Hayato - Diviner of Reppu",
             "Monica - Favored Vassal",
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
@@ -10369,7 +10369,10 @@
     },
     "Windsweep 3": {
       "pool": {
-        "#": { "5": ["Alm - Hero of Prophecy", "Hayato - Diviner of Reppu"] },
+        "#": {
+          "4": ["Hayato - Diviner of Reppu"],
+          "5": ["Alm - Hero of Prophecy"]
+        },
         "grail": {
           "4": ["Lifis - Terror of Iz", "Joshua - Tempest King"],
           "5": ["Zephia - Scheming Dragon"]
