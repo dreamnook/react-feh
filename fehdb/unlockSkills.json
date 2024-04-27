@@ -1628,6 +1628,38 @@
       "Goad Fliers": 5
     }
   },
+  "Loki - Trickster God": {
+    "weapon": {
+      "Assault": 1,
+      "Supreme Thökk": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 2,
+      "Return": 3,
+      "Return+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Miracle": 3,
+      "Glitter of Light": 5
+    },
+    "skillA": {
+      "Atk/Res Catch 1": 2,
+      "Atk/Res Catch 2": 3,
+      "Atk/Res Catch 3": 4,
+      "Atk/Res Catch 4": 5
+    },
+    "skillB": {
+      "Dazzling Staff 1": 2,
+      "Dazzling Staff 2": 3,
+      "Dazzling Staff 3": 4,
+      "Dazzling Discord": 5
+    },
+    "skillC": {
+      "Divine Deceit": 5
+    }
+  },
   "Peony - Sweet Dream": {
     "weapon": {
       "Light": 1,

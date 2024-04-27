@@ -2971,6 +2971,7 @@
     "Return+": {
       "pool": {
         "#": { "5": ["Sara - Lady of Loptr", "Safy - Font of Piety"] },
+        "mythic": { "5": ["Loki - Trickster God"] },
         "special": { "5": ["Saul - Minister of Love"] },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
@@ -5097,6 +5098,7 @@
             "Fae - Childlike Dragon"
           ]
         },
+        "mythic": { "5": ["Loki - Trickster God"] },
         "special": {
           "4": ["Xane - Desert Mirage"],
           "5": [
@@ -5298,7 +5300,10 @@
       "rules": "white-staff"
     },
     "Glitter of Light": {
-      "pool": { "#": { "5": ["Hortensia - Little Charmer"] } },
+      "pool": {
+        "#": { "5": ["Hortensia - Little Charmer"] },
+        "mythic": { "5": ["Loki - Trickster God"] }
+      },
       "id": "Glitter of Light",
       "name": "輝印的聖光",
       "sp": 500,
@@ -8468,6 +8473,7 @@
           "3": ["Vanessa - Dutiful Rider"],
           "5": ["Hapi - Drawn-Out Sigh", "Letizia - Curse Director"]
         },
+        "mythic": { "5": ["Loki - Trickster God"] },
         "special": {
           "4": ["Naga - Harvest Divinity"],
           "5": ["Micaiah - Wavecrest Maiden"]
@@ -8483,6 +8489,7 @@
     "Atk/Res Catch 4": {
       "pool": {
         "#": { "5": ["Hapi - Drawn-Out Sigh", "Letizia - Curse Director"] },
+        "mythic": { "5": ["Loki - Trickster God"] },
         "special": { "5": ["Micaiah - Wavecrest Maiden"] },
         "duo": { "5": ["Laegjarn - Flame and Frost"] }
       },
@@ -10500,6 +10507,7 @@
             "Elincia - Devoted Queen"
           ]
         },
+        "mythic": { "5": ["Loki - Trickster God"] },
         "special": {
           "4": ["Xane - Desert Mirage"],
           "5": [
@@ -12267,6 +12275,14 @@
       "sp": 300,
       "icon": "skillB/A_D_Cantrip_3",
       "rules": "not.white-staff"
+    },
+    "Dazzling Discord": {
+      "pool": { "mythic": { "5": ["Loki - Trickster God"] } },
+      "id": "Dazzling Discord",
+      "name": "幻惑・不和烙印",
+      "sp": 300,
+      "icon": "skillB/Dazzling_Discord",
+      "rules": "white-staff"
     }
   },
   "skillC": {
@@ -15076,7 +15092,7 @@
       "name": "攻擊速度的信義3",
       "sp": 240,
       "icon": "skillC/Atk_Spd_Oath_3",
-      "rules": "learner.oath-skills"
+      "rules": "learner.infantry-flying"
     },
     "Atk/Spd Oath 4": {
       "pool": {
@@ -15101,7 +15117,7 @@
       "name": "攻擊速度的信義4",
       "sp": 300,
       "icon": "skillC/Atk_Spd_Oath_4",
-      "rules": "learner.oath-skills"
+      "rules": "learner.infantry-flying"
     },
     "Atk/Def Oath 3": {
       "pool": {
@@ -15114,7 +15130,7 @@
       "name": "攻擊防守的信義3",
       "sp": 240,
       "icon": "skillC/Atk_Def_Oath_3",
-      "rules": "learner.oath-skills"
+      "rules": "learner.infantry-flying"
     },
     "Atk/Def Oath 4": {
       "pool": { "special": { "5": ["Juno - Nimble Grace"] } },
@@ -15122,7 +15138,7 @@
       "name": "攻擊防守的信義4",
       "sp": 300,
       "icon": "skillC/Atk_Def_Oath_4",
-      "rules": "learner.oath-skills"
+      "rules": "learner.infantry-flying"
     },
     "Atk/Res Oath 3": {
       "pool": {
@@ -15141,7 +15157,7 @@
       "name": "攻擊魔防的信義3",
       "sp": 240,
       "icon": "skillC/Atk_Res_Oath_3",
-      "rules": "learner.oath-skills"
+      "rules": "learner.infantry-flying"
     },
     "Atk/Res Oath 4": {
       "pool": {
@@ -15153,7 +15169,7 @@
       "name": "攻擊魔防的信義4",
       "sp": 300,
       "icon": "skillC/Atk_Res_Oath_4",
-      "rules": "learner.oath-skills"
+      "rules": "learner.infantry-flying"
     },
     "Spd/Def Oath 3": {
       "pool": {
@@ -15165,7 +15181,7 @@
       "name": "速度防守的信義3",
       "sp": 240,
       "icon": "skillC/Spd_Def_Oath_3",
-      "rules": "learner.oath-skills"
+      "rules": "learner.infantry-flying"
     },
     "Spd/Res Oath 3": {
       "pool": {
@@ -15179,7 +15195,7 @@
       "name": "速度魔防的信義3",
       "sp": 240,
       "icon": "skillC/Spd_Res_Oath_3",
-      "rules": "learner.oath-skills"
+      "rules": "learner.infantry-flying"
     },
     "Def/Res Oath 3": {
       "pool": {
@@ -15190,7 +15206,7 @@
       "name": "防守魔防的信義3",
       "sp": 240,
       "icon": "skillC/Def_Res_Oath_3",
-      "rules": "learner.oath-skills"
+      "rules": "learner.infantry-flying"
     },
     "Atk/Spd Pledge": {
       "pool": {
@@ -15575,7 +15591,7 @@
       "name": "響・攻擊的信義",
       "sp": 0,
       "icon": "skillX/Atk_Oath_Echo",
-      "rules": "learner.oath-skills"
+      "rules": "learner.infantry-flying"
     },
     "Fleeting Echo": {
       "pool": { "#": { "5": ["Nino - Fang's Heart"] } },

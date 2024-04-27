@@ -1828,6 +1828,20 @@
     "skillB": { "Even Pulse Tie 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Dragon Exp. 3": { "sp": 120, "rarity": 4 } }
   },
+  "Loki - Trickster God": {
+    "score": 115,
+    "scoreTotal": 322,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 179,
+    "assist": { "Return+": { "sp": 300, "rarity": 5 } },
+    "special": { "Glitter of Light": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dazzling Discord": { "sp": 300, "rarity": 5 } }
+  },
   "Jeorge - Perfect Shot": {
     "score": 249,
     "scoreTotal": 329,

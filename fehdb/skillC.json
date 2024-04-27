@@ -477,6 +477,14 @@
     "last": true,
     "icon": "skillC/Glittering_Anima"
   },
+  "Divine Deceit": {
+    "id": "Divine Deceit",
+    "name": "神杖虛假天空",
+    "sp": 300,
+    "exclusive": ["Loki - Trickster God"],
+    "last": true,
+    "icon": "skillC/Divine_Deceit"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -3277,7 +3285,7 @@
     "id": "Atk/Spd Oath 1",
     "name": "攻擊速度的信義1",
     "sp": 60,
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Spd_Oath_1"
   },
   "Atk/Spd Oath 2": {
@@ -3285,7 +3293,7 @@
     "name": "攻擊速度的信義2",
     "sp": 120,
     "prev": ["Atk/Spd Oath 1"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Spd_Oath_2"
   },
   "Atk/Spd Oath 3": {
@@ -3293,7 +3301,7 @@
     "name": "攻擊速度的信義3",
     "sp": 240,
     "prev": ["Atk/Spd Oath 2"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Spd_Oath_3",
     "last": true
   },
@@ -3302,7 +3310,7 @@
     "name": "攻擊速度的信義4",
     "sp": 300,
     "prev": ["Atk/Spd Oath 3"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Spd_Oath_4",
     "last": true
   },
@@ -3310,7 +3318,7 @@
     "id": "Atk/Def Oath 1",
     "name": "攻擊防守的信義1",
     "sp": 60,
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Def_Oath_1"
   },
   "Atk/Def Oath 2": {
@@ -3318,7 +3326,7 @@
     "name": "攻擊防守的信義2",
     "sp": 120,
     "prev": ["Atk/Def Oath 1"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Def_Oath_2"
   },
   "Atk/Def Oath 3": {
@@ -3326,7 +3334,7 @@
     "name": "攻擊防守的信義3",
     "sp": 240,
     "prev": ["Atk/Def Oath 2"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Def_Oath_3",
     "last": true
   },
@@ -3335,7 +3343,7 @@
     "name": "攻擊防守的信義4",
     "sp": 300,
     "prev": ["Atk/Def Oath 3"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Def_Oath_4",
     "last": true
   },
@@ -3343,7 +3351,7 @@
     "id": "Atk/Res Oath 1",
     "name": "攻擊魔防的信義1",
     "sp": 60,
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Res_Oath_1"
   },
   "Atk/Res Oath 2": {
@@ -3351,7 +3359,7 @@
     "name": "攻擊魔防的信義2",
     "sp": 120,
     "prev": ["Atk/Res Oath 1"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Res_Oath_2"
   },
   "Atk/Res Oath 3": {
@@ -3359,7 +3367,7 @@
     "name": "攻擊魔防的信義3",
     "sp": 240,
     "prev": ["Atk/Res Oath 2"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Res_Oath_3",
     "last": true
   },
@@ -3368,7 +3376,7 @@
     "name": "攻擊魔防的信義4",
     "sp": 300,
     "prev": ["Atk/Res Oath 3"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Atk_Res_Oath_4",
     "last": true
   },
@@ -3376,7 +3384,7 @@
     "id": "Spd/Def Oath 1",
     "name": "速度防守的信義1",
     "sp": 60,
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Spd_Def_Oath_1"
   },
   "Spd/Def Oath 2": {
@@ -3384,7 +3392,7 @@
     "name": "速度防守的信義2",
     "sp": 120,
     "prev": ["Spd/Def Oath 1"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Spd_Def_Oath_2"
   },
   "Spd/Def Oath 3": {
@@ -3392,7 +3400,7 @@
     "name": "速度防守的信義3",
     "sp": 240,
     "prev": ["Spd/Def Oath 2"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Spd_Def_Oath_3",
     "last": true
   },
@@ -3400,7 +3408,7 @@
     "id": "Spd/Res Oath 1",
     "name": "速度魔防的信義1",
     "sp": 60,
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Spd_Res_Oath_1"
   },
   "Spd/Res Oath 2": {
@@ -3408,7 +3416,7 @@
     "name": "速度魔防的信義2",
     "sp": 120,
     "prev": ["Spd/Res Oath 1"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Spd_Res_Oath_2"
   },
   "Spd/Res Oath 3": {
@@ -3416,7 +3424,7 @@
     "name": "速度魔防的信義3",
     "sp": 240,
     "prev": ["Spd/Res Oath 2"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Spd_Res_Oath_3",
     "last": true
   },
@@ -3424,7 +3432,7 @@
     "id": "Def/Res Oath 1",
     "name": "防守魔防的信義1",
     "sp": 60,
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Def_Res_Oath_1"
   },
   "Def/Res Oath 2": {
@@ -3432,7 +3440,7 @@
     "name": "防守魔防的信義2",
     "sp": 120,
     "prev": ["Def/Res Oath 1"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Def_Res_Oath_2"
   },
   "Def/Res Oath 3": {
@@ -3440,7 +3448,7 @@
     "name": "防守魔防的信義3",
     "sp": 240,
     "prev": ["Def/Res Oath 2"],
-    "rules": "learner.oath-skills",
+    "rules": "learner.infantry-flying",
     "icon": "skillC/Def_Res_Oath_3",
     "last": true
   },

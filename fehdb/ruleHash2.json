@@ -230,6 +230,9 @@
     "moveType": 13,
     "weaponType": 15732727
   },
+  "learner.infantry-flying": {
+    "moveType": 9
+  },
   "learner.infantry-flying-not-staff": {
     "weaponType": 16777207,
     "moveType": 9
@@ -347,9 +350,6 @@
   "learner.mag-null-follow": {
     "moveType": 1,
     "weaponType": 1044488
-  },
-  "learner.oath-skills": {
-    "moveType": 9
   },
   "learner.armored-stride": {
     "moveType": 2,

@@ -4917,5 +4917,13 @@
     "rules": "not.white-staff",
     "last": true,
     "icon": "skillB/A_D_Cantrip_3"
+  },
+  "Dazzling Discord": {
+    "id": "Dazzling Discord",
+    "name": "幻惑・不和烙印",
+    "sp": 300,
+    "rules": "white-staff",
+    "last": true,
+    "icon": "skillB/Dazzling_Discord"
   }
 }

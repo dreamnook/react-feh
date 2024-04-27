@@ -25454,6 +25454,16 @@
       "exclusive": ["Emmeryn - Selfless Exalt"],
       "last": true
     },
+    "Supreme Thökk": {
+      "id": "Supreme Thökk",
+      "name": "神杖索克",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Loki - Trickster God"],
+      "last": true
+    },
     "Arcane Charmer": {
       "id": "Arcane Charmer",
       "name": "魔器・可愛雪杖",

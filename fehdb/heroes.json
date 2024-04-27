@@ -2348,6 +2348,43 @@
     "ver": "3.3",
     "dfKey": 2
   },
+  "Loki - Trickster God": {
+    "id": "Loki - Trickster God",
+    "title": "戲神",
+    "name": "洛基",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-staff",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "dark-atk-2",
+    "releaseDate": "2024-04-30",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [43, 47, 50],
+        "spd": [26, 30, 33],
+        "def": [12, 16, 19],
+        "res": [44, 47, 51]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 14,
+        "spd": 8,
+        "def": 3,
+        "res": 8
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "atk", "spd", "def"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.4",
+    "dfKey": 6
+  },
   "Peony - Sweet Dream": {
     "id": "Peony - Sweet Dream",
     "title": "美夢的",
