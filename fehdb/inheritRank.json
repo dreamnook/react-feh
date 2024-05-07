@@ -8153,6 +8153,19 @@
     "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wyvern Flight 3": { "sp": 240, "rarity": 5 } }
   },
+  "Lloyd - Vengeful Wolf": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 193,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Repel 3": { "sp": 240, "rarity": 5 } }
+  },
   "Fargus - Badon Buccaneer": {
     "score": 322,
     "scoreTotal": 746,
@@ -9035,6 +9048,18 @@
     "skillA": { "Fireflood Boost 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Sabotage A/D 3": { "sp": 300, "rarity": 5 } }
   },
+  "Veyle - Fell Successor": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Tempo 4": { "sp": 300, "rarity": 5 } }
+  },
   "Arlen - Mage of Khadein": {
     "score": 300,
     "scoreTotal": 800,
@@ -9228,6 +9253,18 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Gambit 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Lumera - Corrupted Dragon": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Scowl 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Counter Roar 4": { "sp": 300, "rarity": 5 } }
   },
   "Ursula - Blue Crow": {
     "score": 403,
@@ -12541,6 +12578,19 @@
     "skillB": { "Seal Spd/Res 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Incite Atk/Spd": { "sp": 300, "rarity": 5 } }
   },
+  "Nergal - Traitor to Nabata": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "C Bonus Doubler": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Special Spiral 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Oath 4": { "sp": 300, "rarity": 5 } }
+  },
   "Ganglöt - Death Anew": {
     "score": 300,
     "scoreTotal": 1100,
@@ -13511,6 +13561,19 @@
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Ursula - Blackened Crow": {
+    "score": 300,
+    "scoreTotal": 1200,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Blazing Thunder": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Verge of Death": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Far Trace 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
   "Ced - Sage of the Wind": {
     "score": 300,

@@ -485,6 +485,22 @@
     "last": true,
     "icon": "skillC/Divine_Deceit"
   },
+  "Corrupted Dragon": {
+    "id": "Corrupted Dragon",
+    "name": "異形的龍王",
+    "sp": 300,
+    "exclusive": ["Lumera - Corrupted Dragon"],
+    "last": true,
+    "icon": "skillC/Corrupted_Dragon"
+  },
+  "Fell Successor": {
+    "id": "Fell Successor",
+    "name": "邪龍繼承人",
+    "sp": 300,
+    "exclusive": ["Veyle - Fell Successor"],
+    "last": true,
+    "icon": "skillC/Fell_Successor"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -3450,6 +3466,15 @@
     "prev": ["Def/Res Oath 2"],
     "rules": "learner.infantry-flying",
     "icon": "skillC/Def_Res_Oath_3",
+    "last": true
+  },
+  "Def/Res Oath 4": {
+    "id": "Def/Res Oath 4",
+    "name": "防守魔防的信義4",
+    "sp": 300,
+    "prev": ["Def/Res Oath 3"],
+    "rules": "learner.infantry-flying",
+    "icon": "skillC/Def_Res_Oath_4",
     "last": true
   },
   "Atk/Spd Pledge": {

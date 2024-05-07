@@ -21592,6 +21592,40 @@
     "ver": "6.10",
     "dfKey": 5
   },
+  "Nergal - Traitor to Nabata": {
+    "id": "Nergal - Traitor to Nabata",
+    "title": "拋棄理想鄉之人",
+    "name": "涅爾加魯",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "releaseDate": "2024-05-08",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [12, 16, 19],
+        "def": [35, 39, 42],
+        "res": [39, 43, 46]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 3,
+        "def": 6,
+        "res": 10
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def", "res"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.5",
+    "dfKey": 6
+  },
   "Limstella - Living Construct": {
     "id": "Limstella - Living Construct",
     "title": "被創造的生命",
@@ -21780,6 +21814,69 @@
     "book": 1,
     "ver": "1.3",
     "dfKey": 1
+  },
+  "Lloyd - Vengeful Wolf": {
+    "id": "Lloyd - Vengeful Wolf",
+    "title": "復仇的白狼",
+    "name": "洛伊德",
+    "rarity": [5, 4, 3],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "pool": "grail",
+    "releaseDate": "2024-05-09",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [36, 39, 42],
+        "spd": [38, 41, 44],
+        "def": [24, 27, 30],
+        "res": [25, 28, 31]
+      },
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [38, 41, 45],
+        "spd": [41, 44, 47],
+        "def": [25, 28, 31],
+        "res": [26, 29, 32]
+      },
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [40, 43, 47],
+        "spd": [43, 46, 49],
+        "def": [28, 31, 34],
+        "res": [29, 32, 35]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 10,
+        "def": 6,
+        "res": 5
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 11,
+        "def": 6,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 11,
+        "def": 7,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.5",
+    "dfKey": 6
   },
   "Linus - Mad Dog": {
     "id": "Linus - Mad Dog",
@@ -22122,6 +22219,40 @@
     "book": 7,
     "ver": "7.1",
     "dfKey": 5
+  },
+  "Ursula - Blackened Crow": {
+    "id": "Ursula - Blackened Crow",
+    "title": "黑暗中舞動的蒼鴉",
+    "name": "烏爾斯拉",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-tome",
+    "releaseDate": "2024-05-08",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [44, 47, 51],
+        "def": [13, 17, 20],
+        "res": [23, 27, 30]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 8,
+        "def": 4,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 174,
+    "statMax": 175,
+    "book": 8,
+    "ver": "8.5",
+    "dfKey": 6
   },
   "Nino - Pious Mage": {
     "id": "Nino - Pious Mage",
@@ -46650,6 +46781,41 @@
     "ver": "8.1",
     "dfKey": 6
   },
+  "Lumera - Corrupted Dragon": {
+    "id": "Lumera - Corrupted Dragon",
+    "title": "異形的龍王",
+    "name": "琉彌艾爾",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-dragon",
+    "rearmed": true,
+    "releaseDate": "2024-05-08",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [33, 36, 40],
+        "atk": [38, 41, 45],
+        "spd": [41, 45, 48],
+        "def": [22, 26, 29],
+        "res": [41, 45, 48]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 12,
+        "def": 4,
+        "res": 12
+      }
+    },
+    "assets": ["hp", "atk"],
+    "flaws": ["spd", "def", "res"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.5",
+    "dfKey": 6
+  },
   "Framme - Spring Fangirl": {
     "id": "Framme - Spring Fangirl",
     "title": "季節中最愛春天",
@@ -47503,6 +47669,40 @@
     "statMax": 185,
     "book": 7,
     "ver": "7.10",
+    "dfKey": 6
+  },
+  "Veyle - Fell Successor": {
+    "id": "Veyle - Fell Successor",
+    "title": "邪龍繼承人",
+    "name": "貝珥",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "releaseDate": "2024-05-08",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 51],
+        "spd": [12, 16, 19],
+        "def": [29, 32, 35],
+        "res": [44, 47, 51]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 17,
+        "spd": 3,
+        "def": 6,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.5",
     "dfKey": 6
   },
   "Mauvier - Penitent Knight": {

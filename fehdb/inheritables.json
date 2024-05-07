@@ -2715,6 +2715,12 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Fellstone": {
+        "pool": { "#": { "5": ["Lumera - Corrupted Dragon"] } },
+        "id": "Arcane Fellstone",
+        "name": "魔器・歪神龍的龍石",
+        "sp": 300
+      },
       "Flametongue+": {
         "pool": { "#": { "5": ["Tiki - Dragon Scion"] } },
         "id": "Flametongue+",
@@ -4435,6 +4441,7 @@
             "Hans - Ambitious Brute",
             "Perne - Dacian Scoundrel",
             "Lumera - Dragon Monarch",
+            "Lloyd - Vengeful Wolf",
             "Fargus - Badon Buccaneer",
             "Vigarde - Silent Emperor"
           ]
@@ -4699,6 +4706,8 @@
             "Niime - Mountain Hermit",
             "Citrinne - Caring Noble",
             "Yukimura - Puppet Master",
+            "Veyle - Fell Successor",
+            "Lumera - Corrupted Dragon",
             "Morgan - Lass from Afar",
             "Flora - Cold as Ice",
             "Selkie - Free Spirit",
@@ -4783,7 +4792,8 @@
           "5": [
             "Katarina - Wayward One",
             "Ewan - Eager Student",
-            "Marianne - Serene Adherent"
+            "Marianne - Serene Adherent",
+            "Nergal - Traitor to Nabata"
           ]
         },
         "grail": {
@@ -4931,7 +4941,10 @@
     },
     "Blazing Thunder": {
       "pool": {
-        "#": { "3": ["Reinhardt - Thunder's Fist"] },
+        "#": {
+          "3": ["Reinhardt - Thunder's Fist"],
+          "5": ["Ursula - Blackened Crow"]
+        },
         "grail": {
           "4": ["Fernand - Traitorous Knight", "Michalis - Ambitious King"]
         },
@@ -5670,6 +5683,7 @@
             "Joshua - Resolute Tempest",
             "Igrene - Nabata Protector",
             "Leila - Rose amid Fangs",
+            "Ursula - Blackened Crow",
             "Lucia - Tireless Advisor"
           ]
         },
@@ -5722,7 +5736,13 @@
     },
     "Still Water 3": {
       "pool": {
-        "#": { "5": ["Safy - Font of Piety", "Plumeria - Rapturous Dream"] },
+        "#": {
+          "5": [
+            "Safy - Font of Piety",
+            "Veyle - Fell Successor",
+            "Plumeria - Rapturous Dream"
+          ]
+        },
         "grail": {
           "5": ["Tailtiu - Teatime Mingler", "Linhardt - Spring Snoozer"]
         },
@@ -5748,6 +5768,20 @@
       "name": "止水4",
       "sp": 300,
       "icon": "skillA/Still_Water_4"
+    },
+    "Verge of Death": {
+      "pool": { "#": { "5": ["Ursula - Blackened Crow"] } },
+      "id": "Verge of Death",
+      "name": "臨界死線",
+      "sp": 300,
+      "icon": "skillA/Verge_of_Death"
+    },
+    "Crystalline Water": {
+      "pool": { "#": { "5": ["Veyle - Fell Successor"] } },
+      "id": "Crystalline Water",
+      "name": "明鏡止水",
+      "sp": 300,
+      "icon": "skillA/Crystalline_Water"
     },
     "Death Blow 3": {
       "pool": {
@@ -6733,7 +6767,8 @@
           "5": [
             "Takumi - Wild Card",
             "Arlen - Mage of Khadein",
-            "Gatekeeper - Nothing to Report"
+            "Gatekeeper - Nothing to Report",
+            "Nergal - Traitor to Nabata"
           ]
         },
         "legendary": { "5": ["Chrom - Crowned Exalt"] },
@@ -8131,7 +8166,9 @@
       "rules": "infantry"
     },
     "C Bonus Doubler": {
-      "pool": { "#": { "5": ["Arlen - Mage of Khadein"] } },
+      "pool": {
+        "#": { "5": ["Arlen - Mage of Khadein", "Nergal - Traitor to Nabata"] }
+      },
       "id": "C Bonus Doubler",
       "name": "近反・強化增幅",
       "sp": 300,
@@ -8569,6 +8606,7 @@
           ]
         },
         "grail": {
+          "4": ["Lloyd - Vengeful Wolf"],
           "5": ["Hans - Ambitious Brute", "Holst - Hero of Leicester"]
         },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
@@ -9063,6 +9101,22 @@
       "name": "攻擊魔防的龍眼4",
       "sp": 300,
       "icon": "skillA/Atk_Res_Scowl_4",
+      "rules": "dragon"
+    },
+    "Spd/Res Scowl 3": {
+      "pool": { "#": { "5": ["Lumera - Corrupted Dragon"] } },
+      "id": "Spd/Res Scowl 3",
+      "name": "速度魔防的龍眼3",
+      "sp": 240,
+      "icon": "skillA/Spd_Res_Scowl_3",
+      "rules": "dragon"
+    },
+    "Spd/Res Scowl 4": {
+      "pool": { "#": { "5": ["Lumera - Corrupted Dragon"] } },
+      "id": "Spd/Res Scowl 4",
+      "name": "速度魔防的龍眼4",
+      "sp": 300,
+      "icon": "skillA/Spd_Res_Scowl_4",
       "rules": "dragon"
     },
     "Def/Res Scowl 3": {
@@ -11237,6 +11291,7 @@
             "Lewyn - Guiding Breeze",
             "Ophelia - Starlit Maiden",
             "Igrene - Nabata Protector",
+            "Nergal - Traitor to Nabata",
             "Ced - Sage of the Wind"
           ]
         },
@@ -11257,6 +11312,7 @@
           "5": [
             "Citrinne - Caring Noble",
             "Ophelia - Starlit Maiden",
+            "Nergal - Traitor to Nabata",
             "Ced - Sage of the Wind"
           ]
         }
@@ -11559,7 +11615,8 @@
             "Alear - Dragon Youth",
             "Lucia - Tireless Advisor"
           ]
-        }
+        },
+        "grail": { "5": ["Lloyd - Vengeful Wolf"] }
       },
       "id": "Repel 3",
       "name": "迴避・擊退3",
@@ -11885,7 +11942,7 @@
     },
     "S/R Far Trace 3": {
       "pool": {
-        "#": { "5": ["Reinhardt - Thrud Reborn"] },
+        "#": { "5": ["Reinhardt - Thrud Reborn", "Ursula - Blackened Crow"] },
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "special": {
           "5": [
@@ -11907,7 +11964,9 @@
       "rules": "learner.far-trace"
     },
     "S/R Far Trace 4": {
-      "pool": { "#": { "5": ["Reinhardt - Thrud Reborn"] } },
+      "pool": {
+        "#": { "5": ["Reinhardt - Thrud Reborn", "Ursula - Blackened Crow"] }
+      },
       "id": "S/R Far Trace 4",
       "name": "速度魔防遠影4",
       "sp": 300,
@@ -11987,7 +12046,7 @@
     },
     "Atk/Res Tempo 3": {
       "pool": {
-        "#": { "5": ["Arlen - Mage of Khadein"] },
+        "#": { "5": ["Veyle - Fell Successor", "Arlen - Mage of Khadein"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": {
           "5": [
@@ -12006,7 +12065,7 @@
     },
     "Atk/Res Tempo 4": {
       "pool": {
-        "#": { "5": ["Arlen - Mage of Khadein"] },
+        "#": { "5": ["Veyle - Fell Successor", "Arlen - Mage of Khadein"] },
         "mythic": { "5": ["Veyle - Gentle Dragon"] }
       },
       "id": "Atk/Res Tempo 4",
@@ -12207,7 +12266,9 @@
       "rules": "learner.wielder"
     },
     "Counter Roar 3": {
-      "pool": { "#": { "5": ["Corrin - Silent Bloodline"] } },
+      "pool": {
+        "#": { "5": ["Lumera - Corrupted Dragon", "Corrin - Silent Bloodline"] }
+      },
       "id": "Counter Roar 3",
       "name": "反擊的咆嘯3",
       "sp": 240,
@@ -12215,7 +12276,9 @@
       "rules": "learner.dragon-beast"
     },
     "Counter Roar 4": {
-      "pool": { "#": { "5": ["Corrin - Silent Bloodline"] } },
+      "pool": {
+        "#": { "5": ["Lumera - Corrupted Dragon", "Corrin - Silent Bloodline"] }
+      },
       "id": "Counter Roar 4",
       "name": "反擊的咆嘯4",
       "sp": 300,
@@ -13981,7 +14044,7 @@
     },
     "Res Smoke 3": {
       "pool": {
-        "#": { "5": ["Reinhardt - Thrud Reborn"] },
+        "#": { "5": ["Reinhardt - Thrud Reborn", "Ursula - Blackened Crow"] },
         "grail": { "4": ["Brunnya - Devoted General"] },
         "legendary": { "5": ["Robin - Fell Vessel"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
@@ -14087,7 +14150,13 @@
     },
     "Def/Res Smoke 3": {
       "pool": {
-        "#": { "5": ["Reinhardt - Thrud Reborn", "Alcryst - Tender Archer"] },
+        "#": {
+          "5": [
+            "Reinhardt - Thrud Reborn",
+            "Alcryst - Tender Archer",
+            "Ursula - Blackened Crow"
+          ]
+        },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": {
           "5": ["Leila - Keen Lookout", "Bernadetta - Late Hibernator"]
@@ -15204,13 +15273,23 @@
     },
     "Def/Res Oath 3": {
       "pool": {
-        "#": { "5": ["Caeda - Marth's Faithful"] },
+        "#": {
+          "5": ["Caeda - Marth's Faithful", "Nergal - Traitor to Nabata"]
+        },
         "duo": { "5": ["Alfonse - Askran Duo"] }
       },
       "id": "Def/Res Oath 3",
       "name": "防守魔防的信義3",
       "sp": 240,
       "icon": "skillC/Def_Res_Oath_3",
+      "rules": "learner.infantry-flying"
+    },
+    "Def/Res Oath 4": {
+      "pool": { "#": { "5": ["Nergal - Traitor to Nabata"] } },
+      "id": "Def/Res Oath 4",
+      "name": "防守魔防的信義4",
+      "sp": 300,
+      "icon": "skillC/Def_Res_Oath_4",
       "rules": "learner.infantry-flying"
     },
     "Atk/Spd Pledge": {

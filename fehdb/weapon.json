@@ -3235,6 +3235,16 @@
       "exclusive": ["Ike - Of Radiance"],
       "last": true
     },
+    "Dead-Wolf Blade": {
+      "id": "Dead-Wolf Blade",
+      "name": "亡命狼牙之劍",
+      "mt": 16,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Lloyd - Vengeful Wolf"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -21819,6 +21829,16 @@
       "exclusive": ["Robin - Vessels of Fate"],
       "last": true
     },
+    "Dead-Crow Tome": {
+      "id": "Dead-Crow Tome",
+      "name": "亡魂鴉爪之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Ursula - Blackened Crow"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -24034,6 +24054,16 @@
       "exclusive": ["Merric - Wind Pontifex"],
       "last": true
     },
+    "Ereshkigal": {
+      "id": "Ereshkigal",
+      "name": "埃列什基伽勒",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Nergal - Traitor to Nabata"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",
@@ -25221,6 +25251,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Arlen - Mage of Khadein"],
+      "last": true
+    },
+    "Fell Child's Might": {
+      "id": "Fell Child's Might",
+      "name": "邪龍之女魔書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Veyle - Fell Successor"],
       "last": true
     },
     "Stone": {
@@ -27684,6 +27724,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Arcane Fellstone": {
+      "id": "Arcane Fellstone",
+      "name": "魔器・歪神龍的龍石",
+      "mt": 16,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Flametongue"],
       "last": true
     },
     "Fire Breath": {
