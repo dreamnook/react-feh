@@ -2479,6 +2479,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Say'ri - Chon'sin's Blade"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Amatsu_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Virtuous Tyrfing": {
@@ -2661,6 +2684,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Sigurd - Fated Holy Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Hallowed_Tyrfing_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Ladyblade": {
@@ -6152,6 +6198,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Kris - Unsung Hero"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Spear_of_Shadow_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Moon Gradivus": {
@@ -6193,6 +6262,29 @@
       "spd": 3,
       "sp": 400,
       "exclusive": ["Petrine - Icy Flame-Lancer"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Flame_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Effie's Lance": {
@@ -15977,6 +16069,28 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Mia - Harmonic Blades"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Summer_Strikers_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Tailwind Shuriken": {
@@ -23441,6 +23555,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Lyon - Demon King"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Blood_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Exotic Fruit Juice": {
@@ -23590,6 +23726,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Byleth - The Fódlan Star"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Professorial_Text_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Tiger Spirit": {

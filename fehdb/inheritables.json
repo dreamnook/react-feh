@@ -4350,8 +4350,8 @@
           "5": [
             "Marth - Hero-King",
             "Hector - Marquess of Ostia",
-            "Sigurd - Fated Holy Knight",
             "Camilla - Alluring Darkness",
+            "Sigurd - Fated Holy Knight",
             "Byleth - The Fódlan Star",
             "Byleth - The Fódlan Light"
           ]
@@ -9841,6 +9841,7 @@
           "3": ["Oboro - Fierce Fighter", "Roy - Young Lion"],
           "5": ["Ephraim - Restoration Lord"]
         },
+        "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
         "special": { "5": ["Anna - Secret Charmer"] },
         "duo": { "5": ["Laegjarn - Flame and Frost"] }
       },
@@ -9852,6 +9853,7 @@
     },
     "Seal Def 4": {
       "pool": {
+        "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
         "special": { "5": ["Anna - Secret Charmer"] },
         "duo": { "5": ["Laegjarn - Flame and Frost"] }
       },
@@ -15076,6 +15078,7 @@
           "5": [
             "Celica - Queen of Valentia",
             "Shez - Sharpest Blades",
+            "Byleth - The Fódlan Star",
             "Alear - Awoken Divinity",
             "Alear - Engaging Fire"
           ]
@@ -15104,7 +15107,9 @@
             "Mozu - Tragic Start"
           ]
         },
-        "legendary": { "5": ["Shez - Sharpest Blades"] },
+        "legendary": {
+          "5": ["Shez - Sharpest Blades", "Byleth - The Fódlan Star"]
+        },
         "special": {
           "5": [
             "Eirika - Beach Restorer",

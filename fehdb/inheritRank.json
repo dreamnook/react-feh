@@ -6275,19 +6275,6 @@
     "skillA": { "Atk/Res Solo 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
-  "Sigurd - Fated Holy Knight": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 185,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Catch 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Fatal Smoke 3": { "sp": 240, "rarity": 5 } }
-  },
   "Claude - King of Unification": {
     "score": 276,
     "scoreTotal": 681,
@@ -10196,20 +10183,6 @@
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
-  "Byleth - The Fódlan Star": {
-    "score": 276,
-    "scoreTotal": 902,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 980,
-    "feather": 1000,
-    "bst": 185,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Ideal 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Lull Atk/Res 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
-  },
   "Nino - Pale Flower": {
     "score": 240,
     "scoreTotal": 920,
@@ -10947,6 +10920,20 @@
     "skillB": { "Flow Refresh 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Def Menace": { "sp": 300, "rarity": 5 } }
   },
+  "Sigurd - Fated Holy Knight": {
+    "score": 276,
+    "scoreTotal": 957,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Fatal Smoke 3": { "sp": 240, "rarity": 5 } }
+  },
   "Fae - Childlike Dragon": {
     "score": 276,
     "scoreTotal": 957,
@@ -10960,6 +10947,20 @@
     "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Ire 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
+  },
+  "Byleth - The Fódlan Star": {
+    "score": 276,
+    "scoreTotal": 957,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Lull Atk/Res 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Veronica - Princess Rising": {
     "score": 276,
