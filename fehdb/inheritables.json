@@ -12292,7 +12292,7 @@
       "name": "神速3",
       "sp": 240,
       "icon": "skillB/Potent_3",
-      "rules": "learner.infantry-cavalry-flying-def-dmger"
+      "rules": "learner.infantry-cavalry-flying-melee-def-dmger"
     },
     "Potent 4": {
       "pool": { "#": { "5": ["Marth - Of Beginnings"] } },
@@ -12300,7 +12300,7 @@
       "name": "神速4",
       "sp": 300,
       "icon": "skillB/Potent_4",
-      "rules": "learner.infantry-cavalry-flying-def-dmger"
+      "rules": "learner.infantry-cavalry-flying-melee-def-dmger"
     },
     "Laguz Friend 3": {
       "pool": { "#": { "5": ["Ike - Of Radiance"] } },
