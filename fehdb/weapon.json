@@ -3237,7 +3237,7 @@
     },
     "Dead-Wolf Blade": {
       "id": "Dead-Wolf Blade",
-      "name": "亡命狼牙之劍",
+      "name": "絕命狼牙之劍",
       "mt": 16,
       "spd": 3,
       "sp": 400,
@@ -21831,7 +21831,7 @@
     },
     "Dead-Crow Tome": {
       "id": "Dead-Crow Tome",
-      "name": "亡魂鴉爪之書",
+      "name": "無魂鴉爪之書",
       "mt": 14,
       "cd": -1,
       "sp": 400,
@@ -25255,7 +25255,7 @@
     },
     "Fell Child's Might": {
       "id": "Fell Child's Might",
-      "name": "邪龍之女魔書",
+      "name": "邪龍之女之力",
       "mt": 14,
       "cd": -1,
       "sp": 400,
