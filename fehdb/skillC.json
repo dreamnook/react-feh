@@ -501,6 +501,22 @@
     "last": true,
     "icon": "skillC/Fell_Successor"
   },
+  "Absolute Closure": {
+    "id": "Absolute Closure",
+    "name": "一切都被封鎖的世界",
+    "sp": 300,
+    "exclusive": ["Embla - Closed-Off Bride"],
+    "last": true,
+    "icon": "skillC/Absolute_Closure"
+  },
+  "Forever Yours": {
+    "id": "Forever Yours",
+    "name": "你的夏蓉",
+    "sp": 300,
+    "exclusive": ["Sharena - Pillars of Peace"],
+    "last": true,
+    "icon": "skillC/Forever_Yours"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

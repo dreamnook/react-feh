@@ -4297,6 +4297,15 @@
     "icon": "skillB/Flow_Guard_3",
     "last": true
   },
+  "Flow Guard 4": {
+    "id": "Flow Guard 4",
+    "name": "怒濤・取消4",
+    "sp": 300,
+    "prev": ["Flow Guard 3"],
+    "rules": "learner.wielderCavalryFlying",
+    "icon": "skillB/Flow_Guard_4",
+    "last": true
+  },
   "Flow Force 1": {
     "id": "Flow Force 1",
     "name": "怒濤・不屈1",
@@ -4715,7 +4724,7 @@
     "id": "Beast Sense 1",
     "name": "絕對化身・察覺1",
     "sp": 60,
-    "rules": "learner.beast-sense",
+    "rules": "learner.beast-infantry-cavalry-flying",
     "icon": "skillB/Beast_Sense_1"
   },
   "Beast Sense 2": {
@@ -4723,7 +4732,7 @@
     "name": "絕對化身・察覺2",
     "sp": 120,
     "prev": ["Beast Sense 1"],
-    "rules": "learner.beast-sense",
+    "rules": "learner.beast-infantry-cavalry-flying",
     "icon": "skillB/Beast_Sense_2"
   },
   "Beast Sense 3": {
@@ -4731,7 +4740,7 @@
     "name": "絕對化身・察覺3",
     "sp": 240,
     "prev": ["Beast Sense 2"],
-    "rules": "learner.beast-sense",
+    "rules": "learner.beast-infantry-cavalry-flying",
     "icon": "skillB/Beast_Sense_3",
     "last": true
   },
@@ -4740,8 +4749,41 @@
     "name": "絕對化身・察覺4",
     "sp": 300,
     "prev": ["Beast Sense 3"],
-    "rules": "learner.beast-sense",
+    "rules": "learner.beast-infantry-cavalry-flying",
     "icon": "skillB/Beast_Sense_4",
+    "last": true
+  },
+  "Beast Assault 1": {
+    "id": "Beast Assault 1",
+    "name": "絕對化身・強攻1",
+    "sp": 60,
+    "rules": "learner.beast-infantry-cavalry-flying",
+    "icon": "skillB/Beast_Assault_1"
+  },
+  "Beast Assault 2": {
+    "id": "Beast Assault 2",
+    "name": "絕對化身・強攻2",
+    "sp": 120,
+    "prev": ["Beast Assault 1"],
+    "rules": "learner.beast-infantry-cavalry-flying",
+    "icon": "skillB/Beast_Assault_2"
+  },
+  "Beast Assault 3": {
+    "id": "Beast Assault 3",
+    "name": "絕對化身・強攻3",
+    "sp": 240,
+    "prev": ["Beast Assault 2"],
+    "rules": "learner.beast-infantry-cavalry-flying",
+    "icon": "skillB/Beast_Assault_3",
+    "last": true
+  },
+  "Beast Assault 4": {
+    "id": "Beast Assault 4",
+    "name": "絕對化身・強攻4",
+    "sp": 300,
+    "prev": ["Beast Assault 3"],
+    "rules": "learner.beast-infantry-cavalry-flying",
+    "icon": "skillB/Beast_Assault_4",
     "last": true
   },
   "Gambit 1": {

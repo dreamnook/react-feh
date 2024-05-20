@@ -2308,6 +2308,19 @@
     "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
+  "Alcryst - Tender Groom": {
+    "score": 196,
+    "scoreTotal": 395,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 188,
+    "assist": { "Draw Back": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Bonus Doubler 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
+  },
   "Azura - Young Songstress": {
     "score": 299,
     "scoreTotal": 396,
@@ -2560,18 +2573,6 @@
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Hayato - Diviner of Reppu": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 182,
-    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Windsweep 3": { "sp": 240, "rarity": 5 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -3746,6 +3747,18 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Res Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Rouse Atk/Res 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Hayato - Diviner of Reppu": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 182,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Windsweep 3": { "sp": 240, "rarity": 5 } }
   },
   "Vanessa - Dutiful Rider": {
     "score": 199,
@@ -5629,6 +5642,19 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Nel - Stoic Bride": {
+    "score": 254,
+    "scoreTotal": 668,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 194,
+    "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Scowl 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Counter Roar 3": { "sp": 240, "rarity": 5 } }
   },
   "Corrin - Enjoying Tradition": {
     "score": 374,
@@ -9722,6 +9748,19 @@
     "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "S/D Rein Snap": { "sp": 300, "rarity": 5 } }
   },
+  "Embla - Closed-Off Bride": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Wild": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Beast Assault 4": { "sp": 300, "rarity": 5 } }
+  },
   "Juno - Nimble Grace": {
     "score": 318,
     "scoreTotal": 848,
@@ -13199,6 +13238,20 @@
     "skillB": { "Lull Spd/Res 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
   },
+  "Lapis - Mighty Bride": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Escutcheon": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flow Guard 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
   "Fjorm - Seaside Thaw": {
     "score": 318,
     "scoreTotal": 1166,
@@ -13415,6 +13468,19 @@
     "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Def Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Sharena - Pillars of Peace": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "No Quarter": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Potent 4": { "sp": 300, "rarity": 5 } }
   },
   "Myrrh - Adored Dragon": {
     "score": 530,

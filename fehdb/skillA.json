@@ -4516,5 +4516,13 @@
     "rules": "learner.def-dmger",
     "icon": "skillA/Atk_Def_Prime_4",
     "last": true
+  },
+  "Atk/Spd Excel": {
+    "id": "Atk/Spd Excel",
+    "name": "攻擊速度的突破",
+    "sp": 300,
+    "rules": "learner.infantry-cavalry-flying-melee",
+    "last": true,
+    "icon": "skillA/Atk_Spd_Excel"
   }
 }

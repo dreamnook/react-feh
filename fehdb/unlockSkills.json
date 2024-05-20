@@ -137,6 +137,34 @@
       "Res Tactic 3": 4
     }
   },
+  "Sharena - Pillars of Peace": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "United Bouquet": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4,
+      "No Quarter": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
+    },
+    "skillB": {
+      "Potent 1": 2,
+      "Potent 2": 3,
+      "Potent 3": 4,
+      "Potent 4": 5
+    },
+    "skillC": {
+      "Forever Yours": 5
+    }
+  },
   "Anna - Commander": {
     "weapon": {
       "Iron Axe": 1,
@@ -2550,6 +2578,33 @@
     },
     "skillC": {
       "Severance": 5
+    }
+  },
+  "Embla - Closed-Off Bride": {
+    "weapon": {
+      "Hatchling (Flier)": 1,
+      "Fledgling (Flier)": 2,
+      "Adult (Flier)": 3,
+      "Closing Florets": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Atk/Spd Solo 1": 2,
+      "Atk/Spd Solo 2": 3,
+      "Atk/Spd Solo 3": 4,
+      "Atk/Spd Wild": 5
+    },
+    "skillB": {
+      "Beast Assault 1": 2,
+      "Beast Assault 2": 3,
+      "Beast Assault 3": 4,
+      "Beast Assault 4": 5
+    },
+    "skillC": {
+      "Absolute Closure": 5
     }
   },
   "Elm - Resolute Grouch": {
@@ -26639,6 +26694,27 @@
       "Def/Res Smoke 3": 5
     }
   },
+  "Alcryst - Tender Groom": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Harp Bow": 3,
+      "Harp Bow+": 5
+    },
+    "assist": {
+      "Draw Back": 3
+    },
+    "skillA": {
+      "Bonus Doubler 1": 3,
+      "Bonus Doubler 2": 4,
+      "Bonus Doubler 3": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 1,
+      "Atk/Spd Oath 2": 2,
+      "Atk/Spd Oath 3": 4
+    }
+  },
   "Lapis - Mighty Flower": {
     "weapon": {
       "Iron Sword": 1,
@@ -26659,6 +26735,36 @@
       "Spd/Def Oath 1": 1,
       "Spd/Def Oath 2": 2,
       "Spd/Def Oath 3": 4
+    }
+  },
+  "Lapis - Mighty Bride": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Wildflower Edge": 5
+    },
+    "special": {
+      "Buckler": 3,
+      "Escutcheon": 4
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Flared Sparrow": 5
+    },
+    "skillB": {
+      "Flow Guard 1": 2,
+      "Flow Guard 2": 3,
+      "Flow Guard 3": 4,
+      "Flow Guard 4": 5
+    },
+    "skillC": {
+      "Panic Smoke 1": 2,
+      "Panic Smoke 2": 3,
+      "Panic Smoke 3": 4,
+      "Panic Smoke 4": 5
     }
   },
   "Citrinne - Caring Noble": {
@@ -27030,6 +27136,27 @@
       "Rouse Atk/Def 1": 1,
       "Rouse Atk/Def 2": 2,
       "Rouse Atk/Def 3": 4
+    }
+  },
+  "Nel - Stoic Bride": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Dragonbloom": 3,
+      "Dragonbloom+": 5
+    },
+    "assist": {
+      "Reciprocal Aid": 3
+    },
+    "skillA": {
+      "Atk/Spd Scowl 1": 1,
+      "Atk/Spd Scowl 2": 2,
+      "Atk/Spd Scowl 3": 4
+    },
+    "skillB": {
+      "Counter Roar 1": 3,
+      "Counter Roar 2": 4,
+      "Counter Roar 3": 5
     }
   }
 }

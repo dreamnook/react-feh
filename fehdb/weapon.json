@@ -3245,6 +3245,16 @@
       "exclusive": ["Lloyd - Vengeful Wolf"],
       "last": true
     },
+    "Wildflower Edge": {
+      "id": "Wildflower Edge",
+      "name": "野花新娘的大劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Lapis - Mighty Bride"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -7257,6 +7267,16 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Mozu - Tragic Start"],
+      "last": true
+    },
+    "United Bouquet": {
+      "id": "United Bouquet",
+      "name": "兩國新娘捧花",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Sharena - Pillars of Peace"],
       "last": true
     },
     "Arcane Qiang": {
@@ -15565,6 +15585,39 @@
         }
       },
       "last": true
+    },
+    "Harp Bow": {
+      "id": "Harp Bow",
+      "name": "豎琴之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Harp Bow+": {
+      "id": "Harp Bow+",
+      "name": "豎琴之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Harp Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "dagger": {
@@ -18590,6 +18643,16 @@
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Nerþuz - New-Year Doter"],
+      "last": true
+    },
+    "Closing Florets": {
+      "id": "Closing Florets",
+      "name": "封閉新娘捧花",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Flier)"],
+      "exclusive": ["Embla - Closed-Off Bride"],
       "last": true
     },
     "Arcane Nihility": {
@@ -28189,6 +28252,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["New-Sun Stone"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Dragonbloom": {
+      "id": "Dragonbloom",
+      "name": "龍石捧花",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Fire Breath+"]
+    },
+    "Dragonbloom+": {
+      "id": "Dragonbloom+",
+      "name": "龍石捧花+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Dragonbloom"],
       "refine": {
         "atk": {
           "hp": 5,

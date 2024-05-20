@@ -1513,6 +1513,13 @@
         "name": "胡蘿蔔弓+",
         "sp": 300,
         "refine": 350
+      },
+      "Harp Bow+": {
+        "pool": { "special": { "5": ["Alcryst - Tender Groom"] } },
+        "id": "Harp Bow+",
+        "name": "豎琴之弓+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "dagger": {
@@ -1934,7 +1941,7 @@
         "refine": 350
       },
       "Rauðrlantern+": {
-        "pool": { "#": { "4": ["Hayato - Diviner of Reppu"] } },
+        "pool": { "#": { "3": ["Hayato - Diviner of Reppu"] } },
         "id": "Rauðrlantern+",
         "name": "赤紅提燈+",
         "sp": 300,
@@ -2824,6 +2831,13 @@
         "name": "辰年幼姬的龍石+",
         "sp": 300,
         "refine": 350
+      },
+      "Dragonbloom+": {
+        "pool": { "special": { "5": ["Nel - Stoic Bride"] } },
+        "id": "Dragonbloom+",
+        "name": "龍石捧花+",
+        "sp": 300,
+        "refine": 350
       }
     }
   },
@@ -3147,7 +3161,11 @@
         },
         "grail": { "4": ["Robin - Keen Groom", "Elincia - Seaside Queen"] },
         "special": {
-          "4": ["Sylvain - Hanging with Tens", "Tharja - Beach Dark Mage"],
+          "4": [
+            "Sylvain - Hanging with Tens",
+            "Tharja - Beach Dark Mage",
+            "Alcryst - Tender Groom"
+          ],
           "5": [
             "Catria - Spring Whitewing",
             "Sanaki - Apostle in White",
@@ -3682,7 +3700,11 @@
           ]
         },
         "special": {
-          "5": ["Roy - Youthful Gifts", "Robin - Festive Tactician"]
+          "5": [
+            "Roy - Youthful Gifts",
+            "Robin - Festive Tactician",
+            "Nel - Stoic Bride"
+          ]
         }
       },
       "id": "Reciprocal Aid",
@@ -3791,10 +3813,10 @@
             "Karin - Driven Knight",
             "Sylvain - Consummate Flirt",
             "Basilio - Feroxi West-Khan",
+            "Hayato - Diviner of Reppu",
             "Kagetsu - Onigiri Samurai",
             "Inigo - Flower Picker"
           ],
-          "4": ["Hayato - Diviner of Reppu"],
           "5": [
             "Ephraim - Restoration Lord",
             "Tana - Winged Princess",
@@ -4394,6 +4416,7 @@
             "Marth - Royal Altean Duo",
             "Ephraim - Dynastic Duo",
             "Byleth - Frosty Professors",
+            "Sharena - Pillars of Peace",
             "Byleth - Fell Star's Duo"
           ]
         },
@@ -4460,6 +4483,7 @@
         "special": {
           "5": [
             "Corrin - Novice Vacationer",
+            "Embla - Closed-Off Bride",
             "Ephraim - Sparkling Gallantly",
             "Mia - Budding Blade",
             "Corrin - Starry Seer",
@@ -4489,7 +4513,8 @@
       "pool": {
         "special": {
           "5": ["Dimitri - Blessed Protector", "Sylvain - Spring Flingster"]
-        }
+        },
+        "duo": { "5": ["Sharena - Pillars of Peace"] }
       },
       "id": "No Quarter",
       "name": "車懸",
@@ -5003,7 +5028,7 @@
           "5": ["Severa - Secret Dreamer", "Felix - Lone-Wolf Blade"]
         },
         "grail": { "4": ["Clive - Idealistic Knight"] },
-        "special": { "5": ["Lyn - Blazing Whirlwind"] }
+        "special": { "5": ["Lyn - Blazing Whirlwind", "Lapis - Mighty Bride"] }
       },
       "id": "Escutcheon",
       "name": "長盾",
@@ -5985,7 +6010,8 @@
             "Tanith - Forthright Heart",
             "Bernadetta - Late Hibernator",
             "Yunaka - Spirited Envoy",
-            "Kvasir - Unknown Future"
+            "Kvasir - Unknown Future",
+            "Lapis - Mighty Bride"
           ]
         },
         "duo": {
@@ -6304,7 +6330,7 @@
       "pool": {
         "#": { "5": ["Gullveig - Seer Beyond Time"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
-        "special": { "5": ["Yunaka - Spirited Envoy"] }
+        "special": { "5": ["Yunaka - Spirited Envoy", "Lapis - Mighty Bride"] }
       },
       "id": "Flared Sparrow",
       "name": "鬼神飛燕炎擊",
@@ -7681,6 +7707,7 @@
           "5": [
             "Lethe - New Year's Claw",
             "Freyja - Fleeting Summer",
+            "Embla - Closed-Off Bride",
             "Fir - Student of Spring",
             "Bernadetta - Frosty Shut-In",
             "Katarina - Torchlit Wanderer",
@@ -7879,7 +7906,11 @@
       "icon": "skillA/Def_Res_Solo_4"
     },
     "Atk/Spd Wild": {
-      "pool": { "special": { "5": ["Nerþuz - New-Year Doter"] } },
+      "pool": {
+        "special": {
+          "5": ["Embla - Closed-Off Bride", "Nerþuz - New-Year Doter"]
+        }
+      },
       "id": "Atk/Spd Wild",
       "name": "攻擊速度的野性",
       "sp": 300,
@@ -8145,7 +8176,7 @@
         "legendary": { "5": ["Roy - Blazing Lion"] },
         "special": {
           "4": ["Caspar - Summer Intensity"],
-          "5": ["Timerra - Trick or Meat"]
+          "5": ["Alcryst - Tender Groom", "Timerra - Trick or Meat"]
         },
         "duo": { "5": ["Alm - Lovebird Duo"] }
       },
@@ -8594,8 +8625,11 @@
     "Atk/Spd Ideal 3": {
       "pool": {
         "#": {
-          "3": ["Miriel - Rapier Intellect", "Kagetsu - Onigiri Samurai"],
-          "4": ["Hayato - Diviner of Reppu"],
+          "3": [
+            "Miriel - Rapier Intellect",
+            "Hayato - Diviner of Reppu",
+            "Kagetsu - Onigiri Samurai"
+          ],
           "5": [
             "Tina - Playful Scamp",
             "Monica - Favored Vassal",
@@ -8813,6 +8847,7 @@
           "4": ["Panne - Welcoming Dawn"],
           "5": ["Dagr - Bluster Princess", "Sylvain - Spring Flingster"]
         },
+        "duo": { "5": ["Sharena - Pillars of Peace"] },
         "harmonized": {
           "5": [
             "Karla - Spring Reveries",
@@ -9066,7 +9101,10 @@
       "rules": "infantry"
     },
     "Atk/Spd Scowl 3": {
-      "pool": { "mythic": { "5": ["Lumera - In Distant Skies"] } },
+      "pool": {
+        "mythic": { "5": ["Lumera - In Distant Skies"] },
+        "special": { "5": ["Nel - Stoic Bride"] }
+      },
       "id": "Atk/Spd Scowl 3",
       "name": "攻擊速度的龍眼3",
       "sp": 240,
@@ -9177,6 +9215,14 @@
       "sp": 300,
       "icon": "skillA/Atk_Def_Prime_4",
       "rules": "learner.def-dmger"
+    },
+    "Atk/Spd Excel": {
+      "pool": { "duo": { "5": ["Sharena - Pillars of Peace"] } },
+      "id": "Atk/Spd Excel",
+      "name": "攻擊速度的突破",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Excel",
+      "rules": "learner.infantry-cavalry-flying-melee"
     }
   },
   "skillB": {
@@ -10434,7 +10480,7 @@
     "Windsweep 3": {
       "pool": {
         "#": {
-          "4": ["Hayato - Diviner of Reppu"],
+          "3": ["Hayato - Diviner of Reppu"],
           "5": ["Alm - Hero of Prophecy"]
         },
         "grail": {
@@ -11999,12 +12045,21 @@
       "pool": {
         "#": { "5": ["Noah - Mercenary-Errant"] },
         "mythic": { "5": ["Thórr - War God"] },
+        "special": { "5": ["Lapis - Mighty Bride"] },
         "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
       },
       "id": "Flow Guard 3",
       "name": "怒濤・取消3",
       "sp": 240,
       "icon": "skillB/Flow_Guard_3",
+      "rules": "learner.wielderCavalryFlying"
+    },
+    "Flow Guard 4": {
+      "pool": { "special": { "5": ["Lapis - Mighty Bride"] } },
+      "id": "Flow Guard 4",
+      "name": "怒濤・取消4",
+      "sp": 300,
+      "icon": "skillB/Flow_Guard_4",
       "rules": "learner.wielderCavalryFlying"
     },
     "Flow Force 3": {
@@ -12234,7 +12289,7 @@
       "name": "絕對化身・察覺3",
       "sp": 240,
       "icon": "skillB/Beast_Sense_3",
-      "rules": "learner.beast-sense"
+      "rules": "learner.beast-infantry-cavalry-flying"
     },
     "Beast Sense 4": {
       "pool": { "#": { "5": ["Eitr - Hand of Nothing"] } },
@@ -12242,7 +12297,23 @@
       "name": "絕對化身・察覺4",
       "sp": 300,
       "icon": "skillB/Beast_Sense_4",
-      "rules": "learner.beast-sense"
+      "rules": "learner.beast-infantry-cavalry-flying"
+    },
+    "Beast Assault 3": {
+      "pool": { "special": { "5": ["Embla - Closed-Off Bride"] } },
+      "id": "Beast Assault 3",
+      "name": "絕對化身・強攻3",
+      "sp": 240,
+      "icon": "skillB/Beast_Assault_3",
+      "rules": "learner.beast-infantry-cavalry-flying"
+    },
+    "Beast Assault 4": {
+      "pool": { "special": { "5": ["Embla - Closed-Off Bride"] } },
+      "id": "Beast Assault 4",
+      "name": "絕對化身・強攻4",
+      "sp": 300,
+      "icon": "skillB/Beast_Assault_4",
+      "rules": "learner.beast-infantry-cavalry-flying"
     },
     "Gambit 3": {
       "pool": {
@@ -12268,7 +12339,10 @@
     },
     "Counter Roar 3": {
       "pool": {
-        "#": { "5": ["Lumera - Corrupted Dragon", "Corrin - Silent Bloodline"] }
+        "#": {
+          "5": ["Lumera - Corrupted Dragon", "Corrin - Silent Bloodline"]
+        },
+        "special": { "5": ["Nel - Stoic Bride"] }
       },
       "id": "Counter Roar 3",
       "name": "反擊的咆嘯3",
@@ -12287,7 +12361,10 @@
       "rules": "learner.dragon-beast"
     },
     "Potent 3": {
-      "pool": { "#": { "5": ["Marth - Of Beginnings"] } },
+      "pool": {
+        "#": { "5": ["Marth - Of Beginnings"] },
+        "duo": { "5": ["Sharena - Pillars of Peace"] }
+      },
       "id": "Potent 3",
       "name": "神速3",
       "sp": 240,
@@ -12295,7 +12372,10 @@
       "rules": "learner.infantry-cavalry-flying-melee-def-dmger"
     },
     "Potent 4": {
-      "pool": { "#": { "5": ["Marth - Of Beginnings"] } },
+      "pool": {
+        "#": { "5": ["Marth - Of Beginnings"] },
+        "duo": { "5": ["Sharena - Pillars of Peace"] }
+      },
       "id": "Potent 4",
       "name": "神速4",
       "sp": 300,
@@ -14097,7 +14177,11 @@
           ]
         },
         "special": {
-          "5": ["Ursula - Royal-Blue Crow", "Dimitri - Blessed Protector"]
+          "5": [
+            "Ursula - Royal-Blue Crow",
+            "Lapis - Mighty Bride",
+            "Dimitri - Blessed Protector"
+          ]
         },
         "harmonized": { "5": ["Caeda - Sea-Blossom Pair"] }
       },
@@ -14114,7 +14198,11 @@
           "5": ["Reginn - Bearing Hope", "Heiðr - Innocent Goddess"]
         },
         "special": {
-          "5": ["Ursula - Royal-Blue Crow", "Dimitri - Blessed Protector"]
+          "5": [
+            "Ursula - Royal-Blue Crow",
+            "Lapis - Mighty Bride",
+            "Dimitri - Blessed Protector"
+          ]
         }
       },
       "id": "Panic Smoke 4",
@@ -15154,6 +15242,7 @@
           ]
         },
         "special": {
+          "4": ["Alcryst - Tender Groom"],
           "5": [
             "Eirika - Beach Restorer",
             "Lysithea - Tea Sweetener",

@@ -284,6 +284,10 @@
     "moveType": 15,
     "weaponType": 65520
   },
+  "learner.beast-infantry-cavalry-flying": {
+    "weaponType": 15728640,
+    "moveType": 13
+  },
   "learner.r-duel-infantry": {
     "moveType": 1,
     "colorType": 1
@@ -346,10 +350,6 @@
   "learner.far-trace": {
     "weaponType": 65528,
     "moveType": 12
-  },
-  "learner.beast-sense": {
-    "weaponType": 15728640,
-    "moveType": 13
   },
   "learner.mag-null-follow": {
     "moveType": 1,
