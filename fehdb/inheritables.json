@@ -5798,7 +5798,7 @@
     "Verge of Death": {
       "pool": { "#": { "5": ["Ursula - Blackened Crow"] } },
       "id": "Verge of Death",
-      "name": "臨界死線",
+      "name": "極限死線",
       "sp": 300,
       "icon": "skillA/Verge_of_Death"
     },
