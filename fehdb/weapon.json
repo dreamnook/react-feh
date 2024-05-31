@@ -27761,6 +27761,16 @@
       "exclusive": ["Alear - Engaging Fire"],
       "last": true
     },
+    "Hoshido's Breath": {
+      "id": "Hoshido's Breath",
+      "name": "白之血族吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Corrin - Child of Dawn"],
+      "last": true
+    },
     "Arcane Grima": {
       "id": "Arcane Grima",
       "name": "魔器津利",

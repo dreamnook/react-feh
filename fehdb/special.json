@@ -450,6 +450,15 @@
     "exclusive": ["Ike - Of Radiance"],
     "last": true
   },
+  "Dragon Fang Shot": {
+    "id": "Dragon Fang Shot",
+    "name": "龍穿射",
+    "sp": 500,
+    "cd": 2,
+    "prev": ["Dragon Fang"],
+    "exclusive": ["Corrin - Child of Dawn"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

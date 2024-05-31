@@ -1515,7 +1515,7 @@
         "refine": 350
       },
       "Harp Bow+": {
-        "pool": { "special": { "5": ["Alcryst - Tender Groom"] } },
+        "pool": { "grail": { "5": ["Alcryst - Tender Groom"] } },
         "id": "Harp Bow+",
         "name": "豎琴之弓+",
         "sp": 300,
@@ -3159,13 +3159,15 @@
           ],
           "5": ["Nina - Eye Spy", "Camilla - Flower of Fantasy"]
         },
-        "grail": { "4": ["Robin - Keen Groom", "Elincia - Seaside Queen"] },
-        "special": {
+        "grail": {
           "4": [
-            "Sylvain - Hanging with Tens",
-            "Tharja - Beach Dark Mage",
+            "Robin - Keen Groom",
+            "Elincia - Seaside Queen",
             "Alcryst - Tender Groom"
-          ],
+          ]
+        },
+        "special": {
+          "4": ["Sylvain - Hanging with Tens", "Tharja - Beach Dark Mage"],
           "5": [
             "Catria - Spring Whitewing",
             "Sanaki - Apostle in White",
@@ -4476,7 +4478,8 @@
             "Eitri - Youthful Sage",
             "Julia - Crusader of Light",
             "Elincia - Undaunted Queen",
-            "Corrin - Child of Dusk"
+            "Corrin - Child of Dusk",
+            "Corrin - Child of Dawn"
           ]
         },
         "mythic": { "5": ["Dagr - Sun's Radiance", "Nótt - Moon's Elegance"] },
@@ -8173,10 +8176,11 @@
         "#": {
           "5": ["Lyon - Demon King", "Nah - Little Miss", "Mozu - Tragic Start"]
         },
+        "grail": { "5": ["Alcryst - Tender Groom"] },
         "legendary": { "5": ["Roy - Blazing Lion"] },
         "special": {
           "4": ["Caspar - Summer Intensity"],
-          "5": ["Alcryst - Tender Groom", "Timerra - Trick or Meat"]
+          "5": ["Timerra - Trick or Meat"]
         },
         "duo": { "5": ["Alm - Lovebird Duo"] }
       },
@@ -9057,7 +9061,9 @@
           "3": ["Yuliya - Princess of Grust"],
           "5": ["Tiki - Awakened Blood"]
         },
-        "legendary": { "5": ["Guinivere - Queen of Bern"] },
+        "legendary": {
+          "5": ["Guinivere - Queen of Bern", "Corrin - Child of Dawn"]
+        },
         "special": { "4": ["Byleth - Fount of Learning"] }
       },
       "id": "Spd/Res Finish 3",
@@ -9069,7 +9075,9 @@
     "Spd/Res Finish 4": {
       "pool": {
         "#": { "5": ["Tiki - Awakened Blood"] },
-        "legendary": { "5": ["Guinivere - Queen of Bern"] }
+        "legendary": {
+          "5": ["Guinivere - Queen of Bern", "Corrin - Child of Dawn"]
+        }
       },
       "id": "Spd/Res Finish 4",
       "name": "速度魔防的奧秘4",
@@ -11795,7 +11803,9 @@
     "Dragon Wall 3": {
       "pool": {
         "#": { "5": ["Múspell - Flame God"] },
-        "legendary": { "5": ["Myrrh - Guardian Dragon"] },
+        "legendary": {
+          "5": ["Myrrh - Guardian Dragon", "Corrin - Child of Dawn"]
+        },
         "mythic": {
           "5": ["Seiros - Saint of Legend", "Mila - Goddess of Love"]
         },
@@ -11808,6 +11818,14 @@
       "name": "龍鱗防護障壁3",
       "sp": 240,
       "icon": "skillB/Dragon_Wall_3",
+      "rules": "dragon"
+    },
+    "High Dragon Wall": {
+      "pool": { "legendary": { "5": ["Corrin - Child of Dawn"] } },
+      "id": "High Dragon Wall",
+      "name": "龍鱗防護障壁對轉移",
+      "sp": 400,
+      "icon": "skillB/High_Dragon_Wall",
       "rules": "dragon"
     },
     "Dragon's Wrath 3": {
@@ -13964,7 +13982,9 @@
           ]
         },
         "grail": { "5": ["Arete - Requiem's Beauty"] },
-        "legendary": { "5": ["Gunnthrá - Voice of Dreams"] },
+        "legendary": {
+          "5": ["Gunnthrá - Voice of Dreams", "Corrin - Child of Dawn"]
+        },
         "special": { "5": ["Micaiah - Summer's Dawn"] }
       },
       "id": "Res Ploy 3",
@@ -13980,7 +14000,10 @@
       "icon": "skillC/Atk_Spd_Ploy_3"
     },
     "Atk/Res Ploy 3": {
-      "pool": { "#": { "5": ["Sonya - Beautiful Mage"] } },
+      "pool": {
+        "#": { "5": ["Sonya - Beautiful Mage"] },
+        "legendary": { "5": ["Corrin - Child of Dawn"] }
+      },
       "id": "Atk/Res Ploy 3",
       "name": "攻擊魔防謀策3",
       "sp": 300,
@@ -15229,7 +15252,7 @@
           ]
         },
         "grail": {
-          "4": ["Holst - Hero of Leicester"],
+          "4": ["Alcryst - Tender Groom", "Holst - Hero of Leicester"],
           "5": ["Shamir - Lone-Moon Ninja"]
         },
         "legendary": {
@@ -15242,7 +15265,6 @@
           ]
         },
         "special": {
-          "4": ["Alcryst - Tender Groom"],
           "5": [
             "Eirika - Beach Restorer",
             "Lysithea - Tea Sweetener",

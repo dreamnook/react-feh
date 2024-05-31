@@ -3892,6 +3892,15 @@
     "icon": "skillB/Dragon_Wall_3",
     "last": true
   },
+  "High Dragon Wall": {
+    "id": "High Dragon Wall",
+    "name": "龍鱗防護障壁對轉移",
+    "sp": 400,
+    "rules": "dragon",
+    "prev": ["Dragon Wall 3"],
+    "last": true,
+    "icon": "skillB/High_Dragon_Wall"
+  },
   "Dragon's Wrath 1": {
     "id": "Dragon's Wrath 1",
     "name": "龍之魔鱗1",

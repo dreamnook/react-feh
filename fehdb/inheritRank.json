@@ -2308,19 +2308,6 @@
     "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
-  "Alcryst - Tender Groom": {
-    "score": 196,
-    "scoreTotal": 395,
-    "poolRarity": 4,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 300,
-    "bst": 188,
-    "assist": { "Draw Back": { "sp": 150, "rarity": 4 } },
-    "skillA": { "Bonus Doubler 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
-  },
   "Azura - Young Songstress": {
     "score": 299,
     "scoreTotal": 396,
@@ -4837,6 +4824,19 @@
     "assist": { "Smite": { "sp": 150, "rarity": 4 } },
     "skillA": { "Atk/Spd Push 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Infantry Flash 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Alcryst - Tender Groom": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 188,
+    "assist": { "Draw Back": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Bonus Doubler 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
   },
   "Donnel - Sunny Villager": {
     "score": 299,
@@ -13139,6 +13139,20 @@
     "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Corrin - Child of Dawn": {
+    "score": 368,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "High Dragon Wall": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Atk/Res Ploy 3": { "sp": 300, "rarity": 5 } }
   },
   "Tanith - Forthright Heart": {
     "score": 424,

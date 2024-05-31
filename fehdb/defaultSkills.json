@@ -20357,6 +20357,37 @@
       "A/S Far Save 3": 4
     }
   },
+  "Corrin - Child of Dawn": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Hoshido's Breath": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Dragon Fang Shot": 5
+    },
+    "skillA": {
+      "Spd/Res Finish 1": 2,
+      "Spd/Res Finish 2": 3,
+      "Spd/Res Finish 3": 4,
+      "Spd/Res Finish 4": 5
+    },
+    "skillB": {
+      "Dragon Wall 1": 2,
+      "Dragon Wall 2": 3,
+      "Dragon Wall 3": 4,
+      "High Dragon Wall": 5
+    },
+    "skillC": {
+      "Res Ploy 1": 2,
+      "Res Ploy 2": 3,
+      "Res Ploy 3": 4,
+      "Atk/Res Ploy 3": 5
+    }
+  },
   "Azura - Lady of the Lake": {
     "weapon": {
       "Iron Lance": 1,
