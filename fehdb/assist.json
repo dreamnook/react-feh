@@ -223,7 +223,11 @@
     "sp": 400,
     "range": 1,
     "prev": ["Ardent Sacrifice"],
-    "exclusive": ["Micaiah - Radiant Queen", "Micaiah - Wavecrest Maiden"],
+    "exclusive": [
+      "Micaiah - Radiant Queen",
+      "Micaiah - Wavecrest Maiden",
+      "Micaiah - Dawning Maiden"
+    ],
     "last": true
   },
   "Foul Play": {

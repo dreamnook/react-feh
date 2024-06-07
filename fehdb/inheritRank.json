@@ -5201,6 +5201,18 @@
     "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ward Dragons": { "sp": 200, "rarity": 5 } }
   },
+  "Leonardo - Freedom's Arrow": {
+    "score": 240,
+    "scoreTotal": 640,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Guard 3": { "sp": 200, "rarity": 5 } }
+  },
   "Ephraim - Legendary Lord": {
     "score": 276,
     "scoreTotal": 644,
@@ -5772,6 +5784,19 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Armor": { "sp": 200, "rarity": 5 } }
+  },
+  "Jarod - Nevassa General": {
+    "score": 254,
+    "scoreTotal": 678,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Wind Boost 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Kagero - Spring Ninja": {
     "score": 254,
@@ -8256,6 +8281,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillA": { "Def/Res Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Micaiah - Dawning Maiden": {
+    "score": 300,
+    "scoreTotal": 750,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 750,
+    "feather": 1000,
+    "bst": 179,
+    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Fireflood Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Res Crux": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Far Trace Echo": { "sp": 0, "rarity": 5 } }
   },
   "Isadora - Escort of Pherae": {
     "score": 300,
@@ -12669,6 +12707,19 @@
     "skillB": { "Close Call 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
   },
+  "Sothe - Dawning Zephyr": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Potent Disarm": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
+  },
   "Byleth - Vengeance Vessel": {
     "score": 300,
     "scoreTotal": 1100,
@@ -12781,6 +12832,18 @@
     "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
     "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Edward - Blade of Justice": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Godlike Reflexes": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Buffer 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Breath of Life 4": { "sp": 300, "rarity": 5 } }
   },
   "Severa - Secret Dreamer": {
     "score": 500,

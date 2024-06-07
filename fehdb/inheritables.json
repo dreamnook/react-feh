@@ -580,6 +580,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Null Spear+": {
+        "pool": { "special": { "5": ["Jarod - Nevassa General"] } },
+        "id": "Null Spear+",
+        "name": "識破追擊之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Berkut's Lance+": {
         "pool": { "grail": { "5": ["Berkut - Prideful Prince"] } },
         "id": "Berkut's Lance+",
@@ -1279,6 +1286,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Doubler Bow+": {
+        "pool": { "#": { "5": ["Leonardo - Freedom's Arrow"] } },
+        "id": "Doubler Bow+",
+        "name": "強化增幅之弓+",
+        "sp": 300,
+        "refine": 350
+      },
       "Clarisse's Bow+": {
         "pool": { "grail": { "5": ["Clarisse - Sniper in the Dark"] } },
         "id": "Clarisse's Bow+",
@@ -1527,6 +1541,13 @@
         "pool": { "#": { "5": ["Ginnungagap - Ruler of Nihility"] } },
         "id": "Arcane Void",
         "name": "魔器金倫加",
+        "sp": 300,
+        "refine": 350
+      },
+      "Arcane Tempest": {
+        "pool": { "#": { "5": ["Sothe - Dawning Zephyr"] } },
+        "id": "Arcane Tempest",
+        "name": "魔器・曉風之刃",
         "sp": 300,
         "refine": 350
       },
@@ -3625,6 +3646,7 @@
             "Elincia - Lost Princess",
             "Deirdre - Lady of the Forest",
             "Micaiah - Queen of Dawn",
+            "Micaiah - Dawning Maiden",
             "Micaiah - Priestess of Dawn",
             "Bernadetta - Eternal Loner"
           ]
@@ -3848,7 +3870,8 @@
             "Jill - Fiery Dracoknight",
             "Lysithea - Earnest Seeker",
             "Laegjarn - Flame Ascendant",
-            "Florina - Azure-Sky Knight"
+            "Florina - Azure-Sky Knight",
+            "Sothe - Dawning Zephyr"
           ]
         },
         "grail": { "4": ["Joshua - Tempest King", "Kyza - Tiger of Fortune"] },
@@ -3926,6 +3949,7 @@
             "Mia - Lady of Blades",
             "Velouria - Wolf Cub",
             "Zelgius - Jet-Black General",
+            "Leonardo - Freedom's Arrow",
             "Ced - Hero on the Wind",
             "Sirius - Mysterious Knight",
             "Lucina - Future Witness",
@@ -4483,6 +4507,7 @@
         "special": {
           "5": [
             "Corrin - Novice Vacationer",
+            "Jarod - Nevassa General",
             "Embla - Closed-Off Bride",
             "Ephraim - Sparkling Gallantly",
             "Mia - Budding Blade",
@@ -5025,7 +5050,11 @@
             "Cain - The Bull",
             "Sheena - Princess of Gra"
           ],
-          "5": ["Severa - Secret Dreamer", "Felix - Lone-Wolf Blade"]
+          "5": [
+            "Edward - Blade of Justice",
+            "Severa - Secret Dreamer",
+            "Felix - Lone-Wolf Blade"
+          ]
         },
         "grail": { "4": ["Clive - Idealistic Knight"] },
         "special": { "5": ["Lyn - Blazing Whirlwind", "Lapis - Mighty Bride"] }
@@ -5037,7 +5066,13 @@
     },
     "Godlike Reflexes": {
       "pool": {
-        "#": { "5": ["Severa - Secret Dreamer", "Felix - Lone-Wolf Blade"] },
+        "#": {
+          "5": [
+            "Edward - Blade of Justice",
+            "Severa - Secret Dreamer",
+            "Felix - Lone-Wolf Blade"
+          ]
+        },
         "special": { "5": ["Lyn - Blazing Whirlwind"] }
       },
       "id": "Godlike Reflexes",
@@ -7192,7 +7227,11 @@
           "5": ["Lifis - Terror of Iz"]
         },
         "special": {
-          "5": ["Charlotte - Money Maiden", "Framme - Spring Fangirl"]
+          "5": [
+            "Charlotte - Money Maiden",
+            "Jarod - Nevassa General",
+            "Framme - Spring Fangirl"
+          ]
         }
       },
       "id": "Wind Boost 3",
@@ -7218,7 +7257,11 @@
       "pool": {
         "#": {
           "3": ["Mustafa - Plegian Champion"],
-          "5": ["Yukimura - Puppet Master", "Ginnungagap - Ruler of Nihility"]
+          "5": [
+            "Micaiah - Dawning Maiden",
+            "Yukimura - Puppet Master",
+            "Ginnungagap - Ruler of Nihility"
+          ]
         },
         "grail": { "5": ["Berkut - Prideful Prince"] },
         "duo": { "5": ["Ymir - Seasons of Life", "Byleth - Frosty Professors"] }
@@ -7248,7 +7291,11 @@
     "Fireflood Boost 3": {
       "pool": {
         "#": {
-          "5": ["Yukimura - Puppet Master", "Ginnungagap - Ruler of Nihility"]
+          "5": [
+            "Micaiah - Dawning Maiden",
+            "Yukimura - Puppet Master",
+            "Ginnungagap - Ruler of Nihility"
+          ]
         },
         "duo": { "5": ["Ymir - Seasons of Life", "Byleth - Frosty Professors"] }
       },
@@ -8962,6 +9009,7 @@
           "5": [
             "Robin - Exalt's Deliverer",
             "Fir - Swordmaiden",
+            "Sothe - Dawning Zephyr",
             "Marth - Of Beginnings",
             "Severa - Secret Dreamer",
             "Felix - Lone-Wolf Blade"
@@ -8989,6 +9037,7 @@
           "5": [
             "Robin - Exalt's Deliverer",
             "Fir - Swordmaiden",
+            "Sothe - Dawning Zephyr",
             "Marth - Of Beginnings",
             "Severa - Secret Dreamer",
             "Felix - Lone-Wolf Blade"
@@ -9027,7 +9076,13 @@
     },
     "Atk/Res Finish 3": {
       "pool": {
-        "#": { "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"] },
+        "#": {
+          "5": [
+            "Leonardo - Freedom's Arrow",
+            "Tiki - Fated Divinity",
+            "Ophelia - Starlit Maiden"
+          ]
+        },
         "mythic": { "5": ["Veyle - Gentle Dragon"] },
         "special": {
           "4": ["Seadall - Misfortune-Teller"],
@@ -10521,6 +10576,7 @@
             "Luthier - Odd Wayfarer"
           ],
           "5": [
+            "Leonardo - Freedom's Arrow",
             "Micaiah - Priestess of Dawn",
             "Morgan - Lass from Afar",
             "Helbindi - Savage Scourge"
@@ -10652,7 +10708,13 @@
     },
     "Shield Pulse 3": {
       "pool": {
-        "#": { "5": ["Saber - Driven Mercenary", "Severa - Secret Dreamer"] },
+        "#": {
+          "5": [
+            "Saber - Driven Mercenary",
+            "Edward - Blade of Justice",
+            "Severa - Secret Dreamer"
+          ]
+        },
         "legendary": {
           "5": ["Fjorm - Princess of Ice", "Corrin - Child of Dusk"]
         },
@@ -10665,7 +10727,9 @@
       "rules": "learner.infantry-armored-melee"
     },
     "Buffer 4": {
-      "pool": { "#": { "5": ["Severa - Secret Dreamer"] } },
+      "pool": {
+        "#": { "5": ["Edward - Blade of Justice", "Severa - Secret Dreamer"] }
+      },
       "id": "Buffer 4",
       "name": "迴避・盾之躍動",
       "sp": 300,
@@ -11489,7 +11553,13 @@
     },
     "Disarm Trap 3": {
       "pool": {
-        "#": { "5": ["Larum - Sprightly Dancer", "Rennac - Rich 'Merchant'"] },
+        "#": {
+          "5": [
+            "Larum - Sprightly Dancer",
+            "Rennac - Rich 'Merchant'",
+            "Sothe - Dawning Zephyr"
+          ]
+        },
         "special": {
           "5": [
             "Palla - Eldest Bun-Bun",
@@ -11512,6 +11582,14 @@
       "sp": 300,
       "icon": "skillB/Disarm_Trap_4",
       "rules": "dagger"
+    },
+    "Potent Disarm": {
+      "pool": { "#": { "5": ["Sothe - Dawning Zephyr"] } },
+      "id": "Potent Disarm",
+      "name": "解除陷阱・神速",
+      "sp": 300,
+      "icon": "skillB/Potent_Disarm",
+      "rules": "learner.infantry-cavalry-flying-dagger"
     },
     "Lull Atk/Spd 3": {
       "pool": {
@@ -12451,7 +12529,11 @@
       "pool": {
         "#": {
           "3": ["Florina - Lovely Flier", "Felicia - Maid Mayhem"],
-          "5": ["Julia - Naga's Blood", "Tiki - Dragon Scion"]
+          "5": [
+            "Julia - Naga's Blood",
+            "Tiki - Dragon Scion",
+            "Edward - Blade of Justice"
+          ]
         },
         "special": { "5": ["Cordelia - Perfect Bride"] }
       },
@@ -12459,6 +12541,13 @@
       "name": "生命氣息3",
       "sp": 200,
       "icon": "skillC/Breath_of_Life_3"
+    },
+    "Breath of Life 4": {
+      "pool": { "#": { "5": ["Edward - Blade of Justice"] } },
+      "id": "Breath of Life 4",
+      "name": "生命氣息4",
+      "sp": 300,
+      "icon": "skillC/Breath_of_Life_4"
     },
     "Savage Blow 3": {
       "pool": {
@@ -13100,7 +13189,9 @@
     },
     "Atk/Res Rein 3": {
       "pool": {
-        "#": { "5": ["Palla - Kind Eldest Sister"] },
+        "#": {
+          "5": ["Micaiah - Dawning Maiden", "Palla - Kind Eldest Sister"]
+        },
         "legendary": { "5": ["Eitri - Youthful Sage"] },
         "mythic": { "5": ["Plumeria - Lewd Dream"] },
         "special": {
@@ -13265,6 +13356,14 @@
       "sp": 300,
       "icon": "skillC/S_D_Rein_Snap",
       "rules": "learner.flying-melee"
+    },
+    "Atk/Res Crux": {
+      "pool": { "#": { "5": ["Micaiah - Dawning Maiden"] } },
+      "id": "Atk/Res Crux",
+      "name": "攻擊魔防的十字牽制",
+      "sp": 300,
+      "icon": "skillC/Atk_Res_Crux",
+      "rules": "flying"
     },
     "Spd/Res Crux": {
       "pool": { "harmonized": { "5": ["Chloé - Spring Wings"] } },
@@ -14166,6 +14265,7 @@
         "special": {
           "5": [
             "Heath - Wyvern Ninja",
+            "Jarod - Nevassa General",
             "Pent - Fancy Fiancé",
             "Brigid - Orgahil Pirate"
           ]
@@ -15245,6 +15345,7 @@
             "Ike - Zeal Unleashed",
             "Louise - Lady of Violets",
             "Fir - Swordmaiden",
+            "Sothe - Dawning Zephyr",
             "Mozu - Tragic Start"
           ]
         },
@@ -15403,6 +15504,7 @@
     },
     "Atk/Spd Pledge": {
       "pool": {
+        "#": { "5": ["Sothe - Dawning Zephyr"] },
         "legendary": {
           "5": ["Alear - Awoken Divinity", "Alear - Engaging Fire"]
         }
@@ -15778,14 +15880,6 @@
       "icon": "skillX/Death_Blow_Echo",
       "rules": "not.white-staff"
     },
-    "Atk Oath Echo": {
-      "pool": { "#": { "5": ["Peony - Cherished Dream"] } },
-      "id": "Atk Oath Echo",
-      "name": "響・攻擊的信義",
-      "sp": 0,
-      "icon": "skillX/Atk_Oath_Echo",
-      "rules": "learner.infantry-flying"
-    },
     "Fleeting Echo": {
       "pool": { "#": { "5": ["Nino - Fang's Heart"] } },
       "id": "Fleeting Echo",
@@ -15793,6 +15887,28 @@
       "sp": 0,
       "icon": "skillX/Fleeting_Echo",
       "rules": "learner.ranged-not-staff"
+    },
+    "Mercy-Wing Echo": {
+      "pool": { "#": { "5": ["Azura - Song's Reflection"] } },
+      "id": "Mercy-Wing Echo",
+      "name": "響・救援路線",
+      "sp": 0,
+      "icon": "skillX/Mercy-Wing_Echo"
+    },
+    "Guard Echo": {
+      "pool": { "#": { "5": ["Caeda - Marth's Faithful"] } },
+      "id": "Guard Echo",
+      "name": "響・取消",
+      "sp": 0,
+      "icon": "skillX/Guard_Echo"
+    },
+    "Far Trace Echo": {
+      "pool": { "#": { "5": ["Micaiah - Dawning Maiden"] } },
+      "id": "Far Trace Echo",
+      "name": "響・遠影",
+      "sp": 0,
+      "icon": "skillX/Far_Trace_Echo",
+      "rules": "learner.far-trace"
     },
     "Soaring Echo": {
       "pool": { "#": { "5": ["Ivy - Snow Queen"] } },
@@ -15802,19 +15918,13 @@
       "icon": "skillX/Soaring_Echo",
       "rules": "flying"
     },
-    "Guard Echo": {
-      "pool": { "#": { "5": ["Caeda - Marth's Faithful"] } },
-      "id": "Guard Echo",
-      "name": "響・取消",
+    "Atk Oath Echo": {
+      "pool": { "#": { "5": ["Peony - Cherished Dream"] } },
+      "id": "Atk Oath Echo",
+      "name": "響・攻擊的信義",
       "sp": 0,
-      "icon": "skillX/Guard_Echo"
-    },
-    "Mercy-Wing Echo": {
-      "pool": { "#": { "5": ["Azura - Song's Reflection"] } },
-      "id": "Mercy-Wing Echo",
-      "name": "響・救援路線",
-      "sp": 0,
-      "icon": "skillX/Mercy-Wing_Echo"
+      "icon": "skillX/Atk_Oath_Echo",
+      "rules": "learner.infantry-flying"
     }
   }
 }

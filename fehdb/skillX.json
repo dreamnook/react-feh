@@ -7,14 +7,6 @@
     "last": true,
     "icon": "skillX/Death_Blow_Echo"
   },
-  "Atk Oath Echo": {
-    "id": "Atk Oath Echo",
-    "name": "響・攻擊的信義",
-    "sp": 0,
-    "rules": "learner.infantry-flying",
-    "last": true,
-    "icon": "skillX/Atk_Oath_Echo"
-  },
   "Fleeting Echo": {
     "id": "Fleeting Echo",
     "name": "響・飛燕離擊",
@@ -22,6 +14,28 @@
     "rules": "learner.ranged-not-staff",
     "last": true,
     "icon": "skillX/Fleeting_Echo"
+  },
+  "Mercy-Wing Echo": {
+    "id": "Mercy-Wing Echo",
+    "name": "響・救援路線",
+    "sp": 0,
+    "last": true,
+    "icon": "skillX/Mercy-Wing_Echo"
+  },
+  "Guard Echo": {
+    "id": "Guard Echo",
+    "name": "響・取消",
+    "sp": 0,
+    "last": true,
+    "icon": "skillX/Guard_Echo"
+  },
+  "Far Trace Echo": {
+    "id": "Far Trace Echo",
+    "name": "響・遠影",
+    "sp": 0,
+    "rules": "learner.far-trace",
+    "last": true,
+    "icon": "skillX/Far_Trace_Echo"
   },
   "Soaring Echo": {
     "id": "Soaring Echo",
@@ -31,18 +45,12 @@
     "last": true,
     "icon": "skillX/Soaring_Echo"
   },
-  "Guard Echo": {
-    "id": "Guard Echo",
-    "name": "響・取消",
+  "Atk Oath Echo": {
+    "id": "Atk Oath Echo",
+    "name": "響・攻擊的信義",
     "sp": 0,
+    "rules": "learner.infantry-flying",
     "last": true,
-    "icon": "skillX/Guard_Echo"
-  },
-  "Mercy-Wing Echo": {
-    "id": "Mercy-Wing Echo",
-    "name": "響・救援路線",
-    "sp": 0,
-    "last": true,
-    "icon": "skillX/Mercy-Wing_Echo"
+    "icon": "skillX/Atk_Oath_Echo"
   }
 }

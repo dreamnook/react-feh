@@ -459,6 +459,15 @@
     "exclusive": ["Corrin - Child of Dawn"],
     "last": true
   },
+  "Bane": {
+    "id": "Bane",
+    "name": "瞬殺",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Moonbow"],
+    "exclusive": ["Sothe - Dawning Zephyr"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

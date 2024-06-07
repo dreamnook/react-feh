@@ -230,6 +230,10 @@
     "moveType": 13,
     "weaponType": 15728647
   },
+  "learner.infantry-cavalry-flying-dagger": {
+    "moveType": 13,
+    "weaponType": 3840
+  },
   "learner.infantry-cavalry-flying-def-dmger": {
     "moveType": 13,
     "weaponType": 15732727

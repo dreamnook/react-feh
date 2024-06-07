@@ -538,6 +538,14 @@
     "icon": "skillC/Breath_of_Life_3",
     "last": true
   },
+  "Breath of Life 4": {
+    "id": "Breath of Life 4",
+    "name": "生命氣息4",
+    "sp": 300,
+    "prev": ["Breath of Life 3"],
+    "icon": "skillC/Breath_of_Life_4",
+    "last": true
+  },
   "Savage Blow 1": {
     "id": "Savage Blow 1",
     "name": "死亡氣息1",
@@ -1220,6 +1228,15 @@
     "prev": ["Spd/Def Rein 3"],
     "last": true,
     "icon": "skillC/S_D_Rein_Snap"
+  },
+  "Atk/Res Crux": {
+    "id": "Atk/Res Crux",
+    "name": "攻擊魔防的十字牽制",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Atk/Res Rein 3"],
+    "last": true,
+    "icon": "skillC/Atk_Res_Crux"
   },
   "Spd/Res Crux": {
     "id": "Spd/Res Crux",

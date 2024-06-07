@@ -14845,56 +14845,6 @@
       "Time's Pulse 3": 4
     }
   },
-  "Soren - Wind of Tradition": {
-    "weapon": {
-      "Thunder": 1,
-      "Elthunder": 2,
-      "Magical Lantern": 3,
-      "Magical Lantern+": 5
-    },
-    "special": {
-      "Chilling Wind": 3,
-      "Glacies": 4
-    },
-    "skillA": {
-      "Atk/Res Form 1": 1,
-      "Atk/Res Form 2": 2,
-      "Atk/Res Form 3": 4
-    },
-    "skillC": {
-      "Infantry Breath 1": 3,
-      "Infantry Breath 2": 4,
-      "Infantry Breath 3": 5
-    }
-  },
-  "Soren - Radiant Confidant": {
-    "weapon": {
-      "Wind": 1,
-      "Elwind": 2,
-      "Rexcalibur": 3,
-      "Arch-Sage Tome": 5
-    },
-    "special": {
-      "Daylight": 3,
-      "Noontime": 4,
-      "Flare": 5
-    },
-    "skillA": {
-      "Rare Talent": 5
-    },
-    "skillB": {
-      "Null Follow-Up 1": 2,
-      "Null Follow-Up 2": 3,
-      "Null Follow-Up 3": 4,
-      "Mag. Null Follow": 5
-    },
-    "skillC": {
-      "Time's Pulse 1": 2,
-      "Time's Pulse 2": 3,
-      "Time's Pulse 3": 4,
-      "Time's Pulse 4": 5
-    }
-  },
   "Mist - Helpful Sister": {
     "weapon": {
       "Assault": 1,
@@ -15840,6 +15790,36 @@
       "Prescience": 5
     }
   },
+  "Micaiah - Dawning Maiden": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 3,
+      "Silver of Dawn": 5
+    },
+    "assist": {
+      "Ardent Sacrifice": 3,
+      "Maiden's Solace": 5
+    },
+    "skillA": {
+      "Water Boost 1": 2,
+      "Water Boost 2": 3,
+      "Water Boost 3": 4,
+      "Fireflood Boost 3": 5
+    },
+    "skillB": {
+      "Yune's Protection": 5
+    },
+    "skillC": {
+      "Atk/Res Rein 1": 2,
+      "Atk/Res Rein 2": 3,
+      "Atk/Res Rein 3": 4,
+      "Atk/Res Crux": 5
+    },
+    "skillX": {
+      "Far Trace Echo": 5
+    }
+  },
   "Sothe - Zephyr": {
     "weapon": {
       "Iron Dagger": 1,
@@ -15882,6 +15862,134 @@
       "Atk/Def Rein 1": 3,
       "Atk/Def Rein 2": 4,
       "Atk/Def Rein 3": 5
+    }
+  },
+  "Sothe - Dawning Zephyr": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 3,
+      "Arcane Tempest": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Moonbow": 4,
+      "Bane": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Disarm Trap 1": 2,
+      "Disarm Trap 2": 3,
+      "Disarm Trap 3": 4,
+      "Potent Disarm": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Pledge": 5
+    }
+  },
+  "Soren - Wind of Tradition": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Magical Lantern": 3,
+      "Magical Lantern+": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Glacies": 4
+    },
+    "skillA": {
+      "Atk/Res Form 1": 1,
+      "Atk/Res Form 2": 2,
+      "Atk/Res Form 3": 4
+    },
+    "skillC": {
+      "Infantry Breath 1": 3,
+      "Infantry Breath 2": 4,
+      "Infantry Breath 3": 5
+    }
+  },
+  "Soren - Radiant Confidant": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 3,
+      "Arch-Sage Tome": 5
+    },
+    "special": {
+      "Daylight": 3,
+      "Noontime": 4,
+      "Flare": 5
+    },
+    "skillA": {
+      "Rare Talent": 5
+    },
+    "skillB": {
+      "Null Follow-Up 1": 2,
+      "Null Follow-Up 2": 3,
+      "Null Follow-Up 3": 4,
+      "Mag. Null Follow": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Time's Pulse 4": 5
+    }
+  },
+  "Edward - Blade of Justice": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Caladbolg": 5
+    },
+    "special": {
+      "Buckler": 3,
+      "Escutcheon": 4,
+      "Godlike Reflexes": 5
+    },
+    "skillB": {
+      "Shield Pulse 1": 2,
+      "Shield Pulse 2": 3,
+      "Shield Pulse 3": 4,
+      "Buffer 4": 5
+    },
+    "skillC": {
+      "Breath of Life 1": 2,
+      "Breath of Life 2": 3,
+      "Breath of Life 3": 4,
+      "Breath of Life 4": 5
+    }
+  },
+  "Leonardo - Freedom's Arrow": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Doubler Bow": 3,
+      "Doubler Bow+": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Atk/Res Finish 1": 3,
+      "Atk/Res Finish 2": 4,
+      "Atk/Res Finish 3": 5
+    },
+    "skillB": {
+      "Guard 1": 1,
+      "Guard 2": 2,
+      "Guard 3": 4
     }
   },
   "Rhys - Gentle Basker": {
@@ -17109,6 +17217,28 @@
       "Atk Ploy 1": 3,
       "Atk Ploy 2": 4,
       "Atk Ploy 3": 5
+    }
+  },
+  "Jarod - Nevassa General": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Null Spear": 3,
+      "Null Spear+": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Wind Boost 1": 1,
+      "Wind Boost 2": 2,
+      "Wind Boost 3": 4
+    },
+    "skillC": {
+      "Pulse Smoke 1": 3,
+      "Pulse Smoke 2": 4,
+      "Pulse Smoke 3": 5
     }
   },
   "Haar - Black Tempest": {

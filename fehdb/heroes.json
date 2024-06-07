@@ -26212,89 +26212,6 @@
     "ver": "6.4",
     "dfKey": 4
   },
-  "Soren - Wind of Tradition": {
-    "id": "Soren - Wind of Tradition",
-    "title": "古法傳統的風使",
-    "name": "塞涅里歐",
-    "rarity": [5, 4],
-    "colorType": "blue",
-    "moveType": "infantry",
-    "weaponType": "blue-tome",
-    "pool": "grail",
-    "releaseDate": "2023-01-10",
-    "appearsIn": ["Radiant Dawn"],
-    "stats": {
-      "4": {
-        "hp": [32, 35, 38],
-        "atk": [37, 41, 44],
-        "spd": [28, 31, 34],
-        "def": [13, 16, 19],
-        "res": [39, 43, 46]
-      },
-      "5": {
-        "hp": [34, 38, 41],
-        "atk": [39, 43, 46],
-        "spd": [31, 34, 37],
-        "def": [14, 18, 21],
-        "res": [41, 45, 48]
-      },
-      "4-1": {
-        "hp": 15,
-        "atk": 10,
-        "spd": 7,
-        "def": 4,
-        "res": 12
-      },
-      "5-1": {
-        "hp": 16,
-        "atk": 10,
-        "spd": 8,
-        "def": 5,
-        "res": 12
-      }
-    },
-    "assets": [],
-    "flaws": ["hp", "atk", "def", "res"],
-    "statMin": 178,
-    "statMax": 180,
-    "book": 7,
-    "ver": "7.1",
-    "dfKey": 5
-  },
-  "Soren - Radiant Confidant": {
-    "id": "Soren - Radiant Confidant",
-    "title": "隨侍在神將身旁之人",
-    "name": "塞涅里歐",
-    "rarity": [5],
-    "colorType": "green",
-    "moveType": "infantry",
-    "weaponType": "green-tome",
-    "releaseDate": "2023-08-16",
-    "appearsIn": ["Radiant Dawn"],
-    "stats": {
-      "5": {
-        "hp": [36, 40, 43],
-        "atk": [42, 45, 49],
-        "spd": [31, 34, 38],
-        "def": [12, 16, 19],
-        "res": [44, 47, 50]
-      },
-      "5-1": {
-        "hp": 18,
-        "atk": 15,
-        "spd": 4,
-        "def": 3,
-        "res": 12
-      }
-    },
-    "assets": ["atk", "spd"],
-    "flaws": ["hp", "def"],
-    "statMin": 182,
-    "statMax": 185,
-    "book": 7,
-    "ver": "7.8",
-    "dfKey": 6
-  },
   "Mist - Helpful Sister": {
     "id": "Mist - Helpful Sister",
     "title": "喜歡照顧人的妹妹",
@@ -27929,6 +27846,41 @@
     "ver": "6.6",
     "dfKey": 4
   },
+  "Micaiah - Dawning Maiden": {
+    "id": "Micaiah - Dawning Maiden",
+    "title": "追憶破曉的巫女",
+    "name": "米卡雅",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-tome",
+    "attuned": true,
+    "releaseDate": "2024-06-07",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 51],
+        "spd": [12, 16, 19],
+        "def": [26, 30, 33],
+        "res": [42, 46, 49]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 3,
+        "def": 8,
+        "res": 13
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def", "res"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.6",
+    "dfKey": 6
+  },
   "Sothe - Zephyr": {
     "id": "Sothe - Zephyr",
     "title": "綠風",
@@ -28039,6 +27991,192 @@
     "book": 6,
     "ver": "6.8",
     "dfKey": 4
+  },
+  "Sothe - Dawning Zephyr": {
+    "id": "Sothe - Dawning Zephyr",
+    "title": "奔向破曉的疾風",
+    "name": "薩札",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-dagger",
+    "rearmed": true,
+    "releaseDate": "2024-06-07",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [39, 43, 46],
+        "atk": [40, 43, 47],
+        "spd": [44, 47, 51],
+        "def": [26, 30, 33],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 13,
+        "spd": 8,
+        "def": 8,
+        "res": 3
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.6",
+    "dfKey": 6
+  },
+  "Soren - Wind of Tradition": {
+    "id": "Soren - Wind of Tradition",
+    "title": "古法傳統的風使",
+    "name": "塞涅里歐",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "pool": "grail",
+    "releaseDate": "2023-01-10",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [37, 41, 44],
+        "spd": [28, 31, 34],
+        "def": [13, 16, 19],
+        "res": [39, 43, 46]
+      },
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [39, 43, 46],
+        "spd": [31, 34, 37],
+        "def": [14, 18, 21],
+        "res": [41, 45, 48]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 10,
+        "spd": 7,
+        "def": 4,
+        "res": 12
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 8,
+        "def": 5,
+        "res": 12
+      }
+    },
+    "assets": [],
+    "flaws": ["hp", "atk", "def", "res"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 7,
+    "ver": "7.1",
+    "dfKey": 5
+  },
+  "Soren - Radiant Confidant": {
+    "id": "Soren - Radiant Confidant",
+    "title": "隨侍在神將身旁之人",
+    "name": "塞涅里歐",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "releaseDate": "2023-08-16",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [31, 34, 38],
+        "def": [12, 16, 19],
+        "res": [44, 47, 50]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 4,
+        "def": 3,
+        "res": 12
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 7,
+    "ver": "7.8",
+    "dfKey": 6
+  },
+  "Edward - Blade of Justice": {
+    "id": "Edward - Blade of Justice",
+    "title": "重義氣的劍士",
+    "name": "艾迪",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2024-06-07",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 43, 47],
+        "spd": [43, 46, 49],
+        "def": [40, 43, 46],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 11,
+        "def": 8,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.6",
+    "dfKey": 6
+  },
+  "Leonardo - Freedom's Arrow": {
+    "id": "Leonardo - Freedom's Arrow",
+    "title": "內心正直的弓箭手",
+    "name": "雷奧納多",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-bow",
+    "releaseDate": "2024-06-07",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 48],
+        "spd": [38, 42, 45],
+        "def": [22, 26, 29],
+        "res": [33, 36, 39]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 9,
+        "def": 4,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.6",
+    "dfKey": 6
   },
   "Rhys - Gentle Basker": {
     "id": "Rhys - Gentle Basker",
@@ -30140,6 +30278,41 @@
     "book": 2,
     "ver": "2.1",
     "dfKey": 1
+  },
+  "Jarod - Nevassa General": {
+    "id": "Jarod - Nevassa General",
+    "title": "涅瓦沙駐紮軍的將領",
+    "name": "傑爾德",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2024-06-07",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [43, 46, 50],
+        "spd": [40, 44, 47],
+        "def": [30, 34, 37],
+        "res": [24, 27, 31]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 7,
+        "spd": 11,
+        "def": 12,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["spd", "def"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.6",
+    "dfKey": 6
   },
   "Haar - Black Tempest": {
     "id": "Haar - Black Tempest",

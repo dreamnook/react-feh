@@ -3301,6 +3301,16 @@
       "exclusive": ["Lapis - Mighty Bride"],
       "last": true
     },
+    "Caladbolg": {
+      "id": "Caladbolg",
+      "name": "卡拉德伯爾加",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Edward - Blade of Justice"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -8151,6 +8161,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Protection Pike"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Null Spear": {
+      "id": "Null Spear",
+      "name": "識破追擊之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Null Spear+": {
+      "id": "Null Spear+",
+      "name": "識破追擊之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Null Spear"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -14569,6 +14612,39 @@
       },
       "last": true
     },
+    "Doubler Bow": {
+      "id": "Doubler Bow",
+      "name": "強化增幅之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Doubler Bow+": {
+      "id": "Doubler Bow+",
+      "name": "強化增幅之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Doubler Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Clarisse's Bow": {
       "id": "Clarisse's Bow",
       "name": "克萊涅之弓",
@@ -16553,6 +16629,34 @@
     "Arcane Void": {
       "id": "Arcane Void",
       "name": "魔器金倫加",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Dagger"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Arcane Tempest": {
+      "id": "Arcane Tempest",
+      "name": "魔器・曉風之刃",
       "mt": 14,
       "rearmed": true,
       "cd": -1,
@@ -24246,6 +24350,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Nergal - Traitor to Nabata"],
+      "last": true
+    },
+    "Silver of Dawn": {
+      "id": "Silver of Dawn",
+      "name": "曉星光輝",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Micaiah - Dawning Maiden"],
       "last": true
     },
     "Arc. Caliburnus": {

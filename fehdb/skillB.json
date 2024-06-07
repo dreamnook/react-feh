@@ -586,6 +586,14 @@
     "last": true,
     "icon": "skillB/Believe_in_Love"
   },
+  "Yune's Protection": {
+    "id": "Yune's Protection",
+    "name": "芸娜的守護",
+    "sp": 300,
+    "exclusive": ["Micaiah - Dawning Maiden"],
+    "last": true,
+    "icon": "skillB/Yune's_Protection"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -3540,6 +3548,14 @@
     "rules": "dagger",
     "icon": "skillB/Disarm_Trap_4",
     "last": true
+  },
+  "Potent Disarm": {
+    "id": "Potent Disarm",
+    "name": "解除陷阱・神速",
+    "sp": 300,
+    "rules": "learner.infantry-cavalry-flying-dagger",
+    "last": true,
+    "icon": "skillB/Potent_Disarm"
   },
   "Lull Atk/Spd 1": {
     "id": "Lull Atk/Spd 1",
