@@ -2308,6 +2308,19 @@
     "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
+  "Nel - Stoic Bride": {
+    "score": 196,
+    "scoreTotal": 395,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 194,
+    "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Spd Scowl 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Counter Roar 3": { "sp": 240, "rarity": 5 } }
+  },
   "Azura - Young Songstress": {
     "score": 299,
     "scoreTotal": 396,
@@ -5642,19 +5655,6 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Nel - Stoic Bride": {
-    "score": 254,
-    "scoreTotal": 668,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 1000,
-    "bst": 194,
-    "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Atk/Spd Scowl 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Counter Roar 3": { "sp": 240, "rarity": 5 } }
   },
   "Corrin - Enjoying Tradition": {
     "score": 374,

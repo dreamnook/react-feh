@@ -47979,7 +47979,7 @@
     "id": "Nel - Stoic Bride",
     "title": "誓心的新娘",
     "name": "愛爾",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-dragon",
@@ -47987,12 +47987,26 @@
     "releaseDate": "2024-05-20",
     "appearsIn": ["Engage"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [36, 40, 43],
+        "spd": [40, 43, 46],
+        "def": [24, 27, 30],
+        "res": [31, 34, 37]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [38, 42, 45],
         "spd": [43, 46, 50],
         "def": [26, 30, 33],
         "res": [32, 36, 39]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 6,
+        "def": 7,
+        "res": 14
       },
       "5-1": {
         "hp": 18,

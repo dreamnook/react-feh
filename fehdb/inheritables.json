@@ -3702,11 +3702,8 @@
           ]
         },
         "special": {
-          "5": [
-            "Roy - Youthful Gifts",
-            "Robin - Festive Tactician",
-            "Nel - Stoic Bride"
-          ]
+          "4": ["Nel - Stoic Bride"],
+          "5": ["Roy - Youthful Gifts", "Robin - Festive Tactician"]
         }
       },
       "id": "Reciprocal Aid",
@@ -9111,7 +9108,7 @@
     "Atk/Spd Scowl 3": {
       "pool": {
         "mythic": { "5": ["Lumera - In Distant Skies"] },
-        "special": { "5": ["Nel - Stoic Bride"] }
+        "special": { "4": ["Nel - Stoic Bride"] }
       },
       "id": "Atk/Spd Scowl 3",
       "name": "攻擊速度的龍眼3",

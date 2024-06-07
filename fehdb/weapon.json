@@ -2405,6 +2405,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Ike - Zeal Unleashed"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Chaos_Ragnell_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Stalwart Sword": {
@@ -2565,6 +2588,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Nemesis - King of Liberation"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Dark_Creator_Sword_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Lyngheiðr": {
@@ -6168,6 +6214,29 @@
       "spd": 3,
       "sp": 400,
       "exclusive": ["Anna - Secret Seller"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Apotheosis_Spear_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Dark Royal Spear": {
@@ -16451,6 +16520,36 @@
       "exclusive": ["Yukimura - Puppet Master"],
       "last": true
     },
+    "Thief's Honesty": {
+      "id": "Thief's Honesty",
+      "name": "邊境盜賊暗器",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Julian - Tender Thief"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Thief's_Honesty_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Arcane Void": {
       "id": "Arcane Void",
       "name": "魔器金倫加",
@@ -23670,6 +23769,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Selena - Sandbar Fluorspar"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Exotic_Fruit_Juice_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Tome of Order": {
