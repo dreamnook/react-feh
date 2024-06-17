@@ -1143,6 +1143,13 @@
         "name": "愛之祭典之斧+",
         "sp": 300,
         "refine": 350
+      },
+      "Tropical Conch+": {
+        "pool": { "grail": { "5": ["Vaike - Sunbaked Stunner"] } },
+        "id": "Tropical Conch+",
+        "name": "南國法螺+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "bow": {
@@ -2481,6 +2488,13 @@
         "name": "純白之鹿+",
         "sp": 300,
         "refine": 350
+      },
+      "Sea Tambourine+": {
+        "pool": { "special": { "5": ["Olivia - Wavecrest Dancer"] } },
+        "id": "Sea Tambourine+",
+        "name": "南國樂器+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "white-staff": {
@@ -3148,7 +3162,8 @@
             "Mordecai - Gentle Firetender",
             "Bartre - Earsome Warrior",
             "Keaton - Resolved Wolfskin",
-            "Effie - Dedicated Heart"
+            "Effie - Dedicated Heart",
+            "Vaike - Sunbaked Stunner"
           ]
         },
         "special": {
@@ -4345,7 +4360,8 @@
           ]
         },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
-        "special": { "4": ["Narcian - Vernal General"] }
+        "special": { "4": ["Narcian - Vernal General"] },
+        "duo": { "5": ["Gullveig - Glittering Sunlight"] }
       },
       "id": "Vengeance",
       "name": "復仇",
@@ -4508,6 +4524,7 @@
         "special": {
           "5": [
             "Corrin - Novice Vacationer",
+            "Nerþuz - Beach Chaperone",
             "Embla - Closed-Off Bride",
             "Ephraim - Sparkling Gallantly",
             "Mia - Budding Blade",
@@ -4614,6 +4631,7 @@
             "Lissa - Littlest Princess"
           ],
           "5": [
+            "Hríd - Island Ice Prince",
             "Xander - Student Swimmer",
             "Lissa - Pure Joy",
             "Myrrh - Spooky Monster",
@@ -6052,6 +6070,7 @@
         "duo": {
           "5": [
             "Lyn - Ninja-Friend Duo",
+            "Gullveig - Glittering Sunlight",
             "Kagero - Bond Unwavering",
             "Shamir - Heartbeats United"
           ]
@@ -6365,7 +6384,8 @@
       "pool": {
         "#": { "5": ["Gullveig - Seer Beyond Time"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
-        "special": { "5": ["Yunaka - Spirited Envoy", "Lapis - Mighty Bride"] }
+        "special": { "5": ["Yunaka - Spirited Envoy", "Lapis - Mighty Bride"] },
+        "duo": { "5": ["Gullveig - Glittering Sunlight"] }
       },
       "id": "Flared Sparrow",
       "name": "鬼神飛燕炎擊",
@@ -8889,7 +8909,11 @@
         },
         "special": {
           "4": ["Panne - Welcoming Dawn"],
-          "5": ["Dagr - Bluster Princess", "Sylvain - Spring Flingster"]
+          "5": [
+            "Dagr - Bluster Princess",
+            "Nerþuz - Beach Chaperone",
+            "Sylvain - Spring Flingster"
+          ]
         },
         "duo": { "5": ["Sharena - Pillars of Peace"] },
         "harmonized": {
@@ -9055,7 +9079,10 @@
       "rules": "infantry"
     },
     "Atk/Def Finish 3": {
-      "pool": { "#": { "5": ["Diamant - Rising Power"] } },
+      "pool": {
+        "#": { "5": ["Diamant - Rising Power"] },
+        "grail": { "5": ["Vaike - Sunbaked Stunner"] }
+      },
       "id": "Atk/Def Finish 3",
       "name": "攻擊防守的奧秘3",
       "sp": 240,
@@ -9270,7 +9297,10 @@
       "rules": "learner.def-dmger"
     },
     "Atk/Spd Excel": {
-      "pool": { "duo": { "5": ["Sharena - Pillars of Peace"] } },
+      "pool": {
+        "special": { "5": ["Nerþuz - Beach Chaperone"] },
+        "duo": { "5": ["Sharena - Pillars of Peace"] }
+      },
       "id": "Atk/Spd Excel",
       "name": "攻擊速度的突破",
       "sp": 300,
@@ -11118,7 +11148,11 @@
           "5": ["Sumia - Maid of Flowers", "Laevatein - Searing Steel"]
         },
         "grail": {
-          "4": ["Keaton - Resolved Wolfskin", "Itsuki - Finding a Path"]
+          "4": [
+            "Keaton - Resolved Wolfskin",
+            "Vaike - Sunbaked Stunner",
+            "Itsuki - Finding a Path"
+          ]
         }
       },
       "id": "Atk/Def Link 3",
@@ -12010,7 +12044,8 @@
     "A/S Far Trace 3": {
       "pool": {
         "#": { "5": ["Constance - Fallen Noble"] },
-        "mythic": { "5": ["Elimine - Scouring Saint"] }
+        "mythic": { "5": ["Elimine - Scouring Saint"] },
+        "special": { "5": ["Olivia - Wavecrest Dancer"] }
       },
       "id": "A/S Far Trace 3",
       "name": "攻擊速度遠影3",
@@ -12086,7 +12121,11 @@
           ]
         },
         "duo": {
-          "5": ["Hinoka - Fair Pirate Pair", "Corrin - Nightfall Ninja Act"]
+          "5": [
+            "Gullveig - Glittering Sunlight",
+            "Hinoka - Fair Pirate Pair",
+            "Corrin - Nightfall Ninja Act"
+          ]
         },
         "harmonized": { "5": ["Azura - Hatari Duet", "Linde - Bound by Fate"] }
       },
@@ -12098,7 +12137,8 @@
     },
     "S/R Far Trace 4": {
       "pool": {
-        "#": { "5": ["Reinhardt - Thrud Reborn", "Ursula - Blackened Crow"] }
+        "#": { "5": ["Reinhardt - Thrud Reborn", "Ursula - Blackened Crow"] },
+        "duo": { "5": ["Gullveig - Glittering Sunlight"] }
       },
       "id": "S/R Far Trace 4",
       "name": "速度魔防遠影4",
@@ -13143,6 +13183,7 @@
         "special": {
           "5": [
             "Ashe - Budding Chivalry",
+            "Olivia - Wavecrest Dancer",
             "Inigo - Festival Flower",
             "Tana - Frelian Starlight"
           ]
@@ -13802,7 +13843,8 @@
         "grail": {
           "4": ["Michalis - Ambitious King"],
           "5": ["Clarisse - Sniper in the Dark"]
-        }
+        },
+        "special": { "5": ["Nerþuz - Beach Chaperone"] }
       },
       "id": "Threaten Def 3",
       "name": "防守威嚇3",
@@ -13999,6 +14041,14 @@
       "name": "防守魔防的恐嚇",
       "sp": 300,
       "icon": "skillC/Def_Res_Menace"
+    },
+    "Beast Threaten": {
+      "pool": { "special": { "5": ["Nerþuz - Beach Chaperone"] } },
+      "id": "Beast Threaten",
+      "name": "獸之威嚇",
+      "sp": 300,
+      "icon": "skillC/Beast_Threaten",
+      "rules": "beast"
     },
     "Atk Ploy 3": {
       "pool": {
@@ -14912,12 +14962,20 @@
           "4": ["Rolf - Tricky Archer"],
           "5": ["Deen - Bladed Sandstorm"]
         },
-        "special": { "5": ["Ingrid - Solstice Knight"] }
+        "special": { "5": ["Ingrid - Solstice Knight"] },
+        "duo": { "5": ["Gullveig - Glittering Sunlight"] }
       },
       "id": "Odd Spd Wave 3",
       "name": "速度之波・奇數3",
       "sp": 240,
       "icon": "skillC/Odd_Spd_Wave_3"
+    },
+    "Odd Spd Wave 4": {
+      "pool": { "duo": { "5": ["Gullveig - Glittering Sunlight"] } },
+      "id": "Odd Spd Wave 4",
+      "name": "速度之波・奇數4",
+      "sp": 300,
+      "icon": "skillC/Odd_Spd_Wave_4"
     },
     "Odd Def Wave 3": {
       "pool": {
@@ -14925,13 +14983,24 @@
         "grail": { "4": ["Haar - Black Tempest", "Darros - Seawalker"] },
         "legendary": { "5": ["Eirika - Graceful Resolve"] },
         "special": {
-          "5": ["Xander - Dancing Knight", "Ryoma - Samurai at Ease"]
+          "5": [
+            "Hríd - Island Ice Prince",
+            "Xander - Dancing Knight",
+            "Ryoma - Samurai at Ease"
+          ]
         }
       },
       "id": "Odd Def Wave 3",
       "name": "防守之波・奇數3",
       "sp": 240,
       "icon": "skillC/Odd_Def_Wave_3"
+    },
+    "Odd Def Wave 4": {
+      "pool": { "special": { "5": ["Hríd - Island Ice Prince"] } },
+      "id": "Odd Def Wave 4",
+      "name": "防守之波・奇數4",
+      "sp": 300,
+      "icon": "skillC/Odd_Def_Wave_4"
     },
     "Odd Res Wave 3": {
       "pool": {

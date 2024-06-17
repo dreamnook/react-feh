@@ -7358,6 +7358,16 @@
       "exclusive": ["Sharena - Pillars of Peace"],
       "last": true
     },
+    "Prince's Lance": {
+      "id": "Prince's Lance",
+      "name": "抑制風浪的冰王之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Hríd - Island Ice Prince"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -12588,6 +12598,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Axe of Devotion"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Tropical Conch": {
+      "id": "Tropical Conch",
+      "name": "南國法螺",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Tropical Conch+": {
+      "id": "Tropical Conch+",
+      "name": "南國法螺+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Tropical Conch"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -18858,6 +18901,16 @@
       "exclusive": ["Embla - Closed-Off Bride"],
       "last": true
     },
+    "Love of Nerþuz": {
+      "id": "Love of Nerþuz",
+      "name": "地之女神的溺愛",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Nerþuz - Beach Chaperone"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -20196,6 +20249,16 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Robin - Fated Vessel"],
+      "last": true
+    },
+    "Golden Sunlight": {
+      "id": "Golden Sunlight",
+      "name": "魔女與女神的夏光",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Gullveig - Glittering Sunlight"],
       "last": true
     },
     "Arcane Eclipse": {
@@ -25627,6 +25690,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Hvítrdeer"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Sea Tambourine": {
+      "id": "Sea Tambourine",
+      "name": "南國樂器",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Atlas"]
+    },
+    "Sea Tambourine+": {
+      "id": "Sea Tambourine+",
+      "name": "南國樂器+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Sea Tambourine"],
       "refine": {
         "atk": {
           "hp": 2,

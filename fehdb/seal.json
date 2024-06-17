@@ -3592,6 +3592,21 @@
       "icon": "skillC/Threat._Atk_Res_2",
       "last": true
     },
+    "Threat. Spd/Def 1": {
+      "id": "Threat. Spd/Def 1",
+      "name": "攻擊速度的威嚇1",
+      "sp": 100,
+      "prev": ["Threaten Spd 1", "Threaten Def 1"],
+      "icon": "skillC/Threat._Spd_Def_1"
+    },
+    "Threat. Spd/Def 2": {
+      "id": "Threat. Spd/Def 2",
+      "name": "攻擊速度的威嚇2",
+      "sp": 200,
+      "prev": ["Threat. Spd/Def 1"],
+      "icon": "skillC/Threat._Spd_Def_2",
+      "last": true
+    },
     "Threat. Spd/Res 1": {
       "id": "Threat. Spd/Res 1",
       "name": "速度魔防的威嚇1",
@@ -4557,6 +4572,14 @@
       "rules": "learner.wielder",
       "last": true,
       "icon": "seal/Distant_Counter"
+    },
+    "Beast": {
+      "id": "Beast",
+      "name": "絕對化身",
+      "sp": 240,
+      "rules": "beast",
+      "last": true,
+      "icon": "seal/Beast"
     },
     "Initiate Seal HP 1": {
       "id": "Initiate Seal HP 1",

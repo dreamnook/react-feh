@@ -594,6 +594,22 @@
     "last": true,
     "icon": "skillB/Yune's_Protection"
   },
+  "Ice Prince's Seal": {
+    "id": "Ice Prince's Seal",
+    "name": "冰王封印",
+    "sp": 300,
+    "exclusive": ["Hríd - Island Ice Prince"],
+    "last": true,
+    "icon": "skillB/Ice_Prince's_Seal"
+  },
+  "Under the Sun": {
+    "id": "Under the Sun",
+    "name": "日光下成長盈滿大地",
+    "sp": 300,
+    "exclusive": ["Nerþuz - Beach Chaperone"],
+    "last": true,
+    "icon": "skillB/Under_the_Sun"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

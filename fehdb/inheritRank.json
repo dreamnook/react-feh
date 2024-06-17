@@ -4114,6 +4114,18 @@
     "skillA": { "Sturdy Blow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Dull Close 3": { "sp": 240, "rarity": 5 } }
   },
+  "Olivia - Wavecrest Dancer": {
+    "score": 254,
+    "scoreTotal": 509,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 1000,
+    "bst": 168,
+    "skillB": { "A/S Far Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Soren - Shrewd Strategist": {
     "score": 249,
     "scoreTotal": 511,
@@ -4149,6 +4161,18 @@
     "special": { "Blazing Wind": { "sp": 300, "rarity": 4 } },
     "skillA": { "Darting Blow 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Drive Res 2": { "sp": 240, "rarity": 4 } }
+  },
+  "Hríd - Island Ice Prince": {
+    "score": 318,
+    "scoreTotal": 530,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Odd Def Wave 4": { "sp": 300, "rarity": 5 } }
   },
   "Bruno - Masked Reveler": {
     "score": 249,
@@ -4875,6 +4899,19 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 4 } },
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Chill Def/Res 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Vaike - Sunbaked Stunner": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 192,
+    "assist": { "Smite": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Def Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 4 } }
   },
   "Yarne - Hoppy New Year": {
     "score": 249,
@@ -9786,6 +9823,19 @@
     "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "S/D Rein Snap": { "sp": 300, "rarity": 5 } }
   },
+  "Nerþuz - Beach Chaperone": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Beast Threaten": { "sp": 300, "rarity": 5 } }
+  },
   "Embla - Closed-Off Bride": {
     "score": 318,
     "scoreTotal": 848,
@@ -13426,6 +13476,20 @@
     "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Gullveig - Glittering Sunlight": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Vengeance": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Far Trace 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Odd Spd Wave 4": { "sp": 300, "rarity": 5 } }
   },
   "Sanaki - Dawnsworn Ninja": {
     "score": 318,

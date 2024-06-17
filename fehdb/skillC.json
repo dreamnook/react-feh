@@ -1817,6 +1817,15 @@
     "last": true,
     "icon": "skillC/Def_Res_Menace"
   },
+  "Beast Threaten": {
+    "id": "Beast Threaten",
+    "name": "獸之威嚇",
+    "sp": 300,
+    "prev": ["Threaten Def 3"],
+    "rules": "beast",
+    "last": true,
+    "icon": "skillC/Beast_Threaten"
+  },
   "Atk Ploy 1": {
     "id": "Atk Ploy 1",
     "name": "攻擊謀策1",
@@ -2778,6 +2787,14 @@
     "icon": "skillC/Odd_Spd_Wave_3",
     "last": true
   },
+  "Odd Spd Wave 4": {
+    "id": "Odd Spd Wave 4",
+    "name": "速度之波・奇數4",
+    "sp": 300,
+    "prev": ["Odd Spd Wave 3"],
+    "icon": "skillC/Odd_Spd_Wave_4",
+    "last": true
+  },
   "Odd Def Wave 1": {
     "id": "Odd Def Wave 1",
     "name": "防守之波・奇數1",
@@ -2797,6 +2814,14 @@
     "sp": 240,
     "prev": ["Odd Def Wave 2"],
     "icon": "skillC/Odd_Def_Wave_3",
+    "last": true
+  },
+  "Odd Def Wave 4": {
+    "id": "Odd Def Wave 4",
+    "name": "防守之波・奇數4",
+    "sp": 300,
+    "prev": ["Odd Def Wave 3"],
+    "icon": "skillC/Odd_Def_Wave_4",
     "last": true
   },
   "Odd Res Wave 1": {

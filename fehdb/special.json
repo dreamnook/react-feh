@@ -468,6 +468,15 @@
     "exclusive": ["Sothe - Dawning Zephyr"],
     "last": true
   },
+  "Time and Light": {
+    "id": "Time and Light",
+    "name": "時間與光",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Vengeance"],
+    "exclusive": ["Gullveig - Glittering Sunlight"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
