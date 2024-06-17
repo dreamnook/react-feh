@@ -2152,6 +2152,18 @@
     "skillA": { "Fortress Def 3": { "sp": 160, "rarity": 4 } },
     "skillB": { "Hit and Run": { "sp": 150, "rarity": 4 } }
   },
+  "Leonardo - Freedom's Arrow": {
+    "score": 154,
+    "scoreTotal": 380,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 300,
+    "bst": 188,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Guard 3": { "sp": 200, "rarity": 4 } }
+  },
   "Lute - Summer Prodigy": {
     "score": 196,
     "scoreTotal": 383,
@@ -5201,18 +5213,6 @@
     "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ward Dragons": { "sp": 200, "rarity": 5 } }
   },
-  "Leonardo - Freedom's Arrow": {
-    "score": 240,
-    "scoreTotal": 640,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 1000,
-    "bst": 188,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Guard 3": { "sp": 200, "rarity": 5 } }
-  },
   "Ephraim - Legendary Lord": {
     "score": 276,
     "scoreTotal": 644,
@@ -5784,19 +5784,6 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Armor": { "sp": 200, "rarity": 5 } }
-  },
-  "Jarod - Nevassa General": {
-    "score": 254,
-    "scoreTotal": 678,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 1000,
-    "bst": 193,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Wind Boost 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Kagero - Spring Ninja": {
     "score": 254,
@@ -6636,6 +6623,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillB": { "Guard 3": { "sp": 200, "rarity": 4 } },
     "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Jarod - Nevassa General": {
+    "score": 269,
+    "scoreTotal": 693,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 193,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Wind Boost 3": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Cyril - Rhea's Attendant": {
     "score": 269,

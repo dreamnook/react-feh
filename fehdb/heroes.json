@@ -28148,19 +28148,33 @@
     "id": "Leonardo - Freedom's Arrow",
     "title": "內心正直的弓箭手",
     "name": "雷奧納多",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-bow",
     "releaseDate": "2024-06-07",
     "appearsIn": ["Radiant Dawn"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [39, 42, 46],
+        "spd": [36, 40, 43],
+        "def": [20, 23, 26],
+        "res": [30, 33, 36]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [41, 44, 48],
         "spd": [38, 42, 45],
         "def": [22, 26, 29],
         "res": [33, 36, 39]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 14,
+        "spd": 9,
+        "def": 3,
+        "res": 7
       },
       "5-1": {
         "hp": 18,
@@ -30283,20 +30297,48 @@
     "id": "Jarod - Nevassa General",
     "title": "涅瓦沙駐紮軍的將領",
     "name": "傑爾德",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "moveType": "infantry",
     "weaponType": "blue-lance",
-    "pool": "special",
-    "releaseDate": "2024-06-07",
+    "pool": "grail",
+    "releaseDate": "2024-06-08",
     "appearsIn": ["Radiant Dawn"],
     "stats": {
+      "3": {
+        "hp": [35, 38, 41],
+        "atk": [38, 41, 44],
+        "spd": [36, 39, 42],
+        "def": [27, 30, 33],
+        "res": [21, 24, 27]
+      },
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [40, 43, 46],
+        "spd": [38, 42, 45],
+        "def": [29, 32, 35],
+        "res": [22, 25, 28]
+      },
       "5": {
         "hp": [39, 42, 45],
         "atk": [43, 46, 50],
         "spd": [40, 44, 47],
         "def": [30, 34, 37],
         "res": [24, 27, 31]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 6,
+        "spd": 10,
+        "def": 11,
+        "res": 7
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 6,
+        "spd": 11,
+        "def": 12,
+        "res": 7
       },
       "5-1": {
         "hp": 18,

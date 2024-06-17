@@ -581,7 +581,7 @@
         "refine": 350
       },
       "Null Spear+": {
-        "pool": { "special": { "5": ["Jarod - Nevassa General"] } },
+        "pool": { "grail": { "5": ["Jarod - Nevassa General"] } },
         "id": "Null Spear+",
         "name": "識破追擊之槍+",
         "sp": 300,
@@ -1287,7 +1287,7 @@
         "refine": 350
       },
       "Doubler Bow+": {
-        "pool": { "#": { "5": ["Leonardo - Freedom's Arrow"] } },
+        "pool": { "#": { "4": ["Leonardo - Freedom's Arrow"] } },
         "id": "Doubler Bow+",
         "name": "強化增幅之弓+",
         "sp": 300,
@@ -3944,12 +3944,12 @@
             "Vanessa - Dutiful Rider",
             "Lapis - Mighty Flower"
           ],
+          "4": ["Leonardo - Freedom's Arrow"],
           "5": [
             "Celica - Imprisoned Soul",
             "Mia - Lady of Blades",
             "Velouria - Wolf Cub",
             "Zelgius - Jet-Black General",
-            "Leonardo - Freedom's Arrow",
             "Ced - Hero on the Wind",
             "Sirius - Mysterious Knight",
             "Lucina - Future Witness",
@@ -4474,6 +4474,7 @@
             "Gonzalez - Kindly Bandit",
             "Castor - Loving Son",
             "Linus - Savage Dog",
+            "Jarod - Nevassa General",
             "Aversa - Dark One",
             "Caellach - Tiger Eye",
             "Nemesis - King of Liberation",
@@ -4507,7 +4508,6 @@
         "special": {
           "5": [
             "Corrin - Novice Vacationer",
-            "Jarod - Nevassa General",
             "Embla - Closed-Off Bride",
             "Ephraim - Sparkling Gallantly",
             "Mia - Budding Blade",
@@ -7223,15 +7223,11 @@
       "pool": {
         "#": { "5": ["Gray - Wry Comrade", "Azura - Song's Reflection"] },
         "grail": {
-          "4": ["Astram - Midia's Hero"],
+          "4": ["Astram - Midia's Hero", "Jarod - Nevassa General"],
           "5": ["Lifis - Terror of Iz"]
         },
         "special": {
-          "5": [
-            "Charlotte - Money Maiden",
-            "Jarod - Nevassa General",
-            "Framme - Spring Fangirl"
-          ]
+          "5": ["Charlotte - Money Maiden", "Framme - Spring Fangirl"]
         }
       },
       "id": "Wind Boost 3",
@@ -9077,11 +9073,8 @@
     "Atk/Res Finish 3": {
       "pool": {
         "#": {
-          "5": [
-            "Leonardo - Freedom's Arrow",
-            "Tiki - Fated Divinity",
-            "Ophelia - Starlit Maiden"
-          ]
+          "4": ["Leonardo - Freedom's Arrow"],
+          "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"]
         },
         "mythic": { "5": ["Veyle - Gentle Dragon"] },
         "special": {
@@ -10575,8 +10568,8 @@
             "Titania - Mighty Mercenary",
             "Luthier - Odd Wayfarer"
           ],
+          "4": ["Leonardo - Freedom's Arrow"],
           "5": [
-            "Leonardo - Freedom's Arrow",
             "Micaiah - Priestess of Dawn",
             "Morgan - Lass from Afar",
             "Helbindi - Savage Scourge"
@@ -14260,12 +14253,12 @@
     "Pulse Smoke 3": {
       "pool": {
         "#": { "5": ["Ced - Hero on the Wind", "Igrene - Nabata Protector"] },
+        "grail": { "5": ["Jarod - Nevassa General"] },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
         "mythic": { "5": ["Freyja - Lady of Nightmare"] },
         "special": {
           "5": [
             "Heath - Wyvern Ninja",
-            "Jarod - Nevassa General",
             "Pent - Fancy Fiancé",
             "Brigid - Orgahil Pirate"
           ]
