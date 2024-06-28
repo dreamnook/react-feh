@@ -1369,6 +1369,18 @@
     "skillB": { "Mystic Boost 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 4 } }
   },
+  "Olivia - Wavecrest Dancer": {
+    "score": 196,
+    "scoreTotal": 272,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 300,
+    "bst": 168,
+    "skillB": { "A/S Far Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 4 } }
+  },
   "Seadall - Misfortune-Teller": {
     "score": 196,
     "scoreTotal": 272,
@@ -4113,18 +4125,6 @@
     "bst": 157,
     "skillA": { "Sturdy Blow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Dull Close 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Olivia - Wavecrest Dancer": {
-    "score": 254,
-    "scoreTotal": 509,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 1000,
-    "bst": 168,
-    "skillB": { "A/S Far Trace 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Soren - Shrewd Strategist": {
     "score": 249,
@@ -12704,6 +12704,19 @@
     "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Spd/Res 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Incite Atk/Spd": { "sp": 300, "rarity": 5 } }
+  },
+  "Celica - Of Echoes": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Verge of Death": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Resonance 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
   },
   "Nergal - Traitor to Nabata": {
     "score": 300,

@@ -5844,6 +5844,37 @@
       "Inf. Null Follow 3": 4
     }
   },
+  "Celica - Of Echoes": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 4,
+      "Caring Magic": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4,
+      "Warp Ragnarok": 5
+    },
+    "skillA": {
+      "Life and Death 1": 2,
+      "Life and Death 2": 3,
+      "Life and Death 3": 4,
+      "Verge of Death": 5
+    },
+    "skillB": {
+      "Resonance 1": 2,
+      "Resonance 2": 3,
+      "Resonance 3": 4,
+      "Resonance 4": 5
+    },
+    "skillC": {
+      "Inf. Null Follow 1": 2,
+      "Inf. Null Follow 2": 3,
+      "Inf. Null Follow 3": 4,
+      "Inf. Null Follow 4": 5
+    }
+  },
   "Mae - Bundle of Energy": {
     "weapon": {
       "Thunder": 1,

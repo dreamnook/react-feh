@@ -5008,5 +5008,38 @@
     "rules": "white-staff",
     "last": true,
     "icon": "skillB/Dazzling_Discord"
+  },
+  "Resonance 1": {
+    "id": "Resonance 1",
+    "name": "共鳴之黑魔法1",
+    "sp": 60,
+    "rules": "tome",
+    "icon": "skillB/Resonance_1"
+  },
+  "Resonance 2": {
+    "id": "Resonance 2",
+    "name": "共鳴之黑魔法2",
+    "sp": 120,
+    "prev": ["Resonance 1"],
+    "rules": "tome",
+    "icon": "skillB/Resonance_2"
+  },
+  "Resonance 3": {
+    "id": "Resonance 3",
+    "name": "共鳴之黑魔法3",
+    "sp": 240,
+    "prev": ["Resonance 2"],
+    "rules": "tome",
+    "icon": "skillB/Resonance_3",
+    "last": true
+  },
+  "Resonance 4": {
+    "id": "Resonance 4",
+    "name": "共鳴之黑魔法4",
+    "sp": 300,
+    "prev": ["Resonance 3"],
+    "rules": "tome",
+    "icon": "skillB/Resonance_4",
+    "last": true
   }
 }

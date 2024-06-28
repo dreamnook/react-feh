@@ -3886,6 +3886,7 @@
             "Lysithea - Earnest Seeker",
             "Laegjarn - Flame Ascendant",
             "Florina - Azure-Sky Knight",
+            "Celica - Of Echoes",
             "Sothe - Dawning Zephyr"
           ]
         },
@@ -5761,6 +5762,7 @@
             "Ishtar - Echoing Thunder",
             "Joshua - Resolute Tempest",
             "Igrene - Nabata Protector",
+            "Celica - Of Echoes",
             "Leila - Rose amid Fangs",
             "Ursula - Blackened Crow",
             "Lucia - Tireless Advisor"
@@ -5849,7 +5851,9 @@
       "icon": "skillA/Still_Water_4"
     },
     "Verge of Death": {
-      "pool": { "#": { "5": ["Ursula - Blackened Crow"] } },
+      "pool": {
+        "#": { "5": ["Celica - Of Echoes", "Ursula - Blackened Crow"] }
+      },
       "id": "Verge of Death",
       "name": "極限死線",
       "sp": 300,
@@ -12555,6 +12559,22 @@
       "sp": 300,
       "icon": "skillB/Dazzling_Discord",
       "rules": "white-staff"
+    },
+    "Resonance 3": {
+      "pool": { "#": { "5": ["Celica - Of Echoes"] } },
+      "id": "Resonance 3",
+      "name": "共鳴之黑魔法3",
+      "sp": 240,
+      "icon": "skillB/Resonance_3",
+      "rules": "tome"
+    },
+    "Resonance 4": {
+      "pool": { "#": { "5": ["Celica - Of Echoes"] } },
+      "id": "Resonance 4",
+      "name": "共鳴之黑魔法4",
+      "sp": 300,
+      "icon": "skillB/Resonance_4",
+      "rules": "tome"
     }
   },
   "skillC": {
@@ -13181,9 +13201,9 @@
         "#": { "5": ["Caeldori - Perfect Angel", "Claude - Almyra's King"] },
         "legendary": { "5": ["Ryoma - Supreme Samurai"] },
         "special": {
+          "4": ["Olivia - Wavecrest Dancer"],
           "5": [
             "Ashe - Budding Chivalry",
-            "Olivia - Wavecrest Dancer",
             "Inigo - Festival Flower",
             "Tana - Frelian Starlight"
           ]
@@ -14594,6 +14614,7 @@
           "5": [
             "Celica - Valentia's Hope",
             "Gregor - Swell Sword",
+            "Celica - Of Echoes",
             "Marth - Of Beginnings"
           ]
         },
@@ -14610,7 +14631,7 @@
     },
     "Inf. Null Follow 4": {
       "pool": {
-        "#": { "5": ["Marth - Of Beginnings"] },
+        "#": { "5": ["Celica - Of Echoes", "Marth - Of Beginnings"] },
         "special": { "5": ["Kvasir - Unknown Future"] },
         "duo": { "5": ["Robin - Vessels of Fate"] }
       },

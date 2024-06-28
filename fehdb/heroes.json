@@ -9587,6 +9587,41 @@
     "ver": "6.7",
     "dfKey": 4
   },
+  "Celica - Of Echoes": {
+    "id": "Celica - Of Echoes",
+    "title": "聲響紋章士",
+    "name": "賽莉卡",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "emblem": true,
+    "releaseDate": "2024-06-28",
+    "appearsIn": ["Echoes", "Engage"],
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [43, 46, 50],
+        "spd": [42, 46, 49],
+        "def": [17, 21, 24],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 7,
+        "spd": 13,
+        "def": 8,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["spd", "def"],
+    "statMin": 182,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.6",
+    "dfKey": 6
+  },
   "Mae - Bundle of Energy": {
     "id": "Mae - Bundle of Energy",
     "title": "空轉的活力",
@@ -33199,7 +33234,7 @@
     "id": "Olivia - Wavecrest Dancer",
     "title": "與心共舞的浪花",
     "name": "奧利薇",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "moveType": "flying",
     "weaponType": "white-tome",
@@ -33207,12 +33242,26 @@
     "releaseDate": "2024-06-17",
     "appearsIn": ["Awakening"],
     "stats": {
+      "4": {
+        "hp": [31, 34, 37],
+        "atk": [35, 38, 41],
+        "spd": [40, 43, 47],
+        "def": [16, 19, 22],
+        "res": [19, 22, 25]
+      },
       "5": {
         "hp": [33, 37, 40],
         "atk": [37, 40, 43],
         "spd": [42, 45, 49],
         "def": [18, 21, 24],
         "res": [21, 25, 28]
+      },
+      "4-1": {
+        "hp": 14,
+        "atk": 5,
+        "spd": 15,
+        "def": 3,
+        "res": 2
       },
       "5-1": {
         "hp": 15,

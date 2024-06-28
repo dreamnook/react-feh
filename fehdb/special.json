@@ -477,6 +477,14 @@
     "exclusive": ["Gullveig - Glittering Sunlight"],
     "last": true
   },
+  "Warp Ragnarok": {
+    "id": "Warp Ragnarok",
+    "name": "傳送末日烈焰",
+    "sp": 500,
+    "prev": ["Moonbow"],
+    "exclusive": ["Celica - Of Echoes"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

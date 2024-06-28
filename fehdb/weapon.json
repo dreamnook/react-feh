@@ -22168,6 +22168,16 @@
       "exclusive": ["Ursula - Blackened Crow"],
       "last": true
     },
+    "Caring Magic": {
+      "id": "Caring Magic",
+      "name": "慈悲公主的魔力",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Celica - Of Echoes"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
