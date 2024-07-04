@@ -1150,6 +1150,13 @@
         "name": "南國法螺+",
         "sp": 300,
         "refine": 350
+      },
+      "Anchor Axe+": {
+        "pool": { "special": { "5": ["Dedue - Loyal Life Guard"] } },
+        "id": "Anchor Axe+",
+        "name": "船錨之斧+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "bow": {
@@ -1847,6 +1854,13 @@
         "pool": { "special": { "5": ["Ashe - Budding Chivalry"] } },
         "id": "Bunny's Egg+",
         "name": "白兔之卵+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Small Spade+": {
+        "pool": { "special": { "5": ["Clanne - Summer Fan"] } },
+        "id": "Small Spade+",
+        "name": "小沙鏟+",
         "sp": 300,
         "refine": 350
       }
@@ -3914,6 +3928,7 @@
             "Tiki - Beachside Scion",
             "Takumi - Prince of Soup",
             "Micaiah - Wavecrest Maiden",
+            "Clanne - Summer Fan",
             "Nailah - Blessed Queen",
             "Navarre - Scarlet Ninja",
             "Caeda - Princess of Talys",
@@ -4192,7 +4207,9 @@
             "Nino - Spirited Sorcerer",
             "Shinon - Sharptongue Ninja",
             "Camilla - Midnight Bloom",
-            "Ivy - Tidal Breeze"
+            "Ivy - Tidal Breeze",
+            "Alear - Seaside Dragon",
+            "Petra - Faraway Sun"
           ]
         },
         "duo": {
@@ -4223,7 +4240,9 @@
         },
         "legendary": { "5": ["Hinoka - Thundering Wings"] },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
-        "special": { "5": ["Shinon - Sharptongue Ninja"] },
+        "special": {
+          "5": ["Shinon - Sharptongue Ninja", "Petra - Faraway Sun"]
+        },
         "duo": {
           "5": ["Chrom - Fate-Defying Duo", "Shamir - Heartbeats United"]
         }
@@ -5076,7 +5095,8 @@
           ]
         },
         "grail": { "4": ["Clive - Idealistic Knight"] },
-        "special": { "5": ["Lyn - Blazing Whirlwind", "Lapis - Mighty Bride"] }
+        "special": { "5": ["Lyn - Blazing Whirlwind", "Lapis - Mighty Bride"] },
+        "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
       "id": "Escutcheon",
       "name": "長盾",
@@ -5092,7 +5112,8 @@
             "Felix - Lone-Wolf Blade"
           ]
         },
-        "special": { "5": ["Lyn - Blazing Whirlwind"] }
+        "special": { "5": ["Lyn - Blazing Whirlwind"] },
+        "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
       "id": "Godlike Reflexes",
       "name": "神速迴避",
@@ -5114,7 +5135,8 @@
             "Reinhardt - Thunder's Sword"
           ]
         },
-        "grail": { "4": ["Arden - Strong and Tough"] }
+        "grail": { "4": ["Arden - Strong and Tough"] },
+        "special": { "4": ["Dedue - Loyal Life Guard"] }
       },
       "id": "Pavise",
       "name": "大盾",
@@ -5802,7 +5824,10 @@
       "rules": "not.white-staff"
     },
     "Solid Ground 3": {
-      "pool": { "#": { "5": ["Gregor - Swell Sword"] } },
+      "pool": {
+        "#": { "5": ["Gregor - Swell Sword"] },
+        "special": { "5": ["Dedue - Loyal Life Guard"] }
+      },
       "id": "Solid Ground 3",
       "name": "不壞3",
       "sp": 200,
@@ -9044,11 +9069,13 @@
         "special": {
           "5": [
             "Rebecca - Breezy Scamp",
+            "Clanne - Summer Fan",
             "Nino - Spirited Sorcerer",
             "Fjorm - Seaside Thaw",
             "Corrin - Starry Seer"
           ]
-        }
+        },
+        "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
       "id": "Atk/Spd Finish 3",
       "name": "攻擊速度的奧秘3",
@@ -9075,7 +9102,8 @@
             "Fjorm - Seaside Thaw",
             "Corrin - Starry Seer"
           ]
-        }
+        },
+        "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
       "id": "Atk/Spd Finish 4",
       "name": "攻擊速度的奧秘4",
@@ -9141,7 +9169,10 @@
         "legendary": {
           "5": ["Guinivere - Queen of Bern", "Corrin - Child of Dawn"]
         },
-        "special": { "4": ["Byleth - Fount of Learning"] }
+        "special": {
+          "4": ["Byleth - Fount of Learning"],
+          "5": ["Alear - Seaside Dragon"]
+        }
       },
       "id": "Spd/Res Finish 3",
       "name": "速度魔防的奧秘3",
@@ -9154,7 +9185,8 @@
         "#": { "5": ["Tiki - Awakened Blood"] },
         "legendary": {
           "5": ["Guinivere - Queen of Bern", "Corrin - Child of Dawn"]
-        }
+        },
+        "special": { "5": ["Alear - Seaside Dragon"] }
       },
       "id": "Spd/Res Finish 4",
       "name": "速度魔防的奧秘4",
@@ -9535,7 +9567,8 @@
           "5": [
             "Ishtar - Thunder's Waltz",
             "Lysithea - Tea Sweetener",
-            "Gunnthrá - Year's First Dream"
+            "Gunnthrá - Year's First Dream",
+            "Petra - Faraway Sun"
           ]
         },
         "harmonized": { "5": ["Ayra - Together in Tea"] }
@@ -9546,7 +9579,9 @@
       "icon": "skillB/Desperation_3"
     },
     "Desperation 4": {
-      "pool": { "special": { "5": ["Lysithea - Tea Sweetener"] } },
+      "pool": {
+        "special": { "5": ["Lysithea - Tea Sweetener", "Petra - Faraway Sun"] }
+      },
       "id": "Desperation 4",
       "name": "猛攻4",
       "sp": 300,
@@ -11540,6 +11575,7 @@
           "5": ["Guinivere - Queen of Bern", "Alear - Awoken Divinity"]
         },
         "mythic": { "5": ["Sothis - Girl on the Throne"] },
+        "special": { "5": ["Alear - Seaside Dragon"] },
         "duo": { "5": ["Ike - Close-Knit Siblings"] },
         "harmonized": { "5": ["Altina - Cross-Time Duo"] }
       },
@@ -11553,7 +11589,8 @@
       "pool": {
         "legendary": {
           "5": ["Guinivere - Queen of Bern", "Alear - Awoken Divinity"]
-        }
+        },
+        "special": { "5": ["Alear - Seaside Dragon"] }
       },
       "id": "Null C-Disrupt 4",
       "name": "識破・無法反擊4",
@@ -12266,7 +12303,7 @@
     "Spd/Def Tempo 3": {
       "pool": {
         "#": { "5": ["Nino - Fang's Heart"] },
-        "special": { "5": ["Mia - Budding Blade"] },
+        "special": { "5": ["Clanne - Summer Fan", "Mia - Budding Blade"] },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
       "id": "Spd/Def Tempo 3",
@@ -12516,7 +12553,10 @@
       "rules": "learner.infantry-cavalry-flying-melee-def-dmger"
     },
     "Laguz Friend 3": {
-      "pool": { "#": { "5": ["Ike - Of Radiance"] } },
+      "pool": {
+        "#": { "5": ["Ike - Of Radiance"] },
+        "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
+      },
       "id": "Laguz Friend 3",
       "name": "不動3",
       "sp": 240,
@@ -12524,7 +12564,10 @@
       "rules": "infantry"
     },
     "Laguz Friend 4": {
-      "pool": { "#": { "5": ["Ike - Of Radiance"] } },
+      "pool": {
+        "#": { "5": ["Ike - Of Radiance"] },
+        "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
+      },
       "id": "Laguz Friend 4",
       "name": "不動4",
       "sp": 300,
@@ -13283,7 +13326,8 @@
             "Claude - Tropical Trouble",
             "Reina - Sanguine Shinobi",
             "Igrene - Ninja of Nabata",
-            "Say'ri - Righteous Bride"
+            "Say'ri - Righteous Bride",
+            "Petra - Faraway Sun"
           ]
         },
         "duo": { "5": ["Lyn - Ninja-Friend Duo"] },
@@ -13420,6 +13464,14 @@
       "name": "攻擊魔防的十字牽制",
       "sp": 300,
       "icon": "skillC/Atk_Res_Crux",
+      "rules": "flying"
+    },
+    "Spd/Def Crux": {
+      "pool": { "special": { "5": ["Petra - Faraway Sun"] } },
+      "id": "Spd/Def Crux",
+      "name": "速度防守的十字牽制",
+      "sp": 300,
+      "icon": "skillC/Spd_Def_Crux",
       "rules": "flying"
     },
     "Spd/Res Crux": {
@@ -15057,7 +15109,8 @@
         },
         "special": {
           "5": ["Caspar - Summer Intensity", "Kagero - Beverage Ninja"]
-        }
+        },
+        "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
       "id": "Even Atk Wave 3",
       "name": "攻擊之波・偶數3",
@@ -15083,7 +15136,10 @@
           "5": ["Rinkah - Scion of Flame"]
         },
         "grail": { "4": ["Ylgr - Breaking the Ice", "Caellach - Tiger Eye"] },
-        "special": { "5": ["Laevatein - Kumade Warrior"] }
+        "special": {
+          "4": ["Dedue - Loyal Life Guard"],
+          "5": ["Laevatein - Kumade Warrior"]
+        }
       },
       "id": "Even Def Wave 3",
       "name": "防守之波・偶數3",
@@ -15095,13 +15151,33 @@
         "#": { "5": ["Hector - Brave Warrior", "Selkie - Free Spirit"] },
         "grail": { "4": ["Lorenz - Highborn Heat"] },
         "special": {
-          "5": ["Fjorm - New Traditions", "Ursula - Clear-Blue Crow"]
+          "5": [
+            "Fjorm - New Traditions",
+            "Ursula - Clear-Blue Crow",
+            "Alear - Seaside Dragon"
+          ]
         }
       },
       "id": "Even Res Wave 3",
       "name": "魔防之波・偶數3",
       "sp": 240,
       "icon": "skillC/Even_Res_Wave_3"
+    },
+    "Even Atk Wave N": {
+      "pool": { "harmonized": { "5": ["Goldmary - Coy Beach Divas"] } },
+      "id": "Even Atk Wave N",
+      "name": "近身攻擊之波・偶",
+      "sp": 300,
+      "icon": "skillC/Even_Atk_Wave_N",
+      "rules": "melee"
+    },
+    "Even Res Wave D": {
+      "pool": { "special": { "5": ["Alear - Seaside Dragon"] } },
+      "id": "Even Res Wave D",
+      "name": "龍之魔防之波・偶",
+      "sp": 300,
+      "icon": "skillC/Even_Res_Wave_D",
+      "rules": "dragon"
     },
     "Atk Opening 3": {
       "pool": {

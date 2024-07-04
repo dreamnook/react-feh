@@ -485,6 +485,15 @@
     "exclusive": ["Celica - Of Echoes"],
     "last": true
   },
+  "Bond Blast": {
+    "id": "Bond Blast",
+    "name": "絆・神龍破",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Glimmer"],
+    "exclusive": ["Alear - Seaside Dragon"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

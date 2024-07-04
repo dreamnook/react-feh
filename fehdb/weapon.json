@@ -7445,6 +7445,16 @@
       },
       "last": true
     },
+    "Diva-Pair Parasol": {
+      "id": "Diva-Pair Parasol",
+      "name": "令人注目的雙人之傘",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Goldmary - Coy Beach Divas"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -12758,6 +12768,39 @@
         }
       },
       "last": true
+    },
+    "Anchor Axe": {
+      "id": "Anchor Axe",
+      "name": "船錨之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Anchor Axe+": {
+      "id": "Anchor Axe+",
+      "name": "船錨之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Anchor Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "bow": {
@@ -14185,6 +14228,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Breaker Bow": {
+      "id": "Breaker Bow",
+      "name": "波浪碎片間之銳弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Petra - Faraway Sun"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -18159,6 +18212,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Bunny's Egg"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Small Spade": {
+      "id": "Small Spade",
+      "name": "小沙鏟",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Small Spade+": {
+      "id": "Small Spade+",
+      "name": "小沙鏟+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Small Spade"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -28262,6 +28348,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Corrin - Child of Dawn"],
+      "last": true
+    },
+    "Maritime Arts": {
+      "id": "Maritime Arts",
+      "name": "海水浴之體術",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Alear - Seaside Dragon"],
       "last": true
     },
     "Arcane Grima": {

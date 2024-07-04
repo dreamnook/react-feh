@@ -1247,6 +1247,15 @@
     "last": true,
     "icon": "skillC/Atk_Res_Crux"
   },
+  "Spd/Def Crux": {
+    "id": "Spd/Def Crux",
+    "name": "速度防守的十字牽制",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Spd/Def Rein 3"],
+    "last": true,
+    "icon": "skillC/Spd_Def_Crux"
+  },
   "Spd/Res Crux": {
     "id": "Spd/Res Crux",
     "name": "速度魔防的十字牽制",
@@ -2937,6 +2946,25 @@
     "prev": ["Even Res Wave 2"],
     "icon": "skillC/Even_Res_Wave_3",
     "last": true
+  },
+  "Even Atk Wave N": {
+    "id": "Even Atk Wave N",
+    "name": "近身攻擊之波・偶",
+    "atk": 6,
+    "sp": 300,
+    "rules": "melee",
+    "last": true,
+    "icon": "skillC/Even_Atk_Wave_N"
+  },
+  "Even Res Wave D": {
+    "id": "Even Res Wave D",
+    "name": "龍之魔防之波・偶",
+    "res": 6,
+    "cd": 1,
+    "sp": 300,
+    "rules": "dragon",
+    "last": true,
+    "icon": "skillC/Even_Res_Wave_D"
   },
   "Atk Opening 1": {
     "id": "Atk Opening 1",

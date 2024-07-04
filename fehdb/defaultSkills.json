@@ -24737,6 +24737,31 @@
       "Ground Orders 3": 5
     }
   },
+  "Petra - Faraway Sun": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Breaker Bow": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Deadeye": 5
+    },
+    "skillB": {
+      "Desperation 1": 2,
+      "Desperation 2": 3,
+      "Desperation 3": 4,
+      "Desperation 4": 5
+    },
+    "skillC": {
+      "Spd/Def Rein 1": 2,
+      "Spd/Def Rein 2": 3,
+      "Spd/Def Rein 3": 4,
+      "Spd/Def Crux": 5
+    }
+  },
   "Dimitri - The Protector": {
     "weapon": {
       "Iron Lance": 1,
@@ -24920,6 +24945,28 @@
       "A/D Near Save 1": 1,
       "A/D Near Save 2": 2,
       "A/D Near Save 3": 4
+    }
+  },
+  "Dedue - Loyal Life Guard": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Anchor Axe": 3,
+      "Anchor Axe+": 5
+    },
+    "special": {
+      "Buckler": 4,
+      "Pavise": 4
+    },
+    "skillA": {
+      "Solid Ground 1": 3,
+      "Solid Ground 2": 4,
+      "Solid Ground 3": 5
+    },
+    "skillC": {
+      "Even Def Wave 1": 1,
+      "Even Def Wave 2": 2,
+      "Even Def Wave 3": 4
     }
   },
   "Felix - Icy Gift Giver": {
@@ -26727,6 +26774,37 @@
       "Atk/Spd Pledge": 5
     }
   },
+  "Alear - Seaside Dragon": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Maritime Arts": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Bond Blast": 5
+    },
+    "skillA": {
+      "Spd/Res Finish 1": 2,
+      "Spd/Res Finish 2": 3,
+      "Spd/Res Finish 3": 4,
+      "Spd/Res Finish 4": 5
+    },
+    "skillB": {
+      "Null C-Disrupt 1": 2,
+      "Null C-Disrupt 2": 3,
+      "Null C-Disrupt 3": 4,
+      "Null C-Disrupt 4": 5
+    },
+    "skillC": {
+      "Even Res Wave 1": 2,
+      "Even Res Wave 2": 3,
+      "Even Res Wave 3": 4,
+      "Even Res Wave D": 5
+    }
+  },
   "Lumera - Dragon Monarch": {
     "weapon": {
       "Iron Sword": 1,
@@ -26802,6 +26880,28 @@
     },
     "skillC": {
       "Corrupted Dragon": 5
+    }
+  },
+  "Clanne - Summer Fan": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Small Spade": 3,
+      "Small Spade+": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 1,
+      "Atk/Spd Finish 2": 2,
+      "Atk/Spd Finish 3": 4
+    },
+    "skillB": {
+      "Spd/Def Tempo 1": 3,
+      "Spd/Def Tempo 2": 4,
+      "Spd/Def Tempo 3": 5
     }
   },
   "Framme - Spring Fangirl": {
@@ -27247,6 +27347,37 @@
       "Wyvern Flight 2": 3,
       "Wyvern Flight 3": 4,
       "Wyvern Rift": 5
+    }
+  },
+  "Goldmary - Coy Beach Divas": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Diva-Pair Parasol": 5
+    },
+    "special": {
+      "Buckler": 4,
+      "Escutcheon": 4,
+      "Godlike Reflexes": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Laguz Friend 1": 2,
+      "Laguz Friend 2": 3,
+      "Laguz Friend 3": 4,
+      "Laguz Friend 4": 5
+    },
+    "skillC": {
+      "Even Atk Wave 1": 2,
+      "Even Atk Wave 2": 3,
+      "Even Atk Wave 3": 4,
+      "Even Atk Wave N": 5
     }
   },
   "Timerra - Trick or Meat": {

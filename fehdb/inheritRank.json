@@ -2864,6 +2864,19 @@
     "skillA": { "Atk/Spd Solo 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Threat. Spd/Def 2": { "sp": 200, "rarity": 5 } }
   },
+  "Dedue - Loyal Life Guard": {
+    "score": 196,
+    "scoreTotal": 423,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Pavise": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Solid Ground 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Even Def Wave 3": { "sp": 240, "rarity": 4 } }
+  },
   "Inigo - Indigo Dancer": {
     "score": 212,
     "scoreTotal": 424,
@@ -7018,6 +7031,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Clanne - Summer Fan": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Def Tempo 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,
@@ -13476,6 +13502,20 @@
     "skillB": { "Special Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "D/R Far Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Alear - Seaside Dragon": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 198,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Even Res Wave D": { "sp": 300, "rarity": 5 } }
+  },
   "Laegjarn - Flame and Frost": {
     "score": 318,
     "scoreTotal": 1166,
@@ -13544,6 +13584,19 @@
     "special": { "Lethality": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Petra - Faraway Sun": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Desperation 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Def Crux": { "sp": 300, "rarity": 5 } }
   },
   "Nerþuz - New-Year Doter": {
     "score": 530,
@@ -14133,6 +14186,20 @@
     "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Brash Assault 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Fatal Smoke 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Goldmary - Coy Beach Divas": {
+    "score": 530,
+    "scoreTotal": 1484,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Godlike Reflexes": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Even Atk Wave N": { "sp": 300, "rarity": 5 } }
   },
   "Timerra - Trick or Meat": {
     "score": 530,
