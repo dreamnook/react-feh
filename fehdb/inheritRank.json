@@ -3288,6 +3288,19 @@
     "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Spd/Def Rein 3": { "sp": 240, "rarity": 5 } }
   },
+  "Clanne - Summer Fan": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 188,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Finish 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Spd/Def Tempo 3": { "sp": 240, "rarity": 5 } }
+  },
   "Annette - Festive Helper": {
     "score": 196,
     "scoreTotal": 436,
@@ -7031,19 +7044,6 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Clanne - Summer Fan": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 188,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Spd/Def Tempo 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,

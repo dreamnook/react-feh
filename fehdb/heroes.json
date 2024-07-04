@@ -47516,7 +47516,7 @@
     "id": "Clanne - Summer Fan",
     "title": "夏天的偶像太神了",
     "name": "柯嵐",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-dagger",
@@ -47524,12 +47524,26 @@
     "releaseDate": "2024-07-05",
     "appearsIn": ["Engage"],
     "stats": {
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [34, 37, 41],
+        "spd": [41, 44, 47],
+        "def": [14, 17, 20],
+        "res": [39, 43, 46]
+      },
       "5": {
         "hp": [34, 38, 41],
         "atk": [37, 40, 44],
         "spd": [43, 46, 49],
         "def": [16, 19, 22],
         "res": [41, 45, 48]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 9,
+        "spd": 11,
+        "def": 3,
+        "res": 12
       },
       "5-1": {
         "hp": 16,
