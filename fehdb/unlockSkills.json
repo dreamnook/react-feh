@@ -2435,10 +2435,12 @@
       "Dragon Fang": 4
     },
     "skillA": {
-      "Distant Counter": 5
+      "Distant Counter": 5,
+      "Distant Dart": 5
     },
     "skillB": {
-      "Moon-Twin Wing": 5
+      "Moon-Twin Wing": 5,
+      "Moon-Twin Wing+": 5
     },
     "skillC": {
       "Threaten Spd 1": 2,
@@ -9875,7 +9877,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Guard Lance": 3,
-      "Guard Lance+": 5
+      "Guard Lance+": 5,
+      "Wyvern Lance": 5
     },
     "special": {
       "Dragon Gaze": 3,
@@ -17414,10 +17417,12 @@
     "skillB": {
       "Lull Spd/Res 1": 1,
       "Lull Spd/Res 2": 2,
-      "Lull Spd/Res 3": 4
+      "Lull Spd/Res 3": 4,
+      "Lull Spd/Res 4": 5
     },
     "skillC": {
-      "Order's Restraint": 5
+      "Order's Restraint": 5,
+      "Order's Restraint+": 5
     }
   },
   "Yune - Chaos Goddess": {
@@ -19014,7 +19019,8 @@
       "Iron Axe": 1,
       "Steel Axe": 2,
       "Barrier Axe": 3,
-      "Barrier Axe+": 5
+      "Barrier Axe+": 5,
+      "Plegian War Axe": 5
     },
     "special": {
       "Glowing Ember": 3,

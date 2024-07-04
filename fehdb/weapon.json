@@ -6287,6 +6287,29 @@
       "spd": 3,
       "sp": 400,
       "exclusive": ["Ingrid - Solstice Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Starpoint_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Spear of Shadow": {
@@ -6568,6 +6591,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Nótt - Moon's Elegance"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Hrímfaxi_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Holy Gradivus": {
@@ -7366,6 +7412,37 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Hríd - Island Ice Prince"],
+      "last": true
+    },
+    "Wyvern Lance": {
+      "id": "Wyvern Lance",
+      "name": "蒼穹的龍槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Galle - Azure Rider"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Wyvern_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Qiang": {
@@ -10998,6 +11075,37 @@
       "exclusive": ["Azura - Song's Reflection"],
       "last": true
     },
+    "Plegian War Axe": {
+      "id": "Plegian War Axe",
+      "name": "佩萊吉亞將軍的大斧",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Mustafa - Plegian Champion"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Plegian_War_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -13551,6 +13659,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Shinon - Scathing Archer"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Double_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Survivalist Bow": {
@@ -25419,6 +25549,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Ashera - Order Goddess"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Order's_Sentence_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Phantasm Tome": {

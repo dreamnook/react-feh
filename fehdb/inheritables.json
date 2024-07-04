@@ -4894,10 +4894,10 @@
         "mythic": {
           "5": [
             "Yune - Chaos Goddess",
-            "Ashera - Order Goddess",
             "Seiros - Saint of Legend",
             "Arval - Cycle Keeper",
-            "Medeus - Earth-Dragon King"
+            "Medeus - Earth-Dragon King",
+            "Ashera - Order Goddess"
           ]
         },
         "special": {
@@ -7002,6 +7002,7 @@
     },
     "Distant Dart": {
       "pool": {
+        "mythic": { "5": ["Nótt - Moon's Elegance"] },
         "special": { "5": ["Black Knight - The Night's Blade"] },
         "duo": { "5": ["Ike - Close-Knit Siblings"] }
       },
@@ -11758,7 +11759,9 @@
     },
     "Lull Spd/Res 4": {
       "pool": {
-        "mythic": { "5": ["Kvasir - Seer of the Past"] },
+        "mythic": {
+          "5": ["Ashera - Order Goddess", "Kvasir - Seer of the Past"]
+        },
         "special": { "5": ["Kvasir - Unknown Future"] }
       },
       "id": "Lull Spd/Res 4",

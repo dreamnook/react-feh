@@ -237,6 +237,15 @@
     "last": true,
     "icon": "skillC/Wings_of_Light"
   },
+  "Order's Restraint+": {
+    "id": "Order's Restraint+",
+    "name": "束縛、秩序……・神",
+    "sp": 300,
+    "prev": ["Order's Restraint"],
+    "exclusive": ["Ashera - Order Goddess"],
+    "last": true,
+    "icon": "skillC/Order's_Restraint+"
+  },
   "Order's Restraint": {
     "id": "Order's Restraint",
     "name": "束縛、秩序、安定",

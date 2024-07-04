@@ -378,6 +378,15 @@
     "last": true,
     "icon": "skillB/Armored_Wall"
   },
+  "Moon-Twin Wing+": {
+    "id": "Moon-Twin Wing+",
+    "name": "雙姬的月翼・神",
+    "sp": 300,
+    "prev": ["Moon-Twin Wing"],
+    "exclusive": ["Nótt - Moon's Elegance"],
+    "last": true,
+    "icon": "skillB/Moon-Twin_Wing+"
+  },
   "Moon-Twin Wing": {
     "id": "Moon-Twin Wing",
     "name": "雙姬的月翼",

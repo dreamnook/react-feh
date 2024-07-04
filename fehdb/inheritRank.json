@@ -6155,19 +6155,6 @@
     "skillA": { "Atk/Def Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Res Tempo 3": { "sp": 240, "rarity": 5 } }
   },
-  "Ashera - Order Goddess": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 166,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Ideal 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Lull Spd/Res 3": { "sp": 240, "rarity": 5 } }
-  },
   "Hel - Death Sovereign": {
     "score": 276,
     "scoreTotal": 681,
@@ -7110,6 +7097,19 @@
     "skillB": { "Desperation 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Joint Drive Spd": { "sp": 300, "rarity": 5 } }
   },
+  "Ashera - Order Goddess": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 166,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Lull Spd/Res 4": { "sp": 300, "rarity": 5 } }
+  },
   "Freyja - Lady of Nightmare": {
     "score": 276,
     "scoreTotal": 736,
@@ -7185,7 +7185,7 @@
     "feather": 1000,
     "bst": 176,
     "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Distant Dart": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Menace": { "sp": 300, "rarity": 5 } }
   },
   "Gotoh - White Sage": {
