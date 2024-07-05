@@ -1154,7 +1154,7 @@
       "Anchor Axe+": {
         "pool": { "special": { "5": ["Dedue - Loyal Life Guard"] } },
         "id": "Anchor Axe+",
-        "name": "船錨之斧+",
+        "name": "錨之斧+",
         "sp": 300,
         "refine": 350
       }
@@ -1860,7 +1860,7 @@
       "Small Spade+": {
         "pool": { "special": { "5": ["Clanne - Summer Fan"] } },
         "id": "Small Spade+",
-        "name": "小沙鏟+",
+        "name": "小小的沙鏟+",
         "sp": 300,
         "refine": 350
       }
@@ -15166,7 +15166,7 @@
     "Even Atk Wave N": {
       "pool": { "harmonized": { "5": ["Goldmary - Coy Beach Divas"] } },
       "id": "Even Atk Wave N",
-      "name": "近身攻擊之波・偶",
+      "name": "近處攻擊之波・偶數",
       "sp": 300,
       "icon": "skillC/Even_Atk_Wave_N",
       "rules": "melee"
@@ -15174,7 +15174,7 @@
     "Even Res Wave D": {
       "pool": { "special": { "5": ["Alear - Seaside Dragon"] } },
       "id": "Even Res Wave D",
-      "name": "龍之魔防之波・偶",
+      "name": "龍的魔防之波・偶數",
       "sp": 300,
       "icon": "skillC/Even_Res_Wave_D",
       "rules": "dragon"

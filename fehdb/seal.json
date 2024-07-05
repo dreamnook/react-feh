@@ -2723,6 +2723,30 @@
       "icon": "skillB/Torrent_Dance_3",
       "last": true
     },
+    "Def/Res Snag 1": {
+      "id": "Def/Res Snag 1",
+      "name": "防守魔防干涉1",
+      "sp": 60,
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Def_Res_Snag_1"
+    },
+    "Def/Res Snag 2": {
+      "id": "Def/Res Snag 2",
+      "name": "防守魔防干涉2",
+      "sp": 120,
+      "prev": ["Def/Res Snag 1"],
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Def_Res_Snag_2"
+    },
+    "Def/Res Snag 3": {
+      "id": "Def/Res Snag 3",
+      "name": "防守魔防干涉3",
+      "sp": 240,
+      "prev": ["Def/Res Snag 2"],
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Def_Res_Snag_3",
+      "last": true
+    },
     "Atk Feint 1": {
       "id": "Atk Feint 1",
       "name": "攻擊共謀1",
@@ -3225,6 +3249,30 @@
       "prev": ["Spur Def 2", "Spur Res 2"],
       "last": true,
       "icon": "skillC/Ward_Beasts"
+    },
+    "Atk/Spd Rein 1": {
+      "id": "Atk/Spd Rein 1",
+      "name": "攻擊速度牽制1",
+      "sp": 60,
+      "rules": "flying",
+      "icon": "skillC/Atk_Spd_Rein_1"
+    },
+    "Atk/Spd Rein 2": {
+      "id": "Atk/Spd Rein 2",
+      "name": "攻擊速度牽制2",
+      "sp": 120,
+      "prev": ["Atk/Spd Rein 1"],
+      "rules": "flying",
+      "icon": "skillC/Atk_Spd_Rein_2"
+    },
+    "Atk/Spd Rein 3": {
+      "id": "Atk/Spd Rein 3",
+      "name": "攻擊速度牽制3",
+      "sp": 240,
+      "prev": ["Atk/Spd Rein 2"],
+      "rules": "flying",
+      "icon": "skillC/Atk_Spd_Rein_3",
+      "last": true
     },
     "Atk/Res Rein 1": {
       "id": "Atk/Res Rein 1",

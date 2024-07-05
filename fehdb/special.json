@@ -487,7 +487,7 @@
   },
   "Bond Blast": {
     "id": "Bond Blast",
-    "name": "絆・神龍破",
+    "name": "牽絆・神龍破",
     "cd": 3,
     "sp": 500,
     "prev": ["Glimmer"],

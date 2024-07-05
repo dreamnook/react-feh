@@ -7470,7 +7470,7 @@
     },
     "Diva-Pair Parasol": {
       "id": "Diva-Pair Parasol",
-      "name": "令人注目的雙人之傘",
+      "name": "引人注目的雙人傘",
       "mt": 16,
       "cd": -1,
       "sp": 400,
@@ -12794,14 +12794,14 @@
     },
     "Anchor Axe": {
       "id": "Anchor Axe",
-      "name": "船錨之斧",
+      "name": "錨之斧",
       "mt": 10,
       "sp": 200,
       "prev": ["Steel Axe"]
     },
     "Anchor Axe+": {
       "id": "Anchor Axe+",
-      "name": "船錨之斧+",
+      "name": "錨之斧+",
       "mt": 14,
       "sp": 300,
       "prev": ["Anchor Axe"],
@@ -14255,7 +14255,7 @@
     },
     "Breaker Bow": {
       "id": "Breaker Bow",
-      "name": "波浪碎片間之銳弓",
+      "name": "波浪碎片之銳弓",
       "mt": 14,
       "cd": -1,
       "sp": 400,
@@ -18257,14 +18257,14 @@
     },
     "Small Spade": {
       "id": "Small Spade",
-      "name": "小沙鏟",
+      "name": "小小的沙鏟",
       "mt": 8,
       "sp": 200,
       "prev": ["Steel Dagger"]
     },
     "Small Spade+": {
       "id": "Small Spade+",
-      "name": "小沙鏟+",
+      "name": "小小的沙鏟+",
       "mt": 12,
       "sp": 300,
       "prev": ["Small Spade"],
@@ -28375,7 +28375,7 @@
     },
     "Maritime Arts": {
       "id": "Maritime Arts",
-      "name": "海水浴之體術",
+      "name": "海水浴體術",
       "mt": 11,
       "cd": -1,
       "sp": 400,

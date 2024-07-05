@@ -2949,7 +2949,7 @@
   },
   "Even Atk Wave N": {
     "id": "Even Atk Wave N",
-    "name": "近身攻擊之波・偶",
+    "name": "近處攻擊之波・偶數",
     "atk": 6,
     "sp": 300,
     "rules": "melee",
@@ -2958,7 +2958,7 @@
   },
   "Even Res Wave D": {
     "id": "Even Res Wave D",
-    "name": "龍之魔防之波・偶",
+    "name": "龍的魔防之波・偶數",
     "res": 6,
     "cd": 1,
     "sp": 300,
