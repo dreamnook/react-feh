@@ -5882,7 +5882,8 @@
       "id": "Verge of Death",
       "name": "極限死線",
       "sp": 300,
-      "icon": "skillA/Verge_of_Death"
+      "icon": "skillA/Verge_of_Death",
+      "rules": "not.white-staff"
     },
     "Crystalline Water": {
       "pool": { "#": { "5": ["Veyle - Fell Successor"] } },

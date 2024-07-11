@@ -835,6 +835,7 @@
     "spd": 8,
     "def": -8,
     "res": -8,
+    "rules": "not.white-staff",
     "prev": ["Life and Death 3"],
     "last": true,
     "icon": "skillA/Verge_of_Death"
