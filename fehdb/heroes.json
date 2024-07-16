@@ -23102,6 +23102,41 @@
     "ver": "6.7",
     "dfKey": 4
   },
+  "Eirika - Resolute Princess": {
+    "id": "Eirika - Resolute Princess",
+    "title": "心懷善良決心的公主",
+    "name": "艾莉可",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "attuned": true,
+    "releaseDate": "2024-07-16",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 44, 47],
+        "spd": [44, 47, 51],
+        "def": [32, 35, 38],
+        "res": [24, 27, 31]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 8,
+        "def": 11,
+        "res": 8
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.7",
+    "dfKey": 6
+  },
   "Ephraim - Restoration Lord": {
     "id": "Ephraim - Restoration Lord",
     "title": "碧空的勇猛王子",
@@ -23458,6 +23493,74 @@
     "book": 6,
     "ver": "6.7",
     "dfKey": 4
+  },
+  "Kyle - Zealous Knight": {
+    "id": "Kyle - Zealous Knight",
+    "title": "熱情的騎士",
+    "name": "凱爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-lance",
+    "releaseDate": "2024-07-16",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [44, 47, 51],
+        "spd": [27, 31, 34],
+        "def": [41, 45, 48],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 8,
+        "spd": 9,
+        "def": 12,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.7",
+    "dfKey": 6
+  },
+  "Forde - Unfettered Knight": {
+    "id": "Forde - Unfettered Knight",
+    "title": "奔放的騎士",
+    "name": "佛魯迪",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "releaseDate": "2024-07-16",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 45, 48],
+        "spd": [42, 45, 49],
+        "def": [33, 37, 40],
+        "res": [15, 18, 21]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 15,
+        "def": 4,
+        "res": 3
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.7",
+    "dfKey": 6
   },
   "Orson - Passion's Folly": {
     "id": "Orson - Passion's Folly",
@@ -24715,6 +24818,41 @@
     "ver": "8.2",
     "dfKey": 6
   },
+  "Glen - Sunstone": {
+    "id": "Glen - Sunstone",
+    "title": "日長石",
+    "name": "格倫",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2024-07-16",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [41, 45, 48],
+        "spd": [31, 34, 37],
+        "def": [44, 47, 51],
+        "res": [17, 20, 23]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 10,
+        "def": 8,
+        "res": 5
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["atk"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.7",
+    "dfKey": 6
+  },
   "Riev - Blood Beryl": {
     "id": "Riev - Blood Beryl",
     "title": "血碧石",
@@ -25124,6 +25262,41 @@
     "book": 1,
     "ver": "1.6",
     "dfKey": 2
+  },
+  "Amelia - Blossoming Talent": {
+    "id": "Amelia - Blossoming Talent",
+    "title": "開花的才能",
+    "name": "亞美利雅",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-lance",
+    "ascended": true,
+    "releaseDate": "2024-07-16",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [43, 46, 50],
+        "spd": [42, 46, 49],
+        "def": [33, 37, 40],
+        "res": [30, 33, 36]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 7,
+        "spd": 13,
+        "def": 4,
+        "res": 9
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd", "def"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 8,
+    "ver": "8.7",
+    "dfKey": 6
   },
   "Joshua - Tempest King": {
     "id": "Joshua - Tempest King",

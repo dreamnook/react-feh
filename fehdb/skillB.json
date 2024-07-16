@@ -619,6 +619,14 @@
     "last": true,
     "icon": "skillB/Under_the_Sun"
   },
+  "Moonlit Bangle Q": {
+    "id": "Moonlit Bangle Q",
+    "name": "華月手鐲・先",
+    "sp": 300,
+    "exclusive": ["Eirika - Resolute Princess"],
+    "last": true,
+    "icon": "skillB/Moonlit_Bangle_Q"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -1200,6 +1208,15 @@
     "rules": "armored",
     "icon": "skillB/Wily_Fighter_3",
     "last": true
+  },
+  "Clever Fighter": {
+    "id": "Clever Fighter",
+    "name": "慧敏隊型",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["Savvy Fighter 3"],
+    "last": true,
+    "icon": "skillB/Clever_Fighter"
   },
   "Poison Strike 1": {
     "id": "Poison Strike 1",

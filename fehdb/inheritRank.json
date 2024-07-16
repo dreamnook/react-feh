@@ -5094,6 +5094,18 @@
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
   },
+  "Kyle - Zealous Knight": {
+    "score": 240,
+    "scoreTotal": 630,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 185,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Atk/Def Snag 3": { "sp": 240, "rarity": 5 } }
+  },
   "Sakura - Gentle Nekomata": {
     "score": 212,
     "scoreTotal": 636,
@@ -7044,6 +7056,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Glen - Sunstone": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Wyvern Flight 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Flier Guidance 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,
@@ -9258,6 +9283,18 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
     "skillB": { "Pegasus Flight 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Forde - Unfettered Knight": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Def Unity": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/D Near Trace 4": { "sp": 300, "rarity": 5 } }
   },
   "Edelgard - Adrestian Emperor": {
     "score": 300,
@@ -12922,6 +12959,19 @@
     "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
+  "Eirika - Resolute Princess": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Gust": { "sp": 500, "rarity": 5 } },
+    "skillA": { "D Bonus Doubler": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Null C-Disrupt E": { "sp": 0, "rarity": 5 } }
+  },
   "Edward - Blade of Justice": {
     "score": 500,
     "scoreTotal": 1100,
@@ -12956,6 +13006,18 @@
     "bst": 205,
     "special": { "Armored Floe": { "sp": 500, "rarity": 5 } },
     "skillB": { "Counter Roar 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Amelia - Blossoming Talent": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Armored Beacon": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Clever Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Far Save 3": { "sp": 300, "rarity": 5 } }
   },
   "Severa - Bitter Blossom": {

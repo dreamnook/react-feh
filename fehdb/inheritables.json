@@ -587,6 +587,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Pursual Lance+": {
+        "pool": { "#": { "5": ["Kyle - Zealous Knight"] } },
+        "id": "Pursual Lance+",
+        "name": "追擊之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Berkut's Lance+": {
         "pool": { "grail": { "5": ["Berkut - Prideful Prince"] } },
         "id": "Berkut's Lance+",
@@ -3251,6 +3258,7 @@
           "5": [
             "Olwen - Blue Mage Knight",
             "Sumia - Maid of Flowers",
+            "Kyle - Zealous Knight",
             "Isadora - Escort of Pherae",
             "Wolf - Coyote's Loyal",
             "Farina - The Great Wing",
@@ -3996,6 +4004,7 @@
             "Ivy - Snow Queen",
             "Eitr - Hand of Nothing",
             "Ingrid - Beacon of Honor",
+            "Forde - Unfettered Knight",
             "Febail - Mercenary Waif",
             "Caeda - Marth's Faithful",
             "Hinoka - Blue Sky Warrior",
@@ -4161,6 +4170,7 @@
             "Marth - Of Beginnings",
             "Tana - Soaring Princess",
             "Alcryst - Tender Archer",
+            "Eirika - Resolute Princess",
             "Shinon - Scathing Archer"
           ]
         },
@@ -4312,6 +4322,13 @@
       },
       "id": "Vital Astra",
       "name": "心流星",
+      "sp": 500,
+      "rules": "learner.wielderInfantry"
+    },
+    "Gust": {
+      "pool": { "#": { "5": ["Eirika - Resolute Princess"] } },
+      "id": "Gust",
+      "name": "陣風",
       "sp": 500,
       "rules": "learner.wielderInfantry"
     },
@@ -4617,6 +4634,7 @@
             "Idunn - Divine Demon",
             "Gilliam - Wall of Silence",
             "Mozu - Tragic Start",
+            "Amelia - Blossoming Talent",
             "Owain - Chosen One"
           ]
         },
@@ -4728,6 +4746,7 @@
           "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
             "Jakob - Devoted Monster",
+            "Glen - Sunstone",
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
             "Robin - Fated Vessel",
@@ -4742,6 +4761,7 @@
     },
     "Armored Beacon": {
       "pool": {
+        "#": { "5": ["Amelia - Blossoming Talent"] },
         "special": { "5": ["Hector - Sworn Friend", "Myrrh - Adored Dragon"] }
       },
       "id": "Armored Beacon",
@@ -6948,6 +6968,7 @@
             "Marth - Prince of Light",
             "Ganglöt - Death Anew",
             "Byleth - Vengeance Vessel",
+            "Eirika - Resolute Princess",
             "Byleth - Tested Professor"
           ]
         },
@@ -7485,7 +7506,7 @@
     },
     "Spd/Def Bond 3": {
       "pool": {
-        "#": { "5": ["Astrid - Resolute Damsel"] },
+        "#": { "5": ["Forde - Unfettered Knight", "Astrid - Resolute Damsel"] },
         "grail": {
           "4": ["Norne - Seaside Volunteer"],
           "5": ["Ethlyn - Spirited Princess"]
@@ -7589,6 +7610,13 @@
       "name": "攻擊魔防的連帶",
       "sp": 300,
       "icon": "skillA/Atk_Res_Unity"
+    },
+    "Spd/Def Unity": {
+      "pool": { "#": { "5": ["Forde - Unfettered Knight"] } },
+      "id": "Spd/Def Unity",
+      "name": "速度防守的連帶",
+      "sp": 300,
+      "icon": "skillA/Spd_Def_Unity"
     },
     "Def/Res Unity": {
       "pool": { "legendary": { "5": ["Myrrh - Guardian Dragon"] } },
@@ -8303,7 +8331,9 @@
       "rules": "learner.infantry-ranged"
     },
     "D Bonus Doubler": {
-      "pool": { "#": { "5": ["Caeda - Marth's Faithful"] } },
+      "pool": {
+        "#": { "5": ["Caeda - Marth's Faithful", "Eirika - Resolute Princess"] }
+      },
       "id": "D Bonus Doubler",
       "name": "遠反・強化增幅",
       "sp": 300,
@@ -9003,6 +9033,7 @@
       "pool": {
         "#": {
           "5": [
+            "Kyle - Zealous Knight",
             "Líf - Arcane Blade",
             "Mycen - Zofia's Champion",
             "Harken - Troubled Warrior"
@@ -9904,7 +9935,9 @@
     },
     "Savvy Fighter 3": {
       "pool": {
-        "#": { "5": ["Anankos - Seething Silence"] },
+        "#": {
+          "5": ["Anankos - Seething Silence", "Amelia - Blossoming Talent"]
+        },
         "special": {
           "5": ["Lucina - Future Fondness", "Takumi - Troubled Heart"]
         }
@@ -9929,6 +9962,14 @@
       "name": "正面隊形・敵方3",
       "sp": 240,
       "icon": "skillB/Wily_Fighter_3",
+      "rules": "armored"
+    },
+    "Clever Fighter": {
+      "pool": { "#": { "5": ["Amelia - Blossoming Talent"] } },
+      "id": "Clever Fighter",
+      "name": "慧敏隊型",
+      "sp": 300,
+      "icon": "skillB/Clever_Fighter",
       "rules": "armored"
     },
     "Poison Strike 3": {
@@ -10883,7 +10924,8 @@
     "Wyvern Flight 3": {
       "pool": {
         "#": { "5": ["Melady - Crimson Rider", "Rosado - Adorable Artist"] },
-        "grail": { "5": ["Arion - Gungnir's Heir"] }
+        "grail": { "5": ["Arion - Gungnir's Heir"] },
+        "special": { "5": ["Glen - Sunstone"] }
       },
       "id": "Wyvern Flight 3",
       "name": "飛龍行空3",
@@ -11275,7 +11317,7 @@
     },
     "Atk/Def Snag 3": {
       "pool": {
-        "#": { "5": ["Isadora - Escort of Pherae"] },
+        "#": { "5": ["Kyle - Zealous Knight", "Isadora - Escort of Pherae"] },
         "grail": { "4": ["Luthier - Spring Hopes"] },
         "special": { "4": ["Kaden - Refreshed Kitsune"] }
       },
@@ -12050,7 +12092,7 @@
     },
     "S/D Near Trace 3": {
       "pool": {
-        "#": { "5": ["Chrom - Fated Honor"] },
+        "#": { "5": ["Forde - Unfettered Knight", "Chrom - Fated Honor"] },
         "special": {
           "5": [
             "Eliwood - Pledged Friend",
@@ -12068,7 +12110,10 @@
       "rules": "learner.near-trace"
     },
     "S/D Near Trace 4": {
-      "pool": { "special": { "5": ["Sylvain - Spring Flingster"] } },
+      "pool": {
+        "#": { "5": ["Forde - Unfettered Knight"] },
+        "special": { "5": ["Sylvain - Spring Flingster"] }
+      },
       "id": "S/D Near Trace 4",
       "name": "速度防守近影4",
       "sp": 300,
@@ -14511,6 +14556,7 @@
             "Diamant - Rising Power",
             "Byleth - Vengeance Vessel",
             "Soren - Radiant Confidant",
+            "Eirika - Resolute Princess",
             "Shinon - Scathing Archer",
             "Volke - Man of Mysteries"
           ]
@@ -14548,7 +14594,8 @@
           "5": [
             "Diamant - Rising Power",
             "Byleth - Vengeance Vessel",
-            "Soren - Radiant Confidant"
+            "Soren - Radiant Confidant",
+            "Eirika - Resolute Princess"
           ]
         },
         "special": {
@@ -14821,7 +14868,9 @@
     },
     "A/S Far Save 2": {
       "pool": {
-        "#": { "5": ["Corrin - Silent Bloodline"] },
+        "#": {
+          "5": ["Corrin - Silent Bloodline", "Amelia - Blossoming Talent"]
+        },
         "special": { "5": ["Takumi - Troubled Heart"] }
       },
       "id": "A/S Far Save 2",
@@ -14832,7 +14881,9 @@
     },
     "A/S Far Save 3": {
       "pool": {
-        "#": { "5": ["Corrin - Silent Bloodline"] },
+        "#": {
+          "5": ["Corrin - Silent Bloodline", "Amelia - Blossoming Talent"]
+        },
         "special": { "5": ["Takumi - Troubled Heart"] }
       },
       "id": "A/S Far Save 3",
@@ -14951,7 +15002,13 @@
       "pool": {
         "#": { "5": ["Hinoka - Blue Sky Warrior"] },
         "grail": { "5": ["Travant - King of Thracia"] },
-        "special": { "5": ["Marisa - Crimson Rabbit", "Ivy - Tidal Breeze"] }
+        "special": {
+          "5": [
+            "Marisa - Crimson Rabbit",
+            "Glen - Sunstone",
+            "Ivy - Tidal Breeze"
+          ]
+        }
       },
       "id": "Flier Guidance 3",
       "name": "飛行前導3",
@@ -16064,6 +16121,14 @@
       "name": "響・取消",
       "sp": 0,
       "icon": "skillX/Guard_Echo"
+    },
+    "Null C-Disrupt E": {
+      "pool": { "#": { "5": ["Eirika - Resolute Princess"] } },
+      "id": "Null C-Disrupt E",
+      "name": "響・識破無法反擊",
+      "sp": 0,
+      "icon": "skillX/Null_C-Disrupt_E",
+      "rules": "infantry"
     },
     "Far Trace Echo": {
       "pool": { "#": { "5": ["Micaiah - Dawning Maiden"] } },

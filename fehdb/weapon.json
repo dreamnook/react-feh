@@ -3334,6 +3334,26 @@
       "exclusive": ["Edward - Blade of Justice"],
       "last": true
     },
+    "Sunstone's Blade": {
+      "id": "Sunstone's Blade",
+      "name": "日長石之劍",
+      "mt": 16,
+      "def": 3,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Glen - Sunstone"],
+      "last": true
+    },
+    "Wild Wind Sword": {
+      "id": "Wild Wind Sword",
+      "name": "奔放的風之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Forde - Unfettered Knight"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -7478,6 +7498,16 @@
       "exclusive": ["Goldmary - Coy Beach Divas"],
       "last": true
     },
+    "Lance of Grado": {
+      "id": "Lance of Grado",
+      "name": "格拉多將領的重槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Amelia - Blossoming Talent"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -8314,6 +8344,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Null Spear"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Pursual Lance": {
+      "id": "Pursual Lance",
+      "name": "追擊之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Pursual Lance+": {
+      "id": "Pursual Lance+",
+      "name": "追擊之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Pursual Lance"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -11137,6 +11200,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Sisterly Axe": {
+      "id": "Sisterly Axe",
+      "name": "溫柔與強大的絆斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Eirika - Resolute Princess"],
       "last": true
     },
     "Arcane Downfall": {

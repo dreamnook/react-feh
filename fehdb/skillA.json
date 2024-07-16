@@ -252,6 +252,14 @@
     "last": true,
     "icon": "skillA/Fell_Wyrmscale"
   },
+  "Obsidian Tactics": {
+    "id": "Obsidian Tactics",
+    "name": "黑曜石的教誨",
+    "sp": 300,
+    "exclusive": ["Amelia - Blossoming Talent"],
+    "last": true,
+    "icon": "skillA/Obsidian_Tactics"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -2327,6 +2335,14 @@
     "prev": ["Atk/Res Bond 3"],
     "last": true,
     "icon": "skillA/Atk_Res_Unity"
+  },
+  "Spd/Def Unity": {
+    "id": "Spd/Def Unity",
+    "name": "速度防守的連帶",
+    "sp": 300,
+    "prev": ["Spd/Def Bond 3"],
+    "last": true,
+    "icon": "skillA/Spd_Def_Unity"
   },
   "Def/Res Unity": {
     "id": "Def/Res Unity",

@@ -29,6 +29,14 @@
     "last": true,
     "icon": "skillX/Guard_Echo"
   },
+  "Null C-Disrupt E": {
+    "id": "Null C-Disrupt E",
+    "name": "響・識破無法反擊",
+    "sp": 0,
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillX/Null_C-Disrupt_E"
+  },
   "Far Trace Echo": {
     "id": "Far Trace Echo",
     "name": "響・遠影",
