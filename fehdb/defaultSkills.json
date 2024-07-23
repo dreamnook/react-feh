@@ -2224,6 +2224,30 @@
       "Fatal Smoke 4": 5
     }
   },
+  "Niðavellir - Founding King": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Niðavellir Ballista": 5
+    },
+    "special": {
+      "Rising Thunder": 4,
+      "Blazing Thunder": 5
+    },
+    "skillA": {
+      "Life and Death 1": 2,
+      "Life and Death 2": 3,
+      "Life and Death 3": 4,
+      "Verge of Death": 5
+    },
+    "skillB": {
+      "Seal Def 1": 2,
+      "Seal Def/Res 1": 3,
+      "Seal Def/Res 2": 4,
+      "Seal Def/Res 3": 5
+    }
+  },
   "Reginn - Bearing Hope": {
     "weapon": {
       "Iron Sword": 1,

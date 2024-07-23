@@ -588,7 +588,7 @@
         "refine": 350
       },
       "Pursual Lance+": {
-        "pool": { "#": { "5": ["Kyle - Zealous Knight"] } },
+        "pool": { "#": { "3": ["Kyle - Zealous Knight"] } },
         "id": "Pursual Lance+",
         "name": "追擊之槍+",
         "sp": 300,
@@ -1308,7 +1308,7 @@
         "refine": 350
       },
       "Doubler Bow+": {
-        "pool": { "#": { "4": ["Leonardo - Freedom's Arrow"] } },
+        "pool": { "#": { "3": ["Leonardo - Freedom's Arrow"] } },
         "id": "Doubler Bow+",
         "name": "強化增幅之弓+",
         "sp": 300,
@@ -3253,12 +3253,12 @@
             "Norne - The Volunteer",
             "Kent - Crimson Shield",
             "Cath - Master Thief",
+            "Kyle - Zealous Knight",
             "Fee - Aspiring Knight"
           ],
           "5": [
             "Olwen - Blue Mage Knight",
             "Sumia - Maid of Flowers",
-            "Kyle - Zealous Knight",
             "Isadora - Escort of Pherae",
             "Wolf - Coyote's Loyal",
             "Farina - The Great Wing",
@@ -3975,6 +3975,7 @@
           "3": [
             "Catria - Middle Whitewing",
             "Frederick - Polite Knight",
+            "Leonardo - Freedom's Arrow",
             "Marcia - Petulant Knight",
             "Knoll - Darkness Watcher",
             "Ricken - Shepherd Novice",
@@ -3983,7 +3984,6 @@
             "Vanessa - Dutiful Rider",
             "Lapis - Mighty Flower"
           ],
-          "4": ["Leonardo - Freedom's Arrow"],
           "5": [
             "Celica - Imprisoned Soul",
             "Mia - Lady of Blades",
@@ -4733,6 +4733,7 @@
             "Bertram - Dread Cavalier",
             "Flame Emperor - Bringer of War",
             "Arion - Gungnir's Heir",
+            "Glen - Sunstone",
             "Murdock - Loyal General",
             "Ludveck - Rebellious Duke",
             "Cervantes - Invincible General"
@@ -4746,7 +4747,6 @@
           "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
             "Jakob - Devoted Monster",
-            "Glen - Sunstone",
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
             "Robin - Fated Vessel",
@@ -5052,7 +5052,7 @@
       "pool": {
         "#": {
           "3": ["Reinhardt - Thunder's Fist"],
-          "5": ["Ursula - Blackened Crow"]
+          "5": ["Niðavellir - Founding King", "Ursula - Blackened Crow"]
         },
         "grail": {
           "4": ["Fernand - Traitorous Knight", "Michalis - Ambitious King"]
@@ -5799,6 +5799,7 @@
             "Jaffar - Angel of Death",
             "Minerva - Red Dragoon",
             "Celica - Valentia's Hope",
+            "Niðavellir - Founding King",
             "Wolf - Coyote's Loyal",
             "Selena - Fluorspar",
             "Ishtar - Echoing Thunder",
@@ -5897,7 +5898,13 @@
     },
     "Verge of Death": {
       "pool": {
-        "#": { "5": ["Celica - Of Echoes", "Ursula - Blackened Crow"] }
+        "#": {
+          "5": [
+            "Niðavellir - Founding King",
+            "Celica - Of Echoes",
+            "Ursula - Blackened Crow"
+          ]
+        }
       },
       "id": "Verge of Death",
       "name": "極限死線",
@@ -9032,8 +9039,8 @@
     "Atk/Def Clash 3": {
       "pool": {
         "#": {
+          "3": ["Kyle - Zealous Knight"],
           "5": [
-            "Kyle - Zealous Knight",
             "Líf - Arcane Blade",
             "Mycen - Zofia's Champion",
             "Harken - Troubled Warrior"
@@ -9165,7 +9172,7 @@
     "Atk/Res Finish 3": {
       "pool": {
         "#": {
-          "4": ["Leonardo - Freedom's Arrow"],
+          "3": ["Leonardo - Freedom's Arrow"],
           "5": ["Tiki - Fated Divinity", "Ophelia - Starlit Maiden"]
         },
         "mythic": { "5": ["Veyle - Gentle Dragon"] },
@@ -10214,11 +10221,24 @@
       "rules": "not.white-staff"
     },
     "Seal Def/Res 2": {
-      "pool": { "#": { "3": ["Ares - Black Knight"] } },
+      "pool": {
+        "#": {
+          "3": ["Ares - Black Knight"],
+          "5": ["Niðavellir - Founding King"]
+        }
+      },
       "id": "Seal Def/Res 2",
       "name": "防守魔防封印2",
       "sp": 200,
       "icon": "skillB/Seal_Def_Res_2",
+      "rules": "not.white-staff"
+    },
+    "Seal Def/Res 3": {
+      "pool": { "#": { "5": ["Niðavellir - Founding King"] } },
+      "id": "Seal Def/Res 3",
+      "name": "防守魔防封印3",
+      "sp": 300,
+      "icon": "skillB/Seal_Def_Res_3",
       "rules": "not.white-staff"
     },
     "Chill Atk 3": {
@@ -10678,9 +10698,9 @@
           "3": [
             "Leon - True of Heart",
             "Titania - Mighty Mercenary",
-            "Luthier - Odd Wayfarer"
+            "Luthier - Odd Wayfarer",
+            "Leonardo - Freedom's Arrow"
           ],
-          "4": ["Leonardo - Freedom's Arrow"],
           "5": [
             "Micaiah - Priestess of Dawn",
             "Morgan - Lass from Afar",
@@ -10924,8 +10944,7 @@
     "Wyvern Flight 3": {
       "pool": {
         "#": { "5": ["Melady - Crimson Rider", "Rosado - Adorable Artist"] },
-        "grail": { "5": ["Arion - Gungnir's Heir"] },
-        "special": { "5": ["Glen - Sunstone"] }
+        "grail": { "4": ["Glen - Sunstone"], "5": ["Arion - Gungnir's Heir"] }
       },
       "id": "Wyvern Flight 3",
       "name": "飛龍行空3",
@@ -11317,7 +11336,10 @@
     },
     "Atk/Def Snag 3": {
       "pool": {
-        "#": { "5": ["Kyle - Zealous Knight", "Isadora - Escort of Pherae"] },
+        "#": {
+          "3": ["Kyle - Zealous Knight"],
+          "5": ["Isadora - Escort of Pherae"]
+        },
         "grail": { "4": ["Luthier - Spring Hopes"] },
         "special": { "4": ["Kaden - Refreshed Kitsune"] }
       },
@@ -15001,14 +15023,8 @@
     "Flier Guidance 3": {
       "pool": {
         "#": { "5": ["Hinoka - Blue Sky Warrior"] },
-        "grail": { "5": ["Travant - King of Thracia"] },
-        "special": {
-          "5": [
-            "Marisa - Crimson Rabbit",
-            "Glen - Sunstone",
-            "Ivy - Tidal Breeze"
-          ]
-        }
+        "grail": { "5": ["Travant - King of Thracia", "Glen - Sunstone"] },
+        "special": { "5": ["Marisa - Crimson Rabbit", "Ivy - Tidal Breeze"] }
       },
       "id": "Flier Guidance 3",
       "name": "飛行前導3",

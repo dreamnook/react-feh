@@ -1748,6 +1748,18 @@
     "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
   },
+  "Kyle - Zealous Knight": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 185,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Atk/Def Snag 3": { "sp": 240, "rarity": 4 } }
+  },
   "Patty - Youthful Thief": {
     "score": 199,
     "scoreTotal": 295,
@@ -2163,18 +2175,6 @@
     "assist": { "Rally Atk/Def": { "sp": 300, "rarity": 4 } },
     "skillA": { "Fortress Def 3": { "sp": 160, "rarity": 4 } },
     "skillB": { "Hit and Run": { "sp": 150, "rarity": 4 } }
-  },
-  "Leonardo - Freedom's Arrow": {
-    "score": 154,
-    "scoreTotal": 380,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 300,
-    "bst": 188,
-    "special": { "Luna": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Res Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Guard 3": { "sp": 200, "rarity": 4 } }
   },
   "Lute - Summer Prodigy": {
     "score": 196,
@@ -3037,6 +3037,18 @@
     "bst": 166,
     "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Guard 3": { "sp": 200, "rarity": 4 } }
+  },
+  "Leonardo - Freedom's Arrow": {
+    "score": 166,
+    "scoreTotal": 428,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 188,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Finish 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Guard 3": { "sp": 200, "rarity": 4 } }
   },
   "Owain - Devoted Defender": {
@@ -5094,18 +5106,6 @@
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
   },
-  "Kyle - Zealous Knight": {
-    "score": 240,
-    "scoreTotal": 630,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 1000,
-    "bst": 185,
-    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Atk/Def Snag 3": { "sp": 240, "rarity": 5 } }
-  },
   "Sakura - Gentle Nekomata": {
     "score": 212,
     "scoreTotal": 636,
@@ -7057,19 +7057,6 @@
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
-  "Glen - Sunstone": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 189,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Wyvern Flight 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Flier Guidance 3": { "sp": 240, "rarity": 5 } }
-  },
   "Myrrh - Spooky Monster": {
     "score": 254,
     "scoreTotal": 721,
@@ -8291,6 +8278,19 @@
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Def Catch 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wyvern Flight 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Glen - Sunstone": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 189,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Wyvern Flight 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Flier Guidance 3": { "sp": 240, "rarity": 5 } }
   },
   "Lloyd - Vengeful Wolf": {
     "score": 322,
@@ -10369,6 +10369,18 @@
     "skillB": { "Rockslide Dance 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Cross Spur Spd": { "sp": 300, "rarity": 5 } },
     "skillX": { "Atk Oath Echo": { "sp": 0, "rarity": 5 } }
+  },
+  "Niðavellir - Founding King": {
+    "score": 300,
+    "scoreTotal": 900,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Blazing Thunder": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Verge of Death": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Seal Def/Res 3": { "sp": 300, "rarity": 5 } }
   },
   "Sonya - Beautiful Mage": {
     "score": 300,

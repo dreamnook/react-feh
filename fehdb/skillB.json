@@ -1544,7 +1544,15 @@
     "sp": 200,
     "prev": ["Seal Def/Res 1"],
     "rules": "not.white-staff",
-    "icon": "skillB/Seal_Def_Res_2",
+    "icon": "skillB/Seal_Def_Res_2"
+  },
+  "Seal Def/Res 3": {
+    "id": "Seal Def/Res 3",
+    "name": "防守魔防封印3",
+    "sp": 300,
+    "prev": ["Seal Def/Res 2"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Seal_Def_Res_3",
     "last": true
   },
   "Chill Atk 1": {
