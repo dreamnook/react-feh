@@ -19233,6 +19233,26 @@
       "exclusive": ["Nerþuz - Beach Chaperone"],
       "last": true
     },
+    "Nectar Horn": {
+      "id": "Nectar Horn",
+      "name": "蜜露的治癒者之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Infantry)"],
+      "exclusive": ["Heiðrún - Healing Nectar"],
+      "last": true
+    },
+    "Quieting Antler": {
+      "id": "Quieting Antler",
+      "name": "身體的葬送者之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Eikþyrnir - Quieting Strength"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",

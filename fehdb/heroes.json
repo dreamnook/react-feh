@@ -4193,6 +4193,80 @@
     "ver": "8.0",
     "dfKey": 6
   },
+  "Heiðrún - Healing Nectar": {
+    "id": "Heiðrún - Healing Nectar",
+    "title": "蜜露的治癒者",
+    "name": "海德倫",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-beast",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "anima-res-2",
+    "releaseDate": "2024-07-26",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 49],
+        "spd": [12, 16, 19],
+        "def": [41, 45, 48],
+        "res": [44, 47, 51]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 3,
+        "def": 12,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.7",
+    "dfKey": 6
+  },
+  "Eikþyrnir - Quieting Strength": {
+    "id": "Eikþyrnir - Quieting Strength",
+    "title": "身體的葬送者",
+    "name": "艾克米爾尼爾",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-beast",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "astra-def-2",
+    "releaseDate": "2024-07-26",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [44, 47, 50],
+        "spd": [12, 16, 19],
+        "def": [44, 47, 51],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 12,
+        "spd": 3,
+        "def": 8,
+        "res": 8
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["spd", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.7",
+    "dfKey": 6
+  },
   "Marth - Altean Prince": {
     "id": "Marth - Altean Prince",
     "title": "阿麗提亞的王子",

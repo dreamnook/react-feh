@@ -7317,6 +7317,19 @@
     "skillB": { "Seal Spd 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
+  "Heiðrún - Healing Nectar": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Aegis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Stronghold": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Def Bulwark 4": { "sp": 300, "rarity": 5 } }
+  },
   "Guinivere - Queen of Bern": {
     "score": 276,
     "scoreTotal": 736,
@@ -12014,6 +12027,19 @@
     "special": { "Galeforce": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Alarm Atk/Spd": { "sp": 300, "rarity": 5 } }
+  },
+  "Eikþyrnir - Quieting Strength": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Fierce Beast": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Def Excel": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Beast Threaten": { "sp": 300, "rarity": 5 } }
   },
   "Hinoka - Thundering Wings": {
     "score": 460,

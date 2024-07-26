@@ -859,6 +859,16 @@
     "last": true,
     "icon": "skillA/Crystalline_Water"
   },
+  "Stronghold": {
+    "id": "Stronghold",
+    "name": "監牢城塞",
+    "atk": -3,
+    "def": 7,
+    "res": 7,
+    "sp": 300,
+    "last": true,
+    "icon": "skillA/Stronghold"
+  },
   "Death Blow 1": {
     "id": "Death Blow 1",
     "name": "鬼神一擊1",
@@ -4541,5 +4551,13 @@
     "rules": "learner.infantry-cavalry-flying-melee",
     "last": true,
     "icon": "skillA/Atk_Spd_Excel"
+  },
+  "Atk/Def Excel": {
+    "id": "Atk/Def Excel",
+    "name": "攻擊防守突破",
+    "sp": 300,
+    "rules": "learner.infantry-cavalry-flying-melee",
+    "last": true,
+    "icon": "skillA/Atk_Def_Excel"
   }
 }

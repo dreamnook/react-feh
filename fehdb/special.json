@@ -682,6 +682,15 @@
     "prev": ["Dragon Gaze"],
     "last": true
   },
+  "Fierce Beast": {
+    "id": "Fierce Beast",
+    "name": "猛獸",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Dragon Fang"],
+    "rules": "beast",
+    "last": true
+  },
   "Ruptured Sky": {
     "id": "Ruptured Sky",
     "name": "破天",

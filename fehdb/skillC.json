@@ -526,6 +526,14 @@
     "last": true,
     "icon": "skillC/Forever_Yours"
   },
+  "Divine Nectar": {
+    "id": "Divine Nectar",
+    "name": "神獸的蜜露",
+    "sp": 300,
+    "exclusive": ["Heiðrún - Healing Nectar"],
+    "last": true,
+    "icon": "skillC/Divine_Nectar"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

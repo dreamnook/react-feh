@@ -627,6 +627,14 @@
     "last": true,
     "icon": "skillB/Moonlit_Bangle_Q"
   },
+  "Divine Strength": {
+    "id": "Divine Strength",
+    "name": "神獸的肉體",
+    "sp": 300,
+    "exclusive": ["Eikþyrnir - Quieting Strength"],
+    "last": true,
+    "icon": "skillB/Divine_Strength"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

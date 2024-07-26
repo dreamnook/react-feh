@@ -4557,7 +4557,13 @@
             "Corrin - Child of Dawn"
           ]
         },
-        "mythic": { "5": ["Dagr - Sun's Radiance", "Nótt - Moon's Elegance"] },
+        "mythic": {
+          "5": [
+            "Dagr - Sun's Radiance",
+            "Nótt - Moon's Elegance",
+            "Eikþyrnir - Quieting Strength"
+          ]
+        },
         "special": {
           "5": [
             "Corrin - Novice Vacationer",
@@ -4574,6 +4580,13 @@
       "name": "龍穿",
       "sp": 200,
       "rules": "not.white-staff"
+    },
+    "Fierce Beast": {
+      "pool": { "mythic": { "5": ["Eikþyrnir - Quieting Strength"] } },
+      "id": "Fierce Beast",
+      "name": "猛獸",
+      "sp": 500,
+      "rules": "beast"
     },
     "Ruptured Sky": {
       "pool": {
@@ -5187,7 +5200,8 @@
           "3": ["Abel - The Panther", "Jagen - Veteran Knight"],
           "5": ["Saber - Driven Mercenary"]
         },
-        "grail": { "4": ["Kempf - Conniving General"] }
+        "grail": { "4": ["Kempf - Conniving General"] },
+        "mythic": { "5": ["Heiðrún - Healing Nectar"] }
       },
       "id": "Aegis",
       "name": "聖盾",
@@ -5696,7 +5710,7 @@
           "4": ["Mordecai - Gentle Firetender"],
           "5": ["Sonia - Inhuman Beauty"]
         },
-        "mythic": { "5": ["Mirabilis - Daydream"] }
+        "mythic": { "5": ["Heiðrún - Healing Nectar", "Mirabilis - Daydream"] }
       },
       "id": "Fort. Def/Res 2",
       "name": "防守魔防堡壘2",
@@ -5918,6 +5932,13 @@
       "name": "明鏡止水",
       "sp": 300,
       "icon": "skillA/Crystalline_Water"
+    },
+    "Stronghold": {
+      "pool": { "mythic": { "5": ["Heiðrún - Healing Nectar"] } },
+      "id": "Stronghold",
+      "name": "監牢城塞",
+      "sp": 300,
+      "icon": "skillA/Stronghold"
     },
     "Death Blow 3": {
       "pool": {
@@ -9047,7 +9068,9 @@
           ]
         },
         "grail": { "5": ["Frederick - Youth in Service"] },
-        "mythic": { "5": ["Freyr - Dream-King"] },
+        "mythic": {
+          "5": ["Freyr - Dream-King", "Eikþyrnir - Quieting Strength"]
+        },
         "special": {
           "5": ["Flavia - Bold Bride", "Ephraim - Sunshine Valiant"]
         }
@@ -9381,6 +9404,14 @@
       "name": "攻擊速度的突破",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Excel",
+      "rules": "learner.infantry-cavalry-flying-melee"
+    },
+    "Atk/Def Excel": {
+      "pool": { "mythic": { "5": ["Eikþyrnir - Quieting Strength"] } },
+      "id": "Atk/Def Excel",
+      "name": "攻擊防守突破",
+      "sp": 300,
+      "icon": "skillA/Atk_Def_Excel",
       "rules": "learner.infantry-cavalry-flying-melee"
     }
   },
@@ -12428,7 +12459,9 @@
     },
     "Atk/Def Bulwark 3": {
       "pool": {
-        "mythic": { "5": ["Askr - God of Openness"] },
+        "mythic": {
+          "5": ["Askr - God of Openness", "Heiðrún - Healing Nectar"]
+        },
         "special": {
           "5": ["Ash - Earnest Greetings", "Altina - Unrivaled Dawn"]
         }
@@ -12440,7 +12473,10 @@
       "rules": "learner.infantry-melee"
     },
     "Atk/Def Bulwark 4": {
-      "pool": { "special": { "5": ["Altina - Unrivaled Dawn"] } },
+      "pool": {
+        "mythic": { "5": ["Heiðrún - Healing Nectar"] },
+        "special": { "5": ["Altina - Unrivaled Dawn"] }
+      },
       "id": "Atk/Def Bulwark 4",
       "name": "攻擊防守防護屏障4",
       "sp": 300,
@@ -13987,6 +14023,7 @@
           "4": ["Michalis - Ambitious King"],
           "5": ["Clarisse - Sniper in the Dark"]
         },
+        "mythic": { "5": ["Eikþyrnir - Quieting Strength"] },
         "special": { "5": ["Nerþuz - Beach Chaperone"] }
       },
       "id": "Threaten Def 3",
@@ -14186,7 +14223,10 @@
       "icon": "skillC/Def_Res_Menace"
     },
     "Beast Threaten": {
-      "pool": { "special": { "5": ["Nerþuz - Beach Chaperone"] } },
+      "pool": {
+        "mythic": { "5": ["Eikþyrnir - Quieting Strength"] },
+        "special": { "5": ["Nerþuz - Beach Chaperone"] }
+      },
       "id": "Beast Threaten",
       "name": "獸之威嚇",
       "sp": 300,
