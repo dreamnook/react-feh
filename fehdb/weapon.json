@@ -7562,6 +7562,16 @@
       },
       "last": true
     },
+    "Breezy Spear": {
+      "id": "Breezy Spear",
+      "name": "清風明月夏季之槍",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Lucia - Loyalty Enrobed"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -11318,6 +11328,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Summertime Axe": {
+      "id": "Summertime Axe",
+      "name": "意氣軒昂夏季之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Mia - Summer Slice"],
       "last": true
     },
     "Arcane Downfall": {
@@ -16247,6 +16267,39 @@
         }
       },
       "last": true
+    },
+    "Stall-Game Bow": {
+      "id": "Stall-Game Bow",
+      "name": "射箭遊戲之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Stall-Game Bow+": {
+      "id": "Stall-Game Bow+",
+      "name": "射箭遊戲之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Stall-Game Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "dagger": {
@@ -20775,6 +20828,16 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Gullveig - Glittering Sunlight"],
+      "last": true
+    },
+    "Fluttering Fan": {
+      "id": "Fluttering Fan",
+      "name": "認生緣分之祭器",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Nephenee - Festival Harmony"],
       "last": true
     },
     "Arcane Eclipse": {
@@ -26271,6 +26334,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Sea Tambourine"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Juicy Bucketful": {
+      "id": "Juicy Bucketful",
+      "name": "夏野菜之桶",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Atlas"]
+    },
+    "Juicy Bucketful+": {
+      "id": "Juicy Bucketful+",
+      "name": "夏野菜之桶+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Juicy Bucketful"],
       "refine": {
         "atk": {
           "hp": 2,

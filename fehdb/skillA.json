@@ -4544,6 +4544,39 @@
     "icon": "skillA/Atk_Def_Prime_4",
     "last": true
   },
+  "Spd/Def Prime 1": {
+    "id": "Spd/Def Prime 1",
+    "name": "速度防守的準備1",
+    "sp": 60,
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Spd_Def_Prime_1"
+  },
+  "Spd/Def Prime 2": {
+    "id": "Spd/Def Prime 2",
+    "name": "速度防守的準備2",
+    "sp": 120,
+    "prev": ["Spd/Def Prime 1"],
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Spd_Def_Prime_2"
+  },
+  "Spd/Def Prime 3": {
+    "id": "Spd/Def Prime 3",
+    "name": "速度防守的準備3",
+    "sp": 240,
+    "prev": ["Spd/Def Prime 2"],
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Spd_Def_Prime_3",
+    "last": true
+  },
+  "Spd/Def Prime 4": {
+    "id": "Spd/Def Prime 4",
+    "name": "速度防守的準備4",
+    "sp": 300,
+    "prev": ["Spd/Def Prime 3"],
+    "rules": "learner.def-dmger",
+    "icon": "skillA/Spd_Def_Prime_4",
+    "last": true
+  },
   "Atk/Spd Excel": {
     "id": "Atk/Spd Excel",
     "name": "攻擊速度的突破",
@@ -4559,5 +4592,14 @@
     "rules": "learner.infantry-cavalry-flying-melee",
     "last": true,
     "icon": "skillA/Atk_Def_Excel"
+  },
+  "Atk/Spd Mastery": {
+    "id": "Atk/Spd Mastery",
+    "name": "攻擊速度的制空",
+    "sp": 300,
+    "prev": ["Atk/Spd Catch 3"],
+    "rule": "flying",
+    "last": true,
+    "icon": "skillA/Atk_Spd_Mastery"
   }
 }

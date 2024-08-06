@@ -27126,6 +27126,41 @@
     "ver": "6.4",
     "dfKey": 4
   },
+  "Mia - Summer Slice": {
+    "id": "Mia - Summer Slice",
+    "title": "一刀兩斷的夏祭",
+    "name": "瓦育",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2024-08-07",
+    "appearsIn": ["Path of Radiance"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [38, 42, 45],
+        "spd": [44, 47, 51],
+        "def": [23, 27, 30],
+        "res": [32, 35, 38]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 17,
+        "def": 5,
+        "res": 7
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 6
+  },
   "Elincia - Lost Princess": {
     "id": "Elincia - Lost Princess",
     "title": "亡國的公主",
@@ -27159,6 +27194,41 @@
     "book": 1,
     "ver": "1.7",
     "dfKey": 2
+  },
+  "Lucia - Loyalty Enrobed": {
+    "id": "Lucia - Loyalty Enrobed",
+    "title": "浴衣下的忠心",
+    "name": "露琪諾",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2024-08-07",
+    "appearsIn": ["Path of Radiance"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [39, 42, 46],
+        "spd": [42, 46, 49],
+        "def": [27, 30, 33],
+        "res": [31, 34, 37]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 13,
+        "def": 4,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 6
   },
   "Nephenee - Fierce Halberdier": {
     "id": "Nephenee - Fierce Halberdier",
@@ -27228,6 +27298,41 @@
     "book": 3,
     "ver": "3.9",
     "dfKey": 2
+  },
+  "Nephenee - Festival Harmony": {
+    "id": "Nephenee - Festival Harmony",
+    "title": "於祭典樂曲中心連心",
+    "name": "涅菲妮",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-tome",
+    "pool": "harmonized",
+    "releaseDate": "2024-08-07",
+    "appearsIn": ["Path of Radiance", "Fates"],
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [42, 45, 48],
+        "spd": [44, 47, 51],
+        "def": [18, 21, 24],
+        "res": [16, 20, 23]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 8,
+        "def": 6,
+        "res": 7
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["res"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 6
   },
   "Bertram - Dread Cavalier": {
     "id": "Bertram - Dread Cavalier",
@@ -38586,6 +38691,55 @@
     "ver": "7.2",
     "dfKey": 5
   },
+  "Takumi - Wishful Spark": {
+    "id": "Takumi - Wishful Spark",
+    "title": "向煙火祈願未來",
+    "name": "拓海",
+    "rarity": [5, 4],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-bow",
+    "pool": "grail",
+    "releaseDate": "2024-08-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [37, 40, 44],
+        "spd": [41, 44, 47],
+        "def": [22, 25, 28],
+        "res": [18, 21, 24]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 42, 46],
+        "spd": [43, 46, 49],
+        "def": [25, 28, 31],
+        "res": [20, 23, 27]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 11,
+        "def": 3,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 11,
+        "def": 4,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 6
+  },
   "Hinata - Wild Samurai": {
     "id": "Hinata - Wild Samurai",
     "title": "豪邁武士",
@@ -40692,6 +40846,41 @@
     "book": 7,
     "ver": "7.2",
     "dfKey": 5
+  },
+  "Leo - Festival Bonds": {
+    "id": "Leo - Festival Bonds",
+    "title": "維繫情誼的祭典",
+    "name": "里昂",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-tome",
+    "pool": "special",
+    "releaseDate": "2024-08-07",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [43, 46, 50],
+        "spd": [24, 27, 31],
+        "def": [14, 18, 21],
+        "res": [42, 46, 49]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 7,
+        "spd": 8,
+        "def": 5,
+        "res": 13
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 174,
+    "statMax": 175,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 6
   },
   "Odin - Potent Force": {
     "id": "Odin - Potent Force",

@@ -3847,6 +3847,15 @@
     "icon": "skillC/Canto_Control_3",
     "last": true
   },
+  "Firm Canto Curb": {
+    "id": "Firm Canto Curb",
+    "name": "再移動限制・不惑",
+    "sp": 300,
+    "prev": ["Canto Control 3"],
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillC/Firm_Canto_Curb"
+  },
   "Sword Exp. 1": {
     "id": "Sword Exp. 1",
     "name": "劍之經驗1",

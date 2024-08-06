@@ -4886,6 +4886,19 @@
     "skillA": { "Sturdy Blow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 4 } }
   },
+  "Takumi - Wishful Spark": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 179,
+    "assist": { "Shove": { "sp": 150, "rarity": 4 } },
+    "skillB": { "Def/Res Snag 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 4 } }
+  },
   "Haar - Tempest Runner": {
     "score": 299,
     "scoreTotal": 604,
@@ -5846,6 +5859,19 @@
     "special": { "Noontime": { "sp": 200, "rarity": 5 } },
     "skillB": { "Dragon's Ire 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Goad Dragons": { "sp": 200, "rarity": 5 } }
+  },
+  "Leo - Festival Bonds": {
+    "score": 254,
+    "scoreTotal": 678,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 1000,
+    "bst": 174,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Still Water 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Fatal Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Lissa - Pure Joy": {
     "score": 254,
@@ -12753,6 +12779,19 @@
     "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd/Def Ruse 4": { "sp": 300, "rarity": 5 } }
   },
+  "Lucia - Loyalty Enrobed": {
+    "score": 424,
+    "scoreTotal": 1060,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 1000,
+    "feather": 1000,
+    "bst": 193,
+    "assist": { "Rally Up Spd+": { "sp": 400, "rarity": 5 } },
+    "skillB": { "Atk/Spd Bulwark 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Firm Canto Curb": { "sp": 300, "rarity": 5 } }
+  },
   "Igrene - Nabata Protector": {
     "score": 300,
     "scoreTotal": 1080,
@@ -13462,6 +13501,20 @@
     "skillB": { "Escape Route 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
+  "Nephenee - Festival Harmony": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 178,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Mastery": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Resonance 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Crux": { "sp": 300, "rarity": 5 } }
+  },
   "Chloé - Spring Wings": {
     "score": 318,
     "scoreTotal": 1166,
@@ -13531,6 +13584,20 @@
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Mia - Summer Slice": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Def Prime 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Pegasus Rift": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Rein Snap": { "sp": 300, "rarity": 5 } }
   },
   "Anna - Twice the Anna": {
     "score": 318,

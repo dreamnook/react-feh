@@ -1555,6 +1555,13 @@
         "name": "豎琴之弓+",
         "sp": 300,
         "refine": 350
+      },
+      "Stall-Game Bow+": {
+        "pool": { "grail": { "5": ["Takumi - Wishful Spark"] } },
+        "id": "Stall-Game Bow+",
+        "name": "射箭遊戲之弓+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "dagger": {
@@ -2516,6 +2523,13 @@
         "name": "南國樂器+",
         "sp": 300,
         "refine": 350
+      },
+      "Juicy Bucketful+": {
+        "pool": { "special": { "5": ["Leo - Festival Bonds"] } },
+        "id": "Juicy Bucketful+",
+        "name": "夏野菜之桶+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "white-staff": {
@@ -3154,7 +3168,8 @@
             "Rolf - Tricky Archer",
             "Darros - Seawalker",
             "Eir - Renewed Life",
-            "Rickard - Carefree Culprit"
+            "Rickard - Carefree Culprit",
+            "Takumi - Wishful Spark"
           ]
         },
         "special": {
@@ -3613,7 +3628,10 @@
       "pool": {
         "#": { "5": ["Azelle - Youthful Flame"] },
         "grail": { "4": ["Seth - Silver-Sea Knight"] },
-        "special": { "4": ["Ashe - Budding Chivalry"] },
+        "special": {
+          "4": ["Ashe - Budding Chivalry"],
+          "5": ["Lucia - Loyalty Enrobed"]
+        },
         "harmonized": { "5": ["Tiki - Harmonic Hope"] }
       },
       "id": "Rally Up Spd",
@@ -3624,7 +3642,9 @@
     "Rally Up Spd+": {
       "pool": {
         "#": { "5": ["Azelle - Youthful Flame"] },
-        "special": { "5": ["Ashe - Budding Chivalry"] },
+        "special": {
+          "5": ["Ashe - Budding Chivalry", "Lucia - Loyalty Enrobed"]
+        },
         "harmonized": { "5": ["Tiki - Harmonic Hope"] }
       },
       "id": "Rally Up Spd+",
@@ -3961,7 +3981,11 @@
           ]
         },
         "harmonized": {
-          "5": ["Lysithea - Gifted Students", "Catria - Azure Wing Pair"]
+          "5": [
+            "Lysithea - Gifted Students",
+            "Catria - Azure Wing Pair",
+            "Nephenee - Festival Harmony"
+          ]
         }
       },
       "id": "Moonbow",
@@ -4070,6 +4094,7 @@
             "Takumi - Troubled Heart",
             "Zelgius - Ninja Knight",
             "Yunaka - Spirited Envoy",
+            "Mia - Summer Slice",
             "Black Knight - The Night's Blade",
             "Claude - Golden Breeze",
             "Nerþuz - New-Year Doter",
@@ -4956,6 +4981,7 @@
           "4": ["Ilyana - Awakened Appetite", "Vika - Sea-Dark Wing"],
           "5": [
             "Sakura - Gentle Nekomata",
+            "Leo - Festival Bonds",
             "Zephiel - Winter's Crown",
             "Felicia - Off the Menu"
           ]
@@ -5889,7 +5915,13 @@
         },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
-        "special": { "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"] },
+        "special": {
+          "5": [
+            "Leo - Festival Bonds",
+            "Ivy - Tidal Breeze",
+            "Lilina - Beaming Bride"
+          ]
+        },
         "duo": { "5": ["Thórr - Sun-Kissed Gods"] }
       },
       "id": "Still Water 3",
@@ -8601,6 +8633,7 @@
           "5": [
             "Leif - Destined Scions",
             "Tana - Soothing Warmth",
+            "Nephenee - Festival Harmony",
             "Caeda - Sea-Blossom Pair"
           ]
         }
@@ -9395,6 +9428,22 @@
       "icon": "skillA/Atk_Def_Prime_4",
       "rules": "learner.def-dmger"
     },
+    "Spd/Def Prime 3": {
+      "pool": { "special": { "5": ["Mia - Summer Slice"] } },
+      "id": "Spd/Def Prime 3",
+      "name": "速度防守的準備3",
+      "sp": 240,
+      "icon": "skillA/Spd_Def_Prime_3",
+      "rules": "learner.def-dmger"
+    },
+    "Spd/Def Prime 4": {
+      "pool": { "special": { "5": ["Mia - Summer Slice"] } },
+      "id": "Spd/Def Prime 4",
+      "name": "速度防守的準備4",
+      "sp": 300,
+      "icon": "skillA/Spd_Def_Prime_4",
+      "rules": "learner.def-dmger"
+    },
     "Atk/Spd Excel": {
       "pool": {
         "special": { "5": ["Nerþuz - Beach Chaperone"] },
@@ -9413,6 +9462,13 @@
       "sp": 300,
       "icon": "skillA/Atk_Def_Excel",
       "rules": "learner.infantry-cavalry-flying-melee"
+    },
+    "Atk/Spd Mastery": {
+      "pool": { "harmonized": { "5": ["Nephenee - Festival Harmony"] } },
+      "id": "Atk/Spd Mastery",
+      "name": "攻擊速度的制空",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Mastery"
     }
   },
   "skillB": {
@@ -10954,7 +11010,8 @@
             "Syrene - Graceful Rider",
             "Chloé - Fairy-Tale Flier"
           ]
-        }
+        },
+        "special": { "5": ["Mia - Summer Slice"] }
       },
       "id": "Pegasus Flight 3",
       "name": "天馬行空3",
@@ -10970,6 +11027,14 @@
       "name": "天馬行空4",
       "sp": 300,
       "icon": "skillB/Pegasus_Flight_4",
+      "rules": "learner.wielderFlying"
+    },
+    "Pegasus Rift": {
+      "pool": { "special": { "5": ["Mia - Summer Slice"] } },
+      "id": "Pegasus Rift",
+      "name": "天馬裂空",
+      "sp": 300,
+      "icon": "skillB/Pegasus_Rift",
       "rules": "learner.wielderFlying"
     },
     "Wyvern Flight 3": {
@@ -11433,7 +11498,10 @@
       "rules": "learner.cavalry-flying-not-staff"
     },
     "Def/Res Snag 3": {
-      "pool": { "#": { "5": ["Wolf - Coyote's Loyal"] } },
+      "pool": {
+        "#": { "5": ["Wolf - Coyote's Loyal"] },
+        "grail": { "5": ["Takumi - Wishful Spark"] }
+      },
       "id": "Def/Res Snag 3",
       "name": "防守魔防干涉3",
       "sp": 240,
@@ -12441,7 +12509,8 @@
             "Mozu - Tragic Start",
             "Felix - Lone-Wolf Blade"
           ]
-        }
+        },
+        "special": { "5": ["Lucia - Loyalty Enrobed"] }
       },
       "id": "Atk/Spd Bulwark 3",
       "name": "攻擊速度防護屏障3",
@@ -12450,7 +12519,10 @@
       "rules": "learner.infantry-melee"
     },
     "Atk/Spd Bulwark 4": {
-      "pool": { "#": { "5": ["Mozu - Tragic Start"] } },
+      "pool": {
+        "#": { "5": ["Mozu - Tragic Start"] },
+        "special": { "5": ["Lucia - Loyalty Enrobed"] }
+      },
       "id": "Atk/Spd Bulwark 4",
       "name": "攻擊速度防護屏障4",
       "sp": 300,
@@ -12711,7 +12783,10 @@
       "rules": "white-staff"
     },
     "Resonance 3": {
-      "pool": { "#": { "5": ["Celica - Of Echoes"] } },
+      "pool": {
+        "#": { "5": ["Celica - Of Echoes"] },
+        "harmonized": { "5": ["Nephenee - Festival Harmony"] }
+      },
       "id": "Resonance 3",
       "name": "共鳴之黑魔法3",
       "sp": 240,
@@ -12719,7 +12794,10 @@
       "rules": "tome"
     },
     "Resonance 4": {
-      "pool": { "#": { "5": ["Celica - Of Echoes"] } },
+      "pool": {
+        "#": { "5": ["Celica - Of Echoes"] },
+        "harmonized": { "5": ["Nephenee - Festival Harmony"] }
+      },
       "id": "Resonance 4",
       "name": "共鳴之黑魔法4",
       "sp": 300,
@@ -13355,7 +13433,8 @@
           "5": [
             "Ashe - Budding Chivalry",
             "Inigo - Festival Flower",
-            "Tana - Frelian Starlight"
+            "Tana - Frelian Starlight",
+            "Mia - Summer Slice"
           ]
         },
         "duo": { "5": ["Sothis - Bound-Spirit Duo"] },
@@ -13460,7 +13539,11 @@
           "5": ["Ferdinand - Highborn Sipper", "Tharja - Florid Charmer"]
         },
         "harmonized": {
-          "5": ["Sonya - Dazzling Rabbits", "Chloé - Spring Wings"]
+          "5": [
+            "Sonya - Dazzling Rabbits",
+            "Nephenee - Festival Harmony",
+            "Chloé - Spring Wings"
+          ]
         }
       },
       "id": "Spd/Res Rein 3",
@@ -13547,7 +13630,10 @@
       "rules": "flying"
     },
     "A/S Rein Snap": {
-      "pool": { "harmonized": { "5": ["Anna - Twice the Anna"] } },
+      "pool": {
+        "special": { "5": ["Mia - Summer Slice"] },
+        "harmonized": { "5": ["Anna - Twice the Anna"] }
+      },
       "id": "A/S Rein Snap",
       "name": "攻擊速度牽制・推手",
       "sp": 300,
@@ -13579,7 +13665,11 @@
       "rules": "flying"
     },
     "Spd/Res Crux": {
-      "pool": { "harmonized": { "5": ["Chloé - Spring Wings"] } },
+      "pool": {
+        "harmonized": {
+          "5": ["Nephenee - Festival Harmony", "Chloé - Spring Wings"]
+        }
+      },
       "id": "Spd/Res Crux",
       "name": "速度魔防的十字牽制",
       "sp": 300,
@@ -14562,7 +14652,11 @@
         "#": { "5": ["Ginnungagap - Ruler of Nihility"] },
         "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
         "special": {
-          "5": ["Freyja - Fleeting Summer", "Yunaka - Spirited Envoy"]
+          "5": [
+            "Leo - Festival Bonds",
+            "Freyja - Fleeting Summer",
+            "Yunaka - Spirited Envoy"
+          ]
         },
         "duo": { "5": ["Líf - Undying Ties Duo", "Shamir - Heartbeats United"] }
       },
@@ -15441,7 +15535,7 @@
             "Merric - Wind Pontifex"
           ]
         },
-        "grail": { "4": ["Hans - Ambitious Brute"] },
+        "grail": { "4": ["Takumi - Wishful Spark", "Hans - Ambitious Brute"] },
         "mythic": {
           "5": ["Kvasir - Seer of the Past", "Nerþuz - God of the Land"]
         },
@@ -15946,12 +16040,21 @@
         "#": { "5": ["Céline - Joyous Royal", "Ike - Of Radiance"] },
         "legendary": { "5": ["Robin - Exalt's Other Half"] },
         "mythic": { "5": ["Medeus - Earth-Dragon King"] },
+        "special": { "5": ["Lucia - Loyalty Enrobed"] },
         "duo": { "5": ["Mark - Winds of Hope"] }
       },
       "id": "Canto Control 3",
       "name": "再移動限制3",
       "sp": 240,
       "icon": "skillC/Canto_Control_3",
+      "rules": "infantry"
+    },
+    "Firm Canto Curb": {
+      "pool": { "special": { "5": ["Lucia - Loyalty Enrobed"] } },
+      "id": "Firm Canto Curb",
+      "name": "再移動限制・不惑",
+      "sp": 300,
+      "icon": "skillC/Firm_Canto_Curb",
       "rules": "infantry"
     },
     "Sword Exp. 3": {

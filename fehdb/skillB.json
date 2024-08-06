@@ -2408,6 +2408,15 @@
     "icon": "skillB/Pegasus_Flight_4",
     "last": true
   },
+  "Pegasus Rift": {
+    "id": "Pegasus Rift",
+    "name": "天馬裂空",
+    "sp": 300,
+    "prev": ["Pegasus Flight 3", "Flow Feather 3"],
+    "rules": "learner.wielderFlying",
+    "last": true,
+    "icon": "skillB/Pegasus_Rift"
+  },
   "Wyvern Flight 1": {
     "id": "Wyvern Flight 1",
     "name": "飛龍行空1",
