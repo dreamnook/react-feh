@@ -6608,6 +6608,36 @@
       "prev": ["Squad Ace CF 2"],
       "icon": "seal/Squad_Ace_HP_Spd_Def_3",
       "last": true
+    },
+    "Squad Ace CG 1": {
+      "id": "Squad Ace CG 1",
+      "name": "第８５迷宮的霸王1",
+      "sp": 120,
+      "hp": 3,
+      "spd": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_HP_Spd_Res_1"
+    },
+    "Squad Ace CG 2": {
+      "id": "Squad Ace CG 2",
+      "name": "第８５迷宮的霸王2",
+      "sp": 180,
+      "hp": 4,
+      "spd": 2,
+      "res": 2,
+      "prev": ["Squad Ace CG 1"],
+      "icon": "seal/Squad_Ace_HP_Spd_Res_2"
+    },
+    "Squad Ace CG 3": {
+      "id": "Squad Ace CG 3",
+      "name": "第８５迷宮的霸王3",
+      "sp": 240,
+      "hp": 5,
+      "spd": 3,
+      "res": 3,
+      "prev": ["Squad Ace CG 2"],
+      "icon": "seal/Squad_Ace_HP_Spd_Res_3",
+      "last": true
     }
   }
 }

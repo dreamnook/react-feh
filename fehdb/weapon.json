@@ -6493,6 +6493,29 @@
       "spd": 3,
       "sp": 400,
       "exclusive": ["Seteth - Seiros Adherent"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Spear_of_Assal_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Areadbhar": {
@@ -7506,6 +7529,37 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Amelia - Blossoming Talent"],
+      "last": true
+    },
+    "Mercenary Lance": {
+      "id": "Mercenary Lance",
+      "name": "重步傭兵之槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Gatrie - Armored Amour"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Mercenary_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Qiang": {
@@ -10513,6 +10567,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Dieck - Wounded Tiger"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Tiger-Roar_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Loyalist Axe": {
@@ -11210,6 +11287,37 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Eirika - Resolute Princess"],
+      "last": true
+    },
+    "Tiger-Eye Axe": {
+      "id": "Tiger-Eye Axe",
+      "name": "虎眼石的荒斧",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Caellach - Tiger Eye"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Tiger-Eye_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Downfall": {
@@ -13892,6 +14000,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Claude - King of Unification"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Failnaught_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Bow of Frelia": {
@@ -13921,6 +14051,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Ullr - The Bowmaster"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Holy_Yewfelle_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Mermaid Bow": {
@@ -20156,6 +20308,28 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Byleth - Fell Star's Duo"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Sun's_Percussors_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Dark Spikes T": {

@@ -6375,19 +6375,6 @@
     "skillA": { "Atk/Res Solo 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
-  "Claude - King of Unification": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 185,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Spd/Def Rein 3": { "sp": 240, "rarity": 5 } }
-  },
   "Caeda - Beloved Queen": {
     "score": 276,
     "scoreTotal": 681,
@@ -7290,6 +7277,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Beast Agility 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Claude - King of Unification": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Guidance 4": { "sp": 300, "rarity": 5 } }
   },
   "Nanna - Beloved Princess": {
     "score": 276,
@@ -11242,19 +11242,6 @@
     "skillB": { "Atk/Res Tempo 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Res Menace": { "sp": 300, "rarity": 5 } }
   },
-  "Ullr - The Bowmaster": {
-    "score": 460,
-    "scoreTotal": 957,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 500,
-    "spTotal": 1040,
-    "feather": 1000,
-    "bst": 171,
-    "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
-    "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
-  },
   "Byleth - The Fódlan Light": {
     "score": 460,
     "scoreTotal": 957,
@@ -12014,6 +12001,19 @@
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
+  },
+  "Ullr - The Bowmaster": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 171,
+    "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Nerþuz - God of the Land": {
     "score": 460,

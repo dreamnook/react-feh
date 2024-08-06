@@ -4038,7 +4038,7 @@
           ]
         },
         "legendary": {
-          "5": ["Claude - King of Unification", "Xander - Gallant King"]
+          "5": ["Xander - Gallant King", "Claude - King of Unification"]
         },
         "mythic": {
           "5": [
@@ -8574,9 +8574,9 @@
         "grail": { "4": ["Zephia - Scheming Dragon"] },
         "legendary": {
           "5": [
-            "Claude - King of Unification",
             "Xander - Gallant King",
             "Ninian - Ice-Dragon Oracle",
+            "Claude - King of Unification",
             "Veronica - Princess Rising",
             "Hinoka - Thundering Wings"
           ]
@@ -8625,9 +8625,9 @@
         },
         "legendary": {
           "5": [
-            "Claude - King of Unification",
             "Xander - Gallant King",
             "Ninian - Ice-Dragon Oracle",
+            "Claude - King of Unification",
             "Veronica - Princess Rising",
             "Hinoka - Thundering Wings"
           ]
@@ -15044,7 +15044,9 @@
           ]
         },
         "grail": { "5": ["Larum - Dancing Bride"] },
-        "legendary": { "5": ["Ryoma - Supreme Samurai"] }
+        "legendary": {
+          "5": ["Ryoma - Supreme Samurai", "Claude - King of Unification"]
+        }
       },
       "id": "Guidance 3",
       "name": "空中前導3",
@@ -15053,7 +15055,10 @@
       "rules": "flying"
     },
     "Guidance 4": {
-      "pool": { "#": { "5": ["Tana - Soaring Princess"] } },
+      "pool": {
+        "#": { "5": ["Tana - Soaring Princess"] },
+        "legendary": { "5": ["Claude - King of Unification"] }
+      },
       "id": "Guidance 4",
       "name": "空中前導4",
       "sp": 300,
@@ -15638,6 +15643,7 @@
             "Alear - Engaging Fire"
           ]
         },
+        "mythic": { "5": ["Ullr - The Bowmaster"] },
         "special": {
           "5": [
             "Eirika - Beach Restorer",
@@ -15665,6 +15671,7 @@
         "legendary": {
           "5": ["Shez - Sharpest Blades", "Byleth - The Fódlan Star"]
         },
+        "mythic": { "5": ["Ullr - The Bowmaster"] },
         "special": {
           "5": [
             "Eirika - Beach Restorer",

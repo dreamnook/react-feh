@@ -8319,12 +8319,17 @@
       "Life and Death 4": 5
     },
     "skillB": {
-      "Yngvi Ascendant": 5
+      "Yngvi Ascendant": 5,
+      "Yngvi Ascendant+": 5
     },
     "skillC": {
       "Time's Pulse 1": 1,
       "Time's Pulse 2": 2,
-      "Time's Pulse 3": 4
+      "Time's Pulse 3": 4,
+      "Atk/Spd Oath 1": 1,
+      "Atk/Spd Oath 2": 2,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Oath 4": 5
     }
   },
   "Leif - Prince of Leonster": {
@@ -14289,7 +14294,8 @@
       "Iron Axe": 1,
       "Steel Axe": 2,
       "Reprisal Axe": 3,
-      "Reprisal Axe+": 5
+      "Reprisal Axe+": 5,
+      "Tiger-Eye Axe": 5
     },
     "special": {
       "Dragon Gaze": 3,
@@ -15363,7 +15369,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Spirited Spear": 3,
-      "Spirited Spear+": 5
+      "Spirited Spear+": 5,
+      "Mercenary Lance": 5
     },
     "special": {
       "New Moon": 3,
@@ -25594,12 +25601,17 @@
       "Atk/Spd Catch 4": 5
     },
     "skillB": {
-      "Fallen Star": 5
+      "Fallen Star": 5,
+      "Fallen Star II": 5
     },
     "skillC": {
       "Spd/Def Rein 1": 1,
       "Spd/Def Rein 2": 2,
-      "Spd/Def Rein 3": 4
+      "Spd/Def Rein 3": 4,
+      "Guidance 1": 1,
+      "Guidance 2": 2,
+      "Guidance 3": 4,
+      "Guidance 4": 5
     }
   },
   "Claude - Golden Breeze": {

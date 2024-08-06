@@ -337,6 +337,15 @@
     "last": true,
     "icon": "skillB/Binding_Necklace"
   },
+  "Fallen Star II": {
+    "id": "Fallen Star II",
+    "name": "落星・承",
+    "sp": 300,
+    "prev": ["Fallen Star"],
+    "exclusive": ["Claude - King of Unification"],
+    "last": true,
+    "icon": "skillB/Fallen_Star_II"
+  },
   "Fallen Star": {
     "id": "Fallen Star",
     "name": "落星",
@@ -394,6 +403,15 @@
     "exclusive": ["Nótt - Moon's Elegance"],
     "last": true,
     "icon": "skillB/Moon-Twin Wing"
+  },
+  "Yngvi Ascendant+": {
+    "id": "Yngvi Ascendant+",
+    "name": "尤格威之祖・神",
+    "sp": 300,
+    "prev": ["Yngvi Ascendant"],
+    "exclusive": ["Ullr - The Bowmaster"],
+    "last": true,
+    "icon": "skillB/Yngvi_Ascendant+"
   },
   "Yngvi Ascendant": {
     "id": "Yngvi Ascendant",
