@@ -194,6 +194,40 @@
     "ver": "5.2",
     "dfKey": 3
   },
+  "Alfonse - Heir to Openness": {
+    "id": "Alfonse - Heir to Openness",
+    "title": "邁向開啟的未來",
+    "name": "阿爾馮斯",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "releaseDate": "2024-08-16",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [43, 46, 50],
+        "spd": [12, 16, 19],
+        "def": [43, 47, 50],
+        "res": [37, 40, 44]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 7,
+        "spd": 3,
+        "def": 14,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 7
+  },
   "Sharena - Princess of Askr": {
     "id": "Sharena - Princess of Askr",
     "title": "亞斯克王國的公主",
@@ -32046,6 +32080,40 @@
     "ver": "8.4",
     "dfKey": 6
   },
+  "Robin - Exalt's Right Hand": {
+    "id": "Robin - Exalt's Right Hand",
+    "title": "聖王的心腹",
+    "name": "魯弗萊",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "releaseDate": "2024-08-16",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 45, 48],
+        "spd": [44, 47, 51],
+        "def": [26, 30, 33],
+        "res": [23, 26, 30]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 8,
+        "def": 8,
+        "res": 7
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 7
+  },
   "Lissa - Sprightly Cleric": {
     "id": "Lissa - Sprightly Cleric",
     "title": "活繃亂跳的修女",
@@ -44346,6 +44414,40 @@
     "ver": "7.3",
     "dfKey": 5
   },
+  "Bernadetta - Sheltered Loner": {
+    "id": "Bernadetta - Sheltered Loner",
+    "title": "深閨避世之人",
+    "name": "貝爾娜提塔",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-bow",
+    "releaseDate": "2024-08-16",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 45, 48],
+        "spd": [45, 48, 52],
+        "def": [21, 24, 28],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 9,
+        "def": 5,
+        "res": 6
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 7
+  },
   "Dorothea - Solar Songstress": {
     "id": "Dorothea - Solar Songstress",
     "title": "太陽的歌姬",
@@ -44895,6 +44997,40 @@
     "book": 7,
     "ver": "7.4",
     "dfKey": 5
+  },
+  "Felix - Sword Savant": {
+    "id": "Felix - Sword Savant",
+    "title": "法嘉斯的劍鬼",
+    "name": "菲力克斯",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2024-08-16",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 47, 50],
+        "spd": [45, 48, 52],
+        "def": [32, 35, 38],
+        "res": [25, 29, 32]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 9,
+        "def": 9,
+        "res": 7
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 7
   },
   "Ashe - Fabled Sea Knight": {
     "id": "Ashe - Fabled Sea Knight",
@@ -48869,6 +49005,41 @@
     "book": 7,
     "ver": "7.10",
     "dfKey": 6
+  },
+  "Panette - Classy Brawler": {
+    "id": "Panette - Classy Brawler",
+    "title": "吵架高手",
+    "name": "帕涅托涅",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2024-08-16",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [46, 49, 52],
+        "atk": [45, 48, 52],
+        "spd": [38, 41, 45],
+        "def": [32, 35, 38],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 9,
+        "spd": 11,
+        "def": 11,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": [],
+    "statMin": 197,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 7
   },
   "Anna - Twice the Anna": {
     "id": "Anna - Twice the Anna",

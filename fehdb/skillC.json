@@ -534,6 +534,14 @@
     "last": true,
     "icon": "skillC/Divine_Nectar"
   },
+  "Paranoia": {
+    "id": "Paranoia",
+    "name": "被害妄想",
+    "sp": 300,
+    "exclusive": ["Bernadetta - Sheltered Loner"],
+    "last": true,
+    "icon": "skillC/Paranoia"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -2256,6 +2264,15 @@
     "last": true,
     "icon": "skillC/Pulse_Up_Blades"
   },
+  "Creation Pulse": {
+    "id": "Creation Pulse",
+    "name": "開闢之躍動",
+    "sp": 300,
+    "prev": ["Time's Pulse 3"],
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillC/Creation_Pulse"
+  },
   "Infantry Pulse 1": {
     "id": "Infantry Pulse 1",
     "name": "步行之躍動1",
@@ -3397,6 +3414,24 @@
     "last": true,
     "icon": "skillC/Alarm_Def_Res"
   },
+  "Incite Atk/Spd": {
+    "id": "Incite Atk/Spd",
+    "name": "攻擊速度的奮激",
+    "sp": 300,
+    "prev": ["Rouse Atk/Spd 3"],
+    "rules": "learner.infantry-cavalry",
+    "last": true,
+    "icon": "skillC/Incite_Atk_Spd"
+  },
+  "Incite Atk/Res": {
+    "id": "Incite Atk/Res",
+    "name": "攻擊魔防的奮激",
+    "sp": 300,
+    "prev": ["Rouse Atk/Res 3"],
+    "rules": "learner.infantry-cavalry",
+    "last": true,
+    "icon": "skillC/Incite_Atk_Res"
+  },
   "Atk/Spd Oath 1": {
     "id": "Atk/Spd Oath 1",
     "name": "攻擊速度的信義1",
@@ -3595,24 +3630,6 @@
     "last": true,
     "icon": "skillC/Def_Res_Pledge"
   },
-  "Incite Atk/Spd": {
-    "id": "Incite Atk/Spd",
-    "name": "攻擊速度的奮激",
-    "sp": 300,
-    "prev": ["Rouse Atk/Spd 3"],
-    "rules": "learner.infantry-cavalry",
-    "last": true,
-    "icon": "skillC/Incite_Atk_Spd"
-  },
-  "Incite Atk/Res": {
-    "id": "Incite Atk/Res",
-    "name": "攻擊魔防的奮激",
-    "sp": 300,
-    "prev": ["Rouse Atk/Res 3"],
-    "rules": "learner.infantry-cavalry",
-    "last": true,
-    "icon": "skillC/Incite_Atk_Res"
-  },
   "Odd Tempest 1": {
     "id": "Odd Tempest 1",
     "name": "迅雷風烈・奇數1",
@@ -3660,6 +3677,15 @@
     "rules": "learner.tempest",
     "icon": "skillC/Even_Tempest_3",
     "last": true
+  },
+  "Endless Tempest": {
+    "id": "Endless Tempest",
+    "name": "迅雷風烈・無極",
+    "sp": 300,
+    "rules": "learner.tempest",
+    "prev": ["Odd Tempest 3", "Even Tempest 3"],
+    "last": true,
+    "icon": "skillC/Endless_Tempest"
   },
   "Assault Troop 1": {
     "id": "Assault Troop 1",

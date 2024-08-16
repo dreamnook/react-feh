@@ -5886,6 +5886,19 @@
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Armor": { "sp": 200, "rarity": 5 } }
   },
+  "Panette - Classy Brawler": {
+    "score": 254,
+    "scoreTotal": 678,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 1000,
+    "bst": 197,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
+  },
   "Kagero - Spring Ninja": {
     "score": 254,
     "scoreTotal": 678,
@@ -12936,6 +12949,19 @@
     "skillB": { "Close Call 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
+  "Alfonse - Heir to Openness": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Fortifications": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Reopening": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Breath of Life 4": { "sp": 300, "rarity": 5 } }
+  },
   "Marth - Of Beginnings": {
     "score": 300,
     "scoreTotal": 1100,
@@ -13036,6 +13062,30 @@
     "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
+  "Bernadetta - Sheltered Loner": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Curved Shot": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Assassin's Strike": { "sp": 300, "rarity": 5 } }
+  },
+  "Robin - Exalt's Right Hand": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Flare": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Creation Pulse": { "sp": 300, "rarity": 5 } }
+  },
   "Eirika - Resolute Princess": {
     "score": 500,
     "scoreTotal": 1100,
@@ -13072,6 +13122,18 @@
     "special": { "Godlike Reflexes": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Buffer 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Felix - Sword Savant": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Gust": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Endless Tempest": { "sp": 300, "rarity": 5 } }
   },
   "Corrin - Silent Bloodline": {
     "score": 500,

@@ -91,6 +91,37 @@
       "Bold Fighter 3": 5
     }
   },
+  "Alfonse - Heir to Openness": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Majestic Glitnir": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4,
+      "Makings of a King": 5
+    },
+    "skillA": {
+      "Fortress Def 1": 2,
+      "Fort. Def/Res 1": 3,
+      "Fort. Def/Res 2": 4,
+      "Fortifications": 5
+    },
+    "skillB": {
+      "Guard 1": 2,
+      "Guard 2": 3,
+      "Guard 3": 4,
+      "Reopening": 5
+    },
+    "skillC": {
+      "Breath of Life 1": 2,
+      "Breath of Life 2": 3,
+      "Breath of Life 3": 4,
+      "Breath of Life 4": 5
+    }
+  },
   "Sharena - Princess of Askr": {
     "weapon": {
       "Iron Lance": 1,
@@ -18329,6 +18360,34 @@
       "Inf. Null Follow 4": 5
     }
   },
+  "Robin - Exalt's Right Hand": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Exalt's Tactics": 5
+    },
+    "special": {
+      "Daylight": 4,
+      "Noontime": 4,
+      "Flare": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "According to Plan": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Creation Pulse": 5
+    }
+  },
   "Lissa - Sprightly Cleric": {
     "weapon": {
       "Assault": 1,
@@ -24976,6 +25035,34 @@
       "Def/Res Smoke 3": 5
     }
   },
+  "Bernadetta - Sheltered Loner": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "The Inexhaustible": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4,
+      "Curved Shot": 5
+    },
+    "skillA": {
+      "Atk/Spd Prime 1": 2,
+      "Atk/Spd Prime 2": 3,
+      "Atk/Spd Prime 3": 4,
+      "Atk/Spd Prime 4": 5
+    },
+    "skillB": {
+      "Poison Strike 1": 2,
+      "Poison Strike 2": 3,
+      "Poison Strike 3": 4,
+      "Assassin's Strike": 5
+    },
+    "skillC": {
+      "Paranoia": 5
+    }
+  },
   "Dorothea - Solar Songstress": {
     "weapon": {
       "Iron Dagger": 1,
@@ -25356,6 +25443,34 @@
       "Spd Smoke 2": 3,
       "Spd Smoke 3": 4,
       "Spd Smoke 4": 5
+    }
+  },
+  "Felix - Sword Savant": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "New Levin Sword": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Gust": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
+    },
+    "skillB": {
+      "Lone Wolf": 5
+    },
+    "skillC": {
+      "Odd Tempest 1": 2,
+      "Odd Tempest 2": 3,
+      "Odd Tempest 3": 4,
+      "Endless Tempest": 5
     }
   },
   "Ashe - Fabled Sea Knight": {
@@ -27751,6 +27866,28 @@
       "Time's Pulse 2": 3,
       "Time's Pulse 3": 4,
       "Time's Pulse 4": 5
+    }
+  },
+  "Panette - Classy Brawler": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Berserker Axe": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Fire Boost 1": 1,
+      "Fire Boost 2": 2,
+      "Fire Boost 3": 4
+    },
+    "skillC": {
+      "Panic Smoke 1": 3,
+      "Panic Smoke 2": 4,
+      "Panic Smoke 3": 5
     }
   },
   "Anna - Twice the Anna": {

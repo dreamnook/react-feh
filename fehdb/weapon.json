@@ -3354,6 +3354,16 @@
       "exclusive": ["Forde - Unfettered Knight"],
       "last": true
     },
+    "New Levin Sword": {
+      "id": "New Levin Sword",
+      "name": "千錘百鍊雷電劍",
+      "mt": 16,
+      "cd": -2,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Felix - Sword Savant"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -11340,6 +11350,26 @@
       "exclusive": ["Mia - Summer Slice"],
       "last": true
     },
+    "Berserker Axe": {
+      "id": "Berserker Axe",
+      "name": "狂戰士之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Panette - Classy Brawler"],
+      "last": true
+    },
+    "Majestic Glitnir": {
+      "id": "Majestic Glitnir",
+      "name": "王斧格利特尼爾",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Alfonse - Heir to Openness"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -14516,6 +14546,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Niðavellir - Founding King"],
+      "last": true
+    },
+    "The Inexhaustible": {
+      "id": "The Inexhaustible",
+      "name": "無盡之物",
+      "mt": 8,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Bernadetta - Sheltered Loner"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -26233,6 +26273,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Veyle - Fell Successor"],
+      "last": true
+    },
+    "Exalt's Tactics": {
+      "id": "Exalt's Tactics",
+      "name": "聖王的參謀之兵法書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Robin - Exalt's Right Hand"],
       "last": true
     },
     "Stone": {

@@ -3808,7 +3808,8 @@
             "Kris - Unknown Hero",
             "Osian - Scolded Soldier",
             "Anankos - Seething Silence",
-            "Soren - Radiant Confidant"
+            "Soren - Radiant Confidant",
+            "Robin - Exalt's Right Hand"
           ]
         },
         "mythic": { "5": ["Sothis - Girl on the Throne"] },
@@ -3832,7 +3833,9 @@
     },
     "Flare": {
       "pool": {
-        "#": { "5": ["Soren - Radiant Confidant"] },
+        "#": {
+          "5": ["Soren - Radiant Confidant", "Robin - Exalt's Right Hand"]
+        },
         "duo": { "5": ["Robin - Vessels of Fate"] }
       },
       "id": "Flare",
@@ -3929,7 +3932,8 @@
             "Laegjarn - Flame Ascendant",
             "Florina - Azure-Sky Knight",
             "Celica - Of Echoes",
-            "Sothe - Dawning Zephyr"
+            "Sothe - Dawning Zephyr",
+            "Bernadetta - Sheltered Loner"
           ]
         },
         "grail": { "4": ["Joshua - Tempest King", "Kyza - Tiger of Fortune"] },
@@ -3992,6 +3996,13 @@
       "name": "月虹",
       "sp": 200,
       "rules": "not.white-staff"
+    },
+    "Curved Shot": {
+      "pool": { "#": { "5": ["Bernadetta - Sheltered Loner"] } },
+      "id": "Curved Shot",
+      "name": "曲射",
+      "sp": 500,
+      "rules": "bow"
     },
     "Luna": {
       "pool": {
@@ -4196,6 +4207,7 @@
             "Tana - Soaring Princess",
             "Alcryst - Tender Archer",
             "Eirika - Resolute Princess",
+            "Felix - Sword Savant",
             "Shinon - Scathing Archer"
           ]
         },
@@ -4351,7 +4363,9 @@
       "rules": "learner.wielderInfantry"
     },
     "Gust": {
-      "pool": { "#": { "5": ["Eirika - Resolute Princess"] } },
+      "pool": {
+        "#": { "5": ["Eirika - Resolute Princess", "Felix - Sword Savant"] }
+      },
       "id": "Gust",
       "name": "陣風",
       "sp": 500,
@@ -4592,6 +4606,7 @@
         "special": {
           "5": [
             "Corrin - Novice Vacationer",
+            "Panette - Classy Brawler",
             "Nerþuz - Beach Chaperone",
             "Embla - Closed-Off Bride",
             "Ephraim - Sparkling Gallantly",
@@ -4670,6 +4685,7 @@
             "Gustav - Sovereign Slain",
             "Diamant - Rising Power",
             "Idunn - Divine Demon",
+            "Alfonse - Heir to Openness",
             "Gilliam - Wall of Silence",
             "Mozu - Tragic Start",
             "Amelia - Blossoming Talent",
@@ -5732,7 +5748,8 @@
           "5": [
             "Gatrie - Armored Amour",
             "Idunn - Dark Priestess",
-            "Kliff - Curious Spirit"
+            "Kliff - Curious Spirit",
+            "Alfonse - Heir to Openness"
           ]
         },
         "grail": {
@@ -5761,6 +5778,14 @@
       "name": "防守魔防堡壘3",
       "sp": 300,
       "icon": "skillA/Fort._Def_Res_3"
+    },
+    "Fortifications": {
+      "pool": { "#": { "5": ["Alfonse - Heir to Openness"] } },
+      "id": "Fortifications",
+      "name": "野戰築城",
+      "sp": 300,
+      "icon": "skillA/Fortifications",
+      "rules": "melee"
     },
     "Fury 3": {
       "pool": {
@@ -7343,7 +7368,11 @@
           "5": ["Lorenz - Highborn Heat", "Eliwood - Devoted Love"]
         },
         "special": {
-          "5": ["Geese - A Life at Sea", "Xander - Student Swimmer"]
+          "5": [
+            "Geese - A Life at Sea",
+            "Xander - Student Swimmer",
+            "Panette - Classy Brawler"
+          ]
         }
       },
       "id": "Fire Boost 3",
@@ -7902,7 +7931,7 @@
         "duo": { "5": ["Sothis - Bound-Spirit Duo"] }
       },
       "id": "Atk/Spd Solo 3",
-      "name": "攻擊速度的孤軍3",
+      "name": "攻擊速度孤軍3",
       "sp": 240,
       "icon": "skillA/Atk_Spd_Solo_3"
     },
@@ -7934,7 +7963,7 @@
         "duo": { "5": ["Sothis - Bound-Spirit Duo"] }
       },
       "id": "Atk/Spd Solo 4",
-      "name": "攻擊速度的孤軍4",
+      "name": "攻擊速度孤軍4",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Solo_4"
     },
@@ -7958,7 +7987,7 @@
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }
       },
       "id": "Atk/Def Solo 3",
-      "name": "攻擊防守的孤軍3",
+      "name": "攻擊防守孤軍3",
       "sp": 240,
       "icon": "skillA/Atk_Def_Solo_3"
     },
@@ -7975,7 +8004,7 @@
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }
       },
       "id": "Atk/Def Solo 4",
-      "name": "攻擊防守的孤軍4",
+      "name": "攻擊防守孤軍4",
       "sp": 300,
       "icon": "skillA/Atk_Def_Solo_4"
     },
@@ -8005,7 +8034,7 @@
         }
       },
       "id": "Atk/Res Solo 3",
-      "name": "攻擊魔防的孤軍3",
+      "name": "攻擊魔防孤軍3",
       "sp": 240,
       "icon": "skillA/Atk_Res_Solo_3"
     },
@@ -8027,7 +8056,7 @@
         }
       },
       "id": "Atk/Res Solo 4",
-      "name": "攻擊魔防的孤軍4",
+      "name": "攻擊魔防孤軍4",
       "sp": 300,
       "icon": "skillA/Atk_Res_Solo_4"
     },
@@ -8038,14 +8067,14 @@
         "special": { "5": ["Larcei - Scion of Astra"] }
       },
       "id": "Spd/Def Solo 3",
-      "name": "速度防守的孤軍3",
+      "name": "速度防守孤軍3",
       "sp": 240,
       "icon": "skillA/Spd_Def_Solo_3"
     },
     "Spd/Def Solo 4": {
       "pool": { "special": { "5": ["Larcei - Scion of Astra"] } },
       "id": "Spd/Def Solo 4",
-      "name": "速度防守的孤軍4",
+      "name": "速度防守孤軍4",
       "sp": 300,
       "icon": "skillA/Spd_Def_Solo_4"
     },
@@ -8058,14 +8087,14 @@
         "special": { "4": ["Vika - Sea-Dark Wing"] }
       },
       "id": "Spd/Res Solo 3",
-      "name": "速度魔防的孤軍3",
+      "name": "速度魔防孤軍3",
       "sp": 240,
       "icon": "skillA/Spd_Res_Solo_3"
     },
     "Spd/Res Solo 4": {
       "pool": { "#": { "5": ["Nyx - Rulebreaker Mage"] } },
       "id": "Spd/Res Solo 4",
-      "name": "速度魔防的孤軍4",
+      "name": "速度魔防孤軍4",
       "sp": 300,
       "icon": "skillA/Spd_Res_Solo_4"
     },
@@ -8076,14 +8105,14 @@
         "special": { "5": ["Xane - Desert Mirage"] }
       },
       "id": "Def/Res Solo 3",
-      "name": "防守魔防的孤軍3",
+      "name": "防守魔防孤軍3",
       "sp": 240,
       "icon": "skillA/Def_Res_Solo_3"
     },
     "Def/Res Solo 4": {
       "pool": { "#": { "5": ["Duessel - Obsidian"] } },
       "id": "Def/Res Solo 4",
-      "name": "防守魔防的孤軍4",
+      "name": "防守魔防孤軍4",
       "sp": 300,
       "icon": "skillA/Def_Res_Solo_4"
     },
@@ -8808,6 +8837,13 @@
       "icon": "skillA/Def_Res_Catch_4",
       "rules": "learner.cavalry-flying"
     },
+    "Atk/Spd Mastery": {
+      "pool": { "harmonized": { "5": ["Nephenee - Festival Harmony"] } },
+      "id": "Atk/Spd Mastery",
+      "name": "攻擊速度制空",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Mastery"
+    },
     "Atk/Spd Ideal 3": {
       "pool": {
         "#": {
@@ -9016,6 +9052,7 @@
             "Isadora - Escort of Pherae",
             "Triandra - Reverent Dream",
             "Lucina - Fate's Resolve",
+            "Felix - Sword Savant",
             "Chrom - Fell Exalt"
           ]
         },
@@ -9156,6 +9193,7 @@
             "Fir - Swordmaiden",
             "Sothe - Dawning Zephyr",
             "Marth - Of Beginnings",
+            "Robin - Exalt's Right Hand",
             "Severa - Secret Dreamer",
             "Felix - Lone-Wolf Blade"
           ]
@@ -9186,6 +9224,7 @@
             "Fir - Swordmaiden",
             "Sothe - Dawning Zephyr",
             "Marth - Of Beginnings",
+            "Robin - Exalt's Right Hand",
             "Severa - Secret Dreamer",
             "Felix - Lone-Wolf Blade"
           ]
@@ -9388,6 +9427,7 @@
     },
     "Atk/Spd Prime 3": {
       "pool": {
+        "#": { "5": ["Bernadetta - Sheltered Loner"] },
         "special": {
           "5": ["Claude - Golden Breeze", "Dimitri - Blessed Protector"]
         },
@@ -9401,6 +9441,7 @@
     },
     "Atk/Spd Prime 4": {
       "pool": {
+        "#": { "5": ["Bernadetta - Sheltered Loner"] },
         "special": {
           "5": ["Claude - Golden Breeze", "Dimitri - Blessed Protector"]
         },
@@ -9446,11 +9487,12 @@
     },
     "Atk/Spd Excel": {
       "pool": {
+        "#": { "5": ["Felix - Sword Savant"] },
         "special": { "5": ["Nerþuz - Beach Chaperone"] },
         "duo": { "5": ["Sharena - Pillars of Peace"] }
       },
       "id": "Atk/Spd Excel",
-      "name": "攻擊速度的突破",
+      "name": "攻擊速度突破",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Excel",
       "rules": "learner.infantry-cavalry-flying-melee"
@@ -9462,13 +9504,6 @@
       "sp": 300,
       "icon": "skillA/Atk_Def_Excel",
       "rules": "learner.infantry-cavalry-flying-melee"
-    },
-    "Atk/Spd Mastery": {
-      "pool": { "harmonized": { "5": ["Nephenee - Festival Harmony"] } },
-      "id": "Atk/Spd Mastery",
-      "name": "攻擊速度的制空",
-      "sp": 300,
-      "icon": "skillA/Atk_Spd_Mastery"
     }
   },
   "skillB": {
@@ -10073,7 +10108,8 @@
             "Matthew - Faithful Spy",
             "Saizo - Angry Ninja",
             "Kaze - Easygoing Ninja"
-          ]
+          ],
+          "5": ["Bernadetta - Sheltered Loner"]
         },
         "grail": { "4": ["Clarisse - Sniper in the Dark"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
@@ -10088,7 +10124,10 @@
       "rules": "not.white-staff"
     },
     "Assassin's Strike": {
-      "pool": { "special": { "5": ["Yunaka - Spirited Envoy"] } },
+      "pool": {
+        "#": { "5": ["Bernadetta - Sheltered Loner"] },
+        "special": { "5": ["Yunaka - Spirited Envoy"] }
+      },
       "id": "Assassin's Strike",
       "name": "理之蛇毒",
       "sp": 300,
@@ -10521,6 +10560,28 @@
       "sp": 300,
       "icon": "skillB/Chill_Def_Res_3"
     },
+    "Odd Pulse Tie 3": {
+      "pool": {
+        "#": { "5": ["Ninian - Frozen Heart"] },
+        "special": { "5": ["Oboro - Fierce Bride-to-Be"] }
+      },
+      "id": "Odd Pulse Tie 3",
+      "name": "鼓動的封緘・奇數3",
+      "sp": 240,
+      "icon": "skillB/Odd_Pulse_Tie_3",
+      "rules": "learner.infantry-cavalry"
+    },
+    "Even Pulse Tie 3": {
+      "pool": {
+        "#": { "5": ["Nils - Bright Bard"] },
+        "special": { "5": ["Kurthnaga - Autumn Goldoan"] }
+      },
+      "id": "Even Pulse Tie 3",
+      "name": "鼓動的封緘・偶數3",
+      "sp": 240,
+      "icon": "skillB/Even_Pulse_Tie_3",
+      "rules": "learner.infantry-cavalry"
+    },
     "Sabotage Atk 3": {
       "pool": {
         "#": { "5": ["Selkie - Free Spirit"] },
@@ -10791,7 +10852,8 @@
           "5": [
             "Micaiah - Priestess of Dawn",
             "Morgan - Lass from Afar",
-            "Helbindi - Savage Scourge"
+            "Helbindi - Savage Scourge",
+            "Alfonse - Heir to Openness"
           ]
         },
         "grail": {
@@ -10820,6 +10882,14 @@
       "name": "取消4",
       "sp": 300,
       "icon": "skillB/Guard_4"
+    },
+    "Reopening": {
+      "pool": { "#": { "5": ["Alfonse - Heir to Openness"] } },
+      "id": "Reopening",
+      "name": "煥然一新",
+      "sp": 300,
+      "icon": "skillB/Reopening",
+      "rules": "melee"
     },
     "Wrathful Staff 3": {
       "pool": {
@@ -12161,28 +12231,6 @@
       "icon": "skillB/Dragon's_Wrath_4",
       "rules": "dragon"
     },
-    "Even Pulse Tie 3": {
-      "pool": {
-        "#": { "5": ["Nils - Bright Bard"] },
-        "special": { "5": ["Kurthnaga - Autumn Goldoan"] }
-      },
-      "id": "Even Pulse Tie 3",
-      "name": "鼓動的封緘・偶數3",
-      "sp": 240,
-      "icon": "skillB/Even_Pulse_Tie_3",
-      "rules": "learner.infantry-cavalry"
-    },
-    "Odd Pulse Tie 3": {
-      "pool": {
-        "#": { "5": ["Ninian - Frozen Heart"] },
-        "special": { "5": ["Oboro - Fierce Bride-to-Be"] }
-      },
-      "id": "Odd Pulse Tie 3",
-      "name": "鼓動的封緘・奇數3",
-      "sp": 240,
-      "icon": "skillB/Odd_Pulse_Tie_3",
-      "rules": "learner.infantry-cavalry"
-    },
     "A/S Near Trace 3": {
       "pool": { "#": { "5": ["Hardin - The Coyote"] } },
       "id": "A/S Near Trace 3",
@@ -12813,6 +12861,7 @@
           "5": [
             "Julia - Naga's Blood",
             "Tiki - Dragon Scion",
+            "Alfonse - Heir to Openness",
             "Edward - Blade of Justice"
           ]
         },
@@ -12824,7 +12873,11 @@
       "icon": "skillC/Breath_of_Life_3"
     },
     "Breath of Life 4": {
-      "pool": { "#": { "5": ["Edward - Blade of Justice"] } },
+      "pool": {
+        "#": {
+          "5": ["Alfonse - Heir to Openness", "Edward - Blade of Justice"]
+        }
+      },
       "id": "Breath of Life 4",
       "name": "生命氣息4",
       "sp": 300,
@@ -14614,6 +14667,7 @@
         },
         "special": {
           "5": [
+            "Panette - Classy Brawler",
             "Ursula - Royal-Blue Crow",
             "Lapis - Mighty Bride",
             "Dimitri - Blessed Protector"
@@ -14712,6 +14766,7 @@
             "Diamant - Rising Power",
             "Byleth - Vengeance Vessel",
             "Soren - Radiant Confidant",
+            "Robin - Exalt's Right Hand",
             "Eirika - Resolute Princess",
             "Shinon - Scathing Archer",
             "Volke - Man of Mysteries"
@@ -14775,6 +14830,14 @@
       "name": "鍛鍊之躍動・刃",
       "sp": 300,
       "icon": "skillC/Pulse_Up_Blades",
+      "rules": "infantry"
+    },
+    "Creation Pulse": {
+      "pool": { "#": { "5": ["Robin - Exalt's Right Hand"] } },
+      "id": "Creation Pulse",
+      "name": "開闢之躍動",
+      "sp": 300,
+      "icon": "skillC/Creation_Pulse",
       "rules": "infantry"
     },
     "Infantry Pulse 3": {
@@ -15711,6 +15774,25 @@
       "icon": "skillC/Alarm_Def_Res",
       "rules": "learner.cavalry-melee"
     },
+    "Incite Atk/Spd": {
+      "pool": {
+        "#": { "5": ["Merric - Wind Pontifex"] },
+        "mythic": { "5": ["Kvasir - Seer of the Past"] }
+      },
+      "id": "Incite Atk/Spd",
+      "name": "攻擊速度的奮激",
+      "sp": 300,
+      "icon": "skillC/Incite_Atk_Spd",
+      "rules": "learner.infantry-cavalry"
+    },
+    "Incite Atk/Res": {
+      "pool": { "duo": { "5": ["Lyon - Esteemed Royals"] } },
+      "id": "Incite Atk/Res",
+      "name": "攻擊魔防的奮激",
+      "sp": 300,
+      "icon": "skillC/Incite_Atk_Res",
+      "rules": "learner.infantry-cavalry"
+    },
     "Atk/Spd Oath 3": {
       "pool": {
         "#": {
@@ -15900,28 +15982,9 @@
       "icon": "skillC/Def_Res_Pledge",
       "rules": "infantry"
     },
-    "Incite Atk/Spd": {
-      "pool": {
-        "#": { "5": ["Merric - Wind Pontifex"] },
-        "mythic": { "5": ["Kvasir - Seer of the Past"] }
-      },
-      "id": "Incite Atk/Spd",
-      "name": "攻擊速度的奮激",
-      "sp": 300,
-      "icon": "skillC/Incite_Atk_Spd",
-      "rules": "learner.infantry-cavalry"
-    },
-    "Incite Atk/Res": {
-      "pool": { "duo": { "5": ["Lyon - Esteemed Royals"] } },
-      "id": "Incite Atk/Res",
-      "name": "攻擊魔防的奮激",
-      "sp": 300,
-      "icon": "skillC/Incite_Atk_Res",
-      "rules": "learner.infantry-cavalry"
-    },
     "Odd Tempest 3": {
       "pool": {
-        "#": { "5": ["Dimitri - Savage Boar"] },
+        "#": { "5": ["Dimitri - Savage Boar", "Felix - Sword Savant"] },
         "legendary": { "5": ["Dimitri - Savior King"] },
         "special": {
           "5": [
@@ -15952,6 +16015,14 @@
       "name": "迅雷風烈・偶數3",
       "sp": 240,
       "icon": "skillC/Even_Tempest_3",
+      "rules": "learner.tempest"
+    },
+    "Endless Tempest": {
+      "pool": { "#": { "5": ["Felix - Sword Savant"] } },
+      "id": "Endless Tempest",
+      "name": "迅雷風烈・無極",
+      "sp": 300,
+      "icon": "skillC/Endless_Tempest",
       "rules": "learner.tempest"
     },
     "Assault Troop 3": {

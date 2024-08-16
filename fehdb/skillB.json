@@ -653,6 +653,22 @@
     "last": true,
     "icon": "skillB/Divine_Strength"
   },
+  "According to Plan": {
+    "id": "According to Plan",
+    "name": "正如我所料!",
+    "sp": 300,
+    "exclusive": ["Robin - Exalt's Right Hand"],
+    "last": true,
+    "icon": "skillB/According_to_Plan"
+  },
+  "Lone Wolf": {
+    "id": "Lone Wolf",
+    "name": "獨行俠",
+    "sp": 300,
+    "exclusive": ["Felix - Sword Savant"],
+    "last": true,
+    "icon": "skillB/Lone_Wolf"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -1779,6 +1795,54 @@
     "icon": "skillB/Chill_Def_Res_3",
     "last": true
   },
+  "Odd Pulse Tie 1": {
+    "id": "Odd Pulse Tie 1",
+    "name": "鼓動的封緘・奇數1",
+    "sp": 60,
+    "rules": "learner.infantry-cavalry",
+    "icon": "skillB/Odd_Pulse_Tie_1"
+  },
+  "Odd Pulse Tie 2": {
+    "id": "Odd Pulse Tie 2",
+    "name": "鼓動的封緘・奇數2",
+    "sp": 120,
+    "prev": ["Odd Pulse Tie 1"],
+    "rules": "learner.infantry-cavalry",
+    "icon": "skillB/Odd_Pulse_Tie_2"
+  },
+  "Odd Pulse Tie 3": {
+    "id": "Odd Pulse Tie 3",
+    "name": "鼓動的封緘・奇數3",
+    "sp": 240,
+    "prev": ["Odd Pulse Tie 2"],
+    "rules": "learner.infantry-cavalry",
+    "icon": "skillB/Odd_Pulse_Tie_3",
+    "last": true
+  },
+  "Even Pulse Tie 1": {
+    "id": "Even Pulse Tie 1",
+    "name": "鼓動的封緘・偶數1",
+    "sp": 60,
+    "rules": "learner.infantry-cavalry",
+    "icon": "skillB/Even_Pulse_Tie_1"
+  },
+  "Even Pulse Tie 2": {
+    "id": "Even Pulse Tie 2",
+    "name": "鼓動的封緘・偶數2",
+    "sp": 120,
+    "prev": ["Even Pulse Tie 1"],
+    "rules": "learner.infantry-cavalry",
+    "icon": "skillB/Even_Pulse_Tie_2"
+  },
+  "Even Pulse Tie 3": {
+    "id": "Even Pulse Tie 3",
+    "name": "鼓動的封緘・偶數3",
+    "sp": 240,
+    "prev": ["Even Pulse Tie 2"],
+    "rules": "learner.infantry-cavalry",
+    "icon": "skillB/Even_Pulse_Tie_3",
+    "last": true
+  },
   "Sabotage Atk 1": {
     "id": "Sabotage Atk 1",
     "name": "攻擊擾亂1",
@@ -2211,6 +2275,15 @@
     "prev": ["Guard 3"],
     "icon": "skillB/Guard_4",
     "last": true
+  },
+  "Reopening": {
+    "id": "Reopening",
+    "name": "煥然一新",
+    "sp": 300,
+    "rules": "melee",
+    "prev": ["Guard 3"],
+    "last": true,
+    "icon": "skillB/Reopening"
   },
   "Wrathful Staff 1": {
     "id": "Wrathful Staff 1",
@@ -4033,54 +4106,6 @@
     "prev": ["Dragon's Wrath 3"],
     "rules": "dragon",
     "icon": "skillB/Dragon's_Wrath_4",
-    "last": true
-  },
-  "Even Pulse Tie 1": {
-    "id": "Even Pulse Tie 1",
-    "name": "鼓動的封緘・偶數1",
-    "sp": 60,
-    "rules": "learner.infantry-cavalry",
-    "icon": "skillB/Even_Pulse_Tie_1"
-  },
-  "Even Pulse Tie 2": {
-    "id": "Even Pulse Tie 2",
-    "name": "鼓動的封緘・偶數2",
-    "sp": 120,
-    "prev": ["Even Pulse Tie 1"],
-    "rules": "learner.infantry-cavalry",
-    "icon": "skillB/Even_Pulse_Tie_2"
-  },
-  "Even Pulse Tie 3": {
-    "id": "Even Pulse Tie 3",
-    "name": "鼓動的封緘・偶數3",
-    "sp": 240,
-    "prev": ["Even Pulse Tie 2"],
-    "rules": "learner.infantry-cavalry",
-    "icon": "skillB/Even_Pulse_Tie_3",
-    "last": true
-  },
-  "Odd Pulse Tie 1": {
-    "id": "Odd Pulse Tie 1",
-    "name": "鼓動的封緘・奇數1",
-    "sp": 60,
-    "rules": "learner.infantry-cavalry",
-    "icon": "skillB/Odd_Pulse_Tie_1"
-  },
-  "Odd Pulse Tie 2": {
-    "id": "Odd Pulse Tie 2",
-    "name": "鼓動的封緘・奇數2",
-    "sp": 120,
-    "prev": ["Odd Pulse Tie 1"],
-    "rules": "learner.infantry-cavalry",
-    "icon": "skillB/Odd_Pulse_Tie_2"
-  },
-  "Odd Pulse Tie 3": {
-    "id": "Odd Pulse Tie 3",
-    "name": "鼓動的封緘・奇數3",
-    "sp": 240,
-    "prev": ["Odd Pulse Tie 2"],
-    "rules": "learner.infantry-cavalry",
-    "icon": "skillB/Odd_Pulse_Tie_3",
     "last": true
   },
   "A/S Near Trace 1": {

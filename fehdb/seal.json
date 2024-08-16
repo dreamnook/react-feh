@@ -1475,20 +1475,20 @@
     },
     "Atk/Spd Solo 1": {
       "id": "Atk/Spd Solo 1",
-      "name": "攻擊速度的孤軍1",
+      "name": "攻擊速度孤軍1",
       "sp": 60,
       "icon": "skillA/Atk_Spd_Solo_1"
     },
     "Atk/Spd Solo 2": {
       "id": "Atk/Spd Solo 2",
-      "name": "攻擊速度的孤軍2",
+      "name": "攻擊速度孤軍2",
       "sp": 120,
       "prev": ["Atk/Spd Solo 1"],
       "icon": "skillA/Atk_Spd_Solo_2"
     },
     "Atk/Spd Solo 3": {
       "id": "Atk/Spd Solo 3",
-      "name": "攻擊速度的孤軍3",
+      "name": "攻擊速度孤軍3",
       "sp": 240,
       "prev": ["Atk/Spd Solo 2"],
       "icon": "skillA/Atk_Spd_Solo_3",
@@ -1496,20 +1496,20 @@
     },
     "Atk/Def Solo 1": {
       "id": "Atk/Def Solo 1",
-      "name": "攻擊防守的孤軍1",
+      "name": "攻擊防守孤軍1",
       "sp": 60,
       "icon": "skillA/Atk_Def_Solo_1"
     },
     "Atk/Def Solo 2": {
       "id": "Atk/Def Solo 2",
-      "name": "攻擊防守的孤軍2",
+      "name": "攻擊防守孤軍2",
       "sp": 120,
       "prev": ["Atk/Def Solo 1"],
       "icon": "skillA/Atk_Def_Solo_2"
     },
     "Atk/Def Solo 3": {
       "id": "Atk/Def Solo 3",
-      "name": "攻擊防守的孤軍3",
+      "name": "攻擊防守孤軍3",
       "sp": 240,
       "prev": ["Atk/Def Solo 2"],
       "icon": "skillA/Atk_Def_Solo_3",
@@ -1517,20 +1517,20 @@
     },
     "Atk/Res Solo 1": {
       "id": "Atk/Res Solo 1",
-      "name": "攻擊魔防的孤軍1",
+      "name": "攻擊魔防孤軍1",
       "sp": 60,
       "icon": "skillA/Atk_Res_Solo_1"
     },
     "Atk/Res Solo 2": {
       "id": "Atk/Res Solo 2",
-      "name": "攻擊魔防的孤軍2",
+      "name": "攻擊魔防孤軍2",
       "sp": 120,
       "prev": ["Atk/Res Solo 1"],
       "icon": "skillA/Atk_Res_Solo_2"
     },
     "Atk/Res Solo 3": {
       "id": "Atk/Res Solo 3",
-      "name": "攻擊魔防的孤軍3",
+      "name": "攻擊魔防孤軍3",
       "sp": 240,
       "prev": ["Atk/Res Solo 2"],
       "icon": "skillA/Atk_Res_Solo_3",
@@ -1538,20 +1538,20 @@
     },
     "Spd/Def Solo 1": {
       "id": "Spd/Def Solo 1",
-      "name": "速度防守的孤軍1",
+      "name": "速度防守孤軍1",
       "sp": 60,
       "icon": "skillA/Spd_Def_Solo_1"
     },
     "Spd/Def Solo 2": {
       "id": "Spd/Def Solo 2",
-      "name": "速度防守的孤軍2",
+      "name": "速度防守孤軍2",
       "sp": 120,
       "prev": ["Spd/Def Solo 1"],
       "icon": "skillA/Spd_Def_Solo_2"
     },
     "Spd/Def Solo 3": {
       "id": "Spd/Def Solo 3",
-      "name": "速度防守的孤軍3",
+      "name": "速度防守孤軍3",
       "sp": 240,
       "prev": ["Spd/Def Solo 2"],
       "icon": "skillA/Spd_Def_Solo_3",
@@ -1559,20 +1559,20 @@
     },
     "Spd/Res Solo 1": {
       "id": "Spd/Res Solo 1",
-      "name": "速度魔防的孤軍1",
+      "name": "速度魔防孤軍1",
       "sp": 60,
       "icon": "skillA/Spd_Res_Solo_1"
     },
     "Spd/Res Solo 2": {
       "id": "Spd/Res Solo 2",
-      "name": "速度魔防的孤軍2",
+      "name": "速度魔防孤軍2",
       "sp": 120,
       "prev": ["Spd/Res Solo 1"],
       "icon": "skillA/Spd_Res_Solo_2"
     },
     "Spd/Res Solo 3": {
       "id": "Spd/Res Solo 3",
-      "name": "速度魔防的孤軍3",
+      "name": "速度魔防孤軍3",
       "sp": 240,
       "prev": ["Spd/Res Solo 2"],
       "icon": "skillA/Spd_Res_Solo_3",
@@ -1580,20 +1580,20 @@
     },
     "Def/Res Solo 1": {
       "id": "Def/Res Solo 1",
-      "name": "防守魔防的孤軍1",
+      "name": "防守魔防孤軍1",
       "sp": 60,
       "icon": "skillA/Def_Res_Solo_1"
     },
     "Def/Res Solo 2": {
       "id": "Def/Res Solo 2",
-      "name": "防守魔防的孤軍2",
+      "name": "防守魔防孤軍2",
       "sp": 120,
       "prev": ["Def/Res Solo 1"],
       "icon": "skillA/Def_Res_Solo_2"
     },
     "Def/Res Solo 3": {
       "id": "Def/Res Solo 3",
-      "name": "防守魔防的孤軍3",
+      "name": "防守魔防孤軍3",
       "sp": 240,
       "prev": ["Def/Res Solo 2"],
       "icon": "skillA/Def_Res_Solo_3",

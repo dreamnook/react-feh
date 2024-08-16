@@ -494,6 +494,14 @@
     "exclusive": ["Alear - Seaside Dragon"],
     "last": true
   },
+  "Makings of a King": {
+    "id": "Makings of a King",
+    "name": "王器",
+    "sp": 500,
+    "prev": ["Bonfire"],
+    "exclusive": ["Alfonse - Heir to Openness"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -542,6 +550,15 @@
     "sp": 200,
     "rules": "not.white-staff",
     "prev": ["New Moon"],
+    "last": true
+  },
+  "Curved Shot": {
+    "id": "Curved Shot",
+    "name": "曲射",
+    "cd": 2,
+    "sp": 500,
+    "rules": "bow",
+    "prev": ["Moonbow"],
     "last": true
   },
   "Luna": {
