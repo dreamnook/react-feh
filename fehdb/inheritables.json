@@ -2527,7 +2527,7 @@
       "Juicy Bucketful+": {
         "pool": { "special": { "5": ["Leo - Festival Bonds"] } },
         "id": "Juicy Bucketful+",
-        "name": "夏野菜之桶+",
+        "name": "夏季蔬菜的木水盆+",
         "sp": 300,
         "refine": 350
       }
@@ -4978,10 +4978,13 @@
           ]
         },
         "special": {
-          "4": ["Ilyana - Awakened Appetite", "Vika - Sea-Dark Wing"],
+          "4": [
+            "Leo - Festival Bonds",
+            "Ilyana - Awakened Appetite",
+            "Vika - Sea-Dark Wing"
+          ],
           "5": [
             "Sakura - Gentle Nekomata",
-            "Leo - Festival Bonds",
             "Zephiel - Winter's Crown",
             "Felicia - Off the Menu"
           ]
@@ -5916,11 +5919,8 @@
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
         "special": {
-          "5": [
-            "Leo - Festival Bonds",
-            "Ivy - Tidal Breeze",
-            "Lilina - Beaming Bride"
-          ]
+          "4": ["Leo - Festival Bonds"],
+          "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"]
         },
         "duo": { "5": ["Thórr - Sun-Kissed Gods"] }
       },

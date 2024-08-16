@@ -2103,6 +2103,30 @@
       "icon": "skillA/Def_Res_Ideal_3",
       "last": true
     },
+    "Atk/Spd Clash 1": {
+      "id": "Atk/Spd Clash 1",
+      "name": "攻擊速度的激戰1",
+      "sp": 60,
+      "rules": "learner.infantry-cavalry-flying-melee",
+      "icon": "skillA/Atk_Spd_Clash_1"
+    },
+    "Atk/Spd Clash 2": {
+      "id": "Atk/Spd Clash 2",
+      "name": "攻擊速度的激戰2",
+      "sp": 120,
+      "prev": ["Atk/Spd Clash 1"],
+      "rules": "learner.infantry-cavalry-flying-melee",
+      "icon": "skillA/Atk_Spd_Clash_2"
+    },
+    "Atk/Spd Clash 3": {
+      "id": "Atk/Spd Clash 3",
+      "name": "攻擊速度的激戰3",
+      "sp": 240,
+      "prev": ["Atk/Spd Clash 2"],
+      "rules": "learner.infantry-cavalry-flying-melee",
+      "icon": "skillA/Atk_Spd_Clash_3",
+      "last": true
+    },
     "Atk/Def Clash 1": {
       "id": "Atk/Def Clash 1",
       "name": "攻擊防守的激戰1",
@@ -2910,6 +2934,30 @@
       "prev": ["Dragon's Wrath 2"],
       "rules": "dragon",
       "icon": "skillB/Dragon's_Wrath_3",
+      "last": true
+    },
+    "Spd/Def Tempo 1": {
+      "id": "Spd/Def Tempo 1",
+      "name": "速度防守節拍1",
+      "sp": 60,
+      "rules": "infantry",
+      "icon": "skillB/Spd_Def_Tempo_1"
+    },
+    "Spd/Def Tempo 2": {
+      "id": "Spd/Def Tempo 2",
+      "name": "速度防守節拍2",
+      "sp": 120,
+      "prev": ["Spd/Def Tempo 1"],
+      "rules": "infantry",
+      "icon": "skillB/Spd_Def_Tempo_2"
+    },
+    "Spd/Def Tempo 3": {
+      "id": "Spd/Def Tempo 3",
+      "name": "速度防守節拍3",
+      "sp": 240,
+      "prev": ["Spd/Def Tempo 2"],
+      "rules": "infantry",
+      "icon": "skillB/Spd_Def_Tempo_3",
       "last": true
     }
   },

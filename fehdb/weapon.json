@@ -7564,7 +7564,7 @@
     },
     "Breezy Spear": {
       "id": "Breezy Spear",
-      "name": "清風明月夏季之槍",
+      "name": "清風明月的夏季之槍",
       "mt": 16,
       "atk": 3,
       "sp": 400,
@@ -11332,7 +11332,7 @@
     },
     "Summertime Axe": {
       "id": "Summertime Axe",
-      "name": "意氣軒昂夏季之槍",
+      "name": "意氣軒昂的夏季之斧",
       "mt": 16,
       "cd": -1,
       "sp": 400,
@@ -20832,7 +20832,7 @@
     },
     "Fluttering Fan": {
       "id": "Fluttering Fan",
-      "name": "認生緣分之祭器",
+      "name": "怕生之緣分的祭器",
       "mt": 14,
       "cd": -1,
       "sp": 400,
@@ -26356,14 +26356,14 @@
     },
     "Juicy Bucketful": {
       "id": "Juicy Bucketful",
-      "name": "夏野菜之桶",
+      "name": "夏季蔬菜的木水盆",
       "mt": 8,
       "sp": 200,
       "prev": ["Atlas"]
     },
     "Juicy Bucketful+": {
       "id": "Juicy Bucketful+",
-      "name": "夏野菜之桶+",
+      "name": "夏季蔬菜的木水盆+",
       "mt": 12,
       "sp": 300,
       "prev": ["Juicy Bucketful"],

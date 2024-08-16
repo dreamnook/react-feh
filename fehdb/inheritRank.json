@@ -2584,6 +2584,19 @@
     "skillA": { "Defiant Atk 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 5 } }
   },
+  "Leo - Festival Bonds": {
+    "score": 163,
+    "scoreTotal": 403,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 300,
+    "bst": 174,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Still Water 3": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Fatal Smoke 3": { "sp": 240, "rarity": 5 } }
+  },
   "Maria - Ritual Sacrifice": {
     "score": 125,
     "scoreTotal": 410,
@@ -5859,19 +5872,6 @@
     "special": { "Noontime": { "sp": 200, "rarity": 5 } },
     "skillB": { "Dragon's Ire 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Goad Dragons": { "sp": 200, "rarity": 5 } }
-  },
-  "Leo - Festival Bonds": {
-    "score": 254,
-    "scoreTotal": 678,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 1000,
-    "bst": 174,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Still Water 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Fatal Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Lissa - Pure Joy": {
     "score": 254,

@@ -40851,7 +40851,7 @@
     "id": "Leo - Festival Bonds",
     "title": "維繫情誼的祭典",
     "name": "里昂",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "moveType": "cavalry",
     "weaponType": "white-tome",
@@ -40859,12 +40859,26 @@
     "releaseDate": "2024-08-07",
     "appearsIn": ["Fates"],
     "stats": {
+      "4": {
+        "hp": [31, 34, 37],
+        "atk": [40, 43, 46],
+        "spd": [23, 26, 29],
+        "def": [13, 16, 19],
+        "res": [40, 44, 47]
+      },
       "5": {
         "hp": [33, 37, 40],
         "atk": [43, 46, 50],
         "spd": [24, 27, 31],
         "def": [14, 18, 21],
         "res": [42, 46, 49]
+      },
+      "4-1": {
+        "hp": 14,
+        "atk": 6,
+        "spd": 8,
+        "def": 4,
+        "res": 13
       },
       "5-1": {
         "hp": 15,
