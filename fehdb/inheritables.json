@@ -4567,6 +4567,7 @@
             "Castor - Loving Son",
             "Linus - Savage Dog",
             "Jarod - Nevassa General",
+            "Panette - Classy Brawler",
             "Aversa - Dark One",
             "Caellach - Tiger Eye",
             "Nemesis - King of Liberation",
@@ -4606,7 +4607,6 @@
         "special": {
           "5": [
             "Corrin - Novice Vacationer",
-            "Panette - Classy Brawler",
             "Nerþuz - Beach Chaperone",
             "Embla - Closed-Off Bride",
             "Ephraim - Sparkling Gallantly",
@@ -7364,15 +7364,11 @@
       "pool": {
         "#": { "3": ["Ross - His Father's Son"], "5": ["Luke - Rowdy Squire"] },
         "grail": {
-          "4": ["Boyd - Future Great"],
+          "4": ["Boyd - Future Great", "Panette - Classy Brawler"],
           "5": ["Lorenz - Highborn Heat", "Eliwood - Devoted Love"]
         },
         "special": {
-          "5": [
-            "Geese - A Life at Sea",
-            "Xander - Student Swimmer",
-            "Panette - Classy Brawler"
-          ]
+          "5": ["Geese - A Life at Sea", "Xander - Student Swimmer"]
         }
       },
       "id": "Fire Boost 3",
@@ -14656,7 +14652,7 @@
             "Wolf - Coyote's Loyal"
           ]
         },
-        "grail": { "5": ["Linus - Savage Dog"] },
+        "grail": { "5": ["Linus - Savage Dog", "Panette - Classy Brawler"] },
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "mythic": {
           "5": [
@@ -14667,7 +14663,6 @@
         },
         "special": {
           "5": [
-            "Panette - Classy Brawler",
             "Ursula - Royal-Blue Crow",
             "Lapis - Mighty Bride",
             "Dimitri - Blessed Protector"

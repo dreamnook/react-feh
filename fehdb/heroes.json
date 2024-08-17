@@ -49010,20 +49010,48 @@
     "id": "Panette - Classy Brawler",
     "title": "吵架高手",
     "name": "帕涅托涅",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-axe",
-    "pool": "special",
-    "releaseDate": "2024-08-16",
+    "pool": "grail",
+    "releaseDate": "2024-08-17",
     "appearsIn": ["Engage"],
     "stats": {
+      "3": {
+        "hp": [42, 45, 48],
+        "atk": [40, 43, 46],
+        "spd": [34, 37, 40],
+        "def": [28, 31, 34],
+        "res": [18, 21, 24]
+      },
+      "4": {
+        "hp": [43, 46, 49],
+        "atk": [42, 45, 48],
+        "spd": [36, 39, 43],
+        "def": [30, 33, 36],
+        "res": [19, 22, 25]
+      },
       "5": {
         "hp": [46, 49, 52],
         "atk": [45, 48, 52],
         "spd": [38, 41, 45],
         "def": [32, 35, 38],
         "res": [21, 24, 28]
+      },
+      "3-1": {
+        "hp": 20,
+        "atk": 8,
+        "spd": 10,
+        "def": 10,
+        "res": 4
+      },
+      "4-1": {
+        "hp": 20,
+        "atk": 8,
+        "spd": 11,
+        "def": 11,
+        "res": 4
       },
       "5-1": {
         "hp": 21,

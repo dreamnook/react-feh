@@ -5886,19 +5886,6 @@
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Armor": { "sp": 200, "rarity": 5 } }
   },
-  "Panette - Classy Brawler": {
-    "score": 254,
-    "scoreTotal": 678,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 1000,
-    "bst": 197,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
-  },
   "Kagero - Spring Ninja": {
     "score": 254,
     "scoreTotal": 678,
@@ -6737,6 +6724,19 @@
     "special": { "Vengeance": { "sp": 200, "rarity": 4 } },
     "skillB": { "Sudden Panic 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Threat. Spd/Def 2": { "sp": 200, "rarity": 4 } }
+  },
+  "Panette - Classy Brawler": {
+    "score": 269,
+    "scoreTotal": 693,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 197,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
   },
   "Takumi - Wild Card": {
     "score": 300,
