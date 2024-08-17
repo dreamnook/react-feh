@@ -2463,7 +2463,7 @@
     "id": "Armored Stride 1",
     "name": "重裝備游擊1",
     "sp": 60,
-    "rules": "learner.armored-stride",
+    "rules": "learner.armored-melee-def-dmger",
     "icon": "skillC/Armored_Stride_1"
   },
   "Armored Stride 2": {
@@ -2471,7 +2471,7 @@
     "name": "重裝備游擊2",
     "sp": 120,
     "prev": ["Armored Stride 1"],
-    "rules": "learner.armored-stride",
+    "rules": "learner.armored-melee-def-dmger",
     "icon": "skillC/Armored_Stride_2"
   },
   "Armored Stride 3": {
@@ -2479,7 +2479,7 @@
     "name": "重裝備游擊3",
     "sp": 240,
     "prev": ["Armored Stride 2"],
-    "rules": "learner.armored-stride",
+    "rules": "learner.armored-melee-def-dmger",
     "icon": "skillC/Armored_Stride_3",
     "last": true
   },
@@ -3634,7 +3634,7 @@
     "id": "Odd Tempest 1",
     "name": "迅雷風烈・奇數1",
     "sp": 60,
-    "rules": "learner.tempest",
+    "rules": "learner.infantry-flying-melee",
     "icon": "skillC/Odd_Tempest_1"
   },
   "Odd Tempest 2": {
@@ -3642,7 +3642,7 @@
     "name": "迅雷風烈・奇數2",
     "sp": 120,
     "prev": ["Odd Tempest 1"],
-    "rules": "learner.tempest",
+    "rules": "learner.infantry-flying-melee",
     "icon": "skillC/Odd_Tempest_2"
   },
   "Odd Tempest 3": {
@@ -3650,7 +3650,7 @@
     "name": "迅雷風烈・奇數3",
     "sp": 240,
     "prev": ["Odd Tempest 2"],
-    "rules": "learner.tempest",
+    "rules": "learner.infantry-flying-melee",
     "icon": "skillC/Odd_Tempest_3",
     "last": true
   },
@@ -3658,7 +3658,7 @@
     "id": "Even Tempest 1",
     "name": "迅雷風烈・偶數1",
     "sp": 60,
-    "rules": "learner.tempest",
+    "rules": "learner.infantry-flying-melee",
     "icon": "skillC/Even_Tempest_1"
   },
   "Even Tempest 2": {
@@ -3666,7 +3666,7 @@
     "name": "迅雷風烈・偶數2",
     "sp": 120,
     "prev": ["Even Tempest 1"],
-    "rules": "learner.tempest",
+    "rules": "learner.infantry-flying-melee",
     "icon": "skillC/Even_Tempest_2"
   },
   "Even Tempest 3": {
@@ -3674,7 +3674,7 @@
     "name": "迅雷風烈・偶數3",
     "sp": 240,
     "prev": ["Even Tempest 2"],
-    "rules": "learner.tempest",
+    "rules": "learner.infantry-flying-melee",
     "icon": "skillC/Even_Tempest_3",
     "last": true
   },
@@ -3682,7 +3682,7 @@
     "id": "Endless Tempest",
     "name": "迅雷風烈・無極",
     "sp": 300,
-    "rules": "learner.tempest",
+    "rules": "learner.infantry-flying-melee",
     "prev": ["Odd Tempest 3", "Even Tempest 3"],
     "last": true,
     "icon": "skillC/Endless_Tempest"

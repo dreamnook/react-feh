@@ -41,7 +41,7 @@
     "id": "Far Trace Echo",
     "name": "響・遠影",
     "sp": 0,
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "last": true,
     "icon": "skillX/Far_Trace_Echo"
   },

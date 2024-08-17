@@ -2165,7 +2165,7 @@
     "id": "Cancel Affinity 1",
     "name": "抵銷互克1",
     "sp": 50,
-    "rules": "learner.cancelAffinity",
+    "rules": "learner.melee-white-bow-staff",
     "icon": "skillB/Cancel_Affinity_1"
   },
   "Cancel Affinity 2": {
@@ -2173,7 +2173,7 @@
     "name": "抵銷互克2",
     "sp": 100,
     "prev": ["Cancel Affinity 1"],
-    "rules": "learner.cancelAffinity",
+    "rules": "learner.melee-white-bow-staff",
     "icon": "skillB/Cancel_Affinity_2"
   },
   "Cancel Affinity 3": {
@@ -2181,7 +2181,7 @@
     "name": "抵銷互克3",
     "sp": 200,
     "prev": ["Cancel Affinity 2"],
-    "rules": "learner.cancelAffinity",
+    "rules": "learner.melee-white-bow-staff",
     "icon": "skillB/Cancel_Affinity_3",
     "last": true
   },
@@ -3381,7 +3381,7 @@
     "id": "Atk/Spd Ruse 1",
     "name": "攻擊速度大共謀1",
     "sp": 60,
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Atk_Spd_Ruse_1"
   },
   "Atk/Spd Ruse 2": {
@@ -3389,7 +3389,7 @@
     "name": "攻擊速度大共謀2",
     "sp": 120,
     "prev": ["Atk/Spd Ruse 1"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Atk_Spd_Ruse_2"
   },
   "Atk/Spd Ruse 3": {
@@ -3397,7 +3397,7 @@
     "name": "攻擊速度大共謀3",
     "sp": 240,
     "prev": ["Atk/Spd Ruse 2"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Atk_Spd_Ruse_3",
     "last": true
   },
@@ -3406,7 +3406,7 @@
     "name": "攻擊速度大共謀4",
     "sp": 300,
     "prev": ["Atk/Spd Ruse 3"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Atk_Spd_Ruse_4",
     "last": true
   },
@@ -3414,7 +3414,7 @@
     "id": "Atk/Def Ruse 1",
     "name": "攻擊防守大共謀1",
     "sp": 60,
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Atk_Def_Ruse_1"
   },
   "Atk/Def Ruse 2": {
@@ -3422,7 +3422,7 @@
     "name": "攻擊防守大共謀2",
     "sp": 120,
     "prev": ["Atk/Def Ruse 1"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Atk_Def_Ruse_2"
   },
   "Atk/Def Ruse 3": {
@@ -3430,7 +3430,7 @@
     "name": "攻擊防守大共謀3",
     "sp": 240,
     "prev": ["Atk/Def Ruse 2"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Atk_Def_Ruse_3",
     "last": true
   },
@@ -3438,7 +3438,7 @@
     "id": "Atk/Res Ruse 1",
     "name": "攻擊魔防大共謀1",
     "sp": 60,
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Atk_Res_Ruse_1"
   },
   "Atk/Res Ruse 2": {
@@ -3446,7 +3446,7 @@
     "name": "攻擊魔防大共謀2",
     "sp": 120,
     "prev": ["Atk/Res Ruse 1"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Atk_Res_Ruse_2"
   },
   "Atk/Res Ruse 3": {
@@ -3454,7 +3454,7 @@
     "name": "攻擊魔防大共謀3",
     "sp": 240,
     "prev": ["Atk/Res Ruse 2"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Atk_Res_Ruse_3",
     "last": true
   },
@@ -3462,7 +3462,7 @@
     "id": "Spd/Def Ruse 1",
     "name": "速度防守大共謀1",
     "sp": 60,
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Spd_Def_Ruse_1"
   },
   "Spd/Def Ruse 2": {
@@ -3470,7 +3470,7 @@
     "name": "速度防守大共謀2",
     "sp": 120,
     "prev": ["Spd/Def Ruse 1"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Spd_Def_Ruse_2"
   },
   "Spd/Def Ruse 3": {
@@ -3478,7 +3478,7 @@
     "name": "速度防守大共謀3",
     "sp": 240,
     "prev": ["Spd/Def Ruse 2"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Spd_Def_Ruse_3",
     "last": true
   },
@@ -3487,7 +3487,7 @@
     "name": "速度防守大共謀4",
     "sp": 300,
     "prev": ["Spd/Def Ruse 3"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Spd_Def_Ruse_4",
     "last": true
   },
@@ -3495,7 +3495,7 @@
     "id": "Spd/Res Ruse 1",
     "name": "速度魔防大共謀1",
     "sp": 60,
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Spd_Res_Ruse_1"
   },
   "Spd/Res Ruse 2": {
@@ -3503,7 +3503,7 @@
     "name": "速度魔防大共謀2",
     "sp": 120,
     "prev": ["Spd/Res Ruse 1"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Spd_Res_Ruse_2"
   },
   "Spd/Res Ruse 3": {
@@ -3511,7 +3511,7 @@
     "name": "速度魔防大共謀3",
     "sp": 240,
     "prev": ["Spd/Res Ruse 2"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Spd_Res_Ruse_3",
     "last": true
   },
@@ -3519,7 +3519,7 @@
     "id": "Def/Res Ruse 1",
     "name": "防守魔防大共謀1",
     "sp": 60,
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Def_Res_Ruse_1"
   },
   "Def/Res Ruse 2": {
@@ -3527,7 +3527,7 @@
     "name": "防守魔防大共謀2",
     "sp": 120,
     "prev": ["Def/Res Ruse 1"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Def_Res_Ruse_2"
   },
   "Def/Res Ruse 3": {
@@ -3535,7 +3535,7 @@
     "name": "防守魔防大共謀3",
     "sp": 240,
     "prev": ["Def/Res Ruse 2"],
-    "rules": "learner.ruse-skills",
+    "rules": "learner.infantry-cavalry-not-staff",
     "icon": "skillB/Def_Res_Ruse_3",
     "last": true
   },
@@ -3608,7 +3608,7 @@
     "id": "Mag. Null Follow",
     "name": "魔之識破・追擊",
     "sp": 300,
-    "rules": "learner.mag-null-follow",
+    "rules": "learner.infantry-res-dmger",
     "last": true,
     "icon": "skillB/Mag._Null_Follow"
   },
@@ -4112,7 +4112,7 @@
     "id": "A/S Near Trace 1",
     "name": "攻擊速度近影1",
     "sp": 100,
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_S_Near_Trace_1"
   },
   "A/S Near Trace 2": {
@@ -4120,7 +4120,7 @@
     "name": "攻擊速度近影2",
     "sp": 120,
     "prev": ["A/S Near Trace 1"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_S_Near_Trace_2"
   },
   "A/S Near Trace 3": {
@@ -4128,7 +4128,7 @@
     "name": "攻擊速度近影3",
     "sp": 240,
     "prev": ["A/S Near Trace 2"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_S_Near_Trace_3",
     "last": true
   },
@@ -4136,7 +4136,7 @@
     "id": "A/D Near Trace 1",
     "name": "攻擊防守近影1",
     "sp": 100,
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_D_Near_Trace_1"
   },
   "A/D Near Trace 2": {
@@ -4144,7 +4144,7 @@
     "name": "攻擊防守近影2",
     "sp": 120,
     "prev": ["A/D Near Trace 1"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_D_Near_Trace_2"
   },
   "A/D Near Trace 3": {
@@ -4152,7 +4152,7 @@
     "name": "攻擊防守近影3",
     "sp": 240,
     "prev": ["A/D Near Trace 2"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_D_Near_Trace_3",
     "last": true
   },
@@ -4160,7 +4160,7 @@
     "id": "A/R Near Trace 1",
     "name": "攻擊魔防近影1",
     "sp": 100,
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_R_Near_Trace_1"
   },
   "A/R Near Trace 2": {
@@ -4168,7 +4168,7 @@
     "name": "攻擊魔防近影2",
     "sp": 120,
     "prev": ["A/R Near Trace 1"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_R_Near_Trace_2"
   },
   "A/R Near Trace 3": {
@@ -4176,7 +4176,7 @@
     "name": "攻擊魔防近影3",
     "sp": 240,
     "prev": ["A/R Near Trace 2"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_R_Near_Trace_3",
     "last": true
   },
@@ -4184,7 +4184,7 @@
     "id": "S/D Near Trace 1",
     "name": "速度防守近影1",
     "sp": 100,
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/S_D_Near_Trace_1"
   },
   "S/D Near Trace 2": {
@@ -4192,7 +4192,7 @@
     "name": "速度防守近影2",
     "sp": 120,
     "prev": ["S/D Near Trace 1"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/S_D_Near_Trace_2"
   },
   "S/D Near Trace 3": {
@@ -4200,7 +4200,7 @@
     "name": "速度防守近影3",
     "sp": 240,
     "prev": ["S/D Near Trace 2"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/S_D_Near_Trace_3",
     "last": true
   },
@@ -4209,7 +4209,7 @@
     "name": "速度防守近影4",
     "sp": 300,
     "prev": ["S/D Near Trace 3"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/S_D_Near_Trace_4",
     "last": true
   },
@@ -4217,7 +4217,7 @@
     "id": "S/R Near Trace 1",
     "name": "速度魔防近影1",
     "sp": 60,
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/S_R_Near_Trace_1"
   },
   "S/R Near Trace 2": {
@@ -4225,7 +4225,7 @@
     "name": "速度魔防近影2",
     "sp": 120,
     "prev": ["S/R Near Trace 1"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/S_R_Near_Trace_2"
   },
   "S/R Near Trace 3": {
@@ -4233,7 +4233,7 @@
     "name": "速度魔防近影3",
     "sp": 240,
     "prev": ["S/R Near Trace 2"],
-    "rules": "learner.near-trace",
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/S_R_Near_Trace_3",
     "last": true
   },
@@ -4241,7 +4241,7 @@
     "id": "A/S Far Trace 1",
     "name": "攻擊速度遠影1",
     "sp": 100,
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/A_S_Far_Trace_1"
   },
   "A/S Far Trace 2": {
@@ -4249,7 +4249,7 @@
     "name": "攻擊速度遠影2",
     "sp": 120,
     "prev": ["A/S Far Trace 1"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/A_S_Far_Trace_2"
   },
   "A/S Far Trace 3": {
@@ -4257,7 +4257,7 @@
     "name": "攻擊速度遠影3",
     "sp": 240,
     "prev": ["A/S Far Trace 2"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/A_S_Far_Trace_3",
     "last": true
   },
@@ -4265,7 +4265,7 @@
     "id": "A/D Far Trace 1",
     "name": "攻擊防守遠影1",
     "sp": 100,
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/A_D_Far_Trace_1"
   },
   "A/D Far Trace 2": {
@@ -4273,7 +4273,7 @@
     "name": "攻擊防守遠影2",
     "sp": 120,
     "prev": ["A/D Far Trace 1"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/A_D_Far_Trace_2"
   },
   "A/D Far Trace 3": {
@@ -4281,7 +4281,7 @@
     "name": "攻擊防守遠影3",
     "sp": 240,
     "prev": ["A/D Far Trace 2"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/A_D_Far_Trace_3",
     "last": true
   },
@@ -4289,7 +4289,7 @@
     "id": "A/R Far Trace 1",
     "name": "攻擊魔防遠影1",
     "sp": 100,
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/A_R_Far_Trace_1"
   },
   "A/R Far Trace 2": {
@@ -4297,7 +4297,7 @@
     "name": "攻擊魔防遠影2",
     "sp": 120,
     "prev": ["A/R Far Trace 1"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/A_R_Far_Trace_2"
   },
   "A/R Far Trace 3": {
@@ -4305,7 +4305,7 @@
     "name": "攻擊魔防遠影3",
     "sp": 240,
     "prev": ["A/R Far Trace 2"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/A_R_Far_Trace_3",
     "last": true
   },
@@ -4314,7 +4314,7 @@
     "name": "攻擊魔防遠影4",
     "sp": 300,
     "prev": ["A/R Far Trace 3"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/A_R_Far_Trace_4",
     "last": true
   },
@@ -4322,7 +4322,7 @@
     "id": "S/D Far Trace 1",
     "name": "速度防守遠影1",
     "sp": 60,
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/S_D_Far_Trace_1"
   },
   "S/D Far Trace 2": {
@@ -4330,7 +4330,7 @@
     "name": "速度防守遠影2",
     "sp": 120,
     "prev": ["S/D Far Trace 1"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/S_D_Far_Trace_2"
   },
   "S/D Far Trace 3": {
@@ -4338,7 +4338,7 @@
     "name": "速度防守遠影3",
     "sp": 240,
     "prev": ["S/D Far Trace 2"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/S_D_Far_Trace_3",
     "last": true
   },
@@ -4346,7 +4346,7 @@
     "id": "S/R Far Trace 1",
     "name": "速度魔防遠影1",
     "sp": 100,
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/S_R_Far_Trace_1"
   },
   "S/R Far Trace 2": {
@@ -4354,7 +4354,7 @@
     "name": "速度魔防遠影2",
     "sp": 120,
     "prev": ["S/R Far Trace 1"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/S_R_Far_Trace_2"
   },
   "S/R Far Trace 3": {
@@ -4362,7 +4362,7 @@
     "name": "速度魔防遠影3",
     "sp": 240,
     "prev": ["S/R Far Trace 2"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/S_R_Far_Trace_3",
     "last": true
   },
@@ -4371,7 +4371,7 @@
     "name": "速度魔防遠影4",
     "sp": 300,
     "prev": ["S/R Far Trace 3"],
-    "rules": "learner.far-trace",
+    "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/S_R_Far_Trace_4",
     "last": true
   },

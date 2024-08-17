@@ -149,11 +149,17 @@
   "learner.def-dmg-not-staff": {
     "weaponType": 15732735
   },
+  "learner.res-dmger": {
+    "weaponType": 1044488
+  },
   "learner.res-dmg-not-staff": {
     "weaponType": 1044480
   },
   "learner.wielder": {
     "weaponType": 7
+  },
+  "learner.melee-white-bow-staff": {
+    "weaponType": 16713863
   },
   "learner.wielderInfantry": {
     "moveType": 1,
@@ -211,6 +217,10 @@
     "moveType": 1,
     "weaponType": 15732727
   },
+  "learner.infantry-res-dmger": {
+    "moveType": 1,
+    "weaponType": 1044488
+  },
   "learner.infantry-armored": {
     "moveType": 3
   },
@@ -221,6 +231,10 @@
   "learner.infantry-armored-not-staff": {
     "weaponType": 16777207,
     "moveType": 3
+  },
+  "learner.infantry-cavalry-not-staff": {
+    "weaponType": 16777207,
+    "moveType": 5
   },
   "learner.infantry-cavalry-flying-melee": {
     "moveType": 13,
@@ -245,6 +259,10 @@
     "weaponType": 16777207,
     "moveType": 9
   },
+  "learner.infantry-flying-melee": {
+    "weaponType": 16711687,
+    "moveType": 9
+  },
   "learner.infantry-white-staff": {
     "moveType": 1,
     "weaponType": 8
@@ -256,6 +274,10 @@
   "learner.armored-def-dmg": {
     "weaponType": 15732727,
     "moveType": 2
+  },
+  "learner.armored-melee-def-dmger": {
+    "moveType": 2,
+    "weaponType": 15728647
   },
   "learner.armored-res-dmg": {
     "weaponType": 1044488,
@@ -271,6 +293,14 @@
   "learner.cavalry-flying-not-staff": {
     "weaponType": 16777207,
     "moveType": 12
+  },
+  "learner.cavalry-flying-melee": {
+    "moveType": 12,
+    "weaponType": 16711687
+  },
+  "learner.cavalry-flying-ranged": {
+    "moveType": 12,
+    "weaponType": 65528
   },
   "learner.flying-melee": {
     "weaponType": 16711687,
@@ -339,33 +369,6 @@
   "learner.c-duel-flying": {
     "moveType": 8,
     "colorType": 8
-  },
-  "learner.cancelAffinity": {
-    "weaponType": 16713863
-  },
-  "learner.ruse-skills": {
-    "weaponType": 16777207,
-    "moveType": 5
-  },
-  "learner.near-trace": {
-    "weaponType": 16711687,
-    "moveType": 12
-  },
-  "learner.far-trace": {
-    "weaponType": 65528,
-    "moveType": 12
-  },
-  "learner.mag-null-follow": {
-    "moveType": 1,
-    "weaponType": 1044488
-  },
-  "learner.armored-stride": {
-    "moveType": 2,
-    "weaponType": 15728647
-  },
-  "learner.tempest": {
-    "weaponType": 16711687,
-    "moveType": 9
   },
   "learner.ruptured-sky": {
     "moveType": 15,
