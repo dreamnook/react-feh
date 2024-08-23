@@ -3901,7 +3901,7 @@
     "name": "攻擊速度制空",
     "sp": 300,
     "prev": ["Atk/Spd Catch 3"],
-    "rule": "flying",
+    "rules": "flying",
     "last": true,
     "icon": "skillA/Atk_Spd_Mastery"
   },

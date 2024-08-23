@@ -8818,7 +8818,8 @@
       "id": "Atk/Spd Mastery",
       "name": "攻擊速度制空",
       "sp": 300,
-      "icon": "skillA/Atk_Spd_Mastery"
+      "icon": "skillA/Atk_Spd_Mastery",
+      "rules": "flying"
     },
     "Atk/Spd Ideal 3": {
       "pool": {
