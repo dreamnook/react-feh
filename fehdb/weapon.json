@@ -3070,8 +3070,8 @@
       "exclusive": ["Eliwood - Pledged Friend"],
       "last": true
     },
-    "Lone Wolf": {
-      "id": "Lone Wolf",
+    "Lone-Wolf Blade": {
+      "id": "Lone-Wolf Blade",
       "name": "獨行俠的銳劍",
       "mt": 16,
       "cd": -1,
@@ -17201,6 +17201,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Dual Sword": {
+      "id": "Dual Sword",
+      "name": "修羅的雙劍",
+      "mt": 8,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Shez - Dual Sword Master"],
       "last": true
     },
     "Arcane Void": {

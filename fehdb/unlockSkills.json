@@ -25420,7 +25420,7 @@
       "Iron Sword": 1,
       "Steel Sword": 2,
       "Silver Sword": 3,
-      "Lone Wolf": 5
+      "Lone-Wolf Blade": 5
     },
     "special": {
       "Buckler": 3,
@@ -26844,6 +26844,34 @@
       "Chill Def 1": 1,
       "Chill Def 2": 2,
       "Chill Def 3": 4
+    }
+  },
+  "Shez - Dual Sword Master": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 3,
+      "Dual Sword": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4,
+      "Ruptured Sky": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Shadow Slide": 5
+    },
+    "skillC": {
+      "Pulse Smoke 1": 2,
+      "Pulse Smoke 2": 3,
+      "Pulse Smoke 3": 4,
+      "Pulse Smog": 5
     }
   },
   "Shez - Keen Mercenary": {

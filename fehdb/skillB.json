@@ -669,6 +669,14 @@
     "last": true,
     "icon": "skillB/Lone_Wolf"
   },
+  "Shadow Slide": {
+    "id": "Shadow Slide",
+    "name": "無間瞬動",
+    "sp": 300,
+    "exclusive": ["Shez - Dual Sword Master"],
+    "last": true,
+    "icon": "skillB/Shadow_Slide"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

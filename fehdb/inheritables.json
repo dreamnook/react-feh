@@ -4494,7 +4494,8 @@
             "Camilla - Alluring Darkness",
             "Sigurd - Fated Holy Knight",
             "Byleth - The Fódlan Star",
-            "Byleth - The Fódlan Light"
+            "Byleth - The Fódlan Light",
+            "Shez - Dual Sword Master"
           ]
         },
         "mythic": { "5": ["Duma - God of Strength", "Embla - God of Closure"] },
@@ -4630,7 +4631,9 @@
         "#": {
           "5": ["Byleth - Proven Professor", "Byleth - Tested Professor"]
         },
-        "legendary": { "5": ["Byleth - The Fódlan Light"] },
+        "legendary": {
+          "5": ["Byleth - The Fódlan Light", "Shez - Dual Sword Master"]
+        },
         "duo": { "5": ["Byleth - Fell Star's Duo"] }
       },
       "id": "Ruptured Sky",
@@ -9162,7 +9165,9 @@
         },
         "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
         "emblem": { "5": ["Marth - Of Beginnings"] },
-        "legendary": { "5": ["Alear - Awoken Divinity"] },
+        "legendary": {
+          "5": ["Alear - Awoken Divinity", "Shez - Dual Sword Master"]
+        },
         "special": {
           "4": ["Clanne - Summer Fan"],
           "5": [
@@ -9193,7 +9198,9 @@
         },
         "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
         "emblem": { "5": ["Marth - Of Beginnings"] },
-        "legendary": { "5": ["Alear - Awoken Divinity"] },
+        "legendary": {
+          "5": ["Alear - Awoken Divinity", "Shez - Dual Sword Master"]
+        },
         "special": {
           "5": [
             "Nino - Spirited Sorcerer",
@@ -14566,7 +14573,9 @@
       "pool": {
         "#": { "5": ["Ced - Hero on the Wind", "Igrene - Nabata Protector"] },
         "grail": { "5": ["Jarod - Nevassa General"] },
-        "legendary": { "5": ["Lilina - Firelight Leader"] },
+        "legendary": {
+          "5": ["Shez - Dual Sword Master", "Lilina - Firelight Leader"]
+        },
         "mythic": { "5": ["Freyja - Lady of Nightmare"] },
         "special": {
           "5": [
@@ -14683,6 +14692,14 @@
       "sp": 300,
       "icon": "skillC/Def_Res_Smoke_3",
       "rules": "not.white-staff"
+    },
+    "Pulse Smog": {
+      "pool": { "legendary": { "5": ["Shez - Dual Sword Master"] } },
+      "id": "Pulse Smog",
+      "name": "躍動的幻煙",
+      "sp": 300,
+      "icon": "skillC/Pulse_Smog",
+      "rules": "dagger"
     },
     "Time's Pulse 3": {
       "pool": {

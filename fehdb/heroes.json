@@ -47434,6 +47434,44 @@
     "ver": "7.6",
     "dfKey": 5
   },
+  "Shez - Dual Sword Master": {
+    "id": "Shez - Dual Sword Master",
+    "title": "雙劍戰鬼",
+    "name": "謝茲",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-dagger",
+    "bst": 205,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "wind-def-2",
+    "releaseDate": "2024-08-30",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [44, 47, 50],
+        "spd": [44, 47, 51],
+        "def": [28, 32, 35],
+        "res": [23, 27, 30]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 8,
+        "def": 10,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.8",
+    "dfKey": 7
+  },
   "Shez - Keen Mercenary": {
     "id": "Shez - Keen Mercenary",
     "title": "前途無量的傭兵",

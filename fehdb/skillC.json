@@ -2223,6 +2223,15 @@
     "last": true,
     "icon": "skillC/Def_Res_Smoke_3"
   },
+  "Pulse Smog": {
+    "id": "Pulse Smog",
+    "name": "躍動的幻煙",
+    "sp": 300,
+    "prev": ["Pulse Smoke 3"],
+    "rules": "dagger",
+    "last": true,
+    "icon": "skillC/Pulse_Smog"
+  },
   "Time's Pulse 1": {
     "id": "Time's Pulse 1",
     "name": "初始之躍動1",
