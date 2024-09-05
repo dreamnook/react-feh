@@ -1877,6 +1877,13 @@
         "name": "小小的沙鏟+",
         "sp": 300,
         "refine": 350
+      },
+      "Ice Dagger+": {
+        "pool": { "special": { "5": ["Flora - Polar-Perfect"] } },
+        "id": "Ice Dagger+",
+        "name": "冰之暗器+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "beast": {
@@ -2906,6 +2913,13 @@
         "pool": { "special": { "5": ["Nel - Stoic Bride"] } },
         "id": "Dragonbloom+",
         "name": "龍石捧花+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Ice Dragonstone+": {
+        "pool": { "grail": { "5": ["Nils - Snowflake Melody"] } },
+        "id": "Ice Dragonstone+",
+        "name": "冰龍的龍石+",
         "sp": 300,
         "refine": 350
       }
@@ -4105,6 +4119,7 @@
             "Zelgius - Ninja Knight",
             "Yunaka - Spirited Envoy",
             "Mia - Summer Slice",
+            "Felicia - Confidently Cold",
             "Black Knight - The Night's Blade",
             "Claude - Golden Breeze",
             "Nerþuz - New-Year Doter",
@@ -4913,6 +4928,7 @@
             "Robin - Tactful Deliverer",
             "Rhea - Witch of Creation",
             "Tharja - 'Normal Girl'",
+            "Thea - Wings of Winter",
             "Flora - Signature Dish",
             "Selkie - New Year's Spirit",
             "Henriette - Overflowing Love",
@@ -5002,6 +5018,7 @@
           "5": [
             "Sakura - Gentle Nekomata",
             "Zephiel - Winter's Crown",
+            "Flora - Polar-Perfect",
             "Felicia - Off the Menu"
           ]
         }
@@ -5232,7 +5249,8 @@
           ]
         },
         "legendary": { "5": ["Fjorm - Princess of Ice"] },
-        "special": { "5": ["Fjorm - Seaside Thaw"] }
+        "special": { "5": ["Fjorm - Seaside Thaw"] },
+        "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
       },
       "id": "Sacred Cowl",
       "name": "聖甲",
@@ -7405,7 +7423,13 @@
         "grail": { "5": ["Berkut - Prideful Prince"] },
         "rearmed": { "5": ["Ginnungagap - Ruler of Nihility"] },
         "attuned": { "5": ["Micaiah - Dawning Maiden"] },
-        "duo": { "5": ["Ymir - Seasons of Life", "Byleth - Frosty Professors"] }
+        "duo": {
+          "5": [
+            "Ymir - Seasons of Life",
+            "Fjorm - Gleaming Ice Pair",
+            "Byleth - Frosty Professors"
+          ]
+        }
       },
       "id": "Water Boost 3",
       "name": "生命靜水3",
@@ -7447,6 +7471,13 @@
       "name": "生命疾風大地3",
       "sp": 300,
       "icon": "skillA/Earthwind_Boost_3"
+    },
+    "Deluge Boost 3": {
+      "pool": { "duo": { "5": ["Fjorm - Gleaming Ice Pair"] } },
+      "id": "Deluge Boost 3",
+      "name": "生命疾風靜水3",
+      "sp": 300,
+      "icon": "skillA/Deluge_Boost_3"
     },
     "Atk/Spd Bond 3": {
       "pool": {
@@ -8739,7 +8770,7 @@
         "mythic": { "5": ["Loki - Trickster God"] },
         "special": {
           "4": ["Naga - Harvest Divinity"],
-          "5": ["Micaiah - Wavecrest Maiden"]
+          "5": ["Micaiah - Wavecrest Maiden", "Flora - Polar-Perfect"]
         },
         "duo": { "5": ["Laegjarn - Flame and Frost"] }
       },
@@ -9050,6 +9081,7 @@
           "5": [
             "Dagr - Bluster Princess",
             "Nerþuz - Beach Chaperone",
+            "Felicia - Confidently Cold",
             "Sylvain - Spring Flingster"
           ]
         },
@@ -9469,7 +9501,9 @@
     "Atk/Spd Excel": {
       "pool": {
         "#": { "5": ["Felix - Sword Savant"] },
-        "special": { "5": ["Nerþuz - Beach Chaperone"] },
+        "special": {
+          "5": ["Nerþuz - Beach Chaperone", "Felicia - Confidently Cold"]
+        },
         "duo": { "5": ["Sharena - Pillars of Peace"] }
       },
       "id": "Atk/Spd Excel",
@@ -10034,7 +10068,8 @@
     "Hardy Fighter 3": {
       "pool": {
         "#": { "5": ["Fjorm - Ice Ascendant"] },
-        "rearmed": { "5": ["Robin - Fell Tactician"] }
+        "rearmed": { "5": ["Robin - Fell Tactician"] },
+        "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
       },
       "id": "Hardy Fighter 3",
       "name": "盾壁隊形3",
@@ -10079,6 +10114,14 @@
       "name": "慧敏隊型",
       "sp": 300,
       "icon": "skillB/Clever_Fighter",
+      "rules": "armored"
+    },
+    "Shield Fighter": {
+      "pool": { "duo": { "5": ["Fjorm - Gleaming Ice Pair"] } },
+      "id": "Shield Fighter",
+      "name": "連盾隊形",
+      "sp": 300,
+      "icon": "skillB/Shield_Fighter",
       "rules": "armored"
     },
     "Poison Strike 3": {
@@ -11060,7 +11103,7 @@
             "Chloé - Fairy-Tale Flier"
           ]
         },
-        "special": { "5": ["Mia - Summer Slice"] }
+        "special": { "5": ["Thea - Wings of Winter", "Mia - Summer Slice"] }
       },
       "id": "Pegasus Flight 3",
       "name": "天馬行空3",
@@ -11079,7 +11122,9 @@
       "rules": "learner.wielderFlying"
     },
     "Pegasus Rift": {
-      "pool": { "special": { "5": ["Mia - Summer Slice"] } },
+      "pool": {
+        "special": { "5": ["Thea - Wings of Winter", "Mia - Summer Slice"] }
+      },
       "id": "Pegasus Rift",
       "name": "天馬裂空",
       "sp": 300,
@@ -11329,7 +11374,10 @@
       "rules": "not.white-staff"
     },
     "Res Cantrip 3": {
-      "pool": { "duo": { "5": ["Peony - Álfar Dream Duo"] } },
+      "pool": {
+        "grail": { "4": ["Nils - Snowflake Melody"] },
+        "duo": { "5": ["Peony - Álfar Dream Duo"] }
+      },
       "id": "Res Cantrip 3",
       "name": "魔防魅惑3",
       "sp": 240,
@@ -11839,6 +11887,7 @@
         "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
         "special": {
           "5": [
+            "Flora - Polar-Perfect",
             "Palla - Eldest Bun-Bun",
             "Gunnthrá - Beaming Smile",
             "Fáfnir - Fresh Ambition"
@@ -12266,12 +12315,22 @@
     "S/R Near Trace 3": {
       "pool": {
         "legendary": { "5": ["Ninian - Ice-Dragon Oracle"] },
-        "special": { "5": ["Nifl - Tropical Ice God"] }
+        "special": {
+          "5": ["Nifl - Tropical Ice God", "Felicia - Confidently Cold"]
+        }
       },
       "id": "S/R Near Trace 3",
       "name": "速度魔防近影3",
       "sp": 240,
       "icon": "skillB/S_R_Near_Trace_3",
+      "rules": "learner.cavalry-flying-melee"
+    },
+    "S/R Near Trace 4": {
+      "pool": { "special": { "5": ["Felicia - Confidently Cold"] } },
+      "id": "S/R Near Trace 4",
+      "name": "速度魔防近影4",
+      "sp": 300,
+      "icon": "skillB/S_R_Near_Trace_4",
       "rules": "learner.cavalry-flying-melee"
     },
     "A/S Far Trace 3": {
@@ -13005,6 +13064,7 @@
     "Spur Spd/Res 2": {
       "pool": {
         "#": { "3": ["Tanya - Dagdar's Kid"] },
+        "grail": { "5": ["Nils - Snowflake Melody"] },
         "special": { "5": ["Ryoma - Dancing Samurai"] }
       },
       "id": "Spur Spd/Res 2",
@@ -15047,7 +15107,8 @@
         "#": {
           "5": ["Corrin - Silent Bloodline", "Amelia - Blossoming Talent"]
         },
-        "special": { "5": ["Takumi - Troubled Heart"] }
+        "special": { "5": ["Takumi - Troubled Heart"] },
+        "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
       },
       "id": "A/S Far Save 2",
       "name": "刃之守護人・遠處2",
@@ -15060,7 +15121,8 @@
         "#": {
           "5": ["Corrin - Silent Bloodline", "Amelia - Blossoming Talent"]
         },
-        "special": { "5": ["Takumi - Troubled Heart"] }
+        "special": { "5": ["Takumi - Troubled Heart"] },
+        "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
       },
       "id": "A/S Far Save 3",
       "name": "刃之守護人・遠處3",
@@ -15201,6 +15263,7 @@
             "Lachesis - Ballroom Bloom",
             "Sigrun - Steadfast Bride",
             "Ishtar - Thunder's Waltz",
+            "Thea - Wings of Winter",
             "Hinoka - Relaxed Warrior",
             "Fir - Student of Spring"
           ]
@@ -15210,6 +15273,14 @@
       "name": "前導傳令・天3",
       "sp": 240,
       "icon": "skillC/Air_Orders_3",
+      "rules": "flying"
+    },
+    "Air Orders 4": {
+      "pool": { "special": { "5": ["Thea - Wings of Winter"] } },
+      "id": "Air Orders 4",
+      "name": "前導傳令・天4",
+      "sp": 300,
+      "icon": "skillC/Air_Orders_4",
       "rules": "flying"
     },
     "Ground Orders 3": {
@@ -15266,7 +15337,9 @@
           "4": ["Rolf - Tricky Archer"],
           "5": ["Deen - Bladed Sandstorm"]
         },
-        "special": { "5": ["Ingrid - Solstice Knight"] },
+        "special": {
+          "5": ["Ingrid - Solstice Knight", "Felicia - Confidently Cold"]
+        },
         "duo": { "5": ["Gullveig - Glittering Sunlight"] }
       },
       "id": "Odd Spd Wave 3",
@@ -15275,7 +15348,10 @@
       "icon": "skillC/Odd_Spd_Wave_3"
     },
     "Odd Spd Wave 4": {
-      "pool": { "duo": { "5": ["Gullveig - Glittering Sunlight"] } },
+      "pool": {
+        "special": { "5": ["Felicia - Confidently Cold"] },
+        "duo": { "5": ["Gullveig - Glittering Sunlight"] }
+      },
       "id": "Odd Spd Wave 4",
       "name": "速度之波・奇數4",
       "sp": 300,

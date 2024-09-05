@@ -2174,6 +2174,30 @@
       "rules": "infantry",
       "icon": "skillA/Atk_Def_Finish_3",
       "last": true
+    },
+    "Spd/Res Finish 1": {
+      "id": "Spd/Res Finish 1",
+      "name": "速度魔防的奧秘1",
+      "sp": 60,
+      "rules": "infantry",
+      "icon": "skillA/Spd_Res_Finish_1"
+    },
+    "Spd/Res Finish 2": {
+      "id": "Spd/Res Finish 2",
+      "name": "速度魔防的奧秘2",
+      "sp": 120,
+      "prev": ["Spd/Res Finish 1"],
+      "rules": "infantry",
+      "icon": "skillA/Spd_Res_Finish_2"
+    },
+    "Spd/Res Finish 3": {
+      "id": "Spd/Res Finish 3",
+      "name": "速度魔防的奧秘3",
+      "sp": 240,
+      "prev": ["Spd/Res Finish 2"],
+      "rules": "infantry",
+      "icon": "skillA/Spd_Res_Finish_3",
+      "last": true
     }
   },
   "skillB": {
@@ -4385,6 +4409,30 @@
       "prev": ["Atk/Spd Oath 2"],
       "rules": "learner.infantry-flying",
       "icon": "skillC/Atk_Spd_Oath_3",
+      "last": true
+    },
+    "Atk/Def Oath 1": {
+      "id": "Atk/Def Oath 1",
+      "name": "攻擊防守的信義1",
+      "sp": 60,
+      "rules": "learner.infantry-flying",
+      "icon": "skillC/Atk_Def_Oath_1"
+    },
+    "Atk/Def Oath 2": {
+      "id": "Atk/Def Oath 2",
+      "name": "攻擊防守的信義2",
+      "sp": 120,
+      "prev": ["Atk/Def Oath 1"],
+      "rules": "learner.infantry-flying",
+      "icon": "skillC/Atk_Def_Oath_2"
+    },
+    "Atk/Def Oath 3": {
+      "id": "Atk/Def Oath 3",
+      "name": "攻擊防守的信義3",
+      "sp": 240,
+      "prev": ["Atk/Def Oath 2"],
+      "rules": "learner.infantry-flying",
+      "icon": "skillC/Atk_Def_Oath_3",
       "last": true
     },
     "Atk/Res Oath 1": {
@@ -6685,6 +6733,36 @@
       "res": 3,
       "prev": ["Squad Ace CG 2"],
       "icon": "seal/Squad_Ace_HP_Spd_Res_3",
+      "last": true
+    },
+    "Squad Ace CH 1": {
+      "id": "Squad Ace CH 1",
+      "name": "第８６迷宮的霸王1",
+      "sp": 120,
+      "hp": 3,
+      "def": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_HP_Def_Res_1"
+    },
+    "Squad Ace CH 2": {
+      "id": "Squad Ace CH 2",
+      "name": "第８６迷宮的霸王2",
+      "sp": 180,
+      "hp": 4,
+      "def": 2,
+      "res": 2,
+      "prev": ["Squad Ace CH 1"],
+      "icon": "seal/Squad_Ace_HP_Def_Res_2"
+    },
+    "Squad Ace CH 3": {
+      "id": "Squad Ace CH 3",
+      "name": "第８６迷宮的霸王3",
+      "sp": 240,
+      "hp": 5,
+      "def": 3,
+      "res": 3,
+      "prev": ["Squad Ace CH 2"],
+      "icon": "seal/Squad_Ace_HP_Def_Res_3",
       "last": true
     }
   }

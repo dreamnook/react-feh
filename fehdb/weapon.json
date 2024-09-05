@@ -3387,6 +3387,16 @@
       "exclusive": ["Felix - Sword Savant"],
       "last": true
     },
+    "Ilian Frost Blade": {
+      "id": "Ilian Frost Blade",
+      "name": "伊莉亞吹雪之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Thea - Wings of Winter"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -7628,6 +7638,16 @@
       "exclusive": ["Lucia - Loyalty Enrobed"],
       "last": true
     },
+    "Ice-Crystal Spear": {
+      "id": "Ice-Crystal Spear",
+      "name": "尼福爾冰晶之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Fjorm - Gleaming Ice Pair"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -11414,6 +11434,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Alfonse - Heir to Openness"],
+      "last": true
+    },
+    "Ice-Tribe Axe": {
+      "id": "Ice-Tribe Axe",
+      "name": "冰之部落的雪斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Felicia - Confidently Cold"],
       "last": true
     },
     "Arcane Downfall": {
@@ -18652,6 +18682,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Small Spade"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Ice Dagger": {
+      "id": "Ice Dagger",
+      "name": "冰之暗器",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Ice Dagger+": {
+      "id": "Ice Dagger+",
+      "name": "冰之暗器+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Ice Dagger"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -29498,6 +29561,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Dragonbloom"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Ice Dragonstone": {
+      "id": "Ice Dragonstone",
+      "name": "冰龍的龍石",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Fire Breath+"]
+    },
+    "Ice Dragonstone+": {
+      "id": "Ice Dragonstone+",
+      "name": "冰龍的龍石+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Ice Dragonstone"],
       "refine": {
         "atk": {
           "hp": 5,

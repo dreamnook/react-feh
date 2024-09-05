@@ -1277,6 +1277,15 @@
     "last": true,
     "icon": "skillB/Clever_Fighter"
   },
+  "Shield Fighter": {
+    "id": "Shield Fighter",
+    "name": "連盾隊形",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["Hardy Fighter 3"],
+    "last": true,
+    "icon": "skillB/Shield_Fighter"
+  },
   "Poison Strike 1": {
     "id": "Poison Strike 1",
     "name": "蛇毒1",
@@ -4252,6 +4261,15 @@
     "prev": ["S/R Near Trace 2"],
     "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/S_R_Near_Trace_3",
+    "last": true
+  },
+  "S/R Near Trace 4": {
+    "id": "S/R Near Trace 4",
+    "name": "速度魔防近影4",
+    "sp": 300,
+    "prev": ["S/R Near Trace 3"],
+    "rules": "learner.cavalry-flying-melee",
+    "icon": "skillB/S_R_Near_Trace_4",
     "last": true
   },
   "A/S Far Trace 1": {

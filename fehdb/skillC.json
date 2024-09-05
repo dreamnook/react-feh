@@ -2782,6 +2782,15 @@
     "icon": "skillC/Air_Orders_3",
     "last": true
   },
+  "Air Orders 4": {
+    "id": "Air Orders 4",
+    "name": "前導傳令・天4",
+    "sp": 300,
+    "prev": ["Air Orders 3"],
+    "rules": "flying",
+    "icon": "skillC/Air_Orders_4",
+    "last": true
+  },
   "Ground Orders 1": {
     "id": "Ground Orders 1",
     "name": "前導傳令・地1",

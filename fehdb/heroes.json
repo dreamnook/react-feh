@@ -1057,6 +1057,42 @@
     "ver": "7.7",
     "dfKey": 5
   },
+  "Fjorm - Gleaming Ice Pair": {
+    "id": "Fjorm - Gleaming Ice Pair",
+    "title": "輝煌雙冰",
+    "name": "菲約爾姆",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-lance",
+    "bst": 205,
+    "pool": "duo",
+    "releaseDate": "2024-09-06",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [39, 43, 46],
+        "atk": [39, 42, 46],
+        "spd": [44, 47, 51],
+        "def": [31, 35, 38],
+        "res": [36, 40, 43]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 12,
+        "spd": 8,
+        "def": 13,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 8,
+    "ver": "8.9",
+    "dfKey": 7
+  },
   "Gunnthrá - Voice of Dreams": {
     "id": "Gunnthrá - Voice of Dreams",
     "title": "夢中的微笑",
@@ -17711,6 +17747,41 @@
     "ver": "3.3",
     "dfKey": 2
   },
+  "Thea - Wings of Winter": {
+    "id": "Thea - Wings of Winter",
+    "title": "在風雪中飛舞之翼",
+    "name": "蒂特",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2024-09-06",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [39, 43, 46],
+        "spd": [44, 47, 51],
+        "def": [23, 27, 30],
+        "res": [36, 39, 42]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 8,
+        "def": 5,
+        "res": 15
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.9",
+    "dfKey": 7
+  },
   "Shanna - Sprightly Flier": {
     "id": "Shanna - Sprightly Flier",
     "title": "爽朗的天馬騎士",
@@ -21945,6 +22016,55 @@
     "book": 6,
     "ver": "6.10",
     "dfKey": 5
+  },
+  "Nils - Snowflake Melody": {
+    "id": "Nils - Snowflake Melody",
+    "title": "冰晶旋律",
+    "name": "尼爾斯",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-dragon",
+    "pool": "grail",
+    "releaseDate": "2024-09-06",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [29, 32, 36],
+        "spd": [38, 41, 45],
+        "def": [24, 27, 30],
+        "res": [34, 38, 41]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [32, 35, 39],
+        "spd": [40, 43, 47],
+        "def": [27, 30, 33],
+        "res": [36, 40, 43]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 4,
+        "spd": 13,
+        "def": 5,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 5,
+        "spd": 13,
+        "def": 6,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.9",
+    "dfKey": 7
   },
   "Nergal - Traitor to Nabata": {
     "id": "Nergal - Traitor to Nabata",
@@ -37637,6 +37757,41 @@
     "ver": "3.4",
     "dfKey": 2
   },
+  "Felicia - Confidently Cold": {
+    "id": "Felicia - Confidently Cold",
+    "title": "不畏酷寒的心",
+    "name": "菲利西亞",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2024-09-06",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [40, 43, 46],
+        "spd": [44, 47, 51],
+        "def": [32, 35, 38],
+        "res": [21, 24, 27]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 8,
+        "spd": 8,
+        "def": 11,
+        "res": 7
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.9",
+    "dfKey": 7
+  },
   "Jakob - Devoted Servant": {
     "id": "Jakob - Devoted Servant",
     "title": "忠誠的管家",
@@ -41823,6 +41978,41 @@
     "book": 3,
     "ver": "3.4",
     "dfKey": 2
+  },
+  "Flora - Polar-Perfect": {
+    "id": "Flora - Polar-Perfect",
+    "title": "再冷都要保持完美",
+    "name": "芙洛拉",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-dagger",
+    "pool": "special",
+    "releaseDate": "2024-09-06",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 51],
+        "spd": [18, 21, 24],
+        "def": [27, 31, 34],
+        "res": [43, 46, 49]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 4,
+        "def": 9,
+        "res": 11
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.9",
+    "dfKey": 7
   },
   "Keaton - Lupine Collector": {
     "id": "Keaton - Lupine Collector",

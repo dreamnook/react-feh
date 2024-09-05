@@ -2160,6 +2160,15 @@
     "last": true,
     "icon": "skillA/Earthwind_Boost_3"
   },
+  "Deluge Boost 3": {
+    "id": "Deluge Boost 3",
+    "name": "生命疾風靜水3",
+    "hp": 5,
+    "sp": 300,
+    "prev": ["Wind Boost 3", "Water Boost 3"],
+    "last": true,
+    "icon": "skillA/Deluge_Boost_3"
+  },
   "Atk/Spd Bond 1": {
     "id": "Atk/Spd Bond 1",
     "name": "攻擊速度的羈絆1",

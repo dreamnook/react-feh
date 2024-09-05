@@ -2865,6 +2865,18 @@
     "skillB": { "Atk Cantrip 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Guidance 3": { "sp": 240, "rarity": 5 } }
   },
+  "Nils - Snowflake Melody": {
+    "score": 299,
+    "scoreTotal": 416,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 300,
+    "bst": 188,
+    "skillB": { "Res Cantrip 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Spur Spd/Res 2": { "sp": 240, "rarity": 5 } }
+  },
   "Ogma - Blade on Leave": {
     "score": 196,
     "scoreTotal": 423,
@@ -7218,6 +7230,19 @@
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
+  "Flora - Polar-Perfect": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Disarm Trap 3": { "sp": 240, "rarity": 5 } }
+  },
   "Myrrh - Spooky Monster": {
     "score": 254,
     "scoreTotal": 721,
@@ -10069,6 +10094,19 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Ire 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Thea - Wings of Winter": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Pegasus Rift": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Air Orders 4": { "sp": 300, "rarity": 5 } }
   },
   "Ymir - Seasons of Life": {
     "score": 318,
@@ -13716,6 +13754,20 @@
     "skillB": { "Gambit 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Rein Snap": { "sp": 300, "rarity": 5 } }
   },
+  "Felicia - Confidently Cold": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Near Trace 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Odd Spd Wave 4": { "sp": 300, "rarity": 5 } }
+  },
   "Altina - Unrivaled Dawn": {
     "score": 318,
     "scoreTotal": 1166,
@@ -13799,6 +13851,20 @@
     "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Fjorm - Gleaming Ice Pair": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Sacred Cowl": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Deluge Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Shield Fighter": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Far Save 3": { "sp": 300, "rarity": 5 } }
   },
   "Gullveig - Glittering Sunlight": {
     "score": 318,
