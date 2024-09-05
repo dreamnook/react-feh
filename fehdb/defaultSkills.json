@@ -2522,12 +2522,17 @@
       "Atk/Res Solo 4": 5
     },
     "skillB": {
-      "Divine Recreation": 5
+      "Divine Recreation": 5,
+      "Divine Rec. II": 5
     },
     "skillC": {
       "Atk/Res Rein 1": 1,
       "Atk/Res Rein 2": 2,
-      "Atk/Res Rein 3": 4
+      "Atk/Res Rein 3": 4,
+      "Savage Blow 1": 2,
+      "Savage Blow 2": 3,
+      "Savage Blow 3": 4,
+      "Deadly Miasma": 5
     }
   },
   "Askr - God of Openness": {
@@ -24235,7 +24240,11 @@
       "Atk/Spd Ideal 1": 2,
       "Atk/Spd Ideal 2": 3,
       "Atk/Spd Ideal 3": 4,
-      "Atk/Spd Ideal 4": 5
+      "Atk/Spd Ideal 4": 5,
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
     },
     "skillB": {
       "Lull Spd/Res 1": 1,
@@ -24243,7 +24252,8 @@
       "Lull Spd/Res 3": 4
     },
     "skillC": {
-      "Goddess Bearer": 5
+      "Goddess Bearer": 5,
+      "Goddess Bearer II": 5
     }
   },
   "Byleth - Sublime Light": {

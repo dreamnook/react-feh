@@ -286,6 +286,15 @@
     "last": true,
     "icon": "skillC/Opening_Retainer"
   },
+  "Goddess Bearer II": {
+    "id": "Goddess Bearer II",
+    "name": "寄宿女神之人・承",
+    "sp": 300,
+    "prev": ["Goddess Bearer"],
+    "exclusive": ["Byleth - The Fódlan Light"],
+    "last": true,
+    "icon": "skillC/Goddess_Bearer_II"
+  },
   "Goddess Bearer": {
     "id": "Goddess Bearer",
     "name": "寄宿女神之人",

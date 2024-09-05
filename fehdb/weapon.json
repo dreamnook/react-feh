@@ -2986,6 +2986,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Seliph - Enduring Legacy"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Holytide_Tyrfing_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Crimson Blades": {
@@ -6963,6 +6986,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Chrom - Fated Honor"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Geirdriful_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Breaker Lance": {
@@ -19236,6 +19282,29 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Keaton - Resolved Wolfskin"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Resolved_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Renewed Fang": {
@@ -22595,6 +22664,28 @@
       "sp": 400,
       "prev": ["Shine"],
       "exclusive": ["Byleth - The Fódlan Light"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Professorial_Guide_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Niðavellir Lots": {
@@ -24822,6 +24913,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Eitri - Youthful Sage"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Grim_Brokkr_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Dancing Flames": {
@@ -26183,6 +26296,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Byleth - Sublime Light"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Inner_Wellspring_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Rite of Souls": {
@@ -28623,6 +28758,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Tiki - Fated Divinity"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Remote_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Breath of Flame": {

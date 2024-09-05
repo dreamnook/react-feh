@@ -445,6 +445,15 @@
     "last": true,
     "icon": "skillB/Prescience"
   },
+  "Divine Rec. II": {
+    "id": "Divine Rec. II",
+    "name": "那真有意思呢・承",
+    "sp": 300,
+    "prev": ["Divine Recreation"],
+    "exclusive": ["Eitri - Youthful Sage"],
+    "last": true,
+    "icon": "skillB/Divine_Rec._II"
+  },
   "Divine Recreation": {
     "id": "Divine Recreation",
     "name": "那真有意思呢",

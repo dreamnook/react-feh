@@ -6429,19 +6429,6 @@
     "skillA": { "Def/Res Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
   },
-  "Eitri - Youthful Sage": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 185,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Solo 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Atk/Res Rein 3": { "sp": 240, "rarity": 5 } }
-  },
   "Caeda - Beloved Queen": {
     "score": 276,
     "scoreTotal": 681,
@@ -7451,6 +7438,19 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Res Tempo 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Eitri - Youthful Sage": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Solo 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Deadly Miasma": { "sp": 300, "rarity": 5 } }
   },
   "Ratatoskr - Mending Hand": {
     "score": 276,
@@ -11350,7 +11350,7 @@
     "feather": 1000,
     "bst": 185,
     "special": { "Ruptured Sky": { "sp": 500, "rarity": 5 } },
-    "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Res 3": { "sp": 240, "rarity": 5 } }
   },
   "Ryoma - Samurai at Ease": {

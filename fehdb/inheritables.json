@@ -4588,8 +4588,8 @@
         "legendary": {
           "5": [
             "Roy - Blazing Lion",
-            "Eitri - Youthful Sage",
             "Julia - Crusader of Light",
+            "Eitri - Youthful Sage",
             "Elincia - Undaunted Queen",
             "Corrin - Child of Dusk",
             "Corrin - Child of Dawn"
@@ -9166,7 +9166,11 @@
         "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
         "emblem": { "5": ["Marth - Of Beginnings"] },
         "legendary": {
-          "5": ["Alear - Awoken Divinity", "Shez - Dual Sword Master"]
+          "5": [
+            "Byleth - The Fódlan Light",
+            "Alear - Awoken Divinity",
+            "Shez - Dual Sword Master"
+          ]
         },
         "special": {
           "4": ["Clanne - Summer Fan"],
@@ -9199,7 +9203,11 @@
         "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
         "emblem": { "5": ["Marth - Of Beginnings"] },
         "legendary": {
-          "5": ["Alear - Awoken Divinity", "Shez - Dual Sword Master"]
+          "5": [
+            "Byleth - The Fódlan Light",
+            "Alear - Awoken Divinity",
+            "Shez - Dual Sword Master"
+          ]
         },
         "special": {
           "5": [
@@ -12862,7 +12870,9 @@
           ]
         },
         "attuned": { "5": ["Ivy - Snow Queen"] },
-        "legendary": { "5": ["Camilla - Alluring Darkness"] }
+        "legendary": {
+          "5": ["Eitri - Youthful Sage", "Camilla - Alluring Darkness"]
+        }
       },
       "id": "Savage Blow 3",
       "name": "死亡氣息3",
@@ -12872,7 +12882,9 @@
     "Deadly Miasma": {
       "pool": {
         "attuned": { "5": ["Ivy - Snow Queen"] },
-        "legendary": { "5": ["Camilla - Alluring Darkness"] }
+        "legendary": {
+          "5": ["Eitri - Youthful Sage", "Camilla - Alluring Darkness"]
+        }
       },
       "id": "Deadly Miasma",
       "name": "死之瘴氣",
