@@ -2658,7 +2658,12 @@
         "refine": 350
       },
       "Respite+": {
-        "pool": { "#": { "3": ["Nyna - The Last Princess"] } },
+        "pool": {
+          "#": {
+            "3": ["Nyna - The Last Princess"],
+            "5": ["Pandreo - Party Priest"]
+          }
+        },
         "id": "Respite+",
         "name": "聖域+",
         "sp": 300,
@@ -2996,7 +3001,11 @@
             "Dwyer - Sleepy Butler",
             "Mercedes - Kindly Devotee"
           ],
-          "5": ["Maribelle - Dire Damsel", "Mikoto - Caring Mother"]
+          "5": [
+            "Maribelle - Dire Damsel",
+            "Mikoto - Caring Mother",
+            "Pandreo - Party Priest"
+          ]
         },
         "grail": {
           "5": [
@@ -3284,6 +3293,7 @@
             "Olwen - Blue Mage Knight",
             "Sumia - Maid of Flowers",
             "Isadora - Escort of Pherae",
+            "Merrin - Suave Knight",
             "Wolf - Coyote's Loyal",
             "Farina - The Great Wing",
             "Lilith - Astral Daughter",
@@ -4047,6 +4057,7 @@
             "Eirika - Pledged Restorer",
             "Gullveig - Seer Beyond Time",
             "Forde - Unfettered Knight",
+            "Fogado - Affable Prince",
             "Febail - Mercenary Waif",
             "Hinoka - Blue Sky Warrior",
             "Petra - Princess of Brigid",
@@ -4781,7 +4792,8 @@
             "Hector - Brave Warrior",
             "Tiki - Torpid Dragon",
             "Arlen - Mage of Khadein",
-            "Robin - Exalt's Deliverer"
+            "Robin - Exalt's Deliverer",
+            "Reginn - Dvergr Heir"
           ]
         },
         "grail": {
@@ -4804,9 +4816,11 @@
             "Glen - Sunstone",
             "Murdock - Loyal General",
             "Ludveck - Rebellious Duke",
-            "Cervantes - Invincible General"
+            "Cervantes - Invincible General",
+            "Marni - Pining for Praise"
           ]
         },
+        "attuned": { "5": ["Timerra - Desert Warrior"] },
         "legendary": {
           "5": ["Robin - Exalt's Other Half", "Seliph - Scion of Light"]
         },
@@ -5013,12 +5027,12 @@
           "4": [
             "Leo - Festival Bonds",
             "Ilyana - Awakened Appetite",
-            "Vika - Sea-Dark Wing"
+            "Vika - Sea-Dark Wing",
+            "Flora - Polar-Perfect"
           ],
           "5": [
             "Sakura - Gentle Nekomata",
             "Zephiel - Winter's Crown",
-            "Flora - Polar-Perfect",
             "Felicia - Off the Menu"
           ]
         }
@@ -5402,7 +5416,7 @@
     },
     "Fireflood Balm": {
       "pool": {
-        "#": { "5": ["August - Astute Tactician"] },
+        "#": { "5": ["Pandreo - Party Priest", "August - Astute Tactician"] },
         "special": {
           "5": ["Genny - Dressed with Care", "Sakura - Hot-Spring Healer"]
         }
@@ -6149,6 +6163,7 @@
             "Olwen - Righteous Knight",
             "Eirika - Pledged Restorer",
             "Gullveig - Seer Beyond Time",
+            "Fogado - Affable Prince",
             "Ishtar - Thunder Goddess",
             "Nino - Pale Flower",
             "Lewyn - Guiding Breeze",
@@ -6527,7 +6542,9 @@
     },
     "Flared Sparrow": {
       "pool": {
-        "#": { "5": ["Gullveig - Seer Beyond Time"] },
+        "#": {
+          "5": ["Gullveig - Seer Beyond Time", "Fogado - Affable Prince"]
+        },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "5": ["Yunaka - Spirited Envoy", "Lapis - Mighty Bride"] },
         "duo": { "5": ["Gullveig - Glittering Sunlight"] }
@@ -8769,8 +8786,8 @@
         },
         "mythic": { "5": ["Loki - Trickster God"] },
         "special": {
-          "4": ["Naga - Harvest Divinity"],
-          "5": ["Micaiah - Wavecrest Maiden", "Flora - Polar-Perfect"]
+          "4": ["Naga - Harvest Divinity", "Flora - Polar-Perfect"],
+          "5": ["Micaiah - Wavecrest Maiden"]
         },
         "duo": { "5": ["Laegjarn - Flame and Frost"] }
       },
@@ -9061,6 +9078,7 @@
           "5": [
             "Seliph - Enduring Legacy",
             "Isadora - Escort of Pherae",
+            "Reginn - Dvergr Heir",
             "Felix - Sword Savant"
           ]
         },
@@ -9343,6 +9361,7 @@
     },
     "Def/Res Finish 3": {
       "pool": {
+        "#": { "5": ["Pandreo - Party Priest"] },
         "emblem": { "5": ["Ike - Of Radiance"] },
         "special": { "4": ["Lissa - Littlest Princess"] },
         "duo": { "5": ["Askr - Renewed Gods"] }
@@ -9467,7 +9486,10 @@
       "rules": "learner.def-dmger"
     },
     "Atk/Def Prime 3": {
-      "pool": { "special": { "5": ["Edelgard - Snowfall Future"] } },
+      "pool": {
+        "grail": { "5": ["Marni - Pining for Praise"] },
+        "special": { "5": ["Edelgard - Snowfall Future"] }
+      },
       "id": "Atk/Def Prime 3",
       "name": "攻擊防守的準備3",
       "sp": 240,
@@ -9500,7 +9522,7 @@
     },
     "Atk/Spd Excel": {
       "pool": {
-        "#": { "5": ["Felix - Sword Savant"] },
+        "#": { "5": ["Reginn - Dvergr Heir", "Felix - Sword Savant"] },
         "special": {
           "5": ["Nerþuz - Beach Chaperone", "Felicia - Confidently Cold"]
         },
@@ -9519,6 +9541,22 @@
       "sp": 300,
       "icon": "skillA/Atk_Def_Excel",
       "rules": "learner.infantry-cavalry-flying-melee"
+    },
+    "Spd/Def Finish 3": {
+      "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },
+      "id": "Spd/Def Finish 3",
+      "name": "速度防守的奧秘3",
+      "sp": 240,
+      "icon": "skillA/Spd_Def_Finish_3",
+      "rules": "infantry"
+    },
+    "Spd/Def Finish 4": {
+      "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },
+      "id": "Spd/Def Finish 4",
+      "name": "速度防守的奧秘4",
+      "sp": 300,
+      "icon": "skillA/Spd_Def_Finish_4",
+      "rules": "infantry"
     }
   },
   "skillB": {
@@ -9842,7 +9880,8 @@
           "4": [
             "Zephiel - The Liberator",
             "Cervantes - Invincible General",
-            "Vigarde - Silent Emperor"
+            "Vigarde - Silent Emperor",
+            "Marni - Pining for Praise"
           ],
           "5": ["Dorcas - Pumpkin Smasher", "Flame Emperor - Bringer of War"]
         },
@@ -10075,7 +10114,7 @@
       "name": "盾壁隊形3",
       "sp": 240,
       "icon": "skillB/Hardy_Fighter_3",
-      "rules": "armored"
+      "rules": "learner.armored-melee"
     },
     "Savvy Fighter 3": {
       "pool": {
@@ -10122,7 +10161,7 @@
       "name": "連盾隊形",
       "sp": 300,
       "icon": "skillB/Shield_Fighter",
-      "rules": "armored"
+      "rules": "learner.armored-melee"
     },
     "Poison Strike 3": {
       "pool": {
@@ -11474,7 +11513,7 @@
     },
     "Spd/Def Link 3": {
       "pool": {
-        "#": { "3": ["Norne - The Volunteer"] },
+        "#": { "3": ["Norne - The Volunteer"], "5": ["Merrin - Suave Knight"] },
         "grail": {
           "4": ["Cynthia - Hero Chaser"],
           "5": ["Leonie - Relentless Rays"]
@@ -11485,6 +11524,14 @@
       "name": "速度防守連動3",
       "sp": 240,
       "icon": "skillB/Spd_Def_Link_3",
+      "rules": "not.white-staff"
+    },
+    "Spd/Def Link 4": {
+      "pool": { "#": { "5": ["Merrin - Suave Knight"] } },
+      "id": "Spd/Def Link 4",
+      "name": "速度防守連動4",
+      "sp": 300,
+      "icon": "skillB/Spd_Def_Link_4",
       "rules": "not.white-staff"
     },
     "Spd/Res Link 3": {
@@ -12386,13 +12433,21 @@
     },
     "S/D Far Trace 3": {
       "pool": {
-        "#": { "5": ["Florina - Azure-Sky Knight"] },
+        "#": { "5": ["Fogado - Affable Prince", "Florina - Azure-Sky Knight"] },
         "special": { "5": ["Catria - Windswept Knight"] }
       },
       "id": "S/D Far Trace 3",
       "name": "速度防守遠影3",
       "sp": 240,
       "icon": "skillB/S_D_Far_Trace_3",
+      "rules": "learner.cavalry-flying-ranged"
+    },
+    "S/D Far Trace 4": {
+      "pool": { "#": { "5": ["Fogado - Affable Prince"] } },
+      "id": "S/D Far Trace 4",
+      "name": "速度防守遠影4",
+      "sp": 300,
+      "icon": "skillB/S_D_Far_Trace_4",
       "rules": "learner.cavalry-flying-ranged"
     },
     "S/R Far Trace 3": {
@@ -12459,7 +12514,7 @@
     },
     "Flow Guard 3": {
       "pool": {
-        "#": { "5": ["Noah - Mercenary-Errant"] },
+        "#": { "5": ["Noah - Mercenary-Errant", "Reginn - Dvergr Heir"] },
         "mythic": { "5": ["Thórr - War God"] },
         "special": { "5": ["Lapis - Mighty Bride"] },
         "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
@@ -12471,7 +12526,10 @@
       "rules": "learner.wielderCavalryFlying"
     },
     "Flow Guard 4": {
-      "pool": { "special": { "5": ["Lapis - Mighty Bride"] } },
+      "pool": {
+        "#": { "5": ["Reginn - Dvergr Heir"] },
+        "special": { "5": ["Lapis - Mighty Bride"] }
+      },
       "id": "Flow Guard 4",
       "name": "怒濤・取消4",
       "sp": 300,
@@ -12809,6 +12867,7 @@
     },
     "Laguz Friend 3": {
       "pool": {
+        "attuned": { "5": ["Timerra - Desert Warrior"] },
         "emblem": { "5": ["Ike - Of Radiance"] },
         "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
@@ -12820,6 +12879,7 @@
     },
     "Laguz Friend 4": {
       "pool": {
+        "attuned": { "5": ["Timerra - Desert Warrior"] },
         "emblem": { "5": ["Ike - Of Radiance"] },
         "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
@@ -12896,6 +12956,7 @@
             "Edward - Blade of Justice"
           ]
         },
+        "attuned": { "5": ["Timerra - Desert Warrior"] },
         "special": { "5": ["Cordelia - Perfect Bride"] }
       },
       "id": "Breath of Life 3",
@@ -12907,7 +12968,8 @@
       "pool": {
         "#": {
           "5": ["Alfonse - Heir to Openness", "Edward - Blade of Justice"]
-        }
+        },
+        "attuned": { "5": ["Timerra - Desert Warrior"] }
       },
       "id": "Breath of Life 4",
       "name": "生命氣息4",
@@ -13216,6 +13278,7 @@
         "#": {
           "3": ["Saul - Loving Shepherd", "Soleil - Adorable Adorer"],
           "5": [
+            "Pandreo - Party Priest",
             "Sara - Lady of Loptr",
             "Neimi - Tearful Archer",
             "Edelgard - Adrestian Emperor",
@@ -15402,6 +15465,7 @@
       "pool": {
         "#": {
           "5": [
+            "Merrin - Suave Knight",
             "Tibarn - Lord of the Air",
             "Osian - Scolded Soldier",
             "Byleth - Proven Professor"
@@ -15468,7 +15532,10 @@
       "icon": "skillC/Even_Res_Wave_3"
     },
     "Even Atk Wave N": {
-      "pool": { "harmonized": { "5": ["Goldmary - Coy Beach Divas"] } },
+      "pool": {
+        "#": { "5": ["Merrin - Suave Knight"] },
+        "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
+      },
       "id": "Even Atk Wave N",
       "name": "近處攻擊之波・偶數",
       "sp": 300,
@@ -16349,6 +16416,22 @@
       "sp": 120,
       "icon": "skillC/Beast_Valor_3",
       "rules": "beast"
+    },
+    "Shadow Shift 3": {
+      "pool": { "#": { "5": ["Reginn - Dvergr Heir"] } },
+      "id": "Shadow Shift 3",
+      "name": "影助・帶回3",
+      "sp": 240,
+      "icon": "skillC/Shadow_Shift_3",
+      "rules": "learner.cavalry-flying"
+    },
+    "Shadow Shift 4": {
+      "pool": { "#": { "5": ["Reginn - Dvergr Heir"] } },
+      "id": "Shadow Shift 4",
+      "name": "影助・帶回4",
+      "sp": 300,
+      "icon": "skillC/Shadow_Shift_4",
+      "rules": "learner.cavalry-flying"
     }
   },
   "skillX": {
@@ -16405,6 +16488,14 @@
       "sp": 0,
       "icon": "skillX/Soaring_Echo",
       "rules": "flying"
+    },
+    "Time Pulse Echo": {
+      "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },
+      "id": "Time Pulse Echo",
+      "name": "響・初始之躍動",
+      "sp": 0,
+      "icon": "skillX/Time_Pulse_Echo",
+      "rules": "infantry"
     },
     "Atk Oath Echo": {
       "pool": { "attuned": { "5": ["Peony - Cherished Dream"] } },

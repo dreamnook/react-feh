@@ -3289,6 +3289,40 @@
     "ver": "6.0",
     "dfKey": 4
   },
+  "Reginn - Dvergr Heir": {
+    "id": "Reginn - Dvergr Heir",
+    "title": "小人國的繼承人",
+    "name": "雷金",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-lance",
+    "releaseDate": "2024-09-17",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 45, 48],
+        "spd": [44, 47, 51],
+        "def": [34, 37, 40],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 8,
+        "def": 11,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.9",
+    "dfKey": 7
+  },
   "Ótr - Kingsbrother": {
     "id": "Ótr - Kingsbrother",
     "title": "王之弟",
@@ -41983,7 +42017,7 @@
     "id": "Flora - Polar-Perfect",
     "title": "再冷都要保持完美",
     "name": "芙洛拉",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "moveType": "cavalry",
     "weaponType": "white-dagger",
@@ -41991,12 +42025,26 @@
     "releaseDate": "2024-09-06",
     "appearsIn": ["Fates"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [41, 44, 47],
+        "spd": [16, 19, 22],
+        "def": [26, 29, 32],
+        "res": [41, 44, 47]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [44, 47, 51],
         "spd": [18, 21, 24],
         "def": [27, 31, 34],
         "res": [43, 46, 49]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 7,
+        "spd": 3,
+        "def": 9,
+        "res": 11
       },
       "5-1": {
         "hp": 18,
@@ -49234,6 +49282,75 @@
     "ver": "7.10",
     "dfKey": 6
   },
+  "Timerra - Desert Warrior": {
+    "id": "Timerra - Desert Warrior",
+    "title": "戰鬥熱沙",
+    "name": "蜜絲提拉",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-lance",
+    "attuned": true,
+    "releaseDate": "2024-09-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [31, 34, 37],
+        "spd": [43, 47, 50],
+        "def": [44, 47, 51],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 14,
+        "def": 8,
+        "res": 9
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.9",
+    "dfKey": 7
+  },
+  "Merrin - Suave Knight": {
+    "id": "Merrin - Suave Knight",
+    "title": "美麗的異獸騎士",
+    "name": "玫琳",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "releaseDate": "2024-09-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [42, 45, 48],
+        "spd": [44, 47, 51],
+        "def": [33, 36, 39],
+        "res": [20, 23, 26]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 8,
+        "def": 12,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.9",
+    "dfKey": 7
+  },
   "Panette - Classy Brawler": {
     "id": "Panette - Classy Brawler",
     "title": "吵架高手",
@@ -49295,6 +49412,74 @@
     "statMax": 200,
     "book": 8,
     "ver": "8.8",
+    "dfKey": 7
+  },
+  "Fogado - Affable Prince": {
+    "id": "Fogado - Affable Prince",
+    "title": "博愛之人",
+    "name": "佛賈特",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-bow",
+    "releaseDate": "2024-09-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [41, 45, 48],
+        "spd": [44, 47, 51],
+        "def": [22, 25, 29],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 8,
+        "def": 6,
+        "res": 8
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.9",
+    "dfKey": 7
+  },
+  "Pandreo - Party Priest": {
+    "id": "Pandreo - Party Priest",
+    "title": "派對聖徒",
+    "name": "龐德羅",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-staff",
+    "releaseDate": "2024-09-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 43, 46],
+        "spd": [37, 40, 43],
+        "def": [14, 18, 21],
+        "res": [44, 47, 51]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 12,
+        "def": 5,
+        "res": 8
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.9",
     "dfKey": 7
   },
   "Anna - Twice the Anna": {
@@ -49612,6 +49797,69 @@
     "book": 8,
     "ver": "8.2",
     "dfKey": 6
+  },
+  "Marni - Pining for Praise": {
+    "id": "Marni - Pining for Praise",
+    "title": "希冀讚許",
+    "name": "瑪倫",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "armored",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2024-09-18",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "3": {
+        "hp": [42, 45, 48],
+        "atk": [39, 42, 45],
+        "spd": [14, 17, 20],
+        "def": [42, 45, 48],
+        "res": [33, 36, 39]
+      },
+      "4": {
+        "hp": [43, 46, 49],
+        "atk": [41, 44, 48],
+        "spd": [15, 18, 21],
+        "def": [45, 48, 51],
+        "res": [34, 37, 41]
+      },
+      "5": {
+        "hp": [46, 49, 52],
+        "atk": [43, 46, 50],
+        "spd": [17, 20, 23],
+        "def": [47, 50, 54],
+        "res": [37, 40, 44]
+      },
+      "3-1": {
+        "hp": 20,
+        "atk": 15,
+        "spd": 2,
+        "def": 10,
+        "res": 9
+      },
+      "4-1": {
+        "hp": 20,
+        "atk": 16,
+        "spd": 2,
+        "def": 11,
+        "res": 9
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 16,
+        "spd": 3,
+        "def": 11,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "def", "res"],
+    "flaws": [],
+    "statMin": 205,
+    "statMax": 205,
+    "book": 8,
+    "ver": "8.9",
+    "dfKey": 7
   },
   "Nel - Stoic Bride": {
     "id": "Nel - Stoic Bride",

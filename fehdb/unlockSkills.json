@@ -2365,6 +2365,37 @@
       "Cross Spur Atk": 5
     }
   },
+  "Reginn - Dvergr Heir": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Dvergr Wayfinder": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4,
+      "Seiðr Burst": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
+    },
+    "skillB": {
+      "Flow Guard 1": 2,
+      "Flow Guard 2": 3,
+      "Flow Guard 3": 4,
+      "Flow Guard 4": 5
+    },
+    "skillC": {
+      "Shadow Shift 1": 2,
+      "Shadow Shift 2": 3,
+      "Shadow Shift 3": 4,
+      "Shadow Shift 4": 5
+    }
+  },
   "Ótr - Kingsbrother": {
     "weapon": {
       "Iron Axe": 1,
@@ -28033,6 +28064,63 @@
       "Time's Pulse 4": 5
     }
   },
+  "Timerra - Desert Warrior": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Desert Spear": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4,
+      "Sandstorm": 5
+    },
+    "skillA": {
+      "Spd/Def Finish 1": 2,
+      "Spd/Def Finish 2": 3,
+      "Spd/Def Finish 3": 4,
+      "Spd/Def Finish 4": 5
+    },
+    "skillB": {
+      "Laguz Friend 1": 2,
+      "Laguz Friend 2": 3,
+      "Laguz Friend 3": 4,
+      "Laguz Friend 4": 5
+    },
+    "skillC": {
+      "Breath of Life 1": 2,
+      "Breath of Life 2": 3,
+      "Breath of Life 3": 4,
+      "Breath of Life 4": 5
+    },
+    "skillX": {
+      "Time Pulse Echo": 5
+    }
+  },
+  "Merrin - Suave Knight": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Suave Blade": 5
+    },
+    "assist": {
+      "Reposition": 3
+    },
+    "skillB": {
+      "Spd/Def Link 1": 2,
+      "Spd/Def Link 2": 3,
+      "Spd/Def Link 3": 4,
+      "Spd/Def Link 4": 5
+    },
+    "skillC": {
+      "Even Atk Wave 1": 2,
+      "Even Atk Wave 2": 3,
+      "Even Atk Wave 3": 4,
+      "Even Atk Wave N": 5
+    }
+  },
   "Panette - Classy Brawler": {
     "weapon": {
       "Iron Axe": 1,
@@ -28053,6 +28141,58 @@
       "Panic Smoke 1": 3,
       "Panic Smoke 2": 4,
       "Panic Smoke 3": 5
+    }
+  },
+  "Fogado - Affable Prince": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Sentinel Bow": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Flared Sparrow": 5
+    },
+    "skillB": {
+      "S/D Far Trace 1": 2,
+      "S/D Far Trace 2": 3,
+      "S/D Far Trace 3": 4,
+      "S/D Far Trace 4": 5
+    }
+  },
+  "Pandreo - Party Priest": {
+    "weapon": {
+      "Assault": 1,
+      "Respite": 3,
+      "Respite+": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 2,
+      "Martyr": 3,
+      "Martyr+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Still-Water Balm": 3,
+      "Fireflood Balm": 4
+    },
+    "skillA": {
+      "Def/Res Finish 1": 3,
+      "Def/Res Finish 2": 4,
+      "Def/Res Finish 3": 5
+    },
+    "skillC": {
+      "Spur Res 1": 1,
+      "Drive Res 1": 2,
+      "Drive Res 2": 4
     }
   },
   "Anna - Twice the Anna": {
@@ -28231,6 +28371,28 @@
       "Rouse Atk/Def 1": 1,
       "Rouse Atk/Def 2": 2,
       "Rouse Atk/Def 3": 4
+    }
+  },
+  "Marni - Pining for Praise": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Praise-Piner Axe": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Def Prime 1": 3,
+      "Atk/Def Prime 2": 4,
+      "Atk/Def Prime 3": 5
+    },
+    "skillB": {
+      "Wary Fighter 1": 1,
+      "Wary Fighter 2": 2,
+      "Wary Fighter 3": 4
     }
   },
   "Nel - Stoic Bride": {

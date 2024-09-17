@@ -966,6 +966,19 @@
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
   },
+  "Pandreo - Party Priest": {
+    "score": 75,
+    "scoreTotal": 245,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 1000,
+    "bst": 188,
+    "assist": { "Martyr+": { "sp": 300, "rarity": 5 } },
+    "special": { "Fireflood Balm": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Def/Res Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Res 2": { "sp": 240, "rarity": 5 } }
+  },
   "Gunter - Inveterate Soldier": {
     "score": 166,
     "scoreTotal": 246,
@@ -3325,6 +3338,19 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Spd/Def Rein 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Flora - Polar-Perfect": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 185,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Disarm Trap 3": { "sp": 240, "rarity": 5 } }
   },
   "Clanne - Summer Fan": {
     "score": 196,
@@ -7230,19 +7256,6 @@
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
-  "Flora - Polar-Perfect": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 185,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Disarm Trap 3": { "sp": 240, "rarity": 5 } }
-  },
   "Myrrh - Spooky Monster": {
     "score": 254,
     "scoreTotal": 721,
@@ -8571,6 +8584,19 @@
     "skillA": { "Def/Res Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
   },
+  "Marni - Pining for Praise": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 205,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Prime 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
+  },
   "Isadora - Escort of Pherae": {
     "score": 300,
     "scoreTotal": 750,
@@ -8582,6 +8608,18 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Def Snag 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Merrin - Suave Knight": {
+    "score": 300,
+    "scoreTotal": 750,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 750,
+    "feather": 1000,
+    "bst": 190,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillB": { "Spd/Def Link 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Even Atk Wave N": { "sp": 300, "rarity": 5 } }
   },
   "Micaiah - Summer's Dawn": {
     "score": 254,
@@ -9446,6 +9484,18 @@
     "special": { "Pavise": { "sp": 200, "rarity": 5 } },
     "skillA": { "Sturdy Stance 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Fogado - Affable Prince": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/D Far Trace 4": { "sp": 300, "rarity": 5 } }
   },
   "Febail - Mercenary Waif": {
     "score": 300,
@@ -11938,6 +11988,21 @@
     "skillB": { "Potent Disarm": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
   },
+  "Timerra - Desert Warrior": {
+    "score": 270,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "attuned",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Def Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Breath of Life 4": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Time Pulse Echo": { "sp": 0, "rarity": 5 } }
+  },
   "Chrom - Fated Honor": {
     "score": 300,
     "scoreTotal": 990,
@@ -13102,6 +13167,19 @@
     "skillA": { "Fortifications": { "sp": 300, "rarity": 5 } },
     "skillB": { "Reopening": { "sp": 300, "rarity": 5 } },
     "skillC": { "Breath of Life 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Reginn - Dvergr Heir": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flow Guard 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Shadow Shift 4": { "sp": 300, "rarity": 5 } }
   },
   "Gilliam - Wall of Silence": {
     "score": 300,

@@ -1191,7 +1191,7 @@
     "id": "Hardy Fighter 1",
     "name": "盾壁隊形1",
     "sp": 60,
-    "rules": "armored",
+    "rules": "learner.armored-melee",
     "icon": "skillB/Hardy_Fighter_1"
   },
   "Hardy Fighter 2": {
@@ -1199,7 +1199,7 @@
     "name": "盾壁隊形2",
     "sp": 120,
     "prev": ["Hardy Fighter 1"],
-    "rules": "armored",
+    "rules": "learner.armored-melee",
     "icon": "skillB/Hardy_Fighter_2"
   },
   "Hardy Fighter 3": {
@@ -1207,7 +1207,7 @@
     "name": "盾壁隊形3",
     "sp": 240,
     "prev": ["Hardy Fighter 2"],
-    "rules": "armored",
+    "rules": "learner.armored-melee",
     "icon": "skillB/Hardy_Fighter_3",
     "last": true
   },
@@ -1281,7 +1281,7 @@
     "id": "Shield Fighter",
     "name": "連盾隊形",
     "sp": 300,
-    "rules": "armored",
+    "rules": "learner.armored-melee",
     "prev": ["Hardy Fighter 3"],
     "last": true,
     "icon": "skillB/Shield_Fighter"
@@ -3097,6 +3097,15 @@
     "icon": "skillB/Spd_Def_Link_3",
     "last": true
   },
+  "Spd/Def Link 4": {
+    "id": "Spd/Def Link 4",
+    "name": "速度防守連動4",
+    "sp": 300,
+    "prev": ["Spd/Def Link 3"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Spd_Def_Link_4",
+    "last": true
+  },
   "Spd/Res Link 1": {
     "id": "Spd/Res Link 1",
     "name": "速度魔防連動1",
@@ -4375,6 +4384,15 @@
     "prev": ["S/D Far Trace 2"],
     "rules": "learner.cavalry-flying-ranged",
     "icon": "skillB/S_D_Far_Trace_3",
+    "last": true
+  },
+  "S/D Far Trace 4": {
+    "id": "S/D Far Trace 4",
+    "name": "速度防守遠影4",
+    "sp": 300,
+    "prev": ["S/D Far Trace 3"],
+    "rules": "learner.cavalry-flying-ranged",
+    "icon": "skillB/S_D_Far_Trace_4",
     "last": true
   },
   "S/R Far Trace 1": {

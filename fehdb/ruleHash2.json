@@ -275,6 +275,10 @@
     "weaponType": 15732727,
     "moveType": 2
   },
+  "learner.armored-melee": {
+    "weaponType": 16711687,
+    "moveType": 2
+  },
   "learner.armored-melee-def-dmger": {
     "moveType": 2,
     "weaponType": 15728647

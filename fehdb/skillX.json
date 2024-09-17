@@ -53,6 +53,14 @@
     "last": true,
     "icon": "skillX/Soaring_Echo"
   },
+  "Time Pulse Echo": {
+    "id": "Time Pulse Echo",
+    "name": "響・初始之躍動",
+    "sp": 0,
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillX/Time_Pulse_Echo"
+  },
   "Atk Oath Echo": {
     "id": "Atk Oath Echo",
     "name": "響・攻擊的信義",

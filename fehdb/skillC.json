@@ -4436,5 +4436,38 @@
     "rules": "beast",
     "icon": "skillC/Beast_Valor_3",
     "last": true
+  },
+  "Shadow Shift 1": {
+    "id": "Shadow Shift 1",
+    "name": "影助・帶回1",
+    "sp": 60,
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_1"
+  },
+  "Shadow Shift 2": {
+    "id": "Shadow Shift 2",
+    "name": "影助・帶回2",
+    "sp": 120,
+    "prev": ["Shadow Shift 1"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_2"
+  },
+  "Shadow Shift 3": {
+    "id": "Shadow Shift 3",
+    "name": "影助・帶回3",
+    "sp": 240,
+    "prev": ["Shadow Shift 2"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_3",
+    "last": true
+  },
+  "Shadow Shift 4": {
+    "id": "Shadow Shift 4",
+    "name": "影助・帶回4",
+    "sp": 300,
+    "prev": ["Shadow Shift 3"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_4",
+    "last": true
   }
 }

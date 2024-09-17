@@ -3389,12 +3389,22 @@
     },
     "Ilian Frost Blade": {
       "id": "Ilian Frost Blade",
-      "name": "伊莉亞吹雪之劍",
+      "name": "伊莉亞的風雪之劍",
       "mt": 16,
       "cd": -1,
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Thea - Wings of Winter"],
+      "last": true
+    },
+    "Suave Blade": {
+      "id": "Suave Blade",
+      "name": "異獸騎士之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Merrin - Suave Knight"],
       "last": true
     },
     "Arcane Éljúðnir": {
@@ -7640,12 +7650,32 @@
     },
     "Ice-Crystal Spear": {
       "id": "Ice-Crystal Spear",
-      "name": "尼福爾冰晶之槍",
+      "name": "尼福爾的冰晶之槍",
       "mt": 16,
       "cd": -1,
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Fjorm - Gleaming Ice Pair"],
+      "last": true
+    },
+    "Desert Spear": {
+      "id": "Desert Spear",
+      "name": "戰鬥熱沙之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Timerra - Desert Warrior"],
+      "last": true
+    },
+    "Dvergr Wayfinder": {
+      "id": "Dvergr Wayfinder",
+      "name": "尼德威阿爾的理槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Reginn - Dvergr Heir"],
       "last": true
     },
     "Arcane Qiang": {
@@ -11446,6 +11476,16 @@
       "exclusive": ["Felicia - Confidently Cold"],
       "last": true
     },
+    "Praise-Piner Axe": {
+      "id": "Praise-Piner Axe",
+      "name": "風之大斧",
+      "mt": 16,
+      "def": 3,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Marni - Pining for Praise"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -14632,6 +14672,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Bernadetta - Sheltered Loner"],
+      "last": true
+    },
+    "Sentinel Bow": {
+      "id": "Sentinel Bow",
+      "name": "自衛團團長之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Fogado - Affable Prince"],
       "last": true
     },
     "Arcane Náströnd": {

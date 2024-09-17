@@ -511,6 +511,22 @@
     "exclusive": ["Fjorm - Gleaming Ice Pair"],
     "last": true
   },
+  "Seiðr Burst": {
+    "id": "Seiðr Burst",
+    "name": "連魔彈",
+    "sp": 500,
+    "prev": ["Ignis"],
+    "exclusive": ["Reginn - Dvergr Heir"],
+    "last": true
+  },
+  "Sandstorm": {
+    "id": "Sandstorm",
+    "name": "沙陣",
+    "sp": 500,
+    "prev": ["Ignis"],
+    "exclusive": ["Timerra - Desert Warrior"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
