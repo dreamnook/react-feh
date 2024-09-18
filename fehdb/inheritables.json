@@ -3066,7 +3066,8 @@
     },
     "Rescue+": {
       "pool": {
-        "#": { "5": ["Flayn - Playing Innocent", "Elincia - Devoted Queen"] },
+        "#": { "5": ["Flayn - Playing Innocent"] },
+        "ascended": { "5": ["Elincia - Devoted Queen"] },
         "rearmed": { "5": ["Hortensia - Little Charmer"] },
         "special": {
           "5": ["L'Arachel - Seeker of Justice", "Flayn - Silly Kitty-Cat"]
@@ -3926,7 +3927,6 @@
             "Sonya - Vengeful Mage",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
-            "Celica - Valentia's Hope",
             "Annand - Knight-Defender",
             "Gatrie - Armored Amour",
             "Shez - Rising Mercenary",
@@ -3947,12 +3947,17 @@
             "Gerik - Desert Tiger",
             "Jill - Fiery Dracoknight",
             "Lysithea - Earnest Seeker",
-            "Laegjarn - Flame Ascendant",
-            "Florina - Azure-Sky Knight",
             "Bernadetta - Sheltered Loner"
           ]
         },
         "grail": { "4": ["Joshua - Tempest King", "Kyza - Tiger of Fortune"] },
+        "ascended": {
+          "5": [
+            "Celica - Valentia's Hope",
+            "Laegjarn - Flame Ascendant",
+            "Florina - Azure-Sky Knight"
+          ]
+        },
         "rearmed": {
           "5": ["Reinhardt - Thrud Reborn", "Sothe - Dawning Zephyr"]
         },
@@ -4068,9 +4073,7 @@
             "Ike - Young Mercenary",
             "Ike - Brave Mercenary",
             "Chrom - Knight Exalt",
-            "Ishtar - Echoing Thunder",
             "Dieck - Wounded Tiger",
-            "Hilda - Helping Hand",
             "Alear - Dragon Child",
             "Volke - Man of Mysteries"
           ]
@@ -4086,6 +4089,9 @@
             "Kronya - Gleaming Blade",
             "Linus - Mad Dog"
           ]
+        },
+        "ascended": {
+          "5": ["Ishtar - Echoing Thunder", "Hilda - Helping Hand"]
         },
         "rearmed": {
           "5": [
@@ -4222,11 +4228,8 @@
             "Lewyn - Guiding Breeze",
             "Pent - Mage General",
             "Charlotte - Wily Warrior",
-            "Joshua - Resolute Tempest",
             "Corrin - Bloodbound Beast",
             "Morgan - Devoted Darkness",
-            "Merric - Wind Pontifex",
-            "Fir - Swordmaiden",
             "Felix - Sword Savant",
             "Shinon - Scathing Archer"
           ]
@@ -4242,6 +4245,13 @@
             "Felix - Icy Gift Giver",
             "Kana - Rising Sunlight",
             "Clarisse - Sniper in the Dark"
+          ]
+        },
+        "ascended": {
+          "5": [
+            "Joshua - Resolute Tempest",
+            "Merric - Wind Pontifex",
+            "Fir - Swordmaiden"
           ]
         },
         "rearmed": {
@@ -4337,8 +4347,7 @@
             "Roy - Brave Lion",
             "Shannan - Wielder of Astra",
             "Celica - Warrior Priestess",
-            "Yarne - Timid Taguel",
-            "Mareeta - Astra Awakened"
+            "Yarne - Timid Taguel"
           ]
         },
         "grail": {
@@ -4349,6 +4358,7 @@
             "Panne - Proud Taguel"
           ]
         },
+        "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
         "mythic": { "5": ["Nerþuz - God of the Land"] },
@@ -4376,7 +4386,7 @@
     },
     "Vital Astra": {
       "pool": {
-        "#": { "5": ["Mareeta - Astra Awakened"] },
+        "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "special": { "5": ["Timerra - Trick or Meat"] }
       },
       "id": "Vital Astra",
@@ -4487,7 +4497,6 @@
             "Catherine - Thunder Knight",
             "Hardin - The Coyote",
             "Flavia - Feroxi East-Khan",
-            "Eir - Life Ascendant",
             "Caeldori - Perfect Angel",
             "Dorcas - Serene Warrior",
             "Ephraim - Sacred Twin Lord",
@@ -4512,6 +4521,7 @@
             "Julius - Scion of Darkness"
           ]
         },
+        "ascended": { "5": ["Eir - Life Ascendant"] },
         "attuned": { "5": ["Nino - Fang's Heart"] },
         "legendary": {
           "5": [
@@ -4708,11 +4718,9 @@
             "Zeke - Past Unknown",
             "Gustav - Sovereign Slain",
             "Diamant - Rising Power",
-            "Idunn - Divine Demon",
             "Alfonse - Heir to Openness",
             "Gilliam - Wall of Silence",
             "Mozu - Tragic Start",
-            "Amelia - Blossoming Talent",
             "Owain - Chosen One"
           ]
         },
@@ -4722,6 +4730,9 @@
             "Frederick - Youth in Service",
             "Astram - Midia's Hero"
           ]
+        },
+        "ascended": {
+          "5": ["Idunn - Divine Demon", "Amelia - Blossoming Talent"]
         },
         "rearmed": { "5": ["Alfred - Floral Protector", "Líf - Arcane Blade"] },
         "legendary": {
@@ -4792,8 +4803,7 @@
             "Hector - Brave Warrior",
             "Tiki - Torpid Dragon",
             "Arlen - Mage of Khadein",
-            "Robin - Exalt's Deliverer",
-            "Reginn - Dvergr Heir"
+            "Robin - Exalt's Deliverer"
           ]
         },
         "grail": {
@@ -4821,6 +4831,7 @@
           ]
         },
         "attuned": { "5": ["Timerra - Desert Warrior"] },
+        "aided": { "5": ["Reginn - Dvergr Heir"] },
         "legendary": {
           "5": ["Robin - Exalt's Other Half", "Seliph - Scion of Light"]
         },
@@ -4843,7 +4854,7 @@
     },
     "Armored Beacon": {
       "pool": {
-        "#": { "5": ["Amelia - Blossoming Talent"] },
+        "ascended": { "5": ["Amelia - Blossoming Talent"] },
         "special": { "5": ["Hector - Sworn Friend", "Myrrh - Adored Dragon"] }
       },
       "id": "Armored Beacon",
@@ -4893,7 +4904,6 @@
             "Say'ri - Chon'sin's Blade",
             "Est - Sweet Baby Sis",
             "Céline - Joyous Royal",
-            "Tiki - Awakened Blood",
             "Niime - Mountain Hermit",
             "Citrinne - Caring Noble",
             "Yukimura - Puppet Master",
@@ -4910,6 +4920,7 @@
         "grail": {
           "4": ["Cecilia - Festive Instructor", "Lloyd - White Wolf"]
         },
+        "ascended": { "5": ["Tiki - Awakened Blood"] },
         "rearmed": {
           "5": ["Lumera - Corrupted Dragon", "Ganglöt - Death Anew"]
         },
@@ -5099,8 +5110,7 @@
           "5": [
             "Hinoka - Warrior Princess",
             "Olwen - Righteous Knight",
-            "Igrene - Nabata Protector",
-            "Ced - Sage of the Wind"
+            "Igrene - Nabata Protector"
           ]
         },
         "grail": {
@@ -5112,6 +5122,7 @@
             "Matthis - Brother to Lena"
           ]
         },
+        "ascended": { "5": ["Ced - Sage of the Wind"] },
         "rearmed": { "5": ["Sonya - Beautiful Mage"] },
         "legendary": { "5": ["Dimitri - Savior King"] },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
@@ -5256,12 +5267,9 @@
       "pool": {
         "#": {
           "3": ["Lukas - Sharp Soldier", "Eliwood - Knight of Lycia"],
-          "5": [
-            "Minerva - Red Dragoon",
-            "Amelia - Rose of the War",
-            "Fjorm - Ice Ascendant"
-          ]
+          "5": ["Minerva - Red Dragoon", "Amelia - Rose of the War"]
         },
+        "ascended": { "5": ["Fjorm - Ice Ascendant"] },
         "legendary": { "5": ["Fjorm - Princess of Ice"] },
         "special": { "5": ["Fjorm - Seaside Thaw"] },
         "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
@@ -5302,7 +5310,6 @@
             "Mikoto - Caring Mother",
             "Safy - Font of Piety",
             "Maria - Ritual Sacrifice",
-            "Elincia - Devoted Queen",
             "Tina - Playful Scamp",
             "Delthea - Free Spirit",
             "Sigurd - Holy Knight"
@@ -5316,6 +5323,7 @@
           ],
           "4": ["Finn - Lance of Legend"]
         },
+        "ascended": { "5": ["Elincia - Devoted Queen"] },
         "rearmed": { "5": ["Hortensia - Little Charmer"] },
         "legendary": {
           "5": [
@@ -5508,7 +5516,7 @@
     },
     "Light's Restraint": {
       "pool": {
-        "#": { "5": ["Elincia - Devoted Queen"] },
+        "ascended": { "5": ["Elincia - Devoted Queen"] },
         "special": { "5": ["Emmeryn - Selfless Exalt"] }
       },
       "id": "Light's Restraint",
@@ -5898,12 +5906,9 @@
           "5": [
             "Jaffar - Angel of Death",
             "Minerva - Red Dragoon",
-            "Celica - Valentia's Hope",
             "Niðavellir - Founding King",
             "Wolf - Coyote's Loyal",
             "Selena - Fluorspar",
-            "Ishtar - Echoing Thunder",
-            "Joshua - Resolute Tempest",
             "Igrene - Nabata Protector",
             "Leila - Rose amid Fangs",
             "Ursula - Blackened Crow",
@@ -5911,6 +5916,13 @@
           ]
         },
         "grail": { "5": ["Hana - Focused Ninja", "Zephiel - The Liberator"] },
+        "ascended": {
+          "5": [
+            "Celica - Valentia's Hope",
+            "Ishtar - Echoing Thunder",
+            "Joshua - Resolute Tempest"
+          ]
+        },
         "emblem": { "5": ["Celica - Of Echoes"] },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
         "special": { "5": ["Say'ri - Righteous Bride"] }
@@ -5925,14 +5937,18 @@
       "pool": {
         "#": {
           "5": [
-            "Celica - Valentia's Hope",
             "Wolf - Coyote's Loyal",
             "Selena - Fluorspar",
-            "Ishtar - Echoing Thunder",
-            "Joshua - Resolute Tempest",
             "Igrene - Nabata Protector",
             "Leila - Rose amid Fangs",
             "Lucia - Tireless Advisor"
+          ]
+        },
+        "ascended": {
+          "5": [
+            "Celica - Valentia's Hope",
+            "Ishtar - Echoing Thunder",
+            "Joshua - Resolute Tempest"
           ]
         },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
@@ -6170,8 +6186,6 @@
             "Sue - Doe of the Plains",
             "Charlotte - Wily Warrior",
             "Chrom - Fated Honor",
-            "Laegjarn - Flame Ascendant",
-            "Merric - Wind Pontifex",
             "Eliwood - Marquess Pherae"
           ]
         },
@@ -6181,6 +6195,9 @@
             "Felix - Icy Gift Giver",
             "Naesala - Sky's Shadow"
           ]
+        },
+        "ascended": {
+          "5": ["Laegjarn - Flame Ascendant", "Merric - Wind Pontifex"]
         },
         "attuned": { "5": ["Nino - Fang's Heart"] },
         "legendary": {
@@ -6256,10 +6273,10 @@
           "5": [
             "Catherine - Thunder Knight",
             "Charlotte - Wily Warrior",
-            "Laegjarn - Flame Ascendant",
             "Eliwood - Marquess Pherae"
           ]
         },
+        "ascended": { "5": ["Laegjarn - Flame Ascendant"] },
         "legendary": {
           "5": ["Celica - Queen of Valentia", "Lucina - Glorious Archer"]
         },
@@ -6487,7 +6504,7 @@
     },
     "Remote Sparrow": {
       "pool": {
-        "#": { "5": ["Merric - Wind Pontifex"] },
+        "ascended": { "5": ["Merric - Wind Pontifex"] },
         "legendary": { "5": ["Camilla - Alluring Darkness"] },
         "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
@@ -6657,15 +6674,12 @@
       "pool": {
         "#": {
           "3": ["Altena - Luminous Rider"],
-          "5": [
-            "Dedue - Dimitri's Vassal",
-            "Idunn - Divine Demon",
-            "Gilliam - Wall of Silence"
-          ]
+          "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"]
         },
         "grail": {
           "4": ["Dorcas - Pumpkin Smasher", "Ludveck - Rebellious Duke"]
         },
+        "ascended": { "5": ["Idunn - Divine Demon"] },
         "legendary": { "5": ["Ephraim - Legendary Lord"] },
         "special": {
           "5": ["Dheginsea - Harvest Goldoan", "Robin - Fall Reincarnation"]
@@ -6680,13 +6694,8 @@
     },
     "Sturdy Stance 3": {
       "pool": {
-        "#": {
-          "5": [
-            "Dedue - Dimitri's Vassal",
-            "Idunn - Divine Demon",
-            "Gilliam - Wall of Silence"
-          ]
-        },
+        "#": { "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"] },
+        "ascended": { "5": ["Idunn - Divine Demon"] },
         "special": {
           "5": ["Dheginsea - Harvest Goldoan", "Robin - Fall Reincarnation"]
         },
@@ -6735,12 +6744,9 @@
       "pool": {
         "#": {
           "3": ["Reyson - White Prince", "Thea - Stormy Flier"],
-          "5": [
-            "Shannan - Wielder of Astra",
-            "Fjorm - Ice Ascendant",
-            "Quan - Luminous Lancer"
-          ]
-        }
+          "5": ["Shannan - Wielder of Astra", "Quan - Luminous Lancer"]
+        },
+        "ascended": { "5": ["Fjorm - Ice Ascendant"] }
       },
       "id": "Steady Posture 2",
       "name": "飛燕金剛架勢2",
@@ -6750,7 +6756,8 @@
     },
     "Steady Posture 3": {
       "pool": {
-        "#": { "5": ["Shannan - Wielder of Astra", "Fjorm - Ice Ascendant"] }
+        "#": { "5": ["Shannan - Wielder of Astra"] },
+        "ascended": { "5": ["Fjorm - Ice Ascendant"] }
       },
       "id": "Steady Posture 3",
       "name": "飛燕金剛架勢3",
@@ -7745,20 +7752,21 @@
           "5": [
             "Camilla - Light of Nohr",
             "Sara - Lady of Loptr",
-            "Elincia - Devoted Queen",
             "Flavia - Feroxi East-Khan",
             "Malice - Deft Sellsword",
             "Bernadetta - Eternal Loner",
             "Eleonora - Shooting Starlet",
             "Jill - Fiery Dracoknight",
             "Lysithea - Earnest Seeker",
-            "Florina - Azure-Sky Knight",
             "Constance - Fallen Noble"
           ]
         },
         "grail": {
           "4": ["Leonie - Relentless Rays", "Effie - Dedicated Heart"],
           "5": ["Petrine - Icy Flame-Lancer", "Gonzalez - Kindly Bandit"]
+        },
+        "ascended": {
+          "5": ["Elincia - Devoted Queen", "Florina - Azure-Sky Knight"]
         },
         "legendary": {
           "5": ["Azura - Vallite Songstress", "Nanna - Beloved Princess"]
@@ -7798,16 +7806,17 @@
           "5": [
             "Camilla - Light of Nohr",
             "Sara - Lady of Loptr",
-            "Elincia - Devoted Queen",
             "Flavia - Feroxi East-Khan",
             "Malice - Deft Sellsword",
             "Bernadetta - Eternal Loner",
             "Eleonora - Shooting Starlet",
             "Jill - Fiery Dracoknight",
             "Lysithea - Earnest Seeker",
-            "Florina - Azure-Sky Knight",
             "Constance - Fallen Noble"
           ]
+        },
+        "ascended": {
+          "5": ["Elincia - Devoted Queen", "Florina - Azure-Sky Knight"]
         },
         "legendary": {
           "5": ["Azura - Vallite Songstress", "Nanna - Beloved Princess"]
@@ -7928,12 +7937,13 @@
             "Ingrid - Galatea's Heir",
             "Shamir - Archer Apart",
             "Corrin - Bloodbound Beast",
-            "Hilda - Helping Hand",
-            "Yarne - Timid Taguel",
-            "Mareeta - Astra Awakened"
+            "Yarne - Timid Taguel"
           ]
         },
         "grail": { "5": ["Shez - Mercenary Shade"] },
+        "ascended": {
+          "5": ["Hilda - Helping Hand", "Mareeta - Astra Awakened"]
+        },
         "legendary": { "5": ["Eirika - Graceful Resolve"] },
         "mythic": {
           "5": ["Freyja - Lady of Nightmare", "Sothis - Girl on the Throne"]
@@ -7968,10 +7978,11 @@
             "Dimitri - Savage Boar",
             "Ingrid - Galatea's Heir",
             "Shamir - Archer Apart",
-            "Corrin - Bloodbound Beast",
-            "Hilda - Helping Hand",
-            "Mareeta - Astra Awakened"
+            "Corrin - Bloodbound Beast"
           ]
+        },
+        "ascended": {
+          "5": ["Hilda - Helping Hand", "Mareeta - Astra Awakened"]
         },
         "legendary": { "5": ["Eirika - Graceful Resolve"] },
         "mythic": { "5": ["Freyja - Lady of Nightmare"] },
@@ -8651,7 +8662,6 @@
       "pool": {
         "#": {
           "5": [
-            "Eir - Life Ascendant",
             "Caeldori - Perfect Angel",
             "Farina - The Great Wing",
             "Byleth - Sublime Light",
@@ -8659,6 +8669,7 @@
           ]
         },
         "grail": { "4": ["Zephia - Scheming Dragon"] },
+        "ascended": { "5": ["Eir - Life Ascendant"] },
         "rearmed": { "5": ["Hortensia - Little Charmer"] },
         "legendary": {
           "5": [
@@ -8704,13 +8715,13 @@
       "pool": {
         "#": {
           "5": [
-            "Eir - Life Ascendant",
             "Caeldori - Perfect Angel",
             "Farina - The Great Wing",
             "Byleth - Sublime Light",
             "Lilith - Silent Broodling"
           ]
         },
+        "ascended": { "5": ["Eir - Life Ascendant"] },
         "rearmed": { "5": ["Hortensia - Little Charmer"] },
         "legendary": {
           "5": [
@@ -8886,14 +8897,14 @@
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
             "Alear - Dragon Youth",
-            "Alear - Dragon Child",
-            "Ced - Sage of the Wind"
+            "Alear - Dragon Child"
           ]
         },
         "grail": {
           "4": ["Lloyd - Vengeful Wolf"],
           "5": ["Hans - Ambitious Brute", "Holst - Hero of Leicester"]
         },
+        "ascended": { "5": ["Ced - Sage of the Wind"] },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
         "special": { "4": ["Rinkah - Consuming Flame"] }
@@ -8913,10 +8924,10 @@
             "Arthur - Furious Mage",
             "Louise - Lady of Violets",
             "Alear - Dragon Youth",
-            "Alear - Dragon Child",
-            "Ced - Sage of the Wind"
+            "Alear - Dragon Child"
           ]
         },
+        "ascended": { "5": ["Ced - Sage of the Wind"] },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] }
       },
@@ -9078,12 +9089,12 @@
           "5": [
             "Seliph - Enduring Legacy",
             "Isadora - Escort of Pherae",
-            "Reginn - Dvergr Heir",
             "Felix - Sword Savant"
           ]
         },
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
         "attuned": { "5": ["Triandra - Reverent Dream"] },
+        "aided": { "5": ["Reginn - Dvergr Heir"] },
         "legendary": {
           "5": ["Elincia - Undaunted Queen", "Dimitri - Savior King"]
         },
@@ -9207,12 +9218,12 @@
         "#": {
           "5": [
             "Robin - Exalt's Deliverer",
-            "Fir - Swordmaiden",
             "Robin - Exalt's Right Hand",
             "Severa - Secret Dreamer",
             "Felix - Lone-Wolf Blade"
           ]
         },
+        "ascended": { "5": ["Fir - Swordmaiden"] },
         "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
         "emblem": { "5": ["Marth - Of Beginnings"] },
         "legendary": {
@@ -9244,12 +9255,12 @@
         "#": {
           "5": [
             "Robin - Exalt's Deliverer",
-            "Fir - Swordmaiden",
             "Robin - Exalt's Right Hand",
             "Severa - Secret Dreamer",
             "Felix - Lone-Wolf Blade"
           ]
         },
+        "ascended": { "5": ["Fir - Swordmaiden"] },
         "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
         "emblem": { "5": ["Marth - Of Beginnings"] },
         "legendary": {
@@ -9325,12 +9336,26 @@
       "icon": "skillA/Atk_Res_Finish_4",
       "rules": "infantry"
     },
+    "Spd/Def Finish 3": {
+      "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },
+      "id": "Spd/Def Finish 3",
+      "name": "速度防守的奧秘3",
+      "sp": 240,
+      "icon": "skillA/Spd_Def_Finish_3",
+      "rules": "infantry"
+    },
+    "Spd/Def Finish 4": {
+      "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },
+      "id": "Spd/Def Finish 4",
+      "name": "速度防守的奧秘4",
+      "sp": 300,
+      "icon": "skillA/Spd_Def_Finish_4",
+      "rules": "infantry"
+    },
     "Spd/Res Finish 3": {
       "pool": {
-        "#": {
-          "3": ["Yuliya - Princess of Grust"],
-          "5": ["Tiki - Awakened Blood"]
-        },
+        "#": { "3": ["Yuliya - Princess of Grust"] },
+        "ascended": { "5": ["Tiki - Awakened Blood"] },
         "legendary": {
           "5": ["Guinivere - Queen of Bern", "Corrin - Child of Dawn"]
         },
@@ -9347,7 +9372,7 @@
     },
     "Spd/Res Finish 4": {
       "pool": {
-        "#": { "5": ["Tiki - Awakened Blood"] },
+        "ascended": { "5": ["Tiki - Awakened Blood"] },
         "legendary": {
           "5": ["Guinivere - Queen of Bern", "Corrin - Child of Dawn"]
         },
@@ -9522,7 +9547,8 @@
     },
     "Atk/Spd Excel": {
       "pool": {
-        "#": { "5": ["Reginn - Dvergr Heir", "Felix - Sword Savant"] },
+        "#": { "5": ["Felix - Sword Savant"] },
+        "aided": { "5": ["Reginn - Dvergr Heir"] },
         "special": {
           "5": ["Nerþuz - Beach Chaperone", "Felicia - Confidently Cold"]
         },
@@ -9541,22 +9567,6 @@
       "sp": 300,
       "icon": "skillA/Atk_Def_Excel",
       "rules": "learner.infantry-cavalry-flying-melee"
-    },
-    "Spd/Def Finish 3": {
-      "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },
-      "id": "Spd/Def Finish 3",
-      "name": "速度防守的奧秘3",
-      "sp": 240,
-      "icon": "skillA/Spd_Def_Finish_3",
-      "rules": "infantry"
-    },
-    "Spd/Def Finish 4": {
-      "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },
-      "id": "Spd/Def Finish 4",
-      "name": "速度防守的奧秘4",
-      "sp": 300,
-      "icon": "skillA/Spd_Def_Finish_4",
-      "rules": "infantry"
     }
   },
   "skillB": {
@@ -10106,7 +10116,7 @@
     },
     "Hardy Fighter 3": {
       "pool": {
-        "#": { "5": ["Fjorm - Ice Ascendant"] },
+        "ascended": { "5": ["Fjorm - Ice Ascendant"] },
         "rearmed": { "5": ["Robin - Fell Tactician"] },
         "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
       },
@@ -10118,9 +10128,8 @@
     },
     "Savvy Fighter 3": {
       "pool": {
-        "#": {
-          "5": ["Anankos - Seething Silence", "Amelia - Blossoming Talent"]
-        },
+        "#": { "5": ["Anankos - Seething Silence"] },
+        "ascended": { "5": ["Amelia - Blossoming Talent"] },
         "special": {
           "5": ["Lucina - Future Fondness", "Takumi - Troubled Heart"]
         }
@@ -10140,7 +10149,7 @@
       "rules": "armored"
     },
     "Wily Fighter 3": {
-      "pool": { "#": { "5": ["Idunn - Divine Demon"] } },
+      "pool": { "ascended": { "5": ["Idunn - Divine Demon"] } },
       "id": "Wily Fighter 3",
       "name": "正面隊形・敵方3",
       "sp": 240,
@@ -10148,7 +10157,7 @@
       "rules": "armored"
     },
     "Clever Fighter": {
-      "pool": { "#": { "5": ["Amelia - Blossoming Talent"] } },
+      "pool": { "ascended": { "5": ["Amelia - Blossoming Talent"] } },
       "id": "Clever Fighter",
       "name": "慧敏隊型",
       "sp": 300,
@@ -10391,7 +10400,7 @@
     },
     "Seal Spd/Res 2": {
       "pool": {
-        "#": { "5": ["Merric - Wind Pontifex"] },
+        "ascended": { "5": ["Merric - Wind Pontifex"] },
         "special": { "5": ["Lute - Summer Prodigy"] }
       },
       "id": "Seal Spd/Res 2",
@@ -10401,7 +10410,7 @@
       "rules": "not.white-staff"
     },
     "Seal Spd/Res 3": {
-      "pool": { "#": { "5": ["Merric - Wind Pontifex"] } },
+      "pool": { "ascended": { "5": ["Merric - Wind Pontifex"] } },
       "id": "Seal Spd/Res 3",
       "name": "速度魔防封印3",
       "sp": 300,
@@ -11010,10 +11019,10 @@
             "Maribelle - Dire Damsel",
             "Silque - Adherent of Mila",
             "Flayn - Playing Innocent",
-            "Sara - Lady of Loptr",
-            "Elincia - Devoted Queen"
+            "Sara - Lady of Loptr"
           ]
         },
+        "ascended": { "5": ["Elincia - Devoted Queen"] },
         "mythic": { "5": ["Loki - Trickster God"] },
         "special": {
           "4": ["Xane - Desert Mirage"],
@@ -11034,7 +11043,7 @@
       "rules": "white-staff"
     },
     "Dazzling Shift": {
-      "pool": { "#": { "5": ["Elincia - Devoted Queen"] } },
+      "pool": { "ascended": { "5": ["Elincia - Devoted Queen"] } },
       "id": "Dazzling Shift",
       "name": "幻惑・轉移",
       "sp": 300,
@@ -11781,10 +11790,10 @@
             "Citrinne - Caring Noble",
             "Lewyn - Guiding Breeze",
             "Igrene - Nabata Protector",
-            "Nergal - Traitor to Nabata",
-            "Ced - Sage of the Wind"
+            "Nergal - Traitor to Nabata"
           ]
         },
+        "ascended": { "5": ["Ced - Sage of the Wind"] },
         "rearmed": { "5": ["Ophelia - Starlit Maiden"] },
         "special": {
           "5": ["Corrin - Daylight Ninja Act", "Karla - Sun-Piercing Steel"]
@@ -11799,13 +11808,8 @@
     },
     "Special Spiral 4": {
       "pool": {
-        "#": {
-          "5": [
-            "Citrinne - Caring Noble",
-            "Nergal - Traitor to Nabata",
-            "Ced - Sage of the Wind"
-          ]
-        },
+        "#": { "5": ["Citrinne - Caring Noble", "Nergal - Traitor to Nabata"] },
+        "ascended": { "5": ["Ced - Sage of the Wind"] },
         "rearmed": { "5": ["Ophelia - Starlit Maiden"] }
       },
       "id": "Special Spiral 4",
@@ -11829,11 +11833,9 @@
             "Shamir - Archer Apart",
             "Tine - Rumbling Thunder",
             "Marianne - Serene Adherent",
-            "Joshua - Resolute Tempest",
             "Corrin - Bloodbound Beast",
             "Dieck - Wounded Tiger",
             "Priam - Radiant Hero",
-            "Fir - Swordmaiden",
             "Soren - Radiant Confidant",
             "Volke - Man of Mysteries"
           ]
@@ -11841,6 +11843,7 @@
         "grail": {
           "5": ["Perne - Dacian Scoundrel", "Lumera - Dragon Monarch"]
         },
+        "ascended": { "5": ["Joshua - Resolute Tempest", "Fir - Swordmaiden"] },
         "legendary": { "5": ["Alm - Saint-King"] },
         "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
@@ -11857,7 +11860,8 @@
     },
     "Phys. Null Follow": {
       "pool": {
-        "#": { "5": ["Febail - Mercenary Waif", "Fir - Swordmaiden"] }
+        "#": { "5": ["Febail - Mercenary Waif"] },
+        "ascended": { "5": ["Fir - Swordmaiden"] }
       },
       "id": "Phys. Null Follow",
       "name": "理之識破・追擊",
@@ -11908,7 +11912,7 @@
     },
     "Mystic Boost 3": {
       "pool": {
-        "#": { "5": ["Eir - Life Ascendant"] },
+        "ascended": { "5": ["Eir - Life Ascendant"] },
         "mythic": { "5": ["Eir - Merciful Death"] },
         "special": { "5": ["Mirabilis - Spring Daydream"] },
         "duo": { "5": ["Ymir - Seasons of Life", "Micaiah - Dawn Wind's Duo"] }
@@ -11920,7 +11924,7 @@
     },
     "Mystic Boost 4": {
       "pool": {
-        "#": { "5": ["Eir - Life Ascendant"] },
+        "ascended": { "5": ["Eir - Life Ascendant"] },
         "duo": { "5": ["Ymir - Seasons of Life"] }
       },
       "id": "Mystic Boost 4",
@@ -12072,13 +12076,8 @@
     },
     "Lull Spd/Res 3": {
       "pool": {
-        "#": {
-          "5": [
-            "Lysithea - Child Prodigy",
-            "Ishtar - Echoing Thunder",
-            "Lysithea - Earnest Seeker"
-          ]
-        },
+        "#": { "5": ["Lysithea - Child Prodigy", "Lysithea - Earnest Seeker"] },
+        "ascended": { "5": ["Ishtar - Echoing Thunder"] },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
         "mythic": {
           "5": ["Ashera - Order Goddess", "Kvasir - Seer of the Past"]
@@ -12173,10 +12172,10 @@
             "Malice - Deft Sellsword",
             "Kris - Unknown Hero",
             "Kris - Unsung Hero",
-            "Marth - Prince of Light",
-            "Mareeta - Astra Awakened"
+            "Marth - Prince of Light"
           ]
         },
+        "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "legendary": { "5": ["Roy - Blazing Lion"] },
         "special": {
           "5": [
@@ -12220,7 +12219,7 @@
       "rules": "learner.wielderInfantry"
     },
     "Velocity 3": {
-      "pool": { "#": { "5": ["Hilda - Helping Hand"] } },
+      "pool": { "ascended": { "5": ["Hilda - Helping Hand"] } },
       "id": "Velocity 3",
       "name": "迴避・節拍3",
       "sp": 240,
@@ -12394,7 +12393,7 @@
     },
     "A/D Far Trace 3": {
       "pool": {
-        "#": { "5": ["Laegjarn - Flame Ascendant"] },
+        "ascended": { "5": ["Laegjarn - Flame Ascendant"] },
         "special": { "5": ["Leo - Shrouded Heart", "Shanna - Bridal Novice"] }
       },
       "id": "A/D Far Trace 3",
@@ -12433,7 +12432,8 @@
     },
     "S/D Far Trace 3": {
       "pool": {
-        "#": { "5": ["Fogado - Affable Prince", "Florina - Azure-Sky Knight"] },
+        "#": { "5": ["Fogado - Affable Prince"] },
+        "ascended": { "5": ["Florina - Azure-Sky Knight"] },
         "special": { "5": ["Catria - Windswept Knight"] }
       },
       "id": "S/D Far Trace 3",
@@ -12514,7 +12514,8 @@
     },
     "Flow Guard 3": {
       "pool": {
-        "#": { "5": ["Noah - Mercenary-Errant", "Reginn - Dvergr Heir"] },
+        "#": { "5": ["Noah - Mercenary-Errant"] },
+        "aided": { "5": ["Reginn - Dvergr Heir"] },
         "mythic": { "5": ["Thórr - War God"] },
         "special": { "5": ["Lapis - Mighty Bride"] },
         "harmonized": { "5": ["Cordelia - Unyielding Snow"] }
@@ -12527,7 +12528,7 @@
     },
     "Flow Guard 4": {
       "pool": {
-        "#": { "5": ["Reginn - Dvergr Heir"] },
+        "aided": { "5": ["Reginn - Dvergr Heir"] },
         "special": { "5": ["Lapis - Mighty Bride"] }
       },
       "id": "Flow Guard 4",
@@ -12702,7 +12703,7 @@
     },
     "Spd/Res Bulwark 3": {
       "pool": {
-        "#": { "5": ["Tiki - Awakened Blood"] },
+        "ascended": { "5": ["Tiki - Awakened Blood"] },
         "legendary": { "5": ["Alear - Engaging Fire"] }
       },
       "id": "Spd/Res Bulwark 3",
@@ -13229,14 +13230,15 @@
           "5": [
             "Lucina - Brave Princess",
             "Ronan - Villager of Iz",
-            "Florina - Azure-Sky Knight",
-            "Hilda - Helping Hand",
             "Anna - Secret Seller"
           ]
         },
         "grail": {
           "4": ["Perne - Dacian Scoundrel"],
           "5": ["Norne - Seaside Volunteer"]
+        },
+        "ascended": {
+          "5": ["Florina - Azure-Sky Knight", "Hilda - Helping Hand"]
         },
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
         "special": {
@@ -13325,13 +13327,9 @@
     },
     "Joint Drive Spd": {
       "pool": {
-        "#": {
-          "5": [
-            "Ronan - Villager of Iz",
-            "Florina - Azure-Sky Knight",
-            "Hilda - Helping Hand",
-            "Anna - Secret Seller"
-          ]
+        "#": { "5": ["Ronan - Villager of Iz", "Anna - Secret Seller"] },
+        "ascended": {
+          "5": ["Florina - Azure-Sky Knight", "Hilda - Helping Hand"]
         },
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
         "special": { "5": ["Ethlyn - Glimmering Lady"] },
@@ -13661,13 +13659,8 @@
     },
     "Spd/Res Rein 3": {
       "pool": {
-        "#": {
-          "5": [
-            "Elincia - Devoted Queen",
-            "Byleth - Sublime Light",
-            "Constance - Fallen Noble"
-          ]
-        },
+        "#": { "5": ["Byleth - Sublime Light", "Constance - Fallen Noble"] },
+        "ascended": { "5": ["Elincia - Devoted Queen"] },
         "legendary": { "5": ["Robin - Fell Vessel"] },
         "mythic": { "5": ["Triandra - Nightmare"] },
         "special": {
@@ -13745,7 +13738,8 @@
     },
     "Spd/Res Hold": {
       "pool": {
-        "#": { "5": ["Elincia - Devoted Queen", "Byleth - Sublime Light"] },
+        "#": { "5": ["Byleth - Sublime Light"] },
+        "ascended": { "5": ["Elincia - Devoted Queen"] },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
       },
       "id": "Spd/Res Hold",
@@ -14844,7 +14838,6 @@
             "Lysithea - Child Prodigy",
             "Pent - Mage General",
             "Marianne - Serene Adherent",
-            "Ishtar - Echoing Thunder",
             "Charlotte - Wily Warrior",
             "Diamant - Rising Power",
             "Byleth - Vengeance Vessel",
@@ -14854,6 +14847,7 @@
             "Volke - Man of Mysteries"
           ]
         },
+        "ascended": { "5": ["Ishtar - Echoing Thunder"] },
         "rearmed": { "5": ["Ophelia - Starlit Maiden"] },
         "attuned": { "5": ["Eirika - Resolute Princess"] },
         "legendary": { "5": ["Alm - Saint-King", "Byleth - The Fódlan Star"] },
@@ -14932,8 +14926,7 @@
             "Nils - Bright Bard",
             "Dorcas - Serene Warrior",
             "Helbindi - Savage Scourge",
-            "Gerik - Desert Tiger",
-            "Ced - Sage of the Wind"
+            "Gerik - Desert Tiger"
           ]
         },
         "grail": {
@@ -14943,6 +14936,7 @@
             "Fargus - Badon Buccaneer"
           ]
         },
+        "ascended": { "5": ["Ced - Sage of the Wind"] },
         "special": {
           "4": ["Geese - A Life at Sea"],
           "5": ["Xander - Student Swimmer", "Framme - Spring Fangirl"]
@@ -14956,7 +14950,8 @@
     },
     "Infantry Pulse 4": {
       "pool": {
-        "#": { "5": ["Tina - Playful Scamp", "Ced - Sage of the Wind"] },
+        "#": { "5": ["Tina - Playful Scamp"] },
+        "ascended": { "5": ["Ced - Sage of the Wind"] },
         "special": { "5": ["Framme - Spring Fangirl"] }
       },
       "id": "Infantry Pulse 4",
@@ -15016,7 +15011,8 @@
     },
     "Inf. Null Follow 3": {
       "pool": {
-        "#": { "5": ["Celica - Valentia's Hope", "Gregor - Swell Sword"] },
+        "#": { "5": ["Gregor - Swell Sword"] },
+        "ascended": { "5": ["Celica - Valentia's Hope"] },
         "emblem": { "5": ["Celica - Of Echoes", "Marth - Of Beginnings"] },
         "special": {
           "5": ["Seadall - Misfortune-Teller", "Kvasir - Unknown Future"]
@@ -15145,7 +15141,8 @@
     },
     "D/R Near Save 2": {
       "pool": {
-        "#": { "5": ["Rhea - Immaculate One", "Idunn - Divine Demon"] },
+        "#": { "5": ["Rhea - Immaculate One"] },
+        "ascended": { "5": ["Idunn - Divine Demon"] },
         "special": { "5": ["Gustav - Majestic Love"] }
       },
       "id": "D/R Near Save 2",
@@ -15156,7 +15153,8 @@
     },
     "D/R Near Save 3": {
       "pool": {
-        "#": { "5": ["Rhea - Immaculate One", "Idunn - Divine Demon"] },
+        "#": { "5": ["Rhea - Immaculate One"] },
+        "ascended": { "5": ["Idunn - Divine Demon"] },
         "special": { "5": ["Gustav - Majestic Love"] }
       },
       "id": "D/R Near Save 3",
@@ -15167,9 +15165,8 @@
     },
     "A/S Far Save 2": {
       "pool": {
-        "#": {
-          "5": ["Corrin - Silent Bloodline", "Amelia - Blossoming Talent"]
-        },
+        "#": { "5": ["Corrin - Silent Bloodline"] },
+        "ascended": { "5": ["Amelia - Blossoming Talent"] },
         "special": { "5": ["Takumi - Troubled Heart"] },
         "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
       },
@@ -15181,9 +15178,8 @@
     },
     "A/S Far Save 3": {
       "pool": {
-        "#": {
-          "5": ["Corrin - Silent Bloodline", "Amelia - Blossoming Talent"]
-        },
+        "#": { "5": ["Corrin - Silent Bloodline"] },
+        "ascended": { "5": ["Amelia - Blossoming Talent"] },
         "special": { "5": ["Takumi - Troubled Heart"] },
         "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
       },
@@ -15217,7 +15213,7 @@
     },
     "A/R Far Save 2": {
       "pool": {
-        "#": { "5": ["Fjorm - Ice Ascendant"] },
+        "ascended": { "5": ["Fjorm - Ice Ascendant"] },
         "special": { "5": ["Henriette - Overflowing Love"] },
         "duo": { "5": ["Byleth - Frosty Professors"] },
         "harmonized": { "5": ["Tiki - Bridal Reflections"] }
@@ -15230,7 +15226,7 @@
     },
     "A/R Far Save 3": {
       "pool": {
-        "#": { "5": ["Fjorm - Ice Ascendant"] },
+        "ascended": { "5": ["Fjorm - Ice Ascendant"] },
         "special": { "5": ["Henriette - Overflowing Love"] },
         "duo": { "5": ["Byleth - Frosty Professors"] },
         "harmonized": { "5": ["Tiki - Bridal Reflections"] }
@@ -15687,12 +15683,13 @@
           "5": [
             "Hugh - Worldly Mage",
             "Ingrid - Galatea's Heir",
-            "Shamir - Archer Apart",
-            "Laegjarn - Flame Ascendant",
-            "Merric - Wind Pontifex"
+            "Shamir - Archer Apart"
           ]
         },
         "grail": { "4": ["Takumi - Wishful Spark", "Hans - Ambitious Brute"] },
+        "ascended": {
+          "5": ["Laegjarn - Flame Ascendant", "Merric - Wind Pontifex"]
+        },
         "rearmed": { "5": ["Eitr - Hand of Nothing"] },
         "mythic": {
           "5": ["Kvasir - Seer of the Past", "Nerþuz - God of the Land"]
@@ -15714,7 +15711,8 @@
     },
     "Rouse Atk/Spd 4": {
       "pool": {
-        "#": { "5": ["Hugh - Worldly Mage", "Laegjarn - Flame Ascendant"] },
+        "#": { "5": ["Hugh - Worldly Mage"] },
+        "ascended": { "5": ["Laegjarn - Flame Ascendant"] },
         "special": { "5": ["Delthea - Prodigy in Bloom"] }
       },
       "id": "Rouse Atk/Spd 4",
@@ -15866,7 +15864,7 @@
     },
     "Incite Atk/Spd": {
       "pool": {
-        "#": { "5": ["Merric - Wind Pontifex"] },
+        "ascended": { "5": ["Merric - Wind Pontifex"] },
         "mythic": { "5": ["Kvasir - Seer of the Past"] }
       },
       "id": "Incite Atk/Spd",
@@ -15891,7 +15889,6 @@
             "Gullveig - Seer Beyond Time",
             "Ike - Zeal Unleashed",
             "Louise - Lady of Violets",
-            "Fir - Swordmaiden",
             "Mozu - Tragic Start"
           ]
         },
@@ -15899,6 +15896,7 @@
           "4": ["Alcryst - Tender Groom", "Holst - Hero of Leicester"],
           "5": ["Shamir - Lone-Moon Ninja"]
         },
+        "ascended": { "5": ["Fir - Swordmaiden"] },
         "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
         "legendary": {
           "5": [
@@ -15930,10 +15928,10 @@
           "5": [
             "Shez - Rising Mercenary",
             "Gullveig - Seer Beyond Time",
-            "Fir - Swordmaiden",
             "Mozu - Tragic Start"
           ]
         },
+        "ascended": { "5": ["Fir - Swordmaiden"] },
         "legendary": {
           "5": ["Shez - Sharpest Blades", "Byleth - The Fódlan Star"]
         },
@@ -16091,13 +16089,8 @@
     },
     "Even Tempest 3": {
       "pool": {
-        "#": {
-          "5": [
-            "Marth - Prince of Light",
-            "Lucia - Tireless Advisor",
-            "Mareeta - Astra Awakened"
-          ]
-        },
+        "#": { "5": ["Marth - Prince of Light", "Lucia - Tireless Advisor"] },
+        "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "mythic": { "5": ["Líf - Lethal Swordsman", "Dagr - Sun's Radiance"] }
       },
       "id": "Even Tempest 3",
@@ -16176,7 +16169,8 @@
     },
     "Green Feud 3": {
       "pool": {
-        "#": { "5": ["Joshua - Resolute Tempest", "Alear - Dragon Youth"] }
+        "#": { "5": ["Alear - Dragon Youth"] },
+        "ascended": { "5": ["Joshua - Resolute Tempest"] }
       },
       "id": "Green Feud 3",
       "name": "對綠的暗鬥3",
@@ -16418,7 +16412,7 @@
       "rules": "beast"
     },
     "Shadow Shift 3": {
-      "pool": { "#": { "5": ["Reginn - Dvergr Heir"] } },
+      "pool": { "aided": { "5": ["Reginn - Dvergr Heir"] } },
       "id": "Shadow Shift 3",
       "name": "影助・帶回3",
       "sp": 240,
@@ -16426,7 +16420,7 @@
       "rules": "learner.cavalry-flying"
     },
     "Shadow Shift 4": {
-      "pool": { "#": { "5": ["Reginn - Dvergr Heir"] } },
+      "pool": { "aided": { "5": ["Reginn - Dvergr Heir"] } },
       "id": "Shadow Shift 4",
       "name": "影助・帶回4",
       "sp": 300,
@@ -16509,9 +16503,11 @@
   "_poolKeys": [
     "#",
     "grail",
+    "ascended",
     "rearmed",
     "attuned",
     "emblem",
+    "aided",
     "legendary",
     "mythic",
     "special",

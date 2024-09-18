@@ -996,6 +996,7 @@
     "moveType": "armored",
     "weaponType": "green-axe",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2021-10-18",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -1655,6 +1656,7 @@
     "moveType": "cavalry",
     "weaponType": "white-bow",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2021-11-17",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -2057,6 +2059,7 @@
     "moveType": "cavalry",
     "weaponType": "green-dagger",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2022-10-17",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -2162,6 +2165,7 @@
     "moveType": "infantry",
     "weaponType": "green-axe",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2022-11-18",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -2270,6 +2274,7 @@
     "moveType": "cavalry",
     "weaponType": "red-sword",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2022-09-16",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -2608,6 +2613,7 @@
     "moveType": "flying",
     "weaponType": "green-axe",
     "attuned": true,
+    "pool": "attuned",
     "releaseDate": "2023-10-16",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -2801,6 +2807,7 @@
     "moveType": "flying",
     "weaponType": "blue-tome",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2023-09-15",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -3015,6 +3022,7 @@
     "moveType": "flying",
     "weaponType": "red-sword",
     "attuned": true,
+    "pool": "attuned",
     "releaseDate": "2023-10-16",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -3122,6 +3130,7 @@
     "moveType": "cavalry",
     "weaponType": "blue-beast",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2023-07-18",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -3157,6 +3166,7 @@
     "moveType": "cavalry",
     "weaponType": "white-dagger",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2023-11-17",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -3297,6 +3307,7 @@
     "colorType": "blue",
     "moveType": "cavalry",
     "weaponType": "blue-lance",
+    "pool": "aided",
     "releaseDate": "2024-09-17",
     "appearsIn": ["Heroes"],
     "stats": {
@@ -4647,6 +4658,7 @@
     "moveType": "infantry",
     "weaponType": "red-sword",
     "emblem": true,
+    "pool": "emblem",
     "releaseDate": "2024-01-30",
     "appearsIn": ["Shadow Dragon / (New) Mystery", "Engage"],
     "stats": {
@@ -5583,6 +5595,7 @@
     "moveType": "infantry",
     "weaponType": "blue-lance",
     "attuned": true,
+    "pool": "attuned",
     "releaseDate": "2024-03-15",
     "appearsIn": ["Shadow Dragon / (New) Mystery"],
     "stats": {
@@ -7250,6 +7263,7 @@
     "moveType": "cavalry",
     "weaponType": "green-tome",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2024-03-15",
     "appearsIn": ["Shadow Dragon / (New) Mystery"],
     "stats": {
@@ -8004,6 +8018,7 @@
     "moveType": "infantry",
     "weaponType": "red-dragon",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2022-11-18",
     "appearsIn": ["Shadow Dragon / (New) Mystery"],
     "stats": {
@@ -9773,6 +9788,7 @@
     "moveType": "infantry",
     "weaponType": "white-tome",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2022-07-19",
     "appearsIn": ["Echoes"],
     "stats": {
@@ -9808,6 +9824,7 @@
     "moveType": "infantry",
     "weaponType": "blue-tome",
     "emblem": true,
+    "pool": "emblem",
     "releaseDate": "2024-06-28",
     "appearsIn": ["Echoes", "Engage"],
     "stats": {
@@ -10829,6 +10846,7 @@
     "moveType": "infantry",
     "weaponType": "green-tome",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2023-10-16",
     "appearsIn": ["Echoes"],
     "stats": {
@@ -13660,6 +13678,7 @@
     "moveType": "infantry",
     "weaponType": "green-tome",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2023-09-15",
     "appearsIn": ["Genealogy of the Holy War", "Thracia 776"],
     "stats": {
@@ -13951,6 +13970,7 @@
     "moveType": "infantry",
     "weaponType": "blue-tome",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2022-04-18",
     "appearsIn": ["Genealogy of the Holy War"],
     "stats": {
@@ -14714,6 +14734,7 @@
     "moveType": "infantry",
     "weaponType": "red-sword",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2022-03-18",
     "appearsIn": ["Thracia 776"],
     "stats": {
@@ -15332,6 +15353,7 @@
     "moveType": "cavalry",
     "weaponType": "blue-tome",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2024-01-10",
     "appearsIn": ["Thracia 776"],
     "stats": {
@@ -18232,6 +18254,7 @@
     "moveType": "infantry",
     "weaponType": "red-sword",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2023-06-08",
     "appearsIn": ["The Binding Blade"],
     "stats": {
@@ -19076,6 +19099,7 @@
     "moveType": "armored",
     "weaponType": "blue-dragon",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2022-02-18",
     "appearsIn": ["The Binding Blade"],
     "stats": {
@@ -21379,6 +21403,7 @@
     "moveType": "flying",
     "weaponType": "white-bow",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2022-06-08",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
@@ -22937,6 +22962,7 @@
     "moveType": "infantry",
     "weaponType": "green-dagger",
     "attuned": true,
+    "pool": "attuned",
     "releaseDate": "2023-11-17",
     "appearsIn": ["The Blazing Blade"],
     "stats": {
@@ -23407,6 +23433,7 @@
     "moveType": "infantry",
     "weaponType": "green-axe",
     "attuned": true,
+    "pool": "attuned",
     "releaseDate": "2024-07-16",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
@@ -24491,6 +24518,7 @@
     "moveType": "flying",
     "weaponType": "white-bow",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2023-03-17",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
@@ -25624,6 +25652,7 @@
     "moveType": "armored",
     "weaponType": "blue-lance",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2024-07-16",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
@@ -25743,6 +25772,7 @@
     "moveType": "infantry",
     "weaponType": "white-dagger",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2022-01-07",
     "appearsIn": ["The Sacred Stones"],
     "stats": {
@@ -28626,6 +28656,7 @@
     "moveType": "flying",
     "weaponType": "green-tome",
     "attuned": true,
+    "pool": "attuned",
     "releaseDate": "2024-06-07",
     "appearsIn": ["Radiant Dawn"],
     "stats": {
@@ -28772,6 +28803,7 @@
     "moveType": "infantry",
     "weaponType": "white-dagger",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2024-06-07",
     "appearsIn": ["Radiant Dawn"],
     "stats": {
@@ -29302,6 +29334,7 @@
     "moveType": "infantry",
     "weaponType": "red-sword",
     "emblem": true,
+    "pool": "emblem",
     "releaseDate": "2024-03-29",
     "appearsIn": ["Radiant Dawn", "Engage"],
     "stats": {
@@ -29421,6 +29454,7 @@
     "moveType": "flying",
     "weaponType": "white-staff",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2023-02-17",
     "appearsIn": ["Radiant Dawn"],
     "stats": {
@@ -31610,6 +31644,7 @@
     "moveType": "cavalry",
     "weaponType": "red-sword",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2023-05-09",
     "appearsIn": ["Awakening"],
     "stats": {
@@ -32172,6 +32207,7 @@
     "moveType": "armored",
     "weaponType": "white-dragon",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2022-10-17",
     "appearsIn": ["Awakening"],
     "stats": {
@@ -35732,6 +35768,7 @@
     "moveType": "cavalry",
     "weaponType": "green-axe",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2023-12-07",
     "appearsIn": ["Awakening"],
     "stats": {
@@ -37606,6 +37643,7 @@
     "moveType": "cavalry",
     "weaponType": "green-axe",
     "attuned": true,
+    "pool": "attuned",
     "releaseDate": "2024-04-15",
     "appearsIn": ["Fates"],
     "stats": {
@@ -43071,6 +43109,7 @@
     "moveType": "infantry",
     "weaponType": "red-tome",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2022-12-07",
     "appearsIn": ["Fates"],
     "stats": {
@@ -45758,6 +45797,7 @@
     "moveType": "flying",
     "weaponType": "blue-lance",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2023-04-17",
     "appearsIn": ["Three Houses"],
     "stats": {
@@ -46504,6 +46544,7 @@
     "moveType": "infantry",
     "weaponType": "green-axe",
     "ascended": true,
+    "pool": "ascended",
     "releaseDate": "2022-09-16",
     "appearsIn": ["Three Houses"],
     "stats": {
@@ -48452,6 +48493,7 @@
     "moveType": "infantry",
     "weaponType": "red-dragon",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2024-05-08",
     "appearsIn": ["Engage"],
     "stats": {
@@ -48571,6 +48613,7 @@
     "moveType": "cavalry",
     "weaponType": "blue-lance",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2023-01-17",
     "appearsIn": ["Engage"],
     "stats": {
@@ -48805,6 +48848,7 @@
     "moveType": "infantry",
     "weaponType": "white-bow",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2023-07-18",
     "appearsIn": ["Engage"],
     "stats": {
@@ -49055,6 +49099,7 @@
     "moveType": "flying",
     "weaponType": "blue-tome",
     "attuned": true,
+    "pool": "attuned",
     "releaseDate": "2024-02-19",
     "appearsIn": ["Engage"],
     "stats": {
@@ -49152,6 +49197,7 @@
     "moveType": "flying",
     "weaponType": "white-staff",
     "rearmed": true,
+    "pool": "rearmed",
     "releaseDate": "2024-02-19",
     "appearsIn": ["Engage"],
     "stats": {
@@ -49291,6 +49337,7 @@
     "moveType": "infantry",
     "weaponType": "blue-lance",
     "attuned": true,
+    "pool": "attuned",
     "releaseDate": "2024-09-17",
     "appearsIn": ["Engage"],
     "stats": {

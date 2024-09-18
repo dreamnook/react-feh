@@ -4310,6 +4310,39 @@
     "icon": "skillA/Atk_Res_Finish_4",
     "last": true
   },
+  "Spd/Def Finish 1": {
+    "id": "Spd/Def Finish 1",
+    "name": "速度防守的奧秘1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillA/Spd_Def_Finish_1"
+  },
+  "Spd/Def Finish 2": {
+    "id": "Spd/Def Finish 2",
+    "name": "速度防守的奧秘2",
+    "sp": 120,
+    "prev": ["Spd/Def Finish 1"],
+    "rules": "infantry",
+    "icon": "skillA/Spd_Def_Finish_2"
+  },
+  "Spd/Def Finish 3": {
+    "id": "Spd/Def Finish 3",
+    "name": "速度防守的奧秘3",
+    "sp": 240,
+    "prev": ["Spd/Def Finish 2"],
+    "rules": "infantry",
+    "icon": "skillA/Spd_Def_Finish_3",
+    "last": true
+  },
+  "Spd/Def Finish 4": {
+    "id": "Spd/Def Finish 4",
+    "name": "速度防守的奧秘4",
+    "sp": 300,
+    "prev": ["Spd/Def Finish 3"],
+    "rules": "infantry",
+    "icon": "skillA/Spd_Def_Finish_4",
+    "last": true
+  },
   "Spd/Res Finish 1": {
     "id": "Spd/Res Finish 1",
     "name": "速度魔防的奧秘1",
@@ -4622,38 +4655,5 @@
     "rules": "learner.infantry-cavalry-flying-melee",
     "last": true,
     "icon": "skillA/Atk_Def_Excel"
-  },
-  "Spd/Def Finish 1": {
-    "id": "Spd/Def Finish 1",
-    "name": "速度防守的奧秘1",
-    "sp": 60,
-    "rules": "infantry",
-    "icon": "skillA/Spd_Def_Finish_1"
-  },
-  "Spd/Def Finish 2": {
-    "id": "Spd/Def Finish 2",
-    "name": "速度防守的奧秘2",
-    "sp": 120,
-    "prev": ["Spd/Def Finish 1"],
-    "rules": "infantry",
-    "icon": "skillA/Spd_Def_Finish_2"
-  },
-  "Spd/Def Finish 3": {
-    "id": "Spd/Def Finish 3",
-    "name": "速度防守的奧秘3",
-    "sp": 240,
-    "prev": ["Spd/Def Finish 2"],
-    "rules": "infantry",
-    "icon": "skillA/Spd_Def_Finish_3",
-    "last": true
-  },
-  "Spd/Def Finish 4": {
-    "id": "Spd/Def Finish 4",
-    "name": "速度防守的奧秘4",
-    "sp": 300,
-    "prev": ["Spd/Def Finish 3"],
-    "rules": "infantry",
-    "icon": "skillA/Spd_Def_Finish_4",
-    "last": true
   }
 }
