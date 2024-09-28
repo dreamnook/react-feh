@@ -7678,6 +7678,16 @@
       "exclusive": ["Reginn - Dvergr Heir"],
       "last": true
     },
+    "Holy-War Spear": {
+      "id": "Holy-War Spear",
+      "name": "聖騎士之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Sigurd - Of the Holy War"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -15249,19 +15259,19 @@
       },
       "last": true
     },
-    "Lucrative Bow": {
-      "id": "Lucrative Bow",
+    "Gainful Bow": {
+      "id": "Gainful Bow",
       "name": "有利狀態之弓",
       "mt": 8,
       "sp": 200,
       "prev": ["Steel Bow"]
     },
-    "Lucrative Bow+": {
-      "id": "Lucrative Bow+",
+    "Gainful Bow+": {
+      "id": "Gainful Bow+",
       "name": "有利狀態之弓+",
       "mt": 12,
       "sp": 300,
-      "prev": ["Lucrative Bow"],
+      "prev": ["Gainful Bow"],
       "refine": {
         "atk": {
           "hp": 2,

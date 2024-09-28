@@ -527,6 +527,15 @@
     "exclusive": ["Timerra - Desert Warrior"],
     "last": true
   },
+  "Override": {
+    "id": "Override",
+    "name": "破陣星馳",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Blazing Light"],
+    "exclusive": ["Sigurd - Of the Holy War"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

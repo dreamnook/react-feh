@@ -13665,6 +13665,20 @@
     "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
   },
+  "Sigurd - Of the Holy War": {
+    "score": 276,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 300,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Blazing Light": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Def Excel": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Momentum 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Fatal Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
   "Corrin - Child of Dawn": {
     "score": 368,
     "scoreTotal": 1104,

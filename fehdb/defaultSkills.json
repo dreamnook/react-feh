@@ -7113,6 +7113,37 @@
       "Seal Res 4": 5
     }
   },
+  "Sigurd - Of the Holy War": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Holy-War Spear": 5
+    },
+    "special": {
+      "Rising Light": 4,
+      "Blazing Light": 4,
+      "Override": 5
+    },
+    "skillA": {
+      "Atk/Def Clash 1": 2,
+      "Atk/Def Clash 2": 3,
+      "Atk/Def Clash 3": 4,
+      "Atk/Def Excel": 5
+    },
+    "skillB": {
+      "Momentum 1": 2,
+      "Momentum 2": 3,
+      "Momentum 3": 4,
+      "Momentum 4": 5
+    },
+    "skillC": {
+      "Fatal Smoke 1": 2,
+      "Fatal Smoke 2": 3,
+      "Fatal Smoke 3": 4,
+      "Fatal Smoke 4": 5
+    }
+  },
   "Arden - Strong and Tough": {
     "weapon": {
       "Iron Sword": 1,
@@ -23704,8 +23735,8 @@
     "weapon": {
       "Iron Bow": 1,
       "Steel Bow": 2,
-      "Lucrative Bow": 4,
-      "Lucrative Bow+": 5
+      "Gainful Bow": 4,
+      "Gainful Bow+": 5
     },
     "special": {
       "Chilling Wind": 4,

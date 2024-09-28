@@ -1300,9 +1300,9 @@
         "sp": 300,
         "refine": 350
       },
-      "Lucrative Bow+": {
+      "Gainful Bow+": {
         "pool": { "grail": { "5": ["Candace - Sly Snatcher"] } },
-        "id": "Lucrative Bow+",
+        "id": "Gainful Bow+",
         "name": "有利狀態之弓+",
         "sp": 300,
         "refine": 350
@@ -5193,7 +5193,8 @@
             "Oliver - Admirer of Beauty",
             "Holst - Hero of Leicester"
           ]
-        }
+        },
+        "emblem": { "5": ["Sigurd - Of the Holy War"] }
       },
       "id": "Blazing Light",
       "name": "烈光",
@@ -9171,6 +9172,7 @@
         },
         "grail": { "5": ["Frederick - Youth in Service"] },
         "rearmed": { "5": ["Líf - Arcane Blade"] },
+        "emblem": { "5": ["Sigurd - Of the Holy War"] },
         "mythic": {
           "5": ["Freyr - Dream-King", "Eikþyrnir - Quieting Strength"]
         },
@@ -9561,7 +9563,10 @@
       "rules": "learner.infantry-cavalry-flying-melee"
     },
     "Atk/Def Excel": {
-      "pool": { "mythic": { "5": ["Eikþyrnir - Quieting Strength"] } },
+      "pool": {
+        "emblem": { "5": ["Sigurd - Of the Holy War"] },
+        "mythic": { "5": ["Eikþyrnir - Quieting Strength"] }
+      },
       "id": "Atk/Def Excel",
       "name": "攻擊防守突破",
       "sp": 300,
@@ -12943,6 +12948,22 @@
       "sp": 300,
       "icon": "skillB/Resonance_4",
       "rules": "tome"
+    },
+    "Momentum 3": {
+      "pool": { "emblem": { "5": ["Sigurd - Of the Holy War"] } },
+      "id": "Momentum 3",
+      "name": "助跑3",
+      "sp": 240,
+      "icon": "skillB/Momentum_3",
+      "rules": "learner.infantry-cavalry-flying-melee"
+    },
+    "Momentum 4": {
+      "pool": { "emblem": { "5": ["Sigurd - Of the Holy War"] } },
+      "id": "Momentum 4",
+      "name": "助跑4",
+      "sp": 300,
+      "icon": "skillB/Momentum_4",
+      "rules": "learner.infantry-cavalry-flying-melee"
     }
   },
   "skillC": {
@@ -14777,6 +14798,7 @@
     "Fatal Smoke 3": {
       "pool": {
         "rearmed": { "5": ["Ginnungagap - Ruler of Nihility"] },
+        "emblem": { "5": ["Sigurd - Of the Holy War"] },
         "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
         "special": {
           "5": [
@@ -14796,6 +14818,7 @@
     "Fatal Smoke 4": {
       "pool": {
         "rearmed": { "5": ["Ginnungagap - Ruler of Nihility"] },
+        "emblem": { "5": ["Sigurd - Of the Holy War"] },
         "special": { "5": ["Yunaka - Spirited Envoy"] }
       },
       "id": "Fatal Smoke 4",

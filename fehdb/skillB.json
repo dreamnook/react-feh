@@ -5188,5 +5188,38 @@
     "rules": "tome",
     "icon": "skillB/Resonance_4",
     "last": true
+  },
+  "Momentum 1": {
+    "id": "Momentum 1",
+    "name": "助跑1",
+    "sp": 60,
+    "rules": "learner.infantry-cavalry-flying-melee",
+    "icon": "skillB/Momentum_1"
+  },
+  "Momentum 2": {
+    "id": "Momentum 2",
+    "name": "助跑2",
+    "sp": 120,
+    "prev": ["Momentum 1"],
+    "rules": "learner.infantry-cavalry-flying-melee",
+    "icon": "skillB/Momentum_2"
+  },
+  "Momentum 3": {
+    "id": "Momentum 3",
+    "name": "助跑3",
+    "sp": 240,
+    "prev": ["Momentum 2"],
+    "rules": "learner.infantry-cavalry-flying-melee",
+    "icon": "skillB/Momentum_3",
+    "last": true
+  },
+  "Momentum 4": {
+    "id": "Momentum 4",
+    "name": "助跑4",
+    "sp": 300,
+    "prev": ["Momentum 3"],
+    "rules": "learner.infantry-cavalry-flying-melee",
+    "icon": "skillB/Momentum_4",
+    "last": true
   }
 }
