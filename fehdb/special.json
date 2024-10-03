@@ -742,6 +742,15 @@
     "rules": "beast",
     "last": true
   },
+  "Sturdy Beast": {
+    "id": "Sturdy Beast",
+    "name": "堅獸",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Ignis"],
+    "rules": "beast",
+    "last": true
+  },
   "Ruptured Sky": {
     "id": "Ruptured Sky",
     "name": "破天",

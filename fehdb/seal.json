@@ -6764,6 +6764,36 @@
       "prev": ["Squad Ace CH 2"],
       "icon": "seal/Squad_Ace_HP_Def_Res_3",
       "last": true
+    },
+    "Squad Ace CI 1": {
+      "id": "Squad Ace CI 1",
+      "name": "第８７迷宮的霸王1",
+      "sp": 120,
+      "atk": 1,
+      "spd": 1,
+      "def": 1,
+      "icon": "seal/Squad_Ace_Atk_Spd_Def_1"
+    },
+    "Squad Ace CI 2": {
+      "id": "Squad Ace CI 2",
+      "name": "第８７迷宮的霸王2",
+      "sp": 180,
+      "atk": 2,
+      "spd": 2,
+      "def": 2,
+      "prev": ["Squad Ace CI 1"],
+      "icon": "seal/Squad_Ace_Atk_Spd_Def_2"
+    },
+    "Squad Ace CI 3": {
+      "id": "Squad Ace CI 3",
+      "name": "第８７迷宮的霸王3",
+      "sp": 240,
+      "atk": 3,
+      "spd": 3,
+      "def": 3,
+      "prev": ["Squad Ace CI 2"],
+      "icon": "seal/Squad_Ace_Atk_Spd_Def_3",
+      "last": true
     }
   }
 }

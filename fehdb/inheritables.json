@@ -4353,6 +4353,7 @@
         "grail": {
           "4": [
             "Yarne - Hoppy New Year",
+            "Yarne - Trick or Taguel",
             "Jamke - Prince of Verdane",
             "Yen'fay - Blade Legend",
             "Panne - Proud Taguel"
@@ -4415,7 +4416,7 @@
             "Yarne - Timid Taguel"
           ]
         },
-        "grail": { "5": ["Yarne - Hoppy New Year"] },
+        "grail": { "5": ["Yarne - Hoppy New Year", "Yarne - Trick or Taguel"] },
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
         "mythic": { "5": ["Nerþuz - God of the Land"] },
         "special": { "5": ["Tibarn - Shipless Pirate"] },
@@ -4641,6 +4642,7 @@
         "special": {
           "5": [
             "Corrin - Novice Vacationer",
+            "Lethe - Cat Attack",
             "Nerþuz - Beach Chaperone",
             "Embla - Closed-Off Bride",
             "Ephraim - Sparkling Gallantly",
@@ -4659,6 +4661,13 @@
       "pool": { "mythic": { "5": ["Eikþyrnir - Quieting Strength"] } },
       "id": "Fierce Beast",
       "name": "猛獸",
+      "sp": 500,
+      "rules": "beast"
+    },
+    "Sturdy Beast": {
+      "pool": { "special": { "5": ["Askr - Open Harvest"] } },
+      "id": "Sturdy Beast",
+      "name": "堅獸",
       "sp": 500,
       "rules": "beast"
     },
@@ -4770,7 +4779,8 @@
             "Hector - Sworn Friend",
             "Ephraim - Ardent Prince",
             "Edelgard - Snowfall Future",
-            "Myrrh - Adored Dragon"
+            "Myrrh - Adored Dragon",
+            "Nah - Grateful One"
           ]
         },
         "duo": {
@@ -4843,7 +4853,8 @@
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
             "Robin - Fated Vessel",
-            "Gustav - Majestic Love"
+            "Gustav - Majestic Love",
+            "Askr - Open Harvest"
           ]
         }
       },
@@ -4865,7 +4876,11 @@
     "Armored Blaze": {
       "pool": {
         "special": {
-          "5": ["Ephraim - Ardent Prince", "Edelgard - Snowfall Future"]
+          "5": [
+            "Ephraim - Ardent Prince",
+            "Edelgard - Snowfall Future",
+            "Nah - Grateful One"
+          ]
         }
       },
       "id": "Armored Blaze",
@@ -4970,7 +4985,11 @@
           ]
         },
         "harmonized": {
-          "5": ["Altina - Cross-Time Duo", "Tiki - Bridal Reflections"]
+          "5": [
+            "Altina - Cross-Time Duo",
+            "Tiki - Bridal Reflections",
+            "Nagi - Hopeful Eternity"
+          ]
         }
       },
       "id": "Iceberg",
@@ -4979,7 +4998,10 @@
       "rules": "not.white-staff"
     },
     "Dragon's Roar": {
-      "pool": { "legendary": { "5": ["Alear - Engaging Fire"] } },
+      "pool": {
+        "legendary": { "5": ["Alear - Engaging Fire"] },
+        "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
+      },
       "id": "Dragon's Roar",
       "name": "龍之咆哮",
       "sp": 500,
@@ -7120,7 +7142,8 @@
             "Ike - Stalwart Heart",
             "Sothis - Silver Specter",
             "Zelgius - Ninja Knight",
-            "Black Knight - The Night's Blade"
+            "Black Knight - The Night's Blade",
+            "Askr - Open Harvest"
           ]
         },
         "duo": {
@@ -7432,7 +7455,7 @@
           "5": ["Amelia - Rose of the War", "Rosado - Adorable Artist"]
         },
         "grail": { "5": ["Darros - Seawalker"] },
-        "special": { "5": ["Ephraim - Ardent Prince"] }
+        "special": { "5": ["Ephraim - Ardent Prince", "Nah - Grateful One"] }
       },
       "id": "Earth Boost 3",
       "name": "生命大地3",
@@ -7472,7 +7495,9 @@
       "icon": "skillA/Firestorm_Boost_3"
     },
     "Earthfire Boost 3": {
-      "pool": { "special": { "5": ["Ephraim - Ardent Prince"] } },
+      "pool": {
+        "special": { "5": ["Ephraim - Ardent Prince", "Nah - Grateful One"] }
+      },
       "id": "Earthfire Boost 3",
       "name": "生命業火大地3",
       "sp": 300,
@@ -8460,7 +8485,8 @@
       "pool": {
         "attuned": {
           "5": ["Caeda - Marth's Faithful", "Eirika - Resolute Princess"]
-        }
+        },
+        "special": { "5": ["Askr - Open Harvest"] }
       },
       "id": "D Bonus Doubler",
       "name": "遠反・強化增幅",
@@ -9109,6 +9135,7 @@
         "special": {
           "4": ["Panne - Welcoming Dawn"],
           "5": [
+            "Lethe - Cat Attack",
             "Dagr - Bluster Princess",
             "Nerþuz - Beach Chaperone",
             "Felicia - Confidently Cold",
@@ -9433,7 +9460,8 @@
       "pool": {
         "#": { "5": ["Rhea - Loving Matriarch"] },
         "mythic": { "5": ["Seiros - Saint of Legend"] },
-        "special": { "4": ["Kana - Rising Dragon"] }
+        "special": { "4": ["Kana - Rising Dragon"] },
+        "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
       },
       "id": "Atk/Res Scowl 3",
       "name": "攻擊魔防的龍眼3",
@@ -9444,7 +9472,8 @@
     "Atk/Res Scowl 4": {
       "pool": {
         "#": { "5": ["Rhea - Loving Matriarch"] },
-        "mythic": { "5": ["Seiros - Saint of Legend"] }
+        "mythic": { "5": ["Seiros - Saint of Legend"] },
+        "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
       },
       "id": "Atk/Res Scowl 4",
       "name": "攻擊魔防的龍眼4",
@@ -10942,7 +10971,13 @@
         },
         "legendary": { "5": ["Corrin - Child of Dusk"] },
         "mythic": { "5": ["Gotoh - White Sage"] },
-        "special": { "5": ["Sakura - Gentle Nekomata", "Lyn - Wind's Embrace"] }
+        "special": {
+          "5": [
+            "Sakura - Gentle Nekomata",
+            "Lyn - Wind's Embrace",
+            "Askr - Open Harvest"
+          ]
+        }
       },
       "id": "Guard 3",
       "name": "取消3",
@@ -10960,7 +10995,10 @@
       "icon": "skillB/Guard_4"
     },
     "Reopening": {
-      "pool": { "#": { "5": ["Alfonse - Heir to Openness"] } },
+      "pool": {
+        "#": { "5": ["Alfonse - Heir to Openness"] },
+        "special": { "5": ["Askr - Open Harvest"] }
+      },
       "id": "Reopening",
       "name": "煥然一新",
       "sp": 300,
@@ -12236,9 +12274,15 @@
         "grail": { "5": ["Kana - Rising Sunlight"] },
         "legendary": { "5": ["Fae - Childlike Dragon"] },
         "special": {
-          "5": ["Robin - Fall Vessel", "Corrin - Celestial Sorcerer"]
+          "5": [
+            "Robin - Fall Vessel",
+            "Corrin - Celestial Sorcerer",
+            "Nah - Grateful One"
+          ]
         },
-        "harmonized": { "5": ["Myrrh - Spring Harmony"] }
+        "harmonized": {
+          "5": ["Myrrh - Spring Harmony", "Nagi - Hopeful Eternity"]
+        }
       },
       "id": "Dragon's Ire 3",
       "name": "龍的逆鱗3",
@@ -12252,6 +12296,17 @@
       "name": "龍的逆鱗4",
       "sp": 300,
       "icon": "skillB/Dragon's_Ire_4",
+      "rules": "dragon"
+    },
+    "Dragon's Scales": {
+      "pool": {
+        "special": { "5": ["Nah - Grateful One"] },
+        "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
+      },
+      "id": "Dragon's Scales",
+      "name": "龍之堅鱗",
+      "sp": 300,
+      "icon": "skillB/Dragon's_Scales",
       "rules": "dragon"
     },
     "Dragon Wall 3": {
@@ -12338,6 +12393,7 @@
         "#": { "5": ["Forde - Unfettered Knight", "Chrom - Fated Honor"] },
         "special": {
           "5": [
+            "Lethe - Cat Attack",
             "Eliwood - Pledged Friend",
             "Tana - Frelian Starlight",
             "Naesala - Sea's Shadow",
@@ -12773,7 +12829,10 @@
       "rules": "beast"
     },
     "Beast Sense 3": {
-      "pool": { "rearmed": { "5": ["Eitr - Hand of Nothing"] } },
+      "pool": {
+        "grail": { "5": ["Yarne - Trick or Taguel"] },
+        "rearmed": { "5": ["Eitr - Hand of Nothing"] }
+      },
       "id": "Beast Sense 3",
       "name": "絕對化身・察覺3",
       "sp": 240,
@@ -15166,7 +15225,7 @@
       "pool": {
         "#": { "5": ["Rhea - Immaculate One"] },
         "ascended": { "5": ["Idunn - Divine Demon"] },
-        "special": { "5": ["Gustav - Majestic Love"] }
+        "special": { "5": ["Gustav - Majestic Love", "Nah - Grateful One"] }
       },
       "id": "D/R Near Save 2",
       "name": "盾之守護人・近處2",
@@ -15178,12 +15237,20 @@
       "pool": {
         "#": { "5": ["Rhea - Immaculate One"] },
         "ascended": { "5": ["Idunn - Divine Demon"] },
-        "special": { "5": ["Gustav - Majestic Love"] }
+        "special": { "5": ["Gustav - Majestic Love", "Nah - Grateful One"] }
       },
       "id": "D/R Near Save 3",
       "name": "盾之守護人・近處3",
       "sp": 300,
       "icon": "skillC/D_R_Near_Save_3",
+      "rules": "armored"
+    },
+    "D/R Twin N Save": {
+      "pool": { "special": { "5": ["Nah - Grateful One"] } },
+      "id": "D/R Twin N Save",
+      "name": "盾之守護人・近・雙",
+      "sp": 300,
+      "icon": "skillC/D_R_Twin_N_Save",
       "rules": "armored"
     },
     "A/S Far Save 2": {
@@ -15239,7 +15306,9 @@
         "ascended": { "5": ["Fjorm - Ice Ascendant"] },
         "special": { "5": ["Henriette - Overflowing Love"] },
         "duo": { "5": ["Byleth - Frosty Professors"] },
-        "harmonized": { "5": ["Tiki - Bridal Reflections"] }
+        "harmonized": {
+          "5": ["Tiki - Bridal Reflections", "Nagi - Hopeful Eternity"]
+        }
       },
       "id": "A/R Far Save 2",
       "name": "冑之守護人・遠處2",
@@ -15252,7 +15321,9 @@
         "ascended": { "5": ["Fjorm - Ice Ascendant"] },
         "special": { "5": ["Henriette - Overflowing Love"] },
         "duo": { "5": ["Byleth - Frosty Professors"] },
-        "harmonized": { "5": ["Tiki - Bridal Reflections"] }
+        "harmonized": {
+          "5": ["Tiki - Bridal Reflections", "Nagi - Hopeful Eternity"]
+        }
       },
       "id": "A/R Far Save 3",
       "name": "冑之守護人・遠處3",
@@ -15290,6 +15361,14 @@
       "name": "盾之守護人・遠處3",
       "sp": 300,
       "icon": "skillC/D_R_Far_Save_3",
+      "rules": "armored"
+    },
+    "A/R Twin F Save": {
+      "pool": { "harmonized": { "5": ["Nagi - Hopeful Eternity"] } },
+      "id": "A/R Twin F Save",
+      "name": "冑之守護人・遠・雙",
+      "sp": 300,
+      "icon": "skillC/A_R_Twin_F_Save",
       "rules": "armored"
     },
     "Guidance 3": {
@@ -15809,7 +15888,8 @@
             "Corrin - Bloodbound Beast",
             "Priam - Radiant Hero"
           ]
-        }
+        },
+        "grail": { "4": ["Yarne - Trick or Taguel"] }
       },
       "id": "Rouse Spd/Def 3",
       "name": "速度防守的奮起3",

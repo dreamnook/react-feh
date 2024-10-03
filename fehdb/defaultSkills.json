@@ -2648,6 +2648,32 @@
       "Opened Domain": 5
     }
   },
+  "Askr - Open Harvest": {
+    "weapon": {
+      "Whelp (Infantry)": 1,
+      "Yearling (Infantry)": 2,
+      "Adult (Infantry)": 4,
+      "Horn of Harvest": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Sturdy Beast": 5
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "D Bonus Doubler": 5
+    },
+    "skillB": {
+      "Guard 1": 2,
+      "Guard 2": 3,
+      "Guard 3": 4,
+      "Reopening": 5
+    },
+    "skillC": {
+      "Connected World": 5
+    }
+  },
   "Ash - Retainer to Askr": {
     "weapon": {
       "Whelp (Infantry)": 1,
@@ -5063,6 +5089,37 @@
       "Dragon Valor 1": 1,
       "Dragon Valor 2": 2,
       "Dragon Valor 3": 4
+    }
+  },
+  "Nagi - Hopeful Eternity": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Opposing Stones": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4,
+      "Dragon's Roar": 5
+    },
+    "skillA": {
+      "Atk/Res Scowl 1": 2,
+      "Atk/Res Scowl 2": 3,
+      "Atk/Res Scowl 3": 4,
+      "Atk/Res Scowl 4": 5
+    },
+    "skillB": {
+      "Dragon's Ire 1": 2,
+      "Dragon's Ire 2": 3,
+      "Dragon's Ire 3": 4,
+      "Dragon's Scales": 5
+    },
+    "skillC": {
+      "A/R Far Save 1": 2,
+      "A/R Far Save 2": 3,
+      "A/R Far Save 3": 4,
+      "A/R Twin F Save": 5
     }
   },
   "Gotoh - White Sage": {
@@ -17156,6 +17213,28 @@
       "Lull Spd/Def 3": 4
     }
   },
+  "Lethe - Cat Attack": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 4,
+      "Hungry Cat Fang": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 1,
+      "Atk/Spd Clash 2": 2,
+      "Atk/Spd Clash 3": 4
+    },
+    "skillB": {
+      "S/D Near Trace 1": 3,
+      "S/D Near Trace 2": 4,
+      "S/D Near Trace 3": 5
+    }
+  },
   "Kyza - Tiger of Fortune": {
     "weapon": {
       "Whelp (Infantry)": 1,
@@ -20435,6 +20514,29 @@
       "Threat. Atk/Spd 2": 4
     }
   },
+  "Yarne - Trick or Taguel": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 4,
+      "Full Rabbit Fang": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "Galeforce": 5
+    },
+    "skillB": {
+      "Beast Sense 1": 3,
+      "Beast Sense 2": 4,
+      "Beast Sense 3": 5
+    },
+    "skillC": {
+      "Rouse Spd/Def 1": 1,
+      "Rouse Spd/Def 2": 2,
+      "Rouse Spd/Def 3": 4
+    }
+  },
   "Laurent - The Elucidator": {
     "weapon": {
       "Stone": 1,
@@ -20665,6 +20767,37 @@
       "Infantry Breath 1": 3,
       "Infantry Breath 2": 4,
       "Infantry Breath 3": 5
+    }
+  },
+  "Nah - Grateful One": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Stone of Delights": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4,
+      "Armored Blaze": 5
+    },
+    "skillA": {
+      "Earth Boost 1": 2,
+      "Earth Boost 2": 3,
+      "Earth Boost 3": 4,
+      "Earthfire Boost 3": 5
+    },
+    "skillB": {
+      "Dragon's Ire 1": 2,
+      "Dragon's Ire 2": 3,
+      "Dragon's Ire 3": 4,
+      "Dragon's Scales": 5
+    },
+    "skillC": {
+      "D/R Near Save 1": 2,
+      "D/R Near Save 2": 3,
+      "D/R Near Save 3": 4,
+      "D/R Twin N Save": 5
     }
   },
   "Kjelle - Fair Fighter": {

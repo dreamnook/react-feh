@@ -19754,6 +19754,37 @@
       "exclusive": ["Eikþyrnir - Quieting Strength"],
       "last": true
     },
+    "Full Rabbit Fang": {
+      "id": "Full Rabbit Fang",
+      "name": "豐穰幼兔的爪牙",
+      "mt": 14,
+      "spd": 3,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Yarne - Trick or Taguel"],
+      "last": true
+    },
+    "Horn of Harvest": {
+      "id": "Horn of Harvest",
+      "name": "開啟的收穫祭之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Infantry)"],
+      "exclusive": ["Askr - Open Harvest"],
+      "last": true
+    },
+    "Hungry Cat Fang": {
+      "id": "Hungry Cat Fang",
+      "name": "感謝戰貓的爪牙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Lethe - Cat Attack"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -29207,6 +29238,26 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Alear - Seaside Dragon"],
+      "last": true
+    },
+    "Opposing Stones": {
+      "id": "Opposing Stones",
+      "name": "神魔雙龍之龍石",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Nagi - Hopeful Eternity"],
+      "last": true
+    },
+    "Stone of Delights": {
+      "id": "Stone of Delights",
+      "name": "收穫喜悅之龍石",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Nah - Grateful One"],
       "last": true
     },
     "Arcane Grima": {

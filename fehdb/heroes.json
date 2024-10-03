@@ -3652,6 +3652,41 @@
     "ver": "7.0",
     "dfKey": 5
   },
+  "Askr - Open Harvest": {
+    "id": "Askr - Open Harvest",
+    "title": "開啟的收穫祭",
+    "name": "亞斯克",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-beast",
+    "pool": "special",
+    "releaseDate": "2024-10-04",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [44, 48, 51],
+        "spd": [12, 16, 19],
+        "def": [45, 48, 52],
+        "res": [41, 45, 48]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 15,
+        "spd": 3,
+        "def": 9,
+        "res": 12
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["atk", "spd", "res"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
+  },
   "Ash - Retainer to Askr": {
     "id": "Ash - Retainer to Askr",
     "title": "亞斯克的眷屬",
@@ -8064,6 +8099,41 @@
     "book": 3,
     "ver": "3.9",
     "dfKey": 2
+  },
+  "Nagi - Hopeful Eternity": {
+    "id": "Nagi - Hopeful Eternity",
+    "title": "悠久的收穫祭",
+    "name": "娜琪",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "armored",
+    "weaponType": "red-dragon",
+    "pool": "harmonized",
+    "releaseDate": "2024-10-04",
+    "appearsIn": ["Shadow Dragon / (New) Mystery", "The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [46, 49, 52],
+        "atk": [45, 48, 51],
+        "spd": [13, 17, 20],
+        "def": [41, 45, 48],
+        "res": [45, 48, 52]
+      },
+      "5-1": {
+        "hp": 23,
+        "atk": 13,
+        "spd": 4,
+        "def": 12,
+        "res": 9
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["spd", "def"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
   },
   "Gotoh - White Sage": {
     "id": "Gotoh - White Sage",
@@ -29997,6 +30067,41 @@
     "ver": "4.0",
     "dfKey": 2
   },
+  "Lethe - Cat Attack": {
+    "id": "Lethe - Cat Attack",
+    "title": "感恩收穫的戰士",
+    "name": "蕾媞",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-beast",
+    "pool": "special",
+    "releaseDate": "2024-10-04",
+    "appearsIn": ["Radiant Dawn"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 44, 47],
+        "spd": [44, 47, 51],
+        "def": [31, 35, 38],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 8,
+        "def": 13,
+        "res": 5
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp", "def"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
+  },
   "Kyza - Tiger of Fortune": {
     "id": "Kyza - Tiger of Fortune",
     "title": "在元旦許願的虎戰士",
@@ -36203,6 +36308,55 @@
     "ver": "7.0",
     "dfKey": 5
   },
+  "Yarne - Trick or Taguel": {
+    "id": "Yarne - Trick or Taguel",
+    "title": "塔格艾爾的收穫祭",
+    "name": "夏布雷",
+    "rarity": [5, 4],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-beast",
+    "pool": "grail",
+    "releaseDate": "2024-10-04",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [42, 45, 48],
+        "spd": [40, 43, 47],
+        "def": [30, 33, 37],
+        "res": [16, 19, 22]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [42, 45, 49],
+        "def": [33, 36, 40],
+        "res": [18, 21, 24]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 15,
+        "def": 5,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 15,
+        "def": 6,
+        "res": 4
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
+  },
   "Laurent - The Elucidator": {
     "id": "Laurent - The Elucidator",
     "title": "真理的求道者",
@@ -36566,6 +36720,41 @@
     "book": 3,
     "ver": "3.6",
     "dfKey": 2
+  },
+  "Nah - Grateful One": {
+    "id": "Nah - Grateful One",
+    "title": "對收穫的感謝之心",
+    "name": "恩恩",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "armored",
+    "weaponType": "green-dragon",
+    "pool": "special",
+    "releaseDate": "2024-10-04",
+    "appearsIn": ["Awakening"],
+    "stats": {
+      "5": {
+        "hp": [49, 53, 56],
+        "atk": [43, 47, 50],
+        "spd": [15, 18, 21],
+        "def": [46, 49, 53],
+        "res": [42, 45, 49]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 14,
+        "spd": 3,
+        "def": 10,
+        "res": 6
+      }
+    },
+    "assets": ["def", "res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 212,
+    "statMax": 215,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
   },
   "Kjelle - Fair Fighter": {
     "id": "Kjelle - Fair Fighter",

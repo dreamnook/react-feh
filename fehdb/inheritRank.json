@@ -5445,6 +5445,19 @@
     "skillA": { "Still Water 3": { "sp": 200, "rarity": 5 } },
     "skillB": { "Sabotage Def 3": { "sp": 240, "rarity": 4 } }
   },
+  "Yarne - Trick or Taguel": {
+    "score": 299,
+    "scoreTotal": 659,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 500,
+    "spTotal": 980,
+    "feather": 300,
+    "bst": 189,
+    "special": { "Galeforce": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Beast Sense 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Spd/Def 3": { "sp": 240, "rarity": 4 } }
+  },
   "Xander - Paragon Knight": {
     "score": 403,
     "scoreTotal": 662,
@@ -7256,6 +7269,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Lethe - Cat Attack": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,
@@ -14093,6 +14119,19 @@
     "skillB": { "Vengeful Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "D/R Far Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Askr - Open Harvest": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Sturdy Beast": { "sp": 500, "rarity": 5 } },
+    "skillA": { "D Bonus Doubler": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Reopening": { "sp": 300, "rarity": 5 } }
+  },
   "Ephraim - Ardent Prince": {
     "score": 530,
     "scoreTotal": 1166,
@@ -14674,6 +14713,34 @@
     "skillA": { "Bonus Doubler 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Nagi - Hopeful Eternity": {
+    "score": 530,
+    "scoreTotal": 1484,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Scowl 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dragon's Scales": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Twin F Save": { "sp": 300, "rarity": 5 } }
+  },
+  "Nah - Grateful One": {
+    "score": 530,
+    "scoreTotal": 1484,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 212,
+    "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Earthfire Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dragon's Scales": { "sp": 300, "rarity": 5 } },
+    "skillC": { "D/R Twin N Save": { "sp": 300, "rarity": 5 } }
   },
   "Sylvain - Spring Flingster": {
     "score": 530,
