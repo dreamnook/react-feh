@@ -7688,6 +7688,37 @@
       "exclusive": ["Sigurd - Of the Holy War"],
       "last": true
     },
+    "Crimson Lance": {
+      "id": "Crimson Lance",
+      "name": "紅蓮龍槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Melady - Crimson Rider"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Crimson_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -10631,6 +10662,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Veronica - Harmonic Pirates"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Gate-Anchor_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Flower Hauteclere": {
@@ -20739,6 +20793,28 @@
       "res": 3,
       "sp": 400,
       "exclusive": ["Veld - Manfroy's Rock"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Petrify_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Fell Candelabra": {
@@ -23019,6 +23095,36 @@
       "sp": 400,
       "prev": ["Shine"],
       "exclusive": ["Celica - Of Echoes"],
+      "last": true
+    },
+    "Craver's Tome": {
+      "id": "Craver's Tome",
+      "name": "肚子餓的魔道士之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Ilyana - Hungering Mage"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Craver's_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arcane Euphoria": {
@@ -26777,6 +26883,12 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Flayn - Playing Innocent"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Caduceus_Staff_W"
+        }
+      },
       "last": true
     },
     "Elise's Staff": {

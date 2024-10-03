@@ -10066,7 +10066,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Instant Lance": 4,
-      "Instant Lance+": 5
+      "Instant Lance+": 5,
+      "Crimson Lance": 5
     },
     "special": {
       "Glowing Ember": 4,
@@ -16172,7 +16173,8 @@
       "Thunder": 1,
       "Elthunder": 2,
       "Blárfox": 4,
-      "Blárfox+": 5
+      "Blárfox+": 5,
+      "Craver's Tome": 5
     },
     "special": {
       "Chilling Wind": 4,
