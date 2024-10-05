@@ -19767,7 +19767,7 @@
     },
     "Horn of Harvest": {
       "id": "Horn of Harvest",
-      "name": "開啟的收穫祭之角",
+      "name": "開啟祭典之角",
       "mt": 14,
       "cd": -1,
       "sp": 400,
@@ -29242,7 +29242,7 @@
     },
     "Opposing Stones": {
       "id": "Opposing Stones",
-      "name": "神魔雙龍之龍石",
+      "name": "神魔雙龍的龍石",
       "mt": 16,
       "cd": -1,
       "sp": 400,
@@ -29252,7 +29252,7 @@
     },
     "Stone of Delights": {
       "id": "Stone of Delights",
-      "name": "收穫喜悅之龍石",
+      "name": "收穫喜悅的龍石",
       "mt": 16,
       "cd": -1,
       "sp": 400,

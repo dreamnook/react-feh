@@ -4667,7 +4667,7 @@
     "Sturdy Beast": {
       "pool": { "special": { "5": ["Askr - Open Harvest"] } },
       "id": "Sturdy Beast",
-      "name": "堅獸",
+      "name": "堅固之獸",
       "sp": 500,
       "rules": "beast"
     },
@@ -12304,7 +12304,7 @@
         "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
       },
       "id": "Dragon's Scales",
-      "name": "龍之堅鱗",
+      "name": "龍的硬鱗",
       "sp": 300,
       "icon": "skillB/Dragon's_Scales",
       "rules": "dragon"

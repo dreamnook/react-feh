@@ -2333,6 +2333,30 @@
       "icon": "skillB/Special_Fighter_3",
       "last": true
     },
+    "Wily Fighter 1": {
+      "id": "Wily Fighter 1",
+      "name": "正面隊形・敵方1",
+      "sp": 60,
+      "rules": "armored",
+      "icon": "skillB/Wily_Fighter_1"
+    },
+    "Wily Fighter 2": {
+      "id": "Wily Fighter 2",
+      "name": "正面隊形・敵方2",
+      "sp": 120,
+      "prev": ["Wily Fighter 1"],
+      "rules": "armored",
+      "icon": "skillB/Wily_Fighter_2"
+    },
+    "Wily Fighter 3": {
+      "id": "Wily Fighter 3",
+      "name": "正面隊形・敵方3",
+      "sp": 240,
+      "prev": ["Wily Fighter 2"],
+      "rules": "armored",
+      "icon": "skillB/Wily_Fighter_3",
+      "last": true
+    },
     "Poison Strike 1": {
       "id": "Poison Strike 1",
       "name": "蛇毒1",
@@ -3303,6 +3327,15 @@
       "prev": ["Distant Guard 2"],
       "icon": "skillC/Distant_Guard_3",
       "last": true
+    },
+    "Goad Dragons": {
+      "id": "Goad Dragons",
+      "name": "龍刃紋章",
+      "sp": 200,
+      "rules": "dragon",
+      "prev": ["Spur Atk 2", "Spur Spd 2"],
+      "last": true,
+      "icon": "skillC/Goad_Dragons"
     },
     "Ward Dragons": {
       "id": "Ward Dragons",

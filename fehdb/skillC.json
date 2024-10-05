@@ -553,7 +553,7 @@
   },
   "Connected World": {
     "id": "Connected World",
-    "name": "人神相連的世界",
+    "name": "人與神相連的世界",
     "sp": 300,
     "exclusive": ["Askr - Open Harvest"],
     "last": true,

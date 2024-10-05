@@ -744,7 +744,7 @@
   },
   "Sturdy Beast": {
     "id": "Sturdy Beast",
-    "name": "堅獸",
+    "name": "堅固之獸",
     "cd": 3,
     "sp": 500,
     "prev": ["Ignis"],

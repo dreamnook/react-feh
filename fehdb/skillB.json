@@ -4079,7 +4079,7 @@
   },
   "Dragon's Scales": {
     "id": "Dragon's Scales",
-    "name": "龍之堅鱗",
+    "name": "龍的硬鱗",
     "sp": 300,
     "prev": ["Dragon's Ire 3"],
     "rules": "dragon",
