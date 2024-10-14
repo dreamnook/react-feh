@@ -553,6 +553,19 @@
     "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 4 } }
   },
+  "Pandreo - Party Priest": {
+    "score": 50,
+    "scoreTotal": 146,
+    "poolRarity": 3,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 150,
+    "bst": 188,
+    "assist": { "Martyr+": { "sp": 300, "rarity": 5 } },
+    "special": { "Fireflood Balm": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Def/Res Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Res 2": { "sp": 240, "rarity": 4 } }
+  },
   "Chrom - Spring Exalt": {
     "score": 159,
     "scoreTotal": 159,
@@ -965,19 +978,6 @@
     "special": { "Miracle": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Pandreo - Party Priest": {
-    "score": 75,
-    "scoreTotal": 245,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 980,
-    "feather": 1000,
-    "bst": 188,
-    "assist": { "Martyr+": { "sp": 300, "rarity": 5 } },
-    "special": { "Fireflood Balm": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Def/Res Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Res 2": { "sp": 240, "rarity": 5 } }
   },
   "Gunter - Inveterate Soldier": {
     "score": 166,
@@ -2903,19 +2903,6 @@
     "skillA": { "Atk/Spd Solo 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Threat. Spd/Def 2": { "sp": 200, "rarity": 5 } }
   },
-  "Dedue - Loyal Life Guard": {
-    "score": 196,
-    "scoreTotal": 423,
-    "poolRarity": 4,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 300,
-    "bst": 193,
-    "special": { "Pavise": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Solid Ground 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Even Def Wave 3": { "sp": 240, "rarity": 4 } }
-  },
   "Inigo - Indigo Dancer": {
     "score": 212,
     "scoreTotal": 424,
@@ -3365,6 +3352,19 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Spd Finish 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Spd/Def Tempo 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Lethe - Cat Attack": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 190,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Clash 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Annette - Festive Helper": {
     "score": 196,
@@ -5445,6 +5445,19 @@
     "skillA": { "Still Water 3": { "sp": 200, "rarity": 5 } },
     "skillB": { "Sabotage Def 3": { "sp": 240, "rarity": 4 } }
   },
+  "Dedue - Loyal Life Guard": {
+    "score": 299,
+    "scoreTotal": 646,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Pavise": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Solid Ground 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Even Def Wave 3": { "sp": 240, "rarity": 4 } }
+  },
   "Yarne - Trick or Taguel": {
     "score": 299,
     "scoreTotal": 659,
@@ -7269,19 +7282,6 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Lethe - Cat Attack": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 190,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Clash 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,

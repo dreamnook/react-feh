@@ -1159,7 +1159,7 @@
         "refine": 350
       },
       "Anchor Axe+": {
-        "pool": { "special": { "5": ["Dedue - Loyal Life Guard"] } },
+        "pool": { "grail": { "5": ["Dedue - Loyal Life Guard"] } },
         "id": "Anchor Axe+",
         "name": "錨之斧+",
         "sp": 300,
@@ -2659,10 +2659,7 @@
       },
       "Respite+": {
         "pool": {
-          "#": {
-            "3": ["Nyna - The Last Princess"],
-            "5": ["Pandreo - Party Priest"]
-          }
+          "#": { "3": ["Nyna - The Last Princess", "Pandreo - Party Priest"] }
         },
         "id": "Respite+",
         "name": "聖域+",
@@ -2999,13 +2996,10 @@
             "Azama - Carefree Monk",
             "Natasha - Sacred Healer",
             "Dwyer - Sleepy Butler",
-            "Mercedes - Kindly Devotee"
-          ],
-          "5": [
-            "Maribelle - Dire Damsel",
-            "Mikoto - Caring Mother",
+            "Mercedes - Kindly Devotee",
             "Pandreo - Party Priest"
-          ]
+          ],
+          "5": ["Maribelle - Dire Damsel", "Mikoto - Caring Mother"]
         },
         "grail": {
           "5": [
@@ -4640,9 +4634,9 @@
           ]
         },
         "special": {
+          "4": ["Lethe - Cat Attack"],
           "5": [
             "Corrin - Novice Vacationer",
-            "Lethe - Cat Attack",
             "Nerþuz - Beach Chaperone",
             "Embla - Closed-Off Bride",
             "Ephraim - Sparkling Gallantly",
@@ -5277,9 +5271,10 @@
             "Reinhardt - Thunder's Sword"
           ]
         },
-        "grail": { "4": ["Arden - Strong and Tough"] },
-        "rearmed": { "5": ["Robin - Fell Tactician"] },
-        "special": { "4": ["Dedue - Loyal Life Guard"] }
+        "grail": {
+          "4": ["Arden - Strong and Tough", "Dedue - Loyal Life Guard"]
+        },
+        "rearmed": { "5": ["Robin - Fell Tactician"] }
       },
       "id": "Pavise",
       "name": "大盾",
@@ -5447,7 +5442,10 @@
     },
     "Fireflood Balm": {
       "pool": {
-        "#": { "5": ["Pandreo - Party Priest", "August - Astute Tactician"] },
+        "#": {
+          "3": ["Pandreo - Party Priest"],
+          "5": ["August - Astute Tactician"]
+        },
         "special": {
           "5": ["Genny - Dressed with Care", "Sakura - Hot-Spring Healer"]
         }
@@ -5986,7 +5984,7 @@
     "Solid Ground 3": {
       "pool": {
         "#": { "5": ["Gregor - Swell Sword"] },
-        "special": { "5": ["Dedue - Loyal Life Guard"] }
+        "grail": { "5": ["Dedue - Loyal Life Guard"] }
       },
       "id": "Solid Ground 3",
       "name": "不壞3",
@@ -9133,9 +9131,8 @@
           ]
         },
         "special": {
-          "4": ["Panne - Welcoming Dawn"],
+          "4": ["Panne - Welcoming Dawn", "Lethe - Cat Attack"],
           "5": [
-            "Lethe - Cat Attack",
             "Dagr - Bluster Princess",
             "Nerþuz - Beach Chaperone",
             "Felicia - Confidently Cold",
@@ -9415,7 +9412,7 @@
     },
     "Def/Res Finish 3": {
       "pool": {
-        "#": { "5": ["Pandreo - Party Priest"] },
+        "#": { "3": ["Pandreo - Party Priest"] },
         "emblem": { "5": ["Ike - Of Radiance"] },
         "special": { "4": ["Lissa - Littlest Princess"] },
         "duo": { "5": ["Askr - Renewed Gods"] }
@@ -13358,9 +13355,12 @@
     "Drive Res 2": {
       "pool": {
         "#": {
-          "3": ["Saul - Loving Shepherd", "Soleil - Adorable Adorer"],
-          "5": [
+          "3": [
+            "Saul - Loving Shepherd",
             "Pandreo - Party Priest",
+            "Soleil - Adorable Adorer"
+          ],
+          "5": [
             "Sara - Lady of Loptr",
             "Neimi - Tearful Archer",
             "Edelgard - Adrestian Emperor",
@@ -15601,11 +15601,14 @@
           "3": ["Silas - Loyal Knight"],
           "5": ["Rinkah - Scion of Flame"]
         },
-        "grail": { "4": ["Ylgr - Breaking the Ice", "Caellach - Tiger Eye"] },
-        "special": {
-          "4": ["Dedue - Loyal Life Guard"],
-          "5": ["Laevatein - Kumade Warrior"]
-        }
+        "grail": {
+          "4": [
+            "Dedue - Loyal Life Guard",
+            "Ylgr - Breaking the Ice",
+            "Caellach - Tiger Eye"
+          ]
+        },
+        "special": { "5": ["Laevatein - Kumade Warrior"] }
       },
       "id": "Even Def Wave 3",
       "name": "防守之波・偶數3",

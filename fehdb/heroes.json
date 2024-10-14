@@ -30071,7 +30071,7 @@
     "id": "Lethe - Cat Attack",
     "title": "感恩收穫的戰士",
     "name": "蕾媞",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "cavalry",
     "weaponType": "blue-beast",
@@ -30079,12 +30079,26 @@
     "releaseDate": "2024-10-04",
     "appearsIn": ["Radiant Dawn"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [39, 42, 45],
+        "spd": [41, 44, 47],
+        "def": [30, 33, 36],
+        "res": [19, 22, 25]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [41, 44, 47],
         "spd": [44, 47, 51],
         "def": [31, 35, 38],
         "res": [21, 24, 28]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 7,
+        "def": 13,
+        "res": 4
       },
       "5-1": {
         "hp": 18,
@@ -45337,7 +45351,7 @@
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-axe",
-    "pool": "special",
+    "pool": "grail",
     "releaseDate": "2024-07-05",
     "appearsIn": ["Three Houses"],
     "stats": {
@@ -49677,19 +49691,47 @@
     "id": "Pandreo - Party Priest",
     "title": "派對聖徒",
     "name": "龐德羅",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-staff",
     "releaseDate": "2024-09-17",
     "appearsIn": ["Engage"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [35, 38, 41],
+        "spd": [33, 36, 39],
+        "def": [12, 15, 18],
+        "res": [39, 42, 45]
+      },
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [37, 41, 44],
+        "spd": [35, 38, 41],
+        "def": [13, 16, 19],
+        "res": [41, 44, 47]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [39, 43, 46],
         "spd": [37, 40, 43],
         "def": [14, 18, 21],
         "res": [44, 47, 51]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 11,
+        "def": 4,
+        "res": 7
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 12,
+        "def": 4,
+        "res": 7
       },
       "5-1": {
         "hp": 18,
