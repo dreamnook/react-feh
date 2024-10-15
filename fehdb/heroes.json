@@ -3504,6 +3504,41 @@
     "ver": "6.0",
     "dfKey": 4
   },
+  "Dagr - Sunny Bloom": {
+    "id": "Dagr - Sunny Bloom",
+    "title": "耀眼的陽花",
+    "name": "達古",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "pool": "aided",
+    "releaseDate": "2024-10-15",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 45, 48],
+        "spd": [44, 47, 51],
+        "def": [34, 37, 40],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 8,
+        "def": 11,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
+  },
   "Nótt - Moon's Elegance": {
     "id": "Nótt - Moon's Elegance",
     "title": "魅惑的月光",
@@ -44787,6 +44822,40 @@
     "ver": "5.6",
     "dfKey": 3
   },
+  "Caspar - Hotheaded Inciter": {
+    "id": "Caspar - Hotheaded Inciter",
+    "title": "好勇鬥狠的熱血男子",
+    "name": "卡斯帕爾",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "releaseDate": "2024-10-15",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [45, 48, 52],
+        "spd": [41, 44, 48],
+        "def": [29, 32, 35],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 9,
+        "spd": 14,
+        "def": 8,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["res"],
+    "statMin": 198,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
+  },
   "Bernadetta - Eternal Loner": {
     "id": "Bernadetta - Eternal Loner",
     "title": "永遠的家裡蹲",
@@ -45029,6 +45098,40 @@
     "book": 7,
     "ver": "7.0",
     "dfKey": 5
+  },
+  "Dorothea - Daring Ex-Singer": {
+    "id": "Dorothea - Daring Ex-Singer",
+    "title": "堅韌不拔的前歌姬",
+    "name": "多洛緹雅",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "releaseDate": "2024-10-15",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [36, 40, 43],
+        "spd": [33, 36, 39],
+        "def": [13, 17, 20],
+        "res": [42, 45, 49]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 7,
+        "spd": 10,
+        "def": 4,
+        "res": 6
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
   },
   "Petra - Princess of Brigid": {
     "id": "Petra - Princess of Brigid",
@@ -45592,6 +45695,40 @@
     "book": 7,
     "ver": "7.3",
     "dfKey": 5
+  },
+  "Ashe - Chivalric Amends": {
+    "id": "Ashe - Chivalric Amends",
+    "title": "贖罪的騎士精神",
+    "name": "亞修",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-bow",
+    "releaseDate": "2024-10-15",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [40, 44, 47],
+        "spd": [44, 47, 51],
+        "def": [24, 27, 31],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 8,
+        "def": 8,
+        "res": 6
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
   },
   "Sylvain - Hanging with Tens": {
     "id": "Sylvain - Hanging with Tens",
@@ -46614,6 +46751,41 @@
     "book": 5,
     "ver": "5.8",
     "dfKey": 4
+  },
+  "Marianne - Cursed Blessing": {
+    "id": "Marianne - Cursed Blessing",
+    "title": "祝福與束縛的相克",
+    "name": "瑪莉安奴",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "flying",
+    "weaponType": "red-tome",
+    "pool": "rearmed",
+    "releaseDate": "2024-10-15",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [43, 46, 49],
+        "spd": [36, 40, 43],
+        "def": [12, 16, 19],
+        "res": [42, 45, 49]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 11,
+        "spd": 7,
+        "def": 3,
+        "res": 15
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
   },
   "Hilda - Idle Maiden": {
     "id": "Hilda - Idle Maiden",
@@ -47764,6 +47936,69 @@
     "book": 4,
     "ver": "4.3",
     "dfKey": 2
+  },
+  "Metodey - Shrewd Braggart": {
+    "id": "Metodey - Shrewd Braggart",
+    "title": "暗巷中的自戀狂",
+    "name": "梅特傑",
+    "rarity": [5, 4, 3],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-dagger",
+    "pool": "grail",
+    "releaseDate": "2024-10-15",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [36, 39, 42],
+        "spd": [39, 42, 45],
+        "def": [28, 31, 34],
+        "res": [20, 23, 26]
+      },
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [38, 41, 45],
+        "spd": [41, 44, 47],
+        "def": [30, 33, 36],
+        "res": [21, 24, 27]
+      },
+      "5": {
+        "hp": [38, 41, 44],
+        "atk": [40, 43, 47],
+        "spd": [44, 47, 51],
+        "def": [32, 35, 38],
+        "res": [23, 26, 30]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 7,
+        "def": 8,
+        "res": 6
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 13,
+        "spd": 7,
+        "def": 9,
+        "res": 6
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 13,
+        "spd": 8,
+        "def": 9,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": [],
+    "statMin": 192,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
   },
   "Nemesis - King of Liberation": {
     "id": "Nemesis - King of Liberation",

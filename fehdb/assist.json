@@ -171,7 +171,8 @@
       "Rafiel - Blessed Wings",
       "Azura - Hatari Duet",
       "Dorothea - Yuletide Dancer",
-      "Azura - Song's Reflection"
+      "Azura - Song's Reflection",
+      "Dorothea - Daring Ex-Singer"
     ],
     "last": true
   },
@@ -549,7 +550,14 @@
     "name": "帶回",
     "sp": 150,
     "range": 1,
-    "rules": "not.white-staff",
+    "rules": "not.white-staff"
+  },
+  "Reposition Gait": {
+    "id": "Reposition Gait",
+    "name": "帶回・步法",
+    "sp": 400,
+    "prev": ["Reposition"],
+    "rules": "learner.infantry-armored-not-staff",
     "last": true
   },
   "Pivot": {

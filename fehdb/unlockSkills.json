@@ -2539,6 +2539,33 @@
       "Atk/Def Rein 3": 4
     }
   },
+  "Dagr - Sunny Bloom": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Veðrfölnir's Edge": 5
+    },
+    "assist": {
+      "Reposition": 3,
+      "Reposition Gait": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
+    },
+    "skillB": {
+      "Veðrfölnir's Wing": 5
+    },
+    "skillC": {
+      "Canto Control 1": 2,
+      "Canto Control 2": 3,
+      "Canto Control 3": 4,
+      "Firm Canto Curb": 5
+    }
+  },
   "Nótt - Moon's Elegance": {
     "weapon": {
       "Iron Lance": 1,
@@ -25284,6 +25311,28 @@
       "Even Atk Wave 3": 5
     }
   },
+  "Caspar - Hotheaded Inciter": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Up-Front Axe": 3,
+      "Up-Front Axe+": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Spd/Def Finish 1": 3,
+      "Spd/Def Finish 2": 4,
+      "Spd/Def Finish 3": 5
+    },
+    "skillB": {
+      "Brash Assault 1": 1,
+      "Brash Assault 2": 2,
+      "Brash Assault 3": 4
+    }
+  },
   "Bernadetta - Eternal Loner": {
     "weapon": {
       "Iron Bow": 1,
@@ -25466,6 +25515,27 @@
       "Spd Tactic 2": 3,
       "Spd Tactic 3": 4,
       "Inf. Spd Tactic": 5
+    }
+  },
+  "Dorothea - Daring Ex-Singer": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Blárvulture": 3,
+      "Blárvulture+": 5
+    },
+    "assist": {
+      "Sing": 3
+    },
+    "skillB": {
+      "Spd Cantrip 1": 1,
+      "Spd Cantrip 2": 2,
+      "Spd Cantrip 3": 4
+    },
+    "skillC": {
+      "Inf. Null Follow 1": 3,
+      "Inf. Null Follow 2": 4,
+      "Inf. Null Follow 3": 5
     }
   },
   "Petra - Princess of Brigid": {
@@ -25857,6 +25927,37 @@
       "Atk/Spd Rein 1": 3,
       "Atk/Spd Rein 2": 4,
       "Atk/Spd Rein 3": 5
+    }
+  },
+  "Ashe - Chivalric Amends": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Just Bow": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Moonbow": 4,
+      "Curved Shot": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Flared Sparrow": 5
+    },
+    "skillB": {
+      "Seal Spd 1": 2,
+      "Seal Spd/Def 1": 3,
+      "Seal Spd/Def 2": 4,
+      "Seal Spd/Def 3": 5
+    },
+    "skillC": {
+      "Odd Spd Wave 1": 2,
+      "Odd Spd Wave 2": 3,
+      "Odd Spd Wave 3": 4,
+      "Odd Spd Wave 4": 5
     }
   },
   "Sylvain - Hanging with Tens": {
@@ -26495,6 +26596,37 @@
       "Time's Pulse 3": 5
     }
   },
+  "Marianne - Cursed Blessing": {
+    "weapon": {
+      "Flux": 1,
+      "Ruin": 2,
+      "Fenrir": 3,
+      "Arcane Blutgang": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Glacies": 4,
+      "Requiem Prayer": 5
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Crystalline Water": 5
+    },
+    "skillB": {
+      "Sabotage Res 1": 2,
+      "Sabotage Res 2": 3,
+      "Sabotage Res 3": 4,
+      "Spd/Res Discord": 5
+    },
+    "skillC": {
+      "Spd/Res Rein 1": 2,
+      "Spd/Res Rein 2": 3,
+      "Spd/Res Rein 3": 4,
+      "Spd/Res Crux": 5
+    }
+  },
   "Hilda - Idle Maiden": {
     "weapon": {
       "Iron Axe": 1,
@@ -27111,6 +27243,28 @@
       "Wary Fighter 1": 3,
       "Wary Fighter 2": 4,
       "Wary Fighter 3": 5
+    }
+  },
+  "Metodey - Shrewd Braggart": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Gainful Dagger": 3,
+      "Gainful Dagger+": 5
+    },
+    "special": {
+      "Rising Flame": 3,
+      "Blazing Flame": 4
+    },
+    "skillA": {
+      "Sorcery Blade 1": 3,
+      "Sorcery Blade 2": 4,
+      "Sorcery Blade 3": 5
+    },
+    "skillB": {
+      "Poison Strike 1": 1,
+      "Poison Strike 2": 2,
+      "Poison Strike 3": 4
     }
   },
   "Nemesis - King of Liberation": {

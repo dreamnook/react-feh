@@ -536,6 +536,14 @@
     "exclusive": ["Sigurd - Of the Holy War"],
     "last": true
   },
+  "Requiem Prayer": {
+    "id": "Requiem Prayer",
+    "name": "鎮魂之願",
+    "sp": 500,
+    "prev": ["Glacies"],
+    "exclusive": ["Marianne - Cursed Blessing"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

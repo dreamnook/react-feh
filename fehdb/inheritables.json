@@ -1164,6 +1164,13 @@
         "name": "錨之斧+",
         "sp": 300,
         "refine": 350
+      },
+      "Up-Front Axe+": {
+        "pool": { "#": { "5": ["Caspar - Hotheaded Inciter"] } },
+        "id": "Up-Front Axe+",
+        "name": "堂堂正正之斧+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "bow": {
@@ -1683,6 +1690,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Gainful Dagger+": {
+        "pool": { "grail": { "5": ["Metodey - Shrewd Braggart"] } },
+        "id": "Gainful Dagger+",
+        "name": "有利狀態暗器+",
+        "sp": 300,
+        "refine": 350
+      },
       "Seashell+": {
         "pool": { "special": { "5": ["Frederick - Horizon Watcher"] } },
         "id": "Seashell+",
@@ -1903,6 +1917,12 @@
         "name": "魔器露奈克利普斯",
         "sp": 300,
         "refine": 350
+      },
+      "Arcane Blutgang": {
+        "pool": { "rearmed": { "5": ["Marianne - Cursed Blessing"] } },
+        "id": "Arcane Blutgang",
+        "name": "魔器布魯托剛格",
+        "sp": 300
       },
       "Bolganone+": {
         "pool": { "#": { "3": ["Lilina - Delightful Noble"] } },
@@ -2173,6 +2193,13 @@
         "pool": { "#": { "3": ["Miriel - Rapier Intellect"] } },
         "id": "Blárlion+",
         "name": "蒼藍之獅+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Blárvulture+": {
+        "pool": { "#": { "5": ["Dorothea - Daring Ex-Singer"] } },
+        "id": "Blárvulture+",
+        "name": "蒼藍禿鷹+",
         "sp": 300,
         "refine": 350
       },
@@ -3268,62 +3295,12 @@
       "sp": 150,
       "rules": "not.white-staff"
     },
-    "Reposition": {
-      "pool": {
-        "#": {
-          "3": [
-            "Ferdinand - Noblest of Nobles",
-            "Barst - The Hatchet",
-            "Lex - Young Blade",
-            "Selena - Cutting Wit",
-            "Silas - Loyal Knight",
-            "Merlinus - Pherae's Clerk",
-            "Norne - The Volunteer",
-            "Kent - Crimson Shield",
-            "Cath - Master Thief",
-            "Kyle - Zealous Knight",
-            "Fee - Aspiring Knight"
-          ],
-          "5": [
-            "Olwen - Blue Mage Knight",
-            "Sumia - Maid of Flowers",
-            "Isadora - Escort of Pherae",
-            "Merrin - Suave Knight",
-            "Wolf - Coyote's Loyal",
-            "Farina - The Great Wing",
-            "Lilith - Astral Daughter",
-            "Chrom - Fated Honor"
-          ]
-        },
-        "grail": {
-          "4": ["Leonie - Relentless Rays", "Luthier - Spring Hopes"]
-        },
-        "rearmed": { "5": ["Chrom - Fell Exalt"] },
-        "legendary": { "5": ["Chrom - Crowned Exalt"] },
-        "special": {
-          "4": ["Geese - A Life at Sea", "Xane - Autumn Trickster"],
-          "5": [
-            "Robin - Seaside Tactician",
-            "Nowi - Eternal Witch",
-            "Marisa - Crimson Rabbit",
-            "Fjorm - New Traditions",
-            "Laegjarn - Burning Sun",
-            "Lyn - Lady of the Beach"
-          ]
-        },
-        "duo": {
-          "5": [
-            "Palla - Sisterly Trio",
-            "Chrom - Fate-Defying Duo",
-            "Robin - Vessels of Fate"
-          ]
-        },
-        "harmonized": { "5": ["Mia - Harmonic Blades"] }
-      },
-      "id": "Reposition",
-      "name": "帶回",
-      "sp": 150,
-      "rules": "not.white-staff"
+    "Reposition Gait": {
+      "pool": { "aided": { "5": ["Dagr - Sunny Bloom"] } },
+      "id": "Reposition Gait",
+      "name": "帶回・步法",
+      "sp": 400,
+      "rules": "learner.infantry-armored-not-staff"
     },
     "Pivot": {
       "pool": {
@@ -3918,6 +3895,7 @@
             "Nephenee - Fierce Halberdier",
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
+            "Caspar - Hotheaded Inciter",
             "Sonya - Vengeful Mage",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
@@ -3941,7 +3919,8 @@
             "Gerik - Desert Tiger",
             "Jill - Fiery Dracoknight",
             "Lysithea - Earnest Seeker",
-            "Bernadetta - Sheltered Loner"
+            "Bernadetta - Sheltered Loner",
+            "Ashe - Chivalric Amends"
           ]
         },
         "grail": { "4": ["Joshua - Tempest King", "Kyza - Tiger of Fortune"] },
@@ -4017,7 +3996,11 @@
       "rules": "not.white-staff"
     },
     "Curved Shot": {
-      "pool": { "#": { "5": ["Bernadetta - Sheltered Loner"] } },
+      "pool": {
+        "#": {
+          "5": ["Bernadetta - Sheltered Loner", "Ashe - Chivalric Amends"]
+        }
+      },
       "id": "Curved Shot",
       "name": "曲射",
       "sp": 500,
@@ -5040,6 +5023,7 @@
             "Candace - Sly Snatcher"
           ]
         },
+        "rearmed": { "5": ["Marianne - Cursed Blessing"] },
         "legendary": { "5": ["Gunnthrá - Voice of Dreams"] },
         "mythic": {
           "5": [
@@ -5098,7 +5082,11 @@
       "pool": {
         "#": { "3": ["Jeorge - Perfect Shot"] },
         "grail": {
-          "4": ["Berkut - Prideful Prince", "Death Knight - The Reaper"]
+          "4": [
+            "Berkut - Prideful Prince",
+            "Death Knight - The Reaper",
+            "Metodey - Shrewd Braggart"
+          ]
         },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
         "special": {
@@ -5927,8 +5915,8 @@
           "5": [
             "Jaffar - Angel of Death",
             "Minerva - Red Dragoon",
-            "Niðavellir - Founding King",
             "Wolf - Coyote's Loyal",
+            "Niðavellir - Founding King",
             "Selena - Fluorspar",
             "Igrene - Nabata Protector",
             "Leila - Rose amid Fangs",
@@ -6004,7 +5992,9 @@
         "grail": {
           "5": ["Tailtiu - Teatime Mingler", "Linhardt - Spring Snoozer"]
         },
-        "rearmed": { "5": ["Plumeria - Rapturous Dream"] },
+        "rearmed": {
+          "5": ["Plumeria - Rapturous Dream", "Marianne - Cursed Blessing"]
+        },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
         "special": {
@@ -6044,7 +6034,10 @@
       "rules": "not.white-staff"
     },
     "Crystalline Water": {
-      "pool": { "#": { "5": ["Veyle - Fell Successor"] } },
+      "pool": {
+        "#": { "5": ["Veyle - Fell Successor"] },
+        "rearmed": { "5": ["Marianne - Cursed Blessing"] }
+      },
       "id": "Crystalline Water",
       "name": "明鏡止水",
       "sp": 300,
@@ -6201,13 +6194,14 @@
             "Eirika - Pledged Restorer",
             "Gullveig - Seer Beyond Time",
             "Fogado - Affable Prince",
+            "Chrom - Fated Honor",
             "Ishtar - Thunder Goddess",
             "Nino - Pale Flower",
             "Lewyn - Guiding Breeze",
             "Sue - Doe of the Plains",
             "Charlotte - Wily Warrior",
-            "Chrom - Fated Honor",
-            "Eliwood - Marquess Pherae"
+            "Eliwood - Marquess Pherae",
+            "Ashe - Chivalric Amends"
           ]
         },
         "grail": {
@@ -6241,6 +6235,7 @@
           "5": [
             "Lucina - Spring Exalt",
             "Ishtar - Thunder's Waltz",
+            "Laegjarn - Burning Sun",
             "Tharja - Florid Charmer",
             "Nailah - Blessed Queen",
             "Reginn - Bearing Dawn",
@@ -6251,7 +6246,6 @@
             "L'Arachel - Harvest Princess",
             "Mist - Purest Spirit",
             "Elise - Bubbling Flower",
-            "Laegjarn - Burning Sun",
             "Gunnthrá - Year's First Dream",
             "Merric - Changing Winds",
             "Shanna - Bridal Novice",
@@ -6305,11 +6299,11 @@
         "special": {
           "5": [
             "Ishtar - Thunder's Waltz",
+            "Laegjarn - Burning Sun",
             "Tharja - Florid Charmer",
             "Nailah - Blessed Queen",
             "Reginn - Bearing Dawn",
             "Leila - Keen Lookout",
-            "Laegjarn - Burning Sun",
             "Merric - Changing Winds",
             "Shanna - Bridal Novice"
           ]
@@ -6344,8 +6338,8 @@
             "Cordelia - Knight Paradise",
             "Alfonse - Spring Prince",
             "Nailah - Hatari Scorcher",
-            "Sigurd - Proper Pourer",
             "Lyn - Lady of the Beach",
+            "Sigurd - Proper Pourer",
             "Ingrid - Solstice Knight"
           ]
         },
@@ -6400,8 +6394,8 @@
         },
         "duo": {
           "5": [
-            "Seiðr - Time's Goddesses",
             "Palla - Sisterly Trio",
+            "Seiðr - Time's Goddesses",
             "Mark - Winds of Hope",
             "Sanaki - Dawnsworn Ninja"
           ]
@@ -6581,7 +6575,11 @@
     "Flared Sparrow": {
       "pool": {
         "#": {
-          "5": ["Gullveig - Seer Beyond Time", "Fogado - Affable Prince"]
+          "5": [
+            "Gullveig - Seer Beyond Time",
+            "Fogado - Affable Prince",
+            "Ashe - Chivalric Amends"
+          ]
         },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "5": ["Yunaka - Spirited Envoy", "Lapis - Mighty Bride"] },
@@ -7533,9 +7531,9 @@
           "3": ["Kent - Crimson Shield"],
           "5": [
             "Maria - Ritual Sacrifice",
+            "Lilith - Astral Daughter",
             "Hinoka - Blue Sky Warrior",
             "Selkie - Free Spirit",
-            "Lilith - Astral Daughter",
             "Marianne - Serene Adherent",
             "Corrin - Dream Princess",
             "Catria - Mild Middle Sister"
@@ -7551,9 +7549,9 @@
         "special": {
           "4": ["Owain - Devoted Defender"],
           "5": [
+            "Fjorm - New Traditions",
             "Tharja - Obsessive Bride",
             "Lyn - Wind's Embrace",
-            "Fjorm - New Traditions",
             "Hinoka - Relaxed Warrior"
           ]
         },
@@ -8410,7 +8408,10 @@
           "3": ["Lapis - Mighty Flower"],
           "5": ["Febail - Mercenary Waif", "Ylgr - Fresh Snowfall"]
         },
-        "grail": { "4": ["Candace - Sly Snatcher"] },
+        "grail": {
+          "4": ["Candace - Sly Snatcher"],
+          "5": ["Metodey - Shrewd Braggart"]
+        },
         "legendary": { "5": ["Yuri - Underground Lord"] },
         "mythic": { "5": ["Dagr - Sun's Radiance"] }
       },
@@ -8490,7 +8491,7 @@
       "name": "遠反・強化增幅",
       "sp": 300,
       "icon": "skillA/D_Bonus_Doubler",
-      "rules": ["learner.infantry-melee"]
+      "rules": "learner.infantry-melee"
     },
     "AR-O Atk/Spd 3": {
       "pool": { "mythic": { "5": ["Naga - Dragon Divinity"] } },
@@ -8687,8 +8688,8 @@
       "pool": {
         "#": {
           "5": [
-            "Caeldori - Perfect Angel",
             "Farina - The Great Wing",
+            "Caeldori - Perfect Angel",
             "Byleth - Sublime Light",
             "Lilith - Silent Broodling"
           ]
@@ -8740,8 +8741,8 @@
       "pool": {
         "#": {
           "5": [
-            "Caeldori - Perfect Angel",
             "Farina - The Great Wing",
+            "Caeldori - Perfect Angel",
             "Byleth - Sublime Light",
             "Lilith - Silent Broodling"
           ]
@@ -9112,14 +9113,14 @@
       "pool": {
         "#": {
           "5": [
-            "Seliph - Enduring Legacy",
             "Isadora - Escort of Pherae",
+            "Seliph - Enduring Legacy",
             "Felix - Sword Savant"
           ]
         },
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
         "attuned": { "5": ["Triandra - Reverent Dream"] },
-        "aided": { "5": ["Reginn - Dvergr Heir"] },
+        "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
         "legendary": {
           "5": ["Elincia - Undaunted Queen", "Dimitri - Savior King"]
         },
@@ -9157,7 +9158,7 @@
     "Atk/Spd Clash 4": {
       "pool": {
         "#": {
-          "5": ["Seliph - Enduring Legacy", "Isadora - Escort of Pherae"]
+          "5": ["Isadora - Escort of Pherae", "Seliph - Enduring Legacy"]
         },
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
         "attuned": { "5": ["Triandra - Reverent Dream"] },
@@ -9363,7 +9364,10 @@
       "rules": "infantry"
     },
     "Spd/Def Finish 3": {
-      "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },
+      "pool": {
+        "#": { "5": ["Caspar - Hotheaded Inciter"] },
+        "attuned": { "5": ["Timerra - Desert Warrior"] }
+      },
       "id": "Spd/Def Finish 3",
       "name": "速度防守的奧秘3",
       "sp": 240,
@@ -9576,7 +9580,7 @@
     "Atk/Spd Excel": {
       "pool": {
         "#": { "5": ["Felix - Sword Savant"] },
-        "aided": { "5": ["Reginn - Dvergr Heir"] },
+        "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
         "special": {
           "5": ["Nerþuz - Beach Chaperone", "Felicia - Confidently Cold"]
         },
@@ -9857,7 +9861,7 @@
             "Hinata - Wild Samurai",
             "Altena - Luminous Rider"
           ],
-          "5": ["Harken - Troubled Warrior"]
+          "5": ["Caspar - Hotheaded Inciter", "Harken - Troubled Warrior"]
         },
         "grail": { "5": ["Validar - Fell Architect"] },
         "duo": { "5": ["Shamir - Heartbeats United"] }
@@ -10213,7 +10217,9 @@
           ],
           "5": ["Bernadetta - Sheltered Loner"]
         },
-        "grail": { "4": ["Clarisse - Sniper in the Dark"] },
+        "grail": {
+          "4": ["Clarisse - Sniper in the Dark", "Metodey - Shrewd Braggart"]
+        },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "5": ["Yunaka - Spirited Envoy"] },
         "duo": { "5": ["Lyon - Esteemed Royals"] },
@@ -10422,11 +10428,21 @@
       "rules": "not.white-staff"
     },
     "Seal Spd/Def 2": {
-      "pool": { "#": { "3": ["Thea - Stormy Flier"] } },
+      "pool": {
+        "#": { "3": ["Thea - Stormy Flier"], "5": ["Ashe - Chivalric Amends"] }
+      },
       "id": "Seal Spd/Def 2",
       "name": "速度防守封印2",
       "sp": 200,
       "icon": "skillB/Seal_Spd_Def_2",
+      "rules": "not.white-staff"
+    },
+    "Seal Spd/Def 3": {
+      "pool": { "#": { "5": ["Ashe - Chivalric Amends"] } },
+      "id": "Seal Spd/Def 3",
+      "name": "速度防守封印3",
+      "sp": 300,
+      "icon": "skillB/Seal_Spd_Def_3",
       "rules": "not.white-staff"
     },
     "Seal Spd/Res 2": {
@@ -10735,6 +10751,7 @@
             "Marla - Duma's Witch"
           ]
         },
+        "rearmed": { "5": ["Marianne - Cursed Blessing"] },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
         "mythic": { "5": ["Yune - Chaos Goddess"] },
         "special": { "5": ["Ivy - Tidal Breeze"] },
@@ -10775,6 +10792,14 @@
       "name": "速度魔防擾亂3",
       "sp": 300,
       "icon": "skillB/Sabotage_S_R_3"
+    },
+    "Spd/Res Discord": {
+      "pool": { "rearmed": { "5": ["Marianne - Cursed Blessing"] } },
+      "id": "Spd/Res Discord",
+      "name": "速度魔防的不和",
+      "sp": 300,
+      "icon": "skillB/Spd_Res_Discord",
+      "rules": "learner.infantry-flying"
     },
     "Sudden Panic 3": {
       "pool": {
@@ -11148,9 +11173,9 @@
         },
         "special": {
           "5": [
+            "Laegjarn - Burning Sun",
             "Camilla - Tropical Beauty",
-            "Quan - Lightfoot Prince",
-            "Laegjarn - Burning Sun"
+            "Quan - Lightfoot Prince"
           ]
         }
       },
@@ -11443,7 +11468,10 @@
       "rules": "not.white-staff"
     },
     "Spd Cantrip 3": {
-      "pool": { "special": { "5": ["Mirabilis - Sugarplum Vision"] } },
+      "pool": {
+        "#": { "5": ["Dorothea - Daring Ex-Singer"] },
+        "special": { "5": ["Mirabilis - Sugarplum Vision"] }
+      },
       "id": "Spd Cantrip 3",
       "name": "速度魅惑3",
       "sp": 240,
@@ -11504,10 +11532,10 @@
         "special": {
           "5": [
             "Joshua - Tropical Gambler",
-            "Niles - Forbidden Tease",
             "Fjorm - New Traditions",
-            "Hinoka - Relaxed Warrior",
-            "Lyn - Lady of the Beach"
+            "Lyn - Lady of the Beach",
+            "Niles - Forbidden Tease",
+            "Hinoka - Relaxed Warrior"
           ]
         },
         "duo": { "5": ["Robin - Vessels of Fate"] }
@@ -11586,7 +11614,7 @@
     "Spd/Res Link 3": {
       "pool": {
         "#": {
-          "3": ["Miriel - Rapier Intellect", "Cath - Master Thief"],
+          "3": ["Cath - Master Thief", "Miriel - Rapier Intellect"],
           "5": ["Kaden - Kitsune Braggart", "Nina - Eye Spy"]
         },
         "grail": { "4": ["Fiora - Defrosted Ilian"] }
@@ -13265,8 +13293,8 @@
           "5": [
             "Delthea - Free Spirit",
             "Leif - Prince of Leonster",
-            "Micaiah - Priestess of Dawn",
             "Lilith - Astral Daughter",
+            "Micaiah - Priestess of Dawn",
             "Kris - Unknown Hero",
             "Quan - Luminous Lancer"
           ]
@@ -13741,6 +13769,7 @@
       "pool": {
         "#": { "5": ["Byleth - Sublime Light", "Constance - Fallen Noble"] },
         "ascended": { "5": ["Elincia - Devoted Queen"] },
+        "rearmed": { "5": ["Marianne - Cursed Blessing"] },
         "legendary": { "5": ["Robin - Fell Vessel"] },
         "mythic": { "5": ["Triandra - Nightmare"] },
         "special": {
@@ -13876,6 +13905,7 @@
     },
     "Spd/Res Crux": {
       "pool": {
+        "rearmed": { "5": ["Marianne - Cursed Blessing"] },
         "harmonized": {
           "5": ["Nephenee - Festival Harmony", "Chloé - Spring Wings"]
         }
@@ -14129,9 +14159,9 @@
             "Mia - Moonlit Witch",
             "Azura - Celebratory Spirit",
             "Nowi - Eternal Witch",
+            "Laegjarn - Burning Sun",
             "Camilla - Tropical Beauty",
             "Palla - Eldest Bun-Bun",
-            "Laegjarn - Burning Sun",
             "Est - Springtime Flier"
           ]
         }
@@ -14219,8 +14249,8 @@
         "#": {
           "3": ["Dwyer - Sleepy Butler"],
           "5": [
-            "Ylgr - Fresh Snowfall",
             "Chrom - Fated Honor",
+            "Ylgr - Fresh Snowfall",
             "Catria - Mild Middle Sister"
           ]
         },
@@ -14806,8 +14836,8 @@
         "#": {
           "5": [
             "Julia - Heart Usurped",
-            "Larcei - Keen Kin",
-            "Wolf - Coyote's Loyal"
+            "Wolf - Coyote's Loyal",
+            "Larcei - Keen Kin"
           ]
         },
         "grail": { "5": ["Linus - Savage Dog", "Panette - Classy Brawler"] },
@@ -15093,7 +15123,7 @@
     },
     "Inf. Null Follow 3": {
       "pool": {
-        "#": { "5": ["Gregor - Swell Sword"] },
+        "#": { "5": ["Dorothea - Daring Ex-Singer", "Gregor - Swell Sword"] },
         "ascended": { "5": ["Celica - Valentia's Hope"] },
         "emblem": { "5": ["Celica - Of Echoes", "Marth - Of Beginnings"] },
         "special": {
@@ -15491,7 +15521,8 @@
           "5": [
             "Laevatein - Searing Steel",
             "Yarne - Timid Taguel",
-            "Byleth - Tested Professor"
+            "Byleth - Tested Professor",
+            "Ashe - Chivalric Amends"
           ]
         },
         "grail": {
@@ -15510,6 +15541,7 @@
     },
     "Odd Spd Wave 4": {
       "pool": {
+        "#": { "5": ["Ashe - Chivalric Amends"] },
         "special": { "5": ["Felicia - Confidently Cold"] },
         "duo": { "5": ["Gullveig - Glittering Sunlight"] }
       },
@@ -16263,7 +16295,7 @@
       "pool": {
         "#": { "5": ["Tine - Rumbling Thunder"] },
         "legendary": {
-          "5": ["Ninian - Ice-Dragon Oracle", "Chrom - Crowned Exalt"]
+          "5": ["Chrom - Crowned Exalt", "Ninian - Ice-Dragon Oracle"]
         },
         "special": { "5": ["Cath - Caper Captain"] }
       },
@@ -16299,6 +16331,7 @@
       "pool": {
         "#": { "5": ["Céline - Joyous Royal"] },
         "emblem": { "5": ["Ike - Of Radiance"] },
+        "aided": { "5": ["Dagr - Sunny Bloom"] },
         "legendary": { "5": ["Robin - Exalt's Other Half"] },
         "mythic": { "5": ["Medeus - Earth-Dragon King"] },
         "special": { "5": ["Lucia - Loyalty Enrobed"] },
@@ -16311,7 +16344,10 @@
       "rules": "infantry"
     },
     "Firm Canto Curb": {
-      "pool": { "special": { "5": ["Lucia - Loyalty Enrobed"] } },
+      "pool": {
+        "aided": { "5": ["Dagr - Sunny Bloom"] },
+        "special": { "5": ["Lucia - Loyalty Enrobed"] }
+      },
       "id": "Firm Canto Curb",
       "name": "再移動限制・不惑",
       "sp": 300,

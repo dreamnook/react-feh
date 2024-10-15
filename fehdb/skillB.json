@@ -686,6 +686,14 @@
     "last": true,
     "icon": "skillB/Shadow_Slide"
   },
+  "Veðrfölnir's Wing": {
+    "id": "Veðrfölnir's Wing",
+    "name": "始祖的炎翼",
+    "sp": 300,
+    "exclusive": ["Dagr - Sunny Bloom"],
+    "last": true,
+    "icon": "skillB/Veðrfölnir's_Wing"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -1570,7 +1578,15 @@
     "sp": 200,
     "prev": ["Seal Spd/Def 1"],
     "rules": "not.white-staff",
-    "icon": "skillB/Seal_Spd_Def_2",
+    "icon": "skillB/Seal_Spd_Def_2"
+  },
+  "Seal Spd/Def 3": {
+    "id": "Seal Spd/Def 3",
+    "name": "速度防守封印3",
+    "sp": 300,
+    "prev": ["Seal Spd/Def 2"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Seal_Spd_Def_3",
     "last": true
   },
   "Seal Spd/Res 1": {
@@ -1976,6 +1992,15 @@
     "prev": ["Sabotage Spd 3", "Sabotage Res 3"],
     "last": true,
     "icon": "skillB/Sabotage_S_R_3"
+  },
+  "Spd/Res Discord": {
+    "id": "Spd/Res Discord",
+    "name": "速度魔防的不和",
+    "sp": 300,
+    "prev": ["Sabotage Spd 3", "Sabotage Res 3"],
+    "rules": "learner.infantry-flying",
+    "last": true,
+    "icon": "skillB/Spd_Res_Discord"
   },
   "Sudden Panic 1": {
     "id": "Sudden Panic 1",

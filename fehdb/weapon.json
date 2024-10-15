@@ -3407,6 +3407,16 @@
       "exclusive": ["Merrin - Suave Knight"],
       "last": true
     },
+    "Veðrfölnir's Edge": {
+      "id": "Veðrfölnir's Edge",
+      "name": "初始巨人之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Dagr - Sunny Bloom"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -13235,6 +13245,39 @@
         }
       },
       "last": true
+    },
+    "Up-Front Axe": {
+      "id": "Up-Front Axe",
+      "name": "堂堂正正之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Up-Front Axe+": {
+      "id": "Up-Front Axe+",
+      "name": "堂堂正正之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Up-Front Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "bow": {
@@ -14746,6 +14789,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Fogado - Affable Prince"],
+      "last": true
+    },
+    "Just Bow": {
+      "id": "Just Bow",
+      "name": "正義的一箭之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Ashe - Chivalric Amends"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -17874,6 +17927,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Clever Dagger"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Gainful Dagger": {
+      "id": "Gainful Dagger",
+      "name": "有利狀態暗器",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Gainful Dagger+": {
+      "id": "Gainful Dagger+",
+      "name": "有利狀態暗器+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Gainful Dagger"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -21217,6 +21303,16 @@
       },
       "last": true
     },
+    "Arcane Blutgang": {
+      "id": "Arcane Blutgang",
+      "name": "魔器布魯托剛格",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Fenrir"],
+      "last": true
+    },
     "Fire": {
       "id": "Fire",
       "name": "火焰",
@@ -23507,6 +23603,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Blárlion"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Blárvulture": {
+      "id": "Blárvulture",
+      "name": "蒼藍禿鷹",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elthunder", "Ellight"]
+    },
+    "Blárvulture+": {
+      "id": "Blárvulture+",
+      "name": "蒼藍禿鷹+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Blárvulture"],
       "refine": {
         "atk": {
           "hp": 2,
