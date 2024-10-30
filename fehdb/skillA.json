@@ -655,6 +655,16 @@
     "icon": "skillA/Fort._Def_Res_3",
     "last": true
   },
+  "Stronghold": {
+    "id": "Stronghold",
+    "name": "監牢城塞",
+    "atk": -3,
+    "def": 7,
+    "res": 7,
+    "sp": 300,
+    "last": true,
+    "icon": "skillA/Stronghold"
+  },
   "Fortifications": {
     "id": "Fortifications",
     "name": "野戰築城",
@@ -870,16 +880,6 @@
     "prev": ["Still Water 3"],
     "last": true,
     "icon": "skillA/Crystalline_Water"
-  },
-  "Stronghold": {
-    "id": "Stronghold",
-    "name": "監牢城塞",
-    "atk": -3,
-    "def": 7,
-    "res": 7,
-    "sp": 300,
-    "last": true,
-    "icon": "skillA/Stronghold"
   },
   "Death Blow 1": {
     "id": "Death Blow 1",
@@ -1780,6 +1780,15 @@
     "last": true,
     "icon": "skillA/Close_Salvo"
   },
+  "C Bonus Doubler": {
+    "id": "C Bonus Doubler",
+    "name": "近反・強化增幅",
+    "sp": 300,
+    "rules": "learner.infantry-ranged",
+    "prev": ["Close Counter"],
+    "last": true,
+    "icon": "skillA/C_Bonus_Doubler"
+  },
   "Close Foil": {
     "id": "Close Foil",
     "name": "金剛反擊・近距離",
@@ -1875,6 +1884,15 @@
     "prev": ["Distant Counter"],
     "last": true,
     "icon": "skillA/Distant_D_R_Solo"
+  },
+  "D Bonus Doubler": {
+    "id": "D Bonus Doubler",
+    "name": "遠反・強化增幅",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "prev": ["Distant Counter"],
+    "last": true,
+    "icon": "skillA/D_Bonus_Doubler"
   },
   "Distant Foil": {
     "id": "Distant Foil",
@@ -3316,24 +3334,6 @@
     "icon": "skillA/Bonus_Doubler_4",
     "last": true
   },
-  "C Bonus Doubler": {
-    "id": "C Bonus Doubler",
-    "name": "近反・強化增幅",
-    "sp": 300,
-    "rules": "learner.infantry-ranged",
-    "prev": ["Close Counter"],
-    "last": true,
-    "icon": "skillA/C_Bonus_Doubler"
-  },
-  "D Bonus Doubler": {
-    "id": "D Bonus Doubler",
-    "name": "遠反・強化增幅",
-    "sp": 300,
-    "rules": "learner.infantry-melee",
-    "prev": ["Distant Counter"],
-    "last": true,
-    "icon": "skillA/D_Bonus_Doubler"
-  },
   "AR-O Atk/Spd 1": {
     "id": "AR-O Atk/Spd 1",
     "name": "攻擊速度的攻城戰1",
@@ -4220,6 +4220,22 @@
     "icon": "skillA/Spd_Def_Clash_4",
     "last": true
   },
+  "Atk/Spd Excel": {
+    "id": "Atk/Spd Excel",
+    "name": "攻擊速度突破",
+    "sp": 300,
+    "rules": "learner.infantry-cavalry-flying-melee",
+    "last": true,
+    "icon": "skillA/Atk_Spd_Excel"
+  },
+  "Atk/Def Excel": {
+    "id": "Atk/Def Excel",
+    "name": "攻擊防守突破",
+    "sp": 300,
+    "rules": "learner.infantry-cavalry-flying-melee",
+    "last": true,
+    "icon": "skillA/Atk_Def_Excel"
+  },
   "Atk/Spd Finish 1": {
     "id": "Atk/Spd Finish 1",
     "name": "攻擊速度的奧秘1",
@@ -4648,21 +4664,5 @@
     "rules": "learner.def-dmger",
     "icon": "skillA/Spd_Def_Prime_4",
     "last": true
-  },
-  "Atk/Spd Excel": {
-    "id": "Atk/Spd Excel",
-    "name": "攻擊速度突破",
-    "sp": 300,
-    "rules": "learner.infantry-cavalry-flying-melee",
-    "last": true,
-    "icon": "skillA/Atk_Spd_Excel"
-  },
-  "Atk/Def Excel": {
-    "id": "Atk/Def Excel",
-    "name": "攻擊防守突破",
-    "sp": 300,
-    "rules": "learner.infantry-cavalry-flying-melee",
-    "last": true,
-    "icon": "skillA/Atk_Def_Excel"
   }
 }

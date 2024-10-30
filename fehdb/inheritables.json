@@ -5837,6 +5837,13 @@
       "sp": 300,
       "icon": "skillA/Fort._Def_Res_3"
     },
+    "Stronghold": {
+      "pool": { "mythic": { "5": ["Heiðrún - Healing Nectar"] } },
+      "id": "Stronghold",
+      "name": "監牢城塞",
+      "sp": 300,
+      "icon": "skillA/Stronghold"
+    },
     "Fortifications": {
       "pool": { "#": { "5": ["Alfonse - Heir to Openness"] } },
       "id": "Fortifications",
@@ -6051,13 +6058,6 @@
       "name": "明鏡止水",
       "sp": 300,
       "icon": "skillA/Crystalline_Water"
-    },
-    "Stronghold": {
-      "pool": { "mythic": { "5": ["Heiðrún - Healing Nectar"] } },
-      "id": "Stronghold",
-      "name": "監牢城塞",
-      "sp": 300,
-      "icon": "skillA/Stronghold"
     },
     "Death Blow 3": {
       "pool": {
@@ -7085,6 +7085,16 @@
       "icon": "skillA/Close_Salvo",
       "rules": "ranged"
     },
+    "C Bonus Doubler": {
+      "pool": {
+        "#": { "5": ["Arlen - Mage of Khadein", "Nergal - Traitor to Nabata"] }
+      },
+      "id": "C Bonus Doubler",
+      "name": "近反・強化增幅",
+      "sp": 300,
+      "icon": "skillA/C_Bonus_Doubler",
+      "rules": "learner.infantry-ranged"
+    },
     "Close Foil": {
       "pool": {
         "#": { "5": ["Julian - Tender Thief", "Midori - Reliable Chemist"] }
@@ -7244,6 +7254,19 @@
       "sp": 300,
       "icon": "skillA/Distant_D_R_Solo",
       "rules": "melee"
+    },
+    "D Bonus Doubler": {
+      "pool": {
+        "attuned": {
+          "5": ["Caeda - Marth's Faithful", "Eirika - Resolute Princess"]
+        },
+        "special": { "5": ["Askr - Open Harvest"] }
+      },
+      "id": "D Bonus Doubler",
+      "name": "遠反・強化增幅",
+      "sp": 300,
+      "icon": "skillA/D_Bonus_Doubler",
+      "rules": "learner.infantry-melee"
     },
     "Distant Foil": {
       "pool": {
@@ -8479,29 +8502,6 @@
       "icon": "skillA/Bonus_Doubler_4",
       "rules": "infantry"
     },
-    "C Bonus Doubler": {
-      "pool": {
-        "#": { "5": ["Arlen - Mage of Khadein", "Nergal - Traitor to Nabata"] }
-      },
-      "id": "C Bonus Doubler",
-      "name": "近反・強化增幅",
-      "sp": 300,
-      "icon": "skillA/C_Bonus_Doubler",
-      "rules": "learner.infantry-ranged"
-    },
-    "D Bonus Doubler": {
-      "pool": {
-        "attuned": {
-          "5": ["Caeda - Marth's Faithful", "Eirika - Resolute Princess"]
-        },
-        "special": { "5": ["Askr - Open Harvest"] }
-      },
-      "id": "D Bonus Doubler",
-      "name": "遠反・強化增幅",
-      "sp": 300,
-      "icon": "skillA/D_Bonus_Doubler",
-      "rules": "learner.infantry-melee"
-    },
     "AR-O Atk/Spd 3": {
       "pool": { "mythic": { "5": ["Naga - Dragon Divinity"] } },
       "id": "AR-O Atk/Spd 3",
@@ -9258,6 +9258,32 @@
       "icon": "skillA/Spd_Def_Clash_4",
       "rules": "learner.infantry-cavalry-flying-melee"
     },
+    "Atk/Spd Excel": {
+      "pool": {
+        "#": { "5": ["Felix - Sword Savant"] },
+        "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
+        "special": {
+          "5": ["Nerþuz - Beach Chaperone", "Felicia - Confidently Cold"]
+        },
+        "duo": { "5": ["Sharena - Pillars of Peace"] }
+      },
+      "id": "Atk/Spd Excel",
+      "name": "攻擊速度突破",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Excel",
+      "rules": "learner.infantry-cavalry-flying-melee"
+    },
+    "Atk/Def Excel": {
+      "pool": {
+        "emblem": { "5": ["Sigurd - Of the Holy War"] },
+        "mythic": { "5": ["Eikþyrnir - Quieting Strength"] }
+      },
+      "id": "Atk/Def Excel",
+      "name": "攻擊防守突破",
+      "sp": 300,
+      "icon": "skillA/Atk_Def_Excel",
+      "rules": "learner.infantry-cavalry-flying-melee"
+    },
     "Atk/Spd Finish 3": {
       "pool": {
         "#": {
@@ -9594,32 +9620,6 @@
       "sp": 300,
       "icon": "skillA/Spd_Def_Prime_4",
       "rules": "learner.def-dmger"
-    },
-    "Atk/Spd Excel": {
-      "pool": {
-        "#": { "5": ["Felix - Sword Savant"] },
-        "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
-        "special": {
-          "5": ["Nerþuz - Beach Chaperone", "Felicia - Confidently Cold"]
-        },
-        "duo": { "5": ["Sharena - Pillars of Peace"] }
-      },
-      "id": "Atk/Spd Excel",
-      "name": "攻擊速度突破",
-      "sp": 300,
-      "icon": "skillA/Atk_Spd_Excel",
-      "rules": "learner.infantry-cavalry-flying-melee"
-    },
-    "Atk/Def Excel": {
-      "pool": {
-        "emblem": { "5": ["Sigurd - Of the Holy War"] },
-        "mythic": { "5": ["Eikþyrnir - Quieting Strength"] }
-      },
-      "id": "Atk/Def Excel",
-      "name": "攻擊防守突破",
-      "sp": 300,
-      "icon": "skillA/Atk_Def_Excel",
-      "rules": "learner.infantry-cavalry-flying-melee"
     }
   },
   "skillB": {
@@ -9861,14 +9861,6 @@
       "name": "猛攻4",
       "sp": 300,
       "icon": "skillB/Desperation_4"
-    },
-    "Flow Desperation": {
-      "pool": { "harmonized": { "5": ["Ayra - Together in Tea"] } },
-      "id": "Flow Desperation",
-      "name": "怒濤・猛攻",
-      "sp": 300,
-      "icon": "skillB/Flow_Desperation",
-      "rules": "learner.wielderCavalryFlying"
     },
     "Brash Assault 3": {
       "pool": {
@@ -10168,6 +10160,14 @@
       "icon": "skillB/Slick_Fighter_3",
       "rules": "armored"
     },
+    "Wily Fighter 3": {
+      "pool": { "ascended": { "5": ["Idunn - Divine Demon"] } },
+      "id": "Wily Fighter 3",
+      "name": "正面隊形・敵方3",
+      "sp": 240,
+      "icon": "skillB/Wily_Fighter_3",
+      "rules": "armored"
+    },
     "Hardy Fighter 3": {
       "pool": {
         "ascended": { "5": ["Fjorm - Ice Ascendant"] },
@@ -10178,6 +10178,14 @@
       "name": "盾壁隊形3",
       "sp": 240,
       "icon": "skillB/Hardy_Fighter_3",
+      "rules": "learner.armored-melee"
+    },
+    "Shield Fighter": {
+      "pool": { "duo": { "5": ["Fjorm - Gleaming Ice Pair"] } },
+      "id": "Shield Fighter",
+      "name": "連盾隊形",
+      "sp": 300,
+      "icon": "skillB/Shield_Fighter",
       "rules": "learner.armored-melee"
     },
     "Savvy Fighter 3": {
@@ -10202,14 +10210,6 @@
       "icon": "skillB/Savvy_Fighter_4",
       "rules": "armored"
     },
-    "Wily Fighter 3": {
-      "pool": { "ascended": { "5": ["Idunn - Divine Demon"] } },
-      "id": "Wily Fighter 3",
-      "name": "正面隊形・敵方3",
-      "sp": 240,
-      "icon": "skillB/Wily_Fighter_3",
-      "rules": "armored"
-    },
     "Clever Fighter": {
       "pool": { "ascended": { "5": ["Amelia - Blossoming Talent"] } },
       "id": "Clever Fighter",
@@ -10217,14 +10217,6 @@
       "sp": 300,
       "icon": "skillB/Clever_Fighter",
       "rules": "armored"
-    },
-    "Shield Fighter": {
-      "pool": { "duo": { "5": ["Fjorm - Gleaming Ice Pair"] } },
-      "id": "Shield Fighter",
-      "name": "連盾隊形",
-      "sp": 300,
-      "icon": "skillB/Shield_Fighter",
-      "rules": "learner.armored-melee"
     },
     "Poison Strike 3": {
       "pool": {
@@ -11142,6 +11134,14 @@
       "icon": "skillB/Dazzle_Far_Trace",
       "rules": "white-staff"
     },
+    "Dazzling Discord": {
+      "pool": { "mythic": { "5": ["Loki - Trickster God"] } },
+      "id": "Dazzling Discord",
+      "name": "幻惑・不和烙印",
+      "sp": 300,
+      "icon": "skillB/Dazzling_Discord",
+      "rules": "white-staff"
+    },
     "Shield Pulse 3": {
       "pool": {
         "#": {
@@ -11161,16 +11161,6 @@
       "sp": 240,
       "icon": "skillB/Shield_Pulse_3",
       "rules": "learner.infantry-armored-melee"
-    },
-    "Buffer 4": {
-      "pool": {
-        "#": { "5": ["Edward - Blade of Justice", "Severa - Secret Dreamer"] }
-      },
-      "id": "Buffer 4",
-      "name": "迴避・盾之躍動",
-      "sp": 300,
-      "icon": "skillB/Buffer_4",
-      "rules": "learner.wielderInfantry"
     },
     "Flier Formation 3": {
       "pool": {
@@ -11517,6 +11507,14 @@
       "name": "魔防魅惑3",
       "sp": 240,
       "icon": "skillB/Res_Cantrip_3",
+      "rules": "not.white-staff"
+    },
+    "A/D Cantrip 3": {
+      "pool": { "attuned": { "5": ["Azura - Song's Reflection"] } },
+      "id": "A/D Cantrip 3",
+      "name": "攻擊防守魅惑3",
+      "sp": 300,
+      "icon": "skillB/A_D_Cantrip_3",
       "rules": "not.white-staff"
     },
     "Dull Close 3": {
@@ -12313,6 +12311,16 @@
       "icon": "skillB/Velocity_3",
       "rules": "learner.wielderInfantry"
     },
+    "Buffer 4": {
+      "pool": {
+        "#": { "5": ["Edward - Blade of Justice", "Severa - Secret Dreamer"] }
+      },
+      "id": "Buffer 4",
+      "name": "迴避・盾之躍動",
+      "sp": 300,
+      "icon": "skillB/Buffer_4",
+      "rules": "learner.wielderInfantry"
+    },
     "Dragon's Ire 3": {
       "pool": {
         "grail": { "5": ["Kana - Rising Sunlight"] },
@@ -12644,17 +12652,6 @@
       "icon": "skillB/Flow_Guard_4",
       "rules": "learner.wielderCavalryFlying"
     },
-    "Flow Force 3": {
-      "pool": {
-        "#": { "5": ["Geoffrey - Realm's Protector"] },
-        "harmonized": { "5": ["Roy - Blazing Bachelors"] }
-      },
-      "id": "Flow Force 3",
-      "name": "怒濤・不屈3",
-      "sp": 240,
-      "icon": "skillB/Flow_Force_3",
-      "rules": "learner.wielderCavalryFlying"
-    },
     "Flow Feather 3": {
       "pool": { "#": { "5": ["Est - Sweet Baby Sis"] } },
       "id": "Flow Feather 3",
@@ -12671,6 +12668,17 @@
       "icon": "skillB/Flow_Flight_3",
       "rules": "learner.wielderFlying"
     },
+    "Flow Force 3": {
+      "pool": {
+        "#": { "5": ["Geoffrey - Realm's Protector"] },
+        "harmonized": { "5": ["Roy - Blazing Bachelors"] }
+      },
+      "id": "Flow Force 3",
+      "name": "怒濤・不屈3",
+      "sp": 240,
+      "icon": "skillB/Flow_Force_3",
+      "rules": "learner.wielderCavalryFlying"
+    },
     "Flow N Trace 3": {
       "pool": {
         "rearmed": { "5": ["Alfred - Floral Protector"] },
@@ -12680,6 +12688,14 @@
       "name": "怒濤・近影3",
       "sp": 240,
       "icon": "skillB/Flow_N_Trace_3",
+      "rules": "learner.wielderCavalryFlying"
+    },
+    "Flow Desperation": {
+      "pool": { "harmonized": { "5": ["Ayra - Together in Tea"] } },
+      "id": "Flow Desperation",
+      "name": "怒濤・猛攻",
+      "sp": 300,
+      "icon": "skillB/Flow_Desperation",
       "rules": "learner.wielderCavalryFlying"
     },
     "Atk/Res Tempo 3": {
@@ -13016,22 +13032,6 @@
       "icon": "skillB/Magic_Gambit_4",
       "rules": "tome"
     },
-    "A/D Cantrip 3": {
-      "pool": { "attuned": { "5": ["Azura - Song's Reflection"] } },
-      "id": "A/D Cantrip 3",
-      "name": "攻擊防守魅惑3",
-      "sp": 300,
-      "icon": "skillB/A_D_Cantrip_3",
-      "rules": "not.white-staff"
-    },
-    "Dazzling Discord": {
-      "pool": { "mythic": { "5": ["Loki - Trickster God"] } },
-      "id": "Dazzling Discord",
-      "name": "幻惑・不和烙印",
-      "sp": 300,
-      "icon": "skillB/Dazzling_Discord",
-      "rules": "white-staff"
-    },
     "Resonance 3": {
       "pool": {
         "emblem": { "5": ["Celica - Of Echoes"] },
@@ -13274,35 +13274,6 @@
       "sp": 240,
       "icon": "skillC/Spur_Def_Res_2"
     },
-    "Cross Spur Atk": {
-      "pool": {
-        "#": { "5": ["Ninian - Frozen Heart"] },
-        "rearmed": { "5": ["Alfred - Floral Protector"] },
-        "attuned": { "5": ["Azura - Song's Reflection"] },
-        "special": { "5": ["Reginn - Bearing Dawn"] }
-      },
-      "id": "Cross Spur Atk",
-      "name": "十字攻擊紋章",
-      "sp": 300,
-      "icon": "skillC/Cross_Spur_Atk"
-    },
-    "Cross Spur Spd": {
-      "pool": { "attuned": { "5": ["Peony - Cherished Dream"] } },
-      "id": "Cross Spur Spd",
-      "name": "十字速度紋章",
-      "sp": 300,
-      "icon": "skillC/Cross_Spur_Spd"
-    },
-    "Cross Spur Res": {
-      "pool": {
-        "mythic": { "5": ["Peony - Sweet Dream"] },
-        "harmonized": { "5": ["Azura - Hatari Duet"] }
-      },
-      "id": "Cross Spur Res",
-      "name": "十字魔防紋章",
-      "sp": 300,
-      "icon": "skillC/Cross_Spur_Res"
-    },
     "Drive Atk 2": {
       "pool": {
         "#": {
@@ -13493,6 +13464,35 @@
       "name": "魔防相互大紋章",
       "sp": 300,
       "icon": "skillC/Joint_Drive_Res"
+    },
+    "Cross Spur Atk": {
+      "pool": {
+        "#": { "5": ["Ninian - Frozen Heart"] },
+        "rearmed": { "5": ["Alfred - Floral Protector"] },
+        "attuned": { "5": ["Azura - Song's Reflection"] },
+        "special": { "5": ["Reginn - Bearing Dawn"] }
+      },
+      "id": "Cross Spur Atk",
+      "name": "十字攻擊紋章",
+      "sp": 300,
+      "icon": "skillC/Cross_Spur_Atk"
+    },
+    "Cross Spur Spd": {
+      "pool": { "attuned": { "5": ["Peony - Cherished Dream"] } },
+      "id": "Cross Spur Spd",
+      "name": "十字速度紋章",
+      "sp": 300,
+      "icon": "skillC/Cross_Spur_Spd"
+    },
+    "Cross Spur Res": {
+      "pool": {
+        "mythic": { "5": ["Peony - Sweet Dream"] },
+        "harmonized": { "5": ["Azura - Hatari Duet"] }
+      },
+      "id": "Cross Spur Res",
+      "name": "十字魔防紋章",
+      "sp": 300,
+      "icon": "skillC/Cross_Spur_Res"
     },
     "Close Guard 3": {
       "pool": {
@@ -13889,25 +13889,6 @@
       "icon": "skillC/Def_Res_Hold",
       "rules": "flying"
     },
-    "A/S Rein Snap": {
-      "pool": {
-        "special": { "5": ["Mia - Summer Slice"] },
-        "harmonized": { "5": ["Anna - Twice the Anna"] }
-      },
-      "id": "A/S Rein Snap",
-      "name": "攻擊速度牽制・推手",
-      "sp": 300,
-      "icon": "skillC/A_S_Rein_Snap",
-      "rules": "learner.flying-melee"
-    },
-    "S/D Rein Snap": {
-      "pool": { "special": { "5": ["Say'ri - Righteous Bride"] } },
-      "id": "S/D Rein Snap",
-      "name": "速度防守牽制・推手",
-      "sp": 300,
-      "icon": "skillC/S_D_Rein_Snap",
-      "rules": "learner.flying-melee"
-    },
     "Atk/Res Crux": {
       "pool": { "attuned": { "5": ["Micaiah - Dawning Maiden"] } },
       "id": "Atk/Res Crux",
@@ -13936,6 +13917,25 @@
       "sp": 300,
       "icon": "skillC/Spd_Res_Crux",
       "rules": "flying"
+    },
+    "A/S Rein Snap": {
+      "pool": {
+        "special": { "5": ["Mia - Summer Slice"] },
+        "harmonized": { "5": ["Anna - Twice the Anna"] }
+      },
+      "id": "A/S Rein Snap",
+      "name": "攻擊速度牽制・推手",
+      "sp": 300,
+      "icon": "skillC/A_S_Rein_Snap",
+      "rules": "learner.flying-melee"
+    },
+    "S/D Rein Snap": {
+      "pool": { "special": { "5": ["Say'ri - Righteous Bride"] } },
+      "id": "S/D Rein Snap",
+      "name": "速度防守牽制・推手",
+      "sp": 300,
+      "icon": "skillC/S_D_Rein_Snap",
+      "rules": "learner.flying-melee"
     },
     "Hone Atk 3": {
       "pool": {
@@ -14829,6 +14829,24 @@
       "icon": "skillC/Res_Smoke_3",
       "rules": "not.white-staff"
     },
+    "Def/Res Smoke 3": {
+      "pool": {
+        "#": { "5": ["Ursula - Blackened Crow"] },
+        "rearmed": {
+          "5": ["Reinhardt - Thrud Reborn", "Alcryst - Tender Archer"]
+        },
+        "mythic": { "5": ["Gullveig - Golden Seer"] },
+        "special": {
+          "5": ["Leila - Keen Lookout", "Bernadetta - Late Hibernator"]
+        },
+        "harmonized": { "5": ["Linde - Bound by Fate"] }
+      },
+      "id": "Def/Res Smoke 3",
+      "name": "防守魔防紫煙3",
+      "sp": 300,
+      "icon": "skillC/Def_Res_Smoke_3",
+      "rules": "not.white-staff"
+    },
     "Pulse Smoke 3": {
       "pool": {
         "#": { "5": ["Ced - Hero on the Wind", "Igrene - Nabata Protector"] },
@@ -14935,24 +14953,6 @@
       "name": "不治的幻煙4",
       "sp": 300,
       "icon": "skillC/Fatal_Smoke_4",
-      "rules": "not.white-staff"
-    },
-    "Def/Res Smoke 3": {
-      "pool": {
-        "#": { "5": ["Ursula - Blackened Crow"] },
-        "rearmed": {
-          "5": ["Reinhardt - Thrud Reborn", "Alcryst - Tender Archer"]
-        },
-        "mythic": { "5": ["Gullveig - Golden Seer"] },
-        "special": {
-          "5": ["Leila - Keen Lookout", "Bernadetta - Late Hibernator"]
-        },
-        "harmonized": { "5": ["Linde - Bound by Fate"] }
-      },
-      "id": "Def/Res Smoke 3",
-      "name": "防守魔防紫煙3",
-      "sp": 300,
-      "icon": "skillC/Def_Res_Smoke_3",
       "rules": "not.white-staff"
     },
     "Pulse Smog": {
@@ -15639,6 +15639,17 @@
       "sp": 240,
       "icon": "skillC/Even_Atk_Wave_3"
     },
+    "Even Atk Wave N": {
+      "pool": {
+        "#": { "5": ["Merrin - Suave Knight"] },
+        "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
+      },
+      "id": "Even Atk Wave N",
+      "name": "近處攻擊之波・偶數",
+      "sp": 300,
+      "icon": "skillC/Even_Atk_Wave_N",
+      "rules": "melee"
+    },
     "Even Spd Wave 3": {
       "pool": {
         "#": { "5": ["Karla - Sword Vassal", "Shannan - Wielder of Astra"] },
@@ -15687,17 +15698,6 @@
       "name": "魔防之波・偶數3",
       "sp": 240,
       "icon": "skillC/Even_Res_Wave_3"
-    },
-    "Even Atk Wave N": {
-      "pool": {
-        "#": { "5": ["Merrin - Suave Knight"] },
-        "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
-      },
-      "id": "Even Atk Wave N",
-      "name": "近處攻擊之波・偶數",
-      "sp": 300,
-      "icon": "skillC/Even_Atk_Wave_N",
-      "rules": "melee"
     },
     "Even Res Wave D": {
       "pool": { "special": { "5": ["Alear - Seaside Dragon"] } },
@@ -16378,6 +16378,22 @@
       "icon": "skillC/Firm_Canto_Curb",
       "rules": "infantry"
     },
+    "Shadow Shift 3": {
+      "pool": { "aided": { "5": ["Reginn - Dvergr Heir"] } },
+      "id": "Shadow Shift 3",
+      "name": "影助・帶回3",
+      "sp": 240,
+      "icon": "skillC/Shadow_Shift_3",
+      "rules": "learner.cavalry-flying"
+    },
+    "Shadow Shift 4": {
+      "pool": { "aided": { "5": ["Reginn - Dvergr Heir"] } },
+      "id": "Shadow Shift 4",
+      "name": "影助・帶回4",
+      "sp": 300,
+      "icon": "skillC/Shadow_Shift_4",
+      "rules": "learner.cavalry-flying"
+    },
     "Sword Exp. 3": {
       "pool": { "#": { "3": ["Athena - Borderland Sword"] } },
       "id": "Sword Exp. 3",
@@ -16576,22 +16592,6 @@
       "sp": 120,
       "icon": "skillC/Beast_Valor_3",
       "rules": "beast"
-    },
-    "Shadow Shift 3": {
-      "pool": { "aided": { "5": ["Reginn - Dvergr Heir"] } },
-      "id": "Shadow Shift 3",
-      "name": "影助・帶回3",
-      "sp": 240,
-      "icon": "skillC/Shadow_Shift_3",
-      "rules": "learner.cavalry-flying"
-    },
-    "Shadow Shift 4": {
-      "pool": { "aided": { "5": ["Reginn - Dvergr Heir"] } },
-      "id": "Shadow Shift 4",
-      "name": "影助・帶回4",
-      "sp": 300,
-      "icon": "skillC/Shadow_Shift_4",
-      "rules": "learner.cavalry-flying"
     }
   },
   "skillX": {
@@ -16641,14 +16641,6 @@
       "icon": "skillX/Far_Trace_Echo",
       "rules": "learner.cavalry-flying-ranged"
     },
-    "Soaring Echo": {
-      "pool": { "attuned": { "5": ["Ivy - Snow Queen"] } },
-      "id": "Soaring Echo",
-      "name": "響・飛走前導",
-      "sp": 0,
-      "icon": "skillX/Soaring_Echo",
-      "rules": "flying"
-    },
     "Time Pulse Echo": {
       "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },
       "id": "Time Pulse Echo",
@@ -16656,6 +16648,14 @@
       "sp": 0,
       "icon": "skillX/Time_Pulse_Echo",
       "rules": "infantry"
+    },
+    "Soaring Echo": {
+      "pool": { "attuned": { "5": ["Ivy - Snow Queen"] } },
+      "id": "Soaring Echo",
+      "name": "響・飛走前導",
+      "sp": 0,
+      "icon": "skillX/Soaring_Echo",
+      "rules": "flying"
     },
     "Atk Oath Echo": {
       "pool": { "attuned": { "5": ["Peony - Cherished Dream"] } },

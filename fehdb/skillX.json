@@ -45,14 +45,6 @@
     "last": true,
     "icon": "skillX/Far_Trace_Echo"
   },
-  "Soaring Echo": {
-    "id": "Soaring Echo",
-    "name": "響・飛走前導",
-    "sp": 0,
-    "rules": "flying",
-    "last": true,
-    "icon": "skillX/Soaring_Echo"
-  },
   "Time Pulse Echo": {
     "id": "Time Pulse Echo",
     "name": "響・初始之躍動",
@@ -60,6 +52,14 @@
     "rules": "infantry",
     "last": true,
     "icon": "skillX/Time_Pulse_Echo"
+  },
+  "Soaring Echo": {
+    "id": "Soaring Echo",
+    "name": "響・飛走前導",
+    "sp": 0,
+    "rules": "flying",
+    "last": true,
+    "icon": "skillX/Soaring_Echo"
   },
   "Atk Oath Echo": {
     "id": "Atk Oath Echo",

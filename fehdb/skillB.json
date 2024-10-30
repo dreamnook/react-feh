@@ -876,15 +876,6 @@
     "icon": "skillB/Desperation_4",
     "last": true
   },
-  "Flow Desperation": {
-    "id": "Flow Desperation",
-    "name": "怒濤・猛攻",
-    "sp": 300,
-    "prev": ["Desperation 3"],
-    "rules": "learner.wielderCavalryFlying",
-    "last": true,
-    "icon": "skillB/Flow_Desperation"
-  },
   "Brash Assault 1": {
     "id": "Brash Assault 1",
     "name": "同歸於盡1",
@@ -1195,6 +1186,30 @@
     "icon": "skillB/Slick_Fighter_3",
     "last": true
   },
+  "Wily Fighter 1": {
+    "id": "Wily Fighter 1",
+    "name": "正面隊形・敵方1",
+    "sp": 60,
+    "rules": "armored",
+    "icon": "skillB/Wily_Fighter_1"
+  },
+  "Wily Fighter 2": {
+    "id": "Wily Fighter 2",
+    "name": "正面隊形・敵方2",
+    "sp": 120,
+    "prev": ["Wily Fighter 1"],
+    "rules": "armored",
+    "icon": "skillB/Wily_Fighter_2"
+  },
+  "Wily Fighter 3": {
+    "id": "Wily Fighter 3",
+    "name": "正面隊形・敵方3",
+    "sp": 240,
+    "prev": ["Wily Fighter 2"],
+    "rules": "armored",
+    "icon": "skillB/Wily_Fighter_3",
+    "last": true
+  },
   "Hardy Fighter 1": {
     "id": "Hardy Fighter 1",
     "name": "盾壁隊形1",
@@ -1218,6 +1233,15 @@
     "rules": "learner.armored-melee",
     "icon": "skillB/Hardy_Fighter_3",
     "last": true
+  },
+  "Shield Fighter": {
+    "id": "Shield Fighter",
+    "name": "連盾隊形",
+    "sp": 300,
+    "rules": "learner.armored-melee",
+    "prev": ["Hardy Fighter 3"],
+    "last": true,
+    "icon": "skillB/Shield_Fighter"
   },
   "Savvy Fighter 1": {
     "id": "Savvy Fighter 1",
@@ -1252,30 +1276,6 @@
     "icon": "skillB/Savvy_Fighter_4",
     "last": true
   },
-  "Wily Fighter 1": {
-    "id": "Wily Fighter 1",
-    "name": "正面隊形・敵方1",
-    "sp": 60,
-    "rules": "armored",
-    "icon": "skillB/Wily_Fighter_1"
-  },
-  "Wily Fighter 2": {
-    "id": "Wily Fighter 2",
-    "name": "正面隊形・敵方2",
-    "sp": 120,
-    "prev": ["Wily Fighter 1"],
-    "rules": "armored",
-    "icon": "skillB/Wily_Fighter_2"
-  },
-  "Wily Fighter 3": {
-    "id": "Wily Fighter 3",
-    "name": "正面隊形・敵方3",
-    "sp": 240,
-    "prev": ["Wily Fighter 2"],
-    "rules": "armored",
-    "icon": "skillB/Wily_Fighter_3",
-    "last": true
-  },
   "Clever Fighter": {
     "id": "Clever Fighter",
     "name": "慧敏隊型",
@@ -1284,15 +1284,6 @@
     "prev": ["Savvy Fighter 3"],
     "last": true,
     "icon": "skillB/Clever_Fighter"
-  },
-  "Shield Fighter": {
-    "id": "Shield Fighter",
-    "name": "連盾隊形",
-    "sp": 300,
-    "rules": "learner.armored-melee",
-    "prev": ["Hardy Fighter 3"],
-    "last": true,
-    "icon": "skillB/Shield_Fighter"
   },
   "Poison Strike 1": {
     "id": "Poison Strike 1",
@@ -2418,6 +2409,14 @@
     "last": true,
     "icon": "skillB/Dazzle_Far_Trace"
   },
+  "Dazzling Discord": {
+    "id": "Dazzling Discord",
+    "name": "幻惑・不和烙印",
+    "sp": 300,
+    "rules": "white-staff",
+    "last": true,
+    "icon": "skillB/Dazzling_Discord"
+  },
   "Shield Pulse 1": {
     "id": "Shield Pulse 1",
     "name": "盾之躍動1",
@@ -2441,15 +2440,6 @@
     "rules": "learner.infantry-armored-melee",
     "icon": "skillB/Shield_Pulse_3",
     "last": true
-  },
-  "Buffer 4": {
-    "id": "Buffer 4",
-    "name": "迴避・盾之躍動",
-    "sp": 300,
-    "rules": "learner.wielderInfantry",
-    "prev": ["Shield Pulse 3"],
-    "last": true,
-    "icon": "skillB/Buffer_4"
   },
   "Flier Formation 1": {
     "id": "Flier Formation 1",
@@ -2971,6 +2961,15 @@
     "rules": "not.white-staff",
     "icon": "skillB/Res_Cantrip_3",
     "last": true
+  },
+  "A/D Cantrip 3": {
+    "id": "A/D Cantrip 3",
+    "name": "攻擊防守魅惑3",
+    "sp": 300,
+    "prev": ["Atk Cantrip 3", "Def Cantrip 3"],
+    "rules": "not.white-staff",
+    "last": true,
+    "icon": "skillB/A_D_Cantrip_3"
   },
   "Dull Close 1": {
     "id": "Dull Close 1",
@@ -4069,6 +4068,15 @@
     "icon": "skillB/Velocity_3",
     "last": true
   },
+  "Buffer 4": {
+    "id": "Buffer 4",
+    "name": "迴避・盾之躍動",
+    "sp": 300,
+    "rules": "learner.wielderInfantry",
+    "prev": ["Shield Pulse 3"],
+    "last": true,
+    "icon": "skillB/Buffer_4"
+  },
   "Dragon's Ire 1": {
     "id": "Dragon's Ire 1",
     "name": "龍的逆鱗1",
@@ -4528,30 +4536,6 @@
     "icon": "skillB/Flow_Guard_4",
     "last": true
   },
-  "Flow Force 1": {
-    "id": "Flow Force 1",
-    "name": "怒濤・不屈1",
-    "sp": 60,
-    "rules": "learner.wielderCavalryFlying",
-    "icon": "skillB/Flow_Force_1"
-  },
-  "Flow Force 2": {
-    "id": "Flow Force 2",
-    "name": "怒濤・不屈2",
-    "sp": 120,
-    "prev": ["Flow Force 1"],
-    "rules": "learner.wielderCavalryFlying",
-    "icon": "skillB/Flow_Force_2"
-  },
-  "Flow Force 3": {
-    "id": "Flow Force 3",
-    "name": "怒濤・不屈3",
-    "sp": 240,
-    "prev": ["Flow Force 2"],
-    "rules": "learner.wielderCavalryFlying",
-    "icon": "skillB/Flow_Force_3",
-    "last": true
-  },
   "Flow Feather 1": {
     "id": "Flow Feather 1",
     "name": "怒濤・天馬行空1",
@@ -4600,6 +4584,30 @@
     "icon": "skillB/Flow_Flight_3",
     "last": true
   },
+  "Flow Force 1": {
+    "id": "Flow Force 1",
+    "name": "怒濤・不屈1",
+    "sp": 60,
+    "rules": "learner.wielderCavalryFlying",
+    "icon": "skillB/Flow_Force_1"
+  },
+  "Flow Force 2": {
+    "id": "Flow Force 2",
+    "name": "怒濤・不屈2",
+    "sp": 120,
+    "prev": ["Flow Force 1"],
+    "rules": "learner.wielderCavalryFlying",
+    "icon": "skillB/Flow_Force_2"
+  },
+  "Flow Force 3": {
+    "id": "Flow Force 3",
+    "name": "怒濤・不屈3",
+    "sp": 240,
+    "prev": ["Flow Force 2"],
+    "rules": "learner.wielderCavalryFlying",
+    "icon": "skillB/Flow_Force_3",
+    "last": true
+  },
   "Flow N Trace 1": {
     "id": "Flow N Trace 1",
     "name": "怒濤・近影1",
@@ -4623,6 +4631,15 @@
     "rules": "learner.wielderCavalryFlying",
     "icon": "skillB/Flow_N_Trace_3",
     "last": true
+  },
+  "Flow Desperation": {
+    "id": "Flow Desperation",
+    "name": "怒濤・猛攻",
+    "sp": 300,
+    "prev": ["Desperation 3"],
+    "rules": "learner.wielderCavalryFlying",
+    "last": true,
+    "icon": "skillB/Flow_Desperation"
   },
   "Atk/Res Tempo 1": {
     "id": "Atk/Res Tempo 1",
@@ -5172,23 +5189,6 @@
     "rules": "tome",
     "icon": "skillB/Magic_Gambit_4",
     "last": true
-  },
-  "A/D Cantrip 3": {
-    "id": "A/D Cantrip 3",
-    "name": "攻擊防守魅惑3",
-    "sp": 300,
-    "prev": ["Atk Cantrip 3", "Def Cantrip 3"],
-    "rules": "not.white-staff",
-    "last": true,
-    "icon": "skillB/A_D_Cantrip_3"
-  },
-  "Dazzling Discord": {
-    "id": "Dazzling Discord",
-    "name": "幻惑・不和烙印",
-    "sp": 300,
-    "rules": "white-staff",
-    "last": true,
-    "icon": "skillB/Dazzling_Discord"
   },
   "Resonance 1": {
     "id": "Resonance 1",

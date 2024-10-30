@@ -799,30 +799,6 @@
     "icon": "skillC/Spur_Def_Res_2",
     "last": true
   },
-  "Cross Spur Atk": {
-    "id": "Cross Spur Atk",
-    "name": "十字攻擊紋章",
-    "sp": 300,
-    "prev": ["Spur Atk 3"],
-    "last": true,
-    "icon": "skillC/Cross_Spur_Atk"
-  },
-  "Cross Spur Spd": {
-    "id": "Cross Spur Spd",
-    "name": "十字速度紋章",
-    "sp": 300,
-    "prev": ["Spur Spd 3"],
-    "last": true,
-    "icon": "skillC/Cross_Spur_Spd"
-  },
-  "Cross Spur Res": {
-    "id": "Cross Spur Res",
-    "name": "十字魔防紋章",
-    "sp": 300,
-    "prev": ["Spur Res 3"],
-    "last": true,
-    "icon": "skillC/Cross_Spur_Res"
-  },
   "Drive Atk 1": {
     "id": "Drive Atk 1",
     "name": "攻擊大紋章1",
@@ -914,6 +890,30 @@
     "prev": ["Drive Res 2"],
     "last": true,
     "icon": "skillC/Joint_Drive_Res"
+  },
+  "Cross Spur Atk": {
+    "id": "Cross Spur Atk",
+    "name": "十字攻擊紋章",
+    "sp": 300,
+    "prev": ["Spur Atk 3"],
+    "last": true,
+    "icon": "skillC/Cross_Spur_Atk"
+  },
+  "Cross Spur Spd": {
+    "id": "Cross Spur Spd",
+    "name": "十字速度紋章",
+    "sp": 300,
+    "prev": ["Spur Spd 3"],
+    "last": true,
+    "icon": "skillC/Cross_Spur_Spd"
+  },
+  "Cross Spur Res": {
+    "id": "Cross Spur Res",
+    "name": "十字魔防紋章",
+    "sp": 300,
+    "prev": ["Spur Res 3"],
+    "last": true,
+    "icon": "skillC/Cross_Spur_Res"
   },
   "Close Guard 1": {
     "id": "Close Guard 1",
@@ -1261,24 +1261,6 @@
     "last": true,
     "icon": "skillC/Def_Res_Hold"
   },
-  "A/S Rein Snap": {
-    "id": "A/S Rein Snap",
-    "name": "攻擊速度牽制・推手",
-    "sp": 300,
-    "rules": "learner.flying-melee",
-    "prev": ["Atk/Spd Rein 3"],
-    "last": true,
-    "icon": "skillC/A_S_Rein_Snap"
-  },
-  "S/D Rein Snap": {
-    "id": "S/D Rein Snap",
-    "name": "速度防守牽制・推手",
-    "sp": 300,
-    "rules": "learner.flying-melee",
-    "prev": ["Spd/Def Rein 3"],
-    "last": true,
-    "icon": "skillC/S_D_Rein_Snap"
-  },
   "Atk/Res Crux": {
     "id": "Atk/Res Crux",
     "name": "攻擊魔防的十字牽制",
@@ -1305,6 +1287,24 @@
     "prev": ["Spd/Res Rein 3"],
     "last": true,
     "icon": "skillC/Spd_Res_Crux"
+  },
+  "A/S Rein Snap": {
+    "id": "A/S Rein Snap",
+    "name": "攻擊速度牽制・推手",
+    "sp": 300,
+    "rules": "learner.flying-melee",
+    "prev": ["Atk/Spd Rein 3"],
+    "last": true,
+    "icon": "skillC/A_S_Rein_Snap"
+  },
+  "S/D Rein Snap": {
+    "id": "S/D Rein Snap",
+    "name": "速度防守牽制・推手",
+    "sp": 300,
+    "rules": "learner.flying-melee",
+    "prev": ["Spd/Def Rein 3"],
+    "last": true,
+    "icon": "skillC/S_D_Rein_Snap"
   },
   "Hone Atk 1": {
     "id": "Hone Atk 1",
@@ -2149,6 +2149,15 @@
     "icon": "skillC/Res_Smoke_3",
     "last": true
   },
+  "Def/Res Smoke 3": {
+    "id": "Def/Res Smoke 3",
+    "name": "防守魔防紫煙3",
+    "sp": 300,
+    "prev": ["Def Smoke 3", "Res Smoke 3"],
+    "rules": "not.white-staff",
+    "last": true,
+    "icon": "skillC/Def_Res_Smoke_3"
+  },
   "Pulse Smoke 1": {
     "id": "Pulse Smoke 1",
     "name": "躍動的幻煙1",
@@ -2238,15 +2247,6 @@
     "rules": "not.white-staff",
     "icon": "skillC/Fatal_Smoke_4",
     "last": true
-  },
-  "Def/Res Smoke 3": {
-    "id": "Def/Res Smoke 3",
-    "name": "防守魔防紫煙3",
-    "sp": 300,
-    "prev": ["Def Smoke 3", "Res Smoke 3"],
-    "rules": "not.white-staff",
-    "last": true,
-    "icon": "skillC/Def_Res_Smoke_3"
   },
   "Pulse Smog": {
     "id": "Pulse Smog",
@@ -2970,6 +2970,14 @@
     "icon": "skillC/Even_Atk_Wave_3",
     "last": true
   },
+  "Even Atk Wave N": {
+    "id": "Even Atk Wave N",
+    "name": "近處攻擊之波・偶數",
+    "sp": 300,
+    "rules": "melee",
+    "last": true,
+    "icon": "skillC/Even_Atk_Wave_N"
+  },
   "Even Spd Wave 1": {
     "id": "Even Spd Wave 1",
     "name": "速度之波・偶數1",
@@ -3032,14 +3040,6 @@
     "prev": ["Even Res Wave 2"],
     "icon": "skillC/Even_Res_Wave_3",
     "last": true
-  },
-  "Even Atk Wave N": {
-    "id": "Even Atk Wave N",
-    "name": "近處攻擊之波・偶數",
-    "sp": 300,
-    "rules": "melee",
-    "last": true,
-    "icon": "skillC/Even_Atk_Wave_N"
   },
   "Even Res Wave D": {
     "id": "Even Res Wave D",
@@ -3943,6 +3943,39 @@
     "last": true,
     "icon": "skillC/Firm_Canto_Curb"
   },
+  "Shadow Shift 1": {
+    "id": "Shadow Shift 1",
+    "name": "影助・帶回1",
+    "sp": 60,
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_1"
+  },
+  "Shadow Shift 2": {
+    "id": "Shadow Shift 2",
+    "name": "影助・帶回2",
+    "sp": 120,
+    "prev": ["Shadow Shift 1"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_2"
+  },
+  "Shadow Shift 3": {
+    "id": "Shadow Shift 3",
+    "name": "影助・帶回3",
+    "sp": 240,
+    "prev": ["Shadow Shift 2"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_3",
+    "last": true
+  },
+  "Shadow Shift 4": {
+    "id": "Shadow Shift 4",
+    "name": "影助・帶回4",
+    "sp": 300,
+    "prev": ["Shadow Shift 3"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_4",
+    "last": true
+  },
   "Sword Exp. 1": {
     "id": "Sword Exp. 1",
     "name": "劍之經驗1",
@@ -4469,39 +4502,6 @@
     "prev": ["Beast Valor 2"],
     "rules": "beast",
     "icon": "skillC/Beast_Valor_3",
-    "last": true
-  },
-  "Shadow Shift 1": {
-    "id": "Shadow Shift 1",
-    "name": "影助・帶回1",
-    "sp": 60,
-    "rules": "learner.cavalry-flying",
-    "icon": "skillC/Shadow_Shift_1"
-  },
-  "Shadow Shift 2": {
-    "id": "Shadow Shift 2",
-    "name": "影助・帶回2",
-    "sp": 120,
-    "prev": ["Shadow Shift 1"],
-    "rules": "learner.cavalry-flying",
-    "icon": "skillC/Shadow_Shift_2"
-  },
-  "Shadow Shift 3": {
-    "id": "Shadow Shift 3",
-    "name": "影助・帶回3",
-    "sp": 240,
-    "prev": ["Shadow Shift 2"],
-    "rules": "learner.cavalry-flying",
-    "icon": "skillC/Shadow_Shift_3",
-    "last": true
-  },
-  "Shadow Shift 4": {
-    "id": "Shadow Shift 4",
-    "name": "影助・帶回4",
-    "sp": 300,
-    "prev": ["Shadow Shift 3"],
-    "rules": "learner.cavalry-flying",
-    "icon": "skillC/Shadow_Shift_4",
     "last": true
   }
 }
