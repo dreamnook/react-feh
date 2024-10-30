@@ -1166,7 +1166,7 @@
         "refine": 350
       },
       "Up-Front Axe+": {
-        "pool": { "#": { "5": ["Caspar - Hotheaded Inciter"] } },
+        "pool": { "#": { "3": ["Caspar - Hotheaded Inciter"] } },
         "id": "Up-Front Axe+",
         "name": "堂堂正正之斧+",
         "sp": 300,
@@ -2197,7 +2197,7 @@
         "refine": 350
       },
       "Blárvulture+": {
-        "pool": { "#": { "5": ["Dorothea - Daring Ex-Singer"] } },
+        "pool": { "#": { "4": ["Dorothea - Daring Ex-Singer"] } },
         "id": "Blárvulture+",
         "name": "蒼藍禿鷹+",
         "sp": 300,
@@ -3881,6 +3881,7 @@
             "Odin - Potent Force",
             "Python - Apathetic Archer",
             "Palla - Eldest Whitewing",
+            "Caspar - Hotheaded Inciter",
             "Erk - Studious Mage",
             "Karin - Driven Knight",
             "Sylvain - Consummate Flirt",
@@ -3895,7 +3896,6 @@
             "Nephenee - Fierce Halberdier",
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
-            "Caspar - Hotheaded Inciter",
             "Sonya - Vengeful Mage",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
@@ -4339,7 +4339,9 @@
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
-        "mythic": { "5": ["Nerþuz - God of the Land"] },
+        "mythic": {
+          "5": ["Nerþuz - God of the Land", "Hræsvelgr - Quieting Blade"]
+        },
         "special": {
           "4": ["Zihark - Ninja Blademaster"],
           "5": [
@@ -4645,6 +4647,13 @@
       "pool": { "special": { "5": ["Askr - Open Harvest"] } },
       "id": "Sturdy Beast",
       "name": "堅固之獸",
+      "sp": 500,
+      "rules": "beast"
+    },
+    "Nimble Beast": {
+      "pool": { "mythic": { "5": ["Hræsvelgr - Quieting Blade"] } },
+      "id": "Nimble Beast",
+      "name": "敏捷之獸",
       "sp": 500,
       "rules": "beast"
     },
@@ -8585,6 +8594,7 @@
           "5": ["Petra - Princess of Brigid", "Anna - Secret Seller"]
         },
         "grail": { "4": ["Claude - Yuletide Schemer"] },
+        "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
         "special": {
           "5": [
             "Juno - Soaring Bride",
@@ -8666,6 +8676,14 @@
       "name": "防守魔防的密集3",
       "sp": 240,
       "icon": "skillA/Def_Res_Form_3"
+    },
+    "Atk/Spd Fortune": {
+      "pool": { "mythic": { "5": ["Hræsvelgr - Quieting Blade"] } },
+      "id": "Atk/Spd Fortune",
+      "name": "攻擊速度的共榮",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Fortune",
+      "rules": "beast"
     },
     "Blade Session 3": {
       "pool": {
@@ -9365,7 +9383,7 @@
     },
     "Spd/Def Finish 3": {
       "pool": {
-        "#": { "5": ["Caspar - Hotheaded Inciter"] },
+        "#": { "3": ["Caspar - Hotheaded Inciter"] },
         "attuned": { "5": ["Timerra - Desert Warrior"] }
       },
       "id": "Spd/Def Finish 3",
@@ -9859,9 +9877,10 @@
             "Seliph - Heir of Light",
             "Bartre - Fearless Warrior",
             "Hinata - Wild Samurai",
+            "Caspar - Hotheaded Inciter",
             "Altena - Luminous Rider"
           ],
-          "5": ["Caspar - Hotheaded Inciter", "Harken - Troubled Warrior"]
+          "5": ["Harken - Troubled Warrior"]
         },
         "grail": { "5": ["Validar - Fell Architect"] },
         "duo": { "5": ["Shamir - Heartbeats United"] }
@@ -11469,7 +11488,7 @@
     },
     "Spd Cantrip 3": {
       "pool": {
-        "#": { "5": ["Dorothea - Daring Ex-Singer"] },
+        "#": { "4": ["Dorothea - Daring Ex-Singer"] },
         "special": { "5": ["Mirabilis - Sugarplum Vision"] }
       },
       "id": "Spd Cantrip 3",
@@ -12416,6 +12435,7 @@
     "S/D Near Trace 3": {
       "pool": {
         "#": { "5": ["Forde - Unfettered Knight", "Chrom - Fated Honor"] },
+        "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
         "special": {
           "5": [
             "Lethe - Cat Attack",
@@ -12436,6 +12456,7 @@
     "S/D Near Trace 4": {
       "pool": {
         "#": { "5": ["Forde - Unfettered Knight"] },
+        "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
         "special": { "5": ["Sylvain - Spring Flingster"] }
       },
       "id": "S/D Near Trace 4",
@@ -15123,7 +15144,10 @@
     },
     "Inf. Null Follow 3": {
       "pool": {
-        "#": { "5": ["Dorothea - Daring Ex-Singer", "Gregor - Swell Sword"] },
+        "#": {
+          "4": ["Dorothea - Daring Ex-Singer"],
+          "5": ["Gregor - Swell Sword"]
+        },
         "ascended": { "5": ["Celica - Valentia's Hope"] },
         "emblem": { "5": ["Celica - Of Echoes", "Marth - Of Beginnings"] },
         "special": {

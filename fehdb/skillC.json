@@ -559,6 +559,14 @@
     "last": true,
     "icon": "skillC/Connected_World"
   },
+  "Divine Talon": {
+    "id": "Divine Talon",
+    "name": "神獸的銳爪",
+    "sp": 300,
+    "exclusive": ["Hræsvelgr - Quieting Blade"],
+    "last": true,
+    "icon": "skillC/Divine_Talon"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

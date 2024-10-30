@@ -3201,6 +3201,34 @@
       "Mending Heart": 5
     }
   },
+  "Hræsvelgr - Quieting Blade": {
+    "weapon": {
+      "Hatchling (Flier)": 1,
+      "Fledgling (Flier)": 2,
+      "Adult (Flier)": 3,
+      "Quieting Claw": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Nimble Beast": 5
+    },
+    "skillA": {
+      "Atk/Spd Form 1": 2,
+      "Atk/Spd Form 2": 3,
+      "Atk/Spd Form 3": 4,
+      "Atk/Spd Fortune": 5
+    },
+    "skillB": {
+      "S/D Near Trace 1": 2,
+      "S/D Near Trace 2": 3,
+      "S/D Near Trace 3": 4,
+      "S/D Near Trace 4": 5
+    },
+    "skillC": {
+      "Divine Talon": 5
+    }
+  },
   "Heiðrún - Healing Nectar": {
     "weapon": {
       "Whelp (Infantry)": 1,

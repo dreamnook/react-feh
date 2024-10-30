@@ -1226,6 +1226,17 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Seal Res 3": { "sp": 160, "rarity": 5 } }
   },
+  "Dorothea - Daring Ex-Singer": {
+    "score": 185,
+    "scoreTotal": 257,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 300,
+    "bst": 178,
+    "skillB": { "Spd Cantrip 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Inf. Null Follow 3": { "sp": 240, "rarity": 5 } }
+  },
   "Bruno - Masked Hare": {
     "score": 80,
     "scoreTotal": 260,
@@ -3099,6 +3110,18 @@
     "skillA": { "Atk/Res Finish 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Guard 3": { "sp": 200, "rarity": 4 } }
   },
+  "Caspar - Hotheaded Inciter": {
+    "score": 166,
+    "scoreTotal": 428,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 198,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Def Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Brash Assault 3": { "sp": 200, "rarity": 4 } }
+  },
   "Owain - Devoted Defender": {
     "score": 196,
     "scoreTotal": 431,
@@ -4128,17 +4151,6 @@
     "bst": 162,
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Dorothea - Daring Ex-Singer": {
-    "score": 240,
-    "scoreTotal": 480,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 1000,
-    "bst": 178,
-    "skillB": { "Spd Cantrip 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Inf. Null Follow 3": { "sp": 240, "rarity": 5 } }
   },
   "Reinhardt - Thunder's Fist": {
     "score": 249,
@@ -5379,18 +5391,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ward Dragons": { "sp": 200, "rarity": 5 } }
-  },
-  "Caspar - Hotheaded Inciter": {
-    "score": 240,
-    "scoreTotal": 640,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 640,
-    "feather": 1000,
-    "bst": 198,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Spd/Def Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Brash Assault 3": { "sp": 200, "rarity": 5 } }
   },
   "Ephraim - Legendary Lord": {
     "score": 276,
@@ -12413,6 +12413,19 @@
     "special": { "Fierce Beast": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Def Excel": { "sp": 300, "rarity": 5 } },
     "skillC": { "Beast Threaten": { "sp": 300, "rarity": 5 } }
+  },
+  "Hræsvelgr - Quieting Blade": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Nimble Beast": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Fortune": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/D Near Trace 4": { "sp": 300, "rarity": 5 } }
   },
   "Hinoka - Thundering Wings": {
     "score": 460,

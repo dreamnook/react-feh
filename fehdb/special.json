@@ -759,6 +759,15 @@
     "rules": "beast",
     "last": true
   },
+  "Nimble Beast": {
+    "id": "Nimble Beast",
+    "name": "敏捷之獸",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Astra"],
+    "rules": "beast",
+    "last": true
+  },
   "Ruptured Sky": {
     "id": "Ruptured Sky",
     "name": "破天",

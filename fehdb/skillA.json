@@ -3665,6 +3665,15 @@
     "icon": "skillA/Def_Res_Form_3",
     "last": true
   },
+  "Atk/Spd Fortune": {
+    "id": "Atk/Spd Fortune",
+    "name": "攻擊速度的共榮",
+    "sp": 300,
+    "prev": ["Atk/Spd Form 3"],
+    "rules": "beast",
+    "last": true,
+    "icon": "skillA/Atk_Spd_Fortune"
+  },
   "Blade Session 1": {
     "id": "Blade Session 1",
     "name": "刃之協奏1",

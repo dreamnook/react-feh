@@ -4368,6 +4368,43 @@
     "ver": "8.0",
     "dfKey": 6
   },
+  "Hræsvelgr - Quieting Blade": {
+    "id": "Hræsvelgr - Quieting Blade",
+    "title": "刀刃的葬送者",
+    "name": "赫拉斯瓦爾格",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-beast",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "light-atk-2",
+    "releaseDate": "2024-10-30",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [45, 48, 52],
+        "def": [33, 36, 39],
+        "res": [22, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 9,
+        "def": 10,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.10",
+    "dfKey": 7
+  },
   "Heiðrún - Healing Nectar": {
     "id": "Heiðrún - Healing Nectar",
     "title": "蜜露的治癒者",
@@ -44826,19 +44863,47 @@
     "id": "Caspar - Hotheaded Inciter",
     "title": "好勇鬥狠的熱血男子",
     "name": "卡斯帕爾",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-axe",
     "releaseDate": "2024-10-15",
     "appearsIn": ["Three Houses"],
     "stats": {
+      "3": {
+        "hp": [39, 42, 45],
+        "atk": [40, 43, 46],
+        "spd": [37, 40, 43],
+        "def": [25, 28, 31],
+        "res": [21, 24, 27]
+      },
+      "4": {
+        "hp": [40, 43, 46],
+        "atk": [43, 46, 49],
+        "spd": [39, 42, 46],
+        "def": [26, 29, 32],
+        "res": [22, 25, 28]
+      },
       "5": {
         "hp": [43, 46, 49],
         "atk": [45, 48, 52],
         "spd": [41, 44, 48],
         "def": [29, 32, 35],
         "res": [24, 28, 31]
+      },
+      "3-1": {
+        "hp": 19,
+        "atk": 8,
+        "spd": 13,
+        "def": 7,
+        "res": 5
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 9,
+        "spd": 14,
+        "def": 7,
+        "res": 5
       },
       "5-1": {
         "hp": 20,
@@ -45103,19 +45168,33 @@
     "id": "Dorothea - Daring Ex-Singer",
     "title": "堅韌不拔的前歌姬",
     "name": "多洛緹雅",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "moveType": "infantry",
     "weaponType": "blue-tome",
     "releaseDate": "2024-10-15",
     "appearsIn": ["Three Houses"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [34, 38, 41],
+        "spd": [31, 34, 37],
+        "def": [12, 15, 18],
+        "res": [39, 42, 45]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [36, 40, 43],
         "spd": [33, 36, 39],
         "def": [13, 17, 20],
         "res": [42, 45, 49]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 7,
+        "spd": 10,
+        "def": 3,
+        "res": 5
       },
       "5-1": {
         "hp": 18,
@@ -47946,7 +48025,7 @@
     "moveType": "infantry",
     "weaponType": "white-dagger",
     "pool": "grail",
-    "releaseDate": "2024-10-15",
+    "releaseDate": "2024-10-16",
     "appearsIn": ["Three Houses"],
     "stats": {
       "3": {

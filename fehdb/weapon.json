@@ -19871,6 +19871,16 @@
       "exclusive": ["Lethe - Cat Attack"],
       "last": true
     },
+    "Quieting Claw": {
+      "id": "Quieting Claw",
+      "name": "刀刃的葬送者之爪",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Flier)"],
+      "exclusive": ["Hræsvelgr - Quieting Blade"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
