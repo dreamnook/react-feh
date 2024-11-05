@@ -270,6 +270,15 @@
     "last": true,
     "icon": "skillC/Domain_of_Flame"
   },
+  "Worldbreaker+": {
+    "id": "Worldbreaker+",
+    "name": "神錘貫穿大地・神",
+    "sp": 300,
+    "prev": ["Worldbreaker"],
+    "exclusive": ["Thórr - War God"],
+    "last": true,
+    "icon": "skillC/Worldbreaker+"
+  },
   "Worldbreaker": {
     "id": "Worldbreaker",
     "name": "神錘貫穿大地",

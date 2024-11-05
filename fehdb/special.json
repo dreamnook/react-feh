@@ -299,10 +299,18 @@
   },
   "Brutal Shell": {
     "id": "Brutal Shell",
-    "name": "魔彈",
+    "name": "凶彈",
     "cd": 3,
     "sp": 500,
     "prev": ["Luna"],
+    "exclusive": ["Ótr - Kingsbrother"]
+  },
+  "Brutal Shell+": {
+    "id": "Brutal Shell+",
+    "name": "凶彈・神",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Brutal Shell"],
     "exclusive": ["Ótr - Kingsbrother"],
     "last": true
   },

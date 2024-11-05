@@ -7729,6 +7729,37 @@
       },
       "last": true
     },
+    "Heavenly Icicle": {
+      "id": "Heavenly Icicle",
+      "name": "四天馬騎士的冷槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Díthorba - Cutting Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Heavenly_Icicle_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -10738,6 +10769,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Jill - Fiery Dracoknight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Talregan_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Twin Star Axe": {
@@ -10924,6 +10978,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Ótr - Kingsbrother"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Auto-Lofnheiðr_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Nifl's Bite": {
@@ -10974,6 +11051,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Thórr - War God"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "War-God_Mjölnir_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Inviolable Axe": {
@@ -14211,6 +14311,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Shamir - Archer Apart"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Survivalist_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "First-Dream Bow": {
@@ -19492,6 +19614,29 @@
       "sp": 400,
       "prev": ["Adult (Flier)"],
       "exclusive": ["Tibarn - Shipless Pirate"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Sky-Pirate_Claw_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Nightmare Horn": {
@@ -22909,6 +23054,28 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Guinivere - Princess of Bern"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Aureola_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Tome of Favors": {

@@ -4740,10 +4740,10 @@
         "mythic": {
           "5": [
             "Líf - Lethal Swordsman",
-            "Thórr - War God",
             "Ash - Retainer to Askr",
             "Askr - God of Openness",
-            "Fomortiis - Demon King"
+            "Fomortiis - Demon King",
+            "Thórr - War God"
           ]
         },
         "special": {
@@ -9217,7 +9217,11 @@
         "rearmed": { "5": ["Líf - Arcane Blade"] },
         "emblem": { "5": ["Sigurd - Of the Holy War"] },
         "mythic": {
-          "5": ["Freyr - Dream-King", "Eikþyrnir - Quieting Strength"]
+          "5": [
+            "Freyr - Dream-King",
+            "Ótr - Kingsbrother",
+            "Eikþyrnir - Quieting Strength"
+          ]
         },
         "special": {
           "5": ["Flavia - Bold Bride", "Ephraim - Sunshine Valiant"]
@@ -9276,7 +9280,9 @@
     "Atk/Def Excel": {
       "pool": {
         "emblem": { "5": ["Sigurd - Of the Holy War"] },
-        "mythic": { "5": ["Eikþyrnir - Quieting Strength"] }
+        "mythic": {
+          "5": ["Ótr - Kingsbrother", "Eikþyrnir - Quieting Strength"]
+        }
       },
       "id": "Atk/Def Excel",
       "name": "攻擊防守突破",
@@ -11276,7 +11282,7 @@
       "pool": {
         "#": { "5": ["Annand - Knight-Defender"] },
         "rearmed": { "5": ["Ingrid - Beacon of Honor"] },
-        "mythic": { "5": ["Hel - Death Sovereign"] },
+        "mythic": { "5": ["Hel - Death Sovereign", "Thórr - War God"] },
         "special": { "5": ["Juno - Nimble Grace", "Ingrid - Solstice Knight"] }
       },
       "id": "Guard Bearing 3",
@@ -11288,6 +11294,7 @@
     "Guard Bearing 4": {
       "pool": {
         "rearmed": { "5": ["Ingrid - Beacon of Honor"] },
+        "mythic": { "5": ["Thórr - War God"] },
         "special": { "5": ["Juno - Nimble Grace"] }
       },
       "id": "Guard Bearing 4",

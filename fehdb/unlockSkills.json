@@ -1656,10 +1656,15 @@
     "skillB": {
       "Flow Guard 1": 1,
       "Flow Guard 2": 2,
-      "Flow Guard 3": 4
+      "Flow Guard 3": 4,
+      "Guard Bearing 1": 1,
+      "Guard Bearing 2": 2,
+      "Guard Bearing 3": 4,
+      "Guard Bearing 4": 5
     },
     "skillC": {
-      "Worldbreaker": 5
+      "Worldbreaker": 5,
+      "Worldbreaker+": 5
     }
   },
   "Thórr - Sun-Kissed Gods": {
@@ -2406,13 +2411,18 @@
     "special": {
       "New Moon": 3,
       "Luna": 4,
-      "Brutal Shell": 5
+      "Brutal Shell": 5,
+      "Brutal Shell+": 5
     },
     "skillA": {
       "G Duel Cavalry 1": 2,
       "G Duel Cavalry 2": 3,
       "G Duel Cavalry 3": 4,
-      "G Duel Cavalry 4": 5
+      "G Duel Cavalry 4": 5,
+      "Atk/Def Clash 1": 2,
+      "Atk/Def Clash 2": 3,
+      "Atk/Def Clash 3": 4,
+      "Atk/Def Excel": 5
     },
     "skillB": {
       "Flow Refresh 1": 1,
@@ -7677,7 +7687,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Firesweep Lance": 3,
-      "Firesweep Lance+": 5
+      "Firesweep Lance+": 5,
+      "Heavenly Icicle": 5
     },
     "special": {
       "Chilling Wind": 3,
