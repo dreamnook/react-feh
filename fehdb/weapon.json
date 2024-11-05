@@ -11660,6 +11660,16 @@
       "exclusive": ["Marni - Pining for Praise"],
       "last": true
     },
+    "Bold Kusarigama": {
+      "id": "Bold Kusarigama",
+      "name": "武與勇的鎖鎌",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Diamant - Gallant Ninja"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -14921,6 +14931,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Ashe - Chivalric Amends"],
+      "last": true
+    },
+    "Ylisse Ninja Bow": {
+      "id": "Ylisse Ninja Bow",
+      "name": "聖王國父女忍弓",
+      "mt": 8,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Lucina - Shadows of Fate"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -19056,6 +19076,39 @@
         }
       },
       "last": true
+    },
+    "Giant Shuriken": {
+      "id": "Giant Shuriken",
+      "name": "大手裏劍",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Giant Shuriken+": {
+      "id": "Giant Shuriken+",
+      "name": "大手裏劍+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Giant Shuriken"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "beast": {
@@ -21430,6 +21483,16 @@
       "exclusive": ["Nephenee - Festival Harmony"],
       "last": true
     },
+    "Scroll of Curses": {
+      "id": "Scroll of Curses",
+      "name": "詛咒忍者的忍法帳",
+      "mt": 9,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Fenrir"],
+      "exclusive": ["Tharja - Shadow Ninja"],
+      "last": true
+    },
     "Arcane Eclipse": {
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
@@ -23429,6 +23492,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Scroll of Teas": {
+      "id": "Scroll of Teas",
+      "name": "花與茶的忍法帳",
+      "mt": 8,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Céline - Teatime Ninja"],
       "last": true
     },
     "Arcane Euphoria": {

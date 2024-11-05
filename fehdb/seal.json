@@ -2198,6 +2198,30 @@
       "rules": "infantry",
       "icon": "skillA/Spd_Res_Finish_3",
       "last": true
+    },
+    "Atk/Def Prime 1": {
+      "id": "Atk/Def Prime 1",
+      "name": "攻擊防守的準備1",
+      "sp": 60,
+      "rules": "learner.def-dmger",
+      "icon": "skillA/Atk_Def_Prime_1"
+    },
+    "Atk/Def Prime 2": {
+      "id": "Atk/Def Prime 2",
+      "name": "攻擊防守的準備2",
+      "sp": 120,
+      "prev": ["Atk/Def Prime 1"],
+      "rules": "learner.def-dmger",
+      "icon": "skillA/Atk_Def_Prime_2"
+    },
+    "Atk/Def Prime 3": {
+      "id": "Atk/Def Prime 3",
+      "name": "攻擊防守的準備3",
+      "sp": 240,
+      "prev": ["Atk/Def Prime 2"],
+      "rules": "learner.def-dmger",
+      "icon": "skillA/Atk_Def_Prime_3",
+      "last": true
     }
   },
   "skillB": {
@@ -4346,6 +4370,30 @@
       "sp": 240,
       "prev": ["Res Opening 2"],
       "icon": "skillC/Res_Opening_3",
+      "last": true
+    },
+    "Rouse Atk/Spd 1": {
+      "id": "Rouse Atk/Spd 1",
+      "name": "攻擊速度的奮起1",
+      "sp": 60,
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Atk_Spd_1"
+    },
+    "Rouse Atk/Spd 2": {
+      "id": "Rouse Atk/Spd 2",
+      "name": "攻擊速度的奮起2",
+      "sp": 120,
+      "prev": ["Rouse Atk/Spd 1"],
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Atk_Spd_2"
+    },
+    "Rouse Atk/Spd 3": {
+      "id": "Rouse Atk/Spd 3",
+      "name": "攻擊速度的奮起3",
+      "sp": 240,
+      "prev": ["Rouse Atk/Spd 2"],
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Atk_Spd_3",
       "last": true
     },
     "Rouse Atk/Def 1": {
@@ -6826,6 +6874,36 @@
       "def": 3,
       "prev": ["Squad Ace CI 2"],
       "icon": "seal/Squad_Ace_Atk_Spd_Def_3",
+      "last": true
+    },
+    "Squad Ace CJ 1": {
+      "id": "Squad Ace CJ 1",
+      "name": "第８８迷宮的霸王1",
+      "sp": 120,
+      "atk": 1,
+      "spd": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_Atk_Spd_Res_1"
+    },
+    "Squad Ace CJ 2": {
+      "id": "Squad Ace CJ 2",
+      "name": "第８８迷宮的霸王2",
+      "sp": 180,
+      "atk": 2,
+      "spd": 2,
+      "res": 2,
+      "prev": ["Squad Ace CJ 1"],
+      "icon": "seal/Squad_Ace_Atk_Spd_Res_2"
+    },
+    "Squad Ace CJ 3": {
+      "id": "Squad Ace CJ 3",
+      "name": "第８８迷宮的霸王3",
+      "sp": 240,
+      "atk": 3,
+      "spd": 3,
+      "res": 3,
+      "prev": ["Squad Ace CJ 2"],
+      "icon": "seal/Squad_Ace_Atk_Spd_Res_3",
       "last": true
     }
   }

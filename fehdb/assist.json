@@ -333,6 +333,14 @@
     "exclusive": ["Azura - Song's Reflection"],
     "last": true
   },
+  "Future Focus": {
+    "id": "Future Focus",
+    "name": "實現未來的眼眸",
+    "sp": 400,
+    "prev": ["Swap"],
+    "exclusive": ["Lucina - Shadows of Fate"],
+    "last": true
+  },
   "Heal": {
     "id": "Heal",
     "name": "聖療",

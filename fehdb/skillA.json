@@ -1214,6 +1214,15 @@
     "last": true,
     "icon": "skillA/Flared_Mirror"
   },
+  "Sly Swift Sparrow": {
+    "id": "Sly Swift Sparrow",
+    "name": "鬼神飛燕掩擊",
+    "sp": 300,
+    "prev": ["Swift Sparrow 2"],
+    "rules": "not.white-staff",
+    "last": true,
+    "icon": "skillA/Sly_Swift_Sparrow"
+  },
   "Fierce Stance 1": {
     "id": "Fierce Stance 1",
     "name": "鬼神架勢1",

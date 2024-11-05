@@ -19656,6 +19656,36 @@
       "Atk/Spd Gap 3": 4
     }
   },
+  "Tharja - Shadow Ninja": {
+    "weapon": {
+      "Flux": 1,
+      "Ruin": 2,
+      "Fenrir": 4,
+      "Scroll of Curses": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Death Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Sly Swift Sparrow": 5
+    },
+    "skillB": {
+      "Resonance 1": 2,
+      "Resonance 2": 3,
+      "Resonance 3": 4,
+      "Resonance 4": 5
+    },
+    "skillC": {
+      "Res Smoke 1": 2,
+      "Res Smoke 2": 3,
+      "Res Smoke 3": 4,
+      "Def/Res Smoke 3": 5
+    }
+  },
   "Mustafa - Plegian Champion": {
     "weapon": {
       "Iron Axe": 1,
@@ -20363,6 +20393,41 @@
       "Alarm Def/Res": 5
     }
   },
+  "Lucina - Shadows of Fate": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Ylisse Ninja Bow": 5
+    },
+    "assist": {
+      "Swap": 4,
+      "Future Focus": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4,
+      "Curved Shot": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Flared Sparrow": 5
+    },
+    "skillB": {
+      "Spd/Def Snag 1": 2,
+      "Spd/Def Snag 2": 3,
+      "Spd/Def Snag 3": 4,
+      "Spd/Def Detect": 5
+    },
+    "skillC": {
+      "Shadow Shift 1": 2,
+      "Shadow Shift 2": 3,
+      "Shadow Shift 3": 4,
+      "Shadow Shift 4": 5
+    }
+  },
   "Owain - Chosen One": {
     "weapon": {
       "Iron Sword": 1,
@@ -20806,6 +20871,28 @@
       "Infantry Rush 1": 3,
       "Infantry Rush 2": 4,
       "Infantry Rush 3": 5
+    }
+  },
+  "Noire - Demurely Deft": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Giant Shuriken": 3,
+      "Giant Shuriken+": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4
+    },
+    "skillB": {
+      "Seal Spd 1": 3,
+      "Seal Atk/Spd 1": 4,
+      "Seal Atk/Spd 2": 5
+    },
+    "skillC": {
+      "Infantry Flash 1": 1,
+      "Infantry Flash 2": 2,
+      "Infantry Flash 3": 4
     }
   },
   "Nah - Little Miss": {
@@ -28017,6 +28104,30 @@
       "Canto Control 3": 4
     }
   },
+  "Céline - Teatime Ninja": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 4,
+      "Scroll of Teas": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillB": {
+      "Spd/Res Tempo 1": 2,
+      "Spd/Res Tempo 2": 3,
+      "Spd/Res Tempo 3": 4,
+      "Spd/Res Tempo 4": 5
+    },
+    "skillC": {
+      "Spd Ploy 1": 2,
+      "Spd Ploy 2": 3,
+      "Spd Ploy 3": 4,
+      "Spd/Res Ploy 3": 5
+    }
+  },
   "Chloé - Fairy-Tale Flier": {
     "weapon": {
       "Iron Lance": 1,
@@ -28096,6 +28207,37 @@
       "Time's Pulse 2": 3,
       "Time's Pulse 3": 4,
       "Time's Pulse 4": 5
+    }
+  },
+  "Diamant - Gallant Ninja": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Bold Kusarigama": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4,
+      "Boulder": 5
+    },
+    "skillA": {
+      "Atk/Def Finish 1": 2,
+      "Atk/Def Finish 2": 3,
+      "Atk/Def Finish 3": 4,
+      "Atk/Def Finish 4": 5
+    },
+    "skillB": {
+      "Atk/Def Bulwark 1": 2,
+      "Atk/Def Bulwark 2": 3,
+      "Atk/Def Bulwark 3": 4,
+      "A/D Spiked Wall": 5
+    },
+    "skillC": {
+      "Even Tempest 1": 2,
+      "Even Tempest 2": 3,
+      "Even Tempest 3": 4,
+      "Endless Tempest": 5
     }
   },
   "Alcryst - Tender Archer": {

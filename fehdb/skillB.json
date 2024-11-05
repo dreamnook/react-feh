@@ -3340,6 +3340,15 @@
     "icon": "skillB/Def_Res_Snag_3",
     "last": true
   },
+  "Spd/Def Detect": {
+    "id": "Spd/Def Detect",
+    "name": "速度防守看破",
+    "sp": 300,
+    "prev": ["Spd/Def Snag 3"],
+    "rules": "learner.cavalry-flying-not-staff",
+    "last": true,
+    "icon": "skillB/Spd_Def_Detect"
+  },
   "Atk Feint 1": {
     "id": "Atk Feint 1",
     "name": "攻擊共謀1",
@@ -4731,6 +4740,15 @@
     "icon": "skillB/Spd_Res_Tempo_3",
     "last": true
   },
+  "Spd/Res Tempo 4": {
+    "id": "Spd/Res Tempo 4",
+    "name": "速度魔防節拍4",
+    "sp": 300,
+    "prev": ["Spd/Res Tempo 3"],
+    "rules": "infantry",
+    "icon": "skillB/Spd_Res_Tempo_4",
+    "last": true
+  },
   "Atk/Spd Bulwark 1": {
     "id": "Atk/Spd Bulwark 1",
     "name": "攻擊速度防護屏障1",
@@ -4853,6 +4871,15 @@
     "rules": "learner.infantry-melee",
     "icon": "skillB/Spd_Res_Bulwark_4",
     "last": true
+  },
+  "A/D Spiked Wall": {
+    "id": "A/D Spiked Wall",
+    "name": "攻擊防守的刃壁",
+    "sp": 300,
+    "prev": ["Atk/Def Bulwark 3"],
+    "rules": "learner.infantry-melee",
+    "last": true,
+    "icon": "skillB/A_D_Spiked_Wall"
   },
   "Spd Preempt 1": {
     "id": "Spd Preempt 1",

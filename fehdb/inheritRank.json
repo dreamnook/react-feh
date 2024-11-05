@@ -5483,6 +5483,19 @@
     "skillA": { "Still Water 3": { "sp": 200, "rarity": 5 } },
     "skillB": { "Sabotage Def 3": { "sp": 240, "rarity": 4 } }
   },
+  "Noire - Demurely Deft": {
+    "score": 299,
+    "scoreTotal": 646,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Seal Atk/Spd 2": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Infantry Flash 3": { "sp": 240, "rarity": 4 } }
+  },
   "Dedue - Loyal Life Guard": {
     "score": 299,
     "scoreTotal": 646,
@@ -10263,6 +10276,19 @@
     "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
     "skillC": { "Beast Threaten": { "sp": 300, "rarity": 5 } }
   },
+  "Céline - Teatime Ninja": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Spd/Res Tempo 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Ploy 3": { "sp": 300, "rarity": 5 } }
+  },
   "Embla - Closed-Off Bride": {
     "score": 318,
     "scoreTotal": 848,
@@ -13860,6 +13886,20 @@
     "skillB": { "Occultist's Strike": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Res Crux": { "sp": 300, "rarity": 5 } }
   },
+  "Tharja - Shadow Ninja": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Sly Swift Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Resonance 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
   "Yunaka - Spirited Envoy": {
     "score": 318,
     "scoreTotal": 1166,
@@ -14768,6 +14808,20 @@
     "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
+  "Diamant - Gallant Ninja": {
+    "score": 530,
+    "scoreTotal": 1484,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Boulder": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Def Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/D Spiked Wall": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Endless Tempest": { "sp": 300, "rarity": 5 } }
+  },
   "Nagi - Hopeful Eternity": {
     "score": 530,
     "scoreTotal": 1484,
@@ -14809,5 +14863,20 @@
     "special": { "No Quarter": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/D Near Trace 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Lucina - Shadows of Fate": {
+    "score": 530,
+    "scoreTotal": 1643,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1550,
+    "feather": 1000,
+    "bst": 215,
+    "assist": { "Swap": { "sp": 150, "rarity": 5 } },
+    "special": { "Curved Shot": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Detect": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Shadow Shift 4": { "sp": 300, "rarity": 5 } }
   }
 }

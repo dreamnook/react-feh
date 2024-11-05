@@ -846,6 +846,15 @@
     "prev": ["Bonfire"],
     "last": true
   },
+  "Boulder": {
+    "id": "Boulder",
+    "name": "巨岩",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Bonfire"],
+    "rules": "learner.wielderInfantry",
+    "last": true
+  },
   "Chilling Wind": {
     "id": "Chilling Wind",
     "name": "冰點",
