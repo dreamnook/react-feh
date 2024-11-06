@@ -12921,7 +12921,7 @@
     "A/D Spiked Wall": {
       "pool": { "special": { "5": ["Diamant - Gallant Ninja"] } },
       "id": "A/D Spiked Wall",
-      "name": "攻擊防守的刃壁",
+      "name": "攻擊防守的刃牆",
       "sp": 300,
       "icon": "skillB/A_D_Spiked_Wall",
       "rules": "learner.infantry-melee"

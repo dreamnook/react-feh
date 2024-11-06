@@ -4874,7 +4874,7 @@
   },
   "A/D Spiked Wall": {
     "id": "A/D Spiked Wall",
-    "name": "攻擊防守的刃壁",
+    "name": "攻擊防守的刃牆",
     "sp": 300,
     "prev": ["Atk/Def Bulwark 3"],
     "rules": "learner.infantry-melee",
