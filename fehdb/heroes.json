@@ -3396,6 +3396,41 @@
     "ver": "6.0",
     "dfKey": 4
   },
+  "Þjazi - Ruthless Jötun": {
+    "id": "Þjazi - Ruthless Jötun",
+    "title": "狂猛的巨人",
+    "name": "夏基",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "armored",
+    "weaponType": "green-axe",
+    "pool": "rearmed",
+    "releaseDate": "2024-11-15",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [46, 49, 52],
+        "atk": [47, 50, 54],
+        "spd": [15, 18, 21],
+        "def": [44, 47, 50],
+        "res": [39, 42, 46]
+      },
+      "5-1": {
+        "hp": 23,
+        "atk": 11,
+        "spd": 3,
+        "def": 12,
+        "res": 12
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": [],
+    "statMin": 206,
+    "statMax": 210,
+    "book": 8,
+    "ver": "8.11",
+    "dfKey": 7
+  },
   "Dagr - Sun's Radiance": {
     "id": "Dagr - Sun's Radiance",
     "title": "耀眼的陽光",
@@ -16577,6 +16612,75 @@
     "ver": "6.5",
     "dfKey": 4
   },
+  "Lilina - Brilliant Flame": {
+    "id": "Lilina - Brilliant Flame",
+    "title": "麗炎的盟主",
+    "name": "莉莉娜",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "pool": "rearmed",
+    "releaseDate": "2024-11-15",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 52],
+        "spd": [32, 35, 38],
+        "def": [13, 17, 20],
+        "res": [45, 48, 51]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 9,
+        "def": 4,
+        "res": 13
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 8,
+    "ver": "8.11",
+    "dfKey": 7
+  },
+  "Bors - Ostia's Bastion": {
+    "id": "Bors - Ostia's Bastion",
+    "title": "奧斯提亞之壁",
+    "name": "波爾斯",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-lance",
+    "releaseDate": "2024-11-15",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [48, 51, 55],
+        "atk": [44, 47, 51],
+        "spd": [31, 34, 37],
+        "def": [45, 48, 52],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 17,
+        "spd": 8,
+        "def": 9,
+        "res": 6
+      }
+    },
+    "assets": ["hp", "atk", "def", "res"],
+    "flaws": [],
+    "statMin": 205,
+    "statMax": 205,
+    "book": 8,
+    "ver": "8.11",
+    "dfKey": 7
+  },
   "Gwendolyn - Adorable Knight": {
     "id": "Gwendolyn - Adorable Knight",
     "title": "可愛的重騎士",
@@ -16638,6 +16742,40 @@
     "book": 1,
     "ver": "1.0",
     "dfKey": 2
+  },
+  "Ogier - Ostia's New Blade": {
+    "id": "Ogier - Ostia's New Blade",
+    "title": "奧斯提亞的新人",
+    "name": "奧杰",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2024-11-15",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [41, 44, 48],
+        "spd": [44, 47, 50],
+        "def": [33, 36, 39],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 14,
+        "spd": 10,
+        "def": 8,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": [],
+    "statMin": 197,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.11",
+    "dfKey": 7
   },
   "Lugh - Anima Child": {
     "id": "Lugh - Anima Child",
@@ -17507,6 +17645,69 @@
     "book": 4,
     "ver": "4.11",
     "dfKey": 3
+  },
+  "Zeiss - Ebon Bolt": {
+    "id": "Zeiss - Ebon Bolt",
+    "title": "伯爾尼的黑色閃電",
+    "name": "宰斯",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "moveType": "flying",
+    "weaponType": "blue-lance",
+    "pool": "grail",
+    "releaseDate": "2024-11-16",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "3": {
+        "hp": [36, 39, 42],
+        "atk": [40, 43, 46],
+        "spd": [29, 32, 35],
+        "def": [34, 37, 40],
+        "res": [19, 22, 25]
+      },
+      "4": {
+        "hp": [37, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [30, 33, 37],
+        "def": [36, 39, 43],
+        "res": [20, 23, 26]
+      },
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [45, 48, 51],
+        "spd": [33, 36, 40],
+        "def": [38, 41, 45],
+        "res": [22, 25, 29]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 5,
+        "def": 10,
+        "res": 5
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 5,
+        "def": 11,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 6,
+        "def": 11,
+        "res": 6
+      }
+    },
+    "assets": ["spd", "def", "res"],
+    "flaws": [],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 8,
+    "ver": "8.11",
+    "dfKey": 7
   },
   "Galle - Azure Rider": {
     "id": "Galle - Azure Rider",
@@ -18560,6 +18761,41 @@
     "book": 3,
     "ver": "3.11",
     "dfKey": 2
+  },
+  "Elffin - Truth Beholden": {
+    "id": "Elffin - Truth Beholden",
+    "title": "看穿真相之人",
+    "name": "艾爾芬",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-tome",
+    "pool": "special",
+    "releaseDate": "2024-11-15",
+    "appearsIn": ["The Binding Blade"],
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [17, 20, 23],
+        "spd": [43, 47, 50],
+        "def": [24, 28, 31],
+        "res": [43, 46, 50]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 3,
+        "spd": 14,
+        "def": 6,
+        "res": 7
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 8,
+    "ver": "8.11",
+    "dfKey": 7
   },
   "Larum - Sprightly Dancer": {
     "id": "Larum - Sprightly Dancer",

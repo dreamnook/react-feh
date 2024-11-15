@@ -5236,6 +5236,18 @@
     "skillB": { "Firestorm Dance 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Hold": { "sp": 300, "rarity": 5 } }
   },
+  "Elffin - Truth Beholden": {
+    "score": 318,
+    "scoreTotal": 636,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 600,
+    "feather": 1000,
+    "bst": 178,
+    "skillB": { "A/R Cantrip 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
+  },
   "Delthea - Free Spirit": {
     "score": 240,
     "scoreTotal": 640,
@@ -6271,6 +6283,30 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Ogier - Ostia's New Blade": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 197,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Close Call 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Bors - Ostia's Bastion": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -8585,6 +8621,19 @@
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillB": { "Wyvern Flight 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Flier Guidance 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Zeiss - Ebon Bolt": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 193,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Air Orders 3": { "sp": 240, "rarity": 4 } }
   },
   "Lloyd - Vengeful Wolf": {
     "score": 322,
@@ -12145,6 +12194,19 @@
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } },
     "skillX": { "Null C-Disrupt E": { "sp": 0, "rarity": 5 } }
   },
+  "Þjazi - Ruthless Jötun": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 206,
+    "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Earthfire Boost 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Twin N Save": { "sp": 300, "rarity": 5 } }
+  },
   "Est - Springtime Flier": {
     "score": 318,
     "scoreTotal": 996,
@@ -13156,6 +13218,20 @@
     "assist": { "Rally Up Spd+": { "sp": 400, "rarity": 5 } },
     "skillB": { "Atk/Spd Bulwark 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Firm Canto Curb": { "sp": 300, "rarity": 5 } }
+  },
+  "Lilina - Brilliant Flame": {
+    "score": 270,
+    "scoreTotal": 1080,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 300,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Blazing Flame": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Sly Mirror": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Occultist's Strike": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Res Ploy 3": { "sp": 300, "rarity": 5 } }
   },
   "Igrene - Nabata Protector": {
     "score": 300,

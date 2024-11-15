@@ -4200,6 +4200,39 @@
       },
       "last": true
     },
+    "Doubler Sword": {
+      "id": "Doubler Sword",
+      "name": "強化增幅之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Doubler Sword+": {
+      "id": "Doubler Sword+",
+      "name": "強化增幅之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Doubler Sword"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Reversal Blade": {
       "id": "Reversal Blade",
       "name": "強化反轉之劍",
@@ -8649,6 +8682,72 @@
       },
       "last": true
     },
+    "Doubler Lance": {
+      "id": "Doubler Lance",
+      "name": "強化增幅之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Doubler Lance+": {
+      "id": "Doubler Lance+",
+      "name": "強化增幅之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Doubler Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Reversal Lance": {
+      "id": "Reversal Lance",
+      "name": "強化反轉之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Reversal Lance+": {
+      "id": "Reversal Lance+",
+      "name": "強化反轉之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Reversal Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Berkut's Lance": {
       "id": "Berkut's Lance",
       "name": "貝爾克特之槍",
@@ -11726,6 +11825,34 @@
       },
       "last": true
     },
+    "Arcane Giant Axe": {
+      "id": "Arcane Giant Axe",
+      "name": "魔器・約頓之斧",
+      "mt": 16,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Iron Axe": {
       "id": "Iron Axe",
       "name": "鐵斧",
@@ -12366,6 +12493,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Vulture Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Up-Front Axe": {
+      "id": "Up-Front Axe",
+      "name": "堂堂正正之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Up-Front Axe+": {
+      "id": "Up-Front Axe+",
+      "name": "堂堂正正之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Up-Front Axe"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -13336,39 +13496,6 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Anchor Axe"],
-      "refine": {
-        "atk": {
-          "hp": 5,
-          "mt": 2
-        },
-        "spd": {
-          "hp": 5,
-          "spd": 3
-        },
-        "def": {
-          "hp": 5,
-          "def": 4
-        },
-        "res": {
-          "hp": 5,
-          "res": 4
-        }
-      },
-      "last": true
-    },
-    "Up-Front Axe": {
-      "id": "Up-Front Axe",
-      "name": "堂堂正正之斧",
-      "mt": 10,
-      "sp": 200,
-      "prev": ["Steel Axe"]
-    },
-    "Up-Front Axe+": {
-      "id": "Up-Front Axe+",
-      "name": "堂堂正正之斧+",
-      "mt": 14,
-      "sp": 300,
-      "prev": ["Up-Front Axe"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -25844,6 +25971,34 @@
       },
       "last": true
     },
+    "Arcane Truthfire": {
+      "id": "Arcane Truthfire",
+      "name": "魔器・業火之理書",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Rexcalibur"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Wind": {
       "id": "Wind",
       "name": "烈風",
@@ -27067,6 +27222,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Robin - Exalt's Right Hand"],
+      "last": true
+    },
+    "Light of Etruria": {
+      "id": "Light of Etruria",
+      "name": "伊特魯里亞之光",
+      "mt": 14,
+      "res": 3,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Elffin - Truth Beholden"],
       "last": true
     },
     "Stone": {

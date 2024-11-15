@@ -203,6 +203,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Doubler Sword+": {
+        "pool": { "#": { "5": ["Ogier - Ostia's New Blade"] } },
+        "id": "Doubler Sword+",
+        "name": "強化增幅之劍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Reversal Blade+": {
         "pool": { "#": { "3": ["Kagetsu - Onigiri Samurai"] } },
         "id": "Reversal Blade+",
@@ -594,6 +601,20 @@
         "sp": 300,
         "refine": 350
       },
+      "Doubler Lance+": {
+        "pool": { "#": { "5": ["Bors - Ostia's Bastion"] } },
+        "id": "Doubler Lance+",
+        "name": "強化增幅之槍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Reversal Lance+": {
+        "pool": { "grail": { "5": ["Zeiss - Ebon Bolt"] } },
+        "id": "Reversal Lance+",
+        "name": "強化反轉之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Berkut's Lance+": {
         "pool": { "grail": { "5": ["Berkut - Prideful Prince"] } },
         "id": "Berkut's Lance+",
@@ -796,6 +817,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Giant Axe": {
+        "pool": { "rearmed": { "5": ["Þjazi - Ruthless Jötun"] } },
+        "id": "Arcane Giant Axe",
+        "name": "魔器・約頓之斧",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Axe+": {
         "pool": { "#": { "3": ["Gunter - Inveterate Soldier"] } },
         "id": "Silver Axe+",
@@ -954,6 +982,13 @@
         "pool": { "grail": { "5": ["Brigand Boss - Known Criminal"] } },
         "id": "Vulture Axe+",
         "name": "禿鷹之斧+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Up-Front Axe+": {
+        "pool": { "#": { "3": ["Caspar - Hotheaded Inciter"] } },
+        "id": "Up-Front Axe+",
+        "name": "堂堂正正之斧+",
         "sp": 300,
         "refine": 350
       },
@@ -1162,13 +1197,6 @@
         "pool": { "grail": { "5": ["Dedue - Loyal Life Guard"] } },
         "id": "Anchor Axe+",
         "name": "錨之斧+",
-        "sp": 300,
-        "refine": 350
-      },
-      "Up-Front Axe+": {
-        "pool": { "#": { "3": ["Caspar - Hotheaded Inciter"] } },
-        "id": "Up-Front Axe+",
-        "name": "堂堂正正之斧+",
         "sp": 300,
         "refine": 350
       }
@@ -2356,6 +2384,13 @@
         "pool": { "rearmed": { "5": ["Sonya - Beautiful Mage"] } },
         "id": "Arc. Caliburnus",
         "name": "魔器卡力布盧努斯",
+        "sp": 300,
+        "refine": 350
+      },
+      "Arcane Truthfire": {
+        "pool": { "rearmed": { "5": ["Lilina - Brilliant Flame"] } },
+        "id": "Arcane Truthfire",
+        "name": "魔器・業火之理書",
         "sp": 300,
         "refine": 350
       },
@@ -4044,6 +4079,7 @@
             "Zelgius - Jet-Black General",
             "Ced - Hero on the Wind",
             "Sirius - Mysterious Knight",
+            "Ogier - Ostia's New Blade",
             "Lucina - Future Witness",
             "Nyx - Rulebreaker Mage",
             "Mareeta - The Blade's Pawn",
@@ -4613,6 +4649,7 @@
             "Hans - Ambitious Brute",
             "Perne - Dacian Scoundrel",
             "Lumera - Dragon Monarch",
+            "Zeiss - Ebon Bolt",
             "Lloyd - Vengeful Wolf",
             "Fargus - Badon Buccaneer",
             "Vigarde - Silent Emperor"
@@ -4746,7 +4783,13 @@
         "ascended": {
           "5": ["Idunn - Divine Demon", "Amelia - Blossoming Talent"]
         },
-        "rearmed": { "5": ["Alfred - Floral Protector", "Líf - Arcane Blade"] },
+        "rearmed": {
+          "5": [
+            "Alfred - Floral Protector",
+            "Líf - Arcane Blade",
+            "Þjazi - Ruthless Jötun"
+          ]
+        },
         "legendary": {
           "5": [
             "Robin - Fell Vessel",
@@ -4816,6 +4859,7 @@
             "Eyvel - Mistress of Fiana",
             "Hector - Brave Warrior",
             "Tiki - Torpid Dragon",
+            "Bors - Ostia's Bastion",
             "Arlen - Mage of Khadein",
             "Robin - Exalt's Deliverer"
           ]
@@ -4879,6 +4923,7 @@
     },
     "Armored Blaze": {
       "pool": {
+        "rearmed": { "5": ["Þjazi - Ruthless Jötun"] },
         "special": {
           "5": [
             "Ephraim - Ardent Prince",
@@ -5123,6 +5168,7 @@
             "Metodey - Shrewd Braggart"
           ]
         },
+        "rearmed": { "5": ["Lilina - Brilliant Flame"] },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
         "special": {
           "5": ["Lilina - Blush of Youth", "Lilina - Beaming Bride"]
@@ -6419,6 +6465,7 @@
           "5": ["Sonya - Vengeful Mage"]
         },
         "grail": { "4": ["Oliver - Admirer of Beauty"] },
+        "rearmed": { "5": ["Lilina - Brilliant Flame"] },
         "legendary": { "5": ["Julia - Crusader of Light"] },
         "mythic": { "5": ["Seiros - Saint of Legend"] },
         "special": {
@@ -6644,6 +6691,14 @@
       "name": "鬼神飛燕掩擊",
       "sp": 300,
       "icon": "skillA/Sly_Swift_Sparrow",
+      "rules": "not.white-staff"
+    },
+    "Sly Mirror": {
+      "pool": { "rearmed": { "5": ["Lilina - Brilliant Flame"] } },
+      "id": "Sly Mirror",
+      "name": "鬼神明鏡掩擊",
+      "sp": 300,
+      "icon": "skillA/Sly_Mirror",
       "rules": "not.white-staff"
     },
     "Fierce Stance 3": {
@@ -7488,6 +7543,7 @@
           "4": ["Boyd - Future Great", "Panette - Classy Brawler"],
           "5": ["Lorenz - Highborn Heat", "Eliwood - Devoted Love"]
         },
+        "rearmed": { "5": ["Þjazi - Ruthless Jötun"] },
         "special": {
           "5": ["Geese - A Life at Sea", "Xander - Student Swimmer"]
         }
@@ -7562,6 +7618,7 @@
     },
     "Earthfire Boost 3": {
       "pool": {
+        "rearmed": { "5": ["Þjazi - Ruthless Jötun"] },
         "special": { "5": ["Ephraim - Ardent Prince", "Nah - Grateful One"] }
       },
       "id": "Earthfire Boost 3",
@@ -8651,7 +8708,7 @@
       "pool": {
         "#": {
           "3": ["Karin - Driven Knight"],
-          "5": ["Eyvel - Mistress of Fiana"]
+          "5": ["Eyvel - Mistress of Fiana", "Bors - Ostia's Bastion"]
         },
         "grail": {
           "4": [
@@ -9119,7 +9176,7 @@
       "pool": {
         "#": {
           "3": ["Dorothy - Devoted Archer"],
-          "5": ["Céline - Joyous Royal"]
+          "5": ["Ogier - Ostia's New Blade", "Céline - Joyous Royal"]
         }
       },
       "id": "Spd/Res Ideal 3",
@@ -9251,7 +9308,7 @@
           "3": ["Kyle - Zealous Knight"],
           "5": ["Mycen - Zofia's Champion", "Harken - Troubled Warrior"]
         },
-        "grail": { "5": ["Frederick - Youth in Service"] },
+        "grail": { "5": ["Frederick - Youth in Service", "Zeiss - Ebon Bolt"] },
         "rearmed": { "5": ["Líf - Arcane Blade"] },
         "emblem": { "5": ["Sigurd - Of the Holy War"] },
         "mythic": {
@@ -10060,6 +10117,7 @@
           "5": [
             "Robin - Fell Reincarnation",
             "Mamori - Microwavin' Idol",
+            "Bors - Ostia's Bastion",
             "Idunn - Dark Priestess",
             "Caineghis - Gallia's Lion King",
             "Gilliam - Wall of Silence"
@@ -10279,6 +10337,7 @@
         "grail": {
           "4": ["Clarisse - Sniper in the Dark", "Metodey - Shrewd Braggart"]
         },
+        "rearmed": { "5": ["Lilina - Brilliant Flame"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "5": ["Yunaka - Spirited Envoy"] },
         "duo": { "5": ["Lyon - Esteemed Royals"] },
@@ -10303,6 +10362,7 @@
     },
     "Occultist's Strike": {
       "pool": {
+        "rearmed": { "5": ["Lilina - Brilliant Flame"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "duo": { "5": ["Lyon - Esteemed Royals"] },
         "harmonized": { "5": ["Chloé - Spring Wings"] }
@@ -11520,7 +11580,9 @@
     "Atk Cantrip 3": {
       "pool": {
         "grail": { "4": ["Larum - Dancing Bride"] },
-        "special": { "5": ["Dorothea - Solar Songstress"] }
+        "special": {
+          "5": ["Dorothea - Solar Songstress", "Elffin - Truth Beholden"]
+        }
       },
       "id": "Atk Cantrip 3",
       "name": "攻擊魅惑3",
@@ -11567,6 +11629,14 @@
       "name": "攻擊防守魅惑3",
       "sp": 300,
       "icon": "skillB/A_D_Cantrip_3",
+      "rules": "not.white-staff"
+    },
+    "A/R Cantrip 3": {
+      "pool": { "special": { "5": ["Elffin - Truth Beholden"] } },
+      "id": "A/R Cantrip 3",
+      "name": "攻擊魔防魅惑3",
+      "sp": 300,
+      "icon": "skillB/A_R_Cantrip_3",
       "rules": "not.white-staff"
     },
     "Dull Close 3": {
@@ -12288,6 +12358,7 @@
       "pool": {
         "#": {
           "5": [
+            "Ogier - Ostia's New Blade",
             "Say'ri - Chon'sin's Blade",
             "Mareeta - Sword of Stars",
             "Alear - Dragon Child",
@@ -14735,7 +14806,11 @@
         },
         "grail": { "5": ["Arete - Requiem's Beauty"] },
         "rearmed": {
-          "5": ["Plumeria - Rapturous Dream", "Sonya - Beautiful Mage"]
+          "5": [
+            "Plumeria - Rapturous Dream",
+            "Sonya - Beautiful Mage",
+            "Lilina - Brilliant Flame"
+          ]
         },
         "legendary": {
           "5": ["Gunnthrá - Voice of Dreams", "Corrin - Child of Dawn"]
@@ -14756,7 +14831,9 @@
     },
     "Atk/Res Ploy 3": {
       "pool": {
-        "rearmed": { "5": ["Sonya - Beautiful Mage"] },
+        "rearmed": {
+          "5": ["Sonya - Beautiful Mage", "Lilina - Brilliant Flame"]
+        },
         "legendary": { "5": ["Corrin - Child of Dawn"] }
       },
       "id": "Atk/Res Ploy 3",
@@ -15251,7 +15328,11 @@
         "ascended": { "5": ["Celica - Valentia's Hope"] },
         "emblem": { "5": ["Celica - Of Echoes", "Marth - Of Beginnings"] },
         "special": {
-          "5": ["Seadall - Misfortune-Teller", "Kvasir - Unknown Future"]
+          "5": [
+            "Seadall - Misfortune-Teller",
+            "Elffin - Truth Beholden",
+            "Kvasir - Unknown Future"
+          ]
         },
         "duo": { "5": ["Robin - Vessels of Fate"] }
       },
@@ -15264,7 +15345,9 @@
     "Inf. Null Follow 4": {
       "pool": {
         "emblem": { "5": ["Celica - Of Echoes", "Marth - Of Beginnings"] },
-        "special": { "5": ["Kvasir - Unknown Future"] },
+        "special": {
+          "5": ["Elffin - Truth Beholden", "Kvasir - Unknown Future"]
+        },
         "duo": { "5": ["Robin - Vessels of Fate"] }
       },
       "id": "Inf. Null Follow 4",
@@ -15336,6 +15419,7 @@
     "A/D Near Save 2": {
       "pool": {
         "#": { "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"] },
+        "rearmed": { "5": ["Þjazi - Ruthless Jötun"] },
         "special": {
           "5": ["Lucina - Future Fondness", "Ephraim - Ardent Prince"]
         }
@@ -15349,6 +15433,7 @@
     "A/D Near Save 3": {
       "pool": {
         "#": { "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"] },
+        "rearmed": { "5": ["Þjazi - Ruthless Jötun"] },
         "special": {
           "5": ["Lucina - Future Fondness", "Ephraim - Ardent Prince"]
         }
@@ -15397,6 +15482,14 @@
       "name": "盾之守護人・近處3",
       "sp": 300,
       "icon": "skillC/D_R_Near_Save_3",
+      "rules": "armored"
+    },
+    "A/D Twin N Save": {
+      "pool": { "rearmed": { "5": ["Þjazi - Ruthless Jötun"] } },
+      "id": "A/D Twin N Save",
+      "name": "鎧之守護人・近・雙",
+      "sp": 300,
+      "icon": "skillC/A_D_Twin_N_Save",
       "rules": "armored"
     },
     "D/R Twin N Save": {
@@ -15573,6 +15666,7 @@
     },
     "Air Orders 3": {
       "pool": {
+        "grail": { "4": ["Zeiss - Ebon Bolt"] },
         "special": {
           "5": [
             "Lachesis - Ballroom Bloom",

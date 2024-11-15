@@ -694,6 +694,14 @@
     "last": true,
     "icon": "skillB/Veðrfölnir's_Wing"
   },
+  "Brutal Ferocity": {
+    "id": "Brutal Ferocity",
+    "name": "凶暴殘忍",
+    "sp": 300,
+    "exclusive": ["Þjazi - Ruthless Jötun"],
+    "last": true,
+    "icon": "skillB/Brutal_Ferocity"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -2970,6 +2978,15 @@
     "rules": "not.white-staff",
     "last": true,
     "icon": "skillB/A_D_Cantrip_3"
+  },
+  "A/R Cantrip 3": {
+    "id": "A/R Cantrip 3",
+    "name": "攻擊魔防魅惑3",
+    "sp": 300,
+    "prev": ["Atk Cantrip 3", "Res Cantrip 3"],
+    "rules": "not.white-staff",
+    "last": true,
+    "icon": "skillB/A_R_Cantrip_3"
   },
   "Dull Close 1": {
     "id": "Dull Close 1",

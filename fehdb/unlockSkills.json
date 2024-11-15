@@ -2465,6 +2465,34 @@
       "Rouse Atk/Def 4": 5
     }
   },
+  "Þjazi - Ruthless Jötun": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Arcane Giant Axe": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Bonfire": 4,
+      "Armored Blaze": 5
+    },
+    "skillA": {
+      "Fire Boost 1": 2,
+      "Fire Boost 2": 3,
+      "Fire Boost 3": 4,
+      "Earthfire Boost 3": 5
+    },
+    "skillB": {
+      "Brutal Ferocity": 5
+    },
+    "skillC": {
+      "A/D Near Save 1": 2,
+      "A/D Near Save 2": 3,
+      "A/D Near Save 3": 4,
+      "A/D Twin N Save": 5
+    }
+  },
   "Dagr - Sun's Radiance": {
     "weapon": {
       "Iron Axe": 1,
@@ -9789,6 +9817,59 @@
       "Joint Dist. Guard": 5
     }
   },
+  "Lilina - Brilliant Flame": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 3,
+      "Arcane Truthfire": 5
+    },
+    "special": {
+      "Rising Flame": 3,
+      "Blazing Flame": 4,
+      "Gift for Magic": 5
+    },
+    "skillA": {
+      "Warding Blow 1": 2,
+      "Mirror Strike 1": 3,
+      "Mirror Strike 2": 4,
+      "Sly Mirror": 5
+    },
+    "skillB": {
+      "Poison Strike 1": 2,
+      "Poison Strike 2": 3,
+      "Poison Strike 3": 4,
+      "Occultist's Strike": 5
+    },
+    "skillC": {
+      "Res Ploy 1": 2,
+      "Res Ploy 2": 3,
+      "Res Ploy 3": 4,
+      "Atk/Res Ploy 3": 5
+    }
+  },
+  "Bors - Ostia's Bastion": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Doubler Lance": 3,
+      "Doubler Lance+": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Def Form 1": 1,
+      "Atk/Def Form 2": 2,
+      "Atk/Def Form 3": 4
+    },
+    "skillB": {
+      "Vengeful Fighter 1": 3,
+      "Vengeful Fighter 2": 4,
+      "Vengeful Fighter 3": 5
+    }
+  },
   "Gwendolyn - Adorable Knight": {
     "weapon": {
       "Iron Lance": 1,
@@ -9808,6 +9889,28 @@
       "Hone Atk 1": 1,
       "Hone Atk 2": 2,
       "Hone Armor": 4
+    }
+  },
+  "Ogier - Ostia's New Blade": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Doubler Sword": 3,
+      "Doubler Sword+": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Spd/Res Ideal 1": 1,
+      "Spd/Res Ideal 2": 2,
+      "Spd/Res Ideal 3": 4
+    },
+    "skillB": {
+      "Close Call 1": 3,
+      "Close Call 2": 4,
+      "Close Call 3": 5
     }
   },
   "Lugh - Anima Child": {
@@ -10206,6 +10309,28 @@
       "Wyvern Flight 1": 1,
       "Wyvern Flight 2": 2,
       "Wyvern Flight 3": 4
+    }
+  },
+  "Zeiss - Ebon Bolt": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Reversal Lance": 3,
+      "Reversal Lance+": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Atk/Def Clash 1": 3,
+      "Atk/Def Clash 2": 4,
+      "Atk/Def Clash 3": 5
+    },
+    "skillC": {
+      "Air Orders 1": 1,
+      "Air Orders 2": 2,
+      "Air Orders 3": 4
     }
   },
   "Galle - Azure Rider": {
@@ -10736,6 +10861,29 @@
       "Spur Atk 1": 1,
       "Drive Atk 1": 2,
       "Drive Atk 2": 4
+    }
+  },
+  "Elffin - Truth Beholden": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 3,
+      "Light of Etruria": 5
+    },
+    "assist": {
+      "Play": 3
+    },
+    "skillB": {
+      "Atk Cantrip 1": 2,
+      "Atk Cantrip 2": 3,
+      "Atk Cantrip 3": 4,
+      "A/R Cantrip 3": 5
+    },
+    "skillC": {
+      "Inf. Null Follow 1": 2,
+      "Inf. Null Follow 2": 3,
+      "Inf. Null Follow 3": 4,
+      "Inf. Null Follow 4": 5
     }
   },
   "Larum - Sprightly Dancer": {

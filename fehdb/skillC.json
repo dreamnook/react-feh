@@ -2630,6 +2630,15 @@
     "icon": "skillC/D_R_Near_Save_3",
     "last": true
   },
+  "A/D Twin N Save": {
+    "id": "A/D Twin N Save",
+    "name": "鎧之守護人・近・雙",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/D Near Save 3"],
+    "last": true,
+    "icon": "skillC/A_D_Twin_N_Save"
+  },
   "D/R Twin N Save": {
     "id": "D/R Twin N Save",
     "name": "盾之守護人・近・雙",

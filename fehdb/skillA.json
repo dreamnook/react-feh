@@ -1223,6 +1223,15 @@
     "last": true,
     "icon": "skillA/Sly_Swift_Sparrow"
   },
+  "Sly Mirror": {
+    "id": "Sly Mirror",
+    "name": "鬼神明鏡掩擊",
+    "sp": 300,
+    "rules": "not.white-staff",
+    "prev": ["Mirror Strike 2"],
+    "last": true,
+    "icon": "skillA/Sly_Mirror"
+  },
   "Fierce Stance 1": {
     "id": "Fierce Stance 1",
     "name": "鬼神架勢1",
