@@ -1226,17 +1226,6 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Seal Res 3": { "sp": 160, "rarity": 5 } }
   },
-  "Dorothea - Daring Ex-Singer": {
-    "score": 185,
-    "scoreTotal": 257,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 300,
-    "bst": 178,
-    "skillB": { "Spd Cantrip 3": { "sp": 240, "rarity": 4 } },
-    "skillC": { "Inf. Null Follow 3": { "sp": 240, "rarity": 5 } }
-  },
   "Bruno - Masked Hare": {
     "score": 80,
     "scoreTotal": 260,
@@ -1690,6 +1679,17 @@
     "bst": 177,
     "skillA": { "Atk/Res Bond 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Spd/Res Link 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Dorothea - Daring Ex-Singer": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 480,
+    "feather": 150,
+    "bst": 178,
+    "skillB": { "Spd Cantrip 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Inf. Null Follow 3": { "sp": 240, "rarity": 5 } }
   },
   "Kyle - Zealous Knight": {
     "score": 199,

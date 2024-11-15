@@ -2204,7 +2204,7 @@
         "refine": 350
       },
       "Blárvulture+": {
-        "pool": { "#": { "4": ["Dorothea - Daring Ex-Singer"] } },
+        "pool": { "#": { "3": ["Dorothea - Daring Ex-Singer"] } },
         "id": "Blárvulture+",
         "name": "蒼藍禿鷹+",
         "sp": 300,
@@ -11530,7 +11530,7 @@
     },
     "Spd Cantrip 3": {
       "pool": {
-        "#": { "4": ["Dorothea - Daring Ex-Singer"] },
+        "#": { "3": ["Dorothea - Daring Ex-Singer"] },
         "special": { "5": ["Mirabilis - Sugarplum Vision"] }
       },
       "id": "Spd Cantrip 3",
@@ -15245,7 +15245,7 @@
     "Inf. Null Follow 3": {
       "pool": {
         "#": {
-          "4": ["Dorothea - Daring Ex-Singer"],
+          "3": ["Dorothea - Daring Ex-Singer"],
           "5": ["Gregor - Swell Sword"]
         },
         "ascended": { "5": ["Celica - Valentia's Hope"] },

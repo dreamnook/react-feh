@@ -45288,13 +45288,20 @@
     "id": "Dorothea - Daring Ex-Singer",
     "title": "堅韌不拔的前歌姬",
     "name": "多洛緹雅",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "moveType": "infantry",
     "weaponType": "blue-tome",
     "releaseDate": "2024-10-15",
     "appearsIn": ["Three Houses"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [32, 35, 38],
+        "spd": [29, 32, 35],
+        "def": [11, 14, 17],
+        "res": [37, 40, 43]
+      },
       "4": {
         "hp": [34, 37, 40],
         "atk": [34, 38, 41],
@@ -45308,6 +45315,13 @@
         "spd": [33, 36, 39],
         "def": [13, 17, 20],
         "res": [42, 45, 49]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 6,
+        "spd": 9,
+        "def": 3,
+        "res": 5
       },
       "4-1": {
         "hp": 17,
