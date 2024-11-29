@@ -204,7 +204,7 @@
         "refine": 350
       },
       "Doubler Sword+": {
-        "pool": { "#": { "5": ["Ogier - Ostia's New Blade"] } },
+        "pool": { "#": { "4": ["Ogier - Ostia's New Blade"] } },
         "id": "Doubler Sword+",
         "name": "強化增幅之劍+",
         "sp": 300,
@@ -602,7 +602,7 @@
         "refine": 350
       },
       "Doubler Lance+": {
-        "pool": { "#": { "5": ["Bors - Ostia's Bastion"] } },
+        "pool": { "#": { "3": ["Bors - Ostia's Bastion"] } },
         "id": "Doubler Lance+",
         "name": "強化增幅之槍+",
         "sp": 300,
@@ -4072,6 +4072,7 @@
             "Vanessa - Dutiful Rider",
             "Lapis - Mighty Flower"
           ],
+          "4": ["Ogier - Ostia's New Blade"],
           "5": [
             "Celica - Imprisoned Soul",
             "Mia - Lady of Blades",
@@ -4079,7 +4080,6 @@
             "Zelgius - Jet-Black General",
             "Ced - Hero on the Wind",
             "Sirius - Mysterious Knight",
-            "Ogier - Ostia's New Blade",
             "Lucina - Future Witness",
             "Nyx - Rulebreaker Mage",
             "Mareeta - The Blade's Pawn",
@@ -4698,7 +4698,10 @@
       "rules": "beast"
     },
     "Sturdy Beast": {
-      "pool": { "special": { "5": ["Askr - Open Harvest"] } },
+      "pool": {
+        "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
+        "special": { "5": ["Askr - Open Harvest"] }
+      },
       "id": "Sturdy Beast",
       "name": "堅固之獸",
       "sp": 500,
@@ -4852,14 +4855,14 @@
             "Henry - Twisted Mind",
             "Boey - Skillful Survivor",
             "Thea - Stormy Flier",
-            "Balthus - King of Grappling"
+            "Balthus - King of Grappling",
+            "Bors - Ostia's Bastion"
           ],
           "5": [
             "Robin - Fell Reincarnation",
             "Eyvel - Mistress of Fiana",
             "Hector - Brave Warrior",
             "Tiki - Torpid Dragon",
-            "Bors - Ostia's Bastion",
             "Arlen - Mage of Khadein",
             "Robin - Exalt's Deliverer"
           ]
@@ -4893,7 +4896,13 @@
         "legendary": {
           "5": ["Robin - Exalt's Other Half", "Seliph - Scion of Light"]
         },
-        "mythic": { "5": ["Freyr - Dream-King", "Reginn - Bearing Hope"] },
+        "mythic": {
+          "5": [
+            "Freyr - Dream-King",
+            "Reginn - Bearing Hope",
+            "Níðhöggr - Quieting Dose"
+          ]
+        },
         "special": {
           "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
@@ -5008,7 +5017,8 @@
             "Eir - Merciful Death",
             "Seiðr - Goddess of Hope",
             "Gotoh - White Sage",
-            "Veyle - Gentle Dragon"
+            "Veyle - Gentle Dragon",
+            "Læraðr - Quieting Heart"
           ]
         },
         "special": {
@@ -5136,6 +5146,7 @@
     "Armored Floe": {
       "pool": {
         "#": { "5": ["Corrin - Silent Bloodline"] },
+        "mythic": { "5": ["Læraðr - Quieting Heart"] },
         "harmonized": { "5": ["Tiki - Bridal Reflections"] }
       },
       "id": "Armored Floe",
@@ -8707,8 +8718,8 @@
     "Atk/Def Form 3": {
       "pool": {
         "#": {
-          "3": ["Karin - Driven Knight"],
-          "5": ["Eyvel - Mistress of Fiana", "Bors - Ostia's Bastion"]
+          "3": ["Karin - Driven Knight", "Bors - Ostia's Bastion"],
+          "5": ["Eyvel - Mistress of Fiana"]
         },
         "grail": {
           "4": [
@@ -8732,6 +8743,7 @@
         "grail": {
           "4": ["Sophia - Cobweb Prophet", "Soren - Wind of Tradition"]
         },
+        "mythic": { "5": ["Læraðr - Quieting Heart"] },
         "special": { "5": ["Xane - Autumn Trickster"] }
       },
       "id": "Atk/Res Form 3",
@@ -8778,6 +8790,14 @@
       "name": "攻擊速度的共榮",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Fortune",
+      "rules": "beast"
+    },
+    "Atk/Res Fortune": {
+      "pool": { "mythic": { "5": ["Læraðr - Quieting Heart"] } },
+      "id": "Atk/Res Fortune",
+      "name": "攻擊魔防的共榮",
+      "sp": 300,
+      "icon": "skillA/Atk_Res_Fortune",
       "rules": "beast"
     },
     "Blade Session 3": {
@@ -9176,7 +9196,8 @@
       "pool": {
         "#": {
           "3": ["Dorothy - Devoted Archer"],
-          "5": ["Ogier - Ostia's New Blade", "Céline - Joyous Royal"]
+          "4": ["Ogier - Ostia's New Blade"],
+          "5": ["Céline - Joyous Royal"]
         }
       },
       "id": "Spd/Res Ideal 3",
@@ -10114,10 +10135,10 @@
     "Vengeful Fighter 3": {
       "pool": {
         "#": {
+          "3": ["Bors - Ostia's Bastion"],
           "5": [
             "Robin - Fell Reincarnation",
             "Mamori - Microwavin' Idol",
-            "Bors - Ostia's Bastion",
             "Idunn - Dark Priestess",
             "Caineghis - Gallia's Lion King",
             "Gilliam - Wall of Silence"
@@ -10252,6 +10273,7 @@
     "Slick Fighter 3": {
       "pool": {
         "legendary": { "5": ["Tiki - Legendary Dragon"] },
+        "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
         "special": {
           "5": [
             "Dheginsea - Harvest Goldoan",
@@ -10264,6 +10286,14 @@
       "name": "正面隊形・自己3",
       "sp": 240,
       "icon": "skillB/Slick_Fighter_3",
+      "rules": "armored"
+    },
+    "Slick Fighter 4": {
+      "pool": { "mythic": { "5": ["Níðhöggr - Quieting Dose"] } },
+      "id": "Slick Fighter 4",
+      "name": "正面隊形・自己4",
+      "sp": 300,
+      "icon": "skillB/Slick_Fighter_4",
       "rules": "armored"
     },
     "Wily Fighter 3": {
@@ -12357,8 +12387,8 @@
     "Close Call 3": {
       "pool": {
         "#": {
+          "4": ["Ogier - Ostia's New Blade"],
           "5": [
-            "Ogier - Ostia's New Blade",
             "Say'ri - Chon'sin's Blade",
             "Mareeta - Sword of Stars",
             "Alear - Dragon Child",
@@ -13697,7 +13727,7 @@
         "legendary": {
           "5": ["Micaiah - Radiant Queen", "Lucina - Glorious Archer"]
         },
-        "mythic": { "5": ["Gotoh - White Sage"] },
+        "mythic": { "5": ["Gotoh - White Sage", "Læraðr - Quieting Heart"] },
         "special": {
           "5": [
             "Berkut - Debonair Noble",
@@ -15528,7 +15558,9 @@
     },
     "A/D Far Save 2": {
       "pool": {
-        "mythic": { "5": ["Fomortiis - Demon King"] },
+        "mythic": {
+          "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
+        },
         "special": { "5": ["Robin - Tactful Deliverer"] }
       },
       "id": "A/D Far Save 2",
@@ -15539,7 +15571,9 @@
     },
     "A/D Far Save 3": {
       "pool": {
-        "mythic": { "5": ["Fomortiis - Demon King"] },
+        "mythic": {
+          "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
+        },
         "special": { "5": ["Robin - Tactful Deliverer"] }
       },
       "id": "A/D Far Save 3",
@@ -15608,6 +15642,14 @@
       "name": "盾之守護人・遠處3",
       "sp": 300,
       "icon": "skillC/D_R_Far_Save_3",
+      "rules": "armored"
+    },
+    "A/D Twin F Save": {
+      "pool": { "mythic": { "5": ["Níðhöggr - Quieting Dose"] } },
+      "id": "A/D Twin F Save",
+      "name": "鎧之守護人・遠・雙",
+      "sp": 300,
+      "icon": "skillC/A_D_Twin_F_Save",
       "rules": "armored"
     },
     "A/R Twin F Save": {
@@ -16796,6 +16838,14 @@
       "sp": 120,
       "icon": "skillC/Beast_Valor_3",
       "rules": "beast"
+    },
+    "Barricade": {
+      "pool": { "mythic": { "5": ["Læraðr - Quieting Heart"] } },
+      "id": "Barricade",
+      "name": "地盤・守護",
+      "sp": 300,
+      "icon": "skillC/Barricade",
+      "rules": "learner.dragon-beast"
     }
   },
   "skillX": {

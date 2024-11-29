@@ -20206,6 +20206,26 @@
       "exclusive": ["Hræsvelgr - Quieting Blade"],
       "last": true
     },
+    "Enticing Dose": {
+      "id": "Enticing Dose",
+      "name": "毒藥的葬送者之妖牙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Armored)"],
+      "exclusive": ["Níðhöggr - Quieting Dose"],
+      "last": true
+    },
+    "Quieting Branch": {
+      "id": "Quieting Branch",
+      "name": "心靈的葬送者之樹枝",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Armored)"],
+      "exclusive": ["Læraðr - Quieting Heart"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",

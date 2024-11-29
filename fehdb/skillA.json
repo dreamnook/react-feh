@@ -260,6 +260,14 @@
     "last": true,
     "icon": "skillA/Obsidian_Tactics"
   },
+  "Divine Toxin": {
+    "id": "Divine Toxin",
+    "name": "神獸的劇毒",
+    "sp": 300,
+    "exclusive": ["Níðhöggr - Quieting Dose"],
+    "last": true,
+    "icon": "skillA/Divine_Toxin"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -3691,6 +3699,15 @@
     "rules": "beast",
     "last": true,
     "icon": "skillA/Atk_Spd_Fortune"
+  },
+  "Atk/Res Fortune": {
+    "id": "Atk/Res Fortune",
+    "name": "攻擊魔防的共榮",
+    "sp": 300,
+    "prev": ["Atk/Res Form 3"],
+    "rules": "beast",
+    "last": true,
+    "icon": "skillA/Atk_Res_Fortune"
   },
   "Blade Session 1": {
     "id": "Blade Session 1",

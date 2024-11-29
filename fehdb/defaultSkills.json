@@ -3267,6 +3267,34 @@
       "Divine Talon": 5
     }
   },
+  "Níðhöggr - Quieting Dose": {
+    "weapon": {
+      "Whelp (Armored)": 1,
+      "Yearling (Arm.)": 2,
+      "Adult (Armored)": 4,
+      "Enticing Dose": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Sturdy Beast": 5
+    },
+    "skillA": {
+      "Divine Toxin": 5
+    },
+    "skillB": {
+      "Slick Fighter 1": 2,
+      "Slick Fighter 2": 3,
+      "Slick Fighter 3": 4,
+      "Slick Fighter 4": 5
+    },
+    "skillC": {
+      "A/D Far Save 1": 2,
+      "A/D Far Save 2": 3,
+      "A/D Far Save 3": 4,
+      "A/D Twin F Save": 5
+    }
+  },
   "Heiðrún - Healing Nectar": {
     "weapon": {
       "Whelp (Infantry)": 1,
@@ -3320,6 +3348,34 @@
       "Threaten Def 2": 3,
       "Threaten Def 3": 4,
       "Beast Threaten": 5
+    }
+  },
+  "Læraðr - Quieting Heart": {
+    "weapon": {
+      "Whelp (Armored)": 1,
+      "Yearling (Arm.)": 2,
+      "Adult (Armored)": 4,
+      "Quieting Branch": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4,
+      "Armored Floe": 5
+    },
+    "skillA": {
+      "Atk/Res Form 1": 2,
+      "Atk/Res Form 2": 3,
+      "Atk/Res Form 3": 4,
+      "Atk/Res Fortune": 5
+    },
+    "skillB": {
+      "Yggdrasill's Alter": 5
+    },
+    "skillC": {
+      "Distant Guard 1": 2,
+      "Distant Guard 2": 3,
+      "Distant Guard 3": 4,
+      "Barricade": 5
     }
   },
   "Marth - Altean Prince": {

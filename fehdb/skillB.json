@@ -702,6 +702,14 @@
     "last": true,
     "icon": "skillB/Brutal_Ferocity"
   },
+  "Yggdrasill's Alter": {
+    "id": "Yggdrasill's Alter",
+    "name": "世界樹的化身",
+    "sp": 300,
+    "exclusive": ["Læraðr - Quieting Heart"],
+    "last": true,
+    "icon": "skillB/Yggdrasill's_Alter"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -1192,6 +1200,15 @@
     "prev": ["Slick Fighter 2"],
     "rules": "armored",
     "icon": "skillB/Slick_Fighter_3",
+    "last": true
+  },
+  "Slick Fighter 4": {
+    "id": "Slick Fighter 4",
+    "name": "正面隊形・自己4",
+    "sp": 300,
+    "prev": ["Slick Fighter 3"],
+    "rules": "armored",
+    "icon": "skillB/Slick_Fighter_4",
     "last": true
   },
   "Wily Fighter 1": {

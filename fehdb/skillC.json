@@ -2744,6 +2744,15 @@
     "icon": "skillC/D_R_Far_Save_3",
     "last": true
   },
+  "A/D Twin F Save": {
+    "id": "A/D Twin F Save",
+    "name": "鎧之守護人・遠・雙",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/D Far Save 3"],
+    "last": true,
+    "icon": "skillC/A_D_Twin_F_Save"
+  },
   "A/R Twin F Save": {
     "id": "A/R Twin F Save",
     "name": "冑之守護人・遠・雙",
@@ -4529,5 +4538,14 @@
     "rules": "beast",
     "icon": "skillC/Beast_Valor_3",
     "last": true
+  },
+  "Barricade": {
+    "id": "Barricade",
+    "name": "地盤・守護",
+    "sp": 300,
+    "prev": ["Close Guard 3", "Distant Guard 3"],
+    "rules": "learner.dragon-beast",
+    "last": true,
+    "icon": "skillC/Barricade"
   }
 }

@@ -2633,6 +2633,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ogier - Ostia's New Blade": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 197,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Close Call 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -4002,6 +4014,18 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wrath 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Bors - Ostia's Bastion": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 205,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Olivia - Festival Dancer": {
     "score": 254,
@@ -6283,30 +6307,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Ogier - Ostia's New Blade": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 197,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Close Call 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Bors - Ostia's Bastion": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 205,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -12553,6 +12553,32 @@
     "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
     "skillB": { "Spd/Res Bulwark 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
+  },
+  "Níðhöggr - Quieting Dose": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Sturdy Beast": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Slick Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Twin F Save": { "sp": 300, "rarity": 5 } }
+  },
+  "Læraðr - Quieting Heart": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Armored Floe": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Fortune": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Barricade": { "sp": 300, "rarity": 5 } }
   },
   "Bernadetta - Frosty Shut-In": {
     "score": 318,

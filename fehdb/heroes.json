@@ -4440,6 +4440,43 @@
     "ver": "8.10",
     "dfKey": 7
   },
+  "Níðhöggr - Quieting Dose": {
+    "id": "Níðhöggr - Quieting Dose",
+    "title": "毒藥的葬送者",
+    "name": "尼德霍格",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "armored",
+    "weaponType": "red-beast",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "astra-res-2",
+    "releaseDate": "2024-11-29",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [47, 50, 53],
+        "atk": [45, 49, 52],
+        "spd": [13, 17, 20],
+        "def": [45, 48, 52],
+        "res": [39, 43, 46]
+      },
+      "5-1": {
+        "hp": 22,
+        "atk": 16,
+        "spd": 4,
+        "def": 9,
+        "res": 10
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["atk", "spd", "res"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 8,
+    "ver": "8.11",
+    "dfKey": 7
+  },
   "Heiðrún - Healing Nectar": {
     "id": "Heiðrún - Healing Nectar",
     "title": "蜜露的治癒者",
@@ -4513,6 +4550,43 @@
     "book": 8,
     "ver": "8.7",
     "dfKey": 6
+  },
+  "Læraðr - Quieting Heart": {
+    "id": "Læraðr - Quieting Heart",
+    "title": "心靈的葬送者",
+    "name": "雷拉茲",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "armored",
+    "weaponType": "white-beast",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "dark-def-2",
+    "releaseDate": "2024-11-29",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [47, 50, 53],
+        "atk": [45, 48, 51],
+        "spd": [13, 17, 20],
+        "def": [40, 44, 47],
+        "res": [45, 48, 52]
+      },
+      "5-1": {
+        "hp": 24,
+        "atk": 13,
+        "spd": 4,
+        "def": 11,
+        "res": 9
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["spd", "def"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 8,
+    "ver": "8.11",
+    "dfKey": 7
   },
   "Marth - Altean Prince": {
     "id": "Marth - Altean Prince",
@@ -16651,19 +16725,47 @@
     "id": "Bors - Ostia's Bastion",
     "title": "奧斯提亞之壁",
     "name": "波爾斯",
-    "rarity": [5],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "moveType": "armored",
     "weaponType": "blue-lance",
     "releaseDate": "2024-11-15",
     "appearsIn": ["The Binding Blade"],
     "stats": {
+      "3": {
+        "hp": [44, 47, 50],
+        "atk": [40, 43, 46],
+        "spd": [27, 30, 33],
+        "def": [40, 43, 46],
+        "res": [19, 22, 25]
+      },
+      "4": {
+        "hp": [45, 48, 52],
+        "atk": [42, 45, 49],
+        "spd": [28, 31, 34],
+        "def": [43, 46, 49],
+        "res": [20, 23, 26]
+      },
       "5": {
         "hp": [48, 51, 55],
         "atk": [44, 47, 51],
         "spd": [31, 34, 37],
         "def": [45, 48, 52],
         "res": [22, 25, 29]
+      },
+      "3-1": {
+        "hp": 20,
+        "atk": 16,
+        "spd": 7,
+        "def": 8,
+        "res": 5
+      },
+      "4-1": {
+        "hp": 20,
+        "atk": 17,
+        "spd": 7,
+        "def": 9,
+        "res": 5
       },
       "5-1": {
         "hp": 21,
@@ -16747,19 +16849,33 @@
     "id": "Ogier - Ostia's New Blade",
     "title": "奧斯提亞的新人",
     "name": "奧杰",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-sword",
     "releaseDate": "2024-11-15",
     "appearsIn": ["The Binding Blade"],
     "stats": {
+      "4": {
+        "hp": [40, 43, 46],
+        "atk": [39, 42, 46],
+        "spd": [42, 45, 48],
+        "def": [30, 33, 36],
+        "res": [19, 22, 25]
+      },
       "5": {
         "hp": [43, 46, 49],
         "atk": [41, 44, 48],
         "spd": [44, 47, 50],
         "def": [33, 36, 39],
         "res": [21, 24, 28]
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 14,
+        "spd": 10,
+        "def": 7,
+        "res": 4
       },
       "5-1": {
         "hp": 20,
