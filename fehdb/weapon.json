@@ -2601,6 +2601,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Catherine - Thunder Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Thunderbrand_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Dark Creator Sword": {
@@ -6655,6 +6678,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Duessel - Obsidian"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Obsidian_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Silesse Frost": {
@@ -17725,6 +17771,37 @@
       "exclusive": ["Shez - Dual Sword Master"],
       "last": true
     },
+    "Convoy Dagger": {
+      "id": "Convoy Dagger",
+      "name": "運輸隊暗器",
+      "mt": 14,
+      "hp": 5,
+      "sp": 400,
+      "exclusive": ["Merlinus - Pherae's Clerk"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Convoy_Dagger_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Arcane Void": {
       "id": "Arcane Void",
       "name": "魔器金倫加",
@@ -21326,6 +21403,28 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Solon - Church Shadow"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Banshee_Θ_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Gullinkambi Egg": {
@@ -29299,6 +29398,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Robin - Fall Vessel"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Moonless_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Eternal Breath": {

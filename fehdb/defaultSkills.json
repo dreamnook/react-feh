@@ -9723,7 +9723,8 @@
       "Iron Dagger": 1,
       "Steel Dagger": 2,
       "Smoke Dagger": 4,
-      "Smoke Dagger+": 5
+      "Smoke Dagger+": 5,
+      "Convoy Dagger": 5
     },
     "assist": {
       "Reposition": 4
