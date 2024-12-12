@@ -204,7 +204,7 @@
         "refine": 350
       },
       "Doubler Sword+": {
-        "pool": { "#": { "4": ["Ogier - Ostia's New Blade"] } },
+        "pool": { "#": { "3": ["Ogier - Ostia's New Blade"] } },
         "id": "Doubler Sword+",
         "name": "強化增幅之劍+",
         "sp": 300,
@@ -615,6 +615,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Campaign Lance+": {
+        "pool": { "#": { "5": ["Oswin - Impregnable Knight"] } },
+        "id": "Campaign Lance+",
+        "name": "繼戰之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Berkut's Lance+": {
         "pool": { "grail": { "5": ["Berkut - Prideful Prince"] } },
         "id": "Berkut's Lance+",
@@ -996,6 +1003,13 @@
         "pool": { "grail": { "5": ["Ludveck - Rebellious Duke"] } },
         "id": "Defier's Axe+",
         "name": "防守逆用之斧+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Pursual Axe+": {
+        "pool": { "#": { "4": ["Uther - Frugal Militarist"] } },
+        "id": "Pursual Axe+",
+        "name": "追擊之斧+",
         "sp": 300,
         "refine": 350
       },
@@ -1931,6 +1945,13 @@
         "pool": { "grail": { "5": ["Noire - Demurely Deft"] } },
         "id": "Giant Shuriken+",
         "name": "大手裏劍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Arcane Sly Knife": {
+        "pool": { "rearmed": { "5": ["Leila - Superb Shadow"] } },
+        "id": "Arcane Sly Knife",
+        "name": "魔器・無形影刃",
         "sp": 300,
         "refine": 350
       }
@@ -3846,7 +3867,9 @@
             "Robin - Exalt's Right Hand"
           ]
         },
-        "mythic": { "5": ["Sothis - Girl on the Throne"] },
+        "mythic": {
+          "5": ["Sothis - Girl on the Throne", "Rune - Source of Wisdom"]
+        },
         "special": {
           "5": [
             "Robin - Fall Vessel",
@@ -3870,6 +3893,7 @@
         "#": {
           "5": ["Soren - Radiant Confidant", "Robin - Exalt's Right Hand"]
         },
+        "mythic": { "5": ["Rune - Source of Wisdom"] },
         "duo": { "5": ["Robin - Vessels of Fate"] }
       },
       "id": "Flare",
@@ -4070,9 +4094,9 @@
             "Kamui - Wandering Blade",
             "Kiragi - Upbeat Archer",
             "Vanessa - Dutiful Rider",
-            "Lapis - Mighty Flower"
+            "Lapis - Mighty Flower",
+            "Ogier - Ostia's New Blade"
           ],
-          "4": ["Ogier - Ostia's New Blade"],
           "5": [
             "Celica - Imprisoned Soul",
             "Mia - Lady of Blades",
@@ -4127,7 +4151,8 @@
             "Eitr - Hand of Nothing",
             "Ingrid - Beacon of Honor",
             "Ophelia - Starlit Maiden",
-            "Ginnungagap - Ruler of Nihility"
+            "Ginnungagap - Ruler of Nihility",
+            "Leila - Superb Shadow"
           ]
         },
         "attuned": { "5": ["Ivy - Snow Queen", "Caeda - Marth's Faithful"] },
@@ -4197,7 +4222,9 @@
     "Lethality": {
       "pool": {
         "#": { "5": ["Volke - Man of Mysteries"] },
-        "rearmed": { "5": ["Ginnungagap - Ruler of Nihility"] },
+        "rearmed": {
+          "5": ["Ginnungagap - Ruler of Nihility", "Leila - Superb Shadow"]
+        },
         "special": { "5": ["Claude - Golden Breeze"] },
         "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] }
       },
@@ -4652,6 +4679,7 @@
             "Zeiss - Ebon Bolt",
             "Lloyd - Vengeful Wolf",
             "Fargus - Badon Buccaneer",
+            "Vaida - Dracofang General",
             "Vigarde - Silent Emperor"
           ]
         },
@@ -4793,6 +4821,7 @@
             "Þjazi - Ruthless Jötun"
           ]
         },
+        "attuned": { "5": ["Hector - Steel Warrior"] },
         "legendary": {
           "5": [
             "Robin - Fell Vessel",
@@ -4858,6 +4887,7 @@
             "Balthus - King of Grappling",
             "Bors - Ostia's Bastion"
           ],
+          "4": ["Uther - Frugal Militarist"],
           "5": [
             "Robin - Fell Reincarnation",
             "Eyvel - Mistress of Fiana",
@@ -4923,6 +4953,7 @@
     "Armored Beacon": {
       "pool": {
         "ascended": { "5": ["Amelia - Blossoming Talent"] },
+        "attuned": { "5": ["Hector - Steel Warrior"] },
         "special": { "5": ["Hector - Sworn Friend", "Myrrh - Adored Dragon"] }
       },
       "id": "Armored Beacon",
@@ -5346,6 +5377,7 @@
             "Benny - Sensitive Soul"
           ],
           "5": [
+            "Oswin - Impregnable Knight",
             "Hector - General of Ostia",
             "Dedue - Dimitri's Vassal",
             "Reinhardt - Thunder's Sword"
@@ -6478,7 +6510,9 @@
         "grail": { "4": ["Oliver - Admirer of Beauty"] },
         "rearmed": { "5": ["Lilina - Brilliant Flame"] },
         "legendary": { "5": ["Julia - Crusader of Light"] },
-        "mythic": { "5": ["Seiros - Saint of Legend"] },
+        "mythic": {
+          "5": ["Seiros - Saint of Legend", "Rune - Source of Wisdom"]
+        },
         "special": {
           "5": [
             "Soren - Hushed Voice",
@@ -6705,7 +6739,10 @@
       "rules": "not.white-staff"
     },
     "Sly Mirror": {
-      "pool": { "rearmed": { "5": ["Lilina - Brilliant Flame"] } },
+      "pool": {
+        "rearmed": { "5": ["Lilina - Brilliant Flame"] },
+        "mythic": { "5": ["Rune - Source of Wisdom"] }
+      },
       "id": "Sly Mirror",
       "name": "鬼神明鏡掩擊",
       "sp": 300,
@@ -6806,7 +6843,11 @@
       "pool": {
         "#": {
           "3": ["Altena - Luminous Rider"],
-          "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"]
+          "5": [
+            "Oswin - Impregnable Knight",
+            "Dedue - Dimitri's Vassal",
+            "Gilliam - Wall of Silence"
+          ]
         },
         "grail": {
           "4": ["Dorcas - Pumpkin Smasher", "Ludveck - Rebellious Duke"]
@@ -9195,8 +9236,7 @@
     "Spd/Res Ideal 3": {
       "pool": {
         "#": {
-          "3": ["Dorothy - Devoted Archer"],
-          "4": ["Ogier - Ostia's New Blade"],
+          "3": ["Dorothy - Devoted Archer", "Ogier - Ostia's New Blade"],
           "5": ["Céline - Joyous Royal"]
         }
       },
@@ -9417,7 +9457,7 @@
           ]
         },
         "ascended": { "5": ["Fir - Swordmaiden"] },
-        "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
+        "rearmed": { "5": ["Sothe - Dawning Zephyr", "Leila - Superb Shadow"] },
         "emblem": { "5": ["Marth - Of Beginnings"] },
         "legendary": {
           "5": [
@@ -9454,7 +9494,7 @@
           ]
         },
         "ascended": { "5": ["Fir - Swordmaiden"] },
-        "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
+        "rearmed": { "5": ["Sothe - Dawning Zephyr", "Leila - Superb Shadow"] },
         "emblem": { "5": ["Marth - Of Beginnings"] },
         "legendary": {
           "5": [
@@ -10179,6 +10219,7 @@
     "Special Fighter 3": {
       "pool": {
         "#": {
+          "4": ["Uther - Frugal Militarist"],
           "5": [
             "Tiki - Torpid Dragon",
             "Nagi - Dragon Avatar",
@@ -10218,6 +10259,7 @@
     },
     "Odd Follow-Up 3": {
       "pool": {
+        "#": { "5": ["Oswin - Impregnable Knight"] },
         "special": {
           "4": ["Raphael - Muscle-Monger"],
           "5": ["Artur - Silver Saint"]
@@ -10297,11 +10339,21 @@
       "rules": "armored"
     },
     "Wily Fighter 3": {
-      "pool": { "ascended": { "5": ["Idunn - Divine Demon"] } },
+      "pool": {
+        "ascended": { "5": ["Idunn - Divine Demon"] },
+        "attuned": { "5": ["Hector - Steel Warrior"] }
+      },
       "id": "Wily Fighter 3",
       "name": "正面隊形・敵方3",
       "sp": 240,
       "icon": "skillB/Wily_Fighter_3",
+      "rules": "armored"
+    },
+    "Wily Fighter 4": {
+      "pool": { "attuned": { "5": ["Hector - Steel Warrior"] } },
+      "id": "Wily Fighter 4",
+      "name": "正面隊形・敵方4",
+      "icon": "skillB/Wily_Fighter_4",
       "rules": "armored"
     },
     "Hardy Fighter 3": {
@@ -11397,7 +11449,10 @@
     "Wyvern Flight 3": {
       "pool": {
         "#": { "5": ["Melady - Crimson Rider", "Rosado - Adorable Artist"] },
-        "grail": { "4": ["Glen - Sunstone"], "5": ["Arion - Gungnir's Heir"] }
+        "grail": {
+          "4": ["Glen - Sunstone", "Vaida - Dracofang General"],
+          "5": ["Arion - Gungnir's Heir"]
+        }
       },
       "id": "Wyvern Flight 3",
       "name": "飛龍行空3",
@@ -11609,10 +11664,9 @@
     },
     "Atk Cantrip 3": {
       "pool": {
+        "#": { "5": ["Elffin - Truth Beholden"] },
         "grail": { "4": ["Larum - Dancing Bride"] },
-        "special": {
-          "5": ["Dorothea - Solar Songstress", "Elffin - Truth Beholden"]
-        }
+        "special": { "5": ["Dorothea - Solar Songstress"] }
       },
       "id": "Atk Cantrip 3",
       "name": "攻擊魅惑3",
@@ -11662,7 +11716,7 @@
       "rules": "not.white-staff"
     },
     "A/R Cantrip 3": {
-      "pool": { "special": { "5": ["Elffin - Truth Beholden"] } },
+      "pool": { "#": { "5": ["Elffin - Truth Beholden"] } },
       "id": "A/R Cantrip 3",
       "name": "攻擊魔防魅惑3",
       "sp": 300,
@@ -12387,7 +12441,7 @@
     "Close Call 3": {
       "pool": {
         "#": {
-          "4": ["Ogier - Ostia's New Blade"],
+          "3": ["Ogier - Ostia's New Blade"],
           "5": [
             "Say'ri - Chon'sin's Blade",
             "Mareeta - Sword of Stars",
@@ -13904,6 +13958,7 @@
     "Atk/Def Rein 3": {
       "pool": {
         "#": { "5": ["Farina - The Great Wing", "Erinys - Earnest Knight"] },
+        "grail": { "5": ["Vaida - Dracofang General"] },
         "legendary": { "5": ["Caeda - Beloved Queen"] },
         "mythic": { "5": ["Altina - Dawn's Trueblade"] },
         "special": {
@@ -14478,6 +14533,7 @@
       "pool": {
         "#": {
           "3": ["Mustafa - Plegian Champion"],
+          "4": ["Uther - Frugal Militarist"],
           "5": ["Shiro - Raw Talent"]
         },
         "grail": {
@@ -15192,7 +15248,8 @@
           "5": [
             "Líf - Lethal Swordsman",
             "Sothis - Girl on the Throne",
-            "Ullr - The Bowmaster"
+            "Ullr - The Bowmaster",
+            "Rune - Source of Wisdom"
           ]
         },
         "special": {
@@ -15353,16 +15410,12 @@
       "pool": {
         "#": {
           "3": ["Dorothea - Daring Ex-Singer"],
-          "5": ["Gregor - Swell Sword"]
+          "5": ["Elffin - Truth Beholden", "Gregor - Swell Sword"]
         },
         "ascended": { "5": ["Celica - Valentia's Hope"] },
         "emblem": { "5": ["Celica - Of Echoes", "Marth - Of Beginnings"] },
         "special": {
-          "5": [
-            "Seadall - Misfortune-Teller",
-            "Elffin - Truth Beholden",
-            "Kvasir - Unknown Future"
-          ]
+          "5": ["Seadall - Misfortune-Teller", "Kvasir - Unknown Future"]
         },
         "duo": { "5": ["Robin - Vessels of Fate"] }
       },
@@ -15374,10 +15427,9 @@
     },
     "Inf. Null Follow 4": {
       "pool": {
+        "#": { "5": ["Elffin - Truth Beholden"] },
         "emblem": { "5": ["Celica - Of Echoes", "Marth - Of Beginnings"] },
-        "special": {
-          "5": ["Elffin - Truth Beholden", "Kvasir - Unknown Future"]
-        },
+        "special": { "5": ["Kvasir - Unknown Future"] },
         "duo": { "5": ["Robin - Vessels of Fate"] }
       },
       "id": "Inf. Null Follow 4",
@@ -15558,6 +15610,7 @@
     },
     "A/D Far Save 2": {
       "pool": {
+        "attuned": { "5": ["Hector - Steel Warrior"] },
         "mythic": {
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
         },
@@ -15571,6 +15624,7 @@
     },
     "A/D Far Save 3": {
       "pool": {
+        "attuned": { "5": ["Hector - Steel Warrior"] },
         "mythic": {
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
         },
@@ -15645,7 +15699,10 @@
       "rules": "armored"
     },
     "A/D Twin F Save": {
-      "pool": { "mythic": { "5": ["Níðhöggr - Quieting Dose"] } },
+      "pool": {
+        "attuned": { "5": ["Hector - Steel Warrior"] },
+        "mythic": { "5": ["Níðhöggr - Quieting Dose"] }
+      },
       "id": "A/D Twin F Save",
       "name": "鎧之守護人・遠・雙",
       "sp": 300,
@@ -16846,6 +16903,30 @@
       "sp": 300,
       "icon": "skillC/Barricade",
       "rules": "learner.dragon-beast"
+    },
+    "Lookout Force": {
+      "pool": { "rearmed": { "5": ["Leila - Superb Shadow"] } },
+      "id": "Lookout Force",
+      "name": "開路・不屈",
+      "sp": 300,
+      "icon": "skillC/Lookout_Force",
+      "rules": "dagger"
+    },
+    "Pulse Up: Ploy": {
+      "pool": { "mythic": { "5": ["Rune - Source of Wisdom"] } },
+      "id": "Pulse Up: Ploy",
+      "name": "鍛鍊之躍動・謀策",
+      "sp": 300,
+      "icon": "skillC/Pulse_Up_Ploy",
+      "rules": "infantry"
+    },
+    "Lookout 3": {
+      "pool": { "rearmed": { "5": ["Leila - Superb Shadow"] } },
+      "id": "Lookout 3",
+      "name": "開路3",
+      "sp": 240,
+      "icon": "skillC/Lookout_3",
+      "rules": "dagger"
     }
   },
   "skillX": {
@@ -16864,6 +16945,14 @@
       "sp": 0,
       "icon": "skillX/Fleeting_Echo",
       "rules": "learner.ranged-not-staff"
+    },
+    "D Counter Echo": {
+      "pool": { "attuned": { "5": ["Hector - Steel Warrior"] } },
+      "id": "D Counter Echo",
+      "name": "響・遠距離反擊",
+      "sp": 0,
+      "icon": "skillX/D_Counter_Echo",
+      "rules": "melee"
     },
     "Mercy-Wing Echo": {
       "pool": { "attuned": { "5": ["Azura - Song's Reflection"] } },

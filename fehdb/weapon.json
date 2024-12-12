@@ -3440,6 +3440,16 @@
       "exclusive": ["Dagr - Sunny Bloom"],
       "last": true
     },
+    "Fellowship Blade": {
+      "id": "Fellowship Blade",
+      "name": "盟友情誼之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Hector - Steel Warrior"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -7839,6 +7849,16 @@
       },
       "last": true
     },
+    "Spear": {
+      "id": "Spear",
+      "name": "投槍",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Vaida - Dracofang General"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -8774,6 +8794,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Reversal Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Campaign Lance": {
+      "id": "Campaign Lance",
+      "name": "繼戰之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Campaign Lance+": {
+      "id": "Campaign Lance+",
+      "name": "繼戰之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Campaign Lance"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -12605,6 +12658,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Defier's Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Pursual Axe": {
+      "id": "Pursual Axe",
+      "name": "追擊之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Pursual Axe+": {
+      "id": "Pursual Axe+",
+      "name": "追擊之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Pursual Axe"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -19294,6 +19380,34 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Giant Shuriken"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Arcane Sly Knife": {
+      "id": "Arcane Sly Knife",
+      "name": "魔器・無形影刃",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Dagger"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -27351,6 +27465,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Elffin - Truth Beholden"],
+      "last": true
+    },
+    "Óðr of Creation": {
+      "id": "Óðr of Creation",
+      "name": "創世文字之力",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Rune - Source of Wisdom"],
       "last": true
     },
     "Stone": {

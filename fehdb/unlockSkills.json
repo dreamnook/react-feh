@@ -3378,6 +3378,34 @@
       "Barricade": 5
     }
   },
+  "Rune - Source of Wisdom": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 3,
+      "Atlas": 3,
+      "Óðr of Creation": 5
+    },
+    "special": {
+      "Daylight": 3,
+      "Noontime": 4,
+      "Flare": 5
+    },
+    "skillA": {
+      "Warding Blow 1": 2,
+      "Mirror Strike 1": 3,
+      "Mirror Strike 2": 4,
+      "Sly Mirror": 5
+    },
+    "skillB": {
+      "Font of Wisdom": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Pulse Up: Ploy": 5
+    }
+  },
   "Marth - Altean Prince": {
     "weapon": {
       "Iron Sword": 1,
@@ -11952,6 +11980,37 @@
       "D/R Far Save 3": 4
     }
   },
+  "Hector - Steel Warrior": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 3,
+      "Silver Sword": 3,
+      "Fellowship Blade": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Bonfire": 4,
+      "Armored Beacon": 5
+    },
+    "skillA": {
+      "Oath of Ostia": 5
+    },
+    "skillB": {
+      "Wily Fighter 1": 2,
+      "Wily Fighter 2": 3,
+      "Wily Fighter 3": 4,
+      "Wily Fighter 4": 5
+    },
+    "skillC": {
+      "A/D Far Save 1": 2,
+      "A/D Far Save 2": 3,
+      "A/D Far Save 3": 4,
+      "A/D Twin F Save": 5
+    },
+    "skillX": {
+      "D Counter Echo": 5
+    }
+  },
   "Harken - Troubled Warrior": {
     "weapon": {
       "Iron Sword": 1,
@@ -11997,6 +12056,50 @@
       "Atk/Def Snag 2": 3,
       "Atk/Def Snag 3": 4,
       "Atk/Def Snag 4": 5
+    }
+  },
+  "Uther - Frugal Militarist": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 3,
+      "Pursual Axe": 3,
+      "Pursual Axe+": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillB": {
+      "Special Fighter 1": 3,
+      "Special Fighter 2": 4,
+      "Special Fighter 3": 5
+    },
+    "skillC": {
+      "Def Tactic 1": 1,
+      "Def Tactic 2": 2,
+      "Def Tactic 3": 4
+    }
+  },
+  "Oswin - Impregnable Knight": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 3,
+      "Campaign Lance": 3,
+      "Campaign Lance+": 5
+    },
+    "special": {
+      "Buckler": 3,
+      "Pavise": 4
+    },
+    "skillA": {
+      "Steady Stance 1": 1,
+      "Sturdy Stance 1": 2,
+      "Sturdy Stance 2": 4
+    },
+    "skillB": {
+      "Odd Follow-Up 1": 3,
+      "Odd Follow-Up 2": 4,
+      "Odd Follow-Up 3": 5
     }
   },
   "Matthew - Faithful Spy": {
@@ -12072,6 +12175,34 @@
       "Res Smoke 2": 3,
       "Res Smoke 3": 4,
       "Def/Res Smoke 3": 5
+    }
+  },
+  "Leila - Superb Shadow": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 3,
+      "Silver Dagger": 3,
+      "Arcane Sly Knife": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4,
+      "Lethality": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Dark Perfume": 5
+    },
+    "skillC": {
+      "Lookout 1": 2,
+      "Lookout 2": 3,
+      "Lookout 3": 4,
+      "Lookout Force": 5
     }
   },
   "Serra - Outspoken Cleric": {
@@ -12486,6 +12617,28 @@
       "Def/Res Gap 1": 1,
       "Def/Res Gap 2": 2,
       "Def/Res Gap 3": 4
+    }
+  },
+  "Vaida - Dracofang General": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 3,
+      "Silver Lance": 3,
+      "Spear": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4
+    },
+    "skillB": {
+      "Wyvern Flight 1": 1,
+      "Wyvern Flight 2": 2,
+      "Wyvern Flight 3": 4
+    },
+    "skillC": {
+      "Atk/Def Rein 1": 3,
+      "Atk/Def Rein 2": 4,
+      "Atk/Def Rein 3": 5
     }
   },
   "Heath - Wandering Knight": {

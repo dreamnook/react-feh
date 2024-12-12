@@ -268,6 +268,15 @@
     "last": true,
     "icon": "skillA/Divine_Toxin"
   },
+  "Oath of Ostia": {
+    "id": "Oath of Ostia",
+    "name": "奧斯提亞的血盟",
+    "hp": 5,
+    "sp": 300,
+    "exclusive": ["Hector - Steel Warrior"],
+    "last": true,
+    "icon": "skillA/Oath_of_Ostia"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

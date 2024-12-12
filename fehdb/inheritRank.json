@@ -2633,17 +2633,17 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
-  "Ogier - Ostia's New Blade": {
+  "Uther - Frugal Militarist": {
     "score": 185,
     "scoreTotal": 411,
     "poolRarity": 4,
     "sp": 240,
     "spTotal": 680,
     "feather": 300,
-    "bst": 197,
-    "special": { "Luna": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Close Call 3": { "sp": 240, "rarity": 5 } }
+    "bst": 205,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Def Tactic 3": { "sp": 240, "rarity": 4 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -4015,6 +4015,18 @@
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wrath 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ogier - Ostia's New Blade": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 197,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Close Call 3": { "sp": 240, "rarity": 5 } }
+  },
   "Bors - Ostia's Bastion": {
     "score": 199,
     "scoreTotal": 461,
@@ -4849,6 +4861,17 @@
     "skillA": { "Fury 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Hone Dragons": { "sp": 200, "rarity": 5 } }
   },
+  "Elffin - Truth Beholden": {
+    "score": 300,
+    "scoreTotal": 600,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 600,
+    "feather": 1000,
+    "bst": 178,
+    "skillB": { "A/R Cantrip 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
+  },
   "Isadora - Escort of Pherae": {
     "score": 300,
     "scoreTotal": 600,
@@ -5259,18 +5282,6 @@
     "bst": 162,
     "skillB": { "Firestorm Dance 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Hold": { "sp": 300, "rarity": 5 } }
-  },
-  "Elffin - Truth Beholden": {
-    "score": 318,
-    "scoreTotal": 636,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 600,
-    "feather": 1000,
-    "bst": 178,
-    "skillB": { "A/R Cantrip 3": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
   },
   "Delthea - Free Spirit": {
     "score": 240,
@@ -6307,6 +6318,18 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Oswin - Impregnable Knight": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Pavise": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Sturdy Stance 2": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Odd Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -8660,6 +8683,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Vaida - Dracofang General": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 194,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Wyvern Flight 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Murdock - Loyal General": {
     "score": 322,
@@ -12180,6 +12216,19 @@
     "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
+  "Leila - Superb Shadow": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Lethality": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Lookout Force": { "sp": 300, "rarity": 5 } }
+  },
   "Eirika - Resolute Princess": {
     "score": 450,
     "scoreTotal": 990,
@@ -12501,6 +12550,19 @@
     "special": { "Fierce Beast": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Def Excel": { "sp": 300, "rarity": 5 } },
     "skillC": { "Beast Threaten": { "sp": 300, "rarity": 5 } }
+  },
+  "Rune - Source of Wisdom": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Flare": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Sly Mirror": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse Up: Ploy": { "sp": 300, "rarity": 5 } }
   },
   "Hræsvelgr - Quieting Blade": {
     "score": 460,
@@ -14965,6 +15027,20 @@
     "special": { "No Quarter": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/D Near Trace 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Hector - Steel Warrior": {
+    "score": null,
+    "scoreTotal": null,
+    "poolRarity": 5,
+    "pool": "attuned",
+    "sp": null,
+    "spTotal": null,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Armored Beacon": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Wily Fighter 4": { "sp": null, "rarity": 5 } },
+    "skillC": { "A/D Twin F Save": { "sp": 300, "rarity": 5 } },
+    "skillX": { "D Counter Echo": { "sp": 0, "rarity": 5 } }
   },
   "Lucina - Shadows of Fate": {
     "score": 530,

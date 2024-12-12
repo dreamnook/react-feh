@@ -4547,5 +4547,45 @@
     "rules": "learner.dragon-beast",
     "last": true,
     "icon": "skillC/Barricade"
+  },
+  "Lookout Force": {
+    "id": "Lookout Force",
+    "name": "開路・不屈",
+    "sp": 300,
+    "rules": "dagger",
+    "last": true,
+    "icon": "skillC/Lookout_Force"
+  },
+  "Pulse Up: Ploy": {
+    "id": "Pulse Up: Ploy",
+    "name": "鍛鍊之躍動・謀策",
+    "sp": 300,
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillC/Pulse_Up_Ploy"
+  },
+  "Lookout 1": {
+    "id": "Lookout 1",
+    "name": "開路1",
+    "sp": 60,
+    "rules": "dagger",
+    "icon": "skillC/Lookout_1"
+  },
+  "Lookout 2": {
+    "id": "Lookout 2",
+    "name": "開路2",
+    "sp": 120,
+    "prev": ["Lookout 1"],
+    "rules": "dagger",
+    "icon": "skillC/Lookout_2"
+  },
+  "Lookout 3": {
+    "id": "Lookout 3",
+    "name": "開路3",
+    "sp": 240,
+    "prev": ["Lookout 2"],
+    "rules": "dagger",
+    "icon": "skillC/Lookout_3",
+    "last": true
   }
 }

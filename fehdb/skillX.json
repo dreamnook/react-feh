@@ -15,6 +15,14 @@
     "last": true,
     "icon": "skillX/Fleeting_Echo"
   },
+  "D Counter Echo": {
+    "id": "D Counter Echo",
+    "name": "響・遠距離反擊",
+    "sp": 0,
+    "rules": "melee",
+    "last": true,
+    "icon": "skillX/D_Counter_Echo"
+  },
   "Mercy-Wing Echo": {
     "id": "Mercy-Wing Echo",
     "name": "響・救援路線",

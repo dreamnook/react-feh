@@ -710,6 +710,22 @@
     "last": true,
     "icon": "skillB/Yggdrasill's_Alter"
   },
+  "Dark Perfume": {
+    "id": "Dark Perfume",
+    "name": "暗香疏影",
+    "sp": 300,
+    "exclusive": ["Leila - Superb Shadow"],
+    "last": true,
+    "icon": "skillB/Dark_Perfume"
+  },
+  "Font of Wisdom": {
+    "id": "Font of Wisdom",
+    "name": "知識之源",
+    "sp": 300,
+    "exclusive": ["Rune - Source of Wisdom"],
+    "last": true,
+    "icon": "skillB/Font_of_Wisdom"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -1233,6 +1249,14 @@
     "prev": ["Wily Fighter 2"],
     "rules": "armored",
     "icon": "skillB/Wily_Fighter_3",
+    "last": true
+  },
+  "Wily Fighter 4": {
+    "id": "Wily Fighter 4",
+    "name": "正面隊形・敵方4",
+    "prev": ["Wily Fighter 3"],
+    "rules": "armored",
+    "icon": "skillB/Wily_Fighter_4",
     "last": true
   },
   "Hardy Fighter 1": {
