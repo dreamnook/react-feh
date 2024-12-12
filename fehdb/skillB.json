@@ -1254,6 +1254,7 @@
   "Wily Fighter 4": {
     "id": "Wily Fighter 4",
     "name": "正面隊形・敵方4",
+    "sp": 300,
     "prev": ["Wily Fighter 3"],
     "rules": "armored",
     "icon": "skillB/Wily_Fighter_4",

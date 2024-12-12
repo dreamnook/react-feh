@@ -12256,6 +12256,20 @@
     "skillA": { "Earthfire Boost 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Twin N Save": { "sp": 300, "rarity": 5 } }
   },
+  "Hector - Steel Warrior": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "attuned",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Armored Beacon": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Wily Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Twin F Save": { "sp": 300, "rarity": 5 } },
+    "skillX": { "D Counter Echo": { "sp": 0, "rarity": 5 } }
+  },
   "Est - Springtime Flier": {
     "score": 318,
     "scoreTotal": 996,
@@ -15027,20 +15041,6 @@
     "special": { "No Quarter": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/D Near Trace 4": { "sp": 300, "rarity": 5 } }
-  },
-  "Hector - Steel Warrior": {
-    "score": null,
-    "scoreTotal": null,
-    "poolRarity": 5,
-    "pool": "attuned",
-    "sp": null,
-    "spTotal": null,
-    "feather": 1000,
-    "bst": 207,
-    "special": { "Armored Beacon": { "sp": 500, "rarity": 5 } },
-    "skillB": { "Wily Fighter 4": { "sp": null, "rarity": 5 } },
-    "skillC": { "A/D Twin F Save": { "sp": 300, "rarity": 5 } },
-    "skillX": { "D Counter Echo": { "sp": 0, "rarity": 5 } }
   },
   "Lucina - Shadows of Fate": {
     "score": 530,

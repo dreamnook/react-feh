@@ -10353,6 +10353,7 @@
       "pool": { "attuned": { "5": ["Hector - Steel Warrior"] } },
       "id": "Wily Fighter 4",
       "name": "正面隊形・敵方4",
+      "sp": 300,
       "icon": "skillB/Wily_Fighter_4",
       "rules": "armored"
     },
