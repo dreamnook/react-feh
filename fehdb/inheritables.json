@@ -3205,6 +3205,20 @@
       "sp": 400,
       "rules": "white-staff"
     },
+    "Ice Lock": {
+      "pool": { "special": { "5": ["Hortensia - Winter's Dearest"] } },
+      "id": "Ice Lock",
+      "name": "冰鎖",
+      "sp": 300,
+      "rules": "white-staff"
+    },
+    "Ice Lock+": {
+      "pool": { "special": { "5": ["Hortensia - Winter's Dearest"] } },
+      "id": "Ice Lock+",
+      "name": "冰鎖+",
+      "sp": 400,
+      "rules": "white-staff"
+    },
     "Swap": {
       "pool": {
         "#": {
@@ -3299,6 +3313,7 @@
         },
         "grail": {
           "4": [
+            "Eikþyrnir - Blessed Strength",
             "Mordecai - Gentle Firetender",
             "Bartre - Earsome Warrior",
             "Keaton - Resolved Wolfskin",
@@ -4181,6 +4196,7 @@
             "Eliwood - Pledged Friend",
             "Nailah - Hatari Scorcher",
             "Eirika - Beach Restorer",
+            "Shez - Snowfield Envoy",
             "Juno - Nimble Grace",
             "Ryoma - Samurai at Ease",
             "Fae - Holiday Dear",
@@ -5078,7 +5094,8 @@
             "Lyon - Esteemed Royals",
             "Idunn - Dragonkin Duo",
             "Mark - Winds of Hope",
-            "Sanaki - Dawnsworn Ninja"
+            "Sanaki - Dawnsworn Ninja",
+            "Alear - Gifted Dragons"
           ]
         },
         "harmonized": {
@@ -5097,6 +5114,7 @@
     "Dragon's Roar": {
       "pool": {
         "legendary": { "5": ["Alear - Engaging Fire"] },
+        "duo": { "5": ["Alear - Gifted Dragons"] },
         "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
       },
       "id": "Dragon's Roar",
@@ -5416,7 +5434,8 @@
           "5": ["Saber - Driven Mercenary"]
         },
         "grail": { "4": ["Kempf - Conniving General"] },
-        "mythic": { "5": ["Heiðrún - Healing Nectar"] }
+        "mythic": { "5": ["Heiðrún - Healing Nectar"] },
+        "special": { "5": ["Fomortiis - Dark of Night"] }
       },
       "id": "Aegis",
       "name": "聖盾",
@@ -5468,6 +5487,7 @@
           "5": [
             "Bruno - Masked Hare",
             "Flayn - Silly Kitty-Cat",
+            "Hortensia - Winter's Dearest",
             "Emmeryn - Selfless Exalt",
             "Laevatein - Ninja of Múspell"
           ]
@@ -5639,7 +5659,9 @@
     "Holy Pressure": {
       "pool": {
         "#": { "5": ["Tina - Playful Scamp"] },
-        "special": { "5": ["Flayn - Silly Kitty-Cat"] },
+        "special": {
+          "5": ["Flayn - Silly Kitty-Cat", "Hortensia - Winter's Dearest"]
+        },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
       "id": "Holy Pressure",
@@ -6103,7 +6125,9 @@
     "Solid Ground 3": {
       "pool": {
         "#": { "5": ["Gregor - Swell Sword"] },
-        "grail": { "5": ["Dedue - Loyal Life Guard"] }
+        "grail": {
+          "5": ["Eikþyrnir - Blessed Strength", "Dedue - Loyal Life Guard"]
+        }
       },
       "id": "Solid Ground 3",
       "name": "不壞3",
@@ -8890,6 +8914,7 @@
             "Reina - Sanguine Shinobi"
           ],
           "5": [
+            "Hortensia - Winter's Dearest",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
             "Delthea - Prodigy in Bloom"
@@ -8935,6 +8960,7 @@
         "mythic": { "5": ["Kvasir - Seer of the Past"] },
         "special": {
           "5": [
+            "Hortensia - Winter's Dearest",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
             "Delthea - Prodigy in Bloom"
@@ -10361,6 +10387,7 @@
       "pool": {
         "ascended": { "5": ["Fjorm - Ice Ascendant"] },
         "rearmed": { "5": ["Robin - Fell Tactician"] },
+        "special": { "5": ["Fomortiis - Dark of Night"] },
         "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
       },
       "id": "Hardy Fighter 3",
@@ -10370,7 +10397,10 @@
       "rules": "learner.armored-melee"
     },
     "Shield Fighter": {
-      "pool": { "duo": { "5": ["Fjorm - Gleaming Ice Pair"] } },
+      "pool": {
+        "special": { "5": ["Fomortiis - Dark of Night"] },
+        "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
+      },
       "id": "Shield Fighter",
       "name": "連盾隊形",
       "sp": 300,
@@ -11250,6 +11280,7 @@
             "Genny - Dressed with Care",
             "Laevatein - Kumade Warrior",
             "Sakura - Hot-Spring Healer",
+            "Hortensia - Winter's Dearest",
             "Emmeryn - Selfless Exalt"
           ]
         },
@@ -11265,7 +11296,9 @@
       "pool": {
         "#": { "5": ["Maria - Ritual Sacrifice"] },
         "rearmed": { "5": ["Hortensia - Little Charmer"] },
-        "special": { "5": ["Emmeryn - Selfless Exalt"] },
+        "special": {
+          "5": ["Hortensia - Winter's Dearest", "Emmeryn - Selfless Exalt"]
+        },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
       "id": "Poetic Justice",
@@ -12240,6 +12273,7 @@
         "special": {
           "5": [
             "Flora - Polar-Perfect",
+            "Shez - Snowfield Envoy",
             "Palla - Eldest Bun-Bun",
             "Gunnthrá - Beaming Smile",
             "Fáfnir - Fresh Ambition"
@@ -12267,6 +12301,14 @@
       "name": "解除陷阱・神速",
       "sp": 300,
       "icon": "skillB/Potent_Disarm",
+      "rules": "learner.infantry-cavalry-flying-dagger"
+    },
+    "Full Disarm": {
+      "pool": { "special": { "5": ["Shez - Snowfield Envoy"] } },
+      "id": "Full Disarm",
+      "name": "解除陷阱・周到",
+      "sp": 300,
+      "icon": "skillB/Full_Disarm",
       "rules": "learner.infantry-cavalry-flying-dagger"
     },
     "Lull Atk/Spd 3": {
@@ -13058,7 +13100,8 @@
     "Spd/Res Bulwark 3": {
       "pool": {
         "ascended": { "5": ["Tiki - Awakened Blood"] },
-        "legendary": { "5": ["Alear - Engaging Fire"] }
+        "legendary": { "5": ["Alear - Engaging Fire"] },
+        "duo": { "5": ["Alear - Gifted Dragons"] }
       },
       "id": "Spd/Res Bulwark 3",
       "name": "速度魔防防護屏障3",
@@ -13080,6 +13123,14 @@
       "name": "攻擊防守的刃牆",
       "sp": 300,
       "icon": "skillB/A_D_Spiked_Wall",
+      "rules": "learner.infantry-melee"
+    },
+    "S/R Spiked Wall": {
+      "pool": { "duo": { "5": ["Alear - Gifted Dragons"] } },
+      "id": "S/R Spiked Wall",
+      "name": "速度魔防的刃牆",
+      "sp": 300,
+      "icon": "skillB/S_R_Spiked_Wall",
       "rules": "learner.infantry-melee"
     },
     "Spd Preempt 3": {
@@ -13324,6 +13375,7 @@
             "Edward - Blade of Justice"
           ]
         },
+        "grail": { "4": ["Eikþyrnir - Blessed Strength"] },
         "attuned": { "5": ["Timerra - Desert Warrior"] },
         "special": { "5": ["Cordelia - Perfect Bride"] }
       },
@@ -15119,6 +15171,7 @@
         "special": {
           "5": [
             "Heath - Wyvern Ninja",
+            "Shez - Snowfield Envoy",
             "Pent - Fancy Fiancé",
             "Brigid - Orgahil Pirate"
           ]
@@ -15217,7 +15270,10 @@
       "rules": "not.white-staff"
     },
     "Pulse Smog": {
-      "pool": { "legendary": { "5": ["Shez - Dual Sword Master"] } },
+      "pool": {
+        "legendary": { "5": ["Shez - Dual Sword Master"] },
+        "special": { "5": ["Shez - Snowfield Envoy"] }
+      },
       "id": "Pulse Smog",
       "name": "躍動的幻煙",
       "sp": 300,
@@ -15615,7 +15671,9 @@
         "mythic": {
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
         },
-        "special": { "5": ["Robin - Tactful Deliverer"] }
+        "special": {
+          "5": ["Robin - Tactful Deliverer", "Fomortiis - Dark of Night"]
+        }
       },
       "id": "A/D Far Save 2",
       "name": "鎧之守護人・遠處2",
@@ -15629,7 +15687,9 @@
         "mythic": {
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
         },
-        "special": { "5": ["Robin - Tactful Deliverer"] }
+        "special": {
+          "5": ["Robin - Tactful Deliverer", "Fomortiis - Dark of Night"]
+        }
       },
       "id": "A/D Far Save 3",
       "name": "鎧之守護人・遠處3",
@@ -15708,6 +15768,14 @@
       "name": "鎧之守護人・遠・雙",
       "sp": 300,
       "icon": "skillC/A_D_Twin_F_Save",
+      "rules": "armored"
+    },
+    "A/D Briar F Save": {
+      "pool": { "special": { "5": ["Fomortiis - Dark of Night"] } },
+      "id": "A/D Briar F Save",
+      "name": "鎧之守護人・遠・棘",
+      "sp": 300,
+      "icon": "skillC/A_D_Briar_F_Save",
       "rules": "armored"
     },
     "A/R Twin F Save": {
@@ -15986,7 +16054,8 @@
             "Ursula - Clear-Blue Crow",
             "Alear - Seaside Dragon"
           ]
-        }
+        },
+        "duo": { "5": ["Alear - Gifted Dragons"] }
       },
       "id": "Even Res Wave 3",
       "name": "魔防之波・偶數3",
@@ -15994,7 +16063,10 @@
       "icon": "skillC/Even_Res_Wave_3"
     },
     "Even Res Wave D": {
-      "pool": { "special": { "5": ["Alear - Seaside Dragon"] } },
+      "pool": {
+        "special": { "5": ["Alear - Seaside Dragon"] },
+        "duo": { "5": ["Alear - Gifted Dragons"] }
+      },
       "id": "Even Res Wave D",
       "name": "龍的魔防之波・偶數",
       "sp": 300,

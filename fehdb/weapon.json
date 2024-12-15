@@ -17888,6 +17888,16 @@
       },
       "last": true
     },
+    "Red-Fist Blades": {
+      "id": "Red-Fist Blades",
+      "name": "冬日修羅的手甲刃",
+      "mt": 8,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Shez - Snowfield Envoy"],
+      "last": true
+    },
     "Arcane Void": {
       "id": "Arcane Void",
       "name": "魔器金倫加",
@@ -20415,6 +20425,26 @@
       "sp": 400,
       "prev": ["Adult (Armored)"],
       "exclusive": ["Læraðr - Quieting Heart"],
+      "last": true
+    },
+    "Delivering Antler": {
+      "id": "Delivering Antler",
+      "name": "冬日鍛鍊身體之角",
+      "mt": 14,
+      "def": 3,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Eikþyrnir - Blessed Strength"],
+      "last": true
+    },
+    "Icy Ravager": {
+      "id": "Icy Ravager",
+      "name": "冬冰魔拳",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Armored)"],
+      "exclusive": ["Fomortiis - Dark of Night"],
       "last": true
     },
     "Arcane Nihility": {
@@ -27948,6 +27978,16 @@
       "exclusive": ["Loki - Trickster God"],
       "last": true
     },
+    "Snowman Staff": {
+      "id": "Snowman Staff",
+      "name": "雪人的雪杖",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Hortensia - Winter's Dearest"],
+      "last": true
+    },
     "Arcane Charmer": {
       "id": "Arcane Charmer",
       "name": "魔器・可愛雪杖",
@@ -30068,6 +30108,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Nah - Grateful One"],
+      "last": true
+    },
+    "Wintery Arts": {
+      "id": "Wintery Arts",
+      "name": "冬日雙神龍體術",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Alear - Gifted Dragons"],
       "last": true
     },
     "Arcane Grima": {

@@ -2380,6 +2380,20 @@
     "skillB": { "Geyser Dance 2": { "sp": 240, "rarity": 4 } },
     "skillC": { "Hone Dragons": { "sp": 200, "rarity": 5 } }
   },
+  "Hortensia - Winter's Dearest": {
+    "score": 133,
+    "scoreTotal": 398,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 180,
+    "assist": { "Ice Lock+": { "sp": 400, "rarity": 5 } },
+    "special": { "Holy Pressure": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } }
+  },
   "Emmeryn - Selfless Exalt": {
     "score": 133,
     "scoreTotal": 398,
@@ -4393,6 +4407,19 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 4 } },
     "skillA": { "Fury 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Threat. Atk/Res 2": { "sp": 200, "rarity": 4 } }
+  },
+  "Eikþyrnir - Blessed Strength": {
+    "score": 249,
+    "scoreTotal": 534,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 200,
+    "spTotal": 550,
+    "feather": 300,
+    "bst": 190,
+    "assist": { "Smite": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Solid Ground 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Breath of Life 3": { "sp": 200, "rarity": 4 } }
   },
   "Robin - Mystery Tactician": {
     "score": 269,
@@ -10361,6 +10388,19 @@
     "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
     "skillC": { "Beast Threaten": { "sp": 300, "rarity": 5 } }
   },
+  "Shez - Snowfield Envoy": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Full Disarm": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse Smog": { "sp": 300, "rarity": 5 } }
+  },
   "Céline - Teatime Ninja": {
     "score": 318,
     "scoreTotal": 848,
@@ -10464,6 +10504,19 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillB": { "Occultist's Strike": { "sp": 300, "rarity": 5 } },
     "skillC": { "Incite Atk/Res": { "sp": 300, "rarity": 5 } }
+  },
+  "Fomortiis - Dark of Night": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Aegis": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Shield Fighter": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Briar F Save": { "sp": 300, "rarity": 5 } }
   },
   "Itsuki - Finding a Path": {
     "score": 299,
@@ -14432,6 +14485,19 @@
     "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Def Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Alear - Gifted Dragons": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
+    "skillB": { "S/R Spiked Wall": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Even Res Wave D": { "sp": 300, "rarity": 5 } }
   },
   "Sharena - Pillars of Peace": {
     "score": 530,

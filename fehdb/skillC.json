@@ -576,6 +576,14 @@
     "last": true,
     "icon": "skillC/Divine_Talon"
   },
+  "Twinkling Anima": {
+    "id": "Twinkling Anima",
+    "name": "燦爛原力",
+    "sp": 300,
+    "exclusive": ["Hortensia - Winter's Dearest"],
+    "last": true,
+    "icon": "skillC/Twinkling_Anima"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -2752,6 +2760,15 @@
     "prev": ["A/D Far Save 3"],
     "last": true,
     "icon": "skillC/A_D_Twin_F_Save"
+  },
+  "A/D Briar F Save": {
+    "id": "A/D Briar F Save",
+    "name": "鎧之守護人・遠・棘",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/D Far Save 3"],
+    "last": true,
+    "icon": "skillC/A_D_Briar_F_Save"
   },
   "A/R Twin F Save": {
     "id": "A/R Twin F Save",

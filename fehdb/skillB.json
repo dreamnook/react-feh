@@ -3842,6 +3842,14 @@
     "last": true,
     "icon": "skillB/Potent_Disarm"
   },
+  "Full Disarm": {
+    "id": "Full Disarm",
+    "name": "解除陷阱・周到",
+    "sp": 300,
+    "rules": "learner.infantry-cavalry-flying-dagger",
+    "last": true,
+    "icon": "skillB/Full_Disarm"
+  },
   "Lull Atk/Spd 1": {
     "id": "Lull Atk/Spd 1",
     "name": "攻擊速度的靜謐1",
@@ -4939,6 +4947,15 @@
     "rules": "learner.infantry-melee",
     "last": true,
     "icon": "skillB/A_D_Spiked_Wall"
+  },
+  "S/R Spiked Wall": {
+    "id": "S/R Spiked Wall",
+    "name": "速度魔防的刃牆",
+    "sp": 300,
+    "prev": ["Spd/Res Bulwark 3"],
+    "rules": "learner.infantry-melee",
+    "last": true,
+    "icon": "skillB/S_R_Spiked_Wall"
   },
   "Spd Preempt 1": {
     "id": "Spd Preempt 1",

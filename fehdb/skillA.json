@@ -240,7 +240,7 @@
     "id": "Emblems' Miracle",
     "name": "紋章奇蹟",
     "sp": 300,
-    "exclusive": ["Alear - Engaging Fire"],
+    "exclusive": ["Alear - Engaging Fire", "Alear - Gifted Dragons"],
     "last": true,
     "icon": "skillA/Emblems'_Miracle"
   },
@@ -276,6 +276,22 @@
     "exclusive": ["Hector - Steel Warrior"],
     "last": true,
     "icon": "skillA/Oath_of_Ostia"
+  },
+  "Leaden Regrets": {
+    "id": "Leaden Regrets",
+    "name": "鉛色殘夢",
+    "sp": 300,
+    "exclusive": ["Fomortiis - Dark of Night"],
+    "last": true,
+    "icon": "skillA/Leaden_Regrets"
+  },
+  "Swift Ice": {
+    "id": "Swift Ice",
+    "name": "真連閃",
+    "sp": 300,
+    "exclusive": ["Shez - Snowfield Envoy"],
+    "last": true,
+    "icon": "skillA/Swift_Ice"
   },
   "HP 1": {
     "id": "HP 1",

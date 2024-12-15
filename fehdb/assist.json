@@ -522,6 +522,21 @@
     "prev": ["Magic Shield"],
     "last": true
   },
+  "Ice Lock": {
+    "id": "Ice Lock",
+    "name": "冰鎖",
+    "sp": 300,
+    "rules": "white-staff",
+    "prev": ["Mend"]
+  },
+  "Ice Lock+": {
+    "id": "Ice Lock+",
+    "name": "冰鎖+",
+    "rules": "white-staff",
+    "sp": 400,
+    "prev": ["Ice Lock"],
+    "last": true
+  },
   "Swap": {
     "id": "Swap",
     "name": "替換",

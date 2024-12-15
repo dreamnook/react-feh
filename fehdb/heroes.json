@@ -4551,6 +4551,55 @@
     "ver": "8.7",
     "dfKey": 6
   },
+  "Eikþyrnir - Blessed Strength": {
+    "id": "Eikþyrnir - Blessed Strength",
+    "title": "受到祝福的肉體",
+    "name": "艾克米爾尼爾",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-beast",
+    "pool": "grail",
+    "releaseDate": "2024-12-13",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "4": {
+        "hp": [40, 43, 46],
+        "atk": [43, 46, 49],
+        "spd": [15, 18, 21],
+        "def": [43, 46, 49],
+        "res": [22, 25, 28]
+      },
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [45, 48, 51],
+        "spd": [17, 20, 23],
+        "def": [45, 48, 52],
+        "res": [24, 28, 31]
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 4,
+        "def": 9,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 13,
+        "spd": 5,
+        "def": 9,
+        "res": 6
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["res"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.0",
+    "dfKey": 7
+  },
   "Læraðr - Quieting Heart": {
     "id": "Læraðr - Quieting Heart",
     "title": "心靈的葬送者",
@@ -27291,6 +27340,41 @@
     "ver": "7.1",
     "dfKey": 5
   },
+  "Fomortiis - Dark of Night": {
+    "id": "Fomortiis - Dark of Night",
+    "title": "漆黑的聖夜",
+    "name": "弗德斯",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "armored",
+    "weaponType": "red-beast",
+    "pool": "special",
+    "releaseDate": "2024-12-13",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "5": {
+        "hp": [46, 49, 52],
+        "atk": [44, 47, 50],
+        "spd": [12, 16, 19],
+        "def": [46, 49, 53],
+        "res": [42, 46, 49]
+      },
+      "5-1": {
+        "hp": 23,
+        "atk": 12,
+        "spd": 3,
+        "def": 10,
+        "res": 13
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["spd", "res"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 9,
+    "ver": "9.0",
+    "dfKey": 7
+  },
   "Ike - Young Mercenary": {
     "id": "Ike - Young Mercenary",
     "title": "傭兵團的青年",
@@ -49149,6 +49233,41 @@
     "ver": "7.6",
     "dfKey": 5
   },
+  "Shez - Snowfield Envoy": {
+    "id": "Shez - Snowfield Envoy",
+    "title": "征戰雪原的傭兵",
+    "name": "謝茲",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-dagger",
+    "pool": "special",
+    "releaseDate": "2024-12-13",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [45, 48, 52],
+        "def": [26, 30, 33],
+        "res": [19, 22, 25]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 9,
+        "def": 8,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.0",
+    "dfKey": 7
+  },
   "Monica - Favored Vassal": {
     "id": "Monica - Favored Vassal",
     "title": "女帝的頭號家臣",
@@ -49540,6 +49659,41 @@
     "ver": "7.8",
     "dfKey": 6
   },
+  "Alear - Seaside Dragon": {
+    "id": "Alear - Seaside Dragon",
+    "title": "海邊的神龍",
+    "name": "琉爾",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-dragon",
+    "pool": "special",
+    "releaseDate": "2024-07-05",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 39, 42],
+        "atk": [39, 42, 46],
+        "spd": [44, 47, 50],
+        "def": [29, 32, 35],
+        "res": [34, 38, 41]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 12,
+        "spd": 12,
+        "def": 4,
+        "res": 5
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["res"],
+    "statMin": 198,
+    "statMax": 200,
+    "book": 8,
+    "ver": "8.7",
+    "dfKey": 6
+  },
   "Alear - Dragon Youth": {
     "id": "Alear - Dragon Youth",
     "title": "神龍王子",
@@ -49612,40 +49766,40 @@
     "ver": "8.2",
     "dfKey": 6
   },
-  "Alear - Seaside Dragon": {
-    "id": "Alear - Seaside Dragon",
-    "title": "海邊的神龍",
+  "Alear - Gifted Dragons": {
+    "id": "Alear - Gifted Dragons",
+    "title": "連繫聖夜的神龍們",
     "name": "琉爾",
     "rarity": [5],
-    "colorType": "white",
+    "colorType": "blue",
     "moveType": "infantry",
-    "weaponType": "white-dragon",
-    "pool": "special",
-    "releaseDate": "2024-07-05",
+    "weaponType": "blue-dragon",
+    "pool": "duo",
+    "releaseDate": "2024-12-13",
     "appearsIn": ["Engage"],
     "stats": {
       "5": {
-        "hp": [36, 39, 42],
-        "atk": [39, 42, 46],
-        "spd": [44, 47, 50],
-        "def": [29, 32, 35],
-        "res": [34, 38, 41]
+        "hp": [36, 40, 43],
+        "atk": [39, 43, 46],
+        "spd": [43, 46, 50],
+        "def": [26, 30, 33],
+        "res": [42, 45, 49]
       },
       "5-1": {
-        "hp": 15,
-        "atk": 12,
-        "spd": 12,
-        "def": 4,
-        "res": 5
+        "hp": 18,
+        "atk": 10,
+        "spd": 7,
+        "def": 8,
+        "res": 6
       }
     },
-    "assets": ["atk"],
-    "flaws": ["res"],
-    "statMin": 198,
-    "statMax": 200,
-    "book": 8,
-    "ver": "8.7",
-    "dfKey": 6
+    "assets": ["spd", "res"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 9,
+    "ver": "9.0",
+    "dfKey": 7
   },
   "Lumera - Dragon Monarch": {
     "id": "Lumera - Dragon Monarch",
@@ -50551,6 +50705,41 @@
     "book": 8,
     "ver": "8.2",
     "dfKey": 6
+  },
+  "Hortensia - Winter's Dearest": {
+    "id": "Hortensia - Winter's Dearest",
+    "title": "冬天最可愛的",
+    "name": "奧爾坦希亞",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "cavalry",
+    "weaponType": "white-staff",
+    "pool": "special",
+    "releaseDate": "2024-12-13",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [45, 48, 52],
+        "def": [13, 17, 20],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 9,
+        "def": 4,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 180,
+    "statMax": 180,
+    "book": 9,
+    "ver": "9.0",
+    "dfKey": 7
   },
   "Rosado - Adorable Artist": {
     "id": "Rosado - Adorable Artist",

@@ -3350,6 +3350,27 @@
       "Beast Threaten": 5
     }
   },
+  "Eikþyrnir - Blessed Strength": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 3,
+      "Adult (Cavalry)": 3,
+      "Delivering Antler": 5
+    },
+    "assist": {
+      "Smite": 3
+    },
+    "skillA": {
+      "Solid Ground 1": 3,
+      "Solid Ground 2": 4,
+      "Solid Ground 3": 5
+    },
+    "skillC": {
+      "Breath of Life 1": 1,
+      "Breath of Life 2": 2,
+      "Breath of Life 3": 4
+    }
+  },
   "Læraðr - Quieting Heart": {
     "weapon": {
       "Whelp (Armored)": 1,
@@ -15599,6 +15620,33 @@
       "A/D Far Save 1": 1,
       "A/D Far Save 2": 2,
       "A/D Far Save 3": 4
+    }
+  },
+  "Fomortiis - Dark of Night": {
+    "weapon": {
+      "Whelp (Armored)": 1,
+      "Yearling (Arm.)": 3,
+      "Adult (Armored)": 3,
+      "Icy Ravager": 5
+    },
+    "special": {
+      "Holy Vestments": 3,
+      "Aegis": 4
+    },
+    "skillA": {
+      "Leaden Regrets": 5
+    },
+    "skillB": {
+      "Hardy Fighter 1": 2,
+      "Hardy Fighter 2": 3,
+      "Hardy Fighter 3": 4,
+      "Shield Fighter": 5
+    },
+    "skillC": {
+      "A/D Far Save 1": 2,
+      "A/D Far Save 2": 3,
+      "A/D Far Save 3": 4,
+      "A/D Briar F Save": 5
     }
   },
   "Ike - Young Mercenary": {
@@ -27922,6 +27970,33 @@
       "Atk/Def Menace": 5
     }
   },
+  "Shez - Snowfield Envoy": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 3,
+      "Silver Dagger": 3,
+      "Red-Fist Blades": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Swift Ice": 5
+    },
+    "skillB": {
+      "Disarm Trap 1": 2,
+      "Disarm Trap 2": 3,
+      "Disarm Trap 3": 4,
+      "Full Disarm": 5
+    },
+    "skillC": {
+      "Pulse Smoke 1": 2,
+      "Pulse Smoke 2": 3,
+      "Pulse Smoke 3": 4,
+      "Pulse Smog": 5
+    }
+  },
   "Monica - Favored Vassal": {
     "weapon": {
       "Light": 1,
@@ -28174,6 +28249,37 @@
       "Atk/Spd Pledge": 5
     }
   },
+  "Alear - Seaside Dragon": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Maritime Arts": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Glimmer": 4,
+      "Bond Blast": 5
+    },
+    "skillA": {
+      "Spd/Res Finish 1": 2,
+      "Spd/Res Finish 2": 3,
+      "Spd/Res Finish 3": 4,
+      "Spd/Res Finish 4": 5
+    },
+    "skillB": {
+      "Null C-Disrupt 1": 2,
+      "Null C-Disrupt 2": 3,
+      "Null C-Disrupt 3": 4,
+      "Null C-Disrupt 4": 5
+    },
+    "skillC": {
+      "Even Res Wave 1": 2,
+      "Even Res Wave 2": 3,
+      "Even Res Wave 3": 4,
+      "Even Res Wave D": 5
+    }
+  },
   "Alear - Dragon Youth": {
     "weapon": {
       "Iron Sword": 1,
@@ -28231,29 +28337,26 @@
       "Atk/Spd Pledge": 5
     }
   },
-  "Alear - Seaside Dragon": {
+  "Alear - Gifted Dragons": {
     "weapon": {
       "Fire Breath": 1,
-      "Fire Breath+": 2,
+      "Fire Breath+": 3,
       "Flametongue": 3,
-      "Maritime Arts": 5
+      "Wintery Arts": 5
     },
     "special": {
-      "Night Sky": 3,
-      "Glimmer": 4,
-      "Bond Blast": 5
+      "Chilling Wind": 3,
+      "Iceberg": 4,
+      "Dragon's Roar": 5
     },
     "skillA": {
-      "Spd/Res Finish 1": 2,
-      "Spd/Res Finish 2": 3,
-      "Spd/Res Finish 3": 4,
-      "Spd/Res Finish 4": 5
+      "Emblems' Miracle": 5
     },
     "skillB": {
-      "Null C-Disrupt 1": 2,
-      "Null C-Disrupt 2": 3,
-      "Null C-Disrupt 3": 4,
-      "Null C-Disrupt 4": 5
+      "Spd/Res Bulwark 1": 2,
+      "Spd/Res Bulwark 2": 3,
+      "Spd/Res Bulwark 3": 4,
+      "S/R Spiked Wall": 5
     },
     "skillC": {
       "Even Res Wave 1": 2,
@@ -28835,6 +28938,38 @@
     },
     "skillC": {
       "Glittering Anima": 5
+    }
+  },
+  "Hortensia - Winter's Dearest": {
+    "weapon": {
+      "Assault": 4,
+      "Snowman Staff": 5
+    },
+    "assist": {
+      "Heal": 2,
+      "Mend": 2,
+      "Ice Lock": 3,
+      "Ice Lock+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Miracle": 3,
+      "Holy Pressure": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Catch 4": 5
+    },
+    "skillB": {
+      "Wrathful Staff 1": 2,
+      "Wrathful Staff 2": 3,
+      "Wrathful Staff 3": 4,
+      "Poetic Justice": 5
+    },
+    "skillC": {
+      "Twinkling Anima": 5
     }
   },
   "Rosado - Adorable Artist": {
