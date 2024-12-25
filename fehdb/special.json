@@ -561,6 +561,15 @@
     "exclusive": ["Lilina - Brilliant Flame"],
     "last": true
   },
+  "Astra Storm": {
+    "id": "Astra Storm",
+    "name": "流星雨",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Astra"],
+    "exclusive": ["Lyn - Of Blazing"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

@@ -4434,6 +4434,7 @@
         },
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
+        "emblem": { "5": ["Lyn - Of Blazing"] },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
         "mythic": {
           "5": ["Nerþuz - God of the Land", "Hræsvelgr - Quieting Blade"]
@@ -9484,7 +9485,7 @@
         },
         "ascended": { "5": ["Fir - Swordmaiden"] },
         "rearmed": { "5": ["Sothe - Dawning Zephyr", "Leila - Superb Shadow"] },
-        "emblem": { "5": ["Marth - Of Beginnings"] },
+        "emblem": { "5": ["Marth - Of Beginnings", "Lyn - Of Blazing"] },
         "legendary": {
           "5": [
             "Byleth - The Fódlan Light",
@@ -9521,7 +9522,7 @@
         },
         "ascended": { "5": ["Fir - Swordmaiden"] },
         "rearmed": { "5": ["Sothe - Dawning Zephyr", "Leila - Superb Shadow"] },
-        "emblem": { "5": ["Marth - Of Beginnings"] },
+        "emblem": { "5": ["Marth - Of Beginnings", "Lyn - Of Blazing"] },
         "legendary": {
           "5": [
             "Byleth - The Fódlan Light",
@@ -13361,6 +13362,22 @@
       "sp": 300,
       "icon": "skillB/Momentum_4",
       "rules": "learner.infantry-cavalry-flying-melee"
+    },
+    "Speedtaker 3": {
+      "pool": { "emblem": { "5": ["Lyn - Of Blazing"] } },
+      "id": "Speedtaker 3",
+      "name": "速度吸收3",
+      "sp": 240,
+      "icon": "skillB/Speedtaker_3",
+      "rules": "learner.infantry-flying-def-dmger"
+    },
+    "Speedtaker 4": {
+      "pool": { "emblem": { "5": ["Lyn - Of Blazing"] } },
+      "id": "Speedtaker 4",
+      "name": "速度吸收4",
+      "sp": 300,
+      "icon": "skillB/Speedtaker_4",
+      "rules": "learner.infantry-flying-def-dmger"
     }
   },
   "skillC": {
@@ -15194,6 +15211,7 @@
           ]
         },
         "grail": { "5": ["Linus - Savage Dog", "Panette - Classy Brawler"] },
+        "emblem": { "5": ["Lyn - Of Blazing"] },
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "mythic": {
           "5": [
@@ -15219,6 +15237,7 @@
     },
     "Panic Smoke 4": {
       "pool": {
+        "emblem": { "5": ["Lyn - Of Blazing"] },
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "mythic": {
           "5": ["Reginn - Bearing Hope", "Heiðr - Innocent Goddess"]

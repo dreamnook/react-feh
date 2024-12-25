@@ -259,6 +259,10 @@
     "weaponType": 16777207,
     "moveType": 9
   },
+  "learner.infantry-flying-def-dmger": {
+    "moveType": 9,
+    "weaponType": 15732727
+  },
   "learner.infantry-flying-melee": {
     "weaponType": 16711687,
     "moveType": 9

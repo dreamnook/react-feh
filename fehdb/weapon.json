@@ -15202,6 +15202,16 @@
       "exclusive": ["Lucina - Shadows of Fate"],
       "last": true
     },
+    "Lady's Bow": {
+      "id": "Lady's Bow",
+      "name": "草原女爵之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Lyn - Of Blazing"],
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",

@@ -23969,6 +23969,41 @@
     "ver": "4.3",
     "dfKey": 2
   },
+  "Lyn - Of Blazing": {
+    "id": "Lyn - Of Blazing",
+    "title": "烈火紋章士",
+    "name": "琳",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-bow",
+    "pool": "emblem",
+    "releaseDate": "2024-12-25",
+    "appearsIn": ["The Blazing Blade", "Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [25, 29, 32],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 7,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.0",
+    "dfKey": 7
+  },
   "Eirika - Restoration Lady": {
     "id": "Eirika - Restoration Lady",
     "title": "碧風的善良公主",

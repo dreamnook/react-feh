@@ -12565,6 +12565,20 @@
     "skillB": { "Potent 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
   },
+  "Lyn - Of Blazing": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Speedtaker 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
   "Alear - Awoken Divinity": {
     "score": 276,
     "scoreTotal": 1012,

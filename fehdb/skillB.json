@@ -5358,5 +5358,38 @@
     "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillB/Momentum_4",
     "last": true
+  },
+  "Speedtaker 1": {
+    "id": "Speedtaker 1",
+    "name": "速度吸收1",
+    "sp": 60,
+    "rules": "learner.infantry-flying-def-dmger",
+    "icon": "skillB/Speedtaker_1"
+  },
+  "Speedtaker 2": {
+    "id": "Speedtaker 2",
+    "name": "速度吸收2",
+    "sp": 120,
+    "prev": ["Speedtaker 1"],
+    "rules": "learner.infantry-flying-def-dmger",
+    "icon": "skillB/Speedtaker_2"
+  },
+  "Speedtaker 3": {
+    "id": "Speedtaker 3",
+    "name": "速度吸收3",
+    "sp": 240,
+    "prev": ["Speedtaker 2"],
+    "rules": "learner.infantry-flying-def-dmger",
+    "icon": "skillB/Speedtaker_3",
+    "last": true
+  },
+  "Speedtaker 4": {
+    "id": "Speedtaker 4",
+    "name": "速度吸收4",
+    "sp": 300,
+    "prev": ["Speedtaker 3"],
+    "rules": "learner.infantry-flying-def-dmger",
+    "icon": "skillB/Speedtaker_4",
+    "last": true
   }
 }
