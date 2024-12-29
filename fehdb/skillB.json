@@ -726,6 +726,14 @@
     "last": true,
     "icon": "skillB/Font_of_Wisdom"
   },
+  "Heavenly Wings": {
+    "id": "Heavenly Wings",
+    "name": "抵達天際的羽翼",
+    "sp": 300,
+    "exclusive": ["Tana - Soaring New Year"],
+    "last": true,
+    "icon": "skillB/Heavenly_Wings"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -2033,6 +2041,15 @@
     "prev": ["Sabotage Spd 3", "Sabotage Res 3"],
     "last": true,
     "icon": "skillB/Sabotage_S_R_3"
+  },
+  "Atk/Res Discord": {
+    "id": "Atk/Res Discord",
+    "name": "攻擊魔防的不和",
+    "sp": 300,
+    "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
+    "rules": "learner.infantry-flying",
+    "last": true,
+    "icon": "skillB/Atk_Res_Discord"
   },
   "Spd/Res Discord": {
     "id": "Spd/Res Discord",
@@ -5127,6 +5144,15 @@
     "rules": "learner.beast-infantry-cavalry-flying",
     "icon": "skillB/Beast_Assault_4",
     "last": true
+  },
+  "Bestial Assault": {
+    "id": "Bestial Assault",
+    "name": "獸影・強襲",
+    "sp": 300,
+    "prev": ["Beast Agility 3", "Beast Follow-Up 3"],
+    "rules": "beast",
+    "last": true,
+    "icon": "skillB/Bestial_Assault"
   },
   "Gambit 1": {
     "id": "Gambit 1",

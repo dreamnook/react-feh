@@ -616,7 +616,7 @@
         "refine": 350
       },
       "Campaign Lance+": {
-        "pool": { "#": { "5": ["Oswin - Impregnable Knight"] } },
+        "pool": { "#": { "3": ["Oswin - Impregnable Knight"] } },
         "id": "Campaign Lance+",
         "name": "繼戰之槍+",
         "sp": 300,
@@ -1007,7 +1007,7 @@
         "refine": 350
       },
       "Pursual Axe+": {
-        "pool": { "#": { "4": ["Uther - Frugal Militarist"] } },
+        "pool": { "#": { "3": ["Uther - Frugal Militarist"] } },
         "id": "Pursual Axe+",
         "name": "追擊之斧+",
         "sp": 300,
@@ -1609,6 +1609,13 @@
         "pool": { "grail": { "5": ["Takumi - Wishful Spark"] } },
         "id": "Stall-Game Bow+",
         "name": "射箭遊戲之弓+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Snaking Bow+": {
+        "pool": { "grail": { "5": ["Innes - New Year's Aim"] } },
+        "id": "Snaking Bow+",
+        "name": "巳年之弓+",
         "sp": 300,
         "refine": 350
       }
@@ -4444,6 +4451,7 @@
           "5": [
             "Gaius - Thief Exposed",
             "Larcei - Scion of Astra",
+            "Hræsvelgr - Wings of Healing",
             "Tibarn - Shipless Pirate",
             "Timerra - Trick or Meat"
           ]
@@ -4620,6 +4628,7 @@
             "Tormod - Indomitable Will"
           ],
           "5": [
+            "Tana - Soaring New Year",
             "Camilla - Holiday Traveler",
             "Karla - Sun-Piercing Steel",
             "Freyr - Estival Dreams",
@@ -4745,7 +4754,9 @@
     "Sturdy Beast": {
       "pool": {
         "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
-        "special": { "5": ["Askr - Open Harvest"] }
+        "special": {
+          "5": ["Askr - Open Harvest", "Níðhöggr - Daze of Healing"]
+        }
       },
       "id": "Sturdy Beast",
       "name": "堅固之獸",
@@ -4753,7 +4764,10 @@
       "rules": "beast"
     },
     "Nimble Beast": {
-      "pool": { "mythic": { "5": ["Hræsvelgr - Quieting Blade"] } },
+      "pool": {
+        "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
+        "special": { "5": ["Hræsvelgr - Wings of Healing"] }
+      },
       "id": "Nimble Beast",
       "name": "敏捷之獸",
       "sp": 500,
@@ -4902,9 +4916,9 @@
             "Boey - Skillful Survivor",
             "Thea - Stormy Flier",
             "Balthus - King of Grappling",
-            "Bors - Ostia's Bastion"
+            "Bors - Ostia's Bastion",
+            "Uther - Frugal Militarist"
           ],
-          "4": ["Uther - Frugal Militarist"],
           "5": [
             "Robin - Fell Reincarnation",
             "Eyvel - Mistress of Fiana",
@@ -4958,7 +4972,8 @@
             "Reginn - Bearing Dawn",
             "Robin - Fated Vessel",
             "Gustav - Majestic Love",
-            "Askr - Open Harvest"
+            "Askr - Open Harvest",
+            "Níðhöggr - Daze of Healing"
           ]
         }
       },
@@ -5143,6 +5158,7 @@
             "Brunnya - Devoted General",
             "Linhardt - Spring Snoozer",
             "Soren - Wind of Tradition",
+            "Innes - New Year's Aim",
             "Sonia - Inhuman Beauty",
             "Riev - Blood Beryl",
             "Aelfric - Custodian Monk",
@@ -5271,6 +5287,7 @@
         "ascended": { "5": ["Ced - Sage of the Wind"] },
         "rearmed": { "5": ["Sonya - Beautiful Mage"] },
         "legendary": { "5": ["Dimitri - Savior King"] },
+        "duo": { "5": ["Heiðrún - Sisters of Healing"] },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
       "id": "Blazing Wind",
@@ -5393,10 +5410,10 @@
           "3": [
             "Draug - Gentle Giant",
             "Hinata - Wild Samurai",
-            "Benny - Sensitive Soul"
+            "Benny - Sensitive Soul",
+            "Oswin - Impregnable Knight"
           ],
           "5": [
-            "Oswin - Impregnable Knight",
             "Hector - General of Ostia",
             "Dedue - Dimitri's Vassal",
             "Reinhardt - Thunder's Sword"
@@ -6157,7 +6174,9 @@
           "4": ["Leo - Festival Bonds"],
           "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"]
         },
-        "duo": { "5": ["Thórr - Sun-Kissed Gods"] }
+        "duo": {
+          "5": ["Thórr - Sun-Kissed Gods", "Heiðrún - Sisters of Healing"]
+        }
       },
       "id": "Still Water 3",
       "name": "止水3",
@@ -6192,7 +6211,8 @@
     "Crystalline Water": {
       "pool": {
         "#": { "5": ["Veyle - Fell Successor"] },
-        "rearmed": { "5": ["Marianne - Cursed Blessing"] }
+        "rearmed": { "5": ["Marianne - Cursed Blessing"] },
+        "duo": { "5": ["Heiðrún - Sisters of Healing"] }
       },
       "id": "Crystalline Water",
       "name": "明鏡止水",
@@ -6867,12 +6887,8 @@
     "Sturdy Stance 2": {
       "pool": {
         "#": {
-          "3": ["Altena - Luminous Rider"],
-          "5": [
-            "Oswin - Impregnable Knight",
-            "Dedue - Dimitri's Vassal",
-            "Gilliam - Wall of Silence"
-          ]
+          "3": ["Altena - Luminous Rider", "Oswin - Impregnable Knight"],
+          "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"]
         },
         "grail": {
           "4": ["Dorcas - Pumpkin Smasher", "Ludveck - Rebellious Duke"]
@@ -8771,6 +8787,7 @@
           "5": [
             "Juno - Soaring Bride",
             "Manuela - Silver Caroler",
+            "Hræsvelgr - Wings of Healing",
             "Nino - Flower of Frost"
           ]
         },
@@ -8851,7 +8868,10 @@
       "icon": "skillA/Def_Res_Form_3"
     },
     "Atk/Spd Fortune": {
-      "pool": { "mythic": { "5": ["Hræsvelgr - Quieting Blade"] } },
+      "pool": {
+        "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
+        "special": { "5": ["Hræsvelgr - Wings of Healing"] }
+      },
       "id": "Atk/Spd Fortune",
       "name": "攻擊速度的共榮",
       "sp": 300,
@@ -9622,6 +9642,7 @@
     "Spd/Res Finish 3": {
       "pool": {
         "#": { "3": ["Yuliya - Princess of Grust"] },
+        "grail": { "5": ["Innes - New Year's Aim"] },
         "ascended": { "5": ["Tiki - Awakened Blood"] },
         "legendary": {
           "5": ["Guinivere - Queen of Bern", "Corrin - Child of Dawn"]
@@ -10246,7 +10267,7 @@
     "Special Fighter 3": {
       "pool": {
         "#": {
-          "4": ["Uther - Frugal Militarist"],
+          "3": ["Uther - Frugal Militarist"],
           "5": [
             "Tiki - Torpid Dragon",
             "Nagi - Dragon Avatar",
@@ -10286,7 +10307,7 @@
     },
     "Odd Follow-Up 3": {
       "pool": {
-        "#": { "5": ["Oswin - Impregnable Knight"] },
+        "#": { "3": ["Oswin - Impregnable Knight"] },
         "special": {
           "4": ["Raphael - Muscle-Monger"],
           "5": ["Artur - Silver Saint"]
@@ -10347,7 +10368,8 @@
           "5": [
             "Dheginsea - Harvest Goldoan",
             "Henriette - Overflowing Love",
-            "Robin - Fall Reincarnation"
+            "Robin - Fall Reincarnation",
+            "Níðhöggr - Daze of Healing"
           ]
         }
       },
@@ -10358,7 +10380,10 @@
       "rules": "armored"
     },
     "Slick Fighter 4": {
-      "pool": { "mythic": { "5": ["Níðhöggr - Quieting Dose"] } },
+      "pool": {
+        "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
+        "special": { "5": ["Níðhöggr - Daze of Healing"] }
+      },
       "id": "Slick Fighter 4",
       "name": "正面隊形・自己4",
       "sp": 300,
@@ -10994,6 +11019,7 @@
         "duo": {
           "5": [
             "Seiðr - Time's Goddesses",
+            "Heiðrún - Sisters of Healing",
             "Mark - Winds of Hope",
             "Sanaki - Dawnsworn Ninja"
           ]
@@ -11028,6 +11054,14 @@
       "name": "速度魔防擾亂3",
       "sp": 300,
       "icon": "skillB/Sabotage_S_R_3"
+    },
+    "Atk/Res Discord": {
+      "pool": { "duo": { "5": ["Heiðrún - Sisters of Healing"] } },
+      "id": "Atk/Res Discord",
+      "name": "攻擊魔防的不和",
+      "sp": 300,
+      "icon": "skillB/Atk_Res_Discord",
+      "rules": "learner.infantry-flying"
     },
     "Spd/Res Discord": {
       "pool": { "rearmed": { "5": ["Marianne - Cursed Blessing"] } },
@@ -12176,6 +12210,7 @@
           ]
         },
         "grail": {
+          "4": ["Innes - New Year's Aim"],
           "5": ["Perne - Dacian Scoundrel", "Lumera - Dragon Monarch"]
         },
         "ascended": { "5": ["Joshua - Resolute Tempest", "Fir - Swordmaiden"] },
@@ -13149,7 +13184,8 @@
       "pool": {
         "mythic": {
           "5": ["Embla - God of Closure", "Ratatoskr - Mending Hand"]
-        }
+        },
+        "special": { "5": ["Hræsvelgr - Wings of Healing"] }
       },
       "id": "Beast Agility 3",
       "name": "絕對化身・敏捷3",
@@ -13215,6 +13251,14 @@
       "sp": 300,
       "icon": "skillB/Beast_Assault_4",
       "rules": "learner.beast-infantry-cavalry-flying"
+    },
+    "Bestial Assault": {
+      "pool": { "special": { "5": ["Hræsvelgr - Wings of Healing"] } },
+      "id": "Bestial Assault",
+      "name": "獸影・強襲",
+      "sp": 300,
+      "icon": "skillB/Bestial_Assault",
+      "rules": "beast"
     },
     "Gambit 3": {
       "pool": {
@@ -13857,6 +13901,7 @@
             "Berkut - Debonair Noble",
             "Lyn - Lady of the Beach",
             "Merric - Changing Winds",
+            "Níðhöggr - Daze of Healing",
             "Lilina - Beaming Bride"
           ]
         }
@@ -13884,6 +13929,22 @@
       "name": "遠距離相互警戒",
       "sp": 300,
       "icon": "skillC/Joint_Dist._Guard"
+    },
+    "Barricade": {
+      "pool": { "mythic": { "5": ["Læraðr - Quieting Heart"] } },
+      "id": "Barricade",
+      "name": "地盤・守護",
+      "sp": 300,
+      "icon": "skillC/Barricade",
+      "rules": "learner.dragon-beast"
+    },
+    "Higher Ground": {
+      "pool": { "special": { "5": ["Níðhöggr - Daze of Healing"] } },
+      "id": "Higher Ground",
+      "name": "地盤・護手・遠",
+      "sp": 300,
+      "icon": "skillC/Higher_Ground",
+      "rules": "learner.armored-dragon-beast"
     },
     "Goad Armor": {
       "pool": {
@@ -14081,6 +14142,7 @@
           "5": [
             "Claude - Tropical Trouble",
             "Reina - Sanguine Shinobi",
+            "Tana - Soaring New Year",
             "Igrene - Ninja of Nabata",
             "Say'ri - Righteous Bride",
             "Petra - Faraway Sun"
@@ -14241,7 +14303,11 @@
       "rules": "learner.flying-melee"
     },
     "S/D Rein Snap": {
-      "pool": { "special": { "5": ["Say'ri - Righteous Bride"] } },
+      "pool": {
+        "special": {
+          "5": ["Tana - Soaring New Year", "Say'ri - Righteous Bride"]
+        }
+      },
       "id": "S/D Rein Snap",
       "name": "速度防守牽制・推手",
       "sp": 300,
@@ -14602,8 +14668,7 @@
     "Def Tactic 3": {
       "pool": {
         "#": {
-          "3": ["Mustafa - Plegian Champion"],
-          "4": ["Uther - Frugal Militarist"],
+          "3": ["Mustafa - Plegian Champion", "Uther - Frugal Militarist"],
           "5": ["Shiro - Raw Talent"]
         },
         "grail": {
@@ -15378,6 +15443,14 @@
       "name": "鍛鍊之躍動・刃",
       "sp": 300,
       "icon": "skillC/Pulse_Up_Blades",
+      "rules": "infantry"
+    },
+    "Pulse Up: Ploy": {
+      "pool": { "mythic": { "5": ["Rune - Source of Wisdom"] } },
+      "id": "Pulse Up: Ploy",
+      "name": "鍛鍊之躍動・謀策",
+      "sp": 300,
+      "icon": "skillC/Pulse_Up_Ploy",
       "rules": "infantry"
     },
     "Creation Pulse": {
@@ -16789,6 +16862,22 @@
       "icon": "skillC/Shadow_Shift_4",
       "rules": "learner.cavalry-flying"
     },
+    "Lookout 3": {
+      "pool": { "rearmed": { "5": ["Leila - Superb Shadow"] } },
+      "id": "Lookout 3",
+      "name": "開路3",
+      "sp": 240,
+      "icon": "skillC/Lookout_3",
+      "rules": "dagger"
+    },
+    "Lookout Force": {
+      "pool": { "rearmed": { "5": ["Leila - Superb Shadow"] } },
+      "id": "Lookout Force",
+      "name": "開路・不屈",
+      "sp": 300,
+      "icon": "skillC/Lookout_Force",
+      "rules": "dagger"
+    },
     "Sword Exp. 3": {
       "pool": { "#": { "3": ["Athena - Borderland Sword"] } },
       "id": "Sword Exp. 3",
@@ -16987,38 +17076,6 @@
       "sp": 120,
       "icon": "skillC/Beast_Valor_3",
       "rules": "beast"
-    },
-    "Barricade": {
-      "pool": { "mythic": { "5": ["Læraðr - Quieting Heart"] } },
-      "id": "Barricade",
-      "name": "地盤・守護",
-      "sp": 300,
-      "icon": "skillC/Barricade",
-      "rules": "learner.dragon-beast"
-    },
-    "Lookout Force": {
-      "pool": { "rearmed": { "5": ["Leila - Superb Shadow"] } },
-      "id": "Lookout Force",
-      "name": "開路・不屈",
-      "sp": 300,
-      "icon": "skillC/Lookout_Force",
-      "rules": "dagger"
-    },
-    "Pulse Up: Ploy": {
-      "pool": { "mythic": { "5": ["Rune - Source of Wisdom"] } },
-      "id": "Pulse Up: Ploy",
-      "name": "鍛鍊之躍動・謀策",
-      "sp": 300,
-      "icon": "skillC/Pulse_Up_Ploy",
-      "rules": "infantry"
-    },
-    "Lookout 3": {
-      "pool": { "rearmed": { "5": ["Leila - Superb Shadow"] } },
-      "id": "Lookout 3",
-      "name": "開路3",
-      "sp": 240,
-      "icon": "skillC/Lookout_3",
-      "rules": "dagger"
     }
   },
   "skillX": {

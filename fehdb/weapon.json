@@ -3450,6 +3450,16 @@
       "exclusive": ["Hector - Steel Warrior"],
       "last": true
     },
+    "Snaking Sword": {
+      "id": "Snaking Sword",
+      "name": "巳年的神蛇之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Tana - Soaring New Year"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -16994,6 +17004,39 @@
         }
       },
       "last": true
+    },
+    "Snaking Bow": {
+      "id": "Snaking Bow",
+      "name": "巳年之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Snaking Bow+": {
+      "id": "Snaking Bow+",
+      "name": "巳年之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Snaking Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "dagger": {
@@ -20455,6 +20498,26 @@
       "sp": 400,
       "prev": ["Adult (Armored)"],
       "exclusive": ["Fomortiis - Dark of Night"],
+      "last": true
+    },
+    "New Year Fang": {
+      "id": "New Year Fang",
+      "name": "巳年的毒牙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Armored)"],
+      "exclusive": ["Níðhöggr - Daze of Healing"],
+      "last": true
+    },
+    "New Year Talon": {
+      "id": "New Year Talon",
+      "name": "開啟新年的刃爪",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Flier)"],
+      "exclusive": ["Hræsvelgr - Wings of Healing"],
       "last": true
     },
     "Arcane Nihility": {
@@ -27515,6 +27578,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Rune - Source of Wisdom"],
+      "last": true
+    },
+    "New Year Treats": {
+      "id": "New Year Treats",
+      "name": "新年雙神獸之祭器",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Heiðrún - Sisters of Healing"],
       "last": true
     },
     "Stone": {

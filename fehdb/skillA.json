@@ -264,7 +264,7 @@
     "id": "Divine Toxin",
     "name": "神獸的劇毒",
     "sp": 300,
-    "exclusive": ["Níðhöggr - Quieting Dose"],
+    "exclusive": ["Níðhöggr - Quieting Dose", "Níðhöggr - Daze of Healing"],
     "last": true,
     "icon": "skillA/Divine_Toxin"
   },

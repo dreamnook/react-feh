@@ -291,6 +291,10 @@
     "weaponType": 1044488,
     "moveType": 2
   },
+  "learner.armored-dragon-beast": {
+    "moveType": 2,
+    "weaponType": 16711680
+  },
   "learner.cavalry-melee": {
     "weaponType": 16711687,
     "moveType": 4

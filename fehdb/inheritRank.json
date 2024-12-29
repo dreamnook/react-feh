@@ -2647,18 +2647,6 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
-  "Uther - Frugal Militarist": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 205,
-    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
-    "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Def Tactic 3": { "sp": 240, "rarity": 4 } }
-  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -4053,6 +4041,30 @@
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Uther - Frugal Militarist": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 205,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Def Tactic 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Oswin - Impregnable Knight": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 205,
+    "special": { "Pavise": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Sturdy Stance 2": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Odd Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
   "Olivia - Festival Dancer": {
     "score": 254,
     "scoreTotal": 466,
@@ -4394,6 +4406,18 @@
     "bst": 185,
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Tana - Soaring New Year": {
+    "score": 318,
+    "scoreTotal": 530,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillC": { "S/D Rein Snap": { "sp": 300, "rarity": 5 } }
   },
   "Bruno - Masked Reveler": {
     "score": 249,
@@ -5765,6 +5789,19 @@
     "skillA": { "Def/Res Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Panic Ploy 3": { "sp": 240, "rarity": 4 } }
   },
+  "Innes - New Year's Aim": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 4 } }
+  },
   "Kana - Rising Sunlight": {
     "score": 299,
     "scoreTotal": 665,
@@ -6345,18 +6382,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Oswin - Impregnable Knight": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 205,
-    "special": { "Pavise": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Sturdy Stance 2": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Odd Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -11555,6 +11580,19 @@
     "skillB": { "Spd/Def Snag 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Alarm Def/Res": { "sp": 300, "rarity": 5 } }
   },
+  "Heiðrún - Sisters of Healing": {
+    "score": 318,
+    "scoreTotal": 954,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 215,
+    "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Discord": { "sp": 300, "rarity": 5 } }
+  },
   "Reginn - Bearing Hope": {
     "score": 276,
     "scoreTotal": 957,
@@ -14435,6 +14473,19 @@
     "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
   },
+  "Hræsvelgr - Wings of Healing": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Nimble Beast": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Fortune": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Bestial Assault": { "sp": 300, "rarity": 5 } }
+  },
   "Tiki - Bridal Reflections": {
     "score": 530,
     "scoreTotal": 1166,
@@ -14551,6 +14602,19 @@
     "special": { "Armored Beacon": { "sp": 500, "rarity": 5 } },
     "skillA": { "Def/Res Scowl 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Canny Fighter": { "sp": 300, "rarity": 5 } }
+  },
+  "Níðhöggr - Daze of Healing": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Sturdy Beast": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Slick Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Higher Ground": { "sp": 300, "rarity": 5 } }
   },
   "Ophelia - Dramatic Heroine": {
     "score": 400,
