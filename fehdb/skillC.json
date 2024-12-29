@@ -587,7 +587,6 @@
   "Nectar's Magic": {
     "id": "Nectar's Magic",
     "name": "神獸之蜜・魔道",
-    "cd": -1,
     "sp": 300,
     "exclusive": ["Heiðrún - Sisters of Healing"],
     "last": true,
