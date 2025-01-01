@@ -2175,6 +2175,30 @@
       "icon": "skillA/Atk_Def_Finish_3",
       "last": true
     },
+    "Atk/Res Finish 1": {
+      "id": "Atk/Res Finish 1",
+      "name": "攻擊魔防的奧秘1",
+      "sp": 60,
+      "rules": "infantry",
+      "icon": "skillA/Atk_Res_Finish_1"
+    },
+    "Atk/Res Finish 2": {
+      "id": "Atk/Res Finish 2",
+      "name": "攻擊魔防的奧秘2",
+      "sp": 120,
+      "prev": ["Atk/Res Finish 1"],
+      "rules": "infantry",
+      "icon": "skillA/Atk_Res_Finish_2"
+    },
+    "Atk/Res Finish 3": {
+      "id": "Atk/Res Finish 3",
+      "name": "攻擊魔防的奧秘3",
+      "sp": 240,
+      "prev": ["Atk/Res Finish 2"],
+      "rules": "infantry",
+      "icon": "skillA/Atk_Res_Finish_3",
+      "last": true
+    },
     "Spd/Res Finish 1": {
       "id": "Spd/Res Finish 1",
       "name": "速度魔防的奧秘1",
@@ -4682,6 +4706,30 @@
       "prev": ["Even Tempest 2"],
       "rules": "learner.infantry-flying-melee",
       "icon": "skillC/Even_Tempest_3",
+      "last": true
+    },
+    "Assault Troop 1": {
+      "id": "Assault Troop 1",
+      "name": "一齊突擊1",
+      "sp": 60,
+      "rules": "learner.wielder",
+      "icon": "skillC/Assault_Troop_1"
+    },
+    "Assault Troop 2": {
+      "id": "Assault Troop 2",
+      "name": "一齊突擊2",
+      "sp": 120,
+      "prev": ["Assault Troop 1"],
+      "rules": "learner.wielder",
+      "icon": "skillC/Assault_Troop_2"
+    },
+    "Assault Troop 3": {
+      "id": "Assault Troop 3",
+      "name": "一齊突擊3",
+      "sp": 240,
+      "prev": ["Assault Troop 2"],
+      "rules": "learner.wielder",
+      "icon": "skillC/Assault_Troop_3",
       "last": true
     }
   },

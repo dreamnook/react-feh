@@ -3452,7 +3452,7 @@
     },
     "Snaking Sword": {
       "id": "Snaking Sword",
-      "name": "巳年的神蛇之劍",
+      "name": "巳年神蛇之劍",
       "mt": 16,
       "cd": -1,
       "sp": 400,
@@ -20502,7 +20502,7 @@
     },
     "New Year Fang": {
       "id": "New Year Fang",
-      "name": "巳年的毒牙",
+      "name": "巳年劇毒之牙",
       "mt": 14,
       "cd": -1,
       "sp": 400,
@@ -20512,7 +20512,7 @@
     },
     "New Year Talon": {
       "id": "New Year Talon",
-      "name": "開啟新年的刃爪",
+      "name": "開啟新年的利刃之爪",
       "mt": 14,
       "cd": -1,
       "sp": 400,
@@ -27582,7 +27582,7 @@
     },
     "New Year Treats": {
       "id": "New Year Treats",
-      "name": "新年雙神獸之祭器",
+      "name": "新年雙神獸的祭器",
       "mt": 14,
       "cd": -1,
       "sp": 400,

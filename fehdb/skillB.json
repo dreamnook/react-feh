@@ -728,7 +728,7 @@
   },
   "Heavenly Wings": {
     "id": "Heavenly Wings",
-    "name": "抵達天際的羽翼",
+    "name": "沖天之翼",
     "sp": 300,
     "exclusive": ["Tana - Soaring New Year"],
     "last": true,
@@ -5147,7 +5147,7 @@
   },
   "Bestial Assault": {
     "id": "Bestial Assault",
-    "name": "獸影・強襲",
+    "name": "獸影・強攻",
     "sp": 300,
     "prev": ["Beast Agility 3", "Beast Follow-Up 3"],
     "rules": "beast",

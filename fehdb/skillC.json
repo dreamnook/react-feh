@@ -586,7 +586,7 @@
   },
   "Nectar's Magic": {
     "id": "Nectar's Magic",
-    "name": "神獸之蜜・魔道",
+    "name": "神獸的蜜露・魔道",
     "sp": 300,
     "exclusive": ["Heiðrún - Sisters of Healing"],
     "last": true,
@@ -1009,7 +1009,7 @@
   },
   "Higher Ground": {
     "id": "Higher Ground",
-    "name": "地盤・護手・遠",
+    "name": "地盤・守護人・遠",
     "sp": 300,
     "prev": ["Close Guard 3", "Distant Guard 3"],
     "rules": "learner.armored-dragon-beast",

@@ -13255,7 +13255,7 @@
     "Bestial Assault": {
       "pool": { "special": { "5": ["Hræsvelgr - Wings of Healing"] } },
       "id": "Bestial Assault",
-      "name": "獸影・強襲",
+      "name": "獸影・強攻",
       "sp": 300,
       "icon": "skillB/Bestial_Assault",
       "rules": "beast"
@@ -13941,7 +13941,7 @@
     "Higher Ground": {
       "pool": { "special": { "5": ["Níðhöggr - Daze of Healing"] } },
       "id": "Higher Ground",
-      "name": "地盤・護手・遠",
+      "name": "地盤・守護人・遠",
       "sp": 300,
       "icon": "skillC/Higher_Ground",
       "rules": "learner.armored-dragon-beast"
