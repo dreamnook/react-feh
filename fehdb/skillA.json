@@ -3716,6 +3716,15 @@
     "icon": "skillA/Def_Res_Form_3",
     "last": true
   },
+  "Sway Atk/Res": {
+    "id": "Sway Atk/Res",
+    "name": "攻擊魔防的傳教",
+    "sp": 300,
+    "prev": ["Atk/Res Form 3"],
+    "rules": "white-staff",
+    "last": true,
+    "icon": "skillA/Sway_Atk_Res"
+  },
   "Atk/Spd Fortune": {
     "id": "Atk/Spd Fortune",
     "name": "攻擊速度的共榮",
@@ -4180,6 +4189,15 @@
     "rules": "learner.infantry-armored",
     "icon": "skillA/Def_Res_Ideal_4",
     "last": true
+  },
+  "Perfect Atk/Spd": {
+    "id": "Perfect Atk/Spd",
+    "name": "攻擊速度完全",
+    "sp": 300,
+    "prev": ["Atk/Spd Ideal 3"],
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillA/Perfect_Atk_Spd"
   },
   "Atk/Spd Clash 1": {
     "id": "Atk/Spd Clash 1",

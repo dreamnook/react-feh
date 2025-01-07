@@ -4294,6 +4294,39 @@
       },
       "last": true
     },
+    "Campaign Blade": {
+      "id": "Campaign Blade",
+      "name": "繼戰之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Campaign Blade+": {
+      "id": "Campaign Blade+",
+      "name": "繼戰之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Campaign Blade"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Kadomatsu": {
       "id": "Kadomatsu",
       "name": "門松",
@@ -15273,6 +15306,26 @@
       "exclusive": ["Lyn - Of Blazing"],
       "last": true
     },
+    "Divine Yewfelle": {
+      "id": "Divine Yewfelle",
+      "name": "神弓伊奇巴爾",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Brigid - Awakened Bow"],
+      "last": true
+    },
+    "Rampart Bow": {
+      "id": "Rampart Bow",
+      "name": "弓騎士的守城弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Midir - Archer of Yngvi"],
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",
@@ -18058,6 +18111,34 @@
       },
       "last": true
     },
+    "Arcane Sly Knife": {
+      "id": "Arcane Sly Knife",
+      "name": "魔器・無形影刃",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Dagger"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Iron Dagger": {
       "id": "Iron Dagger",
       "name": "鐵暗器",
@@ -18506,6 +18587,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Gainful Dagger"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Helping Dagger": {
+      "id": "Helping Dagger",
+      "name": "合力暗器",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Helping Dagger+": {
+      "id": "Helping Dagger+",
+      "name": "合力暗器+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Helping Dagger"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -19494,34 +19608,6 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Giant Shuriken"],
-      "refine": {
-        "atk": {
-          "hp": 2,
-          "mt": 1
-        },
-        "spd": {
-          "hp": 2,
-          "spd": 2
-        },
-        "def": {
-          "hp": 2,
-          "def": 3
-        },
-        "res": {
-          "hp": 2,
-          "res": 3
-        }
-      },
-      "last": true
-    },
-    "Arcane Sly Knife": {
-      "id": "Arcane Sly Knife",
-      "name": "魔器・無形影刃",
-      "mt": 14,
-      "rearmed": true,
-      "cd": -1,
-      "sp": 300,
-      "prev": ["Silver Dagger"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -28217,6 +28303,16 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Hortensia - Winter's Dearest"],
+      "last": true
+    },
+    "Staff of Yngvi": {
+      "id": "Staff of Yngvi",
+      "name": "尤格威的聖杖",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Edain - Lady of Yngvi"],
       "last": true
     },
     "Arcane Charmer": {

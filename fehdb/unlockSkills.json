@@ -7526,6 +7526,95 @@
       "Pulse Smoke 3": 4
     }
   },
+  "Brigid - Awakened Bow": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Divine Yewfelle": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Perfect Atk/Spd": 5
+    },
+    "skillB": {
+      "I Remember...": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Creation Pulse": 5
+    },
+    "skillX": {
+      "Tempo Echo": 5
+    }
+  },
+  "Edain - Lady of Yngvi": {
+    "weapon": {
+      "Assault": 1,
+      "Staff of Yngvi": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Mend": 2,
+      "Magic Shield": 3,
+      "Magic Shield+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Miracle": 3,
+      "Glitter of Light": 5
+    },
+    "skillA": {
+      "Atk/Res Form 1": 2,
+      "Atk/Res Form 2": 3,
+      "Atk/Res Form 3": 4,
+      "Sway Atk/Res": 5
+    },
+    "skillB": {
+      "Sabotage Res 1": 2,
+      "Sabotage Res 2": 3,
+      "Sabotage Res 3": 4,
+      "Spd/Res Discord": 5
+    },
+    "skillC": {
+      "Infantry Pulse 1": 2,
+      "Infantry Pulse 2": 3,
+      "Infantry Pulse 3": 4,
+      "Infantry Pulse 4": 5
+    }
+  },
+  "Midir - Archer of Yngvi": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Rampart Bow": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Death Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Sly Swift Sparrow": 5
+    },
+    "skillC": {
+      "Rouse Spd/Def 1": 2,
+      "Rouse Spd/Def 2": 3,
+      "Rouse Spd/Def 3": 4,
+      "Incite Spd/Def": 5
+    }
+  },
   "Arvis - Emperor of Flame": {
     "weapon": {
       "Fire": 1,
@@ -7801,6 +7890,28 @@
       "Red Feud 1": 1,
       "Red Feud 2": 2,
       "Red Feud 3": 4
+    }
+  },
+  "Chulainn - Unbeaten Warrior": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Campaign Blade": 3,
+      "Campaign Blade+": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Wind Boost 1": 1,
+      "Wind Boost 2": 2,
+      "Wind Boost 3": 4
+    },
+    "skillB": {
+      "Spd/Def Bulwark 1": 3,
+      "Spd/Def Bulwark 2": 4,
+      "Spd/Def Bulwark 3": 5
     }
   },
   "Jamke - Prince of Verdane": {
@@ -8103,6 +8214,28 @@
       "Torrent Dance 1": 1,
       "Deluge Dance 1": 2,
       "Deluge Dance 2": 4
+    }
+  },
+  "Dew - Benevolent Thief": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Helping Dagger": 3,
+      "Helping Dagger+": 5
+    },
+    "special": {
+      "Daylight": 3,
+      "Sol": 4
+    },
+    "skillA": {
+      "Spd/Def Finish 1": 1,
+      "Spd/Def Finish 2": 2,
+      "Spd/Def Finish 3": 4
+    },
+    "skillC": {
+      "Atk/Spd Gap 1": 3,
+      "Atk/Spd Gap 2": 4,
+      "Atk/Spd Gap 3": 5
     }
   },
   "Seliph - Heir of Light": {

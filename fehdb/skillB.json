@@ -742,6 +742,14 @@
     "last": true,
     "icon": "skillB/Heavenly_Wings"
   },
+  "I Remember...": {
+    "id": "I Remember...",
+    "name": "記憶甦醒……",
+    "sp": 300,
+    "exclusive": ["Brigid - Awakened Bow"],
+    "last": true,
+    "icon": "skillB/I_Remember..."
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

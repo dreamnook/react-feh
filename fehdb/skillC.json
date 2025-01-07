@@ -3579,6 +3579,15 @@
     "last": true,
     "icon": "skillC/Incite_Atk_Res"
   },
+  "Incite Spd/Def": {
+    "id": "Incite Spd/Def",
+    "name": "速度防守的奮激",
+    "sp": 300,
+    "prev": ["Rouse Spd/Def 3"],
+    "rules": "learner.infantry-cavalry",
+    "last": true,
+    "icon": "skillC/Incite_Spd_Def"
+  },
   "Atk/Spd Oath 1": {
     "id": "Atk/Spd Oath 1",
     "name": "攻擊速度的信義1",

@@ -217,6 +217,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Campaign Blade+": {
+        "pool": { "grail": { "5": ["Chulainn - Unbeaten Warrior"] } },
+        "id": "Campaign Blade+",
+        "name": "繼戰之劍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Kadomatsu+": {
         "pool": { "special": { "5": ["Camilla - Holiday Traveler"] } },
         "id": "Kadomatsu+",
@@ -1635,6 +1642,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Sly Knife": {
+        "pool": { "rearmed": { "5": ["Leila - Superb Shadow"] } },
+        "id": "Arcane Sly Knife",
+        "name": "魔器・無形影刃",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Dagger+": {
         "pool": {
           "#": { "3": ["Jakob - Devoted Servant", "Felicia - Maid Mayhem"] }
@@ -1743,6 +1757,13 @@
         "pool": { "grail": { "5": ["Metodey - Shrewd Braggart"] } },
         "id": "Gainful Dagger+",
         "name": "有利狀態暗器+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Helping Dagger+": {
+        "pool": { "#": { "4": ["Dew - Benevolent Thief"] } },
+        "id": "Helping Dagger+",
+        "name": "合力暗器+",
         "sp": 300,
         "refine": 350
       },
@@ -1952,13 +1973,6 @@
         "pool": { "grail": { "5": ["Noire - Demurely Deft"] } },
         "id": "Giant Shuriken+",
         "name": "大手裏劍+",
-        "sp": 300,
-        "refine": 350
-      },
-      "Arcane Sly Knife": {
-        "pool": { "rearmed": { "5": ["Leila - Superb Shadow"] } },
-        "id": "Arcane Sly Knife",
-        "name": "魔器・無形影刃",
         "sp": 300,
         "refine": 350
       }
@@ -3199,14 +3213,20 @@
       "rules": "white-staff"
     },
     "Magic Shield": {
-      "pool": { "special": { "5": ["Emmeryn - Selfless Exalt"] } },
+      "pool": {
+        "#": { "5": ["Edain - Lady of Yngvi"] },
+        "special": { "5": ["Emmeryn - Selfless Exalt"] }
+      },
       "id": "Magic Shield",
       "name": "魔術之盾",
       "sp": 300,
       "rules": "white-staff"
     },
     "Magic Shield+": {
-      "pool": { "special": { "5": ["Emmeryn - Selfless Exalt"] } },
+      "pool": {
+        "#": { "5": ["Edain - Lady of Yngvi"] },
+        "special": { "5": ["Emmeryn - Selfless Exalt"] }
+      },
       "id": "Magic Shield+",
       "name": "魔術之盾+",
       "sp": 400,
@@ -3932,6 +3952,7 @@
             "Atlas - Forest Muscle",
             "Echidna - Unyielding Idealist"
           ],
+          "4": ["Dew - Benevolent Thief"],
           "5": [
             "Nagi - Dragon Avatar",
             "Lyon - Demon King",
@@ -4136,6 +4157,7 @@
             "Galzus - Dark Blade of Od",
             "Eirika - Pledged Restorer",
             "Gullveig - Seer Beyond Time",
+            "Midir - Archer of Yngvi",
             "Forde - Unfettered Knight",
             "Fogado - Affable Prince",
             "Febail - Mercenary Waif",
@@ -4161,6 +4183,7 @@
             "Ylgr - Breaking the Ice",
             "Shez - Mercenary Shade",
             "Valter - Dark Moonstone",
+            "Chulainn - Unbeaten Warrior",
             "Kronya - Gleaming Blade",
             "Linus - Mad Dog"
           ]
@@ -4607,7 +4630,7 @@
           ]
         },
         "ascended": { "5": ["Eir - Life Ascendant"] },
-        "attuned": { "5": ["Nino - Fang's Heart"] },
+        "attuned": { "5": ["Nino - Fang's Heart", "Brigid - Awakened Bow"] },
         "legendary": {
           "5": [
             "Marth - Hero-King",
@@ -5478,6 +5501,7 @@
             "Safy - Font of Piety",
             "Maria - Ritual Sacrifice",
             "Tina - Playful Scamp",
+            "Edain - Lady of Yngvi",
             "Delthea - Free Spirit",
             "Sigurd - Holy Knight"
           ]
@@ -5708,6 +5732,7 @@
     },
     "Glitter of Light": {
       "pool": {
+        "#": { "5": ["Edain - Lady of Yngvi"] },
         "rearmed": { "5": ["Hortensia - Little Charmer"] },
         "mythic": { "5": ["Loki - Trickster God"] }
       },
@@ -6362,6 +6387,7 @@
             "Olwen - Righteous Knight",
             "Eirika - Pledged Restorer",
             "Gullveig - Seer Beyond Time",
+            "Midir - Archer of Yngvi",
             "Fogado - Affable Prince",
             "Chrom - Fated Honor",
             "Ishtar - Thunder Goddess",
@@ -6776,7 +6802,10 @@
       "rules": "learner.cavalry-flying-not-staff"
     },
     "Sly Swift Sparrow": {
-      "pool": { "special": { "5": ["Tharja - Shadow Ninja"] } },
+      "pool": {
+        "#": { "5": ["Midir - Archer of Yngvi"] },
+        "special": { "5": ["Tharja - Shadow Ninja"] }
+      },
       "id": "Sly Swift Sparrow",
       "name": "鬼神飛燕掩擊",
       "sp": 300,
@@ -7650,7 +7679,11 @@
       "pool": {
         "#": { "5": ["Gray - Wry Comrade"] },
         "grail": {
-          "4": ["Astram - Midia's Hero", "Jarod - Nevassa General"],
+          "4": [
+            "Astram - Midia's Hero",
+            "Jarod - Nevassa General",
+            "Chulainn - Unbeaten Warrior"
+          ],
           "5": ["Lifis - Terror of Iz"]
         },
         "attuned": { "5": ["Azura - Song's Reflection"] },
@@ -8823,6 +8856,7 @@
     },
     "Atk/Res Form 3": {
       "pool": {
+        "#": { "5": ["Edain - Lady of Yngvi"] },
         "grail": {
           "4": ["Sophia - Cobweb Prophet", "Soren - Wind of Tradition"]
         },
@@ -8866,6 +8900,14 @@
       "name": "防守魔防的密集3",
       "sp": 240,
       "icon": "skillA/Def_Res_Form_3"
+    },
+    "Sway Atk/Res": {
+      "pool": { "#": { "5": ["Edain - Lady of Yngvi"] } },
+      "id": "Sway Atk/Res",
+      "name": "攻擊魔防的傳教",
+      "sp": 300,
+      "icon": "skillA/Sway_Atk_Res",
+      "rules": "white-staff"
     },
     "Atk/Spd Fortune": {
       "pool": {
@@ -9152,6 +9194,7 @@
           "5": ["Hans - Ambitious Brute", "Holst - Hero of Leicester"]
         },
         "ascended": { "5": ["Ced - Sage of the Wind"] },
+        "attuned": { "5": ["Brigid - Awakened Bow"] },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
         "special": { "4": ["Rinkah - Consuming Flame"] }
@@ -9329,6 +9372,14 @@
       "sp": 300,
       "icon": "skillA/Def_Res_Ideal_4",
       "rules": "learner.infantry-armored"
+    },
+    "Perfect Atk/Spd": {
+      "pool": { "attuned": { "5": ["Brigid - Awakened Bow"] } },
+      "id": "Perfect Atk/Spd",
+      "name": "攻擊速度完全",
+      "sp": 300,
+      "icon": "skillA/Perfect_Atk_Spd",
+      "rules": "infantry"
     },
     "Atk/Spd Clash 3": {
       "pool": {
@@ -9622,7 +9673,10 @@
     },
     "Spd/Def Finish 3": {
       "pool": {
-        "#": { "3": ["Caspar - Hotheaded Inciter"] },
+        "#": {
+          "3": ["Caspar - Hotheaded Inciter"],
+          "4": ["Dew - Benevolent Thief"]
+        },
         "attuned": { "5": ["Timerra - Desert Warrior"] }
       },
       "id": "Spd/Def Finish 3",
@@ -11011,7 +11065,10 @@
     },
     "Sabotage Res 3": {
       "pool": {
-        "#": { "3": ["Bastian - Crimea's Keystone"] },
+        "#": {
+          "3": ["Bastian - Crimea's Keystone"],
+          "5": ["Edain - Lady of Yngvi"]
+        },
         "grail": {
           "5": [
             "Sophia - Cobweb Prophet",
@@ -11071,7 +11128,10 @@
       "rules": "learner.infantry-flying"
     },
     "Spd/Res Discord": {
-      "pool": { "rearmed": { "5": ["Marianne - Cursed Blessing"] } },
+      "pool": {
+        "#": { "5": ["Edain - Lady of Yngvi"] },
+        "rearmed": { "5": ["Marianne - Cursed Blessing"] }
+      },
       "id": "Spd/Res Discord",
       "name": "速度魔防的不和",
       "sp": 300,
@@ -13134,7 +13194,10 @@
       "rules": "learner.infantry-melee"
     },
     "Spd/Def Bulwark 3": {
-      "pool": { "#": { "5": ["Shez - Rising Mercenary"] } },
+      "pool": {
+        "#": { "5": ["Shez - Rising Mercenary"] },
+        "grail": { "5": ["Chulainn - Unbeaten Warrior"] }
+      },
       "id": "Spd/Def Bulwark 3",
       "name": "速度防守防護屏障3",
       "sp": 240,
@@ -15391,7 +15454,9 @@
         },
         "ascended": { "5": ["Ishtar - Echoing Thunder"] },
         "rearmed": { "5": ["Ophelia - Starlit Maiden"] },
-        "attuned": { "5": ["Eirika - Resolute Princess"] },
+        "attuned": {
+          "5": ["Brigid - Awakened Bow", "Eirika - Resolute Princess"]
+        },
         "legendary": {
           "5": [
             "Alm - Saint-King",
@@ -15469,7 +15534,10 @@
       "rules": "infantry"
     },
     "Creation Pulse": {
-      "pool": { "#": { "5": ["Robin - Exalt's Right Hand"] } },
+      "pool": {
+        "#": { "5": ["Robin - Exalt's Right Hand"] },
+        "attuned": { "5": ["Brigid - Awakened Bow"] }
+      },
       "id": "Creation Pulse",
       "name": "開闢之躍動",
       "sp": 300,
@@ -15481,6 +15549,7 @@
         "#": {
           "5": [
             "Tina - Playful Scamp",
+            "Edain - Lady of Yngvi",
             "Nils - Bright Bard",
             "Dorcas - Serene Warrior",
             "Helbindi - Savage Scourge",
@@ -15508,7 +15577,7 @@
     },
     "Infantry Pulse 4": {
       "pool": {
-        "#": { "5": ["Tina - Playful Scamp"] },
+        "#": { "5": ["Tina - Playful Scamp", "Edain - Lady of Yngvi"] },
         "ascended": { "5": ["Ced - Sage of the Wind"] },
         "special": { "5": ["Framme - Spring Fangirl"] }
       },
@@ -16240,6 +16309,7 @@
     },
     "Atk/Spd Gap 3": {
       "pool": {
+        "#": { "4": ["Dew - Benevolent Thief"] },
         "special": {
           "4": ["Tharja - Beach Dark Mage"],
           "5": ["Anna - Wealth-Wisher"]
@@ -16417,6 +16487,7 @@
           "3": ["Ferdinand - Noblest of Nobles"],
           "5": [
             "Noah - Mercenary-Errant",
+            "Midir - Archer of Yngvi",
             "Corrin - Bloodbound Beast",
             "Priam - Radiant Hero"
           ]
@@ -16514,6 +16585,14 @@
       "name": "攻擊魔防的奮激",
       "sp": 300,
       "icon": "skillC/Incite_Atk_Res",
+      "rules": "learner.infantry-cavalry"
+    },
+    "Incite Spd/Def": {
+      "pool": { "#": { "5": ["Midir - Archer of Yngvi"] } },
+      "id": "Incite Spd/Def",
+      "name": "速度防守的奮激",
+      "sp": 300,
+      "icon": "skillC/Incite_Spd_Def",
       "rules": "learner.infantry-cavalry"
     },
     "Atk/Spd Oath 3": {
@@ -17147,6 +17226,13 @@
       "sp": 0,
       "icon": "skillX/Far_Trace_Echo",
       "rules": "learner.cavalry-flying-ranged"
+    },
+    "Tempo Echo": {
+      "pool": { "attuned": { "5": ["Brigid - Awakened Bow"] } },
+      "id": "Tempo Echo",
+      "name": "響・節拍",
+      "sp": 0,
+      "icon": "skillX/Tempo_Echo"
     },
     "Time Pulse Echo": {
       "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },

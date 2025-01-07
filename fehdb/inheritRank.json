@@ -2659,6 +2659,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Dew - Benevolent Thief": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 192,
+    "special": { "Sol": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Def Finish 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Spd Gap 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -3679,6 +3691,20 @@
     "assist": { "Rally Spd/Res": { "sp": 300, "rarity": 4 } },
     "skillA": { "Atk/Res 2": { "sp": 160, "rarity": 5 } },
     "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
+  },
+  "Edain - Lady of Yngvi": {
+    "score": 125,
+    "scoreTotal": 450,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1800,
+    "feather": 1000,
+    "bst": 188,
+    "assist": { "Magic Shield+": { "sp": 400, "rarity": 5 } },
+    "special": { "Glitter of Light": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Sway Atk/Res": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Discord": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Infantry Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Haar - Black Tempest": {
     "score": 322,
@@ -6954,6 +6980,19 @@
     "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 4 } },
     "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
   },
+  "Chulainn - Unbeaten Warrior": {
+    "score": 269,
+    "scoreTotal": 693,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 198,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Wind Boost 3": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Spd/Def Bulwark 3": { "sp": 240, "rarity": 5 } }
+  },
   "Takumi - Wild Card": {
     "score": 300,
     "scoreTotal": 700,
@@ -7158,6 +7197,20 @@
     "skillA": { "D Bonus Doubler": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Pledge": { "sp": 300, "rarity": 5 } },
     "skillX": { "Guard Echo": { "sp": 0, "rarity": 5 } }
+  },
+  "Brigid - Awakened Bow": {
+    "score": 270,
+    "scoreTotal": 720,
+    "poolRarity": 5,
+    "pool": "attuned",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Creation Pulse": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Tempo Echo": { "sp": 0, "rarity": 5 } }
   },
   "Lumera - Corrupted Dragon": {
     "score": 270,
@@ -9704,6 +9757,18 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
     "skillB": { "Pegasus Flight 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Midir - Archer of Yngvi": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Sly Swift Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Incite Spd/Def": { "sp": 300, "rarity": 5 } }
   },
   "Forde - Unfettered Knight": {
     "score": 300,

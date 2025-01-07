@@ -53,6 +53,13 @@
     "last": true,
     "icon": "skillX/Far_Trace_Echo"
   },
+  "Tempo Echo": {
+    "id": "Tempo Echo",
+    "name": "響・節拍",
+    "sp": 0,
+    "last": true,
+    "icon": "skillX/Tempo_Echo"
+  },
   "Time Pulse Echo": {
     "id": "Time Pulse Echo",
     "name": "響・初始之躍動",
