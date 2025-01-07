@@ -442,6 +442,7 @@
     "name": "知曉未來的力量・承",
     "sp": 300,
     "prev": ["Prescience"],
+    "exclusive": ["Micaiah - Radiant Queen"],
     "last": true,
     "icon": "skillB/Prescience_II"
   },

@@ -9891,13 +9891,6 @@
     }
   },
   "skillB": {
-    "Prescience II": {
-      "pool": { "legendary": { "5": ["Micaiah - Radiant Queen"] } },
-      "id": "Prescience II",
-      "name": "知曉未來的力量・承",
-      "sp": 300,
-      "icon": "skillB/Prescience_II"
-    },
     "Knock Back": {
       "pool": {
         "#": { "3": ["Olivia - Blushing Beauty", "Barst - The Hatchet"] }
@@ -13964,7 +13957,7 @@
         },
         "rearmed": { "5": ["Ganglöt - Death Anew"] },
         "legendary": {
-          "5": ["Lucina - Glorious Archer", "Micaiah - Radiant Queen"]
+          "5": ["Micaiah - Radiant Queen", "Lucina - Glorious Archer"]
         },
         "mythic": { "5": ["Gotoh - White Sage", "Læraðr - Quieting Heart"] },
         "special": {
@@ -15459,9 +15452,9 @@
         },
         "legendary": {
           "5": [
+            "Micaiah - Radiant Queen",
             "Alm - Saint-King",
-            "Byleth - The Fódlan Star",
-            "Micaiah - Radiant Queen"
+            "Byleth - The Fódlan Star"
           ]
         },
         "mythic": {

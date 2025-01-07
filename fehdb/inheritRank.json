@@ -6734,6 +6734,19 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } }
   },
+  "Micaiah - Radiant Queen": {
+    "score": 276,
+    "scoreTotal": 690,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 750,
+    "feather": 1000,
+    "bst": 185,
+    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Fury 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
   "Yuri - Underground Lord": {
     "score": 276,
     "scoreTotal": 690,
@@ -11755,20 +11768,6 @@
     "special": { "Ruptured Sky": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Res 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Micaiah - Radiant Queen": {
-    "score": 276,
-    "scoreTotal": 966,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 1050,
-    "feather": 1000,
-    "bst": 185,
-    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Fury 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Prescience II": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Ryoma - Samurai at Ease": {
     "score": 254,
