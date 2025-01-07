@@ -1226,6 +1226,18 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Seal Res 3": { "sp": 160, "rarity": 5 } }
   },
+  "Tana - Soaring New Year": {
+    "score": 163,
+    "scoreTotal": 259,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 300,
+    "bst": 194,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 4 } },
+    "skillC": { "S/D Rein Snap": { "sp": 300, "rarity": 5 } }
+  },
   "Bruno - Masked Hare": {
     "score": 80,
     "scoreTotal": 260,
@@ -4407,18 +4419,6 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 4": { "sp": 300, "rarity": 5 } }
   },
-  "Tana - Soaring New Year": {
-    "score": 318,
-    "scoreTotal": 530,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 500,
-    "feather": 1000,
-    "bst": 194,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillC": { "S/D Rein Snap": { "sp": 300, "rarity": 5 } }
-  },
   "Bruno - Masked Reveler": {
     "score": 249,
     "scoreTotal": 534,
@@ -6707,19 +6707,6 @@
     "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Res Catch 4": { "sp": 300, "rarity": 5 } }
-  },
-  "Micaiah - Radiant Queen": {
-    "score": 276,
-    "scoreTotal": 690,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 750,
-    "feather": 1000,
-    "bst": 185,
-    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Fury 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
   },
   "Yuri - Underground Lord": {
     "score": 276,
@@ -11635,20 +11622,6 @@
     "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Fatal Smoke 3": { "sp": 240, "rarity": 5 } }
   },
-  "Fae - Childlike Dragon": {
-    "score": 276,
-    "scoreTotal": 957,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 1040,
-    "feather": 1000,
-    "bst": 185,
-    "special": { "Miracle": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Dragon's Ire 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
-  },
   "Byleth - The Fódlan Star": {
     "score": 276,
     "scoreTotal": 957,
@@ -11717,6 +11690,20 @@
     "special": { "Ruptured Sky": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Res 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Micaiah - Radiant Queen": {
+    "score": 276,
+    "scoreTotal": 966,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1050,
+    "feather": 1000,
+    "bst": 185,
+    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Fury 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Prescience II": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Ryoma - Samurai at Ease": {
     "score": 254,
@@ -12588,6 +12575,20 @@
     "skillA": { "Verge of Death": { "sp": 300, "rarity": 5 } },
     "skillB": { "Resonance 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Fae - Childlike Dragon": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Miracle": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dragon's Scales": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
   },
   "Marth - Of Beginnings": {
     "score": 276,

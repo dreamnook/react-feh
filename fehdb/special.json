@@ -323,6 +323,15 @@
     "exclusive": ["Fae - Childlike Dragon"],
     "last": true
   },
+  "Life Unending II": {
+    "id": "Life Unending II",
+    "name": "永生者・承",
+    "cd": 5,
+    "sp": 500,
+    "prev": ["Life Unending"],
+    "exclusive": ["Fae - Childlike Dragon"],
+    "last": true
+  },
   "Divine Pulse": {
     "id": "Divine Pulse",
     "name": "天刻之脈動",

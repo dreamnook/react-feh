@@ -437,6 +437,14 @@
     "last": true,
     "icon": "skillB/Moonlight_Bangle"
   },
+  "Prescience II": {
+    "id": "Prescience II",
+    "name": "知曉未來的力量・承",
+    "sp": 300,
+    "prev": ["Prescience"],
+    "last": true,
+    "icon": "skillB/Prescience_II"
+  },
   "Prescience": {
     "id": "Prescience",
     "name": "知曉未來的力量",

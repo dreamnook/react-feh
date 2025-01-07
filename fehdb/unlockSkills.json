@@ -11316,7 +11316,8 @@
     },
     "special": {
       "Miracle": 3,
-      "Life Unending": 5
+      "Life Unending": 5,
+      "Life Unending II": 5
     },
     "skillA": {
       "Distant Counter": 4,
@@ -11325,7 +11326,8 @@
     "skillB": {
       "Dragon's Ire 1": 1,
       "Dragon's Ire 2": 2,
-      "Dragon's Ire 3": 4
+      "Dragon's Ire 3": 4,
+      "Dragon's Scales": 5
     },
     "skillC": {
       "Threaten Res 1": 2,
@@ -13342,7 +13344,8 @@
       "Thunder": 1,
       "Elthunder": 2,
       "Blárserpent": 3,
-      "Blárserpent+": 5
+      "Blárserpent+": 5,
+      "Fimbulvetr Morn": 5
     },
     "special": {
       "Chilling Wind": 3,
@@ -17024,13 +17027,18 @@
       "Fury 4": 5
     },
     "skillB": {
-      "Prescience": 5
+      "Prescience": 5,
+      "Prescience II": 5
     },
     "skillC": {
       "Distant Guard 1": 2,
       "Distant Guard 2": 3,
       "Distant Guard 3": 4,
-      "Joint Dist. Guard": 5
+      "Joint Dist. Guard": 5,
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Time's Pulse 4": 5
     }
   },
   "Micaiah - Wavecrest Maiden": {

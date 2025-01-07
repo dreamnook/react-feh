@@ -11062,6 +11062,68 @@
       "res": -5,
       "sp": 400,
       "exclusive": ["Lex - Young Blade"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Goddess_Axe_W",
+          "newStats": {
+            "mt": 11,
+            "hp": 5,
+            "atk": 6,
+            "spd": -5,
+            "def": 6,
+            "res": -5
+          }
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2,
+          "newStats": {
+            "mt": 11,
+            "hp": 5,
+            "atk": 6,
+            "spd": -5,
+            "def": 6,
+            "res": -5
+          }
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3,
+          "newStats": {
+            "hp": 5,
+            "atk": 6,
+            "spd": -5,
+            "def": 6,
+            "res": -5
+          }
+        },
+        "def": {
+          "hp": 5,
+          "def": 4,
+          "newStats": {
+            "mt": 11,
+            "hp": 5,
+            "atk": 6,
+            "spd": -5,
+            "def": 6,
+            "res": -5
+          }
+        },
+        "res": {
+          "hp": 5,
+          "res": 4,
+          "newStats": {
+            "mt": 11,
+            "hp": 5,
+            "atk": 6,
+            "spd": -5,
+            "def": 6,
+            "res": -5
+          }
+        }
+      },
       "last": true
     },
     "Skinfaxi": {
@@ -14632,6 +14694,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Ronan - Villager of Iz"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Indignant_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Spy-Song Bow": {
@@ -23643,6 +23727,28 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Selena - Fluorspar"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Tome_of_Storms_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Fell Flambeau": {
@@ -23965,6 +24071,36 @@
       "sp": 400,
       "prev": ["Shine"],
       "exclusive": ["Céline - Teatime Ninja"],
+      "last": true
+    },
+    "Fimbulvetr Morn": {
+      "id": "Fimbulvetr Morn",
+      "name": "造物芬布爾",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Sonia - Inhuman Beauty"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Fimbulvetr_Morn_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arcane Euphoria": {
@@ -27281,6 +27417,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Xane - Autumn Trickster"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Jokers_Wild_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Order's Sentence": {
@@ -27356,6 +27514,29 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Micaiah - Radiant Queen"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "New_Dawn_W",
+          "cd": -1
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Sweet Yule Log": {
@@ -29867,6 +30048,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Fae - Childlike Dragon"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Dazzling_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Dew Dragonstone": {

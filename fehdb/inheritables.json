@@ -4622,13 +4622,13 @@
         "mythic": { "5": ["Duma - God of Strength", "Embla - God of Closure"] },
         "special": {
           "4": [
+            "Tana - Soaring New Year",
             "Marth - Legacied Hero",
             "Byleth - Fount of Learning",
             "Corrin - Daylight Ninja Act",
             "Tormod - Indomitable Will"
           ],
           "5": [
-            "Tana - Soaring New Year",
             "Camilla - Holiday Traveler",
             "Karla - Sun-Piercing Steel",
             "Freyr - Estival Dreams",
@@ -7322,8 +7322,8 @@
             "Hector - Marquess of Ostia",
             "Caeda - Beloved Queen",
             "Seliph - Scion of Light",
-            "Fae - Childlike Dragon",
-            "Corrin - Child of Dusk"
+            "Corrin - Child of Dusk",
+            "Fae - Childlike Dragon"
           ]
         },
         "mythic": {
@@ -9837,6 +9837,13 @@
     }
   },
   "skillB": {
+    "Prescience II": {
+      "pool": { "legendary": { "5": ["Micaiah - Radiant Queen"] } },
+      "id": "Prescience II",
+      "name": "知曉未來的力量・承",
+      "sp": 300,
+      "icon": "skillB/Prescience_II"
+    },
     "Knock Back": {
       "pool": {
         "#": { "3": ["Olivia - Blushing Beauty", "Barst - The Hatchet"] }
@@ -12647,6 +12654,7 @@
     },
     "Dragon's Scales": {
       "pool": {
+        "legendary": { "5": ["Fae - Childlike Dragon"] },
         "special": { "5": ["Nah - Grateful One"] },
         "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
       },
@@ -13893,7 +13901,7 @@
         },
         "rearmed": { "5": ["Ganglöt - Death Anew"] },
         "legendary": {
-          "5": ["Micaiah - Radiant Queen", "Lucina - Glorious Archer"]
+          "5": ["Lucina - Glorious Archer", "Micaiah - Radiant Queen"]
         },
         "mythic": { "5": ["Gotoh - White Sage", "Læraðr - Quieting Heart"] },
         "special": {
@@ -14139,10 +14147,10 @@
         "attuned": { "5": ["Triandra - Reverent Dream"] },
         "legendary": { "5": ["Claude - King of Unification"] },
         "special": {
+          "4": ["Tana - Soaring New Year"],
           "5": [
             "Claude - Tropical Trouble",
             "Reina - Sanguine Shinobi",
-            "Tana - Soaring New Year",
             "Igrene - Ninja of Nabata",
             "Say'ri - Righteous Bride",
             "Petra - Faraway Sun"
@@ -15384,7 +15392,13 @@
         "ascended": { "5": ["Ishtar - Echoing Thunder"] },
         "rearmed": { "5": ["Ophelia - Starlit Maiden"] },
         "attuned": { "5": ["Eirika - Resolute Princess"] },
-        "legendary": { "5": ["Alm - Saint-King", "Byleth - The Fódlan Star"] },
+        "legendary": {
+          "5": [
+            "Alm - Saint-King",
+            "Byleth - The Fódlan Star",
+            "Micaiah - Radiant Queen"
+          ]
+        },
         "mythic": {
           "5": [
             "Líf - Lethal Swordsman",
@@ -15422,6 +15436,7 @@
           ]
         },
         "attuned": { "5": ["Eirika - Resolute Princess"] },
+        "legendary": { "5": ["Micaiah - Radiant Queen"] },
         "special": {
           "5": [
             "Nino - Spirited Sorcerer",
