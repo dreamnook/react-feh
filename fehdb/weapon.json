@@ -1947,7 +1947,12 @@
         "effect": {
           "hp": 3,
           "name": "特效",
-          "icon": "Astra_Blade_W"
+          "icon": "Astra_Blade_W",
+          "newStats": {
+            "mt": 16,
+            "atk": 3,
+            "spd": 3
+          }
         },
         "atk": {
           "hp": 5,
