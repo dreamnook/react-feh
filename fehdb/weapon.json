@@ -553,35 +553,55 @@
       "refine": {
         "effect": {
           "hp": 3,
-          "atk": 3,
-          "cd": -1,
           "name": "特效",
           "icon": "Ayra's_Blade_W",
-          "description": "敵方HP≧75%時，戰鬥中四維+4且第一次所受傷害-20%"
+          "description": "敵方HP≧75%時，戰鬥中四維+4且第一次所受傷害-20%",
+          "newStats": {
+            "mt": 16,
+            "atk": 3,
+            "spd": 3,
+            "cd": -1
+          }
         },
         "atk": {
           "hp": 5,
           "mt": 2,
-          "atk": 3,
-          "cd": -1
+          "newStats": {
+            "mt": 16,
+            "atk": 3,
+            "spd": 3,
+            "cd": -1
+          }
         },
         "spd": {
           "hp": 5,
           "spd": 3,
-          "atk": 3,
-          "cd": -1
+          "newStats": {
+            "mt": 16,
+            "atk": 3,
+            "spd": 3,
+            "cd": -1
+          }
         },
         "def": {
           "hp": 5,
           "def": 4,
-          "atk": 3,
-          "cd": -1
+          "newStats": {
+            "mt": 16,
+            "atk": 3,
+            "spd": 3,
+            "cd": -1
+          }
         },
         "res": {
           "hp": 5,
           "res": 4,
-          "atk": 3,
-          "cd": -1
+          "newStats": {
+            "mt": 16,
+            "atk": 3,
+            "spd": 3,
+            "cd": -1
+          }
         }
       },
       "last": true
@@ -1947,48 +1967,23 @@
         "effect": {
           "hp": 3,
           "name": "特效",
-          "icon": "Astra_Blade_W",
-          "newStats": {
-            "mt": 16,
-            "atk": 3,
-            "spd": 3
-          }
+          "icon": "Astra_Blade_W"
         },
         "atk": {
           "hp": 5,
-          "mt": 2,
-          "newStats": {
-            "mt": 16,
-            "atk": 3,
-            "spd": 3
-          }
+          "mt": 2
         },
         "spd": {
           "hp": 5,
-          "spd": 3,
-          "newStats": {
-            "mt": 16,
-            "atk": 3,
-            "spd": 3
-          }
+          "spd": 3
         },
         "def": {
           "hp": 5,
-          "def": 4,
-          "newStats": {
-            "mt": 16,
-            "atk": 3,
-            "spd": 3
-          }
+          "def": 4
         },
         "res": {
           "hp": 5,
-          "res": 4,
-          "newStats": {
-            "mt": 16,
-            "atk": 3,
-            "spd": 3
-          }
+          "res": 4
         }
       },
       "last": true
