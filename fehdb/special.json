@@ -579,6 +579,14 @@
     "exclusive": ["Lyn - Of Blazing"],
     "last": true
   },
+  "Aether's Path": {
+    "id": "Aether's Path",
+    "name": "蒼炎天空",
+    "sp": 500,
+    "prev": ["Sol", "Luna"],
+    "exclusive": ["Ike - Desert Mercenary"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

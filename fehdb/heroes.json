@@ -9253,6 +9253,41 @@
     "ver": "5.10",
     "dfKey": 4
   },
+  "Malice - Blooming Blade": {
+    "id": "Malice - Blooming Blade",
+    "title": "在沙漠綻放的劍舞",
+    "name": "瑪麗絲",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2025-01-17",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [40, 44, 47],
+        "spd": [45, 48, 52],
+        "def": [32, 35, 38],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 9,
+        "def": 11,
+        "res": 7
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.1",
+    "dfKey": 7
+  },
   "Gharnef - Dark Pontifex": {
     "id": "Gharnef - Dark Pontifex",
     "title": "暗黑魔王",
@@ -10504,6 +10539,55 @@
     "book": 1,
     "ver": "1.5",
     "dfKey": 1
+  },
+  "Saber - Dune Walker": {
+    "id": "Saber - Dune Walker",
+    "title": "傭兵行走於沙丘",
+    "name": "賽巴",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-lance",
+    "pool": "grail",
+    "releaseDate": "2025-01-17",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [41, 44, 47],
+        "spd": [40, 44, 47],
+        "def": [39, 43, 46],
+        "res": [16, 19, 22]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 51],
+        "spd": [42, 46, 49],
+        "def": [41, 45, 48],
+        "res": [18, 21, 24]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 7,
+        "spd": 13,
+        "def": 12,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 13,
+        "def": 12,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.1",
+    "dfKey": 7
   },
   "Valbar - Open and Honest": {
     "id": "Valbar - Open and Honest",
@@ -27226,6 +27310,41 @@
     "ver": "3.3",
     "dfKey": 2
   },
+  "Marisa - Willful Blades": {
+    "id": "Marisa - Willful Blades",
+    "title": "繼承意志的雙劍",
+    "name": "瑪莉卡",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "cavalry",
+    "weaponType": "green-axe",
+    "pool": "harmonized",
+    "releaseDate": "2025-01-17",
+    "appearsIn": ["The Sacred Stones", "Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [42, 45, 49],
+        "spd": [45, 48, 52],
+        "def": [24, 28, 31],
+        "res": [20, 23, 27]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 15,
+        "spd": 9,
+        "def": 6,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": ["def"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.1",
+    "dfKey": 7
+  },
   "Tethys - Beloved Dancer": {
     "id": "Tethys - Beloved Dancer",
     "title": "艷美之舞",
@@ -27287,6 +27406,55 @@
     "book": 3,
     "ver": "3.11",
     "dfKey": 2
+  },
+  "Tethys - Dancing Sands": {
+    "id": "Tethys - Dancing Sands",
+    "title": "熱沙舞姬",
+    "name": "特媞絲",
+    "rarity": [5, 4],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-dagger",
+    "pool": "special",
+    "releaseDate": "2025-01-17",
+    "appearsIn": ["The Sacred Stones"],
+    "stats": {
+      "4": {
+        "hp": [31, 34, 37],
+        "atk": [25, 28, 31],
+        "spd": [42, 45, 48],
+        "def": [16, 19, 22],
+        "res": [37, 40, 44]
+      },
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [28, 31, 34],
+        "spd": [44, 47, 50],
+        "def": [18, 21, 24],
+        "res": [39, 42, 46]
+      },
+      "4-1": {
+        "hp": 14,
+        "atk": 2,
+        "spd": 10,
+        "def": 3,
+        "res": 12
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 3,
+        "spd": 10,
+        "def": 4,
+        "res": 12
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp"],
+    "statMin": 178,
+    "statMax": 180,
+    "book": 9,
+    "ver": "9.1",
+    "dfKey": 7
   },
   "Ewan - Eager Student": {
     "id": "Ewan - Eager Student",
@@ -28008,6 +28176,41 @@
     "book": 6,
     "ver": "6.4",
     "dfKey": 4
+  },
+  "Ike - Desert Mercenary": {
+    "id": "Ike - Desert Mercenary",
+    "title": "沙塵之傭兵團團長",
+    "name": "艾克",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-lance",
+    "pool": "special",
+    "releaseDate": "2025-01-17",
+    "appearsIn": ["Path of Radiance"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [44, 47, 50],
+        "spd": [44, 47, 51],
+        "def": [33, 36, 39],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 8,
+        "def": 12,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.1",
+    "dfKey": 7
   },
   "Titania - Mighty Mercenary": {
     "id": "Titania - Mighty Mercenary",

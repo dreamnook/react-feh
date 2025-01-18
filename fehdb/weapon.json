@@ -3465,6 +3465,16 @@
       "exclusive": ["Tana - Soaring New Year"],
       "last": true
     },
+    "Swirling Scimitar": {
+      "id": "Swirling Scimitar",
+      "name": "沙塵中飛舞的彎刀",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Malice - Blooming Blade"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -7889,6 +7899,16 @@
       "exclusive": ["Vaida - Dracofang General"],
       "last": true
     },
+    "Swirling Lance": {
+      "id": "Swirling Lance",
+      "name": "貫穿沙塵的青色剛槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Ike - Desert Mercenary"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -9707,6 +9727,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Nabata Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Jehanna Lance": {
+      "id": "Jehanna Lance",
+      "name": "賈哈納之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Jehanna Lance+": {
+      "id": "Jehanna Lance+",
+      "name": "賈哈納之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Jehanna Lance"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -11958,6 +12011,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Diamant - Gallant Ninja"],
+      "last": true
+    },
+    "Laconic Axe": {
+      "id": "Laconic Axe",
+      "name": "沉默女傭兵的閃斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Marisa - Willful Blades"],
       "last": true
     },
     "Arcane Downfall": {
@@ -19628,6 +19691,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Giant Shuriken"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Jehanna Dagger": {
+      "id": "Jehanna Dagger",
+      "name": "賈哈納暗器",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Jehanna Dagger+": {
+      "id": "Jehanna Dagger+",
+      "name": "賈哈納暗器+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Jehanna Dagger"],
       "refine": {
         "atk": {
           "hp": 2,

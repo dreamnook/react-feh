@@ -5760,6 +5760,31 @@
       "Spurn 3": 4
     }
   },
+  "Malice - Blooming Blade": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Swirling Scimitar": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Gust": 5
+    },
+    "skillA": {
+      "Atk/Spd Prime 1": 2,
+      "Atk/Spd Prime 2": 3,
+      "Atk/Spd Prime 3": 4,
+      "Atk/Spd Prime 4": 5
+    },
+    "skillB": {
+      "Atk/Spd Bulwark 1": 2,
+      "Atk/Spd Bulwark 2": 3,
+      "Atk/Spd Bulwark 3": 4,
+      "A/S Spiked Wall": 5
+    }
+  },
   "Gharnef - Dark Pontifex": {
     "weapon": {
       "Flux": 1,
@@ -6504,6 +6529,28 @@
       "HP 1": 1,
       "HP/Spd 1": 2,
       "HP/Spd 2": 4
+    },
+    "skillB": {
+      "Shield Pulse 1": 3,
+      "Shield Pulse 2": 4,
+      "Shield Pulse 3": 5
+    }
+  },
+  "Saber - Dune Walker": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Jehanna Lance": 3,
+      "Jehanna Lance+": 5
+    },
+    "special": {
+      "Buckler": 4,
+      "Escutcheon": 4
+    },
+    "skillA": {
+      "Spd/Def Finish 1": 1,
+      "Spd/Def Finish 2": 2,
+      "Spd/Def Finish 3": 4
     },
     "skillB": {
       "Shield Pulse 1": 3,
@@ -15548,6 +15595,36 @@
       "Flier Guidance 3": 5
     }
   },
+  "Marisa - Willful Blades": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Laconic Axe": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
+    },
+    "skillB": {
+      "Flow Force 1": 2,
+      "Flow Force 2": 3,
+      "Flow Force 3": 4,
+      "Assault Force": 5
+    },
+    "skillC": {
+      "Odd Spd Wave 1": 2,
+      "Odd Spd Wave 2": 3,
+      "Odd Spd Wave 3": 4,
+      "Odd Spd Wave 4": 5
+    }
+  },
   "Tethys - Beloved Dancer": {
     "weapon": {
       "Iron Dagger": 1,
@@ -15567,6 +15644,28 @@
       "Dagger Exp. 1": 3,
       "Dagger Exp. 2": 4,
       "Dagger Exp. 3": 5
+    }
+  },
+  "Tethys - Dancing Sands": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Jehanna Dagger": 3,
+      "Jehanna Dagger+": 5
+    },
+    "assist": {
+      "Dance": 4
+    },
+    "skillB": {
+      "Blaze Dance 1": 2,
+      "Firestorm Dance 1": 3,
+      "Firestorm Dance 2": 4,
+      "Firestorm Dance 3": 5
+    },
+    "skillC": {
+      "Guidance 1": 1,
+      "Guidance 2": 2,
+      "Guidance 3": 4
     }
   },
   "Ewan - Eager Student": {
@@ -16043,6 +16142,35 @@
       "Drive Atk 1": 3,
       "Drive Atk 2": 4,
       "Joint Drive Atk": 5
+    }
+  },
+  "Ike - Desert Mercenary": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Swirling Lance": 5
+    },
+    "special": {
+      "Daylight": 4,
+      "Sol": 4,
+      "Aether's Path": 5
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "D Bonus Doubler": 5
+    },
+    "skillB": {
+      "Laguz Friend 1": 2,
+      "Laguz Friend 2": 3,
+      "Laguz Friend 3": 4,
+      "Laguz Loyalty": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Time Pulse Edge": 5
     }
   },
   "Titania - Mighty Mercenary": {

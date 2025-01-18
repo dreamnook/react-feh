@@ -814,6 +814,13 @@
         "name": "納巴塔之槍+",
         "sp": 300,
         "refine": 350
+      },
+      "Jehanna Lance+": {
+        "pool": { "grail": { "5": ["Saber - Dune Walker"] } },
+        "id": "Jehanna Lance+",
+        "name": "賈哈納之槍+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "green-axe": {
@@ -1973,6 +1980,13 @@
         "pool": { "grail": { "5": ["Noire - Demurely Deft"] } },
         "id": "Giant Shuriken+",
         "name": "大手裏劍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Jehanna Dagger+": {
+        "pool": { "special": { "5": ["Tethys - Dancing Sands"] } },
+        "id": "Jehanna Dagger+",
+        "name": "賈哈納暗器+",
         "sp": 300,
         "refine": 350
       }
@@ -3972,7 +3986,8 @@
           "5": [
             "Tiki - Summering Scion",
             "Velouria - Renewed Wolfpup",
-            "Ike - Stalwart Heart"
+            "Ike - Stalwart Heart",
+            "Ike - Desert Mercenary"
           ]
         },
         "duo": { "5": ["Ike - Close-Knit Siblings"] }
@@ -4103,7 +4118,8 @@
           "5": [
             "Lysithea - Gifted Students",
             "Catria - Azure Wing Pair",
-            "Nephenee - Festival Harmony"
+            "Nephenee - Festival Harmony",
+            "Marisa - Willful Blades"
           ]
         }
       },
@@ -4394,7 +4410,8 @@
             "Camilla - Midnight Bloom",
             "Ivy - Tidal Breeze",
             "Alear - Seaside Dragon",
-            "Petra - Faraway Sun"
+            "Petra - Faraway Sun",
+            "Malice - Blooming Blade"
           ]
         },
         "duo": {
@@ -4505,7 +4522,8 @@
     "Gust": {
       "pool": {
         "#": { "5": ["Felix - Sword Savant"] },
-        "attuned": { "5": ["Eirika - Resolute Princess"] }
+        "attuned": { "5": ["Eirika - Resolute Princess"] },
+        "special": { "5": ["Malice - Blooming Blade"] }
       },
       "id": "Gust",
       "name": "陣風",
@@ -5401,7 +5419,7 @@
             "Felix - Lone-Wolf Blade"
           ]
         },
-        "grail": { "4": ["Clive - Idealistic Knight"] },
+        "grail": { "4": ["Clive - Idealistic Knight", "Saber - Dune Walker"] },
         "special": { "5": ["Lyn - Blazing Whirlwind", "Lapis - Mighty Bride"] },
         "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
@@ -7373,6 +7391,7 @@
             "Sothis - Silver Specter",
             "Zelgius - Ninja Knight",
             "Black Knight - The Night's Blade",
+            "Ike - Desert Mercenary",
             "Askr - Open Harvest"
           ]
         },
@@ -7475,7 +7494,7 @@
         "attuned": {
           "5": ["Caeda - Marth's Faithful", "Eirika - Resolute Princess"]
         },
-        "special": { "5": ["Askr - Open Harvest"] }
+        "special": { "5": ["Ike - Desert Mercenary", "Askr - Open Harvest"] }
       },
       "id": "D Bonus Doubler",
       "name": "遠反・強化增幅",
@@ -9417,6 +9436,7 @@
           "5": [
             "Karla - Spring Reveries",
             "Ayra - Together in Tea",
+            "Marisa - Willful Blades",
             "Cordelia - Unyielding Snow"
           ]
         }
@@ -9523,7 +9543,8 @@
         "special": {
           "5": ["Nerþuz - Beach Chaperone", "Felicia - Confidently Cold"]
         },
-        "duo": { "5": ["Sharena - Pillars of Peace"] }
+        "duo": { "5": ["Sharena - Pillars of Peace"] },
+        "harmonized": { "5": ["Marisa - Willful Blades"] }
       },
       "id": "Atk/Spd Excel",
       "name": "攻擊速度突破",
@@ -9677,6 +9698,7 @@
           "3": ["Caspar - Hotheaded Inciter"],
           "4": ["Dew - Benevolent Thief"]
         },
+        "grail": { "4": ["Saber - Dune Walker"] },
         "attuned": { "5": ["Timerra - Desert Warrior"] }
       },
       "id": "Spd/Def Finish 3",
@@ -9830,7 +9852,11 @@
       "pool": {
         "#": { "5": ["Bernadetta - Sheltered Loner"] },
         "special": {
-          "5": ["Claude - Golden Breeze", "Dimitri - Blessed Protector"]
+          "5": [
+            "Claude - Golden Breeze",
+            "Dimitri - Blessed Protector",
+            "Malice - Blooming Blade"
+          ]
         },
         "harmonized": { "5": ["Anna - Twice the Anna"] }
       },
@@ -9844,7 +9870,11 @@
       "pool": {
         "#": { "5": ["Bernadetta - Sheltered Loner"] },
         "special": {
-          "5": ["Claude - Golden Breeze", "Dimitri - Blessed Protector"]
+          "5": [
+            "Claude - Golden Breeze",
+            "Dimitri - Blessed Protector",
+            "Malice - Blooming Blade"
+          ]
         },
         "harmonized": { "5": ["Anna - Twice the Anna"] }
       },
@@ -11473,6 +11503,7 @@
             "Severa - Secret Dreamer"
           ]
         },
+        "grail": { "5": ["Saber - Dune Walker"] },
         "legendary": {
           "5": ["Fjorm - Princess of Ice", "Corrin - Child of Dusk"]
         },
@@ -11707,7 +11738,7 @@
         "#": { "5": ["Lene - Yearning Dancer"] },
         "mythic": { "5": ["Triandra - Nightmare"] },
         "special": {
-          "4": ["Rafiel - Blessed Wings"],
+          "4": ["Rafiel - Blessed Wings", "Tethys - Dancing Sands"],
           "5": ["Triandra - Sunlit Nightmare"]
         },
         "harmonized": { "5": ["Dorothea - Twilit Harmony"] }
@@ -11721,7 +11752,9 @@
     "Firestorm Dance 3": {
       "pool": {
         "mythic": { "5": ["Triandra - Nightmare"] },
-        "special": { "5": ["Triandra - Sunlit Nightmare"] }
+        "special": {
+          "5": ["Tethys - Dancing Sands", "Triandra - Sunlit Nightmare"]
+        }
       },
       "id": "Firestorm Dance 3",
       "name": "業火疾風之舞3",
@@ -13027,7 +13060,9 @@
     "Flow Force 3": {
       "pool": {
         "#": { "5": ["Geoffrey - Realm's Protector"] },
-        "harmonized": { "5": ["Roy - Blazing Bachelors"] }
+        "harmonized": {
+          "5": ["Roy - Blazing Bachelors", "Marisa - Willful Blades"]
+        }
       },
       "id": "Flow Force 3",
       "name": "怒濤・不屈3",
@@ -13052,6 +13087,14 @@
       "name": "怒濤・猛攻",
       "sp": 300,
       "icon": "skillB/Flow_Desperation",
+      "rules": "learner.wielderCavalryFlying"
+    },
+    "Assault Force": {
+      "pool": { "harmonized": { "5": ["Marisa - Willful Blades"] } },
+      "id": "Assault Force",
+      "name": "強攻・不屈",
+      "sp": 300,
+      "icon": "skillB/Assault_Force",
       "rules": "learner.wielderCavalryFlying"
     },
     "Atk/Res Tempo 3": {
@@ -13137,7 +13180,9 @@
             "Felix - Lone-Wolf Blade"
           ]
         },
-        "special": { "5": ["Lucia - Loyalty Enrobed"] }
+        "special": {
+          "5": ["Lucia - Loyalty Enrobed", "Malice - Blooming Blade"]
+        }
       },
       "id": "Atk/Spd Bulwark 3",
       "name": "攻擊速度防護屏障3",
@@ -13215,6 +13260,14 @@
       "name": "速度魔防防護屏障4",
       "sp": 300,
       "icon": "skillB/Spd_Res_Bulwark_4",
+      "rules": "learner.infantry-melee"
+    },
+    "A/S Spiked Wall": {
+      "pool": { "special": { "5": ["Malice - Blooming Blade"] } },
+      "id": "A/S Spiked Wall",
+      "name": "攻擊速度的刃牆",
+      "sp": 300,
+      "icon": "skillB/A_S_Spiked_Wall",
       "rules": "learner.infantry-melee"
     },
     "A/D Spiked Wall": {
@@ -13395,6 +13448,7 @@
       "pool": {
         "attuned": { "5": ["Timerra - Desert Warrior"] },
         "emblem": { "5": ["Ike - Of Radiance"] },
+        "special": { "5": ["Ike - Desert Mercenary"] },
         "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
       "id": "Laguz Friend 3",
@@ -13413,6 +13467,14 @@
       "name": "不動4",
       "sp": 300,
       "icon": "skillB/Laguz_Friend_4",
+      "rules": "infantry"
+    },
+    "Laguz Loyalty": {
+      "pool": { "special": { "5": ["Ike - Desert Mercenary"] } },
+      "id": "Laguz Loyalty",
+      "name": "不動・剎那",
+      "sp": 300,
+      "icon": "skillB/Laguz_Loyalty",
       "rules": "infantry"
     },
     "Magic Gambit 3": {
@@ -15472,6 +15534,7 @@
             "Nino - Spirited Sorcerer",
             "Fjorm - Seaside Thaw",
             "Altina - Unrivaled Dawn",
+            "Ike - Desert Mercenary",
             "Timerra - Trick or Meat"
           ]
         },
@@ -15535,6 +15598,14 @@
       "name": "開闢之躍動",
       "sp": 300,
       "icon": "skillC/Creation_Pulse",
+      "rules": "infantry"
+    },
+    "Time Pulse Edge": {
+      "pool": { "special": { "5": ["Ike - Desert Mercenary"] } },
+      "id": "Time Pulse Edge",
+      "name": "初始之躍動・刃",
+      "sp": 300,
+      "icon": "skillC/Time_Pulse_Edge",
       "rules": "infantry"
     },
     "Infantry Pulse 3": {
@@ -15962,7 +16033,8 @@
         "rearmed": { "5": ["Tana - Soaring Princess"] },
         "legendary": {
           "5": ["Ryoma - Supreme Samurai", "Claude - King of Unification"]
-        }
+        },
+        "special": { "4": ["Tethys - Dancing Sands"] }
       },
       "id": "Guidance 3",
       "name": "空中前導3",
@@ -16087,7 +16159,8 @@
         "special": {
           "5": ["Ingrid - Solstice Knight", "Felicia - Confidently Cold"]
         },
-        "duo": { "5": ["Gullveig - Glittering Sunlight"] }
+        "duo": { "5": ["Gullveig - Glittering Sunlight"] },
+        "harmonized": { "5": ["Marisa - Willful Blades"] }
       },
       "id": "Odd Spd Wave 3",
       "name": "速度之波・奇數3",
@@ -16098,7 +16171,8 @@
       "pool": {
         "#": { "5": ["Ashe - Chivalric Amends"] },
         "special": { "5": ["Felicia - Confidently Cold"] },
-        "duo": { "5": ["Gullveig - Glittering Sunlight"] }
+        "duo": { "5": ["Gullveig - Glittering Sunlight"] },
+        "harmonized": { "5": ["Marisa - Willful Blades"] }
       },
       "id": "Odd Spd Wave 4",
       "name": "速度之波・奇數4",

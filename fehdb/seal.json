@@ -457,6 +457,36 @@
       "icon": "skillA/Life_and_Death_3",
       "last": true
     },
+    "Solid Ground 1": {
+      "id": "Solid Ground 1",
+      "name": "不壞1",
+      "sp": 50,
+      "atk": 3,
+      "def": 3,
+      "res": -3,
+      "icon": "skillA/Solid_Ground_1"
+    },
+    "Solid Ground 2": {
+      "id": "Solid Ground 2",
+      "name": "不壞2",
+      "sp": 100,
+      "atk": 4,
+      "def": 4,
+      "res": -4,
+      "prev": ["Solid Ground 1"],
+      "icon": "skillA/Solid_Ground_2"
+    },
+    "Solid Ground 3": {
+      "id": "Solid Ground 3",
+      "name": "不壞3",
+      "sp": 200,
+      "atk": 5,
+      "def": 5,
+      "res": -5,
+      "prev": ["Solid Ground 2"],
+      "icon": "skillA/Solid_Ground_3",
+      "last": true
+    },
     "Still Water 1": {
       "id": "Still Water 1",
       "name": "止水1",
@@ -3869,6 +3899,21 @@
       "sp": 200,
       "prev": ["Threat. Spd/Res 1"],
       "icon": "skillC/Threat._Spd_Res_2",
+      "last": true
+    },
+    "Threat. Def/Res 1": {
+      "id": "Threat. Def/Res 1",
+      "name": "防守魔防的威嚇1",
+      "sp": 100,
+      "prev": ["Threaten Def 1", "Threaten Res 1"],
+      "icon": "skillC/Threat._Def_Res_1"
+    },
+    "Threat. Def/Res 2": {
+      "id": "Threat. Def/Res 2",
+      "name": "防守魔防的威嚇2",
+      "sp": 200,
+      "prev": ["Threat. Def/Res 1"],
+      "icon": "skillC/Threat._Def_Res_2",
       "last": true
     },
     "Atk Ploy 1": {

@@ -4751,6 +4751,15 @@
     "last": true,
     "icon": "skillB/Flow_Desperation"
   },
+  "Assault Force": {
+    "id": "Assault Force",
+    "name": "強攻・不屈",
+    "sp": 300,
+    "prev": ["Flow Force 3"],
+    "rules": "learner.wielderCavalryFlying",
+    "last": true,
+    "icon": "skillB/Assault_Force"
+  },
   "Atk/Res Tempo 1": {
     "id": "Atk/Res Tempo 1",
     "name": "攻擊魔防節拍1",
@@ -4972,6 +4981,15 @@
     "rules": "learner.infantry-melee",
     "icon": "skillB/Spd_Res_Bulwark_4",
     "last": true
+  },
+  "A/S Spiked Wall": {
+    "id": "A/S Spiked Wall",
+    "name": "攻擊速度的刃牆",
+    "sp": 300,
+    "prev": ["Atk/Def Bulwark 3"],
+    "rules": "learner.infantry-melee",
+    "last": true,
+    "icon": "skillB/A_S_Spiked_Wall"
   },
   "A/D Spiked Wall": {
     "id": "A/D Spiked Wall",
@@ -5302,6 +5320,15 @@
     "rules": "infantry",
     "icon": "skillB/Laguz_Friend_4",
     "last": true
+  },
+  "Laguz Loyalty": {
+    "id": "Laguz Loyalty",
+    "name": "不動・剎那",
+    "sp": 300,
+    "prev": ["Laguz Friend 3"],
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillB/Laguz_Loyalty"
   },
   "Magic Gambit 1": {
     "id": "Magic Gambit 1",

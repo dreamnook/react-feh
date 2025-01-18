@@ -2366,6 +2366,15 @@
     "last": true,
     "icon": "skillC/Creation_Pulse"
   },
+  "Time Pulse Edge": {
+    "id": "Time Pulse Edge",
+    "name": "初始之躍動・刃",
+    "sp": 300,
+    "prev": ["Time's Pulse 3"],
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillC/Time_Pulse_Edge"
+  },
   "Infantry Pulse 1": {
     "id": "Infantry Pulse 1",
     "name": "步行之躍動1",

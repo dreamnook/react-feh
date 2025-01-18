@@ -1626,6 +1626,18 @@
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Tethys - Dancing Sands": {
+    "score": 196,
+    "scoreTotal": 292,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 540,
+    "feather": 300,
+    "bst": 178,
+    "skillB": { "Firestorm Dance 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Guidance 3": { "sp": 240, "rarity": 4 } }
+  },
   "Silvia - Traveling Dancer": {
     "score": 199,
     "scoreTotal": 295,
@@ -5853,6 +5865,19 @@
     "special": { "Sol": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Chill Atk/Spd 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Saber - Dune Walker": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 199,
+    "special": { "Escutcheon": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Def Finish 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Shield Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Vigarde - Warmhearted Sire": {
     "score": 299,
@@ -14304,6 +14329,20 @@
     "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
+  "Marisa - Willful Blades": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Assault Force": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Odd Spd Wave 4": { "sp": 300, "rarity": 5 } }
+  },
   "Mia - Summer Slice": {
     "score": 318,
     "scoreTotal": 1166,
@@ -14415,6 +14454,20 @@
     "skillA": { "Spd/Res Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Res Wave D": { "sp": 300, "rarity": 5 } }
+  },
+  "Ike - Desert Mercenary": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Sol": { "sp": 200, "rarity": 5 } },
+    "skillA": { "D Bonus Doubler": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Laguz Loyalty": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time Pulse Edge": { "sp": 300, "rarity": 5 } }
   },
   "Laegjarn - Flame and Frost": {
     "score": 318,
@@ -14589,6 +14642,19 @@
     "special": { "Sturdy Beast": { "sp": 500, "rarity": 5 } },
     "skillA": { "D Bonus Doubler": { "sp": 300, "rarity": 5 } },
     "skillB": { "Reopening": { "sp": 300, "rarity": 5 } }
+  },
+  "Malice - Blooming Blade": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Gust": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/S Spiked Wall": { "sp": 300, "rarity": 5 } }
   },
   "Ephraim - Ardent Prince": {
     "score": 530,
