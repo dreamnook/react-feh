@@ -57,6 +57,7 @@
     "id": "Tempo Echo",
     "name": "響・節拍",
     "sp": 0,
+    "rules": "infantry",
     "last": true,
     "icon": "skillX/Tempo_Echo"
   },

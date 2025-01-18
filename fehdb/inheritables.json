@@ -17299,7 +17299,8 @@
       "id": "Tempo Echo",
       "name": "響・節拍",
       "sp": 0,
-      "icon": "skillX/Tempo_Echo"
+      "icon": "skillX/Tempo_Echo",
+      "rules": "infantry"
     },
     "Time Pulse Echo": {
       "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },
