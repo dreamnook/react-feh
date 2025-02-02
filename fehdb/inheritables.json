@@ -1768,7 +1768,7 @@
         "refine": 350
       },
       "Helping Dagger+": {
-        "pool": { "#": { "4": ["Dew - Benevolent Thief"] } },
+        "pool": { "#": { "3": ["Dew - Benevolent Thief"] } },
         "id": "Helping Dagger+",
         "name": "合力暗器+",
         "sp": 300,
@@ -3964,9 +3964,9 @@
             "Raven - Peerless Fighter",
             "Chrom - Exalted Prince",
             "Atlas - Forest Muscle",
-            "Echidna - Unyielding Idealist"
+            "Echidna - Unyielding Idealist",
+            "Dew - Benevolent Thief"
           ],
-          "4": ["Dew - Benevolent Thief"],
           "5": [
             "Nagi - Dragon Avatar",
             "Lyon - Demon King",
@@ -4482,7 +4482,9 @@
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
         "emblem": { "5": ["Lyn - Of Blazing"] },
-        "legendary": { "5": ["Leif - Unifier of Thracia"] },
+        "legendary": {
+          "5": ["Leif - Unifier of Thracia", "Ayra - Supreme Astra"]
+        },
         "mythic": {
           "5": ["Nerþuz - God of the Land", "Hræsvelgr - Quieting Blade"]
         },
@@ -4529,6 +4531,16 @@
       "name": "陣風",
       "sp": 500,
       "rules": "learner.wielderInfantry"
+    },
+    "Nimble Beast": {
+      "pool": {
+        "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
+        "special": { "5": ["Hræsvelgr - Wings of Healing"] }
+      },
+      "id": "Nimble Beast",
+      "name": "敏捷之獸",
+      "sp": 500,
+      "rules": "beast"
     },
     "Galeforce": {
       "pool": {
@@ -4785,35 +4797,6 @@
       "sp": 200,
       "rules": "not.white-staff"
     },
-    "Fierce Beast": {
-      "pool": { "mythic": { "5": ["Eikþyrnir - Quieting Strength"] } },
-      "id": "Fierce Beast",
-      "name": "猛獸",
-      "sp": 500,
-      "rules": "beast"
-    },
-    "Sturdy Beast": {
-      "pool": {
-        "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
-        "special": {
-          "5": ["Askr - Open Harvest", "Níðhöggr - Daze of Healing"]
-        }
-      },
-      "id": "Sturdy Beast",
-      "name": "堅固之獸",
-      "sp": 500,
-      "rules": "beast"
-    },
-    "Nimble Beast": {
-      "pool": {
-        "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
-        "special": { "5": ["Hræsvelgr - Wings of Healing"] }
-      },
-      "id": "Nimble Beast",
-      "name": "敏捷之獸",
-      "sp": 500,
-      "rules": "beast"
-    },
     "Ruptured Sky": {
       "pool": {
         "#": {
@@ -4840,6 +4823,13 @@
       "name": "車懸",
       "sp": 500,
       "rules": "learner.wielderNotArmor"
+    },
+    "Fierce Beast": {
+      "pool": { "mythic": { "5": ["Eikþyrnir - Quieting Strength"] } },
+      "id": "Fierce Beast",
+      "name": "猛獸",
+      "sp": 500,
+      "rules": "beast"
     },
     "Bonfire": {
       "pool": {
@@ -5060,6 +5050,18 @@
       "sp": 500,
       "rules": "not.white-staff"
     },
+    "Sturdy Beast": {
+      "pool": {
+        "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
+        "special": {
+          "5": ["Askr - Open Harvest", "Níðhöggr - Daze of Healing"]
+        }
+      },
+      "id": "Sturdy Beast",
+      "name": "堅固之獸",
+      "sp": 500,
+      "rules": "beast"
+    },
     "Boulder": {
       "pool": { "special": { "5": ["Diamant - Gallant Ninja"] } },
       "id": "Boulder",
@@ -5168,17 +5170,6 @@
       "sp": 200,
       "rules": "not.white-staff"
     },
-    "Dragon's Roar": {
-      "pool": {
-        "legendary": { "5": ["Alear - Engaging Fire"] },
-        "duo": { "5": ["Alear - Gifted Dragons"] },
-        "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
-      },
-      "id": "Dragon's Roar",
-      "name": "龍之咆哮",
-      "sp": 500,
-      "rules": "dragon"
-    },
     "Glacies": {
       "pool": {
         "#": {
@@ -5227,7 +5218,8 @@
             "Seiros - Saint of Legend",
             "Arval - Cycle Keeper",
             "Medeus - Earth-Dragon King",
-            "Ashera - Order Goddess"
+            "Ashera - Order Goddess",
+            "Athos - Omniscient One"
           ]
         },
         "special": {
@@ -5260,6 +5252,24 @@
       "name": "重裝之聖冰",
       "sp": 500,
       "rules": "learner.armored-not-staff"
+    },
+    "Dragon's Roar": {
+      "pool": {
+        "legendary": { "5": ["Alear - Engaging Fire"] },
+        "duo": { "5": ["Alear - Gifted Dragons"] },
+        "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
+      },
+      "id": "Dragon's Roar",
+      "name": "龍之咆哮",
+      "sp": 500,
+      "rules": "dragon"
+    },
+    "Frost Moon": {
+      "pool": { "mythic": { "5": ["Athos - Omniscient One"] } },
+      "id": "Frost Moon",
+      "name": "冰輪",
+      "sp": 500,
+      "rules": "tome"
     },
     "Growing Flame": {
       "pool": {
@@ -9413,7 +9423,11 @@
         "attuned": { "5": ["Triandra - Reverent Dream"] },
         "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
         "legendary": {
-          "5": ["Elincia - Undaunted Queen", "Dimitri - Savior King"]
+          "5": [
+            "Elincia - Undaunted Queen",
+            "Dimitri - Savior King",
+            "Ayra - Supreme Astra"
+          ]
         },
         "mythic": {
           "5": [
@@ -9540,6 +9554,7 @@
       "pool": {
         "#": { "5": ["Felix - Sword Savant"] },
         "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
+        "legendary": { "5": ["Ayra - Supreme Astra"] },
         "special": {
           "5": ["Nerþuz - Beach Chaperone", "Felicia - Confidently Cold"]
         },
@@ -9694,10 +9709,7 @@
     },
     "Spd/Def Finish 3": {
       "pool": {
-        "#": {
-          "3": ["Caspar - Hotheaded Inciter"],
-          "4": ["Dew - Benevolent Thief"]
-        },
+        "#": { "3": ["Caspar - Hotheaded Inciter", "Dew - Benevolent Thief"] },
         "grail": { "4": ["Saber - Dune Walker"] },
         "attuned": { "5": ["Timerra - Desert Warrior"] }
       },
@@ -11101,7 +11113,7 @@
         },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
-        "mythic": { "5": ["Yune - Chaos Goddess"] },
+        "mythic": { "5": ["Yune - Chaos Goddess", "Athos - Omniscient One"] },
         "special": { "5": ["Ivy - Tidal Breeze"] },
         "duo": {
           "5": [
@@ -11143,7 +11155,10 @@
       "icon": "skillB/Sabotage_S_R_3"
     },
     "Atk/Res Discord": {
-      "pool": { "duo": { "5": ["Heiðrún - Sisters of Healing"] } },
+      "pool": {
+        "mythic": { "5": ["Athos - Omniscient One"] },
+        "duo": { "5": ["Heiðrún - Sisters of Healing"] }
+      },
       "id": "Atk/Res Discord",
       "name": "攻擊魔防的不和",
       "sp": 300,
@@ -13534,7 +13549,10 @@
       "rules": "learner.infantry-cavalry-flying-melee"
     },
     "Speedtaker 3": {
-      "pool": { "emblem": { "5": ["Lyn - Of Blazing"] } },
+      "pool": {
+        "emblem": { "5": ["Lyn - Of Blazing"] },
+        "legendary": { "5": ["Ayra - Supreme Astra"] }
+      },
       "id": "Speedtaker 3",
       "name": "速度吸收3",
       "sp": 240,
@@ -13542,7 +13560,10 @@
       "rules": "learner.infantry-flying-def-dmger"
     },
     "Speedtaker 4": {
-      "pool": { "emblem": { "5": ["Lyn - Of Blazing"] } },
+      "pool": {
+        "emblem": { "5": ["Lyn - Of Blazing"] },
+        "legendary": { "5": ["Ayra - Supreme Astra"] }
+      },
       "id": "Speedtaker 4",
       "name": "速度吸收4",
       "sp": 300,
@@ -15524,7 +15545,8 @@
             "Líf - Lethal Swordsman",
             "Sothis - Girl on the Throne",
             "Ullr - The Bowmaster",
-            "Rune - Source of Wisdom"
+            "Rune - Source of Wisdom",
+            "Athos - Omniscient One"
           ]
         },
         "special": {
@@ -15582,7 +15604,9 @@
       "rules": "infantry"
     },
     "Pulse Up: Ploy": {
-      "pool": { "mythic": { "5": ["Rune - Source of Wisdom"] } },
+      "pool": {
+        "mythic": { "5": ["Rune - Source of Wisdom", "Athos - Omniscient One"] }
+      },
       "id": "Pulse Up: Ploy",
       "name": "鍛鍊之躍動・謀策",
       "sp": 300,
@@ -16376,7 +16400,7 @@
     },
     "Atk/Spd Gap 3": {
       "pool": {
-        "#": { "4": ["Dew - Benevolent Thief"] },
+        "#": { "3": ["Dew - Benevolent Thief"] },
         "special": {
           "4": ["Tharja - Beach Dark Mage"],
           "5": ["Anna - Wealth-Wisher"]
@@ -16853,7 +16877,7 @@
     "Odd Tempest 3": {
       "pool": {
         "#": { "5": ["Dimitri - Savage Boar", "Felix - Sword Savant"] },
-        "legendary": { "5": ["Dimitri - Savior King"] },
+        "legendary": { "5": ["Dimitri - Savior King", "Ayra - Supreme Astra"] },
         "special": {
           "5": [
             "Rinkah - Consuming Flame",
@@ -16890,6 +16914,14 @@
       "name": "迅雷風烈・無極",
       "sp": 300,
       "icon": "skillC/Endless_Tempest",
+      "rules": "learner.infantry-flying-melee"
+    },
+    "Brutal Tempest": {
+      "pool": { "legendary": { "5": ["Ayra - Supreme Astra"] } },
+      "id": "Brutal Tempest",
+      "name": "迅雷風烈・鬼沒",
+      "sp": 300,
+      "icon": "skillC/Brutal_Tempest",
       "rules": "learner.infantry-flying-melee"
     },
     "Assault Troop 3": {

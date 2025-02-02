@@ -3475,6 +3475,16 @@
       "exclusive": ["Malice - Blooming Blade"],
       "last": true
     },
+    "Sword of Isaach": {
+      "id": "Sword of Isaach",
+      "name": "伊扎克的守護劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Ayra - Supreme Astra"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -24270,6 +24280,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Blessed Aureola": {
+      "id": "Blessed Aureola",
+      "name": "八神亞利艾爾",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Athos - Omniscient One"],
       "last": true
     },
     "Arcane Euphoria": {

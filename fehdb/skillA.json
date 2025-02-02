@@ -293,6 +293,17 @@
     "last": true,
     "icon": "skillA/Swift_Ice"
   },
+  "Beyond Reason": {
+    "id": "Beyond Reason",
+    "name": "超越常理之人",
+    "sp": 300,
+    "atk": 10,
+    "def": 10,
+    "res": 10,
+    "exclusive": ["Athos - Omniscient One"],
+    "last": true,
+    "icon": "skillA/Beyond_Reason"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

@@ -587,6 +587,15 @@
     "exclusive": ["Ike - Desert Mercenary"],
     "last": true
   },
+  "Crusader's Astra": {
+    "id": "Crusader's Astra",
+    "name": "劍聖的流星雨",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Astra"],
+    "exclusive": ["Ayra - Supreme Astra"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -725,6 +734,15 @@
     "rules": "learner.wielderInfantry",
     "last": true
   },
+  "Nimble Beast": {
+    "id": "Nimble Beast",
+    "name": "敏捷之獸",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Astra"],
+    "rules": "beast",
+    "last": true
+  },
   "Galeforce": {
     "id": "Galeforce",
     "name": "疾風迅雷",
@@ -784,33 +802,6 @@
     "prev": ["Dragon Gaze"],
     "last": true
   },
-  "Fierce Beast": {
-    "id": "Fierce Beast",
-    "name": "猛獸",
-    "cd": 2,
-    "sp": 500,
-    "prev": ["Dragon Fang"],
-    "rules": "beast",
-    "last": true
-  },
-  "Sturdy Beast": {
-    "id": "Sturdy Beast",
-    "name": "堅固之獸",
-    "cd": 3,
-    "sp": 500,
-    "prev": ["Ignis"],
-    "rules": "beast",
-    "last": true
-  },
-  "Nimble Beast": {
-    "id": "Nimble Beast",
-    "name": "敏捷之獸",
-    "cd": 3,
-    "sp": 500,
-    "prev": ["Astra"],
-    "rules": "beast",
-    "last": true
-  },
   "Ruptured Sky": {
     "id": "Ruptured Sky",
     "name": "破天",
@@ -827,6 +818,15 @@
     "sp": 500,
     "prev": ["Draconic Aura"],
     "rules": "learner.wielderNotArmor",
+    "last": true
+  },
+  "Fierce Beast": {
+    "id": "Fierce Beast",
+    "name": "猛獸",
+    "cd": 2,
+    "sp": 500,
+    "prev": ["Dragon Fang"],
+    "rules": "beast",
     "last": true
   },
   "Glowing Ember": {
@@ -881,6 +881,15 @@
     "prev": ["Bonfire"],
     "last": true
   },
+  "Sturdy Beast": {
+    "id": "Sturdy Beast",
+    "name": "堅固之獸",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Ignis"],
+    "rules": "beast",
+    "last": true
+  },
   "Boulder": {
     "id": "Boulder",
     "name": "巨岩",
@@ -906,15 +915,6 @@
     "prev": ["Chilling Wind"],
     "last": true
   },
-  "Dragon's Roar": {
-    "id": "Dragon's Roar",
-    "name": "龍之咆哮",
-    "cd": 3,
-    "sp": 500,
-    "prev": ["Iceberg"],
-    "rules": "dragon",
-    "last": true
-  },
   "Glacies": {
     "id": "Glacies",
     "name": "冰華",
@@ -931,6 +931,24 @@
     "sp": 500,
     "prev": ["Iceberg"],
     "rules": "learner.armored-not-staff",
+    "last": true
+  },
+  "Dragon's Roar": {
+    "id": "Dragon's Roar",
+    "name": "龍之咆哮",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Iceberg"],
+    "rules": "dragon",
+    "last": true
+  },
+  "Frost Moon": {
+    "id": "Frost Moon",
+    "name": "冰輪",
+    "cd": 4,
+    "sp": 500,
+    "prev": ["Glacies"],
+    "rules": "tome",
     "last": true
   },
   "Rising Flame": {

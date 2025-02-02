@@ -3847,10 +3847,19 @@
     "id": "Endless Tempest",
     "name": "迅雷風烈・無極",
     "sp": 300,
-    "rules": "learner.infantry-flying-melee",
     "prev": ["Odd Tempest 3", "Even Tempest 3"],
+    "rules": "learner.infantry-flying-melee",
     "last": true,
     "icon": "skillC/Endless_Tempest"
+  },
+  "Brutal Tempest": {
+    "id": "Brutal Tempest",
+    "name": "迅雷風烈・鬼沒",
+    "sp": 300,
+    "prev": ["Odd Tempest 3", "Even Tempest 3"],
+    "rules": "learner.infantry-flying-melee",
+    "last": true,
+    "icon": "skillC/Brutal_Tempest"
   },
   "Assault Troop 1": {
     "id": "Assault Troop 1",

@@ -2671,18 +2671,6 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
-  "Dew - Benevolent Thief": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 192,
-    "special": { "Sol": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Spd/Def Finish 3": { "sp": 240, "rarity": 4 } },
-    "skillC": { "Atk/Spd Gap 3": { "sp": 240, "rarity": 5 } }
-  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -4042,6 +4030,18 @@
     "special": { "Luna": { "sp": 200, "rarity": 4 } },
     "skillA": { "Sorcery Blade 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd/Def Oath 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Dew - Benevolent Thief": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 192,
+    "special": { "Sol": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Def Finish 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Spd Gap 3": { "sp": 240, "rarity": 5 } }
   },
   "Kagetsu - Onigiri Samurai": {
     "score": 199,
@@ -12721,6 +12721,20 @@
     "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
   },
+  "Ayra - Supreme Astra": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 205,
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Speedtaker 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Brutal Tempest": { "sp": 300, "rarity": 5 } }
+  },
   "Ullr - The Bowmaster": {
     "score": 460,
     "scoreTotal": 1012,
@@ -12771,6 +12785,19 @@
     "bst": 188,
     "special": { "Flare": { "sp": 500, "rarity": 5 } },
     "skillA": { "Sly Mirror": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse Up: Ploy": { "sp": 300, "rarity": 5 } }
+  },
+  "Athos - Omniscient One": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Frost Moon": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Atk/Res Discord": { "sp": 300, "rarity": 5 } },
     "skillC": { "Pulse Up: Ploy": { "sp": 300, "rarity": 5 } }
   },
   "Hræsvelgr - Quieting Blade": {
@@ -14682,19 +14709,6 @@
     "skillA": { "Atk/Def Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
   },
-  "Alear - Gifted Dragons": {
-    "score": 530,
-    "scoreTotal": 1166,
-    "poolRarity": 5,
-    "pool": "duo",
-    "sp": 500,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 204,
-    "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
-    "skillB": { "S/R Spiked Wall": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Even Res Wave D": { "sp": 300, "rarity": 5 } }
-  },
   "Sharena - Pillars of Peace": {
     "score": 530,
     "scoreTotal": 1166,
@@ -14746,6 +14760,19 @@
     "special": { "Sturdy Beast": { "sp": 500, "rarity": 5 } },
     "skillB": { "Slick Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Higher Ground": { "sp": 300, "rarity": 5 } }
+  },
+  "Alear - Gifted Dragons": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 215,
+    "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
+    "skillB": { "S/R Spiked Wall": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Even Res Wave D": { "sp": 300, "rarity": 5 } }
   },
   "Ophelia - Dramatic Heroine": {
     "score": 400,

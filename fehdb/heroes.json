@@ -13108,6 +13108,44 @@
     "ver": "7.8",
     "dfKey": 5
   },
+  "Ayra - Supreme Astra": {
+    "id": "Ayra - Supreme Astra",
+    "title": "無雙的流星",
+    "name": "艾伊拉",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "bst": 205,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "water-spd-2",
+    "releaseDate": "2025-01-28",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [31, 34, 37],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 10,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.1",
+    "dfKey": 7
+  },
   "Chulainn - Unbeaten Warrior": {
     "id": "Chulainn - Unbeaten Warrior",
     "title": "不敗的劍鬥士",
@@ -13780,13 +13818,20 @@
     "id": "Dew - Benevolent Thief",
     "title": "開朗的盜賊",
     "name": "迪優",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "red",
     "moveType": "infantry",
     "weaponType": "red-dagger",
     "releaseDate": "2025-01-07",
     "appearsIn": ["Genealogy of the Holy War"],
     "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [35, 38, 41],
+        "spd": [40, 43, 46],
+        "def": [30, 33, 36],
+        "res": [18, 21, 24]
+      },
       "4": {
         "hp": [35, 38, 41],
         "atk": [37, 40, 44],
@@ -13800,6 +13845,13 @@
         "spd": [45, 48, 52],
         "def": [34, 37, 41],
         "res": [21, 24, 27]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 8,
+        "def": 6,
+        "res": 6
       },
       "4-1": {
         "hp": 18,
@@ -20804,6 +20856,41 @@
     "ver": "6.9",
     "dfKey": 5
   },
+  "Lyn - Of Blazing": {
+    "id": "Lyn - Of Blazing",
+    "title": "烈火紋章士",
+    "name": "琳",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-bow",
+    "pool": "emblem",
+    "releaseDate": "2024-12-25",
+    "appearsIn": ["The Blazing Blade", "Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [25, 29, 32],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 7,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.0",
+    "dfKey": 7
+  },
   "Hector - General of Ostia": {
     "id": "Hector - General of Ostia",
     "title": "奧斯提亞的勇將",
@@ -24378,6 +24465,43 @@
     "ver": "7.11",
     "dfKey": 6
   },
+  "Athos - Omniscient One": {
+    "id": "Athos - Omniscient One",
+    "title": "見證一切之人",
+    "name": "亞托思",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "anima-def-2",
+    "releaseDate": "2025-01-28",
+    "appearsIn": ["The Blazing Blade"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [46, 49, 52],
+        "spd": [15, 18, 21],
+        "def": [29, 32, 35],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 3,
+        "def": 8,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.1",
+    "dfKey": 7
+  },
   "Bramimond - The Enigma": {
     "id": "Bramimond - The Enigma",
     "title": "充滿謎團之人",
@@ -24414,41 +24538,6 @@
     "book": 4,
     "ver": "4.3",
     "dfKey": 2
-  },
-  "Lyn - Of Blazing": {
-    "id": "Lyn - Of Blazing",
-    "title": "烈火紋章士",
-    "name": "琳",
-    "rarity": [5],
-    "colorType": "green",
-    "moveType": "infantry",
-    "weaponType": "green-bow",
-    "pool": "emblem",
-    "releaseDate": "2024-12-25",
-    "appearsIn": ["The Blazing Blade", "Engage"],
-    "stats": {
-      "5": {
-        "hp": [36, 40, 43],
-        "atk": [43, 46, 49],
-        "spd": [45, 48, 52],
-        "def": [25, 29, 32],
-        "res": [27, 31, 34]
-      },
-      "5-1": {
-        "hp": 18,
-        "atk": 11,
-        "spd": 9,
-        "def": 7,
-        "res": 9
-      }
-    },
-    "assets": ["spd"],
-    "flaws": ["hp", "def", "res"],
-    "statMin": 194,
-    "statMax": 195,
-    "book": 9,
-    "ver": "9.0",
-    "dfKey": 7
   },
   "Eirika - Restoration Lady": {
     "id": "Eirika - Restoration Lady",
@@ -50472,6 +50561,7 @@
     "colorType": "blue",
     "moveType": "infantry",
     "weaponType": "blue-dragon",
+    "bst": 215,
     "pool": "duo",
     "releaseDate": "2024-12-13",
     "appearsIn": ["Engage"],

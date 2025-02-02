@@ -7939,6 +7939,37 @@
       "Red Feud 3": 4
     }
   },
+  "Ayra - Supreme Astra": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Sword of Isaach": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Crusader's Astra": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
+    },
+    "skillB": {
+      "Speedtaker 1": 2,
+      "Speedtaker 2": 3,
+      "Speedtaker 3": 4,
+      "Speedtaker 4": 5
+    },
+    "skillC": {
+      "Odd Tempest 1": 2,
+      "Odd Tempest 2": 3,
+      "Odd Tempest 3": 4,
+      "Brutal Tempest": 5
+    }
+  },
   "Chulainn - Unbeaten Warrior": {
     "weapon": {
       "Iron Sword": 1,
@@ -12122,6 +12153,37 @@
       "Spd Smoke 4": 5
     }
   },
+  "Lyn - Of Blazing": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Lady's Bow": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Astra Storm": 5
+    },
+    "skillA": {
+      "Atk/Spd Finish 1": 2,
+      "Atk/Spd Finish 2": 3,
+      "Atk/Spd Finish 3": 4,
+      "Atk/Spd Finish 4": 5
+    },
+    "skillB": {
+      "Speedtaker 1": 2,
+      "Speedtaker 2": 3,
+      "Speedtaker 3": 4,
+      "Speedtaker 4": 5
+    },
+    "skillC": {
+      "Panic Smoke 1": 2,
+      "Panic Smoke 2": 3,
+      "Panic Smoke 3": 4,
+      "Panic Smoke 4": 5
+    }
+  },
   "Hector - General of Ostia": {
     "weapon": {
       "Iron Axe": 1,
@@ -13955,6 +14017,34 @@
       "Infantry Pulse 3": 5
     }
   },
+  "Athos - Omniscient One": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 3,
+      "Blessed Aureola": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Glacies": 4,
+      "Frost Moon": 5
+    },
+    "skillA": {
+      "Beyond Reason": 5
+    },
+    "skillB": {
+      "Sabotage Res 1": 2,
+      "Sabotage Res 2": 3,
+      "Sabotage Res 3": 4,
+      "Atk/Res Discord": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Pulse Up: Ploy": 5
+    }
+  },
   "Bramimond - The Enigma": {
     "weapon": {
       "Stone": 1,
@@ -13983,37 +14073,6 @@
     "skillC": {
       "Impenetrable Dark": 5,
       "Impenetrable Void": 5
-    }
-  },
-  "Lyn - Of Blazing": {
-    "weapon": {
-      "Iron Bow": 1,
-      "Steel Bow": 2,
-      "Silver Bow": 3,
-      "Lady's Bow": 5
-    },
-    "special": {
-      "Night Sky": 3,
-      "Astra": 4,
-      "Astra Storm": 5
-    },
-    "skillA": {
-      "Atk/Spd Finish 1": 2,
-      "Atk/Spd Finish 2": 3,
-      "Atk/Spd Finish 3": 4,
-      "Atk/Spd Finish 4": 5
-    },
-    "skillB": {
-      "Speedtaker 1": 2,
-      "Speedtaker 2": 3,
-      "Speedtaker 3": 4,
-      "Speedtaker 4": 5
-    },
-    "skillC": {
-      "Panic Smoke 1": 2,
-      "Panic Smoke 2": 3,
-      "Panic Smoke 3": 4,
-      "Panic Smoke 4": 5
     }
   },
   "Eirika - Restoration Lady": {
