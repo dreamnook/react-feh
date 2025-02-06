@@ -4894,10 +4894,10 @@
         "mythic": {
           "5": [
             "Líf - Lethal Swordsman",
-            "Ash - Retainer to Askr",
             "Askr - God of Openness",
             "Fomortiis - Demon King",
-            "Thórr - War God"
+            "Thórr - War God",
+            "Ash - Retainer to Askr"
           ]
         },
         "special": {
@@ -9424,6 +9424,7 @@
         "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
         "legendary": {
           "5": [
+            "Xander - Gallant King",
             "Elincia - Undaunted Queen",
             "Dimitri - Savior King",
             "Ayra - Supreme Astra"
@@ -9554,7 +9555,7 @@
       "pool": {
         "#": { "5": ["Felix - Sword Savant"] },
         "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
-        "legendary": { "5": ["Ayra - Supreme Astra"] },
+        "legendary": { "5": ["Xander - Gallant King", "Ayra - Supreme Astra"] },
         "special": {
           "5": ["Nerþuz - Beach Chaperone", "Felicia - Confidently Cold"]
         },
@@ -12484,7 +12485,7 @@
           ]
         },
         "legendary": { "5": ["Chrom - Crowned Exalt"] },
-        "mythic": { "5": ["Ash - Retainer to Askr", "Freyr - Dream-King"] },
+        "mythic": { "5": ["Freyr - Dream-King", "Ash - Retainer to Askr"] },
         "special": { "5": ["Lyon - Sunlit Prince", "Freyr - Estival Dreams"] },
         "duo": { "5": ["Ephraim - Dynastic Duo"] },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }
@@ -13219,7 +13220,11 @@
     "Atk/Def Bulwark 3": {
       "pool": {
         "mythic": {
-          "5": ["Askr - God of Openness", "Heiðrún - Healing Nectar"]
+          "5": [
+            "Askr - God of Openness",
+            "Ash - Retainer to Askr",
+            "Heiðrún - Healing Nectar"
+          ]
         },
         "special": {
           "5": [
@@ -13286,7 +13291,10 @@
       "rules": "learner.infantry-melee"
     },
     "A/D Spiked Wall": {
-      "pool": { "special": { "5": ["Diamant - Gallant Ninja"] } },
+      "pool": {
+        "mythic": { "5": ["Ash - Retainer to Askr"] },
+        "special": { "5": ["Diamant - Gallant Ninja"] }
+      },
       "id": "A/D Spiked Wall",
       "name": "攻擊防守的刃牆",
       "sp": 300,

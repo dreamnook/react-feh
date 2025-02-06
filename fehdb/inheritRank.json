@@ -6629,19 +6629,6 @@
     "skillA": { "Atk/Res Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Armored Stride 3": { "sp": 240, "rarity": 5 } }
   },
-  "Ash - Retainer to Askr": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 182,
-    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Unity": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } }
-  },
   "Askr - God of Openness": {
     "score": 276,
     "scoreTotal": 681,
@@ -6717,7 +6704,7 @@
     "feather": 1000,
     "bst": 190,
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Fomortiis - Demon King": {
@@ -7730,6 +7717,19 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Ferocity": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Hone Def": { "sp": 300, "rarity": 5 } }
+  },
+  "Ash - Retainer to Askr": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Unity": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/D Spiked Wall": { "sp": 300, "rarity": 5 } }
   },
   "Veyle - Gentle Dragon": {
     "score": 276,

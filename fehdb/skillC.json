@@ -287,6 +287,15 @@
     "last": true,
     "icon": "skillC/Worldbreaker"
   },
+  "Open Retainer+": {
+    "id": "Open Retainer+",
+    "name": "開神的眷屬・神",
+    "sp": 300,
+    "prev": ["Opening Retainer"],
+    "exclusive": ["Ash - Retainer to Askr"],
+    "last": true,
+    "icon": "skillC/Open_Retainer+"
+  },
   "Opening Retainer": {
     "id": "Opening Retainer",
     "name": "開神的眷屬",

@@ -503,6 +503,15 @@
     "last": true,
     "icon": "skillB/True_Dragon_Wall"
   },
+  "Chivalry II": {
+    "id": "Chivalry II",
+    "name": "騎士精神・承",
+    "sp": 300,
+    "prev": ["Chivalry"],
+    "exclusive": ["Xander - Gallant King"],
+    "last": true,
+    "icon": "skillB/Chivalry_II"
+  },
   "Chivalry": {
     "id": "Chivalry",
     "name": "騎士精神",

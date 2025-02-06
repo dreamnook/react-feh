@@ -2759,10 +2759,15 @@
     "skillB": {
       "Lull Atk/Def 1": 1,
       "Lull Atk/Def 2": 2,
-      "Lull Atk/Def 3": 4
+      "Lull Atk/Def 3": 4,
+      "Atk/Def Bulwark 1": 1,
+      "Atk/Def Bulwark 2": 2,
+      "Atk/Def Bulwark 3": 4,
+      "A/D Spiked Wall": 5
     },
     "skillC": {
-      "Opening Retainer": 5
+      "Opening Retainer": 5,
+      "Open Retainer+": 5
     }
   },
   "Ash - Earnest Greetings": {
@@ -8069,7 +8074,8 @@
       "Iron Sword": 1,
       "Steel Sword": 2,
       "Unbound Blade": 3,
-      "Unbound Blade+": 5
+      "Unbound Blade+": 5,
+      "Aerial Longsword": 5
     },
     "special": {
       "New Moon": 3,
@@ -15415,7 +15421,8 @@
       "Flux": 1,
       "Ruin": 2,
       "Rauðrfox": 3,
-      "Rauðrfox+": 5
+      "Rauðrfox+": 5,
+      "Dark Monograph": 5
     },
     "special": {
       "New Moon": 3,
@@ -23954,10 +23961,15 @@
       "Atk/Spd Catch 1": 2,
       "Atk/Spd Catch 2": 3,
       "Atk/Spd Catch 3": 4,
-      "Atk/Spd Catch 4": 5
+      "Atk/Spd Catch 4": 5,
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
     },
     "skillB": {
-      "Chivalry": 5
+      "Chivalry": 5,
+      "Chivalry II": 5
     },
     "skillC": {
       "C Feud 1": 1,
