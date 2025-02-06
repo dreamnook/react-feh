@@ -760,6 +760,38 @@
     "last": true,
     "icon": "skillB/I_Remember..."
   },
+  "Pure Atrocity": {
+    "id": "Pure Atrocity",
+    "name": "正真無慘",
+    "sp": 300,
+    "exclusive": ["Dimitri - Stargazing Lion"],
+    "last": true,
+    "icon": "skillB/Pure_Atrocity"
+  },
+  "Pure Dragon Wall": {
+    "id": "Pure Dragon Wall",
+    "name": "正真龍鱗障壁",
+    "sp": 300,
+    "exclusive": ["Rhea - Aura of Love"],
+    "last": true,
+    "icon": "skillB/Pure_Dragon_Wall"
+  },
+  "Pure Starfall": {
+    "id": "Pure Starfall",
+    "name": "正真落星",
+    "sp": 300,
+    "exclusive": ["Claude - Distant Deer"],
+    "last": true,
+    "icon": "skillB/Pure_Starfall"
+  },
+  "Pure Storm": {
+    "id": "Pure Storm",
+    "name": "正真狂嵐",
+    "sp": 300,
+    "exclusive": ["Edelgard - Adorned Eagle"],
+    "last": true,
+    "icon": "skillB/Pure_Storm"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

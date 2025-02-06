@@ -26019,6 +26019,34 @@
       "True Dragon Wall": 5
     }
   },
+  "Rhea - Aura of Love": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Devoted Breath": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4,
+      "Dragon's Roar": 5
+    },
+    "skillA": {
+      "Def/Res Scowl 1": 2,
+      "Def/Res Scowl 2": 3,
+      "Def/Res Scowl 3": 4,
+      "Def/Res Scowl 4": 5
+    },
+    "skillB": {
+      "Pure Dragon Wall": 5
+    },
+    "skillC": {
+      "Close Guard 1": 2,
+      "Close Guard 2": 3,
+      "Close Guard 3": 4,
+      "Lower Ground": 5
+    }
+  },
   "Cyril - Rhea's Attendant": {
     "weapon": {
       "Iron Bow": 1,
@@ -26202,6 +26230,34 @@
       "Def/Res Ploy 3": 5
     }
   },
+  "Edelgard - Adorned Eagle": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Eagle's Heart": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4,
+      "Armored Blaze": 5
+    },
+    "skillA": {
+      "Death Blow 1": 2,
+      "Sturdy Blow 1": 3,
+      "Sturdy Blow 2": 4,
+      "Sly Sturdy Blow": 5
+    },
+    "skillB": {
+      "Pure Storm": 5
+    },
+    "skillC": {
+      "Assault Troop 1": 2,
+      "Assault Troop 2": 3,
+      "Assault Troop 3": 4,
+      "Assault Rush": 5
+    }
+  },
   "Hubert - Sinister Servant": {
     "weapon": {
       "Flux": 1,
@@ -26223,6 +26279,28 @@
       "Inf. Hexblade 1": 3,
       "Inf. Hexblade 2": 4,
       "Inf. Hexblade 3": 5
+    }
+  },
+  "Hubert - Crimson Schemer": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Devoted Cup": 3,
+      "Devoted Cup+": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillB": {
+      "Bold Fighter 1": 3,
+      "Bold Fighter 2": 4,
+      "Bold Fighter 3": 5
+    },
+    "skillC": {
+      "Panic Ploy 1": 1,
+      "Panic Ploy 2": 2,
+      "Panic Ploy 3": 4
     }
   },
   "Ferdinand - Noblest of Nobles": {
@@ -26779,6 +26857,34 @@
       "Panic Smoke 2": 3,
       "Panic Smoke 3": 4,
       "Panic Smoke 4": 5
+    }
+  },
+  "Dimitri - Stargazing Lion": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Lion's Heart": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4,
+      "Haze Slice": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
+    },
+    "skillB": {
+      "Pure Atrocity": 5
+    },
+    "skillC": {
+      "Shadow Shift 1": 2,
+      "Shadow Shift 2": 3,
+      "Shadow Shift 3": 4,
+      "Shadow Shift 4": 5
     }
   },
   "Dedue - Dimitri's Vassal": {
@@ -27389,6 +27495,34 @@
       "Chill Spd 1": 3,
       "Chill Atk/Spd 1": 4,
       "Chill Atk/Spd 2": 5
+    }
+  },
+  "Claude - Distant Deer": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Deer's Heart": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4,
+      "Curved Shot": 5
+    },
+    "skillA": {
+      "Atk/Spd Prime 1": 2,
+      "Atk/Spd Prime 2": 3,
+      "Atk/Spd Prime 3": 4,
+      "Atk/Spd Prime 4": 5
+    },
+    "skillB": {
+      "Pure Starfall": 5
+    },
+    "skillC": {
+      "Hone Spd 1": 2,
+      "Hone Spd 2": 3,
+      "Hone Spd 3": 4,
+      "A/S Incite Hone": 5
     }
   },
   "Lorenz - Highborn Heat": {

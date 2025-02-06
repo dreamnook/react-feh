@@ -1025,6 +1025,15 @@
     "last": true,
     "icon": "skillC/Higher_Ground"
   },
+  "Lower Ground": {
+    "id": "Lower Ground",
+    "name": "地盤・守護人・近",
+    "sp": 300,
+    "prev": ["Close Guard 3", "Distant Guard 3"],
+    "rules": "learner.armored-dragon-beast",
+    "last": true,
+    "icon": "skillC/Lower_Ground"
+  },
   "Goad Armor": {
     "id": "Goad Armor",
     "name": "重刃紋章",
@@ -1505,6 +1514,15 @@
     "prev": ["Fortify Res 3"],
     "last": true,
     "icon": "skillC/Joint_Hone_Res"
+  },
+  "A/S Incite Hone": {
+    "id": "A/S Incite Hone",
+    "name": "攻速鼓舞・奮激",
+    "sp": 300,
+    "prev": ["Hone Atk 3", "Hone Spd 3"],
+    "rules": "cavalry",
+    "last": true,
+    "icon": "skillC/A_S_Incite_Hone"
   },
   "Hone Armor": {
     "id": "Hone Armor",
@@ -3893,6 +3911,15 @@
     "rules": "learner.wielder",
     "icon": "skillC/Assault_Troop_3",
     "last": true
+  },
+  "Assault Rush": {
+    "id": "Assault Rush",
+    "name": "一齊突擊・突貫",
+    "sp": 300,
+    "prev": ["Assault Troop 3"],
+    "rules": "learner.wielderInfantryArmored",
+    "last": true,
+    "icon": "skillC/Assault_Rush"
   },
   "Odd Recovery 1": {
     "id": "Odd Recovery 1",

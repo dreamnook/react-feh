@@ -2253,6 +2253,30 @@
       "icon": "skillA/Spd_Res_Finish_3",
       "last": true
     },
+    "Atk/Spd Prime 1": {
+      "id": "Atk/Spd Prime 1",
+      "name": "攻擊速度的準備1",
+      "sp": 60,
+      "rules": "learner.def-dmger",
+      "icon": "skillA/Atk_Spd_Prime_1"
+    },
+    "Atk/Spd Prime 2": {
+      "id": "Atk/Spd Prime 2",
+      "name": "攻擊速度的準備2",
+      "sp": 120,
+      "prev": ["Atk/Spd Prime 1"],
+      "rules": "learner.def-dmger",
+      "icon": "skillA/Atk_Spd_Prime_2"
+    },
+    "Atk/Spd Prime 3": {
+      "id": "Atk/Spd Prime 3",
+      "name": "攻擊速度的準備3",
+      "sp": 240,
+      "prev": ["Atk/Spd Prime 2"],
+      "rules": "learner.def-dmger",
+      "icon": "skillA/Atk_Spd_Prime_3",
+      "last": true
+    },
     "Atk/Def Prime 1": {
       "id": "Atk/Def Prime 1",
       "name": "攻擊防守的準備1",
@@ -4067,6 +4091,30 @@
       "prev": ["Spd Smoke 2"],
       "rules": "not.white-staff",
       "icon": "skillC/Spd_Smoke_3",
+      "last": true
+    },
+    "Time's Pulse 1": {
+      "id": "Time's Pulse 1",
+      "name": "初始之躍動1",
+      "sp": 60,
+      "rules": "infantry",
+      "icon": "skillC/Times_Pulse_1"
+    },
+    "Time's Pulse 2": {
+      "id": "Time's Pulse 2",
+      "name": "初始之躍動2",
+      "sp": 120,
+      "prev": ["Time's Pulse 1"],
+      "rules": "infantry",
+      "icon": "skillC/Times_Pulse_2"
+    },
+    "Time's Pulse 3": {
+      "id": "Time's Pulse 3",
+      "name": "初始之躍動3",
+      "sp": 240,
+      "prev": ["Time's Pulse 2"],
+      "rules": "infantry",
+      "icon": "skillC/Times_Pulse_3",
       "last": true
     },
     "Infantry Rush 1": {
@@ -7105,6 +7153,36 @@
       "res": 3,
       "prev": ["Squad Ace CL 2"],
       "icon": "seal/Squad_Ace_Spd_Def_Res_3",
+      "last": true
+    },
+    "Squad Ace CM 1": {
+      "id": "Squad Ace CM 1",
+      "name": "第９１迷宮的霸王1",
+      "sp": 120,
+      "hp": 3,
+      "atk": 1,
+      "spd": 1,
+      "icon": "seal/Squad_Ace_HP_Atk_Spd_1"
+    },
+    "Squad Ace CM 2": {
+      "id": "Squad Ace CM 2",
+      "name": "第９１迷宮的霸王2",
+      "sp": 180,
+      "hp": 4,
+      "atk": 2,
+      "spd": 2,
+      "prev": ["Squad Ace CM 1"],
+      "icon": "seal/Squad_Ace_HP_Atk_Spd_2"
+    },
+    "Squad Ace CM 3": {
+      "id": "Squad Ace CM 3",
+      "name": "第９１迷宮的霸王3",
+      "sp": 240,
+      "hp": 5,
+      "atk": 3,
+      "spd": 3,
+      "prev": ["Squad Ace CM 2"],
+      "icon": "seal/Squad_Ace_HP_Atk_Spd_3",
       "last": true
     }
   }

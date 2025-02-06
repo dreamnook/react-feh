@@ -2433,6 +2433,13 @@
         "name": "玻璃圓缸+",
         "sp": 300,
         "refine": 350
+      },
+      "Devoted Cup+": {
+        "pool": { "special": { "5": ["Hubert - Crimson Schemer"] } },
+        "id": "Devoted Cup+",
+        "name": "愛之祭典的酒杯+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "green-tome": {
@@ -4102,7 +4109,8 @@
             "Ingrid - Solstice Knight",
             "Faye - Drawn Heartstring",
             "Severa - Bitter Blossom",
-            "Ashe - Fabled Sea Knight"
+            "Ashe - Fabled Sea Knight",
+            "Claude - Distant Deer"
           ]
         },
         "duo": {
@@ -4133,6 +4141,7 @@
         "#": {
           "5": ["Bernadetta - Sheltered Loner", "Ashe - Chivalric Amends"]
         },
+        "special": { "5": ["Claude - Distant Deer"] },
         "duo": { "5": ["Lucina - Shadows of Fate"] }
       },
       "id": "Curved Shot",
@@ -4696,6 +4705,7 @@
             "Tana - Frelian Starlight",
             "Bernadetta - Late Hibernator",
             "Dimitri - Blessed Protector",
+            "Dimitri - Stargazing Lion",
             "Sylvain - Spring Flingster"
           ]
         },
@@ -4824,6 +4834,13 @@
       "sp": 500,
       "rules": "learner.wielderNotArmor"
     },
+    "Haze Slice": {
+      "pool": { "special": { "5": ["Dimitri - Stargazing Lion"] } },
+      "id": "Haze Slice",
+      "name": "霞切",
+      "sp": 500,
+      "rules": "learner.wielderNotArmor"
+    },
     "Fierce Beast": {
       "pool": { "mythic": { "5": ["Eikþyrnir - Quieting Strength"] } },
       "id": "Fierce Beast",
@@ -4920,6 +4937,7 @@
             "Ephraim - Ardent Prince",
             "Edelgard - Snowfall Future",
             "Myrrh - Adored Dragon",
+            "Edelgard - Adorned Eagle",
             "Diamant - Gallant Ninja",
             "Nah - Grateful One"
           ]
@@ -5031,6 +5049,7 @@
           "5": [
             "Ephraim - Ardent Prince",
             "Edelgard - Snowfall Future",
+            "Edelgard - Adorned Eagle",
             "Nah - Grateful One"
           ]
         }
@@ -5154,6 +5173,7 @@
             "Idunn - Dragonkin Duo",
             "Mark - Winds of Hope",
             "Sanaki - Dawnsworn Ninja",
+            "Rhea - Aura of Love",
             "Alear - Gifted Dragons"
           ]
         },
@@ -5227,7 +5247,8 @@
             "Leo - Festival Bonds",
             "Ilyana - Awakened Appetite",
             "Vika - Sea-Dark Wing",
-            "Flora - Polar-Perfect"
+            "Flora - Polar-Perfect",
+            "Hubert - Crimson Schemer"
           ],
           "5": [
             "Sakura - Gentle Nekomata",
@@ -5256,7 +5277,7 @@
     "Dragon's Roar": {
       "pool": {
         "legendary": { "5": ["Alear - Engaging Fire"] },
-        "duo": { "5": ["Alear - Gifted Dragons"] },
+        "duo": { "5": ["Rhea - Aura of Love", "Alear - Gifted Dragons"] },
         "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
       },
       "id": "Dragon's Roar",
@@ -6565,7 +6586,8 @@
             "Nailah - Hatari Scorcher",
             "Lyn - Lady of the Beach",
             "Sigurd - Proper Pourer",
-            "Ingrid - Solstice Knight"
+            "Ingrid - Solstice Knight",
+            "Edelgard - Adorned Eagle"
           ]
         },
         "harmonized": { "5": ["Roy - Blazing Bachelors"] }
@@ -6838,6 +6860,14 @@
       "name": "鬼神飛燕掩擊",
       "sp": 300,
       "icon": "skillA/Sly_Swift_Sparrow",
+      "rules": "not.white-staff"
+    },
+    "Sly Sturdy Blow": {
+      "pool": { "special": { "5": ["Edelgard - Adorned Eagle"] } },
+      "id": "Sly Sturdy Blow",
+      "name": "鬼神金剛掩擊",
+      "sp": 300,
+      "icon": "skillA/Sly_Sturdy_Blow",
       "rules": "not.white-staff"
     },
     "Sly Mirror": {
@@ -9443,6 +9473,7 @@
             "Dagr - Bluster Princess",
             "Nerþuz - Beach Chaperone",
             "Felicia - Confidently Cold",
+            "Dimitri - Stargazing Lion",
             "Sylvain - Spring Flingster"
           ]
         },
@@ -9557,7 +9588,11 @@
         "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
         "legendary": { "5": ["Xander - Gallant King", "Ayra - Supreme Astra"] },
         "special": {
-          "5": ["Nerþuz - Beach Chaperone", "Felicia - Confidently Cold"]
+          "5": [
+            "Nerþuz - Beach Chaperone",
+            "Felicia - Confidently Cold",
+            "Dimitri - Stargazing Lion"
+          ]
         },
         "duo": { "5": ["Sharena - Pillars of Peace"] },
         "harmonized": { "5": ["Marisa - Willful Blades"] }
@@ -9846,7 +9881,10 @@
       "rules": "dragon"
     },
     "Def/Res Scowl 3": {
-      "pool": { "special": { "5": ["Myrrh - Adored Dragon"] } },
+      "pool": {
+        "special": { "5": ["Myrrh - Adored Dragon"] },
+        "duo": { "5": ["Rhea - Aura of Love"] }
+      },
       "id": "Def/Res Scowl 3",
       "name": "防守魔防的龍眼3",
       "sp": 240,
@@ -9854,7 +9892,10 @@
       "rules": "dragon"
     },
     "Def/Res Scowl 4": {
-      "pool": { "special": { "5": ["Myrrh - Adored Dragon"] } },
+      "pool": {
+        "special": { "5": ["Myrrh - Adored Dragon"] },
+        "duo": { "5": ["Rhea - Aura of Love"] }
+      },
       "id": "Def/Res Scowl 4",
       "name": "防守魔防的龍眼4",
       "sp": 300,
@@ -9868,6 +9909,7 @@
           "5": [
             "Claude - Golden Breeze",
             "Dimitri - Blessed Protector",
+            "Claude - Distant Deer",
             "Malice - Blooming Blade"
           ]
         },
@@ -9886,6 +9928,7 @@
           "5": [
             "Claude - Golden Breeze",
             "Dimitri - Blessed Protector",
+            "Claude - Distant Deer",
             "Malice - Blooming Blade"
           ]
         },
@@ -10301,6 +10344,7 @@
         "special": {
           "5": [
             "Alfonse - Uplifting Love",
+            "Hubert - Crimson Schemer",
             "Lissa - Pure Joy",
             "Ilyana - Treat Harvester",
             "Kagero - Beverage Ninja",
@@ -14019,7 +14063,8 @@
         },
         "special": {
           "5": ["Ephraim - Sparkling Gallantly", "Felicia - Off the Menu"]
-        }
+        },
+        "duo": { "5": ["Rhea - Aura of Love"] }
       },
       "id": "Close Guard 3",
       "name": "近距離警戒3",
@@ -14099,6 +14144,14 @@
       "name": "地盤・守護人・遠",
       "sp": 300,
       "icon": "skillC/Higher_Ground",
+      "rules": "learner.armored-dragon-beast"
+    },
+    "Lower Ground": {
+      "pool": { "duo": { "5": ["Rhea - Aura of Love"] } },
+      "id": "Lower Ground",
+      "name": "地盤・守護人・近",
+      "sp": 300,
+      "icon": "skillC/Lower_Ground",
       "rules": "learner.armored-dragon-beast"
     },
     "Goad Armor": {
@@ -14531,7 +14584,8 @@
           "5": [
             "Caeda - Talys's Bride",
             "Gunnthrá - Year's First Dream",
-            "Ashe - Fabled Sea Knight"
+            "Ashe - Fabled Sea Knight",
+            "Claude - Distant Deer"
           ]
         },
         "duo": { "5": ["Marth - Royal Altean Duo"] }
@@ -14658,6 +14712,14 @@
       "name": "魔防相互鼓舞",
       "sp": 300,
       "icon": "skillC/Joint_Hone_Res"
+    },
+    "A/S Incite Hone": {
+      "pool": { "special": { "5": ["Claude - Distant Deer"] } },
+      "id": "A/S Incite Hone",
+      "name": "攻速鼓舞・奮激",
+      "sp": 300,
+      "icon": "skillC/A_S_Incite_Hone",
+      "rules": "cavalry"
     },
     "Hone Armor": {
       "pool": {
@@ -15246,7 +15308,10 @@
           ],
           "5": ["Valter - Dark Moonstone"]
         },
-        "special": { "5": ["Helbindi - Seaside Scourge"] }
+        "special": {
+          "4": ["Hubert - Crimson Schemer"],
+          "5": ["Helbindi - Seaside Scourge"]
+        }
       },
       "id": "Panic Ploy 3",
       "name": "恐慌奇策3",
@@ -16934,7 +16999,9 @@
     },
     "Assault Troop 3": {
       "pool": {
-        "special": { "5": ["Zelgius - Ninja Knight"] },
+        "special": {
+          "5": ["Zelgius - Ninja Knight", "Edelgard - Adorned Eagle"]
+        },
         "harmonized": { "5": ["Edelgard - Sun Empresses"] }
       },
       "id": "Assault Troop 3",
@@ -16942,6 +17009,14 @@
       "sp": 240,
       "icon": "skillC/Assault_Troop_3",
       "rules": "learner.wielder"
+    },
+    "Assault Rush": {
+      "pool": { "special": { "5": ["Edelgard - Adorned Eagle"] } },
+      "id": "Assault Rush",
+      "name": "一齊突擊・突貫",
+      "sp": 300,
+      "icon": "skillC/Assault_Rush",
+      "rules": "learner.wielderInfantryArmored"
     },
     "Odd Recovery 3": {
       "pool": {
@@ -17044,6 +17119,7 @@
     "Shadow Shift 3": {
       "pool": {
         "aided": { "5": ["Reginn - Dvergr Heir"] },
+        "special": { "5": ["Dimitri - Stargazing Lion"] },
         "duo": { "5": ["Lucina - Shadows of Fate"] }
       },
       "id": "Shadow Shift 3",
@@ -17055,6 +17131,7 @@
     "Shadow Shift 4": {
       "pool": {
         "aided": { "5": ["Reginn - Dvergr Heir"] },
+        "special": { "5": ["Dimitri - Stargazing Lion"] },
         "duo": { "5": ["Lucina - Shadows of Fate"] }
       },
       "id": "Shadow Shift 4",

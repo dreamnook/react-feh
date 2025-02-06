@@ -3500,6 +3500,19 @@
     "skillA": { "Atk/Res Scowl 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
   },
+  "Hubert - Crimson Schemer": {
+    "score": 196,
+    "scoreTotal": 436,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 195,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Panic Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
   "Hana - Striving Heart": {
     "score": 196,
     "scoreTotal": 436,
@@ -14618,6 +14631,32 @@
     "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
   },
+  "Claude - Distant Deer": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Curved Shot": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
+  },
+  "Dimitri - Stargazing Lion": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Haze Slice": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Shadow Shift 4": { "sp": 300, "rarity": 5 } }
+  },
   "Hræsvelgr - Wings of Healing": {
     "score": 530,
     "scoreTotal": 1166,
@@ -14760,6 +14799,32 @@
     "special": { "Sturdy Beast": { "sp": 500, "rarity": 5 } },
     "skillB": { "Slick Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Higher Ground": { "sp": 300, "rarity": 5 } }
+  },
+  "Edelgard - Adorned Eagle": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Sly Sturdy Blow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Assault Rush": { "sp": 300, "rarity": 5 } }
+  },
+  "Rhea - Aura of Love": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 215,
+    "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Def/Res Scowl 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Lower Ground": { "sp": 300, "rarity": 5 } }
   },
   "Alear - Gifted Dragons": {
     "score": 530,

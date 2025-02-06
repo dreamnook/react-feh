@@ -3516,6 +3516,16 @@
       },
       "last": true
     },
+    "Lion's Heart": {
+      "id": "Lion's Heart",
+      "name": "青獅子的愛之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Dimitri - Stargazing Lion"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -12087,6 +12097,16 @@
       "exclusive": ["Marisa - Willful Blades"],
       "last": true
     },
+    "Eagle's Heart": {
+      "id": "Eagle's Heart",
+      "name": "黑鷲的愛之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Edelgard - Adorned Eagle"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -15493,6 +15513,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Midir - Archer of Yngvi"],
+      "last": true
+    },
+    "Deer's Heart": {
+      "id": "Deer's Heart",
+      "name": "金鹿的愛之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Claude - Distant Deer"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -25493,6 +25523,39 @@
         }
       },
       "last": true
+    },
+    "Devoted Cup": {
+      "id": "Devoted Cup",
+      "name": "愛之祭典的酒杯",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elthunder", "Ellight"]
+    },
+    "Devoted Cup+": {
+      "id": "Devoted Cup+",
+      "name": "愛之祭典的酒杯+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Devoted Cup"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "green-tome": {
@@ -30755,6 +30818,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Alear - Gifted Dragons"],
+      "last": true
+    },
+    "Devoted Breath": {
+      "id": "Devoted Breath",
+      "name": "永恆的愛之吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Rhea - Aura of Love"],
       "last": true
     },
     "Arcane Grima": {

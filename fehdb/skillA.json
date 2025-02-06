@@ -1267,6 +1267,15 @@
     "last": true,
     "icon": "skillA/Sly_Swift_Sparrow"
   },
+  "Sly Sturdy Blow": {
+    "id": "Sly Sturdy Blow",
+    "name": "鬼神金剛掩擊",
+    "sp": 300,
+    "rules": "not.white-staff",
+    "prev": ["Sturdy Blow 2"],
+    "last": true,
+    "icon": "skillA/Sly_Sturdy_Blow"
+  },
   "Sly Mirror": {
     "id": "Sly Mirror",
     "name": "鬼神明鏡掩擊",

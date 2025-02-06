@@ -45889,6 +45889,42 @@
     "ver": "7.4",
     "dfKey": 5
   },
+  "Rhea - Aura of Love": {
+    "id": "Rhea - Aura of Love",
+    "title": "深沉愛意薰染天際",
+    "name": "蕾雅",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "armored",
+    "weaponType": "white-dragon",
+    "bst": 215,
+    "pool": "duo",
+    "releaseDate": "2025-02-07",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [45, 48, 51],
+        "spd": [13, 17, 20],
+        "def": [42, 46, 49],
+        "res": [47, 50, 54]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 13,
+        "spd": 4,
+        "def": 13,
+        "res": 11
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["spd", "def"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
+  },
   "Cyril - Rhea's Attendant": {
     "id": "Cyril - Rhea's Attendant",
     "title": "大司教的隨從",
@@ -46162,6 +46198,41 @@
     "ver": "8.0",
     "dfKey": 6
   },
+  "Edelgard - Adorned Eagle": {
+    "id": "Edelgard - Adorned Eagle",
+    "title": "戴花冠的黑鷲",
+    "name": "艾黛爾賈特",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "armored",
+    "weaponType": "green-axe",
+    "pool": "special",
+    "releaseDate": "2025-02-07",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [43, 46, 49],
+        "atk": [47, 50, 54],
+        "spd": [13, 17, 20],
+        "def": [46, 49, 52],
+        "res": [41, 45, 48]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 11,
+        "spd": 4,
+        "def": 14,
+        "res": 12
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd", "res"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
+  },
   "Hubert - Sinister Servant": {
     "id": "Hubert - Sinister Servant",
     "title": "冷酷陰險的隨從",
@@ -46195,6 +46266,55 @@
     "book": 3,
     "ver": "3.8",
     "dfKey": 2
+  },
+  "Hubert - Crimson Schemer": {
+    "id": "Hubert - Crimson Schemer",
+    "title": "策畫鮮紅道路",
+    "name": "修伯特",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "moveType": "armored",
+    "weaponType": "blue-tome",
+    "pool": "special",
+    "releaseDate": "2025-02-07",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "4": {
+        "hp": [38, 41, 44],
+        "atk": [43, 46, 49],
+        "spd": [33, 36, 40],
+        "def": [18, 21, 24],
+        "res": [36, 39, 43]
+      },
+      "5": {
+        "hp": [41, 44, 47],
+        "atk": [45, 48, 52],
+        "spd": [36, 39, 43],
+        "def": [20, 23, 26],
+        "res": [38, 41, 45]
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 9,
+        "spd": 8,
+        "def": 7,
+        "res": 11
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 9,
+        "spd": 9,
+        "def": 8,
+        "res": 11
+      }
+    },
+    "assets": ["atk", "spd", "res"],
+    "flaws": [],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
   },
   "Ferdinand - Noblest of Nobles": {
     "id": "Ferdinand - Noblest of Nobles",
@@ -47112,6 +47232,41 @@
     "book": 8,
     "ver": "8.0",
     "dfKey": 6
+  },
+  "Dimitri - Stargazing Lion": {
+    "id": "Dimitri - Stargazing Lion",
+    "title": "仰望星辰的青獅子",
+    "name": "帝彌托利",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "cavalry",
+    "weaponType": "red-sword",
+    "pool": "special",
+    "releaseDate": "2025-02-07",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [46, 49, 53],
+        "spd": [44, 47, 50],
+        "def": [31, 34, 37],
+        "res": [16, 19, 22]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 12,
+        "def": 8,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
   },
   "Dedue - Dimitri's Vassal": {
     "id": "Dedue - Dimitri's Vassal",
@@ -48099,6 +48254,41 @@
     "book": 8,
     "ver": "8.0",
     "dfKey": 6
+  },
+  "Claude - Distant Deer": {
+    "id": "Claude - Distant Deer",
+    "title": "向青海傾訴的金鹿",
+    "name": "庫羅德",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "cavalry",
+    "weaponType": "blue-bow",
+    "pool": "special",
+    "releaseDate": "2025-02-07",
+    "appearsIn": ["Three Houses"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [21, 24, 27],
+        "res": [23, 27, 30]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 7,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
   },
   "Lorenz - Highborn Heat": {
     "id": "Lorenz - Highborn Heat",

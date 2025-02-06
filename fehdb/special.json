@@ -820,6 +820,15 @@
     "rules": "learner.wielderNotArmor",
     "last": true
   },
+  "Haze Slice": {
+    "id": "Haze Slice",
+    "name": "霞切",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Draconic Aura"],
+    "rules": "learner.wielderNotArmor",
+    "last": true
+  },
   "Fierce Beast": {
     "id": "Fierce Beast",
     "name": "猛獸",
