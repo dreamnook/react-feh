@@ -762,7 +762,7 @@
   },
   "Pure Atrocity": {
     "id": "Pure Atrocity",
-    "name": "正真無慘",
+    "name": "純正無慘",
     "sp": 300,
     "exclusive": ["Dimitri - Stargazing Lion"],
     "last": true,
@@ -770,7 +770,7 @@
   },
   "Pure Dragon Wall": {
     "id": "Pure Dragon Wall",
-    "name": "正真龍鱗障壁",
+    "name": "純正龍鱗防護障壁",
     "sp": 300,
     "exclusive": ["Rhea - Aura of Love"],
     "last": true,
@@ -778,7 +778,7 @@
   },
   "Pure Starfall": {
     "id": "Pure Starfall",
-    "name": "正真落星",
+    "name": "純正落星",
     "sp": 300,
     "exclusive": ["Claude - Distant Deer"],
     "last": true,
@@ -786,7 +786,7 @@
   },
   "Pure Storm": {
     "id": "Pure Storm",
-    "name": "正真狂嵐",
+    "name": "純正狂嵐",
     "sp": 300,
     "exclusive": ["Edelgard - Adorned Eagle"],
     "last": true,

@@ -3914,7 +3914,7 @@
   },
   "Assault Rush": {
     "id": "Assault Rush",
-    "name": "一齊突擊・突貫",
+    "name": "一齊突擊・突進",
     "sp": 300,
     "prev": ["Assault Troop 3"],
     "rules": "learner.wielderInfantryArmored",

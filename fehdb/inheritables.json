@@ -17013,7 +17013,7 @@
     "Assault Rush": {
       "pool": { "special": { "5": ["Edelgard - Adorned Eagle"] } },
       "id": "Assault Rush",
-      "name": "一齊突擊・突貫",
+      "name": "一齊突擊・突進",
       "sp": 300,
       "icon": "skillC/Assault_Rush",
       "rules": "learner.wielderInfantryArmored"
