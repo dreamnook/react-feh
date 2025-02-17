@@ -2717,6 +2717,15 @@
     "last": true,
     "icon": "skillC/A_D_Twin_N_Save"
   },
+  "A/R Twin N Save": {
+    "id": "A/R Twin N Save",
+    "name": "冑之守護人・近・雙",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/R Near Save 3"],
+    "last": true,
+    "icon": "skillC/A_R_Twin_N_Save"
+  },
   "D/R Twin N Save": {
     "id": "D/R Twin N Save",
     "name": "盾之守護人・近・雙",
@@ -4156,6 +4165,14 @@
     "rules": "dagger",
     "last": true,
     "icon": "skillC/Lookout_Force"
+  },
+  "Active Lookout": {
+    "id": "Active Lookout",
+    "name": "開路・猛攻",
+    "sp": 300,
+    "rules": "dagger",
+    "last": true,
+    "icon": "skillC/Active_Lookout"
   },
   "Sword Exp. 1": {
     "id": "Sword Exp. 1",

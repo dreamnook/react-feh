@@ -3500,19 +3500,6 @@
     "skillA": { "Atk/Res Scowl 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
   },
-  "Hubert - Crimson Schemer": {
-    "score": 196,
-    "scoreTotal": 436,
-    "poolRarity": 4,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 195,
-    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
-    "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Panic Ploy 3": { "sp": 240, "rarity": 4 } }
-  },
   "Hana - Striving Heart": {
     "score": 196,
     "scoreTotal": 436,
@@ -4276,6 +4263,19 @@
     "bst": 162,
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Griss - Indulging Pain": {
+    "score": 211,
+    "scoreTotal": 489,
+    "poolRarity": 3,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 188,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Mirror Strike 2": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Atk/Res Tempo 3": { "sp": 240, "rarity": 5 } }
   },
   "Reinhardt - Thunder's Fist": {
     "score": 249,
@@ -5866,6 +5866,19 @@
     "skillB": { "Dragon's Ire 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Res 2": { "sp": 240, "rarity": 4 } }
   },
+  "Hubert - Crimson Schemer": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 195,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Panic Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
   "Claude - Yuletide Schemer": {
     "score": 299,
     "scoreTotal": 665,
@@ -6446,6 +6459,18 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Zelestia - Loving Leader": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -12423,6 +12448,19 @@
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } },
     "skillX": { "Null C-Disrupt E": { "sp": 0, "rarity": 5 } }
   },
+  "Nel - Stoic Dragon": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Edged Scales": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Barricade": { "sp": 300, "rarity": 5 } }
+  },
   "Þjazi - Ruthless Jötun": {
     "score": 450,
     "scoreTotal": 990,
@@ -13803,6 +13841,18 @@
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Buffer 4": { "sp": 300, "rarity": 5 } }
   },
+  "Yunaka - Hidden Mask": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Lethality": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Full Disarm": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Active Lookout": { "sp": 300, "rarity": 5 } }
+  },
   "Felix - Sword Savant": {
     "score": 500,
     "scoreTotal": 1100,
@@ -13839,6 +13889,18 @@
     "special": { "Armored Beacon": { "sp": 500, "rarity": 5 } },
     "skillB": { "Clever Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Rafal - Atoning Dragon": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Def Scowl 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Twin N Save": { "sp": 300, "rarity": 5 } }
   },
   "Severa - Bitter Blossom": {
     "score": 318,

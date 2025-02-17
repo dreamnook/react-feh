@@ -46275,7 +46275,7 @@
     "colorType": "blue",
     "moveType": "armored",
     "weaponType": "blue-tome",
-    "pool": "special",
+    "pool": "grail",
     "releaseDate": "2025-02-07",
     "appearsIn": ["Three Houses"],
     "stats": {
@@ -52121,6 +52121,40 @@
     "ver": "8.0",
     "dfKey": 6
   },
+  "Yunaka - Hidden Mask": {
+    "id": "Yunaka - Hidden Mask",
+    "title": "看不見的面具",
+    "name": "尤娜卡",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-dagger",
+    "releaseDate": "2025-02-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [24, 28, 31],
+        "res": [28, 32, 35]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 6,
+        "res": 10
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
+  },
   "Seadall - Misfortune-Teller": {
     "id": "Seadall - Misfortune-Teller",
     "title": "惡作劇的占卜師",
@@ -52232,6 +52266,40 @@
     "book": 7,
     "ver": "7.7",
     "dfKey": 5
+  },
+  "Zelestia - Loving Leader": {
+    "id": "Zelestia - Loving Leader",
+    "title": "全新的愛",
+    "name": "賽勒斯提雅",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "flying",
+    "weaponType": "green-tome",
+    "releaseDate": "2025-02-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [39, 43, 46],
+        "spd": [44, 47, 51],
+        "def": [21, 24, 27],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 7,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
   },
   "Veyle - Gentle Dragon": {
     "id": "Veyle - Gentle Dragon",
@@ -52367,6 +52435,69 @@
     "ver": "8.2",
     "dfKey": 6
   },
+  "Griss - Indulging Pain": {
+    "id": "Griss - Indulging Pain",
+    "title": "歡愉的痛楚",
+    "name": "孤慄",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "pool": "special",
+    "releaseDate": "2025-02-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [39, 42, 45],
+        "spd": [20, 23, 26],
+        "def": [20, 23, 26],
+        "res": [40, 43, 46]
+      },
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [42, 45, 48],
+        "spd": [21, 24, 27],
+        "def": [22, 25, 28],
+        "res": [42, 45, 48]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [23, 27, 30],
+        "def": [23, 26, 29],
+        "res": [45, 48, 52]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 4,
+        "def": 8,
+        "res": 8
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 12,
+        "spd": 4,
+        "def": 9,
+        "res": 8
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 5,
+        "def": 9,
+        "res": 9
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
+  },
   "Marni - Pining for Praise": {
     "id": "Marni - Pining for Praise",
     "title": "希冀讚許",
@@ -52478,5 +52609,74 @@
     "book": 8,
     "ver": "8.5",
     "dfKey": 6
+  },
+  "Nel - Stoic Dragon": {
+    "id": "Nel - Stoic Dragon",
+    "title": "誠心的邪龍",
+    "name": "愛爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-dragon",
+    "pool": "rearmed",
+    "releaseDate": "2025-02-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [40, 44, 47],
+        "spd": [44, 47, 51],
+        "def": [26, 30, 33],
+        "res": [37, 40, 43]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 8,
+        "def": 8,
+        "res": 14
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
+  },
+  "Rafal - Atoning Dragon": {
+    "id": "Rafal - Atoning Dragon",
+    "title": "贖罪的邪龍",
+    "name": "拉法爾",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "armored",
+    "weaponType": "red-dragon",
+    "releaseDate": "2025-02-17",
+    "appearsIn": ["Engage"],
+    "stats": {
+      "5": {
+        "hp": [41, 44, 47],
+        "atk": [44, 47, 50],
+        "spd": [23, 27, 30],
+        "def": [46, 49, 53],
+        "res": [37, 40, 43]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 12,
+        "spd": 5,
+        "def": 10,
+        "res": 14
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["spd"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
   }
 }

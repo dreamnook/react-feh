@@ -304,6 +304,22 @@
     "last": true,
     "icon": "skillA/Beyond_Reason"
   },
+  "Protective": {
+    "id": "Protective",
+    "name": "守護者",
+    "sp": 300,
+    "exclusive": ["Nel - Stoic Dragon"],
+    "last": true,
+    "icon": "skillA/Protective"
+  },
+  "Trained to Kill": {
+    "id": "Trained to Kill",
+    "name": "殺人技術",
+    "sp": 300,
+    "exclusive": ["Yunaka - Hidden Mask"],
+    "last": true,
+    "icon": "skillA/Trained_to_Kill"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -4563,6 +4579,39 @@
     "prev": ["Atk/Spd Scowl 3"],
     "rules": "dragon",
     "icon": "skillA/Atk_Spd_Scowl_4",
+    "last": true
+  },
+  "Atk/Def Scowl 1": {
+    "id": "Atk/Def Scowl 1",
+    "name": "攻擊防守的龍眼1",
+    "sp": 60,
+    "rules": "dragon",
+    "icon": "skillA/Atk_Def_Scowl_1"
+  },
+  "Atk/Def Scowl 2": {
+    "id": "Atk/Def Scowl 2",
+    "name": "攻擊防守的龍眼2",
+    "sp": 120,
+    "prev": ["Atk/Def Scowl 1"],
+    "rules": "dragon",
+    "icon": "skillA/Atk_Def_Scowl_2"
+  },
+  "Atk/Def Scowl 3": {
+    "id": "Atk/Def Scowl 3",
+    "name": "攻擊防守的龍眼3",
+    "sp": 240,
+    "prev": ["Atk/Def Scowl 2"],
+    "rules": "dragon",
+    "icon": "skillA/Atk_Def_Scowl_3",
+    "last": true
+  },
+  "Atk/Def Scowl 4": {
+    "id": "Atk/Def Scowl 4",
+    "name": "攻擊防守的龍眼4",
+    "sp": 300,
+    "prev": ["Atk/Def Scowl 3"],
+    "rules": "dragon",
+    "icon": "skillA/Atk_Def_Scowl_4",
     "last": true
   },
   "Atk/Res Scowl 1": {

@@ -2435,7 +2435,7 @@
         "refine": 350
       },
       "Devoted Cup+": {
-        "pool": { "special": { "5": ["Hubert - Crimson Schemer"] } },
+        "pool": { "grail": { "5": ["Hubert - Crimson Schemer"] } },
         "id": "Devoted Cup+",
         "name": "愛之祭典的酒杯+",
         "sp": 300,
@@ -2525,6 +2525,13 @@
         "pool": { "#": { "3": ["Bastian - Crimea's Keystone"] } },
         "id": "Gronndeer+",
         "name": "翠綠之鹿+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Gronnlantern+": {
+        "pool": { "#": { "5": ["Zelestia - Loving Leader"] } },
+        "id": "Gronnlantern+",
+        "name": "翠綠提燈+",
         "sp": 300,
         "refine": 350
       },
@@ -2939,6 +2946,12 @@
         "name": "魔器・歪神龍的龍石",
         "sp": 300,
         "refine": 350
+      },
+      "Arcane Fell Arts": {
+        "pool": { "rearmed": { "5": ["Nel - Stoic Dragon"] } },
+        "id": "Arcane Fell Arts",
+        "name": "魔器・邪龍石",
+        "sp": 300
       },
       "Flametongue+": {
         "pool": { "#": { "5": ["Tiki - Dragon Scion"] } },
@@ -4029,6 +4042,7 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
+            "Zelestia - Loving Leader",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Annand - Knight-Defender",
@@ -4197,6 +4211,7 @@
             "Chrom - Knight Exalt",
             "Dieck - Wounded Tiger",
             "Alear - Dragon Child",
+            "Yunaka - Hidden Mask",
             "Volke - Man of Mysteries"
           ]
         },
@@ -4292,7 +4307,7 @@
     },
     "Lethality": {
       "pool": {
-        "#": { "5": ["Volke - Man of Mysteries"] },
+        "#": { "5": ["Yunaka - Hidden Mask", "Volke - Man of Mysteries"] },
         "rearmed": {
           "5": ["Ginnungagap - Ruler of Nihility", "Leila - Superb Shadow"]
         },
@@ -4880,6 +4895,7 @@
             "Alfonse - Heir to Openness",
             "Gilliam - Wall of Silence",
             "Mozu - Tragic Start",
+            "Rafal - Atoning Dragon",
             "Owain - Chosen One"
           ]
         },
@@ -5044,6 +5060,7 @@
     },
     "Armored Blaze": {
       "pool": {
+        "#": { "5": ["Rafal - Atoning Dragon"] },
         "rearmed": { "5": ["Þjazi - Ruthless Jötun"] },
         "special": {
           "5": [
@@ -5127,7 +5144,11 @@
         },
         "ascended": { "5": ["Tiki - Awakened Blood"] },
         "rearmed": {
-          "5": ["Lumera - Corrupted Dragon", "Ganglöt - Death Anew"]
+          "5": [
+            "Lumera - Corrupted Dragon",
+            "Ganglöt - Death Anew",
+            "Nel - Stoic Dragon"
+          ]
         },
         "legendary": {
           "5": [
@@ -5211,6 +5232,7 @@
             "Linhardt - Spring Snoozer",
             "Soren - Wind of Tradition",
             "Innes - New Year's Aim",
+            "Hubert - Crimson Schemer",
             "Sonia - Inhuman Beauty",
             "Riev - Blood Beryl",
             "Aelfric - Custodian Monk",
@@ -5248,7 +5270,7 @@
             "Ilyana - Awakened Appetite",
             "Vika - Sea-Dark Wing",
             "Flora - Polar-Perfect",
-            "Hubert - Crimson Schemer"
+            "Griss - Indulging Pain"
           ],
           "5": [
             "Sakura - Gentle Nekomata",
@@ -5276,6 +5298,7 @@
     },
     "Dragon's Roar": {
       "pool": {
+        "rearmed": { "5": ["Nel - Stoic Dragon"] },
         "legendary": { "5": ["Alear - Engaging Fire"] },
         "duo": { "5": ["Rhea - Aura of Love", "Alear - Gifted Dragons"] },
         "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
@@ -6635,6 +6658,7 @@
           "5": ["Seiros - Saint of Legend", "Rune - Source of Wisdom"]
         },
         "special": {
+          "4": ["Griss - Indulging Pain"],
           "5": [
             "Soren - Hushed Voice",
             "Leo - Shrouded Heart",
@@ -9008,6 +9032,7 @@
       "pool": {
         "#": {
           "5": [
+            "Zelestia - Loving Leader",
             "Farina - The Great Wing",
             "Caeldori - Perfect Angel",
             "Byleth - Sublime Light",
@@ -9839,6 +9864,22 @@
       "icon": "skillA/Atk_Spd_Scowl_4",
       "rules": "dragon"
     },
+    "Atk/Def Scowl 3": {
+      "pool": { "#": { "5": ["Rafal - Atoning Dragon"] } },
+      "id": "Atk/Def Scowl 3",
+      "name": "攻擊防守的龍眼3",
+      "sp": 240,
+      "icon": "skillA/Atk_Def_Scowl_3",
+      "rules": "dragon"
+    },
+    "Atk/Def Scowl 4": {
+      "pool": { "#": { "5": ["Rafal - Atoning Dragon"] } },
+      "id": "Atk/Def Scowl 4",
+      "name": "攻擊防守的龍眼4",
+      "sp": 300,
+      "icon": "skillA/Atk_Def_Scowl_4",
+      "rules": "dragon"
+    },
     "Atk/Res Scowl 3": {
       "pool": {
         "#": { "5": ["Rhea - Loving Matriarch"] },
@@ -10339,12 +10380,12 @@
             "Forsyth - Loyal Lieutenant"
           ]
         },
+        "grail": { "5": ["Hubert - Crimson Schemer"] },
         "legendary": { "5": ["Tiki - Legendary Dragon"] },
         "mythic": { "5": ["Duma - God of Strength"] },
         "special": {
           "5": [
             "Alfonse - Uplifting Love",
-            "Hubert - Crimson Schemer",
             "Lissa - Pure Joy",
             "Ilyana - Treat Harvester",
             "Kagero - Beverage Ninja",
@@ -12457,7 +12498,13 @@
     },
     "Disarm Trap 3": {
       "pool": {
-        "#": { "5": ["Larum - Sprightly Dancer", "Rennac - Rich 'Merchant'"] },
+        "#": {
+          "5": [
+            "Larum - Sprightly Dancer",
+            "Rennac - Rich 'Merchant'",
+            "Yunaka - Hidden Mask"
+          ]
+        },
         "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
         "special": {
           "5": [
@@ -12493,7 +12540,10 @@
       "rules": "learner.infantry-cavalry-flying-dagger"
     },
     "Full Disarm": {
-      "pool": { "special": { "5": ["Shez - Snowfield Envoy"] } },
+      "pool": {
+        "#": { "5": ["Yunaka - Hidden Mask"] },
+        "special": { "5": ["Shez - Snowfield Envoy"] }
+      },
       "id": "Full Disarm",
       "name": "解除陷阱・周到",
       "sp": 300,
@@ -12840,6 +12890,7 @@
     },
     "Dragon's Wrath 3": {
       "pool": {
+        "rearmed": { "5": ["Nel - Stoic Dragon"] },
         "special": {
           "5": ["Múspell - Raging Inferno", "Corrin - Starry Seer"]
         },
@@ -12859,6 +12910,14 @@
       "name": "龍之魔鱗4",
       "sp": 300,
       "icon": "skillB/Dragon's_Wrath_4",
+      "rules": "dragon"
+    },
+    "Edged Scales": {
+      "pool": { "rearmed": { "5": ["Nel - Stoic Dragon"] } },
+      "id": "Edged Scales",
+      "name": "龍的銳鱗",
+      "sp": 300,
+      "icon": "skillB/Edged_Scales",
       "rules": "dragon"
     },
     "A/S Near Trace 3": {
@@ -13168,6 +13227,7 @@
             "Veyle - Gentle Dragon"
           ]
         },
+        "special": { "5": ["Griss - Indulging Pain"] },
         "duo": { "5": ["Askr - Renewed Gods"] }
       },
       "id": "Atk/Res Tempo 3",
@@ -14061,6 +14121,7 @@
           "4": ["Frederick - Youth in Service", "Death Knight - The Reaper"],
           "5": ["Hinata - Samurai Groom"]
         },
+        "rearmed": { "5": ["Nel - Stoic Dragon"] },
         "special": {
           "5": ["Ephraim - Sparkling Gallantly", "Felicia - Off the Menu"]
         },
@@ -14131,7 +14192,10 @@
       "icon": "skillC/Joint_Dist._Guard"
     },
     "Barricade": {
-      "pool": { "mythic": { "5": ["Læraðr - Quieting Heart"] } },
+      "pool": {
+        "rearmed": { "5": ["Nel - Stoic Dragon"] },
+        "mythic": { "5": ["Læraðr - Quieting Heart"] }
+      },
       "id": "Barricade",
       "name": "地盤・守護",
       "sp": 300,
@@ -14272,7 +14336,13 @@
     },
     "Atk/Spd Rein 3": {
       "pool": {
-        "#": { "5": ["Caeldori - Perfect Angel", "Claude - Almyra's King"] },
+        "#": {
+          "5": [
+            "Zelestia - Loving Leader",
+            "Caeldori - Perfect Angel",
+            "Claude - Almyra's King"
+          ]
+        },
         "legendary": { "5": ["Ryoma - Supreme Samurai"] },
         "special": {
           "4": ["Olivia - Wavecrest Dancer"],
@@ -15303,15 +15373,13 @@
         "grail": {
           "4": [
             "Hawkeye - Taciturn Guardian",
+            "Hubert - Crimson Schemer",
             "Garon - King of Nohr",
             "Gangrel - Plegia's Mad King"
           ],
           "5": ["Valter - Dark Moonstone"]
         },
-        "special": {
-          "4": ["Hubert - Crimson Schemer"],
-          "5": ["Helbindi - Seaside Scourge"]
-        }
+        "special": { "5": ["Helbindi - Seaside Scourge"] }
       },
       "id": "Panic Ploy 3",
       "name": "恐慌奇策3",
@@ -15921,7 +15989,10 @@
       "rules": "armored"
     },
     "A/R Near Save 2": {
-      "pool": { "special": { "5": ["Robin - Fall Reincarnation"] } },
+      "pool": {
+        "#": { "5": ["Rafal - Atoning Dragon"] },
+        "special": { "5": ["Robin - Fall Reincarnation"] }
+      },
       "id": "A/R Near Save 2",
       "name": "冑之守護人・近處2",
       "sp": 200,
@@ -15929,7 +16000,10 @@
       "rules": "armored"
     },
     "A/R Near Save 3": {
-      "pool": { "special": { "5": ["Robin - Fall Reincarnation"] } },
+      "pool": {
+        "#": { "5": ["Rafal - Atoning Dragon"] },
+        "special": { "5": ["Robin - Fall Reincarnation"] }
+      },
       "id": "A/R Near Save 3",
       "name": "冑之守護人・近處3",
       "sp": 300,
@@ -15966,6 +16040,14 @@
       "name": "鎧之守護人・近・雙",
       "sp": 300,
       "icon": "skillC/A_D_Twin_N_Save",
+      "rules": "armored"
+    },
+    "A/R Twin N Save": {
+      "pool": { "#": { "5": ["Rafal - Atoning Dragon"] } },
+      "id": "A/R Twin N Save",
+      "name": "冑之守護人・近・雙",
+      "sp": 300,
+      "icon": "skillC/A_R_Twin_N_Save",
       "rules": "armored"
     },
     "D/R Twin N Save": {
@@ -17141,7 +17223,10 @@
       "rules": "learner.cavalry-flying"
     },
     "Lookout 3": {
-      "pool": { "rearmed": { "5": ["Leila - Superb Shadow"] } },
+      "pool": {
+        "#": { "5": ["Yunaka - Hidden Mask"] },
+        "rearmed": { "5": ["Leila - Superb Shadow"] }
+      },
       "id": "Lookout 3",
       "name": "開路3",
       "sp": 240,
@@ -17154,6 +17239,14 @@
       "name": "開路・不屈",
       "sp": 300,
       "icon": "skillC/Lookout_Force",
+      "rules": "dagger"
+    },
+    "Active Lookout": {
+      "pool": { "#": { "5": ["Yunaka - Hidden Mask"] } },
+      "id": "Active Lookout",
+      "name": "開路・猛攻",
+      "sp": 300,
+      "icon": "skillC/Active_Lookout",
       "rules": "dagger"
     },
     "Sword Exp. 3": {

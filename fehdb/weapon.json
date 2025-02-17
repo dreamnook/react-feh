@@ -18254,6 +18254,16 @@
       "exclusive": ["Shez - Snowfield Envoy"],
       "last": true
     },
+    "Hidden Blade": {
+      "id": "Hidden Blade",
+      "name": "看不見的面具之刃",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Yunaka - Hidden Mask"],
+      "last": true
+    },
     "Arcane Void": {
       "id": "Arcane Void",
       "name": "魔器金倫加",
@@ -26818,6 +26828,16 @@
       "exclusive": ["Micaiah - Dawning Maiden"],
       "last": true
     },
+    "Nova": {
+      "id": "Nova",
+      "name": "新星",
+      "mt": 9,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Griss - Indulging Pain"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",
@@ -27187,6 +27207,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Gronndeer"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Gronnlantern": {
+      "id": "Gronnlantern",
+      "name": "翠綠提燈",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Rexcalibur"]
+    },
+    "Gronnlantern+": {
+      "id": "Gronnlantern+",
+      "name": "翠綠提燈+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Gronnlantern"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -30853,6 +30906,16 @@
       "exclusive": ["Rhea - Aura of Love"],
       "last": true
     },
+    "Fell Slaystone": {
+      "id": "Fell Slaystone",
+      "name": "邪龍石・屠",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Rafal - Atoning Dragon"],
+      "last": true
+    },
     "Arcane Grima": {
       "id": "Arcane Grima",
       "name": "魔器津利",
@@ -30907,6 +30970,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Arcane Fell Arts": {
+      "id": "Arcane Fell Arts",
+      "name": "魔器・邪龍石",
+      "mt": 16,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Flametongue"],
       "last": true
     },
     "Fire Breath": {

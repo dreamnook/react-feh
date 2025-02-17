@@ -4336,6 +4336,15 @@
     "icon": "skillB/Dragon's_Wrath_4",
     "last": true
   },
+  "Edged Scales": {
+    "id": "Edged Scales",
+    "name": "龍的銳鱗",
+    "sp": 300,
+    "prev": ["Dragon's Wrath 3"],
+    "rules": "dragon",
+    "last": true,
+    "icon": "skillB/Edged_Scales"
+  },
   "A/S Near Trace 1": {
     "id": "A/S Near Trace 1",
     "name": "攻擊速度近影1",
