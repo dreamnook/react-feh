@@ -2951,7 +2951,8 @@
         "pool": { "rearmed": { "5": ["Nel - Stoic Dragon"] } },
         "id": "Arcane Fell Arts",
         "name": "魔器・邪龍石",
-        "sp": 300
+        "sp": 300,
+        "refine": 350
       },
       "Flametongue+": {
         "pool": { "#": { "5": ["Tiki - Dragon Scion"] } },
