@@ -3752,6 +3752,15 @@
     "icon": "skillA/Def_Res_Form_3",
     "last": true
   },
+  "Sway Atk/Spd": {
+    "id": "Sway Atk/Spd",
+    "name": "攻擊速度的傳教",
+    "sp": 300,
+    "prev": ["Atk/Spd Form 3"],
+    "rules": "white-staff",
+    "last": true,
+    "icon": "skillA/Sway_Atk_Spd"
+  },
   "Sway Atk/Res": {
     "id": "Sway Atk/Res",
     "name": "攻擊魔防的傳教",

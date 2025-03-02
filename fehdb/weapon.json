@@ -28718,6 +28718,16 @@
       "exclusive": ["Edain - Lady of Yngvi"],
       "last": true
     },
+    "Salvage": {
+      "id": "Salvage",
+      "name": "七難即滅",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Sakura - In Full Bloom"],
+      "last": true
+    },
     "Arcane Charmer": {
       "id": "Arcane Charmer",
       "name": "魔器・可愛雪杖",

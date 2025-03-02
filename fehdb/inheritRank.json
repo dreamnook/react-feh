@@ -2109,6 +2109,20 @@
     "skillA": { "Armored Blow 3": { "sp": 200, "rarity": 4 } },
     "skillB": { "Seal Atk 3": { "sp": 160, "rarity": 5 } }
   },
+  "Sakura - In Full Bloom": {
+    "score": 115,
+    "scoreTotal": 345,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 215,
+    "assist": { "Ice Lock+": { "sp": 400, "rarity": 5 } },
+    "special": { "Holy Pressure": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Sway Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Called to Serve": { "sp": 300, "rarity": 5 } }
+  },
   "Roderick - Steady Squire": {
     "score": 249,
     "scoreTotal": 345,
@@ -2670,6 +2684,18 @@
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Zelestia - Loving Leader": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 184,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -4263,19 +4289,6 @@
     "bst": 162,
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Griss - Indulging Pain": {
-    "score": 211,
-    "scoreTotal": 489,
-    "poolRarity": 3,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 150,
-    "bst": 188,
-    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Mirror Strike 2": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Atk/Res Tempo 3": { "sp": 240, "rarity": 5 } }
   },
   "Reinhardt - Thunder's Fist": {
     "score": 249,
@@ -6459,18 +6472,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Zelestia - Loving Leader": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 184,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -8786,6 +8787,19 @@
     "special": { "Glacies": { "sp": 200, "rarity": 4 } },
     "skillA": { "Sorcery Blade 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Def Ploy 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Griss - Indulging Pain": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 188,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Mirror Strike 2": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Atk/Res Tempo 3": { "sp": 240, "rarity": 5 } }
   },
   "Arion - Gungnir's Heir": {
     "score": 322,
@@ -13845,6 +13859,7 @@
     "score": 500,
     "scoreTotal": 1100,
     "poolRarity": 5,
+    "pool": "aided",
     "sp": 500,
     "spTotal": 1100,
     "feather": 1000,

@@ -601,6 +601,14 @@
     "last": true,
     "icon": "skillC/Nectar's_Magic"
   },
+  "Quiet Strength": {
+    "id": "Quiet Strength",
+    "name": "小小聲援",
+    "sp": 300,
+    "exclusive": ["Sakura - In Full Bloom"],
+    "last": true,
+    "icon": "skillC/Quiet_Strength"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

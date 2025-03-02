@@ -25546,6 +25546,38 @@
       "A/S Near Save 3": 4
     }
   },
+  "Sakura - In Full Bloom": {
+    "weapon": {
+      "Assault": 1,
+      "Salvage": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Mend": 2,
+      "Ice Lock": 3,
+      "Ice Lock+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Miracle": 3,
+      "Holy Pressure": 5
+    },
+    "skillA": {
+      "Atk/Spd Form 1": 2,
+      "Atk/Spd Form 2": 3,
+      "Atk/Spd Form 3": 4,
+      "Sway Atk/Spd": 5
+    },
+    "skillB": {
+      "Live to Serve 1": 2,
+      "Live to Serve 2": 3,
+      "Live to Serve 3": 4,
+      "Called to Serve": 5
+    },
+    "skillC": {
+      "Quiet Strength": 5
+    }
+  },
   "Byleth - Proven Professor": {
     "weapon": {
       "Iron Sword": 1,

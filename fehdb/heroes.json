@@ -45245,6 +45245,44 @@
     "ver": "7.5",
     "dfKey": 5
   },
+  "Sakura - In Full Bloom": {
+    "id": "Sakura - In Full Bloom",
+    "title": "盛開之時",
+    "name": "櫻",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-staff",
+    "bst": 215,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "earth-res-2",
+    "releaseDate": "2025-02-28",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [45, 48, 52],
+        "spd": [43, 47, 50],
+        "def": [20, 23, 26],
+        "res": [23, 27, 30]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 14,
+        "def": 6,
+        "res": 5
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
+  },
   "Byleth - Proven Professor": {
     "id": "Byleth - Proven Professor",
     "title": "傭兵出身的教師",
@@ -52129,6 +52167,7 @@
     "colorType": "white",
     "moveType": "infantry",
     "weaponType": "white-dagger",
+    "pool": "aided",
     "releaseDate": "2025-02-17",
     "appearsIn": ["Engage"],
     "stats": {
@@ -52271,19 +52310,33 @@
     "id": "Zelestia - Loving Leader",
     "title": "全新的愛",
     "name": "賽勒斯提雅",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "moveType": "flying",
     "weaponType": "green-tome",
     "releaseDate": "2025-02-17",
     "appearsIn": ["Engage"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [37, 41, 44],
+        "spd": [42, 45, 48],
+        "def": [19, 22, 25],
+        "res": [24, 27, 30]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [39, 43, 46],
         "spd": [44, 47, 51],
         "def": [21, 24, 27],
         "res": [26, 30, 33]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 8,
+        "def": 6,
+        "res": 7
       },
       "5-1": {
         "hp": 18,
@@ -52443,8 +52496,8 @@
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-tome",
-    "pool": "special",
-    "releaseDate": "2025-02-17",
+    "pool": "grail",
+    "releaseDate": "2025-02-18",
     "appearsIn": ["Engage"],
     "stats": {
       "3": {

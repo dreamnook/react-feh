@@ -1488,6 +1488,15 @@
     "icon": "skillB/Live_to_Serve_3",
     "last": true
   },
+  "Called to Serve": {
+    "id": "Called to Serve",
+    "name": "激勵・強化無效",
+    "sp": 300,
+    "prev": ["Live to Serve 3"],
+    "rules": "white-staff",
+    "last": true,
+    "icon": "skillB/Called_to_Serve"
+  },
   "Seal Atk 1": {
     "id": "Seal Atk 1",
     "name": "攻擊封印1",

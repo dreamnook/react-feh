@@ -2529,7 +2529,7 @@
         "refine": 350
       },
       "Gronnlantern+": {
-        "pool": { "#": { "5": ["Zelestia - Loving Leader"] } },
+        "pool": { "#": { "4": ["Zelestia - Loving Leader"] } },
         "id": "Gronnlantern+",
         "name": "翠綠提燈+",
         "sp": 300,
@@ -3268,14 +3268,20 @@
       "rules": "white-staff"
     },
     "Ice Lock": {
-      "pool": { "special": { "5": ["Hortensia - Winter's Dearest"] } },
+      "pool": {
+        "legendary": { "5": ["Sakura - In Full Bloom"] },
+        "special": { "5": ["Hortensia - Winter's Dearest"] }
+      },
       "id": "Ice Lock",
       "name": "冰鎖",
       "sp": 300,
       "rules": "white-staff"
     },
     "Ice Lock+": {
-      "pool": { "special": { "5": ["Hortensia - Winter's Dearest"] } },
+      "pool": {
+        "legendary": { "5": ["Sakura - In Full Bloom"] },
+        "special": { "5": ["Hortensia - Winter's Dearest"] }
+      },
       "id": "Ice Lock+",
       "name": "冰鎖+",
       "sp": 400,
@@ -4036,6 +4042,7 @@
             "Kagetsu - Onigiri Samurai",
             "Inigo - Flower Picker"
           ],
+          "4": ["Zelestia - Loving Leader"],
           "5": [
             "Ephraim - Restoration Lord",
             "Tana - Winged Princess",
@@ -4043,7 +4050,6 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
-            "Zelestia - Loving Leader",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Annand - Knight-Defender",
@@ -4212,7 +4218,6 @@
             "Chrom - Knight Exalt",
             "Dieck - Wounded Tiger",
             "Alear - Dragon Child",
-            "Yunaka - Hidden Mask",
             "Volke - Man of Mysteries"
           ]
         },
@@ -4242,6 +4247,7 @@
           ]
         },
         "attuned": { "5": ["Ivy - Snow Queen", "Caeda - Marth's Faithful"] },
+        "aided": { "5": ["Yunaka - Hidden Mask"] },
         "legendary": {
           "5": ["Xander - Gallant King", "Claude - King of Unification"]
         },
@@ -4308,10 +4314,11 @@
     },
     "Lethality": {
       "pool": {
-        "#": { "5": ["Yunaka - Hidden Mask", "Volke - Man of Mysteries"] },
+        "#": { "5": ["Volke - Man of Mysteries"] },
         "rearmed": {
           "5": ["Ginnungagap - Ruler of Nihility", "Leila - Superb Shadow"]
         },
+        "aided": { "5": ["Yunaka - Hidden Mask"] },
         "special": { "5": ["Claude - Golden Breeze"] },
         "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] }
       },
@@ -5250,7 +5257,8 @@
             "Limstella - Living Construct",
             "Díthorba - Cutting Knight",
             "Marla - Duma's Witch",
-            "Candace - Sly Snatcher"
+            "Candace - Sly Snatcher",
+            "Griss - Indulging Pain"
           ]
         },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
@@ -5270,8 +5278,7 @@
             "Leo - Festival Bonds",
             "Ilyana - Awakened Appetite",
             "Vika - Sea-Dark Wing",
-            "Flora - Polar-Perfect",
-            "Griss - Indulging Pain"
+            "Flora - Polar-Perfect"
           ],
           "5": [
             "Sakura - Gentle Nekomata",
@@ -5591,6 +5598,7 @@
         "rearmed": { "5": ["Hortensia - Little Charmer"] },
         "legendary": {
           "5": [
+            "Sakura - In Full Bloom",
             "Celica - Queen of Valentia",
             "Nanna - Beloved Princess",
             "Fae - Childlike Dragon"
@@ -5774,6 +5782,7 @@
     "Holy Pressure": {
       "pool": {
         "#": { "5": ["Tina - Playful Scamp"] },
+        "legendary": { "5": ["Sakura - In Full Bloom"] },
         "special": {
           "5": ["Flayn - Silly Kitty-Cat", "Hortensia - Winter's Dearest"]
         },
@@ -6652,14 +6661,15 @@
           ],
           "5": ["Sonya - Vengeful Mage"]
         },
-        "grail": { "4": ["Oliver - Admirer of Beauty"] },
+        "grail": {
+          "4": ["Griss - Indulging Pain", "Oliver - Admirer of Beauty"]
+        },
         "rearmed": { "5": ["Lilina - Brilliant Flame"] },
         "legendary": { "5": ["Julia - Crusader of Light"] },
         "mythic": {
           "5": ["Seiros - Saint of Legend", "Rune - Source of Wisdom"]
         },
         "special": {
-          "4": ["Griss - Indulging Pain"],
           "5": [
             "Soren - Hushed Voice",
             "Leo - Shrouded Heart",
@@ -8899,6 +8909,7 @@
           "5": ["Petra - Princess of Brigid", "Anna - Secret Seller"]
         },
         "grail": { "4": ["Claude - Yuletide Schemer"] },
+        "legendary": { "5": ["Sakura - In Full Bloom"] },
         "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
         "special": {
           "5": [
@@ -8985,6 +8996,14 @@
       "sp": 240,
       "icon": "skillA/Def_Res_Form_3"
     },
+    "Sway Atk/Spd": {
+      "pool": { "legendary": { "5": ["Sakura - In Full Bloom"] } },
+      "id": "Sway Atk/Spd",
+      "name": "攻擊速度的傳教",
+      "sp": 300,
+      "icon": "skillA/Sway_Atk_Spd",
+      "rules": "white-staff"
+    },
     "Sway Atk/Res": {
       "pool": { "#": { "5": ["Edain - Lady of Yngvi"] } },
       "id": "Sway Atk/Res",
@@ -9032,8 +9051,8 @@
     "Atk/Spd Catch 3": {
       "pool": {
         "#": {
+          "4": ["Zelestia - Loving Leader"],
           "5": [
-            "Zelestia - Loving Leader",
             "Farina - The Great Wing",
             "Caeldori - Perfect Angel",
             "Byleth - Sublime Light",
@@ -10723,12 +10742,21 @@
         "grail": {
           "4": ["Ethlyn - Spirited Princess"],
           "5": ["Silque - Selfless Cleric"]
-        }
+        },
+        "legendary": { "5": ["Sakura - In Full Bloom"] }
       },
       "id": "Live to Serve 3",
       "name": "奉獻之喜悅3",
       "sp": 160,
       "icon": "skillB/Live_to_Serve_3",
+      "rules": "white-staff"
+    },
+    "Called to Serve": {
+      "pool": { "legendary": { "5": ["Sakura - In Full Bloom"] } },
+      "id": "Called to Serve",
+      "name": "激勵・強化無效",
+      "sp": 300,
+      "icon": "skillB/Called_to_Serve",
       "rules": "white-staff"
     },
     "Seal Atk 3": {
@@ -12499,14 +12527,9 @@
     },
     "Disarm Trap 3": {
       "pool": {
-        "#": {
-          "5": [
-            "Larum - Sprightly Dancer",
-            "Rennac - Rich 'Merchant'",
-            "Yunaka - Hidden Mask"
-          ]
-        },
+        "#": { "5": ["Larum - Sprightly Dancer", "Rennac - Rich 'Merchant'"] },
         "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
+        "aided": { "5": ["Yunaka - Hidden Mask"] },
         "special": {
           "5": [
             "Flora - Polar-Perfect",
@@ -12542,7 +12565,7 @@
     },
     "Full Disarm": {
       "pool": {
-        "#": { "5": ["Yunaka - Hidden Mask"] },
+        "aided": { "5": ["Yunaka - Hidden Mask"] },
         "special": { "5": ["Shez - Snowfield Envoy"] }
       },
       "id": "Full Disarm",
@@ -13220,6 +13243,7 @@
     "Atk/Res Tempo 3": {
       "pool": {
         "#": { "5": ["Veyle - Fell Successor", "Arlen - Mage of Khadein"] },
+        "grail": { "5": ["Griss - Indulging Pain"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": {
           "5": [
@@ -13228,7 +13252,6 @@
             "Veyle - Gentle Dragon"
           ]
         },
-        "special": { "5": ["Griss - Indulging Pain"] },
         "duo": { "5": ["Askr - Renewed Gods"] }
       },
       "id": "Atk/Res Tempo 3",
@@ -14338,11 +14361,8 @@
     "Atk/Spd Rein 3": {
       "pool": {
         "#": {
-          "5": [
-            "Zelestia - Loving Leader",
-            "Caeldori - Perfect Angel",
-            "Claude - Almyra's King"
-          ]
+          "4": ["Zelestia - Loving Leader"],
+          "5": ["Caeldori - Perfect Angel", "Claude - Almyra's King"]
         },
         "legendary": { "5": ["Ryoma - Supreme Samurai"] },
         "special": {
@@ -17225,8 +17245,8 @@
     },
     "Lookout 3": {
       "pool": {
-        "#": { "5": ["Yunaka - Hidden Mask"] },
-        "rearmed": { "5": ["Leila - Superb Shadow"] }
+        "rearmed": { "5": ["Leila - Superb Shadow"] },
+        "aided": { "5": ["Yunaka - Hidden Mask"] }
       },
       "id": "Lookout 3",
       "name": "開路3",
@@ -17243,7 +17263,7 @@
       "rules": "dagger"
     },
     "Active Lookout": {
-      "pool": { "#": { "5": ["Yunaka - Hidden Mask"] } },
+      "pool": { "aided": { "5": ["Yunaka - Hidden Mask"] } },
       "id": "Active Lookout",
       "name": "開路・猛攻",
       "sp": 300,
