@@ -619,6 +619,14 @@
     "last": true,
     "icon": "skillC/Quiet_Strength"
   },
+  "Fell Majesty": {
+    "id": "Fell Majesty",
+    "name": "邪龍公主",
+    "sp": 300,
+    "exclusive": ["Veyle - Spring Tranquility"],
+    "last": true,
+    "icon": "skillC/Fell_Majesty"
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -4150,6 +4158,39 @@
     "prev": ["Shadow Shift 3"],
     "rules": "learner.cavalry-flying",
     "icon": "skillC/Shadow_Shift_4",
+    "last": true
+  },
+  "Shadow Smite 1": {
+    "id": "Shadow Smite 1",
+    "name": "影助・重擊1",
+    "sp": 60,
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Smite_1"
+  },
+  "Shadow Smite 2": {
+    "id": "Shadow Smite 2",
+    "name": "影助・重擊2",
+    "sp": 120,
+    "prev": ["Shadow Smite 1"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Smite_2"
+  },
+  "Shadow Smite 3": {
+    "id": "Shadow Smite 3",
+    "name": "影助・重擊3",
+    "sp": 240,
+    "prev": ["Shadow Smite 2"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Smite_3",
+    "last": true
+  },
+  "Shadow Smite 4": {
+    "id": "Shadow Smite 4",
+    "name": "影助・重擊4",
+    "sp": 300,
+    "prev": ["Shadow Smite 3"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Smite_4",
     "last": true
   },
   "Lookout 1": {

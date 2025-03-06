@@ -314,6 +314,10 @@
     "moveType": 12,
     "weaponType": 65528
   },
+  "learner.cavalry-flying-tome": {
+    "moveType": 12,
+    "weaponType": 61440
+  },
   "learner.flying-melee": {
     "weaponType": 16711687,
     "moveType": 8

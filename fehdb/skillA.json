@@ -320,6 +320,14 @@
     "last": true,
     "icon": "skillA/Trained_to_Kill"
   },
+  "Nihility's Undoing": {
+    "id": "Nihility's Undoing",
+    "name": "破除虛無惡夢之力",
+    "sp": 300,
+    "exclusive": ["Eitr - Spring Sunrise"],
+    "last": true,
+    "icon": "skillA/Nihility's_Undoing"
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

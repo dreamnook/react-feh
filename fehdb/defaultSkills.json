@@ -2038,6 +2038,36 @@
       "Atk/Def Rein 3": 5
     }
   },
+  "Plumeria - Spring Dance": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Springing Spear": 5
+    },
+    "assist": {
+      "Dance": 4,
+      "Dreamlike Night": 5
+    },
+    "skillA": {
+      "Fortress Res 1": 2,
+      "Fort. Def/Res 1": 3,
+      "Fort. Def/Res 2": 4,
+      "Stronghold": 5
+    },
+    "skillB": {
+      "Sabotage Def 1": 2,
+      "Sabotage Def 2": 3,
+      "Sabotage Def 3": 4,
+      "Def/Res Discord": 5
+    },
+    "skillC": {
+      "Shadow Smite 1": 2,
+      "Shadow Smite 2": 3,
+      "Shadow Smite 3": 4,
+      "Shadow Smite 4": 5
+    }
+  },
   "Freyr - Estival Dreams": {
     "weapon": {
       "Whelp (Cavalry)": 1,
@@ -2659,6 +2689,28 @@
       "Savage Blow 2": 3,
       "Savage Blow 3": 4,
       "Deadly Miasma": 5
+    }
+  },
+  "Eitr - Spring Sunrise": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 4,
+      "Petaldream Horn": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "Nimble Beast": 5
+    },
+    "skillA": {
+      "Nihility's Undoing": 5
+    },
+    "skillB": {
+      "Beast Agility 1": 2,
+      "Beast Agility 2": 3,
+      "Beast Agility 3": 4,
+      "Bestial Agility": 5
     }
   },
   "Askr - God of Openness": {
@@ -6446,6 +6498,29 @@
       "B Tome Exp. 1": 1,
       "B Tome Exp. 2": 2,
       "B Tome Exp. 3": 4
+    }
+  },
+  "Mae - Spring Cheer": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Spring-Air Egg": 3,
+      "Spring-Air Egg+": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillB": {
+      "Null Follow-Up 1": 2,
+      "Null Follow-Up 2": 3,
+      "Null Follow-Up 3": 4,
+      "Mag. Null Follow": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 1,
+      "Atk/Spd Oath 2": 2,
+      "Atk/Spd Oath 3": 4
     }
   },
   "Boey - Skillful Survivor": {
@@ -20275,6 +20350,28 @@
       "Vantage 3": 4
     }
   },
+  "Lon'qu - Spring Jitters": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Spring-Air Axe": 3,
+      "Spring-Air Axe+": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Life and Death 1": 1,
+      "Life and Death 2": 2,
+      "Life and Death 3": 4
+    },
+    "skillB": {
+      "Spurn 1": 3,
+      "Spurn 2": 4,
+      "Spurn 3": 5
+    }
+  },
   "Olivia - Blushing Beauty": {
     "weapon": {
       "Iron Sword": 1,
@@ -30066,6 +30163,33 @@
     },
     "skillC": {
       "Fell Successor": 5
+    }
+  },
+  "Veyle - Spring Tranquility": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bolganone": 4,
+      "Gentle Fell Egg": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Crystalline Water": 5
+    },
+    "skillB": {
+      "A/R Far Trace 1": 2,
+      "A/R Far Trace 2": 3,
+      "A/R Far Trace 3": 4,
+      "A/R Far Resound": 5
+    },
+    "skillC": {
+      "Fell Majesty": 5
     }
   },
   "Mauvier - Penitent Knight": {

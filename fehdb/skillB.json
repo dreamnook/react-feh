@@ -2136,6 +2136,15 @@
     "last": true,
     "icon": "skillB/Spd_Res_Discord"
   },
+  "Def/Res Discord": {
+    "id": "Def/Res Discord",
+    "name": "防守魔防的不和",
+    "sp": 300,
+    "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
+    "rules": "learner.infantry-flying",
+    "last": true,
+    "icon": "skillB/Def_Res_Discord"
+  },
   "Sudden Panic 1": {
     "id": "Sudden Panic 1",
     "name": "恐慌錯亂1",
@@ -5248,6 +5257,15 @@
     "icon": "skillB/Beast_Assault_4",
     "last": true
   },
+  "Bestial Agility": {
+    "id": "Bestial Agility",
+    "name": "獸影・敏捷",
+    "sp": 300,
+    "prev": ["Beast Agility 3", "Beast Follow-Up 3"],
+    "rules": "beast",
+    "last": true,
+    "icon": "skillB/Bestial_Agility"
+  },
   "Bestial Assault": {
     "id": "Bestial Assault",
     "name": "獸影・強攻",
@@ -5463,6 +5481,15 @@
     "rules": "tome",
     "icon": "skillB/Resonance_4",
     "last": true
+  },
+  "A/R Far Resound": {
+    "id": "A/R Far Resound",
+    "name": "共鳴・攻魔遠影",
+    "sp": 300,
+    "prev": ["Resonance 3", "A/R Far Trace 3"],
+    "rules": "learner.cavalry-flying-tome",
+    "last": true,
+    "icon": "skillB/A_R_Far_Resound"
   },
   "Momentum 1": {
     "id": "Momentum 1",

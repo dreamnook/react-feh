@@ -5282,6 +5282,19 @@
     "skillA": { "Heavy Blade 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Threat. Atk/Def 2": { "sp": 200, "rarity": 4 } }
   },
+  "Lon'qu - Spring Jitters": {
+    "score": 249,
+    "scoreTotal": 615,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 300,
+    "bst": 199,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Life and Death 3": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Spurn 3": { "sp": 240, "rarity": 5 } }
+  },
   "Linde - Summer Rays": {
     "score": 254,
     "scoreTotal": 625,
@@ -9524,6 +9537,19 @@
     "skillA": { "Def/Res Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Mae - Spring Cheer": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 187,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 5 } }
+  },
   "Ash - Earnest Greetings": {
     "score": 318,
     "scoreTotal": 784,
@@ -10503,6 +10529,19 @@
     "skillA": { "Atk/Def Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Wrath 4": { "sp": 300, "rarity": 5 } }
   },
+  "Veyle - Spring Tranquility": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/R Far Resound": { "sp": 300, "rarity": 5 } }
+  },
   "Robin - Fated Vessel": {
     "score": 318,
     "scoreTotal": 848,
@@ -10684,6 +10723,18 @@
     "special": { "Aegis": { "sp": 200, "rarity": 5 } },
     "skillB": { "Shield Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Briar F Save": { "sp": 300, "rarity": 5 } }
+  },
+  "Eitr - Spring Sunrise": {
+    "score": 530,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Nimble Beast": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Bestial Agility": { "sp": 300, "rarity": 5 } }
   },
   "Itsuki - Finding a Path": {
     "score": 299,
@@ -11721,6 +11772,19 @@
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd/Def Snag 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Alarm Def/Res": { "sp": 300, "rarity": 5 } }
+  },
+  "Plumeria - Spring Dance": {
+    "score": 318,
+    "scoreTotal": 954,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 184,
+    "skillA": { "Stronghold": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Def/Res Discord": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Shadow Smite 4": { "sp": 300, "rarity": 5 } }
   },
   "Heiðrún - Sisters of Healing": {
     "score": 318,

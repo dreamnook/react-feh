@@ -8034,6 +8034,17 @@
       "exclusive": ["Ike - Desert Mercenary"],
       "last": true
     },
+    "Springing Spear": {
+      "id": "Springing Spear",
+      "name": "春之舞兔之槍",
+      "mt": 16,
+      "res": 3,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Plumeria - Spring Dance"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -13999,6 +14010,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Anchor Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Spring-Air Axe": {
+      "id": "Spring-Air Axe",
+      "name": "春光之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Spring-Air Axe+": {
+      "id": "Spring-Air Axe+",
+      "name": "春光之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Spring-Air Axe"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -21054,6 +21098,16 @@
       "exclusive": ["Hræsvelgr - Wings of Healing"],
       "last": true
     },
+    "Petaldream Horn": {
+      "id": "Petaldream Horn",
+      "name": "春之夜夢之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Eitr - Spring Sunrise"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -22540,6 +22594,19 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Gentle Fell Egg": {
+      "id": "Gentle Fell Egg",
+      "name": "善良邪龍兔之卵",
+      "mt": 14,
+      "hp": 5,
+      "atk": 6,
+      "res": 6,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Veyle - Spring Tranquility"],
       "last": true
     },
     "Arcane Eclipse": {
@@ -27933,6 +28000,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Teatime Set"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Spring-Air Egg": {
+      "id": "Spring-Air Egg",
+      "name": "春光之卵",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Rexcalibur"]
+    },
+    "Spring-Air Egg+": {
+      "id": "Spring-Air Egg+",
+      "name": "春光之卵+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Spring-Air Egg"],
       "refine": {
         "atk": {
           "hp": 2,

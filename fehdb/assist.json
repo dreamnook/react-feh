@@ -151,7 +151,8 @@
       "Lara - Step Lively",
       "Mirabilis - Spring Daydream",
       "Olivia - Wavecrest Dancer",
-      "Tethys - Dancing Sands"
+      "Tethys - Dancing Sands",
+      "Plumeria - Spring Dance"
     ],
     "last": true
   },
@@ -341,6 +342,14 @@
     "sp": 400,
     "prev": ["Swap"],
     "exclusive": ["Lucina - Shadows of Fate"],
+    "last": true
+  },
+  "Dreamlike Night": {
+    "id": "Dreamlike Night",
+    "name": "甜蜜的夢",
+    "sp": 400,
+    "prev": ["Dance"],
+    "exclusive": ["Plumeria - Spring Dance"],
     "last": true
   },
   "Heal": {

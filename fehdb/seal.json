@@ -2181,6 +2181,30 @@
       "icon": "skillA/Atk_Def_Clash_3",
       "last": true
     },
+    "Atk/Spd Finish 1": {
+      "id": "Atk/Spd Finish 1",
+      "name": "攻擊速度的奧秘1",
+      "sp": 60,
+      "rules": "infantry",
+      "icon": "skillA/Atk_Spd_Finish_1"
+    },
+    "Atk/Spd Finish 2": {
+      "id": "Atk/Spd Finish 2",
+      "name": "攻擊速度的奧秘2",
+      "sp": 120,
+      "prev": ["Atk/Spd Finish 1"],
+      "rules": "infantry",
+      "icon": "skillA/Atk_Spd_Finish_2"
+    },
+    "Atk/Spd Finish 3": {
+      "id": "Atk/Spd Finish 3",
+      "name": "攻擊速度的奧秘3",
+      "sp": 240,
+      "prev": ["Atk/Spd Finish 2"],
+      "rules": "infantry",
+      "icon": "skillA/Atk_Spd_Finish_3",
+      "last": true
+    },
     "Atk/Def Finish 1": {
       "id": "Atk/Def Finish 1",
       "name": "攻擊防守的奧秘1",
@@ -4753,6 +4777,30 @@
       "icon": "skillC/Spd_Res_Oath_3",
       "last": true
     },
+    "Def/Res Oath 1": {
+      "id": "Def/Res Oath 1",
+      "name": "防守魔防的信義1",
+      "sp": 60,
+      "rules": "learner.infantry-flying",
+      "icon": "skillC/Def_Res_Oath_1"
+    },
+    "Def/Res Oath 2": {
+      "id": "Def/Res Oath 2",
+      "name": "防守魔防的信義2",
+      "sp": 120,
+      "prev": ["Def/Res Oath 1"],
+      "rules": "learner.infantry-flying",
+      "icon": "skillC/Def_Res_Oath_2"
+    },
+    "Def/Res Oath 3": {
+      "id": "Def/Res Oath 3",
+      "name": "防守魔防的信義3",
+      "sp": 240,
+      "prev": ["Def/Res Oath 2"],
+      "rules": "learner.infantry-flying",
+      "icon": "skillC/Def_Res_Oath_3",
+      "last": true
+    },
     "Odd Tempest 1": {
       "id": "Odd Tempest 1",
       "name": "迅雷風烈・奇數1",
@@ -7183,6 +7231,36 @@
       "spd": 3,
       "prev": ["Squad Ace CM 2"],
       "icon": "seal/Squad_Ace_HP_Atk_Spd_3",
+      "last": true
+    },
+    "Squad Ace CN 1": {
+      "id": "Squad Ace CN 1",
+      "name": "第９２迷宮的霸王1",
+      "sp": 120,
+      "hp": 3,
+      "atk": 1,
+      "def": 1,
+      "icon": "seal/Squad_Ace_HP_Atk_Def_1"
+    },
+    "Squad Ace CN 2": {
+      "id": "Squad Ace CN 2",
+      "name": "第９２迷宮的霸王2",
+      "sp": 180,
+      "hp": 4,
+      "atk": 2,
+      "def": 2,
+      "prev": ["Squad Ace CN 1"],
+      "icon": "seal/Squad_Ace_HP_Atk_Def_2"
+    },
+    "Squad Ace CN 3": {
+      "id": "Squad Ace CN 3",
+      "name": "第９２迷宮的霸王3",
+      "sp": 240,
+      "hp": 5,
+      "atk": 3,
+      "def": 3,
+      "prev": ["Squad Ace CN 2"],
+      "icon": "seal/Squad_Ace_HP_Atk_Def_3",
       "last": true
     }
   }
