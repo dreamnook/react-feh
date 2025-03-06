@@ -7442,8 +7442,8 @@
           "5": [
             "Hríd - Icy Blade",
             "Hector - Marquess of Ostia",
-            "Caeda - Beloved Queen",
             "Seliph - Scion of Light",
+            "Caeda - Beloved Queen",
             "Corrin - Child of Dusk",
             "Fae - Childlike Dragon"
           ]
@@ -11190,7 +11190,9 @@
           "3": ["Nyna - The Last Princess"],
           "5": ["Ewan - Eager Student"]
         },
-        "mythic": { "5": ["Plumeria - Lewd Dream"] },
+        "mythic": {
+          "5": ["Elimine - Scouring Saint", "Plumeria - Lewd Dream"]
+        },
         "special": { "5": ["Selkie - New Year's Spirit"] }
       },
       "id": "Sabotage Spd 3",
@@ -11283,7 +11285,8 @@
     "Spd/Res Discord": {
       "pool": {
         "#": { "5": ["Edain - Lady of Yngvi"] },
-        "rearmed": { "5": ["Marianne - Cursed Blessing"] }
+        "rearmed": { "5": ["Marianne - Cursed Blessing"] },
+        "mythic": { "5": ["Elimine - Scouring Saint"] }
       },
       "id": "Spd/Res Discord",
       "name": "速度魔防的不和",
@@ -14364,7 +14367,9 @@
           "4": ["Zelestia - Loving Leader"],
           "5": ["Caeldori - Perfect Angel", "Claude - Almyra's King"]
         },
-        "legendary": { "5": ["Ryoma - Supreme Samurai"] },
+        "legendary": {
+          "5": ["Ryoma - Supreme Samurai", "Caeda - Beloved Queen"]
+        },
         "special": {
           "4": ["Olivia - Wavecrest Dancer"],
           "5": [
@@ -14592,6 +14597,7 @@
     },
     "A/S Rein Snap": {
       "pool": {
+        "legendary": { "5": ["Caeda - Beloved Queen"] },
         "special": { "5": ["Mia - Summer Slice"] },
         "harmonized": { "5": ["Anna - Twice the Anna"] }
       },

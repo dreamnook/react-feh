@@ -471,6 +471,15 @@
     "last": true,
     "icon": "skillB/Divine_Recreation"
   },
+  "Faithful Loyalty II": {
+    "id": "Faithful Loyalty II",
+    "name": "一直相信的誓言・承",
+    "sp": 300,
+    "prev": ["Faithful Loyalty"],
+    "exclusive": ["Caeda - Beloved Queen"],
+    "last": true,
+    "icon": "skillB/Faithful_Loyalty_II"
+  },
   "Faithful Loyalty": {
     "id": "Faithful Loyalty",
     "name": "一直相信的誓言",

@@ -321,6 +321,16 @@
     "last": true,
     "icon": "skillC/Goddess_Bearer"
   },
+  "Holy Ground+": {
+    "id": "Holy Ground+",
+    "name": "地上最後的女神・神",
+    "cd": -1,
+    "sp": 300,
+    "prev": ["Holy Ground"],
+    "exclusive": ["Elimine - Scouring Saint"],
+    "last": true,
+    "icon": "skillC/Holy_Ground+"
+  },
   "Holy Ground": {
     "id": "Holy Ground",
     "name": "地上最後的女神",

@@ -4113,12 +4113,17 @@
       "Distant Storm": 5
     },
     "skillB": {
-      "Faithful Loyalty": 5
+      "Faithful Loyalty": 5,
+      "Faithful Loyalty II": 5
     },
     "skillC": {
       "Atk/Def Rein 1": 1,
       "Atk/Def Rein 2": 2,
-      "Atk/Def Rein 3": 4
+      "Atk/Def Rein 3": 4,
+      "Atk/Spd Rein 1": 1,
+      "Atk/Spd Rein 2": 2,
+      "Atk/Spd Rein 3": 4,
+      "A/S Rein Snap": 1
     }
   },
   "Caeda - Marth's Faithful": {
@@ -11786,10 +11791,15 @@
     "skillB": {
       "A/S Far Trace 1": 1,
       "A/S Far Trace 2": 2,
-      "A/S Far Trace 3": 4
+      "A/S Far Trace 3": 4,
+      "Sabotage Spd 1": 1,
+      "Sabotage Spd 2": 2,
+      "Sabotage Spd 3": 4,
+      "Spd/Res Discord": 5
     },
     "skillC": {
-      "Holy Ground": 5
+      "Holy Ground": 5,
+      "Holy Ground+": 5
     }
   },
   "Mark - Winds of Hope": {
@@ -23497,6 +23507,38 @@
       "Spd Opening 3": 5
     }
   },
+  "Sakura - In Full Bloom": {
+    "weapon": {
+      "Assault": 1,
+      "Salvage": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Mend": 2,
+      "Ice Lock": 3,
+      "Ice Lock+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Miracle": 3,
+      "Holy Pressure": 5
+    },
+    "skillA": {
+      "Atk/Spd Form 1": 2,
+      "Atk/Spd Form 2": 3,
+      "Atk/Spd Form 3": 4,
+      "Sway Atk/Spd": 5
+    },
+    "skillB": {
+      "Live to Serve 1": 2,
+      "Live to Serve 2": 3,
+      "Live to Serve 3": 4,
+      "Called to Serve": 5
+    },
+    "skillC": {
+      "Quiet Strength": 5
+    }
+  },
   "Hana - Focused Samurai": {
     "weapon": {
       "Iron Sword": 1,
@@ -25544,38 +25586,6 @@
       "A/S Near Save 1": 1,
       "A/S Near Save 2": 2,
       "A/S Near Save 3": 4
-    }
-  },
-  "Sakura - In Full Bloom": {
-    "weapon": {
-      "Assault": 1,
-      "Salvage": 5
-    },
-    "assist": {
-      "Heal": 1,
-      "Mend": 2,
-      "Ice Lock": 3,
-      "Ice Lock+": 5
-    },
-    "special": {
-      "Imbue": 2,
-      "Miracle": 3,
-      "Holy Pressure": 5
-    },
-    "skillA": {
-      "Atk/Spd Form 1": 2,
-      "Atk/Spd Form 2": 3,
-      "Atk/Spd Form 3": 4,
-      "Sway Atk/Spd": 5
-    },
-    "skillB": {
-      "Live to Serve 1": 2,
-      "Live to Serve 2": 3,
-      "Live to Serve 3": 4,
-      "Called to Serve": 5
-    },
-    "skillC": {
-      "Quiet Strength": 5
     }
   },
   "Byleth - Proven Professor": {

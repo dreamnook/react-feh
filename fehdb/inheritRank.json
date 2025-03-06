@@ -843,19 +843,6 @@
     "skillA": { "Attack 3": { "sp": 120, "rarity": 4 } },
     "skillB": { "Seal Spd 3": { "sp": 160, "rarity": 5 } }
   },
-  "Elimine - Scouring Saint": {
-    "score": 69,
-    "scoreTotal": 193,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 840,
-    "feather": 1000,
-    "bst": 167,
-    "assist": { "Nudge+": { "sp": 300, "rarity": 5 } },
-    "skillA": { "Atk/Res Push 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "A/S Far Trace 3": { "sp": 240, "rarity": 5 } }
-  },
   "Cecilia - Etrurian General": {
     "score": 199,
     "scoreTotal": 199,
@@ -899,6 +886,19 @@
     "bst": 149,
     "skillA": { "Speed 3": { "sp": 120, "rarity": 5 } },
     "skillC": { "Fortify Res 3": { "sp": 200, "rarity": 5 } }
+  },
+  "Elimine - Scouring Saint": {
+    "score": 69,
+    "scoreTotal": 207,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 167,
+    "assist": { "Nudge+": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Res Push 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Discord": { "sp": 300, "rarity": 5 } }
   },
   "Robin - Seaside Tactician": {
     "score": 212,
@@ -6707,19 +6707,6 @@
     "skillA": { "Def/Res Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
   },
-  "Caeda - Beloved Queen": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 190,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Distant Storm": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
-  },
   "Myrrh - Guardian Dragon": {
     "score": 276,
     "scoreTotal": 681,
@@ -7821,6 +7808,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Guidance 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Caeda - Beloved Queen": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Distant Storm": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Rein Snap": { "sp": 300, "rarity": 5 } }
   },
   "Nanna - Beloved Princess": {
     "score": 276,

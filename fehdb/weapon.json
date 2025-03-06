@@ -6824,6 +6824,29 @@
       "sp": 400,
       "prev": ["Luncheon Lance"],
       "exclusive": ["Ingrid - Galatea's Heir"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Lúin_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Flower Lance": {
@@ -6884,6 +6907,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Orson - Passion's Folly"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Bereft_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Vengeful Lance": {
@@ -7072,6 +7118,34 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Caeda - Beloved Queen"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Wing-Lifted_Spear_W",
+          "newStats": {
+            "mt": 16,
+            "atk": 3,
+            "cd": -1
+          }
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Azure Lance": {
@@ -11133,6 +11207,64 @@
       "spd": -5,
       "sp": 400,
       "exclusive": ["Laevatein - Ninja of Múspell"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Twin_Star_Axe_W",
+          "newStats": {
+            "mt": 11,
+            "atk": 5,
+            "spd": -5,
+            "def": 5,
+            "res": 5
+          }
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 1,
+          "newStats": {
+            "mt": 11,
+            "atk": 5,
+            "spd": -5,
+            "def": 5,
+            "res": 5
+          }
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3,
+          "newStats": {
+            "mt": 11,
+            "atk": 5,
+            "spd": -5,
+            "def": 5,
+            "res": 5
+          }
+        },
+        "def": {
+          "hp": 5,
+          "def": 4,
+          "newStats": {
+            "mt": 11,
+            "atk": 5,
+            "spd": -5,
+            "def": 5,
+            "res": 5
+          }
+        },
+        "res": {
+          "hp": 5,
+          "res": 4,
+          "newStats": {
+            "mt": 11,
+            "atk": 5,
+            "spd": -5,
+            "def": 5,
+            "res": 5
+          }
+        }
+      },
       "last": true
     },
     "Tiger-Roar Axe": {
@@ -22013,6 +22145,28 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Azelle - Youthful Flame"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Sparking_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Banshee Θ": {
@@ -28516,6 +28670,12 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Sara - Lady of Loptr"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Kia_Staff_W"
+        }
+      },
       "last": true
     },
     "Staff of Rausten": {
@@ -28558,6 +28718,12 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Elimine - Scouring Saint"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Staff_of_the_Saint_W"
+        }
+      },
       "last": true
     },
     "Doting Staff": {

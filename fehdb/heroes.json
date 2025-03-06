@@ -41256,6 +41256,44 @@
     "ver": "3.1",
     "dfKey": 2
   },
+  "Sakura - In Full Bloom": {
+    "id": "Sakura - In Full Bloom",
+    "title": "盛開之時",
+    "name": "櫻",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "flying",
+    "weaponType": "white-staff",
+    "bst": 215,
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "earth-res-2",
+    "releaseDate": "2025-02-28",
+    "appearsIn": ["Fates"],
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [45, 48, 52],
+        "spd": [43, 47, 50],
+        "def": [20, 23, 26],
+        "res": [23, 27, 30]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 14,
+        "def": 6,
+        "res": 5
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.2",
+    "dfKey": 7
+  },
   "Hana - Focused Samurai": {
     "id": "Hana - Focused Samurai",
     "title": "野丫頭武士",
@@ -45244,44 +45282,6 @@
     "book": 7,
     "ver": "7.5",
     "dfKey": 5
-  },
-  "Sakura - In Full Bloom": {
-    "id": "Sakura - In Full Bloom",
-    "title": "盛開之時",
-    "name": "櫻",
-    "rarity": [5],
-    "colorType": "white",
-    "moveType": "flying",
-    "weaponType": "white-staff",
-    "bst": 215,
-    "pool": "legendary",
-    "blesser": "legendary",
-    "blessing": "earth-res-2",
-    "releaseDate": "2025-02-28",
-    "appearsIn": ["Fates"],
-    "stats": {
-      "5": {
-        "hp": [35, 39, 42],
-        "atk": [45, 48, 52],
-        "spd": [43, 47, 50],
-        "def": [20, 23, 26],
-        "res": [23, 27, 30]
-      },
-      "5-1": {
-        "hp": 17,
-        "atk": 9,
-        "spd": 14,
-        "def": 6,
-        "res": 5
-      }
-    },
-    "assets": ["atk"],
-    "flaws": ["hp", "spd", "res"],
-    "statMin": 184,
-    "statMax": 185,
-    "book": 9,
-    "ver": "9.2",
-    "dfKey": 7
   },
   "Byleth - Proven Professor": {
     "id": "Byleth - Proven Professor",
