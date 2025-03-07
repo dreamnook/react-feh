@@ -621,7 +621,7 @@
   },
   "Fell Majesty": {
     "id": "Fell Majesty",
-    "name": "邪龍公主",
+    "name": "邪龍的公主",
     "sp": 300,
     "exclusive": ["Veyle - Spring Tranquility"],
     "last": true,

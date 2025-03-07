@@ -8036,7 +8036,7 @@
     },
     "Springing Spear": {
       "id": "Springing Spear",
-      "name": "春之舞兔之槍",
+      "name": "兔子們春天起舞之槍",
       "mt": 16,
       "res": 3,
       "cd": -1,
@@ -21100,7 +21100,7 @@
     },
     "Petaldream Horn": {
       "id": "Petaldream Horn",
-      "name": "春之夜夢之角",
+      "name": "春夜夢之角",
       "mt": 14,
       "cd": -1,
       "sp": 400,
@@ -22598,7 +22598,7 @@
     },
     "Gentle Fell Egg": {
       "id": "Gentle Fell Egg",
-      "name": "善良邪龍兔之卵",
+      "name": "心地善良邪龍兔之卵",
       "mt": 14,
       "hp": 5,
       "atk": 6,
