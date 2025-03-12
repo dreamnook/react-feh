@@ -324,7 +324,6 @@
   "Holy Ground+": {
     "id": "Holy Ground+",
     "name": "地上最後的女神・神",
-    "cd": -1,
     "sp": 300,
     "prev": ["Holy Ground"],
     "exclusive": ["Elimine - Scouring Saint"],
