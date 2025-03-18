@@ -45,6 +45,14 @@
     "last": true,
     "icon": "skillX/Null_C-Disrupt_E"
   },
+  "Lull Echo": {
+    "id": "Lull Echo",
+    "name": "響・靜謐",
+    "sp": 0,
+    "rules": "learner.infantry-cavalry",
+    "last": true,
+    "icon": "skillX/Lull_Echo"
+  },
   "Far Trace Echo": {
     "id": "Far Trace Echo",
     "name": "響・遠影",

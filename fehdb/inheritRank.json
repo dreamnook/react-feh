@@ -2685,18 +2685,6 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
-  "Zelestia - Loving Leader": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 184,
-    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
-    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
-  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -3745,6 +3733,19 @@
     "skillB": { "Guard 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
   },
+  "Mae - Spring Cheer": {
+    "score": 196,
+    "scoreTotal": 455,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 300,
+    "bst": 187,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
+  },
   "Morgan - Lad from Afar": {
     "score": 199,
     "scoreTotal": 461,
@@ -4044,6 +4045,18 @@
     "special": { "Pavise": { "sp": 200, "rarity": 4 } },
     "skillA": { "Bracing Stance 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Zelestia - Loving Leader": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 184,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Lapis - Mighty Flower": {
     "score": 199,
@@ -6486,6 +6499,18 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Jesse - Blithe Mercenary": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Repel 3": { "sp": 240, "rarity": 5 } }
+  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -7233,6 +7258,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Guard Bearing 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Def Hold": { "sp": 300, "rarity": 5 } }
+  },
+  "Nuibaba - Mistress of Fear": {
+    "score": 270,
+    "scoreTotal": 720,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Sly Mirror": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time Pulse Helm": { "sp": 300, "rarity": 5 } }
   },
   "Nino - Fang's Heart": {
     "score": 270,
@@ -9537,19 +9575,6 @@
     "skillA": { "Def/Res Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } }
   },
-  "Mae - Spring Cheer": {
-    "score": 318,
-    "scoreTotal": 784,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 187,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 5 } }
-  },
   "Ash - Earnest Greetings": {
     "score": 318,
     "scoreTotal": 784,
@@ -9933,6 +9958,18 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/D Far Trace 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Nomah - Priest of Mila": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Seal Atk/Res 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse Up: Ploy": { "sp": 300, "rarity": 5 } }
   },
   "Febail - Mercenary Waif": {
     "score": 300,
@@ -12445,6 +12482,21 @@
     "skillB": { "Potent Disarm": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
   },
+  "Alm - Powerful Resolve": {
+    "score": 270,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "attuned",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Speedtaker 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse On: Blades": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Lull Echo": { "sp": 0, "rarity": 5 } }
+  },
   "Timerra - Desert Warrior": {
     "score": 270,
     "scoreTotal": 990,
@@ -13858,6 +13910,19 @@
     "skillA": { "Bonus Doubler 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Spd Bulwark 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Jedah - Priest of Duma": {
+    "score": 388,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Poison Strike 3": { "sp": 240, "rarity": 5 } }
   },
   "Soren - Radiant Confidant": {
     "score": 500,

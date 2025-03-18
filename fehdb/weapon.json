@@ -4408,6 +4408,39 @@
       },
       "last": true
     },
+    "Hexblade Sword": {
+      "id": "Hexblade Sword",
+      "name": "魔刃之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Hexblade Sword+": {
+      "id": "Hexblade Sword+",
+      "name": "魔刃之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Hexblade Sword"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Kadomatsu": {
       "id": "Kadomatsu",
       "name": "門松",
@@ -15701,6 +15734,16 @@
       "exclusive": ["Claude - Distant Deer"],
       "last": true
     },
+    "True-Bond Bow": {
+      "id": "True-Bond Bow",
+      "name": "相思的羈絆之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Alm - Powerful Resolve"],
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",
@@ -23088,6 +23131,39 @@
       },
       "last": true
     },
+    "Rauðrcrab": {
+      "id": "Rauðrcrab",
+      "name": "赤紅之蟹",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Rauðrcrab+": {
+      "id": "Rauðrcrab+",
+      "name": "赤紅之蟹+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Rauðrcrab"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Tomato Tome": {
       "id": "Tomato Tome",
       "name": "番茄之書",
@@ -24736,6 +24812,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Arcane Medusa": {
+      "id": "Arcane Medusa",
+      "name": "魔器美杜莎",
+      "mt": 14,
+      "rearmed": true,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Thoron"],
       "last": true
     },
     "Thunder": {
@@ -27057,6 +27143,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Griss - Indulging Pain"],
+      "last": true
+    },
+    "Prior's Tome": {
+      "id": "Prior's Tome",
+      "name": "修道院院長之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Nomah - Priest of Mila"],
       "last": true
     },
     "Arc. Caliburnus": {

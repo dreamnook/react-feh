@@ -224,6 +224,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Hexblade Sword+": {
+        "pool": { "#": { "5": ["Jesse - Blithe Mercenary"] } },
+        "id": "Hexblade Sword+",
+        "name": "魔刃之劍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Kadomatsu+": {
         "pool": { "special": { "5": ["Camilla - Holiday Traveler"] } },
         "id": "Kadomatsu+",
@@ -2128,6 +2135,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Rauðrcrab+": {
+        "pool": { "grail": { "5": ["Jedah - Priest of Duma"] } },
+        "id": "Rauðrcrab+",
+        "name": "赤紅之蟹+",
+        "sp": 300,
+        "refine": 350
+      },
       "Tomato Tome+": {
         "pool": { "special": { "5": ["Leo - Seashore's Prince"] } },
         "id": "Tomato Tome+",
@@ -2227,6 +2241,12 @@
         "name": "魔器・雷公之書",
         "sp": 300,
         "refine": 350
+      },
+      "Arcane Medusa": {
+        "pool": { "rearmed": { "5": ["Nuibaba - Mistress of Fear"] } },
+        "id": "Arcane Medusa",
+        "name": "魔器美杜莎",
+        "sp": 300
       },
       "Shine+": {
         "pool": { "grail": { "5": ["Oliver - Admirer of Beauty"] } },
@@ -2536,7 +2556,7 @@
         "refine": 350
       },
       "Gronnlantern+": {
-        "pool": { "#": { "4": ["Zelestia - Loving Leader"] } },
+        "pool": { "#": { "3": ["Zelestia - Loving Leader"] } },
         "id": "Gronnlantern+",
         "name": "翠綠提燈+",
         "sp": 300,
@@ -4053,10 +4073,10 @@
             "Sylvain - Consummate Flirt",
             "Basilio - Feroxi West-Khan",
             "Hayato - Diviner of Reppu",
+            "Zelestia - Loving Leader",
             "Kagetsu - Onigiri Samurai",
             "Inigo - Flower Picker"
           ],
-          "4": ["Zelestia - Loving Leader"],
           "5": [
             "Ephraim - Restoration Lord",
             "Tana - Winged Princess",
@@ -4064,6 +4084,7 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
+            "Jesse - Blithe Mercenary",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Annand - Knight-Defender",
@@ -4107,6 +4128,7 @@
         "rearmed": {
           "5": ["Reinhardt - Thrud Reborn", "Sothe - Dawning Zephyr"]
         },
+        "attuned": { "5": ["Alm - Powerful Resolve"] },
         "emblem": { "5": ["Celica - Of Echoes"] },
         "legendary": {
           "5": [
@@ -5041,7 +5063,8 @@
             "Ludveck - Rebellious Duke",
             "Cervantes - Invincible General",
             "Marni - Pining for Praise"
-          ]
+          ],
+          "5": ["Jedah - Priest of Duma"]
         },
         "attuned": { "5": ["Timerra - Desert Warrior"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
@@ -5171,6 +5194,7 @@
         "ascended": { "5": ["Tiki - Awakened Blood"] },
         "rearmed": {
           "5": [
+            "Nuibaba - Mistress of Fear",
             "Lumera - Corrupted Dragon",
             "Ganglöt - Death Anew",
             "Nel - Stoic Dragon"
@@ -5249,6 +5273,7 @@
           "5": [
             "Katarina - Wayward One",
             "Ewan - Eager Student",
+            "Nomah - Priest of Mila",
             "Marianne - Serene Adherent",
             "Nergal - Traitor to Nabata"
           ]
@@ -5297,12 +5322,12 @@
             "Leo - Festival Bonds",
             "Ilyana - Awakened Appetite",
             "Vika - Sea-Dark Wing",
-            "Flora - Polar-Perfect"
+            "Flora - Polar-Perfect",
+            "Mae - Spring Cheer"
           ],
           "5": [
             "Sakura - Gentle Nekomata",
             "Zephiel - Winter's Crown",
-            "Mae - Spring Cheer",
             "Céline - Teatime Ninja",
             "Felicia - Off the Menu"
           ]
@@ -6696,7 +6721,9 @@
         "grail": {
           "4": ["Griss - Indulging Pain", "Oliver - Admirer of Beauty"]
         },
-        "rearmed": { "5": ["Lilina - Brilliant Flame"] },
+        "rearmed": {
+          "5": ["Nuibaba - Mistress of Fear", "Lilina - Brilliant Flame"]
+        },
         "legendary": { "5": ["Julia - Crusader of Light"] },
         "mythic": {
           "5": ["Seiros - Saint of Legend", "Rune - Source of Wisdom"]
@@ -6939,7 +6966,9 @@
     },
     "Sly Mirror": {
       "pool": {
-        "rearmed": { "5": ["Lilina - Brilliant Flame"] },
+        "rearmed": {
+          "5": ["Nuibaba - Mistress of Fear", "Lilina - Brilliant Flame"]
+        },
         "mythic": { "5": ["Rune - Source of Wisdom"] }
       },
       "id": "Sly Mirror",
@@ -9083,7 +9112,7 @@
     "Atk/Spd Catch 3": {
       "pool": {
         "#": {
-          "4": ["Zelestia - Loving Leader"],
+          "3": ["Zelestia - Loving Leader"],
           "5": [
             "Farina - The Great Wing",
             "Caeldori - Perfect Angel",
@@ -9330,7 +9359,7 @@
           "5": ["Hans - Ambitious Brute", "Holst - Hero of Leicester"]
         },
         "ascended": { "5": ["Ced - Sage of the Wind"] },
-        "attuned": { "5": ["Brigid - Awakened Bow"] },
+        "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
         "special": { "4": ["Rinkah - Consuming Flame"] }
@@ -9442,7 +9471,7 @@
       "pool": {
         "#": {
           "3": ["Patty - Youthful Thief", "Kamui - Wandering Blade"],
-          "5": ["Hugh - Worldly Mage"]
+          "5": ["Jesse - Blithe Mercenary", "Hugh - Worldly Mage"]
         }
       },
       "id": "Spd/Def Ideal 3",
@@ -9510,7 +9539,9 @@
       "rules": "learner.infantry-armored"
     },
     "Perfect Atk/Spd": {
-      "pool": { "attuned": { "5": ["Brigid - Awakened Bow"] } },
+      "pool": {
+        "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] }
+      },
       "id": "Perfect Atk/Spd",
       "name": "攻擊速度完全",
       "sp": 300,
@@ -9768,7 +9799,9 @@
     "Atk/Def Finish 3": {
       "pool": {
         "#": { "5": ["Diamant - Rising Power"] },
-        "grail": { "5": ["Vaike - Sunbaked Stunner"] },
+        "grail": {
+          "5": ["Vaike - Sunbaked Stunner", "Jedah - Priest of Duma"]
+        },
         "special": { "5": ["Diamant - Gallant Ninja"] }
       },
       "id": "Atk/Def Finish 3",
@@ -10708,7 +10741,8 @@
           "5": ["Bernadetta - Sheltered Loner"]
         },
         "grail": {
-          "4": ["Clarisse - Sniper in the Dark", "Metodey - Shrewd Braggart"]
+          "4": ["Clarisse - Sniper in the Dark", "Metodey - Shrewd Braggart"],
+          "5": ["Jedah - Priest of Duma"]
         },
         "rearmed": { "5": ["Lilina - Brilliant Flame"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
@@ -10913,11 +10947,24 @@
       "rules": "not.white-staff"
     },
     "Seal Atk/Res 2": {
-      "pool": { "#": { "3": ["Miranda - Willful Princess"] } },
+      "pool": {
+        "#": {
+          "3": ["Miranda - Willful Princess"],
+          "5": ["Nomah - Priest of Mila"]
+        }
+      },
       "id": "Seal Atk/Res 2",
       "name": "攻擊魔防封印2",
       "sp": 200,
       "icon": "skillB/Seal_Atk_Res_2",
+      "rules": "not.white-staff"
+    },
+    "Seal Atk/Res 3": {
+      "pool": { "#": { "5": ["Nomah - Priest of Mila"] } },
+      "id": "Seal Atk/Res 3",
+      "name": "攻擊魔防封印3",
+      "sp": 300,
+      "icon": "skillB/Seal_Atk_Res_3",
       "rules": "not.white-staff"
     },
     "Seal Atk/Def 2": {
@@ -12484,8 +12531,8 @@
         "legendary": { "5": ["Alm - Saint-King"] },
         "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
-          "4": ["Rebecca - Breezy Scamp"],
-          "5": ["Velouria - Renewed Wolfpup", "Mae - Spring Cheer"]
+          "4": ["Rebecca - Breezy Scamp", "Mae - Spring Cheer"],
+          "5": ["Velouria - Renewed Wolfpup"]
         },
         "duo": { "5": ["Eirika - Twin Refulgence"] }
       },
@@ -12765,6 +12812,7 @@
       "pool": {
         "#": {
           "5": [
+            "Jesse - Blithe Mercenary",
             "Larcei - Keen Kin",
             "Ike - Zeal Unleashed",
             "Alear - Dragon Youth",
@@ -13751,6 +13799,7 @@
     },
     "Speedtaker 3": {
       "pool": {
+        "attuned": { "5": ["Alm - Powerful Resolve"] },
         "emblem": { "5": ["Lyn - Of Blazing"] },
         "legendary": { "5": ["Ayra - Supreme Astra"] }
       },
@@ -13762,6 +13811,7 @@
     },
     "Speedtaker 4": {
       "pool": {
+        "attuned": { "5": ["Alm - Powerful Resolve"] },
         "emblem": { "5": ["Lyn - Of Blazing"] },
         "legendary": { "5": ["Ayra - Supreme Astra"] }
       },
@@ -14426,7 +14476,7 @@
     "Atk/Spd Rein 3": {
       "pool": {
         "#": {
-          "4": ["Zelestia - Loving Leader"],
+          "3": ["Zelestia - Loving Leader"],
           "5": ["Caeldori - Perfect Angel", "Claude - Almyra's King"]
         },
         "legendary": {
@@ -15745,6 +15795,7 @@
       "pool": {
         "#": {
           "5": [
+            "Nomah - Priest of Mila",
             "Yuri - Ashen Valiant",
             "Lysithea - Child Prodigy",
             "Pent - Mage General",
@@ -15759,9 +15810,15 @@
           ]
         },
         "ascended": { "5": ["Ishtar - Echoing Thunder"] },
-        "rearmed": { "5": ["Ophelia - Starlit Maiden"] },
+        "rearmed": {
+          "5": ["Nuibaba - Mistress of Fear", "Ophelia - Starlit Maiden"]
+        },
         "attuned": {
-          "5": ["Brigid - Awakened Bow", "Eirika - Resolute Princess"]
+          "5": [
+            "Brigid - Awakened Bow",
+            "Alm - Powerful Resolve",
+            "Eirika - Resolute Princess"
+          ]
         },
         "legendary": {
           "5": [
@@ -15835,6 +15892,7 @@
     },
     "Pulse Up: Ploy": {
       "pool": {
+        "#": { "5": ["Nomah - Priest of Mila"] },
         "mythic": { "5": ["Rune - Source of Wisdom", "Athos - Omniscient One"] }
       },
       "id": "Pulse Up: Ploy",
@@ -15860,6 +15918,14 @@
       "name": "初始之躍動・刃",
       "sp": 300,
       "icon": "skillC/Time_Pulse_Edge",
+      "rules": "infantry"
+    },
+    "Pulse On: Blades": {
+      "pool": { "attuned": { "5": ["Alm - Powerful Resolve"] } },
+      "id": "Pulse On: Blades",
+      "name": "追擊之躍動・刃",
+      "sp": 300,
+      "icon": "skillC/Pulse_On_Blades",
       "rules": "infantry"
     },
     "Infantry Pulse 3": {
@@ -16958,8 +17024,8 @@
         },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
         "special": {
+          "4": ["Mae - Spring Cheer"],
           "5": [
-            "Mae - Spring Cheer",
             "Eirika - Beach Restorer",
             "Lysithea - Tea Sweetener",
             "Claude - Golden Breeze"
@@ -17553,6 +17619,14 @@
       "sp": 120,
       "icon": "skillC/Beast_Valor_3",
       "rules": "beast"
+    },
+    "Time Pulse Helm": {
+      "pool": { "rearmed": { "5": ["Nuibaba - Mistress of Fear"] } },
+      "id": "Time Pulse Helm",
+      "name": "初始之躍動・冑",
+      "sp": 300,
+      "icon": "skillC/Time_Pulse_Helm",
+      "rules": "infantry"
     }
   },
   "skillX": {
@@ -17601,6 +17675,14 @@
       "sp": 0,
       "icon": "skillX/Null_C-Disrupt_E",
       "rules": "infantry"
+    },
+    "Lull Echo": {
+      "pool": { "attuned": { "5": ["Alm - Powerful Resolve"] } },
+      "id": "Lull Echo",
+      "name": "響・靜謐",
+      "sp": 0,
+      "icon": "skillX/Lull_Echo",
+      "rules": "learner.infantry-cavalry"
     },
     "Far Trace Echo": {
       "pool": { "attuned": { "5": ["Micaiah - Dawning Maiden"] } },

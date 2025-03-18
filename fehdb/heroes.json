@@ -9600,6 +9600,41 @@
     "ver": "4.2",
     "dfKey": 2
   },
+  "Alm - Powerful Resolve": {
+    "id": "Alm - Powerful Resolve",
+    "title": "發揮力量的決心",
+    "name": "阿雷武",
+    "rarity": [5],
+    "colorType": "white",
+    "moveType": "infantry",
+    "weaponType": "white-bow",
+    "pool": "attuned",
+    "releaseDate": "2025-03-18",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [44, 47, 51],
+        "spd": [44, 47, 51],
+        "def": [26, 30, 33],
+        "res": [25, 28, 31]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 8,
+        "spd": 8,
+        "def": 8,
+        "res": 11
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.3",
+    "dfKey": 7
+  },
   "Lukas - Sharp Soldier": {
     "id": "Lukas - Sharp Soldier",
     "title": "穩重的諷刺者",
@@ -10449,7 +10484,7 @@
     "id": "Mae - Spring Cheer",
     "title": "狂歡喧鬧的春天",
     "name": "梅伊",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "moveType": "infantry",
     "weaponType": "green-tome",
@@ -10457,12 +10492,26 @@
     "releaseDate": "2025-03-07",
     "appearsIn": ["Echoes"],
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [42, 45, 48],
+        "spd": [36, 39, 43],
+        "def": [12, 15, 18],
+        "res": [36, 39, 43]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [45, 48, 52],
         "spd": [38, 41, 45],
         "def": [13, 17, 20],
         "res": [38, 41, 45]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 11,
+        "def": 3,
+        "res": 11
       },
       "5-1": {
         "hp": 18,
@@ -11384,6 +11433,40 @@
     "ver": "6.7",
     "dfKey": 4
   },
+  "Jesse - Blithe Mercenary": {
+    "id": "Jesse - Blithe Mercenary",
+    "title": "悠然自得的傭兵",
+    "name": "傑西",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-sword",
+    "releaseDate": "2025-03-18",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [42, 45, 48],
+        "spd": [44, 47, 51],
+        "def": [28, 32, 35],
+        "res": [29, 33, 36]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 10,
+        "res": 11
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["def", "res"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.3",
+    "dfKey": 7
+  },
   "Sonya - Vengeful Mage": {
     "id": "Sonya - Vengeful Mage",
     "title": "復仇的魔道士",
@@ -11779,6 +11862,40 @@
     "ver": "7.10",
     "dfKey": 6
   },
+  "Nomah - Priest of Mila": {
+    "id": "Nomah - Priest of Mila",
+    "title": "美拉教團最高祭司",
+    "name": "諾瑪",
+    "rarity": [5],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-tome",
+    "releaseDate": "2025-03-18",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [24, 28, 31],
+        "def": [21, 24, 27],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 6,
+        "def": 7,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.3",
+    "dfKey": 7
+  },
   "Rudolf - Emperor of Rigel": {
     "id": "Rudolf - Emperor of Rigel",
     "title": "利蓋爾皇帝",
@@ -12131,6 +12248,41 @@
     "ver": "6.10",
     "dfKey": 5
   },
+  "Jedah - Priest of Duma": {
+    "id": "Jedah - Priest of Duma",
+    "title": "多瑪教團大祭司",
+    "name": "朱達",
+    "rarity": [5],
+    "colorType": "red",
+    "moveType": "infantry",
+    "weaponType": "red-tome",
+    "pool": "grail",
+    "releaseDate": "2025-03-18",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [41, 44, 48],
+        "spd": [15, 18, 21],
+        "def": [41, 44, 47],
+        "res": [37, 41, 44]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 14,
+        "spd": 3,
+        "def": 9,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.3",
+    "dfKey": 7
+  },
   "Mila - Goddess of Love": {
     "id": "Mila - Goddess of Love",
     "title": "愛之女神",
@@ -12167,69 +12319,6 @@
     "book": 4,
     "ver": "4.5",
     "dfKey": 2
-  },
-  "Brigand Boss - Known Criminal": {
-    "id": "Brigand Boss - Known Criminal",
-    "title": "亂世的厲風",
-    "name": "盜賊頭目",
-    "rarity": [5, 4, 3],
-    "colorType": "green",
-    "moveType": "infantry",
-    "weaponType": "green-axe",
-    "pool": "grail",
-    "releaseDate": "2022-07-20",
-    "appearsIn": ["Echoes"],
-    "stats": {
-      "3": {
-        "hp": [38, 41, 44],
-        "atk": [35, 38, 41],
-        "spd": [28, 31, 34],
-        "def": [28, 31, 34],
-        "res": [18, 21, 24]
-      },
-      "4": {
-        "hp": [39, 42, 45],
-        "atk": [37, 40, 44],
-        "spd": [30, 33, 36],
-        "def": [29, 32, 35],
-        "res": [19, 22, 25]
-      },
-      "5": {
-        "hp": [42, 45, 48],
-        "atk": [39, 42, 46],
-        "spd": [32, 35, 38],
-        "def": [32, 35, 38],
-        "res": [21, 24, 28]
-      },
-      "3-1": {
-        "hp": 18,
-        "atk": 11,
-        "spd": 8,
-        "def": 8,
-        "res": 4
-      },
-      "4-1": {
-        "hp": 18,
-        "atk": 12,
-        "spd": 9,
-        "def": 8,
-        "res": 4
-      },
-      "5-1": {
-        "hp": 19,
-        "atk": 12,
-        "spd": 9,
-        "def": 9,
-        "res": 5
-      }
-    },
-    "assets": ["atk", "res"],
-    "flaws": [],
-    "statMin": 181,
-    "statMax": 185,
-    "book": 6,
-    "ver": "6.7",
-    "dfKey": 4
   },
   "Hestia - Duma's Witch": {
     "id": "Hestia - Duma's Witch",
@@ -12355,6 +12444,104 @@
     "book": 7,
     "ver": "7.10",
     "dfKey": 6
+  },
+  "Nuibaba - Mistress of Fear": {
+    "id": "Nuibaba - Mistress of Fear",
+    "title": "恐山之主",
+    "name": "魯伊巴巴",
+    "rarity": [5],
+    "colorType": "blue",
+    "moveType": "infantry",
+    "weaponType": "blue-tome",
+    "pool": "rearmed",
+    "releaseDate": "2025-03-18",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 52],
+        "spd": [32, 36, 39],
+        "def": [13, 17, 20],
+        "res": [44, 47, 51]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 14,
+        "def": 4,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.3",
+    "dfKey": 7
+  },
+  "Brigand Boss - Known Criminal": {
+    "id": "Brigand Boss - Known Criminal",
+    "title": "亂世的厲風",
+    "name": "盜賊頭目",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "moveType": "infantry",
+    "weaponType": "green-axe",
+    "pool": "grail",
+    "releaseDate": "2022-07-20",
+    "appearsIn": ["Echoes"],
+    "stats": {
+      "3": {
+        "hp": [38, 41, 44],
+        "atk": [35, 38, 41],
+        "spd": [28, 31, 34],
+        "def": [28, 31, 34],
+        "res": [18, 21, 24]
+      },
+      "4": {
+        "hp": [39, 42, 45],
+        "atk": [37, 40, 44],
+        "spd": [30, 33, 36],
+        "def": [29, 32, 35],
+        "res": [19, 22, 25]
+      },
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [39, 42, 46],
+        "spd": [32, 35, 38],
+        "def": [32, 35, 38],
+        "res": [21, 24, 28]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 8,
+        "def": 8,
+        "res": 4
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 9,
+        "def": 8,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 9,
+        "def": 9,
+        "res": 5
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": [],
+    "statMin": 181,
+    "statMax": 185,
+    "book": 6,
+    "ver": "6.7",
+    "dfKey": 4
   },
   "Sigurd - Holy Knight": {
     "id": "Sigurd - Holy Knight",
@@ -52464,13 +52651,20 @@
     "id": "Zelestia - Loving Leader",
     "title": "全新的愛",
     "name": "賽勒斯提雅",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "green",
     "moveType": "flying",
     "weaponType": "green-tome",
     "releaseDate": "2025-02-17",
     "appearsIn": ["Engage"],
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [35, 38, 41],
+        "spd": [39, 42, 45],
+        "def": [18, 21, 24],
+        "res": [23, 26, 29]
+      },
       "4": {
         "hp": [34, 37, 40],
         "atk": [37, 41, 44],
@@ -52484,6 +52678,13 @@
         "spd": [44, 47, 51],
         "def": [21, 24, 27],
         "res": [26, 30, 33]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 7,
+        "def": 6,
+        "res": 7
       },
       "4-1": {
         "hp": 17,

@@ -801,6 +801,14 @@
     "last": true,
     "icon": "skillB/Pure_Storm"
   },
+  "Mounting Fear": {
+    "id": "Mounting Fear",
+    "name": "恐山之妖術",
+    "sp": 300,
+    "exclusive": ["Nuibaba - Mistress of Fear"],
+    "last": true,
+    "icon": "skillB/Mounting_Fear"
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -1669,7 +1677,15 @@
     "sp": 200,
     "prev": ["Seal Atk/Res 1"],
     "rules": "not.white-staff",
-    "icon": "skillB/Seal_Atk_Res_2",
+    "icon": "skillB/Seal_Atk_Res_2"
+  },
+  "Seal Atk/Res 3": {
+    "id": "Seal Atk/Res 3",
+    "name": "攻擊魔防封印3",
+    "sp": 300,
+    "prev": ["Seal Atk/Res 2"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Seal_Atk_Res_3",
     "last": true
   },
   "Seal Atk/Def 1": {

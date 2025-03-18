@@ -596,6 +596,15 @@
     "exclusive": ["Ayra - Supreme Astra"],
     "last": true
   },
+  "True Lunar Flash": {
+    "id": "True Lunar Flash",
+    "name": "真月光閃",
+    "cd": 3,
+    "sp": 500,
+    "prev": ["Moonbow"],
+    "exclusive": ["Alm - Powerful Resolve"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

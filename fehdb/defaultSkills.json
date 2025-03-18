@@ -6004,6 +6004,40 @@
       "Rouse Spd/Res 3": 4
     }
   },
+  "Alm - Powerful Resolve": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "True-Bond Bow": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4,
+      "True Lunar Flash": 5
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Perfect Atk/Spd": 5
+    },
+    "skillB": {
+      "Speedtaker 1": 2,
+      "Speedtaker 2": 3,
+      "Speedtaker 3": 4,
+      "Speedtaker 4": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Pulse On: Blades": 5
+    },
+    "skillX": {
+      "Lull Echo": 5
+    }
+  },
   "Lukas - Sharp Soldier": {
     "weapon": {
       "Iron Lance": 1,
@@ -6973,6 +7007,28 @@
       "Threat. Atk/Def 2": 5
     }
   },
+  "Jesse - Blithe Mercenary": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Hexblade Sword": 4,
+      "Hexblade Sword+": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Spd/Def Ideal 1": 1,
+      "Spd/Def Ideal 2": 2,
+      "Spd/Def Ideal 3": 4
+    },
+    "skillB": {
+      "Repel 1": 3,
+      "Repel 2": 4,
+      "Repel 3": 5
+    }
+  },
   "Sonya - Vengeful Mage": {
     "weapon": {
       "Wind": 1,
@@ -7190,6 +7246,30 @@
       "Joint Close Guard": 5
     }
   },
+  "Nomah - Priest of Mila": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Prior's Tome": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillB": {
+      "Seal Res 1": 2,
+      "Seal Atk/Res 1": 3,
+      "Seal Atk/Res 2": 4,
+      "Seal Atk/Res 3": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Pulse Up: Ploy": 5
+    }
+  },
   "Rudolf - Emperor of Rigel": {
     "weapon": {
       "Iron Lance": 1,
@@ -7377,6 +7457,28 @@
       "Woeful Upheaval": 5
     }
   },
+  "Jedah - Priest of Duma": {
+    "weapon": {
+      "Flux": 1,
+      "Ruin": 2,
+      "Rauðrcrab": 4,
+      "Rauðrcrab+": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Def Finish 1": 3,
+      "Atk/Def Finish 2": 4,
+      "Atk/Def Finish 3": 5
+    },
+    "skillB": {
+      "Poison Strike 1": 1,
+      "Poison Strike 2": 2,
+      "Poison Strike 3": 4
+    }
+  },
   "Mila - Goddess of Love": {
     "weapon": {
       "Fire Breath": 1,
@@ -7406,28 +7508,6 @@
     "skillC": {
       "Mila's Turnwheel": 5,
       "Mila's Turnwheel II": 5
-    }
-  },
-  "Brigand Boss - Known Criminal": {
-    "weapon": {
-      "Iron Axe": 1,
-      "Steel Axe": 2,
-      "Vulture Axe": 4,
-      "Vulture Axe+": 5
-    },
-    "special": {
-      "Dragon Gaze": 4,
-      "Dragon Fang": 4
-    },
-    "skillB": {
-      "Chill Def 1": 3,
-      "Chill Spd/Def 1": 4,
-      "Chill Spd/Def 2": 5
-    },
-    "skillC": {
-      "Atk Smoke 1": 1,
-      "Atk Smoke 2": 2,
-      "Atk Smoke 3": 4
     }
   },
   "Hestia - Duma's Witch": {
@@ -7472,6 +7552,55 @@
       "Inf. Hexblade 1": 1,
       "Inf. Hexblade 2": 2,
       "Inf. Hexblade 3": 4
+    }
+  },
+  "Nuibaba - Mistress of Fear": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Thoron": 4,
+      "Arcane Medusa": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Warding Blow 1": 2,
+      "Mirror Strike 1": 3,
+      "Mirror Strike 2": 4,
+      "Sly Mirror": 5
+    },
+    "skillB": {
+      "Mounting Fear": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Time Pulse Helm": 5
+    }
+  },
+  "Brigand Boss - Known Criminal": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Vulture Axe": 4,
+      "Vulture Axe+": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillB": {
+      "Chill Def 1": 3,
+      "Chill Spd/Def 1": 4,
+      "Chill Spd/Def 2": 5
+    },
+    "skillC": {
+      "Atk Smoke 1": 1,
+      "Atk Smoke 2": 2,
+      "Atk Smoke 3": 4
     }
   },
   "Sigurd - Holy Knight": {

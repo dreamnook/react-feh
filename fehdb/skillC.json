@@ -2398,6 +2398,7 @@
     "name": "鍛鍊之躍動・刃",
     "sp": 300,
     "rules": "infantry",
+    "prev": ["Time's Pulse 3"],
     "last": true,
     "icon": "skillC/Pulse_Up_Blades"
   },
@@ -2406,6 +2407,7 @@
     "name": "鍛鍊之躍動・謀策",
     "sp": 300,
     "rules": "infantry",
+    "prev": ["Time's Pulse 3"],
     "last": true,
     "icon": "skillC/Pulse_Up_Ploy"
   },
@@ -2426,6 +2428,15 @@
     "rules": "infantry",
     "last": true,
     "icon": "skillC/Time_Pulse_Edge"
+  },
+  "Pulse On: Blades": {
+    "id": "Pulse On: Blades",
+    "name": "追擊之躍動・刃",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Time's Pulse 3"],
+    "last": true,
+    "icon": "skillC/Pulse_On_Blades"
   },
   "Infantry Pulse 1": {
     "id": "Infantry Pulse 1",
@@ -4759,5 +4770,14 @@
     "rules": "beast",
     "icon": "skillC/Beast_Valor_3",
     "last": true
+  },
+  "Time Pulse Helm": {
+    "id": "Time Pulse Helm",
+    "name": "初始之躍動・冑",
+    "sp": 300,
+    "prev": ["Time's Pulse 3"],
+    "rules": "infantry",
+    "last": true,
+    "icon": "skillC/Time_Pulse_Helm"
   }
 }
