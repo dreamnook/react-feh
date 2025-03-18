@@ -2,8 +2,8 @@
   "Ice Mirror": {
     "id": "Ice Mirror",
     "name": "冰之聖鏡",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Sacred Cowl"],
     "exclusive": ["Fjorm - Princess of Ice", "Fjorm - Ice Ascendant"],
     "last": true
@@ -11,8 +11,8 @@
   "Ice Mirror II": {
     "id": "Ice Mirror II",
     "name": "冰之聖鏡・承",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Ice Mirror"],
     "exclusive": ["Fjorm - Princess of Ice"],
     "last": true
@@ -20,8 +20,8 @@
   "Fire Emblem": {
     "id": "Fire Emblem",
     "name": "火焰紋章",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Draconic Aura"],
     "exclusive": ["Marth - Hero-King", "Marth - Royal Altean Duo"],
     "last": true
@@ -29,8 +29,8 @@
   "Regnal Astra": {
     "id": "Regnal Astra",
     "name": "劍姬的流星",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Astra"],
     "exclusive": [
       "Ayra - Astra's Wielder",
@@ -42,8 +42,8 @@
   "Black Luna": {
     "id": "Black Luna",
     "name": "漆黑月光",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Luna"],
     "exclusive": [
       "Black Knight - Sinister General",
@@ -55,10 +55,10 @@
   "Radiant Aether": {
     "id": "Radiant Aether",
     "name": "蒼藍天空",
-    "cd": 4,
     "sp": 500,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Sol", "Luna"],
+    "rules": "not.white-staff",
     "exclusive": [
       "Ike - Vanguard Legend",
       "Ike - Stalwart Heart",
@@ -69,18 +69,18 @@
   "Radiant Aether II": {
     "id": "Radiant Aether II",
     "name": "蒼藍天空・承",
-    "cd": 4,
     "sp": 500,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Radiant Aether"],
+    "rules": "not.white-staff",
     "exclusive": ["Ike - Vanguard Legend"],
     "last": true
   },
   "Lunar Flash": {
     "id": "Lunar Flash",
     "name": "月光閃",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Moonbow"],
     "exclusive": ["Alm - Saint-King", "Alm - Lovebird Duo"],
     "last": true
@@ -88,8 +88,8 @@
   "Lunar Flash II": {
     "id": "Lunar Flash II",
     "name": "月光閃・承",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Lunar Flash"],
     "exclusive": ["Alm - Saint-King"],
     "last": true
@@ -97,8 +97,8 @@
   "Sirius": {
     "id": "Sirius",
     "name": "天狼",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Noontime"],
     "exclusive": [
       "Sothis - Girl on the Throne",
@@ -109,8 +109,8 @@
   "Sirius+": {
     "id": "Sirius+",
     "name": "天狼・神",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Sirius"],
     "exclusive": ["Sothis - Girl on the Throne"],
     "last": true
@@ -118,8 +118,8 @@
   "Njörun's Zeal": {
     "id": "Njörun's Zeal",
     "name": "諾華的聖戰士",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Astra"],
     "exclusive": ["Leif - Unifier of Thracia", "Leif - Destined Scions"],
     "last": true
@@ -127,8 +127,8 @@
   "Njörun's Zeal II": {
     "id": "Njörun's Zeal II",
     "name": "諾華的聖戰士・承",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Njörun's Zeal"],
     "exclusive": ["Leif - Unifier of Thracia"],
     "last": true
@@ -136,8 +136,8 @@
   "Twin Blades": {
     "id": "Twin Blades",
     "name": "雙刃",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Iceberg"],
     "exclusive": ["Altina - Dawn's Trueblade", "Altina - Cross-Time Duo"],
     "last": true
@@ -145,8 +145,8 @@
   "Open the Future": {
     "id": "Open the Future",
     "name": "開世",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Bonfire"],
     "exclusive": [
       "Alfonse - Askran Duo",
@@ -158,8 +158,8 @@
   "Imperial Astra": {
     "id": "Imperial Astra",
     "name": "劍皇的流星",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Astra"],
     "exclusive": ["Shannan - Wielder of Astra"],
     "last": true
@@ -167,8 +167,8 @@
   "Hero's Blood": {
     "id": "Hero's Blood",
     "name": "英雄的血脈",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Draconic Aura"],
     "exclusive": ["Marth - Legacied Hero"],
     "last": true
@@ -185,10 +185,10 @@
   "Mayhem Aether": {
     "id": "Mayhem Aether",
     "name": "狂暴天空",
-    "cd": 4,
     "sp": 500,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Sol", "Luna"],
+    "rules": "not.white-staff",
     "exclusive": ["Ike - Zeal Unleashed"],
     "last": true
   },
@@ -211,16 +211,16 @@
   "Seiðr Shell": {
     "id": "Seiðr Shell",
     "name": "魔彈",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Ignis"],
     "exclusive": ["Reginn - Bearing Hope", "Reginn - Bearing Dawn"]
   },
   "Seiðr Shell+": {
     "id": "Seiðr Shell+",
     "name": "魔彈・神",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Seiðr Shell"],
     "exclusive": ["Reginn - Bearing Hope"],
     "last": true
@@ -228,8 +228,8 @@
   "Gifted Magic": {
     "id": "Gifted Magic",
     "name": "魔道天賦",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Blazing Flame"],
     "exclusive": ["Lilina - Firelight Leader", "Lilina - Beaming Bride"],
     "last": true
@@ -237,8 +237,8 @@
   "Gifted Magic II": {
     "id": "Gifted Magic II",
     "name": "魔道天賦・承",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Gifted Magic"],
     "exclusive": ["Lilina - Firelight Leader"],
     "last": true
@@ -246,8 +246,8 @@
   "Holy-Knight Aura": {
     "id": "Holy-Knight Aura",
     "name": "格蘭貝魯的聖騎士",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Draconic Aura"],
     "exclusive": ["Sigurd - Fated Holy Knight"],
     "last": true
@@ -255,8 +255,8 @@
   "Holy-Knight II": {
     "id": "Holy-Knight II",
     "name": "格蘭貝魯的……・承",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Holy-Knight Aura"],
     "exclusive": ["Sigurd - Fated Holy Knight"],
     "last": true
@@ -264,8 +264,8 @@
   "Sublime Heaven": {
     "id": "Sublime Heaven",
     "name": "霸天",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Draconic Aura"],
     "exclusive": ["Byleth - The Fódlan Star", "Byleth - Fount of Learning"],
     "last": true
@@ -273,8 +273,8 @@
   "Sublime Heaven II": {
     "id": "Sublime Heaven II",
     "name": "霸天・承",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Sublime Heaven"],
     "exclusive": ["Byleth - The Fódlan Star"],
     "last": true
@@ -282,8 +282,8 @@
   "Shining Emblem": {
     "id": "Shining Emblem",
     "name": "光炎紋章",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Draconic Aura"],
     "exclusive": ["Marth - Prince of Light", "Marth - Hero-King"],
     "last": true
@@ -291,8 +291,8 @@
   "Requiem Dance": {
     "id": "Requiem Dance",
     "name": "鎮魂之舞",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Glacies"],
     "exclusive": ["Marianne - Serene Adherent"],
     "last": true
@@ -300,16 +300,16 @@
   "Brutal Shell": {
     "id": "Brutal Shell",
     "name": "凶彈",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Luna"],
     "exclusive": ["Ótr - Kingsbrother"]
   },
   "Brutal Shell+": {
     "id": "Brutal Shell+",
     "name": "凶彈・神",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Brutal Shell"],
     "exclusive": ["Ótr - Kingsbrother"],
     "last": true
@@ -317,8 +317,8 @@
   "Life Unending": {
     "id": "Life Unending",
     "name": "永生者",
-    "cd": 5,
     "sp": 500,
+    "cd": 5,
     "prev": ["Miracle"],
     "exclusive": ["Fae - Childlike Dragon"],
     "last": true
@@ -326,8 +326,8 @@
   "Life Unending II": {
     "id": "Life Unending II",
     "name": "永生者・承",
-    "cd": 5,
     "sp": 500,
+    "cd": 5,
     "prev": ["Life Unending"],
     "exclusive": ["Fae - Childlike Dragon"],
     "last": true
@@ -335,8 +335,8 @@
   "Divine Pulse": {
     "id": "Divine Pulse",
     "name": "天刻之脈動",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Draconic Aura"],
     "exclusive": ["Byleth - Sublime Light", "Byleth - Vengeance Vessel"],
     "last": true
@@ -344,8 +344,8 @@
   "Circlet of Balance": {
     "id": "Circlet of Balance",
     "name": "聖神與暗黑神之冠",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Iceberg"],
     "exclusive": ["Deirdre - Fated Saint"],
     "last": true
@@ -353,8 +353,8 @@
   "Enclosure": {
     "id": "Enclosure",
     "name": "閉界",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Reprisal"],
     "exclusive": ["Veronica - Princess Rising"],
     "last": true
@@ -362,8 +362,8 @@
   "Frostbite Mirror": {
     "id": "Frostbite Mirror",
     "name": "絕冰之聖鏡",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Sacred Cowl"],
     "exclusive": ["Fjorm - Seaside Thaw"],
     "last": true
@@ -371,8 +371,8 @@
   "Chivalric Aura": {
     "id": "Chivalric Aura",
     "name": "格蘭貝魯的騎士精神",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Draconic Aura"],
     "exclusive": ["Sigurd - Proper Pourer"],
     "last": true
@@ -380,8 +380,8 @@
   "Supreme Astra": {
     "id": "Supreme Astra",
     "name": "無雙的流星",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Astra"],
     "exclusive": ["Ayra - Together in Tea"],
     "last": true
@@ -389,8 +389,8 @@
   "Dragon Blast": {
     "id": "Dragon Blast",
     "name": "神龍破",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Glimmer"],
     "exclusive": ["Alear - Awoken Divinity"],
     "last": true
@@ -398,8 +398,8 @@
   "Lightless Luna": {
     "id": "Lightless Luna",
     "name": "漆黑月光",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Luna"],
     "exclusive": ["Zelgius - Ninja Knight"],
     "last": true
@@ -407,8 +407,8 @@
   "Time Is Light": {
     "id": "Time Is Light",
     "name": "時間等同光",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Vengeance"],
     "exclusive": ["Gullveig - Golden Seer"],
     "last": true
@@ -416,8 +416,8 @@
   "Light Is Time": {
     "id": "Light Is Time",
     "name": "光等同時間",
-    "cd": 5,
     "sp": 500,
+    "cd": 5,
     "prev": ["Reprisal"],
     "exclusive": ["Kvasir - Seer of the Past", "Kvasir - Unknown Future"],
     "last": true
@@ -425,8 +425,8 @@
   "Supreme Heaven": {
     "id": "Supreme Heaven",
     "name": "真霸天",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Draconic Aura"],
     "exclusive": ["Byleth - Frosty Professors"],
     "last": true
@@ -434,8 +434,8 @@
   "Arms of the Three": {
     "id": "Arms of the Three",
     "name": "三雄的雙刃",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Iceberg"],
     "exclusive": ["Altina - Unrivaled Dawn"],
     "last": true
@@ -443,8 +443,8 @@
   "Lodestar Rush": {
     "id": "Lodestar Rush",
     "name": "星之突擊",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Glimmer"],
     "exclusive": ["Marth - Of Beginnings"],
     "last": true
@@ -452,8 +452,8 @@
   "Sacred Wind": {
     "id": "Sacred Wind",
     "name": "神聖風",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Glimmer"],
     "exclusive": ["Merric - Wind Pontifex"],
     "last": true
@@ -461,8 +461,8 @@
   "Great Aether": {
     "id": "Great Aether",
     "name": "霸克・天空",
-    "cd": 4,
     "sp": 500,
+    "cd": 4,
     "prev": ["Sol"],
     "exclusive": ["Ike - Of Radiance"],
     "last": true
@@ -479,8 +479,8 @@
   "Bane": {
     "id": "Bane",
     "name": "瞬殺",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Moonbow"],
     "exclusive": ["Sothe - Dawning Zephyr"],
     "last": true
@@ -488,8 +488,8 @@
   "Time and Light": {
     "id": "Time and Light",
     "name": "時間與光",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Vengeance"],
     "exclusive": ["Gullveig - Glittering Sunlight"],
     "last": true
@@ -505,8 +505,8 @@
   "Bond Blast": {
     "id": "Bond Blast",
     "name": "牽絆・神龍破",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Glimmer"],
     "exclusive": ["Alear - Seaside Dragon"],
     "last": true
@@ -522,8 +522,8 @@
   "Dual Ice Mirrors": {
     "id": "Dual Ice Mirrors",
     "name": "雙冰之聖鏡",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Sacred Cowl"],
     "exclusive": ["Fjorm - Gleaming Ice Pair"],
     "last": true
@@ -547,8 +547,8 @@
   "Override": {
     "id": "Override",
     "name": "破陣星馳",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Blazing Light"],
     "exclusive": ["Sigurd - Of the Holy War"],
     "last": true
@@ -564,8 +564,8 @@
   "Gift for Magic": {
     "id": "Gift for Magic",
     "name": "魔才天賦",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Blazing Flame"],
     "exclusive": ["Lilina - Brilliant Flame"],
     "last": true
@@ -573,8 +573,8 @@
   "Astra Storm": {
     "id": "Astra Storm",
     "name": "流星雨",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Astra"],
     "exclusive": ["Lyn - Of Blazing"],
     "last": true
@@ -590,8 +590,8 @@
   "Crusader's Astra": {
     "id": "Crusader's Astra",
     "name": "劍聖的流星雨",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Astra"],
     "exclusive": ["Ayra - Supreme Astra"],
     "last": true
@@ -599,8 +599,8 @@
   "True Lunar Flash": {
     "id": "True Lunar Flash",
     "name": "真月光閃",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Moonbow"],
     "exclusive": ["Alm - Powerful Resolve"],
     "last": true
@@ -608,24 +608,24 @@
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
-    "cd": 3,
     "sp": 100,
+    "cd": 3,
     "rules": "not.white-staff"
   },
   "Noontime": {
     "id": "Noontime",
     "name": "夕陽",
-    "cd": 2,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 2,
     "prev": ["Daylight"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Flare": {
     "id": "Flare",
     "name": "陽光",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Noontime"],
     "rules": "learner.infantry-tome",
     "last": true
@@ -633,112 +633,112 @@
   "Sol": {
     "id": "Sol",
     "name": "太陽",
-    "cd": 3,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 3,
     "prev": ["Daylight"],
+    "rules": "not.white-staff",
     "last": true
   },
   "New Moon": {
     "id": "New Moon",
     "name": "新月",
-    "cd": 3,
     "sp": 100,
+    "cd": 3,
     "rules": "not.white-staff"
   },
   "Moonbow": {
     "id": "Moonbow",
     "name": "月虹",
-    "cd": 2,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 2,
     "prev": ["New Moon"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Curved Shot": {
     "id": "Curved Shot",
     "name": "曲射",
-    "cd": 2,
     "sp": 500,
-    "rules": "bow",
+    "cd": 2,
     "prev": ["Moonbow"],
+    "rules": "bow",
     "last": true
   },
   "Luna": {
     "id": "Luna",
     "name": "月光",
-    "cd": 3,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 3,
     "prev": ["New Moon"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Lethality": {
     "id": "Lethality",
     "name": "滅殺",
-    "cd": 4,
     "sp": 500,
-    "rules": "dagger",
+    "cd": 4,
     "prev": ["Luna"],
+    "rules": "dagger",
     "last": true
   },
   "Aether": {
     "id": "Aether",
     "name": "天空",
-    "cd": 5,
     "sp": 500,
-    "rules": "not.white-staff",
+    "cd": 5,
     "prev": ["Sol", "Luna"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Night Sky": {
     "id": "Night Sky",
     "name": "星影",
-    "cd": 3,
     "sp": 100,
+    "cd": 3,
     "rules": "not.white-staff"
   },
   "Glimmer": {
     "id": "Glimmer",
     "name": "凶星",
-    "cd": 2,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 2,
     "prev": ["Night Sky"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Deadeye": {
     "id": "Deadeye",
     "name": "狙擊",
-    "cd": 3,
     "sp": 500,
-    "rules": "bow",
+    "cd": 3,
     "prev": ["Glimmer"],
+    "rules": "bow",
     "last": true
   },
   "Astra": {
     "id": "Astra",
     "name": "流星",
-    "cd": 4,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Night Sky"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Vital Astra": {
     "id": "Vital Astra",
     "name": "心流星",
-    "cd": 2,
     "sp": 500,
-    "rules": "learner.wielderInfantry",
+    "cd": 2,
     "prev": ["Astra"],
+    "rules": "learner.wielderInfantry",
     "last": true
   },
   "Gust": {
     "id": "Gust",
     "name": "陣風",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Glimmer"],
     "rules": "learner.wielderInfantry",
     "last": true
@@ -746,8 +746,8 @@
   "Nimble Beast": {
     "id": "Nimble Beast",
     "name": "敏捷之獸",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Astra"],
     "rules": "beast",
     "last": true
@@ -755,76 +755,76 @@
   "Galeforce": {
     "id": "Galeforce",
     "name": "疾風迅雷",
-    "cd": 5,
     "sp": 500,
-    "rules": "learner.melee-def-dmger",
+    "cd": 5,
     "prev": ["Astra"],
+    "rules": "learner.melee-def-dmger",
     "last": true
   },
   "Retribution": {
     "id": "Retribution",
     "name": "雪辱",
-    "cd": 3,
     "sp": 100,
+    "cd": 3,
     "rules": "not.white-staff"
   },
   "Reprisal": {
     "id": "Reprisal",
     "name": "血仇",
-    "cd": 2,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 2,
     "prev": ["Retribution"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Vengeance": {
     "id": "Vengeance",
     "name": "復仇",
-    "cd": 3,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 3,
     "prev": ["Retribution"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Dragon Gaze": {
     "id": "Dragon Gaze",
     "name": "臥龍",
-    "cd": 4,
     "sp": 100,
+    "cd": 4,
     "rules": "not.white-staff"
   },
   "Draconic Aura": {
     "id": "Draconic Aura",
     "name": "龍裂",
-    "cd": 3,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 3,
     "prev": ["Dragon Gaze"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Dragon Fang": {
     "id": "Dragon Fang",
     "name": "龍穿",
-    "cd": 4,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Dragon Gaze"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Ruptured Sky": {
     "id": "Ruptured Sky",
     "name": "破天",
-    "cd": 2,
     "sp": 500,
-    "rules": "learner.ruptured-sky",
+    "cd": 2,
     "prev": ["Draconic Aura"],
+    "rules": "learner.ruptured-sky",
     "last": true
   },
   "No Quarter": {
     "id": "No Quarter",
     "name": "車懸",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Draconic Aura"],
     "rules": "learner.wielderNotArmor",
     "last": true
@@ -832,8 +832,8 @@
   "Haze Slice": {
     "id": "Haze Slice",
     "name": "霞切",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Draconic Aura"],
     "rules": "learner.wielderNotArmor",
     "last": true
@@ -841,8 +841,8 @@
   "Fierce Beast": {
     "id": "Fierce Beast",
     "name": "猛獸",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Dragon Fang"],
     "rules": "beast",
     "last": true
@@ -850,33 +850,33 @@
   "Glowing Ember": {
     "id": "Glowing Ember",
     "name": "螢火",
-    "cd": 4,
     "sp": 100,
+    "cd": 4,
     "rules": "not.white-staff"
   },
   "Bonfire": {
     "id": "Bonfire",
     "name": "緋炎",
-    "cd": 3,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 3,
     "prev": ["Glowing Ember"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Ignis": {
     "id": "Ignis",
     "name": "華炎",
-    "cd": 4,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Glowing Ember"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Armored Beacon": {
     "id": "Armored Beacon",
     "name": "重裝之聖炎",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Bonfire"],
     "rules": "learner.armored-not-staff",
     "last": true
@@ -884,8 +884,8 @@
   "Armored Blaze": {
     "id": "Armored Blaze",
     "name": "重裝之大炎",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Bonfire"],
     "rules": "learner.armored-not-staff",
     "last": true
@@ -893,17 +893,17 @@
   "Blue Flame": {
     "id": "Blue Flame",
     "name": "青之炎",
-    "cd": 3,
     "sp": 500,
-    "rules": "not.white-staff",
+    "cd": 3,
     "prev": ["Bonfire"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Sturdy Beast": {
     "id": "Sturdy Beast",
     "name": "堅固之獸",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Ignis"],
     "rules": "beast",
     "last": true
@@ -911,8 +911,8 @@
   "Boulder": {
     "id": "Boulder",
     "name": "巨岩",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Bonfire"],
     "rules": "learner.wielderInfantry",
     "last": true
@@ -920,33 +920,33 @@
   "Chilling Wind": {
     "id": "Chilling Wind",
     "name": "冰點",
-    "cd": 4,
     "sp": 100,
+    "cd": 4,
     "rules": "not.white-staff"
   },
   "Iceberg": {
     "id": "Iceberg",
     "name": "冰蒼",
-    "cd": 3,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 3,
     "prev": ["Chilling Wind"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Glacies": {
     "id": "Glacies",
     "name": "冰華",
-    "cd": 4,
     "sp": 200,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Chilling Wind"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Armored Floe": {
     "id": "Armored Floe",
     "name": "重裝之聖冰",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Iceberg"],
     "rules": "learner.armored-not-staff",
     "last": true
@@ -954,8 +954,8 @@
   "Dragon's Roar": {
     "id": "Dragon's Roar",
     "name": "龍之咆哮",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Iceberg"],
     "rules": "dragon",
     "last": true
@@ -963,8 +963,8 @@
   "Frost Moon": {
     "id": "Frost Moon",
     "name": "冰輪",
-    "cd": 4,
     "sp": 500,
+    "cd": 4,
     "prev": ["Glacies"],
     "rules": "tome",
     "last": true
@@ -972,124 +972,124 @@
   "Rising Flame": {
     "id": "Rising Flame",
     "name": "碎火",
-    "cd": 4,
     "sp": 150,
+    "cd": 4,
     "rules": "not.white-staff"
   },
   "Growing Flame": {
     "id": "Growing Flame",
     "name": "爆火",
-    "cd": 4,
     "sp": 300,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Rising Flame"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Blazing Flame": {
     "id": "Blazing Flame",
     "name": "烈火",
-    "cd": 4,
     "sp": 300,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Rising Flame"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Rising Wind": {
     "id": "Rising Wind",
     "name": "碎風",
-    "cd": 4,
     "sp": 150,
+    "cd": 4,
     "rules": "not.white-staff"
   },
   "Growing Wind": {
     "id": "Growing Wind",
     "name": "爆風",
-    "cd": 4,
     "sp": 300,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Rising Wind"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Blazing Wind": {
     "id": "Blazing Wind",
     "name": "強風",
-    "cd": 4,
     "sp": 300,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Rising Wind"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Rising Thunder": {
     "id": "Rising Thunder",
     "name": "碎雷",
-    "cd": 4,
     "sp": 150,
+    "cd": 4,
     "rules": "not.white-staff"
   },
   "Growing Thunder": {
     "id": "Growing Thunder",
     "name": "爆雷",
-    "cd": 4,
     "sp": 300,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Rising Thunder"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Blazing Thunder": {
     "id": "Blazing Thunder",
     "name": "烈雷",
-    "cd": 4,
     "sp": 300,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Rising Thunder"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Rising Light": {
     "id": "Rising Light",
     "name": "碎光",
-    "cd": 4,
     "sp": 150,
+    "cd": 4,
     "rules": "not.white-staff"
   },
   "Growing Light": {
     "id": "Growing Light",
     "name": "爆光",
-    "cd": 4,
     "sp": 300,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Rising Light"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Blazing Light": {
     "id": "Blazing Light",
     "name": "烈光",
-    "cd": 4,
     "sp": 300,
-    "rules": "not.white-staff",
+    "cd": 4,
     "prev": ["Rising Light"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Buckler": {
     "id": "Buckler",
     "name": "小盾",
-    "cd": 3,
     "sp": 100,
+    "cd": 3,
     "rules": "melee"
   },
   "Escutcheon": {
     "id": "Escutcheon",
     "name": "長盾",
-    "cd": 2,
     "sp": 200,
-    "rules": "melee",
+    "cd": 2,
     "prev": ["Buckler"],
+    "rules": "melee",
     "last": true
   },
   "Godlike Reflexes": {
     "id": "Godlike Reflexes",
     "name": "神速迴避",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Escutcheon"],
     "rules": "learner.wielderInfantry",
     "last": true
@@ -1097,212 +1097,212 @@
   "Pavise": {
     "id": "Pavise",
     "name": "大盾",
-    "cd": 3,
     "sp": 200,
-    "rules": "melee",
+    "cd": 3,
     "prev": ["Buckler"],
+    "rules": "melee",
     "last": true
   },
   "Holy Vestments": {
     "id": "Holy Vestments",
     "name": "聖衣",
-    "cd": 3,
     "sp": 100,
+    "cd": 3,
     "rules": "melee"
   },
   "Sacred Cowl": {
     "id": "Sacred Cowl",
     "name": "聖甲",
-    "cd": 2,
     "sp": 200,
-    "rules": "melee",
+    "cd": 2,
     "prev": ["Night Sky"],
+    "rules": "melee",
     "last": true
   },
   "Aegis": {
     "id": "Aegis",
     "name": "聖盾",
-    "cd": 3,
     "sp": 200,
-    "rules": "melee",
+    "cd": 3,
     "prev": ["Holy Vestments"],
+    "rules": "melee",
     "last": true
   },
   "Miracle": {
     "id": "Miracle",
     "name": "祈禱",
-    "cd": 5,
     "sp": 200,
+    "cd": 5,
     "last": true
   },
   "Imbue": {
     "id": "Imbue",
     "name": "治癒",
-    "cd": 1,
     "sp": 50,
+    "cd": 1,
     "rules": "white-staff"
   },
   "Heavenly Light": {
     "id": "Heavenly Light",
     "name": "天照",
-    "cd": 2,
     "sp": 150,
+    "cd": 2,
     "rules": "white-staff",
     "last": true
   },
   "Kindled-Fire Balm": {
     "id": "Kindled-Fire Balm",
     "name": "業火的祝福",
-    "cd": 1,
     "sp": 150,
+    "cd": 1,
     "rules": "white-staff"
   },
   "Swift-Winds Balm": {
     "id": "Swift-Winds Balm",
     "name": "疾風的祝福",
-    "cd": 1,
     "sp": 150,
-    "rules": "white-staff",
-    "prev": ["Imbue"]
+    "cd": 1,
+    "prev": ["Imbue"],
+    "rules": "white-staff"
   },
   "Solid-Earth Balm": {
     "id": "Solid-Earth Balm",
     "name": "大地的祝福",
-    "cd": 1,
     "sp": 150,
+    "cd": 1,
     "rules": "white-staff"
   },
   "Still-Water Balm": {
     "id": "Still-Water Balm",
     "name": "靜水的祝福",
-    "cd": 1,
     "sp": 150,
-    "rules": "white-staff",
-    "prev": ["Imbue"]
+    "cd": 1,
+    "prev": ["Imbue"],
+    "rules": "white-staff"
   },
   "Windfire Balm": {
     "id": "Windfire Balm",
     "name": "業火疾風的祝福",
-    "cd": 1,
     "sp": 200,
-    "rules": "white-staff",
-    "prev": ["Kindled-Fire Balm", "Swift-Winds Balm"]
+    "cd": 1,
+    "prev": ["Kindled-Fire Balm", "Swift-Winds Balm"],
+    "rules": "white-staff"
   },
   "Windfire Balm+": {
     "id": "Windfire Balm+",
     "name": "業火疾風的祝福+",
-    "cd": 1,
     "sp": 300,
-    "rules": "white-staff",
+    "cd": 1,
     "prev": ["Windfire Balm"],
+    "rules": "white-staff",
     "last": true
   },
   "Earthfire Balm": {
     "id": "Earthfire Balm",
     "name": "業火大地的祝福",
-    "cd": 1,
     "sp": 200,
-    "rules": "white-staff",
-    "prev": ["Kindled-Fire Balm", "Solid-Earth Balm"]
+    "cd": 1,
+    "prev": ["Kindled-Fire Balm", "Solid-Earth Balm"],
+    "rules": "white-staff"
   },
   "Earthfire Balm+": {
     "id": "Earthfire Balm+",
     "name": "業火大地的祝福+",
-    "cd": 1,
     "sp": 300,
-    "rules": "white-staff",
+    "cd": 1,
     "prev": ["Earthfire Balm"],
+    "rules": "white-staff",
     "last": true
   },
   "Fireflood Balm": {
     "id": "Fireflood Balm",
     "name": "業火靜水的祝福",
-    "cd": 1,
     "sp": 200,
-    "rules": "white-staff",
-    "prev": ["Kindled-Fire Balm", "Still-Water Balm"]
+    "cd": 1,
+    "prev": ["Kindled-Fire Balm", "Still-Water Balm"],
+    "rules": "white-staff"
   },
   "Fireflood Balm+": {
     "id": "Fireflood Balm+",
     "name": "業火靜水的祝福+",
-    "cd": 1,
     "sp": 300,
-    "rules": "white-staff",
+    "cd": 1,
     "prev": ["Fireflood Balm"],
+    "rules": "white-staff",
     "last": true
   },
   "Earthwind Balm": {
     "id": "Earthwind Balm",
     "name": "疾風大地的祝福",
-    "cd": 1,
     "sp": 200,
-    "rules": "white-staff",
-    "prev": ["Solid-Earth Balm", "Still-Water Balm"]
+    "cd": 1,
+    "prev": ["Solid-Earth Balm", "Still-Water Balm"],
+    "rules": "white-staff"
   },
   "Earthwind Balm+": {
     "id": "Earthwind Balm+",
     "name": "疾風大地的祝福+",
-    "cd": 1,
     "sp": 300,
-    "rules": "white-staff",
+    "cd": 1,
     "prev": ["Earthwind Balm"],
+    "rules": "white-staff",
     "last": true
   },
   "Deluge Balm": {
     "id": "Deluge Balm",
     "name": "疾風靜水的祝福",
-    "cd": 1,
     "sp": 200,
-    "rules": "white-staff",
-    "prev": ["Swift-Winds Balm", "Still-Water Balm"]
+    "cd": 1,
+    "prev": ["Swift-Winds Balm", "Still-Water Balm"],
+    "rules": "white-staff"
   },
   "Deluge Balm+": {
     "id": "Deluge Balm+",
     "name": "疾風靜水的祝福+",
-    "cd": 1,
     "sp": 300,
-    "rules": "white-staff",
+    "cd": 1,
     "prev": ["Deluge Balm"],
+    "rules": "white-staff",
     "last": true
   },
   "Earthwater Balm": {
     "id": "Earthwater Balm",
     "name": "大地靜水的祝福",
-    "cd": 1,
     "sp": 200,
-    "rules": "white-staff",
-    "prev": ["Solid-Earth Balm", "Still-Water Balm"]
+    "cd": 1,
+    "prev": ["Solid-Earth Balm", "Still-Water Balm"],
+    "rules": "white-staff"
   },
   "Earthwater Balm+": {
     "id": "Earthwater Balm+",
     "name": "大地靜水的祝福+",
-    "cd": 1,
     "sp": 300,
-    "rules": "white-staff",
+    "cd": 1,
     "prev": ["Earthwater Balm"],
+    "rules": "white-staff",
     "last": true
   },
   "Holy Pressure": {
     "id": "Holy Pressure",
     "name": "重壓的聖光",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "rules": "white-staff",
     "last": true
   },
   "Light's Restraint": {
     "id": "Light's Restraint",
     "name": "抑制的聖光",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "rules": "white-staff",
     "last": true
   },
   "Holy Panic": {
     "id": "Holy Panic",
     "name": "恐慌的聖光",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "rules": "white-staff",
     "last": true
   },

@@ -4,93 +4,93 @@
     "name": "響・鬼神一擊",
     "sp": 0,
     "rules": "not.white-staff",
-    "last": true,
-    "icon": "skillX/Death_Blow_Echo"
+    "icon": "skillX/Death_Blow_Echo",
+    "last": true
   },
   "Fleeting Echo": {
     "id": "Fleeting Echo",
     "name": "響・飛燕離擊",
     "sp": 0,
     "rules": "learner.ranged-not-staff",
-    "last": true,
-    "icon": "skillX/Fleeting_Echo"
+    "icon": "skillX/Fleeting_Echo",
+    "last": true
   },
   "D Counter Echo": {
     "id": "D Counter Echo",
     "name": "響・遠距離反擊",
     "sp": 0,
     "rules": "melee",
-    "last": true,
-    "icon": "skillX/D_Counter_Echo"
+    "icon": "skillX/D_Counter_Echo",
+    "last": true
   },
   "Mercy-Wing Echo": {
     "id": "Mercy-Wing Echo",
     "name": "響・救援路線",
     "sp": 0,
-    "last": true,
-    "icon": "skillX/Mercy-Wing_Echo"
+    "icon": "skillX/Mercy-Wing_Echo",
+    "last": true
   },
   "Guard Echo": {
     "id": "Guard Echo",
     "name": "響・取消",
     "sp": 0,
-    "last": true,
-    "icon": "skillX/Guard_Echo"
+    "icon": "skillX/Guard_Echo",
+    "last": true
   },
   "Null C-Disrupt E": {
     "id": "Null C-Disrupt E",
     "name": "響・識破無法反擊",
     "sp": 0,
     "rules": "infantry",
-    "last": true,
-    "icon": "skillX/Null_C-Disrupt_E"
+    "icon": "skillX/Null_C-Disrupt_E",
+    "last": true
   },
   "Lull Echo": {
     "id": "Lull Echo",
     "name": "響・靜謐",
     "sp": 0,
     "rules": "learner.infantry-cavalry",
-    "last": true,
-    "icon": "skillX/Lull_Echo"
+    "icon": "skillX/Lull_Echo",
+    "last": true
   },
   "Far Trace Echo": {
     "id": "Far Trace Echo",
     "name": "響・遠影",
     "sp": 0,
     "rules": "learner.cavalry-flying-ranged",
-    "last": true,
-    "icon": "skillX/Far_Trace_Echo"
+    "icon": "skillX/Far_Trace_Echo",
+    "last": true
   },
   "Tempo Echo": {
     "id": "Tempo Echo",
     "name": "響・節拍",
     "sp": 0,
     "rules": "infantry",
-    "last": true,
-    "icon": "skillX/Tempo_Echo"
+    "icon": "skillX/Tempo_Echo",
+    "last": true
   },
   "Time Pulse Echo": {
     "id": "Time Pulse Echo",
     "name": "響・初始之躍動",
     "sp": 0,
     "rules": "infantry",
-    "last": true,
-    "icon": "skillX/Time_Pulse_Echo"
+    "icon": "skillX/Time_Pulse_Echo",
+    "last": true
   },
   "Soaring Echo": {
     "id": "Soaring Echo",
     "name": "響・飛走前導",
     "sp": 0,
     "rules": "flying",
-    "last": true,
-    "icon": "skillX/Soaring_Echo"
+    "icon": "skillX/Soaring_Echo",
+    "last": true
   },
   "Atk Oath Echo": {
     "id": "Atk Oath Echo",
     "name": "響・攻擊的信義",
     "sp": 0,
     "rules": "learner.infantry-flying",
-    "last": true,
-    "icon": "skillX/Atk_Oath_Echo"
+    "icon": "skillX/Atk_Oath_Echo",
+    "last": true
   }
 }

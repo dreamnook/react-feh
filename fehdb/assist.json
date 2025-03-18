@@ -3,8 +3,8 @@
     "id": "Sacrifice",
     "name": "治療之手",
     "sp": 400,
-    "range": 1,
     "prev": ["Ardent Sacrifice"],
+    "range": 1,
     "exclusive": [
       "Micaiah - Priestess of Dawn",
       "Micaiah - Queen of Dawn",
@@ -16,8 +16,8 @@
     "id": "Future Vision II",
     "name": "映照未來的眼眸・承",
     "sp": 400,
-    "range": 1,
     "prev": ["Future Vision"],
+    "range": 1,
     "exclusive": ["Lucina - Glorious Archer"],
     "last": true
   },
@@ -25,8 +25,8 @@
     "id": "Future Vision",
     "name": "映照未來的眼眸",
     "sp": 400,
-    "range": 1,
     "prev": ["Swap"],
+    "range": 1,
     "exclusive": ["Lucina - Glorious Archer", "Lucina - Future Fondness"],
     "last": true
   },
@@ -42,8 +42,8 @@
     "id": "Gray Waves",
     "name": "悠悠搖曳",
     "sp": 400,
-    "range": 1,
     "prev": ["Sing"],
+    "range": 1,
     "exclusive": ["Azura - Vallite Songstress", "Azura - Hatari Duet"],
     "last": true
   },
@@ -51,8 +51,8 @@
     "id": "Gentle Dream+",
     "name": "溫柔的夢・神",
     "sp": 400,
-    "range": 1,
     "prev": ["Gentle Dream"],
+    "range": 1,
     "exclusive": ["Peony - Sweet Dream"],
     "last": true
   },
@@ -60,8 +60,8 @@
     "id": "Gentle Dream",
     "name": "溫柔的夢",
     "sp": 400,
-    "range": 1,
     "prev": ["Dance"],
+    "range": 1,
     "exclusive": ["Peony - Sweet Dream", "Peony - Álfar Dream Duo"],
     "last": true
   },
@@ -77,8 +77,8 @@
     "id": "To Change Fate!",
     "name": "我要改變命運！",
     "sp": 500,
-    "range": 1,
     "prev": ["Reposition"],
+    "range": 1,
     "exclusive": ["Chrom - Crowned Exalt", "Chrom - Fate-Defying Duo"],
     "last": true
   },
@@ -86,8 +86,8 @@
     "id": "Whimsical Dream+",
     "name": "白色夢境・神",
     "sp": 400,
-    "range": 1,
     "prev": ["Whimsical Dream"],
+    "range": 1,
     "exclusive": ["Mirabilis - Daydream"],
     "last": true
   },
@@ -95,8 +95,8 @@
     "id": "Whimsical Dream",
     "name": "白色夢境",
     "sp": 400,
-    "range": 1,
     "prev": ["Dance"],
+    "range": 1,
     "exclusive": ["Mirabilis - Daydream", "Mirabilis - Sugarplum Vision"],
     "last": true
   },
@@ -203,8 +203,8 @@
     "id": "Sweet Dreams",
     "name": "甜蜜夢境",
     "sp": 400,
-    "range": 1,
     "prev": ["Dance"],
+    "range": 1,
     "exclusive": ["Plumeria - Lewd Dream", "Plumeria - Temptation Anew"],
     "last": true
   },
@@ -212,8 +212,8 @@
     "id": "Frightful Dream+",
     "name": "可怕的夢・神",
     "sp": 400,
-    "range": 1,
     "prev": ["Frightful Dream+"],
+    "range": 1,
     "exclusive": ["Triandra - Nightmare"],
     "last": true
   },
@@ -221,8 +221,8 @@
     "id": "Frightful Dream",
     "name": "可怕的夢",
     "sp": 400,
-    "range": 1,
     "prev": ["Dance"],
+    "range": 1,
     "exclusive": ["Triandra - Nightmare", "Triandra - Sunlit Nightmare"],
     "last": true
   },
@@ -230,8 +230,8 @@
     "id": "Maiden's Solace",
     "name": "治癒少女",
     "sp": 400,
-    "range": 1,
     "prev": ["Ardent Sacrifice"],
+    "range": 1,
     "exclusive": [
       "Micaiah - Radiant Queen",
       "Micaiah - Wavecrest Maiden",
@@ -243,8 +243,8 @@
     "id": "Foul Play",
     "name": "把戲",
     "sp": 400,
-    "range": 1,
     "prev": ["Swap"],
+    "range": 1,
     "exclusive": ["Yuri - Ashen Valiant", "Yuri - Underground Lord"],
     "last": true
   },
@@ -363,25 +363,25 @@
     "id": "Mend",
     "name": "大聖療",
     "sp": 100,
+    "prev": ["Heal"],
     "range": 1,
-    "rules": "white-staff",
-    "prev": ["Heal"]
+    "rules": "white-staff"
   },
   "Physic": {
     "id": "Physic",
     "name": "遠程聖療",
     "sp": 200,
+    "prev": ["Mend"],
     "range": 2,
-    "rules": "white-staff",
-    "prev": ["Mend"]
+    "rules": "white-staff"
   },
   "Physic+": {
     "id": "Physic+",
     "name": "遠程聖療+",
     "sp": 300,
+    "prev": ["Physic"],
     "range": 2,
     "rules": "white-staff",
-    "prev": ["Physic"],
     "last": true
   },
   "Recover": {
@@ -389,43 +389,43 @@
     "name": "聖癒",
     "cd": 1,
     "sp": 200,
+    "prev": ["Mend"],
     "range": 1,
-    "rules": "white-staff",
-    "prev": ["Mend"]
+    "rules": "white-staff"
   },
   "Recover+": {
     "id": "Recover+",
     "name": "聖癒+",
     "sp": 300,
+    "prev": ["Recover"],
     "range": 1,
     "rules": "white-staff",
-    "prev": ["Recover"],
     "last": true
   },
   "Reconcile": {
     "id": "Reconcile",
     "name": "治療",
     "sp": 100,
+    "prev": ["Heal"],
     "range": 1,
-    "rules": "white-staff",
-    "prev": ["Heal"]
+    "rules": "white-staff"
   },
   "Martyr": {
     "id": "Martyr",
     "name": "殉教",
     "cd": 1,
     "sp": 200,
+    "prev": ["Reconcile"],
     "range": 1,
-    "rules": "white-staff",
-    "prev": ["Reconcile"]
+    "rules": "white-staff"
   },
   "Martyr+": {
     "id": "Martyr+",
     "name": "殉教+",
     "sp": 300,
+    "prev": ["Martyr"],
     "range": 1,
     "rules": "white-staff",
-    "prev": ["Martyr"],
     "last": true
   },
   "Rehabilitate": {
@@ -433,34 +433,34 @@
     "name": "重生",
     "cd": 1,
     "sp": 200,
+    "prev": ["Reconcile"],
     "range": 1,
-    "rules": "white-staff",
-    "prev": ["Reconcile"]
+    "rules": "white-staff"
   },
   "Rehabilitate+": {
     "id": "Rehabilitate+",
     "name": "重生+",
     "sp": 300,
+    "prev": ["Rehabilitate"],
     "range": 1,
     "rules": "white-staff",
-    "prev": ["Rehabilitate"],
     "last": true
   },
   "Restore": {
     "id": "Restore",
     "name": "休息",
     "sp": 200,
+    "prev": ["Reconcile"],
     "range": 1,
-    "rules": "white-staff",
-    "prev": ["Reconcile"]
+    "rules": "white-staff"
   },
   "Restore+": {
     "id": "Restore+",
     "name": "休息+",
     "sp": 300,
+    "prev": ["Restore"],
     "range": 1,
     "rules": "white-staff",
-    "prev": ["Restore"],
     "last": true
   },
   "Rescue": {
@@ -468,17 +468,17 @@
     "name": "救援",
     "cd": 1,
     "sp": 200,
+    "prev": ["Reconcile"],
     "range": 1,
-    "rules": "white-staff",
-    "prev": ["Reconcile"]
+    "rules": "white-staff"
   },
   "Rescue+": {
     "id": "Rescue+",
     "name": "救援+",
     "sp": 300,
+    "prev": ["Rescue"],
     "range": 1,
     "rules": "white-staff",
-    "prev": ["Rescue"],
     "last": true
   },
   "Return": {
@@ -486,17 +486,17 @@
     "name": "回歸",
     "cd": 1,
     "sp": 200,
+    "prev": ["Reconcile"],
     "range": 1,
-    "rules": "white-staff",
-    "prev": ["Reconcile"]
+    "rules": "white-staff"
   },
   "Return+": {
     "id": "Return+",
     "name": "回歸+",
     "sp": 300,
+    "prev": ["Return"],
     "range": 1,
     "rules": "white-staff",
-    "prev": ["Return"],
     "last": true
   },
   "Nudge": {
@@ -504,47 +504,47 @@
     "name": "推離",
     "cd": 1,
     "sp": 200,
+    "prev": ["Reconcile"],
     "range": 1,
-    "rules": "white-staff",
-    "prev": ["Reconcile"]
+    "rules": "white-staff"
   },
   "Nudge+": {
     "id": "Nudge+",
     "name": "推離+",
     "sp": 300,
+    "prev": ["Nudge"],
     "range": 1,
     "rules": "white-staff",
-    "prev": ["Nudge"],
     "last": true
   },
   "Magic Shield": {
     "id": "Magic Shield",
     "name": "魔術之盾",
     "sp": 300,
-    "rules": "white-staff",
-    "prev": ["Mend"]
+    "prev": ["Mend"],
+    "rules": "white-staff"
   },
   "Magic Shield+": {
     "id": "Magic Shield+",
     "name": "魔術之盾+",
     "sp": 400,
-    "rules": "white-staff",
     "prev": ["Magic Shield"],
+    "rules": "white-staff",
     "last": true
   },
   "Ice Lock": {
     "id": "Ice Lock",
     "name": "冰鎖",
     "sp": 300,
-    "rules": "white-staff",
-    "prev": ["Mend"]
+    "prev": ["Mend"],
+    "rules": "white-staff"
   },
   "Ice Lock+": {
     "id": "Ice Lock+",
     "name": "冰鎖+",
-    "rules": "white-staff",
     "sp": 400,
     "prev": ["Ice Lock"],
+    "rules": "white-staff",
     "last": true
   },
   "Swap": {
@@ -634,176 +634,176 @@
     "id": "Rally Atk/Spd",
     "name": "攻擊速度支援",
     "sp": 300,
+    "prev": ["Rally Attack", "Rally Speed"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Attack", "Rally Speed"],
     "last": true
   },
   "Rally Atk/Spd+": {
     "id": "Rally Atk/Spd+",
     "name": "攻擊速度支援+",
     "sp": 400,
+    "prev": ["Rally Atk/Spd"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Atk/Spd"],
     "last": true
   },
   "Rally Atk/Def": {
     "id": "Rally Atk/Def",
     "name": "攻擊防守支援",
     "sp": 300,
+    "prev": ["Rally Defense", "Rally Attack"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Defense", "Rally Attack"],
     "last": true
   },
   "Rally Atk/Def+": {
     "id": "Rally Atk/Def+",
     "name": "攻擊防守支援+",
     "sp": 400,
+    "prev": ["Rally Atk/Def"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Atk/Def"],
     "last": true
   },
   "Rally Atk/Res": {
     "id": "Rally Atk/Res",
     "name": "攻擊魔防支援",
     "sp": 300,
+    "prev": ["Rally Attack", "Rally Resistance"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Attack", "Rally Resistance"],
     "last": true
   },
   "Rally Atk/Res+": {
     "id": "Rally Atk/Res+",
     "name": "攻擊魔防支援+",
     "sp": 400,
+    "prev": ["Rally Atk/Res"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Atk/Res"],
     "last": true
   },
   "Rally Spd/Def": {
     "id": "Rally Spd/Def",
     "name": "速度防守支援",
     "sp": 300,
+    "prev": ["Rally Speed", "Rally Defense"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Speed", "Rally Defense"],
     "last": true
   },
   "Rally Spd/Def+": {
     "id": "Rally Spd/Def+",
     "name": "速度防守支援+",
     "sp": 400,
+    "prev": ["Rally Spd/Def"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Spd/Def"],
     "last": true
   },
   "Rally Spd/Res": {
     "id": "Rally Spd/Res",
     "name": "速度魔防支援",
     "sp": 300,
+    "prev": ["Rally Resistance", "Rally Speed"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Resistance", "Rally Speed"],
     "last": true
   },
   "Rally Spd/Res+": {
     "id": "Rally Spd/Res+",
     "name": "速度魔防支援+",
     "sp": 400,
+    "prev": ["Rally Spd/Res"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Spd/Res"],
     "last": true
   },
   "Rally Def/Res": {
     "id": "Rally Def/Res",
     "name": "防守魔防支援",
     "sp": 300,
+    "prev": ["Rally Defense", "Rally Resistance"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Defense", "Rally Resistance"],
     "last": true
   },
   "Rally Def/Res+": {
     "id": "Rally Def/Res+",
     "name": "防守魔防支援+",
     "sp": 400,
+    "prev": ["Rally Def/Res"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Def/Res"],
     "last": true
   },
   "Rally Up Atk": {
     "id": "Rally Up Atk",
     "name": "攻擊大支援",
     "sp": 300,
+    "prev": ["Rally Attack"],
     "range": 1,
-    "rules": "not.white-staff",
-    "prev": ["Rally Attack"]
+    "rules": "not.white-staff"
   },
   "Rally Up Atk+": {
     "id": "Rally Up Atk+",
     "name": "攻擊大支援+",
     "sp": 400,
+    "prev": ["Rally Up Atk"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Up Atk"],
     "last": true
   },
   "Rally Up Spd": {
     "id": "Rally Up Spd",
     "name": "速度大支援",
     "sp": 300,
+    "prev": ["Rally Speed"],
     "range": 1,
-    "rules": "not.white-staff",
-    "prev": ["Rally Speed"]
+    "rules": "not.white-staff"
   },
   "Rally Up Spd+": {
     "id": "Rally Up Spd+",
     "name": "速度大支援+",
     "sp": 400,
+    "prev": ["Rally Up Spd"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Up Spd"],
     "last": true
   },
   "Rally Up Def": {
     "id": "Rally Up Def",
     "name": "防守大支援",
     "sp": 300,
+    "prev": ["Rally Defense"],
     "range": 1,
-    "rules": "not.white-staff",
-    "prev": ["Rally Defense"]
+    "rules": "not.white-staff"
   },
   "Rally Up Def+": {
     "id": "Rally Up Def+",
     "name": "防守大支援+",
     "sp": 400,
+    "prev": ["Rally Up Def"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Up Def"],
     "last": true
   },
   "Rally Up Res": {
     "id": "Rally Up Res",
     "name": "魔防大支援",
     "sp": 300,
+    "prev": ["Rally Resistance"],
     "range": 1,
-    "rules": "not.white-staff",
-    "prev": ["Rally Resistance"]
+    "rules": "not.white-staff"
   },
   "Rally Up Res+": {
     "id": "Rally Up Res+",
     "name": "魔防大支援+",
     "sp": 400,
+    "prev": ["Rally Up Res"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Rally Up Res"],
     "last": true
   },
   "Ardent Sacrifice": {
@@ -825,9 +825,9 @@
     "id": "Harsh Command+",
     "name": "大喝+",
     "sp": 400,
+    "prev": ["Harsh Command"],
     "range": 1,
     "rules": "not.white-staff",
-    "prev": ["Harsh Command"],
     "last": true
   },
   "Reciprocal Aid": {

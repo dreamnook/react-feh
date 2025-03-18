@@ -4,40 +4,40 @@
     "name": "炎王威嚇",
     "sp": 300,
     "exclusive": ["Surtr - Ruler of Flame"],
-    "last": true,
-    "icon": "skillC/Surtr's_Menace"
+    "icon": "skillC/Surtr's_Menace",
+    "last": true
   },
   "Surtr's Portent": {
     "id": "Surtr's Portent",
     "name": "炎王恐嚇",
     "sp": 300,
     "exclusive": ["Surtr - Pirate of Red Sky"],
-    "last": true,
-    "icon": "skillC/Surtr's_Portent"
+    "icon": "skillC/Surtr's_Portent",
+    "last": true
   },
   "With Everyone! II": {
     "id": "With Everyone! II",
     "name": "和大家一起・承",
     "sp": 300,
     "exclusive": ["Tiki - Legendary Dragon"],
-    "last": true,
-    "icon": "skillC/With_Everyone!_II"
+    "icon": "skillC/With_Everyone!_II",
+    "last": true
   },
   "With Everyone!": {
     "id": "With Everyone!",
     "name": "和大家一起",
     "sp": 300,
     "exclusive": ["Tiki - Legendary Dragon", "Tiki - Harmonic Hope"],
-    "last": true,
-    "icon": "skillC/With_Everyone!"
+    "icon": "skillC/With_Everyone!",
+    "last": true
   },
   "Solitary Dream": {
     "id": "Solitary Dream",
     "name": "孤單的夢",
     "sp": 300,
     "exclusive": ["Tiki - Torpid Dragon"],
-    "last": true,
-    "icon": "skillC/Solitary_Dream"
+    "icon": "skillC/Solitary_Dream",
+    "last": true
   },
   "Sparkling Boost+": {
     "id": "Sparkling Boost+",
@@ -45,32 +45,32 @@
     "sp": 300,
     "prev": ["Sparkling Boost"],
     "exclusive": ["Eir - Merciful Death"],
-    "last": true,
-    "icon": "skillC/Sparkling_Boost+"
+    "icon": "skillC/Sparkling_Boost+",
+    "last": true
   },
   "Sparkling Boost": {
     "id": "Sparkling Boost",
     "name": "生命光輝",
     "sp": 300,
     "exclusive": ["Eir - Merciful Death", "Eir - Life Ascendant"],
-    "last": true,
-    "icon": "skillC/Sparkling_Boost"
+    "icon": "skillC/Sparkling_Boost",
+    "last": true
   },
   "Ostia's Pulse II": {
     "id": "Ostia's Pulse II",
     "name": "盟主之躍動・承",
     "sp": 300,
     "exclusive": ["Hector - Marquess of Ostia"],
-    "last": true,
-    "icon": "skillC/Ostia's_Pulse_II"
+    "icon": "skillC/Ostia's_Pulse_II",
+    "last": true
   },
   "Ostia's Pulse": {
     "id": "Ostia's Pulse",
     "name": "奧斯提亞之躍動",
     "sp": 300,
     "exclusive": ["Hector - Marquess of Ostia"],
-    "last": true,
-    "icon": "skillC/Ostia's_Pulse"
+    "icon": "skillC/Ostia's_Pulse",
+    "last": true
   },
   "Glare": {
     "id": "Glare",
@@ -81,8 +81,8 @@
       "Nailah - Blessed Queen",
       "Nailah - Hatari Scorcher"
     ],
-    "last": true,
-    "icon": "skillC/Glare"
+    "icon": "skillC/Glare",
+    "last": true
   },
   "Upheaval+": {
     "id": "Upheaval+",
@@ -90,16 +90,16 @@
     "sp": 300,
     "prev": ["Upheaval"],
     "exclusive": ["Duma - God of Strength"],
-    "last": true,
-    "icon": "skillC/Upheaval+"
+    "icon": "skillC/Upheaval+",
+    "last": true
   },
   "Upheaval": {
     "id": "Upheaval",
     "name": "超級地震",
     "sp": 300,
     "exclusive": ["Duma - God of Strength"],
-    "last": true,
-    "icon": "skillC/Upheaval"
+    "icon": "skillC/Upheaval",
+    "last": true
   },
   "Human Virtue II": {
     "id": "Human Virtue II",
@@ -107,16 +107,16 @@
     "sp": 300,
     "prev": ["Human Virtue"],
     "exclusive": ["Roy - Blazing Lion"],
-    "last": true,
-    "icon": "skillC/Human_Virtue_II"
+    "icon": "skillC/Human_Virtue_II",
+    "last": true
   },
   "Human Virtue": {
     "id": "Human Virtue",
     "name": "發揮人類的潛能！",
     "sp": 300,
     "exclusive": ["Roy - Blazing Lion"],
-    "last": true,
-    "icon": "skillC/Human_Virtue"
+    "icon": "skillC/Human_Virtue",
+    "last": true
   },
   "Chaos Named+": {
     "id": "Chaos Named+",
@@ -124,16 +124,16 @@
     "sp": 300,
     "prev": ["Chaos Named"],
     "exclusive": ["Yune - Chaos Goddess"],
-    "last": true,
-    "icon": "skillC/Chaos_Named+"
+    "icon": "skillC/Chaos_Named+",
+    "last": true
   },
   "Chaos Named": {
     "id": "Chaos Named",
     "name": "吾之名為混沌",
     "sp": 300,
     "exclusive": ["Yune - Chaos Goddess"],
-    "last": true,
-    "icon": "skillC/Chaos_Named"
+    "icon": "skillC/Chaos_Named",
+    "last": true
   },
   "Divine Fang+": {
     "id": "Divine Fang+",
@@ -141,16 +141,16 @@
     "sp": 300,
     "prev": ["Divine Fang"],
     "exclusive": ["Naga - Dragon Divinity"],
-    "last": true,
-    "icon": "skillC/Divine_Fang+"
+    "icon": "skillC/Divine_Fang+",
+    "last": true
   },
   "Divine Fang": {
     "id": "Divine Fang",
     "name": "神龍王之牙",
     "sp": 300,
     "exclusive": ["Naga - Dragon Divinity"],
-    "last": true,
-    "icon": "skillC/Divine_Fang"
+    "icon": "skillC/Divine_Fang",
+    "last": true
   },
   "Vision of Arcadia II": {
     "id": "Vision of Arcadia II",
@@ -158,16 +158,16 @@
     "sp": 300,
     "prev": ["Vision of Arcadia"],
     "exclusive": ["Eliwood - Blazing Knight"],
-    "last": true,
-    "icon": "skillC/Vision_of_Arcadia_II"
+    "icon": "skillC/Vision_of_Arcadia_II",
+    "last": true
   },
   "Vision of Arcadia": {
     "id": "Vision of Arcadia",
     "name": "為了創造理想鄉",
     "sp": 300,
     "exclusive": ["Eliwood - Blazing Knight"],
-    "last": true,
-    "icon": "skillC/Vision_of_Arcadia"
+    "icon": "skillC/Vision_of_Arcadia",
+    "last": true
   },
   "Impenetrable Void": {
     "id": "Impenetrable Void",
@@ -175,16 +175,16 @@
     "sp": 300,
     "prev": ["Impenetrable Dark"],
     "exclusive": ["Bramimond - The Enigma"],
-    "last": true,
-    "icon": "skillC/Impenetrable_Void"
+    "icon": "skillC/Impenetrable_Void",
+    "last": true
   },
   "Impenetrable Dark": {
     "id": "Impenetrable Dark",
     "name": "無法看透的深邃黑暗",
     "sp": 300,
     "exclusive": ["Bramimond - The Enigma"],
-    "last": true,
-    "icon": "skillC/Impenetrable_Dark"
+    "icon": "skillC/Impenetrable_Dark",
+    "last": true
   },
   "Mila's Turnwheel II": {
     "id": "Mila's Turnwheel II",
@@ -192,16 +192,16 @@
     "sp": 300,
     "prev": ["Mila's Turnwheel"],
     "exclusive": ["Mila - Goddess of Love"],
-    "last": true,
-    "icon": "skillC/Mila's_Turnwheel_II"
+    "icon": "skillC/Mila's_Turnwheel_II",
+    "last": true
   },
   "Mila's Turnwheel": {
     "id": "Mila's Turnwheel",
     "name": "美拉的齒輪",
     "sp": 300,
     "exclusive": ["Mila - Goddess of Love"],
-    "last": true,
-    "icon": "skillC/Mila's_Turnwheel"
+    "icon": "skillC/Mila's_Turnwheel",
+    "last": true
   },
   "Inevitable Death+": {
     "id": "Inevitable Death+",
@@ -209,16 +209,16 @@
     "sp": 300,
     "prev": ["Inevitable Death"],
     "exclusive": ["Hel - Death Sovereign"],
-    "last": true,
-    "icon": "skillC/Inevitable_Death+"
+    "icon": "skillC/Inevitable_Death+",
+    "last": true
   },
   "Inevitable Death": {
     "id": "Inevitable Death",
     "name": "無法逃離的死亡",
     "sp": 300,
     "exclusive": ["Hel - Death Sovereign"],
-    "last": true,
-    "icon": "skillC/Inevitable_Death"
+    "icon": "skillC/Inevitable_Death",
+    "last": true
   },
   "Wings of Light+": {
     "id": "Wings of Light+",
@@ -226,16 +226,16 @@
     "sp": 300,
     "prev": ["Wings of Light"],
     "exclusive": ["Seiros - Saint of Legend"],
-    "last": true,
-    "icon": "skillC/Wings_of_Light+"
+    "icon": "skillC/Wings_of_Light+",
+    "last": true
   },
   "Wings of Light": {
     "id": "Wings of Light",
     "name": "燦爛光翼",
     "sp": 300,
     "exclusive": ["Seiros - Saint of Legend"],
-    "last": true,
-    "icon": "skillC/Wings_of_Light"
+    "icon": "skillC/Wings_of_Light",
+    "last": true
   },
   "Order's Restraint+": {
     "id": "Order's Restraint+",
@@ -243,32 +243,32 @@
     "sp": 300,
     "prev": ["Order's Restraint"],
     "exclusive": ["Ashera - Order Goddess"],
-    "last": true,
-    "icon": "skillC/Order's_Restraint+"
+    "icon": "skillC/Order's_Restraint+",
+    "last": true
   },
   "Order's Restraint": {
     "id": "Order's Restraint",
     "name": "束縛、秩序、安定",
     "sp": 300,
     "exclusive": ["Ashera - Order Goddess"],
-    "last": true,
-    "icon": "skillC/Order's_Restraint"
+    "icon": "skillC/Order's_Restraint",
+    "last": true
   },
   "Domain of Ice": {
     "id": "Domain of Ice",
     "name": "絕冰結界",
     "sp": 300,
     "exclusive": ["Nifl - God of Ice", "Nifl - Tropical Ice God"],
-    "last": true,
-    "icon": "skillC/Domain_of_Ice"
+    "icon": "skillC/Domain_of_Ice",
+    "last": true
   },
   "Domain of Flame": {
     "id": "Domain of Flame",
     "name": "絕炎結界",
     "sp": 300,
     "exclusive": ["Múspell - Flame God", "Múspell - Raging Inferno"],
-    "last": true,
-    "icon": "skillC/Domain_of_Flame"
+    "icon": "skillC/Domain_of_Flame",
+    "last": true
   },
   "Worldbreaker+": {
     "id": "Worldbreaker+",
@@ -276,16 +276,16 @@
     "sp": 300,
     "prev": ["Worldbreaker"],
     "exclusive": ["Thórr - War God"],
-    "last": true,
-    "icon": "skillC/Worldbreaker+"
+    "icon": "skillC/Worldbreaker+",
+    "last": true
   },
   "Worldbreaker": {
     "id": "Worldbreaker",
     "name": "神錘貫穿大地",
     "sp": 300,
     "exclusive": ["Thórr - War God", "Thórr - Sun-Kissed Gods"],
-    "last": true,
-    "icon": "skillC/Worldbreaker"
+    "icon": "skillC/Worldbreaker",
+    "last": true
   },
   "Open Retainer+": {
     "id": "Open Retainer+",
@@ -293,16 +293,16 @@
     "sp": 300,
     "prev": ["Opening Retainer"],
     "exclusive": ["Ash - Retainer to Askr"],
-    "last": true,
-    "icon": "skillC/Open_Retainer+"
+    "icon": "skillC/Open_Retainer+",
+    "last": true
   },
   "Opening Retainer": {
     "id": "Opening Retainer",
     "name": "開神的眷屬",
     "sp": 300,
     "exclusive": ["Ash - Retainer to Askr", "Ash - Earnest Greetings"],
-    "last": true,
-    "icon": "skillC/Opening_Retainer"
+    "icon": "skillC/Opening_Retainer",
+    "last": true
   },
   "Goddess Bearer II": {
     "id": "Goddess Bearer II",
@@ -310,16 +310,16 @@
     "sp": 300,
     "prev": ["Goddess Bearer"],
     "exclusive": ["Byleth - The Fódlan Light"],
-    "last": true,
-    "icon": "skillC/Goddess_Bearer_II"
+    "icon": "skillC/Goddess_Bearer_II",
+    "last": true
   },
   "Goddess Bearer": {
     "id": "Goddess Bearer",
     "name": "寄宿女神之人",
     "sp": 300,
     "exclusive": ["Byleth - The Fódlan Light"],
-    "last": true,
-    "icon": "skillC/Goddess_Bearer"
+    "icon": "skillC/Goddess_Bearer",
+    "last": true
   },
   "Holy Ground+": {
     "id": "Holy Ground+",
@@ -327,304 +327,304 @@
     "sp": 300,
     "prev": ["Holy Ground"],
     "exclusive": ["Elimine - Scouring Saint"],
-    "last": true,
-    "icon": "skillC/Holy_Ground+"
+    "icon": "skillC/Holy_Ground+",
+    "last": true
   },
   "Holy Ground": {
     "id": "Holy Ground",
     "name": "地上最後的女神",
     "sp": 300,
     "exclusive": ["Elimine - Scouring Saint"],
-    "last": true,
-    "icon": "skillC/Holy_Ground"
+    "icon": "skillC/Holy_Ground",
+    "last": true
   },
   "Faith in Humanity": {
     "id": "Faith in Humanity",
     "name": "相信人類的可能性",
     "sp": 300,
     "exclusive": ["Roy - Blazing Bachelors"],
-    "last": true,
-    "icon": "skillC/Faith_in_Humanity"
+    "icon": "skillC/Faith_in_Humanity",
+    "last": true
   },
   "Darkling Guardian": {
     "id": "Darkling Guardian",
     "name": "闇之樹海的守護龍",
     "sp": 300,
     "exclusive": ["Myrrh - Guardian Dragon"],
-    "last": true,
-    "icon": "skillC/Darkling_Guardian"
+    "icon": "skillC/Darkling_Guardian",
+    "last": true
   },
   "Everliving Domain": {
     "id": "Everliving Domain",
     "name": "永生結界",
     "sp": 300,
     "exclusive": ["Ymir - Life-Mother", "Ymir - Seasons of Life"],
-    "last": true,
-    "icon": "skillC/Everliving_Domain"
+    "icon": "skillC/Everliving_Domain",
+    "last": true
   },
   "Opened Domain": {
     "id": "Opened Domain",
     "name": "彼此相連的世界",
     "sp": 300,
     "exclusive": ["Askr - God of Openness", "Askr - Renewed Gods"],
-    "last": true,
-    "icon": "skillC/Opened_Domain"
+    "icon": "skillC/Opened_Domain",
+    "last": true
   },
   "Heir to Light": {
     "id": "Heir to Light",
     "name": "繼承光之人",
     "sp": 300,
     "exclusive": ["Seliph - Enduring Legacy"],
-    "last": true,
-    "icon": "skillC/Heir_to_Light"
+    "icon": "skillC/Heir_to_Light",
+    "last": true
   },
   "Woeful Upheaval": {
     "id": "Woeful Upheaval",
     "name": "試煉超級地震",
     "sp": 300,
     "exclusive": ["Duma - Strength and Love"],
-    "last": true,
-    "icon": "skillC/Woeful_Upheaval"
+    "icon": "skillC/Woeful_Upheaval",
+    "last": true
   },
   "All Together!": {
     "id": "All Together!",
     "name": "和大家永遠在一起",
     "sp": 300,
     "exclusive": ["Tiki - Awakened Blood"],
-    "last": true,
-    "icon": "skillC/All_Together!"
+    "icon": "skillC/All_Together!",
+    "last": true
   },
   "Severance": {
     "id": "Severance",
     "name": "一切都被封閉的世界",
     "sp": 300,
     "exclusive": ["Embla - God of Closure"],
-    "last": true,
-    "icon": "skillC/Severance"
+    "icon": "skillC/Severance",
+    "last": true
   },
   "Future-Focused": {
     "id": "Future-Focused",
     "name": "一同放眼未來",
     "sp": 300,
     "exclusive": ["Seiðr - Goddess of Hope"],
-    "last": true,
-    "icon": "skillC/Future-Focused"
+    "icon": "skillC/Future-Focused",
+    "last": true
   },
   "Fetters of Dromi": {
     "id": "Fetters of Dromi",
     "name": "多羅米的鎖環",
     "sp": 300,
     "exclusive": ["Yuri - Underground Lord"],
-    "last": true,
-    "icon": "skillC/Fetters_of_Dromi"
+    "icon": "skillC/Fetters_of_Dromi",
+    "last": true
   },
   "Inborn Idealism": {
     "id": "Inborn Idealism",
     "name": "通往理想的天空",
     "sp": 300,
     "exclusive": ["Eliwood - Pledged Friend"],
-    "last": true,
-    "icon": "skillC/Inborn_Idealism"
+    "icon": "skillC/Inborn_Idealism",
+    "last": true
   },
   "Rallying Cry": {
     "id": "Rallying Cry",
     "name": "叱吒激勵",
     "sp": 300,
     "exclusive": ["Hinoka - Thundering Wings"],
-    "last": true,
-    "icon": "skillC/Rallying_Cry"
+    "icon": "skillC/Rallying_Cry",
+    "last": true
   },
   "Bern's New Way": {
     "id": "Bern's New Way",
     "name": "嶄新的伯尼爾之路",
     "sp": 300,
     "exclusive": ["Guinivere - Queen of Bern"],
-    "last": true,
-    "icon": "skillC/Bern's_New_Way"
+    "icon": "skillC/Bern's_New_Way",
+    "last": true
   },
   "Dream Deliverer": {
     "id": "Dream Deliverer",
     "name": "賜予人類安寧之夢",
     "sp": 300,
     "exclusive": ["Freyr - Dream-King"],
-    "last": true,
-    "icon": "skillC/Dream_Deliverer"
+    "icon": "skillC/Dream_Deliverer",
+    "last": true
   },
   "Tip the Scales!": {
     "id": "Tip the Scales!",
     "name": "我要扭轉戰局！",
     "sp": 300,
     "exclusive": ["Robin - Exalt's Deliverer", "Robin - Fated Vessel"],
-    "last": true,
-    "icon": "skillC/Tip_the_Scales!"
+    "icon": "skillC/Tip_the_Scales!",
+    "last": true
   },
   "Heart of Crimea": {
     "id": "Heart of Crimea",
     "name": "克里米亞之心",
     "sp": 300,
     "exclusive": ["Elincia - Undaunted Queen"],
-    "last": true,
-    "icon": "skillC/Heart_of_Crimea"
+    "icon": "skillC/Heart_of_Crimea",
+    "last": true
   },
   "Fell Protection": {
     "id": "Fell Protection",
     "name": "邪龍的救濟",
     "sp": 300,
     "exclusive": ["Veyle - Gentle Dragon"],
-    "last": true,
-    "icon": "skillC/Fell_Protection"
+    "icon": "skillC/Fell_Protection",
+    "last": true
   },
   "Fanged Ties": {
     "id": "Fanged Ties",
     "name": "牙的羈絆",
     "sp": 300,
     "exclusive": ["Nino - Fang's Heart"],
-    "last": true,
-    "icon": "skillC/Fanged_Ties"
+    "icon": "skillC/Fanged_Ties",
+    "last": true
   },
   "Mending Heart": {
     "id": "Mending Heart",
     "name": "治癒者之心",
     "sp": 300,
     "exclusive": ["Ratatoskr - Mending Hand"],
-    "last": true,
-    "icon": "skillC/Mending_Heart"
+    "icon": "skillC/Mending_Heart",
+    "last": true
   },
   "Future-Sighted": {
     "id": "Future-Sighted",
     "name": "一同改變未來",
     "sp": 300,
     "exclusive": ["Seiðr - Time's Goddesses"],
-    "last": true,
-    "icon": "skillC/Future-Sighted"
+    "icon": "skillC/Future-Sighted",
+    "last": true
   },
   "Dragon Monarch": {
     "id": "Dragon Monarch",
     "name": "里特司的神龍王",
     "sp": 300,
     "exclusive": ["Lumera - In Distant Skies"],
-    "last": true,
-    "icon": "skillC/Dragon_Monarch"
+    "icon": "skillC/Dragon_Monarch",
+    "last": true
   },
   "Darkling Dragon": {
     "id": "Darkling Dragon",
     "name": "闇之樹海的龍神",
     "sp": 300,
     "exclusive": ["Myrrh - Adored Dragon"],
-    "last": true,
-    "icon": "skillC/Darkling_Dragon"
+    "icon": "skillC/Darkling_Dragon",
+    "last": true
   },
   "Glittering Anima": {
     "id": "Glittering Anima",
     "name": "輝煌原力",
     "sp": 300,
     "exclusive": ["Hortensia - Little Charmer"],
-    "last": true,
-    "icon": "skillC/Glittering_Anima"
+    "icon": "skillC/Glittering_Anima",
+    "last": true
   },
   "Divine Deceit": {
     "id": "Divine Deceit",
     "name": "神杖虛假天空",
     "sp": 300,
     "exclusive": ["Loki - Trickster God"],
-    "last": true,
-    "icon": "skillC/Divine_Deceit"
+    "icon": "skillC/Divine_Deceit",
+    "last": true
   },
   "Corrupted Dragon": {
     "id": "Corrupted Dragon",
     "name": "異形的龍王",
     "sp": 300,
     "exclusive": ["Lumera - Corrupted Dragon"],
-    "last": true,
-    "icon": "skillC/Corrupted_Dragon"
+    "icon": "skillC/Corrupted_Dragon",
+    "last": true
   },
   "Fell Successor": {
     "id": "Fell Successor",
     "name": "邪龍繼承人",
     "sp": 300,
     "exclusive": ["Veyle - Fell Successor"],
-    "last": true,
-    "icon": "skillC/Fell_Successor"
+    "icon": "skillC/Fell_Successor",
+    "last": true
   },
   "Absolute Closure": {
     "id": "Absolute Closure",
     "name": "一切都被封鎖的世界",
     "sp": 300,
     "exclusive": ["Embla - Closed-Off Bride"],
-    "last": true,
-    "icon": "skillC/Absolute_Closure"
+    "icon": "skillC/Absolute_Closure",
+    "last": true
   },
   "Forever Yours": {
     "id": "Forever Yours",
     "name": "你的夏蓉",
     "sp": 300,
     "exclusive": ["Sharena - Pillars of Peace"],
-    "last": true,
-    "icon": "skillC/Forever_Yours"
+    "icon": "skillC/Forever_Yours",
+    "last": true
   },
   "Divine Nectar": {
     "id": "Divine Nectar",
     "name": "神獸的蜜露",
     "sp": 300,
     "exclusive": ["Heiðrún - Healing Nectar"],
-    "last": true,
-    "icon": "skillC/Divine_Nectar"
+    "icon": "skillC/Divine_Nectar",
+    "last": true
   },
   "Paranoia": {
     "id": "Paranoia",
     "name": "被害妄想",
     "sp": 300,
     "exclusive": ["Bernadetta - Sheltered Loner"],
-    "last": true,
-    "icon": "skillC/Paranoia"
+    "icon": "skillC/Paranoia",
+    "last": true
   },
   "Connected World": {
     "id": "Connected World",
     "name": "人與神相連的世界",
     "sp": 300,
     "exclusive": ["Askr - Open Harvest"],
-    "last": true,
-    "icon": "skillC/Connected_World"
+    "icon": "skillC/Connected_World",
+    "last": true
   },
   "Divine Talon": {
     "id": "Divine Talon",
     "name": "神獸的銳爪",
     "sp": 300,
     "exclusive": ["Hræsvelgr - Quieting Blade", "Hræsvelgr - Wings of Healing"],
-    "last": true,
-    "icon": "skillC/Divine_Talon"
+    "icon": "skillC/Divine_Talon",
+    "last": true
   },
   "Twinkling Anima": {
     "id": "Twinkling Anima",
     "name": "燦爛原力",
     "sp": 300,
     "exclusive": ["Hortensia - Winter's Dearest"],
-    "last": true,
-    "icon": "skillC/Twinkling_Anima"
+    "icon": "skillC/Twinkling_Anima",
+    "last": true
   },
   "Nectar's Magic": {
     "id": "Nectar's Magic",
     "name": "神獸的蜜露・魔道",
     "sp": 300,
     "exclusive": ["Heiðrún - Sisters of Healing"],
-    "last": true,
-    "icon": "skillC/Nectar's_Magic"
+    "icon": "skillC/Nectar's_Magic",
+    "last": true
   },
   "Quiet Strength": {
     "id": "Quiet Strength",
     "name": "小小聲援",
     "sp": 300,
     "exclusive": ["Sakura - In Full Bloom"],
-    "last": true,
-    "icon": "skillC/Quiet_Strength"
+    "icon": "skillC/Quiet_Strength",
+    "last": true
   },
   "Fell Majesty": {
     "id": "Fell Majesty",
     "name": "邪龍的公主",
     "sp": 300,
     "exclusive": ["Veyle - Spring Tranquility"],
-    "last": true,
-    "icon": "skillC/Fell_Majesty"
+    "icon": "skillC/Fell_Majesty",
+    "last": true
   },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
@@ -681,8 +681,8 @@
     "name": "死之瘴氣",
     "sp": 300,
     "rules": "flying",
-    "last": true,
-    "icon": "skillC/Deadly_Miasma"
+    "icon": "skillC/Deadly_Miasma",
+    "last": true
   },
   "Spur Atk 1": {
     "id": "Spur Atk 1",
@@ -923,56 +923,56 @@
     "name": "攻擊相互大紋章",
     "sp": 300,
     "prev": ["Drive Atk 2"],
-    "last": true,
-    "icon": "skillC/Joint_Drive_Atk"
+    "icon": "skillC/Joint_Drive_Atk",
+    "last": true
   },
   "Joint Drive Spd": {
     "id": "Joint Drive Spd",
     "name": "速度相互大紋章",
     "sp": 300,
     "prev": ["Drive Spd 2"],
-    "last": true,
-    "icon": "skillC/Joint_Drive_Spd"
+    "icon": "skillC/Joint_Drive_Spd",
+    "last": true
   },
   "Joint Drive Def": {
     "id": "Joint Drive Def",
     "name": "防守相互大紋章",
     "sp": 300,
     "prev": ["Drive Def 2"],
-    "last": true,
-    "icon": "skillC/Joint_Drive_Def"
+    "icon": "skillC/Joint_Drive_Def",
+    "last": true
   },
   "Joint Drive Res": {
     "id": "Joint Drive Res",
     "name": "魔防相互大紋章",
     "sp": 300,
     "prev": ["Drive Res 2"],
-    "last": true,
-    "icon": "skillC/Joint_Drive_Res"
+    "icon": "skillC/Joint_Drive_Res",
+    "last": true
   },
   "Cross Spur Atk": {
     "id": "Cross Spur Atk",
     "name": "十字攻擊紋章",
     "sp": 300,
     "prev": ["Spur Atk 3"],
-    "last": true,
-    "icon": "skillC/Cross_Spur_Atk"
+    "icon": "skillC/Cross_Spur_Atk",
+    "last": true
   },
   "Cross Spur Spd": {
     "id": "Cross Spur Spd",
     "name": "十字速度紋章",
     "sp": 300,
     "prev": ["Spur Spd 3"],
-    "last": true,
-    "icon": "skillC/Cross_Spur_Spd"
+    "icon": "skillC/Cross_Spur_Spd",
+    "last": true
   },
   "Cross Spur Res": {
     "id": "Cross Spur Res",
     "name": "十字魔防紋章",
     "sp": 300,
     "prev": ["Spur Res 3"],
-    "last": true,
-    "icon": "skillC/Cross_Spur_Res"
+    "icon": "skillC/Cross_Spur_Res",
+    "last": true
   },
   "Close Guard 1": {
     "id": "Close Guard 1",
@@ -1021,43 +1021,43 @@
     "name": "近距離相互警戒",
     "sp": 300,
     "prev": ["Close Guard 3"],
-    "last": true,
-    "icon": "skillC/Joint_Close_Guard"
+    "icon": "skillC/Joint_Close_Guard",
+    "last": true
   },
   "Joint Dist. Guard": {
     "id": "Joint Dist. Guard",
     "name": "遠距離相互警戒",
     "sp": 300,
     "prev": ["Distant Guard 3"],
-    "last": true,
-    "icon": "skillC/Joint_Dist._Guard"
+    "icon": "skillC/Joint_Dist._Guard",
+    "last": true
   },
   "Barricade": {
     "id": "Barricade",
     "name": "地盤・守護",
     "sp": 300,
-    "prev": ["Close Guard 3", "Distant Guard 3"],
     "rules": "learner.dragon-beast",
-    "last": true,
-    "icon": "skillC/Barricade"
+    "prev": ["Close Guard 3", "Distant Guard 3"],
+    "icon": "skillC/Barricade",
+    "last": true
   },
   "Higher Ground": {
     "id": "Higher Ground",
     "name": "地盤・守護人・遠",
     "sp": 300,
-    "prev": ["Close Guard 3", "Distant Guard 3"],
     "rules": "learner.armored-dragon-beast",
-    "last": true,
-    "icon": "skillC/Higher_Ground"
+    "prev": ["Close Guard 3", "Distant Guard 3"],
+    "icon": "skillC/Higher_Ground",
+    "last": true
   },
   "Lower Ground": {
     "id": "Lower Ground",
     "name": "地盤・守護人・近",
     "sp": 300,
-    "prev": ["Close Guard 3", "Distant Guard 3"],
     "rules": "learner.armored-dragon-beast",
-    "last": true,
-    "icon": "skillC/Lower_Ground"
+    "prev": ["Close Guard 3", "Distant Guard 3"],
+    "icon": "skillC/Lower_Ground",
+    "last": true
   },
   "Goad Armor": {
     "id": "Goad Armor",
@@ -1065,8 +1065,8 @@
     "sp": 200,
     "rules": "armored",
     "prev": ["Spur Atk 2", "Spur Spd 2"],
-    "last": true,
-    "icon": "skillC/Goad_Armor"
+    "icon": "skillC/Goad_Armor",
+    "last": true
   },
   "Ward Armor": {
     "id": "Ward Armor",
@@ -1074,8 +1074,8 @@
     "sp": 200,
     "rules": "armored",
     "prev": ["Spur Def 2", "Spur Res 2"],
-    "last": true,
-    "icon": "skillC/Ward_Armor"
+    "icon": "skillC/Ward_Armor",
+    "last": true
   },
   "Goad Cavalry": {
     "id": "Goad Cavalry",
@@ -1083,8 +1083,8 @@
     "sp": 200,
     "rules": "cavalry",
     "prev": ["Spur Atk 2", "Spur Spd 2"],
-    "last": true,
-    "icon": "skillC/Goad_Cavalry"
+    "icon": "skillC/Goad_Cavalry",
+    "last": true
   },
   "Ward Cavalry": {
     "id": "Ward Cavalry",
@@ -1092,8 +1092,8 @@
     "sp": 200,
     "rules": "cavalry",
     "prev": ["Spur Def 2", "Spur Res 2"],
-    "last": true,
-    "icon": "skillC/Ward_Cavalry"
+    "icon": "skillC/Ward_Cavalry",
+    "last": true
   },
   "Goad Fliers": {
     "id": "Goad Fliers",
@@ -1101,8 +1101,8 @@
     "sp": 200,
     "rules": "flying",
     "prev": ["Spur Atk 2", "Spur Spd 2"],
-    "last": true,
-    "icon": "skillC/Goad_Fliers"
+    "icon": "skillC/Goad_Fliers",
+    "last": true
   },
   "Ward Fliers": {
     "id": "Ward Fliers",
@@ -1110,8 +1110,8 @@
     "sp": 200,
     "rules": "flying",
     "prev": ["Spur Def 2", "Spur Res 2"],
-    "last": true,
-    "icon": "skillC/Ward_Fliers"
+    "icon": "skillC/Ward_Fliers",
+    "last": true
   },
   "Goad Dragons": {
     "id": "Goad Dragons",
@@ -1119,8 +1119,8 @@
     "sp": 200,
     "rules": "dragon",
     "prev": ["Spur Atk 2", "Spur Spd 2"],
-    "last": true,
-    "icon": "skillC/Goad_Dragons"
+    "icon": "skillC/Goad_Dragons",
+    "last": true
   },
   "Ward Dragons": {
     "id": "Ward Dragons",
@@ -1128,8 +1128,8 @@
     "sp": 200,
     "rules": "dragon",
     "prev": ["Spur Def 2", "Spur Res 2"],
-    "last": true,
-    "icon": "skillC/Ward_Dragons"
+    "icon": "skillC/Ward_Dragons",
+    "last": true
   },
   "Goad Beasts": {
     "id": "Goad Beasts",
@@ -1137,8 +1137,8 @@
     "sp": 200,
     "rules": "beast",
     "prev": ["Spur Atk 2", "Spur Spd 2"],
-    "last": true,
-    "icon": "skillC/Goad_Beasts"
+    "icon": "skillC/Goad_Beasts",
+    "last": true
   },
   "Ward Beasts": {
     "id": "Ward Beasts",
@@ -1146,8 +1146,8 @@
     "sp": 200,
     "rules": "beast",
     "prev": ["Spur Def 2", "Spur Res 2"],
-    "last": true,
-    "icon": "skillC/Ward_Beasts"
+    "icon": "skillC/Ward_Beasts",
+    "last": true
   },
   "Atk/Spd Rein 1": {
     "id": "Atk/Spd Rein 1",
@@ -1299,8 +1299,8 @@
     "sp": 300,
     "rules": "flying",
     "prev": ["Atk/Spd Rein 3"],
-    "last": true,
-    "icon": "skillC/Atk_Spd_Hold"
+    "icon": "skillC/Atk_Spd_Hold",
+    "last": true
   },
   "Atk/Def Hold": {
     "id": "Atk/Def Hold",
@@ -1308,8 +1308,8 @@
     "sp": 300,
     "rules": "flying",
     "prev": ["Atk/Def Rein 3"],
-    "last": true,
-    "icon": "skillC/Atk_Def_Hold"
+    "icon": "skillC/Atk_Def_Hold",
+    "last": true
   },
   "Atk/Res Hold": {
     "id": "Atk/Res Hold",
@@ -1317,8 +1317,8 @@
     "sp": 300,
     "rules": "flying",
     "prev": ["Atk/Res Rein 3"],
-    "last": true,
-    "icon": "skillC/Atk_Res_Hold"
+    "icon": "skillC/Atk_Res_Hold",
+    "last": true
   },
   "Spd/Def Hold": {
     "id": "Spd/Def Hold",
@@ -1326,8 +1326,8 @@
     "sp": 300,
     "rules": "flying",
     "prev": ["Spd/Def Rein 3"],
-    "last": true,
-    "icon": "skillC/Spd_Def_Hold"
+    "icon": "skillC/Spd_Def_Hold",
+    "last": true
   },
   "Spd/Res Hold": {
     "id": "Spd/Res Hold",
@@ -1335,8 +1335,8 @@
     "sp": 300,
     "rules": "flying",
     "prev": ["Spd/Res Rein 3"],
-    "last": true,
-    "icon": "skillC/Spd_Res_Hold"
+    "icon": "skillC/Spd_Res_Hold",
+    "last": true
   },
   "Def/Res Hold": {
     "id": "Def/Res Hold",
@@ -1344,8 +1344,8 @@
     "sp": 300,
     "rules": "flying",
     "prev": ["Def/Res Rein 3"],
-    "last": true,
-    "icon": "skillC/Def_Res_Hold"
+    "icon": "skillC/Def_Res_Hold",
+    "last": true
   },
   "Atk/Res Crux": {
     "id": "Atk/Res Crux",
@@ -1353,8 +1353,8 @@
     "sp": 300,
     "rules": "flying",
     "prev": ["Atk/Res Rein 3"],
-    "last": true,
-    "icon": "skillC/Atk_Res_Crux"
+    "icon": "skillC/Atk_Res_Crux",
+    "last": true
   },
   "Spd/Def Crux": {
     "id": "Spd/Def Crux",
@@ -1362,8 +1362,8 @@
     "sp": 300,
     "rules": "flying",
     "prev": ["Spd/Def Rein 3"],
-    "last": true,
-    "icon": "skillC/Spd_Def_Crux"
+    "icon": "skillC/Spd_Def_Crux",
+    "last": true
   },
   "Spd/Res Crux": {
     "id": "Spd/Res Crux",
@@ -1371,8 +1371,8 @@
     "sp": 300,
     "rules": "flying",
     "prev": ["Spd/Res Rein 3"],
-    "last": true,
-    "icon": "skillC/Spd_Res_Crux"
+    "icon": "skillC/Spd_Res_Crux",
+    "last": true
   },
   "A/S Rein Snap": {
     "id": "A/S Rein Snap",
@@ -1380,8 +1380,8 @@
     "sp": 300,
     "rules": "learner.flying-melee",
     "prev": ["Atk/Spd Rein 3"],
-    "last": true,
-    "icon": "skillC/A_S_Rein_Snap"
+    "icon": "skillC/A_S_Rein_Snap",
+    "last": true
   },
   "S/D Rein Snap": {
     "id": "S/D Rein Snap",
@@ -1389,8 +1389,8 @@
     "sp": 300,
     "rules": "learner.flying-melee",
     "prev": ["Spd/Def Rein 3"],
-    "last": true,
-    "icon": "skillC/S_D_Rein_Snap"
+    "icon": "skillC/S_D_Rein_Snap",
+    "last": true
   },
   "Hone Atk 1": {
     "id": "Hone Atk 1",
@@ -1513,41 +1513,41 @@
     "name": "攻擊相互鼓舞",
     "sp": 300,
     "prev": ["Hone Atk 3"],
-    "last": true,
-    "icon": "skillC/Joint_Hone_Atk"
+    "icon": "skillC/Joint_Hone_Atk",
+    "last": true
   },
   "Joint Hone Spd": {
     "id": "Joint Hone Spd",
     "name": "速度相互鼓舞",
     "sp": 300,
     "prev": ["Hone Spd 3"],
-    "last": true,
-    "icon": "skillC/Joint_Hone_Spd"
+    "icon": "skillC/Joint_Hone_Spd",
+    "last": true
   },
   "Joint Hone Def": {
     "id": "Joint Hone Def",
     "name": "防守相互鼓舞",
     "sp": 300,
     "prev": ["Fortify Def 3"],
-    "last": true,
-    "icon": "skillC/Joint_Hone_Def"
+    "icon": "skillC/Joint_Hone_Def",
+    "last": true
   },
   "Joint Hone Res": {
     "id": "Joint Hone Res",
     "name": "魔防相互鼓舞",
     "sp": 300,
     "prev": ["Fortify Res 3"],
-    "last": true,
-    "icon": "skillC/Joint_Hone_Res"
+    "icon": "skillC/Joint_Hone_Res",
+    "last": true
   },
   "A/S Incite Hone": {
     "id": "A/S Incite Hone",
     "name": "攻速鼓舞・奮激",
     "sp": 300,
-    "prev": ["Hone Atk 3", "Hone Spd 3"],
     "rules": "cavalry",
-    "last": true,
-    "icon": "skillC/A_S_Incite_Hone"
+    "prev": ["Hone Atk 3", "Hone Spd 3"],
+    "icon": "skillC/A_S_Incite_Hone",
+    "last": true
   },
   "Hone Armor": {
     "id": "Hone Armor",
@@ -1555,8 +1555,8 @@
     "sp": 200,
     "rules": "armored",
     "prev": ["Hone Atk 2", "Hone Spd 2"],
-    "last": true,
-    "icon": "skillC/Hone_Armor"
+    "icon": "skillC/Hone_Armor",
+    "last": true
   },
   "Fortify Armor": {
     "id": "Fortify Armor",
@@ -1564,8 +1564,8 @@
     "sp": 200,
     "rules": "armored",
     "prev": ["Fortify Def 2", "Fortify Res 2"],
-    "last": true,
-    "icon": "skillC/Fortify_Armor"
+    "icon": "skillC/Fortify_Armor",
+    "last": true
   },
   "Hone Cavalry": {
     "id": "Hone Cavalry",
@@ -1573,8 +1573,8 @@
     "sp": 200,
     "rules": "cavalry",
     "prev": ["Hone Atk 2", "Hone Spd 2"],
-    "last": true,
-    "icon": "skillC/Hone_Cavalry"
+    "icon": "skillC/Hone_Cavalry",
+    "last": true
   },
   "Fortify Cavalry": {
     "id": "Fortify Cavalry",
@@ -1582,8 +1582,8 @@
     "sp": 200,
     "rules": "cavalry",
     "prev": ["Fortify Def 2", "Fortify Res 2"],
-    "last": true,
-    "icon": "skillC/Fortify_Cavalry"
+    "icon": "skillC/Fortify_Cavalry",
+    "last": true
   },
   "Hone Fliers": {
     "id": "Hone Fliers",
@@ -1591,8 +1591,8 @@
     "sp": 200,
     "rules": "flying",
     "prev": ["Hone Atk 2", "Hone Spd 2"],
-    "last": true,
-    "icon": "skillC/Hone_Fliers"
+    "icon": "skillC/Hone_Fliers",
+    "last": true
   },
   "Fortify Fliers": {
     "id": "Fortify Fliers",
@@ -1600,8 +1600,8 @@
     "sp": 200,
     "rules": "flying",
     "prev": ["Fortify Def 2", "Fortify Res 2"],
-    "last": true,
-    "icon": "skillC/Fortify_Fliers"
+    "icon": "skillC/Fortify_Fliers",
+    "last": true
   },
   "Hone Dragons": {
     "id": "Hone Dragons",
@@ -1609,8 +1609,8 @@
     "sp": 200,
     "rules": "dragon",
     "prev": ["Hone Atk 2", "Hone Spd 2"],
-    "last": true,
-    "icon": "skillC/Hone_Dragons"
+    "icon": "skillC/Hone_Dragons",
+    "last": true
   },
   "Fortify Dragons": {
     "id": "Fortify Dragons",
@@ -1618,8 +1618,8 @@
     "sp": 200,
     "rules": "dragon",
     "prev": ["Fortify Def 2", "Fortify Res 2"],
-    "last": true,
-    "icon": "skillC/Fortify_Dragons"
+    "icon": "skillC/Fortify_Dragons",
+    "last": true
   },
   "Hone Beasts": {
     "id": "Hone Beasts",
@@ -1627,8 +1627,8 @@
     "sp": 200,
     "rules": "beast",
     "prev": ["Hone Atk 2", "Hone Spd 2"],
-    "last": true,
-    "icon": "skillC/Hone_Beasts"
+    "icon": "skillC/Hone_Beasts",
+    "last": true
   },
   "Fortify Beasts": {
     "id": "Fortify Beasts",
@@ -1636,8 +1636,8 @@
     "sp": 200,
     "rules": "beast",
     "prev": ["Fortify Def 2", "Fortify Res 2"],
-    "last": true,
-    "icon": "skillC/Hone_Beasts"
+    "icon": "skillC/Hone_Beasts",
+    "last": true
   },
   "Atk Tactic 1": {
     "id": "Atk Tactic 1",
@@ -1728,8 +1728,8 @@
     "name": "速度指揮・步行重視",
     "sp": 300,
     "prev": ["Spd Tactic 3"],
-    "last": true,
-    "icon": "skillC/Inf._Spd_Tactic"
+    "icon": "skillC/Inf._Spd_Tactic",
+    "last": true
   },
   "Threaten Atk 1": {
     "id": "Threaten Atk 1",
@@ -1928,57 +1928,57 @@
     "name": "攻擊速度的恐嚇",
     "sp": 300,
     "prev": ["Threat. Atk/Spd 2"],
-    "last": true,
-    "icon": "skillC/Atk_Spd_Menace"
+    "icon": "skillC/Atk_Spd_Menace",
+    "last": true
   },
   "Atk/Def Menace": {
     "id": "Atk/Def Menace",
     "name": "攻擊防守的恐嚇",
     "sp": 300,
     "prev": ["Threat. Atk/Def 2"],
-    "last": true,
-    "icon": "skillC/Atk_Def_Menace"
+    "icon": "skillC/Atk_Def_Menace",
+    "last": true
   },
   "Atk/Res Menace": {
     "id": "Atk/Res Menace",
     "name": "攻擊魔防的恐嚇",
     "sp": 300,
     "prev": ["Threat. Atk/Res 2"],
-    "last": true,
-    "icon": "skillC/Atk_Res_Menace"
+    "icon": "skillC/Atk_Res_Menace",
+    "last": true
   },
   "Spd/Def Menace": {
     "id": "Spd/Def Menace",
     "name": "速度防守的恐嚇",
     "sp": 300,
     "prev": ["Threat. Spd/Def 2"],
-    "last": true,
-    "icon": "skillC/Spd_Def_Menace"
+    "icon": "skillC/Spd_Def_Menace",
+    "last": true
   },
   "Spd/Res Menace": {
     "id": "Spd/Res Menace",
     "name": "速度魔防的恐嚇",
     "sp": 300,
     "prev": ["Threat. Spd/Res 2"],
-    "last": true,
-    "icon": "skillC/Spd_Res_Menace"
+    "icon": "skillC/Spd_Res_Menace",
+    "last": true
   },
   "Def/Res Menace": {
     "id": "Def/Res Menace",
     "name": "防守魔防的恐嚇",
     "sp": 300,
     "prev": ["Threat. Def/Res 2"],
-    "last": true,
-    "icon": "skillC/Def_Res_Menace"
+    "icon": "skillC/Def_Res_Menace",
+    "last": true
   },
   "Beast Threaten": {
     "id": "Beast Threaten",
     "name": "獸之威嚇",
     "sp": 300,
-    "prev": ["Threaten Def 3"],
     "rules": "beast",
-    "last": true,
-    "icon": "skillC/Beast_Threaten"
+    "prev": ["Threaten Def 3"],
+    "icon": "skillC/Beast_Threaten",
+    "last": true
   },
   "Atk Ploy 1": {
     "id": "Atk Ploy 1",
@@ -2069,32 +2069,32 @@
     "name": "攻擊速度謀策3",
     "sp": 300,
     "prev": ["Atk Ploy 3", "Spd Ploy 3"],
-    "last": true,
-    "icon": "skillC/Atk_Spd_Ploy_3"
+    "icon": "skillC/Atk_Spd_Ploy_3",
+    "last": true
   },
   "Atk/Res Ploy 3": {
     "id": "Atk/Res Ploy 3",
     "name": "攻擊魔防謀策3",
     "sp": 300,
     "prev": ["Atk Ploy 3", "Res Ploy 3"],
-    "last": true,
-    "icon": "skillC/Atk_Res_Ploy_3"
+    "icon": "skillC/Atk_Res_Ploy_3",
+    "last": true
   },
   "Spd/Res Ploy 3": {
     "id": "Spd/Res Ploy 3",
     "name": "速度魔防謀策3",
     "sp": 300,
     "prev": ["Spd Ploy 3", "Res Ploy 3"],
-    "last": true,
-    "icon": "skillC/Spd_Res_Ploy_3"
+    "icon": "skillC/Spd_Res_Ploy_3",
+    "last": true
   },
   "Def/Res Ploy 3": {
     "id": "Def/Res Ploy 3",
     "name": "防守魔防謀策3",
     "sp": 300,
     "prev": ["Def Ploy 3", "Res Ploy 3"],
-    "last": true,
-    "icon": "skillC/Def_Res_Ploy_3"
+    "icon": "skillC/Def_Res_Ploy_3",
+    "last": true
   },
   "Panic Ploy 1": {
     "id": "Panic Ploy 1",
@@ -2256,10 +2256,10 @@
     "id": "Def/Res Smoke 3",
     "name": "防守魔防紫煙3",
     "sp": 300,
-    "prev": ["Def Smoke 3", "Res Smoke 3"],
     "rules": "not.white-staff",
-    "last": true,
-    "icon": "skillC/Def_Res_Smoke_3"
+    "prev": ["Def Smoke 3", "Res Smoke 3"],
+    "icon": "skillC/Def_Res_Smoke_3",
+    "last": true
   },
   "Pulse Smoke 1": {
     "id": "Pulse Smoke 1",
@@ -2355,10 +2355,10 @@
     "id": "Pulse Smog",
     "name": "躍動的幻煙",
     "sp": 300,
-    "prev": ["Pulse Smoke 3"],
     "rules": "dagger",
-    "last": true,
-    "icon": "skillC/Pulse_Smog"
+    "prev": ["Pulse Smoke 3"],
+    "icon": "skillC/Pulse_Smog",
+    "last": true
   },
   "Time's Pulse 1": {
     "id": "Time's Pulse 1",
@@ -2399,8 +2399,8 @@
     "sp": 300,
     "rules": "infantry",
     "prev": ["Time's Pulse 3"],
-    "last": true,
-    "icon": "skillC/Pulse_Up_Blades"
+    "icon": "skillC/Pulse_Up_Blades",
+    "last": true
   },
   "Pulse Up: Ploy": {
     "id": "Pulse Up: Ploy",
@@ -2408,8 +2408,8 @@
     "sp": 300,
     "rules": "infantry",
     "prev": ["Time's Pulse 3"],
-    "last": true,
-    "icon": "skillC/Pulse_Up_Ploy"
+    "icon": "skillC/Pulse_Up_Ploy",
+    "last": true
   },
   "Pulse On: Blades": {
     "id": "Pulse On: Blades",
@@ -2417,35 +2417,35 @@
     "sp": 300,
     "rules": "infantry",
     "prev": ["Time's Pulse 3"],
-    "last": true,
-    "icon": "skillC/Pulse_On_Blades"
+    "icon": "skillC/Pulse_On_Blades",
+    "last": true
   },
   "Creation Pulse": {
     "id": "Creation Pulse",
     "name": "開闢之躍動",
     "sp": 300,
-    "prev": ["Time's Pulse 3"],
     "rules": "infantry",
-    "last": true,
-    "icon": "skillC/Creation_Pulse"
+    "prev": ["Time's Pulse 3"],
+    "icon": "skillC/Creation_Pulse",
+    "last": true
   },
   "Time Pulse Edge": {
     "id": "Time Pulse Edge",
     "name": "初始之躍動・刃",
     "sp": 300,
-    "prev": ["Time's Pulse 3"],
     "rules": "infantry",
-    "last": true,
-    "icon": "skillC/Time_Pulse_Edge"
+    "prev": ["Time's Pulse 3"],
+    "icon": "skillC/Time_Pulse_Edge",
+    "last": true
   },
   "Time Pulse Helm": {
     "id": "Time Pulse Helm",
     "name": "初始之躍動・冑",
     "sp": 300,
-    "prev": ["Time's Pulse 3"],
     "rules": "infantry",
-    "last": true,
-    "icon": "skillC/Time_Pulse_Helm"
+    "prev": ["Time's Pulse 3"],
+    "icon": "skillC/Time_Pulse_Helm",
+    "last": true
   },
   "Infantry Pulse 1": {
     "id": "Infantry Pulse 1",
@@ -2759,8 +2759,8 @@
     "sp": 300,
     "rules": "armored",
     "prev": ["A/D Near Save 3"],
-    "last": true,
-    "icon": "skillC/A_D_Twin_N_Save"
+    "icon": "skillC/A_D_Twin_N_Save",
+    "last": true
   },
   "A/R Twin N Save": {
     "id": "A/R Twin N Save",
@@ -2768,17 +2768,17 @@
     "sp": 300,
     "rules": "armored",
     "prev": ["A/R Near Save 3"],
-    "last": true,
-    "icon": "skillC/A_R_Twin_N_Save"
+    "icon": "skillC/A_R_Twin_N_Save",
+    "last": true
   },
   "D/R Twin N Save": {
     "id": "D/R Twin N Save",
     "name": "盾之守護人・近・雙",
     "sp": 300,
-    "prev": ["D/R Near Save 3"],
     "rules": "armored",
-    "last": true,
-    "icon": "skillC/D_R_Twin_N_Save"
+    "prev": ["D/R Near Save 3"],
+    "icon": "skillC/D_R_Twin_N_Save",
+    "last": true
   },
   "A/S Far Save 1": {
     "id": "A/S Far Save 1",
@@ -2882,8 +2882,8 @@
     "sp": 300,
     "rules": "armored",
     "prev": ["A/D Far Save 3"],
-    "last": true,
-    "icon": "skillC/A_D_Twin_F_Save"
+    "icon": "skillC/A_D_Twin_F_Save",
+    "last": true
   },
   "A/D Briar F Save": {
     "id": "A/D Briar F Save",
@@ -2891,17 +2891,17 @@
     "sp": 300,
     "rules": "armored",
     "prev": ["A/D Far Save 3"],
-    "last": true,
-    "icon": "skillC/A_D_Briar_F_Save"
+    "icon": "skillC/A_D_Briar_F_Save",
+    "last": true
   },
   "A/R Twin F Save": {
     "id": "A/R Twin F Save",
     "name": "冑之守護人・遠・雙",
     "sp": 300,
-    "prev": ["A/R Far Save 3"],
     "rules": "armored",
-    "last": true,
-    "icon": "skillC/A_R_Twin_F_Save"
+    "prev": ["A/R Far Save 3"],
+    "icon": "skillC/A_R_Twin_F_Save",
+    "last": true
   },
   "Guidance 1": {
     "id": "Guidance 1",
@@ -2965,8 +2965,8 @@
     "name": "飛走前導",
     "sp": 300,
     "rules": "flying",
-    "last": true,
-    "icon": "skillC/Soaring_Guidance"
+    "icon": "skillC/Soaring_Guidance",
+    "last": true
   },
   "Air Orders 1": {
     "id": "Air Orders 1",
@@ -3151,8 +3151,8 @@
     "name": "近處攻擊之波・偶數",
     "sp": 300,
     "rules": "melee",
-    "last": true,
-    "icon": "skillC/Even_Atk_Wave_N"
+    "icon": "skillC/Even_Atk_Wave_N",
+    "last": true
   },
   "Even Spd Wave 1": {
     "id": "Even Spd Wave 1",
@@ -3222,8 +3222,8 @@
     "name": "龍的魔防之波・偶數",
     "sp": 300,
     "rules": "dragon",
-    "last": true,
-    "icon": "skillC/Even_Res_Wave_D"
+    "icon": "skillC/Even_Res_Wave_D",
+    "last": true
   },
   "Atk Opening 1": {
     "id": "Atk Opening 1",
@@ -3621,8 +3621,8 @@
     "sp": 300,
     "rules": "learner.cavalry-melee",
     "prev": ["Rouse Atk/Spd 3"],
-    "last": true,
-    "icon": "skillC/Alarm_Atk_Spd"
+    "icon": "skillC/Alarm_Atk_Spd",
+    "last": true
   },
   "Alarm Atk/Def": {
     "id": "Alarm Atk/Def",
@@ -3630,8 +3630,8 @@
     "sp": 300,
     "rules": "learner.cavalry-melee",
     "prev": ["Rouse Atk/Def 3"],
-    "last": true,
-    "icon": "skillC/Alarm_Atk_Def"
+    "icon": "skillC/Alarm_Atk_Def",
+    "last": true
   },
   "Alarm Spd/Def": {
     "id": "Alarm Spd/Def",
@@ -3639,8 +3639,8 @@
     "sp": 300,
     "rules": "learner.cavalry-melee",
     "prev": ["Rouse Spd/Def 3"],
-    "last": true,
-    "icon": "skillC/Alarm_Spd_Def"
+    "icon": "skillC/Alarm_Spd_Def",
+    "last": true
   },
   "Alarm Def/Res": {
     "id": "Alarm Def/Res",
@@ -3648,35 +3648,35 @@
     "sp": 300,
     "rules": "learner.cavalry-melee",
     "prev": ["Rouse Def/Res 3"],
-    "last": true,
-    "icon": "skillC/Alarm_Def_Res"
+    "icon": "skillC/Alarm_Def_Res",
+    "last": true
   },
   "Incite Atk/Spd": {
     "id": "Incite Atk/Spd",
     "name": "攻擊速度的奮激",
     "sp": 300,
-    "prev": ["Rouse Atk/Spd 3"],
     "rules": "learner.infantry-cavalry",
-    "last": true,
-    "icon": "skillC/Incite_Atk_Spd"
+    "prev": ["Rouse Atk/Spd 3"],
+    "icon": "skillC/Incite_Atk_Spd",
+    "last": true
   },
   "Incite Atk/Res": {
     "id": "Incite Atk/Res",
     "name": "攻擊魔防的奮激",
     "sp": 300,
-    "prev": ["Rouse Atk/Res 3"],
     "rules": "learner.infantry-cavalry",
-    "last": true,
-    "icon": "skillC/Incite_Atk_Res"
+    "prev": ["Rouse Atk/Res 3"],
+    "icon": "skillC/Incite_Atk_Res",
+    "last": true
   },
   "Incite Spd/Def": {
     "id": "Incite Spd/Def",
     "name": "速度防守的奮激",
     "sp": 300,
-    "prev": ["Rouse Spd/Def 3"],
     "rules": "learner.infantry-cavalry",
-    "last": true,
-    "icon": "skillC/Incite_Spd_Def"
+    "prev": ["Rouse Spd/Def 3"],
+    "icon": "skillC/Incite_Spd_Def",
+    "last": true
   },
   "Atk/Spd Oath 1": {
     "id": "Atk/Spd Oath 1",
@@ -3862,19 +3862,19 @@
     "id": "Atk/Spd Pledge",
     "name": "攻擊速度的信念",
     "sp": 300,
-    "prev": ["Atk/Spd Oath 3"],
     "rules": "infantry",
-    "last": true,
-    "icon": "skillC/Atk_Spd_Pledge"
+    "prev": ["Atk/Spd Oath 3"],
+    "icon": "skillC/Atk_Spd_Pledge",
+    "last": true
   },
   "Def/Res Pledge": {
     "id": "Def/Res Pledge",
     "name": "防守魔防的信念",
     "sp": 300,
-    "prev": ["Def/Res Oath 3"],
     "rules": "infantry",
-    "last": true,
-    "icon": "skillC/Def_Res_Pledge"
+    "prev": ["Def/Res Oath 3"],
+    "icon": "skillC/Def_Res_Pledge",
+    "last": true
   },
   "Odd Tempest 1": {
     "id": "Odd Tempest 1",
@@ -3928,19 +3928,19 @@
     "id": "Endless Tempest",
     "name": "迅雷風烈・無極",
     "sp": 300,
-    "prev": ["Odd Tempest 3", "Even Tempest 3"],
     "rules": "learner.infantry-flying-melee",
-    "last": true,
-    "icon": "skillC/Endless_Tempest"
+    "prev": ["Odd Tempest 3", "Even Tempest 3"],
+    "icon": "skillC/Endless_Tempest",
+    "last": true
   },
   "Brutal Tempest": {
     "id": "Brutal Tempest",
     "name": "迅雷風烈・鬼沒",
     "sp": 300,
-    "prev": ["Odd Tempest 3", "Even Tempest 3"],
     "rules": "learner.infantry-flying-melee",
-    "last": true,
-    "icon": "skillC/Brutal_Tempest"
+    "prev": ["Odd Tempest 3", "Even Tempest 3"],
+    "icon": "skillC/Brutal_Tempest",
+    "last": true
   },
   "Assault Troop 1": {
     "id": "Assault Troop 1",
@@ -3970,10 +3970,10 @@
     "id": "Assault Rush",
     "name": "一齊突擊・突進",
     "sp": 300,
-    "prev": ["Assault Troop 3"],
     "rules": "learner.wielderInfantryArmored",
-    "last": true,
-    "icon": "skillC/Assault_Rush"
+    "prev": ["Assault Troop 3"],
+    "icon": "skillC/Assault_Rush",
+    "last": true
   },
   "Odd Recovery 1": {
     "id": "Odd Recovery 1",
@@ -4141,10 +4141,10 @@
     "id": "Firm Canto Curb",
     "name": "再移動限制・不惑",
     "sp": 300,
-    "prev": ["Canto Control 3"],
     "rules": "infantry",
-    "last": true,
-    "icon": "skillC/Firm_Canto_Curb"
+    "prev": ["Canto Control 3"],
+    "icon": "skillC/Firm_Canto_Curb",
+    "last": true
   },
   "Shadow Shift 1": {
     "id": "Shadow Shift 1",
@@ -4241,16 +4241,16 @@
     "name": "開路・不屈",
     "sp": 300,
     "rules": "dagger",
-    "last": true,
-    "icon": "skillC/Lookout_Force"
+    "icon": "skillC/Lookout_Force",
+    "last": true
   },
   "Active Lookout": {
     "id": "Active Lookout",
     "name": "開路・猛攻",
     "sp": 300,
     "rules": "dagger",
-    "last": true,
-    "icon": "skillC/Active_Lookout"
+    "icon": "skillC/Active_Lookout",
+    "last": true
   },
   "Sword Exp. 1": {
     "id": "Sword Exp. 1",

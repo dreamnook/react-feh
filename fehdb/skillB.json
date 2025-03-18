@@ -4,16 +4,16 @@
     "name": "冰之封印・承",
     "sp": 300,
     "exclusive": ["Gunnthrá - Voice of Dreams"],
-    "last": true,
-    "icon": "skillB/Chilling_Seal_II"
+    "icon": "skillB/Chilling_Seal_II",
+    "last": true
   },
   "Chilling Seal": {
     "id": "Chilling Seal",
     "name": "冰之封印",
     "sp": 300,
     "exclusive": ["Gunnthrá - Voice of Dreams"],
-    "last": true,
-    "icon": "skillB/Chilling_Seal"
+    "icon": "skillB/Chilling_Seal",
+    "last": true
   },
   "Freezing Seal II": {
     "id": "Freezing Seal II",
@@ -21,72 +21,72 @@
     "sp": 300,
     "prev": ["Freezing Seal"],
     "exclusive": ["Hríd - Icy Blade"],
-    "last": true,
-    "icon": "skillB/Freezing_Seal_II"
+    "icon": "skillB/Freezing_Seal_II",
+    "last": true
   },
   "Freezing Seal": {
     "id": "Freezing Seal",
     "name": "凍結之封印",
     "sp": 300,
     "exclusive": ["Hríd - Icy Blade"],
-    "last": true,
-    "icon": "skillB/Freezing_Seal"
+    "icon": "skillB/Freezing_Seal",
+    "last": true
   },
   "Binding Shield II": {
     "id": "Binding Shield II",
     "name": "封印之盾・承",
     "sp": 300,
     "exclusive": ["Marth - Hero-King"],
-    "last": true,
-    "icon": "skillB/Binding_Shield_II"
+    "icon": "skillB/Binding_Shield_II",
+    "last": true
   },
   "Binding Shield": {
     "id": "Binding Shield",
     "name": "封印之盾",
     "sp": 300,
     "exclusive": ["Marth - Hero-King"],
-    "last": true,
-    "icon": "skillB/Binding_Shield"
+    "icon": "skillB/Binding_Shield",
+    "last": true
   },
   "Double Lion": {
     "id": "Double Lion",
     "name": "獅子連斬",
     "sp": 300,
     "exclusive": ["Celica - Warrior Priestess"],
-    "last": true,
-    "icon": "skillB/Double_Lion"
+    "icon": "skillB/Double_Lion",
+    "last": true
   },
   "Beorc's Blessing": {
     "id": "Beorc's Blessing",
     "name": "貝歐克的加護",
     "sp": 300,
     "exclusive": ["Ike - Brave Mercenary"],
-    "last": true,
-    "icon": "skillB/Beorc's_Blessing"
+    "icon": "skillB/Beorc's_Blessing",
+    "last": true
   },
   "Crusader's Ward": {
     "id": "Crusader's Ward",
     "name": "聖騎士的加護",
     "sp": 300,
     "exclusive": ["Sigurd - Holy Knight", "Sigurd - Fated Holy Knight"],
-    "last": true,
-    "icon": "skillB/Crusader's_Ward"
+    "icon": "skillB/Crusader's_Ward",
+    "last": true
   },
   "Follow-Up Ring": {
     "id": "Follow-Up Ring",
     "name": "追擊之戒",
     "sp": 200,
     "exclusive": ["Arden - Strong and Tough"],
-    "last": true,
-    "icon": "skillB/Follow-Up_Ring"
+    "icon": "skillB/Follow-Up_Ring",
+    "last": true
   },
   "Recover Ring": {
     "id": "Recover Ring",
     "name": "聖癒戒指",
     "sp": 200,
     "exclusive": ["Arvis - Emperor of Flame"],
-    "last": true,
-    "icon": "skillB/Recover_Ring"
+    "icon": "skillB/Recover_Ring",
+    "last": true
   },
   "S Drink": {
     "id": "S Drink",
@@ -97,33 +97,33 @@
       "Leif - Unifier of Thracia",
       "Leif - Destined Scions"
     ],
-    "last": true,
-    "icon": "skillB/S_Drink"
+    "icon": "skillB/S_Drink",
+    "last": true
   },
   "Sacae's Blessing": {
     "id": "Sacae's Blessing",
     "name": "塞迦的加護",
     "sp": 300,
     "exclusive": ["Lyn - Brave Lady"],
-    "last": true,
-    "icon": "skillB/Sacae's_Blessing"
+    "icon": "skillB/Sacae's_Blessing",
+    "last": true
   },
   "Lunar Brace II": {
     "id": "Lunar Brace II",
     "name": "月亮手鐲・承",
     "sp": 300,
     "exclusive": ["Eirika - Graceful Resolve"],
-    "last": true,
-    "icon": "skillB/Lunar_Brace_II"
+    "icon": "skillB/Lunar_Brace_II",
+    "last": true
   },
   "Lunar Brace": {
     "id": "Lunar Brace",
     "name": "月亮手鐲",
-    "cd": 1,
     "sp": 300,
+    "cd": 1,
     "exclusive": ["Eirika - Graceful Resolve"],
-    "last": true,
-    "icon": "skillB/Lunar_Brace"
+    "icon": "skillB/Lunar_Brace",
+    "last": true
   },
   "Solar Brace II": {
     "id": "Solar Brace II",
@@ -131,48 +131,48 @@
     "sp": 300,
     "prev": ["Solar Brace"],
     "exclusive": ["Ephraim - Legendary Lord"],
-    "last": true,
-    "icon": "skillB/Solar_Brace_II"
+    "icon": "skillB/Solar_Brace_II",
+    "last": true
   },
   "Solar Brace": {
     "id": "Solar Brace",
     "name": "太陽手鐲",
     "sp": 300,
     "exclusive": ["Ephraim - Legendary Lord"],
-    "last": true,
-    "icon": "skillB/Solar_Brace"
+    "icon": "skillB/Solar_Brace",
+    "last": true
   },
   "Warp Powder": {
     "id": "Warp Powder",
     "name": "轉移粉末",
     "sp": 300,
     "exclusive": ["Zelgius - Jet-Black General"],
-    "last": true,
-    "icon": "skillB/Warp_Powder"
+    "icon": "skillB/Warp_Powder",
+    "last": true
   },
   "Bushido II": {
     "id": "Bushido II",
     "name": "武士道・承",
     "sp": 300,
     "exclusive": ["Ryoma - Supreme Samurai"],
-    "last": true,
-    "icon": "skillB/Bushido_II"
+    "icon": "skillB/Bushido_II",
+    "last": true
   },
   "Bushido": {
     "id": "Bushido",
     "name": "武士道",
     "sp": 300,
     "exclusive": ["Ryoma - Supreme Samurai"],
-    "last": true,
-    "icon": "skillB/Bushido"
+    "icon": "skillB/Bushido",
+    "last": true
   },
   "Yune's Whispers": {
     "id": "Yune's Whispers",
     "name": "芸娜的低語",
     "sp": 300,
     "exclusive": ["Micaiah - Queen of Dawn"],
-    "last": true,
-    "icon": "skillB/Yunes_Whispers"
+    "icon": "skillB/Yunes_Whispers",
+    "last": true
   },
   "Light and Dark II": {
     "id": "Light and Dark II",
@@ -180,8 +180,8 @@
     "sp": 300,
     "prev": ["Light and Dark"],
     "exclusive": ["Julia - Crusader of Light"],
-    "last": true,
-    "icon": "skillB/Light_and_Dark_II"
+    "icon": "skillB/Light_and_Dark_II",
+    "last": true
   },
   "Light and Dark": {
     "id": "Light and Dark",
@@ -192,8 +192,8 @@
       "Julia - Heart Usurped",
       "Julia - Scion of the Saint"
     ],
-    "last": true,
-    "icon": "skillB/Light_and_Dark"
+    "icon": "skillB/Light_and_Dark",
+    "last": true
   },
   "Killing Intent+": {
     "id": "Killing Intent+",
@@ -201,16 +201,16 @@
     "sp": 300,
     "prev": ["Killing Intent"],
     "exclusive": ["Thrasir - Omnicidal Witch"],
-    "last": true,
-    "icon": "skillB/Killing_Intent+"
+    "icon": "skillB/Killing_Intent+",
+    "last": true
   },
   "Killing Intent": {
     "id": "Killing Intent",
     "name": "從世上消失吧",
     "sp": 300,
     "exclusive": ["Thrasir - Omnicidal Witch"],
-    "last": true,
-    "icon": "skillB/Killing_Intent"
+    "icon": "skillB/Killing_Intent",
+    "last": true
   },
   "Soul of Zofia II": {
     "id": "Soul of Zofia II",
@@ -218,40 +218,40 @@
     "sp": 300,
     "prev": ["Soul of Zofia"],
     "exclusive": ["Celica - Queen of Valentia"],
-    "last": true,
-    "icon": "skillB/Soul_of_Zofia_II"
+    "icon": "skillB/Soul_of_Zofia_II",
+    "last": true
   },
   "Soul of Zofia": {
     "id": "Soul of Zofia",
     "name": "索菲亞之魂",
     "sp": 300,
     "exclusive": ["Celica - Queen of Valentia", "Celica - Valentia's Hope"],
-    "last": true,
-    "icon": "skillB/Soul_of_Zofia"
+    "icon": "skillB/Soul_of_Zofia",
+    "last": true
   },
   "Deadly Balance+": {
     "id": "Deadly Balance+",
     "name": "填補死者的數量・神",
     "sp": 300,
     "exclusive": ["Líf - Lethal Swordsman"],
-    "last": true,
-    "icon": "skillB/Deadly_Balance+"
+    "icon": "skillB/Deadly_Balance+",
+    "last": true
   },
   "Deadly Balance": {
     "id": "Deadly Balance",
     "name": "填補死者的數量",
     "sp": 300,
     "exclusive": ["Líf - Lethal Swordsman", "Líf - Arcane Blade"],
-    "last": true,
-    "icon": "skillB/Deadly_Balance"
+    "icon": "skillB/Deadly_Balance",
+    "last": true
   },
   "Belief in Love": {
     "id": "Belief in Love",
     "name": "你相信愛嗎？",
     "sp": 300,
     "exclusive": ["Caeda - Princess of Talys"],
-    "last": true,
-    "icon": "skillB/Belief_in_Love"
+    "icon": "skillB/Belief_in_Love",
+    "last": true
   },
   "Raging Storm II": {
     "id": "Raging Storm II",
@@ -259,16 +259,16 @@
     "sp": 300,
     "prev": ["Raging Storm"],
     "exclusive": ["Edelgard - Flame Emperor"],
-    "last": true,
-    "icon": "skillB/Raging_Storm_II"
+    "icon": "skillB/Raging_Storm_II",
+    "last": true
   },
   "Raging Storm": {
     "id": "Raging Storm",
     "name": "狂嵐",
     "sp": 300,
     "exclusive": ["Edelgard - Flame Emperor", "Edelgard - Sun Empresses"],
-    "last": true,
-    "icon": "skillB/Raging_Storm"
+    "icon": "skillB/Raging_Storm",
+    "last": true
   },
   "Holy War's End II": {
     "id": "Holy War's End II",
@@ -276,32 +276,32 @@
     "sp": 300,
     "prev": ["Holy War's End"],
     "exclusive": ["Seliph - Scion of Light"],
-    "last": true,
-    "icon": "skillB/Holy_War's_End_II"
+    "icon": "skillB/Holy_War's_End_II",
+    "last": true
   },
   "Holy War's End": {
     "id": "Holy War's End",
     "name": "最後的聖戰",
     "sp": 300,
     "exclusive": ["Seliph - Scion of Light"],
-    "last": true,
-    "icon": "skillB/Holy_War's_End"
+    "icon": "skillB/Holy_War's_End",
+    "last": true
   },
   "Black Eagle Rule": {
     "id": "Black Eagle Rule",
     "name": "黑鷲霸王",
     "sp": 300,
     "exclusive": ["Edelgard - Adrestian Emperor"],
-    "last": true,
-    "icon": "skillB/Black_Eagle_Rule"
+    "icon": "skillB/Black_Eagle_Rule",
+    "last": true
   },
   "Blue Lion Rule": {
     "id": "Blue Lion Rule",
     "name": "青獅子王",
     "sp": 300,
     "exclusive": ["Dimitri - King of Faerghus"],
-    "last": true,
-    "icon": "skillB/Blue_Lion_Rule"
+    "icon": "skillB/Blue_Lion_Rule",
+    "last": true
   },
   "Atrocity II": {
     "id": "Atrocity II",
@@ -309,16 +309,16 @@
     "sp": 300,
     "prev": ["Atrocity"],
     "exclusive": ["Dimitri - Savior King"],
-    "last": true,
-    "icon": "skillB/Atrocity_II"
+    "icon": "skillB/Atrocity_II",
+    "last": true
   },
   "Atrocity": {
     "id": "Atrocity",
     "name": "無慘",
     "sp": 300,
     "exclusive": ["Dimitri - Savior King", "Dimitri - Sky-Blue Lion"],
-    "last": true,
-    "icon": "skillB/Atrocity"
+    "icon": "skillB/Atrocity",
+    "last": true
   },
   "Binding Necklace+": {
     "id": "Binding Necklace+",
@@ -326,16 +326,16 @@
     "sp": 300,
     "prev": ["Binding Necklace"],
     "exclusive": ["Freyja - Lady of Nightmare"],
-    "last": true,
-    "icon": "skillB/Binding_Necklace+"
+    "icon": "skillB/Binding_Necklace+",
+    "last": true
   },
   "Binding Necklace": {
     "id": "Binding Necklace",
     "name": "束縛的首飾",
     "sp": 300,
     "exclusive": ["Freyja - Lady of Nightmare", "Freyja - Fleeting Summer"],
-    "last": true,
-    "icon": "skillB/Binding_Necklace"
+    "icon": "skillB/Binding_Necklace",
+    "last": true
   },
   "Fallen Star II": {
     "id": "Fallen Star II",
@@ -343,16 +343,16 @@
     "sp": 300,
     "prev": ["Fallen Star"],
     "exclusive": ["Claude - King of Unification"],
-    "last": true,
-    "icon": "skillB/Fallen_Star_II"
+    "icon": "skillB/Fallen_Star_II",
+    "last": true
   },
   "Fallen Star": {
     "id": "Fallen Star",
     "name": "落星",
     "sp": 300,
     "exclusive": ["Claude - King of Unification", "Claude - Tropical Trouble"],
-    "last": true,
-    "icon": "skillB/Fallen_Star"
+    "icon": "skillB/Fallen_Star",
+    "last": true
   },
   "Sun-Twin Wing+": {
     "id": "Sun-Twin Wing+",
@@ -360,32 +360,32 @@
     "sp": 300,
     "prev": ["Sun-Twin Wing"],
     "exclusive": ["Dagr - Sun's Radiance"],
-    "last": true,
-    "icon": "skillB/Sun-Twin_Wing+"
+    "icon": "skillB/Sun-Twin_Wing+",
+    "last": true
   },
   "Sun-Twin Wing": {
     "id": "Sun-Twin Wing",
     "name": "雙姬的陽翼",
     "sp": 300,
     "exclusive": ["Dagr - Sun's Radiance", "Dagr - New Year Jötnar"],
-    "last": true,
-    "icon": "skillB/Sun-Twin Wing"
+    "icon": "skillB/Sun-Twin Wing",
+    "last": true
   },
   "Murderous Lion": {
     "id": "Murderous Lion",
     "name": "青色殺人鬼",
     "sp": 300,
     "exclusive": ["Dimitri - Savage Boar"],
-    "last": true,
-    "icon": "skillB/Murderous_Lion"
+    "icon": "skillB/Murderous_Lion",
+    "last": true
   },
   "Armored Wall": {
     "id": "Armored Wall",
     "name": "霸鎧防護障壁",
     "sp": 300,
     "exclusive": ["Edelgard - Hegemon Husk"],
-    "last": true,
-    "icon": "skillB/Armored_Wall"
+    "icon": "skillB/Armored_Wall",
+    "last": true
   },
   "Moon-Twin Wing+": {
     "id": "Moon-Twin Wing+",
@@ -393,16 +393,16 @@
     "sp": 300,
     "prev": ["Moon-Twin Wing"],
     "exclusive": ["Nótt - Moon's Elegance"],
-    "last": true,
-    "icon": "skillB/Moon-Twin_Wing+"
+    "icon": "skillB/Moon-Twin_Wing+",
+    "last": true
   },
   "Moon-Twin Wing": {
     "id": "Moon-Twin Wing",
     "name": "雙姬的月翼",
     "sp": 300,
     "exclusive": ["Nótt - Moon's Elegance"],
-    "last": true,
-    "icon": "skillB/Moon-Twin Wing"
+    "icon": "skillB/Moon-Twin Wing",
+    "last": true
   },
   "Yngvi Ascendant+": {
     "id": "Yngvi Ascendant+",
@@ -410,32 +410,32 @@
     "sp": 300,
     "prev": ["Yngvi Ascendant"],
     "exclusive": ["Ullr - The Bowmaster"],
-    "last": true,
-    "icon": "skillB/Yngvi_Ascendant+"
+    "icon": "skillB/Yngvi_Ascendant+",
+    "last": true
   },
   "Yngvi Ascendant": {
     "id": "Yngvi Ascendant",
     "name": "尤格威之祖",
     "sp": 400,
     "exclusive": ["Ullr - The Bowmaster"],
-    "last": true,
-    "icon": "skillB/Yngvi_Ascendant"
+    "icon": "skillB/Yngvi_Ascendant",
+    "last": true
   },
   "Detailed Report": {
     "id": "Detailed Report",
     "name": "毫無異狀",
     "sp": 300,
     "exclusive": ["Gatekeeper - Nothing to Report"],
-    "last": true,
-    "icon": "skillB/Detailed_Report"
+    "icon": "skillB/Detailed_Report",
+    "last": true
   },
   "Moonlight Bangle": {
     "id": "Moonlight Bangle",
     "name": "華月手鐲",
     "sp": 300,
     "exclusive": ["Eirika - Pledged Restorer"],
-    "last": true,
-    "icon": "skillB/Moonlight_Bangle"
+    "icon": "skillB/Moonlight_Bangle",
+    "last": true
   },
   "Prescience II": {
     "id": "Prescience II",
@@ -443,16 +443,16 @@
     "sp": 300,
     "prev": ["Prescience"],
     "exclusive": ["Micaiah - Radiant Queen"],
-    "last": true,
-    "icon": "skillB/Prescience_II"
+    "icon": "skillB/Prescience_II",
+    "last": true
   },
   "Prescience": {
     "id": "Prescience",
     "name": "知曉未來的力量",
     "sp": 300,
     "exclusive": ["Micaiah - Radiant Queen", "Micaiah - Wavecrest Maiden"],
-    "last": true,
-    "icon": "skillB/Prescience"
+    "icon": "skillB/Prescience",
+    "last": true
   },
   "Divine Rec. II": {
     "id": "Divine Rec. II",
@@ -460,16 +460,16 @@
     "sp": 300,
     "prev": ["Divine Recreation"],
     "exclusive": ["Eitri - Youthful Sage"],
-    "last": true,
-    "icon": "skillB/Divine_Rec._II"
+    "icon": "skillB/Divine_Rec._II",
+    "last": true
   },
   "Divine Recreation": {
     "id": "Divine Recreation",
     "name": "那真有意思呢",
     "sp": 300,
     "exclusive": ["Eitri - Youthful Sage"],
-    "last": true,
-    "icon": "skillB/Divine_Recreation"
+    "icon": "skillB/Divine_Recreation",
+    "last": true
   },
   "Faithful Loyalty II": {
     "id": "Faithful Loyalty II",
@@ -477,40 +477,40 @@
     "sp": 300,
     "prev": ["Faithful Loyalty"],
     "exclusive": ["Caeda - Beloved Queen"],
-    "last": true,
-    "icon": "skillB/Faithful_Loyalty_II"
+    "icon": "skillB/Faithful_Loyalty_II",
+    "last": true
   },
   "Faithful Loyalty": {
     "id": "Faithful Loyalty",
     "name": "一直相信的誓言",
     "sp": 300,
     "exclusive": ["Caeda - Beloved Queen"],
-    "last": true,
-    "icon": "skillB/Faithful_Loyalty"
+    "icon": "skillB/Faithful_Loyalty",
+    "last": true
   },
   "Hoðr's Zeal": {
     "id": "Hoðr's Zeal",
     "name": "赫哲爾的戰士",
     "sp": 300,
     "exclusive": ["Nanna - Beloved Princess"],
-    "last": true,
-    "icon": "skillB/Hoðr's_Zeal"
+    "icon": "skillB/Hoðr's_Zeal",
+    "last": true
   },
   "Assured Rebirth": {
     "id": "Assured Rebirth",
     "name": "我於此復活",
     "sp": 300,
     "exclusive": ["Medeus - Earth-Dragon King"],
-    "last": true,
-    "icon": "skillB/Assured_Rebirth"
+    "icon": "skillB/Assured_Rebirth",
+    "last": true
   },
   "True Dragon Wall": {
     "id": "True Dragon Wall",
     "name": "真龍鱗防護障壁",
     "sp": 300,
     "exclusive": ["Rhea - Immaculate One", "Rhea - Loving Matriarch"],
-    "last": true,
-    "icon": "skillB/True_Dragon_Wall"
+    "icon": "skillB/True_Dragon_Wall",
+    "last": true
   },
   "Chivalry II": {
     "id": "Chivalry II",
@@ -518,328 +518,328 @@
     "sp": 300,
     "prev": ["Chivalry"],
     "exclusive": ["Xander - Gallant King"],
-    "last": true,
-    "icon": "skillB/Chivalry_II"
+    "icon": "skillB/Chivalry_II",
+    "last": true
   },
   "Chivalry": {
     "id": "Chivalry",
     "name": "騎士精神",
     "sp": 300,
     "exclusive": ["Xander - Gallant King"],
-    "last": true,
-    "icon": "skillB/Chivalry"
+    "icon": "skillB/Chivalry",
+    "last": true
   },
   "Moonlit Bangle F": {
     "id": "Moonlit Bangle F",
     "name": "華月手鐲・遠",
     "sp": 300,
     "exclusive": ["Eirika - Beach Restorer"],
-    "last": true,
-    "icon": "skillB/Moonlight_Bangle"
+    "icon": "skillB/Moonlight_Bangle",
+    "last": true
   },
   "New Divinity": {
     "id": "New Divinity",
     "name": "新的神龍王",
     "sp": 300,
     "exclusive": ["Tiki - Fated Divinity", "Tiki - Bridal Reflections"],
-    "last": true,
-    "icon": "skillB/New_Divinity"
+    "icon": "skillB/New_Divinity",
+    "last": true
   },
   "Soaring Wings": {
     "id": "Soaring Wings",
     "name": "翱翔天際的羽翼",
     "sp": 300,
     "exclusive": ["Tana - Soaring Princess"],
-    "last": true,
-    "icon": "skillB/Soaring_Wings"
+    "icon": "skillB/Soaring_Wings",
+    "last": true
   },
   "Fruit of Life": {
     "id": "Fruit of Life",
     "name": "生於大地、歸於大地",
     "sp": 300,
     "exclusive": ["Nerþuz - God of the Land", "Nerþuz - New-Year Doter"],
-    "last": true,
-    "icon": "skillB/Fruit_of_Life"
+    "icon": "skillB/Fruit_of_Life",
+    "last": true
   },
   "Sunlight Bangle": {
     "id": "Sunlight Bangle",
     "name": "華日手鐲",
     "sp": 300,
     "exclusive": ["Ephraim - Sunshine Valiant"],
-    "last": true,
-    "icon": "skillB/Sunlight_Bangle"
+    "icon": "skillB/Sunlight_Bangle",
+    "last": true
   },
   "Get Behind Me!": {
     "id": "Get Behind Me!",
     "name": "由我守護!",
     "sp": 300,
     "exclusive": ["Alcryst - Tender Archer"],
-    "last": true,
-    "icon": "skillB/Get_Behind_Me!"
+    "icon": "skillB/Get_Behind_Me!",
+    "last": true
   },
   "Gold Unwinding": {
     "id": "Gold Unwinding",
     "name": "倒轉時間黃金魔女",
     "sp": 300,
     "exclusive": ["Gullveig - Seer Beyond Time"],
-    "last": true,
-    "icon": "skillB/Gold_Unwinding"
+    "icon": "skillB/Gold_Unwinding",
+    "last": true
   },
   "Twin-Sky Wing": {
     "id": "Twin-Sky Wing",
     "name": "雙姬的天翼",
     "sp": 300,
     "exclusive": ["Dagr - Bluster Princess"],
-    "last": true,
-    "icon": "skillB/Twin-Sky_Wing"
+    "icon": "skillB/Twin-Sky_Wing",
+    "last": true
   },
   "Deep Star": {
     "id": "Deep Star",
     "name": "真落星",
     "sp": 300,
     "exclusive": ["Claude - Golden Breeze"],
-    "last": true,
-    "icon": "skillB/Deep_Star"
+    "icon": "skillB/Deep_Star",
+    "last": true
   },
   "Ruler of Nihility": {
     "id": "Ruler of Nihility",
     "name": "虛無之王",
     "sp": 300,
     "exclusive": ["Ginnungagap - Ruler of Nihility"],
-    "last": true,
-    "icon": "skillB/Ruler_of_Nihility"
+    "icon": "skillB/Ruler_of_Nihility",
+    "last": true
   },
   "Raging Tempest": {
     "id": "Raging Tempest",
     "name": "真狂嵐",
     "sp": 300,
     "exclusive": ["Edelgard - Snowfall Future"],
-    "last": true,
-    "icon": "skillB/Raging_Tempest"
+    "icon": "skillB/Raging_Tempest",
+    "last": true
   },
   "Barbarity": {
     "id": "Barbarity",
     "name": "真無慘",
     "sp": 300,
     "exclusive": ["Dimitri - Blessed Protector"],
-    "last": true,
-    "icon": "skillB/Barbarity"
+    "icon": "skillB/Barbarity",
+    "last": true
   },
   "Spoil Rotten": {
     "id": "Spoil Rotten",
     "name": "讓我來疼愛你",
     "sp": 300,
     "exclusive": ["Camilla - Alluring Darkness"],
-    "last": true,
-    "icon": "skillB/Spoil_Rotten"
+    "icon": "skillB/Spoil_Rotten",
+    "last": true
   },
   "Sunlit Bangle D": {
     "id": "Sunlit Bangle D",
     "name": "華日手鐲・護",
     "sp": 300,
     "exclusive": ["Ephraim - Ardent Prince"],
-    "last": true,
-    "icon": "skillB/Sunlit_Bangle_D"
+    "icon": "skillB/Sunlit_Bangle_D",
+    "last": true
   },
   "Believe in Love?": {
     "id": "Believe in Love?",
     "name": "你有心愛的人嗎",
     "sp": 300,
     "exclusive": ["Caeda - Marth's Faithful"],
-    "last": true,
-    "icon": "skillB/Believe_in_Love"
+    "icon": "skillB/Believe_in_Love",
+    "last": true
   },
   "Yune's Protection": {
     "id": "Yune's Protection",
     "name": "芸娜的守護",
     "sp": 300,
     "exclusive": ["Micaiah - Dawning Maiden"],
-    "last": true,
-    "icon": "skillB/Yune's_Protection"
+    "icon": "skillB/Yune's_Protection",
+    "last": true
   },
   "Ice Prince's Seal": {
     "id": "Ice Prince's Seal",
     "name": "冰王封印",
     "sp": 300,
     "exclusive": ["Hríd - Island Ice Prince"],
-    "last": true,
-    "icon": "skillB/Ice_Prince's_Seal"
+    "icon": "skillB/Ice_Prince's_Seal",
+    "last": true
   },
   "Under the Sun": {
     "id": "Under the Sun",
     "name": "日光下成長盈滿大地",
     "sp": 300,
     "exclusive": ["Nerþuz - Beach Chaperone"],
-    "last": true,
-    "icon": "skillB/Under_the_Sun"
+    "icon": "skillB/Under_the_Sun",
+    "last": true
   },
   "Moonlit Bangle Q": {
     "id": "Moonlit Bangle Q",
     "name": "華月手鐲・先",
     "sp": 300,
     "exclusive": ["Eirika - Resolute Princess"],
-    "last": true,
-    "icon": "skillB/Moonlit_Bangle_Q"
+    "icon": "skillB/Moonlit_Bangle_Q",
+    "last": true
   },
   "Divine Strength": {
     "id": "Divine Strength",
     "name": "神獸的肉體",
     "sp": 300,
     "exclusive": ["Eikþyrnir - Quieting Strength"],
-    "last": true,
-    "icon": "skillB/Divine_Strength"
+    "icon": "skillB/Divine_Strength",
+    "last": true
   },
   "According to Plan": {
     "id": "According to Plan",
     "name": "正如我所料!",
     "sp": 300,
     "exclusive": ["Robin - Exalt's Right Hand"],
-    "last": true,
-    "icon": "skillB/According_to_Plan"
+    "icon": "skillB/According_to_Plan",
+    "last": true
   },
   "Lone Wolf": {
     "id": "Lone Wolf",
     "name": "獨行俠",
     "sp": 300,
     "exclusive": ["Felix - Sword Savant"],
-    "last": true,
-    "icon": "skillB/Lone_Wolf"
+    "icon": "skillB/Lone_Wolf",
+    "last": true
   },
   "Shadow Slide": {
     "id": "Shadow Slide",
     "name": "無間瞬動",
     "sp": 300,
     "exclusive": ["Shez - Dual Sword Master"],
-    "last": true,
-    "icon": "skillB/Shadow_Slide"
+    "icon": "skillB/Shadow_Slide",
+    "last": true
   },
   "Veðrfölnir's Wing": {
     "id": "Veðrfölnir's Wing",
     "name": "始祖的炎翼",
     "sp": 300,
     "exclusive": ["Dagr - Sunny Bloom"],
-    "last": true,
-    "icon": "skillB/Veðrfölnir's_Wing"
+    "icon": "skillB/Veðrfölnir's_Wing",
+    "last": true
   },
   "Brutal Ferocity": {
     "id": "Brutal Ferocity",
     "name": "凶暴殘忍",
     "sp": 300,
     "exclusive": ["Þjazi - Ruthless Jötun"],
-    "last": true,
-    "icon": "skillB/Brutal_Ferocity"
+    "icon": "skillB/Brutal_Ferocity",
+    "last": true
   },
   "Yggdrasill's Alter": {
     "id": "Yggdrasill's Alter",
     "name": "世界樹的化身",
     "sp": 300,
     "exclusive": ["Læraðr - Quieting Heart"],
-    "last": true,
-    "icon": "skillB/Yggdrasill's_Alter"
+    "icon": "skillB/Yggdrasill's_Alter",
+    "last": true
   },
   "Dark Perfume": {
     "id": "Dark Perfume",
     "name": "暗香疏影",
     "sp": 300,
     "exclusive": ["Leila - Superb Shadow"],
-    "last": true,
-    "icon": "skillB/Dark_Perfume"
+    "icon": "skillB/Dark_Perfume",
+    "last": true
   },
   "Font of Wisdom": {
     "id": "Font of Wisdom",
     "name": "知識之源",
     "sp": 300,
     "exclusive": ["Rune - Source of Wisdom"],
-    "last": true,
-    "icon": "skillB/Font_of_Wisdom"
+    "icon": "skillB/Font_of_Wisdom",
+    "last": true
   },
   "Heavenly Wings": {
     "id": "Heavenly Wings",
     "name": "沖天之翼",
     "sp": 300,
     "exclusive": ["Tana - Soaring New Year"],
-    "last": true,
-    "icon": "skillB/Heavenly_Wings"
+    "icon": "skillB/Heavenly_Wings",
+    "last": true
   },
   "I Remember...": {
     "id": "I Remember...",
     "name": "記憶甦醒……",
     "sp": 300,
     "exclusive": ["Brigid - Awakened Bow"],
-    "last": true,
-    "icon": "skillB/I_Remember..."
+    "icon": "skillB/I_Remember...",
+    "last": true
   },
   "Pure Atrocity": {
     "id": "Pure Atrocity",
     "name": "純正無慘",
     "sp": 300,
     "exclusive": ["Dimitri - Stargazing Lion"],
-    "last": true,
-    "icon": "skillB/Pure_Atrocity"
+    "icon": "skillB/Pure_Atrocity",
+    "last": true
   },
   "Pure Dragon Wall": {
     "id": "Pure Dragon Wall",
     "name": "純正龍鱗防護障壁",
     "sp": 300,
     "exclusive": ["Rhea - Aura of Love"],
-    "last": true,
-    "icon": "skillB/Pure_Dragon_Wall"
+    "icon": "skillB/Pure_Dragon_Wall",
+    "last": true
   },
   "Pure Starfall": {
     "id": "Pure Starfall",
     "name": "純正落星",
     "sp": 300,
     "exclusive": ["Claude - Distant Deer"],
-    "last": true,
-    "icon": "skillB/Pure_Starfall"
+    "icon": "skillB/Pure_Starfall",
+    "last": true
   },
   "Pure Storm": {
     "id": "Pure Storm",
     "name": "純正狂嵐",
     "sp": 300,
     "exclusive": ["Edelgard - Adorned Eagle"],
-    "last": true,
-    "icon": "skillB/Pure_Storm"
+    "icon": "skillB/Pure_Storm",
+    "last": true
   },
   "Mounting Fear": {
     "id": "Mounting Fear",
     "name": "恐山之妖術",
     "sp": 300,
     "exclusive": ["Nuibaba - Mistress of Fear"],
-    "last": true,
-    "icon": "skillB/Mounting_Fear"
+    "icon": "skillB/Mounting_Fear",
+    "last": true
   },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
     "sp": 150,
     "rules": "melee",
-    "last": true,
-    "icon": "skillB/Knock_Back"
+    "icon": "skillB/Knock_Back",
+    "last": true
   },
   "Lunge": {
     "id": "Lunge",
     "name": "衝敵斬",
     "sp": 150,
     "rules": "melee",
-    "last": true,
-    "icon": "skillB/Lunge"
+    "icon": "skillB/Lunge",
+    "last": true
   },
   "Drag Back": {
     "id": "Drag Back",
     "name": "引誘",
     "sp": 150,
     "rules": "melee",
-    "last": true,
-    "icon": "skillB/Drag_Back"
+    "icon": "skillB/Drag_Back",
+    "last": true
   },
   "Hit and Run": {
     "id": "Hit and Run",
     "name": "一擊即離",
     "sp": 150,
     "rules": "melee",
-    "last": true,
-    "icon": "skillB/Hit_and_Run"
+    "icon": "skillB/Hit_and_Run",
+    "last": true
   },
   "Pass 1": {
     "id": "Pass 1",
@@ -1077,19 +1077,19 @@
     "id": "Weaving Fighter",
     "name": "理之防守隊形",
     "sp": 300,
-    "prev": ["Wary Fighter 3"],
     "rules": "learner.armored-def-dmg",
-    "last": true,
-    "icon": "skillB/Weaving_Fighter"
+    "prev": ["Wary Fighter 3"],
+    "icon": "skillB/Weaving_Fighter",
+    "last": true
   },
   "Canny Fighter": {
     "id": "Canny Fighter",
     "name": "魔之防守隊形",
     "sp": 300,
-    "prev": ["Wary Fighter 3"],
     "rules": "learner.armored-res-dmg",
-    "last": true,
-    "icon": "skillB/Canny_Fighter"
+    "prev": ["Wary Fighter 3"],
+    "icon": "skillB/Canny_Fighter",
+    "last": true
   },
   "Bold Fighter 1": {
     "id": "Bold Fighter 1",
@@ -1373,8 +1373,8 @@
     "sp": 300,
     "rules": "learner.armored-melee",
     "prev": ["Hardy Fighter 3"],
-    "last": true,
-    "icon": "skillB/Shield_Fighter"
+    "icon": "skillB/Shield_Fighter",
+    "last": true
   },
   "Savvy Fighter 1": {
     "id": "Savvy Fighter 1",
@@ -1415,8 +1415,8 @@
     "sp": 300,
     "rules": "armored",
     "prev": ["Savvy Fighter 3"],
-    "last": true,
-    "icon": "skillB/Clever_Fighter"
+    "icon": "skillB/Clever_Fighter",
+    "last": true
   },
   "Poison Strike 1": {
     "id": "Poison Strike 1",
@@ -1446,19 +1446,19 @@
     "id": "Assassin's Strike",
     "name": "理之蛇毒",
     "sp": 300,
-    "prev": ["Poison Strike 3"],
     "rules": "learner.def-dmger",
-    "last": true,
-    "icon": "skillB/Assassin's_Strike"
+    "prev": ["Poison Strike 3"],
+    "icon": "skillB/Assassin's_Strike",
+    "last": true
   },
   "Occultist's Strike": {
     "id": "Occultist's Strike",
     "name": "魔之蛇毒",
     "sp": 300,
-    "prev": ["Poison Strike 3"],
     "rules": "learner.res-dmg-not-staff",
-    "last": true,
-    "icon": "skillB/Occultist's_Strike"
+    "prev": ["Poison Strike 3"],
+    "icon": "skillB/Occultist's_Strike",
+    "last": true
   },
   "Renewal 1": {
     "id": "Renewal 1",
@@ -1509,10 +1509,10 @@
     "id": "Called to Serve",
     "name": "激勵・強化無效",
     "sp": 300,
-    "prev": ["Live to Serve 3"],
     "rules": "white-staff",
-    "last": true,
-    "icon": "skillB/Called_to_Serve"
+    "prev": ["Live to Serve 3"],
+    "icon": "skillB/Called_to_Serve",
+    "last": true
   },
   "Seal Atk 1": {
     "id": "Seal Atk 1",
@@ -2115,51 +2115,51 @@
     "name": "攻擊防守擾亂3",
     "sp": 300,
     "prev": ["Sabotage Atk 3", "Sabotage Def 3"],
-    "last": true,
-    "icon": "skillB/Sabotage_A_D_3"
+    "icon": "skillB/Sabotage_A_D_3",
+    "last": true
   },
   "Sabotage A/R 3": {
     "id": "Sabotage A/R 3",
     "name": "攻擊魔防擾亂3",
     "sp": 300,
     "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
-    "last": true,
-    "icon": "skillB/Sabotage_A_R_3"
+    "icon": "skillB/Sabotage_A_R_3",
+    "last": true
   },
   "Sabotage S/R 3": {
     "id": "Sabotage S/R 3",
     "name": "速度魔防擾亂3",
     "sp": 300,
     "prev": ["Sabotage Spd 3", "Sabotage Res 3"],
-    "last": true,
-    "icon": "skillB/Sabotage_S_R_3"
+    "icon": "skillB/Sabotage_S_R_3",
+    "last": true
   },
   "Atk/Res Discord": {
     "id": "Atk/Res Discord",
     "name": "攻擊魔防的不和",
     "sp": 300,
-    "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
     "rules": "learner.infantry-flying",
-    "last": true,
-    "icon": "skillB/Atk_Res_Discord"
+    "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
+    "icon": "skillB/Atk_Res_Discord",
+    "last": true
   },
   "Spd/Res Discord": {
     "id": "Spd/Res Discord",
     "name": "速度魔防的不和",
     "sp": 300,
-    "prev": ["Sabotage Spd 3", "Sabotage Res 3"],
     "rules": "learner.infantry-flying",
-    "last": true,
-    "icon": "skillB/Spd_Res_Discord"
+    "prev": ["Sabotage Spd 3", "Sabotage Res 3"],
+    "icon": "skillB/Spd_Res_Discord",
+    "last": true
   },
   "Def/Res Discord": {
     "id": "Def/Res Discord",
     "name": "防守魔防的不和",
     "sp": 300,
-    "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
     "rules": "learner.infantry-flying",
-    "last": true,
-    "icon": "skillB/Def_Res_Discord"
+    "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
+    "icon": "skillB/Def_Res_Discord",
+    "last": true
   },
   "Sudden Panic 1": {
     "id": "Sudden Panic 1",
@@ -2399,15 +2399,15 @@
     "id": "Live for Honor",
     "name": "榮耀之喜悅",
     "sp": 100,
-    "last": true,
-    "icon": "skillB/Live_for_Honor"
+    "icon": "skillB/Live_for_Honor",
+    "last": true
   },
   "Live for Bounty": {
     "id": "Live for Bounty",
     "name": "豐饒之喜悅",
     "sp": 100,
-    "last": true,
-    "icon": "skillB/Live_for_Bounty"
+    "icon": "skillB/Live_for_Bounty",
+    "last": true
   },
   "Windsweep 1": {
     "id": "Windsweep 1",
@@ -2492,8 +2492,8 @@
     "sp": 300,
     "rules": "melee",
     "prev": ["Guard 3"],
-    "last": true,
-    "icon": "skillB/Reopening"
+    "icon": "skillB/Reopening",
+    "last": true
   },
   "Wrathful Staff 1": {
     "id": "Wrathful Staff 1",
@@ -2523,18 +2523,18 @@
     "id": "Poetic Justice",
     "name": "神罰・因果報應",
     "sp": 300,
-    "prev": ["Wrathful Staff 3"],
     "rules": "white-staff",
-    "last": true,
-    "icon": "skillB/Poetic_Justice"
+    "prev": ["Wrathful Staff 3"],
+    "icon": "skillB/Poetic_Justice",
+    "last": true
   },
   "Wrathful Tempo": {
     "id": "Wrathful Tempo",
     "name": "神罰・節拍",
     "sp": 300,
     "rules": "learner.infantry-white-staff",
-    "last": true,
-    "icon": "skillB/Wrathful_Tempo"
+    "icon": "skillB/Wrathful_Tempo",
+    "last": true
   },
   "Dazzling Staff 1": {
     "id": "Dazzling Staff 1",
@@ -2564,26 +2564,26 @@
     "id": "Dazzling Shift",
     "name": "幻惑・轉移",
     "sp": 300,
-    "prev": ["Dazzling Staff 3"],
     "rules": "white-staff",
-    "last": true,
-    "icon": "skillB/Dazzling_Shift"
+    "prev": ["Dazzling Staff 3"],
+    "icon": "skillB/Dazzling_Shift",
+    "last": true
   },
   "Dazzle Far Trace": {
     "id": "Dazzle Far Trace",
     "name": "幻惑・遠影",
     "sp": 300,
     "rules": "white-staff",
-    "last": true,
-    "icon": "skillB/Dazzle_Far_Trace"
+    "icon": "skillB/Dazzle_Far_Trace",
+    "last": true
   },
   "Dazzling Discord": {
     "id": "Dazzling Discord",
     "name": "幻惑・不和烙印",
     "sp": 300,
     "rules": "white-staff",
-    "last": true,
-    "icon": "skillB/Dazzling_Discord"
+    "icon": "skillB/Dazzling_Discord",
+    "last": true
   },
   "Shield Pulse 1": {
     "id": "Shield Pulse 1",
@@ -2694,10 +2694,10 @@
     "id": "Pegasus Rift",
     "name": "天馬裂空",
     "sp": 300,
-    "prev": ["Pegasus Flight 3", "Flow Feather 3"],
     "rules": "learner.wielderFlying",
-    "last": true,
-    "icon": "skillB/Pegasus_Rift"
+    "prev": ["Pegasus Flight 3", "Flow Feather 3"],
+    "icon": "skillB/Pegasus_Rift",
+    "last": true
   },
   "Wyvern Flight 1": {
     "id": "Wyvern Flight 1",
@@ -2728,8 +2728,8 @@
     "name": "飛龍裂空",
     "sp": 300,
     "rules": "learner.wielderFlying",
-    "last": true,
-    "icon": "skillB/Wyvern_Rift"
+    "icon": "skillB/Wyvern_Rift",
+    "last": true
   },
   "Guard Bearing 1": {
     "id": "Guard Bearing 1",
@@ -2792,10 +2792,10 @@
     "id": "Aerial Maneuvers",
     "name": "空中猛襲",
     "sp": 300,
-    "prev": ["Dive-Bomb 3"],
     "rules": "learner.flying-melee-def-dmger",
-    "last": true,
-    "icon": "skillB/Aerial_Maneuvers"
+    "prev": ["Dive-Bomb 3"],
+    "icon": "skillB/Aerial_Maneuvers",
+    "last": true
   },
   "Wrath 1": {
     "id": "Wrath 1",
@@ -3134,19 +3134,19 @@
     "id": "A/D Cantrip 3",
     "name": "攻擊防守魅惑3",
     "sp": 300,
-    "prev": ["Atk Cantrip 3", "Def Cantrip 3"],
     "rules": "not.white-staff",
-    "last": true,
-    "icon": "skillB/A_D_Cantrip_3"
+    "prev": ["Atk Cantrip 3", "Def Cantrip 3"],
+    "icon": "skillB/A_D_Cantrip_3",
+    "last": true
   },
   "A/R Cantrip 3": {
     "id": "A/R Cantrip 3",
     "name": "攻擊魔防魅惑3",
     "sp": 300,
-    "prev": ["Atk Cantrip 3", "Res Cantrip 3"],
     "rules": "not.white-staff",
-    "last": true,
-    "icon": "skillB/A_R_Cantrip_3"
+    "prev": ["Atk Cantrip 3", "Res Cantrip 3"],
+    "icon": "skillB/A_R_Cantrip_3",
+    "last": true
   },
   "Dull Close 1": {
     "id": "Dull Close 1",
@@ -3521,10 +3521,10 @@
     "id": "Spd/Def Detect",
     "name": "速度防守看破",
     "sp": 300,
-    "prev": ["Spd/Def Snag 3"],
     "rules": "learner.cavalry-flying-not-staff",
-    "last": true,
-    "icon": "skillB/Spd_Def_Detect"
+    "prev": ["Spd/Def Snag 3"],
+    "icon": "skillB/Spd_Def_Detect",
+    "last": true
   },
   "Atk Feint 1": {
     "id": "Atk Feint 1",
@@ -3846,16 +3846,16 @@
     "name": "理之識破・追擊",
     "sp": 300,
     "rules": "learner.infantry-def-dmger",
-    "last": true,
-    "icon": "skillB/Phys._Null_Follow"
+    "icon": "skillB/Phys._Null_Follow",
+    "last": true
   },
   "Mag. Null Follow": {
     "id": "Mag. Null Follow",
     "name": "魔之識破・追擊",
     "sp": 300,
     "rules": "learner.infantry-res-dmger",
-    "last": true,
-    "icon": "skillB/Mag._Null_Follow"
+    "icon": "skillB/Mag._Null_Follow",
+    "last": true
   },
   "Null C-Disrupt 1": {
     "id": "Null C-Disrupt 1",
@@ -3957,16 +3957,16 @@
     "name": "解除陷阱・神速",
     "sp": 300,
     "rules": "learner.infantry-cavalry-flying-dagger",
-    "last": true,
-    "icon": "skillB/Potent_Disarm"
+    "icon": "skillB/Potent_Disarm",
+    "last": true
   },
   "Full Disarm": {
     "id": "Full Disarm",
     "name": "解除陷阱・周到",
     "sp": 300,
     "rules": "learner.infantry-cavalry-flying-dagger",
-    "last": true,
-    "icon": "skillB/Full_Disarm"
+    "icon": "skillB/Full_Disarm",
+    "last": true
   },
   "Lull Atk/Spd 1": {
     "id": "Lull Atk/Spd 1",
@@ -4268,8 +4268,8 @@
     "sp": 300,
     "rules": "learner.wielderInfantry",
     "prev": ["Shield Pulse 3"],
-    "last": true,
-    "icon": "skillB/Buffer_4"
+    "icon": "skillB/Buffer_4",
+    "last": true
   },
   "Dragon's Ire 1": {
     "id": "Dragon's Ire 1",
@@ -4308,10 +4308,10 @@
     "id": "Dragon's Scales",
     "name": "龍的硬鱗",
     "sp": 300,
-    "prev": ["Dragon's Ire 3"],
     "rules": "dragon",
-    "last": true,
-    "icon": "skillB/Dragon's_Scales"
+    "prev": ["Dragon's Ire 3"],
+    "icon": "skillB/Dragon's_Scales",
+    "last": true
   },
   "Dragon Wall 1": {
     "id": "Dragon Wall 1",
@@ -4343,8 +4343,8 @@
     "sp": 400,
     "rules": "dragon",
     "prev": ["Dragon Wall 3"],
-    "last": true,
-    "icon": "skillB/High_Dragon_Wall"
+    "icon": "skillB/High_Dragon_Wall",
+    "last": true
   },
   "Dragon's Wrath 1": {
     "id": "Dragon's Wrath 1",
@@ -4383,10 +4383,10 @@
     "id": "Edged Scales",
     "name": "龍的銳鱗",
     "sp": 300,
-    "prev": ["Dragon's Wrath 3"],
     "rules": "dragon",
-    "last": true,
-    "icon": "skillB/Edged_Scales"
+    "prev": ["Dragon's Wrath 3"],
+    "icon": "skillB/Edged_Scales",
+    "last": true
   },
   "A/S Near Trace 1": {
     "id": "A/S Near Trace 1",
@@ -4839,19 +4839,19 @@
     "id": "Flow Desperation",
     "name": "怒濤・猛攻",
     "sp": 300,
-    "prev": ["Desperation 3"],
     "rules": "learner.wielderCavalryFlying",
-    "last": true,
-    "icon": "skillB/Flow_Desperation"
+    "prev": ["Desperation 3"],
+    "icon": "skillB/Flow_Desperation",
+    "last": true
   },
   "Assault Force": {
     "id": "Assault Force",
     "name": "強攻・不屈",
     "sp": 300,
-    "prev": ["Flow Force 3"],
     "rules": "learner.wielderCavalryFlying",
-    "last": true,
-    "icon": "skillB/Assault_Force"
+    "prev": ["Flow Force 3"],
+    "icon": "skillB/Assault_Force",
+    "last": true
   },
   "Atk/Res Tempo 1": {
     "id": "Atk/Res Tempo 1",
@@ -5079,28 +5079,28 @@
     "id": "A/S Spiked Wall",
     "name": "攻擊速度的刃牆",
     "sp": 300,
-    "prev": ["Atk/Def Bulwark 3"],
     "rules": "learner.infantry-melee",
-    "last": true,
-    "icon": "skillB/A_S_Spiked_Wall"
+    "prev": ["Atk/Def Bulwark 3"],
+    "icon": "skillB/A_S_Spiked_Wall",
+    "last": true
   },
   "A/D Spiked Wall": {
     "id": "A/D Spiked Wall",
     "name": "攻擊防守的刃牆",
     "sp": 300,
-    "prev": ["Atk/Def Bulwark 3"],
     "rules": "learner.infantry-melee",
-    "last": true,
-    "icon": "skillB/A_D_Spiked_Wall"
+    "prev": ["Atk/Def Bulwark 3"],
+    "icon": "skillB/A_D_Spiked_Wall",
+    "last": true
   },
   "S/R Spiked Wall": {
     "id": "S/R Spiked Wall",
     "name": "速度魔防的刃牆",
     "sp": 300,
-    "prev": ["Spd/Res Bulwark 3"],
     "rules": "learner.infantry-melee",
-    "last": true,
-    "icon": "skillB/S_R_Spiked_Wall"
+    "prev": ["Spd/Res Bulwark 3"],
+    "icon": "skillB/S_R_Spiked_Wall",
+    "last": true
   },
   "Spd Preempt 1": {
     "id": "Spd Preempt 1",
@@ -5277,19 +5277,19 @@
     "id": "Bestial Agility",
     "name": "獸影・敏捷",
     "sp": 300,
-    "prev": ["Beast Agility 3", "Beast Follow-Up 3"],
     "rules": "beast",
-    "last": true,
-    "icon": "skillB/Bestial_Agility"
+    "prev": ["Beast Agility 3", "Beast Follow-Up 3"],
+    "icon": "skillB/Bestial_Agility",
+    "last": true
   },
   "Bestial Assault": {
     "id": "Bestial Assault",
     "name": "獸影・強攻",
     "sp": 300,
-    "prev": ["Beast Agility 3", "Beast Follow-Up 3"],
     "rules": "beast",
-    "last": true,
-    "icon": "skillB/Bestial_Assault"
+    "prev": ["Beast Agility 3", "Beast Follow-Up 3"],
+    "icon": "skillB/Bestial_Assault",
+    "last": true
   },
   "Gambit 1": {
     "id": "Gambit 1",
@@ -5427,10 +5427,10 @@
     "id": "Laguz Loyalty",
     "name": "不動・剎那",
     "sp": 300,
-    "prev": ["Laguz Friend 3"],
     "rules": "infantry",
-    "last": true,
-    "icon": "skillB/Laguz_Loyalty"
+    "prev": ["Laguz Friend 3"],
+    "icon": "skillB/Laguz_Loyalty",
+    "last": true
   },
   "Magic Gambit 1": {
     "id": "Magic Gambit 1",
@@ -5502,10 +5502,10 @@
     "id": "A/R Far Resound",
     "name": "共鳴・攻魔遠影",
     "sp": 300,
-    "prev": ["Resonance 3", "A/R Far Trace 3"],
     "rules": "learner.cavalry-flying-tome",
-    "last": true,
-    "icon": "skillB/A_R_Far_Resound"
+    "prev": ["Resonance 3", "A/R Far Trace 3"],
+    "icon": "skillB/A_R_Far_Resound",
+    "last": true
   },
   "Momentum 1": {
     "id": "Momentum 1",

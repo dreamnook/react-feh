@@ -4,99 +4,99 @@
     "name": "邪龍之鱗・承",
     "sp": 300,
     "exclusive": ["Robin - Fell Vessel"],
-    "last": true,
-    "icon": "skillA/Dragonskin_II"
+    "icon": "skillA/Dragonskin_II",
+    "last": true
   },
   "Dragonskin": {
     "id": "Dragonskin",
     "name": "邪龍之鱗",
     "sp": 300,
     "exclusive": ["Robin - Fell Vessel"],
-    "last": true,
-    "icon": "skillA/Dragonskin"
+    "icon": "skillA/Dragonskin",
+    "last": true
   },
   "Laws of Sacae II": {
     "id": "Laws of Sacae II",
     "name": "塞迦的規矩・承",
     "sp": 300,
     "exclusive": ["Lyn - Lady of the Wind"],
-    "last": true,
-    "icon": "skillA/Laws_of_Sacae_II"
+    "icon": "skillA/Laws_of_Sacae_II",
+    "last": true
   },
   "Laws of Sacae": {
     "id": "Laws of Sacae",
     "name": "塞迦的規矩",
     "sp": 300,
     "exclusive": ["Lyn - Lady of the Wind"],
-    "last": true,
-    "icon": "skillA/Laws_of_Sacae"
+    "icon": "skillA/Laws_of_Sacae",
+    "last": true
   },
   "Ostian Counter": {
     "id": "Ostian Counter",
     "name": "奧斯提亞反擊",
     "sp": 350,
     "exclusive": ["Hector - Brave Warrior"],
-    "last": true,
-    "icon": "skillA/Ostian_Counter"
+    "icon": "skillA/Ostian_Counter",
+    "last": true
   },
   "Scendscale": {
     "id": "Scendscale",
     "name": "霸神斷龍劍",
     "sp": 300,
     "exclusive": ["Alm - Imperial Ascent"],
-    "last": true,
-    "icon": "skillA/Scendscale"
+    "icon": "skillA/Scendscale",
+    "last": true
   },
   "Ashera's Chosen+": {
     "id": "Ashera's Chosen+",
     "name": "女神的三雄・神",
     "sp": 300,
     "exclusive": ["Altina - Dawn's Trueblade"],
-    "last": true,
-    "icon": "skillA/Ashera's_Chosen+"
+    "icon": "skillA/Ashera's_Chosen+",
+    "last": true
   },
   "Ashera's Chosen": {
     "id": "Ashera's Chosen",
     "name": "女神的三雄",
     "sp": 300,
     "exclusive": ["Altina - Dawn's Trueblade"],
-    "last": true,
-    "icon": "skillA/Ashera's_Chosen"
+    "icon": "skillA/Ashera's_Chosen",
+    "last": true
   },
   "Dragoon Shield": {
     "id": "Dragoon Shield",
     "name": "赤色龍騎士之盾",
+    "sp": 300,
     "atk": 3,
     "spd": 3,
     "def": 3,
-    "sp": 300,
     "exclusive": ["Minerva - Princess-Knight"],
-    "last": true,
-    "icon": "skillA/Dragoon_Shield"
+    "icon": "skillA/Dragoon_Shield",
+    "last": true
   },
   "Dragonscale": {
     "id": "Dragonscale",
     "name": "邪龍的大鱗",
     "sp": 300,
     "exclusive": ["Robin - Fall Vessel"],
-    "last": true,
-    "icon": "skillA/Dragonscale"
+    "icon": "skillA/Dragonscale",
+    "last": true
   },
   "Verdict of Sacae": {
     "id": "Verdict of Sacae",
     "name": "偉大的塞迦的規矩",
     "sp": 300,
     "exclusive": ["Lyn - Blazing Whirlwind"],
-    "last": true,
-    "icon": "skillA/Verdict_of_Sacae"
+    "icon": "skillA/Verdict_of_Sacae",
+    "last": true
   },
   "Dragonhide": {
     "id": "Dragonhide",
     "name": "邪龍的重鱗",
     "sp": 300,
     "exclusive": ["Robin - Fell Tactician"],
-    "last": true,
-    "icon": "skillA/Dragonhide"
+    "icon": "skillA/Dragonhide",
+    "last": true
   },
   "Duality": {
     "id": "Duality",
@@ -105,100 +105,100 @@
     "atk": 9,
     "res": 9,
     "exclusive": ["Arval - Cycle Keeper"],
-    "last": true,
-    "icon": "skillA/Duality"
+    "icon": "skillA/Duality",
+    "last": true
   },
   "Swift Slice": {
     "id": "Swift Slice",
     "name": "連閃",
     "sp": 300,
     "exclusive": ["Shez - Sharpest Blades", "Shez - Mercenary Shine"],
-    "last": true,
-    "icon": "skillA/Swift_Slice"
+    "icon": "skillA/Swift_Slice",
+    "last": true
   },
   "Self-Improver": {
     "id": "Self-Improver",
     "name": "自己專研",
+    "sp": 300,
     "atk": 10,
     "spd": 5,
     "def": 20,
     "res": -5,
-    "sp": 300,
     "exclusive": ["Alfred - Floral Protector"],
-    "last": true,
-    "icon": "skillA/Self-Improver"
+    "icon": "skillA/Self-Improver",
+    "last": true
   },
   "Gift of Magic": {
     "id": "Gift of Magic",
     "name": "向人傳授魔道者",
     "sp": 300,
     "exclusive": ["Gotoh - White Sage"],
-    "last": true,
-    "icon": "skillA/Gift_of_Magic"
+    "icon": "skillA/Gift_of_Magic",
+    "last": true
   },
   "Nightmare": {
     "id": "Nightmare",
     "name": "漆黑的惡夢",
     "sp": 300,
     "exclusive": ["Fomortiis - Demon King"],
-    "last": true,
-    "icon": "skillA/Nightmare"
+    "icon": "skillA/Nightmare",
+    "last": true
   },
   "Part of the Plan": {
     "id": "Part of the Plan",
     "name": "這也是計策的一部份",
     "sp": 300,
     "exclusive": ["Robin - Exalt's Other Half"],
-    "last": true,
-    "icon": "skillA/Part_of_the_Plan"
+    "icon": "skillA/Part_of_the_Plan",
+    "last": true
   },
   "Ostia's Heart": {
     "id": "Ostia's Heart",
     "name": "奧斯提亞之魂",
     "sp": 300,
     "exclusive": ["Hector - Sworn Friend"],
-    "last": true,
-    "icon": "skillA/Ostia's_Heart"
+    "icon": "skillA/Ostia's_Heart",
+    "last": true
   },
   "Knightly Devotion": {
     "id": "Knightly Devotion",
     "name": "忠義之槍",
     "sp": 300,
     "exclusive": ["Ingrid - Beacon of Honor"],
-    "last": true,
-    "icon": "skillA/Knightly_Devotion"
+    "icon": "skillA/Knightly_Devotion",
+    "last": true
   },
   "Power of Nihility": {
     "id": "Power of Nihility",
     "name": "虛無之力",
     "sp": 300,
     "exclusive": ["Eitr - Hand of Nothing"],
-    "last": true,
-    "icon": "skillA/Power_of_Nihility"
+    "icon": "skillA/Power_of_Nihility",
+    "last": true
   },
   "Mastermind": {
     "id": "Mastermind",
     "name": "天才",
     "sp": 300,
     "exclusive": ["Lysithea - Tea Sweetener"],
-    "last": true,
-    "icon": "skillA/Mastermind"
+    "icon": "skillA/Mastermind",
+    "last": true
   },
   "Realms United": {
     "id": "Realms United",
     "name": "與白夜和暗夜同在",
     "sp": 300,
     "exclusive": ["Corrin - Silent Bloodline"],
-    "last": true,
-    "icon": "skillA/Realms_United"
+    "icon": "skillA/Realms_United",
+    "last": true
   },
   "Rare Talent": {
     "id": "Rare Talent",
     "name": "稀世的魔道天賦",
     "sp": 300,
     "exclusive": ["Soren - Radiant Confidant"],
-    "last": true,
-    "icon": "skillA/Rare_Talent"
+    "icon": "skillA/Rare_Talent",
+    "last": true
   },
   "Beyond Witchery": {
     "id": "Beyond Witchery",
@@ -209,89 +209,89 @@
     "def": 8,
     "res": 8,
     "exclusive": ["Sonya - Beautiful Mage"],
-    "last": true,
-    "icon": "skillA/Beyond_Witchery"
+    "icon": "skillA/Beyond_Witchery",
+    "last": true
   },
   "Thunder's Fist": {
     "id": "Thunder's Fist",
     "name": "雷神的親信",
     "sp": 300,
     "exclusive": ["Reinhardt - Thrud Reborn"],
-    "last": true,
-    "icon": "skillA/Thunder's_Fist"
+    "icon": "skillA/Thunder's_Fist",
+    "last": true
   },
   "Gray Illusion": {
     "id": "Gray Illusion",
     "name": "深灰色的迷夢",
     "sp": 300,
     "exclusive": ["Lyon - Esteemed Royals"],
-    "last": true,
-    "icon": "skillA/Gray_Illusion"
+    "icon": "skillA/Gray_Illusion",
+    "last": true
   },
   "Obsession": {
     "id": "Obsession",
     "name": "執著",
     "sp": 300,
     "exclusive": ["Ivy - Snow Queen"],
-    "last": true,
-    "icon": "skillA/Obsession"
+    "icon": "skillA/Obsession",
+    "last": true
   },
   "Emblems' Miracle": {
     "id": "Emblems' Miracle",
     "name": "紋章奇蹟",
     "sp": 300,
     "exclusive": ["Alear - Engaging Fire", "Alear - Gifted Dragons"],
-    "last": true,
-    "icon": "skillA/Emblems'_Miracle"
+    "icon": "skillA/Emblems'_Miracle",
+    "last": true
   },
   "Fell Wyrmscale": {
     "id": "Fell Wyrmscale",
     "name": "邪龍的暗鱗",
     "sp": 300,
     "exclusive": ["Robin - Vessels of Fate"],
-    "last": true,
-    "icon": "skillA/Fell_Wyrmscale"
+    "icon": "skillA/Fell_Wyrmscale",
+    "last": true
   },
   "Obsidian Tactics": {
     "id": "Obsidian Tactics",
     "name": "黑曜石的教誨",
     "sp": 300,
     "exclusive": ["Amelia - Blossoming Talent"],
-    "last": true,
-    "icon": "skillA/Obsidian_Tactics"
+    "icon": "skillA/Obsidian_Tactics",
+    "last": true
   },
   "Divine Toxin": {
     "id": "Divine Toxin",
     "name": "神獸的劇毒",
     "sp": 300,
     "exclusive": ["Níðhöggr - Quieting Dose", "Níðhöggr - Daze of Healing"],
-    "last": true,
-    "icon": "skillA/Divine_Toxin"
+    "icon": "skillA/Divine_Toxin",
+    "last": true
   },
   "Oath of Ostia": {
     "id": "Oath of Ostia",
     "name": "奧斯提亞的血盟",
-    "hp": 5,
     "sp": 300,
+    "hp": 5,
     "exclusive": ["Hector - Steel Warrior"],
-    "last": true,
-    "icon": "skillA/Oath_of_Ostia"
+    "icon": "skillA/Oath_of_Ostia",
+    "last": true
   },
   "Leaden Regrets": {
     "id": "Leaden Regrets",
     "name": "鉛色殘夢",
     "sp": 300,
     "exclusive": ["Fomortiis - Dark of Night"],
-    "last": true,
-    "icon": "skillA/Leaden_Regrets"
+    "icon": "skillA/Leaden_Regrets",
+    "last": true
   },
   "Swift Ice": {
     "id": "Swift Ice",
     "name": "真連閃",
     "sp": 300,
     "exclusive": ["Shez - Snowfield Envoy"],
-    "last": true,
-    "icon": "skillA/Swift_Ice"
+    "icon": "skillA/Swift_Ice",
+    "last": true
   },
   "Beyond Reason": {
     "id": "Beyond Reason",
@@ -301,32 +301,32 @@
     "def": 10,
     "res": 10,
     "exclusive": ["Athos - Omniscient One"],
-    "last": true,
-    "icon": "skillA/Beyond_Reason"
+    "icon": "skillA/Beyond_Reason",
+    "last": true
   },
   "Protective": {
     "id": "Protective",
     "name": "守護者",
     "sp": 300,
     "exclusive": ["Nel - Stoic Dragon"],
-    "last": true,
-    "icon": "skillA/Protective"
+    "icon": "skillA/Protective",
+    "last": true
   },
   "Trained to Kill": {
     "id": "Trained to Kill",
     "name": "殺人技術",
     "sp": 300,
     "exclusive": ["Yunaka - Hidden Mask"],
-    "last": true,
-    "icon": "skillA/Trained_to_Kill"
+    "icon": "skillA/Trained_to_Kill",
+    "last": true
   },
   "Nihility's Undoing": {
     "id": "Nihility's Undoing",
     "name": "突破虛無的惡夢之力",
     "sp": 300,
     "exclusive": ["Eitr - Spring Sunrise"],
-    "last": true,
-    "icon": "skillA/Nihility's_Undoing"
+    "icon": "skillA/Nihility's_Undoing",
+    "last": true
   },
   "HP 1": {
     "id": "HP 1",
@@ -726,24 +726,24 @@
   "Stronghold": {
     "id": "Stronghold",
     "name": "監牢城塞",
+    "sp": 300,
     "atk": -3,
     "def": 7,
     "res": 7,
-    "sp": 300,
-    "last": true,
-    "icon": "skillA/Stronghold"
+    "icon": "skillA/Stronghold",
+    "last": true
   },
   "Fortifications": {
     "id": "Fortifications",
     "name": "野戰築城",
+    "sp": 300,
     "atk": -5,
     "def": 7,
     "res": 7,
-    "sp": 300,
-    "prev": ["Fort. Def/Res 2"],
     "rules": "melee",
-    "last": true,
-    "icon": "skillA/Fortifications"
+    "prev": ["Fort. Def/Res 2"],
+    "icon": "skillA/Fortifications",
+    "last": true
   },
   "Fury 1": {
     "id": "Fury 1",
@@ -935,19 +935,19 @@
     "res": -8,
     "rules": "not.white-staff",
     "prev": ["Life and Death 3"],
-    "last": true,
-    "icon": "skillA/Verge_of_Death"
+    "icon": "skillA/Verge_of_Death",
+    "last": true
   },
   "Crystalline Water": {
     "id": "Crystalline Water",
     "name": "明鏡止水",
+    "sp": 300,
     "atk": 8,
     "def": -8,
     "res": 8,
-    "sp": 300,
     "prev": ["Still Water 3"],
-    "last": true,
-    "icon": "skillA/Crystalline_Water"
+    "icon": "skillA/Crystalline_Water",
+    "last": true
   },
   "Death Blow 1": {
     "id": "Death Blow 1",
@@ -1112,8 +1112,8 @@
     "sp": 300,
     "rules": "learner.infantry-flying-not-staff",
     "prev": ["Sturdy Blow 2"],
-    "last": true,
-    "icon": "skillA/Sturdy_Impact"
+    "icon": "skillA/Sturdy_Impact",
+    "last": true
   },
   "Mirror Strike 1": {
     "id": "Mirror Strike 1",
@@ -1138,8 +1138,8 @@
     "sp": 300,
     "rules": "learner.infantry-flying-not-staff",
     "prev": ["Mirror Strike 2"],
-    "last": true,
-    "icon": "skillA/Mirror_Impact"
+    "icon": "skillA/Mirror_Impact",
+    "last": true
   },
   "Steady Blow 1": {
     "id": "Steady Blow 1",
@@ -1164,8 +1164,8 @@
     "sp": 300,
     "rules": "learner.infantry-flying-not-staff",
     "prev": ["Steady Blow 2"],
-    "last": true,
-    "icon": "skillA/Steady_Impact"
+    "icon": "skillA/Steady_Impact",
+    "last": true
   },
   "Swift Strike 1": {
     "id": "Swift Strike 1",
@@ -1190,8 +1190,8 @@
     "sp": 300,
     "rules": "learner.infantry-flying-not-staff",
     "prev": ["Swift Strike 2"],
-    "last": true,
-    "icon": "skillA/Swift_Impact"
+    "icon": "skillA/Swift_Impact",
+    "last": true
   },
   "Bracing Blow 1": {
     "id": "Bracing Blow 1",
@@ -1216,8 +1216,8 @@
     "sp": 300,
     "rules": "melee",
     "prev": ["Swift Sparrow 2"],
-    "last": true,
-    "icon": "skillA/Surge_Sparrow"
+    "icon": "skillA/Surge_Sparrow",
+    "last": true
   },
   "Sturdy Surge": {
     "id": "Sturdy Surge",
@@ -1225,8 +1225,8 @@
     "sp": 300,
     "rules": "melee",
     "prev": ["Sturdy Blow 2"],
-    "last": true,
-    "icon": "skillA/Sturdy_Surge"
+    "icon": "skillA/Sturdy_Surge",
+    "last": true
   },
   "Remote Sparrow": {
     "id": "Remote Sparrow",
@@ -1234,8 +1234,8 @@
     "sp": 300,
     "rules": "learner.ranged-not-staff",
     "prev": ["Swift Sparrow 2"],
-    "last": true,
-    "icon": "skillA/Remote_Sparrow"
+    "icon": "skillA/Remote_Sparrow",
+    "last": true
   },
   "Remote Sturdy": {
     "id": "Remote Sturdy",
@@ -1243,8 +1243,8 @@
     "sp": 300,
     "rules": "learner.ranged-not-staff",
     "prev": ["Sturdy Blow 2"],
-    "last": true,
-    "icon": "skillA/Remote_Sturdy"
+    "icon": "skillA/Remote_Sturdy",
+    "last": true
   },
   "Remote Mirror": {
     "id": "Remote Mirror",
@@ -1252,8 +1252,8 @@
     "sp": 300,
     "rules": "learner.ranged-not-staff",
     "prev": ["Mirror Strike 2"],
-    "last": true,
-    "icon": "skillA/Remote_Mirror"
+    "icon": "skillA/Remote_Mirror",
+    "last": true
   },
   "Flash Sparrow": {
     "id": "Flash Sparrow",
@@ -1261,35 +1261,35 @@
     "sp": 300,
     "rules": "learner.infantry-armored-not-staff",
     "prev": ["Flashing Blade 3", "Swift Sparrow 2"],
-    "last": true,
-    "icon": "skillA/Flash_Sparrow"
+    "icon": "skillA/Flash_Sparrow",
+    "last": true
   },
   "Flared Sparrow": {
     "id": "Flared Sparrow",
     "name": "鬼神飛燕炎擊",
     "sp": 300,
-    "prev": ["Swift Sparrow 2"],
     "rules": "learner.cavalry-flying-not-staff",
-    "last": true,
-    "icon": "skillA/Flared_Sparrow"
+    "prev": ["Swift Sparrow 2"],
+    "icon": "skillA/Flared_Sparrow",
+    "last": true
   },
   "Flared Mirror": {
     "id": "Flared Mirror",
     "name": "鬼神明鏡炎擊",
     "sp": 300,
-    "prev": ["Mirror Strike 2"],
     "rules": "learner.cavalry-flying-not-staff",
-    "last": true,
-    "icon": "skillA/Flared_Mirror"
+    "prev": ["Mirror Strike 2"],
+    "icon": "skillA/Flared_Mirror",
+    "last": true
   },
   "Sly Swift Sparrow": {
     "id": "Sly Swift Sparrow",
     "name": "鬼神飛燕掩擊",
     "sp": 300,
-    "prev": ["Swift Sparrow 2"],
     "rules": "not.white-staff",
-    "last": true,
-    "icon": "skillA/Sly_Swift_Sparrow"
+    "prev": ["Swift Sparrow 2"],
+    "icon": "skillA/Sly_Swift_Sparrow",
+    "last": true
   },
   "Sly Sturdy Blow": {
     "id": "Sly Sturdy Blow",
@@ -1297,8 +1297,8 @@
     "sp": 300,
     "rules": "not.white-staff",
     "prev": ["Sturdy Blow 2"],
-    "last": true,
-    "icon": "skillA/Sly_Sturdy_Blow"
+    "icon": "skillA/Sly_Sturdy_Blow",
+    "last": true
   },
   "Sly Mirror": {
     "id": "Sly Mirror",
@@ -1306,8 +1306,8 @@
     "sp": 300,
     "rules": "not.white-staff",
     "prev": ["Mirror Strike 2"],
-    "last": true,
-    "icon": "skillA/Sly_Mirror"
+    "icon": "skillA/Sly_Mirror",
+    "last": true
   },
   "Fierce Stance 1": {
     "id": "Fierce Stance 1",
@@ -1577,8 +1577,8 @@
     "sp": 240,
     "rules": "learner.infantry-armored-melee",
     "prev": ["Fierce Stance 2"],
-    "last": true,
-    "icon": "skillA/Fierce_Breath"
+    "icon": "skillA/Fierce_Breath",
+    "last": true
   },
   "Darting Breath": {
     "id": "Darting Breath",
@@ -1586,8 +1586,8 @@
     "sp": 240,
     "rules": "learner.infantry-armored-melee",
     "prev": ["Darting Stance 2"],
-    "last": true,
-    "icon": "skillA/Darting_Breath"
+    "icon": "skillA/Darting_Breath",
+    "last": true
   },
   "Steady Breath": {
     "id": "Steady Breath",
@@ -1595,8 +1595,8 @@
     "sp": 240,
     "rules": "learner.infantry-armored-melee",
     "prev": ["Steady Stance 2"],
-    "last": true,
-    "icon": "skillA/Steady_Breath"
+    "icon": "skillA/Steady_Breath",
+    "last": true
   },
   "Warding Breath": {
     "id": "Warding Breath",
@@ -1604,8 +1604,8 @@
     "sp": 240,
     "rules": "learner.infantry-armored-melee",
     "prev": ["Warding Stance 2"],
-    "last": true,
-    "icon": "skillA/Warding_Breath"
+    "icon": "skillA/Warding_Breath",
+    "last": true
   },
   "Defiant Atk 1": {
     "id": "Defiant Atk 1",
@@ -1854,26 +1854,26 @@
     "name": "近距離反擊",
     "sp": 300,
     "rules": "ranged",
-    "last": true,
-    "icon": "skillA/Close_Counter"
+    "icon": "skillA/Close_Counter",
+    "last": true
   },
   "Close Reversal": {
     "id": "Close Reversal",
     "name": "近反・金剛架勢",
     "sp": 300,
-    "prev": ["Close Counter"],
     "rules": "ranged",
-    "last": true,
-    "icon": "skillA/Close_Reversal"
+    "prev": ["Close Counter"],
+    "icon": "skillA/Close_Reversal",
+    "last": true
   },
   "Close Salvo": {
     "id": "Close Salvo",
     "name": "近反・攻擊的奮擊",
     "sp": 300,
-    "prev": ["Close Counter"],
     "rules": "ranged",
-    "last": true,
-    "icon": "skillA/Close_Salvo"
+    "prev": ["Close Counter"],
+    "icon": "skillA/Close_Salvo",
+    "last": true
   },
   "C Bonus Doubler": {
     "id": "C Bonus Doubler",
@@ -1881,32 +1881,32 @@
     "sp": 300,
     "rules": "learner.infantry-ranged",
     "prev": ["Close Counter"],
-    "last": true,
-    "icon": "skillA/C_Bonus_Doubler"
+    "icon": "skillA/C_Bonus_Doubler",
+    "last": true
   },
   "Close Foil": {
     "id": "Close Foil",
     "name": "金剛反擊・近距離",
     "sp": 300,
     "rules": "ranged",
-    "last": true,
-    "icon": "skillA/Close_Foil"
+    "icon": "skillA/Close_Foil",
+    "last": true
   },
   "Close Ward": {
     "id": "Close Ward",
     "name": "明鏡反擊・近距離",
     "sp": 300,
     "rules": "ranged",
-    "last": true,
-    "icon": "skillA/Close_Ward"
+    "icon": "skillA/Close_Ward",
+    "last": true
   },
   "Distant Counter": {
     "id": "Distant Counter",
     "name": "遠距離反擊",
     "sp": 300,
     "rules": "melee",
-    "last": true,
-    "icon": "skillA/Distant_Counter"
+    "icon": "skillA/Distant_Counter",
+    "last": true
   },
   "Distant Storm": {
     "id": "Distant Storm",
@@ -1914,26 +1914,26 @@
     "sp": 300,
     "rules": "melee",
     "prev": ["Distant Counter"],
-    "last": true,
-    "icon": "skillA/Distant_Storm"
+    "icon": "skillA/Distant_Storm",
+    "last": true
   },
   "Distant Pressure": {
     "id": "Distant Pressure",
     "name": "遠反・速度的奮擊",
     "sp": 300,
-    "prev": ["Distant Counter"],
     "rules": "melee",
-    "last": true,
-    "icon": "skillA/Distant_Pressure"
+    "prev": ["Distant Counter"],
+    "icon": "skillA/Distant_Pressure",
+    "last": true
   },
   "Distant Ferocity": {
     "id": "Distant Ferocity",
     "name": "遠反・鬼神架勢",
     "sp": 300,
-    "prev": ["Distant Counter"],
     "rules": "melee",
-    "last": true,
-    "icon": "skillA/Distant_Ferocity"
+    "prev": ["Distant Counter"],
+    "icon": "skillA/Distant_Ferocity",
+    "last": true
   },
   "Distant Dart": {
     "id": "Distant Dart",
@@ -1941,26 +1941,26 @@
     "sp": 300,
     "rules": "melee",
     "prev": ["Distant Counter"],
-    "last": true,
-    "icon": "skillA/Distant_Dart"
+    "icon": "skillA/Distant_Dart",
+    "last": true
   },
   "Distant Reversal": {
     "id": "Distant Reversal",
     "name": "遠反・金剛架勢",
     "sp": 300,
-    "prev": ["Distant Counter"],
     "rules": "melee",
-    "last": true,
-    "icon": "skillA/Distant_Reversal"
+    "prev": ["Distant Counter"],
+    "icon": "skillA/Distant_Reversal",
+    "last": true
   },
   "Distant Stance": {
     "id": "Distant Stance",
     "name": "遠反・明鏡架勢",
     "sp": 300,
-    "prev": ["Distant Counter"],
     "rules": "melee",
-    "last": true,
-    "icon": "skillA/Distant_Stance"
+    "prev": ["Distant Counter"],
+    "icon": "skillA/Distant_Stance",
+    "last": true
   },
   "Distant A/S Solo": {
     "id": "Distant A/S Solo",
@@ -1968,8 +1968,8 @@
     "sp": 300,
     "rules": "melee",
     "prev": ["Distant Counter"],
-    "last": true,
-    "icon": "skillA/Distant_A_S_Solo"
+    "icon": "skillA/Distant_A_S_Solo",
+    "last": true
   },
   "Distant D/R Solo": {
     "id": "Distant D/R Solo",
@@ -1977,8 +1977,8 @@
     "sp": 300,
     "rules": "melee",
     "prev": ["Distant Counter"],
-    "last": true,
-    "icon": "skillA/Distant_D_R_Solo"
+    "icon": "skillA/Distant_D_R_Solo",
+    "last": true
   },
   "D Bonus Doubler": {
     "id": "D Bonus Doubler",
@@ -1986,24 +1986,24 @@
     "sp": 300,
     "rules": "learner.infantry-melee",
     "prev": ["Distant Counter"],
-    "last": true,
-    "icon": "skillA/D_Bonus_Doubler"
+    "icon": "skillA/D_Bonus_Doubler",
+    "last": true
   },
   "Distant Foil": {
     "id": "Distant Foil",
     "name": "金剛反擊・遠距離",
     "sp": 300,
     "rules": "melee",
-    "last": true,
-    "icon": "skillA/Distant_Foil"
+    "icon": "skillA/Distant_Foil",
+    "last": true
   },
   "Distant Ward": {
     "id": "Distant Ward",
     "name": "明鏡反擊・遠距離",
     "sp": 300,
     "rules": "melee",
-    "last": true,
-    "icon": "skillA/Distant_Ward"
+    "icon": "skillA/Distant_Ward",
+    "last": true
   },
   "Close Def 1": {
     "id": "Close Def 1",
@@ -2068,24 +2068,24 @@
     "name": "斯瓦爾之盾",
     "sp": 200,
     "rules": "armored",
-    "last": true,
-    "icon": "skillA/Svalinn_Shield"
+    "icon": "skillA/Svalinn_Shield",
+    "last": true
   },
   "Grani's Shield": {
     "id": "Grani's Shield",
     "name": "格拉尼之盾",
     "sp": 200,
     "rules": "cavalry",
-    "last": true,
-    "icon": "skillA/Grani's_Shield"
+    "icon": "skillA/Grani's_Shield",
+    "last": true
   },
   "Iote's Shield": {
     "id": "Iote's Shield",
     "name": "艾奧特之盾",
     "sp": 200,
     "rules": "flying",
-    "last": true,
-    "icon": "skillA/Iote's_Shield"
+    "icon": "skillA/Iote's_Shield",
+    "last": true
   },
   "Heavy Blade 1": {
     "id": "Heavy Blade 1",
@@ -2240,47 +2240,47 @@
   "Firestorm Boost 3": {
     "id": "Firestorm Boost 3",
     "name": "生命業火疾風3",
-    "hp": 5,
     "sp": 300,
+    "hp": 5,
     "prev": ["Fire Boost 3", "Wind Boost 3"],
-    "last": true,
-    "icon": "skillA/Firestorm_Boost_3"
+    "icon": "skillA/Firestorm_Boost_3",
+    "last": true
   },
   "Earthfire Boost 3": {
     "id": "Earthfire Boost 3",
     "name": "生命業火大地3",
-    "hp": 5,
     "sp": 300,
+    "hp": 5,
     "prev": ["Fire Boost 3", "Earth Boost 3"],
-    "last": true,
-    "icon": "skillA/Earthfire_Boost_3"
+    "icon": "skillA/Earthfire_Boost_3",
+    "last": true
   },
   "Fireflood Boost 3": {
     "id": "Fireflood Boost 3",
     "name": "生命業火靜水3",
-    "hp": 5,
     "sp": 300,
+    "hp": 5,
     "prev": ["Fire Boost 3", "Water Boost 3"],
-    "last": true,
-    "icon": "skillA/Fireflood_Boost_3"
+    "icon": "skillA/Fireflood_Boost_3",
+    "last": true
   },
   "Earthwind Boost 3": {
     "id": "Earthwind Boost 3",
     "name": "生命疾風大地3",
-    "hp": 5,
     "sp": 300,
+    "hp": 5,
     "prev": ["Wind Boost 3", "Earth Boost 3"],
-    "last": true,
-    "icon": "skillA/Earthwind_Boost_3"
+    "icon": "skillA/Earthwind_Boost_3",
+    "last": true
   },
   "Deluge Boost 3": {
     "id": "Deluge Boost 3",
     "name": "生命疾風靜水3",
-    "hp": 5,
     "sp": 300,
+    "hp": 5,
     "prev": ["Wind Boost 3", "Water Boost 3"],
-    "last": true,
-    "icon": "skillA/Deluge_Boost_3"
+    "icon": "skillA/Deluge_Boost_3",
+    "last": true
   },
   "Atk/Spd Bond 1": {
     "id": "Atk/Spd Bond 1",
@@ -2461,40 +2461,40 @@
     "name": "攻擊速度的連帶",
     "sp": 300,
     "prev": ["Atk/Spd Bond 3"],
-    "last": true,
-    "icon": "skillA/Atk_Spd_Unity"
+    "icon": "skillA/Atk_Spd_Unity",
+    "last": true
   },
   "Atk/Def Unity": {
     "id": "Atk/Def Unity",
     "name": "攻擊防守的連帶",
     "sp": 300,
     "prev": ["Atk/Def Bond 3"],
-    "last": true,
-    "icon": "skillA/Atk_Def_Unity"
+    "icon": "skillA/Atk_Def_Unity",
+    "last": true
   },
   "Atk/Res Unity": {
     "id": "Atk/Res Unity",
     "name": "攻擊魔防的連帶",
     "sp": 300,
     "prev": ["Atk/Res Bond 3"],
-    "last": true,
-    "icon": "skillA/Atk_Res_Unity"
+    "icon": "skillA/Atk_Res_Unity",
+    "last": true
   },
   "Spd/Def Unity": {
     "id": "Spd/Def Unity",
     "name": "速度防守的連帶",
     "sp": 300,
     "prev": ["Spd/Def Bond 3"],
-    "last": true,
-    "icon": "skillA/Spd_Def_Unity"
+    "icon": "skillA/Spd_Def_Unity",
+    "last": true
   },
   "Def/Res Unity": {
     "id": "Def/Res Unity",
     "name": "防守魔防的連帶",
     "sp": 300,
     "prev": ["Def/Res Bond 3"],
-    "last": true,
-    "icon": "skillA/Def_Res_Unity"
+    "icon": "skillA/Def_Res_Unity",
+    "last": true
   },
   "Atk/Spd Push 1": {
     "id": "Atk/Spd Push 1",
@@ -2761,10 +2761,10 @@
     "id": "Atk/Spd Wild",
     "name": "攻擊速度的野性",
     "sp": 300,
-    "prev": ["Atk/Spd Solo 3"],
     "rules": "beast",
-    "last": true,
-    "icon": "skillA/Atk_Spd_Wild"
+    "prev": ["Atk/Spd Solo 3"],
+    "icon": "skillA/Atk_Spd_Wild",
+    "last": true
   },
   "R Duel Infantry 1": {
     "id": "R Duel Infantry 1",
@@ -3382,19 +3382,19 @@
     "id": "Atk/Spd Hexblade",
     "name": "攻擊速度的魔刃",
     "sp": 300,
-    "prev": ["Sorcery Blade 3"],
     "rules": "learner.infantry-def-dmger",
-    "last": true,
-    "icon": "skillA/Atk_Spd_Hexblade"
+    "prev": ["Sorcery Blade 3"],
+    "icon": "skillA/Atk_Spd_Hexblade",
+    "last": true
   },
   "Spd/Res Hexblade": {
     "id": "Spd/Res Hexblade",
     "name": "速度魔防的魔刃",
     "sp": 300,
-    "prev": ["Sorcery Blade 3"],
     "rules": "learner.infantry-def-dmger",
-    "last": true,
-    "icon": "skillA/Spd_Res_Hexblade"
+    "prev": ["Sorcery Blade 3"],
+    "icon": "skillA/Spd_Res_Hexblade",
+    "last": true
   },
   "Bonus Doubler 1": {
     "id": "Bonus Doubler 1",
@@ -3764,37 +3764,37 @@
     "id": "Sway Atk/Spd",
     "name": "攻擊速度的傳教",
     "sp": 300,
-    "prev": ["Atk/Spd Form 3"],
     "rules": "white-staff",
-    "last": true,
-    "icon": "skillA/Sway_Atk_Spd"
+    "prev": ["Atk/Spd Form 3"],
+    "icon": "skillA/Sway_Atk_Spd",
+    "last": true
   },
   "Sway Atk/Res": {
     "id": "Sway Atk/Res",
     "name": "攻擊魔防的傳教",
     "sp": 300,
-    "prev": ["Atk/Res Form 3"],
     "rules": "white-staff",
-    "last": true,
-    "icon": "skillA/Sway_Atk_Res"
+    "prev": ["Atk/Res Form 3"],
+    "icon": "skillA/Sway_Atk_Res",
+    "last": true
   },
   "Atk/Spd Fortune": {
     "id": "Atk/Spd Fortune",
     "name": "攻擊速度的共榮",
     "sp": 300,
-    "prev": ["Atk/Spd Form 3"],
     "rules": "beast",
-    "last": true,
-    "icon": "skillA/Atk_Spd_Fortune"
+    "prev": ["Atk/Spd Form 3"],
+    "icon": "skillA/Atk_Spd_Fortune",
+    "last": true
   },
   "Atk/Res Fortune": {
     "id": "Atk/Res Fortune",
     "name": "攻擊魔防的共榮",
     "sp": 300,
-    "prev": ["Atk/Res Form 3"],
     "rules": "beast",
-    "last": true,
-    "icon": "skillA/Atk_Res_Fortune"
+    "prev": ["Atk/Res Form 3"],
+    "icon": "skillA/Atk_Res_Fortune",
+    "last": true
   },
   "Blade Session 1": {
     "id": "Blade Session 1",
@@ -4040,10 +4040,10 @@
     "id": "Atk/Spd Mastery",
     "name": "攻擊速度制空",
     "sp": 300,
-    "prev": ["Atk/Spd Catch 3"],
     "rules": "flying",
-    "last": true,
-    "icon": "skillA/Atk_Spd_Mastery"
+    "prev": ["Atk/Spd Catch 3"],
+    "icon": "skillA/Atk_Spd_Mastery",
+    "last": true
   },
   "Atk/Spd Ideal 1": {
     "id": "Atk/Spd Ideal 1",
@@ -4247,10 +4247,10 @@
     "id": "Perfect Atk/Spd",
     "name": "攻擊速度完全",
     "sp": 300,
-    "prev": ["Atk/Spd Ideal 3"],
     "rules": "infantry",
-    "last": true,
-    "icon": "skillA/Perfect_Atk_Spd"
+    "prev": ["Atk/Spd Ideal 3"],
+    "icon": "skillA/Perfect_Atk_Spd",
+    "last": true
   },
   "Atk/Spd Clash 1": {
     "id": "Atk/Spd Clash 1",
@@ -4356,16 +4356,16 @@
     "name": "攻擊速度突破",
     "sp": 300,
     "rules": "learner.infantry-cavalry-flying-melee",
-    "last": true,
-    "icon": "skillA/Atk_Spd_Excel"
+    "icon": "skillA/Atk_Spd_Excel",
+    "last": true
   },
   "Atk/Def Excel": {
     "id": "Atk/Def Excel",
     "name": "攻擊防守突破",
     "sp": 300,
     "rules": "learner.infantry-cavalry-flying-melee",
-    "last": true,
-    "icon": "skillA/Atk_Def_Excel"
+    "icon": "skillA/Atk_Def_Excel",
+    "last": true
   },
   "Atk/Spd Finish 1": {
     "id": "Atk/Spd Finish 1",

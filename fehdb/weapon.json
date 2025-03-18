@@ -3532,8 +3532,8 @@
       "mt": 16,
       "cd": -1,
       "sp": 300,
-      "rearmed": true,
       "prev": ["Silver Sword"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
@@ -3558,10 +3558,10 @@
       "id": "Arcane Devourer",
       "name": "魔器・屍王的絕劍",
       "mt": 16,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Sword"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
@@ -8071,8 +8071,8 @@
       "id": "Springing Spear",
       "name": "兔子們春天起舞之槍",
       "mt": 16,
-      "res": 3,
       "cd": -1,
+      "res": 3,
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Plumeria - Spring Dance"],
@@ -8082,10 +8082,10 @@
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
       "mt": 16,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Lance"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
@@ -8110,10 +8110,10 @@
       "id": "Arcane Lúin",
       "name": "魔器・魔槍盧恩",
       "mt": 16,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Lance"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
@@ -12287,10 +12287,10 @@
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
       "mt": 16,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Axe"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
@@ -12315,10 +12315,10 @@
       "id": "Arcane Þrima",
       "name": "魔器斯利瑪",
       "mt": 16,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Axe"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
@@ -12343,10 +12343,10 @@
       "id": "Arcane Giant Axe",
       "name": "魔器・約頓之斧",
       "mt": 16,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Axe"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
@@ -15414,10 +15414,10 @@
       "id": "Flamefrost Bow",
       "name": "炎與冰之公主的輝弓",
       "mt": 8,
+      "cd": -1,
       "spd": -8,
       "def": 5,
       "res": 5,
-      "cd": -1,
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Laegjarn - Flame and Frost"],
@@ -15748,10 +15748,10 @@
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Bow"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,
@@ -15776,10 +15776,10 @@
       "id": "Arcane Darkbow",
       "name": "魔器・溫柔影弓",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Bow"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,
@@ -18487,10 +18487,10 @@
       "id": "Arcane Void",
       "name": "魔器金倫加",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Dagger"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,
@@ -18515,10 +18515,10 @@
       "id": "Arcane Tempest",
       "name": "魔器・曉風之刃",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Dagger"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,
@@ -18543,10 +18543,10 @@
       "id": "Arcane Sly Knife",
       "name": "魔器・無形影刃",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Silver Dagger"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,
@@ -21044,8 +21044,8 @@
       "id": "Full Rabbit Fang",
       "name": "豐穰幼兔的爪牙",
       "mt": 14,
-      "spd": 3,
       "cd": -1,
+      "spd": 3,
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Yarne - Trick or Taguel"],
@@ -21155,10 +21155,10 @@
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Adult (Cavalry)"],
+      "rearmed": true,
       "rules": "cavalry",
       "refine": {
         "atk": {
@@ -21192,16 +21192,16 @@
       "name": "若獸化身・步行",
       "mt": 6,
       "sp": 100,
-      "rules": "infantry",
-      "prev": ["Whelp (Infantry)"]
+      "prev": ["Whelp (Infantry)"],
+      "rules": "infantry"
     },
     "Adult (Infantry)": {
       "id": "Adult (Infantry)",
       "name": "成獸化身・步行",
       "mt": 9,
       "sp": 200,
-      "rules": "infantry",
-      "prev": ["Yearling (Infantry)"]
+      "prev": ["Yearling (Infantry)"],
+      "rules": "infantry"
     },
     "Whelp (Armored)": {
       "id": "Whelp (Armored)",
@@ -21215,16 +21215,16 @@
       "name": "若獸化身・重裝",
       "mt": 6,
       "sp": 100,
-      "rules": "armored",
-      "prev": ["Whelp (Armored)"]
+      "prev": ["Whelp (Armored)"],
+      "rules": "armored"
     },
     "Adult (Armored)": {
       "id": "Adult (Armored)",
       "name": "成獸化身・重裝",
       "mt": 9,
       "sp": 200,
-      "rules": "armored",
-      "prev": ["Yearling (Arm.)"]
+      "prev": ["Yearling (Arm.)"],
+      "rules": "armored"
     },
     "Whelp (Cavalry)": {
       "id": "Whelp (Cavalry)",
@@ -21238,16 +21238,16 @@
       "name": "若獸化身・騎馬",
       "mt": 6,
       "sp": 100,
-      "rules": "cavalry",
-      "prev": ["Whelp (Cavalry)"]
+      "prev": ["Whelp (Cavalry)"],
+      "rules": "cavalry"
     },
     "Adult (Cavalry)": {
       "id": "Adult (Cavalry)",
       "name": "成獸化身・騎馬",
       "mt": 9,
       "sp": 200,
-      "rules": "cavalry",
-      "prev": ["Yearling (Cavalry)"]
+      "prev": ["Yearling (Cavalry)"],
+      "rules": "cavalry"
     },
     "Hatchling (Flier)": {
       "id": "Hatchling (Flier)",
@@ -21261,16 +21261,16 @@
       "name": "若獸化身・飛行",
       "mt": 6,
       "sp": 100,
-      "rules": "flying",
-      "prev": ["Hatchling (Flier)"]
+      "prev": ["Hatchling (Flier)"],
+      "rules": "flying"
     },
     "Adult (Flier)": {
       "id": "Adult (Flier)",
       "name": "成獸化身・飛行",
       "mt": 9,
       "sp": 200,
-      "rules": "flying",
-      "prev": ["Fledgling (Flier)"]
+      "prev": ["Fledgling (Flier)"],
+      "rules": "flying"
     }
   },
   "red-tome": {
@@ -22155,8 +22155,8 @@
       "id": "Studied Forblaze",
       "name": "業炎弗魯布雷茲",
       "mt": 14,
-      "sp": 400,
       "cd": -1,
+      "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Lilina - Firelight Leader"],
       "refine": {
@@ -22410,10 +22410,10 @@
       "id": "Flowery Scroll",
       "name": "艷花忍法帳",
       "mt": 8,
+      "cd": -1,
       "spd": -8,
       "def": 5,
       "res": 5,
-      "cd": -1,
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Camilla - Midnight Bloom"],
@@ -22643,10 +22643,10 @@
       "id": "Gentle Fell Egg",
       "name": "心地善良邪龍兔之卵",
       "mt": 14,
+      "cd": -1,
       "hp": 5,
       "atk": 6,
       "res": 6,
-      "cd": -1,
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Veyle - Spring Tranquility"],
@@ -22656,10 +22656,10 @@
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Fenrir"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,
@@ -22684,10 +22684,10 @@
       "id": "Arcane Blutgang",
       "name": "魔器布魯托剛格",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Fenrir"],
+      "rearmed": true,
       "last": true
     },
     "Fire": {
@@ -24762,10 +24762,10 @@
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Thoron"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
@@ -24790,10 +24790,10 @@
       "id": "Arcane Thunder",
       "name": "魔器・雷公之書",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Thoron"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,
@@ -24818,10 +24818,10 @@
       "id": "Arcane Medusa",
       "name": "魔器美杜莎",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Thoron"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,
@@ -27179,8 +27179,8 @@
       "mt": 14,
       "cd": -1,
       "sp": 300,
-      "rearmed": true,
       "prev": ["Rexcalibur"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,
@@ -27205,10 +27205,10 @@
       "id": "Arcane Truthfire",
       "name": "魔器・業火之理書",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Rexcalibur"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,
@@ -29112,10 +29112,10 @@
       "id": "Arcane Charmer",
       "name": "魔器・可愛雪杖",
       "mt": 14,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Assault"],
+      "rearmed": true,
       "refine": {
         "wrathful+mt": {
           "name": "神罰+威力",
@@ -31338,10 +31338,10 @@
       "id": "Arcane Fellstone",
       "name": "魔器・歪神龍的龍石",
       "mt": 16,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Flametongue"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
@@ -31366,10 +31366,10 @@
       "id": "Arcane Fell Arts",
       "name": "魔器・邪龍石",
       "mt": 16,
-      "rearmed": true,
       "cd": -1,
       "sp": 300,
       "prev": ["Flametongue"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 5,
