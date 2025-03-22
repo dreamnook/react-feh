@@ -5230,19 +5230,6 @@
     "skillA": { "Bonus Doubler 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
   },
-  "Donnel - Sunny Villager": {
-    "score": 299,
-    "scoreTotal": 604,
-    "poolRarity": 4,
-    "pool": "grail",
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 300,
-    "bst": 192,
-    "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 4 } },
-    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Chill Def/Res 2": { "sp": 240, "rarity": 5 } }
-  },
   "Vaike - Sunbaked Stunner": {
     "score": 299,
     "scoreTotal": 604,
@@ -5255,6 +5242,19 @@
     "assist": { "Smite": { "sp": 150, "rarity": 4 } },
     "skillA": { "Atk/Def Finish 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Donnel - Sunny Villager": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 192,
+    "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Chill Def/Res 2": { "sp": 240, "rarity": 5 } }
   },
   "Yarne - Hoppy New Year": {
     "score": 249,

@@ -1493,34 +1493,6 @@
       "Everliving Domain": 5
     }
   },
-  "Ganglöt - Death Anew": {
-    "weapon": {
-      "Iron Axe": 1,
-      "Steel Axe": 2,
-      "Silver Axe": 4,
-      "Arcane Downfall": 5
-    },
-    "special": {
-      "Chilling Wind": 4,
-      "Iceberg": 4
-    },
-    "skillA": {
-      "Distant Counter": 4,
-      "Distant Stance": 5
-    },
-    "skillB": {
-      "Quick Riposte 1": 2,
-      "Quick Riposte 2": 3,
-      "Quick Riposte 3": 4,
-      "Quick Riposte 4": 5
-    },
-    "skillC": {
-      "Distant Guard 1": 2,
-      "Distant Guard 2": 3,
-      "Distant Guard 3": 4,
-      "Joint Dist. Guard": 5
-    }
-  },
   "Líf - Lethal Swordsman": {
     "weapon": {
       "Iron Sword": 1,
@@ -1634,6 +1606,34 @@
       "Panic Smoke 1": 1,
       "Panic Smoke 2": 2,
       "Panic Smoke 3": 4
+    }
+  },
+  "Ganglöt - Death Anew": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Arcane Downfall": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "Distant Stance": 5
+    },
+    "skillB": {
+      "Quick Riposte 1": 2,
+      "Quick Riposte 2": 3,
+      "Quick Riposte 3": 4,
+      "Quick Riposte 4": 5
+    },
+    "skillC": {
+      "Distant Guard 1": 2,
+      "Distant Guard 2": 3,
+      "Distant Guard 3": 4,
+      "Joint Dist. Guard": 5
     }
   },
   "Thórr - War God": {
@@ -1953,6 +1953,96 @@
       "Atk/Res Rein 3": 4
     }
   },
+  "Triandra - Nightmare": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Flower of Sorrow": 5
+    },
+    "assist": {
+      "Dance": 4,
+      "Frightful Dream": 5,
+      "Frightful Dream+": 5
+    },
+    "skillA": {
+      "Atk/Spd Push 1": 2,
+      "Atk/Spd Push 2": 3,
+      "Atk/Spd Push 3": 4,
+      "Atk/Spd Push 4": 5
+    },
+    "skillB": {
+      "Aerobatics 1": 1,
+      "Aerobatics 2": 2,
+      "Aerobatics 3": 4,
+      "Gale Dance 1": 1,
+      "Firestorm Dance 1": 2,
+      "Firestorm Dance 2": 4,
+      "Firestorm Dance 3": 5
+    },
+    "skillC": {
+      "Spd/Res Rein 1": 3,
+      "Spd/Res Rein 2": 4,
+      "Spd/Res Rein 3": 5
+    }
+  },
+  "Triandra - Sunlit Nightmare": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Nightmare's Egg": 5
+    },
+    "assist": {
+      "Dance": 4,
+      "Frightful Dream": 5
+    },
+    "skillB": {
+      "Blaze Dance 1": 2,
+      "Firestorm Dance 1": 3,
+      "Firestorm Dance 2": 4,
+      "Firestorm Dance 3": 5
+    },
+    "skillC": {
+      "Def/Res Rein 1": 2,
+      "Def/Res Rein 2": 3,
+      "Def/Res Rein 3": 4,
+      "Def/Res Hold": 5
+    }
+  },
+  "Triandra - Reverent Dream": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Flower of Tribute": 5
+    },
+    "assist": {
+      "Dance": 4,
+      "Harrowing Dream": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Clash 4": 5
+    },
+    "skillB": {
+      "Flow Refresh 1": 2,
+      "Flow Refresh 2": 3,
+      "Flow Refresh 3": 4,
+      "Flow Refresh 4": 5
+    },
+    "skillC": {
+      "Spd/Def Rein 1": 2,
+      "Spd/Def Rein 2": 3,
+      "Spd/Def Rein 3": 4,
+      "Spd/Def Hold": 5
+    },
+    "skillX": {
+      "Death Blow Echo": 5
+    }
+  },
   "Plumeria - Lewd Dream": {
     "weapon": {
       "Flux": 1,
@@ -2116,96 +2206,6 @@
     },
     "skillC": {
       "Dream Deliverer": 5
-    }
-  },
-  "Triandra - Nightmare": {
-    "weapon": {
-      "Wind": 1,
-      "Elwind": 2,
-      "Rexcalibur": 4,
-      "Flower of Sorrow": 5
-    },
-    "assist": {
-      "Dance": 4,
-      "Frightful Dream": 5,
-      "Frightful Dream+": 5
-    },
-    "skillA": {
-      "Atk/Spd Push 1": 2,
-      "Atk/Spd Push 2": 3,
-      "Atk/Spd Push 3": 4,
-      "Atk/Spd Push 4": 5
-    },
-    "skillB": {
-      "Aerobatics 1": 1,
-      "Aerobatics 2": 2,
-      "Aerobatics 3": 4,
-      "Gale Dance 1": 1,
-      "Firestorm Dance 1": 2,
-      "Firestorm Dance 2": 4,
-      "Firestorm Dance 3": 5
-    },
-    "skillC": {
-      "Spd/Res Rein 1": 3,
-      "Spd/Res Rein 2": 4,
-      "Spd/Res Rein 3": 5
-    }
-  },
-  "Triandra - Sunlit Nightmare": {
-    "weapon": {
-      "Stone": 1,
-      "Elstone": 2,
-      "Atlas": 4,
-      "Nightmare's Egg": 5
-    },
-    "assist": {
-      "Dance": 4,
-      "Frightful Dream": 5
-    },
-    "skillB": {
-      "Blaze Dance 1": 2,
-      "Firestorm Dance 1": 3,
-      "Firestorm Dance 2": 4,
-      "Firestorm Dance 3": 5
-    },
-    "skillC": {
-      "Def/Res Rein 1": 2,
-      "Def/Res Rein 2": 3,
-      "Def/Res Rein 3": 4,
-      "Def/Res Hold": 5
-    }
-  },
-  "Triandra - Reverent Dream": {
-    "weapon": {
-      "Iron Sword": 1,
-      "Steel Sword": 2,
-      "Silver Sword": 4,
-      "Flower of Tribute": 5
-    },
-    "assist": {
-      "Dance": 4,
-      "Harrowing Dream": 5
-    },
-    "skillA": {
-      "Atk/Spd Clash 1": 2,
-      "Atk/Spd Clash 2": 3,
-      "Atk/Spd Clash 3": 4,
-      "Atk/Spd Clash 4": 5
-    },
-    "skillB": {
-      "Flow Refresh 1": 2,
-      "Flow Refresh 2": 3,
-      "Flow Refresh 3": 4,
-      "Flow Refresh 4": 5
-    },
-    "skillC": {
-      "Spd/Def Rein 1": 2,
-      "Spd/Def Rein 2": 3,
-      "Spd/Def Rein 3": 4,
-      "Spd/Def Hold": 5
-    },
-    "skillX": {
-      "Death Blow Echo": 5
     }
   },
   "Freyja - Lady of Nightmare": {
@@ -3093,37 +3093,6 @@
       "Odd Spd Wave 4": 5
     }
   },
-  "Heiðr - Innocent Goddess": {
-    "weapon": {
-      "Wind": 1,
-      "Elwind": 2,
-      "Rexcalibur": 4,
-      "Heiðr": 5
-    },
-    "assist": {
-      "Rally Attack": 4,
-      "Rally Atk/Spd": 4,
-      "Gold Serpent": 5
-    },
-    "skillA": {
-      "Darting Blow 1": 2,
-      "Swift Sparrow 1": 3,
-      "Swift Sparrow 2": 4,
-      "Remote Sparrow": 5
-    },
-    "skillB": {
-      "Null Follow-Up 1": 2,
-      "Null Follow-Up 2": 3,
-      "Null Follow-Up 3": 4,
-      "Mag. Null Follow": 5
-    },
-    "skillC": {
-      "Panic Smoke 1": 2,
-      "Panic Smoke 2": 3,
-      "Panic Smoke 3": 4,
-      "Panic Smoke 4": 5
-    }
-  },
   "Kvasir - Seer of the Past": {
     "weapon": {
       "Flux": 1,
@@ -3184,6 +3153,37 @@
       "Inf. Null Follow 2": 3,
       "Inf. Null Follow 3": 4,
       "Inf. Null Follow 4": 5
+    }
+  },
+  "Heiðr - Innocent Goddess": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Heiðr": 5
+    },
+    "assist": {
+      "Rally Attack": 4,
+      "Rally Atk/Spd": 4,
+      "Gold Serpent": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Remote Sparrow": 5
+    },
+    "skillB": {
+      "Null Follow-Up 1": 2,
+      "Null Follow-Up 2": 3,
+      "Null Follow-Up 3": 4,
+      "Mag. Null Follow": 5
+    },
+    "skillC": {
+      "Panic Smoke 1": 2,
+      "Panic Smoke 2": 3,
+      "Panic Smoke 3": 4,
+      "Panic Smoke 4": 5
     }
   },
   "Nerþuz - God of the Land": {
@@ -4271,6 +4271,27 @@
       "Spur Atk 3": 4
     }
   },
+  "Darros - Seawalker": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Deck Swabber": 3,
+      "Deck Swabber+": 5
+    },
+    "assist": {
+      "Shove": 4
+    },
+    "skillA": {
+      "Earth Boost 1": 3,
+      "Earth Boost 2": 4,
+      "Earth Boost 3": 5
+    },
+    "skillC": {
+      "Odd Def Wave 1": 1,
+      "Odd Def Wave 2": 2,
+      "Odd Def Wave 3": 4
+    }
+  },
   "Castor - Loving Son": {
     "weapon": {
       "Iron Bow": 1,
@@ -4291,27 +4312,6 @@
       "Threaten Def 1": 1,
       "Threat. Atk/Def 1": 2,
       "Threat. Atk/Def 2": 4
-    }
-  },
-  "Darros - Seawalker": {
-    "weapon": {
-      "Iron Axe": 1,
-      "Steel Axe": 2,
-      "Deck Swabber": 3,
-      "Deck Swabber+": 5
-    },
-    "assist": {
-      "Shove": 4
-    },
-    "skillA": {
-      "Earth Boost 1": 3,
-      "Earth Boost 2": 4,
-      "Earth Boost 3": 5
-    },
-    "skillC": {
-      "Odd Def Wave 1": 1,
-      "Odd Def Wave 2": 2,
-      "Odd Def Wave 3": 4
     }
   },
   "Nyna - The Last Princess": {
@@ -5847,28 +5847,6 @@
       "A/S Spiked Wall": 5
     }
   },
-  "Gharnef - Dark Pontifex": {
-    "weapon": {
-      "Flux": 1,
-      "Ruin": 3,
-      "Fenrir": 4,
-      "Imhullu": 5
-    },
-    "special": {
-      "Glowing Ember": 4,
-      "Ignis": 4
-    },
-    "skillA": {
-      "Warding Stance 1": 1,
-      "Mirror Stance 1": 2,
-      "Mirror Stance 2": 4
-    },
-    "skillB": {
-      "Chill Atk 1": 3,
-      "Chill Atk 2": 4,
-      "Chill Atk 3": 5
-    }
-  },
   "Medeus - Earth-Dragon King": {
     "weapon": {
       "Fire Breath": 1,
@@ -5893,6 +5871,28 @@
       "Canto Control 1": 1,
       "Canto Control 2": 2,
       "Canto Control 3": 4
+    }
+  },
+  "Gharnef - Dark Pontifex": {
+    "weapon": {
+      "Flux": 1,
+      "Ruin": 3,
+      "Fenrir": 4,
+      "Imhullu": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Warding Stance 1": 1,
+      "Mirror Stance 1": 2,
+      "Mirror Stance 2": 4
+    },
+    "skillB": {
+      "Chill Atk 1": 3,
+      "Chill Atk 2": 4,
+      "Chill Atk 3": 5
     }
   },
   "Alm - Hero of Prophecy": {
@@ -7457,28 +7457,6 @@
       "Woeful Upheaval": 5
     }
   },
-  "Jedah - Priest of Duma": {
-    "weapon": {
-      "Flux": 1,
-      "Ruin": 2,
-      "Rauðrcrab": 4,
-      "Rauðrcrab+": 5
-    },
-    "special": {
-      "Glowing Ember": 4,
-      "Ignis": 4
-    },
-    "skillA": {
-      "Atk/Def Finish 1": 3,
-      "Atk/Def Finish 2": 4,
-      "Atk/Def Finish 3": 5
-    },
-    "skillB": {
-      "Poison Strike 1": 1,
-      "Poison Strike 2": 2,
-      "Poison Strike 3": 4
-    }
-  },
   "Mila - Goddess of Love": {
     "weapon": {
       "Fire Breath": 1,
@@ -7510,26 +7488,26 @@
       "Mila's Turnwheel II": 5
     }
   },
-  "Hestia - Duma's Witch": {
+  "Jedah - Priest of Duma": {
     "weapon": {
-      "Thunder": 1,
-      "Elthunder": 2,
-      "Blárdeer": 4,
-      "Blárdeer+": 5
+      "Flux": 1,
+      "Ruin": 2,
+      "Rauðrcrab": 4,
+      "Rauðrcrab+": 5
     },
     "special": {
-      "Chilling Wind": 4,
-      "Iceberg": 4
+      "Glowing Ember": 4,
+      "Ignis": 4
     },
     "skillA": {
-      "Atk/Res Ideal 1": 3,
-      "Atk/Res Ideal 2": 4,
-      "Atk/Res Ideal 3": 5
+      "Atk/Def Finish 1": 3,
+      "Atk/Def Finish 2": 4,
+      "Atk/Def Finish 3": 5
     },
-    "skillC": {
-      "Res Ploy 1": 1,
-      "Res Ploy 2": 2,
-      "Res Ploy 3": 4
+    "skillB": {
+      "Poison Strike 1": 1,
+      "Poison Strike 2": 2,
+      "Poison Strike 3": 4
     }
   },
   "Marla - Duma's Witch": {
@@ -7552,6 +7530,28 @@
       "Inf. Hexblade 1": 1,
       "Inf. Hexblade 2": 2,
       "Inf. Hexblade 3": 4
+    }
+  },
+  "Hestia - Duma's Witch": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Blárdeer": 4,
+      "Blárdeer+": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4
+    },
+    "skillA": {
+      "Atk/Res Ideal 1": 3,
+      "Atk/Res Ideal 2": 4,
+      "Atk/Res Ideal 3": 5
+    },
+    "skillC": {
+      "Res Ploy 1": 1,
+      "Res Ploy 2": 2,
+      "Res Ploy 3": 4
     }
   },
   "Nuibaba - Mistress of Fear": {
@@ -8765,6 +8765,51 @@
       "Blue Feud 3": 5
     }
   },
+  "Febail - Mercenary Waif": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Heired Yewfelle": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4
+    },
+    "skillA": {
+      "Sorcery Blade 1": 2,
+      "Sorcery Blade 2": 3,
+      "Sorcery Blade 3": 4,
+      "Spd/Res Hexblade": 5
+    },
+    "skillB": {
+      "Null Follow-Up 1": 2,
+      "Null Follow-Up 2": 3,
+      "Null Follow-Up 3": 4,
+      "Phys. Null Follow": 5
+    }
+  },
+  "Patty - Youthful Thief": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Miasma Dagger": 4,
+      "Miasma Dagger+": 5
+    },
+    "assist": {
+      "Pivot": 4
+    },
+    "skillA": {
+      "Spd/Def Ideal 1": 1,
+      "Spd/Def Ideal 2": 2,
+      "Spd/Def Ideal 3": 4
+    },
+    "skillB": {
+      "Dull Ranged 1": 3,
+      "Dull Ranged 2": 4,
+      "Dull Ranged 3": 5
+    }
+  },
   "Julia - Naga's Blood": {
     "weapon": {
       "Wind": 1,
@@ -8961,6 +9006,27 @@
       "Infantry Pulse 4": 5
     }
   },
+  "Fee - Aspiring Knight": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Protection Edge": 4,
+      "Protection Edge+": 5
+    },
+    "assist": {
+      "Reposition": 4
+    },
+    "skillB": {
+      "Aerobatics 1": 3,
+      "Aerobatics 2": 4,
+      "Aerobatics 3": 5
+    },
+    "skillC": {
+      "Spur Spd 1": 1,
+      "Drive Spd 1": 2,
+      "Drive Spd 2": 4
+    }
+  },
   "Travant - King of Thracia": {
     "weapon": {
       "Iron Lance": 1,
@@ -8982,6 +9048,28 @@
       "Flier Guidance 1": 3,
       "Flier Guidance 2": 4,
       "Flier Guidance 3": 5
+    }
+  },
+  "Arion - Gungnir's Heir": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Heired Gungnir": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Def Catch 1": 1,
+      "Atk/Def Catch 2": 2,
+      "Atk/Def Catch 3": 4
+    },
+    "skillB": {
+      "Wyvern Flight 1": 3,
+      "Wyvern Flight 2": 4,
+      "Wyvern Flight 3": 5
     }
   },
   "Altena - Luminous Rider": {
@@ -9103,94 +9191,6 @@
       "Rouse Atk/Res 1": 1,
       "Rouse Atk/Res 2": 2,
       "Rouse Atk/Res 3": 4
-    }
-  },
-  "Arion - Gungnir's Heir": {
-    "weapon": {
-      "Iron Lance": 1,
-      "Steel Lance": 2,
-      "Silver Lance": 4,
-      "Heired Gungnir": 5
-    },
-    "special": {
-      "Glowing Ember": 4,
-      "Ignis": 4
-    },
-    "skillA": {
-      "Atk/Def Catch 1": 1,
-      "Atk/Def Catch 2": 2,
-      "Atk/Def Catch 3": 4
-    },
-    "skillB": {
-      "Wyvern Flight 1": 3,
-      "Wyvern Flight 2": 4,
-      "Wyvern Flight 3": 5
-    }
-  },
-  "Febail - Mercenary Waif": {
-    "weapon": {
-      "Iron Bow": 1,
-      "Steel Bow": 2,
-      "Silver Bow": 4,
-      "Heired Yewfelle": 5
-    },
-    "special": {
-      "New Moon": 4,
-      "Luna": 4
-    },
-    "skillA": {
-      "Sorcery Blade 1": 2,
-      "Sorcery Blade 2": 3,
-      "Sorcery Blade 3": 4,
-      "Spd/Res Hexblade": 5
-    },
-    "skillB": {
-      "Null Follow-Up 1": 2,
-      "Null Follow-Up 2": 3,
-      "Null Follow-Up 3": 4,
-      "Phys. Null Follow": 5
-    }
-  },
-  "Fee - Aspiring Knight": {
-    "weapon": {
-      "Iron Sword": 1,
-      "Steel Sword": 2,
-      "Protection Edge": 4,
-      "Protection Edge+": 5
-    },
-    "assist": {
-      "Reposition": 4
-    },
-    "skillB": {
-      "Aerobatics 1": 3,
-      "Aerobatics 2": 4,
-      "Aerobatics 3": 5
-    },
-    "skillC": {
-      "Spur Spd 1": 1,
-      "Drive Spd 1": 2,
-      "Drive Spd 2": 4
-    }
-  },
-  "Patty - Youthful Thief": {
-    "weapon": {
-      "Iron Dagger": 1,
-      "Steel Dagger": 2,
-      "Miasma Dagger": 4,
-      "Miasma Dagger+": 5
-    },
-    "assist": {
-      "Pivot": 4
-    },
-    "skillA": {
-      "Spd/Def Ideal 1": 1,
-      "Spd/Def Ideal 2": 2,
-      "Spd/Def Ideal 3": 4
-    },
-    "skillB": {
-      "Dull Ranged 1": 3,
-      "Dull Ranged 2": 4,
-      "Dull Ranged 3": 5
     }
   },
   "Ullr - The Bowmaster": {
@@ -16744,30 +16744,6 @@
       "Time's Pulse 3": 5
     }
   },
-  "Shinon - Sharptongue Ninja": {
-    "weapon": {
-      "Iron Bow": 1,
-      "Steel Bow": 2,
-      "Ninja Yumi": 3,
-      "Ninja Yumi+": 5
-    },
-    "special": {
-      "Night Sky": 4,
-      "Glimmer": 4,
-      "Deadeye": 5
-    },
-    "skillA": {
-      "Atk/Spd Solo 1": 2,
-      "Atk/Spd Solo 2": 3,
-      "Atk/Spd Solo 3": 4,
-      "Atk/Spd Solo 4": 5
-    },
-    "skillB": {
-      "Lull Spd/Def 1": 1,
-      "Lull Spd/Def 2": 2,
-      "Lull Spd/Def 3": 4
-    }
-  },
   "Gatrie - Armored Amour": {
     "weapon": {
       "Iron Lance": 1,
@@ -17809,6 +17785,30 @@
       "Guard 3": 4
     }
   },
+  "Shinon - Sharptongue Ninja": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Ninja Yumi": 3,
+      "Ninja Yumi+": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Deadeye": 5
+    },
+    "skillA": {
+      "Atk/Spd Solo 1": 2,
+      "Atk/Spd Solo 2": 3,
+      "Atk/Spd Solo 3": 4,
+      "Atk/Spd Solo 4": 5
+    },
+    "skillB": {
+      "Lull Spd/Def 1": 1,
+      "Lull Spd/Def 2": 2,
+      "Lull Spd/Def 3": 4
+    }
+  },
   "Rhys - Gentle Basker": {
     "weapon": {
       "Assault": 1,
@@ -18162,31 +18162,6 @@
       "Even Tempest 3": 4
     }
   },
-  "Heather - Wandering Ninja": {
-    "weapon": {
-      "Iron Dagger": 1,
-      "Steel Dagger": 2,
-      "Silver Dagger": 4,
-      "Spy's Shuriken": 5
-    },
-    "assist": {
-      "Rally Speed": 4,
-      "Rally Atk/Spd": 4,
-      "Rally Atk/Spd+": 5
-    },
-    "skillA": {
-      "Darting Blow 1": 2,
-      "Swift Sparrow 1": 3,
-      "Swift Sparrow 2": 4,
-      "Remote Sparrow": 5
-    },
-    "skillB": {
-      "Spd/Def Ruse 1": 2,
-      "Spd/Def Ruse 2": 3,
-      "Spd/Def Ruse 3": 4,
-      "Spd/Def Ruse 4": 5
-    }
-  },
   "Geoffrey - Realm's Protector": {
     "weapon": {
       "Iron Lance": 1,
@@ -18252,6 +18227,31 @@
       "Vengeful Fighter 1": 3,
       "Vengeful Fighter 2": 4,
       "Vengeful Fighter 3": 5
+    }
+  },
+  "Heather - Wandering Ninja": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 4,
+      "Spy's Shuriken": 5
+    },
+    "assist": {
+      "Rally Speed": 4,
+      "Rally Atk/Spd": 4,
+      "Rally Atk/Spd+": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Remote Sparrow": 5
+    },
+    "skillB": {
+      "Spd/Def Ruse 1": 2,
+      "Spd/Def Ruse 2": 3,
+      "Spd/Def Ruse 3": 4,
+      "Spd/Def Ruse 4": 5
     }
   },
   "Caineghis - Gallia's Lion King": {
@@ -20098,6 +20098,27 @@
       "Staff Valor 3": 5
     }
   },
+  "Vaike - Sunbaked Stunner": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Tropical Conch": 3,
+      "Tropical Conch+": 5
+    },
+    "assist": {
+      "Smite": 4
+    },
+    "skillA": {
+      "Atk/Def Finish 1": 3,
+      "Atk/Def Finish 2": 4,
+      "Atk/Def Finish 3": 5
+    },
+    "skillB": {
+      "Atk/Def Link 1": 1,
+      "Atk/Def Link 2": 2,
+      "Atk/Def Link 3": 4
+    }
+  },
   "Miriel - Rapier Intellect": {
     "weapon": {
       "Thunder": 1,
@@ -20139,6 +20160,28 @@
       "Spur Spd 1": 1,
       "Spur Atk/Spd 1": 3,
       "Spur Atk/Spd 2": 4
+    }
+  },
+  "Kellam - Pumpkin Knight": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Farmer's Tool": 3,
+      "Farmer's Tool+": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Def Ideal 1": 1,
+      "Atk/Def Ideal 2": 2,
+      "Atk/Def Ideal 3": 4
+    },
+    "skillB": {
+      "Vengeful Fighter 1": 3,
+      "Vengeful Fighter 2": 4,
+      "Vengeful Fighter 3": 5
     }
   },
   "Cordelia - Knight Paragon": {
@@ -20366,27 +20409,6 @@
       "Chill Def 1": 3,
       "Chill Def/Res 1": 4,
       "Chill Def/Res 2": 5
-    }
-  },
-  "Vaike - Sunbaked Stunner": {
-    "weapon": {
-      "Iron Axe": 1,
-      "Steel Axe": 2,
-      "Tropical Conch": 3,
-      "Tropical Conch+": 5
-    },
-    "assist": {
-      "Smite": 4
-    },
-    "skillA": {
-      "Atk/Def Finish 1": 3,
-      "Atk/Def Finish 2": 4,
-      "Atk/Def Finish 3": 5
-    },
-    "skillB": {
-      "Atk/Def Link 1": 1,
-      "Atk/Def Link 2": 2,
-      "Atk/Def Link 3": 4
     }
   },
   "Basilio - Feroxi West-Khan": {
@@ -22161,28 +22183,6 @@
       "Divine Fang+": 5
     }
   },
-  "Kellam - Pumpkin Knight": {
-    "weapon": {
-      "Iron Sword": 1,
-      "Steel Sword": 2,
-      "Farmer's Tool": 3,
-      "Farmer's Tool+": 5
-    },
-    "special": {
-      "Glowing Ember": 4,
-      "Ignis": 4
-    },
-    "skillA": {
-      "Atk/Def Ideal 1": 1,
-      "Atk/Def Ideal 2": 2,
-      "Atk/Def Ideal 3": 4
-    },
-    "skillB": {
-      "Vengeful Fighter 1": 3,
-      "Vengeful Fighter 2": 4,
-      "Vengeful Fighter 3": 5
-    }
-  },
   "Naga - Harvest Divinity": {
     "weapon": {
       "Fire Breath": 1,
@@ -22347,6 +22347,37 @@
       "Dragon's Ire 2": 3,
       "Dragon's Ire 3": 4,
       "Dragon's Ire 4": 5
+    }
+  },
+  "Corrin - Child of Dawn": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Hoshido's Breath": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Dragon Fang Shot": 5
+    },
+    "skillA": {
+      "Spd/Res Finish 1": 2,
+      "Spd/Res Finish 2": 3,
+      "Spd/Res Finish 3": 4,
+      "Spd/Res Finish 4": 5
+    },
+    "skillB": {
+      "Dragon Wall 1": 2,
+      "Dragon Wall 2": 3,
+      "Dragon Wall 3": 4,
+      "High Dragon Wall": 5
+    },
+    "skillC": {
+      "Res Ploy 1": 2,
+      "Res Ploy 2": 3,
+      "Res Ploy 3": 4,
+      "Atk/Res Ploy 3": 5
     }
   },
   "Corrin - Fateful Princess": {
@@ -22561,37 +22592,6 @@
       "A/S Far Save 1": 1,
       "A/S Far Save 2": 2,
       "A/S Far Save 3": 4
-    }
-  },
-  "Corrin - Child of Dawn": {
-    "weapon": {
-      "Fire Breath": 1,
-      "Fire Breath+": 2,
-      "Flametongue": 4,
-      "Hoshido's Breath": 5
-    },
-    "special": {
-      "Dragon Gaze": 4,
-      "Dragon Fang": 4,
-      "Dragon Fang Shot": 5
-    },
-    "skillA": {
-      "Spd/Res Finish 1": 2,
-      "Spd/Res Finish 2": 3,
-      "Spd/Res Finish 3": 4,
-      "Spd/Res Finish 4": 5
-    },
-    "skillB": {
-      "Dragon Wall 1": 2,
-      "Dragon Wall 2": 3,
-      "Dragon Wall 3": 4,
-      "High Dragon Wall": 5
-    },
-    "skillC": {
-      "Res Ploy 1": 2,
-      "Res Ploy 2": 3,
-      "Res Ploy 3": 4,
-      "Atk/Res Ploy 3": 5
     }
   },
   "Azura - Lady of the Lake": {
@@ -26164,28 +26164,6 @@
       "Atk/Spd Rein 3": 4
     }
   },
-  "Jeralt - Blade Breaker": {
-    "weapon": {
-      "Iron Lance": 1,
-      "Steel Lance": 2,
-      "Silver Lance": 4,
-      "Breaker Lance": 5
-    },
-    "special": {
-      "Dragon Gaze": 4,
-      "Dragon Fang": 4
-    },
-    "skillA": {
-      "Atk/Def Catch 1": 3,
-      "Atk/Def Catch 2": 4,
-      "Atk/Def Catch 3": 5
-    },
-    "skillC": {
-      "Distant Guard 1": 1,
-      "Distant Guard 2": 2,
-      "Distant Guard 3": 4
-    }
-  },
   "Seiros - Saint of Legend": {
     "weapon": {
       "Fire Breath": 1,
@@ -26313,28 +26291,6 @@
       "Close Guard 2": 3,
       "Close Guard 3": 4,
       "Lower Ground": 5
-    }
-  },
-  "Cyril - Rhea's Attendant": {
-    "weapon": {
-      "Iron Bow": 1,
-      "Steel Bow": 2,
-      "Silver Bow": 4,
-      "Aptitude Arrows": 5
-    },
-    "special": {
-      "Retribution": 4,
-      "Vengeance": 4
-    },
-    "skillB": {
-      "Sudden Panic 1": 3,
-      "Sudden Panic 2": 4,
-      "Sudden Panic 3": 5
-    },
-    "skillC": {
-      "Threaten Spd 1": 1,
-      "Threat. Spd/Def 1": 2,
-      "Threat. Spd/Def 2": 4
     }
   },
   "Edelgard - The Future": {
@@ -28536,6 +28492,50 @@
       "Fatal Smoke 3": 4
     }
   },
+  "Cyril - Rhea's Attendant": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Aptitude Arrows": 5
+    },
+    "special": {
+      "Retribution": 4,
+      "Vengeance": 4
+    },
+    "skillB": {
+      "Sudden Panic 1": 3,
+      "Sudden Panic 2": 4,
+      "Sudden Panic 3": 5
+    },
+    "skillC": {
+      "Threaten Spd 1": 1,
+      "Threat. Spd/Def 1": 2,
+      "Threat. Spd/Def 2": 4
+    }
+  },
+  "Jeralt - Blade Breaker": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Breaker Lance": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Atk/Def Catch 1": 3,
+      "Atk/Def Catch 2": 4,
+      "Atk/Def Catch 3": 5
+    },
+    "skillC": {
+      "Distant Guard 1": 1,
+      "Distant Guard 2": 2,
+      "Distant Guard 3": 4
+    }
+  },
   "Gatekeeper - Nothing to Report": {
     "weapon": {
       "Wind": 1,
@@ -28559,32 +28559,6 @@
       "Drive Def 1": 3,
       "Drive Def 2": 4,
       "Joint Drive Def": 5
-    }
-  },
-  "Cornelia - Saint Consumed": {
-    "weapon": {
-      "Assault": 1,
-      "Asclepius": 5
-    },
-    "assist": {
-      "Heal": 1,
-      "Reconcile": 3,
-      "Rehabilitate": 4,
-      "Rehabilitate+": 5
-    },
-    "special": {
-      "Imbue": 4,
-      "Miracle": 5
-    },
-    "skillA": {
-      "Atk/Res Solo 1": 1,
-      "Atk/Res Solo 2": 2,
-      "Atk/Res Solo 3": 4
-    },
-    "skillB": {
-      "Sabotage Def 1": 3,
-      "Sabotage Def 2": 4,
-      "Sabotage Def 3": 5
     }
   },
   "Kronya - Gleaming Blade": {
@@ -28629,6 +28603,32 @@
       "Atk Ploy 1": 1,
       "Atk Ploy 2": 2,
       "Atk Ploy 3": 4
+    }
+  },
+  "Cornelia - Saint Consumed": {
+    "weapon": {
+      "Assault": 1,
+      "Asclepius": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 3,
+      "Rehabilitate": 4,
+      "Rehabilitate+": 5
+    },
+    "special": {
+      "Imbue": 4,
+      "Miracle": 5
+    },
+    "skillA": {
+      "Atk/Res Solo 1": 1,
+      "Atk/Res Solo 2": 2,
+      "Atk/Res Solo 3": 4
+    },
+    "skillB": {
+      "Sabotage Def 1": 3,
+      "Sabotage Def 2": 4,
+      "Sabotage Def 3": 5
     }
   },
   "Death Knight - The Reaper": {
@@ -30196,50 +30196,6 @@
       "Inf. Null Follow 3": 5
     }
   },
-  "Zephia - Scheming Dragon": {
-    "weapon": {
-      "Fire": 1,
-      "Elfire": 2,
-      "Bolganone": 4,
-      "Packleader Tome": 5
-    },
-    "special": {
-      "Dragon Gaze": 4,
-      "Dragon Fang": 4
-    },
-    "skillA": {
-      "Atk/Spd Catch 1": 1,
-      "Atk/Spd Catch 2": 2,
-      "Atk/Spd Catch 3": 4
-    },
-    "skillB": {
-      "Windsweep 1": 3,
-      "Windsweep 2": 4,
-      "Windsweep 3": 5
-    }
-  },
-  "Zelestia - Loving Leader": {
-    "weapon": {
-      "Wind": 1,
-      "Elwind": 2,
-      "Gronnlantern": 4,
-      "Gronnlantern+": 5
-    },
-    "special": {
-      "New Moon": 4,
-      "Moonbow": 4
-    },
-    "skillA": {
-      "Atk/Spd Catch 1": 1,
-      "Atk/Spd Catch 2": 2,
-      "Atk/Spd Catch 3": 4
-    },
-    "skillC": {
-      "Atk/Spd Rein 1": 3,
-      "Atk/Spd Rein 2": 4,
-      "Atk/Spd Rein 3": 5
-    }
-  },
   "Veyle - Gentle Dragon": {
     "weapon": {
       "Thunder": 1,
@@ -30319,6 +30275,50 @@
     },
     "skillC": {
       "Fell Majesty": 5
+    }
+  },
+  "Zephia - Scheming Dragon": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bolganone": 4,
+      "Packleader Tome": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 1,
+      "Atk/Spd Catch 2": 2,
+      "Atk/Spd Catch 3": 4
+    },
+    "skillB": {
+      "Windsweep 1": 3,
+      "Windsweep 2": 4,
+      "Windsweep 3": 5
+    }
+  },
+  "Zelestia - Loving Leader": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Gronnlantern": 4,
+      "Gronnlantern+": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 1,
+      "Atk/Spd Catch 2": 2,
+      "Atk/Spd Catch 3": 4
+    },
+    "skillC": {
+      "Atk/Spd Rein 1": 3,
+      "Atk/Spd Rein 2": 4,
+      "Atk/Spd Rein 3": 5
     }
   },
   "Mauvier - Penitent Knight": {
