@@ -225,7 +225,7 @@
         "refine": 350
       },
       "Hexblade Sword+": {
-        "pool": { "#": { "5": ["Jesse - Blithe Mercenary"] } },
+        "pool": { "#": { "4": ["Jesse - Blithe Mercenary"] } },
         "id": "Hexblade Sword+",
         "name": "魔刃之劍+",
         "sp": 300,
@@ -4078,6 +4078,7 @@
             "Kagetsu - Onigiri Samurai",
             "Inigo - Flower Picker"
           ],
+          "4": ["Jesse - Blithe Mercenary"],
           "5": [
             "Ephraim - Restoration Lord",
             "Tana - Winged Princess",
@@ -4085,7 +4086,6 @@
             "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
-            "Jesse - Blithe Mercenary",
             "Nailah - Unflinching Eye",
             "Julian - Tender Thief",
             "Annand - Knight-Defender",
@@ -4285,6 +4285,7 @@
           ]
         },
         "attuned": { "5": ["Ivy - Snow Queen", "Caeda - Marth's Faithful"] },
+        "emblem": { "5": ["Eirika - Of the Sacred"] },
         "aided": { "5": ["Yunaka - Hidden Mask"] },
         "legendary": {
           "5": ["Xander - Gallant King", "Claude - King of Unification"]
@@ -5058,14 +5059,14 @@
             "Jorge - Traveling Peddler",
             "Bertram - Dread Cavalier",
             "Flame Emperor - Bringer of War",
+            "Jedah - Priest of Duma",
             "Arion - Gungnir's Heir",
             "Glen - Sunstone",
             "Murdock - Loyal General",
             "Ludveck - Rebellious Duke",
             "Cervantes - Invincible General",
             "Marni - Pining for Praise"
-          ],
-          "5": ["Jedah - Priest of Duma"]
+          ]
         },
         "attuned": { "5": ["Timerra - Desert Warrior"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
@@ -9472,7 +9473,8 @@
       "pool": {
         "#": {
           "3": ["Patty - Youthful Thief", "Kamui - Wandering Blade"],
-          "5": ["Jesse - Blithe Mercenary", "Hugh - Worldly Mage"]
+          "4": ["Jesse - Blithe Mercenary"],
+          "5": ["Hugh - Worldly Mage"]
         }
       },
       "id": "Spd/Def Ideal 3",
@@ -10101,6 +10103,22 @@
       "sp": 300,
       "icon": "skillA/Spd_Def_Prime_4",
       "rules": "learner.def-dmger"
+    },
+    "Blue Skies 3": {
+      "pool": { "emblem": { "5": ["Eirika - Of the Sacred"] } },
+      "id": "Blue Skies 3",
+      "name": "蒼穹3",
+      "sp": 240,
+      "icon": "skillA/Blue_Skies_3",
+      "rules": "learner.wielderCavalryFlying"
+    },
+    "Blue Skies 4": {
+      "pool": { "emblem": { "5": ["Eirika - Of the Sacred"] } },
+      "id": "Blue Skies 4",
+      "name": "蒼穹4",
+      "sp": 300,
+      "icon": "skillA/Blue_Skies_4",
+      "rules": "learner.wielderCavalryFlying"
     }
   },
   "skillB": {
@@ -10742,8 +10760,11 @@
           "5": ["Bernadetta - Sheltered Loner"]
         },
         "grail": {
-          "4": ["Clarisse - Sniper in the Dark", "Metodey - Shrewd Braggart"],
-          "5": ["Jedah - Priest of Duma"]
+          "4": [
+            "Clarisse - Sniper in the Dark",
+            "Jedah - Priest of Duma",
+            "Metodey - Shrewd Braggart"
+          ]
         },
         "rearmed": { "5": ["Lilina - Brilliant Flame"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
@@ -12812,8 +12833,8 @@
     "Repel 3": {
       "pool": {
         "#": {
+          "4": ["Jesse - Blithe Mercenary"],
           "5": [
-            "Jesse - Blithe Mercenary",
             "Larcei - Keen Kin",
             "Ike - Zeal Unleashed",
             "Alear - Dragon Youth",
@@ -13299,6 +13320,7 @@
     "Flow Force 3": {
       "pool": {
         "#": { "5": ["Geoffrey - Realm's Protector"] },
+        "emblem": { "5": ["Eirika - Of the Sacred"] },
         "harmonized": {
           "5": ["Roy - Blazing Bachelors", "Marisa - Willful Blades"]
         }
@@ -13329,7 +13351,10 @@
       "rules": "learner.wielderCavalryFlying"
     },
     "Assault Force": {
-      "pool": { "harmonized": { "5": ["Marisa - Willful Blades"] } },
+      "pool": {
+        "emblem": { "5": ["Eirika - Of the Sacred"] },
+        "harmonized": { "5": ["Marisa - Willful Blades"] }
+      },
       "id": "Assault Force",
       "name": "強攻・不屈",
       "sp": 300,
@@ -14790,6 +14815,7 @@
             "Azelle - Youthful Flame"
           ]
         },
+        "emblem": { "5": ["Eirika - Of the Sacred"] },
         "special": {
           "5": [
             "Caeda - Talys's Bride",
@@ -14924,7 +14950,10 @@
       "icon": "skillC/Joint_Hone_Res"
     },
     "A/S Incite Hone": {
-      "pool": { "special": { "5": ["Claude - Distant Deer"] } },
+      "pool": {
+        "emblem": { "5": ["Eirika - Of the Sacred"] },
+        "special": { "5": ["Claude - Distant Deer"] }
+      },
       "id": "A/S Incite Hone",
       "name": "攻速鼓舞・奮激",
       "sp": 300,

@@ -4828,5 +4828,38 @@
     "rules": "learner.def-dmger",
     "icon": "skillA/Spd_Def_Prime_4",
     "last": true
+  },
+  "Blue Skies 1": {
+    "id": "Blue Skies 1",
+    "name": "蒼穹1",
+    "sp": 60,
+    "rules": "learner.wielderCavalryFlying",
+    "icon": "skillA/Blue_Skies_1"
+  },
+  "Blue Skies 2": {
+    "id": "Blue Skies 2",
+    "name": "蒼穹2",
+    "sp": 120,
+    "prev": ["Blue Skies 1"],
+    "rules": "learner.wielderCavalryFlying",
+    "icon": "skillA/Blue_Skies_2"
+  },
+  "Blue Skies 3": {
+    "id": "Blue Skies 3",
+    "name": "蒼穹3",
+    "sp": 240,
+    "prev": ["Blue Skies 2"],
+    "rules": "learner.wielderCavalryFlying",
+    "icon": "skillA/Blue_Skies_3",
+    "last": true
+  },
+  "Blue Skies 4": {
+    "id": "Blue Skies 4",
+    "name": "蒼穹4",
+    "sp": 300,
+    "prev": ["Blue Skies 3"],
+    "rules": "learner.wielderCavalryFlying",
+    "icon": "skillA/Blue_Skies_4",
+    "last": true
   }
 }

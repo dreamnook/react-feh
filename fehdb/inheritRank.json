@@ -2685,6 +2685,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Jesse - Blithe Mercenary": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 199,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Repel 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -6499,18 +6511,6 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
-  "Jesse - Blithe Mercenary": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 199,
-    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Repel 3": { "sp": 240, "rarity": 5 } }
-  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -8825,6 +8825,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillA": { "Swift Stance 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Jedah - Priest of Duma": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 188,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Poison Strike 3": { "sp": 240, "rarity": 4 } }
   },
   "Candace - Sly Snatcher": {
     "score": 322,
@@ -12860,6 +12873,20 @@
     "skillB": { "Dragon's Scales": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
   },
+  "Eirika - Of the Sacred": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Blue Skies 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Assault Force": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
+  },
   "Marth - Of Beginnings": {
     "score": 276,
     "scoreTotal": 1012,
@@ -13910,19 +13937,6 @@
     "skillA": { "Bonus Doubler 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Spd Bulwark 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
-  },
-  "Jedah - Priest of Duma": {
-    "score": 388,
-    "scoreTotal": 1100,
-    "poolRarity": 5,
-    "pool": "grail",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 188,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Finish 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Poison Strike 3": { "sp": 240, "rarity": 5 } }
   },
   "Soren - Radiant Confidant": {
     "score": 500,

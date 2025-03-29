@@ -3526,6 +3526,16 @@
       "exclusive": ["Dimitri - Stargazing Lion"],
       "last": true
     },
+    "Azure Twin Edge": {
+      "id": "Azure Twin Edge",
+      "name": "碧綠風空之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Eirika - Of the Sacred"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",

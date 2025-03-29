@@ -605,6 +605,15 @@
     "exclusive": ["Alm - Powerful Resolve"],
     "last": true
   },
+  "Twin Strike": {
+    "id": "Twin Strike",
+    "name": "雙流",
+    "sp": 500,
+    "cd": 3,
+    "prev": ["Luna"],
+    "exclusive": ["Eirika - Of the Sacred"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
