@@ -7386,7 +7386,7 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Instant Lance": 4,
-      "Instant Lance+": 5
+      "Proud Spear": 5
     },
     "special": {
       "Rising Thunder": 4,
@@ -9735,7 +9735,8 @@
       "Fire": 1,
       "Elfire": 2,
       "Rauðrserpent": 4,
-      "Rauðrserpent+": 5
+      "Rauðrserpent+": 5,
+      "Tome of Fury": 5
     },
     "assist": {
       "Ardent Sacrifice": 4
@@ -27147,7 +27148,8 @@
       "Iron Axe": 1,
       "Steel Axe": 3,
       "Steadfast Axe": 4,
-      "Steadfast Axe+": 5
+      "Steadfast Axe+": 5,
+      "Taciturn Axe": 5
     },
     "special": {
       "Buckler": 4,

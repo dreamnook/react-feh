@@ -522,10 +522,7 @@
         "refine": 350
       },
       "Instant Lance+": {
-        "pool": {
-          "#": { "5": ["Melady - Crimson Rider"] },
-          "grail": { "5": ["Fernand - Traitorous Knight"] }
-        },
+        "pool": { "#": { "5": ["Melady - Crimson Rider"] } },
         "id": "Instant Lance+",
         "name": "瞬擊之槍+",
         "sp": 300,

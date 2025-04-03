@@ -6857,6 +6857,29 @@
       "atk": 3,
       "sp": 400,
       "exclusive": ["Erinys - Earnest Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Silesse_Frost_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Lúin": {
@@ -8086,6 +8109,38 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Plumeria - Spring Dance"],
+      "last": true
+    },
+    "Proud Spear": {
+      "id": "Proud Spear",
+      "name": "榮耀之槍",
+      "mt": 16,
+      "sp": 400,
+      "prev": ["Instant Lance"],
+      "exclusive": ["Fernand - Traitorous Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Proud_Spear_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Qiang": {
@@ -12291,6 +12346,37 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Edelgard - Adorned Eagle"],
+      "last": true
+    },
+    "Taciturn Axe": {
+      "id": "Taciturn Axe",
+      "name": "寡言的忠義之斧",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Dedue - Dimitri's Vassal"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Taciturn_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Downfall": {
@@ -18118,6 +18204,28 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Lyn - Ninja-Friend Duo"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Tailwind_Shuriken_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Honorable Blade": {
@@ -22660,6 +22768,36 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Veyle - Spring Tranquility"],
+      "last": true
+    },
+    "Tome of Fury": {
+      "id": "Tome of Fury",
+      "name": "激情的炎之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Miranda - Willful Princess"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Tome_of_Fury_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arcane Eclipse": {
