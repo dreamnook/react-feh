@@ -3536,6 +3536,16 @@
       "exclusive": ["Eirika - Of the Sacred"],
       "last": true
     },
+    "Sword of Dusk": {
+      "id": "Sword of Dusk",
+      "name": "戰神的暗夜之劍",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Xander - Focused Firstborn"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -12377,6 +12387,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Axe of Dusk": {
+      "id": "Axe of Dusk",
+      "name": "戰神的暗夜之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Camilla - Young Beauty"],
       "last": true
     },
     "Arcane Downfall": {
@@ -22800,6 +22820,16 @@
       },
       "last": true
     },
+    "Tome of Dusk": {
+      "id": "Tome of Dusk",
+      "name": "戰神的暗夜之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Fenrir"],
+      "exclusive": ["Leo - Dark Sprout"],
+      "last": true
+    },
     "Arcane Eclipse": {
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
@@ -29256,6 +29286,16 @@
       "exclusive": ["Sakura - In Full Bloom"],
       "last": true
     },
+    "Baton of Dusk": {
+      "id": "Baton of Dusk",
+      "name": "戰神的暗夜之杖",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Elise - Sparkling Smile"],
+      "last": true
+    },
     "Arcane Charmer": {
       "id": "Arcane Charmer",
       "name": "魔器・可愛雪杖",
@@ -31452,6 +31492,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Rafal - Atoning Dragon"],
+      "last": true
+    },
+    "Duskstone": {
+      "id": "Duskstone",
+      "name": "戰神的暗夜之龍石",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Corrin - Young Kinship"],
       "last": true
     },
     "Arcane Grima": {

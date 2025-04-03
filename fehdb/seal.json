@@ -2459,6 +2459,30 @@
       "icon": "skillB/Special_Fighter_3",
       "last": true
     },
+    "Slick Fighter 1": {
+      "id": "Slick Fighter 1",
+      "name": "正面隊形・自己1",
+      "sp": 60,
+      "rules": "armored",
+      "icon": "skillB/Slick_Fighter_1"
+    },
+    "Slick Fighter 2": {
+      "id": "Slick Fighter 2",
+      "name": "正面隊形・自己2",
+      "sp": 120,
+      "prev": ["Slick Fighter 1"],
+      "rules": "armored",
+      "icon": "skillB/Slick_Fighter_2"
+    },
+    "Slick Fighter 3": {
+      "id": "Slick Fighter 3",
+      "name": "正面隊形・自己3",
+      "sp": 240,
+      "prev": ["Slick Fighter 2"],
+      "rules": "armored",
+      "icon": "skillB/Slick_Fighter_3",
+      "last": true
+    },
     "Wily Fighter 1": {
       "id": "Wily Fighter 1",
       "name": "正面隊形・敵方1",
@@ -2943,6 +2967,30 @@
       "prev": ["Torrent Dance 2"],
       "rules": "not.white-staff",
       "icon": "skillB/Torrent_Dance_3",
+      "last": true
+    },
+    "Atk/Spd Snag 1": {
+      "id": "Atk/Spd Snag 1",
+      "name": "攻擊速度干涉1",
+      "sp": 60,
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Atk_Spd_Snag_1"
+    },
+    "Atk/Spd Snag 2": {
+      "id": "Atk/Spd Snag 2",
+      "name": "攻擊速度干涉2",
+      "sp": 120,
+      "prev": ["Atk/Spd Snag 1"],
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Atk_Spd_Snag_2"
+    },
+    "Atk/Spd Snag 3": {
+      "id": "Atk/Spd Snag 3",
+      "name": "攻擊速度干涉3",
+      "sp": 240,
+      "prev": ["Atk/Spd Snag 2"],
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Atk_Spd_Snag_3",
       "last": true
     },
     "Def/Res Snag 1": {

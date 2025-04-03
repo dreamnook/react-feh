@@ -614,6 +614,15 @@
     "exclusive": ["Eirika - Of the Sacred"],
     "last": true
   },
+  "Dragon Fang Fire": {
+    "id": "Dragon Fang Fire",
+    "name": "真龍穿射",
+    "sp": 500,
+    "cd": 2,
+    "prev": ["Dragon Fang"],
+    "exclusive": ["Corrin - Young Kinship"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

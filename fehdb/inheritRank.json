@@ -2172,6 +2172,20 @@
     "skillA": { "Wind Boost 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Sword Valor 3": { "sp": 120, "rarity": 5 } }
   },
+  "Elise - Sparkling Smile": {
+    "score": 133,
+    "scoreTotal": 355,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1340,
+    "feather": 1000,
+    "bst": 180,
+    "assist": { "Return+": { "sp": 300, "rarity": 5 } },
+    "special": { "Holy Panic": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Tidings": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
+  },
   "Narcian - Vernal General": {
     "score": 196,
     "scoreTotal": 359,
@@ -7573,6 +7587,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Xander - Focused Firstborn": {
+    "score": 254,
+    "scoreTotal": 721,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,
@@ -14799,6 +14826,20 @@
     "skillB": { "Weaving Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/R Far Save 3": { "sp": 300, "rarity": 5 } }
   },
+  "Corrin - Young Kinship": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 215,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Primordial Boost": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Clever Fighter": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Lower Ground": { "sp": 300, "rarity": 5 } }
+  },
   "Claude - Golden Breeze": {
     "score": 530,
     "scoreTotal": 1166,
@@ -14889,6 +14930,19 @@
     "special": { "Nimble Beast": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Fortune": { "sp": 300, "rarity": 5 } },
     "skillB": { "Bestial Assault": { "sp": 300, "rarity": 5 } }
+  },
+  "Camilla - Young Beauty": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "No Quarter": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Trample": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Guidance 4": { "sp": 300, "rarity": 5 } }
   },
   "Tiki - Bridal Reflections": {
     "score": 530,
@@ -15326,6 +15380,20 @@
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd/Def Snag 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Inf. Spd Tactic": { "sp": 300, "rarity": 5 } }
+  },
+  "Leo - Dark Sprout": {
+    "score": 318,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 180,
+    "special": { "Blazing Thunder": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Detect": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Incite Hone": { "sp": 300, "rarity": 5 } }
   },
   "Igrene - Sworn Protectors": {
     "score": 318,

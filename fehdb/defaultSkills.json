@@ -22412,6 +22412,37 @@
       "Atk/Res Ploy 3": 5
     }
   },
+  "Corrin - Young Kinship": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Duskstone": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Dragon Fang Fire": 5
+    },
+    "skillA": {
+      "Water Boost 1": 2,
+      "Water Boost 2": 3,
+      "Water Boost 3": 4,
+      "Primordial Boost": 5
+    },
+    "skillB": {
+      "Savvy Fighter 1": 2,
+      "Savvy Fighter 2": 3,
+      "Savvy Fighter 3": 4,
+      "Clever Fighter": 5
+    },
+    "skillC": {
+      "Close Guard 1": 2,
+      "Close Guard 2": 3,
+      "Close Guard 3": 4,
+      "Lower Ground": 5
+    }
+  },
   "Corrin - Fateful Princess": {
     "weapon": {
       "Fire Breath": 1,
@@ -24277,6 +24308,28 @@
       "C Feud 3": 4
     }
   },
+  "Xander - Focused Firstborn": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Sword of Dusk": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Def Clash 1": 1,
+      "Atk/Def Clash 2": 3,
+      "Atk/Def Clash 3": 4
+    },
+    "skillB": {
+      "Lull Atk/Def 1": 3,
+      "Lull Atk/Def 2": 4,
+      "Lull Atk/Def 3": 5
+    }
+  },
   "Laslow - Dancing Duelist": {
     "weapon": {
       "Iron Sword": 1,
@@ -24545,6 +24598,34 @@
       "Deadly Miasma": 5
     }
   },
+  "Camilla - Young Beauty": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Axe of Dusk": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4,
+      "No Quarter": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Trample": 5
+    },
+    "skillB": {
+      "Tut-Tut!": 5
+    },
+    "skillC": {
+      "Guidance 1": 2,
+      "Guidance 2": 3,
+      "Guidance 3": 4,
+      "Guidance 4": 5
+    }
+  },
   "Selena - Cutting Wit": {
     "weapon": {
       "Iron Sword": 1,
@@ -24697,6 +24778,39 @@
       "Fatal Smoke 1": 3,
       "Fatal Smoke 2": 4,
       "Fatal Smoke 3": 5
+    }
+  },
+  "Leo - Dark Sprout": {
+    "weapon": {
+      "Flux": 1,
+      "Ruin": 2,
+      "Fenrir": 4,
+      "Tome of Dusk": 5
+    },
+    "assist": {
+      "Reposition": 4
+    },
+    "special": {
+      "Rising Thunder": 4,
+      "Blazing Thunder": 4
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Crystalline Water": 5
+    },
+    "skillB": {
+      "Atk/Res Snag 1": 2,
+      "Atk/Res Snag 2": 3,
+      "Atk/Res Snag 3": 4,
+      "Atk/Res Detect": 5
+    },
+    "skillC": {
+      "Fortify Res 1": 2,
+      "Fortify Res 2": 3,
+      "Fortify Res 3": 4,
+      "A/R Incite Hone": 5
     }
   },
   "Odin - Potent Force": {
@@ -24876,6 +24990,34 @@
       "Odd Recovery 1": 1,
       "Odd Recovery 2": 2,
       "Odd Recovery 3": 4
+    }
+  },
+  "Elise - Sparkling Smile": {
+    "weapon": {
+      "Assault": 1,
+      "Baton of Dusk": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Reconcile": 3,
+      "Return": 4,
+      "Return+": 5
+    },
+    "special": {
+      "Imbue": 4,
+      "Miracle": 5,
+      "Holy Panic": 5
+    },
+    "skillA": {
+      "Atk/Spd Form 1": 2,
+      "Atk/Spd Form 2": 3,
+      "Atk/Spd Form 3": 4,
+      "Atk/Spd Tidings": 5
+    },
+    "skillC": {
+      "Even Recovery 1": 1,
+      "Even Recovery 2": 2,
+      "Even Recovery 3": 4
     }
   },
   "Arthur - Hapless Hero": {

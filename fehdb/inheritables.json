@@ -3254,7 +3254,9 @@
       "pool": {
         "#": { "5": ["Sara - Lady of Loptr", "Safy - Font of Piety"] },
         "mythic": { "5": ["Loki - Trickster God"] },
-        "special": { "5": ["Saul - Minister of Love"] },
+        "special": {
+          "5": ["Saul - Minister of Love", "Elise - Sparkling Smile"]
+        },
         "duo": { "5": ["Elise - Sweetheart Royals"] }
       },
       "id": "Return+",
@@ -4768,6 +4770,7 @@
             "Bernadetta - Late Hibernator",
             "Dimitri - Blessed Protector",
             "Dimitri - Stargazing Lion",
+            "Camilla - Young Beauty",
             "Sylvain - Spring Flingster"
           ]
         },
@@ -4862,7 +4865,8 @@
             "Corrin - Starry Seer",
             "Framme - Spring Fangirl"
           ]
-        }
+        },
+        "duo": { "5": ["Corrin - Young Kinship"] }
       },
       "id": "Dragon Fang",
       "name": "龍穿",
@@ -4887,7 +4891,11 @@
     "No Quarter": {
       "pool": {
         "special": {
-          "5": ["Dimitri - Blessed Protector", "Sylvain - Spring Flingster"]
+          "5": [
+            "Dimitri - Blessed Protector",
+            "Camilla - Young Beauty",
+            "Sylvain - Spring Flingster"
+          ]
         },
         "duo": { "5": ["Sharena - Pillars of Peace"] }
       },
@@ -5081,6 +5089,7 @@
           "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
             "Jakob - Devoted Monster",
+            "Xander - Focused Firstborn",
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
             "Robin - Fated Vessel",
@@ -5467,6 +5476,7 @@
         "grail": {
           "4": ["Fernand - Traitorous Knight", "Michalis - Ambitious King"]
         },
+        "special": { "5": ["Leo - Dark Sprout"] },
         "duo": { "5": ["Thórr - Sun-Kissed Gods"] }
       },
       "id": "Blazing Thunder",
@@ -5653,6 +5663,7 @@
           "4": ["Xane - Desert Mirage"],
           "5": [
             "Bruno - Masked Hare",
+            "Elise - Sparkling Smile",
             "Flayn - Silly Kitty-Cat",
             "Hortensia - Winter's Dearest",
             "Emmeryn - Selfless Exalt",
@@ -5849,7 +5860,8 @@
     },
     "Holy Panic": {
       "pool": {
-        "#": { "5": ["Safy - Font of Piety", "Maria - Ritual Sacrifice"] }
+        "#": { "5": ["Safy - Font of Piety", "Maria - Ritual Sacrifice"] },
+        "special": { "5": ["Elise - Sparkling Smile"] }
       },
       "id": "Holy Panic",
       "name": "恐慌的聖光",
@@ -6333,7 +6345,8 @@
           "5": [
             "Veyle - Spring Tranquility",
             "Ivy - Tidal Breeze",
-            "Lilina - Beaming Bride"
+            "Lilina - Beaming Bride",
+            "Leo - Dark Sprout"
           ]
         },
         "duo": {
@@ -6374,7 +6387,7 @@
       "pool": {
         "#": { "5": ["Veyle - Fell Successor"] },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
-        "special": { "5": ["Veyle - Spring Tranquility"] },
+        "special": { "5": ["Veyle - Spring Tranquility", "Leo - Dark Sprout"] },
         "duo": { "5": ["Heiðrún - Sisters of Healing"] }
       },
       "id": "Crystalline Water",
@@ -7877,7 +7890,8 @@
           "5": [
             "Ymir - Seasons of Life",
             "Fjorm - Gleaming Ice Pair",
-            "Byleth - Frosty Professors"
+            "Byleth - Frosty Professors",
+            "Corrin - Young Kinship"
           ]
         }
       },
@@ -8973,6 +8987,7 @@
         "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
         "special": {
           "5": [
+            "Elise - Sparkling Smile",
             "Juno - Soaring Bride",
             "Manuela - Silver Caroler",
             "Hræsvelgr - Wings of Healing",
@@ -9072,6 +9087,14 @@
       "icon": "skillA/Sway_Atk_Res",
       "rules": "white-staff"
     },
+    "Atk/Spd Tidings": {
+      "pool": { "special": { "5": ["Elise - Sparkling Smile"] } },
+      "id": "Atk/Spd Tidings",
+      "name": "攻擊速度的福音",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Tidings",
+      "rules": "white-staff"
+    },
     "Atk/Spd Fortune": {
       "pool": {
         "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
@@ -9144,7 +9167,8 @@
             "Hortensia - Winter's Dearest",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
-            "Delthea - Prodigy in Bloom"
+            "Delthea - Prodigy in Bloom",
+            "Camilla - Young Beauty"
           ]
         },
         "duo": { "5": ["Elise - Sweetheart Royals", "Nina - Shadowy Figures"] },
@@ -9652,7 +9676,11 @@
           ]
         },
         "special": {
-          "5": ["Flavia - Bold Bride", "Ephraim - Sunshine Valiant"]
+          "5": [
+            "Flavia - Bold Bride",
+            "Xander - Focused Firstborn",
+            "Ephraim - Sunshine Valiant"
+          ]
         }
       },
       "id": "Atk/Def Clash 3",
@@ -9689,6 +9717,14 @@
       "sp": 300,
       "icon": "skillA/Spd_Def_Clash_4",
       "rules": "learner.infantry-cavalry-flying-melee"
+    },
+    "Trample": {
+      "pool": { "special": { "5": ["Camilla - Young Beauty"] } },
+      "id": "Trample",
+      "name": "輕視者",
+      "sp": 300,
+      "icon": "skillA/Trample",
+      "rules": "learner.flying-melee"
     },
     "Atk/Spd Excel": {
       "pool": {
@@ -10116,6 +10152,14 @@
       "sp": 300,
       "icon": "skillA/Blue_Skies_4",
       "rules": "learner.wielderCavalryFlying"
+    },
+    "Primordial Boost": {
+      "pool": { "duo": { "5": ["Corrin - Young Kinship"] } },
+      "id": "Primordial Boost",
+      "name": "風地水之命脈",
+      "sp": 300,
+      "icon": "skillA/Primordial_Boost",
+      "rules": "armored"
     }
   },
   "skillB": {
@@ -10722,7 +10766,8 @@
         "ascended": { "5": ["Amelia - Blossoming Talent"] },
         "special": {
           "5": ["Lucina - Future Fondness", "Takumi - Troubled Heart"]
-        }
+        },
+        "duo": { "5": ["Corrin - Young Kinship"] }
       },
       "id": "Savvy Fighter 3",
       "name": "慧眼隊形3",
@@ -10739,7 +10784,10 @@
       "rules": "armored"
     },
     "Clever Fighter": {
-      "pool": { "ascended": { "5": ["Amelia - Blossoming Talent"] } },
+      "pool": {
+        "ascended": { "5": ["Amelia - Blossoming Talent"] },
+        "duo": { "5": ["Corrin - Young Kinship"] }
+      },
       "id": "Clever Fighter",
       "name": "慧敏隊型",
       "sp": 300,
@@ -12302,7 +12350,9 @@
       "rules": "learner.cavalry-flying-not-staff"
     },
     "Atk/Res Snag 3": {
-      "pool": { "special": { "5": ["Cath - Caper Captain"] } },
+      "pool": {
+        "special": { "5": ["Cath - Caper Captain", "Leo - Dark Sprout"] }
+      },
       "id": "Atk/Res Snag 3",
       "name": "攻擊魔防干涉3",
       "sp": 240,
@@ -12353,6 +12403,14 @@
       "name": "防守魔防干涉3",
       "sp": 240,
       "icon": "skillB/Def_Res_Snag_3",
+      "rules": "learner.cavalry-flying-not-staff"
+    },
+    "Atk/Res Detect": {
+      "pool": { "special": { "5": ["Leo - Dark Sprout"] } },
+      "id": "Atk/Res Detect",
+      "name": "攻擊魔防看破",
+      "sp": 300,
+      "icon": "skillB/Atk_Res_Detect",
       "rules": "learner.cavalry-flying-not-staff"
     },
     "Spd/Def Detect": {
@@ -12715,7 +12773,13 @@
         },
         "legendary": { "5": ["Chrom - Crowned Exalt"] },
         "mythic": { "5": ["Freyr - Dream-King", "Ash - Retainer to Askr"] },
-        "special": { "5": ["Lyon - Sunlit Prince", "Freyr - Estival Dreams"] },
+        "special": {
+          "5": [
+            "Lyon - Sunlit Prince",
+            "Xander - Focused Firstborn",
+            "Freyr - Estival Dreams"
+          ]
+        },
         "duo": { "5": ["Ephraim - Dynastic Duo"] },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }
       },
@@ -14287,7 +14351,7 @@
         "special": {
           "5": ["Ephraim - Sparkling Gallantly", "Felicia - Off the Menu"]
         },
-        "duo": { "5": ["Rhea - Aura of Love"] }
+        "duo": { "5": ["Corrin - Young Kinship", "Rhea - Aura of Love"] }
       },
       "id": "Close Guard 3",
       "name": "近距離警戒3",
@@ -14373,7 +14437,9 @@
       "rules": "learner.armored-dragon-beast"
     },
     "Lower Ground": {
-      "pool": { "duo": { "5": ["Rhea - Aura of Love"] } },
+      "pool": {
+        "duo": { "5": ["Corrin - Young Kinship", "Rhea - Aura of Love"] }
+      },
       "id": "Lower Ground",
       "name": "地盤・守護人・近",
       "sp": 300,
@@ -14885,6 +14951,7 @@
           ]
         },
         "mythic": { "5": ["Peony - Sweet Dream"] },
+        "special": { "5": ["Leo - Dark Sprout"] },
         "duo": { "5": ["Sigurd - Destined Duo"] }
       },
       "id": "Fortify Res 3",
@@ -14955,6 +15022,14 @@
       "name": "攻速鼓舞・奮激",
       "sp": 300,
       "icon": "skillC/A_S_Incite_Hone",
+      "rules": "cavalry"
+    },
+    "A/R Incite Hone": {
+      "pool": { "special": { "5": ["Leo - Dark Sprout"] } },
+      "id": "A/R Incite Hone",
+      "name": "攻魔鼓舞・奮激",
+      "sp": 300,
+      "icon": "skillC/A_R_Incite_Hone",
       "rules": "cavalry"
     },
     "Hone Armor": {
@@ -16403,7 +16478,10 @@
         "legendary": {
           "5": ["Ryoma - Supreme Samurai", "Claude - King of Unification"]
         },
-        "special": { "4": ["Tethys - Dancing Sands"] }
+        "special": {
+          "4": ["Tethys - Dancing Sands"],
+          "5": ["Camilla - Young Beauty"]
+        }
       },
       "id": "Guidance 3",
       "name": "空中前導3",
@@ -16414,7 +16492,8 @@
     "Guidance 4": {
       "pool": {
         "rearmed": { "5": ["Tana - Soaring Princess"] },
-        "legendary": { "5": ["Claude - King of Unification"] }
+        "legendary": { "5": ["Claude - King of Unification"] },
+        "special": { "5": ["Camilla - Young Beauty"] }
       },
       "id": "Guidance 4",
       "name": "空中前導4",
@@ -17307,6 +17386,7 @@
     "Even Recovery 3": {
       "pool": {
         "#": { "5": ["August - Astute Tactician", "Maria - Ritual Sacrifice"] },
+        "special": { "5": ["Elise - Sparkling Smile"] },
         "duo": { "5": ["Hilda - Deer's Two-Piece"] }
       },
       "id": "Even Recovery 3",

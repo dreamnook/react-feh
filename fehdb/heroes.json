@@ -39398,6 +39398,42 @@
     "ver": "8.5",
     "dfKey": 6
   },
+  "Corrin - Young Kinship": {
+    "id": "Corrin - Young Kinship",
+    "title": "邂逅的幼龍",
+    "name": "神威",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-dragon",
+    "moveType": "armored",
+    "pool": "duo",
+    "bst": 215,
+    "appearsIn": ["Fates"],
+    "releaseDate": "2025-04-04",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [39, 43, 46],
+        "spd": [44, 47, 51],
+        "def": [32, 35, 39],
+        "res": [43, 46, 49]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 8,
+        "def": 5,
+        "res": 11
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp", "atk"],
+    "statMin": 212,
+    "statMax": 215,
+    "book": 9,
+    "ver": "9.4",
+    "dfKey": 7
+  },
   "Corrin - Fateful Princess": {
     "id": "Corrin - Fateful Princess",
     "title": "選擇未來的公主",
@@ -42718,6 +42754,41 @@
     "ver": "6.6",
     "dfKey": 4
   },
+  "Xander - Focused Firstborn": {
+    "id": "Xander - Focused Firstborn",
+    "title": "長兄的決心",
+    "name": "馬克斯",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Fates"],
+    "releaseDate": "2025-04-04",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [45, 48, 52],
+        "spd": [26, 30, 33],
+        "def": [45, 48, 51],
+        "res": [20, 23, 27]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 9,
+        "spd": 8,
+        "def": 13,
+        "res": 4
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.4",
+    "dfKey": 7
+  },
   "Laslow - Dancing Duelist": {
     "id": "Laslow - Dancing Duelist",
     "title": "綻開的笑容",
@@ -43199,6 +43270,41 @@
     "ver": "8.0",
     "dfKey": 6
   },
+  "Camilla - Young Beauty": {
+    "id": "Camilla - Young Beauty",
+    "title": "美豔的花蕾",
+    "name": "卡美拉",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "flying",
+    "pool": "special",
+    "appearsIn": ["Fates"],
+    "releaseDate": "2025-04-04",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [32, 35, 38],
+        "res": [22, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 9,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.4",
+    "dfKey": 7
+  },
   "Selena - Cutting Wit": {
     "id": "Selena - Cutting Wit",
     "title": "深藏的憧憬",
@@ -43525,6 +43631,41 @@
     "ver": "8.8",
     "dfKey": 6
   },
+  "Leo - Dark Sprout": {
+    "id": "Leo - Dark Sprout",
+    "title": "闇之萌芽",
+    "name": "里昂",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-tome",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Fates"],
+    "releaseDate": "2025-04-04",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [46, 49, 53],
+        "spd": [23, 27, 30],
+        "def": [12, 16, 19],
+        "res": [45, 48, 51]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 5,
+        "def": 3,
+        "res": 13
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 180,
+    "statMax": 180,
+    "book": 9,
+    "ver": "9.4",
+    "dfKey": 7
+  },
   "Odin - Potent Force": {
     "id": "Odin - Potent Force",
     "title": "封印著力量之人",
@@ -43823,6 +43964,41 @@
     "book": 7,
     "ver": "7.2",
     "dfKey": 5
+  },
+  "Elise - Sparkling Smile": {
+    "id": "Elise - Sparkling Smile",
+    "title": "照耀暗夜的笑容",
+    "name": "艾麗澤",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-staff",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Fates"],
+    "releaseDate": "2025-04-04",
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [44, 47, 51],
+        "spd": [44, 47, 50],
+        "def": [13, 17, 20],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 8,
+        "spd": 12,
+        "def": 4,
+        "res": 9
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 180,
+    "statMax": 180,
+    "book": 9,
+    "ver": "9.4",
+    "dfKey": 7
   },
   "Arthur - Hapless Hero": {
     "id": "Arthur - Hapless Hero",

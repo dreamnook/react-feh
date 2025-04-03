@@ -1549,6 +1549,15 @@
     "icon": "skillC/A_S_Incite_Hone",
     "last": true
   },
+  "A/R Incite Hone": {
+    "id": "A/R Incite Hone",
+    "name": "攻魔鼓舞・奮激",
+    "sp": 300,
+    "rules": "cavalry",
+    "prev": ["Hone Atk 3", "Fortify Res 3"],
+    "icon": "skillC/A_R_Incite_Hone",
+    "last": true
+  },
   "Hone Armor": {
     "id": "Hone Armor",
     "name": "重刃鼓舞",

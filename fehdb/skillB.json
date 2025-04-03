@@ -809,6 +809,14 @@
     "icon": "skillB/Mounting_Fear",
     "last": true
   },
+  "Tut-Tut!": {
+    "id": "Tut-Tut!",
+    "name": "那也是沒辦法的事",
+    "sp": 300,
+    "exclusive": ["Camilla - Young Beauty"],
+    "icon": "skillB/Tut-Tut!",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -3515,6 +3523,15 @@
     "prev": ["Def/Res Snag 2"],
     "rules": "learner.cavalry-flying-not-staff",
     "icon": "skillB/Def_Res_Snag_3",
+    "last": true
+  },
+  "Atk/Res Detect": {
+    "id": "Atk/Res Detect",
+    "name": "攻擊魔防看破",
+    "sp": 300,
+    "rules": "learner.cavalry-flying-not-staff",
+    "prev": ["Atk/Res Snag 3"],
+    "icon": "skillB/Atk_Res_Detect",
     "last": true
   },
   "Spd/Def Detect": {

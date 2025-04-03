@@ -3778,6 +3778,15 @@
     "icon": "skillA/Sway_Atk_Res",
     "last": true
   },
+  "Atk/Spd Tidings": {
+    "id": "Atk/Spd Tidings",
+    "name": "攻擊速度的福音",
+    "sp": 300,
+    "rules": "white-staff",
+    "prev": ["Atk/Spd Form 3"],
+    "icon": "skillA/Atk_Spd_Tidings",
+    "last": true
+  },
   "Atk/Spd Fortune": {
     "id": "Atk/Spd Fortune",
     "name": "攻擊速度的共榮",
@@ -4351,6 +4360,15 @@
     "icon": "skillA/Spd_Def_Clash_4",
     "last": true
   },
+  "Trample": {
+    "id": "Trample",
+    "name": "輕視者",
+    "sp": 300,
+    "rules": "learner.flying-melee",
+    "prev": ["Atk/Spd Catch 3"],
+    "icon": "skillA/Trample",
+    "last": true
+  },
   "Atk/Spd Excel": {
     "id": "Atk/Spd Excel",
     "name": "攻擊速度突破",
@@ -4860,6 +4878,16 @@
     "prev": ["Blue Skies 3"],
     "rules": "learner.wielderCavalryFlying",
     "icon": "skillA/Blue_Skies_4",
+    "last": true
+  },
+  "Primordial Boost": {
+    "id": "Primordial Boost",
+    "name": "風地水之命脈",
+    "sp": 300,
+    "hp": 5,
+    "rules": "armored",
+    "prev": ["Earth Boost 3", "Water Boost 3"],
+    "icon": "skillA/Primordial_Boost",
     "last": true
   }
 }
