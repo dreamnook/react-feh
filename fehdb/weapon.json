@@ -3538,7 +3538,7 @@
     },
     "Sword of Dusk": {
       "id": "Sword of Dusk",
-      "name": "戰神的暗夜之劍",
+      "name": "戰神的闇夜之劍",
       "mt": 16,
       "atk": 3,
       "sp": 400,
@@ -12391,7 +12391,7 @@
     },
     "Axe of Dusk": {
       "id": "Axe of Dusk",
-      "name": "戰神的暗夜之斧",
+      "name": "戰神的闇夜之斧",
       "mt": 16,
       "cd": -1,
       "sp": 400,
@@ -22822,7 +22822,7 @@
     },
     "Tome of Dusk": {
       "id": "Tome of Dusk",
-      "name": "戰神的暗夜之書",
+      "name": "戰神的闇夜之書",
       "mt": 14,
       "cd": -1,
       "sp": 400,
@@ -29288,7 +29288,7 @@
     },
     "Baton of Dusk": {
       "id": "Baton of Dusk",
-      "name": "戰神的暗夜之杖",
+      "name": "戰神的闇夜之杖",
       "mt": 14,
       "spd": 3,
       "sp": 400,
@@ -31496,7 +31496,7 @@
     },
     "Duskstone": {
       "id": "Duskstone",
-      "name": "戰神的暗夜之龍石",
+      "name": "戰神的闇夜之龍石",
       "mt": 16,
       "cd": -1,
       "sp": 400,

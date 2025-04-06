@@ -4362,7 +4362,7 @@
   },
   "Trample": {
     "id": "Trample",
-    "name": "輕視者",
+    "name": "居高臨下",
     "sp": 300,
     "rules": "learner.flying-melee",
     "prev": ["Atk/Spd Catch 3"],
@@ -4882,7 +4882,7 @@
   },
   "Primordial Boost": {
     "id": "Primordial Boost",
-    "name": "風地水之命脈",
+    "name": "風地水的命脈",
     "sp": 300,
     "hp": 5,
     "rules": "armored",

@@ -9721,7 +9721,7 @@
     "Trample": {
       "pool": { "special": { "5": ["Camilla - Young Beauty"] } },
       "id": "Trample",
-      "name": "輕視者",
+      "name": "居高臨下",
       "sp": 300,
       "icon": "skillA/Trample",
       "rules": "learner.flying-melee"
@@ -10156,7 +10156,7 @@
     "Primordial Boost": {
       "pool": { "duo": { "5": ["Corrin - Young Kinship"] } },
       "id": "Primordial Boost",
-      "name": "風地水之命脈",
+      "name": "風地水的命脈",
       "sp": 300,
       "icon": "skillA/Primordial_Boost",
       "rules": "armored"
@@ -12408,7 +12408,7 @@
     "Atk/Res Detect": {
       "pool": { "special": { "5": ["Leo - Dark Sprout"] } },
       "id": "Atk/Res Detect",
-      "name": "攻擊魔防看破",
+      "name": "攻擊魔防的看破",
       "sp": 300,
       "icon": "skillB/Atk_Res_Detect",
       "rules": "learner.cavalry-flying-not-staff"
@@ -12416,7 +12416,7 @@
     "Spd/Def Detect": {
       "pool": { "duo": { "5": ["Lucina - Shadows of Fate"] } },
       "id": "Spd/Def Detect",
-      "name": "速度防守看破",
+      "name": "速度防守的看破",
       "sp": 300,
       "icon": "skillB/Spd_Def_Detect",
       "rules": "learner.cavalry-flying-not-staff"

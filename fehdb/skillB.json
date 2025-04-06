@@ -811,7 +811,7 @@
   },
   "Tut-Tut!": {
     "id": "Tut-Tut!",
-    "name": "那也是沒辦法的事",
+    "name": "真拿你沒轍呢",
     "sp": 300,
     "exclusive": ["Camilla - Young Beauty"],
     "icon": "skillB/Tut-Tut!",
@@ -3527,7 +3527,7 @@
   },
   "Atk/Res Detect": {
     "id": "Atk/Res Detect",
-    "name": "攻擊魔防看破",
+    "name": "攻擊魔防的看破",
     "sp": 300,
     "rules": "learner.cavalry-flying-not-staff",
     "prev": ["Atk/Res Snag 3"],
@@ -3536,7 +3536,7 @@
   },
   "Spd/Def Detect": {
     "id": "Spd/Def Detect",
-    "name": "速度防守看破",
+    "name": "速度防守的看破",
     "sp": 300,
     "rules": "learner.cavalry-flying-not-staff",
     "prev": ["Spd/Def Snag 3"],
