@@ -18227,23 +18227,63 @@
       "refine": {
         "effect": {
           "name": "特效",
-          "icon": "Tailwind_Shuriken_W"
+          "icon": "Tailwind_Shuriken_W",
+          "newStats": {
+            "mt": 9,
+            "atk": 6,
+            "spd": 6,
+            "def": -4,
+            "res": -4,
+            "cd": -1
+          }
         },
         "atk": {
           "hp": 2,
-          "mt": 1
+          "mt": 1,
+          "newStats": {
+            "mt": 9,
+            "atk": 6,
+            "spd": 6,
+            "def": -4,
+            "res": -4,
+            "cd": -1
+          }
         },
         "spd": {
           "hp": 2,
-          "spd": 2
+          "spd": 2,
+          "newStats": {
+            "mt": 9,
+            "atk": 6,
+            "spd": 6,
+            "def": -4,
+            "res": -4,
+            "cd": -1
+          }
         },
         "def": {
           "hp": 2,
-          "def": 3
+          "def": 3,
+          "newStats": {
+            "mt": 9,
+            "atk": 6,
+            "spd": 6,
+            "def": -4,
+            "res": -4,
+            "cd": -1
+          }
         },
         "res": {
           "hp": 2,
-          "res": 3
+          "res": 3,
+          "newStats": {
+            "mt": 9,
+            "atk": 6,
+            "spd": 6,
+            "def": -4,
+            "res": -4,
+            "cd": -1
+          }
         }
       },
       "last": true
