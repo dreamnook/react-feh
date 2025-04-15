@@ -22870,6 +22870,16 @@
       "exclusive": ["Leo - Dark Sprout"],
       "last": true
     },
+    "Fundament": {
+      "id": "Fundament",
+      "name": "初始的魔道",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Gotoh - Apostle of Naga"],
+      "last": true
+    },
     "Arcane Eclipse": {
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
@@ -24974,6 +24984,16 @@
       "sp": 400,
       "prev": ["Shine"],
       "exclusive": ["Athos - Omniscient One"],
+      "last": true
+    },
+    "Ancient Trickery": {
+      "id": "Ancient Trickery",
+      "name": "古代變身之書",
+      "mt": 14,
+      "hp": 5,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Xane - Fickle Dragon"],
       "last": true
     },
     "Arcane Euphoria": {
@@ -31542,6 +31562,36 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Corrin - Young Kinship"],
+      "last": true
+    },
+    "Ancient Betrayal": {
+      "id": "Ancient Betrayal",
+      "name": "古代地龍族吐息",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Medeus - Last Earth Dragon"],
+      "last": true
+    },
+    "Ancient Majesty": {
+      "id": "Ancient Majesty",
+      "name": "古代神龍王吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Naga - Ruler of Dragons"],
+      "last": true
+    },
+    "Ancient Voice": {
+      "id": "Ancient Voice",
+      "name": "古代神龍公主吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Tiki - Dragon's Progeny"],
       "last": true
     },
     "Arcane Grima": {

@@ -23,6 +23,14 @@
     "icon": "skillX/D_Counter_Echo",
     "last": true
   },
+  "Res Scowl Echo": {
+    "id": "Res Scowl Echo",
+    "name": "響・魔防的龍眼",
+    "sp": 0,
+    "rules": "dragon",
+    "icon": "skillX/Res_Scowl_Echo",
+    "last": true
+  },
   "Mercy-Wing Echo": {
     "id": "Mercy-Wing Echo",
     "name": "響・救援路線",

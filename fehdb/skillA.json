@@ -328,6 +328,14 @@
     "icon": "skillA/Nihility's_Undoing",
     "last": true
   },
+  "Gift of Guidance": {
+    "id": "Gift of Guidance",
+    "name": "向人傳授未來者",
+    "sp": 300,
+    "exclusive": ["Gotoh - Apostle of Naga"],
+    "icon": "skillA/Gift_of_Guidance",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

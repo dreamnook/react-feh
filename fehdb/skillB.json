@@ -2169,6 +2169,15 @@
     "icon": "skillB/Def_Res_Discord",
     "last": true
   },
+  "Atk/Res Havoc": {
+    "id": "Atk/Res Havoc",
+    "name": "攻擊魔防大擾亂",
+    "sp": 300,
+    "rules": "learner.infantry-flying",
+    "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
+    "icon": "skillB/Atk_Res_Havoc",
+    "last": true
+  },
   "Sudden Panic 1": {
     "id": "Sudden Panic 1",
     "name": "恐慌錯亂1",
@@ -4475,6 +4484,15 @@
     "prev": ["A/R Near Trace 2"],
     "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_R_Near_Trace_3",
+    "last": true
+  },
+  "A/R Near Trace 4": {
+    "id": "A/R Near Trace 4",
+    "name": "攻擊魔防近影4",
+    "sp": 300,
+    "prev": ["A/R Near Trace 3"],
+    "rules": "learner.cavalry-flying-melee",
+    "icon": "skillB/A_R_Near_Trace_4",
     "last": true
   },
   "S/D Near Trace 1": {

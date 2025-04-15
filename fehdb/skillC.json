@@ -626,6 +626,22 @@
     "icon": "skillC/Fell_Majesty",
     "last": true
   },
+  "Divine God Fang": {
+    "id": "Divine God Fang",
+    "name": "神龍王之大牙",
+    "sp": 300,
+    "exclusive": ["Naga - Ruler of Dragons"],
+    "icon": "skillC/Divine_God_Fang",
+    "last": true
+  },
+  "Love for All!": {
+    "id": "Love for All!",
+    "name": "最喜歡大家了",
+    "sp": 300,
+    "exclusive": ["Tiki - Dragon's Progeny"],
+    "icon": "skillC/Love_for_All!",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

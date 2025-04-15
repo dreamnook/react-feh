@@ -527,6 +527,20 @@
     "skillA": { "Def/Res Solo 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 4 } }
   },
+  "Elise - Sparkling Smile": {
+    "score": 49,
+    "scoreTotal": 138,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1340,
+    "feather": 300,
+    "bst": 180,
+    "assist": { "Return+": { "sp": 300, "rarity": 5 } },
+    "special": { "Holy Panic": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Tidings": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 4 } }
+  },
   "Lyn - Bride of the Plains": {
     "score": 80,
     "scoreTotal": 143,
@@ -2172,20 +2186,6 @@
     "skillA": { "Wind Boost 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Sword Valor 3": { "sp": 120, "rarity": 5 } }
   },
-  "Elise - Sparkling Smile": {
-    "score": 133,
-    "scoreTotal": 355,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 500,
-    "spTotal": 1340,
-    "feather": 1000,
-    "bst": 180,
-    "assist": { "Return+": { "sp": 300, "rarity": 5 } },
-    "special": { "Holy Panic": { "sp": 500, "rarity": 5 } },
-    "skillA": { "Atk/Spd Tidings": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
-  },
   "Narcian - Vernal General": {
     "score": 196,
     "scoreTotal": 359,
@@ -2698,18 +2698,6 @@
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Jesse - Blithe Mercenary": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 199,
-    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Repel 3": { "sp": 240, "rarity": 5 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -4143,6 +4131,18 @@
     "special": { "Luna": { "sp": 200, "rarity": 4 } },
     "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Close Call 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Jesse - Blithe Mercenary": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 199,
+    "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Repel 3": { "sp": 240, "rarity": 5 } }
   },
   "Bors - Ostia's Bastion": {
     "score": 199,
@@ -5892,6 +5892,19 @@
     "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Close Guard 3": { "sp": 240, "rarity": 4 } }
   },
+  "Xander - Focused Firstborn": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 190,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } }
+  },
   "Hawkeye - Taciturn Guardian": {
     "score": 299,
     "scoreTotal": 665,
@@ -6524,6 +6537,18 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Medeus - Last Earth Dragon": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 198,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Def/Res Scowl 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -7587,19 +7612,6 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillB": { "Beast N Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Xander - Focused Firstborn": {
-    "score": 254,
-    "scoreTotal": 721,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 190,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } }
   },
   "Myrrh - Spooky Monster": {
     "score": 254,
@@ -8853,6 +8865,19 @@
     "skillA": { "Swift Stance 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
+  "Xane - Fickle Dragon": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 188,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Spd/Res Tempo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 4 } }
+  },
   "Jedah - Priest of Duma": {
     "score": 322,
     "scoreTotal": 746,
@@ -9998,6 +10023,18 @@
     "special": { "Luna": { "sp": 200, "rarity": 5 } },
     "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/D Far Trace 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Gotoh - Apostle of Naga": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Atk/Res Havoc": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse Up: Ploy": { "sp": 300, "rarity": 5 } }
   },
   "Nomah - Priest of Mila": {
     "score": 300,
@@ -12631,6 +12668,20 @@
     "skillB": { "Edged Scales": { "sp": 300, "rarity": 5 } },
     "skillC": { "Barricade": { "sp": 300, "rarity": 5 } }
   },
+  "Tiki - Dragon's Progeny": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "attuned",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 203,
+    "special": { "Dragon Flame": { "sp": 500, "rarity": 5 } },
+    "skillA": { "D Bonus Doubler": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Edged Scales": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Res Scowl Echo": { "sp": 0, "rarity": 5 } }
+  },
   "Þjazi - Ruthless Jötun": {
     "score": 450,
     "scoreTotal": 990,
@@ -14037,6 +14088,18 @@
     "special": { "Lethality": { "sp": 500, "rarity": 5 } },
     "skillB": { "Full Disarm": { "sp": 300, "rarity": 5 } },
     "skillC": { "Active Lookout": { "sp": 300, "rarity": 5 } }
+  },
+  "Naga - Ruler of Dragons": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Scowl 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/R Near Trace 4": { "sp": 300, "rarity": 5 } }
   },
   "Felix - Sword Savant": {
     "score": 500,

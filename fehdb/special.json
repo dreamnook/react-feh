@@ -935,6 +935,15 @@
     "rules": "learner.wielderInfantry",
     "last": true
   },
+  "Dragon Flame": {
+    "id": "Dragon Flame",
+    "name": "龍炎",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Ignis"],
+    "rules": "dragon",
+    "last": true
+  },
   "Chilling Wind": {
     "id": "Chilling Wind",
     "name": "冰點",
