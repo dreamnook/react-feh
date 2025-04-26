@@ -2699,6 +2699,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Medeus - Last Earth Dragon": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 198,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Def/Res Scowl 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -6537,18 +6549,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Medeus - Last Earth Dragon": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 198,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Def/Res Scowl 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,

@@ -5289,10 +5289,10 @@
             "Felicia - Maid Mayhem",
             "Klein - Silver Nobleman"
           ],
+          "4": ["Medeus - Last Earth Dragon"],
           "5": [
             "Katarina - Wayward One",
             "Ewan - Eager Student",
-            "Medeus - Last Earth Dragon",
             "Gotoh - Apostle of Naga",
             "Nomah - Priest of Mila",
             "Marianne - Serene Adherent",
@@ -10067,7 +10067,7 @@
     },
     "Def/Res Scowl 3": {
       "pool": {
-        "#": { "5": ["Medeus - Last Earth Dragon"] },
+        "#": { "4": ["Medeus - Last Earth Dragon"] },
         "special": { "5": ["Myrrh - Adored Dragon"] },
         "duo": { "5": ["Rhea - Aura of Love"] }
       },
@@ -15533,10 +15533,10 @@
       "pool": {
         "#": {
           "3": ["Lena - Tender Angel", "Bastian - Crimea's Keystone"],
+          "4": ["Medeus - Last Earth Dragon"],
           "5": [
             "Safy - Font of Piety",
             "Katarina - Wayward One",
-            "Medeus - Last Earth Dragon",
             "Morgan - Lass from Afar"
           ]
         },
