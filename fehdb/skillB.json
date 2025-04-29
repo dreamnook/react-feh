@@ -817,6 +817,14 @@
     "icon": "skillB/Tut-Tut!",
     "last": true
   },
+  "Shield of Hope": {
+    "id": "Shield of Hope",
+    "name": "人與龍之間的盾",
+    "sp": 300,
+    "exclusive": ["Marth - Love and Courage"],
+    "icon": "skillB/Shield_of_Hope",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

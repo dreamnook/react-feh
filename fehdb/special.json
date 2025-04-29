@@ -623,6 +623,15 @@
     "exclusive": ["Corrin - Young Kinship"],
     "last": true
   },
+  "The Fire Emblem": {
+    "id": "The Fire Emblem",
+    "name": "真火焰紋章",
+    "sp": 500,
+    "cd": 2,
+    "prev": ["Draconic Aura"],
+    "exclusive": ["Marth - Love and Courage"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

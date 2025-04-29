@@ -336,6 +336,14 @@
     "icon": "skillA/Gift_of_Guidance",
     "last": true
   },
+  "New Opening": {
+    "id": "New Opening",
+    "name": "與開啟者們的奇緣",
+    "sp": 300,
+    "exclusive": ["Elm - Retainer to Embla"],
+    "icon": "skillA/New_Opening",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

@@ -10838,6 +10838,19 @@
     "skillB": { "Shield Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Briar F Save": { "sp": 300, "rarity": 5 } }
   },
+  "Marth - Love and Courage": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 215,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Blue Skies 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "S/D Hold Guide": { "sp": 300, "rarity": 5 } }
+  },
   "Eitr - Spring Sunrise": {
     "score": 530,
     "scoreTotal": 848,
@@ -13098,6 +13111,19 @@
     "special": { "Nimble Beast": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Fortune": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/D Near Trace 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Elm - Retainer to Embla": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Nimble Beast": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Bestial Agility": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Preempt Screech": { "sp": 300, "rarity": 5 } }
   },
   "Hinoka - Thundering Wings": {
     "score": 460,

@@ -252,6 +252,10 @@
     "moveType": 13,
     "weaponType": 15732727
   },
+  "learner.infantry-cavalry-flying-beast": {
+    "moveType": 13,
+    "weaponType": 15728640
+  },
   "learner.infantry-flying": {
     "moveType": 9
   },

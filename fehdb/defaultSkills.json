@@ -2921,6 +2921,34 @@
       "C Feud 3": 4
     }
   },
+  "Elm - Retainer to Embla": {
+    "weapon": {
+      "Hatchling (Flier)": 1,
+      "Fledgling (Flier)": 2,
+      "Adult (Flier)": 4,
+      "Jaws of Closure": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "Nimble Beast": 5
+    },
+    "skillA": {
+      "New Opening": 5
+    },
+    "skillB": {
+      "Beast Agility 1": 2,
+      "Beast Agility 2": 3,
+      "Beast Agility 3": 4,
+      "Bestial Agility": 5
+    },
+    "skillC": {
+      "C Feud 1": 2,
+      "C Feud 2": 3,
+      "C Feud 3": 4,
+      "Preempt Screech": 5
+    }
+  },
   "Letizia - Curse Director": {
     "weapon": {
       "Wind": 1,
@@ -3747,6 +3775,34 @@
       "Inf. Null Follow 2": 3,
       "Inf. Null Follow 3": 4,
       "Inf. Null Follow 4": 5
+    }
+  },
+  "Marth - Love and Courage": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Sword of Peace": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4,
+      "The Fire Emblem": 5
+    },
+    "skillA": {
+      "Blue Skies 1": 2,
+      "Blue Skies 2": 3,
+      "Blue Skies 3": 4,
+      "Blue Skies 4": 5
+    },
+    "skillB": {
+      "Shield of Hope": 5
+    },
+    "skillC": {
+      "Spd/Def Rein 1": 2,
+      "Spd/Def Rein 2": 3,
+      "Spd/Def Rein 3": 4,
+      "S/D Hold Guide": 5
     }
   },
   "Kris - Unknown Hero": {

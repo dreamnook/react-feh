@@ -3546,6 +3546,16 @@
       "exclusive": ["Xander - Focused Firstborn"],
       "last": true
     },
+    "Sword of Peace": {
+      "id": "Sword of Peace",
+      "name": "盼望和平之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Marth - Love and Courage"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -21327,6 +21337,16 @@
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Eitr - Spring Sunrise"],
+      "last": true
+    },
+    "Jaws of Closure": {
+      "id": "Jaws of Closure",
+      "name": "封閉者的銳利爪牙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Flier)"],
+      "exclusive": ["Elm - Retainer to Embla"],
       "last": true
     },
     "Arcane Nihility": {

@@ -4557,7 +4557,11 @@
           "5": ["Leif - Unifier of Thracia", "Ayra - Supreme Astra"]
         },
         "mythic": {
-          "5": ["Nerþuz - God of the Land", "Hræsvelgr - Quieting Blade"]
+          "5": [
+            "Nerþuz - God of the Land",
+            "Hræsvelgr - Quieting Blade",
+            "Elm - Retainer to Embla"
+          ]
         },
         "special": {
           "4": ["Zihark - Ninja Blademaster"],
@@ -4606,7 +4610,9 @@
     },
     "Nimble Beast": {
       "pool": {
-        "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
+        "mythic": {
+          "5": ["Hræsvelgr - Quieting Blade", "Elm - Retainer to Embla"]
+        },
         "special": {
           "5": ["Eitr - Spring Sunrise", "Hræsvelgr - Wings of Healing"]
         }
@@ -4777,6 +4783,7 @@
         },
         "duo": {
           "5": [
+            "Marth - Love and Courage",
             "Marth - Royal Altean Duo",
             "Ephraim - Dynastic Duo",
             "Byleth - Frosty Professors",
@@ -10162,7 +10169,10 @@
       "rules": "learner.def-dmger"
     },
     "Blue Skies 3": {
-      "pool": { "emblem": { "5": ["Eirika - Of the Sacred"] } },
+      "pool": {
+        "emblem": { "5": ["Eirika - Of the Sacred"] },
+        "duo": { "5": ["Marth - Love and Courage"] }
+      },
       "id": "Blue Skies 3",
       "name": "蒼穹3",
       "sp": 240,
@@ -10170,7 +10180,10 @@
       "rules": "learner.wielderCavalryFlying"
     },
     "Blue Skies 4": {
-      "pool": { "emblem": { "5": ["Eirika - Of the Sacred"] } },
+      "pool": {
+        "emblem": { "5": ["Eirika - Of the Sacred"] },
+        "duo": { "5": ["Marth - Love and Courage"] }
+      },
       "id": "Blue Skies 4",
       "name": "蒼穹4",
       "sp": 300,
@@ -13675,7 +13688,11 @@
     "Beast Agility 3": {
       "pool": {
         "mythic": {
-          "5": ["Embla - God of Closure", "Ratatoskr - Mending Hand"]
+          "5": [
+            "Embla - God of Closure",
+            "Ratatoskr - Mending Hand",
+            "Elm - Retainer to Embla"
+          ]
         },
         "special": {
           "5": ["Eitr - Spring Sunrise", "Hræsvelgr - Wings of Healing"]
@@ -13747,7 +13764,10 @@
       "rules": "learner.beast-infantry-cavalry-flying"
     },
     "Bestial Agility": {
-      "pool": { "special": { "5": ["Eitr - Spring Sunrise"] } },
+      "pool": {
+        "mythic": { "5": ["Elm - Retainer to Embla"] },
+        "special": { "5": ["Eitr - Spring Sunrise"] }
+      },
       "id": "Bestial Agility",
       "name": "獸影・敏捷",
       "sp": 300,
@@ -14695,7 +14715,7 @@
             "Petra - Faraway Sun"
           ]
         },
-        "duo": { "5": ["Lyn - Ninja-Friend Duo"] },
+        "duo": { "5": ["Marth - Love and Courage", "Lyn - Ninja-Friend Duo"] },
         "harmonized": {
           "5": ["Catria - Azure Wing Pair", "Tana - Soothing Warmth"]
         }
@@ -14808,6 +14828,14 @@
       "sp": 300,
       "icon": "skillC/Def_Res_Hold",
       "rules": "flying"
+    },
+    "S/D Hold Guide": {
+      "pool": { "duo": { "5": ["Marth - Love and Courage"] } },
+      "id": "S/D Hold Guide",
+      "name": "速防大牽制・引導",
+      "sp": 300,
+      "icon": "skillC/S_D_Hold_Guide",
+      "rules": "learner.flying-melee"
     },
     "Atk/Res Crux": {
       "pool": { "attuned": { "5": ["Micaiah - Dawning Maiden"] } },
@@ -17478,6 +17506,7 @@
     "C Feud 3": {
       "pool": {
         "legendary": { "5": ["Xander - Gallant King"] },
+        "mythic": { "5": ["Elm - Retainer to Embla"] },
         "special": { "5": ["Elm - Resolute Grouch", "Anna - Secret Charmer"] },
         "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] },
         "harmonized": { "5": ["Lysithea - Gifted Students"] }
@@ -17486,6 +17515,14 @@
       "name": "對無的暗鬥3",
       "sp": 240,
       "icon": "skillC/C_Feud_3"
+    },
+    "Preempt Screech": {
+      "pool": { "mythic": { "5": ["Elm - Retainer to Embla"] } },
+      "id": "Preempt Screech",
+      "name": "暗獸・初擊之躍動",
+      "sp": 300,
+      "icon": "skillC/Preempt_Screech",
+      "rules": "learner.infantry-cavalry-flying-beast"
     },
     "Canto Control 3": {
       "pool": {

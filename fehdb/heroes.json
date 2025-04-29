@@ -4003,6 +4003,43 @@
     "ver": "7.0",
     "dfKey": 5
   },
+  "Elm - Retainer to Embla": {
+    "id": "Elm - Retainer to Embla",
+    "title": "恩布拉的眷屬",
+    "name": "埃爾姆",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-beast",
+    "moveType": "flying",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "astra-spd-2",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-04-28",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [39, 43, 46],
+        "spd": [45, 48, 52],
+        "def": [30, 33, 36],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 9,
+        "def": 9,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.4",
+    "dfKey": 7
+  },
   "Letizia - Curse Director": {
     "id": "Letizia - Curse Director",
     "title": "【詛咒部隊】隊長",
@@ -5148,6 +5185,42 @@
     "book": 8,
     "ver": "8.1",
     "dfKey": 6
+  },
+  "Marth - Love and Courage": {
+    "id": "Marth - Love and Courage",
+    "title": "愛與勇氣的故事",
+    "name": "馬爾斯",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "flying",
+    "pool": "duo",
+    "bst": 215,
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "releaseDate": "2025-04-28",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [41, 45, 48],
+        "spd": [45, 48, 52],
+        "def": [33, 36, 39],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 9,
+        "def": 10,
+        "res": 6
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.4",
+    "dfKey": 7
   },
   "Kris - Unknown Hero": {
     "id": "Kris - Unknown Hero",
