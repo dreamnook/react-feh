@@ -350,6 +350,15 @@
     "exclusive": ["Deirdre - Fated Saint"],
     "last": true
   },
+  "Balance Circlet II": {
+    "id": "Balance Circlet II",
+    "name": "聖神與暗黑……・承",
+    "sp": 500,
+    "cd": 2,
+    "prev": ["Circlet of Balance"],
+    "exclusive": ["Deirdre - Fated Saint"],
+    "last": true
+  },
   "Enclosure": {
     "id": "Enclosure",
     "name": "閉界",

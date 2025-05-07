@@ -15870,6 +15870,36 @@
       "exclusive": ["Alm - Powerful Resolve"],
       "last": true
     },
+    "Noble Bow": {
+      "id": "Noble Bow",
+      "name": "貴婦之弓",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Louise - Lady of Violets"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Noble_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",
@@ -22513,6 +22543,28 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Morgan - Fated Darkness"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Tome_of_Despair_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Ginnungagap": {
@@ -22898,6 +22950,36 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Gotoh - Apostle of Naga"],
+      "last": true
+    },
+    "Tome of Grief": {
+      "id": "Tome of Grief",
+      "name": "哀歌之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Arete - Requiem's Beauty"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Tome_of_Grief_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arcane Eclipse": {
@@ -24662,6 +24744,28 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Marianne - Adopted Daughter"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Icy_Fimbulvetr_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Tome of Grado": {
@@ -24794,6 +24898,28 @@
       "sp": 400,
       "prev": ["Shine"],
       "exclusive": ["Deirdre - Fated Saint"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Spirit_Forest_Writ_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Wind Genesis": {
@@ -27000,6 +27126,28 @@
       "spd": 3,
       "sp": 400,
       "exclusive": ["Bernadetta - Frosty Shut-In"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Hrist_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Bond of the Álfar": {
@@ -31278,6 +31426,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Myrrh - Guardian Dragon"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Godly_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Chilled Breath": {

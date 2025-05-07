@@ -346,6 +346,15 @@
     "icon": "skillC/Faith_in_Humanity",
     "last": true
   },
+  "Darkling Guard II": {
+    "id": "Darkling Guard II",
+    "name": "闇之樹海的……・承",
+    "sp": 300,
+    "prev": ["Darkling Guardian"],
+    "exclusive": ["Myrrh - Guardian Dragon"],
+    "icon": "skillC/Darkling_Guard_II",
+    "last": true
+  },
   "Darkling Guardian": {
     "id": "Darkling Guardian",
     "name": "闇之樹海的守護龍",

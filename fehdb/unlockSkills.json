@@ -8624,7 +8624,8 @@
     "special": {
       "Chilling Wind": 3,
       "Iceberg": 4,
-      "Circlet of Balance": 5
+      "Circlet of Balance": 5,
+      "Balance Circlet II": 5
     },
     "skillA": {
       "Still Water 1": 2,
@@ -8635,7 +8636,11 @@
     "skillB": {
       "Atk/Res Tempo 1": 1,
       "Atk/Res Tempo 2": 2,
-      "Atk/Res Tempo 3": 4
+      "Atk/Res Tempo 3": 4,
+      "Sabotage Res 1": 1,
+      "Sabotage Res 2": 2,
+      "Sabotage Res 3": 4,
+      "Atk/Res Discord": 5
     },
     "skillC": {
       "Threaten Res 1": 2,
@@ -13211,7 +13216,8 @@
       "Iron Bow": 1,
       "Steel Bow": 2,
       "Rein Bow": 3,
-      "Rein Bow+": 5
+      "Rein Bow+": 5,
+      "Noble Bow": 5
     },
     "assist": {
       "Rally Resistance": 3,
@@ -16402,10 +16408,15 @@
     "skillB": {
       "Dragon Wall 1": 1,
       "Dragon Wall 2": 2,
-      "Dragon Wall 3": 4
+      "Dragon Wall 3": 4,
+      "Dragon's Ire 1": 1,
+      "Dragon's Ire 2": 2,
+      "Dragon's Ire 3": 4,
+      "Dragon's Scales": 5
     },
     "skillC": {
-      "Darkling Guardian": 5
+      "Darkling Guardian": 5,
+      "Darkling Guard II": 5
     }
   },
   "Myrrh - Adored Dragon": {
@@ -26126,7 +26137,8 @@
       "Fire": 1,
       "Elfire": 2,
       "Rauðrrabbit": 3,
-      "Rauðrrabbit+": 5
+      "Rauðrrabbit+": 5,
+      "Tome of Grief": 5
     },
     "special": {
       "Chilling Wind": 3,

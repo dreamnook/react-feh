@@ -11413,7 +11413,9 @@
           ]
         },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
-        "legendary": { "5": ["Lilina - Firelight Leader"] },
+        "legendary": {
+          "5": ["Deirdre - Fated Saint", "Lilina - Firelight Leader"]
+        },
         "mythic": { "5": ["Yune - Chaos Goddess", "Athos - Omniscient One"] },
         "special": { "5": ["Ivy - Tidal Breeze"] },
         "duo": {
@@ -11457,6 +11459,7 @@
     },
     "Atk/Res Discord": {
       "pool": {
+        "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Athos - Omniscient One"] },
         "duo": { "5": ["Heiðrún - Sisters of Healing"] }
       },
@@ -13063,7 +13066,9 @@
     "Dragon's Ire 3": {
       "pool": {
         "grail": { "5": ["Kana - Rising Sunlight"] },
-        "legendary": { "5": ["Fae - Childlike Dragon"] },
+        "legendary": {
+          "5": ["Myrrh - Guardian Dragon", "Fae - Childlike Dragon"]
+        },
         "special": {
           "5": [
             "Robin - Fall Vessel",
@@ -13091,7 +13096,9 @@
     },
     "Dragon's Scales": {
       "pool": {
-        "legendary": { "5": ["Fae - Childlike Dragon"] },
+        "legendary": {
+          "5": ["Myrrh - Guardian Dragon", "Fae - Childlike Dragon"]
+        },
         "special": { "5": ["Nah - Grateful One"] },
         "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
       },
