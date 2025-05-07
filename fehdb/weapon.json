@@ -3556,6 +3556,16 @@
       "exclusive": ["Marth - Love and Courage"],
       "last": true
     },
+    "Fell Child's Blade": {
+      "id": "Fell Child's Blade",
+      "name": "邪籠子嗣劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Alear - Fell Dragon Child"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -8161,6 +8171,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Iron Hreiðmarr": {
+      "id": "Iron Hreiðmarr",
+      "name": "機構赫瑞德瑪",
+      "mt": 16,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Fáfnir - King of Desolation"],
       "last": true
     },
     "Arcane Qiang": {
@@ -15879,7 +15899,8 @@
       "refine": {
         "effect": {
           "name": "特效",
-          "icon": "Noble_Bow_W"
+          "icon": "Noble_Bow_W",
+          "cd": -1
         },
         "atk": {
           "hp": 2,
@@ -21406,6 +21427,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Arcane Crest": {
+      "id": "Arcane Crest",
+      "name": "魔器・紋章石",
+      "mt": 14,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Adult (Armored)"],
+      "rearmed": true,
       "last": true
     },
     "Whelp (Infantry)": {
@@ -27129,7 +27160,8 @@
       "refine": {
         "effect": {
           "name": "特效",
-          "icon": "Hrist_W"
+          "icon": "Hrist_W",
+          "cd": -1
         },
         "atk": {
           "hp": 2,
@@ -29524,6 +29556,15 @@
       "exclusive": ["Elise - Sparkling Smile"],
       "last": true
     },
+    "Martyr's Staff": {
+      "id": "Martyr's Staff",
+      "name": "活祭品聖女之杖",
+      "mt": 14,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Lena - Bereft Angel"],
+      "last": true
+    },
     "Arcane Charmer": {
       "id": "Arcane Charmer",
       "name": "魔器・可愛雪杖",
@@ -31783,6 +31824,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Tiki - Dragon's Progeny"],
+      "last": true
+    },
+    "Fell Child's Arts": {
+      "id": "Fell Child's Arts",
+      "name": "邪籠子嗣體術",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Alear - Red Days Past"],
       "last": true
     },
     "Arcane Grima": {

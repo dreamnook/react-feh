@@ -3732,6 +3732,20 @@
     "skillA": { "Atk/Res 2": { "sp": 160, "rarity": 5 } },
     "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
   },
+  "Lena - Bereft Angel": {
+    "score": 125,
+    "scoreTotal": 450,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1800,
+    "feather": 1000,
+    "bst": 188,
+    "assist": { "Magic Shield+": { "sp": 400, "rarity": 5 } },
+    "special": { "Holy Pressure": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Tidings": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Resonance 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse Up: Ploy": { "sp": 300, "rarity": 5 } }
+  },
   "Edain - Lady of Yngvi": {
     "score": 125,
     "scoreTotal": 450,
@@ -8943,6 +8957,19 @@
     "skillB": { "Wyvern Flight 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Flier Guidance 3": { "sp": 240, "rarity": 5 } }
   },
+  "Fáfnir - King of Desolation": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 190,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 4 } }
+  },
   "Zeiss - Ebon Bolt": {
     "score": 322,
     "scoreTotal": 746,
@@ -12708,6 +12735,19 @@
     "skillC": { "A/D Twin F Save": { "sp": 300, "rarity": 5 } },
     "skillX": { "D Counter Echo": { "sp": 0, "rarity": 5 } }
   },
+  "Dedue - Dauntless Beast": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 207,
+    "special": { "Sturdy Beast": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Def Fortune": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Assault Fighter": { "sp": 300, "rarity": 5 } }
+  },
   "Est - Springtime Flier": {
     "score": 318,
     "scoreTotal": 996,
@@ -14042,6 +14082,19 @@
     "skillB": { "Atk/Spd Bulwark 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
+  "Alear - Red Days Past": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 211,
+    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Diluvial Boost": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Scowling Fighter": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Higher Ground": { "sp": 300, "rarity": 5 } }
+  },
   "Soren - Radiant Confidant": {
     "score": 500,
     "scoreTotal": 1100,
@@ -14138,6 +14191,18 @@
     "special": { "Gust": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
     "skillC": { "Endless Tempest": { "sp": 300, "rarity": 5 } }
+  },
+  "Alear - Fell Dragon Child": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Gust": { "sp": 500, "rarity": 5 } },
+    "skillB": { "S/D Spiked Wall": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Odd Spd Wave 4": { "sp": 300, "rarity": 5 } }
   },
   "Corrin - Silent Bloodline": {
     "score": 500,

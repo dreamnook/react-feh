@@ -295,6 +295,10 @@
     "weaponType": 1044488,
     "moveType": 2
   },
+  "learner.armored-dragon": {
+    "moveType": 2,
+    "weaponType": 983040
+  },
   "learner.armored-dragon-beast": {
     "moveType": 2,
     "weaponType": 16711680

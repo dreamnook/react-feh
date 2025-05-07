@@ -3463,6 +3463,69 @@
     "ver": "6.0",
     "dfKey": 4
   },
+  "Fáfnir - King of Desolation": {
+    "id": "Fáfnir - King of Desolation",
+    "title": "曠野之王",
+    "name": "法夫納",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "cavalry",
+    "pool": "grail",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-05-08",
+    "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [40, 43, 46],
+        "spd": [39, 42, 45],
+        "def": [30, 33, 36],
+        "res": [12, 15, 18]
+      },
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [42, 45, 48],
+        "spd": [42, 45, 48],
+        "def": [32, 35, 38],
+        "res": [13, 16, 19]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 52],
+        "spd": [44, 47, 50],
+        "def": [34, 37, 40],
+        "res": [15, 18, 21]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 11,
+        "def": 10,
+        "res": 2
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 12,
+        "def": 11,
+        "res": 2
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 12,
+        "def": 11,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.5",
+    "dfKey": 7
+  },
   "Þjazi - Ruthless Jötun": {
     "id": "Þjazi - Ruthless Jötun",
     "title": "狂猛的巨人",
@@ -7580,6 +7643,40 @@
     "book": 4,
     "ver": "4.7",
     "dfKey": 2
+  },
+  "Lena - Bereft Angel": {
+    "id": "Lena - Bereft Angel",
+    "title": "被奪去心靈的聖女",
+    "name": "蕾娜",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-staff",
+    "moveType": "infantry",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "releaseDate": "2025-05-07",
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [45, 48, 51],
+        "spd": [23, 27, 30],
+        "def": [15, 19, 22],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 5,
+        "def": 6,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["spd", "def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.5",
+    "dfKey": 7
   },
   "Matthis - Brother to Lena": {
     "id": "Matthis - Brother to Lena",
@@ -48183,6 +48280,41 @@
     "ver": "8.7",
     "dfKey": 6
   },
+  "Dedue - Dauntless Beast": {
+    "id": "Dedue - Dauntless Beast",
+    "title": "堅定不移的魔獸",
+    "name": "杜篤",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-beast",
+    "moveType": "armored",
+    "pool": "rearmed",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-05-07",
+    "stats": {
+      "5": {
+        "hp": [46, 49, 52],
+        "atk": [46, 49, 52],
+        "spd": [13, 17, 20],
+        "def": [46, 49, 53],
+        "res": [39, 43, 46]
+      },
+      "5-1": {
+        "hp": 23,
+        "atk": 14,
+        "spd": 4,
+        "def": 10,
+        "res": 10
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["spd", "res"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 9,
+    "ver": "9.5",
+    "dfKey": 7
+  },
   "Felix - Icy Gift Giver": {
     "id": "Felix - Icy Gift Giver",
     "title": "獨行俠的冬季",
@@ -51629,6 +51761,40 @@
     "ver": "8.7",
     "dfKey": 6
   },
+  "Alear - Red Days Past": {
+    "id": "Alear - Red Days Past",
+    "title": "紅色記憶",
+    "name": "琉爾",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-dragon",
+    "moveType": "armored",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2025-05-07",
+    "stats": {
+      "5": {
+        "hp": [48, 51, 55],
+        "atk": [45, 48, 52],
+        "spd": [15, 18, 21],
+        "def": [42, 45, 48],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 9,
+        "spd": 3,
+        "def": 10,
+        "res": 10
+      }
+    },
+    "assets": ["hp", "atk", "res"],
+    "flaws": [],
+    "statMin": 211,
+    "statMax": 215,
+    "book": 9,
+    "ver": "9.5",
+    "dfKey": 7
+  },
   "Alear - Dragon Youth": {
     "id": "Alear - Dragon Youth",
     "title": "神龍王子",
@@ -51735,6 +51901,40 @@
     "statMax": 205,
     "book": 9,
     "ver": "9.0",
+    "dfKey": 7
+  },
+  "Alear - Fell Dragon Child": {
+    "id": "Alear - Fell Dragon Child",
+    "title": "邪龍子嗣",
+    "name": "琉爾",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2025-05-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [44, 47, 51],
+        "def": [32, 35, 38],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 8,
+        "def": 11,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.5",
     "dfKey": 7
   },
   "Lumera - Dragon Monarch": {

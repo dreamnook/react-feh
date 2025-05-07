@@ -2010,6 +2010,12 @@
         "sp": 300,
         "refine": 350,
         "rules": "cavalry"
+      },
+      "Arcane Crest": {
+        "pool": { "rearmed": { "5": ["Dedue - Dauntless Beast"] } },
+        "id": "Arcane Crest",
+        "name": "魔器・紋章石",
+        "sp": 300
       }
     },
     "red-tome": {
@@ -3283,7 +3289,7 @@
     },
     "Magic Shield": {
       "pool": {
-        "#": { "5": ["Edain - Lady of Yngvi"] },
+        "#": { "5": ["Lena - Bereft Angel", "Edain - Lady of Yngvi"] },
         "special": { "5": ["Emmeryn - Selfless Exalt"] }
       },
       "id": "Magic Shield",
@@ -3293,7 +3299,7 @@
     },
     "Magic Shield+": {
       "pool": {
-        "#": { "5": ["Edain - Lady of Yngvi"] },
+        "#": { "5": ["Lena - Bereft Angel", "Edain - Lady of Yngvi"] },
         "special": { "5": ["Emmeryn - Selfless Exalt"] }
       },
       "id": "Magic Shield+",
@@ -4420,7 +4426,9 @@
             "Charlotte - Wily Warrior",
             "Corrin - Bloodbound Beast",
             "Morgan - Devoted Darkness",
+            "Alear - Red Days Past",
             "Felix - Sword Savant",
+            "Alear - Fell Dragon Child",
             "Shinon - Scathing Archer"
           ]
         },
@@ -4599,7 +4607,7 @@
     },
     "Gust": {
       "pool": {
-        "#": { "5": ["Felix - Sword Savant"] },
+        "#": { "5": ["Felix - Sword Savant", "Alear - Fell Dragon Child"] },
         "attuned": { "5": ["Eirika - Resolute Princess"] },
         "special": { "5": ["Malice - Blooming Blade"] }
       },
@@ -4838,6 +4846,7 @@
             "Hans - Ambitious Brute",
             "Perne - Dacian Scoundrel",
             "Lumera - Dragon Monarch",
+            "Fáfnir - King of Desolation",
             "Zeiss - Ebon Bolt",
             "Lloyd - Vengeful Wolf",
             "Fargus - Badon Buccaneer",
@@ -5082,6 +5091,7 @@
             "Marni - Pining for Praise"
           ]
         },
+        "rearmed": { "5": ["Dedue - Dauntless Beast"] },
         "attuned": {
           "5": ["Timerra - Desert Warrior", "Tiki - Dragon's Progeny"]
         },
@@ -5155,6 +5165,7 @@
     },
     "Sturdy Beast": {
       "pool": {
+        "rearmed": { "5": ["Dedue - Dauntless Beast"] },
         "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
         "special": {
           "5": ["Askr - Open Harvest", "Níðhöggr - Daze of Healing"]
@@ -5656,6 +5667,7 @@
             "Safy - Font of Piety",
             "Maria - Ritual Sacrifice",
             "Tina - Playful Scamp",
+            "Lena - Bereft Angel",
             "Edain - Lady of Yngvi",
             "Delthea - Free Spirit",
             "Sigurd - Holy Knight"
@@ -5856,7 +5868,7 @@
     },
     "Holy Pressure": {
       "pool": {
-        "#": { "5": ["Tina - Playful Scamp"] },
+        "#": { "5": ["Tina - Playful Scamp", "Lena - Bereft Angel"] },
         "legendary": { "5": ["Sakura - In Full Bloom"] },
         "special": {
           "5": ["Flayn - Silly Kitty-Cat", "Hortensia - Winter's Dearest"]
@@ -7909,7 +7921,7 @@
       "pool": {
         "#": {
           "3": ["Mustafa - Plegian Champion"],
-          "5": ["Yukimura - Puppet Master"]
+          "5": ["Yukimura - Puppet Master", "Alear - Red Days Past"]
         },
         "grail": { "5": ["Berkut - Prideful Prince"] },
         "rearmed": { "5": ["Ginnungagap - Ruler of Nihility"] },
@@ -7973,6 +7985,22 @@
       "name": "生命疾風靜水3",
       "sp": 300,
       "icon": "skillA/Deluge_Boost_3"
+    },
+    "Primordial Boost": {
+      "pool": { "duo": { "5": ["Corrin - Young Kinship"] } },
+      "id": "Primordial Boost",
+      "name": "風地水的命脈",
+      "sp": 300,
+      "icon": "skillA/Primordial_Boost",
+      "rules": "armored"
+    },
+    "Diluvial Boost": {
+      "pool": { "#": { "5": ["Alear - Red Days Past"] } },
+      "id": "Diluvial Boost",
+      "name": "火地水的命脈",
+      "sp": 300,
+      "icon": "skillA/Diluvial_Boost",
+      "rules": "armored"
     },
     "Atk/Spd Bond 3": {
       "pool": {
@@ -9043,6 +9071,7 @@
             "Vigarde - Warmhearted Sire"
           ]
         },
+        "rearmed": { "5": ["Dedue - Dauntless Beast"] },
         "special": {
           "5": ["Hilda - Holiday Layabout", "Oboro - Fierce Bride-to-Be"]
         }
@@ -9054,7 +9083,7 @@
     },
     "Atk/Res Form 3": {
       "pool": {
-        "#": { "5": ["Edain - Lady of Yngvi"] },
+        "#": { "5": ["Lena - Bereft Angel", "Edain - Lady of Yngvi"] },
         "grail": {
           "4": ["Sophia - Cobweb Prophet", "Soren - Wind of Tradition"]
         },
@@ -9123,6 +9152,14 @@
       "icon": "skillA/Atk_Spd_Tidings",
       "rules": "white-staff"
     },
+    "Atk/Res Tidings": {
+      "pool": { "#": { "5": ["Lena - Bereft Angel"] } },
+      "id": "Atk/Res Tidings",
+      "name": "攻擊魔防的福音",
+      "sp": 300,
+      "icon": "skillA/Atk_Res_Tidings",
+      "rules": "white-staff"
+    },
     "Atk/Spd Fortune": {
       "pool": {
         "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
@@ -9132,6 +9169,14 @@
       "name": "攻擊速度的共榮",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Fortune",
+      "rules": "beast"
+    },
+    "Atk/Def Fortune": {
+      "pool": { "rearmed": { "5": ["Dedue - Dauntless Beast"] } },
+      "id": "Atk/Def Fortune",
+      "name": "攻擊防守的共榮",
+      "sp": 300,
+      "icon": "skillA/Atk_Def_Fortune",
       "rules": "beast"
     },
     "Atk/Res Fortune": {
@@ -10189,14 +10234,6 @@
       "sp": 300,
       "icon": "skillA/Blue_Skies_4",
       "rules": "learner.wielderCavalryFlying"
-    },
-    "Primordial Boost": {
-      "pool": { "duo": { "5": ["Corrin - Young Kinship"] } },
-      "id": "Primordial Boost",
-      "name": "風地水的命脈",
-      "sp": 300,
-      "icon": "skillA/Primordial_Boost",
-      "rules": "armored"
     }
   },
   "skillB": {
@@ -10563,6 +10600,7 @@
           ]
         },
         "grail": { "5": ["Hubert - Crimson Schemer"] },
+        "rearmed": { "5": ["Dedue - Dauntless Beast"] },
         "legendary": { "5": ["Tiki - Legendary Dragon"] },
         "mythic": { "5": ["Duma - God of Strength"] },
         "special": {
@@ -10582,6 +10620,14 @@
       "name": "攻擊隊形3",
       "sp": 240,
       "icon": "skillB/Bold_Fighter_3",
+      "rules": "armored"
+    },
+    "Assault Fighter": {
+      "pool": { "rearmed": { "5": ["Dedue - Dauntless Beast"] } },
+      "id": "Assault Fighter",
+      "name": "強攻隊形",
+      "sp": 300,
+      "icon": "skillB/Assault_Fighter",
       "rules": "armored"
     },
     "Vengeful Fighter 3": {
@@ -10635,7 +10681,8 @@
           "5": [
             "Tiki - Torpid Dragon",
             "Nagi - Dragon Avatar",
-            "Ephraim - Sacred Twin Lord"
+            "Ephraim - Sacred Twin Lord",
+            "Alear - Red Days Past"
           ]
         },
         "grail": { "5": ["Murdock - Loyal General"] },
@@ -10668,6 +10715,14 @@
       "sp": 300,
       "icon": "skillB/Special_Fighter_4",
       "rules": "armored"
+    },
+    "Scowling Fighter": {
+      "pool": { "#": { "5": ["Alear - Red Days Past"] } },
+      "id": "Scowling Fighter",
+      "name": "奧義隊形・龍眼",
+      "sp": 300,
+      "icon": "skillB/Scowling_Fighter",
+      "rules": "learner.armored-dragon"
     },
     "Odd Follow-Up 3": {
       "pool": {
@@ -12872,6 +12927,7 @@
             "Ingrid - Galatea's Heir"
           ]
         },
+        "grail": { "5": ["Fáfnir - King of Desolation"] },
         "mythic": { "5": ["Reginn - Bearing Hope"] },
         "special": {
           "5": [
@@ -13625,7 +13681,7 @@
     },
     "Spd/Def Bulwark 3": {
       "pool": {
-        "#": { "5": ["Shez - Rising Mercenary"] },
+        "#": { "5": ["Shez - Rising Mercenary", "Alear - Fell Dragon Child"] },
         "grail": { "5": ["Chulainn - Unbeaten Warrior"] }
       },
       "id": "Spd/Def Bulwark 3",
@@ -13671,6 +13727,14 @@
       "name": "攻擊防守的刃牆",
       "sp": 300,
       "icon": "skillB/A_D_Spiked_Wall",
+      "rules": "learner.infantry-melee"
+    },
+    "S/D Spiked Wall": {
+      "pool": { "#": { "5": ["Alear - Fell Dragon Child"] } },
+      "id": "S/D Spiked Wall",
+      "name": "速度防守的刃牆",
+      "sp": 300,
+      "icon": "skillB/S_D_Spiked_Wall",
       "rules": "learner.infantry-melee"
     },
     "S/R Spiked Wall": {
@@ -13907,6 +13971,7 @@
     },
     "Resonance 3": {
       "pool": {
+        "#": { "5": ["Lena - Bereft Angel"] },
         "emblem": { "5": ["Celica - Of Echoes"] },
         "special": { "5": ["Tharja - Shadow Ninja"] },
         "harmonized": { "5": ["Nephenee - Festival Harmony"] }
@@ -13919,6 +13984,7 @@
     },
     "Resonance 4": {
       "pool": {
+        "#": { "5": ["Lena - Bereft Angel"] },
         "emblem": { "5": ["Celica - Of Echoes"] },
         "special": { "5": ["Tharja - Shadow Ninja"] },
         "harmonized": { "5": ["Nephenee - Festival Harmony"] }
@@ -14436,7 +14502,11 @@
             "Roshea - Coyote's Faithful",
             "Wil - Unequaled Archer"
           ],
-          "5": ["Laegjarn - Sheathed Steel", "Caineghis - Gallia's Lion King"]
+          "5": [
+            "Laegjarn - Sheathed Steel",
+            "Caineghis - Gallia's Lion King",
+            "Alear - Red Days Past"
+          ]
         },
         "grail": {
           "4": [
@@ -14498,7 +14568,10 @@
       "rules": "learner.dragon-beast"
     },
     "Higher Ground": {
-      "pool": { "special": { "5": ["Níðhöggr - Daze of Healing"] } },
+      "pool": {
+        "#": { "5": ["Alear - Red Days Past"] },
+        "special": { "5": ["Níðhöggr - Daze of Healing"] }
+      },
       "id": "Higher Ground",
       "name": "地盤・守護人・遠",
       "sp": 300,
@@ -15975,6 +16048,7 @@
       "pool": {
         "#": {
           "5": [
+            "Lena - Bereft Angel",
             "Gotoh - Apostle of Naga",
             "Nomah - Priest of Mila",
             "Yuri - Ashen Valiant",
@@ -16073,7 +16147,13 @@
     },
     "Pulse Up: Ploy": {
       "pool": {
-        "#": { "5": ["Gotoh - Apostle of Naga", "Nomah - Priest of Mila"] },
+        "#": {
+          "5": [
+            "Lena - Bereft Angel",
+            "Gotoh - Apostle of Naga",
+            "Nomah - Priest of Mila"
+          ]
+        },
         "mythic": { "5": ["Rune - Source of Wisdom", "Athos - Omniscient One"] }
       },
       "id": "Pulse Up: Ploy",
@@ -16675,6 +16755,7 @@
         "#": {
           "5": [
             "Laevatein - Searing Steel",
+            "Alear - Fell Dragon Child",
             "Yarne - Timid Taguel",
             "Byleth - Tested Professor",
             "Ashe - Chivalric Amends"
@@ -16697,7 +16778,7 @@
     },
     "Odd Spd Wave 4": {
       "pool": {
-        "#": { "5": ["Ashe - Chivalric Amends"] },
+        "#": { "5": ["Alear - Fell Dragon Child", "Ashe - Chivalric Amends"] },
         "special": { "5": ["Felicia - Confidently Cold"] },
         "duo": { "5": ["Gullveig - Glittering Sunlight"] },
         "harmonized": { "5": ["Marisa - Willful Blades"] }
@@ -16985,7 +17066,13 @@
             "Shamir - Archer Apart"
           ]
         },
-        "grail": { "4": ["Takumi - Wishful Spark", "Hans - Ambitious Brute"] },
+        "grail": {
+          "4": [
+            "Takumi - Wishful Spark",
+            "Hans - Ambitious Brute",
+            "Fáfnir - King of Desolation"
+          ]
+        },
         "ascended": {
           "5": ["Laegjarn - Flame Ascendant", "Merric - Wind Pontifex"]
         },

@@ -7340,6 +7340,36 @@
       "prev": ["Squad Ace CO 2"],
       "icon": "seal/Squad_Ace_HP_Atk_Res_3",
       "last": true
+    },
+    "Squad Ace CP 1": {
+      "id": "Squad Ace CP 1",
+      "name": "第９４迷宮的霸王1",
+      "sp": 120,
+      "hp": 3,
+      "spd": 1,
+      "def": 1,
+      "icon": "seal/Squad_Ace_HP_Spd_Def_1"
+    },
+    "Squad Ace CP 2": {
+      "id": "Squad Ace CP 2",
+      "name": "第９４迷宮的霸王2",
+      "sp": 180,
+      "hp": 4,
+      "spd": 2,
+      "def": 2,
+      "prev": ["Squad Ace CP 1"],
+      "icon": "seal/Squad_Ace_HP_Spd_Def_2"
+    },
+    "Squad Ace CP 3": {
+      "id": "Squad Ace CP 3",
+      "name": "第９４迷宮的霸王3",
+      "sp": 240,
+      "hp": 5,
+      "spd": 3,
+      "def": 3,
+      "prev": ["Squad Ace CP 2"],
+      "icon": "seal/Squad_Ace_HP_Spd_Def_3",
+      "last": true
     }
   }
 }

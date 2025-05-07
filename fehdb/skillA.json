@@ -344,6 +344,14 @@
     "icon": "skillA/New_Opening",
     "last": true
   },
+  "Bond Breaker": {
+    "id": "Bond Breaker",
+    "name": "撕裂牽絆者",
+    "sp": 300,
+    "exclusive": ["Alear - Fell Dragon Child"],
+    "icon": "skillA/Bond_Breaker",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -2298,6 +2306,26 @@
     "icon": "skillA/Deluge_Boost_3",
     "last": true
   },
+  "Primordial Boost": {
+    "id": "Primordial Boost",
+    "name": "風地水的命脈",
+    "sp": 300,
+    "hp": 5,
+    "rules": "armored",
+    "prev": ["Wind Boost 3", "Earth Boost 3", "Water Boost 3"],
+    "icon": "skillA/Primordial_Boost",
+    "last": true
+  },
+  "Diluvial Boost": {
+    "id": "Diluvial Boost",
+    "name": "火地水的命脈",
+    "sp": 300,
+    "hp": 5,
+    "rules": "armored",
+    "prev": ["Fire Boost 3", "Earth Boost 3", "Water Boost 3"],
+    "icon": "skillA/Diluvial_Boost",
+    "last": true
+  },
   "Atk/Spd Bond 1": {
     "id": "Atk/Spd Bond 1",
     "name": "攻擊速度的羈絆1",
@@ -3803,6 +3831,15 @@
     "icon": "skillA/Atk_Spd_Tidings",
     "last": true
   },
+  "Atk/Res Tidings": {
+    "id": "Atk/Res Tidings",
+    "name": "攻擊魔防的福音",
+    "sp": 300,
+    "rules": "white-staff",
+    "prev": ["Atk/Res Form 3"],
+    "icon": "skillA/Atk_Res_Tidings",
+    "last": true
+  },
   "Atk/Spd Fortune": {
     "id": "Atk/Spd Fortune",
     "name": "攻擊速度的共榮",
@@ -3810,6 +3847,15 @@
     "rules": "beast",
     "prev": ["Atk/Spd Form 3"],
     "icon": "skillA/Atk_Spd_Fortune",
+    "last": true
+  },
+  "Atk/Def Fortune": {
+    "id": "Atk/Def Fortune",
+    "name": "攻擊防守的共榮",
+    "sp": 300,
+    "rules": "beast",
+    "prev": ["Atk/Def Form 3"],
+    "icon": "skillA/Atk_Def_Fortune",
     "last": true
   },
   "Atk/Res Fortune": {
@@ -4894,16 +4940,6 @@
     "prev": ["Blue Skies 3"],
     "rules": "learner.wielderCavalryFlying",
     "icon": "skillA/Blue_Skies_4",
-    "last": true
-  },
-  "Primordial Boost": {
-    "id": "Primordial Boost",
-    "name": "風地水的命脈",
-    "sp": 300,
-    "hp": 5,
-    "rules": "armored",
-    "prev": ["Earth Boost 3", "Water Boost 3"],
-    "icon": "skillA/Primordial_Boost",
     "last": true
   }
 }

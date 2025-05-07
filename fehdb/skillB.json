@@ -1131,6 +1131,15 @@
     "icon": "skillB/Bold_Fighter_3",
     "last": true
   },
+  "Assault Fighter": {
+    "id": "Assault Fighter",
+    "name": "強攻隊形",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["Bold Fighter 3"],
+    "icon": "skillB/Assault_Fighter",
+    "last": true
+  },
   "Vengeful Fighter 1": {
     "id": "Vengeful Fighter 1",
     "name": "迎擊隊形1",
@@ -1195,6 +1204,15 @@
     "prev": ["Special Fighter 3"],
     "rules": "armored",
     "icon": "skillB/Special_Fighter_4",
+    "last": true
+  },
+  "Scowling Fighter": {
+    "id": "Scowling Fighter",
+    "name": "奧義隊形・龍眼",
+    "sp": 300,
+    "rules": "learner.armored-dragon",
+    "prev": ["Special Fighter 3"],
+    "icon": "skillB/Scowling_Fighter",
     "last": true
   },
   "Odd Follow-Up 1": {
@@ -5134,6 +5152,15 @@
     "rules": "learner.infantry-melee",
     "prev": ["Atk/Def Bulwark 3"],
     "icon": "skillB/A_D_Spiked_Wall",
+    "last": true
+  },
+  "S/D Spiked Wall": {
+    "id": "S/D Spiked Wall",
+    "name": "速度防守的刃牆",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "prev": ["Spd/Def Bulwark 3"],
+    "icon": "skillB/S_D_Spiked_Wall",
     "last": true
   },
   "S/R Spiked Wall": {

@@ -651,6 +651,14 @@
     "icon": "skillC/Love_for_All!",
     "last": true
   },
+  "For the True King": {
+    "id": "For the True King",
+    "name": "是我、唯一的……",
+    "sp": 300,
+    "exclusive": ["Dedue - Dauntless Beast"],
+    "icon": "skillC/For_the_True_King",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
