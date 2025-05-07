@@ -155,6 +155,9 @@
   "learner.res-dmg-not-staff": {
     "weaponType": 1044480
   },
+  "learner.tome-staff": {
+    "weaponType": 61448
+  },
   "learner.wielder": {
     "weaponType": 7
   },
@@ -325,6 +328,10 @@
   "learner.cavalry-flying-tome": {
     "moveType": 12,
     "weaponType": 61440
+  },
+  "learner.cavalry-flying-tome-staff": {
+    "moveType": 12,
+    "weaponType": 61448
   },
   "learner.flying-melee": {
     "weaponType": 16711687,

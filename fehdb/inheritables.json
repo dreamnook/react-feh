@@ -13980,7 +13980,7 @@
       "name": "共鳴之黑魔法3",
       "sp": 240,
       "icon": "skillB/Resonance_3",
-      "rules": "tome"
+      "rules": "learner.tome-staff"
     },
     "Resonance 4": {
       "pool": {
@@ -13993,7 +13993,7 @@
       "name": "共鳴之黑魔法4",
       "sp": 300,
       "icon": "skillB/Resonance_4",
-      "rules": "tome"
+      "rules": "learner.tome-staff"
     },
     "A/R Far Resound": {
       "pool": { "special": { "5": ["Veyle - Spring Tranquility"] } },
@@ -14001,7 +14001,7 @@
       "name": "共鳴・攻魔遠影",
       "sp": 300,
       "icon": "skillB/A_R_Far_Resound",
-      "rules": "learner.cavalry-flying-tome"
+      "rules": "learner.cavalry-flying-tome-staff"
     },
     "Momentum 3": {
       "pool": { "emblem": { "5": ["Sigurd - Of the Holy War"] } },

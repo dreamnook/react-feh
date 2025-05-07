@@ -5539,7 +5539,7 @@
     "id": "Resonance 1",
     "name": "共鳴之黑魔法1",
     "sp": 60,
-    "rules": "tome",
+    "rules": "learner.tome-staff",
     "icon": "skillB/Resonance_1"
   },
   "Resonance 2": {
@@ -5547,7 +5547,7 @@
     "name": "共鳴之黑魔法2",
     "sp": 120,
     "prev": ["Resonance 1"],
-    "rules": "tome",
+    "rules": "learner.tome-staff",
     "icon": "skillB/Resonance_2"
   },
   "Resonance 3": {
@@ -5555,7 +5555,7 @@
     "name": "共鳴之黑魔法3",
     "sp": 240,
     "prev": ["Resonance 2"],
-    "rules": "tome",
+    "rules": "learner.tome-staff",
     "icon": "skillB/Resonance_3",
     "last": true
   },
@@ -5564,7 +5564,7 @@
     "name": "共鳴之黑魔法4",
     "sp": 300,
     "prev": ["Resonance 3"],
-    "rules": "tome",
+    "rules": "learner.tome-staff",
     "icon": "skillB/Resonance_4",
     "last": true
   },
@@ -5572,7 +5572,7 @@
     "id": "A/R Far Resound",
     "name": "共鳴・攻魔遠影",
     "sp": 300,
-    "rules": "learner.cavalry-flying-tome",
+    "rules": "learner.cavalry-flying-tome-staff",
     "prev": ["Resonance 3", "A/R Far Trace 3"],
     "icon": "skillB/A_R_Far_Resound",
     "last": true
