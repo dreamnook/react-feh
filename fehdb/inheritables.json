@@ -2015,7 +2015,9 @@
         "pool": { "rearmed": { "5": ["Dedue - Dauntless Beast"] } },
         "id": "Arcane Crest",
         "name": "魔器・紋章石",
-        "sp": 300
+        "sp": 300,
+        "refine": 350,
+        "rules": "armored"
       }
     },
     "red-tome": {
