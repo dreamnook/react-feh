@@ -2252,6 +2252,13 @@
         "name": "愛之祭典的花籃+",
         "sp": 300,
         "refine": 350
+      },
+      "Bridal Bouquet+": {
+        "pool": { "special": { "5": ["Tine - Determined Bride"] } },
+        "id": "Bridal Bouquet+",
+        "name": "新娘的花束+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "blue-tome": {
@@ -2999,6 +3006,13 @@
         "name": "海邊的洋傘+",
         "sp": 300,
         "refine": 350
+      },
+      "Bouquet Baton+": {
+        "pool": { "grail": { "5": ["Lana - Benevolent Bride"] } },
+        "id": "Bouquet Baton+",
+        "name": "新娘之杖+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "dragon": {
@@ -3161,7 +3175,8 @@
           "5": [
             "Ethlyn - Spirited Princess",
             "Eremiya - Bishop of Woe",
-            "Rhys - Gentle Basker"
+            "Rhys - Gentle Basker",
+            "Lana - Benevolent Bride"
           ]
         },
         "special": {
@@ -4193,6 +4208,7 @@
             "Micaiah - Wavecrest Maiden",
             "Nailah - Blessed Queen",
             "Navarre - Scarlet Ninja",
+            "Tine - Determined Bride",
             "Caeda - Princess of Talys",
             "Leila - Keen Lookout",
             "Ursula - Royal-Blue Crow",
@@ -4608,6 +4624,7 @@
             "Gaius - Thief Exposed",
             "Eitr - Spring Sunrise",
             "Larcei - Scion of Astra",
+            "Larcei - Bride of Astra",
             "Hræsvelgr - Wings of Healing",
             "Tibarn - Shipless Pirate",
             "Timerra - Trick or Meat"
@@ -4815,6 +4832,7 @@
             "Tana - Frelian Starlight",
             "Bernadetta - Late Hibernator",
             "Dimitri - Blessed Protector",
+            "Seliph - Light's Legacy",
             "Dimitri - Stargazing Lion",
             "Camilla - Young Beauty",
             "Sylvain - Spring Flingster"
@@ -4953,7 +4971,11 @@
       "rules": "learner.wielderNotArmor"
     },
     "Haze Slice": {
-      "pool": { "special": { "5": ["Dimitri - Stargazing Lion"] } },
+      "pool": {
+        "special": {
+          "5": ["Seliph - Light's Legacy", "Dimitri - Stargazing Lion"]
+        }
+      },
       "id": "Haze Slice",
       "name": "霞切",
       "sp": 500,
@@ -5401,7 +5423,8 @@
             "Céline - Teatime Ninja",
             "Felicia - Off the Menu"
           ]
-        }
+        },
+        "duo": { "5": ["Julia - Brides of Light"] }
       },
       "id": "Glacies",
       "name": "冰華",
@@ -5438,6 +5461,13 @@
       "name": "冰輪",
       "sp": 500,
       "rules": "tome"
+    },
+    "Ice Wall": {
+      "pool": { "duo": { "5": ["Julia - Brides of Light"] } },
+      "id": "Ice Wall",
+      "name": "冰牆",
+      "sp": 500,
+      "rules": "not.white-staff"
     },
     "Growing Flame": {
       "pool": {
@@ -5776,6 +5806,7 @@
     "Windfire Balm": {
       "pool": {
         "#": { "5": ["Veronica - Brave Princess"] },
+        "grail": { "4": ["Lana - Benevolent Bride"] },
         "special": { "5": ["L'Arachel - Seeker of Justice"] }
       },
       "id": "Windfire Balm",
@@ -9069,7 +9100,9 @@
           "3": ["Ricken - Shepherd Novice", "Inigo - Flower Picker"],
           "5": ["Petra - Princess of Brigid", "Anna - Secret Seller"]
         },
-        "grail": { "4": ["Claude - Yuletide Schemer"] },
+        "grail": {
+          "4": ["Lana - Benevolent Bride", "Claude - Yuletide Schemer"]
+        },
         "legendary": { "5": ["Sakura - In Full Bloom"] },
         "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
         "special": {
@@ -9270,6 +9303,7 @@
           "5": [
             "Hortensia - Winter's Dearest",
             "Nifl - Tropical Ice God",
+            "Tine - Determined Bride",
             "Dimitri - Sky-Blue Lion",
             "Delthea - Prodigy in Bloom",
             "Camilla - Young Beauty"
@@ -9489,7 +9523,10 @@
         "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
-        "special": { "4": ["Rinkah - Consuming Flame"] }
+        "special": {
+          "4": ["Rinkah - Consuming Flame"],
+          "5": ["Larcei - Bride of Astra"]
+        }
       },
       "id": "Atk/Spd Ideal 3",
       "name": "攻擊速度萬全3",
@@ -9671,7 +9708,8 @@
     },
     "Perfect Atk/Spd": {
       "pool": {
-        "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] }
+        "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
+        "special": { "5": ["Larcei - Bride of Astra"] }
       },
       "id": "Perfect Atk/Spd",
       "name": "攻擊速度完全",
@@ -9712,6 +9750,7 @@
             "Dagr - Bluster Princess",
             "Nerþuz - Beach Chaperone",
             "Felicia - Confidently Cold",
+            "Seliph - Light's Legacy",
             "Dimitri - Stargazing Lion",
             "Sylvain - Spring Flingster"
           ]
@@ -9841,6 +9880,7 @@
           "5": [
             "Nerþuz - Beach Chaperone",
             "Felicia - Confidently Cold",
+            "Seliph - Light's Legacy",
             "Dimitri - Stargazing Lion"
           ]
         },
@@ -9974,7 +10014,8 @@
         "special": {
           "4": ["Seadall - Misfortune-Teller"],
           "5": ["Altina - Unrivaled Dawn"]
-        }
+        },
+        "duo": { "5": ["Julia - Brides of Light"] }
       },
       "id": "Atk/Res Finish 3",
       "name": "攻擊魔防的奧秘3",
@@ -9987,7 +10028,8 @@
         "#": { "5": ["Tiki - Fated Divinity"] },
         "rearmed": { "5": ["Ophelia - Starlit Maiden"] },
         "mythic": { "5": ["Veyle - Gentle Dragon"] },
-        "special": { "5": ["Altina - Unrivaled Dawn"] }
+        "special": { "5": ["Altina - Unrivaled Dawn"] },
+        "duo": { "5": ["Julia - Brides of Light"] }
       },
       "id": "Atk/Res Finish 4",
       "name": "攻擊魔防的奧秘4",
@@ -13433,6 +13475,7 @@
             "L'Arachel - Seeker of Justice",
             "Tharja - Beach Dark Mage",
             "Dorothea - Yuletide Dancer",
+            "Tine - Determined Bride",
             "Delthea - Prodigy in Bloom"
           ]
         },
@@ -13455,6 +13498,7 @@
       "pool": {
         "#": { "5": ["Ursula - Blackened Crow"] },
         "rearmed": { "5": ["Reinhardt - Thrud Reborn"] },
+        "special": { "5": ["Tine - Determined Bride"] },
         "duo": { "5": ["Gullveig - Glittering Sunlight"] }
       },
       "id": "S/R Far Trace 4",
@@ -13469,6 +13513,7 @@
         "attuned": { "5": ["Triandra - Reverent Dream"] },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
         "mythic": { "5": ["Ótr - Kingsbrother"] },
+        "special": { "5": ["Seliph - Light's Legacy"] },
         "harmonized": { "5": ["Caeda - Sea-Blossom Pair"] }
       },
       "id": "Flow Refresh 3",
@@ -13568,6 +13613,14 @@
       "name": "強攻・不屈",
       "sp": 300,
       "icon": "skillB/Assault_Force",
+      "rules": "learner.wielderCavalryFlying"
+    },
+    "Potent Assault": {
+      "pool": { "special": { "5": ["Seliph - Light's Legacy"] } },
+      "id": "Potent Assault",
+      "name": "強攻・神速",
+      "sp": 300,
+      "icon": "skillB/Potent_Assault",
       "rules": "learner.wielderCavalryFlying"
     },
     "Atk/Res Tempo 3": {
@@ -13932,6 +13985,7 @@
     "Potent 3": {
       "pool": {
         "emblem": { "5": ["Marth - Of Beginnings"] },
+        "special": { "5": ["Larcei - Bride of Astra"] },
         "duo": { "5": ["Sharena - Pillars of Peace"] }
       },
       "id": "Potent 3",
@@ -13950,6 +14004,14 @@
       "sp": 300,
       "icon": "skillB/Potent_4",
       "rules": "learner.infantry-cavalry-flying-melee-def-dmger"
+    },
+    "Potent Finish": {
+      "pool": { "special": { "5": ["Larcei - Bride of Astra"] } },
+      "id": "Potent Finish",
+      "name": "奧秘・神速",
+      "sp": 300,
+      "icon": "skillB/Potent_Finish",
+      "rules": "learner.wielderInfantry"
     },
     "Laguz Friend 3": {
       "pool": {
@@ -14840,6 +14902,7 @@
     "Spd/Res Rein 3": {
       "pool": {
         "#": { "5": ["Byleth - Sublime Light", "Constance - Fallen Noble"] },
+        "grail": { "5": ["Lana - Benevolent Bride"] },
         "ascended": { "5": ["Elincia - Devoted Queen"] },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
         "legendary": { "5": ["Robin - Fell Vessel"] },
@@ -16136,7 +16199,7 @@
             "Timerra - Trick or Meat"
           ]
         },
-        "duo": { "5": ["Chrom - Fate-Defying Duo"] },
+        "duo": { "5": ["Chrom - Fate-Defying Duo", "Julia - Brides of Light"] },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
       "id": "Time's Pulse 3",
@@ -16224,7 +16287,10 @@
       "rules": "infantry"
     },
     "Time Pulse Helm": {
-      "pool": { "rearmed": { "5": ["Nuibaba - Mistress of Fear"] } },
+      "pool": {
+        "rearmed": { "5": ["Nuibaba - Mistress of Fear"] },
+        "duo": { "5": ["Julia - Brides of Light"] }
+      },
       "id": "Time Pulse Helm",
       "name": "初始之躍動・冑",
       "sp": 300,
@@ -17508,7 +17574,8 @@
           "5": [
             "Rinkah - Consuming Flame",
             "Karla - Sun-Piercing Steel",
-            "Mia - Budding Blade"
+            "Mia - Budding Blade",
+            "Larcei - Bride of Astra"
           ]
         }
       },
@@ -17543,7 +17610,10 @@
       "rules": "learner.infantry-flying-melee"
     },
     "Brutal Tempest": {
-      "pool": { "legendary": { "5": ["Ayra - Supreme Astra"] } },
+      "pool": {
+        "legendary": { "5": ["Ayra - Supreme Astra"] },
+        "special": { "5": ["Larcei - Bride of Astra"] }
+      },
       "id": "Brutal Tempest",
       "name": "迅雷風烈・鬼沒",
       "sp": 300,

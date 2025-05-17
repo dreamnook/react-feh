@@ -602,7 +602,7 @@
     "sp": 500,
     "cd": 2,
     "prev": ["Astra"],
-    "exclusive": ["Ayra - Supreme Astra"],
+    "exclusive": ["Ayra - Supreme Astra", "Larcei - Bride of Astra"],
     "last": true
   },
   "True Lunar Flash": {
@@ -1021,6 +1021,15 @@
     "cd": 4,
     "prev": ["Glacies"],
     "rules": "tome",
+    "last": true
+  },
+  "Ice Wall": {
+    "id": "Ice Wall",
+    "name": "冰牆",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Glacies"],
+    "rules": "not.white-staff",
     "last": true
   },
   "Rising Flame": {

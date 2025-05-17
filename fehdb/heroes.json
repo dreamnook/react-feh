@@ -14719,6 +14719,41 @@
     "ver": "6.8",
     "dfKey": 5
   },
+  "Seliph - Light's Legacy": {
+    "id": "Seliph - Light's Legacy",
+    "title": "繼承光的新郎",
+    "name": "賽列斯",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "releaseDate": "2025-05-16",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [45, 48, 52],
+        "spd": [44, 47, 50],
+        "def": [34, 37, 40],
+        "res": [13, 17, 20]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 9,
+        "spd": 10,
+        "def": 11,
+        "res": 4
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.5",
+    "dfKey": 7
+  },
   "Larcei - Keen Kin": {
     "id": "Larcei - Keen Kin",
     "title": "劍姬之女",
@@ -14787,6 +14822,41 @@
     "book": 5,
     "ver": "5.9",
     "dfKey": 4
+  },
+  "Larcei - Bride of Astra": {
+    "id": "Larcei - Bride of Astra",
+    "title": "流星的新娘",
+    "name": "拉克榭",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "releaseDate": "2025-05-16",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [45, 48, 52],
+        "def": [32, 35, 38],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 9,
+        "def": 11,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.5",
+    "dfKey": 7
   },
   "Shannan - Wielder of Astra": {
     "id": "Shannan - Wielder of Astra",
@@ -14884,6 +14954,55 @@
     "ver": "6.4",
     "dfKey": 4
   },
+  "Lana - Benevolent Bride": {
+    "id": "Lana - Benevolent Bride",
+    "title": "慈愛的新娘",
+    "name": "菈娜",
+    "rarity": [5, 4],
+    "colorType": "white",
+    "weaponType": "white-staff",
+    "moveType": "flying",
+    "pool": "grail",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "releaseDate": "2025-05-16",
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [41, 44, 47],
+        "spd": [36, 39, 43],
+        "def": [19, 22, 25],
+        "res": [26, 29, 32]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 51],
+        "spd": [38, 41, 45],
+        "def": [21, 24, 28],
+        "res": [27, 31, 34]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 7,
+        "spd": 11,
+        "def": 4,
+        "res": 9
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 8,
+        "spd": 11,
+        "def": 5,
+        "res": 9
+      }
+    },
+    "assets": ["atk", "spd", "def"],
+    "flaws": ["hp", "res"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.5",
+    "dfKey": 7
+  },
   "Arthur - Furious Mage": {
     "id": "Arthur - Furious Mage",
     "title": "憤怒的魔法戰士",
@@ -14951,6 +15070,41 @@
     "book": 6,
     "ver": "6.4",
     "dfKey": 4
+  },
+  "Tine - Determined Bride": {
+    "id": "Tine - Determined Bride",
+    "title": "堅強的新娘",
+    "name": "媞妮",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-tome",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "releaseDate": "2025-05-16",
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [43, 46, 49],
+        "spd": [44, 47, 51],
+        "def": [18, 21, 24],
+        "res": [24, 27, 31]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 8,
+        "def": 6,
+        "res": 8
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 9,
+    "ver": "9.5",
+    "dfKey": 7
   },
   "Febail - Mercenary Waif": {
     "id": "Febail - Mercenary Waif",
@@ -15188,6 +15342,42 @@
     "book": 5,
     "ver": "5.9",
     "dfKey": 4
+  },
+  "Julia - Brides of Light": {
+    "id": "Julia - Brides of Light",
+    "title": "尋光的新娘",
+    "name": "尤莉亞",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "infantry",
+    "pool": "duo",
+    "bst": 215,
+    "appearsIn": ["Genealogy of the Holy War"],
+    "releaseDate": "2025-05-16",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [46, 49, 53],
+        "spd": [13, 17, 20],
+        "def": [29, 33, 36],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 4,
+        "def": 11,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.5",
+    "dfKey": 7
   },
   "Ares - Black Knight": {
     "id": "Ares - Black Knight",

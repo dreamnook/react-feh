@@ -8182,6 +8182,16 @@
       "exclusive": ["Fáfnir - King of Desolation"],
       "last": true
     },
+    "Brilliant Brident": {
+      "id": "Brilliant Brident",
+      "name": "流星的新娘之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Larcei - Bride of Astra"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -12426,6 +12436,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Camilla - Young Beauty"],
+      "last": true
+    },
+    "Legacy Axe": {
+      "id": "Legacy Axe",
+      "name": "光之新郎之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Seliph - Light's Legacy"],
       "last": true
     },
     "Arcane Downfall": {
@@ -23939,6 +23959,39 @@
         }
       },
       "last": true
+    },
+    "Bridal Bouquet": {
+      "id": "Bridal Bouquet",
+      "name": "新娘的花束",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Bridal Bouquet+": {
+      "id": "Bridal Bouquet+",
+      "name": "新娘的花束+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Bridal Bouquet"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "blue-tome": {
@@ -29052,6 +29105,16 @@
       "exclusive": ["Heiðrún - Sisters of Healing"],
       "last": true
     },
+    "Loving Bouquets": {
+      "id": "Loving Bouquets",
+      "name": "深情新娘捧花",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Julia - Brides of Light"],
+      "last": true
+    },
     "Stone": {
       "id": "Stone",
       "name": "洛克",
@@ -30336,6 +30399,31 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Seaside Parasol"],
+      "refine": {
+        "wrathful": {
+          "name": "神罰",
+          "icon": "Wrathful_Staff_W"
+        },
+        "dazzling": {
+          "name": "幻惑",
+          "icon": "Dazzling_Staff_W"
+        }
+      },
+      "last": true
+    },
+    "Bouquet Baton": {
+      "id": "Bouquet Baton",
+      "name": "新娘之杖",
+      "mt": 8,
+      "sp": 150,
+      "prev": ["Assault"]
+    },
+    "Bouquet Baton+": {
+      "id": "Bouquet Baton+",
+      "name": "新娘之杖+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Bouquet Baton"],
       "refine": {
         "wrathful": {
           "name": "神罰",

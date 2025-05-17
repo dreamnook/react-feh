@@ -901,6 +901,20 @@
     "skillA": { "Speed 3": { "sp": 120, "rarity": 5 } },
     "skillC": { "Fortify Res 3": { "sp": 200, "rarity": 5 } }
   },
+  "Lana - Benevolent Bride": {
+    "score": 74,
+    "scoreTotal": 204,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 300,
+    "bst": 183,
+    "assist": { "Physic+": { "sp": 300, "rarity": 5 } },
+    "special": { "Windfire Balm": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Elimine - Scouring Saint": {
     "score": 69,
     "scoreTotal": 207,
@@ -9537,6 +9551,19 @@
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
+  "Tine - Determined Bride": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "S/R Far Trace 4": { "sp": 300, "rarity": 5 } }
+  },
   "Eliwood - Pledged Friend": {
     "score": 318,
     "scoreTotal": 784,
@@ -14896,6 +14923,20 @@
     "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Res Wave D": { "sp": 300, "rarity": 5 } }
   },
+  "Larcei - Bride of Astra": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Potent Finish": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Brutal Tempest": { "sp": 300, "rarity": 5 } }
+  },
   "Ike - Desert Mercenary": {
     "score": 318,
     "scoreTotal": 1166,
@@ -15058,6 +15099,19 @@
     "special": { "Curved Shot": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
+  },
+  "Seliph - Light's Legacy": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Haze Slice": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Potent Assault": { "sp": 300, "rarity": 5 } }
   },
   "Dimitri - Stargazing Lion": {
     "score": 530,
@@ -15240,6 +15294,19 @@
     "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
     "skillA": { "Sly Sturdy Blow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Assault Rush": { "sp": 300, "rarity": 5 } }
+  },
+  "Julia - Brides of Light": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 215,
+    "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time Pulse Helm": { "sp": 300, "rarity": 5 } }
   },
   "Rhea - Aura of Love": {
     "score": 530,

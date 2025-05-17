@@ -825,6 +825,14 @@
     "icon": "skillB/Shield_of_Hope",
     "last": true
   },
+  "Full Light & Dark": {
+    "id": "Full Light & Dark",
+    "name": "真・光與闇",
+    "sp": 300,
+    "exclusive": ["Julia - Brides of Light"],
+    "icon": "skillB/Full_Light_&_Dark",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -4914,6 +4922,15 @@
     "icon": "skillB/Assault_Force",
     "last": true
   },
+  "Potent Assault": {
+    "id": "Potent Assault",
+    "name": "強攻・神速",
+    "sp": 300,
+    "rules": "learner.wielderCavalryFlying",
+    "prev": ["Flow Refresh 3"],
+    "icon": "skillB/Potent_Assault",
+    "last": true
+  },
   "Atk/Res Tempo 1": {
     "id": "Atk/Res Tempo 1",
     "name": "攻擊魔防節拍1",
@@ -5458,6 +5475,15 @@
     "prev": ["Potent 3"],
     "rules": "learner.infantry-cavalry-flying-melee-def-dmger",
     "icon": "skillB/Potent_4",
+    "last": true
+  },
+  "Potent Finish": {
+    "id": "Potent Finish",
+    "name": "奧秘・神速",
+    "sp": 300,
+    "rules": "learner.wielderInfantry",
+    "prev": ["Potent 3"],
+    "icon": "skillB/Potent_Finish",
     "last": true
   },
   "Laguz Friend 1": {

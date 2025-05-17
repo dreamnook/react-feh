@@ -659,6 +659,14 @@
     "icon": "skillC/For_the_True_King",
     "last": true
   },
+  "The Heir to Light": {
+    "id": "The Heir to Light",
+    "name": "真・繼承光之人",
+    "sp": 300,
+    "exclusive": ["Seliph - Light's Legacy"],
+    "icon": "skillC/The_Heir_to_Light",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
