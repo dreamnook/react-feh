@@ -9698,13 +9698,20 @@
     "id": "Medeus - Last Earth Dragon",
     "title": "地龍族的倖存者",
     "name": "梅迪烏斯",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "weaponType": "blue-dragon",
     "moveType": "infantry",
     "appearsIn": ["Shadow Dragon / (New) Mystery"],
     "releaseDate": "2025-04-15",
     "stats": {
+      "3": {
+        "hp": [34, 37, 40],
+        "atk": [41, 44, 47],
+        "spd": [13, 16, 19],
+        "def": [35, 38, 41],
+        "res": [39, 42, 45]
+      },
       "4": {
         "hp": [35, 38, 41],
         "atk": [43, 46, 49],
@@ -9718,6 +9725,13 @@
         "spd": [16, 19, 22],
         "def": [39, 42, 46],
         "res": [44, 47, 50]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 3,
+        "def": 11,
+        "res": 11
       },
       "4-1": {
         "hp": 18,

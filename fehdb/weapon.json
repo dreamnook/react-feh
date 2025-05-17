@@ -3136,7 +3136,6 @@
       "name": "義勇軍正劍",
       "mt": 16,
       "sp": 400,
-      "prev": ["Guard Sword+"],
       "exclusive": ["Eyvel - Mistress of Fiana"],
       "refine": {
         "effect": {
@@ -3984,7 +3983,8 @@
           "hp": 5,
           "res": 4
         }
-      }
+      },
+      "last": true
     },
     "Instant Sword": {
       "id": "Instant Sword",
@@ -4349,19 +4349,19 @@
       },
       "last": true
     },
-    "Doubler Sword": {
-      "id": "Doubler Sword",
-      "name": "強化增幅之劍",
+    "Reversal Blade": {
+      "id": "Reversal Blade",
+      "name": "強化反轉之劍",
       "mt": 10,
       "sp": 200,
       "prev": ["Steel Sword"]
     },
-    "Doubler Sword+": {
-      "id": "Doubler Sword+",
-      "name": "強化增幅之劍+",
+    "Reversal Blade+": {
+      "id": "Reversal Blade+",
+      "name": "強化反轉之劍+",
       "mt": 14,
       "sp": 300,
-      "prev": ["Doubler Sword"],
+      "prev": ["Reversal Blade"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -4382,19 +4382,19 @@
       },
       "last": true
     },
-    "Reversal Blade": {
-      "id": "Reversal Blade",
-      "name": "強化反轉之劍",
+    "Doubler Sword": {
+      "id": "Doubler Sword",
+      "name": "強化增幅之劍",
       "mt": 10,
       "sp": 200,
       "prev": ["Steel Sword"]
     },
-    "Reversal Blade+": {
-      "id": "Reversal Blade+",
-      "name": "強化反轉之劍+",
+    "Doubler Sword+": {
+      "id": "Doubler Sword+",
+      "name": "強化增幅之劍+",
       "mt": 14,
       "sp": 300,
-      "prev": ["Reversal Blade"],
+      "prev": ["Doubler Sword"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -7280,7 +7280,6 @@
       "name": "冰槍馬爾堤",
       "mt": 16,
       "sp": 400,
-      "prev": ["Vanguard+"],
       "exclusive": ["Thea - Stormy Flier"],
       "refine": {
         "effect": {
@@ -8575,7 +8574,8 @@
           "hp": 5,
           "res": 4
         }
-      }
+      },
+      "last": true
     },
     "Barrier Lance": {
       "id": "Barrier Lance",
@@ -9006,39 +9006,6 @@
       },
       "last": true
     },
-    "Null Spear": {
-      "id": "Null Spear",
-      "name": "識破追擊之槍",
-      "mt": 10,
-      "sp": 200,
-      "prev": ["Steel Lance"]
-    },
-    "Null Spear+": {
-      "id": "Null Spear+",
-      "name": "識破追擊之槍+",
-      "mt": 14,
-      "sp": 300,
-      "prev": ["Null Spear"],
-      "refine": {
-        "atk": {
-          "hp": 5,
-          "mt": 2
-        },
-        "spd": {
-          "hp": 5,
-          "spd": 3
-        },
-        "def": {
-          "hp": 5,
-          "def": 4
-        },
-        "res": {
-          "hp": 5,
-          "res": 4
-        }
-      },
-      "last": true
-    },
     "Pursual Lance": {
       "id": "Pursual Lance",
       "name": "追擊之槍",
@@ -9072,19 +9039,19 @@
       },
       "last": true
     },
-    "Doubler Lance": {
-      "id": "Doubler Lance",
-      "name": "強化增幅之槍",
+    "Null Spear": {
+      "id": "Null Spear",
+      "name": "識破追擊之槍",
       "mt": 10,
       "sp": 200,
       "prev": ["Steel Lance"]
     },
-    "Doubler Lance+": {
-      "id": "Doubler Lance+",
-      "name": "強化增幅之槍+",
+    "Null Spear+": {
+      "id": "Null Spear+",
+      "name": "識破追擊之槍+",
       "mt": 14,
       "sp": 300,
-      "prev": ["Doubler Lance"],
+      "prev": ["Null Spear"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -9118,6 +9085,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Reversal Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Doubler Lance": {
+      "id": "Doubler Lance",
+      "name": "強化增幅之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Doubler Lance+": {
+      "id": "Doubler Lance+",
+      "name": "強化增幅之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Doubler Lance"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -12047,7 +12047,6 @@
       "mt": 16,
       "cd": -1,
       "sp": 400,
-      "prev": ["Firesweep Axe+"],
       "exclusive": ["Gerik - Desert Tiger"],
       "refine": {
         "effect": {
@@ -12775,7 +12774,8 @@
       "name": "火薙之斧+",
       "mt": 15,
       "sp": 300,
-      "prev": ["Firesweep Axe"]
+      "prev": ["Firesweep Axe"],
+      "last": true
     },
     "Reprisal Axe": {
       "id": "Reprisal Axe",
@@ -29445,7 +29445,6 @@
       "name": "白百合之杖",
       "mt": 14,
       "sp": 400,
-      "prev": ["Melancholy+"],
       "exclusive": ["Silque - Adherent of Mila"],
       "refine": {
         "effect": {
@@ -29871,7 +29870,8 @@
           "name": "幻惑",
           "icon": "Dazzling_Staff_W"
         }
-      }
+      },
+      "last": true
     },
     "Respite": {
       "id": "Respite",

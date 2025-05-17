@@ -126,6 +126,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Guard Sword+": {
+        "pool": { "#": { "5": ["Eyvel - Mistress of Fiana"] } },
+        "id": "Guard Sword+",
+        "name": "取消之劍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Instant Sword+": {
         "pool": { "grail": { "5": ["Bertram - Dread Cavalier"] } },
         "id": "Instant Sword+",
@@ -203,17 +210,17 @@
         "sp": 300,
         "refine": 350
       },
-      "Doubler Sword+": {
-        "pool": { "#": { "3": ["Ogier - Ostia's New Blade"] } },
-        "id": "Doubler Sword+",
-        "name": "強化增幅之劍+",
-        "sp": 300,
-        "refine": 350
-      },
       "Reversal Blade+": {
         "pool": { "#": { "3": ["Kagetsu - Onigiri Samurai"] } },
         "id": "Reversal Blade+",
         "name": "強化反轉之劍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Doubler Sword+": {
+        "pool": { "#": { "3": ["Ogier - Ostia's New Blade"] } },
+        "id": "Doubler Sword+",
+        "name": "強化增幅之劍+",
         "sp": 300,
         "refine": 350
       },
@@ -501,6 +508,15 @@
         "sp": 300,
         "refine": 350
       },
+      "Vanguard+": {
+        "pool": {
+          "#": { "3": ["Ferdinand - Noblest of Nobles", "Thea - Stormy Flier"] }
+        },
+        "id": "Vanguard+",
+        "name": "守護之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Barrier Lance+": {
         "pool": {
           "#": { "5": ["Kjelle - Fair Fighter"] },
@@ -598,13 +614,6 @@
         "sp": 300,
         "refine": 350
       },
-      "Null Spear+": {
-        "pool": { "grail": { "5": ["Jarod - Nevassa General"] } },
-        "id": "Null Spear+",
-        "name": "識破追擊之槍+",
-        "sp": 300,
-        "refine": 350
-      },
       "Pursual Lance+": {
         "pool": { "#": { "3": ["Kyle - Zealous Knight"] } },
         "id": "Pursual Lance+",
@@ -612,10 +621,10 @@
         "sp": 300,
         "refine": 350
       },
-      "Doubler Lance+": {
-        "pool": { "#": { "3": ["Bors - Ostia's Bastion"] } },
-        "id": "Doubler Lance+",
-        "name": "強化增幅之槍+",
+      "Null Spear+": {
+        "pool": { "grail": { "5": ["Jarod - Nevassa General"] } },
+        "id": "Null Spear+",
+        "name": "識破追擊之槍+",
         "sp": 300,
         "refine": 350
       },
@@ -623,6 +632,13 @@
         "pool": { "grail": { "5": ["Zeiss - Ebon Bolt"] } },
         "id": "Reversal Lance+",
         "name": "強化反轉之槍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Doubler Lance+": {
+        "pool": { "#": { "3": ["Bors - Ostia's Bastion"] } },
+        "id": "Doubler Lance+",
+        "name": "強化增幅之槍+",
         "sp": 300,
         "refine": 350
       },
@@ -924,6 +940,12 @@
         },
         "id": "Emerald Axe+",
         "name": "深綠之斧+",
+        "sp": 300
+      },
+      "Firesweep Axe+": {
+        "pool": { "#": { "5": ["Gerik - Desert Tiger"] } },
+        "id": "Firesweep Axe+",
+        "name": "火薙之斧+",
         "sp": 300
       },
       "Reprisal Axe+": {
@@ -2833,6 +2855,13 @@
         "pool": { "#": { "5": ["Mikoto - Caring Mother"] } },
         "id": "Flash+",
         "name": "閃爍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Melancholy+": {
+        "pool": { "#": { "5": ["Silque - Adherent of Mila"] } },
+        "id": "Melancholy+",
+        "name": "憂鬱+",
         "sp": 300,
         "refine": 350
       },
@@ -5307,9 +5336,9 @@
           "3": [
             "Fir - Sword Student",
             "Felicia - Maid Mayhem",
-            "Klein - Silver Nobleman"
+            "Klein - Silver Nobleman",
+            "Medeus - Last Earth Dragon"
           ],
-          "4": ["Medeus - Last Earth Dragon"],
           "5": [
             "Katarina - Wayward One",
             "Ewan - Eager Student",
@@ -10121,7 +10150,7 @@
     },
     "Def/Res Scowl 3": {
       "pool": {
-        "#": { "4": ["Medeus - Last Earth Dragon"] },
+        "#": { "3": ["Medeus - Last Earth Dragon"] },
         "special": { "5": ["Myrrh - Adored Dragon"] },
         "duo": { "5": ["Rhea - Aura of Love"] }
       },
@@ -15642,8 +15671,11 @@
     "Atk Ploy 3": {
       "pool": {
         "#": {
-          "3": ["Lena - Tender Angel", "Bastian - Crimea's Keystone"],
-          "4": ["Medeus - Last Earth Dragon"],
+          "3": [
+            "Lena - Tender Angel",
+            "Bastian - Crimea's Keystone",
+            "Medeus - Last Earth Dragon"
+          ],
           "5": [
             "Safy - Font of Piety",
             "Katarina - Wayward One",

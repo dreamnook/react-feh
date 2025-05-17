@@ -212,7 +212,7 @@
     "id": "Frightful Dream+",
     "name": "可怕的夢・神",
     "sp": 400,
-    "prev": ["Frightful Dream+"],
+    "prev": ["Frightful Dream"],
     "range": 1,
     "exclusive": ["Triandra - Nightmare"],
     "last": true
