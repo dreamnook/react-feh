@@ -4200,7 +4200,8 @@
             "Rebecca - Breezy Scamp",
             "Clanne - Summer Fan",
             "Annette - Festive Helper",
-            "Kana - Rising Dragon"
+            "Kana - Rising Dragon",
+            "Tine - Determined Bride"
           ],
           "5": [
             "Tiki - Beachside Scion",
@@ -4208,7 +4209,6 @@
             "Micaiah - Wavecrest Maiden",
             "Nailah - Blessed Queen",
             "Navarre - Scarlet Ninja",
-            "Tine - Determined Bride",
             "Caeda - Princess of Talys",
             "Leila - Keen Lookout",
             "Ursula - Royal-Blue Crow",
@@ -4341,7 +4341,11 @@
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "aided": { "5": ["Yunaka - Hidden Mask"] },
         "legendary": {
-          "5": ["Xander - Gallant King", "Claude - King of Unification"]
+          "5": [
+            "Xander - Gallant King",
+            "Claude - King of Unification",
+            "Black Knight - Mortal Legend"
+          ]
         },
         "mythic": {
           "5": [
@@ -7616,7 +7620,8 @@
             "Seliph - Scion of Light",
             "Caeda - Beloved Queen",
             "Corrin - Child of Dusk",
-            "Fae - Childlike Dragon"
+            "Fae - Childlike Dragon",
+            "Black Knight - Mortal Legend"
           ]
         },
         "mythic": {
@@ -7751,6 +7756,14 @@
       "sp": 300,
       "icon": "skillA/D_Bonus_Doubler",
       "rules": "learner.infantry-melee"
+    },
+    "Distant A/D Form": {
+      "pool": { "legendary": { "5": ["Black Knight - Mortal Legend"] } },
+      "id": "Distant A/D Form",
+      "name": "遠反・攻防的密集",
+      "sp": 300,
+      "icon": "skillA/Distant_A_D_Form",
+      "rules": "melee"
     },
     "Distant Foil": {
       "pool": {
@@ -9298,12 +9311,12 @@
             "Ashe - Budding Chivalry",
             "Catria - Windswept Knight",
             "Lyre - Lap Cat of Luxury",
-            "Reina - Sanguine Shinobi"
+            "Reina - Sanguine Shinobi",
+            "Tine - Determined Bride"
           ],
           "5": [
             "Hortensia - Winter's Dearest",
             "Nifl - Tropical Ice God",
-            "Tine - Determined Bride",
             "Dimitri - Sky-Blue Lion",
             "Delthea - Prodigy in Bloom",
             "Camilla - Young Beauty"
@@ -10718,7 +10731,9 @@
         "grail": {
           "5": ["Kellam - Pumpkin Knight", "Ludveck - Rebellious Duke"]
         },
-        "legendary": { "5": ["Hector - Marquess of Ostia"] },
+        "legendary": {
+          "5": ["Hector - Marquess of Ostia", "Black Knight - Mortal Legend"]
+        },
         "special": {
           "5": [
             "Zephiel - Winter's Crown",
@@ -10745,6 +10760,14 @@
       "name": "迎擊隊形4",
       "sp": 300,
       "icon": "skillB/Vengeful_Fighter_4",
+      "rules": "armored"
+    },
+    "Counter Fighter": {
+      "pool": { "legendary": { "5": ["Black Knight - Mortal Legend"] } },
+      "id": "Counter Fighter",
+      "name": "反攻隊形",
+      "sp": 300,
+      "icon": "skillB/Counter_Fighter",
       "rules": "armored"
     },
     "Special Fighter 3": {
@@ -13471,11 +13494,11 @@
         "rearmed": { "5": ["Reinhardt - Thrud Reborn"] },
         "legendary": { "5": ["Veronica - Princess Rising"] },
         "special": {
+          "4": ["Tine - Determined Bride"],
           "5": [
             "L'Arachel - Seeker of Justice",
             "Tharja - Beach Dark Mage",
             "Dorothea - Yuletide Dancer",
-            "Tine - Determined Bride",
             "Delthea - Prodigy in Bloom"
           ]
         },
@@ -16612,6 +16635,7 @@
     "A/D Far Save 2": {
       "pool": {
         "attuned": { "5": ["Hector - Steel Warrior"] },
+        "legendary": { "5": ["Black Knight - Mortal Legend"] },
         "mythic": {
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
         },
@@ -16628,6 +16652,7 @@
     "A/D Far Save 3": {
       "pool": {
         "attuned": { "5": ["Hector - Steel Warrior"] },
+        "legendary": { "5": ["Black Knight - Mortal Legend"] },
         "mythic": {
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
         },
@@ -16715,7 +16740,10 @@
       "rules": "armored"
     },
     "A/D Briar F Save": {
-      "pool": { "special": { "5": ["Fomortiis - Dark of Night"] } },
+      "pool": {
+        "legendary": { "5": ["Black Knight - Mortal Legend"] },
+        "special": { "5": ["Fomortiis - Dark of Night"] }
+      },
       "id": "A/D Briar F Save",
       "name": "鎧之守護人・遠・棘",
       "sp": 300,

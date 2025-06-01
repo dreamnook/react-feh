@@ -1181,6 +1181,15 @@
     "icon": "skillB/Vengeful_Fighter_4",
     "last": true
   },
+  "Counter Fighter": {
+    "id": "Counter Fighter",
+    "name": "反攻隊形",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["Vengeful Fighter 3"],
+    "icon": "skillB/Counter_Fighter",
+    "last": true
+  },
   "Special Fighter 1": {
     "id": "Special Fighter 1",
     "name": "奧義隊形1",

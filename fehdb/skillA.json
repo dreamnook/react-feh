@@ -2013,6 +2013,15 @@
     "icon": "skillA/D_Bonus_Doubler",
     "last": true
   },
+  "Distant A/D Form": {
+    "id": "Distant A/D Form",
+    "name": "遠反・攻防的密集",
+    "sp": 300,
+    "rules": "melee",
+    "prev": ["Distant Counter"],
+    "icon": "skillA/Distant_A_D_Form",
+    "last": true
+  },
   "Distant Foil": {
     "id": "Distant Foil",
     "name": "金剛反擊・遠距離",

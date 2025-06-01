@@ -1392,8 +1392,8 @@
     "id": "S/D Hold Guide",
     "name": "速防大牽制・引導",
     "sp": 300,
-    "prev": ["Spd/Def Rein 3"],
     "rules": "learner.flying-melee",
+    "prev": ["Spd/Def Rein 3"],
     "icon": "skillC/S_D_Hold_Guide",
     "last": true
   },
@@ -4176,8 +4176,8 @@
     "id": "Preempt Screech",
     "name": "暗獸・初擊之躍動",
     "sp": 300,
-    "prev": ["C Feud 3"],
     "rules": "learner.infantry-cavalry-flying-beast",
+    "prev": ["C Feud 3"],
     "icon": "skillC/Preempt_Screech",
     "last": true
   },

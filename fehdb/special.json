@@ -650,6 +650,14 @@
     "exclusive": ["Alear - Red Days Past"],
     "last": true
   },
+  "Pitch-Dark Luna": {
+    "id": "Pitch-Dark Luna",
+    "name": "漆闇的月光",
+    "sp": 500,
+    "prev": ["Luna"],
+    "exclusive": ["Black Knight - Mortal Legend"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

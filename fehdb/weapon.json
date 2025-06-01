@@ -3565,6 +3565,16 @@
       "exclusive": ["Alear - Fell Dragon Child"],
       "last": true
     },
+    "Final Sword": {
+      "id": "Final Sword",
+      "name": "終點之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Black Knight - Mortal Legend"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",

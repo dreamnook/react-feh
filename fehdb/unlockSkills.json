@@ -17724,6 +17724,35 @@
       "D/R Far Save 3": 4
     }
   },
+  "Black Knight - Mortal Legend": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Final Sword": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4,
+      "Pitch-Dark Luna": 5
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "Distant A/D Form": 5
+    },
+    "skillB": {
+      "Vengeful Fighter 1": 2,
+      "Vengeful Fighter 2": 3,
+      "Vengeful Fighter 3": 4,
+      "Counter Fighter": 5
+    },
+    "skillC": {
+      "A/D Far Save 1": 2,
+      "A/D Far Save 2": 3,
+      "A/D Far Save 3": 4,
+      "A/D Briar F Save": 5
+    }
+  },
   "Petrine - Icy Flame-Lancer": {
     "weapon": {
       "Iron Lance": 1,
