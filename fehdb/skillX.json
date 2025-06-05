@@ -77,6 +77,14 @@
     "icon": "skillX/Tempo_Echo",
     "last": true
   },
+  "Crux Echo": {
+    "id": "Crux Echo",
+    "name": "響・十字牽制",
+    "sp": 0,
+    "rules": "flying",
+    "icon": "skillX/Crux_Echo",
+    "last": true
+  },
   "Time Pulse Echo": {
     "id": "Time Pulse Echo",
     "name": "響・初始之躍動",

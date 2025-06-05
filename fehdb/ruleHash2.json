@@ -349,10 +349,6 @@
     "moveType": 15,
     "weaponType": 65520
   },
-  "learner.beast-infantry-cavalry-flying": {
-    "weaponType": 15728640,
-    "moveType": 13
-  },
   "learner.r-duel-infantry": {
     "moveType": 1,
     "colorType": 1

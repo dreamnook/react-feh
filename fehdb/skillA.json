@@ -352,6 +352,14 @@
     "icon": "skillA/Bond_Breaker",
     "last": true
   },
+  "Already Dead": {
+    "id": "Already Dead",
+    "name": "該死囉……",
+    "sp": 300,
+    "exclusive": ["Tharja - Gloomy Mage"],
+    "icon": "skillA/Already_Dead",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -749,7 +757,7 @@
   },
   "Stronghold": {
     "id": "Stronghold",
-    "name": "監牢城塞",
+    "name": "堅牢城塞",
     "sp": 300,
     "atk": -3,
     "def": 7,
@@ -3447,6 +3455,15 @@
     "rules": "learner.infantry-def-dmger",
     "prev": ["Sorcery Blade 3"],
     "icon": "skillA/Spd_Res_Hexblade",
+    "last": true
+  },
+  "Atk/Spd Hexedge": {
+    "id": "Atk/Spd Hexedge",
+    "name": "攻擊速度之咒刃",
+    "sp": 300,
+    "prev": ["Sorcery Blade 3"],
+    "rules": "learner.infantry-def-dmger",
+    "icon": "skillA/Atk_Spd_Hexedge",
     "last": true
   },
   "Bonus Doubler 1": {

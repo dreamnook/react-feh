@@ -1277,6 +1277,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Hex Bow": {
+        "pool": { "rearmed": { "5": ["Noire - Of Two Minds"] } },
+        "id": "Arcane Hex Bow",
+        "name": "魔器・咒術祕弓",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Bow+": {
         "pool": {
           "#": { "3": ["Rebecca - Wildflower", "Virion - Elite Archer"] }
@@ -2166,6 +2173,13 @@
         "pool": { "grail": { "5": ["Jedah - Priest of Duma"] } },
         "id": "Rauðrcrab+",
         "name": "赤紅之蟹+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Rauðrsparrow+": {
+        "pool": { "special": { "5": ["Excellus - Conqueror’s Wile"] } },
+        "id": "Rauðrsparrow+",
+        "name": "赤紅之燕+",
         "sp": 300,
         "refine": 350
       },
@@ -3084,6 +3098,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Obstinate Breath+": {
+        "pool": { "#": { "5": ["Grima - Tyrant of Ruin"] } },
+        "id": "Obstinate Breath+",
+        "name": "堅牢吐息+",
+        "sp": 300,
+        "refine": 350
+      },
       "Glittering Breath+": {
         "pool": { "special": { "5": ["Fae - Holiday Dear"] } },
         "id": "Glittering Breath+",
@@ -3816,7 +3837,11 @@
         },
         "special": {
           "4": ["Selena - Admiring General", "Naga - Harvest Divinity"],
-          "5": ["Pent - Fancy Fiancé", "Elise - Bubbling Flower"]
+          "5": [
+            "Pent - Fancy Fiancé",
+            "Elise - Bubbling Flower",
+            "Excellus - Conqueror’s Wile"
+          ]
         }
       },
       "id": "Rally Up Atk",
@@ -4178,7 +4203,11 @@
           ]
         },
         "rearmed": {
-          "5": ["Reinhardt - Thrud Reborn", "Sothe - Dawning Zephyr"]
+          "5": [
+            "Reinhardt - Thrud Reborn",
+            "Sothe - Dawning Zephyr",
+            "Noire - Of Two Minds"
+          ]
         },
         "attuned": { "5": ["Alm - Powerful Resolve"] },
         "emblem": { "5": ["Celica - Of Echoes"] },
@@ -4251,6 +4280,7 @@
         "#": {
           "5": ["Bernadetta - Sheltered Loner", "Ashe - Chivalric Amends"]
         },
+        "rearmed": { "5": ["Noire - Of Two Minds"] },
         "special": { "5": ["Claude - Distant Deer"] },
         "duo": { "5": ["Lucina - Shadows of Fate"] }
       },
@@ -5279,7 +5309,8 @@
             "Morgan - Fated Darkness",
             "Marianne - Adopted Daughter",
             "Naga - Ruler of Dragons",
-            "Corrin - Silent Bloodline"
+            "Corrin - Silent Bloodline",
+            "Grima - Tyrant of Despair"
           ]
         },
         "grail": {
@@ -5368,6 +5399,7 @@
           "5": [
             "Katarina - Wayward One",
             "Ewan - Eager Student",
+            "Grima - Tyrant of Ruin",
             "Gotoh - Apostle of Naga",
             "Nomah - Priest of Mila",
             "Marianne - Serene Adherent",
@@ -5402,6 +5434,7 @@
           ]
         },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
+        "attuned": { "5": ["Tharja - Gloomy Mage"] },
         "legendary": { "5": ["Gunnthrá - Voice of Dreams"] },
         "mythic": {
           "5": [
@@ -5425,7 +5458,8 @@
             "Sakura - Gentle Nekomata",
             "Zephiel - Winter's Crown",
             "Céline - Teatime Ninja",
-            "Felicia - Off the Menu"
+            "Felicia - Off the Menu",
+            "Excellus - Conqueror’s Wile"
           ]
         },
         "duo": { "5": ["Julia - Brides of Light"] }
@@ -5443,6 +5477,13 @@
       },
       "id": "Armored Floe",
       "name": "重裝之聖冰",
+      "sp": 500,
+      "rules": "learner.armored-not-staff"
+    },
+    "Armored Glacier": {
+      "pool": { "#": { "5": ["Grima - Tyrant of Despair"] } },
+      "id": "Armored Glacier",
+      "name": "重裝之大冰",
       "sp": 500,
       "rules": "learner.armored-not-staff"
     },
@@ -5467,7 +5508,10 @@
       "rules": "tome"
     },
     "Ice Wall": {
-      "pool": { "duo": { "5": ["Julia - Brides of Light"] } },
+      "pool": {
+        "attuned": { "5": ["Tharja - Gloomy Mage"] },
+        "duo": { "5": ["Julia - Brides of Light"] }
+      },
       "id": "Ice Wall",
       "name": "冰牆",
       "sp": 500,
@@ -6260,7 +6304,7 @@
         "harmonized": { "5": ["Plumeria - Spring Dance"] }
       },
       "id": "Stronghold",
-      "name": "監牢城塞",
+      "name": "堅牢城塞",
       "sp": 300,
       "icon": "skillA/Stronghold"
     },
@@ -8964,6 +9008,7 @@
           "4": ["Candace - Sly Snatcher"],
           "5": ["Metodey - Shrewd Braggart"]
         },
+        "rearmed": { "5": ["Noire - Of Two Minds"] },
         "legendary": { "5": ["Yuri - Underground Lord"] },
         "mythic": { "5": ["Dagr - Sun's Radiance"] }
       },
@@ -8990,6 +9035,14 @@
       "name": "速度魔防的魔刃",
       "sp": 300,
       "icon": "skillA/Spd_Res_Hexblade",
+      "rules": "learner.infantry-def-dmger"
+    },
+    "Atk/Spd Hexedge": {
+      "pool": { "rearmed": { "5": ["Noire - Of Two Minds"] } },
+      "id": "Atk/Spd Hexedge",
+      "name": "攻擊速度之咒刃",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Hexedge",
       "rules": "learner.infantry-def-dmger"
     },
     "Bonus Doubler 3": {
@@ -10164,7 +10217,13 @@
     },
     "Atk/Res Scowl 3": {
       "pool": {
-        "#": { "5": ["Rhea - Loving Matriarch", "Naga - Ruler of Dragons"] },
+        "#": {
+          "5": [
+            "Rhea - Loving Matriarch",
+            "Grima - Tyrant of Ruin",
+            "Naga - Ruler of Dragons"
+          ]
+        },
         "mythic": { "5": ["Seiros - Saint of Legend"] },
         "special": { "4": ["Kana - Rising Dragon"] },
         "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
@@ -10205,7 +10264,10 @@
     },
     "Def/Res Scowl 3": {
       "pool": {
-        "#": { "3": ["Medeus - Last Earth Dragon"] },
+        "#": {
+          "3": ["Medeus - Last Earth Dragon"],
+          "5": ["Grima - Tyrant of Despair"]
+        },
         "special": { "5": ["Myrrh - Adored Dragon"] },
         "duo": { "5": ["Rhea - Aura of Love"] }
       },
@@ -10217,6 +10279,7 @@
     },
     "Def/Res Scowl 4": {
       "pool": {
+        "#": { "5": ["Grima - Tyrant of Despair"] },
         "special": { "5": ["Myrrh - Adored Dragon"] },
         "duo": { "5": ["Rhea - Aura of Love"] }
       },
@@ -10877,6 +10940,7 @@
     },
     "Slick Fighter 3": {
       "pool": {
+        "#": { "5": ["Grima - Tyrant of Ruin"] },
         "legendary": { "5": ["Tiki - Legendary Dragon"] },
         "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
         "special": {
@@ -10907,6 +10971,7 @@
     },
     "Wily Fighter 3": {
       "pool": {
+        "#": { "5": ["Grima - Tyrant of Despair"] },
         "ascended": { "5": ["Idunn - Divine Demon"] },
         "attuned": { "5": ["Hector - Steel Warrior"] }
       },
@@ -10917,7 +10982,10 @@
       "rules": "armored"
     },
     "Wily Fighter 4": {
-      "pool": { "attuned": { "5": ["Hector - Steel Warrior"] } },
+      "pool": {
+        "#": { "5": ["Grima - Tyrant of Despair"] },
+        "attuned": { "5": ["Hector - Steel Warrior"] }
+      },
       "id": "Wily Fighter 4",
       "name": "正面隊形・敵方4",
       "sp": 300,
@@ -11524,6 +11592,7 @@
           "3": ["Nyna - The Last Princess"],
           "5": ["Ewan - Eager Student"]
         },
+        "attuned": { "5": ["Tharja - Gloomy Mage"] },
         "mythic": {
           "5": ["Elimine - Scouring Saint", "Plumeria - Lewd Dream"]
         },
@@ -11646,6 +11715,14 @@
       "name": "攻擊魔防大擾亂",
       "sp": 300,
       "icon": "skillB/Atk_Res_Havoc",
+      "rules": "learner.infantry-flying"
+    },
+    "Spd/Res Havoc": {
+      "pool": { "attuned": { "5": ["Tharja - Gloomy Mage"] } },
+      "id": "Spd/Res Havoc",
+      "name": "速度魔防大擾亂",
+      "sp": 300,
+      "icon": "skillB/Spd_Res_Havoc",
       "rules": "learner.infantry-flying"
     },
     "Sudden Panic 3": {
@@ -12733,7 +12810,9 @@
     "Def/Res Ruse 3": {
       "pool": {
         "#": { "5": ["Annette - Overachiever"] },
-        "special": { "5": ["Ursula - Clear-Blue Crow"] }
+        "special": {
+          "5": ["Ursula - Clear-Blue Crow", "Excellus - Conqueror’s Wile"]
+        }
       },
       "id": "Def/Res Ruse 3",
       "name": "防守魔防大共謀3",
@@ -13915,7 +13994,7 @@
       "name": "絕對化身・察覺3",
       "sp": 240,
       "icon": "skillB/Beast_Sense_3",
-      "rules": "learner.beast-infantry-cavalry-flying"
+      "rules": "learner.infantry-cavalry-flying-beast"
     },
     "Beast Sense 4": {
       "pool": { "rearmed": { "5": ["Eitr - Hand of Nothing"] } },
@@ -13923,7 +14002,7 @@
       "name": "絕對化身・察覺4",
       "sp": 300,
       "icon": "skillB/Beast_Sense_4",
-      "rules": "learner.beast-infantry-cavalry-flying"
+      "rules": "learner.infantry-cavalry-flying-beast"
     },
     "Beast Assault 3": {
       "pool": { "special": { "5": ["Embla - Closed-Off Bride"] } },
@@ -13931,7 +14010,7 @@
       "name": "絕對化身・強攻3",
       "sp": 240,
       "icon": "skillB/Beast_Assault_3",
-      "rules": "learner.beast-infantry-cavalry-flying"
+      "rules": "learner.infantry-cavalry-flying-beast"
     },
     "Beast Assault 4": {
       "pool": { "special": { "5": ["Embla - Closed-Off Bride"] } },
@@ -13939,7 +14018,7 @@
       "name": "絕對化身・強攻4",
       "sp": 300,
       "icon": "skillB/Beast_Assault_4",
-      "rules": "learner.beast-infantry-cavalry-flying"
+      "rules": "learner.infantry-cavalry-flying-beast"
     },
     "Bestial Agility": {
       "pool": {
@@ -14137,6 +14216,7 @@
     },
     "Speedtaker 3": {
       "pool": {
+        "rearmed": { "5": ["Noire - Of Two Minds"] },
         "attuned": { "5": ["Alm - Powerful Resolve"] },
         "emblem": { "5": ["Lyn - Of Blazing"] },
         "legendary": { "5": ["Ayra - Supreme Astra"] }
@@ -14149,6 +14229,7 @@
     },
     "Speedtaker 4": {
       "pool": {
+        "rearmed": { "5": ["Noire - Of Two Minds"] },
         "attuned": { "5": ["Alm - Powerful Resolve"] },
         "emblem": { "5": ["Lyn - Of Blazing"] },
         "legendary": { "5": ["Ayra - Supreme Astra"] }
@@ -14207,7 +14288,7 @@
             "Nemesis - King of Liberation"
           ]
         },
-        "attuned": { "5": ["Ivy - Snow Queen"] },
+        "attuned": { "5": ["Ivy - Snow Queen", "Tharja - Gloomy Mage"] },
         "legendary": {
           "5": ["Eitri - Youthful Sage", "Camilla - Alluring Darkness"]
         }
@@ -14219,7 +14300,7 @@
     },
     "Deadly Miasma": {
       "pool": {
-        "attuned": { "5": ["Ivy - Snow Queen"] },
+        "attuned": { "5": ["Ivy - Snow Queen", "Tharja - Gloomy Mage"] },
         "legendary": {
           "5": ["Eitri - Youthful Sage", "Camilla - Alluring Darkness"]
         }
@@ -15776,7 +15857,9 @@
           ],
           "5": ["Oliver - Admirer of Beauty"]
         },
-        "special": { "5": ["Leo - Seashore's Prince"] }
+        "special": {
+          "5": ["Leo - Seashore's Prince", "Excellus - Conqueror’s Wile"]
+        }
       },
       "id": "Atk Ploy 3",
       "name": "攻擊謀策3",
@@ -16538,7 +16621,7 @@
     },
     "A/R Near Save 2": {
       "pool": {
-        "#": { "5": ["Rafal - Atoning Dragon"] },
+        "#": { "5": ["Rafal - Atoning Dragon", "Grima - Tyrant of Despair"] },
         "special": { "5": ["Robin - Fall Reincarnation"] }
       },
       "id": "A/R Near Save 2",
@@ -16549,7 +16632,7 @@
     },
     "A/R Near Save 3": {
       "pool": {
-        "#": { "5": ["Rafal - Atoning Dragon"] },
+        "#": { "5": ["Rafal - Atoning Dragon", "Grima - Tyrant of Despair"] },
         "special": { "5": ["Robin - Fall Reincarnation"] }
       },
       "id": "A/R Near Save 3",
@@ -16756,6 +16839,14 @@
       "name": "冑之守護人・遠・雙",
       "sp": 300,
       "icon": "skillC/A_R_Twin_F_Save",
+      "rules": "armored"
+    },
+    "A/R Briar N Save": {
+      "pool": { "#": { "5": ["Grima - Tyrant of Despair"] } },
+      "id": "A/R Briar N Save",
+      "name": "冑之守護人・遠・棘",
+      "sp": 300,
+      "icon": "skillC/A_R_Briar_N_Save",
       "rules": "armored"
     },
     "Guidance 3": {
@@ -18122,6 +18213,14 @@
       "sp": 0,
       "icon": "skillX/Tempo_Echo",
       "rules": "infantry"
+    },
+    "Crux Echo": {
+      "pool": { "attuned": { "5": ["Tharja - Gloomy Mage"] } },
+      "id": "Crux Echo",
+      "name": "響・十字牽制",
+      "sp": 0,
+      "icon": "skillX/Crux_Echo",
+      "rules": "flying"
     },
     "Time Pulse Echo": {
       "pool": { "attuned": { "5": ["Timerra - Desert Warrior"] } },

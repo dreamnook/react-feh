@@ -16030,6 +16030,34 @@
       },
       "last": true
     },
+    "Arcane Hex Bow": {
+      "id": "Arcane Hex Bow",
+      "name": "魔器・咒術祕弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Bow"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Iron Bow": {
       "id": "Iron Bow",
       "name": "鐵弓",
@@ -23703,6 +23731,39 @@
       },
       "last": true
     },
+    "Rauðrsparrow": {
+      "id": "Rauðrsparrow",
+      "name": "赤紅之燕",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Rauðrsparrow+": {
+      "id": "Rauðrsparrow+",
+      "name": "赤紅之燕+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Rauðrsparrow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Tomato Tome": {
       "id": "Tomato Tome",
       "name": "番茄之書",
@@ -27820,6 +27881,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Nomah - Priest of Mila"],
+      "last": true
+    },
+    "Kindred Tome": {
+      "id": "Kindred Tome",
+      "name": "母女的咒術書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Tharja - Gloomy Mage"],
       "last": true
     },
     "Arc. Caliburnus": {
@@ -32082,6 +32153,16 @@
       "exclusive": ["Alear - Red Days Past"],
       "last": true
     },
+    "Despairing Breath": {
+      "id": "Despairing Breath",
+      "name": "深邃絕望之吐息",
+      "mt": 16,
+      "res": 3,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Grima - Tyrant of Despair"],
+      "last": true
+    },
     "Arcane Grima": {
       "id": "Arcane Grima",
       "name": "魔器津利",
@@ -32337,6 +32418,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Water Breath"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Obstinate Breath": {
+      "id": "Obstinate Breath",
+      "name": "堅牢吐息",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Fire Breath+"]
+    },
+    "Obstinate Breath+": {
+      "id": "Obstinate Breath+",
+      "name": "堅牢吐息+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Obstinate Breath"],
       "refine": {
         "atk": {
           "hp": 5,

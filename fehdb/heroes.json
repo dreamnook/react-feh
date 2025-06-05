@@ -37216,6 +37216,41 @@
     "ver": "8.11",
     "dfKey": 7
   },
+  "Tharja - Gloomy Mage": {
+    "id": "Tharja - Gloomy Mage",
+    "title": "憂鬱的咒術師",
+    "name": "撒拉",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "flying",
+    "pool": "attuned",
+    "appearsIn": ["Awakening"],
+    "releaseDate": "2025-06-06",
+    "stats": {
+      "5": {
+        "hp": [31, 35, 38],
+        "atk": [40, 44, 47],
+        "spd": [44, 47, 51],
+        "def": [12, 16, 19],
+        "res": [39, 42, 45]
+      },
+      "5-1": {
+        "hp": 13,
+        "atk": 11,
+        "spd": 8,
+        "def": 3,
+        "res": 16
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.6",
+    "dfKey": 7
+  },
   "Mustafa - Plegian Champion": {
     "id": "Mustafa - Plegian Champion",
     "title": "佩萊吉亞的武臣",
@@ -37277,6 +37312,74 @@
     "book": 4,
     "ver": "4.6",
     "dfKey": 2
+  },
+  "Grima - Tyrant of Despair": {
+    "id": "Grima - Tyrant of Despair",
+    "title": "絕望的支配者",
+    "name": "津利",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-dragon",
+    "moveType": "armored",
+    "appearsIn": ["Awakening"],
+    "releaseDate": "2025-06-06",
+    "stats": {
+      "5": {
+        "hp": [45, 48, 51],
+        "atk": [45, 48, 51],
+        "spd": [14, 18, 21],
+        "def": [41, 45, 48],
+        "res": [45, 48, 52]
+      },
+      "5-1": {
+        "hp": 22,
+        "atk": 13,
+        "spd": 5,
+        "def": 12,
+        "res": 9
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["spd", "def"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 9,
+    "ver": "9.6",
+    "dfKey": 7
+  },
+  "Grima - Tyrant of Ruin": {
+    "id": "Grima - Tyrant of Ruin",
+    "title": "毀滅的支配者",
+    "name": "津利",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-dragon",
+    "moveType": "armored",
+    "appearsIn": ["Awakening"],
+    "releaseDate": "2025-06-06",
+    "stats": {
+      "5": {
+        "hp": [44, 47, 50],
+        "atk": [46, 49, 53],
+        "spd": [14, 18, 21],
+        "def": [42, 46, 49],
+        "res": [44, 47, 50]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 10,
+        "spd": 5,
+        "def": 13,
+        "res": 12
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd", "def"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 9,
+    "ver": "9.6",
+    "dfKey": 7
   },
   "Validar - Fell Architect": {
     "id": "Validar - Fell Architect",
@@ -37529,6 +37632,41 @@
     "book": 6,
     "ver": "6.10",
     "dfKey": 5
+  },
+  "Excellus - Conqueror’s Wile": {
+    "id": "Excellus - Conqueror’s Wile",
+    "title": "霸王的軍師",
+    "name": "艾克賽萊",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-tome",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Awakening"],
+    "releaseDate": "2025-06-06",
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [44, 47, 50],
+        "spd": [18, 21, 24],
+        "def": [27, 31, 34],
+        "res": [44, 47, 51]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 6,
+        "def": 9,
+        "res": 8
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.6",
+    "dfKey": 7
   },
   "Yen'fay - Blade Legend": {
     "id": "Yen'fay - Blade Legend",
@@ -39463,6 +39601,41 @@
     "statMax": 195,
     "book": 8,
     "ver": "8.11",
+    "dfKey": 7
+  },
+  "Noire - Of Two Minds": {
+    "id": "Noire - Of Two Minds",
+    "title": "棲宿雙心",
+    "name": "諾瓦爾",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-bow",
+    "moveType": "infantry",
+    "pool": "rearmed",
+    "appearsIn": ["Awakening"],
+    "releaseDate": "2025-06-06",
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [43, 46, 49],
+        "spd": [44, 47, 51],
+        "def": [31, 35, 38],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 8,
+        "def": 13,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.6",
     "dfKey": 7
   },
   "Nah - Little Miss": {

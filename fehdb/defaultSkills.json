@@ -21267,6 +21267,37 @@
       "Def/Res Smoke 3": 5
     }
   },
+  "Tharja - Gloomy Mage": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Kindred Tome": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4,
+      "Ice Wall": 5
+    },
+    "skillA": {
+      "Already Dead": 5
+    },
+    "skillB": {
+      "Sabotage Spd 1": 2,
+      "Sabotage Spd 2": 3,
+      "Sabotage Spd 3": 4,
+      "Spd/Res Havoc": 5
+    },
+    "skillC": {
+      "Savage Blow 1": 2,
+      "Savage Blow 2": 3,
+      "Savage Blow 3": 4,
+      "Deadly Miasma": 5
+    },
+    "skillX": {
+      "Crux Echo": 5
+    }
+  },
   "Mustafa - Plegian Champion": {
     "weapon": {
       "Iron Axe": 1,
@@ -21288,6 +21319,59 @@
       "Def Tactic 1": 1,
       "Def Tactic 2": 2,
       "Def Tactic 3": 4
+    }
+  },
+  "Grima - Tyrant of Despair": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Despairing Breath": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Iceberg": 4,
+      "Armored Glacier": 5
+    },
+    "skillA": {
+      "Def/Res Scowl 1": 2,
+      "Def/Res Scowl 2": 3,
+      "Def/Res Scowl 3": 4,
+      "Def/Res Scowl 4": 5
+    },
+    "skillB": {
+      "Wily Fighter 1": 2,
+      "Wily Fighter 2": 3,
+      "Wily Fighter 3": 4,
+      "Wily Fighter 4": 5
+    },
+    "skillC": {
+      "A/R Near Save 1": 2,
+      "A/R Near Save 2": 3,
+      "A/R Near Save 3": 4,
+      "A/R Briar N Save": 5
+    }
+  },
+  "Grima - Tyrant of Ruin": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Obstinate Breath": 4,
+      "Obstinate Breath+": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillA": {
+      "Atk/Res Scowl 1": 1,
+      "Atk/Res Scowl 2": 2,
+      "Atk/Res Scowl 3": 4
+    },
+    "skillB": {
+      "Slick Fighter 1": 3,
+      "Slick Fighter 2": 4,
+      "Slick Fighter 3": 5
     }
   },
   "Validar - Fell Architect": {
@@ -21374,6 +21458,32 @@
       "Wary Fighter 1": 1,
       "Wary Fighter 2": 2,
       "Wary Fighter 3": 4
+    }
+  },
+  "Excellus - Conqueror’s Wile": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Rauðrsparrow": 4,
+      "Rauðrsparrow+": 5
+    },
+    "assist": {
+      "Rally Attack": 4,
+      "Rally Up Atk": 4
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillB": {
+      "Def/Res Ruse 1": 3,
+      "Def/Res Ruse 2": 4,
+      "Def/Res Ruse 3": 5
+    },
+    "skillC": {
+      "Atk Ploy 1": 1,
+      "Atk Ploy 2": 2,
+      "Atk Ploy 3": 4
     }
   },
   "Yen'fay - Blade Legend": {
@@ -22474,6 +22584,34 @@
       "Infantry Flash 1": 1,
       "Infantry Flash 2": 2,
       "Infantry Flash 3": 4
+    }
+  },
+  "Noire - Of Two Minds": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Arcane Hex Bow": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Moonbow": 4,
+      "Curved Shot": 5
+    },
+    "skillA": {
+      "Sorcery Blade 1": 2,
+      "Sorcery Blade 2": 3,
+      "Sorcery Blade 3": 4,
+      "Atk/Spd Hexedge": 5
+    },
+    "skillB": {
+      "Speedtaker 1": 2,
+      "Speedtaker 2": 3,
+      "Speedtaker 3": 4,
+      "Speedtaker 4": 5
+    },
+    "skillC": {
+      "Blood & Thunder": 5
     }
   },
   "Nah - Little Miss": {

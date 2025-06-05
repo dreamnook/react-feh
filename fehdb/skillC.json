@@ -667,6 +667,14 @@
     "icon": "skillC/The_Heir_to_Light",
     "last": true
   },
+  "Blood & Thunder": {
+    "id": "Blood & Thunder",
+    "name": "去死吧！",
+    "sp": 300,
+    "exclusive": ["Noire - Of Two Minds"],
+    "icon": "skillC/Blood_&_Thunder",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -2960,6 +2968,15 @@
     "rules": "armored",
     "prev": ["A/R Far Save 3"],
     "icon": "skillC/A_R_Twin_F_Save",
+    "last": true
+  },
+  "A/R Briar N Save": {
+    "id": "A/R Briar N Save",
+    "name": "冑之守護人・遠・棘",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/R Far Save 3"],
+    "icon": "skillC/A_R_Briar_N_Save",
     "last": true
   },
   "Guidance 1": {

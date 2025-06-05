@@ -1013,6 +1013,15 @@
     "rules": "learner.armored-not-staff",
     "last": true
   },
+  "Armored Glacier": {
+    "id": "Armored Glacier",
+    "name": "重裝之大冰",
+    "sp": 500,
+    "cd": 3,
+    "prev": ["Iceberg"],
+    "rules": "learner.armored-not-staff",
+    "last": true
+  },
   "Dragon's Roar": {
     "id": "Dragon's Roar",
     "name": "龍之咆哮",
