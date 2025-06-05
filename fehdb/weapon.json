@@ -2821,23 +2821,58 @@
         "effect": {
           "hp": 3,
           "name": "特效",
-          "icon": "Ladyblade_W"
+          "icon": "Ladyblade_W",
+          "newStats": {
+            "mt": 11,
+            "atk": 5,
+            "spd": -5,
+            "def": 5,
+            "res": 5
+          }
         },
         "atk": {
           "hp": 5,
-          "mt": 1
+          "mt": 1,
+          "newStats": {
+            "mt": 11,
+            "atk": 5,
+            "spd": -5,
+            "def": 5,
+            "res": 5
+          }
         },
         "spd": {
           "hp": 5,
-          "spd": 3
+          "spd": 3,
+          "newStats": {
+            "mt": 11,
+            "atk": 5,
+            "spd": -5,
+            "def": 5,
+            "res": 5
+          }
         },
         "def": {
           "hp": 5,
-          "def": 4
+          "def": 4,
+          "newStats": {
+            "mt": 11,
+            "atk": 5,
+            "spd": -5,
+            "def": 5,
+            "res": 5
+          }
         },
         "res": {
           "hp": 5,
-          "res": 4
+          "res": 4,
+          "newStats": {
+            "mt": 11,
+            "atk": 5,
+            "spd": -5,
+            "def": 5,
+            "res": 5
+          }
         }
       },
       "last": true

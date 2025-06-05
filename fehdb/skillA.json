@@ -3461,8 +3461,8 @@
     "id": "Atk/Spd Hexedge",
     "name": "攻擊速度之咒刃",
     "sp": 300,
-    "prev": ["Sorcery Blade 3"],
     "rules": "learner.infantry-def-dmger",
+    "prev": ["Sorcery Blade 3"],
     "icon": "skillA/Atk_Spd_Hexedge",
     "last": true
   },
