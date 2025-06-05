@@ -2817,6 +2817,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Palla - Kind Eldest Sister"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Ladyblade_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Genesis Falchion": {
@@ -21024,6 +21047,29 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Velouria - Renewed Wolfpup"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Renewed_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Twin-Crest Power": {
@@ -21034,6 +21080,29 @@
       "sp": 400,
       "prev": ["Adult (Armored)"],
       "exclusive": ["Edelgard - Hegemon Husk"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Twin-Crest_Power_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Raydream Horn": {
@@ -23042,6 +23111,66 @@
         "effect": {
           "name": "特效",
           "icon": "Tome_of_Grief_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "General-to-Be": {
+      "id": "General-to-Be",
+      "name": "魔道軍將的才器之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Erk - Studious Mage"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "General-to-Be_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Vision of Daein": {
+      "id": "Vision of Daein",
+      "name": "戴因的繼承之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Pelleas - Ashnard's Orphan"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Vision_of_Daein_W"
         },
         "atk": {
           "hp": 2,

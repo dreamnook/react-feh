@@ -13436,7 +13436,8 @@
       "Fire": 1,
       "Elfire": 2,
       "Rauðrfox": 4,
-      "Rauðrfox+": 5
+      "Rauðrfox+": 5,
+      "General-to-Be": 5
     },
     "special": {
       "New Moon": 4,
@@ -18340,7 +18341,8 @@
       "Flux": 1,
       "Ruin": 2,
       "Rauðrlion": 4,
-      "Rauðrlion+": 5
+      "Rauðrlion+": 5,
+      "Vision of Daein": 5
     },
     "special": {
       "Miracle": 4
