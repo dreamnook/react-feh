@@ -354,7 +354,7 @@
   },
   "Already Dead": {
     "id": "Already Dead",
-    "name": "該死囉……",
+    "name": "一路好走……",
     "sp": 300,
     "exclusive": ["Tharja - Gloomy Mage"],
     "icon": "skillA/Already_Dead",

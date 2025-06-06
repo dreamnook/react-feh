@@ -669,7 +669,7 @@
   },
   "Blood & Thunder": {
     "id": "Blood & Thunder",
-    "name": "去死吧！",
+    "name": "下黃泉去吧",
     "sp": 300,
     "exclusive": ["Noire - Of Two Minds"],
     "icon": "skillC/Blood_&_Thunder",
