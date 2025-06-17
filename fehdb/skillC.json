@@ -675,6 +675,14 @@
     "icon": "skillC/Blood_&_Thunder",
     "last": true
   },
+  "Black Fang Bond": {
+    "id": "Black Fang Bond",
+    "name": "黑牙的羈絆",
+    "sp": 300,
+    "exclusive": ["Nino - Burst of Summer"],
+    "icon": "skillC/Black_Fang_Bond",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -4016,6 +4024,14 @@
     "rules": "learner.infantry-flying-melee",
     "prev": ["Odd Tempest 3", "Even Tempest 3"],
     "icon": "skillC/Brutal_Tempest",
+    "last": true
+  },
+  "Pulse Tempest F": {
+    "id": "Pulse Tempest F",
+    "name": "迅雷風烈・追擊躍動",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "icon": "skillC/Pulse_Tempest_F",
     "last": true
   },
   "Assault Troop 1": {

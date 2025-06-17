@@ -1260,6 +1260,13 @@
         "name": "春光之斧+",
         "sp": 300,
         "refine": 350
+      },
+      "Fannin' Foliage+": {
+        "pool": { "special": { "5": ["Palla - Soaring Summer"] } },
+        "id": "Fannin' Foliage+",
+        "name": "椰樹之葉+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "bow": {
@@ -2029,6 +2036,13 @@
         "name": "賈哈納暗器+",
         "sp": 300,
         "refine": 350
+      },
+      "Tropical Juice+": {
+        "pool": { "grail": { "5": ["Fogado - Summer of Bliss"] } },
+        "id": "Tropical Juice+",
+        "name": "南國的果汁+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "beast": {
@@ -2177,9 +2191,9 @@
         "refine": 350
       },
       "Rauðrsparrow+": {
-        "pool": { "special": { "5": ["Excellus - Conqueror’s Wile"] } },
+        "pool": { "grail": { "5": ["Excellus - Conqueror’s Wile"] } },
         "id": "Rauðrsparrow+",
-        "name": "赤紅之燕+",
+        "name": "赤紅麻雀+",
         "sp": 300,
         "refine": 350
       },
@@ -3099,7 +3113,7 @@
         "refine": 350
       },
       "Obstinate Breath+": {
-        "pool": { "#": { "5": ["Grima - Tyrant of Ruin"] } },
+        "pool": { "#": { "4": ["Grima - Tyrant of Ruin"] } },
         "id": "Obstinate Breath+",
         "name": "堅牢吐息+",
         "sp": 300,
@@ -3835,13 +3849,10 @@
             "Ophelia - Dramatic Heroine"
           ]
         },
+        "grail": { "4": ["Excellus - Conqueror’s Wile"] },
         "special": {
           "4": ["Selena - Admiring General", "Naga - Harvest Divinity"],
-          "5": [
-            "Pent - Fancy Fiancé",
-            "Elise - Bubbling Flower",
-            "Excellus - Conqueror’s Wile"
-          ]
+          "5": ["Pent - Fancy Fiancé", "Elise - Bubbling Flower"]
         }
       },
       "id": "Rally Up Atk",
@@ -4069,7 +4080,8 @@
             "Robin - Fall Vessel",
             "Alfonse - Spring Prince",
             "Sothis - Silver Specter",
-            "Robin - Fall Reincarnation"
+            "Robin - Fall Reincarnation",
+            "Nino - Burst of Summer"
           ]
         },
         "duo": {
@@ -4088,6 +4100,7 @@
           "5": ["Soren - Radiant Confidant", "Robin - Exalt's Right Hand"]
         },
         "mythic": { "5": ["Rune - Source of Wisdom"] },
+        "special": { "5": ["Nino - Burst of Summer"] },
         "duo": { "5": ["Robin - Vessels of Fate"] }
       },
       "id": "Flare",
@@ -4348,6 +4361,7 @@
             "Black Knight - Sinister General",
             "Ylgr - Breaking the Ice",
             "Shez - Mercenary Shade",
+            "Fogado - Summer of Bliss",
             "Valter - Dark Moonstone",
             "Chulainn - Unbeaten Warrior",
             "Kronya - Gleaming Blade",
@@ -4429,7 +4443,8 @@
           "5": [
             "Roy - Blazing Bachelors",
             "Sonya - Dazzling Rabbits",
-            "Linde - Bound by Fate"
+            "Linde - Bound by Fate",
+            "Celica - Sunlit Priestesses"
           ]
         }
       },
@@ -4473,6 +4488,13 @@
       "name": "天空",
       "sp": 500,
       "rules": "not.white-staff"
+    },
+    "Magic Light": {
+      "pool": { "harmonized": { "5": ["Celica - Sunlit Priestesses"] } },
+      "id": "Magic Light",
+      "name": "魔光",
+      "sp": 500,
+      "rules": ["tome"]
     },
     "Glimmer": {
       "pool": {
@@ -4869,6 +4891,7 @@
             "Seliph - Light's Legacy",
             "Dimitri - Stargazing Lion",
             "Camilla - Young Beauty",
+            "Lapis - Forager of the Sea",
             "Sylvain - Spring Flingster"
           ]
         },
@@ -5007,7 +5030,11 @@
     "Haze Slice": {
       "pool": {
         "special": {
-          "5": ["Seliph - Light's Legacy", "Dimitri - Stargazing Lion"]
+          "5": [
+            "Seliph - Light's Legacy",
+            "Dimitri - Stargazing Lion",
+            "Lapis - Forager of the Sea"
+          ]
         }
       },
       "id": "Haze Slice",
@@ -5198,6 +5225,7 @@
           "5": [
             "Jakob - Devoted Monster",
             "Cherche - Shaded by Wings",
+            "Palla - Soaring Summer",
             "Reginn - Bearing Dawn",
             "Robin - Fated Vessel",
             "Gustav - Majestic Love",
@@ -5396,10 +5424,10 @@
             "Klein - Silver Nobleman",
             "Medeus - Last Earth Dragon"
           ],
+          "4": ["Grima - Tyrant of Ruin"],
           "5": [
             "Katarina - Wayward One",
             "Ewan - Eager Student",
-            "Grima - Tyrant of Ruin",
             "Gotoh - Apostle of Naga",
             "Nomah - Priest of Mila",
             "Marianne - Serene Adherent",
@@ -5430,7 +5458,8 @@
             "Díthorba - Cutting Knight",
             "Marla - Duma's Witch",
             "Candace - Sly Snatcher",
-            "Griss - Indulging Pain"
+            "Griss - Indulging Pain",
+            "Excellus - Conqueror’s Wile"
           ]
         },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
@@ -5458,8 +5487,7 @@
             "Sakura - Gentle Nekomata",
             "Zephiel - Winter's Crown",
             "Céline - Teatime Ninja",
-            "Felicia - Off the Menu",
-            "Excellus - Conqueror’s Wile"
+            "Felicia - Off the Menu"
           ]
         },
         "duo": { "5": ["Julia - Brides of Light"] }
@@ -6762,6 +6790,7 @@
             "Lysithea - Gifted Students",
             "Linde - Bound by Fate",
             "Chloé - Spring Wings",
+            "Celica - Sunlit Priestesses",
             "Igrene - Sworn Protectors"
           ]
         }
@@ -7102,7 +7131,8 @@
     "Sly Swift Sparrow": {
       "pool": {
         "#": { "5": ["Midir - Archer of Yngvi"] },
-        "special": { "5": ["Tharja - Shadow Ninja"] }
+        "special": { "5": ["Tharja - Shadow Ninja"] },
+        "harmonized": { "5": ["Celica - Sunlit Priestesses"] }
       },
       "id": "Sly Swift Sparrow",
       "name": "鬼神飛燕掩擊",
@@ -9345,7 +9375,9 @@
             "Lilith - Silent Broodling"
           ]
         },
-        "grail": { "4": ["Zephia - Scheming Dragon"] },
+        "grail": {
+          "4": ["Fogado - Summer of Bliss", "Zephia - Scheming Dragon"]
+        },
         "ascended": { "5": ["Eir - Life Ascendant"] },
         "rearmed": { "5": ["Hortensia - Little Charmer"] },
         "legendary": {
@@ -9591,7 +9623,7 @@
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
         "special": {
           "4": ["Rinkah - Consuming Flame"],
-          "5": ["Larcei - Bride of Astra"]
+          "5": ["Larcei - Bride of Astra", "Nino - Burst of Summer"]
         }
       },
       "id": "Atk/Spd Ideal 3",
@@ -9775,7 +9807,9 @@
     "Perfect Atk/Spd": {
       "pool": {
         "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
-        "special": { "5": ["Larcei - Bride of Astra"] }
+        "special": {
+          "5": ["Larcei - Bride of Astra", "Nino - Burst of Summer"]
+        }
       },
       "id": "Perfect Atk/Spd",
       "name": "攻擊速度完全",
@@ -9818,6 +9852,7 @@
             "Felicia - Confidently Cold",
             "Seliph - Light's Legacy",
             "Dimitri - Stargazing Lion",
+            "Lapis - Forager of the Sea",
             "Sylvain - Spring Flingster"
           ]
         },
@@ -9947,7 +9982,8 @@
             "Nerþuz - Beach Chaperone",
             "Felicia - Confidently Cold",
             "Seliph - Light's Legacy",
-            "Dimitri - Stargazing Lion"
+            "Dimitri - Stargazing Lion",
+            "Lapis - Forager of the Sea"
           ]
         },
         "duo": { "5": ["Sharena - Pillars of Peace"] },
@@ -10218,11 +10254,8 @@
     "Atk/Res Scowl 3": {
       "pool": {
         "#": {
-          "5": [
-            "Rhea - Loving Matriarch",
-            "Grima - Tyrant of Ruin",
-            "Naga - Ruler of Dragons"
-          ]
+          "4": ["Grima - Tyrant of Ruin"],
+          "5": ["Rhea - Loving Matriarch", "Naga - Ruler of Dragons"]
         },
         "mythic": { "5": ["Seiros - Saint of Legend"] },
         "special": { "4": ["Kana - Rising Dragon"] },
@@ -10940,7 +10973,7 @@
     },
     "Slick Fighter 3": {
       "pool": {
-        "#": { "5": ["Grima - Tyrant of Ruin"] },
+        "#": { "4": ["Grima - Tyrant of Ruin"] },
         "legendary": { "5": ["Tiki - Legendary Dragon"] },
         "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
         "special": {
@@ -12810,9 +12843,8 @@
     "Def/Res Ruse 3": {
       "pool": {
         "#": { "5": ["Annette - Overachiever"] },
-        "special": {
-          "5": ["Ursula - Clear-Blue Crow", "Excellus - Conqueror’s Wile"]
-        }
+        "grail": { "5": ["Excellus - Conqueror’s Wile"] },
+        "special": { "5": ["Ursula - Clear-Blue Crow"] }
       },
       "id": "Def/Res Ruse 3",
       "name": "防守魔防大共謀3",
@@ -13142,7 +13174,8 @@
             "Byleth - Fount of Learning",
             "Bernadetta - Frosty Shut-In",
             "Severa - Bitter Blossom",
-            "Kvasir - Unknown Future"
+            "Kvasir - Unknown Future",
+            "Nino - Burst of Summer"
           ]
         }
       },
@@ -13164,6 +13197,14 @@
       "sp": 300,
       "icon": "skillB/Lull_Spd_Res_4",
       "rules": "learner.infantry-cavalry"
+    },
+    "S/R Lull Finish": {
+      "pool": { "special": { "5": ["Nino - Burst of Summer"] } },
+      "id": "S/R Lull Finish",
+      "name": "奧秘・速魔靜謐",
+      "sp": 300,
+      "icon": "skillB/S_R_Lull_Finish",
+      "rules": "infantry"
     },
     "Repel 3": {
       "pool": {
@@ -13414,13 +13455,23 @@
     "A/D Near Trace 3": {
       "pool": {
         "#": { "5": ["Gustav - Sovereign Slain"] },
-        "special": { "5": ["Cherche - Shaded by Wings"] },
+        "special": {
+          "5": ["Cherche - Shaded by Wings", "Palla - Soaring Summer"]
+        },
         "harmonized": { "5": ["Catria - Azure Wing Pair"] }
       },
       "id": "A/D Near Trace 3",
       "name": "攻擊防守近影3",
       "sp": 240,
       "icon": "skillB/A_D_Near_Trace_3",
+      "rules": "learner.cavalry-flying-melee"
+    },
+    "A/D Near Trace 4": {
+      "pool": { "special": { "5": ["Palla - Soaring Summer"] } },
+      "id": "A/D Near Trace 4",
+      "name": "攻擊防守近影4",
+      "sp": 300,
+      "icon": "skillB/A_D_Near_Trace_4",
       "rules": "learner.cavalry-flying-melee"
     },
     "A/R Near Trace 3": {
@@ -14087,7 +14138,9 @@
     "Potent 3": {
       "pool": {
         "emblem": { "5": ["Marth - Of Beginnings"] },
-        "special": { "5": ["Larcei - Bride of Astra"] },
+        "special": {
+          "5": ["Larcei - Bride of Astra", "Lapis - Forager of the Sea"]
+        },
         "duo": { "5": ["Sharena - Pillars of Peace"] }
       },
       "id": "Potent 3",
@@ -14108,7 +14161,11 @@
       "rules": "learner.infantry-cavalry-flying-melee-def-dmger"
     },
     "Potent Finish": {
-      "pool": { "special": { "5": ["Larcei - Bride of Astra"] } },
+      "pool": {
+        "special": {
+          "5": ["Larcei - Bride of Astra", "Lapis - Forager of the Sea"]
+        }
+      },
       "id": "Potent Finish",
       "name": "奧秘・神速",
       "sp": 300,
@@ -14940,6 +14997,7 @@
           "5": [
             "Sothe - Rushing Dawn",
             "Cherche - Shaded by Wings",
+            "Palla - Soaring Summer",
             "Plumeria - Temptation Anew",
             "Laevatein - Ninja of Múspell",
             "Shanna - Bridal Novice"
@@ -15193,7 +15251,8 @@
             "Hríd - Resolute Prince",
             "Severa - Bitter Blossom"
           ]
-        }
+        },
+        "harmonized": { "5": ["Celica - Sunlit Priestesses"] }
       },
       "id": "Hone Atk 3",
       "name": "攻擊鼓舞3",
@@ -15364,7 +15423,8 @@
     "A/S Incite Hone": {
       "pool": {
         "emblem": { "5": ["Eirika - Of the Sacred"] },
-        "special": { "5": ["Claude - Distant Deer"] }
+        "special": { "5": ["Claude - Distant Deer"] },
+        "harmonized": { "5": ["Celica - Sunlit Priestesses"] }
       },
       "id": "A/S Incite Hone",
       "name": "攻速鼓舞・奮激",
@@ -15853,13 +15913,12 @@
           "4": [
             "Julius - Scion of Darkness",
             "Validar - Fell Architect",
-            "Solon - Church Shadow"
+            "Solon - Church Shadow",
+            "Excellus - Conqueror’s Wile"
           ],
           "5": ["Oliver - Admirer of Beauty"]
         },
-        "special": {
-          "5": ["Leo - Seashore's Prince", "Excellus - Conqueror’s Wile"]
-        }
+        "special": { "5": ["Leo - Seashore's Prince"] }
       },
       "id": "Atk Ploy 3",
       "name": "攻擊謀策3",
@@ -16128,7 +16187,9 @@
     "Pulse Smoke 3": {
       "pool": {
         "#": { "5": ["Ced - Hero on the Wind", "Igrene - Nabata Protector"] },
-        "grail": { "5": ["Jarod - Nevassa General"] },
+        "grail": {
+          "5": ["Fogado - Summer of Bliss", "Jarod - Nevassa General"]
+        },
         "legendary": {
           "5": ["Shez - Dual Sword Master", "Lilina - Firelight Leader"]
         },
@@ -17709,7 +17770,9 @@
         "#": { "5": ["Marth - Prince of Light", "Lucia - Tireless Advisor"] },
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "mythic": { "5": ["Líf - Lethal Swordsman", "Dagr - Sun's Radiance"] },
-        "special": { "5": ["Diamant - Gallant Ninja"] }
+        "special": {
+          "5": ["Diamant - Gallant Ninja", "Lapis - Forager of the Sea"]
+        }
       },
       "id": "Even Tempest 3",
       "name": "迅雷風烈・偶數3",
@@ -17738,6 +17801,14 @@
       "sp": 300,
       "icon": "skillC/Brutal_Tempest",
       "rules": "learner.infantry-flying-melee"
+    },
+    "Pulse Tempest F": {
+      "pool": { "special": { "5": ["Lapis - Forager of the Sea"] } },
+      "id": "Pulse Tempest F",
+      "name": "迅雷風烈・追擊躍動",
+      "sp": 300,
+      "icon": "skillC/Pulse_Tempest_F",
+      "rules": "learner.infantry-melee"
     },
     "Assault Troop 3": {
       "pool": {

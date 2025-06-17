@@ -6725,6 +6725,34 @@
       "Inf. Null Follow 4": 5
     }
   },
+  "Celica - Sunlit Priestesses": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 3,
+      "Pious Offering": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4,
+      "Magic Light": 5
+    },
+    "skillA": {
+      "Death Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Sly Swift Sparrow": 5
+    },
+    "skillB": {
+      "Holy Soul of Zofia": 5
+    },
+    "skillC": {
+      "Hone Atk 1": 2,
+      "Hone Atk 2": 3,
+      "Hone Atk 3": 4,
+      "A/S Incite Hone": 5
+    }
+  },
   "Mae - Bundle of Energy": {
     "weapon": {
       "Thunder": 1,
@@ -7117,6 +7145,29 @@
       "Atk/Res Rein 1": 1,
       "Atk/Res Rein 2": 2,
       "Atk/Res Rein 3": 4
+    }
+  },
+  "Palla - Soaring Summer": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Fannin' Foliage": 3,
+      "Fannin' Foliage+": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillB": {
+      "A/D Near Trace 1": 2,
+      "A/D Near Trace 2": 3,
+      "A/D Near Trace 3": 4,
+      "A/D Near Trace 4": 5
+    },
+    "skillC": {
+      "Atk/Def Rein 1": 1,
+      "Atk/Def Rein 2": 2,
+      "Atk/Def Rein 3": 4
     }
   },
   "Catria - Mild Middle Sister": {
@@ -14549,6 +14600,34 @@
     },
     "skillX": {
       "Fleeting Echo": 5
+    }
+  },
+  "Nino - Burst of Summer": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bolganone": 3,
+      "Bouncin' Ball": 5
+    },
+    "special": {
+      "Daylight": 3,
+      "Noontime": 4,
+      "Flare": 5
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Perfect Atk/Spd": 5
+    },
+    "skillB": {
+      "Lull Spd/Res 1": 2,
+      "Lull Spd/Res 2": 3,
+      "Lull Spd/Res 3": 4,
+      "S/R Lull Finish": 5
+    },
+    "skillC": {
+      "Black Fang Bond": 5
     }
   },
   "Legault - The Hurricane": {
@@ -30523,6 +30602,37 @@
       "Panic Smoke 4": 5
     }
   },
+  "Lapis - Forager of the Sea": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Haulin' Harpoon": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Draconic Aura": 4,
+      "Haze Slice": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
+    },
+    "skillB": {
+      "Potent 1": 2,
+      "Potent 2": 3,
+      "Potent 3": 4,
+      "Potent Finish": 5
+    },
+    "skillC": {
+      "Even Tempest 1": 2,
+      "Even Tempest 2": 3,
+      "Even Tempest 3": 4,
+      "Pulse Tempest F": 5
+    }
+  },
   "Citrinne - Caring Noble": {
     "weapon": {
       "Wind": 1,
@@ -30880,6 +30990,28 @@
       "S/D Far Trace 2": 3,
       "S/D Far Trace 3": 4,
       "S/D Far Trace 4": 5
+    }
+  },
+  "Fogado - Summer of Bliss": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Tropical Juice": 3,
+      "Tropical Juice+": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 1,
+      "Atk/Spd Catch 2": 2,
+      "Atk/Spd Catch 3": 4
+    },
+    "skillC": {
+      "Pulse Smoke 1": 3,
+      "Pulse Smoke 2": 4,
+      "Pulse Smoke 3": 5
     }
   },
   "Pandreo - Party Priest": {

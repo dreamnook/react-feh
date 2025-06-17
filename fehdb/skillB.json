@@ -833,6 +833,14 @@
     "icon": "skillB/Full_Light_&_Dark",
     "last": true
   },
+  "Holy Soul of Zofia": {
+    "id": "Holy Soul of Zofia",
+    "name": "索菲亞之聖魂",
+    "sp": 300,
+    "exclusive": ["Celica - Sunlit Priestesses"],
+    "icon": "skillB/Holy_Soul_of_Zofia",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -4193,6 +4201,15 @@
     "icon": "skillB/Lull_Spd_Res_4",
     "last": true
   },
+  "S/R Lull Finish": {
+    "id": "S/R Lull Finish",
+    "name": "奧秘・速魔靜謐",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Lull Spd/Res 3"],
+    "icon": "skillB/S_R_Lull_Finish",
+    "last": true
+  },
   "Repel 1": {
     "id": "Repel 1",
     "name": "迴避・擊退1",
@@ -4512,6 +4529,15 @@
     "prev": ["A/D Near Trace 2"],
     "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/A_D_Near_Trace_3",
+    "last": true
+  },
+  "A/D Near Trace 4": {
+    "id": "A/D Near Trace 4",
+    "name": "攻擊防守近影4",
+    "sp": 300,
+    "prev": ["A/D Near Trace 3"],
+    "rules": "learner.cavalry-flying-melee",
+    "icon": "skillB/A_D_Near_Trace_4",
     "last": true
   },
   "A/R Near Trace 1": {

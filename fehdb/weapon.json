@@ -8260,6 +8260,16 @@
       "exclusive": ["Larcei - Bride of Astra"],
       "last": true
     },
+    "Haulin' Harpoon": {
+      "id": "Haulin' Harpoon",
+      "name": "呼喚豐收的捕魚叉",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Lapis - Forager of the Sea"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -14310,6 +14320,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Spring-Air Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Fannin' Foliage": {
+      "id": "Fannin' Foliage",
+      "name": "椰樹之葉",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Fannin' Foliage+": {
+      "id": "Fannin' Foliage+",
+      "name": "椰樹之葉+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Fannin' Foliage"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -20443,6 +20486,39 @@
         }
       },
       "last": true
+    },
+    "Tropical Juice": {
+      "id": "Tropical Juice",
+      "name": "南國的果汁",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Tropical Juice+": {
+      "id": "Tropical Juice+",
+      "name": "南國的果汁+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Tropical Juice"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "beast": {
@@ -23254,6 +23330,16 @@
       },
       "last": true
     },
+    "Bouncin' Ball": {
+      "id": "Bouncin' Ball",
+      "name": "在大海彈跳的球",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Nino - Burst of Summer"],
+      "last": true
+    },
     "Arcane Eclipse": {
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
@@ -23768,14 +23854,14 @@
     },
     "Rauðrsparrow": {
       "id": "Rauðrsparrow",
-      "name": "赤紅之燕",
+      "name": "赤紅麻雀",
       "mt": 8,
       "sp": 200,
       "prev": ["Elfire", "Ruin"]
     },
     "Rauðrsparrow+": {
       "id": "Rauðrsparrow+",
-      "name": "赤紅之燕+",
+      "name": "赤紅麻雀+",
       "mt": 12,
       "sp": 300,
       "prev": ["Rauðrsparrow"],
@@ -29358,6 +29444,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Julia - Brides of Light"],
+      "last": true
+    },
+    "Pious Offering": {
+      "id": "Pious Offering",
+      "name": "虔誠信徒的供品",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Celica - Sunlit Priestesses"],
       "last": true
     },
     "Stone": {

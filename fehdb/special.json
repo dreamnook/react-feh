@@ -744,6 +744,15 @@
     "rules": "not.white-staff",
     "last": true
   },
+  "Magic Light": {
+    "id": "Magic Light",
+    "name": "魔光",
+    "sp": 500,
+    "cd": 3,
+    "prev": ["Luna"],
+    "rules": ["tome"],
+    "last": true
+  },
   "Night Sky": {
     "id": "Night Sky",
     "name": "星影",

@@ -2713,6 +2713,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Grima - Tyrant of Ruin": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 207,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Scowl 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -5945,6 +5957,19 @@
     "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Close Guard 3": { "sp": 240, "rarity": 4 } }
   },
+  "Fogado - Summer of Bliss": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 185,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
+  },
   "Xander - Focused Firstborn": {
     "score": 299,
     "scoreTotal": 665,
@@ -6590,18 +6615,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Grima - Tyrant of Ruin": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 207,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Scowl 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -9731,6 +9744,19 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Def Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Assault Troop 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Palla - Soaring Summer": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillB": { "A/D Near Trace 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Dagr - New Year Jötnar": {
     "score": 318,
@@ -13576,20 +13602,6 @@
     "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Atk Wave 3": { "sp": 240, "rarity": 5 } }
   },
-  "Excellus - Conqueror’s Wile": {
-    "score": 318,
-    "scoreTotal": 1039,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 980,
-    "feather": 1000,
-    "bst": 188,
-    "assist": { "Rally Up Atk": { "sp": 300, "rarity": 5 } },
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Def/Res Ruse 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 5 } }
-  },
   "Líf - Undying Ties Duo": {
     "score": 318,
     "scoreTotal": 1039,
@@ -14724,6 +14736,20 @@
     "skillB": { "Chill Atk 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Fliers": { "sp": 200, "rarity": 5 } }
   },
+  "Excellus - Conqueror’s Wile": {
+    "score": 403,
+    "scoreTotal": 1149,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 150,
+    "bst": 188,
+    "assist": { "Rally Up Atk": { "sp": 300, "rarity": 4 } },
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Def/Res Ruse 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
   "Camilla - Midnight Bloom": {
     "score": 318,
     "scoreTotal": 1166,
@@ -15102,6 +15128,19 @@
     "skillB": { "Clever Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "Lower Ground": { "sp": 300, "rarity": 5 } }
   },
+  "Celica - Sunlit Priestesses": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Magic Light": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Sly Swift Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
+  },
   "Claude - Golden Breeze": {
     "score": 530,
     "scoreTotal": 1166,
@@ -15166,6 +15205,19 @@
     "special": { "Curved Shot": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
+  },
+  "Nino - Burst of Summer": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Flare": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Lull Finish": { "sp": 300, "rarity": 5 } }
   },
   "Seliph - Light's Legacy": {
     "score": 530,
@@ -15955,6 +16007,20 @@
     "skillA": { "Atk/Def Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "A/D Spiked Wall": { "sp": 300, "rarity": 5 } },
     "skillC": { "Endless Tempest": { "sp": 300, "rarity": 5 } }
+  },
+  "Lapis - Forager of the Sea": {
+    "score": 530,
+    "scoreTotal": 1484,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Haze Slice": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Potent Finish": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse Tempest F": { "sp": 300, "rarity": 5 } }
   },
   "Nagi - Hopeful Eternity": {
     "score": 530,
