@@ -2828,6 +2828,30 @@
       "icon": "skillB/Wrathful_Staff_3",
       "last": true
     },
+    "Dazzling Staff 1": {
+      "id": "Dazzling Staff 1",
+      "name": "幻惑之杖1",
+      "sp": 60,
+      "rules": "white-staff",
+      "icon": "skillB/Dazzling_Staff_1"
+    },
+    "Dazzling Staff 2": {
+      "id": "Dazzling Staff 2",
+      "name": "幻惑之杖2",
+      "sp": 120,
+      "prev": ["Dazzling Staff 1"],
+      "rules": "white-staff",
+      "icon": "skillB/Dazzling_Staff_2"
+    },
+    "Dazzling Staff 3": {
+      "id": "Dazzling Staff 3",
+      "name": "幻惑之杖3",
+      "sp": 240,
+      "prev": ["Dazzling Staff 2"],
+      "rules": "white-staff",
+      "icon": "skillB/Dazzling_Staff_3",
+      "last": true
+    },
     "Flier Formation 1": {
       "id": "Flier Formation 1",
       "name": "編隊飛行1",
@@ -4679,6 +4703,30 @@
       "prev": ["Rouse Spd/Def 2"],
       "rules": "learner.infantry-cavalry",
       "icon": "skillC/Rouse_Spd_Def_3",
+      "last": true
+    },
+    "Rouse Spd/Res 1": {
+      "id": "Rouse Spd/Res 1",
+      "name": "速度魔防的奮起1",
+      "sp": 60,
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Spd_Res_1"
+    },
+    "Rouse Spd/Res 2": {
+      "id": "Rouse Spd/Res 2",
+      "name": "速度魔防的奮起2",
+      "sp": 120,
+      "prev": ["Rouse Spd/Res 1"],
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Spd_Res_2"
+    },
+    "Rouse Spd/Res 3": {
+      "id": "Rouse Spd/Res 3",
+      "name": "速度魔防的奮起3",
+      "sp": 240,
+      "prev": ["Rouse Spd/Res 2"],
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Spd_Res_3",
       "last": true
     },
     "Rouse Def/Res 1": {
