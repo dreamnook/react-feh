@@ -29456,6 +29456,16 @@
       "exclusive": ["Celica - Sunlit Priestesses"],
       "last": true
     },
+    "Maiden's Tome": {
+      "id": "Maiden's Tome",
+      "name": "拂曉巫女之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Micaiah - Of Dawn"],
+      "last": true
+    },
     "Stone": {
       "id": "Stone",
       "name": "洛克",

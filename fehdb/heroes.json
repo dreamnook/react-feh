@@ -11668,7 +11668,7 @@
     "id": "Palla - Soaring Summer",
     "title": "與天馬飛翔的夏天",
     "name": "帕奧拉",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "weaponType": "green-axe",
     "moveType": "flying",
@@ -11676,12 +11676,26 @@
     "appearsIn": ["Echoes"],
     "releaseDate": "2025-06-17",
     "stats": {
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [44, 47, 50],
+        "spd": [13, 16, 19],
+        "def": [40, 44, 47],
+        "res": [34, 37, 41]
+      },
       "5": {
         "hp": [37, 41, 44],
         "atk": [46, 49, 53],
         "spd": [15, 18, 21],
         "def": [42, 46, 49],
         "res": [37, 40, 44]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 2,
+        "def": 13,
+        "res": 9
       },
       "5-1": {
         "hp": 19,
@@ -31373,6 +31387,41 @@
     "book": 8,
     "ver": "8.6",
     "dfKey": 6
+  },
+  "Micaiah - Of Dawn": {
+    "id": "Micaiah - Of Dawn",
+    "title": "拂曉紋章士",
+    "name": "米卡雅",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "infantry",
+    "pool": "emblem",
+    "appearsIn": ["Radiant Dawn", "Engage"],
+    "releaseDate": "2025-06-30",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [46, 49, 53],
+        "spd": [26, 30, 33],
+        "def": [16, 20, 23],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 7,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 188,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.6",
+    "dfKey": 7
   },
   "Sothe - Zephyr": {
     "id": "Sothe - Zephyr",

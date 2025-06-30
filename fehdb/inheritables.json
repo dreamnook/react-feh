@@ -3441,6 +3441,7 @@
           ]
         },
         "rearmed": { "5": ["Lucina - Fate's Resolve"] },
+        "emblem": { "5": ["Micaiah - Of Dawn"] },
         "legendary": {
           "5": ["Yuri - Underground Lord", "Lucina - Glorious Archer"]
         },
@@ -4128,7 +4129,7 @@
         "grail": {
           "4": ["Claude - Yuletide Schemer", "Itsuki - Finding a Path"]
         },
-        "emblem": { "5": ["Ike - Of Radiance"] },
+        "emblem": { "5": ["Ike - Of Radiance", "Micaiah - Of Dawn"] },
         "legendary": {
           "5": ["Ephraim - Legendary Lord", "Ike - Vanguard Legend"]
         },
@@ -5221,11 +5222,14 @@
           ]
         },
         "special": {
-          "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
+          "4": [
+            "Manuela - Silver Caroler",
+            "Hana - Striving Heart",
+            "Palla - Soaring Summer"
+          ],
           "5": [
             "Jakob - Devoted Monster",
             "Cherche - Shaded by Wings",
-            "Palla - Soaring Summer",
             "Reginn - Bearing Dawn",
             "Robin - Fated Vessel",
             "Gustav - Majestic Love",
@@ -6508,6 +6512,7 @@
         "rearmed": {
           "5": ["Plumeria - Rapturous Dream", "Marianne - Cursed Blessing"]
         },
+        "emblem": { "5": ["Micaiah - Of Dawn"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
         "special": {
@@ -6557,6 +6562,7 @@
       "pool": {
         "#": { "5": ["Veyle - Fell Successor"] },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
+        "emblem": { "5": ["Micaiah - Of Dawn"] },
         "special": { "5": ["Veyle - Spring Tranquility", "Leo - Dark Sprout"] },
         "duo": { "5": ["Heiðrún - Sisters of Healing"] }
       },
@@ -11666,6 +11672,7 @@
           ]
         },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
+        "emblem": { "5": ["Micaiah - Of Dawn"] },
         "legendary": {
           "5": ["Deirdre - Fated Saint", "Lilina - Firelight Leader"]
         },
@@ -11743,7 +11750,10 @@
       "rules": "learner.infantry-flying"
     },
     "Atk/Res Havoc": {
-      "pool": { "#": { "5": ["Gotoh - Apostle of Naga"] } },
+      "pool": {
+        "#": { "5": ["Gotoh - Apostle of Naga"] },
+        "emblem": { "5": ["Micaiah - Of Dawn"] }
+      },
       "id": "Atk/Res Havoc",
       "name": "攻擊魔防大擾亂",
       "sp": 300,
@@ -13456,7 +13466,8 @@
       "pool": {
         "#": { "5": ["Gustav - Sovereign Slain"] },
         "special": {
-          "5": ["Cherche - Shaded by Wings", "Palla - Soaring Summer"]
+          "4": ["Palla - Soaring Summer"],
+          "5": ["Cherche - Shaded by Wings"]
         },
         "harmonized": { "5": ["Catria - Azure Wing Pair"] }
       },
@@ -14994,10 +15005,10 @@
         "legendary": { "5": ["Caeda - Beloved Queen"] },
         "mythic": { "5": ["Altina - Dawn's Trueblade"] },
         "special": {
+          "4": ["Palla - Soaring Summer"],
           "5": [
             "Sothe - Rushing Dawn",
             "Cherche - Shaded by Wings",
-            "Palla - Soaring Summer",
             "Plumeria - Temptation Anew",
             "Laevatein - Ninja of Múspell",
             "Shanna - Bridal Novice"
@@ -18204,6 +18215,22 @@
       "sp": 120,
       "icon": "skillC/Beast_Valor_3",
       "rules": "beast"
+    },
+    "Silence Ward 3": {
+      "pool": { "emblem": { "5": ["Micaiah - Of Dawn"] } },
+      "id": "Silence Ward 3",
+      "name": "沉默防禦3",
+      "sp": 240,
+      "icon": "skillC/Silence_Ward_3",
+      "rules": "learner.infantry-armored-flying-ranged-res-dmger"
+    },
+    "Silence Ward 4": {
+      "pool": { "emblem": { "5": ["Micaiah - Of Dawn"] } },
+      "id": "Silence Ward 4",
+      "name": "沉默防禦4",
+      "sp": 300,
+      "icon": "skillC/Silence_Ward_4",
+      "rules": "learner.infantry-armored-flying-ranged-res-dmger"
     }
   },
   "skillX": {

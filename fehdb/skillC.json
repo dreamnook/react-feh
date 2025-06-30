@@ -4880,5 +4880,38 @@
     "rules": "beast",
     "icon": "skillC/Beast_Valor_3",
     "last": true
+  },
+  "Silence Ward 1": {
+    "id": "Silence Ward 1",
+    "name": "沉默防禦1",
+    "sp": 60,
+    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
+    "icon": "skillC/Silence_Ward_1"
+  },
+  "Silence Ward 2": {
+    "id": "Silence Ward 2",
+    "name": "沉默防禦2",
+    "sp": 120,
+    "prev": ["Silence Ward 1"],
+    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
+    "icon": "skillC/Silence_Ward_2"
+  },
+  "Silence Ward 3": {
+    "id": "Silence Ward 3",
+    "name": "沉默防禦3",
+    "sp": 240,
+    "prev": ["Silence Ward 2"],
+    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
+    "icon": "skillC/Silence_Ward_3",
+    "last": true
+  },
+  "Silence Ward 4": {
+    "id": "Silence Ward 4",
+    "name": "沉默防禦4",
+    "sp": 300,
+    "prev": ["Silence Ward 3"],
+    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
+    "icon": "skillC/Silence_Ward_4",
+    "last": true
   }
 }

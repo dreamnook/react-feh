@@ -18116,6 +18116,40 @@
       "Far Trace Echo": 5
     }
   },
+  "Micaiah - Of Dawn": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 3,
+      "Maiden's Tome": 5
+    },
+    "assist": {
+      "Swap": 3
+    },
+    "special": {
+      "Daylight": 3,
+      "Sol": 4,
+      "Great Sacrifice": 5
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Crystalline Water": 5
+    },
+    "skillB": {
+      "Sabotage Res 1": 2,
+      "Sabotage Res 2": 3,
+      "Sabotage Res 3": 4,
+      "Atk/Res Havoc": 5
+    },
+    "skillC": {
+      "Silence Ward 1": 2,
+      "Silence Ward 2": 3,
+      "Silence Ward 3": 4,
+      "Silence Ward 4": 5
+    }
+  },
   "Sothe - Zephyr": {
     "weapon": {
       "Iron Dagger": 1,

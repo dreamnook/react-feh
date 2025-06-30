@@ -3813,6 +3813,19 @@
     "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
   },
+  "Palla - Soaring Summer": {
+    "score": 196,
+    "scoreTotal": 455,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 300,
+    "bst": 194,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "A/D Near Trace 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 4 } }
+  },
   "Morgan - Lad from Afar": {
     "score": 199,
     "scoreTotal": 461,
@@ -9745,19 +9758,6 @@
     "skillA": { "Atk/Def Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Assault Troop 3": { "sp": 240, "rarity": 5 } }
   },
-  "Palla - Soaring Summer": {
-    "score": 318,
-    "scoreTotal": 784,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 194,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillB": { "A/D Near Trace 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
-  },
   "Dagr - New Year Jötnar": {
     "score": 318,
     "scoreTotal": 784,
@@ -14749,6 +14749,21 @@
     "special": { "Glacies": { "sp": 200, "rarity": 4 } },
     "skillB": { "Def/Res Ruse 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Micaiah - Of Dawn": {
+    "score": 276,
+    "scoreTotal": 1150,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 300,
+    "spTotal": 1250,
+    "feather": 1000,
+    "bst": 188,
+    "assist": { "Swap": { "sp": 150, "rarity": 5 } },
+    "special": { "Sol": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Havoc": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Silence Ward 4": { "sp": 300, "rarity": 5 } }
   },
   "Camilla - Midnight Bloom": {
     "score": 318,

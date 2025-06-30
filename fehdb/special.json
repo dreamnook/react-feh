@@ -658,6 +658,15 @@
     "exclusive": ["Black Knight - Mortal Legend"],
     "last": true
   },
+  "Great Sacrifice": {
+    "id": "Great Sacrifice",
+    "name": "大治癒之手",
+    "sp": 500,
+    "cd": 3,
+    "prev": ["Sol"],
+    "exclusive": ["Micaiah - Of Dawn"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

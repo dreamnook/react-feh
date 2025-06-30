@@ -235,6 +235,10 @@
     "weaponType": 16777207,
     "moveType": 3
   },
+  "learner.infantry-armored-flying-ranged-res-dmger": {
+    "moveType": 11,
+    "weaponType": 61448
+  },
   "learner.infantry-cavalry-not-staff": {
     "weaponType": 16777207,
     "moveType": 5
