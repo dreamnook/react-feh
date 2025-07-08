@@ -6837,19 +6837,6 @@
     "skillA": { "Atk/Def Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Def Bulwark 3": { "sp": 240, "rarity": 5 } }
   },
-  "Embla - God of Closure": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 183,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Beast Agility 3": { "sp": 240, "rarity": 5 } }
-  },
   "Medeus - Earth-Dragon King": {
     "score": 276,
     "scoreTotal": 681,
@@ -7926,6 +7913,19 @@
     "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Res Tempo 4": { "sp": 300, "rarity": 5 } }
   },
+  "Embla - God of Closure": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Bestial Assault": { "sp": 300, "rarity": 5 } }
+  },
   "Eitri - Youthful Sage": {
     "score": 276,
     "scoreTotal": 736,
@@ -7989,7 +7989,7 @@
     "bst": 190,
     "special": { "Miracle": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Atk/Spd Menace": { "sp": 300, "rarity": 5 } }
+    "skillC": { "Even Atk Wave N": { "sp": 300, "rarity": 5 } }
   },
   "Myrrh - Guardian Dragon": {
     "score": 276,

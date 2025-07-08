@@ -3000,6 +3000,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Nanna - Beloved Princess"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Lands_Sword_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Sturdy War Sword": {
@@ -7103,6 +7126,29 @@
       "atk": 3,
       "sp": 400,
       "exclusive": ["Dimitri - Savage Boar"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Vengeful_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Hrímfaxi": {
@@ -21144,6 +21190,29 @@
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Kaden - Refreshed Kitsune"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Refreshed_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Resolved Fang": {
@@ -21385,6 +21454,29 @@
       "sp": 400,
       "prev": ["Adult (Flier)"],
       "exclusive": ["Embla - God of Closure"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Enclosing_Claw_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Heralding Horn": {
@@ -23338,6 +23430,36 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Nino - Burst of Summer"],
+      "last": true
+    },
+    "Cardinal's Tome": {
+      "id": "Cardinal's Tome",
+      "name": "樞機卿之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Aelfric - Custodian Monk"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Cardinal's_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arcane Eclipse": {
@@ -27624,6 +27746,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Pent - Mage General"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Tome_of_Reglay_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Professorial Text": {
@@ -28012,6 +28156,36 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Tharja - Gloomy Mage"],
+      "last": true
+    },
+    "Recluse's Tome": {
+      "id": "Recluse's Tome",
+      "name": "隱遁者之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Luthier - Odd Wayfarer"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Recluse's_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arc. Caliburnus": {

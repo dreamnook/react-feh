@@ -14094,7 +14094,10 @@
       "rules": "beast"
     },
     "Bestial Assault": {
-      "pool": { "special": { "5": ["Hræsvelgr - Wings of Healing"] } },
+      "pool": {
+        "mythic": { "5": ["Embla - God of Closure"] },
+        "special": { "5": ["Hræsvelgr - Wings of Healing"] }
+      },
       "id": "Bestial Assault",
       "name": "獸影・強攻",
       "sp": 300,
@@ -17134,6 +17137,7 @@
           "4": ["Delthea - Tatarrah's Puppet", "Ashnard - Mad King"],
           "5": ["Muarim - Raw Instinct"]
         },
+        "legendary": { "5": ["Nanna - Beloved Princess"] },
         "special": {
           "5": ["Caspar - Summer Intensity", "Kagero - Beverage Ninja"]
         },
@@ -17147,6 +17151,7 @@
     "Even Atk Wave N": {
       "pool": {
         "#": { "5": ["Merrin - Suave Knight"] },
+        "legendary": { "5": ["Nanna - Beloved Princess"] },
         "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
       "id": "Even Atk Wave N",

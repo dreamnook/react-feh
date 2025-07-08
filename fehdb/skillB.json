@@ -488,9 +488,18 @@
     "icon": "skillB/Faithful_Loyalty",
     "last": true
   },
+  "Hoðr's Zeal II": {
+    "id": "Hoðr's Zeal II",
+    "name": "赫哲爾的聖戰士・承",
+    "sp": 300,
+    "prev": ["Hoðr's Zeal"],
+    "exclusive": ["Nanna - Beloved Princess"],
+    "icon": "skillB/Hoðr's_Zeal_II",
+    "last": true
+  },
   "Hoðr's Zeal": {
     "id": "Hoðr's Zeal",
-    "name": "赫哲爾的戰士",
+    "name": "赫哲爾的聖戰士",
     "sp": 300,
     "exclusive": ["Nanna - Beloved Princess"],
     "icon": "skillB/Hoðr's_Zeal",

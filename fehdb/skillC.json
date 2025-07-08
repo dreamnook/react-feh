@@ -403,6 +403,15 @@
     "icon": "skillC/All_Together!",
     "last": true
   },
+  "Severance+": {
+    "id": "Severance+",
+    "name": "一切都被封……・神",
+    "sp": 300,
+    "prev": ["Severance"],
+    "exclusive": ["Embla - God of Closure"],
+    "icon": "skillC/Severance+",
+    "last": true
+  },
   "Severance": {
     "id": "Severance",
     "name": "一切都被封閉的世界",
