@@ -4600,6 +4600,18 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 4": { "sp": 300, "rarity": 5 } }
   },
+  "Eikþyrnir - Fit for Waves": {
+    "score": 318,
+    "scoreTotal": 530,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Wild": { "sp": 300, "rarity": 5 } }
+  },
   "Bruno - Masked Reveler": {
     "score": 249,
     "scoreTotal": 534,
@@ -6255,6 +6267,19 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Balthus - Summer's Big Bet": {
+    "score": 254,
+    "scoreTotal": 668,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 198,
+    "assist": { "Smite": { "sp": 150, "rarity": 5 } },
+    "skillB": { "Atk/Def Bulwark 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 5 } }
   },
   "Corrin - Enjoying Tradition": {
     "score": 374,
@@ -9862,6 +9887,19 @@
     "special": { "Growing Flame": { "sp": 300, "rarity": 4 } },
     "skillA": { "Atk/Def Solo 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def Smoke 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Yuri - Tropical Wolf": {
+    "score": 318,
+    "scoreTotal": 795,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 750,
+    "feather": 1000,
+    "bst": 185,
+    "assist": { "Swap": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Waylay": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Full Disarm": { "sp": 300, "rarity": 5 } }
   },
   "Arthur - Furious Mage": {
     "score": 300,
@@ -15325,6 +15363,19 @@
     "skillA": { "D Bonus Doubler": { "sp": 300, "rarity": 5 } },
     "skillB": { "Reopening": { "sp": 300, "rarity": 5 } }
   },
+  "Heiðrún - Peaceful Horizon": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Def/Res Fortune": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } }
+  },
   "Malice - Blooming Blade": {
     "score": 530,
     "scoreTotal": 1166,
@@ -15763,6 +15814,20 @@
     "skillA": { "Flash Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd/Def Tempo 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Pulse Up: Blades": { "sp": 300, "rarity": 5 } }
+  },
+  "Hapi - Eternal Sunlit Pair": {
+    "score": 318,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 215,
+    "special": { "Blazing Light": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Verge of Death": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Far Resound": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Crux": { "sp": 300, "rarity": 5 } }
   },
   "Byleth - Proven Professor": {
     "score": 500,

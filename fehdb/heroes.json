@@ -4787,6 +4787,41 @@
     "ver": "9.0",
     "dfKey": 7
   },
+  "Heiðrún - Peaceful Horizon": {
+    "id": "Heiðrún - Peaceful Horizon",
+    "title": "安逸的水平線",
+    "name": "海德倫",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-beast",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-07-08",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [42, 46, 49],
+        "spd": [15, 18, 21],
+        "def": [42, 46, 49],
+        "res": [45, 48, 52]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 13,
+        "spd": 3,
+        "def": 13,
+        "res": 9
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.7",
+    "dfKey": 7
+  },
   "Eikþyrnir - Quieting Strength": {
     "id": "Eikþyrnir - Quieting Strength",
     "title": "身體的葬送者",
@@ -4871,6 +4906,41 @@
     "statMax": 190,
     "book": 9,
     "ver": "9.0",
+    "dfKey": 7
+  },
+  "Eikþyrnir - Fit for Waves": {
+    "id": "Eikþyrnir - Fit for Waves",
+    "title": "鍛鍊的巨浪",
+    "name": "艾克米爾尼爾",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-beast",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-07-08",
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [46, 49, 53],
+        "spd": [13, 17, 20],
+        "def": [46, 49, 53],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 10,
+        "spd": 4,
+        "def": 10,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["spd", "res"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.7",
     "dfKey": 7
   },
   "Læraðr - Quieting Heart": {
@@ -50542,6 +50612,41 @@
     "ver": "7.3",
     "dfKey": 5
   },
+  "Yuri - Tropical Wolf": {
+    "id": "Yuri - Tropical Wolf",
+    "title": "南國的灰狼",
+    "name": "尤里斯",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-dagger",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-07-08",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [41, 44, 47],
+        "spd": [45, 48, 52],
+        "def": [22, 25, 28],
+        "res": [23, 27, 30]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 9,
+        "spd": 9,
+        "def": 8,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.7",
+    "dfKey": 7
+  },
   "Balthus - King of Grappling": {
     "id": "Balthus - King of Grappling",
     "title": "雷斯塔格鬥王",
@@ -50603,6 +50708,41 @@
     "book": 5,
     "ver": "5.9",
     "dfKey": 4
+  },
+  "Balthus - Summer's Big Bet": {
+    "id": "Balthus - Summer's Big Bet",
+    "title": "盛夏的大對決",
+    "name": "巴魯塔札爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-07-08",
+    "stats": {
+      "5": {
+        "hp": [44, 47, 50],
+        "atk": [46, 49, 53],
+        "spd": [28, 31, 34],
+        "def": [41, 45, 48],
+        "res": [23, 26, 30]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 10,
+        "spd": 7,
+        "def": 12,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["def"],
+    "statMin": 198,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.7",
+    "dfKey": 7
   },
   "Constance - Fallen Noble": {
     "id": "Constance - Fallen Noble",
@@ -50671,6 +50811,42 @@
     "book": 5,
     "ver": "5.9",
     "dfKey": 4
+  },
+  "Hapi - Eternal Sunlit Pair": {
+    "id": "Hapi - Eternal Sunlit Pair",
+    "title": "四季如夏的兩人",
+    "name": "哈琵",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-tome",
+    "moveType": "flying",
+    "pool": "duo",
+    "bst": 215,
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-07-08",
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [45, 48, 52],
+        "spd": [43, 46, 49],
+        "def": [13, 17, 20],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 9,
+        "spd": 11,
+        "def": 4,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["def", "res"],
+    "statMin": 184,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.7",
+    "dfKey": 7
   },
   "Aelfric - Custodian Monk": {
     "id": "Aelfric - Custodian Monk",

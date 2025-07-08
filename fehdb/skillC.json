@@ -692,6 +692,22 @@
     "icon": "skillC/Black_Fang_Bond",
     "last": true
   },
+  "Sweet Nectar": {
+    "id": "Sweet Nectar",
+    "name": "神獸的甘甜蜜露",
+    "sp": 300,
+    "exclusive": ["Heiðrún - Peaceful Horizon"],
+    "icon": "skillC/Sweet_Nectar",
+    "last": true
+  },
+  "The True Dromi": {
+    "id": "The True Dromi",
+    "name": "真・多羅米的鎖環",
+    "sp": 300,
+    "exclusive": ["Yuri - Tropical Wolf"],
+    "icon": "skillC/The_True_Dromi",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

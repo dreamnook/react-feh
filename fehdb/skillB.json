@@ -850,6 +850,14 @@
     "icon": "skillB/Holy_Soul_of_Zofia",
     "last": true
   },
+  "Divine Brawn": {
+    "id": "Divine Brawn",
+    "name": "神獸的強悍肉體",
+    "sp": 300,
+    "exclusive": ["Eikþyrnir - Fit for Waves"],
+    "icon": "skillB/Divine_Brawn",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -5654,6 +5662,15 @@
     "rules": "learner.cavalry-flying-tome-staff",
     "prev": ["Resonance 3", "A/R Far Trace 3"],
     "icon": "skillB/A_R_Far_Resound",
+    "last": true
+  },
+  "S/R Far Resound": {
+    "id": "S/R Far Resound",
+    "name": "共鳴・速魔遠影",
+    "sp": 300,
+    "rules": "learner.cavalry-flying-tome-staff",
+    "prev": ["Resonance 3", "S/R Far Trace 3"],
+    "icon": "skillB/S_R_Far_Resound",
     "last": true
   },
   "Momentum 1": {

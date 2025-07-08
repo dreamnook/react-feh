@@ -2818,6 +2818,14 @@
     "icon": "skillA/Def_Res_Solo_4",
     "last": true
   },
+  "Atk/Spd Waylay": {
+    "id": "Atk/Spd Waylay",
+    "name": "攻擊速度的奇襲",
+    "sp": 300,
+    "rules": "dagger",
+    "icon": "skillA/Atk_Spd_Waylay",
+    "last": true
+  },
   "Atk/Spd Wild": {
     "id": "Atk/Spd Wild",
     "name": "攻擊速度的野性",
@@ -2825,6 +2833,15 @@
     "rules": "beast",
     "prev": ["Atk/Spd Solo 3"],
     "icon": "skillA/Atk_Spd_Wild",
+    "last": true
+  },
+  "Atk/Def Wild": {
+    "id": "Atk/Def Wild",
+    "name": "攻擊防守的野性",
+    "sp": 300,
+    "rules": "beast",
+    "prev": ["Atk/Def Solo 3"],
+    "icon": "skillA/Atk_Def_Wild",
     "last": true
   },
   "R Duel Infantry 1": {
@@ -3891,6 +3908,15 @@
     "rules": "beast",
     "prev": ["Atk/Res Form 3"],
     "icon": "skillA/Atk_Res_Fortune",
+    "last": true
+  },
+  "Def/Res Fortune": {
+    "id": "Def/Res Fortune",
+    "name": "防守魔防的共榮",
+    "sp": 300,
+    "rules": "beast",
+    "prev": ["Def/Res Form 3"],
+    "icon": "skillA/Def_Res_Fortune",
     "last": true
   },
   "Blade Session 1": {

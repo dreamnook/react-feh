@@ -841,6 +841,13 @@
         "name": "賈哈納之槍+",
         "sp": 300,
         "refine": 350
+      },
+      "Osseous Trident+": {
+        "pool": { "special": { "5": ["Balthus - Summer's Big Bet"] } },
+        "id": "Osseous Trident+",
+        "name": "銳骨之槍+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "green-axe": {
@@ -3449,6 +3456,7 @@
           "4": ["Lute - Summer Prodigy", "Kaden - Refreshed Kitsune"],
           "5": [
             "Xander - Spring Prince",
+            "Yuri - Tropical Wolf",
             "Hríd - Resolute Prince",
             "Lucina - Future Fondness"
           ]
@@ -3515,6 +3523,7 @@
           "4": ["Caspar - Summer Intensity", "Raphael - Muscle-Monger"],
           "5": [
             "Charlotte - Money Maiden",
+            "Balthus - Summer's Big Bet",
             "Niles - Forbidden Tease",
             "Laevatein - Bonfire's Blaze"
           ]
@@ -5129,6 +5138,7 @@
           ],
           "5": [
             "Hríd - Island Ice Prince",
+            "Eikþyrnir - Fit for Waves",
             "Xander - Student Swimmer",
             "Lissa - Pure Joy",
             "Myrrh - Spooky Monster",
@@ -5491,7 +5501,8 @@
             "Sakura - Gentle Nekomata",
             "Zephiel - Winter's Crown",
             "Céline - Teatime Ninja",
-            "Felicia - Off the Menu"
+            "Felicia - Off the Menu",
+            "Heiðrún - Peaceful Horizon"
           ]
         },
         "duo": { "5": ["Julia - Brides of Light"] }
@@ -5542,6 +5553,7 @@
     "Ice Wall": {
       "pool": {
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
+        "special": { "5": ["Heiðrún - Peaceful Horizon"] },
         "duo": { "5": ["Julia - Brides of Light"] }
       },
       "id": "Ice Wall",
@@ -5687,7 +5699,8 @@
             "Holst - Hero of Leicester"
           ]
         },
-        "emblem": { "5": ["Sigurd - Of the Holy War"] }
+        "emblem": { "5": ["Sigurd - Of the Holy War"] },
+        "duo": { "5": ["Hapi - Eternal Sunlit Pair"] }
       },
       "id": "Blazing Light",
       "name": "烈光",
@@ -6449,7 +6462,8 @@
         },
         "emblem": { "5": ["Celica - Of Echoes"] },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
-        "special": { "5": ["Say'ri - Righteous Bride"] }
+        "special": { "5": ["Say'ri - Righteous Bride"] },
+        "duo": { "5": ["Hapi - Eternal Sunlit Pair"] }
       },
       "id": "Life and Death 3",
       "name": "死線3",
@@ -6550,7 +6564,8 @@
     "Verge of Death": {
       "pool": {
         "#": { "5": ["Niðavellir - Founding King", "Ursula - Blackened Crow"] },
-        "emblem": { "5": ["Celica - Of Echoes"] }
+        "emblem": { "5": ["Celica - Of Echoes"] },
+        "duo": { "5": ["Hapi - Eternal Sunlit Pair"] }
       },
       "id": "Verge of Death",
       "name": "極限死線",
@@ -8607,6 +8622,7 @@
           "5": [
             "Lethe - New Year's Claw",
             "Freyja - Fleeting Summer",
+            "Yuri - Tropical Wolf",
             "Embla - Closed-Off Bride",
             "Fir - Student of Spring",
             "Bernadetta - Frosty Shut-In",
@@ -8672,7 +8688,11 @@
         "legendary": { "5": ["Ephraim - Legendary Lord"] },
         "special": {
           "4": ["Minerva - Verdant Dragoon"],
-          "5": ["Ryoma - Samurai at Ease", "Ephraim - Sparkling Gallantly"]
+          "5": [
+            "Eikþyrnir - Fit for Waves",
+            "Ryoma - Samurai at Ease",
+            "Ephraim - Sparkling Gallantly"
+          ]
         },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }
       },
@@ -8806,6 +8826,14 @@
       "sp": 300,
       "icon": "skillA/Def_Res_Solo_4"
     },
+    "Atk/Spd Waylay": {
+      "pool": { "special": { "5": ["Yuri - Tropical Wolf"] } },
+      "id": "Atk/Spd Waylay",
+      "name": "攻擊速度的奇襲",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Waylay",
+      "rules": "dagger"
+    },
     "Atk/Spd Wild": {
       "pool": {
         "special": {
@@ -8816,6 +8844,14 @@
       "name": "攻擊速度的野性",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Wild",
+      "rules": "beast"
+    },
+    "Atk/Def Wild": {
+      "pool": { "special": { "5": ["Eikþyrnir - Fit for Waves"] } },
+      "id": "Atk/Def Wild",
+      "name": "攻擊防守的野性",
+      "sp": 300,
+      "icon": "skillA/Atk_Def_Wild",
       "rules": "beast"
     },
     "R Duel Infantry 3": {
@@ -9287,7 +9323,10 @@
     "Def/Res Form 3": {
       "pool": {
         "grail": { "4": ["Limstella - Living Construct"] },
-        "special": { "4": ["Alfonse - Uplifting Love"] }
+        "special": {
+          "4": ["Alfonse - Uplifting Love"],
+          "5": ["Heiðrún - Peaceful Horizon"]
+        }
       },
       "id": "Def/Res Form 3",
       "name": "防守魔防的密集3",
@@ -9351,6 +9390,14 @@
       "name": "攻擊魔防的共榮",
       "sp": 300,
       "icon": "skillA/Atk_Res_Fortune",
+      "rules": "beast"
+    },
+    "Def/Res Fortune": {
+      "pool": { "special": { "5": ["Heiðrún - Peaceful Horizon"] } },
+      "id": "Def/Res Fortune",
+      "name": "防守魔防的共榮",
+      "sp": 300,
+      "icon": "skillA/Def_Res_Fortune",
       "rules": "beast"
     },
     "Blade Session 3": {
@@ -13022,6 +13069,7 @@
         "special": {
           "5": [
             "Flora - Polar-Perfect",
+            "Yuri - Tropical Wolf",
             "Shez - Snowfield Envoy",
             "Palla - Eldest Bun-Bun",
             "Gunnthrá - Beaming Smile",
@@ -13055,7 +13103,7 @@
     "Full Disarm": {
       "pool": {
         "aided": { "5": ["Yunaka - Hidden Mask"] },
-        "special": { "5": ["Shez - Snowfield Envoy"] }
+        "special": { "5": ["Yuri - Tropical Wolf", "Shez - Snowfield Envoy"] }
       },
       "id": "Full Disarm",
       "name": "解除陷阱・周到",
@@ -13647,6 +13695,7 @@
           "5": [
             "Gullveig - Glittering Sunlight",
             "Hinoka - Fair Pirate Pair",
+            "Hapi - Eternal Sunlit Pair",
             "Corrin - Nightfall Ninja Act"
           ]
         },
@@ -13904,6 +13953,7 @@
         },
         "special": {
           "5": [
+            "Balthus - Summer's Big Bet",
             "Ash - Earnest Greetings",
             "Altina - Unrivaled Dawn",
             "Diamant - Gallant Ninja"
@@ -14190,7 +14240,9 @@
       "pool": {
         "attuned": { "5": ["Timerra - Desert Warrior"] },
         "emblem": { "5": ["Ike - Of Radiance"] },
-        "special": { "5": ["Ike - Desert Mercenary"] },
+        "special": {
+          "5": ["Ike - Desert Mercenary", "Heiðrún - Peaceful Horizon"]
+        },
         "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
       "id": "Laguz Friend 3",
@@ -14203,6 +14255,7 @@
       "pool": {
         "attuned": { "5": ["Timerra - Desert Warrior"] },
         "emblem": { "5": ["Ike - Of Radiance"] },
+        "special": { "5": ["Heiðrún - Peaceful Horizon"] },
         "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
       "id": "Laguz Friend 4",
@@ -14267,6 +14320,14 @@
       "name": "共鳴・攻魔遠影",
       "sp": 300,
       "icon": "skillB/A_R_Far_Resound",
+      "rules": "learner.cavalry-flying-tome-staff"
+    },
+    "S/R Far Resound": {
+      "pool": { "duo": { "5": ["Hapi - Eternal Sunlit Pair"] } },
+      "id": "S/R Far Resound",
+      "name": "共鳴・速魔遠影",
+      "sp": 300,
+      "icon": "skillB/S_R_Far_Resound",
       "rules": "learner.cavalry-flying-tome-staff"
     },
     "Momentum 3": {
@@ -15086,6 +15147,7 @@
         "special": {
           "5": ["Ferdinand - Highborn Sipper", "Tharja - Florid Charmer"]
         },
+        "duo": { "5": ["Hapi - Eternal Sunlit Pair"] },
         "harmonized": {
           "5": [
             "Sonya - Dazzling Rabbits",
@@ -15206,6 +15268,7 @@
     "Spd/Res Crux": {
       "pool": {
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
+        "duo": { "5": ["Hapi - Eternal Sunlit Pair"] },
         "harmonized": {
           "5": ["Nephenee - Festival Harmony", "Chloé - Spring Wings"]
         }
@@ -17648,7 +17711,9 @@
         "#": { "3": ["Kamui - Wandering Blade"] },
         "grail": { "5": ["Haar - Tempest Runner", "Kyza - Tiger of Fortune"] },
         "mythic": { "5": ["Altina - Dawn's Trueblade"] },
-        "special": { "5": ["Juno - Nimble Grace"] }
+        "special": {
+          "5": ["Balthus - Summer's Big Bet", "Juno - Nimble Grace"]
+        }
       },
       "id": "Atk/Def Oath 3",
       "name": "攻擊防守的信義3",

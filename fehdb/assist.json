@@ -245,7 +245,11 @@
     "sp": 400,
     "prev": ["Swap"],
     "range": 1,
-    "exclusive": ["Yuri - Ashen Valiant", "Yuri - Underground Lord"],
+    "exclusive": [
+      "Yuri - Ashen Valiant",
+      "Yuri - Underground Lord",
+      "Yuri - Tropical Wolf"
+    ],
     "last": true
   },
   "Call to Flame": {
