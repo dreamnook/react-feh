@@ -18963,7 +18963,7 @@
     },
     "Tangy Sundae": {
       "id": "Tangy Sundae",
-      "name": "冰涼水果聖代",
+      "name": "冰涼的果實冰品",
       "mt": 14,
       "cd": -1,
       "sp": 400,
@@ -21779,7 +21779,6 @@
       "name": "夏日鍛鍊身體之角",
       "mt": 14,
       "cd": -1,
-      "atk": 2,
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Eikþyrnir - Fit for Waves"],
@@ -21787,10 +21786,9 @@
     },
     "Tropical Nectar": {
       "id": "Tropical Nectar",
-      "name": "南國的蜜露之角",
+      "name": "南國蜜露之角",
       "mt": 14,
       "cd": -1,
-      "atk": 2,
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Heiðrún - Peaceful Horizon"],
@@ -25756,7 +25754,7 @@
     },
     "Summer Chilling": {
       "id": "Summer Chilling",
-      "name": "乘涼的兩人與夏日刨冰",
+      "name": "避暑兩人的夏冰",
       "mt": 14,
       "cd": -1,
       "sp": 400,

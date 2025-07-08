@@ -8829,7 +8829,7 @@
     "Atk/Spd Waylay": {
       "pool": { "special": { "5": ["Yuri - Tropical Wolf"] } },
       "id": "Atk/Spd Waylay",
-      "name": "攻擊速度的奇襲",
+      "name": "攻擊速度奇襲",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Waylay",
       "rules": "dagger"

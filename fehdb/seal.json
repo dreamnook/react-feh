@@ -2993,6 +2993,30 @@
       "icon": "skillB/Torrent_Dance_3",
       "last": true
     },
+    "Atk/Def Link 1": {
+      "id": "Atk/Def Link 1",
+      "name": "攻擊防守連動1",
+      "sp": 60,
+      "rules": "not.white-staff",
+      "icon": "skillB/Atk_Def_Link_1"
+    },
+    "Atk/Def Link 2": {
+      "id": "Atk/Def Link 2",
+      "name": "攻擊防守連動2",
+      "sp": 120,
+      "prev": ["Atk/Def Link 1"],
+      "rules": "not.white-staff",
+      "icon": "skillB/Atk_Def_Link_2"
+    },
+    "Atk/Def Link 3": {
+      "id": "Atk/Def Link 3",
+      "name": "攻擊防守連動3",
+      "sp": 240,
+      "prev": ["Atk/Def Link 2"],
+      "rules": "not.white-staff",
+      "icon": "skillB/Atk_Def_Link_3",
+      "last": true
+    },
     "Atk/Spd Snag 1": {
       "id": "Atk/Spd Snag 1",
       "name": "攻擊速度干涉1",
@@ -3671,6 +3695,30 @@
       "prev": ["Spd/Def Rein 2"],
       "rules": "flying",
       "icon": "skillC/Spd_Def_Rein_3",
+      "last": true
+    },
+    "Spd/Res Rein 1": {
+      "id": "Spd/Res Rein 1",
+      "name": "速度魔防牽制1",
+      "sp": 60,
+      "rules": "flying",
+      "icon": "skillC/Spd_Res_Rein_1"
+    },
+    "Spd/Res Rein 2": {
+      "id": "Spd/Res Rein 2",
+      "name": "速度魔防牽制2",
+      "sp": 120,
+      "prev": ["Spd/Res Rein 1"],
+      "rules": "flying",
+      "icon": "skillC/Spd_Res_Rein_2"
+    },
+    "Spd/Res Rein 3": {
+      "id": "Spd/Res Rein 3",
+      "name": "速度魔防牽制3",
+      "sp": 240,
+      "prev": ["Spd/Res Rein 2"],
+      "rules": "flying",
+      "icon": "skillC/Spd_Res_Rein_3",
       "last": true
     },
     "Hone Atk 1": {
@@ -7447,6 +7495,36 @@
       "res": 3,
       "prev": ["Squad Ace CQ 2"],
       "icon": "seal/Squad_Ace_HP_Spd_Res_3",
+      "last": true
+    },
+    "Squad Ace CR 1": {
+      "id": "Squad Ace CR 1",
+      "name": "第９６迷宮的霸王1",
+      "sp": 120,
+      "hp": 3,
+      "def": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_HP_Def_Res_1"
+    },
+    "Squad Ace CR 2": {
+      "id": "Squad Ace CR 2",
+      "name": "第９６迷宮的霸王2",
+      "sp": 180,
+      "hp": 4,
+      "def": 2,
+      "res": 2,
+      "prev": ["Squad Ace CR 1"],
+      "icon": "seal/Squad_Ace_HP_Def_Res_2"
+    },
+    "Squad Ace CR 3": {
+      "id": "Squad Ace CR 3",
+      "name": "第９６迷宮的霸王3",
+      "sp": 240,
+      "hp": 5,
+      "def": 3,
+      "res": 3,
+      "prev": ["Squad Ace CR 2"],
+      "icon": "seal/Squad_Ace_HP_Def_Res_3",
       "last": true
     }
   }

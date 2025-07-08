@@ -852,7 +852,7 @@
   },
   "Divine Brawn": {
     "id": "Divine Brawn",
-    "name": "神獸的強悍肉體",
+    "name": "神獸的健壯肉體",
     "sp": 300,
     "exclusive": ["Eikþyrnir - Fit for Waves"],
     "icon": "skillB/Divine_Brawn",

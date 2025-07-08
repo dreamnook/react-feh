@@ -2820,7 +2820,7 @@
   },
   "Atk/Spd Waylay": {
     "id": "Atk/Spd Waylay",
-    "name": "攻擊速度的奇襲",
+    "name": "攻擊速度奇襲",
     "sp": 300,
     "rules": "dagger",
     "icon": "skillA/Atk_Spd_Waylay",
