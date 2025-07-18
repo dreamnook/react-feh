@@ -858,6 +858,14 @@
     "icon": "skillB/Divine_Brawn",
     "last": true
   },
+  "Hot-Blooded": {
+    "id": "Hot-Blooded",
+    "name": "熱血",
+    "sp": 300,
+    "exclusive": ["Machyua - Blade of Gales"],
+    "icon": "skillB/Hot-Blooded",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -1854,6 +1862,15 @@
     "prev": ["Seal Def/Res 2"],
     "rules": "not.white-staff",
     "icon": "skillB/Seal_Def_Res_3",
+    "last": true
+  },
+  "Arc-Fort Breath": {
+    "id": "Arc-Fort Breath",
+    "name": "強弓・呼吸",
+    "sp": 300,
+    "rules": "bow",
+    "prev": ["Seal Def 3"],
+    "icon": "skillB/Arc-Fort_Breath",
     "last": true
   },
   "Chill Atk 1": {

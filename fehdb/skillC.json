@@ -2862,6 +2862,15 @@
     "icon": "skillC/A_D_Twin_N_Save",
     "last": true
   },
+  "A/D Briar N Save": {
+    "id": "A/D Briar N Save",
+    "name": "鎧之守護人・近・棘",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/D Near Save 3"],
+    "icon": "skillC/A_D_Briar_N_Save",
+    "last": true
+  },
   "A/R Twin N Save": {
     "id": "A/R Twin N Save",
     "name": "冑之守護人・近・雙",
@@ -3983,6 +3992,15 @@
     "rules": "infantry",
     "prev": ["Def/Res Oath 3"],
     "icon": "skillC/Def_Res_Pledge",
+    "last": true
+  },
+  "Atk/Spd Faith": {
+    "id": "Atk/Spd Faith",
+    "name": "攻擊速度的信心",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "prev": ["Atk/Spd Oath 3"],
+    "icon": "skillC/Atk_Spd_Faith",
     "last": true
   },
   "Odd Tempest 1": {

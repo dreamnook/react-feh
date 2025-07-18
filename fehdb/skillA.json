@@ -1305,6 +1305,16 @@
     "icon": "skillA/Flared_Sparrow",
     "last": true
   },
+  "Sturdy Flare": {
+    "id": "Sturdy Flare",
+    "name": "鬼神金剛的炎擊",
+    "sp": 300,
+    "atk": 7,
+    "rules": "learner.cavalry-flying-not-staff",
+    "prev": ["Sturdy Blow 2"],
+    "icon": "skillA/Sturdy_Flare",
+    "last": true
+  },
   "Flared Mirror": {
     "id": "Flared Mirror",
     "name": "鬼神明鏡炎擊",

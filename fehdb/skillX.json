@@ -15,6 +15,14 @@
     "icon": "skillX/Fleeting_Echo",
     "last": true
   },
+  "Sly Echo": {
+    "id": "Sly Echo",
+    "name": "響・掩擊",
+    "sp": 0,
+    "rules": "learner.ranged-not-staff",
+    "icon": "skillX/Sly_Echo",
+    "last": true
+  },
   "D Counter Echo": {
     "id": "D Counter Echo",
     "name": "響・遠距離反擊",

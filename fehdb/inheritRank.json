@@ -1016,6 +1016,19 @@
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
   },
+  "Linoan - Lady of Tarrah": {
+    "score": 75,
+    "scoreTotal": 245,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 1000,
+    "bst": 188,
+    "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
+    "special": { "Deluge Balm": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Form 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 5 } }
+  },
   "Gunter - Inveterate Soldier": {
     "score": 166,
     "scoreTotal": 246,
@@ -1253,6 +1266,18 @@
     "bst": 147,
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Seal Res 3": { "sp": 160, "rarity": 5 } }
+  },
+  "Eikþyrnir - Fit for Waves": {
+    "score": 163,
+    "scoreTotal": 259,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 300,
+    "bst": 190,
+    "special": { "Bonfire": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Wild": { "sp": 300, "rarity": 5 } }
   },
   "Tana - Soaring New Year": {
     "score": 163,
@@ -1884,6 +1909,18 @@
     "assist": { "Pivot": { "sp": 150, "rarity": 3 } },
     "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Dull Ranged 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Homer - Traveling Bard": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 188,
+    "assist": { "Draw Back": { "sp": 150, "rarity": 3 } },
+    "skillB": { "Chill Spd/Res 2": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Spd/Res Oath 3": { "sp": 240, "rarity": 5 } }
   },
   "L'Arachel - Seeker of Justice": {
     "score": 80,
@@ -4600,18 +4637,6 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 4": { "sp": 300, "rarity": 5 } }
   },
-  "Eikþyrnir - Fit for Waves": {
-    "score": 318,
-    "scoreTotal": 530,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 500,
-    "feather": 1000,
-    "bst": 190,
-    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Wild": { "sp": 300, "rarity": 5 } }
-  },
   "Bruno - Masked Reveler": {
     "score": 249,
     "scoreTotal": 534,
@@ -5371,6 +5396,19 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 4 } },
     "skillA": { "Atk/Def Form 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Chill Def/Res 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Balthus - Summer's Big Bet": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 198,
+    "assist": { "Smite": { "sp": 150, "rarity": 4 } },
+    "skillB": { "Atk/Def Bulwark 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 4 } }
   },
   "Yarne - Hoppy New Year": {
     "score": 249,
@@ -6267,19 +6305,6 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Balthus - Summer's Big Bet": {
-    "score": 254,
-    "scoreTotal": 668,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 1000,
-    "bst": 198,
-    "assist": { "Smite": { "sp": 150, "rarity": 5 } },
-    "skillB": { "Atk/Def Bulwark 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 5 } }
   },
   "Corrin - Enjoying Tradition": {
     "score": 374,
@@ -9163,6 +9188,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillA": { "Def/Res Ideal 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Dagdar - Reformed Bandit": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 198,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Bonus Doubler 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 4 } }
   },
   "Marni - Pining for Praise": {
     "score": 322,
@@ -12660,6 +12698,21 @@
     "skillB": { "Spd/Res Discord": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Res Crux": { "sp": 300, "rarity": 5 } }
   },
+  "Leif - Sworn to Country": {
+    "score": 270,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "attuned",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Sturdy Flare": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Arc-Fort Breath": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Shadow Shift 4": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Sly Echo": { "sp": 0, "rarity": 5 } }
+  },
   "Ganglöt - Death Anew": {
     "score": 270,
     "scoreTotal": 990,
@@ -12810,6 +12863,19 @@
     "special": { "Curved Shot": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Hexedge": { "sp": 300, "rarity": 5 } },
     "skillB": { "Speedtaker 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Machyua - Blade of Gales": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Gust": { "sp": 500, "rarity": 5 } },
+    "skillA": { "D Bonus Doubler": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Faith": { "sp": 300, "rarity": 5 } }
   },
   "Nel - Stoic Dragon": {
     "score": 450,
@@ -15976,6 +16042,19 @@
     "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Spd/Def 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Odd Spd Wave 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Melíai - Warrior Wanderer": {
+    "score": 500,
+    "scoreTotal": 1400,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 206,
+    "special": { "Sturdy Beast": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Def Fortune": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Slick Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Briar N Save": { "sp": 300, "rarity": 5 } }
   },
   "Grima - Tyrant of Despair": {
     "score": 500,

@@ -667,6 +667,15 @@
     "exclusive": ["Micaiah - Of Dawn"],
     "last": true
   },
+  "The True Njörun": {
+    "id": "The True Njörun",
+    "name": "真・諾華的聖戰士",
+    "sp": 500,
+    "cd": 3,
+    "prev": ["Astra"],
+    "exclusive": ["Leif - Sworn to Country"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

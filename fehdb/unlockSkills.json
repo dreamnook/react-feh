@@ -2868,6 +2868,37 @@
       "Opening Retainer": 5
     }
   },
+  "Melíai - Warrior Wanderer": {
+    "weapon": {
+      "Whelp (Armored)": 1,
+      "Yearling (Arm.)": 2,
+      "Adult (Armored)": 3,
+      "Wandering Horn": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4,
+      "Sturdy Beast": 5
+    },
+    "skillA": {
+      "Atk/Def Form 1": 2,
+      "Atk/Def Form 2": 3,
+      "Atk/Def Form 3": 4,
+      "Atk/Def Fortune": 5
+    },
+    "skillB": {
+      "Slick Fighter 1": 2,
+      "Slick Fighter 2": 3,
+      "Slick Fighter 3": 4,
+      "Slick Fighter 4": 5
+    },
+    "skillC": {
+      "A/D Near Save 1": 2,
+      "A/D Near Save 2": 3,
+      "A/D Near Save 3": 4,
+      "A/D Briar N Save": 5
+    }
+  },
   "Embla - God of Closure": {
     "weapon": {
       "Hatchling (Flier)": 1,
@@ -9768,6 +9799,40 @@
       "Pulse Smoke 3": 4
     }
   },
+  "Leif - Sworn to Country": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Bow of Loyalty": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "The True Njörun": 5
+    },
+    "skillA": {
+      "Armored Blow 1": 2,
+      "Sturdy Blow 1": 3,
+      "Sturdy Blow 2": 4,
+      "Sturdy Flare": 5
+    },
+    "skillB": {
+      "Seal Def 1": 2,
+      "Seal Def 2": 3,
+      "Seal Def 3": 4,
+      "Arc-Fort Breath": 5
+    },
+    "skillC": {
+      "Shadow Shift 1": 2,
+      "Shadow Shift 2": 3,
+      "Shadow Shift 3": 4,
+      "Shadow Shift 4": 5
+    },
+    "skillX": {
+      "Sly Echo": 5
+    }
+  },
   "Finn - Lance of Legend": {
     "weapon": {
       "Iron Lance": 1,
@@ -10005,6 +10070,28 @@
       "Even Atk Wave 3": 4
     }
   },
+  "Dagdar - Reformed Bandit": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Reversal Axe": 3,
+      "Reversal Axe+": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Bonus Doubler 1": 3,
+      "Bonus Doubler 2": 4,
+      "Bonus Doubler 3": 5
+    },
+    "skillC": {
+      "Atk/Def Oath 1": 1,
+      "Atk/Def Oath 2": 2,
+      "Atk/Def Oath 3": 4
+    }
+  },
   "Tanya - Dagdar's Kid": {
     "weapon": {
       "Iron Bow": 1,
@@ -10054,6 +10141,34 @@
       "Even Recovery 1": 1,
       "Even Recovery 2": 2,
       "Even Recovery 3": 4
+    }
+  },
+  "Linoan - Lady of Tarrah": {
+    "weapon": {
+      "Assault": 1,
+      "In the Fold": 3,
+      "In the Fold+": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Mend": 2,
+      "Recover": 3,
+      "Recover+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Swift-Winds Balm": 3,
+      "Deluge Balm": 4
+    },
+    "skillA": {
+      "Atk/Res Form 1": 3,
+      "Atk/Res Form 2": 4,
+      "Atk/Res Form 3": 5
+    },
+    "skillC": {
+      "Spur Spd 1": 1,
+      "Drive Spd 1": 2,
+      "Drive Spd 2": 4
     }
   },
   "Safy - Font of Piety": {
@@ -10146,6 +10261,32 @@
       "Spd/Res Oath 1": 1,
       "Spd/Res Oath 2": 2,
       "Spd/Res Oath 3": 4
+    }
+  },
+  "Machyua - Blade of Gales": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Arcane Renegade": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Glimmer": 4,
+      "Gust": 5
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "D Bonus Doubler": 5
+    },
+    "skillB": {
+      "Hot-Blooded": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Faith": 5
     }
   },
   "Lara - Step Lively": {
@@ -10525,6 +10666,27 @@
       "Windsweep 1": 1,
       "Windsweep 2": 2,
       "Windsweep 3": 4
+    }
+  },
+  "Homer - Traveling Bard": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Blárcrab": 3,
+      "Blárcrab+": 5
+    },
+    "assist": {
+      "Draw Back": 3
+    },
+    "skillB": {
+      "Chill Spd 1": 1,
+      "Chill Spd/Res 1": 2,
+      "Chill Spd/Res 2": 4
+    },
+    "skillC": {
+      "Spd/Res Oath 1": 3,
+      "Spd/Res Oath 2": 4,
+      "Spd/Res Oath 3": 5
     }
   },
   "Galzus - Dark Blade of Od": {

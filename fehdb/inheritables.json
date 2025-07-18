@@ -15,6 +15,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Renegade": {
+        "pool": { "rearmed": { "5": ["Machyua - Blade of Gales"] } },
+        "id": "Arcane Renegade",
+        "name": "魔器・瑪奇團之劍",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Sword+": {
         "pool": {
           "#": { "3": ["Olivia - Blushing Beauty", "Laslow - Dancing Duelist"] }
@@ -843,7 +850,7 @@
         "refine": 350
       },
       "Osseous Trident+": {
-        "pool": { "special": { "5": ["Balthus - Summer's Big Bet"] } },
+        "pool": { "grail": { "5": ["Balthus - Summer's Big Bet"] } },
         "id": "Osseous Trident+",
         "name": "銳骨之槍+",
         "sp": 300,
@@ -1057,6 +1064,13 @@
         "pool": { "#": { "3": ["Uther - Frugal Militarist"] } },
         "id": "Pursual Axe+",
         "name": "追擊之斧+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Reversal Axe+": {
+        "pool": { "grail": { "5": ["Dagdar - Reformed Bandit"] } },
+        "id": "Reversal Axe+",
+        "name": "強化反轉之斧+",
         "sp": 300,
         "refine": 350
       },
@@ -2398,6 +2412,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Blárcrab+": {
+        "pool": { "#": { "3": ["Homer - Traveling Bard"] } },
+        "id": "Blárcrab+",
+        "name": "蒼藍之蟹+",
+        "sp": 300,
+        "refine": 350
+      },
       "Blue Egg+": {
         "pool": { "special": { "5": ["Lucina - Spring Exalt"] } },
         "id": "Blue Egg+",
@@ -2937,6 +2958,13 @@
         "sp": 300,
         "refine": 350
       },
+      "In the Fold+": {
+        "pool": { "#": { "5": ["Linoan - Lady of Tarrah"] } },
+        "id": "In the Fold+",
+        "name": "集團+",
+        "sp": 300,
+        "refine": 350
+      },
       "Candlelight+": {
         "pool": { "special": { "5": ["Lyn - Bride of the Plains"] } },
         "id": "Candlelight+",
@@ -3246,6 +3274,7 @@
             "Elise - Budding Flower",
             "Mist - Helpful Sister",
             "Silque - Adherent of Mila",
+            "Linoan - Lady of Tarrah",
             "Veronica - Brave Princess"
           ]
         },
@@ -3516,14 +3545,14 @@
             "Bartre - Earsome Warrior",
             "Keaton - Resolved Wolfskin",
             "Effie - Dedicated Heart",
-            "Vaike - Sunbaked Stunner"
+            "Vaike - Sunbaked Stunner",
+            "Balthus - Summer's Big Bet"
           ]
         },
         "special": {
           "4": ["Caspar - Summer Intensity", "Raphael - Muscle-Monger"],
           "5": [
             "Charlotte - Money Maiden",
-            "Balthus - Summer's Big Bet",
             "Niles - Forbidden Tease",
             "Laevatein - Bonfire's Blaze"
           ]
@@ -3545,7 +3574,8 @@
             "Chad - Lycian Wildcat",
             "Orochi - Merry Diviner",
             "Miriel - Rapier Intellect",
-            "Roshea - Coyote's Faithful"
+            "Roshea - Coyote's Faithful",
+            "Homer - Traveling Bard"
           ],
           "5": ["Nina - Eye Spy", "Camilla - Flower of Fantasy"]
         },
@@ -4566,7 +4596,11 @@
           ]
         },
         "rearmed": {
-          "5": ["Tana - Soaring Princess", "Alcryst - Tender Archer"]
+          "5": [
+            "Tana - Soaring Princess",
+            "Alcryst - Tender Archer",
+            "Machyua - Blade of Gales"
+          ]
         },
         "attuned": { "5": ["Eirika - Resolute Princess"] },
         "emblem": { "5": ["Marth - Of Beginnings"] },
@@ -4673,6 +4707,7 @@
         },
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
+        "attuned": { "5": ["Leif - Sworn to Country"] },
         "emblem": { "5": ["Lyn - Of Blazing"] },
         "legendary": {
           "5": ["Leif - Unifier of Thracia", "Ayra - Supreme Astra"]
@@ -4722,6 +4757,7 @@
     "Gust": {
       "pool": {
         "#": { "5": ["Felix - Sword Savant", "Alear - Fell Dragon Child"] },
+        "rearmed": { "5": ["Machyua - Blade of Gales"] },
         "attuned": { "5": ["Eirika - Resolute Princess"] },
         "special": { "5": ["Malice - Blooming Blade"] }
       },
@@ -5131,6 +5167,7 @@
         },
         "special": {
           "4": [
+            "Eikþyrnir - Fit for Waves",
             "Owain - Devoted Defender",
             "Minerva - Verdant Dragoon",
             "Heath - Wyvern Ninja",
@@ -5138,7 +5175,6 @@
           ],
           "5": [
             "Hríd - Island Ice Prince",
-            "Eikþyrnir - Fit for Waves",
             "Xander - Student Swimmer",
             "Lissa - Pure Joy",
             "Myrrh - Spooky Monster",
@@ -5187,7 +5223,8 @@
             "Hector - Brave Warrior",
             "Tiki - Torpid Dragon",
             "Arlen - Mage of Khadein",
-            "Robin - Exalt's Deliverer"
+            "Robin - Exalt's Deliverer",
+            "Melíai - Warrior Wanderer"
           ]
         },
         "grail": {
@@ -5213,6 +5250,7 @@
             "Murdock - Loyal General",
             "Ludveck - Rebellious Duke",
             "Cervantes - Invincible General",
+            "Dagdar - Reformed Bandit",
             "Marni - Pining for Praise"
           ]
         },
@@ -5294,6 +5332,7 @@
     },
     "Sturdy Beast": {
       "pool": {
+        "#": { "5": ["Melíai - Warrior Wanderer"] },
         "rearmed": { "5": ["Dedue - Dauntless Beast"] },
         "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
         "special": {
@@ -5982,7 +6021,7 @@
       "pool": {
         "#": {
           "3": ["Yuliya - Princess of Grust"],
-          "5": ["Flayn - Playing Innocent"]
+          "5": ["Linoan - Lady of Tarrah", "Flayn - Playing Innocent"]
         },
         "special": { "5": ["Saul - Minister of Love"] }
       },
@@ -6872,6 +6911,7 @@
           ]
         },
         "grail": { "5": ["Keaton - Resolved Wolfskin"] },
+        "attuned": { "5": ["Leif - Sworn to Country"] },
         "legendary": { "5": ["Dimitri - Savior King"] },
         "special": {
           "5": [
@@ -7139,6 +7179,14 @@
       "name": "鬼神飛燕炎擊",
       "sp": 300,
       "icon": "skillA/Flared_Sparrow",
+      "rules": "learner.cavalry-flying-not-staff"
+    },
+    "Sturdy Flare": {
+      "pool": { "attuned": { "5": ["Leif - Sworn to Country"] } },
+      "id": "Sturdy Flare",
+      "name": "鬼神金剛的炎擊",
+      "sp": 300,
+      "icon": "skillA/Sturdy_Flare",
       "rules": "learner.cavalry-flying-not-staff"
     },
     "Flared Mirror": {
@@ -7700,7 +7748,9 @@
             "Byleth - Tested Professor"
           ]
         },
-        "rearmed": { "5": ["Ganglöt - Death Anew"] },
+        "rearmed": {
+          "5": ["Ganglöt - Death Anew", "Machyua - Blade of Gales"]
+        },
         "attuned": {
           "5": [
             "Caeda - Marth's Faithful",
@@ -7837,6 +7887,7 @@
     },
     "D Bonus Doubler": {
       "pool": {
+        "rearmed": { "5": ["Machyua - Blade of Gales"] },
         "attuned": {
           "5": [
             "Caeda - Marth's Faithful",
@@ -8687,12 +8738,8 @@
         "grail": { "5": ["Saizo - Hoshido's Flame"] },
         "legendary": { "5": ["Ephraim - Legendary Lord"] },
         "special": {
-          "4": ["Minerva - Verdant Dragoon"],
-          "5": [
-            "Eikþyrnir - Fit for Waves",
-            "Ryoma - Samurai at Ease",
-            "Ephraim - Sparkling Gallantly"
-          ]
+          "4": ["Eikþyrnir - Fit for Waves", "Minerva - Verdant Dragoon"],
+          "5": ["Ryoma - Samurai at Ease", "Ephraim - Sparkling Gallantly"]
         },
         "harmonized": { "5": ["Veronica - Harmonic Pirates"] }
       },
@@ -9122,7 +9169,9 @@
         "#": {
           "5": ["Lyon - Demon King", "Nah - Little Miss", "Mozu - Tragic Start"]
         },
-        "grail": { "5": ["Alcryst - Tender Groom"] },
+        "grail": {
+          "5": ["Alcryst - Tender Groom", "Dagdar - Reformed Bandit"]
+        },
         "legendary": { "5": ["Roy - Blazing Lion"] },
         "special": {
           "4": ["Caspar - Summer Intensity"],
@@ -9263,7 +9312,7 @@
       "pool": {
         "#": {
           "3": ["Karin - Driven Knight", "Bors - Ostia's Bastion"],
-          "5": ["Eyvel - Mistress of Fiana"]
+          "5": ["Eyvel - Mistress of Fiana", "Melíai - Warrior Wanderer"]
         },
         "grail": {
           "4": [
@@ -9285,7 +9334,13 @@
     },
     "Atk/Res Form 3": {
       "pool": {
-        "#": { "5": ["Lena - Bereft Angel", "Edain - Lady of Yngvi"] },
+        "#": {
+          "5": [
+            "Linoan - Lady of Tarrah",
+            "Lena - Bereft Angel",
+            "Edain - Lady of Yngvi"
+          ]
+        },
         "grail": {
           "4": ["Sophia - Cobweb Prophet", "Soren - Wind of Tradition"]
         },
@@ -9377,7 +9432,10 @@
       "rules": "beast"
     },
     "Atk/Def Fortune": {
-      "pool": { "rearmed": { "5": ["Dedue - Dauntless Beast"] } },
+      "pool": {
+        "#": { "5": ["Melíai - Warrior Wanderer"] },
+        "rearmed": { "5": ["Dedue - Dauntless Beast"] }
+      },
       "id": "Atk/Def Fortune",
       "name": "攻擊防守的共榮",
       "sp": 300,
@@ -11026,7 +11084,10 @@
     },
     "Slick Fighter 3": {
       "pool": {
-        "#": { "4": ["Grima - Tyrant of Ruin"] },
+        "#": {
+          "4": ["Grima - Tyrant of Ruin"],
+          "5": ["Melíai - Warrior Wanderer"]
+        },
         "legendary": { "5": ["Tiki - Legendary Dragon"] },
         "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
         "special": {
@@ -11046,6 +11107,7 @@
     },
     "Slick Fighter 4": {
       "pool": {
+        "#": { "5": ["Melíai - Warrior Wanderer"] },
         "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
         "special": { "5": ["Níðhöggr - Daze of Healing"] }
       },
@@ -11292,6 +11354,7 @@
           "3": ["Oboro - Fierce Fighter", "Roy - Young Lion"],
           "5": ["Ephraim - Restoration Lord"]
         },
+        "attuned": { "5": ["Leif - Sworn to Country"] },
         "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
         "special": { "5": ["Anna - Secret Charmer"] },
         "duo": { "5": ["Laegjarn - Flame and Frost"] }
@@ -11444,6 +11507,14 @@
       "sp": 300,
       "icon": "skillB/Seal_Def_Res_3",
       "rules": "not.white-staff"
+    },
+    "Arc-Fort Breath": {
+      "pool": { "attuned": { "5": ["Leif - Sworn to Country"] } },
+      "id": "Arc-Fort Breath",
+      "name": "強弓・呼吸",
+      "sp": 300,
+      "icon": "skillB/Arc-Fort_Breath",
+      "rules": "bow"
     },
     "Chill Atk 3": {
       "pool": {
@@ -11600,6 +11671,7 @@
     },
     "Chill Spd/Res 2": {
       "pool": {
+        "#": { "3": ["Homer - Traveling Bard"] },
         "special": { "5": ["Ursula - Royal-Blue Crow"] },
         "duo": { "5": ["Byleth - Fell Star's Duo"] }
       },
@@ -13944,6 +14016,7 @@
     },
     "Atk/Def Bulwark 3": {
       "pool": {
+        "grail": { "5": ["Balthus - Summer's Big Bet"] },
         "mythic": {
           "5": [
             "Askr - God of Openness",
@@ -13953,7 +14026,6 @@
         },
         "special": {
           "5": [
-            "Balthus - Summer's Big Bet",
             "Ash - Earnest Greetings",
             "Altina - Unrivaled Dawn",
             "Diamant - Gallant Ninja"
@@ -14628,6 +14700,7 @@
             "Kiragi - Upbeat Archer"
           ],
           "5": [
+            "Linoan - Lady of Tarrah",
             "Lucina - Brave Princess",
             "Ronan - Villager of Iz",
             "Anna - Secret Seller"
@@ -16731,7 +16804,13 @@
     },
     "A/D Near Save 2": {
       "pool": {
-        "#": { "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"] },
+        "#": {
+          "5": [
+            "Dedue - Dimitri's Vassal",
+            "Gilliam - Wall of Silence",
+            "Melíai - Warrior Wanderer"
+          ]
+        },
         "rearmed": { "5": ["Þjazi - Ruthless Jötun"] },
         "special": {
           "5": ["Lucina - Future Fondness", "Ephraim - Ardent Prince"]
@@ -16745,7 +16824,13 @@
     },
     "A/D Near Save 3": {
       "pool": {
-        "#": { "5": ["Dedue - Dimitri's Vassal", "Gilliam - Wall of Silence"] },
+        "#": {
+          "5": [
+            "Dedue - Dimitri's Vassal",
+            "Gilliam - Wall of Silence",
+            "Melíai - Warrior Wanderer"
+          ]
+        },
         "rearmed": { "5": ["Þjazi - Ruthless Jötun"] },
         "special": {
           "5": ["Lucina - Future Fondness", "Ephraim - Ardent Prince"]
@@ -16809,6 +16894,14 @@
       "name": "鎧之守護人・近・雙",
       "sp": 300,
       "icon": "skillC/A_D_Twin_N_Save",
+      "rules": "armored"
+    },
+    "A/D Briar N Save": {
+      "pool": { "#": { "5": ["Melíai - Warrior Wanderer"] } },
+      "id": "A/D Briar N Save",
+      "name": "鎧之守護人・近・棘",
+      "sp": 300,
+      "icon": "skillC/A_D_Briar_N_Save",
       "rules": "armored"
     },
     "A/R Twin N Save": {
@@ -17652,7 +17745,9 @@
           "5": ["Shamir - Lone-Moon Ninja"]
         },
         "ascended": { "5": ["Fir - Swordmaiden"] },
-        "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
+        "rearmed": {
+          "5": ["Sothe - Dawning Zephyr", "Machyua - Blade of Gales"]
+        },
         "legendary": {
           "5": [
             "Celica - Queen of Valentia",
@@ -17709,11 +17804,12 @@
     "Atk/Def Oath 3": {
       "pool": {
         "#": { "3": ["Kamui - Wandering Blade"] },
-        "grail": { "5": ["Haar - Tempest Runner", "Kyza - Tiger of Fortune"] },
+        "grail": {
+          "4": ["Balthus - Summer's Big Bet", "Dagdar - Reformed Bandit"],
+          "5": ["Haar - Tempest Runner", "Kyza - Tiger of Fortune"]
+        },
         "mythic": { "5": ["Altina - Dawn's Trueblade"] },
-        "special": {
-          "5": ["Balthus - Summer's Big Bet", "Juno - Nimble Grace"]
-        }
+        "special": { "5": ["Juno - Nimble Grace"] }
       },
       "id": "Atk/Def Oath 3",
       "name": "攻擊防守的信義3",
@@ -17775,7 +17871,7 @@
     "Spd/Res Oath 3": {
       "pool": {
         "#": {
-          "3": ["Vanessa - Dutiful Rider"],
+          "3": ["Homer - Traveling Bard", "Vanessa - Dutiful Rider"],
           "5": ["Asbel - Windswept Youth"]
         },
         "grail": { "5": ["Díthorba - Cutting Knight"] }
@@ -17826,6 +17922,14 @@
       "sp": 300,
       "icon": "skillC/Def_Res_Pledge",
       "rules": "infantry"
+    },
+    "Atk/Spd Faith": {
+      "pool": { "rearmed": { "5": ["Machyua - Blade of Gales"] } },
+      "id": "Atk/Spd Faith",
+      "name": "攻擊速度的信心",
+      "sp": 300,
+      "icon": "skillC/Atk_Spd_Faith",
+      "rules": "learner.infantry-melee"
     },
     "Odd Tempest 3": {
       "pool": {
@@ -18022,6 +18126,7 @@
     },
     "Shadow Shift 3": {
       "pool": {
+        "attuned": { "5": ["Leif - Sworn to Country"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
         "special": { "5": ["Dimitri - Stargazing Lion"] },
         "duo": { "5": ["Lucina - Shadows of Fate"] }
@@ -18034,6 +18139,7 @@
     },
     "Shadow Shift 4": {
       "pool": {
+        "attuned": { "5": ["Leif - Sworn to Country"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
         "special": { "5": ["Dimitri - Stargazing Lion"] },
         "duo": { "5": ["Lucina - Shadows of Fate"] }
@@ -18318,6 +18424,14 @@
       "name": "響・飛燕離擊",
       "sp": 0,
       "icon": "skillX/Fleeting_Echo",
+      "rules": "learner.ranged-not-staff"
+    },
+    "Sly Echo": {
+      "pool": { "attuned": { "5": ["Leif - Sworn to Country"] } },
+      "id": "Sly Echo",
+      "name": "響・掩擊",
+      "sp": 0,
+      "icon": "skillX/Sly_Echo",
       "rules": "learner.ranged-not-staff"
     },
     "D Counter Echo": {

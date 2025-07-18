@@ -3712,6 +3712,34 @@
       },
       "last": true
     },
+    "Arcane Renegade": {
+      "id": "Arcane Renegade",
+      "name": "魔器・瑪奇團之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Sword"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Iron Sword": {
       "id": "Iron Sword",
       "name": "鐵劍",
@@ -13450,6 +13478,39 @@
       },
       "last": true
     },
+    "Reversal Axe": {
+      "id": "Reversal Axe",
+      "name": "強化反轉之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Reversal Axe+": {
+      "id": "Reversal Axe+",
+      "name": "強化反轉之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Reversal Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Legion's Axe": {
       "id": "Legion's Axe",
       "name": "羅羅之斧",
@@ -16130,6 +16191,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Bow of Loyalty": {
+      "id": "Bow of Loyalty",
+      "name": "忠誠情誼之弓",
+      "mt": 9,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Leif - Sworn to Country"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -21794,6 +21865,16 @@
       "exclusive": ["Heiðrún - Peaceful Horizon"],
       "last": true
     },
+    "Wandering Horn": {
+      "id": "Wandering Horn",
+      "name": "漂泊者之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Armored)"],
+      "exclusive": ["Melíai - Warrior Wanderer"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -26225,6 +26306,39 @@
       },
       "last": true
     },
+    "Blárcrab": {
+      "id": "Blárcrab",
+      "name": "蒼藍之蟹",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elthunder", "Ellight"]
+    },
+    "Blárcrab+": {
+      "id": "Blárcrab+",
+      "name": "蒼藍之蟹+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Blárcrab"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Blue Egg": {
       "id": "Blue Egg",
       "name": "青之卵",
@@ -30623,6 +30737,31 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Sunlight"],
+      "refine": {
+        "wrathful": {
+          "name": "神罰",
+          "icon": "Wrathful_Staff_W"
+        },
+        "dazzling": {
+          "name": "幻惑",
+          "icon": "Dazzling_Staff_W"
+        }
+      },
+      "last": true
+    },
+    "In the Fold": {
+      "id": "In the Fold",
+      "name": "集團",
+      "mt": 8,
+      "sp": 150,
+      "prev": ["Assault"]
+    },
+    "In the Fold+": {
+      "id": "In the Fold+",
+      "name": "集團+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["In the Fold"],
       "refine": {
         "wrathful": {
           "name": "神罰",
