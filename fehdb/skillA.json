@@ -4178,6 +4178,15 @@
     "icon": "skillA/Atk_Spd_Mastery",
     "last": true
   },
+  "Atk/Res Mastery": {
+    "id": "Atk/Res Mastery",
+    "name": "攻擊魔防制空",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Atk/Res Catch 3"],
+    "icon": "skillA/Atk_Res_Mastery",
+    "last": true
+  },
   "Atk/Spd Ideal 1": {
     "id": "Atk/Spd Ideal 1",
     "name": "攻擊速度萬全1",

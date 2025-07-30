@@ -2959,7 +2959,7 @@
         "refine": 350
       },
       "In the Fold+": {
-        "pool": { "#": { "5": ["Linoan - Lady of Tarrah"] } },
+        "pool": { "#": { "4": ["Linoan - Lady of Tarrah"] } },
         "id": "In the Fold+",
         "name": "集團+",
         "sp": 300,
@@ -3270,11 +3270,11 @@
             "Lena - Tender Angel",
             "Brady - Daunting Priest"
           ],
+          "4": ["Linoan - Lady of Tarrah"],
           "5": [
             "Elise - Budding Flower",
             "Mist - Helpful Sister",
             "Silque - Adherent of Mila",
-            "Linoan - Lady of Tarrah",
             "Veronica - Brave Princess"
           ]
         },
@@ -4716,6 +4716,7 @@
           "5": [
             "Nerþuz - God of the Land",
             "Hræsvelgr - Quieting Blade",
+            "Baldr - Celestial Sun God",
             "Elm - Retainer to Embla"
           ]
         },
@@ -4779,6 +4780,13 @@
       "name": "敏捷之獸",
       "sp": 500,
       "rules": "beast"
+    },
+    "Celestial Form": {
+      "pool": { "mythic": { "5": ["Baldr - Celestial Sun God"] } },
+      "id": "Celestial Form",
+      "name": "天風",
+      "sp": 500,
+      "rules": "learner.flying-melee"
     },
     "Galeforce": {
       "pool": {
@@ -5525,7 +5533,8 @@
             "Arval - Cycle Keeper",
             "Medeus - Earth-Dragon King",
             "Ashera - Order Goddess",
-            "Athos - Omniscient One"
+            "Athos - Omniscient One",
+            "Höðr - Dusk Shadow God"
           ]
         },
         "special": {
@@ -5592,6 +5601,7 @@
     "Ice Wall": {
       "pool": {
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
+        "mythic": { "5": ["Höðr - Dusk Shadow God"] },
         "special": { "5": ["Heiðrún - Peaceful Horizon"] },
         "duo": { "5": ["Julia - Brides of Light"] }
       },
@@ -6021,7 +6031,8 @@
       "pool": {
         "#": {
           "3": ["Yuliya - Princess of Grust"],
-          "5": ["Linoan - Lady of Tarrah", "Flayn - Playing Innocent"]
+          "4": ["Linoan - Lady of Tarrah"],
+          "5": ["Flayn - Playing Innocent"]
         },
         "special": { "5": ["Saul - Minister of Love"] }
       },
@@ -9335,11 +9346,8 @@
     "Atk/Res Form 3": {
       "pool": {
         "#": {
-          "5": [
-            "Linoan - Lady of Tarrah",
-            "Lena - Bereft Angel",
-            "Edain - Lady of Yngvi"
-          ]
+          "4": ["Linoan - Lady of Tarrah"],
+          "5": ["Lena - Bereft Angel", "Edain - Lady of Yngvi"]
         },
         "grail": {
           "4": ["Sophia - Cobweb Prophet", "Soren - Wind of Tradition"]
@@ -9619,7 +9627,7 @@
           "3": ["Vanessa - Dutiful Rider"],
           "5": ["Hapi - Drawn-Out Sigh", "Letizia - Curse Director"]
         },
-        "mythic": { "5": ["Loki - Trickster God"] },
+        "mythic": { "5": ["Loki - Trickster God", "Höðr - Dusk Shadow God"] },
         "special": {
           "4": ["Naga - Harvest Divinity", "Flora - Polar-Perfect"],
           "5": ["Micaiah - Wavecrest Maiden"]
@@ -9705,6 +9713,14 @@
       "name": "攻擊速度制空",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Mastery",
+      "rules": "flying"
+    },
+    "Atk/Res Mastery": {
+      "pool": { "mythic": { "5": ["Höðr - Dusk Shadow God"] } },
+      "id": "Atk/Res Mastery",
+      "name": "攻擊魔防制空",
+      "sp": 300,
+      "icon": "skillA/Atk_Res_Mastery",
       "rules": "flying"
     },
     "Atk/Spd Ideal 3": {
@@ -10509,6 +10525,7 @@
     "Blue Skies 3": {
       "pool": {
         "emblem": { "5": ["Eirika - Of the Sacred"] },
+        "mythic": { "5": ["Baldr - Celestial Sun God"] },
         "duo": { "5": ["Marth - Love and Courage"] }
       },
       "id": "Blue Skies 3",
@@ -10520,6 +10537,7 @@
     "Blue Skies 4": {
       "pool": {
         "emblem": { "5": ["Eirika - Of the Sacred"] },
+        "mythic": { "5": ["Baldr - Celestial Sun God"] },
         "duo": { "5": ["Marth - Love and Courage"] }
       },
       "id": "Blue Skies 4",
@@ -11768,7 +11786,7 @@
           "4": ["Linhardt - Spring Snoozer"],
           "5": ["Cornelia - Saint Consumed"]
         },
-        "mythic": { "5": ["Mirabilis - Daydream"] },
+        "mythic": { "5": ["Mirabilis - Daydream", "Höðr - Dusk Shadow God"] },
         "special": { "5": ["Lilina - Beachside Bloom"] },
         "harmonized": { "5": ["Plumeria - Spring Dance"] }
       },
@@ -11846,6 +11864,14 @@
       "name": "攻擊魔防的不和",
       "sp": 300,
       "icon": "skillB/Atk_Res_Discord",
+      "rules": "learner.infantry-flying"
+    },
+    "Atk/Def Discord": {
+      "pool": { "mythic": { "5": ["Höðr - Dusk Shadow God"] } },
+      "id": "Atk/Def Discord",
+      "name": "攻擊防守的不和",
+      "sp": 300,
+      "icon": "skillB/Atk_Def_Discord",
       "rules": "learner.infantry-flying"
     },
     "Spd/Res Discord": {
@@ -14699,8 +14725,8 @@
             "Tailtiu - Thunder Noble",
             "Kiragi - Upbeat Archer"
           ],
+          "4": ["Linoan - Lady of Tarrah"],
           "5": [
-            "Linoan - Lady of Tarrah",
             "Lucina - Brave Princess",
             "Ronan - Villager of Iz",
             "Anna - Secret Seller"
@@ -15115,6 +15141,7 @@
         "legendary": {
           "5": ["Ryoma - Supreme Samurai", "Caeda - Beloved Queen"]
         },
+        "mythic": { "5": ["Baldr - Celestial Sun God"] },
         "special": {
           "4": ["Olivia - Wavecrest Dancer"],
           "5": [
@@ -15313,6 +15340,14 @@
       "sp": 300,
       "icon": "skillC/Def_Res_Hold",
       "rules": "flying"
+    },
+    "A/S Hold Guide": {
+      "pool": { "mythic": { "5": ["Baldr - Celestial Sun God"] } },
+      "id": "A/S Hold Guide",
+      "name": "攻速大牽制・引導",
+      "sp": 300,
+      "icon": "skillC/A_S_Hold_Guide",
+      "rules": "learner.flying-melee"
     },
     "S/D Hold Guide": {
       "pool": { "duo": { "5": ["Marth - Love and Courage"] } },

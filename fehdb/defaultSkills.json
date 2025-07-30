@@ -3671,6 +3671,62 @@
       "Barricade": 5
     }
   },
+  "Baldr - Celestial Sun God": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Sun Sword": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "Celestial Form": 5
+    },
+    "skillA": {
+      "Blue Skies 1": 2,
+      "Blue Skies 2": 3,
+      "Blue Skies 3": 4,
+      "Blue Skies 4": 5
+    },
+    "skillB": {
+      "Justice Enforcer": 5
+    },
+    "skillC": {
+      "Atk/Spd Rein 1": 2,
+      "Atk/Spd Rein 2": 3,
+      "Atk/Spd Rein 3": 4,
+      "A/S Hold Guide": 5
+    }
+  },
+  "Höðr - Dusk Shadow God": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Dusk Rifle": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4,
+      "Ice Wall": 5
+    },
+    "skillA": {
+      "Atk/Res Catch 1": 2,
+      "Atk/Res Catch 2": 3,
+      "Atk/Res Catch 3": 4,
+      "Atk/Res Mastery": 5
+    },
+    "skillB": {
+      "Sabotage Def 1": 2,
+      "Sabotage Def 2": 3,
+      "Sabotage Def 3": 4,
+      "Atk/Def Discord": 5
+    },
+    "skillC": {
+      "Truth Keeper": 5
+    }
+  },
   "Rune - Source of Wisdom": {
     "weapon": {
       "Stone": 1,

@@ -708,6 +708,14 @@
     "icon": "skillC/The_True_Dromi",
     "last": true
   },
+  "Truth Keeper": {
+    "id": "Truth Keeper",
+    "name": "真實的辯護者",
+    "sp": 300,
+    "exclusive": ["Höðr - Dusk Shadow God"],
+    "icon": "skillC/Truth_Keeper",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -1427,6 +1435,15 @@
     "rules": "flying",
     "prev": ["Def/Res Rein 3"],
     "icon": "skillC/Def_Res_Hold",
+    "last": true
+  },
+  "A/S Hold Guide": {
+    "id": "A/S Hold Guide",
+    "name": "攻速大牽制・引導",
+    "sp": 300,
+    "rules": "learner.flying-melee",
+    "prev": ["Atk/Spd Rein 3"],
+    "icon": "skillC/A_S_Hold_Guide",
     "last": true
   },
   "S/D Hold Guide": {

@@ -832,6 +832,15 @@
     "rules": "beast",
     "last": true
   },
+  "Celestial Form": {
+    "id": "Celestial Form",
+    "name": "天風",
+    "sp": 500,
+    "cd": 3,
+    "rules": "learner.flying-melee",
+    "prev": ["Astra"],
+    "last": true
+  },
   "Galeforce": {
     "id": "Galeforce",
     "name": "疾風迅雷",

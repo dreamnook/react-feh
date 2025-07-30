@@ -3656,6 +3656,16 @@
       "exclusive": ["Black Knight - Mortal Legend"],
       "last": true
     },
+    "Sun Sword": {
+      "id": "Sun Sword",
+      "name": "天日神劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Baldr - Celestial Sun God"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -16201,6 +16211,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Leif - Sworn to Country"],
+      "last": true
+    },
+    "Dusk Rifle": {
+      "id": "Dusk Rifle",
+      "name": "夕影神弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Höðr - Dusk Shadow God"],
       "last": true
     },
     "Arcane Náströnd": {

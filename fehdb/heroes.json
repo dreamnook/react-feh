@@ -5028,6 +5028,80 @@
     "ver": "8.11",
     "dfKey": 7
   },
+  "Baldr - Celestial Sun God": {
+    "id": "Baldr - Celestial Sun God",
+    "title": "天日之神",
+    "name": "巴德爾",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "flying",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "dark-spd-2",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-07-29",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [44, 47, 50],
+        "spd": [45, 48, 52],
+        "def": [27, 30, 33],
+        "res": [25, 28, 32]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 9,
+        "def": 6,
+        "res": 9
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.7",
+    "dfKey": 7
+  },
+  "Höðr - Dusk Shadow God": {
+    "id": "Höðr - Dusk Shadow God",
+    "title": "夕影之神",
+    "name": "霍德爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-bow",
+    "moveType": "flying",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "anima-res-2",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-07-29",
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [45, 48, 51],
+        "spd": [29, 32, 35],
+        "def": [18, 21, 24],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 8,
+        "def": 6,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.7",
+    "dfKey": 7
+  },
   "Rune - Source of Wisdom": {
     "id": "Rune - Source of Wisdom",
     "title": "知識之源",
@@ -16916,19 +16990,33 @@
     "id": "Linoan - Lady of Tarrah",
     "title": "塔拉的女爵",
     "name": "莉諾安",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "white",
     "weaponType": "white-staff",
     "moveType": "infantry",
     "appearsIn": ["Thracia 776"],
     "releaseDate": "2025-07-18",
     "stats": {
+      "4": {
+        "hp": [33, 36, 39],
+        "atk": [38, 42, 45],
+        "spd": [41, 44, 47],
+        "def": [15, 18, 21],
+        "res": [33, 36, 40]
+      },
       "5": {
         "hp": [35, 39, 42],
         "atk": [40, 44, 47],
         "spd": [43, 46, 49],
         "def": [17, 20, 23],
         "res": [36, 39, 43]
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 11,
+        "def": 4,
+        "res": 8
       },
       "5-1": {
         "hp": 17,

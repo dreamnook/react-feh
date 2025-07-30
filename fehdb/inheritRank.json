@@ -513,6 +513,19 @@
     "skillA": { "Blade Session 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wrathful Staff 3": { "sp": 240, "rarity": 4 } }
   },
+  "Linoan - Lady of Tarrah": {
+    "score": 46,
+    "scoreTotal": 126,
+    "poolRarity": 4,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 300,
+    "bst": 188,
+    "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
+    "special": { "Deluge Balm": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Form 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
+  },
   "Xane - Desert Mirage": {
     "score": 49,
     "scoreTotal": 134,
@@ -1015,19 +1028,6 @@
     "special": { "Miracle": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Linoan - Lady of Tarrah": {
-    "score": 75,
-    "scoreTotal": 245,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 980,
-    "feather": 1000,
-    "bst": 188,
-    "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
-    "special": { "Deluge Balm": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Form 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 5 } }
   },
   "Gunter - Inveterate Soldier": {
     "score": 166,
@@ -13349,6 +13349,19 @@
     "skillB": { "Atk/Res Discord": { "sp": 300, "rarity": 5 } },
     "skillC": { "Pulse Up: Ploy": { "sp": 300, "rarity": 5 } }
   },
+  "Höðr - Dusk Shadow God": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Mastery": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Def Discord": { "sp": 300, "rarity": 5 } }
+  },
   "Hræsvelgr - Quieting Blade": {
     "score": 460,
     "scoreTotal": 1012,
@@ -13361,6 +13374,19 @@
     "special": { "Nimble Beast": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Fortune": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/D Near Trace 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Baldr - Celestial Sun God": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Celestial Form": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Blue Skies 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Hold Guide": { "sp": 300, "rarity": 5 } }
   },
   "Elm - Retainer to Embla": {
     "score": 460,

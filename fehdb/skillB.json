@@ -866,6 +866,14 @@
     "icon": "skillB/Hot-Blooded",
     "last": true
   },
+  "Justice Enforcer": {
+    "id": "Justice Enforcer",
+    "name": "正義的執行者",
+    "sp": 300,
+    "exclusive": ["Baldr - Celestial Sun God"],
+    "icon": "skillB/Justice_Enforcer",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -2234,6 +2242,15 @@
     "rules": "learner.infantry-flying",
     "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
     "icon": "skillB/Atk_Res_Discord",
+    "last": true
+  },
+  "Atk/Def Discord": {
+    "id": "Atk/Def Discord",
+    "name": "攻擊防守的不和",
+    "sp": 300,
+    "rules": "learner.infantry-flying",
+    "prev": ["Sabotage Atk 3", "Sabotage Def 3"],
+    "icon": "skillB/Atk_Def_Discord",
     "last": true
   },
   "Spd/Res Discord": {
