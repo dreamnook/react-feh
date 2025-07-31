@@ -356,6 +356,10 @@
     "id": "Already Dead",
     "name": "一路好走……",
     "sp": 300,
+    "atk": 9,
+    "spd": 9,
+    "def": 9,
+    "res": 9,
     "exclusive": ["Tharja - Gloomy Mage"],
     "icon": "skillA/Already_Dead",
     "last": true
