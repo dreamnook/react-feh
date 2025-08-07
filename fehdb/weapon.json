@@ -7113,6 +7113,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Farina - The Great Wing"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Hotshot_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Lance of Frelia": {
@@ -11777,6 +11800,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Morgan - Devoted Darkness"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Axe_of_Despair_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Wedding-Bell Axe": {
@@ -16221,6 +16267,36 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Höðr - Dusk Shadow God"],
+      "last": true
+    },
+    "Howling Bow": {
+      "id": "Howling Bow",
+      "name": "狼騎士團之弓",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Sedgar - Coyote's Dutiful"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Howling_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arcane Náströnd": {
@@ -23120,6 +23196,28 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Nyx - Rulebreaker Mage"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Ginnungagap_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Agnea's Arrow": {
@@ -25445,6 +25543,28 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Katarina - Torchlit Wanderer"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Fell_Flambeau_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Icy Fimbulvetr": {
