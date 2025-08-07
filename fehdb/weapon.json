@@ -5212,6 +5212,39 @@
         }
       },
       "last": true
+    },
+    "Serving Knife": {
+      "id": "Serving Knife",
+      "name": "侍者的鏟刀",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Serving Knife+": {
+      "id": "Serving Knife+",
+      "name": "侍者的鏟刀+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Serving Knife"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "blue-lance": {
@@ -8376,6 +8409,15 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Lapis - Forager of the Sea"],
+      "last": true
+    },
+    "Teatime Lance": {
+      "id": "Teatime Lance",
+      "name": "茶會侍者之槍",
+      "mt": 16,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Felix - Savant's Service"],
       "last": true
     },
     "Arcane Qiang": {
@@ -12688,6 +12730,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Seliph - Light's Legacy"],
+      "last": true
+    },
+    "Silver Spoon": {
+      "id": "Silver Spoon",
+      "name": "高貴淑女的銀匙",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Ingrid - Cordial Teatime"],
       "last": true
     },
     "Arcane Downfall": {
@@ -24698,6 +24750,39 @@
         }
       },
       "last": true
+    },
+    "Teapot": {
+      "id": "Teapot",
+      "name": "紅茶的茶壺",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elfire", "Ruin"]
+    },
+    "Teapot+": {
+      "id": "Teapot+",
+      "name": "紅茶的茶壺+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Teapot"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "blue-tome": {
@@ -29966,6 +30051,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Micaiah - Of Dawn"],
+      "last": true
+    },
+    "Princess Teapot": {
+      "id": "Princess Teapot",
+      "name": "皇女的茶壺",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Veronica - Royal Reception"],
       "last": true
     },
     "Stone": {

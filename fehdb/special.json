@@ -676,6 +676,15 @@
     "exclusive": ["Leif - Sworn to Country"],
     "last": true
   },
+  "Immurement": {
+    "id": "Immurement",
+    "name": "真・閉界",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Reprisal"],
+    "exclusive": ["Veronica - Royal Reception"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

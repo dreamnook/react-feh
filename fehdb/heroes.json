@@ -808,6 +808,41 @@
     "ver": "6.11",
     "dfKey": 5
   },
+  "Veronica - Royal Reception": {
+    "id": "Veronica - Royal Reception",
+    "title": "皇女的款待",
+    "name": "維洛妮卡",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-08-07",
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [44, 47, 50],
+        "spd": [45, 48, 52],
+        "def": [18, 21, 24],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 9,
+        "def": 6,
+        "res": 6
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 9,
+    "ver": "9.8",
+    "dfKey": 7
+  },
   "Nifl - God of Ice": {
     "id": "Nifl - God of Ice",
     "title": "冰神",
@@ -16506,6 +16541,55 @@
     "book": 2,
     "ver": "2.4",
     "dfKey": 2
+  },
+  "Finn - Devoted Service": {
+    "id": "Finn - Devoted Service",
+    "title": "忠心款待",
+    "name": "芬恩",
+    "rarity": [5, 4],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Thracia 776"],
+    "releaseDate": "2025-08-07",
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [43, 46, 49],
+        "spd": [40, 44, 47],
+        "def": [31, 34, 38],
+        "res": [14, 17, 20]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 51],
+        "spd": [42, 46, 49],
+        "def": [34, 37, 41],
+        "res": [16, 19, 22]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 13,
+        "def": 6,
+        "res": 3
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 13,
+        "def": 7,
+        "res": 4
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["hp", "spd"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.8",
+    "dfKey": 7
   },
   "Nanna - Nordion Princess": {
     "id": "Nanna - Nordion Princess",
@@ -49492,6 +49576,41 @@
     "ver": "8.8",
     "dfKey": 7
   },
+  "Felix - Savant's Service": {
+    "id": "Felix - Savant's Service",
+    "title": "劍鬼的侍者修行",
+    "name": "菲力克斯",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-08-07",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [44, 47, 50],
+        "spd": [45, 48, 52],
+        "def": [35, 38, 41],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 9,
+        "def": 12,
+        "res": 5
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 198,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.8",
+    "dfKey": 7
+  },
   "Ashe - Fabled Sea Knight": {
     "id": "Ashe - Fabled Sea Knight",
     "title": "海之騎士的精神文學",
@@ -50039,6 +50158,41 @@
     "book": 7,
     "ver": "7.4",
     "dfKey": 5
+  },
+  "Ingrid - Cordial Teatime": {
+    "id": "Ingrid - Cordial Teatime",
+    "title": "款待的茶葉",
+    "name": "英谷莉特",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "cavalry",
+    "pool": "harmonized",
+    "appearsIn": ["Thracia 776", "Three Houses"],
+    "releaseDate": "2025-08-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [32, 35, 38],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 11,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.8",
+    "dfKey": 7
   },
   "Claude - The Schemer": {
     "id": "Claude - The Schemer",
@@ -53500,6 +53654,41 @@
     "statMax": 190,
     "book": 8,
     "ver": "8.11",
+    "dfKey": 7
+  },
+  "Céline - Blissful Tea Party": {
+    "id": "Céline - Blissful Tea Party",
+    "title": "舉辦幸福茶會",
+    "name": "錫莉奴",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-tome",
+    "moveType": "flying",
+    "pool": "special",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2025-08-07",
+    "stats": {
+      "5": {
+        "hp": [33, 36, 40],
+        "atk": [39, 43, 46],
+        "spd": [44, 47, 50],
+        "def": [12, 16, 19],
+        "res": [38, 41, 45]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 10,
+        "def": 3,
+        "res": 11
+      }
+    },
+    "assets": ["hp", "res"],
+    "flaws": ["atk", "def"],
+    "statMin": 183,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.8",
     "dfKey": 7
   },
   "Chloé - Fairy-Tale Flier": {

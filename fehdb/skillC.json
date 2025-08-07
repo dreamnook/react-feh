@@ -1666,6 +1666,15 @@
     "icon": "skillC/A_R_Incite_Hone",
     "last": true
   },
+  "A/S Outcry Dull": {
+    "id": "A/S Outcry Dull",
+    "name": "攻速鼓譟・強化無效",
+    "sp": 300,
+    "rules": "learner.cavalry-melee",
+    "prev": ["Hone Atk 3", "Hone Spd 3"],
+    "icon": "skillC/A_S_Outcry_Dull",
+    "last": true
+  },
   "Hone Armor": {
     "id": "Hone Armor",
     "name": "重刃鼓舞",
@@ -4092,6 +4101,15 @@
     "sp": 300,
     "rules": "learner.infantry-melee",
     "icon": "skillC/Pulse_Tempest_F",
+    "last": true
+  },
+  "Tempest Burst": {
+    "id": "Tempest Burst",
+    "name": "迅雷風烈・初擊躍動",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "prev": ["Odd Tempest 3", "Even Tempest 3"],
+    "icon": "skillC/Tempest_Burst",
     "last": true
   },
   "Assault Troop 1": {

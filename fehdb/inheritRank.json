@@ -2446,6 +2446,19 @@
     "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
   },
+  "Finn - Devoted Service": {
+    "score": 196,
+    "scoreTotal": 395,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 190,
+    "assist": { "Shove": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Spd/Def Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 4 } }
+  },
   "Nel - Stoic Bride": {
     "score": 196,
     "scoreTotal": 395,
@@ -13079,6 +13092,19 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } }
   },
+  "Céline - Blissful Tea Party": {
+    "score": 424,
+    "scoreTotal": 996,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 940,
+    "feather": 1000,
+    "bst": 183,
+    "assist": { "Rally Up Res+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Spd Mastery": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 5 } }
+  },
   "Ronan - Villager of Iz": {
     "score": 400,
     "scoreTotal": 1000,
@@ -14965,6 +14991,20 @@
     "skillB": { "Occultist's Strike": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Res Crux": { "sp": 300, "rarity": 5 } }
   },
+  "Veronica - Royal Reception": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 179,
+    "special": { "Reprisal": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Sly Swift Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Detect": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
+  },
   "Tharja - Shadow Ninja": {
     "score": 318,
     "scoreTotal": 1166,
@@ -15441,6 +15481,19 @@
     "special": { "Armored Beacon": { "sp": 500, "rarity": 5 } },
     "skillB": { "Vengeful Fighter 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "D/R Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Felix - Savant's Service": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 198,
+    "special": { "Gust": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Tempest Burst": { "sp": 300, "rarity": 5 } }
   },
   "Askr - Open Harvest": {
     "score": 530,
@@ -16248,6 +16301,20 @@
     "special": { "No Quarter": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/D Near Trace 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Ingrid - Cordial Teatime": {
+    "score": 530,
+    "scoreTotal": 1590,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 190,
+    "assist": { "Rally Up Def+": { "sp": 400, "rarity": 5 } },
+    "special": { "Haze Slice": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Potent Assault": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Outcry Dull": { "sp": 300, "rarity": 5 } }
   },
   "Lucina - Shadows of Fate": {
     "score": 530,

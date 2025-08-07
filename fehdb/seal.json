@@ -2324,6 +2324,30 @@
       "rules": "learner.def-dmger",
       "icon": "skillA/Atk_Def_Prime_3",
       "last": true
+    },
+    "Spd/Def Prime 1": {
+      "id": "Spd/Def Prime 1",
+      "name": "速度防守的準備1",
+      "sp": 60,
+      "rules": "learner.def-dmger",
+      "icon": "skillA/Spd_Def_Prime_1"
+    },
+    "Spd/Def Prime 2": {
+      "id": "Spd/Def Prime 2",
+      "name": "速度防守的準備2",
+      "sp": 120,
+      "prev": ["Spd/Def Prime 1"],
+      "rules": "learner.def-dmger",
+      "icon": "skillA/Spd_Def_Prime_2"
+    },
+    "Spd/Def Prime 3": {
+      "id": "Spd/Def Prime 3",
+      "name": "速度防守的準備3",
+      "sp": 240,
+      "prev": ["Spd/Def Prime 2"],
+      "rules": "learner.def-dmger",
+      "icon": "skillA/Spd_Def_Prime_3",
+      "last": true
     }
   },
   "skillB": {
@@ -2898,6 +2922,30 @@
       "prev": ["Aerobatics 2"],
       "rules": "flying",
       "icon": "skillB/Aerobatics_3",
+      "last": true
+    },
+    "Wrath 1": {
+      "id": "Wrath 1",
+      "name": "憤怒1",
+      "sp": 60,
+      "rules": "learner.infantry-armored-melee",
+      "icon": "skillB/Wrath_1"
+    },
+    "Wrath 2": {
+      "id": "Wrath 2",
+      "name": "憤怒2",
+      "sp": 120,
+      "prev": ["Wrath 1"],
+      "rules": "learner.infantry-armored-melee",
+      "icon": "skillB/Wrath_2"
+    },
+    "Wrath 3": {
+      "id": "Wrath 3",
+      "name": "憤怒3",
+      "sp": 240,
+      "prev": ["Wrath 2"],
+      "rules": "learner.infantry-armored-melee",
+      "icon": "skillB/Wrath_3",
       "last": true
     },
     "Blaze Dance 1": {
@@ -7525,6 +7573,36 @@
       "res": 3,
       "prev": ["Squad Ace CR 2"],
       "icon": "seal/Squad_Ace_HP_Def_Res_3",
+      "last": true
+    },
+    "Squad Ace CS 1": {
+      "id": "Squad Ace CS 1",
+      "name": "第９７迷宮的霸王1",
+      "sp": 120,
+      "atk": 1,
+      "spd": 1,
+      "def": 1,
+      "icon": "seal/Squad_Ace_Atk_Spd_Def_1"
+    },
+    "Squad Ace CS 2": {
+      "id": "Squad Ace CS 2",
+      "name": "第９７迷宮的霸王2",
+      "sp": 180,
+      "atk": 2,
+      "spd": 2,
+      "def": 2,
+      "prev": ["Squad Ace CS 1"],
+      "icon": "seal/Squad_Ace_Atk_Spd_Def_2"
+    },
+    "Squad Ace CS 3": {
+      "id": "Squad Ace CS 3",
+      "name": "第９７迷宮的霸王3",
+      "sp": 240,
+      "atk": 3,
+      "spd": 3,
+      "def": 3,
+      "prev": ["Squad Ace CS 2"],
+      "icon": "seal/Squad_Ace_Atk_Spd_Def_3",
       "last": true
     }
   }

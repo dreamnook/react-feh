@@ -375,6 +375,13 @@
         "name": "農具+",
         "sp": 300,
         "refine": 350
+      },
+      "Serving Knife+": {
+        "pool": { "special": { "5": ["Finn - Devoted Service"] } },
+        "id": "Serving Knife+",
+        "name": "侍者的鏟刀+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "blue-lance": {
@@ -2308,6 +2315,13 @@
         "name": "新娘的花束+",
         "sp": 300,
         "refine": 350
+      },
+      "Teapot+": {
+        "pool": { "special": { "5": ["Céline - Blissful Tea Party"] } },
+        "id": "Teapot+",
+        "name": "紅茶的茶壺+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "blue-tome": {
@@ -3518,7 +3532,7 @@
           ]
         },
         "special": {
-          "4": ["Hilda - Holiday Layabout"],
+          "4": ["Hilda - Holiday Layabout", "Finn - Devoted Service"],
           "5": ["Chrom - Spring Exalt", "Joshua - Tropical Gambler"]
         }
       },
@@ -3953,14 +3967,20 @@
       "rules": "not.white-staff"
     },
     "Rally Up Def": {
-      "pool": { "duo": { "5": ["Corrin - Nightfall Ninja Act"] } },
+      "pool": {
+        "duo": { "5": ["Corrin - Nightfall Ninja Act"] },
+        "harmonized": { "5": ["Ingrid - Cordial Teatime"] }
+      },
       "id": "Rally Up Def",
       "name": "防守大支援",
       "sp": 300,
       "rules": "not.white-staff"
     },
     "Rally Up Def+": {
-      "pool": { "duo": { "5": ["Corrin - Nightfall Ninja Act"] } },
+      "pool": {
+        "duo": { "5": ["Corrin - Nightfall Ninja Act"] },
+        "harmonized": { "5": ["Ingrid - Cordial Teatime"] }
+      },
       "id": "Rally Up Def+",
       "name": "防守大支援+",
       "sp": 400,
@@ -3969,7 +3989,9 @@
     "Rally Up Res": {
       "pool": {
         "#": { "3": ["Wil - Unequaled Archer"], "5": ["Lugh - Anima Child"] },
-        "special": { "5": ["Lilina - Beachside Bloom"] }
+        "special": {
+          "5": ["Céline - Blissful Tea Party", "Lilina - Beachside Bloom"]
+        }
       },
       "id": "Rally Up Res",
       "name": "魔防大支援",
@@ -3979,7 +4001,9 @@
     "Rally Up Res+": {
       "pool": {
         "#": { "5": ["Lugh - Anima Child"] },
-        "special": { "5": ["Lilina - Beachside Bloom"] }
+        "special": {
+          "5": ["Céline - Blissful Tea Party", "Lilina - Beachside Bloom"]
+        }
       },
       "id": "Rally Up Res+",
       "name": "魔防大支援+",
@@ -4637,6 +4661,7 @@
             "Ivy - Tidal Breeze",
             "Alear - Seaside Dragon",
             "Petra - Faraway Sun",
+            "Felix - Savant's Service",
             "Malice - Blooming Blade"
           ]
         },
@@ -4760,7 +4785,9 @@
         "#": { "5": ["Felix - Sword Savant", "Alear - Fell Dragon Child"] },
         "rearmed": { "5": ["Machyua - Blade of Gales"] },
         "attuned": { "5": ["Eirika - Resolute Princess"] },
-        "special": { "5": ["Malice - Blooming Blade"] }
+        "special": {
+          "5": ["Felix - Savant's Service", "Malice - Blooming Blade"]
+        }
       },
       "id": "Gust",
       "name": "陣風",
@@ -4823,6 +4850,7 @@
           "5": [
             "Henry - Happy Vampire",
             "Tharja - Florid Charmer",
+            "Veronica - Royal Reception",
             "Kvasir - Unknown Future"
           ]
         }
@@ -4960,7 +4988,11 @@
           ]
         },
         "harmonized": {
-          "5": ["Karla - Spring Reveries", "Chloé - Spring Wings"]
+          "5": [
+            "Karla - Spring Reveries",
+            "Chloé - Spring Wings",
+            "Ingrid - Cordial Teatime"
+          ]
         }
       },
       "id": "Draconic Aura",
@@ -5089,7 +5121,8 @@
             "Dimitri - Stargazing Lion",
             "Lapis - Forager of the Sea"
           ]
-        }
+        },
+        "harmonized": { "5": ["Ingrid - Cordial Teatime"] }
       },
       "id": "Haze Slice",
       "name": "霞切",
@@ -6840,6 +6873,7 @@
             "Anna - Secret Charmer",
             "Tanith - Forthright Heart",
             "Bernadetta - Late Hibernator",
+            "Veronica - Royal Reception",
             "Tharja - Shadow Ninja",
             "Yunaka - Spirited Envoy",
             "Kvasir - Unknown Future",
@@ -7211,7 +7245,9 @@
     "Sly Swift Sparrow": {
       "pool": {
         "#": { "5": ["Midir - Archer of Yngvi"] },
-        "special": { "5": ["Tharja - Shadow Ninja"] },
+        "special": {
+          "5": ["Veronica - Royal Reception", "Tharja - Shadow Ninja"]
+        },
         "harmonized": { "5": ["Celica - Sunlit Priestesses"] }
       },
       "id": "Sly Swift Sparrow",
@@ -9522,6 +9558,7 @@
             "Hortensia - Winter's Dearest",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
+            "Céline - Blissful Tea Party",
             "Delthea - Prodigy in Bloom",
             "Camilla - Young Beauty"
           ]
@@ -9708,7 +9745,10 @@
       "rules": "learner.cavalry-flying"
     },
     "Atk/Spd Mastery": {
-      "pool": { "harmonized": { "5": ["Nephenee - Festival Harmony"] } },
+      "pool": {
+        "special": { "5": ["Céline - Blissful Tea Party"] },
+        "harmonized": { "5": ["Nephenee - Festival Harmony"] }
+      },
       "id": "Atk/Spd Mastery",
       "name": "攻擊速度制空",
       "sp": 300,
@@ -9750,7 +9790,11 @@
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
         "special": {
           "4": ["Rinkah - Consuming Flame"],
-          "5": ["Larcei - Bride of Astra", "Nino - Burst of Summer"]
+          "5": [
+            "Larcei - Bride of Astra",
+            "Nino - Burst of Summer",
+            "Felix - Savant's Service"
+          ]
         }
       },
       "id": "Atk/Spd Ideal 3",
@@ -9935,7 +9979,11 @@
       "pool": {
         "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
         "special": {
-          "5": ["Larcei - Bride of Astra", "Nino - Burst of Summer"]
+          "5": [
+            "Larcei - Bride of Astra",
+            "Nino - Burst of Summer",
+            "Felix - Savant's Service"
+          ]
         }
       },
       "id": "Perfect Atk/Spd",
@@ -10076,7 +10124,11 @@
       "rules": "learner.infantry-cavalry-flying-melee"
     },
     "Spd/Def Clash 3": {
-      "pool": { "special": { "5": ["Eliwood - Pledged Friend"] } },
+      "pool": {
+        "special": {
+          "5": ["Finn - Devoted Service", "Eliwood - Pledged Friend"]
+        }
+      },
       "id": "Spd/Def Clash 3",
       "name": "速度防守的激戰3",
       "sp": 240,
@@ -12828,6 +12880,7 @@
         "#": { "3": ["Kent - Crimson Shield"] },
         "grail": { "4": ["Deen - Bladed Sandstorm"] },
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
+        "special": { "4": ["Finn - Devoted Service"] },
         "duo": { "5": ["Lucina - Shadows of Fate"] },
         "harmonized": { "5": ["Mia - Harmonic Blades"] }
       },
@@ -12850,7 +12903,9 @@
     "Spd/Res Snag 3": {
       "pool": {
         "grail": { "5": ["Robin - Keen Groom"] },
-        "special": { "5": ["Selena - Sandbar Fluorspar"] }
+        "special": {
+          "5": ["Selena - Sandbar Fluorspar", "Veronica - Royal Reception"]
+        }
       },
       "id": "Spd/Res Snag 3",
       "name": "速度魔防干涉3",
@@ -12883,6 +12938,14 @@
       "name": "速度防守的看破",
       "sp": 300,
       "icon": "skillB/Spd_Def_Detect",
+      "rules": "learner.cavalry-flying-not-staff"
+    },
+    "Spd/Res Detect": {
+      "pool": { "special": { "5": ["Veronica - Royal Reception"] } },
+      "id": "Spd/Res Detect",
+      "name": "速度魔防的看破",
+      "sp": 300,
+      "icon": "skillB/Spd_Res_Detect",
       "rules": "learner.cavalry-flying-not-staff"
     },
     "Atk Feint 3": {
@@ -13825,7 +13888,9 @@
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
         "mythic": { "5": ["Ótr - Kingsbrother"] },
         "special": { "5": ["Seliph - Light's Legacy"] },
-        "harmonized": { "5": ["Caeda - Sea-Blossom Pair"] }
+        "harmonized": {
+          "5": ["Caeda - Sea-Blossom Pair", "Ingrid - Cordial Teatime"]
+        }
       },
       "id": "Flow Refresh 3",
       "name": "怒濤・再起3",
@@ -13927,7 +13992,10 @@
       "rules": "learner.wielderCavalryFlying"
     },
     "Potent Assault": {
-      "pool": { "special": { "5": ["Seliph - Light's Legacy"] } },
+      "pool": {
+        "special": { "5": ["Seliph - Light's Legacy"] },
+        "harmonized": { "5": ["Ingrid - Cordial Teatime"] }
+      },
       "id": "Potent Assault",
       "name": "強攻・神速",
       "sp": 300,
@@ -15245,7 +15313,11 @@
         "legendary": { "5": ["Robin - Fell Vessel"] },
         "mythic": { "5": ["Triandra - Nightmare"] },
         "special": {
-          "5": ["Ferdinand - Highborn Sipper", "Tharja - Florid Charmer"]
+          "5": [
+            "Ferdinand - Highborn Sipper",
+            "Tharja - Florid Charmer",
+            "Céline - Blissful Tea Party"
+          ]
         },
         "duo": { "5": ["Hapi - Eternal Sunlit Pair"] },
         "harmonized": {
@@ -15476,10 +15548,12 @@
             "Caeda - Talys's Bride",
             "Gunnthrá - Year's First Dream",
             "Ashe - Fabled Sea Knight",
+            "Veronica - Royal Reception",
             "Claude - Distant Deer"
           ]
         },
-        "duo": { "5": ["Marth - Royal Altean Duo"] }
+        "duo": { "5": ["Marth - Royal Altean Duo"] },
+        "harmonized": { "5": ["Ingrid - Cordial Teatime"] }
       },
       "id": "Hone Spd 3",
       "name": "速度鼓舞3",
@@ -15608,7 +15682,9 @@
     "A/S Incite Hone": {
       "pool": {
         "emblem": { "5": ["Eirika - Of the Sacred"] },
-        "special": { "5": ["Claude - Distant Deer"] },
+        "special": {
+          "5": ["Veronica - Royal Reception", "Claude - Distant Deer"]
+        },
         "harmonized": { "5": ["Celica - Sunlit Priestesses"] }
       },
       "id": "A/S Incite Hone",
@@ -15624,6 +15700,14 @@
       "sp": 300,
       "icon": "skillC/A_R_Incite_Hone",
       "rules": "cavalry"
+    },
+    "A/S Outcry Dull": {
+      "pool": { "harmonized": { "5": ["Ingrid - Cordial Teatime"] } },
+      "id": "A/S Outcry Dull",
+      "name": "攻速鼓譟・強化無效",
+      "sp": 300,
+      "icon": "skillC/A_S_Outcry_Dull",
+      "rules": "learner.cavalry-melee"
     },
     "Hone Armor": {
       "pool": {
@@ -17975,7 +18059,8 @@
             "Rinkah - Consuming Flame",
             "Karla - Sun-Piercing Steel",
             "Mia - Budding Blade",
-            "Larcei - Bride of Astra"
+            "Larcei - Bride of Astra",
+            "Felix - Savant's Service"
           ]
         }
       },
@@ -18028,6 +18113,14 @@
       "name": "迅雷風烈・追擊躍動",
       "sp": 300,
       "icon": "skillC/Pulse_Tempest_F",
+      "rules": "learner.infantry-melee"
+    },
+    "Tempest Burst": {
+      "pool": { "special": { "5": ["Felix - Savant's Service"] } },
+      "id": "Tempest Burst",
+      "name": "迅雷風烈・初擊躍動",
+      "sp": 300,
+      "icon": "skillC/Tempest_Burst",
       "rules": "learner.infantry-melee"
     },
     "Assault Troop 3": {

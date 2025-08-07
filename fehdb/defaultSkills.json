@@ -504,6 +504,40 @@
       "Panic Smoke 4": 5
     }
   },
+  "Veronica - Royal Reception": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Princess Teapot": 5
+    },
+    "assist": {
+      "Reposition": 4
+    },
+    "special": {
+      "Retribution": 4,
+      "Reprisal": 4,
+      "Immurement": 5
+    },
+    "skillA": {
+      "Death Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Sly Swift Sparrow": 5
+    },
+    "skillB": {
+      "Spd/Res Snag 1": 2,
+      "Spd/Res Snag 2": 3,
+      "Spd/Res Snag 3": 4,
+      "Spd/Res Detect": 5
+    },
+    "skillC": {
+      "Hone Spd 1": 2,
+      "Hone Spd 2": 3,
+      "Hone Spd 3": 4,
+      "A/S Incite Hone": 5
+    }
+  },
   "Nifl - God of Ice": {
     "weapon": {
       "Fire Breath": 1,
@@ -9910,6 +9944,27 @@
       "Spur Atk 1": 1,
       "Spur Atk 2": 2,
       "Goad Cavalry": 4
+    }
+  },
+  "Finn - Devoted Service": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Serving Knife": 3,
+      "Serving Knife+": 5
+    },
+    "assist": {
+      "Shove": 4
+    },
+    "skillA": {
+      "Spd/Def Clash 1": 3,
+      "Spd/Def Clash 2": 4,
+      "Spd/Def Clash 3": 5
+    },
+    "skillB": {
+      "Spd/Def Snag 1": 1,
+      "Spd/Def Snag 2": 2,
+      "Spd/Def Snag 3": 4
     }
   },
   "Nanna - Nordion Princess": {
@@ -28388,6 +28443,34 @@
       "Endless Tempest": 5
     }
   },
+  "Felix - Savant's Service": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Teatime Lance": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Gust": 5
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Perfect Atk/Spd": 5
+    },
+    "skillB": {
+      "True Lone Wolf": 5
+    },
+    "skillC": {
+      "Odd Tempest 1": 2,
+      "Odd Tempest 2": 3,
+      "Odd Tempest 3": 4,
+      "Tempest Burst": 5
+    }
+  },
   "Ashe - Fabled Sea Knight": {
     "weapon": {
       "Iron Lance": 1,
@@ -28720,6 +28803,39 @@
       "Spd/Def Rein 2": 3,
       "Spd/Def Rein 3": 4,
       "Spd/Def Hold": 5
+    }
+  },
+  "Ingrid - Cordial Teatime": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Silver Spoon": 5
+    },
+    "assist": {
+      "Rally Defense": 4,
+      "Rally Up Def": 4,
+      "Rally Up Def+": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4,
+      "Haze Slice": 5
+    },
+    "skillA": {
+      "Lady Knight": 5
+    },
+    "skillB": {
+      "Flow Refresh 1": 2,
+      "Flow Refresh 2": 3,
+      "Flow Refresh 3": 4,
+      "Potent Assault": 5
+    },
+    "skillC": {
+      "Hone Spd 1": 2,
+      "Hone Spd 2": 3,
+      "Hone Spd 3": 4,
+      "A/S Outcry Dull": 5
     }
   },
   "Claude - The Schemer": {
@@ -30776,6 +30892,30 @@
       "Spd Ploy 2": 3,
       "Spd Ploy 3": 4,
       "Spd/Res Ploy 3": 5
+    }
+  },
+  "Céline - Blissful Tea Party": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Teapot": 3,
+      "Teapot+": 5
+    },
+    "assist": {
+      "Rally Resistance": 4,
+      "Rally Up Res": 4,
+      "Rally Up Res+": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Mastery": 5
+    },
+    "skillC": {
+      "Spd/Res Rein 1": 1,
+      "Spd/Res Rein 2": 2,
+      "Spd/Res Rein 3": 4
     }
   },
   "Chloé - Fairy-Tale Flier": {

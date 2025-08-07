@@ -874,6 +874,14 @@
     "icon": "skillB/Justice_Enforcer",
     "last": true
   },
+  "True Lone Wolf": {
+    "id": "True Lone Wolf",
+    "name": "真・獨行俠",
+    "sp": 300,
+    "exclusive": ["Felix - Savant's Service"],
+    "icon": "skillB/True_Lone_Wolf",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -3661,6 +3669,15 @@
     "rules": "learner.cavalry-flying-not-staff",
     "prev": ["Spd/Def Snag 3"],
     "icon": "skillB/Spd_Def_Detect",
+    "last": true
+  },
+  "Spd/Res Detect": {
+    "id": "Spd/Res Detect",
+    "name": "速度魔防的看破",
+    "sp": 300,
+    "rules": "learner.cavalry-flying-not-staff",
+    "prev": ["Spd/Res Snag 3"],
+    "icon": "skillB/Spd_Res_Detect",
     "last": true
   },
   "Atk Feint 1": {
