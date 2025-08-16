@@ -559,6 +559,14 @@
     "rules": "not.white-staff",
     "last": true
   },
+  "Swap Gait": {
+    "id": "Swap Gait",
+    "name": "替換・步法",
+    "sp": 400,
+    "prev": ["Swap"],
+    "rules": "learner.infantry-armored-not-staff",
+    "last": true
+  },
   "Shove": {
     "id": "Shove",
     "name": "衝撞",
@@ -588,7 +596,8 @@
     "name": "帶回",
     "sp": 150,
     "range": 1,
-    "rules": "not.white-staff"
+    "rules": "not.white-staff",
+    "last": true
   },
   "Reposition Gait": {
     "id": "Reposition Gait",

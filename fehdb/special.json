@@ -685,6 +685,14 @@
     "exclusive": ["Veronica - Royal Reception"],
     "last": true
   },
+  "Mighty Roar": {
+    "id": "Mighty Roar",
+    "name": "肉體的咆哮",
+    "sp": 500,
+    "prev": ["Ignis"],
+    "exclusive": ["Eikþyrnir - Resolved to Train"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -927,6 +935,15 @@
     "rules": "learner.wielderNotArmor",
     "last": true
   },
+  "Fierce Beast": {
+    "id": "Fierce Beast",
+    "name": "猛獸",
+    "sp": 500,
+    "cd": 2,
+    "prev": ["Dragon Fang"],
+    "rules": "beast",
+    "last": true
+  },
   "Haze Slice": {
     "id": "Haze Slice",
     "name": "霞切",
@@ -936,13 +953,12 @@
     "rules": "learner.wielderNotArmor",
     "last": true
   },
-  "Fierce Beast": {
-    "id": "Fierce Beast",
-    "name": "猛獸",
+  "Archrival": {
+    "id": "Archrival",
+    "name": "角逐",
     "sp": 500,
-    "cd": 2,
     "prev": ["Dragon Fang"],
-    "rules": "beast",
+    "rules": "learner.wielderBowDagger",
     "last": true
   },
   "Glowing Ember": {

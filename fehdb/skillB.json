@@ -4434,6 +4434,15 @@
     "icon": "skillB/Buffer_4",
     "last": true
   },
+  "Null C-Avoid": {
+    "id": "Null C-Avoid",
+    "name": "真迴避・識破反擊",
+    "sp": 300,
+    "prev": ["Velocity 3"],
+    "rules": ["learner.wielderInfantry"],
+    "icon": "skillB/Null_C-Avoid",
+    "last": true
+  },
   "Dragon's Ire 1": {
     "id": "Dragon's Ire 1",
     "name": "龍的逆鱗1",
@@ -5788,6 +5797,15 @@
     "prev": ["Speedtaker 3"],
     "rules": "learner.infantry-flying-def-dmger",
     "icon": "skillB/Speedtaker_4",
+    "last": true
+  },
+  "Spd/Res Shackle": {
+    "id": "Spd/Res Shackle",
+    "name": "速度魔防枷鎖",
+    "sp": 300,
+    "prev": ["Chill Spd/Res 2"],
+    "rules": "learner.cavalry-flying-ranged",
+    "icon": "skillB/Spd_Res_Shackle",
     "last": true
   }
 }

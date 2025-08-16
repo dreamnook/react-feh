@@ -3666,6 +3666,16 @@
       "exclusive": ["Baldr - Celestial Sun God"],
       "last": true
     },
+    "Sublime Creator": {
+      "id": "Sublime Creator",
+      "name": "真霸天帝之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Byleth - Anchor of Hope"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -16351,6 +16361,16 @@
       },
       "last": true
     },
+    "Truth Seeker": {
+      "id": "Truth Seeker",
+      "name": "天真神弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Baldr - Rays of Judgment"],
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",
@@ -22023,6 +22043,16 @@
       "exclusive": ["Melíai - Warrior Wanderer"],
       "last": true
     },
+    "Tempered Antler": {
+      "id": "Tempered Antler",
+      "name": "鍛鍊身心之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Armored)"],
+      "exclusive": ["Eikþyrnir - Resolved to Train"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -26068,6 +26098,16 @@
       "exclusive": ["Hapi - Eternal Sunlit Pair"],
       "last": true
     },
+    "Cryptic Valaskjálf": {
+      "id": "Cryptic Valaskjálf",
+      "name": "隱書瓦拉斯卡夫",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Bruno - Masked Knight"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -28599,6 +28639,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Glaðsbók": {
+      "id": "Glaðsbók",
+      "name": "王書格拉茲海姆",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Sharena - Hopeful Princess"],
       "last": true
     },
     "Arc. Caliburnus": {

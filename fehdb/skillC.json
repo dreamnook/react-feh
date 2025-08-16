@@ -716,6 +716,14 @@
     "icon": "skillC/Truth_Keeper",
     "last": true
   },
+  "Just like Mother": {
+    "id": "Just like Mother",
+    "name": "向母親那樣",
+    "sp": 300,
+    "exclusive": ["Sharena - Hopeful Princess"],
+    "icon": "skillC/Just_like_Mother",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -3045,6 +3053,15 @@
     "rules": "armored",
     "prev": ["A/R Far Save 3"],
     "icon": "skillC/A_R_Briar_N_Save",
+    "last": true
+  },
+  "A/D Briar P Save": {
+    "id": "A/D Briar P Save",
+    "name": "鎧之守護人・理・棘",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/D Near Save 3", "A/D Far Save 3"],
+    "icon": "skillC/A_D_Briar_P_Save",
     "last": true
   },
   "Guidance 1": {

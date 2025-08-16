@@ -161,6 +161,9 @@
   "learner.wielder": {
     "weaponType": 7
   },
+  "learner.wielderBowDagger": {
+    "weaponType": 4087
+  },
   "learner.melee-white-bow-staff": {
     "weaponType": 16713863
   },

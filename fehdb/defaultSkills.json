@@ -196,6 +196,34 @@
       "Forever Yours": 5
     }
   },
+  "Sharena - Hopeful Princess": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Glaðsbók": 5
+    },
+    "special": {
+      "New Moon": 4,
+      "Luna": 4,
+      "Magic Light": 5
+    },
+    "skillA": {
+      "Atk/Spd Bond 1": 2,
+      "Atk/Spd Bond 2": 3,
+      "Atk/Spd Bond 3": 4,
+      "Atk/Spd Aria": 5
+    },
+    "skillB": {
+      "Chill Spd 1": 2,
+      "Chill Spd/Res 1": 3,
+      "Chill Spd/Res 2": 4,
+      "Spd/Res Shackle": 5
+    },
+    "skillC": {
+      "Just like Mother": 5
+    }
+  },
   "Anna - Commander": {
     "weapon": {
       "Iron Axe": 1,
@@ -372,6 +400,28 @@
       "Threaten Res 1": 1,
       "Threat. Atk/Res 1": 2,
       "Threat. Atk/Res 2": 4
+    }
+  },
+  "Bruno - Masked Knight": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Thoron": 4,
+      "Cryptic Valaskjálf": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillB": {
+      "Poison Strike 1": 1,
+      "Poison Strike 2": 2,
+      "Poison Strike 3": 4
+    },
+    "skillC": {
+      "Red Feud 1": 3,
+      "Red Feud 2": 4,
+      "Red Feud 3": 5
     }
   },
   "Veronica - Brave Princess": {
@@ -3677,6 +3727,41 @@
       "Divine Brawn": 5
     }
   },
+  "Eikþyrnir - Resolved to Train": {
+    "weapon": {
+      "Whelp (Armored)": 1,
+      "Yearling (Arm.)": 2,
+      "Adult (Armored)": 4,
+      "Tempered Antler": 5
+    },
+    "assist": {
+      "Swap": 4,
+      "Swap Gait": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Mighty Roar": 5
+    },
+    "skillA": {
+      "Atk/Def Form 1": 2,
+      "Atk/Def Form 2": 3,
+      "Atk/Def Form 3": 4,
+      "Atk/Def Fortune": 5
+    },
+    "skillB": {
+      "Bold Fighter 1": 2,
+      "Bold Fighter 2": 3,
+      "Bold Fighter 3": 4,
+      "Assault Fighter": 5
+    },
+    "skillC": {
+      "A/D Far Save 1": 2,
+      "A/D Far Save 2": 3,
+      "A/D Far Save 3": 4,
+      "A/D Briar P Save": 5
+    }
+  },
   "Læraðr - Quieting Heart": {
     "weapon": {
       "Whelp (Armored)": 1,
@@ -3731,6 +3816,34 @@
       "Atk/Spd Rein 2": 3,
       "Atk/Spd Rein 3": 4,
       "A/S Hold Guide": 5
+    }
+  },
+  "Baldr - Rays of Judgment": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Truth Seeker": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Heaven's Stead": 5
+    },
+    "skillB": {
+      "Speedtaker 1": 2,
+      "Speedtaker 2": 3,
+      "Speedtaker 3": 4,
+      "Speedtaker 4": 5
+    },
+    "skillC": {
+      "Savage Blow 1": 2,
+      "Savage Blow 2": 3,
+      "Savage Blow 3": 4,
+      "Deadly Miasma": 5
     }
   },
   "Höðr - Dusk Shadow God": {
@@ -27252,6 +27365,34 @@
       "A/R Far Save 1": 1,
       "A/R Far Save 2": 2,
       "A/R Far Save 3": 4
+    }
+  },
+  "Byleth - Anchor of Hope": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Sublime Creator": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Gust": 5
+    },
+    "skillA": {
+      "Prof's Guidance": 5
+    },
+    "skillB": {
+      "Velocity 1": 2,
+      "Velocity 2": 3,
+      "Velocity 3": 4,
+      "Null C-Avoid": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Faith": 5
     }
   },
   "Sothis - Girl on the Throne": {

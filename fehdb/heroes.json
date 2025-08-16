@@ -345,6 +345,40 @@
     "ver": "8.5",
     "dfKey": 6
   },
+  "Sharena - Hopeful Princess": {
+    "id": "Sharena - Hopeful Princess",
+    "title": "懷抱希望的公主",
+    "name": "夏蓉",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "cavalry",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-08-15",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [46, 49, 53],
+        "def": [24, 28, 31],
+        "res": [19, 22, 25]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 6,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.8",
+    "dfKey": 7
+  },
   "Anna - Commander": {
     "id": "Anna - Commander",
     "title": "特務機關的隊長",
@@ -616,6 +650,69 @@
     "book": 7,
     "ver": "7.0",
     "dfKey": 5
+  },
+  "Bruno - Masked Knight": {
+    "id": "Bruno - Masked Knight",
+    "title": "神秘的蒙面騎士",
+    "name": "布魯諾",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "weaponType": "blue-tome",
+    "moveType": "cavalry",
+    "pool": "grail",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-08-16",
+    "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [37, 40, 43],
+        "spd": [40, 43, 46],
+        "def": [16, 19, 22],
+        "res": [23, 26, 29]
+      },
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [40, 43, 46],
+        "spd": [43, 46, 49],
+        "def": [17, 20, 23],
+        "res": [24, 27, 30]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [45, 48, 52],
+        "def": [19, 22, 25],
+        "res": [26, 30, 33]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 8,
+        "def": 4,
+        "res": 7
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 9,
+        "def": 4,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 9,
+        "def": 5,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.8",
+    "dfKey": 8
   },
   "Veronica - Brave Princess": {
     "id": "Veronica - Brave Princess",
@@ -5026,6 +5123,40 @@
     "ver": "9.7",
     "dfKey": 7
   },
+  "Eikþyrnir - Resolved to Train": {
+    "id": "Eikþyrnir - Resolved to Train",
+    "title": "決意的鍛鍊",
+    "name": "艾克米爾尼爾",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-beast",
+    "moveType": "armored",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-08-15",
+    "stats": {
+      "5": {
+        "hp": [50, 53, 56],
+        "atk": [47, 50, 53],
+        "spd": [12, 16, 19],
+        "def": [47, 50, 54],
+        "res": [39, 43, 46]
+      },
+      "5-1": {
+        "hp": 25,
+        "atk": 13,
+        "spd": 3,
+        "def": 11,
+        "res": 10
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["spd", "res"],
+    "statMin": 212,
+    "statMax": 215,
+    "book": 9,
+    "ver": "9.8",
+    "dfKey": 7
+  },
   "Læraðr - Quieting Heart": {
     "id": "Læraðr - Quieting Heart",
     "title": "心靈的葬送者",
@@ -5098,6 +5229,40 @@
     "statMax": 195,
     "book": 9,
     "ver": "9.7",
+    "dfKey": 7
+  },
+  "Baldr - Rays of Judgment": {
+    "id": "Baldr - Rays of Judgment",
+    "title": "天日之審判",
+    "name": "巴德爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-bow",
+    "moveType": "flying",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-08-15",
+    "stats": {
+      "5": {
+        "hp": [38, 42, 45],
+        "atk": [45, 48, 52],
+        "spd": [45, 48, 51],
+        "def": [28, 32, 35],
+        "res": [21, 25, 28]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 9,
+        "spd": 11,
+        "def": 10,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.8",
     "dfKey": 7
   },
   "Höðr - Dusk Shadow God": {
@@ -16550,7 +16715,7 @@
     "colorType": "red",
     "weaponType": "red-sword",
     "moveType": "cavalry",
-    "pool": "special",
+    "pool": "grail",
     "appearsIn": ["Thracia 776"],
     "releaseDate": "2025-08-07",
     "stats": {
@@ -17074,13 +17239,20 @@
     "id": "Linoan - Lady of Tarrah",
     "title": "塔拉的女爵",
     "name": "莉諾安",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "white",
     "weaponType": "white-staff",
     "moveType": "infantry",
     "appearsIn": ["Thracia 776"],
     "releaseDate": "2025-07-18",
     "stats": {
+      "3": {
+        "hp": [32, 35, 38],
+        "atk": [36, 39, 42],
+        "spd": [38, 41, 44],
+        "def": [14, 17, 20],
+        "res": [32, 35, 38]
+      },
       "4": {
         "hp": [33, 36, 39],
         "atk": [38, 42, 45],
@@ -17094,6 +17266,13 @@
         "spd": [43, 46, 49],
         "def": [17, 20, 23],
         "res": [36, 39, 43]
+      },
+      "3-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 10,
+        "def": 4,
+        "res": 8
       },
       "4-1": {
         "hp": 16,
@@ -38024,13 +38203,20 @@
     "id": "Grima - Tyrant of Ruin",
     "title": "毀滅的支配者",
     "name": "津利",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "weaponType": "blue-dragon",
     "moveType": "armored",
     "appearsIn": ["Awakening"],
     "releaseDate": "2025-06-06",
     "stats": {
+      "3": {
+        "hp": [40, 43, 46],
+        "atk": [41, 44, 47],
+        "spd": [12, 15, 18],
+        "def": [38, 41, 44],
+        "res": [39, 42, 45]
+      },
       "4": {
         "hp": [41, 44, 47],
         "atk": [43, 46, 49],
@@ -38044,6 +38230,13 @@
         "spd": [14, 18, 21],
         "def": [42, 46, 49],
         "res": [44, 47, 50]
+      },
+      "3-1": {
+        "hp": 20,
+        "atk": 9,
+        "spd": 4,
+        "def": 12,
+        "res": 11
       },
       "4-1": {
         "hp": 20,
@@ -47777,6 +47970,40 @@
     "ver": "8.0",
     "dfKey": 6
   },
+  "Byleth - Anchor of Hope": {
+    "id": "Byleth - Anchor of Hope",
+    "title": "希望的因緣",
+    "name": "貝雷特",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-08-15",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [44, 47, 50],
+        "spd": [45, 48, 52],
+        "def": [35, 38, 41],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 9,
+        "def": 10,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 9,
+    "ver": "9.8",
+    "dfKey": 7
+  },
   "Sothis - Girl on the Throne": {
     "id": "Sothis - Girl on the Throne",
     "title": "王座少女",
@@ -53660,7 +53887,7 @@
     "id": "Céline - Blissful Tea Party",
     "title": "舉辦幸福茶會",
     "name": "錫莉奴",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "red",
     "weaponType": "red-tome",
     "moveType": "flying",
@@ -53668,12 +53895,26 @@
     "appearsIn": ["Engage"],
     "releaseDate": "2025-08-07",
     "stats": {
+      "4": {
+        "hp": [31, 34, 37],
+        "atk": [37, 41, 44],
+        "spd": [41, 44, 47],
+        "def": [11, 14, 17],
+        "res": [36, 39, 43]
+      },
       "5": {
         "hp": [33, 36, 40],
         "atk": [39, 43, 46],
         "spd": [44, 47, 50],
         "def": [12, 16, 19],
         "res": [38, 41, 45]
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 9,
+        "def": 2,
+        "res": 11
       },
       "5-1": {
         "hp": 17,

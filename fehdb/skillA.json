@@ -372,6 +372,22 @@
     "icon": "skillA/Lady_Knight",
     "last": true
   },
+  "Heaven's Stead": {
+    "id": "Heaven's Stead",
+    "name": "替天行道",
+    "sp": 300,
+    "exclusive": ["Baldr - Rays of Judgment"],
+    "icon": "skillA/Heaven's_Stead",
+    "last": true
+  },
+  "Prof's Guidance": {
+    "id": "Prof's Guidance",
+    "name": "老師的引導",
+    "sp": 300,
+    "exclusive": ["Byleth - Anchor of Hope"],
+    "icon": "skillA/Prof's_Guidance",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -1319,7 +1335,7 @@
   },
   "Sturdy Flare": {
     "id": "Sturdy Flare",
-    "name": "鬼神金剛的炎擊",
+    "name": "鬼神金剛炎擊",
     "sp": 300,
     "atk": 7,
     "rules": "learner.cavalry-flying-not-staff",
@@ -2577,6 +2593,14 @@
     "sp": 300,
     "prev": ["Def/Res Bond 3"],
     "icon": "skillA/Def_Res_Unity",
+    "last": true
+  },
+  "Atk/Spd Aria": {
+    "id": "Atk/Spd Aria",
+    "name": "攻擊速度的詠唱",
+    "sp": 300,
+    "rules": ["tome"],
+    "icon": "skillA/Atk_Spd_Aria",
     "last": true
   },
   "Atk/Spd Push 1": {

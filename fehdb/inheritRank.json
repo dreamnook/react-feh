@@ -349,17 +349,6 @@
     "skillA": { "Defense 3": { "sp": 120, "rarity": 4 } },
     "skillB": { "Renewal 3": { "sp": 240, "rarity": 5 } }
   },
-  "Ferdinand - Noblest of Nobles": {
-    "score": 96,
-    "scoreTotal": 96,
-    "poolRarity": 3,
-    "sp": 240,
-    "spTotal": 400,
-    "feather": 150,
-    "bst": 162,
-    "skillA": { "Fortress Def 3": { "sp": 160, "rarity": 4 } },
-    "skillC": { "Rouse Spd/Def 3": { "sp": 240, "rarity": 5 } }
-  },
   "Subaki - Perfect Expert": {
     "score": 96,
     "scoreTotal": 96,
@@ -383,6 +372,18 @@
     "assist": { "Smite": { "sp": 150, "rarity": 3 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Beast Exp. 3": { "sp": 120, "rarity": 4 } }
+  },
+  "Ferdinand - Noblest of Nobles": {
+    "score": 96,
+    "scoreTotal": 96,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 550,
+    "feather": 150,
+    "bst": 162,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Fortress Def 3": { "sp": 160, "rarity": 4 } },
+    "skillC": { "Rouse Spd/Def 3": { "sp": 240, "rarity": 5 } }
   },
   "Brady - Daunting Priest": {
     "score": 50,
@@ -513,19 +514,6 @@
     "skillA": { "Blade Session 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wrathful Staff 3": { "sp": 240, "rarity": 4 } }
   },
-  "Linoan - Lady of Tarrah": {
-    "score": 46,
-    "scoreTotal": 126,
-    "poolRarity": 4,
-    "sp": 300,
-    "spTotal": 980,
-    "feather": 300,
-    "bst": 188,
-    "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
-    "special": { "Deluge Balm": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Res Form 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
-  },
   "Xane - Desert Mirage": {
     "score": 49,
     "scoreTotal": 134,
@@ -578,6 +566,19 @@
     "special": { "Deluge Balm": { "sp": 200, "rarity": 4 } },
     "skillA": { "Spd/Res Finish 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Def Gap 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Linoan - Lady of Tarrah": {
+    "score": 50,
+    "scoreTotal": 146,
+    "poolRarity": 3,
+    "sp": 300,
+    "spTotal": 980,
+    "feather": 150,
+    "bst": 188,
+    "assist": { "Recover+": { "sp": 300, "rarity": 5 } },
+    "special": { "Deluge Balm": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Form 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
   },
   "Pandreo - Party Priest": {
     "score": 50,
@@ -641,17 +642,6 @@
     "skillB": { "Knock Back": { "sp": 150, "rarity": 3 } },
     "skillC": { "Hone Atk 3": { "sp": 200, "rarity": 4 } }
   },
-  "Barst - The Hatchet": {
-    "score": 166,
-    "scoreTotal": 166,
-    "poolRarity": 3,
-    "sp": 200,
-    "spTotal": 350,
-    "feather": 150,
-    "bst": 158,
-    "skillB": { "Knock Back": { "sp": 150, "rarity": 3 } },
-    "skillC": { "Spur Atk 3": { "sp": 200, "rarity": 4 } }
-  },
   "Gaius - Candy Stealer": {
     "score": 166,
     "scoreTotal": 166,
@@ -674,6 +664,18 @@
     "assist": { "Pivot": { "sp": 150, "rarity": 3 } },
     "skillB": { "Drag Back": { "sp": 150, "rarity": 3 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 4 } }
+  },
+  "Barst - The Hatchet": {
+    "score": 166,
+    "scoreTotal": 166,
+    "poolRarity": 3,
+    "sp": 200,
+    "spTotal": 500,
+    "feather": 150,
+    "bst": 158,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillB": { "Knock Back": { "sp": 150, "rarity": 3 } },
+    "skillC": { "Spur Atk 3": { "sp": 200, "rarity": 4 } }
   },
   "Setsuna - Absent Archer": {
     "score": 166,
@@ -897,9 +899,10 @@
     "scoreTotal": 199,
     "poolRarity": 3,
     "sp": 240,
-    "spTotal": 360,
+    "spTotal": 510,
     "feather": 150,
     "bst": 168,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
     "skillA": { "Atk/Def Push 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Axe Exp. 3": { "sp": 120, "rarity": 5 } }
   },
@@ -940,18 +943,6 @@
     "assist": { "Nudge+": { "sp": 300, "rarity": 5 } },
     "skillA": { "Atk/Res Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd/Res Discord": { "sp": 300, "rarity": 5 } }
-  },
-  "Robin - Seaside Tactician": {
-    "score": 212,
-    "scoreTotal": 212,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 200,
-    "spTotal": 320,
-    "feather": 1000,
-    "bst": 158,
-    "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
   },
   "Maribelle - Dire Damsel": {
     "score": 75,
@@ -1073,17 +1064,6 @@
     "skillA": { "Life and Death 3": { "sp": 200, "rarity": 5 } },
     "skillB": { "Obstruct 3": { "sp": 200, "rarity": 4 } }
   },
-  "Selena - Cutting Wit": {
-    "score": 166,
-    "scoreTotal": 246,
-    "poolRarity": 3,
-    "sp": 200,
-    "spTotal": 400,
-    "feather": 150,
-    "bst": 157,
-    "skillA": { "Triangle Adept 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Threaten Spd 3": { "sp": 200, "rarity": 4 } }
-  },
   "Leon - True of Heart": {
     "score": 166,
     "scoreTotal": 246,
@@ -1167,6 +1147,18 @@
     "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 3 } },
     "skillA": { "Darting Blow 3": { "sp": 200, "rarity": 4 } },
     "skillC": { "Breath of Life 3": { "sp": 200, "rarity": 5 } }
+  },
+  "Selena - Cutting Wit": {
+    "score": 166,
+    "scoreTotal": 246,
+    "poolRarity": 3,
+    "sp": 200,
+    "spTotal": 550,
+    "feather": 150,
+    "bst": 157,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Triangle Adept 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Threaten Spd 3": { "sp": 200, "rarity": 4 } }
   },
   "Ross - His Father's Son": {
     "score": 166,
@@ -1331,29 +1323,6 @@
     "skillB": { "Firestorm Dance 2": { "sp": 240, "rarity": 4 } },
     "skillC": { "Ward Beasts": { "sp": 200, "rarity": 5 } }
   },
-  "Geese - A Life at Sea": {
-    "score": 196,
-    "scoreTotal": 260,
-    "poolRarity": 4,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 440,
-    "feather": 300,
-    "bst": 172,
-    "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 4 } }
-  },
-  "Silas - Loyal Knight": {
-    "score": 166,
-    "scoreTotal": 262,
-    "poolRarity": 3,
-    "sp": 240,
-    "spTotal": 440,
-    "feather": 150,
-    "bst": 156,
-    "skillA": { "Steady Stance 3": { "sp": 200, "rarity": 4 } },
-    "skillC": { "Even Def Wave 3": { "sp": 240, "rarity": 5 } }
-  },
   "Athena - Borderland Sword": {
     "score": 166,
     "scoreTotal": 262,
@@ -1377,6 +1346,18 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 3 } },
     "skillB": { "Poison Strike 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Hone Spd 3": { "sp": 200, "rarity": 4 } }
+  },
+  "Silas - Loyal Knight": {
+    "score": 166,
+    "scoreTotal": 262,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 590,
+    "feather": 150,
+    "bst": 156,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Steady Stance 3": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Even Def Wave 3": { "sp": 240, "rarity": 5 } }
   },
   "Marth - Altean Prince": {
     "score": 166,
@@ -1453,18 +1434,6 @@
     "bst": 157,
     "skillB": { "Def Cantrip 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Air Orders 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Xane - Autumn Trickster": {
-    "score": 196,
-    "scoreTotal": 272,
-    "poolRarity": 4,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 300,
-    "bst": 166,
-    "skillA": { "Atk/Res Form 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Inf. Hexblade 3": { "sp": 240, "rarity": 4 } }
   },
   "Mirabilis - Spring Daydream": {
     "score": 196,
@@ -1702,39 +1671,6 @@
     "skillA": { "Mirror Stance 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Deluge Dance 2": { "sp": 240, "rarity": 4 } }
   },
-  "Merlinus - Pherae's Clerk": {
-    "score": 199,
-    "scoreTotal": 295,
-    "poolRarity": 3,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 150,
-    "bst": 163,
-    "skillB": { "Wings of Mercy 3": { "sp": 240, "rarity": 4 } },
-    "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Norne - The Volunteer": {
-    "score": 199,
-    "scoreTotal": 295,
-    "poolRarity": 3,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 150,
-    "bst": 168,
-    "skillA": { "Brazen Spd/Def 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Spd/Def Link 3": { "sp": 240, "rarity": 4 } }
-  },
-  "Kent - Crimson Shield": {
-    "score": 199,
-    "scoreTotal": 295,
-    "poolRarity": 3,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 150,
-    "bst": 173,
-    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 4 } }
-  },
   "Lara - Step Lively": {
     "score": 199,
     "scoreTotal": 295,
@@ -1745,17 +1681,6 @@
     "bst": 177,
     "skillB": { "Rockslide Dance 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk Smoke 3": { "sp": 240, "rarity": 4 } }
-  },
-  "Cath - Master Thief": {
-    "score": 199,
-    "scoreTotal": 295,
-    "poolRarity": 3,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 150,
-    "bst": 177,
-    "skillA": { "Atk/Res Bond 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Spd/Res Link 3": { "sp": 240, "rarity": 4 } }
   },
   "Dorothea - Daring Ex-Singer": {
     "score": 199,
@@ -1768,28 +1693,6 @@
     "skillB": { "Spd Cantrip 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Inf. Null Follow 3": { "sp": 240, "rarity": 5 } }
   },
-  "Kyle - Zealous Knight": {
-    "score": 199,
-    "scoreTotal": 295,
-    "poolRarity": 3,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 150,
-    "bst": 185,
-    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Atk/Def Snag 3": { "sp": 240, "rarity": 4 } }
-  },
-  "Fee - Aspiring Knight": {
-    "score": 199,
-    "scoreTotal": 295,
-    "poolRarity": 3,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 150,
-    "bst": 188,
-    "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
-  },
   "Chad - Lycian Wildcat": {
     "score": 199,
     "scoreTotal": 295,
@@ -1801,6 +1704,18 @@
     "assist": { "Draw Back": { "sp": 150, "rarity": 3 } },
     "skillB": { "Escape Route 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd Smoke 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Merlinus - Pherae's Clerk": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 163,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillB": { "Wings of Mercy 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
   },
   "Tatiana - Devoted Saint": {
     "score": 199,
@@ -1825,6 +1740,18 @@
     "assist": { "Draw Back": { "sp": 150, "rarity": 3 } },
     "skillA": { "Mirror Strike 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Res Link 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Norne - The Volunteer": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 168,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Brazen Spd/Def 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Def Link 3": { "sp": 240, "rarity": 4 } }
   },
   "Miriel - Rapier Intellect": {
     "score": 199,
@@ -1874,6 +1801,30 @@
     "skillA": { "Spd/Def Form 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
   },
+  "Kent - Crimson Shield": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 173,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Cath - Master Thief": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 177,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Atk/Res Bond 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Res Link 3": { "sp": 240, "rarity": 4 } }
+  },
   "Tanith - Bright Blade": {
     "score": 199,
     "scoreTotal": 295,
@@ -1898,6 +1849,18 @@
     "skillA": { "Spd/Res Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Res Oath 3": { "sp": 240, "rarity": 5 } }
   },
+  "Kyle - Zealous Knight": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 185,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Atk/Def Snag 3": { "sp": 240, "rarity": 4 } }
+  },
   "Patty - Youthful Thief": {
     "score": 199,
     "scoreTotal": 295,
@@ -1909,6 +1872,18 @@
     "assist": { "Pivot": { "sp": 150, "rarity": 3 } },
     "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Dull Ranged 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Fee - Aspiring Knight": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 188,
+    "assist": { "Reposition": { "sp": 150, "rarity": 3 } },
+    "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
   },
   "Homer - Traveling Bard": {
     "score": 199,
@@ -2303,6 +2278,19 @@
     "skillA": { "Death Blow 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Bow Valor 3": { "sp": 120, "rarity": 5 } }
   },
+  "Robin - Seaside Tactician": {
+    "score": 212,
+    "scoreTotal": 371,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 200,
+    "spTotal": 470,
+    "feather": 1000,
+    "bst": 158,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
+  },
   "Gerome - Masked Rider": {
     "score": 374,
     "scoreTotal": 374,
@@ -2328,6 +2316,19 @@
     "assist": { "Swap": { "sp": 150, "rarity": 4 } },
     "skillB": { "Seal Spd/Res 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Spd Tactic 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Geese - A Life at Sea": {
+    "score": 196,
+    "scoreTotal": 383,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 590,
+    "feather": 300,
+    "bst": 172,
+    "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 4 } }
   },
   "Sylvain - Hanging with Tens": {
     "score": 196,
@@ -2367,6 +2368,19 @@
     "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 4 } },
     "skillA": { "Brazen Def/Res 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wings of Mercy 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Xane - Autumn Trickster": {
+    "score": 196,
+    "scoreTotal": 395,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 166,
+    "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Res Form 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Inf. Hexblade 3": { "sp": 240, "rarity": 4 } }
   },
   "Tharja - Beach Dark Mage": {
     "score": 196,
@@ -2445,19 +2459,6 @@
     "assist": { "Pivot": { "sp": 150, "rarity": 4 } },
     "skillA": { "Atk/Spd Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Finn - Devoted Service": {
-    "score": 196,
-    "scoreTotal": 395,
-    "poolRarity": 4,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 300,
-    "bst": 190,
-    "assist": { "Shove": { "sp": 150, "rarity": 4 } },
-    "skillA": { "Spd/Def Clash 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 4 } }
   },
   "Nel - Stoic Bride": {
     "score": 196,
@@ -2654,17 +2655,6 @@
     "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "S/D Far Trace 3": { "sp": 240, "rarity": 5 } }
   },
-  "Olwen - Blue Mage Knight": {
-    "score": 200,
-    "scoreTotal": 400,
-    "poolRarity": 5,
-    "sp": 200,
-    "spTotal": 400,
-    "feather": 1000,
-    "bst": 144,
-    "skillA": { "Warding Blow 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Ward Cavalry": { "sp": 200, "rarity": 5 } }
-  },
   "Sanaki - Begnion's Apostle": {
     "score": 200,
     "scoreTotal": 400,
@@ -2762,18 +2752,6 @@
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Grima - Tyrant of Ruin": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 207,
-    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Res Scowl 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -3016,18 +2994,6 @@
     "skillB": { "Caldera Dance 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def Opening 3": { "sp": 240, "rarity": 4 } }
   },
-  "Leonie - Relentless Rays": {
-    "score": 299,
-    "scoreTotal": 416,
-    "poolRarity": 4,
-    "pool": "grail",
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 300,
-    "bst": 162,
-    "skillA": { "Atk/Spd Push 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Spd/Def Link 3": { "sp": 240, "rarity": 5 } }
-  },
   "Larum - Dancing Bride": {
     "score": 299,
     "scoreTotal": 416,
@@ -3040,18 +3006,6 @@
     "skillB": { "Atk Cantrip 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Guidance 3": { "sp": 240, "rarity": 5 } }
   },
-  "Luthier - Spring Hopes": {
-    "score": 299,
-    "scoreTotal": 416,
-    "poolRarity": 4,
-    "pool": "grail",
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 300,
-    "bst": 173,
-    "skillA": { "Atk/Def Bond 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Atk/Def Snag 3": { "sp": 240, "rarity": 4 } }
-  },
   "Nils - Snowflake Melody": {
     "score": 299,
     "scoreTotal": 416,
@@ -3063,6 +3017,19 @@
     "bst": 188,
     "skillB": { "Res Cantrip 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Spur Spd/Res 2": { "sp": 240, "rarity": 5 } }
+  },
+  "Céline - Blissful Tea Party": {
+    "score": 196,
+    "scoreTotal": 419,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 940,
+    "feather": 300,
+    "bst": 183,
+    "assist": { "Rally Up Res+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Spd Mastery": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 4 } }
   },
   "Ogma - Blade on Leave": {
     "score": 196,
@@ -4308,6 +4275,18 @@
     "skillA": { "Sturdy Stance 2": { "sp": 240, "rarity": 4 } },
     "skillB": { "Odd Follow-Up 3": { "sp": 240, "rarity": 5 } }
   },
+  "Grima - Tyrant of Ruin": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 207,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Scowl 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
   "Olivia - Festival Dancer": {
     "score": 254,
     "scoreTotal": 466,
@@ -4331,19 +4310,6 @@
     "bst": 149,
     "skillA": { "Triangle Adept 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Drive Res 2": { "sp": 240, "rarity": 5 } }
-  },
-  "Nowi - Eternal Witch": {
-    "score": 254,
-    "scoreTotal": 466,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 540,
-    "feather": 1000,
-    "bst": 147,
-    "skillA": { "Atk/Res Bond 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Live for Bounty": { "sp": 100, "rarity": 5 } },
-    "skillC": { "Hone Fliers": { "sp": 200, "rarity": 5 } }
   },
   "Henry - Happy Vampire": {
     "score": 254,
@@ -4445,17 +4411,6 @@
     "bst": 161,
     "skillA": { "Spd/Def Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Geyser Dance 2": { "sp": 240, "rarity": 5 } }
-  },
-  "Sumia - Maid of Flowers": {
-    "score": 240,
-    "scoreTotal": 480,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 1000,
-    "bst": 162,
-    "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
   },
   "Reinhardt - Thunder's Fist": {
     "score": 249,
@@ -4589,18 +4544,6 @@
     "bst": 157,
     "skillA": { "Sturdy Blow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Dull Close 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Marisa - Crimson Rabbit": {
-    "score": 254,
-    "scoreTotal": 509,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 480,
-    "feather": 1000,
-    "bst": 162,
-    "skillB": { "Spd/Def Link 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Flier Guidance 3": { "sp": 240, "rarity": 5 } }
   },
   "Soren - Shrewd Strategist": {
     "score": 249,
@@ -4749,6 +4692,18 @@
     "special": { "Draconic Aura": { "sp": 200, "rarity": 4 } },
     "skillA": { "Spd/Def 2": { "sp": 160, "rarity": 5 } },
     "skillB": { "Chill Atk 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Olwen - Blue Mage Knight": {
+    "score": 200,
+    "scoreTotal": 550,
+    "poolRarity": 5,
+    "sp": 200,
+    "spTotal": 550,
+    "feather": 1000,
+    "bst": 144,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Warding Blow 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Ward Cavalry": { "sp": 200, "rarity": 5 } }
   },
   "Louise - Eternal Devotion": {
     "score": 249,
@@ -5154,28 +5109,6 @@
     "skillB": { "A/R Cantrip 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
   },
-  "Isadora - Escort of Pherae": {
-    "score": 300,
-    "scoreTotal": 600,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 600,
-    "feather": 1000,
-    "bst": 184,
-    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Atk/Def Snag 4": { "sp": 300, "rarity": 5 } }
-  },
-  "Merrin - Suave Knight": {
-    "score": 300,
-    "scoreTotal": 600,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 600,
-    "feather": 1000,
-    "bst": 190,
-    "skillB": { "Spd/Def Link 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Even Atk Wave N": { "sp": 300, "rarity": 5 } }
-  },
   "Laegjarn - New Experiences": {
     "score": 299,
     "scoreTotal": 604,
@@ -5201,6 +5134,19 @@
     "assist": { "Shove": { "sp": 150, "rarity": 4 } },
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Spd Tactic 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Leonie - Relentless Rays": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 162,
+    "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Spd Push 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Spd/Def Link 3": { "sp": 240, "rarity": 5 } }
   },
   "Fiora - Defrosted Ilian": {
     "score": 299,
@@ -5279,6 +5225,19 @@
     "assist": { "Reciprocal Aid": { "sp": 150, "rarity": 4 } },
     "skillA": { "Atk/Def Bond 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Close Guard 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Luthier - Spring Hopes": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 173,
+    "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Def Bond 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Atk/Def Snag 3": { "sp": 240, "rarity": 4 } }
   },
   "Dorcas - Pumpkin Smasher": {
     "score": 299,
@@ -5384,6 +5343,19 @@
     "skillA": { "Bonus Doubler 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
   },
+  "Finn - Devoted Service": {
+    "score": 299,
+    "scoreTotal": 604,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 190,
+    "assist": { "Shove": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Spd/Def Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 4 } }
+  },
   "Vaike - Sunbaked Stunner": {
     "score": 299,
     "scoreTotal": 604,
@@ -5488,6 +5460,20 @@
     "skillA": { "Brazen Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Cancel Affinity 3": { "sp": 200, "rarity": 5 } }
   },
+  "Nowi - Eternal Witch": {
+    "score": 254,
+    "scoreTotal": 625,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 690,
+    "feather": 1000,
+    "bst": 147,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Res Bond 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Live for Bounty": { "sp": 100, "rarity": 5 } },
+    "skillC": { "Hone Fliers": { "sp": 200, "rarity": 5 } }
+  },
   "Naga - Dragon Divinity": {
     "score": 221,
     "scoreTotal": 626,
@@ -5564,6 +5550,18 @@
     "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
     "skillB": { "Quick Riposte 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd Ploy 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Sumia - Maid of Flowers": {
+    "score": 240,
+    "scoreTotal": 630,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 162,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
   },
   "Sakura - Gentle Nekomata": {
     "score": 212,
@@ -6266,6 +6264,19 @@
     "assist": { "Draw Back": { "sp": 150, "rarity": 5 } },
     "skillA": { "Atk/Res Bond 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Def/Res Link 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Marisa - Crimson Rabbit": {
+    "score": 254,
+    "scoreTotal": 668,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 1000,
+    "bst": 162,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillB": { "Spd/Def Link 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Flier Guidance 3": { "sp": 240, "rarity": 5 } }
   },
   "Sigrun - Steadfast Bride": {
     "score": 254,
@@ -7309,19 +7320,6 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk Tactic 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Chrom - Crowned Exalt": {
-    "score": 276,
-    "scoreTotal": 718,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 180,
-    "skillA": { "Close Counter": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Blue Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Ninian - Ice-Dragon Oracle": {
     "score": 276,
@@ -8968,6 +8966,19 @@
     "skillB": { "Wrath 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Even Atk Wave 3": { "sp": 240, "rarity": 5 } }
   },
+  "Bruno - Masked Knight": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 185,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Poison Strike 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Red Feud 3": { "sp": 240, "rarity": 5 } }
+  },
   "Hans - Ambitious Brute": {
     "score": 322,
     "scoreTotal": 746,
@@ -9228,6 +9239,30 @@
     "skillA": { "Atk/Def Prime 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
   },
+  "Isadora - Escort of Pherae": {
+    "score": 300,
+    "scoreTotal": 750,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 750,
+    "feather": 1000,
+    "bst": 184,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Def Snag 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Merrin - Suave Knight": {
+    "score": 300,
+    "scoreTotal": 750,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 750,
+    "feather": 1000,
+    "bst": 190,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillB": { "Spd/Def Link 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Even Atk Wave N": { "sp": 300, "rarity": 5 } }
+  },
   "Micaiah - Summer's Dawn": {
     "score": 254,
     "scoreTotal": 763,
@@ -9253,19 +9288,6 @@
     "skillA": { "Atk/Spd Push 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Rockslide Dance 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Res 2": { "sp": 240, "rarity": 5 } }
-  },
-  "Fjorm - New Traditions": {
-    "score": 254,
-    "scoreTotal": 763,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 240,
-    "spTotal": 720,
-    "feather": 1000,
-    "bst": 150,
-    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Atk/Spd Link 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Even Res Wave 3": { "sp": 240, "rarity": 5 } }
   },
   "Peony - Sweet Dream": {
     "score": 276,
@@ -9356,42 +9378,6 @@
     "skillA": { "Steady Blow 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
   },
-  "Wolf - Coyote's Loyal": {
-    "score": 300,
-    "scoreTotal": 780,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 169,
-    "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Def/Res Snag 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Farina - The Great Wing": {
-    "score": 300,
-    "scoreTotal": 780,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 173,
-    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Atk/Spd Snag 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Lilith - Astral Daughter": {
-    "score": 300,
-    "scoreTotal": 780,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 173,
-    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Def/Res Link 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
-  },
   "Olwen - Righteous Knight": {
     "score": 300,
     "scoreTotal": 780,
@@ -9456,19 +9442,6 @@
     "assist": { "Rally Atk/Spd": { "sp": 300, "rarity": 5 } },
     "skillB": { "Escape Route 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Breath of Life 3": { "sp": 200, "rarity": 5 } }
-  },
-  "Laegjarn - Burning Sun": {
-    "score": 318,
-    "scoreTotal": 784,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 149,
-    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Flier Formation 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Hone Fliers": { "sp": 200, "rarity": 5 } }
   },
   "Veronica - Spring Princess": {
     "score": 318,
@@ -9781,19 +9754,6 @@
     "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
     "skillA": { "Sturdy Stance 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Palla - Sisterly Trio": {
-    "score": 318,
-    "scoreTotal": 784,
-    "poolRarity": 5,
-    "pool": "duo",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 185,
-    "skillA": { "Mirror Impact": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Chill Atk/Spd 2": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Goad Fliers": { "sp": 200, "rarity": 5 } }
   },
   "Surtr - Pirate of Red Sky": {
     "score": 318,
@@ -10474,32 +10434,6 @@
     "skillB": { "Firestorm Dance 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
   },
-  "Lyn - Lady of the Beach": {
-    "score": 318,
-    "scoreTotal": 827,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 155,
-    "skillA": { "Sturdy Impact": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Atk/Spd Link 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Mia - Harmonic Blades": {
-    "score": 318,
-    "scoreTotal": 827,
-    "poolRarity": 5,
-    "pool": "harmonized",
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 156,
-    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Spd Gap 3": { "sp": 240, "rarity": 5 } }
-  },
   "Plumeria - Temptation Anew": {
     "score": 318,
     "scoreTotal": 827,
@@ -10642,18 +10576,6 @@
     "skillA": { "B Duel Infantry 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Odd Pulse Tie 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Cross Spur Atk": { "sp": 300, "rarity": 5 } }
-  },
-  "Chrom - Fated Honor": {
-    "score": 300,
-    "scoreTotal": 840,
-    "poolRarity": 5,
-    "sp": 300,
-    "spTotal": 840,
-    "feather": 1000,
-    "bst": 179,
-    "skillA": { "Surge Sparrow": { "sp": 300, "rarity": 5 } },
-    "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Inf. Spd Tactic": { "sp": 300, "rarity": 5 } }
   },
   "Ranulf - Friend of Nations": {
     "score": 400,
@@ -11071,6 +10993,20 @@
     "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wings of Mercy 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Chrom - Crowned Exalt": {
+    "score": 276,
+    "scoreTotal": 856,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 180,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Close Counter": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Lull Atk/Def 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Blue Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Mila - Goddess of Love": {
     "score": 368,
@@ -11646,6 +11582,20 @@
     "skillA": { "Atk/Spd Scowl 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Spd Ruse 4": { "sp": 300, "rarity": 5 } }
   },
+  "Fjorm - New Traditions": {
+    "score": 254,
+    "scoreTotal": 922,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 240,
+    "spTotal": 870,
+    "feather": 1000,
+    "bst": 150,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Atk/Spd Link 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Even Res Wave 3": { "sp": 240, "rarity": 5 } }
+  },
   "Hinoka - Relaxed Warrior": {
     "score": 254,
     "scoreTotal": 922,
@@ -11672,6 +11622,45 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Close Guard 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Wolf - Coyote's Loyal": {
+    "score": 300,
+    "scoreTotal": 930,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 169,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Life and Death 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Def/Res Snag 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Panic Smoke 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Farina - The Great Wing": {
+    "score": 300,
+    "scoreTotal": 930,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 173,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Snag 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Lilith - Astral Daughter": {
+    "score": 300,
+    "scoreTotal": 930,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 173,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Def/Res Link 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
   },
   "Palla - Eldest Bun-Bun": {
     "score": 254,
@@ -12066,6 +12055,34 @@
     "skillA": { "Fury 3": { "sp": 200, "rarity": 5 } },
     "skillB": { "Chill Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Sword Valor 3": { "sp": 120, "rarity": 5 } }
+  },
+  "Laegjarn - Burning Sun": {
+    "score": 318,
+    "scoreTotal": 943,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 890,
+    "feather": 1000,
+    "bst": 149,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flier Formation 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Hone Fliers": { "sp": 200, "rarity": 5 } }
+  },
+  "Palla - Sisterly Trio": {
+    "score": 318,
+    "scoreTotal": 943,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 300,
+    "spTotal": 890,
+    "feather": 1000,
+    "bst": 185,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Mirror Impact": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Chill Atk/Spd 2": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Goad Fliers": { "sp": 200, "rarity": 5 } }
   },
   "Lucina - Fate's Resolve": {
     "score": 270,
@@ -12655,6 +12672,34 @@
     "skillB": { "Def/Res Link 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Atk Wave 3": { "sp": 240, "rarity": 5 } }
   },
+  "Lyn - Lady of the Beach": {
+    "score": 318,
+    "scoreTotal": 986,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 155,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Sturdy Impact": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Link 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Distant Guard 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Mia - Harmonic Blades": {
+    "score": 318,
+    "scoreTotal": 986,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 930,
+    "feather": 1000,
+    "bst": 156,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Swift Sparrow 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Snag 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Gap 3": { "sp": 240, "rarity": 5 } }
+  },
   "Hríd - Resolute Prince": {
     "score": 318,
     "scoreTotal": 986,
@@ -12783,6 +12828,19 @@
     "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Breath of Life 4": { "sp": 300, "rarity": 5 } },
     "skillX": { "Time Pulse Echo": { "sp": 0, "rarity": 5 } }
+  },
+  "Chrom - Fated Honor": {
+    "score": 300,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 990,
+    "feather": 1000,
+    "bst": 179,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Surge Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Inf. Spd Tactic": { "sp": 300, "rarity": 5 } }
   },
   "Tana - Soaring Princess": {
     "score": 450,
@@ -13091,19 +13149,6 @@
     "assist": { "Rally Up Spd+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Céline - Blissful Tea Party": {
-    "score": 424,
-    "scoreTotal": 996,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 400,
-    "spTotal": 940,
-    "feather": 1000,
-    "bst": 183,
-    "assist": { "Rally Up Res+": { "sp": 400, "rarity": 5 } },
-    "skillA": { "Atk/Spd Mastery": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
   "Ronan - Villager of Iz": {
     "score": 400,
@@ -14369,6 +14414,18 @@
     "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
+  "Sharena - Hopeful Princess": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Magic Light": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Shackle": { "sp": 300, "rarity": 5 } }
+  },
   "Bernadetta - Sheltered Loner": {
     "score": 500,
     "scoreTotal": 1100,
@@ -14430,6 +14487,18 @@
     "skillB": { "Full Disarm": { "sp": 300, "rarity": 5 } },
     "skillC": { "Active Lookout": { "sp": 300, "rarity": 5 } }
   },
+  "Baldr - Rays of Judgment": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Speedtaker 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Deadly Miasma": { "sp": 300, "rarity": 5 } }
+  },
   "Naga - Ruler of Dragons": {
     "score": 500,
     "scoreTotal": 1100,
@@ -14465,6 +14534,18 @@
     "special": { "Gust": { "sp": 500, "rarity": 5 } },
     "skillB": { "S/D Spiked Wall": { "sp": 300, "rarity": 5 } },
     "skillC": { "Odd Spd Wave 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Byleth - Anchor of Hope": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Gust": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Null C-Avoid": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Faith": { "sp": 300, "rarity": 5 } }
   },
   "Corrin - Silent Bloodline": {
     "score": 500,
@@ -14823,19 +14904,6 @@
     "skillB": { "Shield Pulse 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
   },
-  "Chrom - Fate-Defying Duo": {
-    "score": 530,
-    "scoreTotal": 1102,
-    "poolRarity": 5,
-    "pool": "duo",
-    "sp": 500,
-    "spTotal": 1040,
-    "feather": 1000,
-    "bst": 195,
-    "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
-    "skillA": { "Close Salvo": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
-  },
   "Heiðr - Innocent Goddess": {
     "score": 276,
     "scoreTotal": 1104,
@@ -14990,20 +15058,6 @@
     "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Occultist's Strike": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Res Crux": { "sp": 300, "rarity": 5 } }
-  },
-  "Veronica - Royal Reception": {
-    "score": 318,
-    "scoreTotal": 1166,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 179,
-    "special": { "Reprisal": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Sly Swift Sparrow": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Spd/Res Detect": { "sp": 300, "rarity": 5 } },
-    "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
   },
   "Tharja - Shadow Ninja": {
     "score": 318,
@@ -15573,19 +15627,6 @@
     "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
     "skillB": { "Potent 4": { "sp": 300, "rarity": 5 } }
   },
-  "Robin - Vessels of Fate": {
-    "score": 530,
-    "scoreTotal": 1166,
-    "poolRarity": 5,
-    "pool": "duo",
-    "sp": 500,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 205,
-    "special": { "Flare": { "sp": 500, "rarity": 5 } },
-    "skillB": { "Atk/Spd Link 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
-  },
   "Myrrh - Adored Dragon": {
     "score": 530,
     "scoreTotal": 1166,
@@ -15918,33 +15959,19 @@
     "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def/Res Rein 3": { "sp": 240, "rarity": 5 } }
   },
-  "Chrom - Fell Exalt": {
-    "score": 450,
-    "scoreTotal": 1260,
+  "Chrom - Fate-Defying Duo": {
+    "score": 530,
+    "scoreTotal": 1261,
     "poolRarity": 5,
-    "pool": "rearmed",
+    "pool": "duo",
     "sp": 500,
-    "spTotal": 1400,
+    "spTotal": 1190,
     "feather": 1000,
-    "bst": 179,
-    "special": { "Galeforce": { "sp": 500, "rarity": 5 } },
-    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Spd/Def Snag 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Inf. Spd Tactic": { "sp": 300, "rarity": 5 } }
-  },
-  "Leo - Dark Sprout": {
-    "score": 318,
-    "scoreTotal": 1272,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 1200,
-    "feather": 1000,
-    "bst": 180,
-    "special": { "Blazing Thunder": { "sp": 300, "rarity": 5 } },
-    "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Atk/Res Detect": { "sp": 300, "rarity": 5 } },
-    "skillC": { "A/R Incite Hone": { "sp": 300, "rarity": 5 } }
+    "bst": 195,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Close Salvo": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Igrene - Sworn Protectors": {
     "score": 318,
@@ -16054,6 +16081,35 @@
     "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Joint Drive Atk": { "sp": 300, "rarity": 5 } }
   },
+  "Veronica - Royal Reception": {
+    "score": 318,
+    "scoreTotal": 1325,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1250,
+    "feather": 1000,
+    "bst": 179,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Reprisal": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Sly Swift Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Detect": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
+  },
+  "Robin - Vessels of Fate": {
+    "score": 530,
+    "scoreTotal": 1325,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1250,
+    "feather": 1000,
+    "bst": 205,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Flare": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Atk/Spd Link 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
+  },
   "Felix - Lone-Wolf Blade": {
     "score": 500,
     "scoreTotal": 1340,
@@ -16108,6 +16164,21 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Chill Spd/Res 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ground Orders 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Chrom - Fell Exalt": {
+    "score": 450,
+    "scoreTotal": 1395,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1550,
+    "feather": 1000,
+    "bst": 179,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Galeforce": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Snag 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Inf. Spd Tactic": { "sp": 300, "rarity": 5 } }
   },
   "Ashe - Chivalric Amends": {
     "score": 500,
@@ -16204,6 +16275,21 @@
     "skillB": { "Brash Assault 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Fatal Smoke 3": { "sp": 240, "rarity": 5 } }
   },
+  "Leo - Dark Sprout": {
+    "score": 318,
+    "scoreTotal": 1431,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1350,
+    "feather": 1000,
+    "bst": 180,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Blazing Thunder": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Detect": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Incite Hone": { "sp": 300, "rarity": 5 } }
+  },
   "Goldmary - Coy Beach Divas": {
     "score": 530,
     "scoreTotal": 1484,
@@ -16287,6 +16373,20 @@
     "skillA": { "Earthfire Boost 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Scales": { "sp": 300, "rarity": 5 } },
     "skillC": { "D/R Twin N Save": { "sp": 300, "rarity": 5 } }
+  },
+  "Eikþyrnir - Resolved to Train": {
+    "score": 400,
+    "scoreTotal": 1500,
+    "poolRarity": 5,
+    "sp": 400,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 212,
+    "assist": { "Swap Gait": { "sp": 400, "rarity": 5 } },
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Fortune": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Assault Fighter": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Briar P Save": { "sp": 300, "rarity": 5 } }
   },
   "Sylvain - Spring Flingster": {
     "score": 530,
