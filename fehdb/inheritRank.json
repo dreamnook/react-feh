@@ -13537,6 +13537,19 @@
     "skillA": { "Atk/Res Fortune": { "sp": 300, "rarity": 5 } },
     "skillC": { "Barricade": { "sp": 300, "rarity": 5 } }
   },
+  "Diamant - Fortified King": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 215,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillA": { "D Bonus Amp": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Brutal Tempest": { "sp": 300, "rarity": 5 } }
+  },
   "Bernadetta - Frosty Shut-In": {
     "score": 318,
     "scoreTotal": 1039,

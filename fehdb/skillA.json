@@ -2059,6 +2059,15 @@
     "icon": "skillA/D_Bonus_Doubler",
     "last": true
   },
+  "D Bonus Amp": {
+    "id": "D Bonus Amp",
+    "name": "遠反・有利增幅",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "prev": ["Distant Counter"],
+    "icon": "skillA/D_Bonus_Amp",
+    "last": true
+  },
   "Distant A/D Form": {
     "id": "Distant A/D Form",
     "name": "遠反・攻防的密集",

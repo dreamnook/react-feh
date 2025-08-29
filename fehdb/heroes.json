@@ -377,7 +377,7 @@
     "statMax": 185,
     "book": 9,
     "ver": "9.8",
-    "dfKey": 7
+    "dfKey": 8
   },
   "Anna - Commander": {
     "id": "Anna - Commander",
@@ -5155,7 +5155,7 @@
     "statMax": 215,
     "book": 9,
     "ver": "9.8",
-    "dfKey": 7
+    "dfKey": 8
   },
   "Læraðr - Quieting Heart": {
     "id": "Læraðr - Quieting Heart",
@@ -5263,7 +5263,7 @@
     "statMax": 195,
     "book": 9,
     "ver": "9.8",
-    "dfKey": 7
+    "dfKey": 8
   },
   "Höðr - Dusk Shadow God": {
     "id": "Höðr - Dusk Shadow God",
@@ -48002,7 +48002,7 @@
     "statMax": 205,
     "book": 9,
     "ver": "9.8",
-    "dfKey": 7
+    "dfKey": 8
   },
   "Sothis - Girl on the Throne": {
     "id": "Sothis - Girl on the Throne",
@@ -54069,6 +54069,44 @@
     "book": 8,
     "ver": "8.11",
     "dfKey": 7
+  },
+  "Diamant - Fortified King": {
+    "id": "Diamant - Fortified King",
+    "title": "不屈的金剛之王",
+    "name": "帝亞曼德",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "infantry",
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "earth-def-2",
+    "bst": 215,
+    "appearsIn": ["Engage"],
+    "releaseDate": "2025-08-29",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [47, 50, 54],
+        "spd": [34, 37, 41],
+        "def": [45, 49, 52],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 7,
+        "def": 16,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 9,
+    "ver": "9.8",
+    "dfKey": 8
   },
   "Alcryst - Tender Archer": {
     "id": "Alcryst - Tender Archer",

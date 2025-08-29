@@ -882,6 +882,14 @@
     "icon": "skillB/True_Lone_Wolf",
     "last": true
   },
+  "Fair Fight": {
+    "id": "Fair Fight",
+    "name": "正面對決",
+    "sp": 300,
+    "exclusive": ["Diamant - Fortified King"],
+    "icon": "skillB/Fair_Fight",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

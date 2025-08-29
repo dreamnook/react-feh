@@ -12752,6 +12752,16 @@
       "exclusive": ["Ingrid - Cordial Teatime"],
       "last": true
     },
+    "Fortified Axe": {
+      "id": "Fortified Axe",
+      "name": "黑鐵之王的鋼斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Diamant - Fortified King"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -26100,7 +26110,7 @@
     },
     "Cryptic Valaskjálf": {
       "id": "Cryptic Valaskjálf",
-      "name": "隱書瓦拉斯卡夫",
+      "name": "異邦瓦拉斯卡夫",
       "mt": 14,
       "cd": -1,
       "sp": 400,

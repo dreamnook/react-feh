@@ -5136,6 +5136,7 @@
             "Eitri - Youthful Sage",
             "Elincia - Undaunted Queen",
             "Corrin - Child of Dusk",
+            "Diamant - Fortified King",
             "Corrin - Child of Dawn"
           ]
         },
@@ -5220,7 +5221,10 @@
       "rules": "learner.wielderNotArmor"
     },
     "Archrival": {
-      "pool": { "#": { "5": ["Baldr - Rays of Judgment"] } },
+      "pool": {
+        "#": { "5": ["Baldr - Rays of Judgment"] },
+        "legendary": { "5": ["Diamant - Fortified King"] }
+      },
       "id": "Archrival",
       "name": "角逐",
       "sp": 500,
@@ -7903,7 +7907,8 @@
             "Caeda - Beloved Queen",
             "Corrin - Child of Dusk",
             "Fae - Childlike Dragon",
-            "Black Knight - Mortal Legend"
+            "Black Knight - Mortal Legend",
+            "Diamant - Fortified King"
           ]
         },
         "mythic": {
@@ -8038,6 +8043,14 @@
       "name": "遠反・強化增幅",
       "sp": 300,
       "icon": "skillA/D_Bonus_Doubler",
+      "rules": "learner.infantry-melee"
+    },
+    "D Bonus Amp": {
+      "pool": { "legendary": { "5": ["Diamant - Fortified King"] } },
+      "id": "D Bonus Amp",
+      "name": "遠反・有利增幅",
+      "sp": 300,
+      "icon": "skillA/D_Bonus_Amp",
       "rules": "learner.infantry-melee"
     },
     "Distant A/D Form": {
@@ -18222,6 +18235,7 @@
       "pool": {
         "#": { "5": ["Marth - Prince of Light", "Lucia - Tireless Advisor"] },
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
+        "legendary": { "5": ["Diamant - Fortified King"] },
         "mythic": { "5": ["Líf - Lethal Swordsman", "Dagr - Sun's Radiance"] },
         "special": {
           "5": ["Diamant - Gallant Ninja", "Lapis - Forager of the Sea"]
@@ -18246,7 +18260,9 @@
     },
     "Brutal Tempest": {
       "pool": {
-        "legendary": { "5": ["Ayra - Supreme Astra"] },
+        "legendary": {
+          "5": ["Ayra - Supreme Astra", "Diamant - Fortified King"]
+        },
         "special": { "5": ["Larcei - Bride of Astra"] }
       },
       "id": "Brutal Tempest",

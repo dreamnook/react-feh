@@ -31171,6 +31171,32 @@
       "Endless Tempest": 5
     }
   },
+  "Diamant - Fortified King": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Fortified Axe": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "D Bonus Amp": 5
+    },
+    "skillB": {
+      "Fair Fight": 5
+    },
+    "skillC": {
+      "Even Tempest 1": 2,
+      "Even Tempest 2": 3,
+      "Even Tempest 3": 4,
+      "Brutal Tempest": 5
+    }
+  },
   "Alcryst - Tender Archer": {
     "weapon": {
       "Iron Bow": 1,
