@@ -5017,5 +5017,14 @@
     "rules": "learner.infantry-armored-flying-ranged-res-dmger",
     "icon": "skillC/Silence_Ward_4",
     "last": true
+  },
+  "Time Pulse Arms": {
+    "id": "Time Pulse Arms",
+    "name": "初始之躍動・鎧",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Time's Pulse 3"],
+    "icon": "skillC/Time_Pulse_Arms",
+    "last": true
   }
 }

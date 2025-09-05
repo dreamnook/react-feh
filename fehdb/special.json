@@ -886,6 +886,15 @@
     "rules": "learner.melee-def-dmger",
     "last": true
   },
+  "Galeforce Mist": {
+    "id": "Galeforce Mist",
+    "name": "疾風迅雷・霞",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Astra"],
+    "rules": "learner.cavalry-flying-melee-def-dmger",
+    "last": true
+  },
   "Retribution": {
     "id": "Retribution",
     "name": "雪辱",

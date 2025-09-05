@@ -356,6 +356,22 @@
     "exclusive": ["Plumeria - Spring Dance"],
     "last": true
   },
+  "Conquering Fate": {
+    "id": "Conquering Fate",
+    "name": "我要戰勝命運",
+    "sp": 500,
+    "prev": ["Reposition"],
+    "exclusive": ["Chrom - Pivotal Blow"],
+    "last": true
+  },
+  "Future Gaze": {
+    "id": "Future Gaze",
+    "name": "選擇未來的眼眸",
+    "sp": 400,
+    "prev": ["Swap"],
+    "exclusive": ["Marth - Masked Gladiator"],
+    "last": true
+  },
   "Heal": {
     "id": "Heal",
     "name": "聖療",

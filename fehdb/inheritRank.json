@@ -6161,6 +6161,19 @@
     "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Vengeful Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ogma - Former Gladiator": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 204,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
+  },
   "Alfred - Floral Protector": {
     "score": 270,
     "scoreTotal": 666,
@@ -9832,6 +9845,19 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Ferocity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Chulainn - Leading Gladiator": {
+    "score": 318,
+    "scoreTotal": 784,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 1000,
+    "bst": 203,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillB": { "A/S Spiked Wall": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Tharja - 'Normal Girl'": {
     "score": 318,
@@ -16109,6 +16135,20 @@
     "skillB": { "Spd/Res Detect": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
   },
+  "Marth - Masked Gladiator": {
+    "score": 530,
+    "scoreTotal": 1325,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1250,
+    "feather": 1000,
+    "bst": 204,
+    "assist": { "Swap": { "sp": 150, "rarity": 5 } },
+    "special": { "Gust": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Favor": { "sp": 300, "rarity": 5 } }
+  },
   "Robin - Vessels of Fate": {
     "score": 530,
     "scoreTotal": 1325,
@@ -16303,6 +16343,21 @@
     "skillB": { "Atk/Res Detect": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/R Incite Hone": { "sp": 300, "rarity": 5 } }
   },
+  "Chrom - Pivotal Blow": {
+    "score": 318,
+    "scoreTotal": 1431,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1350,
+    "feather": 1000,
+    "bst": 199,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Sly Sturdy Blow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Def Favor": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time Pulse Arms": { "sp": 300, "rarity": 5 } }
+  },
   "Goldmary - Coy Beach Divas": {
     "score": 530,
     "scoreTotal": 1484,
@@ -16330,6 +16385,20 @@
     "skillA": { "Bonus Doubler 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Fir - Dual Warriors": {
+    "score": 530,
+    "scoreTotal": 1484,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Galeforce Mist": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Blue Skies 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Potent Assault": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Outcry Dull": { "sp": 300, "rarity": 5 } }
   },
   "Diamant - Gallant Ninja": {
     "score": 530,

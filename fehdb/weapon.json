@@ -3730,6 +3730,16 @@
       },
       "last": true
     },
+    "Princesses' Edge": {
+      "id": "Princesses' Edge",
+      "name": "劍姬母女的烈劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Fir - Dual Warriors"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -5290,6 +5300,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Serving Knife"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Arena Sword": {
+      "id": "Arena Sword",
+      "name": "鬥技之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Arena Sword+": {
+      "id": "Arena Sword+",
+      "name": "鬥技之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Arena Sword"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -8482,6 +8525,16 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Felix - Savant's Service"],
+      "last": true
+    },
+    "Disguise Lance": {
+      "id": "Disguise Lance",
+      "name": "神秘鬥技者之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Marth - Masked Gladiator"],
       "last": true
     },
     "Arcane Qiang": {
@@ -14695,6 +14748,39 @@
         }
       },
       "last": true
+    },
+    "Arena Axe": {
+      "id": "Arena Axe",
+      "name": "鬥技之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Arena Axe+": {
+      "id": "Arena Axe+",
+      "name": "鬥技之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Arena Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "bow": {
@@ -16433,6 +16519,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Baldr - Rays of Judgment"],
+      "last": true
+    },
+    "Gladiator's Bow": {
+      "id": "Gladiator's Bow",
+      "name": "勇猛鬥技者之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Chrom - Pivotal Blow"],
       "last": true
     },
     "Arcane Náströnd": {

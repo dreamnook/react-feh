@@ -382,6 +382,13 @@
         "name": "侍者的鏟刀+",
         "sp": 300,
         "refine": 350
+      },
+      "Arena Sword+": {
+        "pool": { "grail": { "5": ["Ogma - Former Gladiator"] } },
+        "id": "Arena Sword+",
+        "name": "鬥技之劍+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "blue-lance": {
@@ -1293,6 +1300,13 @@
         "pool": { "special": { "5": ["Palla - Soaring Summer"] } },
         "id": "Fannin' Foliage+",
         "name": "椰樹之葉+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Arena Axe+": {
+        "pool": { "special": { "5": ["Chulainn - Leading Gladiator"] } },
+        "id": "Arena Axe+",
+        "name": "鬥技之斧+",
         "sp": 300,
         "refine": 350
       }
@@ -3502,7 +3516,8 @@
             "Xander - Spring Prince",
             "Yuri - Tropical Wolf",
             "Hríd - Resolute Prince",
-            "Lucina - Future Fondness"
+            "Lucina - Future Fondness",
+            "Marth - Masked Gladiator"
           ]
         },
         "duo": { "5": ["Lucina - Shadows of Fate"] }
@@ -3669,7 +3684,8 @@
             "Laegjarn - Burning Sun",
             "Lyn - Lady of the Beach",
             "Veronica - Royal Reception",
-            "Leo - Dark Sprout"
+            "Leo - Dark Sprout",
+            "Chrom - Pivotal Blow"
           ]
         },
         "duo": {
@@ -4547,6 +4563,7 @@
             "Igrene - Ninja of Nabata",
             "Eliwood - Pledged Friend",
             "Nailah - Hatari Scorcher",
+            "Chulainn - Leading Gladiator",
             "Eirika - Beach Restorer",
             "Shez - Snowfield Envoy",
             "Juno - Nimble Grace",
@@ -4737,7 +4754,8 @@
             "Alear - Seaside Dragon",
             "Petra - Faraway Sun",
             "Felix - Savant's Service",
-            "Malice - Blooming Blade"
+            "Malice - Blooming Blade",
+            "Marth - Masked Gladiator"
           ]
         },
         "duo": {
@@ -4836,7 +4854,8 @@
           "5": [
             "Leif - Destined Scions",
             "Ayra - Together in Tea",
-            "Cordelia - Unyielding Snow"
+            "Cordelia - Unyielding Snow",
+            "Fir - Dual Warriors"
           ]
         }
       },
@@ -4867,7 +4886,11 @@
         "rearmed": { "5": ["Machyua - Blade of Gales"] },
         "attuned": { "5": ["Eirika - Resolute Princess"] },
         "special": {
-          "5": ["Felix - Savant's Service", "Malice - Blooming Blade"]
+          "5": [
+            "Felix - Savant's Service",
+            "Malice - Blooming Blade",
+            "Marth - Masked Gladiator"
+          ]
         }
       },
       "id": "Gust",
@@ -4917,6 +4940,13 @@
       "name": "疾風迅雷",
       "sp": 500,
       "rules": "learner.melee-def-dmger"
+    },
+    "Galeforce Mist": {
+      "pool": { "harmonized": { "5": ["Fir - Dual Warriors"] } },
+      "id": "Galeforce Mist",
+      "name": "疾風迅雷・霞",
+      "sp": 500,
+      "rules": "learner.cavalry-flying-melee-def-dmger"
     },
     "Reprisal": {
       "pool": {
@@ -5372,6 +5402,7 @@
             "Hawkeye - Taciturn Guardian",
             "Vigarde - Warmhearted Sire",
             "Kellam - Pumpkin Knight",
+            "Ogma - Former Gladiator",
             "Travant - King of Thracia",
             "Orson - Passion's Folly",
             "Petrine - Icy Flame-Lancer",
@@ -5805,6 +5836,7 @@
         "ascended": { "5": ["Ced - Sage of the Wind"] },
         "rearmed": { "5": ["Sonya - Beautiful Mage"] },
         "legendary": { "5": ["Dimitri - Savior King"] },
+        "special": { "5": ["Chrom - Pivotal Blow"] },
         "duo": { "5": ["Heiðrún - Sisters of Healing"] },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
@@ -7060,7 +7092,8 @@
             "Sigurd - Proper Pourer",
             "Lyn - Lady of the Beach",
             "Ingrid - Solstice Knight",
-            "Edelgard - Adorned Eagle"
+            "Edelgard - Adorned Eagle",
+            "Chrom - Pivotal Blow"
           ]
         },
         "harmonized": { "5": ["Roy - Blazing Bachelors"] }
@@ -7351,7 +7384,9 @@
       "rules": "not.white-staff"
     },
     "Sly Sturdy Blow": {
-      "pool": { "special": { "5": ["Edelgard - Adorned Eagle"] } },
+      "pool": {
+        "special": { "5": ["Edelgard - Adorned Eagle", "Chrom - Pivotal Blow"] }
+      },
       "id": "Sly Sturdy Blow",
       "name": "鬼神金剛掩擊",
       "sp": 300,
@@ -9911,7 +9946,8 @@
           "5": [
             "Larcei - Bride of Astra",
             "Nino - Burst of Summer",
-            "Felix - Savant's Service"
+            "Felix - Savant's Service",
+            "Marth - Masked Gladiator"
           ]
         }
       },
@@ -10100,7 +10136,8 @@
           "5": [
             "Larcei - Bride of Astra",
             "Nino - Burst of Summer",
-            "Felix - Savant's Service"
+            "Felix - Savant's Service",
+            "Marth - Masked Gladiator"
           ]
         }
       },
@@ -10695,7 +10732,8 @@
       "pool": {
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "mythic": { "5": ["Baldr - Celestial Sun God"] },
-        "duo": { "5": ["Marth - Love and Courage"] }
+        "duo": { "5": ["Marth - Love and Courage"] },
+        "harmonized": { "5": ["Fir - Dual Warriors"] }
       },
       "id": "Blue Skies 3",
       "name": "蒼穹3",
@@ -10707,7 +10745,8 @@
       "pool": {
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "mythic": { "5": ["Baldr - Celestial Sun God"] },
-        "duo": { "5": ["Marth - Love and Courage"] }
+        "duo": { "5": ["Marth - Love and Courage"] },
+        "harmonized": { "5": ["Fir - Dual Warriors"] }
       },
       "id": "Blue Skies 4",
       "name": "蒼穹4",
@@ -12849,7 +12888,8 @@
             "Niles - Forbidden Tease",
             "Fjorm - New Traditions",
             "Hinoka - Relaxed Warrior",
-            "Lyn - Lady of the Beach"
+            "Lyn - Lady of the Beach",
+            "Marth - Masked Gladiator"
           ]
         },
         "duo": { "5": ["Robin - Vessels of Fate"] }
@@ -12880,7 +12920,8 @@
             "Vaike - Sunbaked Stunner",
             "Itsuki - Finding a Path"
           ]
-        }
+        },
+        "special": { "5": ["Chrom - Pivotal Blow"] }
       },
       "id": "Atk/Def Link 3",
       "name": "攻擊防守連動3",
@@ -12954,6 +12995,22 @@
       "name": "防守魔防連動3",
       "sp": 240,
       "icon": "skillB/Def_Res_Link_3",
+      "rules": "not.white-staff"
+    },
+    "Atk/Def Favor": {
+      "pool": { "special": { "5": ["Chrom - Pivotal Blow"] } },
+      "id": "Atk/Def Favor",
+      "name": "攻擊防守共鳴",
+      "sp": 300,
+      "icon": "skillB/Atk_Def_Favor",
+      "rules": "not.white-staff"
+    },
+    "Atk/Spd Favor": {
+      "pool": { "special": { "5": ["Marth - Masked Gladiator"] } },
+      "id": "Atk/Spd Favor",
+      "name": "攻擊速度共鳴",
+      "sp": 300,
+      "icon": "skillB/Atk_Spd_Favor",
       "rules": "not.white-staff"
     },
     "Atk/Spd Snag 3": {
@@ -13205,6 +13262,7 @@
             "Nergal - Traitor to Nabata"
           ]
         },
+        "grail": { "5": ["Ogma - Former Gladiator"] },
         "ascended": { "5": ["Ced - Sage of the Wind"] },
         "rearmed": { "5": ["Ophelia - Starlit Maiden"] },
         "special": {
@@ -14024,7 +14082,11 @@
         "mythic": { "5": ["Ótr - Kingsbrother"] },
         "special": { "5": ["Seliph - Light's Legacy"] },
         "harmonized": {
-          "5": ["Caeda - Sea-Blossom Pair", "Ingrid - Cordial Teatime"]
+          "5": [
+            "Caeda - Sea-Blossom Pair",
+            "Fir - Dual Warriors",
+            "Ingrid - Cordial Teatime"
+          ]
         }
       },
       "id": "Flow Refresh 3",
@@ -14129,7 +14191,9 @@
     "Potent Assault": {
       "pool": {
         "special": { "5": ["Seliph - Light's Legacy"] },
-        "harmonized": { "5": ["Ingrid - Cordial Teatime"] }
+        "harmonized": {
+          "5": ["Fir - Dual Warriors", "Ingrid - Cordial Teatime"]
+        }
       },
       "id": "Potent Assault",
       "name": "強攻・神速",
@@ -14223,7 +14287,11 @@
           ]
         },
         "special": {
-          "5": ["Lucia - Loyalty Enrobed", "Malice - Blooming Blade"]
+          "5": [
+            "Chulainn - Leading Gladiator",
+            "Lucia - Loyalty Enrobed",
+            "Malice - Blooming Blade"
+          ]
         }
       },
       "id": "Atk/Spd Bulwark 3",
@@ -14310,7 +14378,11 @@
       "rules": "learner.infantry-melee"
     },
     "A/S Spiked Wall": {
-      "pool": { "special": { "5": ["Malice - Blooming Blade"] } },
+      "pool": {
+        "special": {
+          "5": ["Chulainn - Leading Gladiator", "Malice - Blooming Blade"]
+        }
+      },
       "id": "A/S Spiked Wall",
       "name": "攻擊速度的刃牆",
       "sp": 300,
@@ -15703,7 +15775,9 @@
           ]
         },
         "duo": { "5": ["Marth - Royal Altean Duo"] },
-        "harmonized": { "5": ["Ingrid - Cordial Teatime"] }
+        "harmonized": {
+          "5": ["Fir - Dual Warriors", "Ingrid - Cordial Teatime"]
+        }
       },
       "id": "Hone Spd 3",
       "name": "速度鼓舞3",
@@ -15852,7 +15926,11 @@
       "rules": "cavalry"
     },
     "A/S Outcry Dull": {
-      "pool": { "harmonized": { "5": ["Ingrid - Cordial Teatime"] } },
+      "pool": {
+        "harmonized": {
+          "5": ["Fir - Dual Warriors", "Ingrid - Cordial Teatime"]
+        }
+      },
       "id": "A/S Outcry Dull",
       "name": "攻速鼓譟・強化無效",
       "sp": 300,
@@ -16778,10 +16856,12 @@
           "5": [
             "Lissa - Littlest Princess",
             "Soren - Hushed Voice",
+            "Chulainn - Leading Gladiator",
             "Nino - Spirited Sorcerer",
             "Fjorm - Seaside Thaw",
             "Altina - Unrivaled Dawn",
             "Ike - Desert Mercenary",
+            "Chrom - Pivotal Blow",
             "Timerra - Trick or Meat"
           ]
         },
@@ -18021,7 +18101,11 @@
           ]
         },
         "grail": {
-          "4": ["Alcryst - Tender Groom", "Holst - Hero of Leicester"],
+          "4": [
+            "Alcryst - Tender Groom",
+            "Ogma - Former Gladiator",
+            "Holst - Hero of Leicester"
+          ],
           "5": ["Shamir - Lone-Moon Ninja"]
         },
         "ascended": { "5": ["Fir - Swordmaiden"] },
@@ -18703,6 +18787,14 @@
       "sp": 300,
       "icon": "skillC/Silence_Ward_4",
       "rules": "learner.infantry-armored-flying-ranged-res-dmger"
+    },
+    "Time Pulse Arms": {
+      "pool": { "special": { "5": ["Chrom - Pivotal Blow"] } },
+      "id": "Time Pulse Arms",
+      "name": "初始之躍動・鎧",
+      "sp": 300,
+      "icon": "skillC/Time_Pulse_Arms",
+      "rules": "infantry"
     }
   },
   "skillX": {

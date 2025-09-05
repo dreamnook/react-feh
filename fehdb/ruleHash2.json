@@ -328,6 +328,10 @@
     "moveType": 12,
     "weaponType": 16711687
   },
+  "learner.cavalry-flying-melee-def-dmger": {
+    "moveType": 12,
+    "weaponType": 15728647
+  },
   "learner.cavalry-flying-ranged": {
     "moveType": 12,
     "weaponType": 65528

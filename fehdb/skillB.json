@@ -3499,6 +3499,24 @@
     "icon": "skillB/Def_Res_Link_3",
     "last": true
   },
+  "Atk/Def Favor": {
+    "id": "Atk/Def Favor",
+    "name": "攻擊防守共鳴",
+    "sp": 300,
+    "rules": "not.white-staff",
+    "prev": ["Atk/Def Link 3"],
+    "icon": "skillB/Atk_Def_Favor",
+    "last": true
+  },
+  "Atk/Spd Favor": {
+    "id": "Atk/Spd Favor",
+    "name": "攻擊速度共鳴",
+    "sp": 300,
+    "rules": "not.white-staff",
+    "prev": ["Atk/Spd Link 3"],
+    "icon": "skillB/Atk_Spd_Favor",
+    "last": true
+  },
   "Atk/Spd Snag 1": {
     "id": "Atk/Spd Snag 1",
     "name": "攻擊速度干涉1",
