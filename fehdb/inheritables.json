@@ -5294,10 +5294,10 @@
         "mythic": {
           "5": [
             "Líf - Lethal Swordsman",
-            "Askr - God of Openness",
             "Fomortiis - Demon King",
             "Thórr - War God",
-            "Ash - Retainer to Askr"
+            "Ash - Retainer to Askr",
+            "Askr - God of Openness"
           ]
         },
         "special": {
@@ -14248,8 +14248,8 @@
         "grail": { "5": ["Balthus - Summer's Big Bet"] },
         "mythic": {
           "5": [
-            "Askr - God of Openness",
             "Ash - Retainer to Askr",
+            "Askr - God of Openness",
             "Heiðrún - Healing Nectar"
           ]
         },
@@ -14319,7 +14319,7 @@
     },
     "A/D Spiked Wall": {
       "pool": {
-        "mythic": { "5": ["Ash - Retainer to Askr"] },
+        "mythic": { "5": ["Ash - Retainer to Askr", "Askr - God of Openness"] },
         "special": { "5": ["Diamant - Gallant Ninja"] }
       },
       "id": "A/D Spiked Wall",
@@ -14624,7 +14624,10 @@
       "rules": "learner.cavalry-flying-tome-staff"
     },
     "S/R Far Resound": {
-      "pool": { "duo": { "5": ["Hapi - Eternal Sunlit Pair"] } },
+      "pool": {
+        "legendary": { "5": ["Veronica - Princess Rising"] },
+        "duo": { "5": ["Hapi - Eternal Sunlit Pair"] }
+      },
       "id": "S/R Far Resound",
       "name": "共鳴・速魔遠影",
       "sp": 300,

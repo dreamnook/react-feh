@@ -3311,6 +3311,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Robin - Exalt's Deliverer"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Deliverer's_Brand_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Fujin Uchiwa": {
@@ -3674,6 +3697,37 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Byleth - Anchor of Hope"],
+      "last": true
+    },
+    "Clouded Blade": {
+      "id": "Clouded Blade",
+      "name": "蒙面將領之劍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Bertram - Dread Cavalier"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Clouded_Blade_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Éljúðnir": {
@@ -21727,6 +21781,29 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Askr - God of Openness"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Illuminating_Horn_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Fiery Fang": {
@@ -23412,6 +23489,28 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Veronica - Princess Rising"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Enclosing_Dark_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Retainer's Report": {
@@ -25936,6 +26035,28 @@
       "sp": 400,
       "prev": ["Shine"],
       "exclusive": ["Gullveig - Seer Beyond Time"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "The_Cycle's_Turn_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Obscurité": {
@@ -28519,6 +28640,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Soren - Radiant Confidant"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Arch-Sage_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Heired Forseti": {
@@ -32814,6 +32957,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Corrin - Silent Bloodline"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Vallastone_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Dragon's Fist": {

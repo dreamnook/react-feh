@@ -371,6 +371,15 @@
     "icon": "skillC/Everliving_Domain",
     "last": true
   },
+  "Opened Domain+": {
+    "id": "Opened Domain+",
+    "name": "彼此相連的世界・神",
+    "sp": 300,
+    "prev": ["Opened Domain"],
+    "exclusive": ["Askr - God of Openness"],
+    "icon": "skillC/Opened_Domain+",
+    "last": true
+  },
   "Opened Domain": {
     "id": "Opened Domain",
     "name": "彼此相連的世界",

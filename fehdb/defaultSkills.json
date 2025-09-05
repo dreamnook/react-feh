@@ -534,7 +534,8 @@
     "special": {
       "Retribution": 4,
       "Reprisal": 4,
-      "Enclosure": 5
+      "Enclosure": 5,
+      "Enclosure II": 5
     },
     "skillA": {
       "Atk/Spd Catch 1": 2,
@@ -545,7 +546,8 @@
     "skillB": {
       "S/R Far Trace 1": 1,
       "S/R Far Trace 2": 2,
-      "S/R Far Trace 3": 4
+      "S/R Far Trace 3": 4,
+      "S/R Far Resound": 5
     },
     "skillC": {
       "Panic Smoke 1": 2,
@@ -2839,10 +2841,12 @@
     "skillB": {
       "Atk/Def Bulwark 1": 1,
       "Atk/Def Bulwark 2": 2,
-      "Atk/Def Bulwark 3": 4
+      "Atk/Def Bulwark 3": 4,
+      "A/D Spiked Wall": 5
     },
     "skillC": {
-      "Opened Domain": 5
+      "Opened Domain": 5,
+      "Opened Domain+": 5
     }
   },
   "Askr - Renewed Gods": {
@@ -17891,7 +17895,8 @@
       "Iron Sword": 1,
       "Steel Sword": 2,
       "Instant Sword": 4,
-      "Instant Sword+": 5
+      "Instant Sword+": 5,
+      "Clouded Blade": 5
     },
     "special": {
       "Glowing Ember": 4,

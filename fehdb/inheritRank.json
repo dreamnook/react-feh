@@ -6898,19 +6898,6 @@
     "skillA": { "Atk/Res Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Armored Stride 3": { "sp": 240, "rarity": 5 } }
   },
-  "Askr - God of Openness": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 183,
-    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Ideal 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Atk/Def Bulwark 3": { "sp": 240, "rarity": 5 } }
-  },
   "Medeus - Earth-Dragon King": {
     "score": 276,
     "scoreTotal": 681,
@@ -7973,6 +7960,19 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Res Tempo 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Askr - God of Openness": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 183,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Ideal 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/D Spiked Wall": { "sp": 300, "rarity": 5 } }
   },
   "Embla - God of Closure": {
     "score": 276,
@@ -12180,20 +12180,6 @@
     "skillB": { "Lull Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
-  "Veronica - Princess Rising": {
-    "score": 276,
-    "scoreTotal": 957,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 1040,
-    "feather": 1000,
-    "bst": 190,
-    "special": { "Reprisal": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
-  },
   "Ike - Of Radiance": {
     "score": 276,
     "scoreTotal": 957,
@@ -13256,6 +13242,20 @@
     "skillA": { "Distant Stance": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon's Scales": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
+  },
+  "Veronica - Princess Rising": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Reprisal": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Far Resound": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Deirdre - Fated Saint": {
     "score": 276,

@@ -195,6 +195,7 @@
   "Negating Fang": {
     "id": "Negating Fang",
     "name": "反龍穿",
+    "cd": 3,
     "sp": 500,
     "prev": ["Dragon Fang"],
     "exclusive": ["Corrin - Child of Dusk", "Corrin - Starry Seer"],
@@ -203,6 +204,7 @@
   "Negating Fang II": {
     "id": "Negating Fang II",
     "name": "反龍穿・承",
+    "cd": 3,
     "sp": 500,
     "prev": ["Negating Fang"],
     "exclusive": ["Corrin - Child of Dusk"],
@@ -359,6 +361,15 @@
     "exclusive": ["Deirdre - Fated Saint"],
     "last": true
   },
+  "Enclosure II": {
+    "id": "Enclosure II",
+    "name": "閉界・承",
+    "sp": 500,
+    "cd": 2,
+    "prev": ["Enclosure"],
+    "exclusive": ["Veronica - Princess Rising"],
+    "last": true
+  },
   "Enclosure": {
     "id": "Enclosure",
     "name": "閉界",
@@ -506,6 +517,7 @@
   "Warp Ragnarok": {
     "id": "Warp Ragnarok",
     "name": "傳送末日烈焰",
+    "cd": 2,
     "sp": 500,
     "prev": ["Moonbow"],
     "exclusive": ["Celica - Of Echoes"],
@@ -524,6 +536,7 @@
     "id": "Makings of a King",
     "name": "王器",
     "sp": 500,
+    "cd": 2,
     "prev": ["Bonfire"],
     "exclusive": ["Alfonse - Heir to Openness"],
     "last": true
@@ -541,6 +554,7 @@
     "id": "Seiðr Burst",
     "name": "連魔彈",
     "sp": 500,
+    "cd": 3,
     "prev": ["Ignis"],
     "exclusive": ["Reginn - Dvergr Heir"],
     "last": true
@@ -549,6 +563,7 @@
     "id": "Sandstorm",
     "name": "沙陣",
     "sp": 500,
+    "cd": 4,
     "prev": ["Ignis"],
     "exclusive": ["Timerra - Desert Warrior"],
     "last": true
@@ -566,6 +581,7 @@
     "id": "Requiem Prayer",
     "name": "鎮魂之願",
     "sp": 500,
+    "cd": 2,
     "prev": ["Glacies"],
     "exclusive": ["Marianne - Cursed Blessing"],
     "last": true
@@ -592,6 +608,7 @@
     "id": "Aether's Path",
     "name": "蒼炎天空",
     "sp": 500,
+    "cd": 4,
     "prev": ["Sol", "Luna"],
     "exclusive": ["Ike - Desert Mercenary"],
     "last": true
@@ -654,6 +671,7 @@
     "id": "Pitch-Dark Luna",
     "name": "漆闇的月光",
     "sp": 500,
+    "cd": 3,
     "prev": ["Luna"],
     "exclusive": ["Black Knight - Mortal Legend"],
     "last": true
@@ -689,6 +707,7 @@
     "id": "Mighty Roar",
     "name": "肉體的咆哮",
     "sp": 500,
+    "cd": 3,
     "prev": ["Ignis"],
     "exclusive": ["Eikþyrnir - Resolved to Train"],
     "last": true
@@ -957,6 +976,7 @@
     "id": "Archrival",
     "name": "角逐",
     "sp": 500,
+    "cd": 5,
     "prev": ["Dragon Fang"],
     "rules": "learner.wielderBowDagger",
     "last": true
