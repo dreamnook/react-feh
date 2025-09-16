@@ -3843,6 +3843,19 @@
     "skillB": { "A/D Near Trace 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 4 } }
   },
+  "Chulainn - Leading Gladiator": {
+    "score": 196,
+    "scoreTotal": 455,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 300,
+    "bst": 203,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillB": { "A/S Spiked Wall": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 4 } }
+  },
   "Morgan - Lad from Afar": {
     "score": 199,
     "scoreTotal": 461,
@@ -6716,6 +6729,30 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Shura - Righteous Rebel": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Spd/Def Tempo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd Ploy 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Scarlet - Rebellious Streak": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Def Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Flow Flight 3": { "sp": 240, "rarity": 5 } }
+  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -9239,6 +9276,19 @@
     "skillA": { "Bonus Doubler 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Def Oath 3": { "sp": 240, "rarity": 4 } }
   },
+  "Haitaka - Persistent General": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 203,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Prime 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
+  },
   "Marni - Pining for Praise": {
     "score": 322,
     "scoreTotal": 746,
@@ -9845,19 +9895,6 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Ferocity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Chulainn - Leading Gladiator": {
-    "score": 318,
-    "scoreTotal": 784,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 203,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillB": { "A/S Spiked Wall": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Time's Pulse 3": { "sp": 240, "rarity": 5 } }
   },
   "Tharja - 'Normal Girl'": {
     "score": 318,
@@ -12973,6 +13010,19 @@
     "skillB": { "Edged Scales": { "sp": 300, "rarity": 5 } },
     "skillC": { "Barricade": { "sp": 300, "rarity": 5 } }
   },
+  "Hinoka - Warrior of Gusto": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Haze Slice": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Blue Skies 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Air Superiority": { "sp": 300, "rarity": 5 } }
+  },
   "Tiki - Dragon's Progeny": {
     "score": 450,
     "scoreTotal": 990,
@@ -12986,6 +13036,20 @@
     "skillA": { "D Bonus Doubler": { "sp": 300, "rarity": 5 } },
     "skillB": { "Edged Scales": { "sp": 300, "rarity": 5 } },
     "skillX": { "Res Scowl Echo": { "sp": 0, "rarity": 5 } }
+  },
+  "Ryoma - Warrior of Bonds": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "attuned",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Gust": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Duelist's Blow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Faith": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Tumultuous Echo": { "sp": 0, "rarity": 5 } }
   },
   "Þjazi - Ruthless Jötun": {
     "score": 450,
@@ -14573,6 +14637,19 @@
     "special": { "Gust": { "sp": 500, "rarity": 5 } },
     "skillB": { "S/D Spiked Wall": { "sp": 300, "rarity": 5 } },
     "skillC": { "Odd Spd Wave 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Ash - Borrowed Power": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "pool": "entwined",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Flame Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Distant A/D Form": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } }
   },
   "Byleth - Anchor of Hope": {
     "score": 500,

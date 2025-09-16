@@ -890,6 +890,14 @@
     "icon": "skillB/Fair_Fight",
     "last": true
   },
+  "Bushido Tenet": {
+    "id": "Bushido Tenet",
+    "name": "所謂的武士道",
+    "sp": 300,
+    "exclusive": ["Ryoma - Warrior of Bonds"],
+    "icon": "skillB/Bushido_Tenet",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -2799,6 +2807,15 @@
     "prev": ["Aerobatics 2"],
     "rules": "flying",
     "icon": "skillB/Aerobatics_3",
+    "last": true
+  },
+  "Air Superiority": {
+    "id": "Air Superiority",
+    "name": "翱翔天際",
+    "sp": 300,
+    "prev": ["Flier Formation 3", "Aerobatics 3"],
+    "rules": "learner.flying-melee",
+    "icon": "skillB/Air_Superiority",
     "last": true
   },
   "Pegasus Flight 1": {

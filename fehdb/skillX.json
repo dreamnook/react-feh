@@ -116,5 +116,13 @@
     "rules": "learner.infantry-flying",
     "icon": "skillX/Atk_Oath_Echo",
     "last": true
+  },
+  "Tumultuous Echo": {
+    "id": "Tumultuous Echo",
+    "name": "響・迅雷風烈・鬼沒",
+    "sp": 0,
+    "rules": "learner.infantry-flying-melee",
+    "icon": "skillX/Tumultuous_Echo",
+    "last": true
   }
 }

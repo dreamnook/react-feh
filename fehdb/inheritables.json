@@ -406,6 +406,12 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Crimson": {
+        "pool": { "rearmed": { "5": ["Hinoka - Warrior of Gusto"] } },
+        "id": "Arcane Crimson",
+        "name": "魔器・鮮紅薙刀",
+        "sp": 300
+      },
       "Silver Lance+": {
         "pool": {
           "#": {
@@ -667,6 +673,13 @@
         "pool": { "#": { "3": ["Oswin - Impregnable Knight"] } },
         "id": "Campaign Lance+",
         "name": "繼戰之槍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Hexblade Lance+": {
+        "pool": { "grail": { "5": ["Haitaka - Persistent General"] } },
+        "id": "Hexblade Lance+",
+        "name": "魔刃之槍+",
         "sp": 300,
         "refine": 350
       },
@@ -1088,6 +1101,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Doubler Axe+": {
+        "pool": { "#": { "5": ["Scarlet - Rebellious Streak"] } },
+        "id": "Doubler Axe+",
+        "name": "強化增幅之斧+",
+        "sp": 300,
+        "refine": 350
+      },
       "Legion's Axe+": {
         "pool": { "grail": { "5": ["Legion - Masked Maniac"] } },
         "id": "Legion's Axe+",
@@ -1463,6 +1483,13 @@
         "pool": { "#": { "3": ["Leonardo - Freedom's Arrow"] } },
         "id": "Doubler Bow+",
         "name": "強化增幅之弓+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Discord Bow+": {
+        "pool": { "#": { "5": ["Shura - Righteous Rebel"] } },
+        "id": "Discord Bow+",
+        "name": "不和之弓+",
         "sp": 300,
         "refine": 350
       },
@@ -4556,14 +4583,14 @@
           "4": [
             "Lewyn - Wind-Song Scion",
             "Lyre - Lap Cat of Luxury",
-            "Panne - Welcoming Dawn"
+            "Panne - Welcoming Dawn",
+            "Chulainn - Leading Gladiator"
           ],
           "5": [
             "Elm - Resolute Grouch",
             "Igrene - Ninja of Nabata",
             "Eliwood - Pledged Friend",
             "Nailah - Hatari Scorcher",
-            "Chulainn - Leading Gladiator",
             "Eirika - Beach Restorer",
             "Shez - Snowfield Envoy",
             "Juno - Nimble Grace",
@@ -4718,7 +4745,9 @@
             "Machyua - Blade of Gales"
           ]
         },
-        "attuned": { "5": ["Eirika - Resolute Princess"] },
+        "attuned": {
+          "5": ["Eirika - Resolute Princess", "Ryoma - Warrior of Bonds"]
+        },
         "emblem": { "5": ["Marth - Of Beginnings"] },
         "legendary": {
           "5": [
@@ -4884,7 +4913,9 @@
           ]
         },
         "rearmed": { "5": ["Machyua - Blade of Gales"] },
-        "attuned": { "5": ["Eirika - Resolute Princess"] },
+        "attuned": {
+          "5": ["Eirika - Resolute Princess", "Ryoma - Warrior of Bonds"]
+        },
         "special": {
           "5": [
             "Felix - Savant's Service",
@@ -5045,6 +5076,7 @@
           ]
         },
         "ascended": { "5": ["Eir - Life Ascendant"] },
+        "rearmed": { "5": ["Hinoka - Warrior of Gusto"] },
         "attuned": { "5": ["Nino - Fang's Heart", "Brigid - Awakened Bow"] },
         "legendary": {
           "5": [
@@ -5156,7 +5188,8 @@
             "Lloyd - Vengeful Wolf",
             "Fargus - Badon Buccaneer",
             "Vaida - Dracofang General",
-            "Vigarde - Silent Emperor"
+            "Vigarde - Silent Emperor",
+            "Haitaka - Persistent General"
           ]
         },
         "legendary": {
@@ -5236,6 +5269,7 @@
     },
     "Haze Slice": {
       "pool": {
+        "rearmed": { "5": ["Hinoka - Warrior of Gusto"] },
         "special": {
           "5": [
             "Seliph - Light's Legacy",
@@ -5387,6 +5421,7 @@
             "Eyvel - Mistress of Fiana",
             "Hector - Brave Warrior",
             "Tiki - Torpid Dragon",
+            "Scarlet - Rebellious Streak",
             "Arlen - Mage of Khadein",
             "Robin - Exalt's Deliverer",
             "Melíai - Warrior Wanderer",
@@ -5525,6 +5560,13 @@
       "sp": 500,
       "rules": "dragon"
     },
+    "Flame Wall": {
+      "pool": {},
+      "id": "Flame Wall",
+      "name": "壁炎",
+      "sp": 500,
+      "rules": "not.white-staff"
+    },
     "Iceberg": {
       "pool": {
         "#": {
@@ -5648,6 +5690,7 @@
           "5": [
             "Katarina - Wayward One",
             "Ewan - Eager Student",
+            "Shura - Righteous Rebel",
             "Gotoh - Apostle of Naga",
             "Nomah - Priest of Mila",
             "Marianne - Serene Adherent",
@@ -6868,6 +6911,7 @@
           "5": ["Gerik - Desert Tiger"]
         },
         "grail": { "4": ["Valter - Dark Moonstone"] },
+        "attuned": { "5": ["Ryoma - Warrior of Bonds"] },
         "legendary": { "5": ["Alm - Saint-King"] }
       },
       "id": "Darting Blow 3",
@@ -7276,6 +7320,14 @@
       "sp": 300,
       "icon": "skillA/Sturdy_Surge",
       "rules": "melee"
+    },
+    "Duelist's Blow": {
+      "pool": { "attuned": { "5": ["Ryoma - Warrior of Bonds"] } },
+      "id": "Duelist's Blow",
+      "name": "清流一擊",
+      "sp": 300,
+      "icon": "skillA/Duelist's_Blow",
+      "rules": "learner.infantry-melee"
     },
     "Remote Sparrow": {
       "pool": {
@@ -9845,7 +9897,7 @@
     },
     "Spd/Def Catch 3": {
       "pool": {
-        "#": { "5": ["Sain - Green Lance"] },
+        "#": { "5": ["Scarlet - Rebellious Streak", "Sain - Green Lance"] },
         "grail": { "5": ["Seth - Silver-Sea Knight"] }
       },
       "id": "Spd/Def Catch 3",
@@ -10658,6 +10710,7 @@
     "Atk/Spd Prime 3": {
       "pool": {
         "#": { "5": ["Bernadetta - Sheltered Loner"] },
+        "grail": { "5": ["Haitaka - Persistent General"] },
         "special": {
           "5": [
             "Claude - Golden Breeze",
@@ -10730,6 +10783,7 @@
     },
     "Blue Skies 3": {
       "pool": {
+        "rearmed": { "5": ["Hinoka - Warrior of Gusto"] },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "mythic": { "5": ["Baldr - Celestial Sun God"] },
         "duo": { "5": ["Marth - Love and Courage"] },
@@ -10743,6 +10797,7 @@
     },
     "Blue Skies 4": {
       "pool": {
+        "rearmed": { "5": ["Hinoka - Warrior of Gusto"] },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "mythic": { "5": ["Baldr - Celestial Sun God"] },
         "duo": { "5": ["Marth - Love and Courage"] },
@@ -12525,6 +12580,7 @@
             "Catria - Mild Middle Sister"
           ]
         },
+        "rearmed": { "5": ["Hinoka - Warrior of Gusto"] },
         "legendary": { "5": ["Azura - Vallite Songstress"] },
         "mythic": { "5": ["Peony - Sweet Dream", "Triandra - Nightmare"] },
         "special": { "4": ["Juno - Soaring Bride"] },
@@ -12535,6 +12591,14 @@
       "sp": 240,
       "icon": "skillB/Aerobatics_3",
       "rules": "flying"
+    },
+    "Air Superiority": {
+      "pool": { "rearmed": { "5": ["Hinoka - Warrior of Gusto"] } },
+      "id": "Air Superiority",
+      "name": "翱翔天際",
+      "sp": 300,
+      "icon": "skillB/Air_Superiority",
+      "rules": "learner.flying-melee"
     },
     "Pegasus Flight 3": {
       "pool": {
@@ -14137,7 +14201,10 @@
       "rules": "learner.wielderFlying"
     },
     "Flow Flight 3": {
-      "pool": { "special": { "5": ["Maria - Sunny Smile"] } },
+      "pool": {
+        "#": { "5": ["Scarlet - Rebellious Streak"] },
+        "special": { "5": ["Maria - Sunny Smile"] }
+      },
       "id": "Flow Flight 3",
       "name": "怒濤・飛龍行空3",
       "sp": 240,
@@ -14234,6 +14301,7 @@
     },
     "Spd/Def Tempo 3": {
       "pool": {
+        "#": { "5": ["Shura - Righteous Rebel"] },
         "attuned": { "5": ["Nino - Fang's Heart"] },
         "special": { "5": ["Clanne - Summer Fan", "Mia - Budding Blade"] },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
@@ -14287,11 +14355,8 @@
           ]
         },
         "special": {
-          "5": [
-            "Chulainn - Leading Gladiator",
-            "Lucia - Loyalty Enrobed",
-            "Malice - Blooming Blade"
-          ]
+          "4": ["Chulainn - Leading Gladiator"],
+          "5": ["Lucia - Loyalty Enrobed", "Malice - Blooming Blade"]
         }
       },
       "id": "Atk/Spd Bulwark 3",
@@ -16426,7 +16491,7 @@
       "pool": {
         "#": {
           "3": ["Knoll - Darkness Watcher"],
-          "5": ["Deirdre - Lady of the Forest"]
+          "5": ["Deirdre - Lady of the Forest", "Shura - Righteous Rebel"]
         },
         "grail": { "4": ["Saias - Bishop of Flame"] },
         "special": { "5": ["Céline - Teatime Ninja"] }
@@ -16853,10 +16918,10 @@
           ]
         },
         "special": {
+          "4": ["Chulainn - Leading Gladiator"],
           "5": [
             "Lissa - Littlest Princess",
             "Soren - Hushed Voice",
-            "Chulainn - Leading Gladiator",
             "Nino - Spirited Sorcerer",
             "Fjorm - Seaside Thaw",
             "Altina - Unrivaled Dawn",
@@ -17600,7 +17665,13 @@
     "Odd Def Wave 3": {
       "pool": {
         "#": { "3": ["Scáthach - Astra's Wake"] },
-        "grail": { "4": ["Haar - Black Tempest", "Darros - Seawalker"] },
+        "grail": {
+          "4": [
+            "Haar - Black Tempest",
+            "Darros - Seawalker",
+            "Haitaka - Persistent General"
+          ]
+        },
         "legendary": { "5": ["Eirika - Graceful Resolve"] },
         "special": {
           "5": [
@@ -18112,6 +18183,7 @@
         "rearmed": {
           "5": ["Sothe - Dawning Zephyr", "Machyua - Blade of Gales"]
         },
+        "attuned": { "5": ["Ryoma - Warrior of Bonds"] },
         "legendary": {
           "5": [
             "Celica - Queen of Valentia",
@@ -18290,7 +18362,8 @@
     "Atk/Spd Faith": {
       "pool": {
         "#": { "5": ["Byleth - Anchor of Hope"] },
-        "rearmed": { "5": ["Machyua - Blade of Gales"] }
+        "rearmed": { "5": ["Machyua - Blade of Gales"] },
+        "attuned": { "5": ["Ryoma - Warrior of Bonds"] }
       },
       "id": "Atk/Spd Faith",
       "name": "攻擊速度的信心",
@@ -18915,6 +18988,14 @@
       "sp": 0,
       "icon": "skillX/Atk_Oath_Echo",
       "rules": "learner.infantry-flying"
+    },
+    "Tumultuous Echo": {
+      "pool": { "attuned": { "5": ["Ryoma - Warrior of Bonds"] } },
+      "id": "Tumultuous Echo",
+      "name": "響・迅雷風烈・鬼沒",
+      "sp": 0,
+      "icon": "skillX/Tumultuous_Echo",
+      "rules": "learner.infantry-flying-melee"
     }
   },
   "_poolKeys": [

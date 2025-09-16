@@ -733,6 +733,22 @@
     "icon": "skillC/Just_like_Mother",
     "last": true
   },
+  "Encouragement": {
+    "id": "Encouragement",
+    "name": "鼓舞激勵",
+    "sp": 300,
+    "exclusive": ["Hinoka - Warrior of Gusto"],
+    "icon": "skillC/Encouragement",
+    "last": true
+  },
+  "Heir of Openness": {
+    "id": "Heir of Openness",
+    "name": "開神的女兒",
+    "sp": 300,
+    "exclusive": ["Ash - Borrowed Power"],
+    "icon": "skillC/Heir_of_Openness",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

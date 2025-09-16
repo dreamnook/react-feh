@@ -3740,6 +3740,16 @@
       "exclusive": ["Fir - Dual Warriors"],
       "last": true
     },
+    "Hoshido Raijinto": {
+      "id": "Hoshido Raijinto",
+      "name": "白夜雷神刀",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Ryoma - Warrior of Bonds"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -8593,6 +8603,16 @@
       },
       "last": true
     },
+    "Arcane Crimson": {
+      "id": "Arcane Crimson",
+      "name": "魔器・鮮紅薙刀",
+      "mt": 16,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Lance"],
+      "rearmed": true,
+      "last": true
+    },
     "Iron Lance": {
       "id": "Iron Lance",
       "name": "鐵槍",
@@ -9506,6 +9526,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Campaign Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Hexblade Lance": {
+      "id": "Hexblade Lance",
+      "name": "魔刃之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Hexblade Lance+": {
+      "id": "Hexblade Lance+",
+      "name": "魔刃之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Hexblade Lance"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -13746,6 +13799,39 @@
       },
       "last": true
     },
+    "Doubler Axe": {
+      "id": "Doubler Axe",
+      "name": "強化增幅之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Doubler Axe+": {
+      "id": "Doubler Axe+",
+      "name": "強化增幅之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Doubler Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Legion's Axe": {
       "id": "Legion's Axe",
       "name": "羅羅之斧",
@@ -17170,6 +17256,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Doubler Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Discord Bow": {
+      "id": "Discord Bow",
+      "name": "不和之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Discord Bow+": {
+      "id": "Discord Bow+",
+      "name": "不和之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Discord Bow"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -22234,6 +22353,17 @@
       "sp": 400,
       "prev": ["Adult (Armored)"],
       "exclusive": ["Eikþyrnir - Resolved to Train"],
+      "last": true
+    },
+    "Entwining Horn": {
+      "id": "Entwining Horn",
+      "name": "連繫者之角",
+      "mt": 14,
+      "cd": -1,
+      "atk": 2,
+      "sp": 400,
+      "prev": ["Adult (Infantry)"],
+      "exclusive": ["Ash - Borrowed Power"],
       "last": true
     },
     "Arcane Nihility": {

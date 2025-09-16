@@ -105,16 +105,20 @@
     "weaponType": 65528
   },
   "red": {
-    "colorType": 1
+    "colorType": 1,
+    "weaponType": 1118481
   },
   "blue": {
-    "colorType": 2
+    "colorType": 2,
+    "weaponType": 2236962
   },
   "green": {
-    "colorType": 4
+    "colorType": 4,
+    "weaponType": 4473924
   },
   "white": {
-    "colorType": 8
+    "colorType": 8,
+    "weaponType": 8947848
   },
   "not.flying": {
     "moveType": 7
@@ -123,16 +127,20 @@
     "weaponType": 16777207
   },
   "not.red": {
-    "colorType": 14
+    "colorType": 14,
+    "weaponType": 15658734
   },
   "not.blue": {
-    "colorType": 13
+    "colorType": 13,
+    "weaponType": 14540253
   },
   "not.green": {
-    "colorType": 11
+    "colorType": 11,
+    "weaponType": 12303291
   },
   "not.white": {
-    "colorType": 7
+    "colorType": 7,
+    "weaponType": 7829367
   },
   "learner.infantry-cavalry": {
     "moveType": 5
@@ -362,51 +370,63 @@
   },
   "learner.r-duel-infantry": {
     "moveType": 1,
-    "colorType": 1
+    "colorType": 1,
+    "weaponType": 1118481
   },
   "learner.r-duel-cavalry": {
     "moveType": 4,
-    "colorType": 1
+    "colorType": 1,
+    "weaponType": 1118481
   },
   "learner.r-duel-flying": {
     "moveType": 8,
-    "colorType": 1
+    "colorType": 1,
+    "weaponType": 1118481
   },
   "learner.b-duel-infantry": {
     "moveType": 1,
-    "colorType": 2
+    "colorType": 2,
+    "weaponType": 2236962
   },
   "learner.b-duel-cavalry": {
     "moveType": 4,
-    "colorType": 2
+    "colorType": 2,
+    "weaponType": 2236962
   },
   "learner.b-duel-flying": {
     "moveType": 8,
-    "colorType": 2
+    "colorType": 2,
+    "weaponType": 2236962
   },
   "learner.g-duel-infantry": {
     "moveType": 1,
-    "colorType": 4
+    "colorType": 4,
+    "weaponType": 4473924
   },
   "learner.g-duel-cavalry": {
     "moveType": 4,
-    "colorType": 4
+    "colorType": 4,
+    "weaponType": 4473924
   },
   "learner.g-duel-flying": {
     "moveType": 8,
-    "colorType": 4
+    "colorType": 4,
+    "weaponType": 4473924
   },
   "learner.c-duel-infantry": {
     "moveType": 1,
-    "colorType": 8
+    "colorType": 8,
+    "weaponType": 8947848
   },
   "learner.c-duel-cavalry": {
     "moveType": 4,
-    "colorType": 8
+    "colorType": 8,
+    "weaponType": 8947848
   },
   "learner.c-duel-flying": {
     "moveType": 8,
-    "colorType": 8
+    "colorType": 8,
+    "weaponType": 8947848
   },
   "learner.ruptured-sky": {
     "moveType": 15,

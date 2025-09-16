@@ -2956,6 +2956,32 @@
       "Opening Retainer": 5
     }
   },
+  "Ash - Borrowed Power": {
+    "weapon": {
+      "Whelp (Infantry)": 1,
+      "Yearling (Infantry)": 2,
+      "Adult (Infantry)": 4,
+      "Entwining Horn": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Flame Wall": 5
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "Distant A/D Form": 5
+    },
+    "skillB": {
+      "Laguz Friend 1": 2,
+      "Laguz Friend 2": 3,
+      "Laguz Friend 3": 4,
+      "Laguz Friend 4": 5
+    },
+    "skillC": {
+      "Heir of Openness": 5
+    }
+  },
   "Melíai - Warrior Wanderer": {
     "weapon": {
       "Whelp (Armored)": 1,
@@ -24429,6 +24455,37 @@
       "Odd Def Wave 3": 4
     }
   },
+  "Ryoma - Warrior of Bonds": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Hoshido Raijinto": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Glimmer": 4,
+      "Gust": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Darting Blow 2": 3,
+      "Darting Blow 3": 4,
+      "Duelist's Blow": 5
+    },
+    "skillB": {
+      "Bushido Tenet": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "Atk/Spd Faith": 5
+    },
+    "skillX": {
+      "Tumultuous Echo": 5
+    }
+  },
   "Saizo - Angry Ninja": {
     "weapon": {
       "Iron Dagger": 1,
@@ -24708,6 +24765,34 @@
     },
     "skillC": {
       "Rallying Cry": 5
+    }
+  },
+  "Hinoka - Warrior of Gusto": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Arcane Crimson": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Draconic Aura": 4,
+      "Haze Slice": 5
+    },
+    "skillA": {
+      "Blue Skies 1": 2,
+      "Blue Skies 2": 3,
+      "Blue Skies 3": 4,
+      "Blue Skies 4": 5
+    },
+    "skillB": {
+      "Aerobatics 1": 2,
+      "Aerobatics 2": 3,
+      "Aerobatics 3": 4,
+      "Air Superiority": 5
+    },
+    "skillC": {
+      "Encouragement": 5
     }
   },
   "Azama - Carefree Monk": {
@@ -25264,6 +25349,28 @@
       "Sabotage Def 2": 3,
       "Sabotage Def 3": 4,
       "Sabotage A/D 3": 5
+    }
+  },
+  "Haitaka - Persistent General": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Hexblade Lance": 4,
+      "Hexblade Lance+": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillA": {
+      "Atk/Spd Prime 1": 3,
+      "Atk/Spd Prime 2": 4,
+      "Atk/Spd Prime 3": 5
+    },
+    "skillC": {
+      "Odd Def Wave 1": 1,
+      "Odd Def Wave 2": 2,
+      "Odd Def Wave 3": 4
     }
   },
   "Mozu - Tragic Start": {
@@ -26644,6 +26751,50 @@
       "Def Ploy 1": 3,
       "Def Ploy 2": 4,
       "Def Ploy 3": 5
+    }
+  },
+  "Shura - Righteous Rebel": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Discord Bow": 4,
+      "Discord Bow+": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillB": {
+      "Spd/Def Tempo 1": 3,
+      "Spd/Def Tempo 2": 4,
+      "Spd/Def Tempo 3": 5
+    },
+    "skillC": {
+      "Spd Ploy 1": 1,
+      "Spd Ploy 2": 2,
+      "Spd Ploy 3": 4
+    }
+  },
+  "Scarlet - Rebellious Streak": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Doubler Axe": 4,
+      "Doubler Axe+": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Spd/Def Catch 1": 1,
+      "Spd/Def Catch 2": 2,
+      "Spd/Def Catch 3": 4
+    },
+    "skillB": {
+      "Flow Flight 1": 3,
+      "Flow Flight 2": 4,
+      "Flow Flight 3": 5
     }
   },
   "Kana - Dragon Spawn": {

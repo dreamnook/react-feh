@@ -1288,6 +1288,15 @@
     "icon": "skillA/Sturdy_Surge",
     "last": true
   },
+  "Duelist's Blow": {
+    "id": "Duelist's Blow",
+    "name": "清流一擊",
+    "sp": 300,
+    "prev": ["Darting Blow 3", "Warding Blow 3"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillA/Duelist's_Blow",
+    "last": true
+  },
   "Remote Sparrow": {
     "id": "Remote Sparrow",
     "name": "鬼神飛燕離擊",

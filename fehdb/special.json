@@ -1069,6 +1069,15 @@
     "rules": "dragon",
     "last": true
   },
+  "Flame Wall": {
+    "id": "Flame Wall",
+    "name": "壁炎",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Ignis"],
+    "rules": "not.white-staff",
+    "last": true
+  },
   "Chilling Wind": {
     "id": "Chilling Wind",
     "name": "冰點",
