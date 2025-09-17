@@ -5461,6 +5461,7 @@
           "5": ["Timerra - Desert Warrior", "Tiki - Dragon's Progeny"]
         },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
+        "entwined": { "5": ["Ash - Borrowed Power"] },
         "legendary": {
           "5": ["Robin - Exalt's Other Half", "Seliph - Scion of Light"]
         },
@@ -5561,7 +5562,7 @@
       "rules": "dragon"
     },
     "Flame Wall": {
-      "pool": {},
+      "pool": { "entwined": { "5": ["Ash - Borrowed Power"] } },
       "id": "Flame Wall",
       "name": "壁炎",
       "sp": 500,
@@ -7986,6 +7987,7 @@
             "Tiki - Dragon's Progeny"
           ]
         },
+        "entwined": { "5": ["Ash - Borrowed Power"] },
         "legendary": {
           "5": [
             "Hríd - Icy Blade",
@@ -8141,7 +8143,10 @@
       "rules": "learner.infantry-melee"
     },
     "Distant A/D Form": {
-      "pool": { "legendary": { "5": ["Black Knight - Mortal Legend"] } },
+      "pool": {
+        "entwined": { "5": ["Ash - Borrowed Power"] },
+        "legendary": { "5": ["Black Knight - Mortal Legend"] }
+      },
       "id": "Distant A/D Form",
       "name": "遠反・攻防的密集",
       "sp": 300,
@@ -14678,6 +14683,7 @@
       "pool": {
         "attuned": { "5": ["Timerra - Desert Warrior"] },
         "emblem": { "5": ["Ike - Of Radiance"] },
+        "entwined": { "5": ["Ash - Borrowed Power"] },
         "special": {
           "5": ["Ike - Desert Mercenary", "Heiðrún - Peaceful Horizon"]
         },
@@ -14693,6 +14699,7 @@
       "pool": {
         "attuned": { "5": ["Timerra - Desert Warrior"] },
         "emblem": { "5": ["Ike - Of Radiance"] },
+        "entwined": { "5": ["Ash - Borrowed Power"] },
         "special": { "5": ["Heiðrún - Peaceful Horizon"] },
         "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
@@ -19006,6 +19013,7 @@
     "attuned",
     "emblem",
     "aided",
+    "entwined",
     "legendary",
     "mythic",
     "special",

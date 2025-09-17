@@ -11645,6 +11645,19 @@
     "skillA": { "Atk/Spd Scowl 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Spd Ruse 4": { "sp": 300, "rarity": 5 } }
   },
+  "Dagr - Sunny Bloom": {
+    "score": 368,
+    "scoreTotal": 920,
+    "poolRarity": 5,
+    "pool": "aided",
+    "sp": 400,
+    "spTotal": 1000,
+    "feather": 1000,
+    "bst": 199,
+    "assist": { "Reposition Gait": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Firm Canto Curb": { "sp": 300, "rarity": 5 } }
+  },
   "Fjorm - New Traditions": {
     "score": 254,
     "scoreTotal": 922,
@@ -13250,19 +13263,6 @@
     "skillA": { "Close Reversal": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Drive Def": { "sp": 300, "rarity": 5 } }
   },
-  "Dagr - Sunny Bloom": {
-    "score": 400,
-    "scoreTotal": 1000,
-    "poolRarity": 5,
-    "pool": "aided",
-    "sp": 400,
-    "spTotal": 1000,
-    "feather": 1000,
-    "bst": 199,
-    "assist": { "Reposition Gait": { "sp": 400, "rarity": 5 } },
-    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Firm Canto Curb": { "sp": 300, "rarity": 5 } }
-  },
   "Gullveig - Golden Seer": {
     "score": 276,
     "scoreTotal": 1012,
@@ -13346,6 +13346,20 @@
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/R Far Resound": { "sp": 300, "rarity": 5 } },
     "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Reginn - Dvergr Heir": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "aided",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Flow Guard 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Shadow Shift 4": { "sp": 300, "rarity": 5 } }
   },
   "Deirdre - Fated Saint": {
     "score": 276,
@@ -13549,6 +13563,19 @@
     "skillA": { "Blue Skies 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Hold Guide": { "sp": 300, "rarity": 5 } }
   },
+  "Yunaka - Hidden Mask": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "aided",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Lethality": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Full Disarm": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Active Lookout": { "sp": 300, "rarity": 5 } }
+  },
   "Elm - Retainer to Embla": {
     "score": 460,
     "scoreTotal": 1012,
@@ -13574,6 +13601,19 @@
     "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Wings of Mercy 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Ash - Borrowed Power": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "entwined",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Flame Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Distant A/D Form": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } }
   },
   "Shez - Dual Sword Master": {
     "score": 460,
@@ -14439,20 +14479,6 @@
     "skillB": { "Reopening": { "sp": 300, "rarity": 5 } },
     "skillC": { "Breath of Life 4": { "sp": 300, "rarity": 5 } }
   },
-  "Reginn - Dvergr Heir": {
-    "score": 300,
-    "scoreTotal": 1100,
-    "poolRarity": 5,
-    "pool": "aided",
-    "sp": 300,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 190,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Flow Guard 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Shadow Shift 4": { "sp": 300, "rarity": 5 } }
-  },
   "Gilliam - Wall of Silence": {
     "score": 300,
     "scoreTotal": 1100,
@@ -14577,19 +14603,6 @@
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Buffer 4": { "sp": 300, "rarity": 5 } }
   },
-  "Yunaka - Hidden Mask": {
-    "score": 500,
-    "scoreTotal": 1100,
-    "poolRarity": 5,
-    "pool": "aided",
-    "sp": 500,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 194,
-    "special": { "Lethality": { "sp": 500, "rarity": 5 } },
-    "skillB": { "Full Disarm": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Active Lookout": { "sp": 300, "rarity": 5 } }
-  },
   "Baldr - Rays of Judgment": {
     "score": 500,
     "scoreTotal": 1100,
@@ -14637,19 +14650,6 @@
     "special": { "Gust": { "sp": 500, "rarity": 5 } },
     "skillB": { "S/D Spiked Wall": { "sp": 300, "rarity": 5 } },
     "skillC": { "Odd Spd Wave 4": { "sp": 300, "rarity": 5 } }
-  },
-  "Ash - Borrowed Power": {
-    "score": 500,
-    "scoreTotal": 1100,
-    "poolRarity": 5,
-    "pool": "entwined",
-    "sp": 500,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 204,
-    "special": { "Flame Wall": { "sp": 500, "rarity": 5 } },
-    "skillA": { "Distant A/D Form": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } }
   },
   "Byleth - Anchor of Hope": {
     "score": 500,
