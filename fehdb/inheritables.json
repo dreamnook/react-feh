@@ -17333,6 +17333,14 @@
       "icon": "skillC/A_R_Twin_N_Save",
       "rules": "armored"
     },
+    "A/R Briar N Save": {
+      "pool": { "#": { "5": ["Grima - Tyrant of Despair"] } },
+      "id": "A/R Briar N Save",
+      "name": "冑之守護人・近・棘",
+      "sp": 300,
+      "icon": "skillC/A_R_Briar_N_Save",
+      "rules": "armored"
+    },
     "D/R Twin N Save": {
       "pool": { "special": { "5": ["Nah - Grateful One"] } },
       "id": "D/R Twin N Save",
@@ -17493,14 +17501,6 @@
       "name": "冑之守護人・遠・雙",
       "sp": 300,
       "icon": "skillC/A_R_Twin_F_Save",
-      "rules": "armored"
-    },
-    "A/R Briar N Save": {
-      "pool": { "#": { "5": ["Grima - Tyrant of Despair"] } },
-      "id": "A/R Briar N Save",
-      "name": "冑之守護人・近・棘",
-      "sp": 300,
-      "icon": "skillC/A_R_Briar_N_Save",
       "rules": "armored"
     },
     "A/D Briar P Save": {

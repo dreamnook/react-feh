@@ -2939,6 +2939,15 @@
     "icon": "skillC/A_R_Twin_N_Save",
     "last": true
   },
+  "A/R Briar N Save": {
+    "id": "A/R Briar N Save",
+    "name": "冑之守護人・近・棘",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/R Near Save 3"],
+    "icon": "skillC/A_R_Briar_N_Save",
+    "last": true
+  },
   "D/R Twin N Save": {
     "id": "D/R Twin N Save",
     "name": "盾之守護人・近・雙",
@@ -3069,15 +3078,6 @@
     "rules": "armored",
     "prev": ["A/R Far Save 3"],
     "icon": "skillC/A_R_Twin_F_Save",
-    "last": true
-  },
-  "A/R Briar N Save": {
-    "id": "A/R Briar N Save",
-    "name": "冑之守護人・近・棘",
-    "sp": 300,
-    "rules": "armored",
-    "prev": ["A/R Near Save 3"],
-    "icon": "skillC/A_R_Briar_N_Save",
     "last": true
   },
   "A/D Briar P Save": {
