@@ -3073,10 +3073,10 @@
   },
   "A/R Briar N Save": {
     "id": "A/R Briar N Save",
-    "name": "冑之守護人・遠・棘",
+    "name": "冑之守護人・近・棘",
     "sp": 300,
     "rules": "armored",
-    "prev": ["A/R Far Save 3"],
+    "prev": ["A/R Near Save 3"],
     "icon": "skillC/A_R_Briar_N_Save",
     "last": true
   },
