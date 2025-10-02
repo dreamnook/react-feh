@@ -3089,6 +3089,15 @@
     "icon": "skillC/A_D_Briar_P_Save",
     "last": true
   },
+  "S/R Briar M Save": {
+    "id": "S/R Briar M Save",
+    "name": "衣之守護人・魔・棘",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/R Near Save 3", "A/R Far Save 3"],
+    "icon": "skillC/S_R_Briar_M_Save",
+    "last": true
+  },
   "Guidance 1": {
     "id": "Guidance 1",
     "name": "空中前導1",
@@ -4332,6 +4341,15 @@
     "rules": "learner.infantry-cavalry-flying-beast",
     "prev": ["C Feud 3"],
     "icon": "skillC/Preempt_Screech",
+    "last": true
+  },
+  "Dark Beast Force": {
+    "id": "Dark Beast Force",
+    "name": "暗獸・不屈",
+    "sp": 300,
+    "rules": "beast",
+    "prev": ["C Feud 3"],
+    "icon": "skillC/Dark_Beast_Force",
     "last": true
   },
   "Canto Control 1": {

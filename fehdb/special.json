@@ -195,8 +195,8 @@
   "Negating Fang": {
     "id": "Negating Fang",
     "name": "反龍穿",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Dragon Fang"],
     "exclusive": ["Corrin - Child of Dusk", "Corrin - Starry Seer"],
     "last": true
@@ -204,8 +204,8 @@
   "Negating Fang II": {
     "id": "Negating Fang II",
     "name": "反龍穿・承",
-    "cd": 3,
     "sp": 500,
+    "cd": 3,
     "prev": ["Negating Fang"],
     "exclusive": ["Corrin - Child of Dusk"],
     "last": true
@@ -517,8 +517,8 @@
   "Warp Ragnarok": {
     "id": "Warp Ragnarok",
     "name": "傳送末日烈焰",
-    "cd": 2,
     "sp": 500,
+    "cd": 2,
     "prev": ["Moonbow"],
     "exclusive": ["Celica - Of Echoes"],
     "last": true
@@ -712,6 +712,15 @@
     "exclusive": ["Eikþyrnir - Resolved to Train"],
     "last": true
   },
+  "Torrential Roar": {
+    "id": "Torrential Roar",
+    "name": "龍穿炮",
+    "sp": 500,
+    "cd": 3,
+    "prev": ["Dragon Fang"],
+    "exclusive": ["Corrin - Of Fates"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -873,8 +882,8 @@
     "name": "天風",
     "sp": 500,
     "cd": 3,
-    "rules": "learner.flying-melee",
     "prev": ["Astra"],
+    "rules": "learner.flying-melee",
     "last": true
   },
   "Galeforce": {

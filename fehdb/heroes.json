@@ -22754,6 +22754,43 @@
     "ver": "9.0",
     "dfKey": 7
   },
+  "Lyn - Plains Wind": {
+    "id": "Lyn - Plains Wind",
+    "title": "草原之風",
+    "name": "琳",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-beast",
+    "moveType": "cavalry",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "light-res-2",
+    "appearsIn": ["The Blazing Blade"],
+    "releaseDate": "2025-09-30",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [46, 49, 53],
+        "def": [33, 36, 39],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 10,
+        "res": 5
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.9",
+    "dfKey": 8
+  },
   "Hector - General of Ostia": {
     "id": "Hector - General of Ostia",
     "title": "奧斯提亞的勇將",
@@ -41715,6 +41752,41 @@
     "ver": "7.8",
     "dfKey": 6
   },
+  "Corrin - Of Fates": {
+    "id": "Corrin - Of Fates",
+    "title": "選擇紋章士",
+    "name": "神威",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "armored",
+    "pool": "emblem",
+    "appearsIn": ["Fates", "Engage"],
+    "releaseDate": "2025-09-30",
+    "stats": {
+      "5": {
+        "hp": [39, 43, 46],
+        "atk": [43, 46, 49],
+        "spd": [45, 49, 52],
+        "def": [22, 26, 29],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 11,
+        "spd": 16,
+        "def": 4,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "spd", "def"],
+    "statMin": 213,
+    "statMax": 215,
+    "book": 9,
+    "ver": "9.9",
+    "dfKey": 8
+  },
   "Azura - Lady of the Lake": {
     "id": "Azura - Lady of the Lake",
     "title": "泉之歌姬",
@@ -46962,19 +47034,33 @@
     "id": "Scarlet - Rebellious Streak",
     "title": "豪邁的女龍騎士",
     "name": "克莉森",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "weaponType": "green-axe",
     "moveType": "flying",
     "appearsIn": ["Fates"],
     "releaseDate": "2025-09-16",
     "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [42, 45, 48],
+        "spd": [41, 44, 47],
+        "def": [39, 43, 46],
+        "res": [16, 19, 22]
+      },
       "5": {
         "hp": [36, 40, 43],
         "atk": [45, 48, 52],
         "spd": [43, 46, 49],
         "def": [41, 45, 48],
         "res": [18, 21, 24]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 11,
+        "def": 12,
+        "res": 5
       },
       "5-1": {
         "hp": 18,

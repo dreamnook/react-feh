@@ -13362,6 +13362,34 @@
       "Panic Smoke 4": 5
     }
   },
+  "Lyn - Plains Wind": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 4,
+      "Winds of Duality": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "Nimble Beast": 5
+    },
+    "skillA": {
+      "Reject Tyranny": 5
+    },
+    "skillB": {
+      "Beast Agility 1": 2,
+      "Beast Agility 2": 3,
+      "Beast Agility 3": 4,
+      "Bestial Agility": 5
+    },
+    "skillC": {
+      "C Feud 1": 2,
+      "C Feud 2": 3,
+      "C Feud 3": 4,
+      "Dark Beast Force": 5
+    }
+  },
   "Hector - General of Ostia": {
     "weapon": {
       "Iron Axe": 1,
@@ -23941,6 +23969,37 @@
       "A/S Far Save 1": 1,
       "A/S Far Save 2": 2,
       "A/S Far Save 3": 4
+    }
+  },
+  "Corrin - Of Fates": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Sword of Fate": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Torrential Roar": 5
+    },
+    "skillA": {
+      "Wind Boost 1": 2,
+      "Wind Boost 2": 3,
+      "Wind Boost 3": 4,
+      "Torrential Boost": 5
+    },
+    "skillB": {
+      "Pair Up 1": 2,
+      "Pair Up 2": 3,
+      "Pair Up 3": 4,
+      "Pair Up 4": 5
+    },
+    "skillC": {
+      "A/R Far Save 1": 2,
+      "A/R Far Save 2": 3,
+      "A/R Far Save 3": 4,
+      "S/R Briar M Save": 5
     }
   },
   "Azura - Lady of the Lake": {

@@ -3750,6 +3750,16 @@
       "exclusive": ["Ryoma - Warrior of Bonds"],
       "last": true
     },
+    "Sword of Fate": {
+      "id": "Sword of Fate",
+      "name": "選擇未來之人的劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Corrin - Of Fates"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -22363,6 +22373,16 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Ash - Borrowed Power"],
+      "last": true
+    },
+    "Winds of Duality": {
+      "id": "Winds of Duality",
+      "name": "光與闇的疾風",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Lyn - Plains Wind"],
       "last": true
     },
     "Arcane Nihility": {

@@ -2753,6 +2753,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Scarlet - Rebellious Streak": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 200,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Def Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Flow Flight 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -6740,18 +6752,6 @@
     "special": { "Glacies": { "sp": 200, "rarity": 5 } },
     "skillB": { "Spd/Def Tempo 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd Ploy 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Scarlet - Rebellious Streak": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 200,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Spd/Def Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Flow Flight 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -13445,6 +13445,20 @@
     "skillB": { "Speedtaker 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Brutal Tempest": { "sp": 300, "rarity": 5 } }
   },
+  "Corrin - Of Fates": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 213,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Torrential Boost": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Pair Up 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "S/R Briar M Save": { "sp": 300, "rarity": 5 } }
+  },
   "Black Knight - Mortal Legend": {
     "score": 276,
     "scoreTotal": 1012,
@@ -13588,6 +13602,19 @@
     "special": { "Nimble Beast": { "sp": 500, "rarity": 5 } },
     "skillB": { "Bestial Agility": { "sp": 300, "rarity": 5 } },
     "skillC": { "Preempt Screech": { "sp": 300, "rarity": 5 } }
+  },
+  "Lyn - Plains Wind": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Nimble Beast": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Bestial Agility": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Dark Beast Force": { "sp": 300, "rarity": 5 } }
   },
   "Hinoka - Thundering Wings": {
     "score": 460,

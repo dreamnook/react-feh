@@ -1102,7 +1102,7 @@
         "refine": 350
       },
       "Doubler Axe+": {
-        "pool": { "#": { "5": ["Scarlet - Rebellious Streak"] } },
+        "pool": { "#": { "4": ["Scarlet - Rebellious Streak"] } },
         "id": "Doubler Axe+",
         "name": "強化增幅之斧+",
         "sp": 300,
@@ -4864,7 +4864,8 @@
             "Nerþuz - God of the Land",
             "Hræsvelgr - Quieting Blade",
             "Baldr - Celestial Sun God",
-            "Elm - Retainer to Embla"
+            "Elm - Retainer to Embla",
+            "Lyn - Plains Wind"
           ]
         },
         "special": {
@@ -4932,7 +4933,11 @@
     "Nimble Beast": {
       "pool": {
         "mythic": {
-          "5": ["Hræsvelgr - Quieting Blade", "Elm - Retainer to Embla"]
+          "5": [
+            "Hræsvelgr - Quieting Blade",
+            "Elm - Retainer to Embla",
+            "Lyn - Plains Wind"
+          ]
         },
         "special": {
           "5": ["Eitr - Spring Sunrise", "Hræsvelgr - Wings of Healing"]
@@ -5192,6 +5197,7 @@
             "Haitaka - Persistent General"
           ]
         },
+        "emblem": { "5": ["Corrin - Of Fates"] },
         "legendary": {
           "5": [
             "Roy - Blazing Lion",
@@ -5416,12 +5422,12 @@
             "Bors - Ostia's Bastion",
             "Uther - Frugal Militarist"
           ],
+          "4": ["Scarlet - Rebellious Streak"],
           "5": [
             "Robin - Fell Reincarnation",
             "Eyvel - Mistress of Fiana",
             "Hector - Brave Warrior",
             "Tiki - Torpid Dragon",
-            "Scarlet - Rebellious Streak",
             "Arlen - Mage of Khadein",
             "Robin - Exalt's Deliverer",
             "Melíai - Warrior Wanderer",
@@ -8357,6 +8363,7 @@
           "5": ["Lifis - Terror of Iz"]
         },
         "attuned": { "5": ["Azura - Song's Reflection"] },
+        "emblem": { "5": ["Corrin - Of Fates"] },
         "special": {
           "5": ["Charlotte - Money Maiden", "Framme - Spring Fangirl"]
         }
@@ -8449,12 +8456,12 @@
       "sp": 300,
       "icon": "skillA/Deluge_Boost_3"
     },
-    "Primordial Boost": {
-      "pool": { "duo": { "5": ["Corrin - Young Kinship"] } },
-      "id": "Primordial Boost",
-      "name": "風地水的命脈",
+    "Torrential Boost": {
+      "pool": { "emblem": { "5": ["Corrin - Of Fates"] } },
+      "id": "Torrential Boost",
+      "name": "火風水的命脈",
       "sp": 300,
-      "icon": "skillA/Primordial_Boost",
+      "icon": "skillA/Torrential_Boost",
       "rules": "armored"
     },
     "Diluvial Boost": {
@@ -8463,6 +8470,14 @@
       "name": "火地水的命脈",
       "sp": 300,
       "icon": "skillA/Diluvial_Boost",
+      "rules": "armored"
+    },
+    "Primordial Boost": {
+      "pool": { "duo": { "5": ["Corrin - Young Kinship"] } },
+      "id": "Primordial Boost",
+      "name": "風地水的命脈",
+      "sp": 300,
+      "icon": "skillA/Primordial_Boost",
       "rules": "armored"
     },
     "Atk/Spd Bond 3": {
@@ -9902,7 +9917,10 @@
     },
     "Spd/Def Catch 3": {
       "pool": {
-        "#": { "5": ["Scarlet - Rebellious Streak", "Sain - Green Lance"] },
+        "#": {
+          "4": ["Scarlet - Rebellious Streak"],
+          "5": ["Sain - Green Lance"]
+        },
         "grail": { "5": ["Seth - Silver-Sea Knight"] }
       },
       "id": "Spd/Def Catch 3",
@@ -12003,6 +12021,14 @@
       "name": "防守魔防封殺3",
       "sp": 300,
       "icon": "skillB/Chill_Def_Res_3"
+    },
+    "Spd/Res Shackle": {
+      "pool": { "#": { "5": ["Sharena - Hopeful Princess"] } },
+      "id": "Spd/Res Shackle",
+      "name": "速度魔防枷鎖",
+      "sp": 300,
+      "icon": "skillB/Spd_Res_Shackle",
+      "rules": "learner.cavalry-flying-ranged"
     },
     "Odd Pulse Tie 3": {
       "pool": {
@@ -14207,7 +14233,7 @@
     },
     "Flow Flight 3": {
       "pool": {
-        "#": { "5": ["Scarlet - Rebellious Streak"] },
+        "#": { "4": ["Scarlet - Rebellious Streak"] },
         "special": { "5": ["Maria - Sunny Smile"] }
       },
       "id": "Flow Flight 3",
@@ -14503,7 +14529,8 @@
           "5": [
             "Embla - God of Closure",
             "Ratatoskr - Mending Hand",
-            "Elm - Retainer to Embla"
+            "Elm - Retainer to Embla",
+            "Lyn - Plains Wind"
           ]
         },
         "special": {
@@ -14577,7 +14604,7 @@
     },
     "Bestial Agility": {
       "pool": {
-        "mythic": { "5": ["Elm - Retainer to Embla"] },
+        "mythic": { "5": ["Elm - Retainer to Embla", "Lyn - Plains Wind"] },
         "special": { "5": ["Eitr - Spring Sunrise"] }
       },
       "id": "Bestial Agility",
@@ -14822,13 +14849,21 @@
       "icon": "skillB/Speedtaker_4",
       "rules": "learner.infantry-flying-def-dmger"
     },
-    "Spd/Res Shackle": {
-      "pool": { "#": { "5": ["Sharena - Hopeful Princess"] } },
-      "id": "Spd/Res Shackle",
-      "name": "速度魔防枷鎖",
+    "Pair Up 3": {
+      "pool": { "emblem": { "5": ["Corrin - Of Fates"] } },
+      "id": "Pair Up 3",
+      "name": "防陣43",
+      "sp": 240,
+      "icon": "skillB/Pair_Up_3",
+      "rules": "learner.infantry-armored"
+    },
+    "Pair Up 4": {
+      "pool": { "emblem": { "5": ["Corrin - Of Fates"] } },
+      "id": "Pair Up 4",
+      "name": "防陣44",
       "sp": 300,
-      "icon": "skillB/Spd_Res_Shackle",
-      "rules": "learner.cavalry-flying-ranged"
+      "icon": "skillB/Pair_Up_4",
+      "rules": "learner.infantry-armored"
     }
   },
   "skillC": {
@@ -17414,6 +17449,7 @@
     "A/R Far Save 2": {
       "pool": {
         "ascended": { "5": ["Fjorm - Ice Ascendant"] },
+        "emblem": { "5": ["Corrin - Of Fates"] },
         "special": { "5": ["Henriette - Overflowing Love"] },
         "duo": { "5": ["Byleth - Frosty Professors"] },
         "harmonized": {
@@ -17429,6 +17465,7 @@
     "A/R Far Save 3": {
       "pool": {
         "ascended": { "5": ["Fjorm - Ice Ascendant"] },
+        "emblem": { "5": ["Corrin - Of Fates"] },
         "special": { "5": ["Henriette - Overflowing Love"] },
         "duo": { "5": ["Byleth - Frosty Professors"] },
         "harmonized": {
@@ -17509,6 +17546,14 @@
       "name": "鎧之守護人・理・棘",
       "sp": 300,
       "icon": "skillC/A_D_Briar_P_Save",
+      "rules": "armored"
+    },
+    "S/R Briar M Save": {
+      "pool": { "emblem": { "5": ["Corrin - Of Fates"] } },
+      "id": "S/R Briar M Save",
+      "name": "衣之守護人・魔・棘",
+      "sp": 300,
+      "icon": "skillC/S_R_Briar_M_Save",
       "rules": "armored"
     },
     "Guidance 3": {
@@ -18539,7 +18584,7 @@
     "C Feud 3": {
       "pool": {
         "legendary": { "5": ["Xander - Gallant King"] },
-        "mythic": { "5": ["Elm - Retainer to Embla"] },
+        "mythic": { "5": ["Elm - Retainer to Embla", "Lyn - Plains Wind"] },
         "special": { "5": ["Elm - Resolute Grouch", "Anna - Secret Charmer"] },
         "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] },
         "harmonized": { "5": ["Lysithea - Gifted Students"] }
@@ -18556,6 +18601,14 @@
       "sp": 300,
       "icon": "skillC/Preempt_Screech",
       "rules": "learner.infantry-cavalry-flying-beast"
+    },
+    "Dark Beast Force": {
+      "pool": { "mythic": { "5": ["Lyn - Plains Wind"] } },
+      "id": "Dark Beast Force",
+      "name": "暗獸・不屈",
+      "sp": 300,
+      "icon": "skillC/Dark_Beast_Force",
+      "rules": "beast"
     },
     "Canto Control 3": {
       "pool": {

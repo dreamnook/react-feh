@@ -2103,6 +2103,15 @@
     "icon": "skillB/Chill_Def_Res_3",
     "last": true
   },
+  "Spd/Res Shackle": {
+    "id": "Spd/Res Shackle",
+    "name": "速度魔防枷鎖",
+    "sp": 300,
+    "rules": "learner.cavalry-flying-ranged",
+    "prev": ["Chill Spd/Res 2"],
+    "icon": "skillB/Spd_Res_Shackle",
+    "last": true
+  },
   "Odd Pulse Tie 1": {
     "id": "Odd Pulse Tie 1",
     "name": "鼓動的封緘・奇數1",
@@ -2813,8 +2822,8 @@
     "id": "Air Superiority",
     "name": "翱翔天際",
     "sp": 300,
-    "prev": ["Flier Formation 3", "Aerobatics 3"],
     "rules": "learner.flying-melee",
+    "prev": ["Flier Formation 3", "Aerobatics 3"],
     "icon": "skillB/Air_Superiority",
     "last": true
   },
@@ -4481,8 +4490,8 @@
     "id": "Null C-Avoid",
     "name": "真迴避・識破反擊",
     "sp": 300,
-    "prev": ["Velocity 3"],
     "rules": ["learner.wielderInfantry"],
+    "prev": ["Velocity 3"],
     "icon": "skillB/Null_C-Avoid",
     "last": true
   },
@@ -5842,13 +5851,37 @@
     "icon": "skillB/Speedtaker_4",
     "last": true
   },
-  "Spd/Res Shackle": {
-    "id": "Spd/Res Shackle",
-    "name": "速度魔防枷鎖",
+  "Pair Up 1": {
+    "id": "Pair Up 1",
+    "name": "防陣41",
+    "sp": 60,
+    "rules": "learner.infantry-armored",
+    "icon": "skillB/Pair_Up_1"
+  },
+  "Pair Up 2": {
+    "id": "Pair Up 2",
+    "name": "防陣42",
+    "sp": 120,
+    "prev": ["Pair Up 1"],
+    "rules": "learner.infantry-armored",
+    "icon": "skillB/Pair_Up_2"
+  },
+  "Pair Up 3": {
+    "id": "Pair Up 3",
+    "name": "防陣43",
+    "sp": 240,
+    "prev": ["Pair Up 2"],
+    "rules": "learner.infantry-armored",
+    "icon": "skillB/Pair_Up_3",
+    "last": true
+  },
+  "Pair Up 4": {
+    "id": "Pair Up 4",
+    "name": "防陣44",
     "sp": 300,
-    "prev": ["Chill Spd/Res 2"],
-    "rules": "learner.cavalry-flying-ranged",
-    "icon": "skillB/Spd_Res_Shackle",
+    "prev": ["Pair Up 3"],
+    "rules": "learner.infantry-armored",
+    "icon": "skillB/Pair_Up_4",
     "last": true
   }
 }
