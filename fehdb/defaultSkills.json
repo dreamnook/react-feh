@@ -7736,7 +7736,8 @@
       "Light": 1,
       "Ellight": 2,
       "Blárrabbit": 4,
-      "Blárrabbit+": 5
+      "Blárrabbit+": 5,
+      "Saintship Tome": 5
     },
     "assist": {
       "Ardent Sacrifice": 4
@@ -14652,7 +14653,8 @@
     },
     "assist": {
       "Dance": 4,
-      "Dragon's Dance": 5
+      "Dragon's Dance": 5,
+      "Dragon's Dance II": 5
     },
     "skillA": {
       "Atk/Spd Catch 1": 2,
@@ -14663,7 +14665,11 @@
     "skillB": {
       "S/R Near Trace 1": 1,
       "S/R Near Trace 2": 2,
-      "S/R Near Trace 3": 4
+      "S/R Near Trace 3": 4,
+      "Res Cantrip 1": 2,
+      "Res Cantrip 2": 3,
+      "Res Cantrip 3": 4,
+      "A/R Cantrip 3": 5
     },
     "skillC": {
       "Blue Feud 1": 3,
@@ -30750,12 +30756,17 @@
       "Glacies": 4
     },
     "skillA": {
-      "Duality": 5
+      "Duality": 5,
+      "Duality+": 5
     },
     "skillB": {
       "Atk/Res Tempo 1": 1,
       "Atk/Res Tempo 2": 2,
-      "Atk/Res Tempo 3": 4
+      "Atk/Res Tempo 3": 4,
+      "Sabotage Res 1": 2,
+      "Sabotage Res 2": 3,
+      "Sabotage Res 3": 4,
+      "Atk/Res Havoc": 5
     },
     "skillC": {
       "Atk/Res Oath 1": 2,

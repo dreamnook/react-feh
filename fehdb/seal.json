@@ -7634,6 +7634,36 @@
       "prev": ["Squad Ace CT 2"],
       "icon": "seal/Squad_Ace_Atk_Spd_Res_3",
       "last": true
+    },
+    "Squad Ace CU 1": {
+      "id": "Squad Ace CU 1",
+      "name": "第９９迷宮的霸王1",
+      "sp": 120,
+      "atk": 1,
+      "def": 1,
+      "res": 1,
+      "icon": "seal/Squad_Ace_Atk_Def_Res_1"
+    },
+    "Squad Ace CU 2": {
+      "id": "Squad Ace CU 2",
+      "name": "第９９迷宮的霸王2",
+      "sp": 180,
+      "atk": 2,
+      "def": 2,
+      "res": 2,
+      "prev": ["Squad Ace CU 1"],
+      "icon": "seal/Squad_Ace_Atk_Def_Res_2"
+    },
+    "Squad Ace CU 3": {
+      "id": "Squad Ace CU 3",
+      "name": "第９９迷宮的霸王3",
+      "sp": 240,
+      "atk": 3,
+      "def": 3,
+      "res": 3,
+      "prev": ["Squad Ace CU 2"],
+      "icon": "seal/Squad_Ace_Atk_Def_Res_3",
+      "last": true
     }
   }
 }

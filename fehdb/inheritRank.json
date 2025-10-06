@@ -6922,19 +6922,6 @@
     "skillA": { "Atk/Res Scowl 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Dragon Wall 3": { "sp": 240, "rarity": 5 } }
   },
-  "Arval - Cycle Keeper": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 177,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Atk/Res Tempo 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Atk/Res Oath 4": { "sp": 300, "rarity": 5 } }
-  },
   "Edelgard - Flame Emperor": {
     "score": 276,
     "scoreTotal": 681,
@@ -7357,19 +7344,6 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk Tactic 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Ninian - Ice-Dragon Oracle": {
-    "score": 276,
-    "scoreTotal": 718,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 780,
-    "feather": 1000,
-    "bst": 190,
-    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "S/R Near Trace 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Blue Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Olivia - Sky-High Dancer": {
     "score": 240,
@@ -7945,6 +7919,19 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillB": { "Guard 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
+  },
+  "Arval - Cycle Keeper": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 177,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Atk/Res Havoc": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Res Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Thórr - War God": {
     "score": 276,
@@ -9416,6 +9403,19 @@
     "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Odd Tempest 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Ninian - Ice-Dragon Oracle": {
+    "score": 276,
+    "scoreTotal": 773,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 300,
+    "spTotal": 840,
+    "feather": 1000,
+    "bst": 190,
+    "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/R Cantrip 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Blue Feud 3": { "sp": 240, "rarity": 5 } }
   },
   "Hubert - Sinister Servant": {
     "score": 300,

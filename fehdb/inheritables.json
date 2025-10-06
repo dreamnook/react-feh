@@ -5739,9 +5739,9 @@
           "5": [
             "Yune - Chaos Goddess",
             "Seiros - Saint of Legend",
-            "Arval - Cycle Keeper",
             "Medeus - Earth-Dragon King",
             "Ashera - Order Goddess",
+            "Arval - Cycle Keeper",
             "Athos - Omniscient One",
             "Höðr - Dusk Shadow God"
           ]
@@ -9763,8 +9763,8 @@
         "legendary": {
           "5": [
             "Xander - Gallant King",
-            "Ninian - Ice-Dragon Oracle",
             "Claude - King of Unification",
+            "Ninian - Ice-Dragon Oracle",
             "Veronica - Princess Rising",
             "Hinoka - Thundering Wings"
           ]
@@ -9819,8 +9819,8 @@
         "legendary": {
           "5": [
             "Xander - Gallant King",
-            "Ninian - Ice-Dragon Oracle",
             "Claude - King of Unification",
+            "Ninian - Ice-Dragon Oracle",
             "Veronica - Princess Rising",
             "Hinoka - Thundering Wings"
           ]
@@ -12115,7 +12115,13 @@
         "legendary": {
           "5": ["Deirdre - Fated Saint", "Lilina - Firelight Leader"]
         },
-        "mythic": { "5": ["Yune - Chaos Goddess", "Athos - Omniscient One"] },
+        "mythic": {
+          "5": [
+            "Yune - Chaos Goddess",
+            "Arval - Cycle Keeper",
+            "Athos - Omniscient One"
+          ]
+        },
         "special": { "5": ["Ivy - Tidal Breeze"] },
         "duo": {
           "5": [
@@ -12199,7 +12205,8 @@
     "Atk/Res Havoc": {
       "pool": {
         "#": { "5": ["Gotoh - Apostle of Naga"] },
-        "emblem": { "5": ["Micaiah - Of Dawn"] }
+        "emblem": { "5": ["Micaiah - Of Dawn"] },
+        "mythic": { "5": ["Arval - Cycle Keeper"] }
       },
       "id": "Atk/Res Havoc",
       "name": "攻擊魔防大擾亂",
@@ -12924,6 +12931,7 @@
     "Res Cantrip 3": {
       "pool": {
         "grail": { "4": ["Nils - Snowflake Melody"] },
+        "legendary": { "5": ["Ninian - Ice-Dragon Oracle"] },
         "duo": { "5": ["Peony - Álfar Dream Duo"] }
       },
       "id": "Res Cantrip 3",
@@ -12941,7 +12949,10 @@
       "rules": "not.white-staff"
     },
     "A/R Cantrip 3": {
-      "pool": { "#": { "5": ["Elffin - Truth Beholden"] } },
+      "pool": {
+        "#": { "5": ["Elffin - Truth Beholden"] },
+        "legendary": { "5": ["Ninian - Ice-Dragon Oracle"] }
+      },
       "id": "A/R Cantrip 3",
       "name": "攻擊魔防魅惑3",
       "sp": 300,
@@ -14852,7 +14863,7 @@
     "Pair Up 3": {
       "pool": { "emblem": { "5": ["Corrin - Of Fates"] } },
       "id": "Pair Up 3",
-      "name": "防陣43",
+      "name": "防陣3",
       "sp": 240,
       "icon": "skillB/Pair_Up_3",
       "rules": "learner.infantry-armored"
@@ -14860,7 +14871,7 @@
     "Pair Up 4": {
       "pool": { "emblem": { "5": ["Corrin - Of Fates"] } },
       "id": "Pair Up 4",
-      "name": "防陣44",
+      "name": "防陣4",
       "sp": 300,
       "icon": "skillB/Pair_Up_4",
       "rules": "learner.infantry-armored"

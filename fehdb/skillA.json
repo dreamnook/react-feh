@@ -98,6 +98,17 @@
     "icon": "skillA/Dragonhide",
     "last": true
   },
+  "Duality+": {
+    "id": "Duality+",
+    "name": "陰陽法則・神",
+    "sp": 300,
+    "atk": 10,
+    "res": 19,
+    "prev": ["Duality"],
+    "exclusive": ["Arval - Cycle Keeper"],
+    "icon": "skillA/Duality+",
+    "last": true
+  },
   "Duality": {
     "id": "Duality",
     "name": "陰陽法則",

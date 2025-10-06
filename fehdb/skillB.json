@@ -5853,14 +5853,14 @@
   },
   "Pair Up 1": {
     "id": "Pair Up 1",
-    "name": "防陣41",
+    "name": "防陣1",
     "sp": 60,
     "rules": "learner.infantry-armored",
     "icon": "skillB/Pair_Up_1"
   },
   "Pair Up 2": {
     "id": "Pair Up 2",
-    "name": "防陣42",
+    "name": "防陣2",
     "sp": 120,
     "prev": ["Pair Up 1"],
     "rules": "learner.infantry-armored",
@@ -5868,7 +5868,7 @@
   },
   "Pair Up 3": {
     "id": "Pair Up 3",
-    "name": "防陣43",
+    "name": "防陣3",
     "sp": 240,
     "prev": ["Pair Up 2"],
     "rules": "learner.infantry-armored",
@@ -5877,7 +5877,7 @@
   },
   "Pair Up 4": {
     "id": "Pair Up 4",
-    "name": "防陣44",
+    "name": "防陣4",
     "sp": 300,
     "prev": ["Pair Up 3"],
     "rules": "learner.infantry-armored",

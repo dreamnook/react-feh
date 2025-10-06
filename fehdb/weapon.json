@@ -2980,6 +2980,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Yen'fay - Blade Legend"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Carnage_Amatsu_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Ascending Blade": {
@@ -12107,6 +12130,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Charlotte - Wily Warrior"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Fair-Fury_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Whirling Grace": {
@@ -19124,6 +19170,28 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Yuri - Ashen Valiant"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Honorable_Blade_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Kaze's Needle": {
@@ -23495,6 +23563,28 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Líf - Undying Ties Duo"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Þjálfi_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Sparking Tome": {
@@ -26482,6 +26572,36 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Bruno - Masked Knight"],
+      "last": true
+    },
+    "Saintship Tome": {
+      "id": "Saintship Tome",
+      "name": "聖女的慈愛之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Tatiana - Devoted Saint"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Saintship_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arcane Euphoria": {
@@ -30339,6 +30459,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Arval - Cycle Keeper"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Rite_of_Souls_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Duality Vessel": {
@@ -33091,6 +33233,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Ninian - Ice-Dragon Oracle"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Faithful_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Ghostly Lanterns": {
