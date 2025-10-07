@@ -5614,6 +5614,18 @@
     "skillB": { "Firestorm Dance 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Hold": { "sp": 300, "rarity": 5 } }
   },
+  "Peony - Fruitful Dream": {
+    "score": 318,
+    "scoreTotal": 636,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 600,
+    "feather": 1000,
+    "bst": 179,
+    "skillB": { "D/R Cantrip 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Shadow Shove 4": { "sp": 300, "rarity": 5 } }
+  },
   "Delthea - Free Spirit": {
     "score": 240,
     "scoreTotal": 640,
@@ -6120,6 +6132,19 @@
     "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
     "skillB": { "Dragon's Ire 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Res 2": { "sp": 240, "rarity": 4 } }
+  },
+  "Ranulf - Considerate Gaze": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 195,
+    "special": { "Astra": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Beast Agility 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd Tactic 3": { "sp": 240, "rarity": 4 } }
   },
   "Hubert - Crimson Schemer": {
     "score": 299,
@@ -11004,6 +11029,19 @@
     "skillB": { "Shield Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Briar F Save": { "sp": 300, "rarity": 5 } }
   },
+  "Skrimir - Echoing Howl": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 211,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Wily Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
   "Marth - Love and Courage": {
     "score": 318,
     "scoreTotal": 848,
@@ -15653,6 +15691,19 @@
     "skillA": { "Trample": { "sp": 300, "rarity": 5 } },
     "skillC": { "Guidance 4": { "sp": 300, "rarity": 5 } }
   },
+  "Nerþuz - Divine Abundance": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Galeforce Mist": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Bellow": { "sp": 300, "rarity": 5 } }
+  },
   "Tiki - Bridal Reflections": {
     "score": 530,
     "scoreTotal": 1166,
@@ -15847,6 +15898,19 @@
     "special": { "Dragon's Roar": { "sp": 500, "rarity": 5 } },
     "skillB": { "S/R Spiked Wall": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Res Wave D": { "sp": 300, "rarity": 5 } }
+  },
+  "Freyja - Parallel Hearts": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Comet": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Pulse On: Blades": { "sp": 300, "rarity": 5 } }
   },
   "Ophelia - Dramatic Heroine": {
     "score": 400,

@@ -100,6 +100,14 @@
     "exclusive": ["Mirabilis - Daydream", "Mirabilis - Sugarplum Vision"],
     "last": true
   },
+  "Pleasant Night": {
+    "id": "Pleasant Night",
+    "name": "溫柔的夜之夢",
+    "sp": 400,
+    "prev": ["Dance"],
+    "exclusive": ["Peony - Fruitful Dream"],
+    "last": true
+  },
   "Dance": {
     "id": "Dance",
     "name": "起舞",
@@ -152,7 +160,8 @@
       "Mirabilis - Spring Daydream",
       "Olivia - Wavecrest Dancer",
       "Tethys - Dancing Sands",
-      "Plumeria - Spring Dance"
+      "Plumeria - Spring Dance",
+      "Peony - Fruitful Dream"
     ],
     "last": true
   },

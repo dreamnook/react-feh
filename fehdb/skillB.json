@@ -898,6 +898,22 @@
     "icon": "skillB/Bushido_Tenet",
     "last": true
   },
+  "Haunting Choker": {
+    "id": "Haunting Choker",
+    "name": "追憶的首飾",
+    "sp": 300,
+    "exclusive": ["Freyja - Parallel Hearts"],
+    "icon": "skillB/Haunting_Choker",
+    "last": true
+  },
+  "Moonlit Slumber": {
+    "id": "Moonlit Slumber",
+    "name": "身披月光沉眠於地",
+    "sp": 300,
+    "exclusive": ["Nerþuz - Divine Abundance"],
+    "icon": "skillB/Moonlit_Slumber",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -3316,6 +3332,15 @@
     "rules": "not.white-staff",
     "prev": ["Atk Cantrip 3", "Res Cantrip 3"],
     "icon": "skillB/A_R_Cantrip_3",
+    "last": true
+  },
+  "D/R Cantrip 3": {
+    "id": "D/R Cantrip 3",
+    "name": "防守魔防魅惑3",
+    "sp": 300,
+    "rules": "not.white-staff",
+    "prev": ["Def Cantrip 3", "Res Cantrip 3"],
+    "icon": "skillB/D_R_Cantrip_3",
     "last": true
   },
   "Dull Close 1": {

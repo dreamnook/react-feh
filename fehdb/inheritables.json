@@ -4847,6 +4847,7 @@
           "4": [
             "Yarne - Hoppy New Year",
             "Yarne - Trick or Taguel",
+            "Ranulf - Considerate Gaze",
             "Jamke - Prince of Verdane",
             "Yen'fay - Blade Legend",
             "Panne - Proud Taguel"
@@ -4876,10 +4877,12 @@
             "Larcei - Scion of Astra",
             "Larcei - Bride of Astra",
             "Hræsvelgr - Wings of Healing",
+            "Nerþuz - Divine Abundance",
             "Tibarn - Shipless Pirate",
             "Timerra - Trick or Meat"
           ]
         },
+        "duo": { "5": ["Freyja - Parallel Hearts"] },
         "harmonized": {
           "5": [
             "Leif - Destined Scions",
@@ -4955,6 +4958,13 @@
       "sp": 500,
       "rules": "learner.flying-melee"
     },
+    "Comet": {
+      "pool": { "duo": { "5": ["Freyja - Parallel Hearts"] } },
+      "id": "Comet",
+      "name": "彗星",
+      "sp": 500,
+      "rules": "learner.infantry-armored-not-staff"
+    },
     "Galeforce": {
       "pool": {
         "#": {
@@ -4978,7 +4988,10 @@
       "rules": "learner.melee-def-dmger"
     },
     "Galeforce Mist": {
-      "pool": { "harmonized": { "5": ["Fir - Dual Warriors"] } },
+      "pool": {
+        "special": { "5": ["Nerþuz - Divine Abundance"] },
+        "harmonized": { "5": ["Fir - Dual Warriors"] }
+      },
       "id": "Galeforce Mist",
       "name": "疾風迅雷・霞",
       "sp": 500,
@@ -5489,6 +5502,7 @@
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
             "Robin - Fated Vessel",
+            "Skrimir - Echoing Howl",
             "Gustav - Majestic Love",
             "Askr - Open Harvest",
             "Níðhöggr - Daze of Healing"
@@ -8511,7 +8525,7 @@
             "Hinoka - Relaxed Warrior"
           ]
         },
-        "duo": { "5": ["Peony - Álfar Dream Duo"] },
+        "duo": { "5": ["Peony - Álfar Dream Duo", "Freyja - Parallel Hearts"] },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
       },
       "id": "Atk/Spd Bond 3",
@@ -8725,7 +8739,10 @@
       "icon": "skillA/Def_Res_Unity"
     },
     "Atk/Spd Aria": {
-      "pool": { "#": { "5": ["Sharena - Hopeful Princess"] } },
+      "pool": {
+        "#": { "5": ["Sharena - Hopeful Princess"] },
+        "duo": { "5": ["Freyja - Parallel Hearts"] }
+      },
       "id": "Atk/Spd Aria",
       "name": "攻擊速度的詠唱",
       "sp": 300,
@@ -10257,6 +10274,7 @@
             "Felicia - Confidently Cold",
             "Seliph - Light's Legacy",
             "Dimitri - Stargazing Lion",
+            "Nerþuz - Divine Abundance",
             "Lapis - Forager of the Sea",
             "Sylvain - Spring Flingster"
           ]
@@ -10391,6 +10409,7 @@
             "Felicia - Confidently Cold",
             "Seliph - Light's Legacy",
             "Dimitri - Stargazing Lion",
+            "Nerþuz - Divine Abundance",
             "Lapis - Forager of the Sea"
           ]
         },
@@ -11429,7 +11448,8 @@
       "pool": {
         "#": { "5": ["Grima - Tyrant of Despair"] },
         "ascended": { "5": ["Idunn - Divine Demon"] },
-        "attuned": { "5": ["Hector - Steel Warrior"] }
+        "attuned": { "5": ["Hector - Steel Warrior"] },
+        "special": { "5": ["Skrimir - Echoing Howl"] }
       },
       "id": "Wily Fighter 3",
       "name": "正面隊形・敵方3",
@@ -11440,7 +11460,8 @@
     "Wily Fighter 4": {
       "pool": {
         "#": { "5": ["Grima - Tyrant of Despair"] },
-        "attuned": { "5": ["Hector - Steel Warrior"] }
+        "attuned": { "5": ["Hector - Steel Warrior"] },
+        "special": { "5": ["Skrimir - Echoing Howl"] }
       },
       "id": "Wily Fighter 4",
       "name": "正面隊形・敵方4",
@@ -12932,6 +12953,7 @@
       "pool": {
         "grail": { "4": ["Nils - Snowflake Melody"] },
         "legendary": { "5": ["Ninian - Ice-Dragon Oracle"] },
+        "special": { "5": ["Peony - Fruitful Dream"] },
         "duo": { "5": ["Peony - Álfar Dream Duo"] }
       },
       "id": "Res Cantrip 3",
@@ -12957,6 +12979,14 @@
       "name": "攻擊魔防魅惑3",
       "sp": 300,
       "icon": "skillB/A_R_Cantrip_3",
+      "rules": "not.white-staff"
+    },
+    "D/R Cantrip 3": {
+      "pool": { "special": { "5": ["Peony - Fruitful Dream"] } },
+      "id": "D/R Cantrip 3",
+      "name": "防守魔防魅惑3",
+      "sp": 300,
+      "icon": "skillB/D_R_Cantrip_3",
       "rules": "not.white-staff"
     },
     "Dull Close 3": {
@@ -14536,6 +14566,7 @@
     },
     "Beast Agility 3": {
       "pool": {
+        "grail": { "5": ["Ranulf - Considerate Gaze"] },
         "mythic": {
           "5": [
             "Embla - God of Closure",
@@ -15889,6 +15920,7 @@
             "Gunnthrá - Year's First Dream",
             "Ashe - Fabled Sea Knight",
             "Claude - Distant Deer",
+            "Nerþuz - Divine Abundance",
             "Veronica - Royal Reception"
           ]
         },
@@ -16055,6 +16087,14 @@
       "icon": "skillC/A_S_Outcry_Dull",
       "rules": "learner.cavalry-melee"
     },
+    "A/S Bellow": {
+      "pool": { "special": { "5": ["Nerþuz - Divine Abundance"] } },
+      "id": "A/S Bellow",
+      "name": "攻速鼓譟・呼吸",
+      "sp": 300,
+      "icon": "skillC/A_S_Bellow",
+      "rules": "learner.cavalry-melee"
+    },
     "Hone Armor": {
       "pool": {
         "#": { "3": ["Gwendolyn - Adorable Knight"] },
@@ -16203,7 +16243,10 @@
             "Catria - Mild Middle Sister"
           ]
         },
-        "grail": { "5": ["Eir - Renewed Life"] },
+        "grail": {
+          "4": ["Ranulf - Considerate Gaze"],
+          "5": ["Eir - Renewed Life"]
+        },
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
         "legendary": { "5": ["Lyn - Lady of the Wind"] },
         "special": {
@@ -16983,7 +17026,13 @@
             "Timerra - Trick or Meat"
           ]
         },
-        "duo": { "5": ["Julia - Brides of Light", "Chrom - Fate-Defying Duo"] },
+        "duo": {
+          "5": [
+            "Julia - Brides of Light",
+            "Freyja - Parallel Hearts",
+            "Chrom - Fate-Defying Duo"
+          ]
+        },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
       "id": "Time's Pulse 3",
@@ -17044,7 +17093,10 @@
       "rules": "infantry"
     },
     "Pulse On: Blades": {
-      "pool": { "attuned": { "5": ["Alm - Powerful Resolve"] } },
+      "pool": {
+        "attuned": { "5": ["Alm - Powerful Resolve"] },
+        "duo": { "5": ["Freyja - Parallel Hearts"] }
+      },
       "id": "Pulse On: Blades",
       "name": "追擊之躍動・刃",
       "sp": 300,
@@ -17430,7 +17482,11 @@
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
         },
         "special": {
-          "5": ["Robin - Tactful Deliverer", "Fomortiis - Dark of Night"]
+          "5": [
+            "Robin - Tactful Deliverer",
+            "Fomortiis - Dark of Night",
+            "Skrimir - Echoing Howl"
+          ]
         }
       },
       "id": "A/D Far Save 2",
@@ -17448,7 +17504,11 @@
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
         },
         "special": {
-          "5": ["Robin - Tactful Deliverer", "Fomortiis - Dark of Night"]
+          "5": [
+            "Robin - Tactful Deliverer",
+            "Fomortiis - Dark of Night",
+            "Skrimir - Echoing Howl"
+          ]
         }
       },
       "id": "A/D Far Save 3",
@@ -18648,6 +18708,38 @@
       "icon": "skillC/Firm_Canto_Curb",
       "rules": "infantry"
     },
+    "Shadow Shove 3": {
+      "pool": { "special": { "5": ["Peony - Fruitful Dream"] } },
+      "id": "Shadow Shove 3",
+      "name": "影助・衝撞3",
+      "sp": 240,
+      "icon": "skillC/Shadow_Shove_3",
+      "rules": "learner.cavalry-flying"
+    },
+    "Shadow Shove 4": {
+      "pool": { "special": { "5": ["Peony - Fruitful Dream"] } },
+      "id": "Shadow Shove 4",
+      "name": "影助・衝撞4",
+      "sp": 300,
+      "icon": "skillC/Shadow_Shove_4",
+      "rules": "learner.cavalry-flying"
+    },
+    "Shadow Smite 3": {
+      "pool": { "harmonized": { "5": ["Plumeria - Spring Dance"] } },
+      "id": "Shadow Smite 3",
+      "name": "影助・重擊3",
+      "sp": 240,
+      "icon": "skillC/Shadow_Smite_3",
+      "rules": "learner.cavalry-flying"
+    },
+    "Shadow Smite 4": {
+      "pool": { "harmonized": { "5": ["Plumeria - Spring Dance"] } },
+      "id": "Shadow Smite 4",
+      "name": "影助・重擊4",
+      "sp": 300,
+      "icon": "skillC/Shadow_Smite_4",
+      "rules": "learner.cavalry-flying"
+    },
     "Shadow Shift 3": {
       "pool": {
         "attuned": { "5": ["Leif - Sworn to Country"] },
@@ -18672,22 +18764,6 @@
       "name": "影助・帶回4",
       "sp": 300,
       "icon": "skillC/Shadow_Shift_4",
-      "rules": "learner.cavalry-flying"
-    },
-    "Shadow Smite 3": {
-      "pool": { "harmonized": { "5": ["Plumeria - Spring Dance"] } },
-      "id": "Shadow Smite 3",
-      "name": "影助・重擊3",
-      "sp": 240,
-      "icon": "skillC/Shadow_Smite_3",
-      "rules": "learner.cavalry-flying"
-    },
-    "Shadow Smite 4": {
-      "pool": { "harmonized": { "5": ["Plumeria - Spring Dance"] } },
-      "id": "Shadow Smite 4",
-      "name": "影助・重擊4",
-      "sp": 300,
-      "icon": "skillC/Shadow_Smite_4",
       "rules": "learner.cavalry-flying"
     },
     "Lookout 3": {

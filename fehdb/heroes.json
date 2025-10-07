@@ -2763,6 +2763,41 @@
     "ver": "7.10",
     "dfKey": 6
   },
+  "Peony - Fruitful Dream": {
+    "id": "Peony - Fruitful Dream",
+    "title": "收穫的美夢",
+    "name": "皮亞尼",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-tome",
+    "moveType": "flying",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-10-07",
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [38, 42, 45],
+        "spd": [45, 48, 52],
+        "def": [20, 23, 27],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 9,
+        "spd": 9,
+        "def": 4,
+        "res": 6
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp", "atk", "res"],
+    "statMin": 179,
+    "statMax": 180,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
+  },
   "Mirabilis - Daydream": {
     "id": "Mirabilis - Daydream",
     "title": "白夢的",
@@ -3276,6 +3311,42 @@
     "book": 5,
     "ver": "5.7",
     "dfKey": 3
+  },
+  "Freyja - Parallel Hearts": {
+    "id": "Freyja - Parallel Hearts",
+    "title": "心連心的收穫祭",
+    "name": "弗雷雅",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "infantry",
+    "pool": "duo",
+    "bst": 220,
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-10-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [26, 30, 33],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 10,
+        "def": 8,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
   },
   "Eitr - Hand of Nothing": {
     "id": "Eitr - Hand of Nothing",
@@ -4733,6 +4804,41 @@
     "book": 8,
     "ver": "8.6",
     "dfKey": 6
+  },
+  "Nerþuz - Divine Abundance": {
+    "id": "Nerþuz - Divine Abundance",
+    "title": "女神和豐收同在",
+    "name": "那瑟斯",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-beast",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-10-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [45, 48, 52],
+        "def": [39, 42, 46],
+        "res": [14, 18, 21]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 9,
+        "def": 12,
+        "res": 5
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp", "res"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
   },
   "Ratatoskr - Mending Hand": {
     "id": "Ratatoskr - Mending Hand",
@@ -33456,6 +33562,41 @@
     "ver": "3.4",
     "dfKey": 2
   },
+  "Skrimir - Echoing Howl": {
+    "id": "Skrimir - Echoing Howl",
+    "title": "響徹收穫祭的咆哮",
+    "name": "斯克瑞米爾",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-beast",
+    "moveType": "armored",
+    "pool": "special",
+    "appearsIn": ["Radiant Dawn"],
+    "releaseDate": "2025-10-07",
+    "stats": {
+      "5": {
+        "hp": [49, 52, 56],
+        "atk": [45, 48, 51],
+        "spd": [18, 21, 24],
+        "def": [46, 49, 53],
+        "res": [38, 41, 45]
+      },
+      "5-1": {
+        "hp": 22,
+        "atk": 13,
+        "spd": 6,
+        "def": 10,
+        "res": 11
+      }
+    },
+    "assets": ["hp", "def", "res"],
+    "flaws": [],
+    "statMin": 211,
+    "statMax": 215,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
+  },
   "Ranulf - Friend of Nations": {
     "id": "Ranulf - Friend of Nations",
     "title": "知心好友",
@@ -33489,6 +33630,55 @@
     "book": 3,
     "ver": "3.4",
     "dfKey": 2
+  },
+  "Ranulf - Considerate Gaze": {
+    "id": "Ranulf - Considerate Gaze",
+    "title": "為人著想的雙眸",
+    "name": "萊伊",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "weaponType": "blue-beast",
+    "moveType": "cavalry",
+    "pool": "grail",
+    "appearsIn": ["Radiant Dawn"],
+    "releaseDate": "2025-10-07",
+    "stats": {
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [41, 44, 47],
+        "spd": [42, 45, 48],
+        "def": [31, 34, 37],
+        "res": [19, 22, 25]
+      },
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [33, 36, 39],
+        "res": [21, 24, 28]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 8,
+        "def": 10,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 9,
+        "def": 10,
+        "res": 5
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
   },
   "Mordecai - Kindhearted Tiger": {
     "id": "Mordecai - Kindhearted Tiger",

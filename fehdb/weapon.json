@@ -22453,6 +22453,36 @@
       "exclusive": ["Lyn - Plains Wind"],
       "last": true
     },
+    "Glee of the Land": {
+      "id": "Glee of the Land",
+      "name": "地之女神的祭典",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Nerþuz - Divine Abundance"],
+      "last": true
+    },
+    "Nocturnal Fang": {
+      "id": "Nocturnal Fang",
+      "name": "夜奔戰貓的爪牙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Ranulf - Considerate Gaze"],
+      "last": true
+    },
+    "Preying Fang": {
+      "id": "Preying Fang",
+      "name": "食肉獅子的爪牙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Armored)"],
+      "exclusive": ["Skrimir - Echoing Howl"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -26604,6 +26634,16 @@
       },
       "last": true
     },
+    "Spooky Lantern": {
+      "id": "Spooky Lantern",
+      "name": "妖精的惡作劇之光",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Peony - Fruitful Dream"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -30651,6 +30691,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Veronica - Royal Reception"],
+      "last": true
+    },
+    "Nightmare Staff": {
+      "id": "Nightmare Staff",
+      "name": "惡夢女王之魔杖",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Freyja - Parallel Hearts"],
       "last": true
     },
     "Stone": {

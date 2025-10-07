@@ -3089,6 +3089,30 @@
       "icon": "skillB/Atk_Spd_Snag_3",
       "last": true
     },
+    "Spd/Res Snag 1": {
+      "id": "Spd/Res Snag 1",
+      "name": "速度魔防干涉1",
+      "sp": 60,
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Spd_Res_Snag_1"
+    },
+    "Spd/Res Snag 2": {
+      "id": "Spd/Res Snag 2",
+      "name": "速度魔防干涉2",
+      "sp": 120,
+      "prev": ["Spd/Res Snag 1"],
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Spd_Res_Snag_2"
+    },
+    "Spd/Res Snag 3": {
+      "id": "Spd/Res Snag 3",
+      "name": "速度魔防干涉3",
+      "sp": 240,
+      "prev": ["Spd/Res Snag 2"],
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Spd_Res_Snag_3",
+      "last": true
+    },
     "Def/Res Snag 1": {
       "id": "Def/Res Snag 1",
       "name": "防守魔防干涉1",
@@ -3324,6 +3348,30 @@
       "prev": ["Spd/Res Tempo 2"],
       "rules": "infantry",
       "icon": "skillB/Spd_Res_Tempo_3",
+      "last": true
+    },
+    "Counter Roar 1": {
+      "id": "Counter Roar 1",
+      "name": "反擊的咆嘯1",
+      "sp": 60,
+      "rules": "learner.dragon-beast",
+      "icon": "skillB/Counter_Roar_1"
+    },
+    "Counter Roar 2": {
+      "id": "Counter Roar 2",
+      "name": "反擊的咆嘯2",
+      "sp": 120,
+      "prev": ["Counter Roar 1"],
+      "rules": "learner.dragon-beast",
+      "icon": "skillB/Counter_Roar_2"
+    },
+    "Counter Roar 3": {
+      "id": "Counter Roar 3",
+      "name": "反擊的咆嘯3",
+      "sp": 240,
+      "prev": ["Counter Roar 2"],
+      "rules": "learner.dragon-beast",
+      "icon": "skillB/Counter_Roar_3",
       "last": true
     }
   },

@@ -1956,6 +1956,30 @@
       "Atk Oath Echo": 5
     }
   },
+  "Peony - Fruitful Dream": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 4,
+      "Spooky Lantern": 5
+    },
+    "assist": {
+      "Dance": 4,
+      "Pleasant Night": 5
+    },
+    "skillB": {
+      "Res Cantrip 1": 2,
+      "Res Cantrip 2": 3,
+      "Res Cantrip 3": 4,
+      "D/R Cantrip 3": 5
+    },
+    "skillC": {
+      "Shadow Shove 1": 2,
+      "Shadow Shove 2": 3,
+      "Shadow Shove 3": 4,
+      "Shadow Shove 4": 5
+    }
+  },
   "Mirabilis - Daydream": {
     "weapon": {
       "Iron Sword": 1,
@@ -2349,6 +2373,34 @@
       "Fatal Smoke 1": 1,
       "Fatal Smoke 2": 2,
       "Fatal Smoke 3": 4
+    }
+  },
+  "Freyja - Parallel Hearts": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Nightmare Staff": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "Comet": 5
+    },
+    "skillA": {
+      "Atk/Spd Bond 1": 2,
+      "Atk/Spd Bond 2": 3,
+      "Atk/Spd Bond 3": 4,
+      "Atk/Spd Aria": 5
+    },
+    "skillB": {
+      "Haunting Choker": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Pulse On: Blades": 5
     }
   },
   "Eitr - Hand of Nothing": {
@@ -3464,6 +3516,34 @@
       "Threaten Def 2": 3,
       "Threaten Def 3": 4,
       "Beast Threaten": 5
+    }
+  },
+  "Nerþuz - Divine Abundance": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 4,
+      "Glee of the Land": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "Galeforce Mist": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
+    },
+    "skillB": {
+      "Moonlit Slumber": 5
+    },
+    "skillC": {
+      "Hone Spd 1": 2,
+      "Hone Spd 2": 3,
+      "Hone Spd 3": 4,
+      "A/S Bellow": 5
     }
   },
   "Ratatoskr - Mending Hand": {
@@ -19405,6 +19485,29 @@
       "Distant Guard 3": 4
     }
   },
+  "Skrimir - Echoing Howl": {
+    "weapon": {
+      "Whelp (Armored)": 1,
+      "Yearling (Arm.)": 2,
+      "Adult (Armored)": 4,
+      "Preying Fang": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4
+    },
+    "skillB": {
+      "Wily Fighter 1": 2,
+      "Wily Fighter 2": 3,
+      "Wily Fighter 3": 4,
+      "Wily Fighter 4": 5
+    },
+    "skillC": {
+      "A/D Far Save 1": 1,
+      "A/D Far Save 2": 2,
+      "A/D Far Save 3": 4
+    }
+  },
   "Ranulf - Friend of Nations": {
     "weapon": {
       "Whelp (Cavalry)": 1,
@@ -19426,6 +19529,28 @@
       "Spur Def 1": 1,
       "Spur Def 2": 2,
       "Ward Beasts": 4
+    }
+  },
+  "Ranulf - Considerate Gaze": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 4,
+      "Nocturnal Fang": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4
+    },
+    "skillB": {
+      "Beast Agility 1": 3,
+      "Beast Agility 2": 4,
+      "Beast Agility 3": 5
+    },
+    "skillC": {
+      "Spd Tactic 1": 1,
+      "Spd Tactic 2": 2,
+      "Spd Tactic 3": 4
     }
   },
   "Mordecai - Kindhearted Tiger": {

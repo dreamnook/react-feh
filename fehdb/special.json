@@ -886,6 +886,15 @@
     "rules": "learner.flying-melee",
     "last": true
   },
+  "Comet": {
+    "id": "Comet",
+    "name": "彗星",
+    "sp": 500,
+    "prev": ["Astra"],
+    "cd": 5,
+    "rules": "learner.infantry-armored-not-staff",
+    "last": true
+  },
   "Galeforce": {
     "id": "Galeforce",
     "name": "疾風迅雷",

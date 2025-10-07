@@ -1708,6 +1708,15 @@
     "icon": "skillC/A_S_Outcry_Dull",
     "last": true
   },
+  "A/S Bellow": {
+    "id": "A/S Bellow",
+    "name": "攻速鼓譟・呼吸",
+    "sp": 300,
+    "rules": "learner.cavalry-melee",
+    "prev": ["Hone Atk 3", "Hone Spd 3"],
+    "icon": "skillC/A_S_Bellow",
+    "last": true
+  },
   "Hone Armor": {
     "id": "Hone Armor",
     "name": "重刃鼓舞",
@@ -4385,37 +4394,37 @@
     "icon": "skillC/Firm_Canto_Curb",
     "last": true
   },
-  "Shadow Shift 1": {
-    "id": "Shadow Shift 1",
-    "name": "影助・帶回1",
+  "Shadow Shove 1": {
+    "id": "Shadow Shove 1",
+    "name": "影助・衝撞1",
     "sp": 60,
     "rules": "learner.cavalry-flying",
-    "icon": "skillC/Shadow_Shift_1"
+    "icon": "skillC/Shadow_Shove_1"
   },
-  "Shadow Shift 2": {
-    "id": "Shadow Shift 2",
-    "name": "影助・帶回2",
+  "Shadow Shove 2": {
+    "id": "Shadow Shove 2",
+    "name": "影助・衝撞2",
     "sp": 120,
-    "prev": ["Shadow Shift 1"],
+    "prev": ["Shadow Shove 1"],
     "rules": "learner.cavalry-flying",
-    "icon": "skillC/Shadow_Shift_2"
+    "icon": "skillC/Shadow_Shove_2"
   },
-  "Shadow Shift 3": {
-    "id": "Shadow Shift 3",
-    "name": "影助・帶回3",
+  "Shadow Shove 3": {
+    "id": "Shadow Shove 3",
+    "name": "影助・衝撞3",
     "sp": 240,
-    "prev": ["Shadow Shift 2"],
+    "prev": ["Shadow Shove 2"],
     "rules": "learner.cavalry-flying",
-    "icon": "skillC/Shadow_Shift_3",
+    "icon": "skillC/Shadow_Shove_3",
     "last": true
   },
-  "Shadow Shift 4": {
-    "id": "Shadow Shift 4",
-    "name": "影助・帶回4",
+  "Shadow Shove 4": {
+    "id": "Shadow Shove 4",
+    "name": "影助・衝撞4",
     "sp": 300,
-    "prev": ["Shadow Shift 3"],
+    "prev": ["Shadow Shove 3"],
     "rules": "learner.cavalry-flying",
-    "icon": "skillC/Shadow_Shift_4",
+    "icon": "skillC/Shadow_Shove_4",
     "last": true
   },
   "Shadow Smite 1": {
@@ -4449,6 +4458,39 @@
     "prev": ["Shadow Smite 3"],
     "rules": "learner.cavalry-flying",
     "icon": "skillC/Shadow_Smite_4",
+    "last": true
+  },
+  "Shadow Shift 1": {
+    "id": "Shadow Shift 1",
+    "name": "影助・帶回1",
+    "sp": 60,
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_1"
+  },
+  "Shadow Shift 2": {
+    "id": "Shadow Shift 2",
+    "name": "影助・帶回2",
+    "sp": 120,
+    "prev": ["Shadow Shift 1"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_2"
+  },
+  "Shadow Shift 3": {
+    "id": "Shadow Shift 3",
+    "name": "影助・帶回3",
+    "sp": 240,
+    "prev": ["Shadow Shift 2"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_3",
+    "last": true
+  },
+  "Shadow Shift 4": {
+    "id": "Shadow Shift 4",
+    "name": "影助・帶回4",
+    "sp": 300,
+    "prev": ["Shadow Shift 3"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Shift_4",
     "last": true
   },
   "Lookout 1": {
