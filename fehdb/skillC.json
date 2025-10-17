@@ -749,6 +749,22 @@
     "icon": "skillC/Heir_of_Openness",
     "last": true
   },
+  "Entwined Onrush": {
+    "id": "Entwined Onrush",
+    "name": "與你相連",
+    "sp": 300,
+    "exclusive": ["Sharena - Borrowed Divinity"],
+    "icon": "skillC/Entwined_Onrush",
+    "last": true
+  },
+  "Ties of Crimea": {
+    "id": "Ties of Crimea",
+    "name": "克里米亞之羈絆",
+    "sp": 300,
+    "exclusive": ["Elincia - Hearts of Purity"],
+    "icon": "skillC/Ties_of_Crimea",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -2613,6 +2629,15 @@
     "rules": "infantry",
     "prev": ["Time's Pulse 3"],
     "icon": "skillC/Time_Pulse_Helm",
+    "last": true
+  },
+  "Preempt: Ploy": {
+    "id": "Preempt: Ploy",
+    "name": "初始之躍動・謀策",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Time's Pulse 3"],
+    "icon": "skillC/Preempt_Ploy",
     "last": true
   },
   "Infantry Pulse 1": {

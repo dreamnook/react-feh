@@ -379,6 +379,41 @@
     "ver": "9.8",
     "dfKey": 8
   },
+  "Sharena - Borrowed Divinity": {
+    "id": "Sharena - Borrowed Divinity",
+    "title": "與開神同在",
+    "name": "夏蓉",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "cavalry",
+    "pool": "entwined",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-10-17",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 51],
+        "spd": [46, 49, 53],
+        "def": [32, 35, 38],
+        "res": [20, 23, 26]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 9,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
+  },
   "Anna - Commander": {
     "id": "Anna - Commander",
     "title": "特務機關的隊長",
@@ -30620,6 +30655,41 @@
     "ver": "6.4",
     "dfKey": 4
   },
+  "Soren - Isolated Strategist": {
+    "id": "Soren - Isolated Strategist",
+    "title": "孤影的參謀",
+    "name": "塞涅里歐",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-tome",
+    "moveType": "infantry",
+    "pool": "rearmed",
+    "appearsIn": ["Path of Radiance"],
+    "releaseDate": "2025-10-17",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 52],
+        "spd": [35, 38, 41],
+        "def": [15, 18, 21],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 14,
+        "def": 3,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
+  },
   "Mist - Helpful Sister": {
     "id": "Mist - Helpful Sister",
     "title": "喜歡照顧人的妹妹",
@@ -30834,6 +30904,40 @@
     "book": 6,
     "ver": "6.4",
     "dfKey": 4
+  },
+  "Boyd - Intrepid Warrior": {
+    "id": "Boyd - Intrepid Warrior",
+    "title": "無畏的戰士",
+    "name": "博雷",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "infantry",
+    "appearsIn": ["Path of Radiance"],
+    "releaseDate": "2025-10-17",
+    "stats": {
+      "5": {
+        "hp": [48, 51, 55],
+        "atk": [46, 49, 53],
+        "spd": [42, 45, 48],
+        "def": [34, 37, 40],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 10,
+        "spd": 10,
+        "def": 11,
+        "res": 6
+      }
+    },
+    "assets": ["hp", "atk"],
+    "flaws": [],
+    "statMin": 203,
+    "statMax": 205,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
   },
   "Rolf - Tricky Archer": {
     "id": "Rolf - Tricky Archer",
@@ -31089,6 +31193,42 @@
     "book": 1,
     "ver": "1.7",
     "dfKey": 2
+  },
+  "Elincia - Hearts of Purity": {
+    "id": "Elincia - Hearts of Purity",
+    "title": "連翼的澄淨之心",
+    "name": "艾琳西亞",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "pool": "duo",
+    "bst": 220,
+    "appearsIn": ["Path of Radiance"],
+    "releaseDate": "2025-10-17",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 51],
+        "spd": [46, 49, 53],
+        "def": [27, 31, 34],
+        "res": [33, 36, 39]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 9,
+        "res": 10
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
   },
   "Lucia - Loyalty Enrobed": {
     "id": "Lucia - Loyalty Enrobed",
@@ -31756,6 +31896,40 @@
     "ver": "5.11",
     "dfKey": 4
   },
+  "Stefan - No-Man's-Blade": {
+    "id": "Stefan - No-Man's-Blade",
+    "title": "隱密村落的劍士",
+    "name": "索恩巴魯克",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "appearsIn": ["Path of Radiance"],
+    "releaseDate": "2025-10-17",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [43, 46, 49],
+        "spd": [46, 49, 53],
+        "def": [34, 37, 40],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 10,
+        "def": 9,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
+  },
   "Ashnard - Mad King": {
     "id": "Ashnard - Mad King",
     "title": "狂王",
@@ -32003,6 +32177,69 @@
     "book": 4,
     "ver": "4.9",
     "dfKey": 3
+  },
+  "Gromell - Bolt Axe General": {
+    "id": "Gromell - Bolt Axe General",
+    "title": "雷斧的龍將",
+    "name": "古羅梅爾",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "flying",
+    "pool": "grail",
+    "appearsIn": ["Path of Radiance"],
+    "releaseDate": "2025-10-18",
+    "stats": {
+      "3": {
+        "hp": [35, 38, 41],
+        "atk": [39, 42, 45],
+        "spd": [23, 26, 29],
+        "def": [41, 44, 47],
+        "res": [25, 28, 31]
+      },
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [42, 45, 48],
+        "spd": [24, 27, 30],
+        "def": [44, 47, 50],
+        "res": [26, 29, 32]
+      },
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [44, 47, 50],
+        "spd": [26, 30, 33],
+        "def": [46, 49, 53],
+        "res": [28, 32, 35]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 7,
+        "def": 9,
+        "res": 9
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 7,
+        "def": 10,
+        "res": 9
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 10,
+        "res": 10
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["spd", "res"],
+    "statMin": 200,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.10",
+    "dfKey": 8
   },
   "Ilyana - Treat Harvester": {
     "id": "Ilyana - Treat Harvester",

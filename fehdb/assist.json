@@ -621,7 +621,15 @@
     "name": "拉近",
     "sp": 150,
     "range": 1,
-    "rules": "not.white-staff",
+    "rules": "not.white-staff"
+  },
+  "Draw Back Gait": {
+    "id": "Draw Back Gait",
+    "name": "拉近・步法",
+    "sp": 400,
+    "range": 1,
+    "prev": ["Draw Back"],
+    "rules": "learner.infantry-armored-not-staff",
     "last": true
   },
   "Reposition": {

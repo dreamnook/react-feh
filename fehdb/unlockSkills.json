@@ -224,6 +224,34 @@
       "Just like Mother": 5
     }
   },
+  "Sharena - Borrowed Divinity": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Ásjá of Askr": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "Atk/Spd Excel": 5
+    },
+    "skillB": {
+      "Flow Refresh 1": 2,
+      "Flow Refresh 2": 3,
+      "Flow Refresh 3": 4,
+      "Assault Impetus": 5
+    },
+    "skillC": {
+      "Entwined Onrush": 5
+    }
+  },
   "Anna - Commander": {
     "weapon": {
       "Iron Axe": 1,
@@ -17708,6 +17736,34 @@
       "Time's Pulse 3": 4
     }
   },
+  "Soren - Isolated Strategist": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Thoron": 3,
+      "Arcane Rexbolt": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Glacies": 4,
+      "Ice Wall": 5
+    },
+    "skillA": {
+      "Refined Magic": 5
+    },
+    "skillB": {
+      "Sabotage Res 1": 2,
+      "Sabotage Res 2": 3,
+      "Sabotage Res 3": 4,
+      "Atk/Res Havoc": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Preempt: Ploy": 5
+    }
+  },
   "Mist - Helpful Sister": {
     "weapon": {
       "Assault": 1,
@@ -17830,6 +17886,27 @@
       "Infantry Pulse 1": 3,
       "Infantry Pulse 2": 4,
       "Infantry Pulse 3": 5
+    }
+  },
+  "Boyd - Intrepid Warrior": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Campaign Axe": 3,
+      "Campaign Axe+": 5
+    },
+    "assist": {
+      "Shove": 3
+    },
+    "skillB": {
+      "Atk/Spd Link 1": 3,
+      "Atk/Spd Link 2": 4,
+      "Atk/Spd Link 3": 5
+    },
+    "skillC": {
+      "Even Atk Wave 1": 1,
+      "Even Atk Wave 2": 2,
+      "Even Atk Wave 3": 4
     }
   },
   "Rolf - Tricky Archer": {
@@ -18005,6 +18082,31 @@
       "Flier Formation 1": 3,
       "Flier Formation 2": 4,
       "Flier Formation 3": 5
+    }
+  },
+  "Elincia - Hearts of Purity": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Bonded Blades": 5
+    },
+    "assist": {
+      "Draw Back": 3,
+      "Draw Back Gait": 5
+    },
+    "skillA": {
+      "Distant Counter": 4,
+      "D Bonus Amp": 5
+    },
+    "skillB": {
+      "Velocity 1": 2,
+      "Velocity 2": 3,
+      "Velocity 3": 4,
+      "Null C-Avoid": 5
+    },
+    "skillC": {
+      "Ties of Crimea": 5
     }
   },
   "Lucia - Loyalty Enrobed": {
@@ -18396,6 +18498,31 @@
       "Time's Pulse 3": 5
     }
   },
+  "Stefan - No-Man's-Blade": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Vague Katti": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Glimmer": 4,
+      "Gust": 5
+    },
+    "skillB": {
+      "Close Call 1": 2,
+      "Close Call 2": 3,
+      "Close Call 3": 4,
+      "Harrowing Call": 5
+    },
+    "skillC": {
+      "Even Tempest 1": 2,
+      "Even Tempest 2": 3,
+      "Even Tempest 3": 4,
+      "Brutal Tempest": 5
+    }
+  },
   "Ashnard - Mad King": {
     "weapon": {
       "Iron Sword": 1,
@@ -18518,6 +18645,28 @@
       "Threaten Atk 1": 1,
       "Threat. Atk/Def 1": 2,
       "Threat. Atk/Def 2": 4
+    }
+  },
+  "Gromell - Bolt Axe General": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Bolt Axe": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Brazen Atk/Def 1": 1,
+      "Brazen Atk/Def 2": 2,
+      "Brazen Atk/Def 3": 4
+    },
+    "skillB": {
+      "Flow Force 1": 3,
+      "Flow Force 2": 4,
+      "Flow Force 3": 5
     }
   },
   "Ilyana - Treat Harvester": {

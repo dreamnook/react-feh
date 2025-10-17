@@ -4520,6 +4520,15 @@
     "icon": "skillB/Null_C-Avoid",
     "last": true
   },
+  "Harrowing Call": {
+    "id": "Harrowing Call",
+    "name": "真迴避・一擊即離",
+    "sp": 300,
+    "rules": ["learner.wielderInfantry"],
+    "prev": ["Close Call 3"],
+    "icon": "skillB/Harrowing_Call",
+    "last": true
+  },
   "Dragon's Ire 1": {
     "id": "Dragon's Ire 1",
     "name": "龍的逆鱗1",
@@ -5127,6 +5136,15 @@
     "rules": "learner.wielderCavalryFlying",
     "prev": ["Flow Refresh 3"],
     "icon": "skillB/Potent_Assault",
+    "last": true
+  },
+  "Assault Impetus": {
+    "id": "Assault Impetus",
+    "name": "強攻・助跑",
+    "sp": 300,
+    "rules": "learner.wielderCavalryFlying",
+    "prev": ["Flow Force 3"],
+    "icon": "skillB/Assault_Impetus",
     "last": true
   },
   "Atk/Res Tempo 1": {

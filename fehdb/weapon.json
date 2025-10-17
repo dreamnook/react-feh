@@ -3783,6 +3783,26 @@
       "exclusive": ["Corrin - Of Fates"],
       "last": true
     },
+    "Bonded Blades": {
+      "id": "Bonded Blades",
+      "name": "同乳姊妹情誼之劍",
+      "mt": 11,
+      "atk": 3,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Elincia - Hearts of Purity"],
+      "last": true
+    },
+    "Vague Katti": {
+      "id": "Vague Katti",
+      "name": "瓦古・卡提",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Stefan - No-Man's-Blade"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -8580,6 +8600,16 @@
       "exclusive": ["Marth - Masked Gladiator"],
       "last": true
     },
+    "Ásjá of Askr": {
+      "id": "Ásjá of Askr",
+      "name": "蘊藏開神加護之刃",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Sharena - Borrowed Divinity"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -12978,6 +13008,16 @@
       "exclusive": ["Diamant - Fortified King"],
       "last": true
     },
+    "Bolt Axe": {
+      "id": "Bolt Axe",
+      "name": "閃電斧",
+      "mt": 16,
+      "def": 3,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Gromell - Bolt Axe General"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -13868,6 +13908,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Doubler Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Campaign Axe": {
+      "id": "Campaign Axe",
+      "name": "繼戰之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Campaign Axe+": {
+      "id": "Campaign Axe+",
+      "name": "繼戰之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Campaign Axe"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -26726,6 +26799,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Arcane Rexbolt": {
+      "id": "Arcane Rexbolt",
+      "name": "魔器列克斯波魯特",
+      "mt": 14,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Thoron"],
+      "rearmed": true,
       "last": true
     },
     "Thunder": {

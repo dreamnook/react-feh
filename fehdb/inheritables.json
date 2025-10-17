@@ -1108,6 +1108,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Campaign Axe+": {
+        "pool": { "#": { "5": ["Boyd - Intrepid Warrior"] } },
+        "id": "Campaign Axe+",
+        "name": "繼戰之斧+",
+        "sp": 300,
+        "refine": 350
+      },
       "Legion's Axe+": {
         "pool": { "grail": { "5": ["Legion - Masked Maniac"] } },
         "id": "Legion's Axe+",
@@ -2387,6 +2394,12 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Rexbolt": {
+        "pool": { "rearmed": { "5": ["Soren - Isolated Strategist"] } },
+        "id": "Arcane Rexbolt",
+        "name": "魔器列克斯波魯特",
+        "sp": 300
+      },
       "Shine+": {
         "pool": { "grail": { "5": ["Oliver - Admirer of Beauty"] } },
         "id": "Shine+",
@@ -3568,7 +3581,8 @@
             "Est - Junior Whitewing",
             "Gordin - Altean Archer",
             "Roy - Young Lion"
-          ]
+          ],
+          "5": ["Boyd - Intrepid Warrior"]
         },
         "grail": {
           "3": ["Cynthia - Hero Chaser"],
@@ -3628,45 +3642,12 @@
       "sp": 150,
       "rules": "not.white-staff"
     },
-    "Draw Back": {
-      "pool": {
-        "#": {
-          "3": [
-            "Nino - Pious Mage",
-            "Mae - Bundle of Energy",
-            "Sully - Crimson Knight",
-            "Fae - Divine Dragon",
-            "Chad - Lycian Wildcat",
-            "Orochi - Merry Diviner",
-            "Miriel - Rapier Intellect",
-            "Roshea - Coyote's Faithful",
-            "Homer - Traveling Bard"
-          ],
-          "5": ["Nina - Eye Spy", "Camilla - Flower of Fantasy"]
-        },
-        "grail": {
-          "4": [
-            "Robin - Keen Groom",
-            "Elincia - Seaside Queen",
-            "Alcryst - Tender Groom"
-          ]
-        },
-        "special": {
-          "4": ["Sylvain - Hanging with Tens", "Tharja - Beach Dark Mage"],
-          "5": [
-            "Catria - Spring Whitewing",
-            "Sanaki - Apostle in White",
-            "Wolt - Sunbeam Archer",
-            "Selena - Sandbar Fluorspar",
-            "Hinoka - Relaxed Warrior",
-            "Cath - Caper Captain"
-          ]
-        }
-      },
-      "id": "Draw Back",
-      "name": "拉近",
-      "sp": 150,
-      "rules": "not.white-staff"
+    "Draw Back Gait": {
+      "pool": { "duo": { "5": ["Elincia - Hearts of Purity"] } },
+      "id": "Draw Back Gait",
+      "name": "拉近・步法",
+      "sp": 400,
+      "rules": "learner.infantry-armored-not-staff"
     },
     "Reposition": {
       "pool": {
@@ -4347,9 +4328,9 @@
           ],
           "5": [
             "Ephraim - Restoration Lord",
+            "Nina - Eye Spy",
             "Tana - Winged Princess",
             "Nephenee - Fierce Halberdier",
-            "Nina - Eye Spy",
             "Lethe - Gallia's Valkyrie",
             "Sonya - Vengeful Mage",
             "Nailah - Unflinching Eye",
@@ -4714,6 +4695,7 @@
             "Alear - Red Days Past",
             "Felix - Sword Savant",
             "Alear - Fell Dragon Child",
+            "Stefan - No-Man's-Blade",
             "Byleth - Anchor of Hope",
             "Shinon - Scathing Archer"
           ]
@@ -4913,6 +4895,7 @@
           "5": [
             "Felix - Sword Savant",
             "Alear - Fell Dragon Child",
+            "Stefan - No-Man's-Blade",
             "Byleth - Anchor of Hope"
           ]
         },
@@ -5211,6 +5194,7 @@
           ]
         },
         "emblem": { "5": ["Corrin - Of Fates"] },
+        "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": {
           "5": [
             "Roy - Blazing Lion",
@@ -5306,6 +5290,7 @@
     "Archrival": {
       "pool": {
         "#": { "5": ["Baldr - Rays of Judgment"] },
+        "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Diamant - Fortified King"] }
       },
       "id": "Archrival",
@@ -5472,6 +5457,7 @@
             "Ludveck - Rebellious Duke",
             "Cervantes - Invincible General",
             "Dagdar - Reformed Bandit",
+            "Gromell - Bolt Axe General",
             "Marni - Pining for Praise"
           ]
         },
@@ -5746,7 +5732,9 @@
             "Excellus - Conqueror’s Wile"
           ]
         },
-        "rearmed": { "5": ["Marianne - Cursed Blessing"] },
+        "rearmed": {
+          "5": ["Marianne - Cursed Blessing", "Soren - Isolated Strategist"]
+        },
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
         "legendary": { "5": ["Gunnthrá - Voice of Dreams"] },
         "mythic": {
@@ -5823,6 +5811,7 @@
     },
     "Ice Wall": {
       "pool": {
+        "rearmed": { "5": ["Soren - Isolated Strategist"] },
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
         "mythic": { "5": ["Höðr - Dusk Shadow God"] },
         "special": { "5": ["Heiðrún - Peaceful Horizon"] },
@@ -7825,7 +7814,7 @@
           "5": ["Linus - Mad Dog"]
         },
         "special": {
-          "5": ["Robin - Festive Tactician", "Wolt - Sunbeam Archer"]
+          "5": ["Wolt - Sunbeam Archer", "Robin - Festive Tactician"]
         }
       },
       "id": "Brazen Atk/Spd 3",
@@ -7843,7 +7832,10 @@
     "Brazen Atk/Def 3": {
       "pool": {
         "#": { "3": ["Ares - Black Knight", "Balthus - King of Grappling"] },
-        "grail": { "5": ["Galle - Azure Rider"] },
+        "grail": {
+          "4": ["Gromell - Bolt Axe General"],
+          "5": ["Galle - Azure Rider"]
+        },
         "special": { "5": ["Henry - Peculiar Egg", "Chrom - Gifted Leader"] }
       },
       "id": "Brazen Atk/Def 3",
@@ -8046,6 +8038,7 @@
           "5": [
             "Duma - Strength and Love",
             "Hector - Dressed-Up Duo",
+            "Elincia - Hearts of Purity",
             "Ike - Close-Knit Siblings"
           ]
         },
@@ -8155,7 +8148,10 @@
       "rules": "learner.infantry-melee"
     },
     "D Bonus Amp": {
-      "pool": { "legendary": { "5": ["Diamant - Fortified King"] } },
+      "pool": {
+        "legendary": { "5": ["Diamant - Fortified King"] },
+        "duo": { "5": ["Elincia - Hearts of Purity"] }
+      },
       "id": "D Bonus Amp",
       "name": "遠反・有利增幅",
       "sp": 300,
@@ -8519,10 +8515,10 @@
         "special": {
           "4": ["Owain - Devoted Defender"],
           "5": [
+            "Hinoka - Relaxed Warrior",
             "Tharja - Obsessive Bride",
             "Lyn - Wind's Embrace",
-            "Fjorm - New Traditions",
-            "Hinoka - Relaxed Warrior"
+            "Fjorm - New Traditions"
           ]
         },
         "duo": { "5": ["Peony - Álfar Dream Duo", "Freyja - Parallel Hearts"] },
@@ -8584,8 +8580,8 @@
         "#": {
           "3": ["Cath - Master Thief"],
           "5": [
-            "Micaiah - Queen of Dawn",
             "Camilla - Flower of Fantasy",
+            "Micaiah - Queen of Dawn",
             "Ymir - Life-Mother"
           ]
         },
@@ -8594,8 +8590,8 @@
         "special": {
           "5": [
             "Flayn - Silly Kitty-Cat",
-            "Nowi - Eternal Witch",
             "Sanaki - Apostle in White",
+            "Nowi - Eternal Witch",
             "Takumi - Prince of Soup",
             "Micaiah - Summer's Dawn",
             "Rhea - Witch of Creation",
@@ -10251,6 +10247,7 @@
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
         "attuned": { "5": ["Triandra - Reverent Dream"] },
         "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
+        "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": {
           "5": [
             "Xander - Gallant King",
@@ -10402,6 +10399,7 @@
       "pool": {
         "#": { "5": ["Felix - Sword Savant"] },
         "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
+        "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Xander - Gallant King", "Ayra - Supreme Astra"] },
         "special": {
           "5": [
@@ -12131,7 +12129,9 @@
             "Marla - Duma's Witch"
           ]
         },
-        "rearmed": { "5": ["Marianne - Cursed Blessing"] },
+        "rearmed": {
+          "5": ["Marianne - Cursed Blessing", "Soren - Isolated Strategist"]
+        },
         "emblem": { "5": ["Micaiah - Of Dawn"] },
         "legendary": {
           "5": ["Deirdre - Fated Saint", "Lilina - Firelight Leader"]
@@ -12226,6 +12226,7 @@
     "Atk/Res Havoc": {
       "pool": {
         "#": { "5": ["Gotoh - Apostle of Naga"] },
+        "rearmed": { "5": ["Soren - Isolated Strategist"] },
         "emblem": { "5": ["Micaiah - Of Dawn"] },
         "mythic": { "5": ["Arval - Cycle Keeper"] }
       },
@@ -13017,13 +13018,14 @@
     },
     "Atk/Spd Link 3": {
       "pool": {
+        "#": { "5": ["Boyd - Intrepid Warrior"] },
         "grail": { "5": ["Elincia - Seaside Queen"] },
         "special": {
           "5": [
             "Joshua - Tropical Gambler",
+            "Hinoka - Relaxed Warrior",
             "Niles - Forbidden Tease",
             "Fjorm - New Traditions",
-            "Hinoka - Relaxed Warrior",
             "Lyn - Lady of the Beach",
             "Marth - Masked Gladiator"
           ]
@@ -13106,7 +13108,7 @@
       "pool": {
         "#": {
           "3": ["Miriel - Rapier Intellect", "Cath - Master Thief"],
-          "5": ["Kaden - Kitsune Braggart", "Nina - Eye Spy"]
+          "5": ["Nina - Eye Spy", "Kaden - Kitsune Braggart"]
         },
         "grail": { "4": ["Fiora - Defrosted Ilian"] }
       },
@@ -13780,7 +13782,8 @@
             "Say'ri - Chon'sin's Blade",
             "Mareeta - Sword of Stars",
             "Alear - Dragon Child",
-            "Byleth - Vengeance Vessel"
+            "Byleth - Vengeance Vessel",
+            "Stefan - No-Man's-Blade"
           ]
         }
       },
@@ -13857,7 +13860,8 @@
     "Velocity 3": {
       "pool": {
         "#": { "5": ["Byleth - Anchor of Hope"] },
-        "ascended": { "5": ["Hilda - Helping Hand"] }
+        "ascended": { "5": ["Hilda - Helping Hand"] },
+        "duo": { "5": ["Elincia - Hearts of Purity"] }
       },
       "id": "Velocity 3",
       "name": "迴避・節拍3",
@@ -13876,11 +13880,22 @@
       "rules": "learner.wielderInfantry"
     },
     "Null C-Avoid": {
-      "pool": { "#": { "5": ["Byleth - Anchor of Hope"] } },
+      "pool": {
+        "#": { "5": ["Byleth - Anchor of Hope"] },
+        "duo": { "5": ["Elincia - Hearts of Purity"] }
+      },
       "id": "Null C-Avoid",
       "name": "真迴避・識破反擊",
       "sp": 300,
       "icon": "skillB/Null_C-Avoid",
+      "rules": ["learner.wielderInfantry"]
+    },
+    "Harrowing Call": {
+      "pool": { "#": { "5": ["Stefan - No-Man's-Blade"] } },
+      "id": "Harrowing Call",
+      "name": "真迴避・一擊即離",
+      "sp": 300,
+      "icon": "skillB/Harrowing_Call",
       "rules": ["learner.wielderInfantry"]
     },
     "Dragon's Ire 3": {
@@ -14175,8 +14190,8 @@
         "special": {
           "4": ["Tine - Determined Bride"],
           "5": [
-            "L'Arachel - Seeker of Justice",
             "Tharja - Beach Dark Mage",
+            "L'Arachel - Seeker of Justice",
             "Dorothea - Yuletide Dancer",
             "Delthea - Prodigy in Bloom"
           ]
@@ -14214,6 +14229,7 @@
       "pool": {
         "#": { "5": ["Sain - Green Lance"] },
         "attuned": { "5": ["Triandra - Reverent Dream"] },
+        "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
         "mythic": { "5": ["Ótr - Kingsbrother"] },
         "special": { "5": ["Seliph - Light's Legacy"] },
@@ -14286,6 +14302,7 @@
     "Flow Force 3": {
       "pool": {
         "#": { "5": ["Geoffrey - Realm's Protector"] },
+        "grail": { "5": ["Gromell - Bolt Axe General"] },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "harmonized": {
           "5": ["Roy - Blazing Bachelors", "Marisa - Willful Blades"]
@@ -14338,6 +14355,14 @@
       "name": "強攻・神速",
       "sp": 300,
       "icon": "skillB/Potent_Assault",
+      "rules": "learner.wielderCavalryFlying"
+    },
+    "Assault Impetus": {
+      "pool": { "entwined": { "5": ["Sharena - Borrowed Divinity"] } },
+      "id": "Assault Impetus",
+      "name": "強攻・助跑",
+      "sp": 300,
+      "icon": "skillB/Assault_Impetus",
       "rules": "learner.wielderCavalryFlying"
     },
     "Atk/Res Tempo 3": {
@@ -15368,8 +15393,8 @@
         "#": {
           "3": [
             "Linhardt - Hevring's Heir",
-            "Merlinus - Pherae's Clerk",
             "Roshea - Coyote's Faithful",
+            "Merlinus - Pherae's Clerk",
             "Wil - Unequaled Archer"
           ],
           "5": [
@@ -16988,7 +17013,11 @@
         },
         "ascended": { "5": ["Ishtar - Echoing Thunder"] },
         "rearmed": {
-          "5": ["Nuibaba - Mistress of Fear", "Ophelia - Starlit Maiden"]
+          "5": [
+            "Nuibaba - Mistress of Fear",
+            "Ophelia - Starlit Maiden",
+            "Soren - Isolated Strategist"
+          ]
         },
         "attuned": {
           "5": [
@@ -17131,6 +17160,14 @@
       "name": "初始之躍動・冑",
       "sp": 300,
       "icon": "skillC/Time_Pulse_Helm",
+      "rules": "infantry"
+    },
+    "Preempt: Ploy": {
+      "pool": { "rearmed": { "5": ["Soren - Isolated Strategist"] } },
+      "id": "Preempt: Ploy",
+      "name": "初始之躍動・謀策",
+      "sp": 300,
+      "icon": "skillC/Preempt_Ploy",
       "rules": "infantry"
     },
     "Infantry Pulse 3": {
@@ -17679,9 +17716,9 @@
           "5": [
             "Lachesis - Ballroom Bloom",
             "Sigrun - Steadfast Bride",
+            "Hinoka - Relaxed Warrior",
             "Ishtar - Thunder's Waltz",
             "Thea - Wings of Winter",
-            "Hinoka - Relaxed Warrior",
             "Fir - Student of Spring"
           ]
         }
@@ -17830,6 +17867,7 @@
       "pool": {
         "#": {
           "5": [
+            "Boyd - Intrepid Warrior",
             "Merrin - Suave Knight",
             "Tibarn - Lord of the Air",
             "Osian - Scolded Soldier",
@@ -18510,7 +18548,13 @@
     },
     "Even Tempest 3": {
       "pool": {
-        "#": { "5": ["Marth - Prince of Light", "Lucia - Tireless Advisor"] },
+        "#": {
+          "5": [
+            "Marth - Prince of Light",
+            "Stefan - No-Man's-Blade",
+            "Lucia - Tireless Advisor"
+          ]
+        },
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "legendary": { "5": ["Diamant - Fortified King"] },
         "mythic": { "5": ["Líf - Lethal Swordsman", "Dagr - Sun's Radiance"] },
@@ -18537,6 +18581,7 @@
     },
     "Brutal Tempest": {
       "pool": {
+        "#": { "5": ["Stefan - No-Man's-Blade"] },
         "legendary": {
           "5": ["Ayra - Supreme Astra", "Diamant - Fortified King"]
         },
