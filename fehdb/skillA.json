@@ -922,6 +922,19 @@
     "icon": "skillA/Life_and_Death_4",
     "last": true
   },
+  "Verge of Death": {
+    "id": "Verge of Death",
+    "name": "極限死線",
+    "sp": 300,
+    "atk": 8,
+    "spd": 8,
+    "def": -8,
+    "res": -8,
+    "rules": "not.white-staff",
+    "prev": ["Life and Death 3"],
+    "icon": "skillA/Verge_of_Death",
+    "last": true
+  },
   "Solid Ground 1": {
     "id": "Solid Ground 1",
     "name": "不壞1",
@@ -1002,19 +1015,6 @@
     "def": -5,
     "prev": ["Still Water 3"],
     "icon": "skillA/Still_Water_4",
-    "last": true
-  },
-  "Verge of Death": {
-    "id": "Verge of Death",
-    "name": "極限死線",
-    "sp": 300,
-    "atk": 8,
-    "spd": 8,
-    "def": -8,
-    "res": -8,
-    "rules": "not.white-staff",
-    "prev": ["Life and Death 3"],
-    "icon": "skillA/Verge_of_Death",
     "last": true
   },
   "Crystalline Water": {

@@ -2753,18 +2753,6 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
-  "Scarlet - Rebellious Streak": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 200,
-    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Spd/Def Catch 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Flow Flight 3": { "sp": 240, "rarity": 5 } }
-  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -4264,6 +4252,30 @@
     "skillA": { "Spd/Def Ideal 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Repel 3": { "sp": 240, "rarity": 5 } }
   },
+  "Shura - Righteous Rebel": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 199,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Spd/Def Tempo 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd Ploy 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Scarlet - Rebellious Streak": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 200,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Def Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Flow Flight 3": { "sp": 240, "rarity": 5 } }
+  },
   "Bors - Ostia's Bastion": {
     "score": 199,
     "scoreTotal": 461,
@@ -4533,6 +4545,19 @@
     "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
     "skillA": { "Defiant Def 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Fliers": { "sp": 200, "rarity": 5 } }
+  },
+  "Skrimir - Echoing Howl": {
+    "score": 245,
+    "scoreTotal": 504,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 300,
+    "bst": 211,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Wily Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Far Save 3": { "sp": 300, "rarity": 4 } }
   },
   "Ninian - Bright-Eyed Bride": {
     "score": 254,
@@ -6765,18 +6790,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Shura - Righteous Rebel": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 199,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Spd/Def Tempo 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Spd Ploy 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -11028,19 +11041,6 @@
     "special": { "Aegis": { "sp": 200, "rarity": 5 } },
     "skillB": { "Shield Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Briar F Save": { "sp": 300, "rarity": 5 } }
-  },
-  "Skrimir - Echoing Howl": {
-    "score": 318,
-    "scoreTotal": 848,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 800,
-    "feather": 1000,
-    "bst": 211,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Wily Fighter 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "A/D Far Save 3": { "sp": 300, "rarity": 5 } }
   },
   "Marth - Love and Courage": {
     "score": 318,

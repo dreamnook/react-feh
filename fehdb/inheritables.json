@@ -1102,7 +1102,7 @@
         "refine": 350
       },
       "Doubler Axe+": {
-        "pool": { "#": { "4": ["Scarlet - Rebellious Streak"] } },
+        "pool": { "#": { "3": ["Scarlet - Rebellious Streak"] } },
         "id": "Doubler Axe+",
         "name": "強化增幅之斧+",
         "sp": 300,
@@ -1487,7 +1487,7 @@
         "refine": 350
       },
       "Discord Bow+": {
-        "pool": { "#": { "5": ["Shura - Righteous Rebel"] } },
+        "pool": { "#": { "3": ["Shura - Righteous Rebel"] } },
         "id": "Discord Bow+",
         "name": "不和之弓+",
         "sp": 300,
@@ -5432,10 +5432,10 @@
             "Boey - Skillful Survivor",
             "Thea - Stormy Flier",
             "Balthus - King of Grappling",
+            "Scarlet - Rebellious Streak",
             "Bors - Ostia's Bastion",
             "Uther - Frugal Militarist"
           ],
-          "4": ["Scarlet - Rebellious Streak"],
           "5": [
             "Robin - Fell Reincarnation",
             "Eyvel - Mistress of Fiana",
@@ -5495,14 +5495,14 @@
           "4": [
             "Manuela - Silver Caroler",
             "Hana - Striving Heart",
-            "Palla - Soaring Summer"
+            "Palla - Soaring Summer",
+            "Skrimir - Echoing Howl"
           ],
           "5": [
             "Jakob - Devoted Monster",
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
             "Robin - Fated Vessel",
-            "Skrimir - Echoing Howl",
             "Gustav - Majestic Love",
             "Askr - Open Harvest",
             "Níðhöggr - Daze of Healing"
@@ -5706,12 +5706,12 @@
             "Felicia - Maid Mayhem",
             "Klein - Silver Nobleman",
             "Medeus - Last Earth Dragon",
+            "Shura - Righteous Rebel",
             "Grima - Tyrant of Ruin"
           ],
           "5": [
             "Katarina - Wayward One",
             "Ewan - Eager Student",
-            "Shura - Righteous Rebel",
             "Gotoh - Apostle of Naga",
             "Nomah - Priest of Mila",
             "Marianne - Serene Adherent",
@@ -6771,6 +6771,18 @@
       "icon": "skillA/Life_and_Death_4",
       "rules": "not.white-staff"
     },
+    "Verge of Death": {
+      "pool": {
+        "#": { "5": ["Niðavellir - Founding King", "Ursula - Blackened Crow"] },
+        "emblem": { "5": ["Celica - Of Echoes"] },
+        "duo": { "5": ["Hapi - Eternal Sunlit Pair"] }
+      },
+      "id": "Verge of Death",
+      "name": "極限死線",
+      "sp": 300,
+      "icon": "skillA/Verge_of_Death",
+      "rules": "not.white-staff"
+    },
     "Solid Ground 3": {
       "pool": {
         "#": { "5": ["Gregor - Swell Sword"] },
@@ -6833,18 +6845,6 @@
       "name": "止水4",
       "sp": 300,
       "icon": "skillA/Still_Water_4"
-    },
-    "Verge of Death": {
-      "pool": {
-        "#": { "5": ["Niðavellir - Founding King", "Ursula - Blackened Crow"] },
-        "emblem": { "5": ["Celica - Of Echoes"] },
-        "duo": { "5": ["Hapi - Eternal Sunlit Pair"] }
-      },
-      "id": "Verge of Death",
-      "name": "極限死線",
-      "sp": 300,
-      "icon": "skillA/Verge_of_Death",
-      "rules": "not.white-staff"
     },
     "Crystalline Water": {
       "pool": {
@@ -9935,7 +9935,7 @@
     "Spd/Def Catch 3": {
       "pool": {
         "#": {
-          "4": ["Scarlet - Rebellious Streak"],
+          "3": ["Scarlet - Rebellious Streak"],
           "5": ["Sain - Green Lance"]
         },
         "grail": { "5": ["Seth - Silver-Sea Knight"] }
@@ -11449,7 +11449,7 @@
         "#": { "5": ["Grima - Tyrant of Despair"] },
         "ascended": { "5": ["Idunn - Divine Demon"] },
         "attuned": { "5": ["Hector - Steel Warrior"] },
-        "special": { "5": ["Skrimir - Echoing Howl"] }
+        "special": { "4": ["Skrimir - Echoing Howl"] }
       },
       "id": "Wily Fighter 3",
       "name": "正面隊形・敵方3",
@@ -14274,7 +14274,7 @@
     },
     "Flow Flight 3": {
       "pool": {
-        "#": { "4": ["Scarlet - Rebellious Streak"] },
+        "#": { "3": ["Scarlet - Rebellious Streak"] },
         "special": { "5": ["Maria - Sunny Smile"] }
       },
       "id": "Flow Flight 3",
@@ -14373,7 +14373,7 @@
     },
     "Spd/Def Tempo 3": {
       "pool": {
-        "#": { "5": ["Shura - Righteous Rebel"] },
+        "#": { "3": ["Shura - Righteous Rebel"] },
         "attuned": { "5": ["Nino - Fang's Heart"] },
         "special": { "5": ["Clanne - Summer Fan", "Mia - Budding Blade"] },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
@@ -16586,8 +16586,8 @@
     "Spd Ploy 3": {
       "pool": {
         "#": {
-          "3": ["Knoll - Darkness Watcher"],
-          "5": ["Deirdre - Lady of the Forest", "Shura - Righteous Rebel"]
+          "3": ["Knoll - Darkness Watcher", "Shura - Righteous Rebel"],
+          "5": ["Deirdre - Lady of the Forest"]
         },
         "grail": { "4": ["Saias - Bishop of Flame"] },
         "special": { "5": ["Céline - Teatime Ninja"] }
@@ -17482,11 +17482,8 @@
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
         },
         "special": {
-          "5": [
-            "Robin - Tactful Deliverer",
-            "Fomortiis - Dark of Night",
-            "Skrimir - Echoing Howl"
-          ]
+          "4": ["Skrimir - Echoing Howl"],
+          "5": ["Robin - Tactful Deliverer", "Fomortiis - Dark of Night"]
         }
       },
       "id": "A/D Far Save 2",
@@ -17504,11 +17501,8 @@
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
         },
         "special": {
-          "5": [
-            "Robin - Tactful Deliverer",
-            "Fomortiis - Dark of Night",
-            "Skrimir - Echoing Howl"
-          ]
+          "4": ["Skrimir - Echoing Howl"],
+          "5": ["Robin - Tactful Deliverer", "Fomortiis - Dark of Night"]
         }
       },
       "id": "A/D Far Save 3",
