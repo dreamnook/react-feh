@@ -1912,6 +1912,18 @@
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
   },
+  "Boyd - Intrepid Warrior": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 203,
+    "assist": { "Shove": { "sp": 150, "rarity": 3 } },
+    "skillB": { "Atk/Spd Link 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Even Atk Wave 3": { "sp": 240, "rarity": 4 } }
+  },
   "L'Arachel - Seeker of Justice": {
     "score": 80,
     "scoreTotal": 302,
@@ -5645,18 +5657,6 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "Close Def 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Atk/Def Link 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Boyd - Intrepid Warrior": {
-    "score": 240,
-    "scoreTotal": 630,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 1000,
-    "bst": 203,
-    "assist": { "Shove": { "sp": 150, "rarity": 5 } },
-    "skillB": { "Atk/Spd Link 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Even Atk Wave 3": { "sp": 240, "rarity": 5 } }
   },
   "Sakura - Gentle Nekomata": {
     "score": 212,
@@ -13565,6 +13565,19 @@
     "special": { "Fierce Beast": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Def Excel": { "sp": 300, "rarity": 5 } },
     "skillC": { "Beast Threaten": { "sp": 300, "rarity": 5 } }
+  },
+  "Heimdallr - God of Foresight": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Aria": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Hone Assault": { "sp": 300, "rarity": 5 } }
   },
   "Rune - Source of Wisdom": {
     "score": 460,

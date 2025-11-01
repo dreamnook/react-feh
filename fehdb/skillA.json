@@ -2654,8 +2654,16 @@
     "id": "Atk/Spd Aria",
     "name": "攻擊速度的詠唱",
     "sp": 300,
-    "rules": ["tome"],
+    "rules": "tome",
     "icon": "skillA/Atk_Spd_Aria",
+    "last": true
+  },
+  "Atk/Res Aria": {
+    "id": "Atk/Res Aria",
+    "name": "攻擊魔防的詠唱",
+    "sp": 300,
+    "rules": "tome",
+    "icon": "skillA/Atk_Res_Aria",
     "last": true
   },
   "Atk/Spd Push 1": {

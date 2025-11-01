@@ -4012,6 +4012,34 @@
       "Truth Keeper": 5
     }
   },
+  "Heimdallr - God of Foresight": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 4,
+      "Mystic Gjallarhorn": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4,
+      "Ice Wall": 5
+    },
+    "skillA": {
+      "Atk/Res Bond 1": 2,
+      "Atk/Res Bond 2": 3,
+      "Atk/Res Bond 3": 4,
+      "Atk/Res Aria": 5
+    },
+    "skillB": {
+      "An Open Book": 5
+    },
+    "skillC": {
+      "Fortify Res 1": 2,
+      "Fortify Res 2": 3,
+      "Fortify Res 3": 4,
+      "A/R Hone Assault": 5
+    }
+  },
   "Rune - Source of Wisdom": {
     "weapon": {
       "Stone": 1,

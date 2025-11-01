@@ -26717,6 +26717,16 @@
       "exclusive": ["Peony - Fruitful Dream"],
       "last": true
     },
+    "Mystic Gjallarhorn": {
+      "id": "Mystic Gjallarhorn",
+      "name": "魔笛加拉爾號角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Heimdallr - God of Foresight"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",

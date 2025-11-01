@@ -1109,7 +1109,7 @@
         "refine": 350
       },
       "Campaign Axe+": {
-        "pool": { "#": { "5": ["Boyd - Intrepid Warrior"] } },
+        "pool": { "#": { "3": ["Boyd - Intrepid Warrior"] } },
         "id": "Campaign Axe+",
         "name": "繼戰之斧+",
         "sp": 300,
@@ -3580,9 +3580,9 @@
           "3": [
             "Est - Junior Whitewing",
             "Gordin - Altean Archer",
-            "Roy - Young Lion"
-          ],
-          "5": ["Boyd - Intrepid Warrior"]
+            "Roy - Young Lion",
+            "Boyd - Intrepid Warrior"
+          ]
         },
         "grail": {
           "3": ["Cynthia - Hero Chaser"],
@@ -5744,6 +5744,7 @@
             "Medeus - Earth-Dragon King",
             "Ashera - Order Goddess",
             "Arval - Cycle Keeper",
+            "Heimdallr - God of Foresight",
             "Athos - Omniscient One",
             "Höðr - Dusk Shadow God"
           ]
@@ -5813,7 +5814,9 @@
       "pool": {
         "rearmed": { "5": ["Soren - Isolated Strategist"] },
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
-        "mythic": { "5": ["Höðr - Dusk Shadow God"] },
+        "mythic": {
+          "5": ["Heimdallr - God of Foresight", "Höðr - Dusk Shadow God"]
+        },
         "special": { "5": ["Heiðrún - Peaceful Horizon"] },
         "duo": { "5": ["Julia - Brides of Light"] }
       },
@@ -8586,7 +8589,13 @@
           ]
         },
         "grail": { "4": ["Cecilia - Festive Instructor"] },
-        "mythic": { "5": ["Eir - Merciful Death", "Yune - Chaos Goddess"] },
+        "mythic": {
+          "5": [
+            "Eir - Merciful Death",
+            "Yune - Chaos Goddess",
+            "Heimdallr - God of Foresight"
+          ]
+        },
         "special": {
           "5": [
             "Flayn - Silly Kitty-Cat",
@@ -8743,7 +8752,15 @@
       "name": "攻擊速度的詠唱",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Aria",
-      "rules": ["tome"]
+      "rules": "tome"
+    },
+    "Atk/Res Aria": {
+      "pool": { "mythic": { "5": ["Heimdallr - God of Foresight"] } },
+      "id": "Atk/Res Aria",
+      "name": "攻擊魔防的詠唱",
+      "sp": 300,
+      "icon": "skillA/Atk_Res_Aria",
+      "rules": "tome"
     },
     "Atk/Spd Push 3": {
       "pool": {
@@ -13018,7 +13035,7 @@
     },
     "Atk/Spd Link 3": {
       "pool": {
-        "#": { "5": ["Boyd - Intrepid Warrior"] },
+        "#": { "3": ["Boyd - Intrepid Warrior"] },
         "grail": { "5": ["Elincia - Seaside Queen"] },
         "special": {
           "5": [
@@ -16015,7 +16032,9 @@
             "Kliff - Curious Spirit"
           ]
         },
-        "mythic": { "5": ["Peony - Sweet Dream"] },
+        "mythic": {
+          "5": ["Peony - Sweet Dream", "Heimdallr - God of Foresight"]
+        },
         "special": { "5": ["Leo - Dark Sprout"] },
         "duo": { "5": ["Sigurd - Destined Duo"] }
       },
@@ -16119,6 +16138,14 @@
       "sp": 300,
       "icon": "skillC/A_S_Bellow",
       "rules": "learner.cavalry-melee"
+    },
+    "A/R Hone Assault": {
+      "pool": { "mythic": { "5": ["Heimdallr - God of Foresight"] } },
+      "id": "A/R Hone Assault",
+      "name": "攻魔鼓舞・強攻",
+      "sp": 300,
+      "icon": "skillC/A_R_Hone_Assault",
+      "rules": "cavalry"
     },
     "Hone Armor": {
       "pool": {
@@ -17866,8 +17893,8 @@
     "Even Atk Wave 3": {
       "pool": {
         "#": {
+          "3": ["Boyd - Intrepid Warrior"],
           "5": [
-            "Boyd - Intrepid Warrior",
             "Merrin - Suave Knight",
             "Tibarn - Lord of the Air",
             "Osian - Scolded Soldier",

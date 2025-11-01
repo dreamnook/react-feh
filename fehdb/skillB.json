@@ -914,6 +914,14 @@
     "icon": "skillB/Moonlit_Slumber",
     "last": true
   },
+  "An Open Book": {
+    "id": "An Open Book",
+    "name": "一切如我所料",
+    "sp": 300,
+    "exclusive": ["Heimdallr - God of Foresight"],
+    "icon": "skillB/An_Open_Book",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
