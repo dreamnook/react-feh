@@ -7456,6 +7456,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Zeke - Past Unknown"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Holy_Gradivus_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Divine Sea Spear": {
@@ -8608,6 +8631,37 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Sharena - Borrowed Divinity"],
+      "last": true
+    },
+    "Soulful Lance": {
+      "id": "Soulful Lance",
+      "name": "長相兇悍的怖槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Benny - Sensitive Soul"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Soulful_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Qiang": {
@@ -11960,6 +12014,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Gustav - Majestic Love"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Loyalist_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Goddess Axe": {
@@ -19427,6 +19504,56 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Shez - Sharpest Blades"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Asura_Blades_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1,
+          "newStats": {
+            "mt": 8,
+            "atk": 5,
+            "spd": 5,
+            "def": 5,
+            "res": 5
+          }
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2,
+          "newStats": {
+            "mt": 8,
+            "atk": 5,
+            "spd": 5,
+            "def": 5,
+            "res": 5
+          }
+        },
+        "def": {
+          "hp": 2,
+          "def": 3,
+          "newStats": {
+            "mt": 8,
+            "atk": 5,
+            "spd": 5,
+            "def": 5,
+            "res": 5
+          }
+        },
+        "res": {
+          "hp": 2,
+          "res": 3,
+          "newStats": {
+            "mt": 8,
+            "atk": 5,
+            "spd": 5,
+            "def": 5,
+            "res": 5
+          }
+        }
+      },
       "last": true
     },
     "Abyssal Blade": {
@@ -22107,6 +22234,29 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Kyza - Tiger of Fortune"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Polished_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Sparkling Fang": {
@@ -23834,6 +23984,28 @@
       "spd": 3,
       "sp": 400,
       "exclusive": ["Constance - Fallen Noble"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Agnea's_Arrow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Ancient Codex": {
@@ -33240,6 +33412,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Medeus - Earth-Dragon King"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Shadow_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Enveloping Breath": {

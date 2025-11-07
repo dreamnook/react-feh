@@ -119,6 +119,15 @@
     "icon": "skillA/Duality",
     "last": true
   },
+  "Swift Slice II": {
+    "id": "Swift Slice II",
+    "name": "連閃・承",
+    "sp": 300,
+    "prev": ["Swift Slice"],
+    "exclusive": ["Shez - Sharpest Blades"],
+    "icon": "skillA/Swift_Slice_II",
+    "last": true
+  },
   "Swift Slice": {
     "id": "Swift Slice",
     "name": "連閃",

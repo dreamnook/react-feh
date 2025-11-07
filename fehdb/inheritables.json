@@ -5741,9 +5741,9 @@
           "5": [
             "Yune - Chaos Goddess",
             "Seiros - Saint of Legend",
-            "Medeus - Earth-Dragon King",
             "Ashera - Order Goddess",
             "Arval - Cycle Keeper",
+            "Medeus - Earth-Dragon King",
             "Heimdallr - God of Foresight",
             "Athos - Omniscient One",
             "Höðr - Dusk Shadow God"
@@ -11797,7 +11797,8 @@
     },
     "Seal Spd/Def 2": {
       "pool": {
-        "#": { "3": ["Thea - Stormy Flier"], "5": ["Ashe - Chivalric Amends"] }
+        "#": { "3": ["Thea - Stormy Flier"], "5": ["Ashe - Chivalric Amends"] },
+        "legendary": { "5": ["Shez - Sharpest Blades"] }
       },
       "id": "Seal Spd/Def 2",
       "name": "速度防守封印2",
@@ -11806,7 +11807,10 @@
       "rules": "not.white-staff"
     },
     "Seal Spd/Def 3": {
-      "pool": { "#": { "5": ["Ashe - Chivalric Amends"] } },
+      "pool": {
+        "#": { "5": ["Ashe - Chivalric Amends"] },
+        "legendary": { "5": ["Shez - Sharpest Blades"] }
+      },
       "id": "Seal Spd/Def 3",
       "name": "速度防守封印3",
       "sp": 300,
@@ -18766,6 +18770,7 @@
     "Firm Canto Curb": {
       "pool": {
         "aided": { "5": ["Dagr - Sunny Bloom"] },
+        "mythic": { "5": ["Medeus - Earth-Dragon King"] },
         "special": { "5": ["Lucia - Loyalty Enrobed"] }
       },
       "id": "Firm Canto Curb",

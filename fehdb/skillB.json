@@ -505,6 +505,15 @@
     "icon": "skillB/Hoðr's_Zeal",
     "last": true
   },
+  "Assured Rebirth+": {
+    "id": "Assured Rebirth+",
+    "name": "我於此復活・神",
+    "sp": 300,
+    "prev": ["Assured Rebirth"],
+    "exclusive": ["Medeus - Earth-Dragon King"],
+    "icon": "skillB/Assured_Rebirth+",
+    "last": true
+  },
   "Assured Rebirth": {
     "id": "Assured Rebirth",
     "name": "我於此復活",

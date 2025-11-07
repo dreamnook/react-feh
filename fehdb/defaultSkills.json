@@ -6530,12 +6530,14 @@
       "Def/Res Ideal 4": 5
     },
     "skillB": {
-      "Assured Rebirth": 5
+      "Assured Rebirth": 5,
+      "Assured Rebirth+": 5
     },
     "skillC": {
       "Canto Control 1": 1,
       "Canto Control 2": 2,
-      "Canto Control 3": 4
+      "Canto Control 3": 4,
+      "Firm Canto Curb": 5
     }
   },
   "Medeus - Last Earth Dragon": {
@@ -26846,7 +26848,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Steadfast Lance": 4,
-      "Steadfast Lance+": 5
+      "Steadfast Lance+": 5,
+      "Soulful Lance": 5
     },
     "special": {
       "Buckler": 4,
@@ -30977,13 +30980,17 @@
       "Glimmer": 4
     },
     "skillA": {
-      "Swift Slice": 5
+      "Swift Slice": 5,
+      "Swift Slice II": 5
     },
     "skillB": {
       "Seal Spd 1": 2,
       "Seal Spd 2": 3,
       "Seal Spd 3": 4,
-      "Seal Spd 4": 5
+      "Seal Spd 4": 5,
+      "Seal Spd/Def 1": 3,
+      "Seal Spd/Def 2": 4,
+      "Seal Spd/Def 3": 5
     },
     "skillC": {
       "Atk/Spd Oath 1": 2,
