@@ -721,6 +721,15 @@
     "exclusive": ["Corrin - Of Fates"],
     "last": true
   },
+  "Future and Past": {
+    "id": "Future and Past",
+    "name": "未來與過去",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Vengeance"],
+    "exclusive": ["Gullveig - Hidden in Time"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

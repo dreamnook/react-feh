@@ -931,6 +931,14 @@
     "icon": "skillB/An_Open_Book",
     "last": true
   },
+  "Glacial Seal": {
+    "id": "Glacial Seal",
+    "name": "真冰王封印",
+    "sp": 300,
+    "exclusive": ["Hríd - Frigid Ninja"],
+    "icon": "skillB/Glacial_Seal",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -1607,6 +1615,15 @@
     "rules": "learner.res-dmg-not-staff",
     "prev": ["Poison Strike 3"],
     "icon": "skillB/Occultist's_Strike",
+    "last": true
+  },
+  "Conjuring Breath": {
+    "id": "Conjuring Breath",
+    "name": "魔之蛇毒・呼吸",
+    "sp": 400,
+    "rules": "learner.res-dmg-not-staff",
+    "prev": ["Poison Strike 3"],
+    "icon": "skillB/Conjuring_Breath",
     "last": true
   },
   "Renewal 1": {
@@ -4361,6 +4378,15 @@
     "prev": ["Lull Spd/Res 3"],
     "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Spd_Res_4",
+    "last": true
+  },
+  "S/D Lull Finish": {
+    "id": "S/D Lull Finish",
+    "name": "奧秘・速防靜謐",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Lull Spd/Def 3"],
+    "icon": "skillB/S_D_Lull_Finish",
     "last": true
   },
   "S/R Lull Finish": {

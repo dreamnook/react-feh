@@ -1280,6 +1280,18 @@
     "special": { "Draconic Aura": { "sp": 200, "rarity": 4 } },
     "skillC": { "S/D Rein Snap": { "sp": 300, "rarity": 5 } }
   },
+  "Hríd - Frigid Ninja": {
+    "score": 163,
+    "scoreTotal": 259,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 300,
+    "bst": 195,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Shatterproof": { "sp": 300, "rarity": 5 } }
+  },
   "Bruno - Masked Hare": {
     "score": 80,
     "scoreTotal": 260,
@@ -6293,6 +6305,19 @@
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Shez - Ninja Mercenary": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 204,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Solo 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Close Call 3": { "sp": 240, "rarity": 5 } }
   },
   "Alfred - Floral Protector": {
     "score": 270,
@@ -15810,6 +15835,19 @@
     "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
     "skillC": { "Tempest Burst": { "sp": 300, "rarity": 5 } }
   },
+  "Shez - Covert Mercenary": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 198,
+    "special": { "Comet": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Full Disarm": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Lookout Smog": { "sp": 300, "rarity": 5 } }
+  },
   "Askr - Open Harvest": {
     "score": 530,
     "scoreTotal": 1166,
@@ -15848,6 +15886,19 @@
     "special": { "Gust": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "A/S Spiked Wall": { "sp": 300, "rarity": 5 } }
+  },
+  "Yunaka - Stealthy Imitator": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillB": { "S/D Lull Finish": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Odd Spd Wave 4": { "sp": 300, "rarity": 5 } }
   },
   "Ephraim - Ardent Prince": {
     "score": 530,
@@ -16274,6 +16325,20 @@
     "skillA": { "Verge of Death": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/R Far Resound": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Res Crux": { "sp": 300, "rarity": 5 } }
+  },
+  "Gullveig - Hidden in Time": {
+    "score": 424,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Vengeance": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Sly Swift Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Conjuring Breath": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/S Hone Assault": { "sp": 300, "rarity": 5 } }
   },
   "Byleth - Proven Professor": {
     "score": 500,

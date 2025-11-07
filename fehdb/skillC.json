@@ -1733,6 +1733,15 @@
     "icon": "skillC/A_S_Bellow",
     "last": true
   },
+  "A/S Hone Assault": {
+    "id": "A/S Hone Assault",
+    "name": "攻速鼓舞・強攻",
+    "sp": 300,
+    "rules": "cavalry",
+    "prev": ["Hone Atk 3", "Hone Spd 3"],
+    "icon": "skillC/A_S_Hone_Assault",
+    "last": true
+  },
   "A/R Hone Assault": {
     "id": "A/R Hone Assault",
     "name": "攻魔鼓舞・強攻",
@@ -4555,6 +4564,7 @@
     "id": "Lookout Force",
     "name": "開路・不屈",
     "sp": 300,
+    "prev": ["Lookout 3"],
     "rules": "dagger",
     "icon": "skillC/Lookout_Force",
     "last": true
@@ -4563,8 +4573,18 @@
     "id": "Active Lookout",
     "name": "開路・猛攻",
     "sp": 300,
+    "prev": ["Lookout 3"],
     "rules": "dagger",
     "icon": "skillC/Active_Lookout",
+    "last": true
+  },
+  "Lookout Smog": {
+    "id": "Lookout Smog",
+    "name": "開路・暗煙",
+    "sp": 300,
+    "prev": ["Lookout 3"],
+    "rules": "dagger",
+    "icon": "skillC/Lookout_Smog",
     "last": true
   },
   "Sword Exp. 1": {

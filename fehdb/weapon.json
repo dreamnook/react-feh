@@ -13095,6 +13095,16 @@
       "exclusive": ["Gromell - Bolt Axe General"],
       "last": true
     },
+    "Glacial Greataxe": {
+      "id": "Glacial Greataxe",
+      "name": "冰雪的大斧",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Hríd - Frigid Ninja"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -15073,6 +15083,39 @@
         }
       },
       "last": true
+    },
+    "Ninja Chakrams": {
+      "id": "Ninja Chakrams",
+      "name": "忍之戰輪",
+      "mt": 5,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Ninja Chakrams+": {
+      "id": "Ninja Chakrams+",
+      "name": "忍之戰輪+",
+      "mt": 8,
+      "sp": 300,
+      "prev": ["Ninja Chakrams"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
     }
   },
   "bow": {
@@ -16821,6 +16864,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Chrom - Pivotal Blow"],
+      "last": true
+    },
+    "Bow of Stealth": {
+      "id": "Bow of Stealth",
+      "name": "無形忍者的暗殺弓",
+      "mt": 8,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Yunaka - Stealthy Imitator"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -19765,6 +19818,16 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Yuri - Tropical Wolf"],
+      "last": true
+    },
+    "Covert Duality": {
+      "id": "Covert Duality",
+      "name": "傭兵忍者的雙刃",
+      "mt": 9,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Shez - Covert Mercenary"],
       "last": true
     },
     "Arcane Void": {
@@ -30966,6 +31029,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Freyja - Parallel Hearts"],
+      "last": true
+    },
+    "Scrolls of Time": {
+      "id": "Scrolls of Time",
+      "name": "未來與過去的忍法帖",
+      "mt": 9,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Gullveig - Hidden in Time"],
       "last": true
     },
     "Stone": {

@@ -1471,6 +1471,55 @@
     "ver": "8.6",
     "dfKey": 6
   },
+  "Hríd - Frigid Ninja": {
+    "id": "Hríd - Frigid Ninja",
+    "title": "冰雪的忍道",
+    "name": "佛利茲",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-11-06",
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [44, 47, 50],
+        "spd": [24, 27, 30],
+        "def": [44, 47, 50],
+        "res": [22, 25, 28]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [46, 49, 53],
+        "spd": [26, 30, 33],
+        "def": [46, 49, 53],
+        "res": [24, 27, 31]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 7,
+        "def": 10,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 10,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "def", "res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 9,
+    "ver": "9.11",
+    "dfKey": 8
+  },
   "Ylgr - Fresh Snowfall": {
     "id": "Ylgr - Fresh Snowfall",
     "title": "柔軟的新雪",
@@ -4623,6 +4672,42 @@
     "book": 8,
     "ver": "8.6",
     "dfKey": 6
+  },
+  "Gullveig - Hidden in Time": {
+    "id": "Gullveig - Hidden in Time",
+    "title": "未來與過去的密令",
+    "name": "古爾維格",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "cavalry",
+    "pool": "duo",
+    "bst": 220,
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-11-06",
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [26, 30, 33],
+        "res": [13, 17, 20]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 8,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["def", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 9,
+    "ver": "9.11",
+    "dfKey": 8
   },
   "Kvasir - Seer of the Past": {
     "id": "Kvasir - Seer of the Past",
@@ -53799,6 +53884,55 @@
     "ver": "8.8",
     "dfKey": 7
   },
+  "Shez - Ninja Mercenary": {
+    "id": "Shez - Ninja Mercenary",
+    "title": "忍者傭兵",
+    "name": "謝茲",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "infantry",
+    "pool": "grail",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-11-06",
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [43, 46, 49],
+        "spd": [42, 45, 48],
+        "def": [38, 42, 45],
+        "res": [19, 22, 25]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 51],
+        "spd": [45, 48, 52],
+        "def": [40, 44, 47],
+        "res": [21, 24, 27]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 8,
+        "def": 11,
+        "res": 8
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 11,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 9,
+    "ver": "9.11",
+    "dfKey": 8
+  },
   "Shez - Keen Mercenary": {
     "id": "Shez - Keen Mercenary",
     "title": "前途無量的傭兵",
@@ -53968,6 +54102,41 @@
     "book": 9,
     "ver": "9.0",
     "dfKey": 7
+  },
+  "Shez - Covert Mercenary": {
+    "id": "Shez - Covert Mercenary",
+    "title": "隱密任務",
+    "name": "謝茲",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-dagger",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-11-06",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [46, 49, 53],
+        "def": [35, 38, 41],
+        "res": [22, 25, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 10,
+        "def": 10,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 198,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.11",
+    "dfKey": 8
   },
   "Arval - Cycle Keeper": {
     "id": "Arval - Cycle Keeper",
@@ -56118,6 +56287,41 @@
     "book": 9,
     "ver": "9.2",
     "dfKey": 7
+  },
+  "Yunaka - Stealthy Imitator": {
+    "id": "Yunaka - Stealthy Imitator",
+    "title": "秘技・模仿之術",
+    "name": "尤娜卡",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-bow",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2025-11-06",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [27, 31, 34],
+        "res": [29, 32, 35]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 9,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 9,
+    "ver": "9.11",
+    "dfKey": 8
   },
   "Seadall - Misfortune-Teller": {
     "id": "Seadall - Misfortune-Teller",

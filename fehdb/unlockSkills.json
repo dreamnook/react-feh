@@ -1005,6 +1005,27 @@
       "Odd Def Wave 4": 5
     }
   },
+  "Hríd - Frigid Ninja": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Glacial Greataxe": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Solid Ground 1": 2,
+      "Solid Ground 2": 3,
+      "Solid Ground 3": 4,
+      "Shatterproof": 5
+    },
+    "skillB": {
+      "Glacial Seal": 5
+    }
+  },
   "Ylgr - Fresh Snowfall": {
     "weapon": {
       "Iron Dagger": 1,
@@ -3368,6 +3389,37 @@
       "Odd Spd Wave 2": 3,
       "Odd Spd Wave 3": 4,
       "Odd Spd Wave 4": 5
+    }
+  },
+  "Gullveig - Hidden in Time": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 3,
+      "Scrolls of Time": 5
+    },
+    "special": {
+      "Retribution": 3,
+      "Vengeance": 4,
+      "Future and Past": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Sly Swift Sparrow": 5
+    },
+    "skillB": {
+      "Poison Strike 1": 2,
+      "Poison Strike 2": 3,
+      "Poison Strike 3": 4,
+      "Conjuring Breath": 5
+    },
+    "skillC": {
+      "Hone Spd 1": 2,
+      "Hone Spd 2": 3,
+      "Hone Spd 3": 4,
+      "A/S Hone Assault": 5
     }
   },
   "Kvasir - Seer of the Past": {
@@ -30946,6 +30998,28 @@
       "Pulse Smog": 5
     }
   },
+  "Shez - Ninja Mercenary": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Ninja Chakrams": 3,
+      "Ninja Chakrams+": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Atk/Spd Solo 1": 1,
+      "Atk/Spd Solo 2": 2,
+      "Atk/Spd Solo 3": 4
+    },
+    "skillB": {
+      "Close Call 1": 3,
+      "Close Call 2": 4,
+      "Close Call 3": 5
+    }
+  },
   "Shez - Keen Mercenary": {
     "weapon": {
       "Iron Axe": 1,
@@ -31051,6 +31125,34 @@
       "Pulse Smoke 2": 3,
       "Pulse Smoke 3": 4,
       "Pulse Smog": 5
+    }
+  },
+  "Shez - Covert Mercenary": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 3,
+      "Covert Duality": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Comet": 5
+    },
+    "skillA": {
+      "Rapid Slice": 5
+    },
+    "skillB": {
+      "Disarm Trap 1": 2,
+      "Disarm Trap 2": 3,
+      "Disarm Trap 3": 4,
+      "Full Disarm": 5
+    },
+    "skillC": {
+      "Lookout 1": 2,
+      "Lookout 2": 3,
+      "Lookout 3": 4,
+      "Lookout Smog": 5
     }
   },
   "Arval - Cycle Keeper": {
@@ -32497,6 +32599,34 @@
       "Lookout 2": 3,
       "Lookout 3": 4,
       "Active Lookout": 5
+    }
+  },
+  "Yunaka - Stealthy Imitator": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Bow of Stealth": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Ninja-Zap": 5
+    },
+    "skillB": {
+      "Lull Spd/Def 1": 2,
+      "Lull Spd/Def 2": 3,
+      "Lull Spd/Def 3": 4,
+      "S/D Lull Finish": 5
+    },
+    "skillC": {
+      "Odd Spd Wave 1": 2,
+      "Odd Spd Wave 2": 3,
+      "Odd Spd Wave 3": 4,
+      "Odd Spd Wave 4": 5
     }
   },
   "Seadall - Misfortune-Teller": {

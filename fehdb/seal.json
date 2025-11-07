@@ -2732,6 +2732,21 @@
       "icon": "skillB/Chill_Res_3",
       "last": true
     },
+    "Chill Atk/Spd 1": {
+      "id": "Chill Atk/Spd 1",
+      "name": "攻擊速度封殺1",
+      "sp": 120,
+      "prev": ["Chill Atk 1", "Chill Spd 1"],
+      "icon": "skillB/Chill_Atk_Spd_1"
+    },
+    "Chill Atk/Spd 2": {
+      "id": "Chill Atk/Spd 2",
+      "name": "攻擊速度封殺2",
+      "sp": 240,
+      "prev": ["Chill Atk/Spd 1"],
+      "icon": "skillB/Chill_Atk_Spd_2",
+      "last": true
+    },
     "Chill Atk/Def 1": {
       "id": "Chill Atk/Def 1",
       "name": "攻擊防守封殺1",
@@ -4331,6 +4346,30 @@
       "prev": ["Spd Smoke 2"],
       "rules": "not.white-staff",
       "icon": "skillC/Spd_Smoke_3",
+      "last": true
+    },
+    "Panic Smoke 1": {
+      "id": "Panic Smoke 1",
+      "name": "恐慌的幻煙1",
+      "sp": 60,
+      "rules": "not.white-staff",
+      "icon": "skillC/Panic_Smoke_1"
+    },
+    "Panic Smoke 2": {
+      "id": "Panic Smoke 2",
+      "name": "恐慌的幻煙2",
+      "sp": 120,
+      "prev": ["Panic Smoke 1"],
+      "rules": "not.white-staff",
+      "icon": "skillC/Panic_Smoke_2"
+    },
+    "Panic Smoke 3": {
+      "id": "Panic Smoke 3",
+      "name": "恐慌的幻煙3",
+      "sp": 240,
+      "prev": ["Panic Smoke 2"],
+      "rules": "not.white-staff",
+      "icon": "skillC/Panic_Smoke_3",
       "last": true
     },
     "Time's Pulse 1": {

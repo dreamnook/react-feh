@@ -424,6 +424,22 @@
     "icon": "skillA/Refined_Magic",
     "last": true
   },
+  "Ninja-Zap": {
+    "id": "Ninja-Zap",
+    "name": "潛行技術",
+    "sp": 300,
+    "exclusive": ["Yunaka - Stealthy Imitator"],
+    "icon": "skillA/Ninja-Zap",
+    "last": true
+  },
+  "Rapid Slice": {
+    "id": "Rapid Slice",
+    "name": "純正連閃",
+    "sp": 300,
+    "exclusive": ["Shez - Covert Mercenary"],
+    "icon": "skillA/Rapid_Slice",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -991,6 +1007,17 @@
     "res": -5,
     "prev": ["Solid Ground 3"],
     "icon": "skillA/Solid_Ground_4",
+    "last": true
+  },
+  "Shatterproof": {
+    "id": "Shatterproof",
+    "name": "金鋼不壞",
+    "sp": 300,
+    "atk": 8,
+    "def": 8,
+    "res": -8,
+    "prev": ["Solid Ground 3"],
+    "icon": "skillA/Shatterproof",
     "last": true
   },
   "Still Water 1": {

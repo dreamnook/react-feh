@@ -1336,6 +1336,13 @@
         "name": "鬥技之斧+",
         "sp": 300,
         "refine": 350
+      },
+      "Ninja Chakrams+": {
+        "pool": { "grail": { "5": ["Shez - Ninja Mercenary"] } },
+        "id": "Ninja Chakrams+",
+        "name": "忍之戰輪+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "bow": {
@@ -4860,6 +4867,7 @@
             "Larcei - Bride of Astra",
             "Hræsvelgr - Wings of Healing",
             "Nerþuz - Divine Abundance",
+            "Shez - Covert Mercenary",
             "Tibarn - Shipless Pirate",
             "Timerra - Trick or Meat"
           ]
@@ -4942,7 +4950,10 @@
       "rules": "learner.flying-melee"
     },
     "Comet": {
-      "pool": { "duo": { "5": ["Freyja - Parallel Hearts"] } },
+      "pool": {
+        "special": { "5": ["Shez - Covert Mercenary"] },
+        "duo": { "5": ["Freyja - Parallel Hearts"] }
+      },
       "id": "Comet",
       "name": "彗星",
       "sp": 500,
@@ -5025,7 +5036,9 @@
         },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "4": ["Narcian - Vernal General"] },
-        "duo": { "5": ["Gullveig - Glittering Sunlight"] }
+        "duo": {
+          "5": ["Gullveig - Glittering Sunlight", "Gullveig - Hidden in Time"]
+        }
       },
       "id": "Vengeance",
       "name": "復仇",
@@ -5222,7 +5235,8 @@
             "Ephraim - Sparkling Gallantly",
             "Mia - Budding Blade",
             "Corrin - Starry Seer",
-            "Framme - Spring Fangirl"
+            "Framme - Spring Fangirl",
+            "Yunaka - Stealthy Imitator"
           ]
         },
         "duo": { "5": ["Corrin - Young Kinship"] }
@@ -5291,7 +5305,8 @@
       "pool": {
         "#": { "5": ["Baldr - Rays of Judgment"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
-        "legendary": { "5": ["Diamant - Fortified King"] }
+        "legendary": { "5": ["Diamant - Fortified King"] },
+        "special": { "5": ["Yunaka - Stealthy Imitator"] }
       },
       "id": "Archrival",
       "name": "角逐",
@@ -5442,6 +5457,7 @@
             "Vigarde - Warmhearted Sire",
             "Kellam - Pumpkin Knight",
             "Ogma - Former Gladiator",
+            "Shez - Ninja Mercenary",
             "Travant - King of Thracia",
             "Orson - Passion's Folly",
             "Petrine - Icy Flame-Lancer",
@@ -5479,6 +5495,7 @@
         },
         "special": {
           "4": [
+            "Hríd - Frigid Ninja",
             "Manuela - Silver Caroler",
             "Hana - Striving Heart",
             "Palla - Soaring Summer",
@@ -6780,7 +6797,8 @@
         "#": { "5": ["Gregor - Swell Sword"] },
         "grail": {
           "5": ["Eikþyrnir - Blessed Strength", "Dedue - Loyal Life Guard"]
-        }
+        },
+        "special": { "4": ["Hríd - Frigid Ninja"] }
       },
       "id": "Solid Ground 3",
       "name": "不壞3",
@@ -6793,6 +6811,13 @@
       "name": "不壞4",
       "sp": 300,
       "icon": "skillA/Solid_Ground_4"
+    },
+    "Shatterproof": {
+      "pool": { "special": { "5": ["Hríd - Frigid Ninja"] } },
+      "id": "Shatterproof",
+      "name": "金鋼不壞",
+      "sp": 300,
+      "icon": "skillA/Shatterproof"
     },
     "Still Water 3": {
       "pool": {
@@ -7067,6 +7092,7 @@
           "5": [
             "Lyn - Ninja-Friend Duo",
             "Gullveig - Glittering Sunlight",
+            "Gullveig - Hidden in Time",
             "Kagero - Bond Unwavering",
             "Shamir - Heartbeats United",
             "Lucina - Shadows of Fate"
@@ -7440,6 +7466,7 @@
         "special": {
           "5": ["Tharja - Shadow Ninja", "Veronica - Royal Reception"]
         },
+        "duo": { "5": ["Gullveig - Hidden in Time"] },
         "harmonized": { "5": ["Celica - Sunlit Priestesses"] }
       },
       "id": "Sly Swift Sparrow",
@@ -8956,7 +8983,10 @@
             "Yarne - Timid Taguel"
           ]
         },
-        "grail": { "5": ["Shez - Mercenary Shade"] },
+        "grail": {
+          "4": ["Shez - Ninja Mercenary"],
+          "5": ["Shez - Mercenary Shade"]
+        },
         "ascended": {
           "5": ["Hilda - Helping Hand", "Mareeta - Astra Awakened"]
         },
@@ -11563,7 +11593,7 @@
         "rearmed": { "5": ["Lilina - Brilliant Flame"] },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "5": ["Yunaka - Spirited Envoy"] },
-        "duo": { "5": ["Lyon - Esteemed Royals"] },
+        "duo": { "5": ["Lyon - Esteemed Royals", "Gullveig - Hidden in Time"] },
         "harmonized": { "5": ["Chloé - Spring Wings"] }
       },
       "id": "Poison Strike 3",
@@ -11594,6 +11624,14 @@
       "name": "魔之蛇毒",
       "sp": 300,
       "icon": "skillB/Occultist's_Strike",
+      "rules": "learner.res-dmg-not-staff"
+    },
+    "Conjuring Breath": {
+      "pool": { "duo": { "5": ["Gullveig - Hidden in Time"] } },
+      "id": "Conjuring Breath",
+      "name": "魔之蛇毒・呼吸",
+      "sp": 400,
+      "icon": "skillB/Conjuring_Breath",
       "rules": "learner.res-dmg-not-staff"
     },
     "Renewal 3": {
@@ -13575,7 +13613,8 @@
             "Shez - Snowfield Envoy",
             "Palla - Eldest Bun-Bun",
             "Gunnthrá - Beaming Smile",
-            "Fáfnir - Fresh Ambition"
+            "Fáfnir - Fresh Ambition",
+            "Shez - Covert Mercenary"
           ]
         },
         "duo": { "5": ["Kagero - Bond Unwavering"] }
@@ -13605,7 +13644,13 @@
     "Full Disarm": {
       "pool": {
         "aided": { "5": ["Yunaka - Hidden Mask"] },
-        "special": { "5": ["Yuri - Tropical Wolf", "Shez - Snowfield Envoy"] }
+        "special": {
+          "5": [
+            "Yuri - Tropical Wolf",
+            "Shez - Snowfield Envoy",
+            "Shez - Covert Mercenary"
+          ]
+        }
       },
       "id": "Full Disarm",
       "name": "解除陷阱・周到",
@@ -13703,7 +13748,8 @@
             "Navarre - Scarlet Ninja",
             "Nailah - Hatari Scorcher",
             "Shez - Mercenary Shine",
-            "Shinon - Sharptongue Ninja"
+            "Shinon - Sharptongue Ninja",
+            "Yunaka - Stealthy Imitator"
           ]
         }
       },
@@ -13758,6 +13804,14 @@
       "icon": "skillB/Lull_Spd_Res_4",
       "rules": "learner.infantry-cavalry"
     },
+    "S/D Lull Finish": {
+      "pool": { "special": { "5": ["Yunaka - Stealthy Imitator"] } },
+      "id": "S/D Lull Finish",
+      "name": "奧秘・速防靜謐",
+      "sp": 300,
+      "icon": "skillB/S_D_Lull_Finish",
+      "rules": "infantry"
+    },
     "S/R Lull Finish": {
       "pool": { "special": { "5": ["Nino - Burst of Summer"] } },
       "id": "S/R Lull Finish",
@@ -13806,7 +13860,8 @@
             "Byleth - Vengeance Vessel",
             "Stefan - No-Man's-Blade"
           ]
-        }
+        },
+        "grail": { "5": ["Shez - Ninja Mercenary"] }
       },
       "id": "Close Call 3",
       "name": "迴避・一擊即離3",
@@ -15970,7 +16025,9 @@
             "Veronica - Royal Reception"
           ]
         },
-        "duo": { "5": ["Marth - Royal Altean Duo"] },
+        "duo": {
+          "5": ["Marth - Royal Altean Duo", "Gullveig - Hidden in Time"]
+        },
         "harmonized": {
           "5": ["Fir - Dual Warriors", "Ingrid - Cordial Teatime"]
         }
@@ -16142,6 +16199,14 @@
       "sp": 300,
       "icon": "skillC/A_S_Bellow",
       "rules": "learner.cavalry-melee"
+    },
+    "A/S Hone Assault": {
+      "pool": { "duo": { "5": ["Gullveig - Hidden in Time"] } },
+      "id": "A/S Hone Assault",
+      "name": "攻速鼓舞・強攻",
+      "sp": 300,
+      "icon": "skillC/A_S_Hone_Assault",
+      "rules": "cavalry"
     },
     "A/R Hone Assault": {
       "pool": { "mythic": { "5": ["Heimdallr - God of Foresight"] } },
@@ -17825,7 +17890,11 @@
           "5": ["Deen - Bladed Sandstorm"]
         },
         "special": {
-          "5": ["Ingrid - Solstice Knight", "Felicia - Confidently Cold"]
+          "5": [
+            "Ingrid - Solstice Knight",
+            "Felicia - Confidently Cold",
+            "Yunaka - Stealthy Imitator"
+          ]
         },
         "duo": { "5": ["Gullveig - Glittering Sunlight"] },
         "harmonized": { "5": ["Marisa - Willful Blades"] }
@@ -17838,7 +17907,9 @@
     "Odd Spd Wave 4": {
       "pool": {
         "#": { "5": ["Alear - Fell Dragon Child", "Ashe - Chivalric Amends"] },
-        "special": { "5": ["Felicia - Confidently Cold"] },
+        "special": {
+          "5": ["Felicia - Confidently Cold", "Yunaka - Stealthy Imitator"]
+        },
         "duo": { "5": ["Gullveig - Glittering Sunlight"] },
         "harmonized": { "5": ["Marisa - Willful Blades"] }
       },
@@ -18840,7 +18911,8 @@
     "Lookout 3": {
       "pool": {
         "rearmed": { "5": ["Leila - Superb Shadow"] },
-        "aided": { "5": ["Yunaka - Hidden Mask"] }
+        "aided": { "5": ["Yunaka - Hidden Mask"] },
+        "special": { "5": ["Shez - Covert Mercenary"] }
       },
       "id": "Lookout 3",
       "name": "開路3",
@@ -18862,6 +18934,14 @@
       "name": "開路・猛攻",
       "sp": 300,
       "icon": "skillC/Active_Lookout",
+      "rules": "dagger"
+    },
+    "Lookout Smog": {
+      "pool": { "special": { "5": ["Shez - Covert Mercenary"] } },
+      "id": "Lookout Smog",
+      "name": "開路・暗煙",
+      "sp": 300,
+      "icon": "skillC/Lookout_Smog",
       "rules": "dagger"
     },
     "Sword Exp. 3": {
