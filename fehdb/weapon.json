@@ -19560,7 +19560,14 @@
       "refine": {
         "effect": {
           "name": "特效",
-          "icon": "Asura_Blades_W"
+          "icon": "Asura_Blades_W",
+          "newStats": {
+            "mt": 8,
+            "atk": 5,
+            "spd": 5,
+            "def": 5,
+            "res": 5
+          }
         },
         "atk": {
           "hp": 2,
