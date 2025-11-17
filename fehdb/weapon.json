@@ -26969,6 +26969,16 @@
       "exclusive": ["Heimdallr - God of Foresight"],
       "last": true
     },
+    "Ethereal Gungnir": {
+      "id": "Ethereal Gungnir",
+      "name": "九天岡格尼爾",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Thoron"],
+      "exclusive": ["Alfaðör - Celestial King"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -29542,6 +29552,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Sharena - Hopeful Princess"],
+      "last": true
+    },
+    "Enraptured God": {
+      "id": "Enraptured God",
+      "name": "陶醉之神形",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Váli - God of Vengeance"],
       "last": true
     },
     "Arc. Caliburnus": {

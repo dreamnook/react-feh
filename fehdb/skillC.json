@@ -765,6 +765,14 @@
     "icon": "skillC/Ties_of_Crimea",
     "last": true
   },
+  "Covetous One": {
+    "id": "Covetous One",
+    "name": "追求的只有知識",
+    "sp": 300,
+    "exclusive": ["Alfaðör - Celestial King"],
+    "icon": "skillC/Covetous_One",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -1111,6 +1119,14 @@
     "sp": 300,
     "prev": ["Spur Res 3"],
     "icon": "skillC/Cross_Spur_Res",
+    "last": true
+  },
+  "Null Uplift A/S": {
+    "id": "Null Uplift A/S",
+    "name": "攻速十紋章・識破",
+    "sp": 300,
+    "rules": "flying",
+    "icon": "skillC/Null_Uplift_A_S",
     "last": true
   },
   "Close Guard 1": {

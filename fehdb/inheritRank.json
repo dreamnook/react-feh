@@ -13412,6 +13412,20 @@
     "skillB": { "Dragon's Scales": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Menace": { "sp": 300, "rarity": 5 } }
   },
+  "Váli - God of Vengeance": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 188,
+    "special": { "Miracle": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Shackle": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Null Uplift A/S": { "sp": 300, "rarity": 5 } }
+  },
   "Veronica - Princess Rising": {
     "score": 276,
     "scoreTotal": 1012,
@@ -16517,6 +16531,20 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Chill Spd/Res 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ground Orders 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Alfaðör - Celestial King": {
+    "score": 460,
+    "scoreTotal": 1380,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 189,
+    "assist": { "Rally Up Atk+": { "sp": 400, "rarity": 5 } },
+    "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Aria": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Def/Res Shackle": { "sp": 300, "rarity": 5 } }
   },
   "Chrom - Fell Exalt": {
     "score": 450,

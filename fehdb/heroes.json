@@ -5455,6 +5455,43 @@
     "ver": "8.11",
     "dfKey": 7
   },
+  "Alfaðör - Celestial King": {
+    "id": "Alfaðör - Celestial King",
+    "title": "天之王",
+    "name": "阿爾馮茲爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-tome",
+    "moveType": "flying",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "astra-atk-2",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-11-17",
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [46, 49, 52],
+        "spd": [24, 28, 31],
+        "def": [21, 24, 27],
+        "res": [47, 50, 54]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 6,
+        "def": 7,
+        "res": 11
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.11",
+    "dfKey": 8
+  },
   "Baldr - Celestial Sun God": {
     "id": "Baldr - Celestial Sun God",
     "title": "天日之神",
@@ -5562,6 +5599,39 @@
     "book": 9,
     "ver": "9.7",
     "dfKey": 7
+  },
+  "Váli - God of Vengeance": {
+    "id": "Váli - God of Vengeance",
+    "title": "復仇之神",
+    "name": "瓦利",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "flying",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "dark-def-2",
+    "appearsIn": ["Heroes"],
+    "stats": {
+      "5": {
+        "hp": [38, 42, 45],
+        "atk": [46, 49, 53],
+        "spd": [45, 48, 51],
+        "def": [21, 24, 28],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 10,
+        "spd": 11,
+        "def": 5,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "def", "res"],
+    "flaws": ["hp"],
+    "statMin": 188,
+    "statMax": 190
   },
   "Heimdallr - God of Foresight": {
     "id": "Heimdallr - God of Foresight",

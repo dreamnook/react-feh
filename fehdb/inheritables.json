@@ -4004,6 +4004,7 @@
           ]
         },
         "grail": { "4": ["Excellus - Conqueror’s Wile"] },
+        "mythic": { "5": ["Alfaðör - Celestial King"] },
         "special": {
           "4": ["Selena - Admiring General", "Naga - Harvest Divinity"],
           "5": ["Pent - Fancy Fiancé", "Elise - Bubbling Flower"]
@@ -4024,6 +4025,7 @@
             "Ophelia - Dramatic Heroine"
           ]
         },
+        "mythic": { "5": ["Alfaðör - Celestial King"] },
         "special": {
           "5": [
             "Selena - Admiring General",
@@ -5763,7 +5765,8 @@
             "Medeus - Earth-Dragon King",
             "Heimdallr - God of Foresight",
             "Athos - Omniscient One",
-            "Höðr - Dusk Shadow God"
+            "Höðr - Dusk Shadow God",
+            "Alfaðör - Celestial King"
           ]
         },
         "special": {
@@ -5832,7 +5835,11 @@
         "rearmed": { "5": ["Soren - Isolated Strategist"] },
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
         "mythic": {
-          "5": ["Heimdallr - God of Foresight", "Höðr - Dusk Shadow God"]
+          "5": [
+            "Heimdallr - God of Foresight",
+            "Höðr - Dusk Shadow God",
+            "Alfaðör - Celestial King"
+          ]
         },
         "special": { "5": ["Heiðrún - Peaceful Horizon"] },
         "duo": { "5": ["Julia - Brides of Light"] }
@@ -6127,7 +6134,7 @@
             "Fae - Childlike Dragon"
           ]
         },
-        "mythic": { "5": ["Loki - Trickster God"] },
+        "mythic": { "5": ["Loki - Trickster God", "Váli - God of Vengeance"] },
         "special": {
           "4": ["Xane - Desert Mirage", "Elise - Sparkling Smile"],
           "5": [
@@ -8542,6 +8549,7 @@
         "rearmed": { "5": ["Tana - Soaring Princess"] },
         "attuned": { "5": ["Peony - Cherished Dream"] },
         "legendary": { "5": ["Marth - Hero-King"] },
+        "mythic": { "5": ["Váli - God of Vengeance"] },
         "special": {
           "4": ["Owain - Devoted Defender"],
           "5": [
@@ -8620,7 +8628,8 @@
           "5": [
             "Eir - Merciful Death",
             "Yune - Chaos Goddess",
-            "Heimdallr - God of Foresight"
+            "Heimdallr - God of Foresight",
+            "Alfaðör - Celestial King"
           ]
         },
         "special": {
@@ -8773,6 +8782,7 @@
     "Atk/Spd Aria": {
       "pool": {
         "#": { "5": ["Sharena - Hopeful Princess"] },
+        "mythic": { "5": ["Váli - God of Vengeance"] },
         "duo": { "5": ["Freyja - Parallel Hearts"] }
       },
       "id": "Atk/Spd Aria",
@@ -8782,7 +8792,11 @@
       "rules": "tome"
     },
     "Atk/Res Aria": {
-      "pool": { "mythic": { "5": ["Heimdallr - God of Foresight"] } },
+      "pool": {
+        "mythic": {
+          "5": ["Heimdallr - God of Foresight", "Alfaðör - Celestial King"]
+        }
+      },
       "id": "Atk/Res Aria",
       "name": "攻擊魔防的詠唱",
       "sp": 300,
@@ -12062,6 +12076,7 @@
           "3": ["Homer - Traveling Bard"],
           "5": ["Sharena - Hopeful Princess"]
         },
+        "mythic": { "5": ["Váli - God of Vengeance"] },
         "special": { "5": ["Ursula - Royal-Blue Crow"] },
         "duo": { "5": ["Byleth - Fell Star's Duo"] }
       },
@@ -12080,7 +12095,7 @@
     "Chill Def/Res 2": {
       "pool": {
         "grail": { "5": ["Donnel - Sunny Villager"] },
-        "mythic": { "5": ["Mirabilis - Daydream"] },
+        "mythic": { "5": ["Mirabilis - Daydream", "Alfaðör - Celestial King"] },
         "special": { "5": ["Katarina - Torchlit Wanderer"] },
         "duo": { "5": ["Nina - Shadowy Figures"] },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
@@ -12101,11 +12116,22 @@
       "icon": "skillB/Chill_Def_Res_3"
     },
     "Spd/Res Shackle": {
-      "pool": { "#": { "5": ["Sharena - Hopeful Princess"] } },
+      "pool": {
+        "#": { "5": ["Sharena - Hopeful Princess"] },
+        "mythic": { "5": ["Váli - God of Vengeance"] }
+      },
       "id": "Spd/Res Shackle",
       "name": "速度魔防枷鎖",
       "sp": 300,
       "icon": "skillB/Spd_Res_Shackle",
+      "rules": "learner.cavalry-flying-ranged"
+    },
+    "Def/Res Shackle": {
+      "pool": { "mythic": { "5": ["Alfaðör - Celestial King"] } },
+      "id": "Def/Res Shackle",
+      "name": "防守魔防枷鎖",
+      "sp": 300,
+      "icon": "skillB/Def_Res_Shackle",
       "rules": "learner.cavalry-flying-ranged"
     },
     "Odd Pulse Tie 3": {
@@ -15159,7 +15185,10 @@
       "icon": "skillC/Spur_Res_3"
     },
     "Spur Atk/Spd 2": {
-      "pool": { "#": { "3": ["Sothe - Zephyr", "Ricken - Shepherd Novice"] } },
+      "pool": {
+        "#": { "3": ["Sothe - Zephyr", "Ricken - Shepherd Novice"] },
+        "mythic": { "5": ["Váli - God of Vengeance"] }
+      },
       "id": "Spur Atk/Spd 2",
       "name": "攻擊速度紋章2",
       "sp": 240,
@@ -15438,6 +15467,14 @@
       "name": "十字魔防紋章",
       "sp": 300,
       "icon": "skillC/Cross_Spur_Res"
+    },
+    "Null Uplift A/S": {
+      "pool": { "mythic": { "5": ["Váli - God of Vengeance"] } },
+      "id": "Null Uplift A/S",
+      "name": "攻速十紋章・識破",
+      "sp": 300,
+      "icon": "skillC/Null_Uplift_A_S",
+      "rules": "flying"
     },
     "Close Guard 3": {
       "pool": {

@@ -3980,6 +3980,39 @@
       "Barricade": 5
     }
   },
+  "Alfaðör - Celestial King": {
+    "weapon": {
+      "Thunder": 1,
+      "Elthunder": 2,
+      "Thoron": 4,
+      "Ethereal Gungnir": 5
+    },
+    "assist": {
+      "Rally Attack": 4,
+      "Rally Up Atk": 4,
+      "Rally Up Atk+": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4,
+      "Ice Wall": 5
+    },
+    "skillA": {
+      "Atk/Res Bond 1": 2,
+      "Atk/Res Bond 2": 3,
+      "Atk/Res Bond 3": 4,
+      "Atk/Res Aria": 5
+    },
+    "skillB": {
+      "Chill Res 1": 2,
+      "Chill Def/Res 1": 3,
+      "Chill Def/Res 2": 4,
+      "Def/Res Shackle": 5
+    },
+    "skillC": {
+      "Covetous One": 5
+    }
+  },
   "Baldr - Celestial Sun God": {
     "weapon": {
       "Iron Sword": 1,
@@ -4062,6 +4095,36 @@
     },
     "skillC": {
       "Truth Keeper": 5
+    }
+  },
+  "Váli - God of Vengeance": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Enraptured God": 5
+    },
+    "special": {
+      "Miracle": 4,
+      "Invincible Sister": 5
+    },
+    "skillA": {
+      "Atk/Spd Bond 1": 2,
+      "Atk/Spd Bond 2": 3,
+      "Atk/Spd Bond 3": 4,
+      "Atk/Spd Aria": 5
+    },
+    "skillB": {
+      "Chill Res 1": 2,
+      "Chill Spd/Res 1": 3,
+      "Chill Spd/Res 2": 4,
+      "Spd/Res Shackle": 5
+    },
+    "skillC": {
+      "Spur Spd 1": 2,
+      "Spur Atk/Spd 1": 3,
+      "Spur Atk/Spd 2": 4,
+      "Null Uplift A/S": 5
     }
   },
   "Heimdallr - God of Foresight": {

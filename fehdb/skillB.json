@@ -2162,6 +2162,15 @@
     "icon": "skillB/Spd_Res_Shackle",
     "last": true
   },
+  "Def/Res Shackle": {
+    "id": "Def/Res Shackle",
+    "name": "防守魔防枷鎖",
+    "sp": 300,
+    "rules": "learner.cavalry-flying-ranged",
+    "prev": ["Chill Def/Res 2"],
+    "icon": "skillB/Def_Res_Shackle",
+    "last": true
+  },
   "Odd Pulse Tie 1": {
     "id": "Odd Pulse Tie 1",
     "name": "鼓動的封緘・奇數1",

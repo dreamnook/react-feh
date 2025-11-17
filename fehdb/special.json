@@ -730,6 +730,15 @@
     "exclusive": ["Gullveig - Hidden in Time"],
     "last": true
   },
+  "Invincible Sister": {
+    "id": "Invincible Sister",
+    "name": "姐姐絕對無敵",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Miracle"],
+    "exclusive": ["Váli - God of Vengeance"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
