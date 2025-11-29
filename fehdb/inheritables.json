@@ -3175,6 +3175,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Outburst": {
+        "pool": { "rearmed": { "5": ["Vanitas - Hollow God"] } },
+        "id": "Arcane Outburst",
+        "name": "魔器・幼神之波動",
+        "sp": 300,
+        "refine": 350
+      },
       "Flametongue+": {
         "pool": { "#": { "5": ["Tiki - Dragon Scion"] } },
         "id": "Flametongue+",
@@ -4308,7 +4315,8 @@
             "Ike - Desert Mercenary"
           ]
         },
-        "duo": { "5": ["Ike - Close-Knit Siblings"] }
+        "duo": { "5": ["Ike - Close-Knit Siblings"] },
+        "harmonized": { "5": ["Ike - Zealous Inheritors"] }
       },
       "id": "Sol",
       "name": "太陽",
@@ -5241,7 +5249,8 @@
             "Yunaka - Stealthy Imitator"
           ]
         },
-        "duo": { "5": ["Corrin - Young Kinship"] }
+        "duo": { "5": ["Corrin - Young Kinship"] },
+        "harmonized": { "5": ["Lyn - Glitters of Hope"] }
       },
       "id": "Dragon Fang",
       "name": "龍穿",
@@ -5308,7 +5317,8 @@
         "#": { "5": ["Baldr - Rays of Judgment"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Diamant - Fortified King"] },
-        "special": { "5": ["Yunaka - Stealthy Imitator"] }
+        "special": { "5": ["Yunaka - Stealthy Imitator"] },
+        "harmonized": { "5": ["Lyn - Glitters of Hope"] }
       },
       "id": "Archrival",
       "name": "角逐",
@@ -5752,7 +5762,11 @@
           ]
         },
         "rearmed": {
-          "5": ["Marianne - Cursed Blessing", "Soren - Isolated Strategist"]
+          "5": [
+            "Marianne - Cursed Blessing",
+            "Soren - Isolated Strategist",
+            "Vanitas - Hollow God"
+          ]
         },
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
         "legendary": { "5": ["Gunnthrá - Voice of Dreams"] },
@@ -5829,6 +5843,13 @@
       "name": "冰輪",
       "sp": 500,
       "rules": "tome"
+    },
+    "Dragon Ice": {
+      "pool": { "rearmed": { "5": ["Vanitas - Hollow God"] } },
+      "id": "Dragon Ice",
+      "name": "龍冰",
+      "sp": 500,
+      "rules": "dragon"
     },
     "Ice Wall": {
       "pool": {
@@ -6987,7 +7008,8 @@
           "5": ["Tiki - Dragon Scion"]
         },
         "grail": { "5": ["Xander - Paragon Knight"] },
-        "special": { "5": ["Frederick - Horizon Watcher"] }
+        "special": { "5": ["Frederick - Horizon Watcher"] },
+        "harmonized": { "5": ["Ike - Zealous Inheritors"] }
       },
       "id": "Armored Blow 3",
       "name": "金剛一擊3",
@@ -7373,6 +7395,14 @@
       "name": "清流一擊",
       "sp": 300,
       "icon": "skillA/Duelist's_Blow",
+      "rules": "learner.infantry-melee"
+    },
+    "Warrior's Blow": {
+      "pool": { "harmonized": { "5": ["Ike - Zealous Inheritors"] } },
+      "id": "Warrior's Blow",
+      "name": "濁流一擊",
+      "sp": 300,
+      "icon": "skillA/Warrior's_Blow",
       "rules": "learner.infantry-melee"
     },
     "Remote Sparrow": {
@@ -11201,7 +11231,8 @@
             "Plumeria - Temptation Anew",
             "Hríd - Resolute Prince"
           ]
-        }
+        },
+        "harmonized": { "5": ["Ike - Zealous Inheritors"] }
       },
       "id": "Quick Riposte 3",
       "name": "回擊3",
@@ -11214,6 +11245,14 @@
       "name": "回擊4",
       "sp": 300,
       "icon": "skillB/Quick_Riposte_4"
+    },
+    "Patience": {
+      "pool": { "harmonized": { "5": ["Ike - Zealous Inheritors"] } },
+      "id": "Patience",
+      "name": "後發先至",
+      "sp": 400,
+      "icon": "skillB/Patience",
+      "rules": "melee"
     },
     "Wary Fighter 3": {
       "pool": {
@@ -11375,6 +11414,7 @@
           ]
         },
         "grail": { "5": ["Murdock - Loyal General"] },
+        "rearmed": { "5": ["Vanitas - Hollow God"] },
         "special": {
           "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
@@ -11406,7 +11446,10 @@
       "rules": "armored"
     },
     "Scowling Fighter": {
-      "pool": { "#": { "5": ["Alear - Red Days Past"] } },
+      "pool": {
+        "#": { "5": ["Alear - Red Days Past"] },
+        "rearmed": { "5": ["Vanitas - Hollow God"] }
+      },
       "id": "Scowling Fighter",
       "name": "奧義隊形・龍眼",
       "sp": 300,
@@ -11608,7 +11651,9 @@
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "5": ["Yunaka - Spirited Envoy"] },
         "duo": { "5": ["Lyon - Esteemed Royals", "Gullveig - Hidden in Time"] },
-        "harmonized": { "5": ["Chloé - Spring Wings"] }
+        "harmonized": {
+          "5": ["Chloé - Spring Wings", "Lyn - Glitters of Hope"]
+        }
       },
       "id": "Poison Strike 3",
       "name": "蛇毒3",
@@ -11625,6 +11670,14 @@
       "name": "理之蛇毒",
       "sp": 300,
       "icon": "skillB/Assassin's_Strike",
+      "rules": "learner.def-dmger"
+    },
+    "Execution Breath": {
+      "pool": { "harmonized": { "5": ["Lyn - Glitters of Hope"] } },
+      "id": "Execution Breath",
+      "name": "理之蛇毒・呼吸",
+      "sp": 400,
+      "icon": "skillB/Execution_Breath",
       "rules": "learner.def-dmger"
     },
     "Occultist's Strike": {
@@ -16066,7 +16119,11 @@
           "5": ["Marth - Royal Altean Duo", "Gullveig - Hidden in Time"]
         },
         "harmonized": {
-          "5": ["Fir - Dual Warriors", "Ingrid - Cordial Teatime"]
+          "5": [
+            "Lyn - Glitters of Hope",
+            "Fir - Dual Warriors",
+            "Ingrid - Cordial Teatime"
+          ]
         }
       },
       "id": "Hone Spd 3",
@@ -16238,7 +16295,10 @@
       "rules": "learner.cavalry-melee"
     },
     "A/S Hone Assault": {
-      "pool": { "duo": { "5": ["Gullveig - Hidden in Time"] } },
+      "pool": {
+        "duo": { "5": ["Gullveig - Hidden in Time"] },
+        "harmonized": { "5": ["Lyn - Glitters of Hope"] }
+      },
       "id": "A/S Hone Assault",
       "name": "攻速鼓舞・強攻",
       "sp": 300,
@@ -17534,6 +17594,7 @@
     "A/R Near Save 2": {
       "pool": {
         "#": { "5": ["Rafal - Atoning Dragon", "Grima - Tyrant of Despair"] },
+        "rearmed": { "5": ["Vanitas - Hollow God"] },
         "special": { "5": ["Robin - Fall Reincarnation"] }
       },
       "id": "A/R Near Save 2",
@@ -17545,6 +17606,7 @@
     "A/R Near Save 3": {
       "pool": {
         "#": { "5": ["Rafal - Atoning Dragon", "Grima - Tyrant of Despair"] },
+        "rearmed": { "5": ["Vanitas - Hollow God"] },
         "special": { "5": ["Robin - Fall Reincarnation"] }
       },
       "id": "A/R Near Save 3",
@@ -17781,6 +17843,14 @@
       "name": "鎧之守護人・理・棘",
       "sp": 300,
       "icon": "skillC/A_D_Briar_P_Save",
+      "rules": "armored"
+    },
+    "A/R Twin M Save": {
+      "pool": { "rearmed": { "5": ["Vanitas - Hollow God"] } },
+      "id": "A/R Twin M Save",
+      "name": "冑之守護人・魔・雙",
+      "sp": 300,
+      "icon": "skillC/A_R_Twin_M_Save",
       "rules": "armored"
     },
     "S/R Briar M Save": {
@@ -18699,7 +18769,8 @@
         "mythic": { "5": ["Líf - Lethal Swordsman", "Dagr - Sun's Radiance"] },
         "special": {
           "5": ["Diamant - Gallant Ninja", "Lapis - Forager of the Sea"]
-        }
+        },
+        "harmonized": { "5": ["Ike - Zealous Inheritors"] }
       },
       "id": "Even Tempest 3",
       "name": "迅雷風烈・偶數3",
@@ -18724,7 +18795,8 @@
         "legendary": {
           "5": ["Ayra - Supreme Astra", "Diamant - Fortified King"]
         },
-        "special": { "5": ["Larcei - Bride of Astra"] }
+        "special": { "5": ["Larcei - Bride of Astra"] },
+        "harmonized": { "5": ["Ike - Zealous Inheritors"] }
       },
       "id": "Brutal Tempest",
       "name": "迅雷風烈・鬼沒",

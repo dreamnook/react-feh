@@ -13105,6 +13105,16 @@
       "exclusive": ["Hríd - Frigid Ninja"],
       "last": true
     },
+    "Urvan Brilliance": {
+      "id": "Urvan Brilliance",
+      "name": "蒼烈烏爾邦",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Ike - Zealous Inheritors"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -16874,6 +16884,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Yunaka - Stealthy Imitator"],
+      "last": true
+    },
+    "Intrinsic Mulagir": {
+      "id": "Intrinsic Mulagir",
+      "name": "疾聖妙爾葛雷",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Lyn - Glitters of Hope"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -34059,6 +34079,34 @@
     "Arcane Fell Arts": {
       "id": "Arcane Fell Arts",
       "name": "魔器・邪龍石",
+      "mt": 16,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Flametongue"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Arcane Outburst": {
+      "id": "Arcane Outburst",
+      "name": "魔器・幼神之波動",
       "mt": 16,
       "cd": -1,
       "sp": 300,

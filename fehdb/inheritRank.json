@@ -13183,6 +13183,19 @@
     "skillA": { "Atk/Def Fortune": { "sp": 300, "rarity": 5 } },
     "skillB": { "Assault Fighter": { "sp": 300, "rarity": 5 } }
   },
+  "Vanitas - Hollow God": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 212,
+    "special": { "Dragon Ice": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Scowling Fighter": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Twin M Save": { "sp": 300, "rarity": 5 } }
+  },
   "Est - Springtime Flier": {
     "score": 318,
     "scoreTotal": 996,
@@ -16340,6 +16353,20 @@
     "skillB": { "S/R Far Resound": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Res Crux": { "sp": 300, "rarity": 5 } }
   },
+  "Ike - Zealous Inheritors": {
+    "score": 424,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Sol": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Warrior's Blow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Patience": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Brutal Tempest": { "sp": 300, "rarity": 5 } }
+  },
   "Gullveig - Hidden in Time": {
     "score": 424,
     "scoreTotal": 1272,
@@ -16352,6 +16379,19 @@
     "special": { "Vengeance": { "sp": 200, "rarity": 5 } },
     "skillA": { "Sly Swift Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Conjuring Breath": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/S Hone Assault": { "sp": 300, "rarity": 5 } }
+  },
+  "Lyn - Glitters of Hope": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Execution Breath": { "sp": 400, "rarity": 5 } },
     "skillC": { "A/S Hone Assault": { "sp": 300, "rarity": 5 } }
   },
   "Byleth - Proven Professor": {

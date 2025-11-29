@@ -3002,6 +3002,34 @@
       "Connected World": 5
     }
   },
+  "Vanitas - Hollow God": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Arcane Outburst": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Glacies": 4,
+      "Dragon Ice": 5
+    },
+    "skillA": {
+      "Unfledged God": 5
+    },
+    "skillB": {
+      "Special Fighter 1": 2,
+      "Special Fighter 2": 3,
+      "Special Fighter 3": 4,
+      "Scowling Fighter": 5
+    },
+    "skillC": {
+      "A/R Near Save 1": 2,
+      "A/R Near Save 2": 3,
+      "A/R Near Save 3": 4,
+      "A/R Twin M Save": 5
+    }
+  },
   "Ash - Retainer to Askr": {
     "weapon": {
       "Whelp (Infantry)": 1,
@@ -13644,6 +13672,34 @@
       "Dark Beast Force": 5
     }
   },
+  "Lyn - Glitters of Hope": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Intrinsic Mulagir": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Sacae's Decree": 5
+    },
+    "skillB": {
+      "Poison Strike 1": 2,
+      "Poison Strike 2": 3,
+      "Poison Strike 3": 4,
+      "Execution Breath": 5
+    },
+    "skillC": {
+      "Hone Spd 1": 2,
+      "Hone Spd 2": 3,
+      "Hone Spd 3": 4,
+      "A/S Hone Assault": 5
+    }
+  },
   "Hector - General of Ostia": {
     "weapon": {
       "Iron Axe": 1,
@@ -17762,6 +17818,37 @@
       "Time's Pulse 2": 3,
       "Time's Pulse 3": 4,
       "Time Pulse Edge": 5
+    }
+  },
+  "Ike - Zealous Inheritors": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Urvan Brilliance": 5
+    },
+    "special": {
+      "Daylight": 3,
+      "Sol": 4,
+      "Aether's Course": 5
+    },
+    "skillA": {
+      "Armored Blow 1": 2,
+      "Armored Blow 2": 3,
+      "Armored Blow 3": 4,
+      "Warrior's Blow": 5
+    },
+    "skillB": {
+      "Quick Riposte 1": 2,
+      "Quick Riposte 2": 3,
+      "Quick Riposte 3": 4,
+      "Patience": 5
+    },
+    "skillC": {
+      "Even Tempest 1": 2,
+      "Even Tempest 2": 3,
+      "Even Tempest 3": 4,
+      "Brutal Tempest": 5
     }
   },
   "Titania - Mighty Mercenary": {

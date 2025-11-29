@@ -440,6 +440,22 @@
     "icon": "skillA/Rapid_Slice",
     "last": true
   },
+  "Sacae's Decree": {
+    "id": "Sacae's Decree",
+    "name": "真偉大的塞迦的規矩",
+    "sp": 300,
+    "exclusive": ["Lyn - Glitters of Hope"],
+    "icon": "skillA/Sacae's_Decree",
+    "last": true
+  },
+  "Unfledged God": {
+    "id": "Unfledged God",
+    "name": "新生之神",
+    "sp": 300,
+    "exclusive": ["Vanitas - Hollow God"],
+    "icon": "skillA/Unfledged_God",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -1358,6 +1374,15 @@
     "rules": "learner.infantry-melee",
     "prev": ["Darting Blow 3", "Warding Blow 3"],
     "icon": "skillA/Duelist's_Blow",
+    "last": true
+  },
+  "Warrior's Blow": {
+    "id": "Warrior's Blow",
+    "name": "濁流一擊",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "prev": ["Armored Blow 3", "Warding Blow 3"],
+    "icon": "skillA/Warrior's_Blow",
     "last": true
   },
   "Remote Sparrow": {

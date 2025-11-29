@@ -4174,6 +4174,41 @@
     "ver": "8.10",
     "dfKey": 7
   },
+  "Vanitas - Hollow God": {
+    "id": "Vanitas - Hollow God",
+    "title": "虛神",
+    "name": "凡妮塔斯",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-dragon",
+    "moveType": "armored",
+    "pool": "rearmed",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-11-28",
+    "stats": {
+      "5": {
+        "hp": [48, 51, 54],
+        "atk": [45, 48, 51],
+        "spd": [15, 18, 21],
+        "def": [42, 46, 49],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 23,
+        "atk": 13,
+        "spd": 3,
+        "def": 13,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["def"],
+    "statMin": 212,
+    "statMax": 215,
+    "book": 9,
+    "ver": "9.11",
+    "dfKey": 8
+  },
   "Ash - Retainer to Askr": {
     "id": "Ash - Retainer to Askr",
     "title": "亞斯克的眷屬",
@@ -5612,6 +5647,7 @@
     "blesser": "mythic",
     "blessing": "dark-def-2",
     "appearsIn": ["Heroes"],
+    "releaseDate": "2025-11-17",
     "stats": {
       "5": {
         "hp": [38, 42, 45],
@@ -5631,7 +5667,10 @@
     "assets": ["atk", "def", "res"],
     "flaws": ["hp"],
     "statMin": 188,
-    "statMax": 190
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.11",
+    "dfKey": 8
   },
   "Heimdallr - God of Foresight": {
     "id": "Heimdallr - God of Foresight",
@@ -23124,6 +23163,41 @@
     "ver": "9.9",
     "dfKey": 8
   },
+  "Lyn - Glitters of Hope": {
+    "id": "Lyn - Glitters of Hope",
+    "title": "驅散黑暗的煌星",
+    "name": "琳",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-bow",
+    "moveType": "cavalry",
+    "pool": "harmonized",
+    "appearsIn": ["The Blazing Blade", "Awakening"],
+    "releaseDate": "2025-11-28",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [26, 30, 33],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 8,
+        "res": 5
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp", "def"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 9,
+    "ver": "9.11",
+    "dfKey": 8
+  },
   "Hector - General of Ostia": {
     "id": "Hector - General of Ostia",
     "title": "奧斯提亞的勇將",
@@ -30603,6 +30677,41 @@
     "book": 9,
     "ver": "9.1",
     "dfKey": 7
+  },
+  "Ike - Zealous Inheritors": {
+    "id": "Ike - Zealous Inheritors",
+    "title": "繼承靈魂的勇者們",
+    "name": "艾克",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "infantry",
+    "pool": "harmonized",
+    "appearsIn": ["The Binding Blade", "Path of Radiance"],
+    "releaseDate": "2025-11-28",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [46, 49, 53],
+        "spd": [26, 30, 33],
+        "def": [46, 49, 53],
+        "res": [32, 35, 38]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 8,
+        "def": 10,
+        "res": 11
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp", "spd"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 9,
+    "ver": "9.11",
+    "dfKey": 8
   },
   "Titania - Mighty Mercenary": {
     "id": "Titania - Mighty Mercenary",

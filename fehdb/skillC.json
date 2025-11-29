@@ -3157,6 +3157,15 @@
     "icon": "skillC/A_D_Briar_P_Save",
     "last": true
   },
+  "A/R Twin M Save": {
+    "id": "A/R Twin M Save",
+    "name": "冑之守護人・魔・雙",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/R Near Save 3"],
+    "icon": "skillC/A_R_Twin_M_Save",
+    "last": true
+  },
   "S/R Briar M Save": {
     "id": "S/R Briar M Save",
     "name": "衣之守護人・魔・棘",

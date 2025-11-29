@@ -739,6 +739,15 @@
     "exclusive": ["Váli - God of Vengeance"],
     "last": true
   },
+  "Aether's Course": {
+    "id": "Aether's Course",
+    "name": "真蒼炎天空",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Sol"],
+    "exclusive": ["Ike - Zealous Inheritors"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -1173,6 +1182,15 @@
     "cd": 4,
     "prev": ["Glacies"],
     "rules": "tome",
+    "last": true
+  },
+  "Dragon Ice": {
+    "id": "Dragon Ice",
+    "name": "龍冰",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Glacies"],
+    "rules": "dragon",
     "last": true
   },
   "Ice Wall": {

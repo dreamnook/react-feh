@@ -1179,6 +1179,15 @@
     "icon": "skillB/Quick_Riposte_4",
     "last": true
   },
+  "Patience": {
+    "id": "Patience",
+    "name": "後發先至",
+    "sp": 400,
+    "rules": "melee",
+    "prev": ["Quick Riposte 3"],
+    "icon": "skillB/Patience",
+    "last": true
+  },
   "Wary Fighter 1": {
     "id": "Wary Fighter 1",
     "name": "防守隊形1",
@@ -1606,6 +1615,15 @@
     "rules": "learner.def-dmger",
     "prev": ["Poison Strike 3"],
     "icon": "skillB/Assassin's_Strike",
+    "last": true
+  },
+  "Execution Breath": {
+    "id": "Execution Breath",
+    "name": "理之蛇毒・呼吸",
+    "sp": 400,
+    "rules": "learner.def-dmger",
+    "prev": ["Poison Strike 3"],
+    "icon": "skillB/Execution_Breath",
     "last": true
   },
   "Occultist's Strike": {
