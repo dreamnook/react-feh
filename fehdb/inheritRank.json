@@ -16275,7 +16275,7 @@
     "sp": 400,
     "spTotal": 1200,
     "feather": 1000,
-    "bst": 204,
+    "bst": 220,
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillA": { "Warrior's Blow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Rejuvenate": { "sp": 400, "rarity": 5 } },

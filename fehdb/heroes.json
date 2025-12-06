@@ -234,6 +234,7 @@
     "weaponType": "red-sword",
     "moveType": "infantry",
     "pool": "chosen",
+    "bst": 220,
     "appearsIn": ["Heroes"],
     "releaseDate": "2025-12-05",
     "stats": {
