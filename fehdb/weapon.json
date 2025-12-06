@@ -3803,6 +3803,16 @@
       "exclusive": ["Stefan - No-Man's-Blade"],
       "last": true
     },
+    "Chosen Sword": {
+      "id": "Chosen Sword",
+      "name": "開啟救世之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Alfonse - Opening Miracle"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -14058,6 +14068,39 @@
       },
       "last": true
     },
+    "Melee Axe": {
+      "id": "Melee Axe",
+      "name": "混戰之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Melee Axe+": {
+      "id": "Melee Axe+",
+      "name": "混戰之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Melee Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Legion's Axe": {
       "id": "Legion's Axe",
       "name": "羅羅之斧",
@@ -16894,6 +16937,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Lyn - Glitters of Hope"],
+      "last": true
+    },
+    "Watchful Bow": {
+      "id": "Watchful Bow",
+      "name": "精細洞察之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Ignatz - Worldly Artist"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -27505,6 +27558,39 @@
       },
       "last": true
     },
+    "Blársparrow": {
+      "id": "Blársparrow",
+      "name": "蒼藍麻雀",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Elthunder", "Ellight"]
+    },
+    "Blársparrow+": {
+      "id": "Blársparrow+",
+      "name": "蒼藍麻雀+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Blársparrow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Blue Egg": {
       "id": "Blue Egg",
       "name": "青之卵",
@@ -29620,6 +29706,34 @@
       "sp": 300,
       "prev": ["Rexcalibur"],
       "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Suttungr's Mys.": {
+      "id": "Suttungr's Mys.",
+      "name": "蘇圖恩的神祕",
+      "mt": 14,
+      "cd": -1,
+      "sp": 300,
+      "rearmed": true,
+      "prev": ["Rexcalibur"],
       "refine": {
         "atk": {
           "hp": 2,

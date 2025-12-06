@@ -748,6 +748,15 @@
     "exclusive": ["Ike - Zealous Inheritors"],
     "last": true
   },
+  "Ascendant King": {
+    "id": "Ascendant King",
+    "name": "真王器",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Bonfire"],
+    "exclusive": ["Alfonse - Opening Miracle"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -1546,6 +1555,15 @@
     "cd": 3,
     "prev": ["Miracle"],
     "rules": "white-staff",
+    "last": true
+  },
+  "Logic": {
+    "id": "Logic",
+    "name": "邏輯",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Dragon Fang"],
+    "rules": "tome",
     "last": true
   }
 }

@@ -2766,6 +2766,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Lorenz - Red-Rose Noble": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 185,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "A/S Far Trace 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -9370,6 +9382,19 @@
     "skillA": { "Atk/Def Prime 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Wary Fighter 3": { "sp": 240, "rarity": 4 } }
   },
+  "Raphael - Beast of Leicester": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 212,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Assault Troop 3": { "sp": 240, "rarity": 5 } }
+  },
   "Isadora - Escort of Pherae": {
     "score": 300,
     "scoreTotal": 750,
@@ -10417,6 +10442,18 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Gambit 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Ignatz - Worldly Artist": {
+    "score": 300,
+    "scoreTotal": 800,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Havoc": { "sp": 300, "rarity": 5 } }
   },
   "Ursula - Blue Crow": {
     "score": 403,
@@ -14557,6 +14594,19 @@
     "skillA": { "Steady Posture 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
   },
+  "Lysithea - Duality Prodigy": {
+    "score": 450,
+    "scoreTotal": 1080,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Logic": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Conjuring Breath": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Creation Pulse": { "sp": 300, "rarity": 5 } }
+  },
   "Tana - Noble and Nimble": {
     "score": 318,
     "scoreTotal": 1081,
@@ -16216,6 +16266,20 @@
     "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Special Spiral 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Infantry Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Alfonse - Opening Miracle": {
+    "score": 400,
+    "scoreTotal": 1200,
+    "poolRarity": 5,
+    "pool": "chosen",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Warrior's Blow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Rejuvenate": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Preempt: Ploy": { "sp": 300, "rarity": 5 } }
   },
   "Lilina - Beaming Bride": {
     "score": 318,

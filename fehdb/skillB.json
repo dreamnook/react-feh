@@ -2390,6 +2390,15 @@
     "icon": "skillB/Atk_Res_Havoc",
     "last": true
   },
+  "Spd/Def Havoc": {
+    "id": "Spd/Def Havoc",
+    "name": "速度防守大擾亂",
+    "sp": 300,
+    "rules": "learner.infantry-flying",
+    "prev": ["Sabotage Spd 3", "Sabotage Def 3"],
+    "icon": "skillB/Spd_Def_Havoc",
+    "last": true
+  },
   "Spd/Res Havoc": {
     "id": "Spd/Res Havoc",
     "name": "速度魔防大擾亂",
@@ -2731,6 +2740,15 @@
     "rules": "melee",
     "prev": ["Guard 3"],
     "icon": "skillB/Reopening",
+    "last": true
+  },
+  "Rejuvenate": {
+    "id": "Rejuvenate",
+    "name": "革故鼎新",
+    "sp": 400,
+    "rules": "learner.infantry-melee",
+    "prev": ["Guard 3"],
+    "icon": "skillB/Rejuvenate",
     "last": true
   },
   "Wrathful Staff 1": {

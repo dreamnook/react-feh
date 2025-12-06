@@ -1115,6 +1115,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Melee Axe+": {
+        "pool": { "grail": { "5": ["Raphael - Beast of Leicester"] } },
+        "id": "Melee Axe+",
+        "name": "混戰之斧+",
+        "sp": 300,
+        "refine": 350
+      },
       "Legion's Axe+": {
         "pool": { "grail": { "5": ["Legion - Masked Maniac"] } },
         "id": "Legion's Axe+",
@@ -2494,6 +2501,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Blársparrow+": {
+        "pool": { "#": { "4": ["Lorenz - Red-Rose Noble"] } },
+        "id": "Blársparrow+",
+        "name": "蒼藍麻雀+",
+        "sp": 300,
+        "refine": 350
+      },
       "Blue Egg+": {
         "pool": { "special": { "5": ["Lucina - Spring Exalt"] } },
         "id": "Blue Egg+",
@@ -2647,6 +2661,13 @@
         "pool": { "rearmed": { "5": ["Lilina - Brilliant Flame"] } },
         "id": "Arcane Truthfire",
         "name": "魔器・業火之理書",
+        "sp": 300,
+        "refine": 350
+      },
+      "Suttungr's Mys.": {
+        "pool": { "rearmed": { "5": ["Lysithea - Duality Prodigy"] } },
+        "id": "Suttungr's Mys.",
+        "name": "蘇圖恩的神祕",
         "sp": 300,
         "refine": 350
       },
@@ -5176,6 +5197,7 @@
             "Bantu - Tiki's Guardian",
             "Morgan - Lad from Afar"
           ],
+          "4": ["Lorenz - Red-Rose Noble"],
           "5": [
             "Julia - Naga's Blood",
             "Siegbert - Future King",
@@ -5216,6 +5238,7 @@
             "Haitaka - Persistent General"
           ]
         },
+        "rearmed": { "5": ["Lysithea - Duality Prodigy"] },
         "emblem": { "5": ["Corrin - Of Fates"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": {
@@ -5486,7 +5509,8 @@
             "Cervantes - Invincible General",
             "Dagdar - Reformed Bandit",
             "Gromell - Bolt Axe General",
-            "Marni - Pining for Praise"
+            "Marni - Pining for Praise",
+            "Raphael - Beast of Leicester"
           ]
         },
         "rearmed": { "5": ["Dedue - Dauntless Beast"] },
@@ -5729,6 +5753,7 @@
             "Ewan - Eager Student",
             "Gotoh - Apostle of Naga",
             "Nomah - Priest of Mila",
+            "Ignatz - Worldly Artist",
             "Marianne - Serene Adherent",
             "Nergal - Traitor to Nabata"
           ]
@@ -6375,6 +6400,13 @@
       "name": "輝印的聖光",
       "sp": 500,
       "rules": "white-staff"
+    },
+    "Logic": {
+      "pool": { "rearmed": { "5": ["Lysithea - Duality Prodigy"] } },
+      "id": "Logic",
+      "name": "邏輯",
+      "sp": 500,
+      "rules": "tome"
     }
   },
   "skillA": {
@@ -8561,6 +8593,7 @@
       "pool": {
         "#": {
           "3": ["Kent - Crimson Shield"],
+          "4": ["Lorenz - Red-Rose Noble"],
           "5": [
             "Maria - Ritual Sacrifice",
             "Hinoka - Blue Sky Warrior",
@@ -10107,6 +10140,7 @@
             "Tina - Playful Scamp",
             "Monica - Favored Vassal",
             "Arthur - Furious Mage",
+            "Ignatz - Worldly Artist",
             "Louise - Lady of Violets",
             "Alear - Dragon Youth",
             "Alear - Dragon Child"
@@ -10310,6 +10344,7 @@
     },
     "Perfect Atk/Spd": {
       "pool": {
+        "#": { "5": ["Ignatz - Worldly Artist"] },
         "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
         "special": {
           "5": [
@@ -11314,7 +11349,10 @@
             "Eikþyrnir - Resolved to Train"
           ]
         },
-        "grail": { "5": ["Hubert - Crimson Schemer"] },
+        "grail": {
+          "4": ["Raphael - Beast of Leicester"],
+          "5": ["Hubert - Crimson Schemer"]
+        },
         "rearmed": { "5": ["Dedue - Dauntless Beast"] },
         "legendary": { "5": ["Tiki - Legendary Dragon"] },
         "mythic": { "5": ["Duma - God of Strength"] },
@@ -11647,7 +11685,9 @@
             "Metodey - Shrewd Braggart"
           ]
         },
-        "rearmed": { "5": ["Lilina - Brilliant Flame"] },
+        "rearmed": {
+          "5": ["Lilina - Brilliant Flame", "Lysithea - Duality Prodigy"]
+        },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "5": ["Yunaka - Spirited Envoy"] },
         "duo": { "5": ["Lyon - Esteemed Royals", "Gullveig - Hidden in Time"] },
@@ -11694,7 +11734,10 @@
       "rules": "learner.res-dmg-not-staff"
     },
     "Conjuring Breath": {
-      "pool": { "duo": { "5": ["Gullveig - Hidden in Time"] } },
+      "pool": {
+        "rearmed": { "5": ["Lysithea - Duality Prodigy"] },
+        "duo": { "5": ["Gullveig - Hidden in Time"] }
+      },
       "id": "Conjuring Breath",
       "name": "魔之蛇毒・呼吸",
       "sp": 400,
@@ -12240,7 +12283,13 @@
     },
     "Sabotage Def 3": {
       "pool": {
-        "#": { "5": ["Yukimura - Puppet Master", "Morgan - Fated Darkness"] },
+        "#": {
+          "5": [
+            "Yukimura - Puppet Master",
+            "Ignatz - Worldly Artist",
+            "Morgan - Fated Darkness"
+          ]
+        },
         "grail": {
           "4": ["Linhardt - Spring Snoozer"],
           "5": ["Cornelia - Saint Consumed"]
@@ -12372,6 +12421,14 @@
       "name": "攻擊魔防大擾亂",
       "sp": 300,
       "icon": "skillB/Atk_Res_Havoc",
+      "rules": "learner.infantry-flying"
+    },
+    "Spd/Def Havoc": {
+      "pool": { "#": { "5": ["Ignatz - Worldly Artist"] } },
+      "id": "Spd/Def Havoc",
+      "name": "速度防守大擾亂",
+      "sp": 300,
+      "icon": "skillB/Spd_Def_Havoc",
       "rules": "learner.infantry-flying"
     },
     "Spd/Res Havoc": {
@@ -12607,6 +12664,14 @@
       "sp": 300,
       "icon": "skillB/Reopening",
       "rules": "melee"
+    },
+    "Rejuvenate": {
+      "pool": {},
+      "id": "Rejuvenate",
+      "name": "革故鼎新",
+      "sp": 400,
+      "icon": "skillB/Rejuvenate",
+      "rules": "learner.infantry-melee"
     },
     "Wrathful Staff 3": {
       "pool": {
@@ -14267,7 +14332,10 @@
     },
     "A/S Far Trace 3": {
       "pool": {
-        "#": { "5": ["Constance - Fallen Noble"] },
+        "#": {
+          "4": ["Lorenz - Red-Rose Noble"],
+          "5": ["Constance - Fallen Noble"]
+        },
         "mythic": { "5": ["Elimine - Scouring Saint"] },
         "special": { "5": ["Olivia - Wavecrest Dancer"] }
       },
@@ -17209,7 +17277,8 @@
           "5": [
             "Nuibaba - Mistress of Fear",
             "Ophelia - Starlit Maiden",
-            "Soren - Isolated Strategist"
+            "Soren - Isolated Strategist",
+            "Lysithea - Duality Prodigy"
           ]
         },
         "attuned": {
@@ -17328,6 +17397,7 @@
     "Creation Pulse": {
       "pool": {
         "#": { "5": ["Robin - Exalt's Right Hand"] },
+        "rearmed": { "5": ["Lysithea - Duality Prodigy"] },
         "attuned": { "5": ["Brigid - Awakened Bow"] }
       },
       "id": "Creation Pulse",
@@ -18822,6 +18892,7 @@
     },
     "Assault Troop 3": {
       "pool": {
+        "grail": { "5": ["Raphael - Beast of Leicester"] },
         "special": {
           "5": ["Zelgius - Ninja Knight", "Edelgard - Adorned Eagle"]
         },

@@ -225,6 +225,41 @@
     "ver": "8.8",
     "dfKey": 7
   },
+  "Alfonse - Opening Miracle": {
+    "id": "Alfonse - Opening Miracle",
+    "title": "開啟之力的王子",
+    "name": "阿爾馮斯",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "pool": "chosen",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-12-05",
+    "stats": {
+      "5": {
+        "hp": [38, 42, 45],
+        "atk": [46, 49, 53],
+        "spd": [12, 16, 19],
+        "def": [46, 49, 52],
+        "res": [45, 48, 51]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 10,
+        "spd": 3,
+        "def": 12,
+        "res": 13
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
+  },
   "Sharena - Princess of Askr": {
     "id": "Sharena - Princess of Askr",
     "title": "亞斯克王國的公主",
@@ -52081,6 +52116,54 @@
     "ver": "4.7",
     "dfKey": 2
   },
+  "Lorenz - Red-Rose Noble": {
+    "id": "Lorenz - Red-Rose Noble",
+    "title": "紅玫瑰的貴公子",
+    "name": "洛廉茲",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "weaponType": "blue-tome",
+    "moveType": "cavalry",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-12-05",
+    "stats": {
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [43, 46, 49],
+        "spd": [39, 43, 46],
+        "def": [18, 21, 24],
+        "res": [21, 24, 27]
+      },
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [45, 48, 52],
+        "spd": [41, 45, 48],
+        "def": [20, 23, 26],
+        "res": [23, 27, 30]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 9,
+        "spd": 12,
+        "def": 5,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 12,
+        "def": 6,
+        "res": 5
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
+  },
   "Raphael - Muscle-Monger": {
     "id": "Raphael - Muscle-Monger",
     "title": "沙漠的肌肉商人",
@@ -52130,6 +52213,69 @@
     "ver": "5.1",
     "dfKey": 3
   },
+  "Raphael - Beast of Leicester": {
+    "id": "Raphael - Beast of Leicester",
+    "title": "雷斯塔的野獸",
+    "name": "拉斐爾",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "armored",
+    "pool": "grail",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-12-05",
+    "stats": {
+      "3": {
+        "hp": [51, 54, 57],
+        "atk": [41, 44, 47],
+        "spd": [24, 27, 30],
+        "def": [41, 44, 47],
+        "res": [18, 21, 24]
+      },
+      "4": {
+        "hp": [52, 56, 59],
+        "atk": [44, 47, 50],
+        "spd": [25, 28, 31],
+        "def": [44, 47, 50],
+        "res": [19, 22, 25]
+      },
+      "5": {
+        "hp": [55, 59, 62],
+        "atk": [46, 49, 53],
+        "spd": [27, 31, 34],
+        "def": [46, 49, 53],
+        "res": [21, 24, 27]
+      },
+      "3-1": {
+        "hp": 25,
+        "atk": 9,
+        "spd": 8,
+        "def": 9,
+        "res": 6
+      },
+      "4-1": {
+        "hp": 25,
+        "atk": 10,
+        "spd": 8,
+        "def": 10,
+        "res": 6
+      },
+      "5-1": {
+        "hp": 26,
+        "atk": 10,
+        "spd": 9,
+        "def": 10,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp", "spd"],
+    "statMin": 212,
+    "statMax": 215,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
+  },
   "Ignatz - Snowscape Artist": {
     "id": "Ignatz - Snowscape Artist",
     "title": "畫筆描繪的冬天景色",
@@ -52178,6 +52324,40 @@
     "book": 6,
     "ver": "6.0",
     "dfKey": 4
+  },
+  "Ignatz - Worldly Artist": {
+    "id": "Ignatz - Worldly Artist",
+    "title": "色彩的旅行者",
+    "name": "伊古納茲",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-bow",
+    "moveType": "infantry",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-12-05",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [16, 19, 22],
+        "res": [43, 46, 49]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 9,
+        "def": 4,
+        "res": 11
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
   },
   "Lysithea - Child Prodigy": {
     "id": "Lysithea - Child Prodigy",
@@ -52316,6 +52496,41 @@
     "book": 7,
     "ver": "7.8",
     "dfKey": 5
+  },
+  "Lysithea - Duality Prodigy": {
+    "id": "Lysithea - Duality Prodigy",
+    "title": "駕馭光闇的魔匠",
+    "name": "莉絲緹亞",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "infantry",
+    "pool": "rearmed",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-12-05",
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [46, 49, 53],
+        "spd": [45, 48, 52],
+        "def": [23, 26, 29],
+        "res": [28, 32, 35]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 9,
+        "def": 9,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
   },
   "Marianne - Adopted Daughter": {
     "id": "Marianne - Adopted Daughter",

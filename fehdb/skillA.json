@@ -456,6 +456,14 @@
     "icon": "skillA/Unfledged_God",
     "last": true
   },
+  "True Genius": {
+    "id": "True Genius",
+    "name": "真天才",
+    "sp": 300,
+    "exclusive": ["Lysithea - Duality Prodigy"],
+    "icon": "skillA/True_Genius",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
