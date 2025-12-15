@@ -235,7 +235,7 @@
     "moveType": "infantry",
     "pool": "chosen",
     "blesser": "chosen",
-    "blessing": "wind",
+    "blessing": "wind-clash",
     "bst": 220,
     "appearsIn": ["Heroes"],
     "releaseDate": "2025-12-05",
