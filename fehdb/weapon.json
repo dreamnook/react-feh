@@ -29795,8 +29795,8 @@
       "mt": 14,
       "cd": -1,
       "sp": 300,
-      "rearmed": true,
       "prev": ["Rexcalibur"],
+      "rearmed": true,
       "refine": {
         "atk": {
           "hp": 2,

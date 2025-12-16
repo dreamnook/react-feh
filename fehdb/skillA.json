@@ -476,6 +476,10 @@
     "id": "Tunnel Vision",
     "name": "真執著",
     "sp": 300,
+    "atk": 9,
+    "spd": 9,
+    "def": 9,
+    "res": 9,
     "exclusive": ["Ivy - Flurry Embrace"],
     "icon": "skillA/Tunnel_Vision",
     "last": true

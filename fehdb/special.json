@@ -926,8 +926,8 @@
     "id": "Comet",
     "name": "彗星",
     "sp": 500,
-    "prev": ["Astra"],
     "cd": 5,
+    "prev": ["Astra"],
     "rules": "learner.infantry-armored-not-staff",
     "last": true
   },

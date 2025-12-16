@@ -4634,8 +4634,8 @@
     "id": "Lookout Force",
     "name": "開路・不屈",
     "sp": 300,
-    "prev": ["Lookout 3"],
     "rules": "dagger",
+    "prev": ["Lookout 3"],
     "icon": "skillC/Lookout_Force",
     "last": true
   },
@@ -4643,8 +4643,8 @@
     "id": "Active Lookout",
     "name": "開路・猛攻",
     "sp": 300,
-    "prev": ["Lookout 3"],
     "rules": "dagger",
+    "prev": ["Lookout 3"],
     "icon": "skillC/Active_Lookout",
     "last": true
   },
@@ -4652,8 +4652,8 @@
     "id": "Lookout Smog",
     "name": "開路・暗煙",
     "sp": 300,
-    "prev": ["Lookout 3"],
     "rules": "dagger",
+    "prev": ["Lookout 3"],
     "icon": "skillC/Lookout_Smog",
     "last": true
   },
