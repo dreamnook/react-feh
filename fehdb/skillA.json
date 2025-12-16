@@ -464,6 +464,22 @@
     "icon": "skillA/True_Genius",
     "last": true
   },
+  "Self-Mastery": {
+    "id": "Self-Mastery",
+    "name": "真自己專研",
+    "sp": 300,
+    "exclusive": ["Alfred - Joyous Snowdrop"],
+    "icon": "skillA/Self-Mastery",
+    "last": true
+  },
+  "Tunnel Vision": {
+    "id": "Tunnel Vision",
+    "name": "真執著",
+    "sp": 300,
+    "exclusive": ["Ivy - Flurry Embrace"],
+    "icon": "skillA/Tunnel_Vision",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -2733,6 +2749,14 @@
     "sp": 300,
     "rules": "tome",
     "icon": "skillA/Atk_Res_Aria",
+    "last": true
+  },
+  "Def/Res Aria": {
+    "id": "Def/Res Aria",
+    "name": "防守魔防的詠唱",
+    "sp": 300,
+    "rules": "tome",
+    "icon": "skillA/Def_Res_Aria",
     "last": true
   },
   "Atk/Spd Push 1": {

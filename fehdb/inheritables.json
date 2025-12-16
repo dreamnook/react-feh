@@ -2133,6 +2133,13 @@
         "name": "南國的果汁+",
         "sp": 300,
         "refine": 350
+      },
+      "Winter Trinket+": {
+        "pool": { "grail": { "5": ["Zelkov - Winter Shadow"] } },
+        "id": "Winter Trinket+",
+        "name": "冬季裝飾+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "beast": {
@@ -3726,6 +3733,7 @@
             "Fjorm - New Traditions",
             "Laegjarn - Burning Sun",
             "Lyn - Lady of the Beach",
+            "Seiðr - Candlelit Hope",
             "Veronica - Royal Reception",
             "Leo - Dark Sprout",
             "Chrom - Pivotal Blow"
@@ -4559,6 +4567,7 @@
             "Ylgr - Breaking the Ice",
             "Shez - Mercenary Shade",
             "Fogado - Summer of Bliss",
+            "Zelkov - Winter Shadow",
             "Valter - Dark Moonstone",
             "Chulainn - Unbeaten Warrior",
             "Kronya - Gleaming Blade",
@@ -5544,7 +5553,8 @@
             "Robin - Fated Vessel",
             "Gustav - Majestic Love",
             "Askr - Open Harvest",
-            "Níðhöggr - Daze of Healing"
+            "Níðhöggr - Daze of Healing",
+            "Alfred - Joyous Snowdrop"
           ]
         }
       },
@@ -5621,7 +5631,10 @@
       "rules": "dragon"
     },
     "Flame Wall": {
-      "pool": { "entwined": { "5": ["Ash - Borrowed Power"] } },
+      "pool": {
+        "entwined": { "5": ["Ash - Borrowed Power"] },
+        "special": { "5": ["Alfred - Joyous Snowdrop"] }
+      },
       "id": "Flame Wall",
       "name": "壁炎",
       "sp": 500,
@@ -5821,10 +5834,12 @@
             "Zephiel - Winter's Crown",
             "Céline - Teatime Ninja",
             "Felicia - Off the Menu",
-            "Heiðrún - Peaceful Horizon"
+            "Heiðrún - Peaceful Horizon",
+            "Gatekeeper - Midwinter Toil"
           ]
         },
-        "duo": { "5": ["Julia - Brides of Light"] }
+        "duo": { "5": ["Julia - Brides of Light"] },
+        "harmonized": { "5": ["Ivy - Flurry Embrace"] }
       },
       "id": "Glacies",
       "name": "冰華",
@@ -5887,8 +5902,11 @@
             "Alfaðör - Celestial King"
           ]
         },
-        "special": { "5": ["Heiðrún - Peaceful Horizon"] },
-        "duo": { "5": ["Julia - Brides of Light"] }
+        "special": {
+          "5": ["Heiðrún - Peaceful Horizon", "Gatekeeper - Midwinter Toil"]
+        },
+        "duo": { "5": ["Julia - Brides of Light"] },
+        "harmonized": { "5": ["Ivy - Flurry Embrace"] }
       },
       "id": "Ice Wall",
       "name": "冰牆",
@@ -6035,6 +6053,7 @@
           ]
         },
         "emblem": { "5": ["Sigurd - Of the Holy War"] },
+        "special": { "5": ["Seiðr - Candlelit Hope"] },
         "duo": { "5": ["Hapi - Eternal Sunlit Pair"] }
       },
       "id": "Blazing Light",
@@ -6895,6 +6914,7 @@
           "4": ["Leo - Festival Bonds"],
           "5": [
             "Veyle - Spring Tranquility",
+            "Seiðr - Candlelit Hope",
             "Ivy - Tidal Breeze",
             "Lilina - Beaming Bride",
             "Leo - Dark Sprout"
@@ -6928,7 +6948,13 @@
         "#": { "5": ["Veyle - Fell Successor"] },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
         "emblem": { "5": ["Micaiah - Of Dawn"] },
-        "special": { "5": ["Veyle - Spring Tranquility", "Leo - Dark Sprout"] },
+        "special": {
+          "5": [
+            "Veyle - Spring Tranquility",
+            "Seiðr - Candlelit Hope",
+            "Leo - Dark Sprout"
+          ]
+        },
         "duo": { "5": ["Heiðrún - Sisters of Healing"] }
       },
       "id": "Crystalline Water",
@@ -8775,7 +8801,9 @@
         },
         "grail": { "5": ["Jaffar - Angel of Night"] },
         "legendary": { "5": ["Myrrh - Guardian Dragon"] },
-        "special": { "5": ["Fae - Holiday Dear"] }
+        "special": {
+          "5": ["Fae - Holiday Dear", "Gatekeeper - Midwinter Toil"]
+        }
       },
       "id": "Def/Res Bond 3",
       "name": "防守魔防的羈絆3",
@@ -8864,6 +8892,14 @@
       "name": "攻擊魔防的詠唱",
       "sp": 300,
       "icon": "skillA/Atk_Res_Aria",
+      "rules": "tome"
+    },
+    "Def/Res Aria": {
+      "pool": { "special": { "5": ["Gatekeeper - Midwinter Toil"] } },
+      "id": "Def/Res Aria",
+      "name": "防守魔防的詠唱",
+      "sp": 300,
+      "icon": "skillA/Def_Res_Aria",
       "rules": "tome"
     },
     "Atk/Spd Push 3": {
@@ -10569,6 +10605,7 @@
             "Felix - Lone-Wolf Blade"
           ]
         },
+        "grail": { "5": ["Zelkov - Winter Shadow"] },
         "ascended": { "5": ["Fir - Swordmaiden"] },
         "rearmed": { "5": ["Sothe - Dawning Zephyr", "Leila - Superb Shadow"] },
         "emblem": { "5": ["Marth - Of Beginnings", "Lyn - Of Blazing"] },
@@ -12338,7 +12375,8 @@
             "Mark - Winds of Hope",
             "Sanaki - Dawnsworn Ninja"
           ]
-        }
+        },
+        "harmonized": { "5": ["Ivy - Flurry Embrace"] }
       },
       "id": "Sabotage Res 3",
       "name": "魔防擾亂3",
@@ -12432,7 +12470,10 @@
       "rules": "learner.infantry-flying"
     },
     "Spd/Res Havoc": {
-      "pool": { "attuned": { "5": ["Tharja - Gloomy Mage"] } },
+      "pool": {
+        "attuned": { "5": ["Tharja - Gloomy Mage"] },
+        "harmonized": { "5": ["Ivy - Flurry Embrace"] }
+      },
       "id": "Spd/Res Havoc",
       "name": "速度魔防大擾亂",
       "sp": 300,
@@ -13276,7 +13317,8 @@
           "3": ["Colm - Capable Thief", "Orochi - Merry Diviner"],
           "5": ["Camilla - Flower of Fantasy"]
         },
-        "grail": { "4": ["Titania - Warm Knight"] }
+        "grail": { "4": ["Titania - Warm Knight"] },
+        "special": { "5": ["Seiðr - Candlelit Hope"] }
       },
       "id": "Atk/Res Link 3",
       "name": "攻擊魔防連動3",
@@ -13338,6 +13380,14 @@
       "icon": "skillB/Def_Res_Link_3",
       "rules": "not.white-staff"
     },
+    "Atk/Spd Favor": {
+      "pool": { "special": { "5": ["Marth - Masked Gladiator"] } },
+      "id": "Atk/Spd Favor",
+      "name": "攻擊速度共鳴",
+      "sp": 300,
+      "icon": "skillB/Atk_Spd_Favor",
+      "rules": "not.white-staff"
+    },
     "Atk/Def Favor": {
       "pool": { "special": { "5": ["Chrom - Pivotal Blow"] } },
       "id": "Atk/Def Favor",
@@ -13346,12 +13396,12 @@
       "icon": "skillB/Atk_Def_Favor",
       "rules": "not.white-staff"
     },
-    "Atk/Spd Favor": {
-      "pool": { "special": { "5": ["Marth - Masked Gladiator"] } },
-      "id": "Atk/Spd Favor",
-      "name": "攻擊速度共鳴",
+    "Atk/Res Favor": {
+      "pool": { "special": { "5": ["Seiðr - Candlelit Hope"] } },
+      "id": "Atk/Res Favor",
+      "name": "攻擊魔防共鳴",
       "sp": 300,
-      "icon": "skillB/Atk_Spd_Favor",
+      "icon": "skillB/Atk_Res_Favor",
       "rules": "not.white-staff"
     },
     "Atk/Spd Snag 3": {
@@ -14622,6 +14672,7 @@
     "Spd/Def Tempo 3": {
       "pool": {
         "#": { "3": ["Shura - Righteous Rebel"] },
+        "grail": { "4": ["Zelkov - Winter Shadow"] },
         "attuned": { "5": ["Nino - Fang's Heart"] },
         "special": { "5": ["Clanne - Summer Fan", "Mia - Budding Blade"] },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
@@ -15140,7 +15191,10 @@
       "rules": "learner.infantry-flying-def-dmger"
     },
     "Pair Up 3": {
-      "pool": { "emblem": { "5": ["Corrin - Of Fates"] } },
+      "pool": {
+        "emblem": { "5": ["Corrin - Of Fates"] },
+        "special": { "5": ["Alfred - Joyous Snowdrop"] }
+      },
       "id": "Pair Up 3",
       "name": "防陣3",
       "sp": 240,
@@ -15148,7 +15202,10 @@
       "rules": "learner.infantry-armored"
     },
     "Pair Up 4": {
-      "pool": { "emblem": { "5": ["Corrin - Of Fates"] } },
+      "pool": {
+        "emblem": { "5": ["Corrin - Of Fates"] },
+        "special": { "5": ["Alfred - Joyous Snowdrop"] }
+      },
       "id": "Pair Up 4",
       "name": "防陣4",
       "sp": 300,
@@ -15954,7 +16011,8 @@
           "5": [
             "Sonya - Dazzling Rabbits",
             "Nephenee - Festival Harmony",
-            "Chloé - Spring Wings"
+            "Chloé - Spring Wings",
+            "Ivy - Flurry Embrace"
           ]
         }
       },
@@ -16087,6 +16145,14 @@
       "name": "速度魔防的十字牽制",
       "sp": 300,
       "icon": "skillC/Spd_Res_Crux",
+      "rules": "flying"
+    },
+    "S/R Crux: Ploy": {
+      "pool": { "harmonized": { "5": ["Ivy - Flurry Embrace"] } },
+      "id": "S/R Crux: Ploy",
+      "name": "速魔十牽制・謀策",
+      "sp": 300,
+      "icon": "skillC/S_R_Crux_Ploy",
       "rules": "flying"
     },
     "A/S Rein Snap": {
@@ -17383,17 +17449,6 @@
       "icon": "skillC/Pulse_Up_Ploy",
       "rules": "infantry"
     },
-    "Pulse On: Blades": {
-      "pool": {
-        "attuned": { "5": ["Alm - Powerful Resolve"] },
-        "duo": { "5": ["Freyja - Parallel Hearts"] }
-      },
-      "id": "Pulse On: Blades",
-      "name": "追擊之躍動・刃",
-      "sp": 300,
-      "icon": "skillC/Pulse_On_Blades",
-      "rules": "infantry"
-    },
     "Creation Pulse": {
       "pool": {
         "#": { "5": ["Robin - Exalt's Right Hand"] },
@@ -17414,6 +17469,14 @@
       "icon": "skillC/Time_Pulse_Edge",
       "rules": "infantry"
     },
+    "Time Pulse Arms": {
+      "pool": { "special": { "5": ["Chrom - Pivotal Blow"] } },
+      "id": "Time Pulse Arms",
+      "name": "初始之躍動・鎧",
+      "sp": 300,
+      "icon": "skillC/Time_Pulse_Arms",
+      "rules": "infantry"
+    },
     "Time Pulse Helm": {
       "pool": {
         "rearmed": { "5": ["Nuibaba - Mistress of Fear"] },
@@ -17431,6 +17494,17 @@
       "name": "初始之躍動・謀策",
       "sp": 300,
       "icon": "skillC/Preempt_Ploy",
+      "rules": "infantry"
+    },
+    "Pulse On: Blades": {
+      "pool": {
+        "attuned": { "5": ["Alm - Powerful Resolve"] },
+        "duo": { "5": ["Freyja - Parallel Hearts"] }
+      },
+      "id": "Pulse On: Blades",
+      "name": "追擊之躍動・刃",
+      "sp": 300,
+      "icon": "skillC/Pulse_On_Blades",
       "rules": "infantry"
     },
     "Infantry Pulse 3": {
@@ -17632,7 +17706,11 @@
         },
         "rearmed": { "5": ["Þjazi - Ruthless Jötun"] },
         "special": {
-          "5": ["Lucina - Future Fondness", "Ephraim - Ardent Prince"]
+          "5": [
+            "Lucina - Future Fondness",
+            "Ephraim - Ardent Prince",
+            "Alfred - Joyous Snowdrop"
+          ]
         }
       },
       "id": "A/D Near Save 2",
@@ -17652,7 +17730,11 @@
         },
         "rearmed": { "5": ["Þjazi - Ruthless Jötun"] },
         "special": {
-          "5": ["Lucina - Future Fondness", "Ephraim - Ardent Prince"]
+          "5": [
+            "Lucina - Future Fondness",
+            "Ephraim - Ardent Prince",
+            "Alfred - Joyous Snowdrop"
+          ]
         }
       },
       "id": "A/D Near Save 3",
@@ -17851,7 +17933,8 @@
           "5": [
             "Artur - Silver Saint",
             "Black Knight - The Night's Blade",
-            "Hector - Sworn Friend"
+            "Hector - Sworn Friend",
+            "Gatekeeper - Midwinter Toil"
           ]
         }
       },
@@ -17867,7 +17950,8 @@
           "5": [
             "Artur - Silver Saint",
             "Black Knight - The Night's Blade",
-            "Hector - Sworn Friend"
+            "Hector - Sworn Friend",
+            "Gatekeeper - Midwinter Toil"
           ]
         }
       },
@@ -17907,12 +17991,28 @@
       "icon": "skillC/A_R_Twin_F_Save",
       "rules": "armored"
     },
+    "D/R Twin F Save": {
+      "pool": { "special": { "5": ["Gatekeeper - Midwinter Toil"] } },
+      "id": "D/R Twin F Save",
+      "name": "盾之守護人・遠・雙",
+      "sp": 300,
+      "icon": "skillC/D_R_Twin_F_Save",
+      "rules": "armored"
+    },
     "A/D Briar P Save": {
       "pool": { "#": { "5": ["Eikþyrnir - Resolved to Train"] } },
       "id": "A/D Briar P Save",
       "name": "鎧之守護人・理・棘",
       "sp": 300,
       "icon": "skillC/A_D_Briar_P_Save",
+      "rules": "armored"
+    },
+    "S/D Twin P Save": {
+      "pool": { "special": { "5": ["Alfred - Joyous Snowdrop"] } },
+      "id": "S/D Twin P Save",
+      "name": "鞋之守護人・理・雙",
+      "sp": 300,
+      "icon": "skillC/S_D_Twin_P_Save",
       "rules": "armored"
     },
     "A/R Twin M Save": {
@@ -19124,6 +19224,22 @@
       "icon": "skillC/Lookout_Smog",
       "rules": "dagger"
     },
+    "Silence Ward 3": {
+      "pool": { "emblem": { "5": ["Micaiah - Of Dawn"] } },
+      "id": "Silence Ward 3",
+      "name": "沉默防禦3",
+      "sp": 240,
+      "icon": "skillC/Silence_Ward_3",
+      "rules": "learner.infantry-armored-flying-ranged-res-dmger"
+    },
+    "Silence Ward 4": {
+      "pool": { "emblem": { "5": ["Micaiah - Of Dawn"] } },
+      "id": "Silence Ward 4",
+      "name": "沉默防禦4",
+      "sp": 300,
+      "icon": "skillC/Silence_Ward_4",
+      "rules": "learner.infantry-armored-flying-ranged-res-dmger"
+    },
     "Sword Exp. 3": {
       "pool": { "#": { "3": ["Athena - Borderland Sword"] } },
       "id": "Sword Exp. 3",
@@ -19322,30 +19438,6 @@
       "sp": 120,
       "icon": "skillC/Beast_Valor_3",
       "rules": "beast"
-    },
-    "Silence Ward 3": {
-      "pool": { "emblem": { "5": ["Micaiah - Of Dawn"] } },
-      "id": "Silence Ward 3",
-      "name": "沉默防禦3",
-      "sp": 240,
-      "icon": "skillC/Silence_Ward_3",
-      "rules": "learner.infantry-armored-flying-ranged-res-dmger"
-    },
-    "Silence Ward 4": {
-      "pool": { "emblem": { "5": ["Micaiah - Of Dawn"] } },
-      "id": "Silence Ward 4",
-      "name": "沉默防禦4",
-      "sp": 300,
-      "icon": "skillC/Silence_Ward_4",
-      "rules": "learner.infantry-armored-flying-ranged-res-dmger"
-    },
-    "Time Pulse Arms": {
-      "pool": { "special": { "5": ["Chrom - Pivotal Blow"] } },
-      "id": "Time Pulse Arms",
-      "name": "初始之躍動・鎧",
-      "sp": 300,
-      "icon": "skillC/Time_Pulse_Arms",
-      "rules": "infantry"
     }
   },
   "skillX": {

@@ -4639,6 +4639,41 @@
     "ver": "8.0",
     "dfKey": 6
   },
+  "Seiðr - Candlelit Hope": {
+    "id": "Seiðr - Candlelit Hope",
+    "title": "照亮聖夜的希望",
+    "name": "塞慈",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2025-12-15",
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [45, 48, 51],
+        "spd": [26, 30, 33],
+        "def": [17, 20, 23],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 8,
+        "def": 5,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
+  },
   "Gullveig - Seer Beyond Time": {
     "id": "Gullveig - Seer Beyond Time",
     "title": "過去、現在、未來",
@@ -52226,7 +52261,7 @@
     "moveType": "armored",
     "pool": "grail",
     "appearsIn": ["Three Houses"],
-    "releaseDate": "2025-12-05",
+    "releaseDate": "2025-12-06",
     "stats": {
       "3": {
         "hp": [51, 54, 57],
@@ -53718,6 +53753,41 @@
     "book": 5,
     "ver": "5.8",
     "dfKey": 4
+  },
+  "Gatekeeper - Midwinter Toil": {
+    "id": "Gatekeeper - Midwinter Toil",
+    "title": "寒冬中的重要使命",
+    "name": "門衛",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "armored",
+    "pool": "special",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2025-12-15",
+    "stats": {
+      "5": {
+        "hp": [45, 48, 51],
+        "atk": [32, 35, 38],
+        "spd": [18, 21, 24],
+        "def": [44, 48, 51],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 22,
+        "atk": 7,
+        "spd": 4,
+        "def": 15,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["def"],
+    "statMin": 201,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
   },
   "Kronya - Gleaming Blade": {
     "id": "Kronya - Gleaming Blade",
@@ -55391,6 +55461,41 @@
     "ver": "7.1",
     "dfKey": 5
   },
+  "Alfred - Joyous Snowdrop": {
+    "id": "Alfred - Joyous Snowdrop",
+    "title": "冬季盛開的幸福之花",
+    "name": "阿爾弗雷德",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "armored",
+    "pool": "special",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2025-12-15",
+    "stats": {
+      "5": {
+        "hp": [47, 50, 53],
+        "atk": [46, 49, 53],
+        "spd": [43, 47, 50],
+        "def": [45, 48, 51],
+        "res": [15, 18, 21]
+      },
+      "5-1": {
+        "hp": 22,
+        "atk": 10,
+        "spd": 14,
+        "def": 13,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd"],
+    "statMin": 212,
+    "statMax": 215,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
+  },
   "Etie - Fitness Fighter": {
     "id": "Etie - Fitness Fighter",
     "title": "鐵腕大小姐",
@@ -56066,6 +56171,90 @@
     "book": 8,
     "ver": "8.2",
     "dfKey": 6
+  },
+  "Ivy - Flurry Embrace": {
+    "id": "Ivy - Flurry Embrace",
+    "title": "擁抱冬季雪夜的公主",
+    "name": "艾比",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-tome",
+    "moveType": "flying",
+    "pool": "harmonized",
+    "appearsIn": ["Fates", "Engage"],
+    "releaseDate": "2025-12-15",
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [46, 49, 53],
+        "spd": [31, 34, 37],
+        "def": [16, 19, 22],
+        "res": [45, 48, 51]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 8,
+        "def": 4,
+        "res": 13
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
+  },
+  "Zelkov - Winter Shadow": {
+    "id": "Zelkov - Winter Shadow",
+    "title": "冬祭的雪影",
+    "name": "傑爾科巴",
+    "rarity": [5, 4],
+    "colorType": "white",
+    "weaponType": "white-dagger",
+    "moveType": "infantry",
+    "pool": "grail",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2025-12-15",
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [38, 42, 45],
+        "spd": [44, 47, 50],
+        "def": [33, 37, 40],
+        "res": [21, 24, 27]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [40, 44, 47],
+        "spd": [46, 49, 53],
+        "def": [36, 40, 43],
+        "res": [23, 26, 29]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 10,
+        "def": 6,
+        "res": 8
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 7,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
   },
   "Kagetsu - Onigiri Samurai": {
     "id": "Kagetsu - Onigiri Samurai",

@@ -939,6 +939,14 @@
     "icon": "skillB/Glacial_Seal",
     "last": true
   },
+  "Festive Report": {
+    "id": "Festive Report",
+    "name": "辛苦了!",
+    "sp": 400,
+    "exclusive": ["Gatekeeper - Midwinter Toil"],
+    "icon": "skillB/Festive_Report",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -3629,6 +3637,15 @@
     "icon": "skillB/Def_Res_Link_3",
     "last": true
   },
+  "Atk/Spd Favor": {
+    "id": "Atk/Spd Favor",
+    "name": "攻擊速度共鳴",
+    "sp": 300,
+    "rules": "not.white-staff",
+    "prev": ["Atk/Spd Link 3"],
+    "icon": "skillB/Atk_Spd_Favor",
+    "last": true
+  },
   "Atk/Def Favor": {
     "id": "Atk/Def Favor",
     "name": "攻擊防守共鳴",
@@ -3638,13 +3655,13 @@
     "icon": "skillB/Atk_Def_Favor",
     "last": true
   },
-  "Atk/Spd Favor": {
-    "id": "Atk/Spd Favor",
-    "name": "攻擊速度共鳴",
+  "Atk/Res Favor": {
+    "id": "Atk/Res Favor",
+    "name": "攻擊魔防共鳴",
     "sp": 300,
     "rules": "not.white-staff",
-    "prev": ["Atk/Spd Link 3"],
-    "icon": "skillB/Atk_Spd_Favor",
+    "prev": ["Atk/Res Link 3"],
+    "icon": "skillB/Atk_Res_Favor",
     "last": true
   },
   "Atk/Spd Snag 1": {

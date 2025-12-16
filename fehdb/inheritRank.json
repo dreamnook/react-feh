@@ -6279,6 +6279,19 @@
     "skillA": { "Spd/Def Finish 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Shield Pulse 3": { "sp": 240, "rarity": 5 } }
   },
+  "Zelkov - Winter Shadow": {
+    "score": 299,
+    "scoreTotal": 665,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 199,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Finish 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Def Tempo 3": { "sp": 240, "rarity": 4 } }
+  },
   "Vigarde - Warmhearted Sire": {
     "score": 299,
     "scoreTotal": 665,
@@ -15296,6 +15309,20 @@
     "skillB": { "High Dragon Wall": { "sp": 400, "rarity": 5 } },
     "skillC": { "Atk/Res Ploy 3": { "sp": 300, "rarity": 5 } }
   },
+  "Seiðr - Candlelit Hope": {
+    "score": 318,
+    "scoreTotal": 1113,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1050,
+    "feather": 1000,
+    "bst": 185,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Blazing Light": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Favor": { "sp": 300, "rarity": 5 } }
+  },
   "Tanith - Forthright Heart": {
     "score": 424,
     "scoreTotal": 1145,
@@ -15808,6 +15835,19 @@
     "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
     "skillB": { "S/R Lull Finish": { "sp": 300, "rarity": 5 } }
   },
+  "Ivy - Flurry Embrace": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Spd/Res Havoc": { "sp": 300, "rarity": 5 } },
+    "skillC": { "S/R Crux: Ploy": { "sp": 300, "rarity": 5 } }
+  },
   "Seliph - Light's Legacy": {
     "score": 530,
     "scoreTotal": 1166,
@@ -16003,6 +16043,19 @@
     "skillA": { "Atk/Def Prime 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Def/Res Ploy 3": { "sp": 300, "rarity": 5 } }
   },
+  "Gatekeeper - Midwinter Toil": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 201,
+    "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Def/Res Aria": { "sp": 300, "rarity": 5 } },
+    "skillC": { "D/R Twin F Save": { "sp": 300, "rarity": 5 } }
+  },
   "Sharena - Pillars of Peace": {
     "score": 530,
     "scoreTotal": 1166,
@@ -16054,6 +16107,19 @@
     "special": { "Armored Blaze": { "sp": 500, "rarity": 5 } },
     "skillA": { "Sly Sturdy Blow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Assault Rush": { "sp": 300, "rarity": 5 } }
+  },
+  "Alfred - Joyous Snowdrop": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 212,
+    "special": { "Flame Wall": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Pair Up 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "S/D Twin P Save": { "sp": 300, "rarity": 5 } }
   },
   "Julia - Brides of Light": {
     "score": 530,

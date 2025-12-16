@@ -8674,6 +8674,16 @@
       },
       "last": true
     },
+    "Snow-Fit Lance": {
+      "id": "Snow-Fit Lance",
+      "name": "馳騁雪原的鍛鍊之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Alfred - Joyous Snowdrop"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -21548,6 +21558,39 @@
         }
       },
       "last": true
+    },
+    "Winter Trinket": {
+      "id": "Winter Trinket",
+      "name": "冬季裝飾",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Dagger"]
+    },
+    "Winter Trinket+": {
+      "id": "Winter Trinket+",
+      "name": "冬季裝飾+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Winter Trinket"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "beast": {
@@ -24667,6 +24710,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Cozy Candles": {
+      "id": "Cozy Candles",
+      "name": "兩位艷麗姊姊的燭台",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Fenrir"],
+      "exclusive": ["Ivy - Flurry Embrace"],
       "last": true
     },
     "Arcane Eclipse": {
@@ -29670,6 +29723,16 @@
       "exclusive": ["Váli - God of Vengeance"],
       "last": true
     },
+    "Winter Star": {
+      "id": "Winter Star",
+      "name": "照亮冬夜的希望之星",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Seiðr - Candlelit Hope"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",
@@ -31200,6 +31263,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Gullveig - Hidden in Time"],
+      "last": true
+    },
+    "Oliphant Calling": {
+      "id": "Oliphant Calling",
+      "name": "宣告聖夜的號角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Gatekeeper - Midwinter Toil"],
       "last": true
     },
     "Stone": {

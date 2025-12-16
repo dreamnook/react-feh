@@ -773,6 +773,14 @@
     "icon": "skillC/Covetous_One",
     "last": true
   },
+  "Future-Guided": {
+    "id": "Future-Guided",
+    "name": "一同指引未來",
+    "sp": 300,
+    "exclusive": ["Seiðr - Candlelit Hope"],
+    "icon": "skillC/Future-Guided",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -1545,6 +1553,16 @@
     "rules": "flying",
     "prev": ["Spd/Res Rein 3"],
     "icon": "skillC/Spd_Res_Crux",
+    "last": true
+  },
+  "S/R Crux: Ploy": {
+    "id": "S/R Crux: Ploy",
+    "name": "速魔十牽制・謀策",
+    "sp": 300,
+    "atk": 14,
+    "rules": "flying",
+    "prev": ["Spd/Res Rein 3"],
+    "icon": "skillC/S_R_Crux_Ploy",
     "last": true
   },
   "A/S Rein Snap": {
@@ -2629,15 +2647,6 @@
     "icon": "skillC/Pulse_Up_Ploy",
     "last": true
   },
-  "Pulse On: Blades": {
-    "id": "Pulse On: Blades",
-    "name": "追擊之躍動・刃",
-    "sp": 300,
-    "rules": "infantry",
-    "prev": ["Time's Pulse 3"],
-    "icon": "skillC/Pulse_On_Blades",
-    "last": true
-  },
   "Creation Pulse": {
     "id": "Creation Pulse",
     "name": "開闢之躍動",
@@ -2656,6 +2665,15 @@
     "icon": "skillC/Time_Pulse_Edge",
     "last": true
   },
+  "Time Pulse Arms": {
+    "id": "Time Pulse Arms",
+    "name": "初始之躍動・鎧",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Time's Pulse 3"],
+    "icon": "skillC/Time_Pulse_Arms",
+    "last": true
+  },
   "Time Pulse Helm": {
     "id": "Time Pulse Helm",
     "name": "初始之躍動・冑",
@@ -2672,6 +2690,15 @@
     "rules": "infantry",
     "prev": ["Time's Pulse 3"],
     "icon": "skillC/Preempt_Ploy",
+    "last": true
+  },
+  "Pulse On: Blades": {
+    "id": "Pulse On: Blades",
+    "name": "追擊之躍動・刃",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Time's Pulse 3"],
+    "icon": "skillC/Pulse_On_Blades",
     "last": true
   },
   "Infantry Pulse 1": {
@@ -3148,6 +3175,15 @@
     "icon": "skillC/A_R_Twin_F_Save",
     "last": true
   },
+  "D/R Twin F Save": {
+    "id": "D/R Twin F Save",
+    "name": "盾之守護人・遠・雙",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["D/R Far Save 3"],
+    "icon": "skillC/D_R_Twin_F_Save",
+    "last": true
+  },
   "A/D Briar P Save": {
     "id": "A/D Briar P Save",
     "name": "鎧之守護人・理・棘",
@@ -3155,6 +3191,15 @@
     "rules": "armored",
     "prev": ["A/D Near Save 3", "A/D Far Save 3"],
     "icon": "skillC/A_D_Briar_P_Save",
+    "last": true
+  },
+  "S/D Twin P Save": {
+    "id": "S/D Twin P Save",
+    "name": "鞋之守護人・理・雙",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["A/D Near Save 3", "A/D Far Save 3"],
+    "icon": "skillC/S_D_Twin_P_Save",
     "last": true
   },
   "A/R Twin M Save": {
@@ -4612,6 +4657,39 @@
     "icon": "skillC/Lookout_Smog",
     "last": true
   },
+  "Silence Ward 1": {
+    "id": "Silence Ward 1",
+    "name": "沉默防禦1",
+    "sp": 60,
+    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
+    "icon": "skillC/Silence_Ward_1"
+  },
+  "Silence Ward 2": {
+    "id": "Silence Ward 2",
+    "name": "沉默防禦2",
+    "sp": 120,
+    "prev": ["Silence Ward 1"],
+    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
+    "icon": "skillC/Silence_Ward_2"
+  },
+  "Silence Ward 3": {
+    "id": "Silence Ward 3",
+    "name": "沉默防禦3",
+    "sp": 240,
+    "prev": ["Silence Ward 2"],
+    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
+    "icon": "skillC/Silence_Ward_3",
+    "last": true
+  },
+  "Silence Ward 4": {
+    "id": "Silence Ward 4",
+    "name": "沉默防禦4",
+    "sp": 300,
+    "prev": ["Silence Ward 3"],
+    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
+    "icon": "skillC/Silence_Ward_4",
+    "last": true
+  },
   "Sword Exp. 1": {
     "id": "Sword Exp. 1",
     "name": "劍之經驗1",
@@ -5138,48 +5216,6 @@
     "prev": ["Beast Valor 2"],
     "rules": "beast",
     "icon": "skillC/Beast_Valor_3",
-    "last": true
-  },
-  "Silence Ward 1": {
-    "id": "Silence Ward 1",
-    "name": "沉默防禦1",
-    "sp": 60,
-    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
-    "icon": "skillC/Silence_Ward_1"
-  },
-  "Silence Ward 2": {
-    "id": "Silence Ward 2",
-    "name": "沉默防禦2",
-    "sp": 120,
-    "prev": ["Silence Ward 1"],
-    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
-    "icon": "skillC/Silence_Ward_2"
-  },
-  "Silence Ward 3": {
-    "id": "Silence Ward 3",
-    "name": "沉默防禦3",
-    "sp": 240,
-    "prev": ["Silence Ward 2"],
-    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
-    "icon": "skillC/Silence_Ward_3",
-    "last": true
-  },
-  "Silence Ward 4": {
-    "id": "Silence Ward 4",
-    "name": "沉默防禦4",
-    "sp": 300,
-    "prev": ["Silence Ward 3"],
-    "rules": "learner.infantry-armored-flying-ranged-res-dmger",
-    "icon": "skillC/Silence_Ward_4",
-    "last": true
-  },
-  "Time Pulse Arms": {
-    "id": "Time Pulse Arms",
-    "name": "初始之躍動・鎧",
-    "sp": 300,
-    "rules": "infantry",
-    "prev": ["Time's Pulse 3"],
-    "icon": "skillC/Time_Pulse_Arms",
     "last": true
   }
 }
