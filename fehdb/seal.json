@@ -2277,6 +2277,30 @@
       "icon": "skillA/Spd_Res_Finish_3",
       "last": true
     },
+    "Def/Res Finish 1": {
+      "id": "Def/Res Finish 1",
+      "name": "防守魔防的奧秘1",
+      "sp": 60,
+      "rules": "infantry",
+      "icon": "skillA/Def_Res_Finish_1"
+    },
+    "Def/Res Finish 2": {
+      "id": "Def/Res Finish 2",
+      "name": "防守魔防的奧秘2",
+      "sp": 120,
+      "prev": ["Def/Res Finish 1"],
+      "rules": "infantry",
+      "icon": "skillA/Def_Res_Finish_2"
+    },
+    "Def/Res Finish 3": {
+      "id": "Def/Res Finish 3",
+      "name": "防守魔防的奧秘3",
+      "sp": 240,
+      "prev": ["Def/Res Finish 2"],
+      "rules": "infantry",
+      "icon": "skillA/Def_Res_Finish_3",
+      "last": true
+    },
     "Atk/Spd Prime 1": {
       "id": "Atk/Spd Prime 1",
       "name": "攻擊速度的準備1",
@@ -3387,6 +3411,30 @@
       "prev": ["Counter Roar 2"],
       "rules": "learner.dragon-beast",
       "icon": "skillB/Counter_Roar_3",
+      "last": true
+    },
+    "Potent 1": {
+      "id": "Potent 1",
+      "name": "神速1",
+      "sp": 60,
+      "rules": "learner.infantry-cavalry-flying-melee-def-dmger",
+      "icon": "skillB/Potent_1"
+    },
+    "Potent 2": {
+      "id": "Potent 2",
+      "name": "神速2",
+      "sp": 120,
+      "prev": ["Potent 1"],
+      "rules": "learner.infantry-cavalry-flying-melee-def-dmger",
+      "icon": "skillB/Potent_2"
+    },
+    "Potent 3": {
+      "id": "Potent 3",
+      "name": "神速3",
+      "sp": 240,
+      "prev": ["Potent 2"],
+      "rules": "learner.infantry-cavalry-flying-melee-def-dmger",
+      "icon": "skillB/Potent_3",
       "last": true
     }
   },
