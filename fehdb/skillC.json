@@ -1559,7 +1559,6 @@
     "id": "S/R Crux: Ploy",
     "name": "速魔十牽制・謀策",
     "sp": 300,
-    "atk": 14,
     "rules": "flying",
     "prev": ["Spd/Res Rein 3"],
     "icon": "skillC/S_R_Crux_Ploy",
