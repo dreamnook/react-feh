@@ -1769,6 +1769,13 @@
         "name": "巳年之弓+",
         "sp": 300,
         "refine": 350
+      },
+      "Horse Bow+": {
+        "pool": { "special": { "5": ["Sedgar - Festive Horseman"] } },
+        "id": "Horse Bow+",
+        "name": "午年之弓+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "dagger": {
@@ -3730,6 +3737,7 @@
             "Robin - Seaside Tactician",
             "Nowi - Eternal Witch",
             "Marisa - Crimson Rabbit",
+            "Sedgar - Festive Horseman",
             "Fjorm - New Traditions",
             "Laegjarn - Burning Sun",
             "Lyn - Lady of the Beach",
@@ -5281,7 +5289,7 @@
             "Yunaka - Stealthy Imitator"
           ]
         },
-        "duo": { "5": ["Corrin - Young Kinship"] },
+        "duo": { "5": ["Corrin - Young Kinship", "Baldr - New Year's Elite"] },
         "harmonized": { "5": ["Lyn - Glitters of Hope"] }
       },
       "id": "Dragon Fang",
@@ -5350,6 +5358,7 @@
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Diamant - Fortified King"] },
         "special": { "5": ["Yunaka - Stealthy Imitator"] },
+        "duo": { "5": ["Baldr - New Year's Elite"] },
         "harmonized": { "5": ["Lyn - Glitters of Hope"] }
       },
       "id": "Archrival",
@@ -5526,6 +5535,7 @@
         "attuned": {
           "5": ["Timerra - Desert Warrior", "Tiki - Dragon's Progeny"]
         },
+        "emblem": { "5": ["Edelgard - Of Rivals"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
         "entwined": { "5": ["Ash - Borrowed Power"] },
         "legendary": {
@@ -5834,6 +5844,7 @@
             "Zephiel - Winter's Crown",
             "Céline - Teatime Ninja",
             "Felicia - Off the Menu",
+            "Heimdallr - New Year's Vision",
             "Heiðrún - Peaceful Horizon",
             "Gatekeeper - Midwinter Toil"
           ]
@@ -5903,7 +5914,11 @@
           ]
         },
         "special": {
-          "5": ["Heiðrún - Peaceful Horizon", "Gatekeeper - Midwinter Toil"]
+          "5": [
+            "Heimdallr - New Year's Vision",
+            "Heiðrún - Peaceful Horizon",
+            "Gatekeeper - Midwinter Toil"
+          ]
         },
         "duo": { "5": ["Julia - Brides of Light"] },
         "harmonized": { "5": ["Ivy - Flurry Embrace"] }
@@ -6207,7 +6222,8 @@
             "Flayn - Silly Kitty-Cat",
             "Hortensia - Winter's Dearest",
             "Emmeryn - Selfless Exalt",
-            "Laevatein - Ninja of Múspell"
+            "Laevatein - Ninja of Múspell",
+            "Váli - Devoted Sister"
           ]
         },
         "duo": { "5": ["Elise - Sweetheart Royals"] },
@@ -8645,7 +8661,8 @@
             "Hinoka - Relaxed Warrior",
             "Tharja - Obsessive Bride",
             "Lyn - Wind's Embrace",
-            "Fjorm - New Traditions"
+            "Fjorm - New Traditions",
+            "Váli - Devoted Sister"
           ]
         },
         "duo": { "5": ["Peony - Álfar Dream Duo", "Freyja - Parallel Hearts"] },
@@ -8729,6 +8746,7 @@
             "Takumi - Prince of Soup",
             "Micaiah - Summer's Dawn",
             "Rhea - Witch of Creation",
+            "Heimdallr - New Year's Vision",
             "Soren - Addled Strategist"
           ]
         },
@@ -8874,6 +8892,7 @@
       "pool": {
         "#": { "5": ["Sharena - Hopeful Princess"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
+        "special": { "5": ["Váli - Devoted Sister"] },
         "duo": { "5": ["Freyja - Parallel Hearts"] }
       },
       "id": "Atk/Spd Aria",
@@ -8886,7 +8905,8 @@
       "pool": {
         "mythic": {
           "5": ["Heimdallr - God of Foresight", "Alfaðör - Celestial King"]
-        }
+        },
+        "special": { "5": ["Heimdallr - New Year's Vision"] }
       },
       "id": "Atk/Res Aria",
       "name": "攻擊魔防的詠唱",
@@ -9955,6 +9975,7 @@
           ],
           "5": [
             "Hortensia - Winter's Dearest",
+            "Sedgar - Festive Horseman",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
             "Delthea - Prodigy in Bloom",
@@ -11011,6 +11032,20 @@
       "sp": 300,
       "icon": "skillA/Blue_Skies_4",
       "rules": "learner.wielderCavalryFlying"
+    },
+    "Strat Flame 3": {
+      "pool": { "emblem": { "5": ["Edelgard - Of Rivals"] } },
+      "id": "Strat Flame 3",
+      "name": "計策・猛火計3",
+      "sp": 240,
+      "icon": "skillA/Strat_Flame_3"
+    },
+    "Strat Flame 4": {
+      "pool": { "emblem": { "5": ["Edelgard - Of Rivals"] } },
+      "id": "Strat Flame 4",
+      "name": "計策・猛火計4",
+      "sp": 300,
+      "icon": "skillA/Strat_Flame_4"
     }
   },
   "skillB": {
@@ -11297,6 +11332,7 @@
         },
         "grail": { "5": ["Leo - Extra Tomatoes"] },
         "rearmed": { "5": ["Ganglöt - Death Anew"] },
+        "emblem": { "5": ["Edelgard - Of Rivals"] },
         "special": {
           "5": [
             "Xander - Dancing Knight",
@@ -11319,7 +11355,10 @@
       "icon": "skillB/Quick_Riposte_4"
     },
     "Patience": {
-      "pool": { "harmonized": { "5": ["Ike - Zealous Inheritors"] } },
+      "pool": {
+        "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "harmonized": { "5": ["Ike - Zealous Inheritors"] }
+      },
       "id": "Patience",
       "name": "後發先至",
       "sp": 400,
@@ -12210,7 +12249,9 @@
           "5": ["Sharena - Hopeful Princess"]
         },
         "mythic": { "5": ["Váli - God of Vengeance"] },
-        "special": { "5": ["Ursula - Royal-Blue Crow"] },
+        "special": {
+          "5": ["Ursula - Royal-Blue Crow", "Váli - Devoted Sister"]
+        },
         "duo": { "5": ["Byleth - Fell Star's Duo"] }
       },
       "id": "Chill Spd/Res 2",
@@ -12251,7 +12292,8 @@
     "Spd/Res Shackle": {
       "pool": {
         "#": { "5": ["Sharena - Hopeful Princess"] },
-        "mythic": { "5": ["Váli - God of Vengeance"] }
+        "mythic": { "5": ["Váli - God of Vengeance"] },
+        "special": { "5": ["Váli - Devoted Sister"] }
       },
       "id": "Spd/Res Shackle",
       "name": "速度魔防枷鎖",
@@ -12866,7 +12908,8 @@
             "Quan - Lightfoot Prince",
             "Laegjarn - Burning Sun"
           ]
-        }
+        },
+        "duo": { "5": ["Baldr - New Year's Elite"] }
       },
       "id": "Flier Formation 3",
       "name": "編隊飛行3",
@@ -12903,6 +12946,14 @@
       "sp": 300,
       "icon": "skillB/Air_Superiority",
       "rules": "learner.flying-melee"
+    },
+    "Heavenly Soar": {
+      "pool": { "duo": { "5": ["Baldr - New Year's Elite"] } },
+      "id": "Heavenly Soar",
+      "name": "飛舞天際",
+      "sp": 400,
+      "icon": "skillB/Heavenly_Soar",
+      "rules": "learner.wielderFlying"
     },
     "Pegasus Flight 3": {
       "pool": {
@@ -13453,6 +13504,7 @@
         "#": { "3": ["Kent - Crimson Shield"] },
         "grail": { "4": ["Deen - Bladed Sandstorm", "Finn - Devoted Service"] },
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
+        "special": { "5": ["Sedgar - Festive Horseman"] },
         "duo": { "5": ["Lucina - Shadows of Fate"] },
         "harmonized": { "5": ["Mia - Harmonic Blades"] }
       },
@@ -13505,7 +13557,10 @@
       "rules": "learner.cavalry-flying-not-staff"
     },
     "Spd/Def Detect": {
-      "pool": { "duo": { "5": ["Lucina - Shadows of Fate"] } },
+      "pool": {
+        "special": { "5": ["Sedgar - Festive Horseman"] },
+        "duo": { "5": ["Lucina - Shadows of Fate"] }
+      },
       "id": "Spd/Def Detect",
       "name": "速度防守的看破",
       "sp": 300,
@@ -15365,7 +15420,8 @@
     "Spur Atk/Spd 2": {
       "pool": {
         "#": { "3": ["Sothe - Zephyr", "Ricken - Shepherd Novice"] },
-        "mythic": { "5": ["Váli - God of Vengeance"] }
+        "mythic": { "5": ["Váli - God of Vengeance"] },
+        "special": { "5": ["Váli - Devoted Sister"] }
       },
       "id": "Spur Atk/Spd 2",
       "name": "攻擊速度紋章2",
@@ -15653,6 +15709,13 @@
       "sp": 300,
       "icon": "skillC/Null_Uplift_A_S",
       "rules": "flying"
+    },
+    "Uplift Imbue A/S": {
+      "pool": { "special": { "5": ["Váli - Devoted Sister"] } },
+      "id": "Uplift Imbue A/S",
+      "name": "攻速十紋章・治癒",
+      "sp": 300,
+      "icon": "skillC/Uplift_Imbue_A_S"
     },
     "Close Guard 3": {
       "pool": {
@@ -18432,7 +18495,7 @@
         "#": { "3": ["Elice - Altean Princess"] },
         "special": {
           "4": ["Ilyana - Awakened Appetite"],
-          "5": ["Ilyana - Treat Harvester"]
+          "5": ["Ilyana - Treat Harvester", "Heimdallr - New Year's Vision"]
         }
       },
       "id": "Atk/Res Gap 3",
@@ -18472,6 +18535,14 @@
       "name": "防守魔防大開放3",
       "sp": 240,
       "icon": "skillC/Def_Res_Gap_3"
+    },
+    "Atk/Res Liberate": {
+      "pool": { "special": { "5": ["Heimdallr - New Year's Vision"] } },
+      "id": "Atk/Res Liberate",
+      "name": "攻擊魔防解放",
+      "sp": 300,
+      "icon": "skillC/Atk_Res_Liberate",
+      "rules": "cavalry"
     },
     "Rouse Atk/Spd 3": {
       "pool": {
@@ -19167,7 +19238,7 @@
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
         "special": { "5": ["Dimitri - Stargazing Lion"] },
-        "duo": { "5": ["Lucina - Shadows of Fate"] }
+        "duo": { "5": ["Baldr - New Year's Elite", "Lucina - Shadows of Fate"] }
       },
       "id": "Shadow Shift 3",
       "name": "影助・帶回3",
@@ -19180,7 +19251,7 @@
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
         "special": { "5": ["Dimitri - Stargazing Lion"] },
-        "duo": { "5": ["Lucina - Shadows of Fate"] }
+        "duo": { "5": ["Baldr - New Year's Elite", "Lucina - Shadows of Fate"] }
       },
       "id": "Shadow Shift 4",
       "name": "影助・帶回4",
@@ -19239,6 +19310,22 @@
       "sp": 300,
       "icon": "skillC/Silence_Ward_4",
       "rules": "learner.infantry-armored-flying-ranged-res-dmger"
+    },
+    "Strat Assault 3": {
+      "pool": { "emblem": { "5": ["Edelgard - Of Rivals"] } },
+      "id": "Strat Assault 3",
+      "name": "計策・一齊突擊3",
+      "sp": 240,
+      "icon": "skillC/Strat_Assault_3",
+      "rules": "learner.armored-flying"
+    },
+    "Strat Assault 4": {
+      "pool": { "emblem": { "5": ["Edelgard - Of Rivals"] } },
+      "id": "Strat Assault 4",
+      "name": "計策・一齊突擊4",
+      "sp": 300,
+      "icon": "skillC/Strat_Assault_4",
+      "rules": "learner.armored-flying"
     },
     "Sword Exp. 3": {
       "pool": { "#": { "3": ["Athena - Borderland Sword"] } },

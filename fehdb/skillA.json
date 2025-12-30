@@ -484,6 +484,14 @@
     "icon": "skillA/Tunnel_Vision",
     "last": true
   },
+  "Heaven's Stead N": {
+    "id": "Heaven's Stead N",
+    "name": "替天行道・近",
+    "sp": 300,
+    "exclusive": ["Baldr - New Year's Elite"],
+    "icon": "skillA/Heaven's_Stead_N",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -5207,6 +5215,35 @@
     "prev": ["Blue Skies 3"],
     "rules": "learner.wielderCavalryFlying",
     "icon": "skillA/Blue_Skies_4",
+    "last": true
+  },
+  "Strat Flame 1": {
+    "id": "Strat Flame 1",
+    "name": "計策・猛火計1",
+    "sp": 60,
+    "icon": "skillA/Strat_Flame_1"
+  },
+  "Strat Flame 2": {
+    "id": "Strat Flame 2",
+    "name": "計策・猛火計2",
+    "sp": 120,
+    "prev": ["Strat Flame 1"],
+    "icon": "skillA/Strat_Flame_2"
+  },
+  "Strat Flame 3": {
+    "id": "Strat Flame 3",
+    "name": "計策・猛火計3",
+    "sp": 240,
+    "prev": ["Strat Flame 2"],
+    "icon": "skillA/Strat_Flame_3",
+    "last": true
+  },
+  "Strat Flame 4": {
+    "id": "Strat Flame 4",
+    "name": "計策・猛火計4",
+    "sp": 300,
+    "prev": ["Strat Flame 3"],
+    "icon": "skillA/Strat_Flame_4",
     "last": true
   }
 }

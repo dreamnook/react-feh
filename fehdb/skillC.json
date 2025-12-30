@@ -1137,6 +1137,15 @@
     "icon": "skillC/Null_Uplift_A_S",
     "last": true
   },
+  "Uplift Imbue A/S": {
+    "id": "Uplift Imbue A/S",
+    "name": "攻速十紋章・治癒",
+    "sp": 300,
+    "rule": "flying",
+    "prev": ["Spur Atk/Spd 2"],
+    "icon": "skillC/Uplift_Imbue_A_S",
+    "last": true
+  },
   "Close Guard 1": {
     "id": "Close Guard 1",
     "name": "近距離警戒1",
@@ -3751,6 +3760,14 @@
     "icon": "skillC/Def_Res_Gap_3",
     "last": true
   },
+  "Atk/Res Liberate": {
+    "id": "Atk/Res Liberate",
+    "name": "攻擊魔防解放",
+    "sp": 300,
+    "rules": "cavalry",
+    "icon": "skillC/Atk_Res_Liberate",
+    "last": true
+  },
   "Rouse Atk/Spd 1": {
     "id": "Rouse Atk/Spd 1",
     "name": "攻擊速度的奮起1",
@@ -4687,6 +4704,39 @@
     "prev": ["Silence Ward 3"],
     "rules": "learner.infantry-armored-flying-ranged-res-dmger",
     "icon": "skillC/Silence_Ward_4",
+    "last": true
+  },
+  "Strat Assault 1": {
+    "id": "Strat Assault 1",
+    "name": "計策・一齊突擊1",
+    "sp": 60,
+    "rules": "learner.armored-flying",
+    "icon": "skillC/Strat_Assault_1"
+  },
+  "Strat Assault 2": {
+    "id": "Strat Assault 2",
+    "name": "計策・一齊突擊2",
+    "sp": 120,
+    "prev": ["Strat Assault 1"],
+    "rules": "learner.armored-flying",
+    "icon": "skillC/Strat_Assault_2"
+  },
+  "Strat Assault 3": {
+    "id": "Strat Assault 3",
+    "name": "計策・一齊突擊3",
+    "sp": 240,
+    "prev": ["Strat Assault 2"],
+    "rules": "learner.armored-flying",
+    "icon": "skillC/Strat_Assault_3",
+    "last": true
+  },
+  "Strat Assault 4": {
+    "id": "Strat Assault 4",
+    "name": "計策・一齊突擊4",
+    "sp": 300,
+    "prev": ["Strat Assault 3"],
+    "rules": "learner.armored-flying",
+    "icon": "skillC/Strat_Assault_4",
     "last": true
   },
   "Sword Exp. 1": {

@@ -4158,6 +4158,34 @@
       "Deadly Miasma": 5
     }
   },
+  "Baldr - New Year's Elite": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Godly Devices": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Heaven's Stead N": 5
+    },
+    "skillB": {
+      "Flier Formation 1": 2,
+      "Flier Formation 2": 3,
+      "Flier Formation 3": 4,
+      "Heavenly Soar": 5
+    },
+    "skillC": {
+      "Shadow Shift 1": 2,
+      "Shadow Shift 2": 3,
+      "Shadow Shift 3": 4,
+      "Shadow Shift 4": 5
+    }
+  },
   "Höðr - Dusk Shadow God": {
     "weapon": {
       "Iron Bow": 1,
@@ -4216,6 +4244,36 @@
       "Null Uplift A/S": 5
     }
   },
+  "Váli - Devoted Sister": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bolganone": 4,
+      "Sister Hagoita": 5
+    },
+    "special": {
+      "Miracle": 4,
+      "Invincible Sister": 5
+    },
+    "skillA": {
+      "Atk/Spd Bond 1": 2,
+      "Atk/Spd Bond 2": 3,
+      "Atk/Spd Bond 3": 4,
+      "Atk/Spd Aria": 5
+    },
+    "skillB": {
+      "Chill Res 1": 2,
+      "Chill Spd/Res 1": 3,
+      "Chill Spd/Res 2": 4,
+      "Spd/Res Shackle": 5
+    },
+    "skillC": {
+      "Spur Spd 1": 2,
+      "Spur Atk/Spd 1": 3,
+      "Spur Atk/Spd 2": 4,
+      "Uplift Imbue A/S": 5
+    }
+  },
   "Heimdallr - God of Foresight": {
     "weapon": {
       "Light": 1,
@@ -4242,6 +4300,34 @@
       "Fortify Res 2": 3,
       "Fortify Res 3": 4,
       "A/R Hone Assault": 5
+    }
+  },
+  "Heimdallr - New Year's Vision": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "New Year's Fan": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4,
+      "Ice Wall": 5
+    },
+    "skillA": {
+      "Atk/Res Bond 1": 2,
+      "Atk/Res Bond 2": 3,
+      "Atk/Res Bond 3": 4,
+      "Atk/Res Aria": 5
+    },
+    "skillB": {
+      "An Open Book": 5
+    },
+    "skillC": {
+      "Atk/Res Gap 1": 2,
+      "Atk/Res Gap 2": 3,
+      "Atk/Res Gap 3": 4,
+      "Atk/Res Liberate": 5
     }
   },
   "Rune - Source of Wisdom": {
@@ -5910,6 +5996,28 @@
       "Chill Def 1": 1,
       "Chill Def 2": 2,
       "Chill Def 3": 4
+    }
+  },
+  "Sedgar - Festive Horseman": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Horse Bow": 3,
+      "Horse Bow+": 5
+    },
+    "assist": {
+      "Reposition": 4
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 1,
+      "Atk/Spd Catch 2": 2,
+      "Atk/Spd Catch 3": 4
+    },
+    "skillB": {
+      "Spd/Def Snag 1": 2,
+      "Spd/Def Snag 2": 3,
+      "Spd/Def Snag 3": 4,
+      "Spd/Def Detect": 5
     }
   },
   "Vyland - Coyote's Justice": {
@@ -28727,6 +28835,37 @@
       "Assault Troop 2": 3,
       "Assault Troop 3": 4,
       "Assault Rush": 5
+    }
+  },
+  "Edelgard - Of Rivals": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Black Eagle Axe": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "United Storm": 5
+    },
+    "skillA": {
+      "Strat Flame 1": 2,
+      "Strat Flame 2": 3,
+      "Strat Flame 3": 4,
+      "Strat Flame 4": 5
+    },
+    "skillB": {
+      "Quick Riposte 1": 2,
+      "Quick Riposte 2": 3,
+      "Quick Riposte 3": 4,
+      "Patience": 5
+    },
+    "skillC": {
+      "Strat Assault 1": 2,
+      "Strat Assault 2": 3,
+      "Strat Assault 3": 4,
+      "Strat Assault 4": 5
     }
   },
   "Hubert - Sinister Servant": {

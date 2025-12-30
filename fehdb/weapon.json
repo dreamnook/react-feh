@@ -8684,6 +8684,16 @@
       "exclusive": ["Alfred - Joyous Snowdrop"],
       "last": true
     },
+    "Godly Devices": {
+      "id": "Godly Devices",
+      "name": "天之女神姊妹的祭器",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Baldr - New Year's Elite"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -13133,6 +13143,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Ike - Zealous Inheritors"],
+      "last": true
+    },
+    "Black Eagle Axe": {
+      "id": "Black Eagle Axe",
+      "name": "黑鷲之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Edelgard - Of Rivals"],
       "last": true
     },
     "Arcane Downfall": {
@@ -18816,6 +18836,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Snaking Bow"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Horse Bow": {
+      "id": "Horse Bow",
+      "name": "午年之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Horse Bow+": {
+      "id": "Horse Bow+",
+      "name": "午年之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Horse Bow"],
       "refine": {
         "atk": {
           "hp": 2,
@@ -24722,6 +24775,16 @@
       "exclusive": ["Ivy - Flurry Embrace"],
       "last": true
     },
+    "Sister Hagoita": {
+      "id": "Sister Hagoita",
+      "name": "心愛姊姊的羽子板",
+      "mt": 14,
+      "spd": 3,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Váli - Devoted Sister"],
+      "last": true
+    },
     "Arcane Eclipse": {
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
@@ -29731,6 +29794,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Seiðr - Candlelit Hope"],
+      "last": true
+    },
+    "New Year's Fan": {
+      "id": "New Year's Fan",
+      "name": "一年之計的扇子",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Heimdallr - New Year's Vision"],
       "last": true
     },
     "Arc. Caliburnus": {

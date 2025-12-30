@@ -5671,6 +5671,42 @@
     "ver": "9.8",
     "dfKey": 8
   },
+  "Baldr - New Year's Elite": {
+    "id": "Baldr - New Year's Elite",
+    "title": "最強姊妹的新年",
+    "name": "巴德爾",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "flying",
+    "pool": "duo",
+    "bst": 220,
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-01-01",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [45, 48, 51],
+        "spd": [46, 49, 53],
+        "def": [31, 34, 37],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 10,
+        "def": 10,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 200,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
+  },
   "Höðr - Dusk Shadow God": {
     "id": "Höðr - Dusk Shadow God",
     "title": "夕影之神",
@@ -5745,6 +5781,41 @@
     "ver": "9.11",
     "dfKey": 8
   },
+  "Váli - Devoted Sister": {
+    "id": "Váli - Devoted Sister",
+    "title": "新年的姊妹之情",
+    "name": "瓦利",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-tome",
+    "moveType": "flying",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-01-01",
+    "stats": {
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [46, 49, 53],
+        "spd": [45, 48, 51],
+        "def": [22, 26, 29],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 10,
+        "spd": 11,
+        "def": 4,
+        "res": 6
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["def"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
+  },
   "Heimdallr - God of Foresight": {
     "id": "Heimdallr - God of Foresight",
     "title": "預知之神",
@@ -5780,6 +5851,41 @@
     "statMax": 185,
     "book": 9,
     "ver": "9.10",
+    "dfKey": 8
+  },
+  "Heimdallr - New Year's Vision": {
+    "id": "Heimdallr - New Year's Vision",
+    "title": "預料之中的新年",
+    "name": "海姆達爾",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-01-01",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [46, 49, 52],
+        "spd": [12, 16, 19],
+        "def": [27, 30, 33],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 12,
+        "spd": 3,
+        "def": 6,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 10,
+    "ver": "10.0",
     "dfKey": 8
   },
   "Rune - Source of Wisdom": {
@@ -9041,6 +9147,41 @@
     "book": 5,
     "ver": "5.10",
     "dfKey": 4
+  },
+  "Sedgar - Festive Horseman": {
+    "id": "Sedgar - Festive Horseman",
+    "title": "新春的弓騎兵",
+    "name": "札卡羅",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-bow",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "releaseDate": "2026-01-01",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [28, 31, 34],
+        "res": [21, 24, 28]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 9,
+        "def": 7,
+        "res": 5
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
   },
   "Vyland - Coyote's Justice": {
     "id": "Vyland - Coyote's Justice",
@@ -49942,6 +50083,41 @@
     "book": 9,
     "ver": "9.2",
     "dfKey": 7
+  },
+  "Edelgard - Of Rivals": {
+    "id": "Edelgard - Of Rivals",
+    "title": "三鼎紋章士",
+    "name": "艾黛爾賈特",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "armored",
+    "pool": "emblem",
+    "appearsIn": ["Three Houses", "Engage"],
+    "releaseDate": "2025-12-25",
+    "stats": {
+      "5": {
+        "hp": [44, 47, 50],
+        "atk": [46, 49, 53],
+        "spd": [26, 30, 33],
+        "def": [46, 49, 52],
+        "res": [34, 37, 41]
+      },
+      "5-1": {
+        "hp": 23,
+        "atk": 10,
+        "spd": 8,
+        "def": 14,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["spd"],
+    "statMin": 212,
+    "statMax": 215,
+    "book": 10,
+    "ver": "10.0",
+    "dfKey": 8
   },
   "Hubert - Sinister Servant": {
     "id": "Hubert - Sinister Servant",

@@ -7883,6 +7883,19 @@
     "skillB": { "Atk/Spd Link 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Def 4": { "sp": 300, "rarity": 5 } }
   },
+  "Sedgar - Festive Horseman": {
+    "score": 318,
+    "scoreTotal": 731,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 690,
+    "feather": 1000,
+    "bst": 190,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "Spd/Def Detect": { "sp": 300, "rarity": 5 } }
+  },
   "Lyn - Lady of the Wind": {
     "score": 276,
     "scoreTotal": 736,
@@ -15309,6 +15322,20 @@
     "skillB": { "High Dragon Wall": { "sp": 400, "rarity": 5 } },
     "skillC": { "Atk/Res Ploy 3": { "sp": 300, "rarity": 5 } }
   },
+  "Edelgard - Of Rivals": {
+    "score": 368,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 212,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Strat Flame 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Patience": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Strat Assault 4": { "sp": 300, "rarity": 5 } }
+  },
   "Seiðr - Candlelit Hope": {
     "score": 318,
     "scoreTotal": 1113,
@@ -15505,6 +15532,20 @@
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Váli - Devoted Sister": {
+    "score": 318,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Miracle": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Shackle": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Uplift Imbue A/S": { "sp": 300, "rarity": 5 } }
   },
   "Marisa - Willful Blades": {
     "score": 318,
@@ -15795,6 +15836,19 @@
     "special": { "Aether": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Wild": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Heimdallr - New Year's Vision": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Aria": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Res Liberate": { "sp": 300, "rarity": 5 } }
   },
   "Dimitri - Blessed Protector": {
     "score": 530,
@@ -16523,6 +16577,19 @@
     "special": { "Archrival": { "sp": 500, "rarity": 5 } },
     "skillB": { "Execution Breath": { "sp": 400, "rarity": 5 } },
     "skillC": { "A/S Hone Assault": { "sp": 300, "rarity": 5 } }
+  },
+  "Baldr - New Year's Elite": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Heavenly Soar": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Shadow Shift 4": { "sp": 300, "rarity": 5 } }
   },
   "Byleth - Proven Professor": {
     "score": 500,

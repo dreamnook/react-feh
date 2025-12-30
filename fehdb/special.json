@@ -736,7 +736,7 @@
     "sp": 500,
     "cd": 5,
     "prev": ["Miracle"],
-    "exclusive": ["Váli - God of Vengeance"],
+    "exclusive": ["Váli - God of Vengeance", "Váli - Devoted Sister"],
     "last": true
   },
   "Aether's Course": {
@@ -755,6 +755,15 @@
     "cd": 4,
     "prev": ["Bonfire"],
     "exclusive": ["Alfonse - Opening Miracle"],
+    "last": true
+  },
+  "United Storm": {
+    "id": "United Storm",
+    "name": "連花月風閃・狂嵐",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Ignis"],
+    "exclusive": ["Edelgard - Of Rivals"],
     "last": true
   },
   "Daylight": {

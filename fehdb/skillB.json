@@ -927,7 +927,10 @@
     "id": "An Open Book",
     "name": "一切如我所料",
     "sp": 300,
-    "exclusive": ["Heimdallr - God of Foresight"],
+    "exclusive": [
+      "Heimdallr - God of Foresight",
+      "Heimdallr - New Year's Vision"
+    ],
     "icon": "skillB/An_Open_Book",
     "last": true
   },
@@ -2928,6 +2931,15 @@
     "rules": "learner.flying-melee",
     "prev": ["Flier Formation 3", "Aerobatics 3"],
     "icon": "skillB/Air_Superiority",
+    "last": true
+  },
+  "Heavenly Soar": {
+    "id": "Heavenly Soar",
+    "name": "飛舞天際",
+    "sp": 400,
+    "rules": "learner.wielderFlying",
+    "prev": ["Flier Formation 3", "Aerobatics 3"],
+    "icon": "skillB/Heavenly_Soar",
     "last": true
   },
   "Pegasus Flight 1": {
