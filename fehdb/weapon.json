@@ -13155,6 +13155,68 @@
       "exclusive": ["Edelgard - Of Rivals"],
       "last": true
     },
+    "Altruist's Axe": {
+      "id": "Altruist's Axe",
+      "name": "善良者之斧",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Gonzalez - Kindly Bandit"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Altruist's_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Grappler's Axe": {
+      "id": "Grappler's Axe",
+      "name": "格鬥王之斧",
+      "mt": 11,
+      "sp": 400,
+      "exclusive": ["Balthus - King of Grappling"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Grappler's_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -16362,6 +16424,28 @@
       "atk": 3,
       "sp": 400,
       "exclusive": ["Wolf - Coyote's Loyal"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Keen_Coyote_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Flame of Múspell": {
@@ -22652,6 +22736,29 @@
       "sp": 400,
       "prev": ["Adult (Armored)"],
       "exclusive": ["Fomortiis - Demon King"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Ravager_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Horn of the Land": {
@@ -24150,6 +24257,28 @@
       "sp": 400,
       "prev": ["Fenrir"],
       "exclusive": ["Severa - Bitter Blossom"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Gullinkambi_Egg_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Tome of Despair": {
@@ -29542,6 +29671,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Seiðr - Goddess of Hope"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Seiðr_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Crow's Crystal": {
@@ -33668,6 +33819,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Nifl - God of Ice"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Frostbite_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Dusk Dragonstone": {

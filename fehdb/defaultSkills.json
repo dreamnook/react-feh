@@ -3328,10 +3328,14 @@
       "Chill Res 1": 2,
       "Chill Atk/Res 1": 3,
       "Chill Atk/Res 2": 4,
-      "Chill Atk/Res 3": 5
+      "Chill Atk/Res 3": 5,
+      "Chill Def/Res 1": 3,
+      "Chill Def/Res 2": 4,
+      "Def/Res Shackle": 5
     },
     "skillC": {
-      "Future-Focused": 5
+      "Future-Focused": 5,
+      "Future-Focused+": 5
     }
   },
   "Seiðr - Time's Goddesses": {
@@ -13007,7 +13011,8 @@
       "Iron Axe": 1,
       "Steel Axe": 2,
       "Rein Axe": 4,
-      "Rein Axe+": 5
+      "Rein Axe+": 5,
+      "Altruist's Axe": 5
     },
     "special": {
       "Dragon Gaze": 4,
@@ -17817,12 +17822,17 @@
       "Bonfire": 4
     },
     "skillA": {
-      "Nightmare": 5
+      "Nightmare": 5,
+      "Nightmare+": 5
     },
     "skillB": {
       "Beast Follow-Up 1": 3,
       "Beast Follow-Up 2": 4,
-      "Beast Follow-Up 3": 5
+      "Beast Follow-Up 3": 5,
+      "Bold Fighter 1": 3,
+      "Bold Fighter 2": 4,
+      "Bold Fighter 3": 5,
+      "Assault Fighter": 5
     },
     "skillC": {
       "A/D Far Save 1": 1,
@@ -30798,7 +30808,8 @@
       "Iron Axe": 1,
       "Steel Axe": 2,
       "Instant Axe": 4,
-      "Instant Axe+": 5
+      "Instant Axe+": 5,
+      "Grappler's Axe": 5
     },
     "special": {
       "Glowing Ember": 4,

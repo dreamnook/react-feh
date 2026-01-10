@@ -429,6 +429,15 @@
     "icon": "skillC/Severance",
     "last": true
   },
+  "Future-Focused+": {
+    "id": "Future-Focused+",
+    "name": "一同放眼未來・神",
+    "sp": 300,
+    "prev": ["Future-Focused"],
+    "exclusive": ["Seiðr - Goddess of Hope"],
+    "icon": "skillC/Future-Focused+",
+    "last": true
+  },
   "Future-Focused": {
     "id": "Future-Focused",
     "name": "一同放眼未來",

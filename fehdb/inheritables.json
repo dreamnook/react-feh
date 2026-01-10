@@ -3732,12 +3732,15 @@
         "aided": { "5": ["Dagr - Sunny Bloom"] },
         "legendary": { "5": ["Chrom - Crowned Exalt"] },
         "special": {
-          "4": ["Geese - A Life at Sea", "Xane - Autumn Trickster"],
+          "4": [
+            "Geese - A Life at Sea",
+            "Xane - Autumn Trickster",
+            "Sedgar - Festive Horseman"
+          ],
           "5": [
             "Robin - Seaside Tactician",
             "Nowi - Eternal Witch",
             "Marisa - Crimson Rabbit",
-            "Sedgar - Festive Horseman",
             "Fjorm - New Traditions",
             "Laegjarn - Burning Sun",
             "Lyn - Lady of the Beach",
@@ -5430,10 +5433,10 @@
         "mythic": {
           "5": [
             "Líf - Lethal Swordsman",
-            "Fomortiis - Demon King",
             "Thórr - War God",
             "Ash - Retainer to Askr",
-            "Askr - God of Openness"
+            "Askr - God of Openness",
+            "Fomortiis - Demon King"
           ]
         },
         "special": {
@@ -9968,6 +9971,7 @@
             "Selena - Admiring General",
             "Ashe - Budding Chivalry",
             "Catria - Windswept Knight",
+            "Sedgar - Festive Horseman",
             "Céline - Blissful Tea Party",
             "Lyre - Lap Cat of Luxury",
             "Reina - Sanguine Shinobi",
@@ -9975,7 +9979,6 @@
           ],
           "5": [
             "Hortensia - Winter's Dearest",
-            "Sedgar - Festive Horseman",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
             "Delthea - Prodigy in Bloom",
@@ -11431,7 +11434,7 @@
         },
         "rearmed": { "5": ["Dedue - Dauntless Beast"] },
         "legendary": { "5": ["Tiki - Legendary Dragon"] },
-        "mythic": { "5": ["Duma - God of Strength"] },
+        "mythic": { "5": ["Duma - God of Strength", "Fomortiis - Demon King"] },
         "special": {
           "5": [
             "Alfonse - Uplifting Love",
@@ -11454,7 +11457,8 @@
     "Assault Fighter": {
       "pool": {
         "#": { "5": ["Eikþyrnir - Resolved to Train"] },
-        "rearmed": { "5": ["Dedue - Dauntless Beast"] }
+        "rearmed": { "5": ["Dedue - Dauntless Beast"] },
+        "mythic": { "5": ["Fomortiis - Demon King"] }
       },
       "id": "Assault Fighter",
       "name": "強攻隊形",
@@ -12269,7 +12273,13 @@
     "Chill Def/Res 2": {
       "pool": {
         "grail": { "5": ["Donnel - Sunny Villager"] },
-        "mythic": { "5": ["Mirabilis - Daydream", "Alfaðör - Celestial King"] },
+        "mythic": {
+          "5": [
+            "Seiðr - Goddess of Hope",
+            "Mirabilis - Daydream",
+            "Alfaðör - Celestial King"
+          ]
+        },
         "special": { "5": ["Katarina - Torchlit Wanderer"] },
         "duo": { "5": ["Nina - Shadowy Figures"] },
         "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
@@ -12302,7 +12312,11 @@
       "rules": "learner.cavalry-flying-ranged"
     },
     "Def/Res Shackle": {
-      "pool": { "mythic": { "5": ["Alfaðör - Celestial King"] } },
+      "pool": {
+        "mythic": {
+          "5": ["Seiðr - Goddess of Hope", "Alfaðör - Celestial King"]
+        }
+      },
       "id": "Def/Res Shackle",
       "name": "防守魔防枷鎖",
       "sp": 300,
@@ -13504,7 +13518,7 @@
         "#": { "3": ["Kent - Crimson Shield"] },
         "grail": { "4": ["Deen - Bladed Sandstorm", "Finn - Devoted Service"] },
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
-        "special": { "5": ["Sedgar - Festive Horseman"] },
+        "special": { "4": ["Sedgar - Festive Horseman"] },
         "duo": { "5": ["Lucina - Shadows of Fate"] },
         "harmonized": { "5": ["Mia - Harmonic Blades"] }
       },

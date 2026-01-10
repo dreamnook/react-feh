@@ -156,6 +156,15 @@
     "icon": "skillA/Gift_of_Magic",
     "last": true
   },
+  "Nightmare+": {
+    "id": "Nightmare+",
+    "name": "漆黑的惡夢・神",
+    "sp": 300,
+    "prev": ["Nightmare"],
+    "exclusive": ["Fomortiis - Demon King"],
+    "icon": "skillA/Nightmare+",
+    "last": true
+  },
   "Nightmare": {
     "id": "Nightmare",
     "name": "漆黑的惡夢",

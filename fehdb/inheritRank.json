@@ -2971,6 +2971,19 @@
     "skillA": { "Atk/Spd 2": { "sp": 160, "rarity": 5 } },
     "skillC": { "Infantry Rush 3": { "sp": 240, "rarity": 5 } }
   },
+  "Sedgar - Festive Horseman": {
+    "score": 196,
+    "scoreTotal": 414,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 690,
+    "feather": 300,
+    "bst": 190,
+    "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Spd/Def Detect": { "sp": 300, "rarity": 5 } }
+  },
   "Lilina - Delightful Noble": {
     "score": 249,
     "scoreTotal": 415,
@@ -7067,19 +7080,6 @@
     "skillA": { "Atk/Spd Excel": { "sp": 300, "rarity": 5 } },
     "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
   },
-  "Fomortiis - Demon King": {
-    "score": 276,
-    "scoreTotal": 681,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 195,
-    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Beast Follow-Up 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "A/D Far Save 3": { "sp": 300, "rarity": 5 } }
-  },
   "Robin - Exalt's Other Half": {
     "score": 276,
     "scoreTotal": 681,
@@ -7883,19 +7883,6 @@
     "skillB": { "Atk/Spd Link 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Fortify Def 4": { "sp": 300, "rarity": 5 } }
   },
-  "Sedgar - Festive Horseman": {
-    "score": 318,
-    "scoreTotal": 731,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 690,
-    "feather": 1000,
-    "bst": 190,
-    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "Spd/Def Detect": { "sp": 300, "rarity": 5 } }
-  },
   "Lyn - Lady of the Wind": {
     "score": 276,
     "scoreTotal": 736,
@@ -7946,7 +7933,7 @@
     "bst": 169,
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Chill Atk/Res 3": { "sp": 300, "rarity": 5 } }
+    "skillB": { "Def/Res Shackle": { "sp": 300, "rarity": 5 } }
   },
   "Celica - Queen of Valentia": {
     "score": 276,
@@ -8233,6 +8220,19 @@
     "special": { "Aegis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Stronghold": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Def Bulwark 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Fomortiis - Demon King": {
+    "score": 276,
+    "scoreTotal": 736,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Assault Fighter": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Far Save 3": { "sp": 300, "rarity": 5 } }
   },
   "Guinivere - Queen of Bern": {
     "score": 276,

@@ -2372,6 +2372,30 @@
       "rules": "learner.def-dmger",
       "icon": "skillA/Spd_Def_Prime_3",
       "last": true
+    },
+    "Blue Skies 1": {
+      "id": "Blue Skies 1",
+      "name": "蒼穹1",
+      "sp": 60,
+      "rules": "learner.wielderCavalryFlying",
+      "icon": "skillA/Blue_Skies_1"
+    },
+    "Blue Skies 2": {
+      "id": "Blue Skies 2",
+      "name": "蒼穹2",
+      "sp": 120,
+      "prev": ["Blue Skies 1"],
+      "rules": "learner.wielderCavalryFlying",
+      "icon": "skillA/Blue_Skies_2"
+    },
+    "Blue Skies 3": {
+      "id": "Blue Skies 3",
+      "name": "蒼穹3",
+      "sp": 240,
+      "prev": ["Blue Skies 2"],
+      "rules": "learner.wielderCavalryFlying",
+      "icon": "skillA/Blue_Skies_3",
+      "last": true
     }
   },
   "skillB": {
@@ -3078,6 +3102,30 @@
       "prev": ["Torrent Dance 2"],
       "rules": "not.white-staff",
       "icon": "skillB/Torrent_Dance_3",
+      "last": true
+    },
+    "Dull Close 1": {
+      "id": "Dull Close 1",
+      "name": "強化無效・近距離1",
+      "sp": 60,
+      "rules": "melee",
+      "icon": "skillB/Dull_Close_1"
+    },
+    "Dull Close 2": {
+      "id": "Dull Close 2",
+      "name": "強化無效・近距離2",
+      "sp": 120,
+      "prev": ["Dull Close 1"],
+      "rules": "melee",
+      "icon": "skillB/Dull_Close_2"
+    },
+    "Dull Close 3": {
+      "id": "Dull Close 3",
+      "name": "強化無效・近距離3",
+      "sp": 240,
+      "prev": ["Dull Close 2"],
+      "rules": "melee",
+      "icon": "skillB/Dull_Close_3",
       "last": true
     },
     "Atk/Def Link 1": {
@@ -7858,6 +7906,36 @@
       "spd": 4,
       "prev": ["Squad Ace CW 2"],
       "icon": "seal/Squad_Ace_HP_Atk_Spd_3",
+      "last": true
+    },
+    "Squad Ace CX 1": {
+      "id": "Squad Ace CX 1",
+      "name": "第１０２迷宮的霸王1",
+      "sp": 120,
+      "hp": 4,
+      "atk": 2,
+      "def": 2,
+      "icon": "seal/Squad_Ace_HP_Atk_Def_1"
+    },
+    "Squad Ace CX 2": {
+      "id": "Squad Ace CX 2",
+      "name": "第１０２迷宮的霸王2",
+      "sp": 180,
+      "hp": 5,
+      "atk": 3,
+      "def": 3,
+      "prev": ["Squad Ace CX 1"],
+      "icon": "seal/Squad_Ace_HP_Atk_Def_2"
+    },
+    "Squad Ace CX 3": {
+      "id": "Squad Ace CX 3",
+      "name": "第１０２迷宮的霸王3",
+      "sp": 240,
+      "hp": 6,
+      "atk": 4,
+      "def": 4,
+      "prev": ["Squad Ace CX 2"],
+      "icon": "seal/Squad_Ace_HP_Atk_Def_3",
       "last": true
     }
   }
