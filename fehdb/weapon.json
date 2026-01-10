@@ -9726,6 +9726,39 @@
       },
       "last": true
     },
+    "Melee Lance": {
+      "id": "Melee Lance",
+      "name": "混戰之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Melee Lance+": {
+      "id": "Melee Lance+",
+      "name": "混戰之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Melee Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Berkut's Lance": {
       "id": "Berkut's Lance",
       "name": "貝爾克特之槍",
@@ -14140,6 +14173,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Campaign Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Hexblade Axe": {
+      "id": "Hexblade Axe",
+      "name": "魔刃之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Hexblade Axe+": {
+      "id": "Hexblade Axe+",
+      "name": "魔刃之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Hexblade Axe"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -24914,6 +24980,16 @@
       "exclusive": ["Váli - Devoted Sister"],
       "last": true
     },
+    "Unequaled Tome": {
+      "id": "Unequaled Tome",
+      "name": "稀世天才之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Lute - Limitless Curiosity"],
+      "last": true
+    },
     "Arcane Eclipse": {
       "id": "Arcane Eclipse",
       "name": "魔器露奈克利普斯",
@@ -32090,6 +32166,65 @@
       },
       "last": true
     },
+    "Arcane Latona": {
+      "id": "Arcane Latona",
+      "name": "魔器・聖杖拉特娜",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Assault"],
+      "rearmed": true,
+      "refine": {
+        "wrathful+mt": {
+          "name": "神罰+威力",
+          "icon": "Wrathful_Staff_W",
+          "hp": 2,
+          "mt": 1
+        },
+        "wrathful+spd": {
+          "name": "神罰+速度",
+          "icon": "Wrathful_Staff_W",
+          "hp": 2,
+          "spd": 2
+        },
+        "wrathful+def": {
+          "name": "神罰+防守",
+          "icon": "Wrathful_Staff_W",
+          "hp": 2,
+          "def": 3
+        },
+        "wrathful+res": {
+          "name": "神罰+魔防",
+          "icon": "Wrathful_Staff_W",
+          "hp": 2,
+          "res": 3
+        },
+        "dazzling+mt": {
+          "name": "幻惑+威力",
+          "icon": "Dazzling_Staff_W",
+          "hp": 2,
+          "mt": 1
+        },
+        "dazzling+spd": {
+          "name": "幻惑+速度",
+          "icon": "Dazzling_Staff_W",
+          "hp": 2,
+          "spd": 2
+        },
+        "dazzling+def": {
+          "name": "幻惑+防守",
+          "icon": "Dazzling_Staff_W",
+          "hp": 2,
+          "def": 3
+        },
+        "dazzling+res": {
+          "name": "幻惑+魔防",
+          "icon": "Dazzling_Staff_W",
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Assault": {
       "id": "Assault",
       "name": "襲擊",
@@ -34452,6 +34587,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Grima - Tyrant of Despair"],
+      "last": true
+    },
+    "Purging Breath": {
+      "id": "Purging Breath",
+      "name": "封魔吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Morva - Darkling Warden"],
       "last": true
     },
     "Arcane Grima": {

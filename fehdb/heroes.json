@@ -27905,6 +27905,54 @@
     "ver": "8.7",
     "dfKey": 6
   },
+  "Franz - The Faithful": {
+    "id": "Franz - The Faithful",
+    "title": "真誠的騎士",
+    "name": "弗朗茨",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "cavalry",
+    "appearsIn": ["The Sacred Stones"],
+    "releaseDate": "2026-01-06",
+    "stats": {
+      "4": {
+        "hp": [37, 40, 43],
+        "atk": [41, 44, 47],
+        "spd": [43, 46, 49],
+        "def": [29, 32, 35],
+        "res": [18, 21, 24]
+      },
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [32, 35, 38],
+        "res": [20, 23, 26]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 8,
+        "res": 5
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 9,
+        "def": 9,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": [],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.1",
+    "dfKey": 8
+  },
   "Orson - Passion's Folly": {
     "id": "Orson - Passion's Folly",
     "title": "瘋狂的愛慕",
@@ -28147,6 +28195,41 @@
     "ver": "4.6",
     "dfKey": 2
   },
+  "Lute - Limitless Curiosity": {
+    "id": "Lute - Limitless Curiosity",
+    "title": "無盡的探究心",
+    "name": "盧特",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-tome",
+    "moveType": "infantry",
+    "pool": "aided",
+    "appearsIn": ["The Sacred Stones"],
+    "releaseDate": "2026-01-06",
+    "stats": {
+      "5": {
+        "hp": [31, 34, 38],
+        "atk": [46, 49, 53],
+        "spd": [41, 45, 48],
+        "def": [12, 16, 19],
+        "res": [46, 49, 52]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 10,
+        "spd": 12,
+        "def": 3,
+        "res": 14
+      }
+    },
+    "assets": ["hp", "atk"],
+    "flaws": ["spd", "def"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.1",
+    "dfKey": 8
+  },
   "Artur - Silver Saint": {
     "id": "Artur - Silver Saint",
     "title": "白銀修道士",
@@ -28181,6 +28264,69 @@
     "book": 6,
     "ver": "6.0",
     "dfKey": 4
+  },
+  "Garcia - Warrior Reborn": {
+    "id": "Garcia - Warrior Reborn",
+    "title": "重新振作的力士",
+    "name": "賈西亞",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "infantry",
+    "pool": "grail",
+    "appearsIn": ["The Sacred Stones"],
+    "releaseDate": "2026-01-07",
+    "stats": {
+      "3": {
+        "hp": [43, 46, 49],
+        "atk": [41, 44, 47],
+        "spd": [33, 36, 39],
+        "def": [36, 39, 42],
+        "res": [14, 17, 20]
+      },
+      "4": {
+        "hp": [44, 47, 50],
+        "atk": [44, 47, 50],
+        "spd": [34, 38, 41],
+        "def": [38, 42, 45],
+        "res": [15, 18, 21]
+      },
+      "5": {
+        "hp": [47, 50, 53],
+        "atk": [46, 49, 53],
+        "spd": [37, 41, 44],
+        "def": [40, 44, 47],
+        "res": [17, 20, 23]
+      },
+      "3-1": {
+        "hp": 23,
+        "atk": 9,
+        "spd": 7,
+        "def": 10,
+        "res": 4
+      },
+      "4-1": {
+        "hp": 23,
+        "atk": 10,
+        "spd": 7,
+        "def": 11,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 24,
+        "atk": 10,
+        "spd": 8,
+        "def": 11,
+        "res": 5
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["spd", "def"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.1",
+    "dfKey": 8
   },
   "Ross - His Father's Son": {
     "id": "Ross - His Father's Son",
@@ -30365,6 +30511,41 @@
     "ver": "7.6",
     "dfKey": 5
   },
+  "L'Arachel - Justice-Armed": {
+    "id": "L'Arachel - Justice-Armed",
+    "title": "手持聖杖的美麗公主",
+    "name": "拉切爾",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-staff",
+    "moveType": "cavalry",
+    "pool": "rearmed",
+    "appearsIn": ["The Sacred Stones"],
+    "releaseDate": "2026-01-06",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [46, 49, 53],
+        "spd": [45, 48, 51],
+        "def": [15, 18, 21],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 11,
+        "def": 3,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 185,
+    "statMax": 185,
+    "book": 10,
+    "ver": "10.1",
+    "dfKey": 8
+  },
   "Dozla - Harvest Attendant": {
     "id": "Dozla - Harvest Attendant",
     "title": "收穫祭的侍者",
@@ -30433,6 +30614,40 @@
     "book": 6,
     "ver": "6.1",
     "dfKey": 4
+  },
+  "Morva - Darkling Warden": {
+    "id": "Morva - Darkling Warden",
+    "title": "樹海的守護者",
+    "name": "穆爾巴",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-dragon",
+    "moveType": "flying",
+    "appearsIn": ["The Sacred Stones"],
+    "releaseDate": "2026-01-06",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [46, 49, 53],
+        "spd": [15, 18, 21],
+        "def": [45, 48, 51],
+        "res": [41, 45, 48]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 3,
+        "def": 13,
+        "res": 12
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 200,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.1",
+    "dfKey": 8
   },
   "Myrrh - Great Dragon": {
     "id": "Myrrh - Great Dragon",

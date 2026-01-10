@@ -2264,6 +2264,20 @@
     "skillB": { "Chill Spd 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Lance Exp. 3": { "sp": 120, "rarity": 5 } }
   },
+  "L'Arachel - Justice-Armed": {
+    "score": 113,
+    "scoreTotal": 360,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1600,
+    "feather": 1000,
+    "bst": 185,
+    "assist": { "Ice Lock+": { "sp": 400, "rarity": 5 } },
+    "special": { "Holy Panic": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Preempt Amplify": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/S Hone Assault": { "sp": 300, "rarity": 5 } }
+  },
   "Shamir - Lone-Moon Ninja": {
     "score": 249,
     "scoreTotal": 366,
@@ -2329,6 +2343,18 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
+  },
+  "Franz - The Faithful": {
+    "score": 185,
+    "scoreTotal": 373,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 195,
+    "assist": { "Swap": { "sp": 150, "rarity": 4 } },
+    "skillB": { "Flow Refresh 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 4 } }
   },
   "Gerome - Masked Rider": {
     "score": 374,
@@ -9395,6 +9421,19 @@
     "skillA": { "Atk/Spd Prime 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
   },
+  "Garcia - Warrior Reborn": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 204,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Finish 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Atk/Def Tempo 3": { "sp": 240, "rarity": 5 } }
+  },
   "Marni - Pining for Praise": {
     "score": 322,
     "scoreTotal": 746,
@@ -13733,6 +13772,19 @@
     "skillA": { "Atk/Res Mastery": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Def Discord": { "sp": 300, "rarity": 5 } }
   },
+  "Lute - Limitless Curiosity": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "aided",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Comet": { "sp": 500, "rarity": 5 } },
+    "skillB": { "A/R Lull Finish": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Preempt: Ploy": { "sp": 300, "rarity": 5 } }
+  },
   "Hræsvelgr - Quieting Blade": {
     "score": 460,
     "scoreTotal": 1012,
@@ -14898,6 +14950,18 @@
     "special": { "Gust": { "sp": 500, "rarity": 5 } },
     "skillB": { "S/D Spiked Wall": { "sp": 300, "rarity": 5 } },
     "skillC": { "Odd Spd Wave 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Morva - Darkling Warden": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Dragon Flame": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Dragon's Scales": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Hold Guide": { "sp": 300, "rarity": 5 } }
   },
   "Stefan - No-Man's-Blade": {
     "score": 500,

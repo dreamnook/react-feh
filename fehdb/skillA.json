@@ -501,6 +501,22 @@
     "icon": "skillA/Heaven's_Stead_N",
     "last": true
   },
+  "Peerless Beauty": {
+    "id": "Peerless Beauty",
+    "name": "美麗的絕世公主",
+    "sp": 300,
+    "exclusive": ["L'Arachel - Justice-Armed"],
+    "icon": "skillA/Peerless_Beauty",
+    "last": true
+  },
+  "Superior Talent": {
+    "id": "Superior Talent",
+    "name": "因為我很優秀呀",
+    "sp": 300,
+    "exclusive": ["Lute - Limitless Curiosity"],
+    "icon": "skillA/Superior_Talent",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

@@ -1709,6 +1709,15 @@
     "icon": "skillB/Called_to_Serve",
     "last": true
   },
+  "Preempt Amplify": {
+    "id": "Preempt Amplify",
+    "name": "激勵・初擊之躍動",
+    "sp": 400,
+    "prev": ["Live to Serve 3"],
+    "rules": "white-staff",
+    "icon": "skillB/Preempt_Amplify",
+    "last": true
+  },
   "Seal Atk 1": {
     "id": "Seal Atk 1",
     "name": "攻擊封印1",
@@ -4454,6 +4463,15 @@
     "icon": "skillB/Lull_Spd_Res_4",
     "last": true
   },
+  "A/R Lull Finish": {
+    "id": "A/R Lull Finish",
+    "name": "奧秘・攻魔靜謐",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Lull Atk/Res 3"],
+    "icon": "skillB/A_R_Lull_Finish",
+    "last": true
+  },
   "S/D Lull Finish": {
     "id": "S/D Lull Finish",
     "name": "奧秘・速防靜謐",
@@ -5262,6 +5280,30 @@
     "rules": "learner.wielderCavalryFlying",
     "prev": ["Flow Force 3"],
     "icon": "skillB/Assault_Impetus",
+    "last": true
+  },
+  "Atk/Def Tempo 1": {
+    "id": "Atk/Def Tempo 1",
+    "name": "攻擊防守節拍1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillB/Atk_Def_Tempo_1"
+  },
+  "Atk/Def Tempo 2": {
+    "id": "Atk/Def Tempo 2",
+    "name": "攻擊防守節拍2",
+    "sp": 120,
+    "prev": ["Atk/Def Tempo 1"],
+    "rules": "infantry",
+    "icon": "skillB/Atk_Def_Tempo_2"
+  },
+  "Atk/Def Tempo 3": {
+    "id": "Atk/Def Tempo 3",
+    "name": "攻擊防守節拍3",
+    "sp": 240,
+    "prev": ["Atk/Def Tempo 2"],
+    "rules": "infantry",
+    "icon": "skillB/Atk_Def_Tempo_3",
     "last": true
   },
   "Atk/Res Tempo 1": {

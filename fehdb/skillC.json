@@ -1537,6 +1537,15 @@
     "icon": "skillC/A_S_Hold_Guide",
     "last": true
   },
+  "A/R Hold Guide": {
+    "id": "A/R Hold Guide",
+    "name": "攻魔大牽制・引導",
+    "sp": 300,
+    "rules": "learner.flying-melee",
+    "prev": ["Atk/Res Rein 3"],
+    "icon": "skillC/A_R_Hold_Guide",
+    "last": true
+  },
   "S/D Hold Guide": {
     "id": "S/D Hold Guide",
     "name": "速防大牽制・引導",

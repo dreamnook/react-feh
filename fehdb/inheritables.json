@@ -683,6 +683,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Melee Lance+": {
+        "pool": { "#": { "4": ["Franz - The Faithful"] } },
+        "id": "Melee Lance+",
+        "name": "混戰之槍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Berkut's Lance+": {
         "pool": { "grail": { "5": ["Berkut - Prideful Prince"] } },
         "id": "Berkut's Lance+",
@@ -1112,6 +1119,13 @@
         "pool": { "#": { "3": ["Boyd - Intrepid Warrior"] } },
         "id": "Campaign Axe+",
         "name": "繼戰之斧+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Hexblade Axe+": {
+        "pool": { "grail": { "5": ["Garcia - Warrior Reborn"] } },
+        "id": "Hexblade Axe+",
+        "name": "魔刃之斧+",
         "sp": 300,
         "refine": 350
       },
@@ -2921,6 +2935,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Latona": {
+        "pool": { "rearmed": { "5": ["L'Arachel - Justice-Armed"] } },
+        "id": "Arcane Latona",
+        "name": "魔器・聖杖拉特娜",
+        "sp": 300,
+        "refine": 350
+      },
       "Absorb+": {
         "pool": {
           "#": {
@@ -3543,6 +3564,7 @@
     },
     "Ice Lock": {
       "pool": {
+        "rearmed": { "5": ["L'Arachel - Justice-Armed"] },
         "legendary": { "5": ["Sakura - In Full Bloom"] },
         "special": { "5": ["Hortensia - Winter's Dearest"] }
       },
@@ -3553,6 +3575,7 @@
     },
     "Ice Lock+": {
       "pool": {
+        "rearmed": { "5": ["L'Arachel - Justice-Armed"] },
         "legendary": { "5": ["Sakura - In Full Bloom"] },
         "special": { "5": ["Hortensia - Winter's Dearest"] }
       },
@@ -3571,6 +3594,7 @@
             "Subaki - Perfect Expert",
             "Seteth - Seiros Adherent"
           ],
+          "4": ["Franz - The Faithful"],
           "5": [
             "Gray - Wry Comrade",
             "Shiro - Raw Talent",
@@ -4897,6 +4921,7 @@
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "emblem": { "5": ["Lyn - Of Blazing"] },
+        "aided": { "5": ["Lute - Limitless Curiosity"] },
         "legendary": {
           "5": ["Leif - Unifier of Thracia", "Ayra - Supreme Astra"]
         },
@@ -5002,6 +5027,7 @@
     },
     "Comet": {
       "pool": {
+        "aided": { "5": ["Lute - Limitless Curiosity"] },
         "special": { "5": ["Shez - Covert Mercenary"] },
         "duo": { "5": ["Freyja - Parallel Hearts"] }
       },
@@ -5499,6 +5525,7 @@
             "Tiki - Torpid Dragon",
             "Arlen - Mage of Khadein",
             "Robin - Exalt's Deliverer",
+            "Morva - Darkling Warden",
             "Melíai - Warrior Wanderer",
             "Eikþyrnir - Resolved to Train"
           ]
@@ -5530,6 +5557,7 @@
             "Cervantes - Invincible General",
             "Dagdar - Reformed Bandit",
             "Gromell - Bolt Axe General",
+            "Garcia - Warrior Reborn",
             "Marni - Pining for Praise",
             "Raphael - Beast of Leicester"
           ]
@@ -5637,7 +5665,10 @@
       "rules": "learner.wielderInfantry"
     },
     "Dragon Flame": {
-      "pool": { "attuned": { "5": ["Tiki - Dragon's Progeny"] } },
+      "pool": {
+        "#": { "5": ["Morva - Darkling Warden"] },
+        "attuned": { "5": ["Tiki - Dragon's Progeny"] }
+      },
       "id": "Dragon Flame",
       "name": "龍炎",
       "sp": 500,
@@ -6208,7 +6239,9 @@
           "4": ["Finn - Lance of Legend"]
         },
         "ascended": { "5": ["Elincia - Devoted Queen"] },
-        "rearmed": { "5": ["Hortensia - Little Charmer"] },
+        "rearmed": {
+          "5": ["Hortensia - Little Charmer", "L'Arachel - Justice-Armed"]
+        },
         "legendary": {
           "5": [
             "Sakura - In Full Bloom",
@@ -6421,6 +6454,7 @@
     "Holy Panic": {
       "pool": {
         "#": { "5": ["Safy - Font of Piety", "Maria - Ritual Sacrifice"] },
+        "rearmed": { "5": ["L'Arachel - Justice-Armed"] },
         "special": { "5": ["Elise - Sparkling Smile"] }
       },
       "id": "Holy Panic",
@@ -10696,6 +10730,7 @@
       "pool": {
         "#": { "5": ["Diamant - Rising Power"] },
         "grail": {
+          "4": ["Garcia - Warrior Reborn"],
           "5": ["Vaike - Sunbaked Stunner", "Jedah - Priest of Duma"]
         },
         "special": { "5": ["Diamant - Gallant Ninja"] }
@@ -11853,6 +11888,7 @@
           "4": ["Ethlyn - Spirited Princess"],
           "5": ["Silque - Selfless Cleric"]
         },
+        "rearmed": { "5": ["L'Arachel - Justice-Armed"] },
         "legendary": { "5": ["Sakura - In Full Bloom"] }
       },
       "id": "Live to Serve 3",
@@ -11867,6 +11903,14 @@
       "name": "激勵・強化無效",
       "sp": 300,
       "icon": "skillB/Called_to_Serve",
+      "rules": "white-staff"
+    },
+    "Preempt Amplify": {
+      "pool": { "rearmed": { "5": ["L'Arachel - Justice-Armed"] } },
+      "id": "Preempt Amplify",
+      "name": "激勵・初擊之躍動",
+      "sp": 400,
+      "icon": "skillB/Preempt_Amplify",
       "rules": "white-staff"
     },
     "Seal Atk 3": {
@@ -13980,6 +14024,7 @@
             "Marianne - Adopted Daughter"
           ]
         },
+        "aided": { "5": ["Lute - Limitless Curiosity"] },
         "legendary": { "5": ["Byleth - The Fódlan Star"] },
         "mythic": { "5": ["Bramimond - The Enigma"] },
         "special": { "5": ["Ilyana - Awakened Appetite"] },
@@ -14066,6 +14111,14 @@
       "sp": 300,
       "icon": "skillB/Lull_Spd_Res_4",
       "rules": "learner.infantry-cavalry"
+    },
+    "A/R Lull Finish": {
+      "pool": { "aided": { "5": ["Lute - Limitless Curiosity"] } },
+      "id": "A/R Lull Finish",
+      "name": "奧秘・攻魔靜謐",
+      "sp": 300,
+      "icon": "skillB/A_R_Lull_Finish",
+      "rules": "infantry"
     },
     "S/D Lull Finish": {
       "pool": { "special": { "5": ["Yunaka - Stealthy Imitator"] } },
@@ -14239,6 +14292,7 @@
     },
     "Dragon's Ire 3": {
       "pool": {
+        "#": { "5": ["Morva - Darkling Warden"] },
         "grail": { "5": ["Kana - Rising Sunlight"] },
         "legendary": {
           "5": ["Myrrh - Guardian Dragon", "Fae - Childlike Dragon"]
@@ -14270,6 +14324,7 @@
     },
     "Dragon's Scales": {
       "pool": {
+        "#": { "5": ["Morva - Darkling Warden"] },
         "legendary": {
           "5": ["Myrrh - Guardian Dragon", "Fae - Childlike Dragon"]
         },
@@ -14569,7 +14624,7 @@
     },
     "Flow Refresh 3": {
       "pool": {
-        "#": { "5": ["Sain - Green Lance"] },
+        "#": { "4": ["Franz - The Faithful"], "5": ["Sain - Green Lance"] },
         "attuned": { "5": ["Triandra - Reverent Dream"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
@@ -14706,6 +14761,14 @@
       "sp": 300,
       "icon": "skillB/Assault_Impetus",
       "rules": "learner.wielderCavalryFlying"
+    },
+    "Atk/Def Tempo 3": {
+      "pool": { "grail": { "5": ["Garcia - Warrior Reborn"] } },
+      "id": "Atk/Def Tempo 3",
+      "name": "攻擊防守節拍3",
+      "sp": 240,
+      "icon": "skillB/Atk_Def_Tempo_3",
+      "rules": "infantry"
     },
     "Atk/Res Tempo 3": {
       "pool": {
@@ -16023,7 +16086,7 @@
     },
     "Atk/Res Rein 3": {
       "pool": {
-        "#": { "5": ["Palla - Kind Eldest Sister"] },
+        "#": { "5": ["Palla - Kind Eldest Sister", "Morva - Darkling Warden"] },
         "attuned": { "5": ["Micaiah - Dawning Maiden"] },
         "legendary": { "5": ["Eitri - Youthful Sage"] },
         "mythic": { "5": ["Plumeria - Lewd Dream"] },
@@ -16186,6 +16249,14 @@
       "icon": "skillC/A_S_Hold_Guide",
       "rules": "learner.flying-melee"
     },
+    "A/R Hold Guide": {
+      "pool": { "#": { "5": ["Morva - Darkling Warden"] } },
+      "id": "A/R Hold Guide",
+      "name": "攻魔大牽制・引導",
+      "sp": 300,
+      "icon": "skillC/A_R_Hold_Guide",
+      "rules": "learner.flying-melee"
+    },
     "S/D Hold Guide": {
       "pool": { "duo": { "5": ["Marth - Love and Courage"] } },
       "id": "S/D Hold Guide",
@@ -16272,6 +16343,7 @@
             "Dimitri - King of Faerghus"
           ]
         },
+        "rearmed": { "5": ["L'Arachel - Justice-Armed"] },
         "special": {
           "5": [
             "Inigo - Indigo Dancer",
@@ -16507,6 +16579,7 @@
     },
     "A/S Hone Assault": {
       "pool": {
+        "rearmed": { "5": ["L'Arachel - Justice-Armed"] },
         "duo": { "5": ["Gullveig - Hidden in Time"] },
         "harmonized": { "5": ["Lyn - Glitters of Hope"] }
       },
@@ -17431,6 +17504,7 @@
             "Eirika - Resolute Princess"
           ]
         },
+        "aided": { "5": ["Lute - Limitless Curiosity"] },
         "legendary": {
           "5": [
             "Micaiah - Radiant Queen",
@@ -17566,7 +17640,10 @@
       "rules": "infantry"
     },
     "Preempt: Ploy": {
-      "pool": { "rearmed": { "5": ["Soren - Isolated Strategist"] } },
+      "pool": {
+        "rearmed": { "5": ["Soren - Isolated Strategist"] },
+        "aided": { "5": ["Lute - Limitless Curiosity"] }
+      },
       "id": "Preempt: Ploy",
       "name": "初始之躍動・謀策",
       "sp": 300,
@@ -18561,6 +18638,7 @@
     "Rouse Atk/Spd 3": {
       "pool": {
         "#": {
+          "4": ["Franz - The Faithful"],
           "5": [
             "Hugh - Worldly Mage",
             "Ingrid - Galatea's Heir",
