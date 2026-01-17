@@ -1143,6 +1143,7 @@
     "name": "攻速十紋章・識破",
     "sp": 300,
     "rules": "flying",
+    "prev": ["Spur Atk/Spd 2"],
     "icon": "skillC/Null_Uplift_A_S",
     "last": true
   },
@@ -1150,7 +1151,7 @@
     "id": "Uplift Imbue A/S",
     "name": "攻速十紋章・治癒",
     "sp": 300,
-    "rule": "flying",
+    "rules": "flying",
     "prev": ["Spur Atk/Spd 2"],
     "icon": "skillC/Uplift_Imbue_A_S",
     "last": true

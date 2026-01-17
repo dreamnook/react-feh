@@ -15792,7 +15792,8 @@
       "id": "Uplift Imbue A/S",
       "name": "攻速十紋章・治癒",
       "sp": 300,
-      "icon": "skillC/Uplift_Imbue_A_S"
+      "icon": "skillC/Uplift_Imbue_A_S",
+      "rules": "flying"
     },
     "Close Guard 3": {
       "pool": {

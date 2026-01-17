@@ -1713,8 +1713,8 @@
     "id": "Preempt Amplify",
     "name": "激勵・初擊之躍動",
     "sp": 400,
-    "prev": ["Live to Serve 3"],
     "rules": "white-staff",
+    "prev": ["Live to Serve 3"],
     "icon": "skillB/Preempt_Amplify",
     "last": true
   },
