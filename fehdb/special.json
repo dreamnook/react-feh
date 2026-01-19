@@ -1559,7 +1559,8 @@
   },
   "Glitter of Light": {
     "id": "Glitter of Light",
-    "name": "輝印的聖光",
+    "name": "輝映的聖光",
+    "cd": 3,
     "sp": 500,
     "cd": 3,
     "prev": ["Miracle"],
