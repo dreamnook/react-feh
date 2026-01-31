@@ -5404,6 +5404,27 @@
       "Odd Atk Wave 3": 5
     }
   },
+  "Minerva - Above the Stars": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Ilian Battleaxe": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Dragoon Pillar": 5
+    },
+    "skillB": {
+      "Wyvern Flight 1": 2,
+      "Wyvern Flight 2": 3,
+      "Wyvern Flight 3": 4,
+      "Wyvern Rift": 5
+    }
+  },
   "Maria - Minerva's Sister": {
     "weapon": {
       "Assault": 1,
@@ -19780,6 +19801,37 @@
       "Atk/Spd Gap 3": 4
     }
   },
+  "Mia - Zenith Challenger": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Ilian Longsword": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Celestial Form": 5
+    },
+    "skillA": {
+      "Blue Skies 1": 2,
+      "Blue Skies 2": 3,
+      "Blue Skies 3": 4,
+      "Blue-Sky Gust": 5
+    },
+    "skillB": {
+      "Aerobatics 1": 2,
+      "Aerobatics 2": 3,
+      "Aerobatics 3": 4,
+      "Heavenly Soar": 5
+    },
+    "skillC": {
+      "Spur Spd 1": 2,
+      "Spur Atk/Spd 1": 3,
+      "Spur Atk/Spd 2": 4,
+      "Null Uplift A/S": 5
+    }
+  },
   "Jorge - Traveling Peddler": {
     "weapon": {
       "Iron Bow": 1,
@@ -24999,6 +25051,36 @@
       "Mercy-Wing Echo": 5
     }
   },
+  "Azura - Lady of the Sky": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Ilian Greatlance": 5
+    },
+    "assist": {
+      "Sing": 3,
+      "Songful Essence": 5
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Crystalline Water": 5
+    },
+    "skillB": {
+      "Sabotage Def 1": 2,
+      "Sabotage Def 2": 3,
+      "Sabotage Def 3": 4,
+      "Def/Res Discord": 5
+    },
+    "skillC": {
+      "Spd/Def Rein 1": 2,
+      "Spd/Def Rein 2": 3,
+      "Spd/Def Rein 3": 4,
+      "S/D Crux: Ploy": 5
+    }
+  },
   "Gunter - Inveterate Soldier": {
     "weapon": {
       "Iron Axe": 1,
@@ -27265,6 +27347,39 @@
       "Even Recovery 3": 4
     }
   },
+  "Elise - Sincere Sister": {
+    "weapon": {
+      "Assault": 1,
+      "Budding Staff": 5
+    },
+    "assist": {
+      "Heal": 1,
+      "Mend": 2,
+      "Ice Lock": 3,
+      "Ice Lock+": 5
+    },
+    "special": {
+      "Imbue": 2,
+      "Swift-Winds Balm": 3,
+      "Windfire Balm": 4,
+      "Windfire Charm": 5
+    },
+    "skillA": {
+      "Atk/Spd Bond 1": 2,
+      "Atk/Spd Bond 2": 3,
+      "Atk/Spd Bond 3": 4,
+      "Atk/Spd Aria": 5
+    },
+    "skillB": {
+      "Chill Spd 1": 2,
+      "Chill Spd/Res 1": 3,
+      "Chill Spd/Res 2": 4,
+      "Spd/Res Shackle": 5
+    },
+    "skillC": {
+      "Budding Flower": 5
+    }
+  },
   "Arthur - Hapless Hero": {
     "weapon": {
       "Iron Axe": 1,
@@ -28567,6 +28682,41 @@
       "Atk/Spd Oath 2": 3,
       "Atk/Spd Oath 3": 4,
       "Atk/Spd Faith": 5
+    }
+  },
+  "Byleth - Of the Academy": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 3,
+      "Instructor's Opus": 5
+    },
+    "assist": {
+      "Reposition": 3,
+      "Reposition Gait": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Goddess Dance": 5
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Perfect Atk/Spd": 5
+    },
+    "skillB": {
+      "Atk/Spd Link 1": 2,
+      "Atk/Spd Link 2": 3,
+      "Atk/Spd Link 3": 4,
+      "Atk/Spd Favor": 5
+    },
+    "skillC": {
+      "Instruct 1": 2,
+      "Instruct 2": 3,
+      "Instruct 3": 4,
+      "Instruct 4": 5
     }
   },
   "Sothis - Girl on the Throne": {
@@ -30827,6 +30977,42 @@
       "Drive Spd 1": 3,
       "Drive Spd 2": 4,
       "Joint Drive Spd": 5
+    }
+  },
+  "Hilda - Skyward Wings": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Skybound Bow": 5
+    },
+    "assist": {
+      "Rally Defense": 3,
+      "Rally Def/Res": 4,
+      "Rally Def/Res+": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4,
+      "Waning Shot": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Atk/Spd Airspace": 5
+    },
+    "skillB": {
+      "Atk/Spd Link 1": 2,
+      "Atk/Spd Link 2": 3,
+      "Atk/Spd Link 3": 4,
+      "Atk/Spd Favor": 5
+    },
+    "skillC": {
+      "Strat Assault 1": 2,
+      "Strat Assault 2": 3,
+      "Strat Assault 3": 4,
+      "Strat Assault 4": 5
     }
   },
   "Leonie - Relentless Rays": {

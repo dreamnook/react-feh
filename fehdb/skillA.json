@@ -517,6 +517,14 @@
     "icon": "skillA/Superior_Talent",
     "last": true
   },
+  "Dragoon Pillar": {
+    "id": "Dragoon Pillar",
+    "name": "真・赤色龍騎士之盾",
+    "sp": 300,
+    "exclusive": ["Minerva - Above the Stars"],
+    "icon": "skillA/Dragoon_Pillar",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -4416,6 +4424,14 @@
     "icon": "skillA/Atk_Res_Mastery",
     "last": true
   },
+  "Atk/Spd Airspace": {
+    "id": "Atk/Spd Airspace",
+    "name": "攻擊速度的領空",
+    "sp": 300,
+    "rules": "flying",
+    "icon": "skillA/Atk_Spd_Airspace",
+    "last": true
+  },
   "Atk/Spd Ideal 1": {
     "id": "Atk/Spd Ideal 1",
     "name": "攻擊速度萬全1",
@@ -5242,10 +5258,19 @@
     "icon": "skillA/Blue_Skies_4",
     "last": true
   },
+  "Blue-Sky Gust": {
+    "id": "Blue-Sky Gust",
+    "name": "蒼穹・鬼沒",
+    "sp": 300,
+    "rules": "learner.wielderCavalryFlying",
+    "icon": "skillA/Blue-Sky_Gust",
+    "last": true
+  },
   "Strat Flame 1": {
     "id": "Strat Flame 1",
     "name": "計策・猛火計1",
     "sp": 60,
+    "rules": "learner.armored-flying-melee",
     "icon": "skillA/Strat_Flame_1"
   },
   "Strat Flame 2": {
@@ -5253,6 +5278,7 @@
     "name": "計策・猛火計2",
     "sp": 120,
     "prev": ["Strat Flame 1"],
+    "rules": "learner.armored-flying-melee",
     "icon": "skillA/Strat_Flame_2"
   },
   "Strat Flame 3": {
@@ -5260,6 +5286,7 @@
     "name": "計策・猛火計3",
     "sp": 240,
     "prev": ["Strat Flame 2"],
+    "rules": "learner.armored-flying-melee",
     "icon": "skillA/Strat_Flame_3",
     "last": true
   },
@@ -5268,6 +5295,7 @@
     "name": "計策・猛火計4",
     "sp": 300,
     "prev": ["Strat Flame 3"],
+    "rules": "learner.armored-flying-melee",
     "icon": "skillA/Strat_Flame_4",
     "last": true
   }

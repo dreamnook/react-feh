@@ -165,6 +165,14 @@
     ],
     "last": true
   },
+  "Songful Essence": {
+    "id": "Songful Essence",
+    "name": "吟唱靜謐",
+    "sp": 400,
+    "prev": ["Sing"],
+    "exclusive": ["Azura - Lady of the Sky"],
+    "last": true
+  },
   "Sing": {
     "id": "Sing",
     "name": "歌唱",
@@ -183,7 +191,8 @@
       "Azura - Hatari Duet",
       "Dorothea - Yuletide Dancer",
       "Azura - Song's Reflection",
-      "Dorothea - Daring Ex-Singer"
+      "Dorothea - Daring Ex-Singer",
+      "Azura - Lady of the Sky"
     ],
     "last": true
   },
@@ -627,8 +636,8 @@
     "id": "Draw Back Gait",
     "name": "拉近・步法",
     "sp": 400,
-    "range": 1,
     "prev": ["Draw Back"],
+    "range": 1,
     "rules": "learner.infantry-armored-not-staff",
     "last": true
   },

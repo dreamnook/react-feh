@@ -790,6 +790,14 @@
     "icon": "skillC/Future-Guided",
     "last": true
   },
+  "Budding Flower": {
+    "id": "Budding Flower",
+    "name": "可愛之花",
+    "sp": 300,
+    "exclusive": ["Elise - Sincere Sister"],
+    "icon": "skillC/Budding_Flower",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -1581,6 +1589,15 @@
     "rules": "flying",
     "prev": ["Spd/Res Rein 3"],
     "icon": "skillC/Spd_Res_Crux",
+    "last": true
+  },
+  "S/D Crux: Ploy": {
+    "id": "S/D Crux: Ploy",
+    "name": "速防十牽制・謀策",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Spd/Def Rein 3"],
+    "icon": "skillC/S_D_Crux_Ploy",
     "last": true
   },
   "S/R Crux: Ploy": {
@@ -4756,6 +4773,35 @@
     "prev": ["Strat Assault 3"],
     "rules": "learner.armored-flying",
     "icon": "skillC/Strat_Assault_4",
+    "last": true
+  },
+  "Instruct 1": {
+    "id": "Instruct 1",
+    "name": "指導1",
+    "sp": 60,
+    "icon": "skillC/Instruct_1"
+  },
+  "Instruct 2": {
+    "id": "Instruct 2",
+    "name": "指導2",
+    "sp": 120,
+    "prev": ["Instruct 1"],
+    "icon": "skillC/Instruct_2"
+  },
+  "Instruct 3": {
+    "id": "Instruct 3",
+    "name": "指導3",
+    "sp": 240,
+    "prev": ["Instruct 2"],
+    "icon": "skillC/Instruct_3",
+    "last": true
+  },
+  "Instruct 4": {
+    "id": "Instruct 4",
+    "name": "指導4",
+    "sp": 300,
+    "prev": ["Instruct 3"],
+    "icon": "skillC/Instruct_4",
     "last": true
   },
   "Sword Exp. 1": {

@@ -3813,6 +3813,16 @@
       "exclusive": ["Alfonse - Opening Miracle"],
       "last": true
     },
+    "Ilian Longsword": {
+      "id": "Ilian Longsword",
+      "name": "伊利亞的長劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Mia - Zenith Challenger"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -8694,6 +8704,16 @@
       "exclusive": ["Baldr - New Year's Elite"],
       "last": true
     },
+    "Ilian Greatlance": {
+      "id": "Ilian Greatlance",
+      "name": "伊利亞的長槍",
+      "mt": 16,
+      "res": 3,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Azura - Lady of the Sky"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -13250,6 +13270,16 @@
       },
       "last": true
     },
+    "Ilian Battleaxe": {
+      "id": "Ilian Battleaxe",
+      "name": "伊利亞的戰斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Minerva - Above the Stars"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -17127,6 +17157,16 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Ignatz - Worldly Artist"],
+      "last": true
+    },
+    "Skybound Bow": {
+      "id": "Skybound Bow",
+      "name": "武鬥雙妹剛弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Hilda - Skyward Wings"],
       "last": true
     },
     "Arcane Náströnd": {
@@ -27373,6 +27413,16 @@
       "exclusive": ["Alfaðör - Celestial King"],
       "last": true
     },
+    "Instructor's Opus": {
+      "id": "Instructor's Opus",
+      "name": "引導者之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Byleth - Of the Academy"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -32104,6 +32154,16 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Lena - Bereft Angel"],
+      "last": true
+    },
+    "Budding Staff": {
+      "id": "Budding Staff",
+      "name": "可愛的夜之杖",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Elise - Sincere Sister"],
       "last": true
     },
     "Arcane Charmer": {

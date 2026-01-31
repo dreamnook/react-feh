@@ -766,6 +766,15 @@
     "exclusive": ["Edelgard - Of Rivals"],
     "last": true
   },
+  "Goddess Dance": {
+    "id": "Goddess Dance",
+    "name": "計策・女神之舞",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Astra"],
+    "exclusive": ["Byleth - Of the Academy"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -1053,6 +1062,15 @@
     "rules": "learner.wielderBowDagger",
     "last": true
   },
+  "Logic": {
+    "id": "Logic",
+    "name": "邏輯",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Dragon Fang"],
+    "rules": "tome",
+    "last": true
+  },
   "Glowing Ember": {
     "id": "Glowing Ember",
     "name": "螢火",
@@ -1139,6 +1157,15 @@
     "cd": 4,
     "prev": ["Ignis"],
     "rules": "not.white-staff",
+    "last": true
+  },
+  "Waning Shot": {
+    "id": "Waning Shot",
+    "name": "弱化射擊",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Ignis"],
+    "rules": "bow",
     "last": true
   },
   "Chilling Wind": {
@@ -1437,12 +1464,22 @@
     "sp": 200,
     "cd": 1,
     "prev": ["Kindled-Fire Balm", "Swift-Winds Balm"],
-    "rules": "white-staff"
+    "rules": "white-staff",
+    "last": true
   },
   "Windfire Balm+": {
     "id": "Windfire Balm+",
     "name": "業火疾風的祝福+",
     "sp": 300,
+    "cd": 1,
+    "prev": ["Windfire Balm"],
+    "rules": "white-staff",
+    "last": true
+  },
+  "Windfire Charm": {
+    "id": "Windfire Charm",
+    "name": "業火疾風的招福",
+    "sp": 500,
     "cd": 1,
     "prev": ["Windfire Balm"],
     "rules": "white-staff",
@@ -1564,15 +1601,6 @@
     "cd": 3,
     "prev": ["Miracle"],
     "rules": "white-staff",
-    "last": true
-  },
-  "Logic": {
-    "id": "Logic",
-    "name": "邏輯",
-    "sp": 500,
-    "cd": 5,
-    "prev": ["Dragon Fang"],
-    "rules": "tome",
     "last": true
   }
 }

@@ -2530,7 +2530,7 @@
         "refine": 350
       },
       "Blársparrow+": {
-        "pool": { "#": { "4": ["Lorenz - Red-Rose Noble"] } },
+        "pool": { "#": { "3": ["Lorenz - Red-Rose Noble"] } },
         "id": "Blársparrow+",
         "name": "蒼藍麻雀+",
         "sp": 300,
@@ -3565,7 +3565,9 @@
     "Ice Lock": {
       "pool": {
         "rearmed": { "5": ["L'Arachel - Justice-Armed"] },
-        "legendary": { "5": ["Sakura - In Full Bloom"] },
+        "legendary": {
+          "5": ["Sakura - In Full Bloom", "Elise - Sincere Sister"]
+        },
         "special": { "5": ["Hortensia - Winter's Dearest"] }
       },
       "id": "Ice Lock",
@@ -3576,7 +3578,9 @@
     "Ice Lock+": {
       "pool": {
         "rearmed": { "5": ["L'Arachel - Justice-Armed"] },
-        "legendary": { "5": ["Sakura - In Full Bloom"] },
+        "legendary": {
+          "5": ["Sakura - In Full Bloom", "Elise - Sincere Sister"]
+        },
         "special": { "5": ["Hortensia - Winter's Dearest"] }
       },
       "id": "Ice Lock+",
@@ -3753,6 +3757,7 @@
           "4": ["Leonie - Relentless Rays", "Luthier - Spring Hopes"]
         },
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
+        "emblem": { "5": ["Byleth - Of the Academy"] },
         "aided": { "5": ["Dagr - Sunny Bloom"] },
         "legendary": { "5": ["Chrom - Crowned Exalt"] },
         "special": {
@@ -3789,7 +3794,10 @@
       "rules": "not.white-staff"
     },
     "Reposition Gait": {
-      "pool": { "aided": { "5": ["Dagr - Sunny Bloom"] } },
+      "pool": {
+        "emblem": { "5": ["Byleth - Of the Academy"] },
+        "aided": { "5": ["Dagr - Sunny Bloom"] }
+      },
       "id": "Reposition Gait",
       "name": "帶回・步法",
       "sp": 400,
@@ -4036,7 +4044,8 @@
             "Mist - Purest Spirit",
             "Sophia - Prescient Bride"
           ]
-        }
+        },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
       },
       "id": "Rally Def/Res",
       "name": "防守魔防支援",
@@ -4057,7 +4066,8 @@
             "Mist - Purest Spirit",
             "Sophia - Prescient Bride"
           ]
-        }
+        },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
       },
       "id": "Rally Def/Res+",
       "name": "防守魔防支援+",
@@ -4920,7 +4930,7 @@
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
         "attuned": { "5": ["Leif - Sworn to Country"] },
-        "emblem": { "5": ["Lyn - Of Blazing"] },
+        "emblem": { "5": ["Lyn - Of Blazing", "Byleth - Of the Academy"] },
         "aided": { "5": ["Lute - Limitless Curiosity"] },
         "legendary": {
           "5": ["Leif - Unifier of Thracia", "Ayra - Supreme Astra"]
@@ -4945,7 +4955,8 @@
             "Nerþuz - Divine Abundance",
             "Shez - Covert Mercenary",
             "Tibarn - Shipless Pirate",
-            "Timerra - Trick or Meat"
+            "Timerra - Trick or Meat",
+            "Mia - Zenith Challenger"
           ]
         },
         "duo": { "5": ["Freyja - Parallel Hearts"] },
@@ -5019,7 +5030,10 @@
       "rules": "beast"
     },
     "Celestial Form": {
-      "pool": { "mythic": { "5": ["Baldr - Celestial Sun God"] } },
+      "pool": {
+        "mythic": { "5": ["Baldr - Celestial Sun God"] },
+        "special": { "5": ["Mia - Zenith Challenger"] }
+      },
       "id": "Celestial Form",
       "name": "天風",
       "sp": 500,
@@ -5241,9 +5255,9 @@
             "Corrin - Fateful Prince",
             "Sophia - Nabata Prophet",
             "Bantu - Tiki's Guardian",
-            "Morgan - Lad from Afar"
+            "Morgan - Lad from Afar",
+            "Lorenz - Red-Rose Noble"
           ],
-          "4": ["Lorenz - Red-Rose Noble"],
           "5": [
             "Julia - Naga's Blood",
             "Siegbert - Future King",
@@ -5394,6 +5408,13 @@
       "name": "角逐",
       "sp": 500,
       "rules": "learner.wielderBowDagger"
+    },
+    "Logic": {
+      "pool": { "rearmed": { "5": ["Lysithea - Duality Prodigy"] } },
+      "id": "Logic",
+      "name": "邏輯",
+      "sp": 500,
+      "rules": "tome"
     },
     "Bonfire": {
       "pool": {
@@ -5588,6 +5609,7 @@
             "Skrimir - Echoing Howl"
           ],
           "5": [
+            "Minerva - Above the Stars",
             "Jakob - Devoted Monster",
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
@@ -5597,7 +5619,8 @@
             "Níðhöggr - Daze of Healing",
             "Alfred - Joyous Snowdrop"
           ]
-        }
+        },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
       },
       "id": "Ignis",
       "name": "華炎",
@@ -5683,6 +5706,13 @@
       "name": "壁炎",
       "sp": 500,
       "rules": "not.white-staff"
+    },
+    "Waning Shot": {
+      "pool": { "harmonized": { "5": ["Hilda - Skyward Wings"] } },
+      "id": "Waning Shot",
+      "name": "弱化射擊",
+      "sp": 500,
+      "rules": "bow"
     },
     "Iceberg": {
       "pool": {
@@ -6306,6 +6336,7 @@
       "pool": {
         "#": { "5": ["Veronica - Brave Princess"] },
         "grail": { "4": ["Lana - Benevolent Bride"] },
+        "legendary": { "5": ["Elise - Sincere Sister"] },
         "special": { "5": ["L'Arachel - Seeker of Justice"] }
       },
       "id": "Windfire Balm",
@@ -6321,6 +6352,13 @@
       "id": "Windfire Balm+",
       "name": "業火疾風的祝福+",
       "sp": 300,
+      "rules": "white-staff"
+    },
+    "Windfire Charm": {
+      "pool": { "legendary": { "5": ["Elise - Sincere Sister"] } },
+      "id": "Windfire Charm",
+      "name": "業火疾風的招福",
+      "sp": 500,
       "rules": "white-staff"
     },
     "Earthfire Balm": {
@@ -6472,13 +6510,6 @@
       "name": "輝印的聖光",
       "sp": 500,
       "rules": "white-staff"
-    },
-    "Logic": {
-      "pool": { "rearmed": { "5": ["Lysithea - Duality Prodigy"] } },
-      "id": "Logic",
-      "name": "邏輯",
-      "sp": 500,
-      "rules": "tome"
     }
   },
   "skillA": {
@@ -6967,6 +6998,7 @@
           "4": ["Leo - Festival Bonds"],
           "5": [
             "Veyle - Spring Tranquility",
+            "Azura - Lady of the Sky",
             "Seiðr - Candlelit Hope",
             "Ivy - Tidal Breeze",
             "Lilina - Beaming Bride",
@@ -7004,6 +7036,7 @@
         "special": {
           "5": [
             "Veyle - Spring Tranquility",
+            "Azura - Lady of the Sky",
             "Seiðr - Candlelit Hope",
             "Leo - Dark Sprout"
           ]
@@ -8671,8 +8704,7 @@
     "Atk/Spd Bond 3": {
       "pool": {
         "#": {
-          "3": ["Kent - Crimson Shield"],
-          "4": ["Lorenz - Red-Rose Noble"],
+          "3": ["Kent - Crimson Shield", "Lorenz - Red-Rose Noble"],
           "5": [
             "Maria - Ritual Sacrifice",
             "Hinoka - Blue Sky Warrior",
@@ -8690,7 +8722,7 @@
         },
         "rearmed": { "5": ["Tana - Soaring Princess"] },
         "attuned": { "5": ["Peony - Cherished Dream"] },
-        "legendary": { "5": ["Marth - Hero-King"] },
+        "legendary": { "5": ["Elise - Sincere Sister", "Marth - Hero-King"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
         "special": {
           "4": ["Owain - Devoted Defender"],
@@ -8928,6 +8960,7 @@
     "Atk/Spd Aria": {
       "pool": {
         "#": { "5": ["Sharena - Hopeful Princess"] },
+        "legendary": { "5": ["Elise - Sincere Sister"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
         "special": { "5": ["Váli - Devoted Sister"] },
         "duo": { "5": ["Freyja - Parallel Hearts"] }
@@ -10025,7 +10058,8 @@
             "Leif - Destined Scions",
             "Tana - Soothing Warmth",
             "Nephenee - Festival Harmony",
-            "Caeda - Sea-Blossom Pair"
+            "Caeda - Sea-Blossom Pair",
+            "Hilda - Skyward Wings"
           ]
         }
       },
@@ -10222,6 +10256,14 @@
       "icon": "skillA/Atk_Res_Mastery",
       "rules": "flying"
     },
+    "Atk/Spd Airspace": {
+      "pool": { "harmonized": { "5": ["Hilda - Skyward Wings"] } },
+      "id": "Atk/Spd Airspace",
+      "name": "攻擊速度的領空",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Airspace",
+      "rules": "flying"
+    },
     "Atk/Spd Ideal 3": {
       "pool": {
         "#": {
@@ -10246,6 +10288,7 @@
         },
         "ascended": { "5": ["Ced - Sage of the Wind"] },
         "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
+        "emblem": { "5": ["Byleth - Of the Academy"] },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
         "special": {
@@ -10440,6 +10483,7 @@
       "pool": {
         "#": { "5": ["Ignatz - Worldly Artist"] },
         "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
+        "emblem": { "5": ["Byleth - Of the Academy"] },
         "special": {
           "5": [
             "Larcei - Bride of Astra",
@@ -11048,6 +11092,7 @@
         "rearmed": { "5": ["Hinoka - Warrior of Gusto"] },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "mythic": { "5": ["Baldr - Celestial Sun God"] },
+        "special": { "5": ["Mia - Zenith Challenger"] },
         "duo": { "5": ["Marth - Love and Courage"] },
         "harmonized": { "5": ["Fir - Dual Warriors"] }
       },
@@ -11071,19 +11116,29 @@
       "icon": "skillA/Blue_Skies_4",
       "rules": "learner.wielderCavalryFlying"
     },
+    "Blue-Sky Gust": {
+      "pool": { "special": { "5": ["Mia - Zenith Challenger"] } },
+      "id": "Blue-Sky Gust",
+      "name": "蒼穹・鬼沒",
+      "sp": 300,
+      "icon": "skillA/Blue-Sky_Gust",
+      "rules": "learner.wielderCavalryFlying"
+    },
     "Strat Flame 3": {
       "pool": { "emblem": { "5": ["Edelgard - Of Rivals"] } },
       "id": "Strat Flame 3",
       "name": "計策・猛火計3",
       "sp": 240,
-      "icon": "skillA/Strat_Flame_3"
+      "icon": "skillA/Strat_Flame_3",
+      "rules": "learner.armored-flying-melee"
     },
     "Strat Flame 4": {
       "pool": { "emblem": { "5": ["Edelgard - Of Rivals"] } },
       "id": "Strat Flame 4",
       "name": "計策・猛火計4",
       "sp": 300,
-      "icon": "skillA/Strat_Flame_4"
+      "icon": "skillA/Strat_Flame_4",
+      "rules": "learner.armored-flying-melee"
     }
   },
   "skillB": {
@@ -12296,6 +12351,7 @@
           "3": ["Homer - Traveling Bard"],
           "5": ["Sharena - Hopeful Princess"]
         },
+        "legendary": { "5": ["Elise - Sincere Sister"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
         "special": {
           "5": ["Ursula - Royal-Blue Crow", "Váli - Devoted Sister"]
@@ -12346,6 +12402,7 @@
     "Spd/Res Shackle": {
       "pool": {
         "#": { "5": ["Sharena - Hopeful Princess"] },
+        "legendary": { "5": ["Elise - Sincere Sister"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
         "special": { "5": ["Váli - Devoted Sister"] }
       },
@@ -12432,7 +12489,9 @@
           "5": ["Cornelia - Saint Consumed"]
         },
         "mythic": { "5": ["Mirabilis - Daydream", "Höðr - Dusk Shadow God"] },
-        "special": { "5": ["Lilina - Beachside Bloom"] },
+        "special": {
+          "5": ["Azura - Lady of the Sky", "Lilina - Beachside Bloom"]
+        },
         "harmonized": { "5": ["Plumeria - Spring Dance"] }
       },
       "id": "Sabotage Def 3",
@@ -12541,7 +12600,10 @@
       "rules": "learner.infantry-flying"
     },
     "Def/Res Discord": {
-      "pool": { "harmonized": { "5": ["Plumeria - Spring Dance"] } },
+      "pool": {
+        "special": { "5": ["Azura - Lady of the Sky"] },
+        "harmonized": { "5": ["Plumeria - Spring Dance"] }
+      },
       "id": "Def/Res Discord",
       "name": "防守魔防的不和",
       "sp": 300,
@@ -12988,7 +13050,10 @@
         "rearmed": { "5": ["Hinoka - Warrior of Gusto"] },
         "legendary": { "5": ["Azura - Vallite Songstress"] },
         "mythic": { "5": ["Peony - Sweet Dream", "Triandra - Nightmare"] },
-        "special": { "4": ["Juno - Soaring Bride"] },
+        "special": {
+          "4": ["Juno - Soaring Bride"],
+          "5": ["Mia - Zenith Challenger"]
+        },
         "harmonized": { "5": ["Tiki - Harmonic Hope"] }
       },
       "id": "Aerobatics 3",
@@ -13006,7 +13071,10 @@
       "rules": "learner.flying-melee"
     },
     "Heavenly Soar": {
-      "pool": { "duo": { "5": ["Baldr - New Year's Elite"] } },
+      "pool": {
+        "special": { "5": ["Mia - Zenith Challenger"] },
+        "duo": { "5": ["Baldr - New Year's Elite"] }
+      },
       "id": "Heavenly Soar",
       "name": "飛舞天際",
       "sp": 400,
@@ -13057,7 +13125,8 @@
         "grail": {
           "4": ["Glen - Sunstone", "Vaida - Dracofang General"],
           "5": ["Arion - Gungnir's Heir"]
-        }
+        },
+        "special": { "5": ["Minerva - Above the Stars"] }
       },
       "id": "Wyvern Flight 3",
       "name": "飛龍行空3",
@@ -13066,7 +13135,10 @@
       "rules": "learner.wielderFlying"
     },
     "Wyvern Rift": {
-      "pool": { "#": { "5": ["Rosado - Adorable Artist"] } },
+      "pool": {
+        "#": { "5": ["Rosado - Adorable Artist"] },
+        "special": { "5": ["Minerva - Above the Stars"] }
+      },
       "id": "Wyvern Rift",
       "name": "飛龍裂空",
       "sp": 300,
@@ -13373,6 +13445,7 @@
       "pool": {
         "#": { "3": ["Boyd - Intrepid Warrior"] },
         "grail": { "5": ["Elincia - Seaside Queen"] },
+        "emblem": { "5": ["Byleth - Of the Academy"] },
         "special": {
           "5": [
             "Joshua - Tropical Gambler",
@@ -13383,7 +13456,8 @@
             "Marth - Masked Gladiator"
           ]
         },
-        "duo": { "5": ["Robin - Vessels of Fate"] }
+        "duo": { "5": ["Robin - Vessels of Fate"] },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
       },
       "id": "Atk/Spd Link 3",
       "name": "攻擊速度連動3",
@@ -13490,7 +13564,11 @@
       "rules": "not.white-staff"
     },
     "Atk/Spd Favor": {
-      "pool": { "special": { "5": ["Marth - Masked Gladiator"] } },
+      "pool": {
+        "emblem": { "5": ["Byleth - Of the Academy"] },
+        "special": { "5": ["Marth - Masked Gladiator"] },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
+      },
       "id": "Atk/Spd Favor",
       "name": "攻擊速度共鳴",
       "sp": 300,
@@ -14507,7 +14585,7 @@
     "A/S Far Trace 3": {
       "pool": {
         "#": {
-          "4": ["Lorenz - Red-Rose Noble"],
+          "3": ["Lorenz - Red-Rose Noble"],
           "5": ["Constance - Fallen Noble"]
         },
         "mythic": { "5": ["Elimine - Scouring Saint"] },
@@ -15498,7 +15576,7 @@
       "pool": {
         "#": { "3": ["Sothe - Zephyr", "Ricken - Shepherd Novice"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
-        "special": { "5": ["Váli - Devoted Sister"] }
+        "special": { "5": ["Váli - Devoted Sister", "Mia - Zenith Challenger"] }
       },
       "id": "Spur Atk/Spd 2",
       "name": "攻擊速度紋章2",
@@ -15780,7 +15858,10 @@
       "icon": "skillC/Cross_Spur_Res"
     },
     "Null Uplift A/S": {
-      "pool": { "mythic": { "5": ["Váli - God of Vengeance"] } },
+      "pool": {
+        "mythic": { "5": ["Váli - God of Vengeance"] },
+        "special": { "5": ["Mia - Zenith Challenger"] }
+      },
       "id": "Null Uplift A/S",
       "name": "攻速十紋章・識破",
       "sp": 300,
@@ -16121,6 +16202,7 @@
             "Reina - Sanguine Shinobi",
             "Igrene - Ninja of Nabata",
             "Say'ri - Righteous Bride",
+            "Azura - Lady of the Sky",
             "Petra - Faraway Sun"
           ]
         },
@@ -16294,6 +16376,14 @@
       "name": "速度魔防的十字牽制",
       "sp": 300,
       "icon": "skillC/Spd_Res_Crux",
+      "rules": "flying"
+    },
+    "S/D Crux: Ploy": {
+      "pool": { "special": { "5": ["Azura - Lady of the Sky"] } },
+      "id": "S/D Crux: Ploy",
+      "name": "速防十牽制・謀策",
+      "sp": 300,
+      "icon": "skillC/S_D_Crux_Ploy",
       "rules": "flying"
     },
     "S/R Crux: Ploy": {
@@ -19405,7 +19495,10 @@
       "rules": "learner.infantry-armored-flying-ranged-res-dmger"
     },
     "Strat Assault 3": {
-      "pool": { "emblem": { "5": ["Edelgard - Of Rivals"] } },
+      "pool": {
+        "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
+      },
       "id": "Strat Assault 3",
       "name": "計策・一齊突擊3",
       "sp": 240,
@@ -19413,12 +19506,29 @@
       "rules": "learner.armored-flying"
     },
     "Strat Assault 4": {
-      "pool": { "emblem": { "5": ["Edelgard - Of Rivals"] } },
+      "pool": {
+        "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
+      },
       "id": "Strat Assault 4",
       "name": "計策・一齊突擊4",
       "sp": 300,
       "icon": "skillC/Strat_Assault_4",
       "rules": "learner.armored-flying"
+    },
+    "Instruct 3": {
+      "pool": { "emblem": { "5": ["Byleth - Of the Academy"] } },
+      "id": "Instruct 3",
+      "name": "指導3",
+      "sp": 240,
+      "icon": "skillC/Instruct_3"
+    },
+    "Instruct 4": {
+      "pool": { "emblem": { "5": ["Byleth - Of the Academy"] } },
+      "id": "Instruct 4",
+      "name": "指導4",
+      "sp": 300,
+      "icon": "skillC/Instruct_4"
     },
     "Sword Exp. 3": {
       "pool": { "#": { "3": ["Athena - Borderland Sword"] } },

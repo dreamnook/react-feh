@@ -2987,6 +2987,54 @@
       "icon": "skillB/Aerobatics_3",
       "last": true
     },
+    "Wyvern Flight 1": {
+      "id": "Wyvern Flight 1",
+      "name": "飛龍行空1",
+      "sp": 60,
+      "rules": "learner.wielderFlying",
+      "icon": "skillB/Wyvern_Flight_1"
+    },
+    "Wyvern Flight 2": {
+      "id": "Wyvern Flight 2",
+      "name": "飛龍行空2",
+      "sp": 120,
+      "prev": ["Wyvern Flight 1"],
+      "rules": "learner.wielderFlying",
+      "icon": "skillB/Wyvern_Flight_2"
+    },
+    "Wyvern Flight 3": {
+      "id": "Wyvern Flight 3",
+      "name": "飛龍行空3",
+      "sp": 240,
+      "prev": ["Wyvern Flight 2"],
+      "rules": "learner.wielderFlying",
+      "icon": "skillB/Wyvern_Flight_3",
+      "last": true
+    },
+    "Dive-Bomb 1": {
+      "id": "Dive-Bomb 1",
+      "name": "空中突襲1",
+      "sp": 60,
+      "rules": "learner.flying-melee",
+      "icon": "skillB/Dive-Bomb_1"
+    },
+    "Dive-Bomb 2": {
+      "id": "Dive-Bomb 2",
+      "name": "空中突襲2",
+      "sp": 120,
+      "prev": ["Dive-Bomb 1"],
+      "rules": "learner.flying-melee",
+      "icon": "skillB/Dive-Bomb_2"
+    },
+    "Dive-Bomb 3": {
+      "id": "Dive-Bomb 3",
+      "name": "空中突襲3",
+      "sp": 240,
+      "prev": ["Dive-Bomb 2"],
+      "rules": "learner.flying-melee",
+      "icon": "skillB/Dive-Bomb_3",
+      "last": true
+    },
     "Wrath 1": {
       "id": "Wrath 1",
       "name": "憤怒1",

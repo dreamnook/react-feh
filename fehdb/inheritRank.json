@@ -2202,6 +2202,20 @@
     "skillA": { "Sway Atk/Spd": { "sp": 300, "rarity": 5 } },
     "skillB": { "Called to Serve": { "sp": 300, "rarity": 5 } }
   },
+  "Elise - Sincere Sister": {
+    "score": 115,
+    "scoreTotal": 345,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 220,
+    "assist": { "Ice Lock+": { "sp": 400, "rarity": 5 } },
+    "special": { "Windfire Charm": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Shackle": { "sp": 300, "rarity": 5 } }
+  },
   "Roderick - Steady Squire": {
     "score": 249,
     "scoreTotal": 345,
@@ -2791,18 +2805,6 @@
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Lorenz - Red-Rose Noble": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 185,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "A/S Far Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -4280,6 +4282,18 @@
     "skillA": { "Atk/Spd Catch 3": { "sp": 240, "rarity": 4 } },
     "skillC": { "Atk/Spd Rein 3": { "sp": 240, "rarity": 5 } }
   },
+  "Lorenz - Red-Rose Noble": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 185,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Bond 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "A/S Far Trace 3": { "sp": 240, "rarity": 5 } }
+  },
   "Lapis - Mighty Flower": {
     "score": 199,
     "scoreTotal": 461,
@@ -4778,6 +4792,18 @@
     "bst": 185,
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Minerva - Above the Stars": {
+    "score": 318,
+    "scoreTotal": 530,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillB": { "Wyvern Rift": { "sp": 300, "rarity": 5 } }
   },
   "Bruno - Masked Reveler": {
     "score": 249,
@@ -12369,6 +12395,19 @@
     "skillB": { "Def/Res Discord": { "sp": 300, "rarity": 5 } },
     "skillC": { "Shadow Smite 4": { "sp": 300, "rarity": 5 } }
   },
+  "Azura - Lady of the Sky": {
+    "score": 318,
+    "scoreTotal": 954,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 190,
+    "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Def/Res Discord": { "sp": 300, "rarity": 5 } },
+    "skillC": { "S/D Crux: Ploy": { "sp": 300, "rarity": 5 } }
+  },
   "Heiðrún - Sisters of Healing": {
     "score": 318,
     "scoreTotal": 954,
@@ -16833,6 +16872,21 @@
     "skillB": { "Chill Spd/Res 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ground Orders 3": { "sp": 240, "rarity": 5 } }
   },
+  "Byleth - Of the Academy": {
+    "score": 368,
+    "scoreTotal": 1380,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 400,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 193,
+    "assist": { "Reposition Gait": { "sp": 400, "rarity": 5 } },
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Favor": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Instruct 4": { "sp": 300, "rarity": 5 } }
+  },
   "Alfaðör - Celestial King": {
     "score": 460,
     "scoreTotal": 1380,
@@ -17127,6 +17181,20 @@
     "skillB": { "Potent Assault": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Outcry Dull": { "sp": 300, "rarity": 5 } }
   },
+  "Mia - Zenith Challenger": {
+    "score": 530,
+    "scoreTotal": 1590,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Celestial Form": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Blue-Sky Gust": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Heavenly Soar": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Null Uplift A/S": { "sp": 300, "rarity": 5 } }
+  },
   "Lucina - Shadows of Fate": {
     "score": 530,
     "scoreTotal": 1643,
@@ -17141,5 +17209,20 @@
     "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd/Def Detect": { "sp": 300, "rarity": 5 } },
     "skillC": { "Shadow Shift 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Hilda - Skyward Wings": {
+    "score": 530,
+    "scoreTotal": 1908,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1800,
+    "feather": 1000,
+    "bst": 194,
+    "assist": { "Rally Def/Res+": { "sp": 400, "rarity": 5 } },
+    "special": { "Waning Shot": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Airspace": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Favor": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Strat Assault 4": { "sp": 300, "rarity": 5 } }
   }
 }
