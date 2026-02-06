@@ -1292,6 +1292,18 @@
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillA": { "Shatterproof": { "sp": 300, "rarity": 5 } }
   },
+  "Minerva - Above the Stars": {
+    "score": 163,
+    "scoreTotal": 259,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 300,
+    "bst": 200,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Wyvern Rift": { "sp": 300, "rarity": 5 } }
+  },
   "Bruno - Masked Hare": {
     "score": 80,
     "scoreTotal": 260,
@@ -1924,6 +1936,18 @@
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
   },
+  "Franz - The Faithful": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 195,
+    "assist": { "Swap": { "sp": 150, "rarity": 3 } },
+    "skillB": { "Flow Refresh 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 4 } }
+  },
   "Boyd - Intrepid Warrior": {
     "score": 199,
     "scoreTotal": 295,
@@ -2357,18 +2381,6 @@
     "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
-  },
-  "Franz - The Faithful": {
-    "score": 185,
-    "scoreTotal": 373,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 300,
-    "bst": 195,
-    "assist": { "Swap": { "sp": 150, "rarity": 4 } },
-    "skillB": { "Flow Refresh 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 4 } }
   },
   "Gerome - Masked Rider": {
     "score": 374,
@@ -4793,18 +4805,6 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 4": { "sp": 300, "rarity": 5 } }
   },
-  "Minerva - Above the Stars": {
-    "score": 318,
-    "scoreTotal": 530,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 500,
-    "feather": 1000,
-    "bst": 200,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Wyvern Rift": { "sp": 300, "rarity": 5 } }
-  },
   "Bruno - Masked Reveler": {
     "score": 249,
     "scoreTotal": 534,
@@ -7181,7 +7181,7 @@
     "feather": 1000,
     "bst": 200,
     "assist": { "Swap": { "sp": 150, "rarity": 5 } },
-    "skillA": { "Atk/Spd Hexblade": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Atk/Spd Hexedge": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Spd 4": { "sp": 300, "rarity": 5 } }
   },
   "Micaiah - Queen of Dawn": {
@@ -7429,6 +7429,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 4 } },
     "skillA": { "Wind Boost 3": { "sp": 200, "rarity": 4 } },
     "skillB": { "Spd/Def Bulwark 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Ash - Earnest Greetings": {
+    "score": 299,
+    "scoreTotal": 694,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 300,
+    "bst": 188,
+    "special": { "Bonfire": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Distant Reversal": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Def Bulwark 3": { "sp": 240, "rarity": 4 } }
   },
   "Takumi - Wild Card": {
     "score": 300,
@@ -10040,19 +10053,6 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillA": { "Def/Res Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Ash - Earnest Greetings": {
-    "score": 318,
-    "scoreTotal": 784,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 188,
-    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Distant Reversal": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Atk/Def Bulwark 3": { "sp": 240, "rarity": 5 } }
   },
   "Edelgard - Sun Empresses": {
     "score": 318,
@@ -13744,7 +13744,7 @@
     "bst": 179,
     "special": { "Galeforce": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Alarm Atk/Spd": { "sp": 300, "rarity": 5 } }
+    "skillC": { "Dark Beast Force": { "sp": 300, "rarity": 5 } }
   },
   "Eikþyrnir - Quieting Strength": {
     "score": 460,

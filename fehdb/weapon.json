@@ -7368,6 +7368,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Tana - Frelian Starlight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Lance_of_Frelia_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Bereft Lance": {
@@ -13278,6 +13301,37 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Minerva - Above the Stars"],
+      "last": true
+    },
+    "Catalyst Axe": {
+      "id": "Catalyst Axe",
+      "name": "狼騎士團先鋒之斧",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Vyland - Coyote's Justice"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Catalyst_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Downfall": {
@@ -19773,6 +19827,28 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Volke - Man of Mysteries"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Fireman's_Hook_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Dreamflake": {
@@ -19950,6 +20026,28 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Yuri - Underground Lord"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Abyssal_Blade_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Brightwind Fans": {
@@ -22875,6 +22973,29 @@
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Nerþuz - God of the Land"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Horn_of_the_Land_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Dream Horn": {
@@ -25028,6 +25149,36 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Lute - Limitless Curiosity"],
+      "last": true
+    },
+    "Dark Faith": {
+      "id": "Dark Faith",
+      "name": "暗黑教團之書",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Salem - Dark Sage"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Dark_Faith_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Arcane Eclipse": {
@@ -34078,6 +34229,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Múspell - Flame God"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Flamelick_Breath_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Moonstrike Breath": {

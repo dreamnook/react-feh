@@ -3627,13 +3627,18 @@
       "Atk/Spd Clash 4": 5
     },
     "skillB": {
-      "Fruit of Life": 5
+      "Fruit of Life": 5,
+      "Fruit of Life+": 5
     },
     "skillC": {
       "Rouse Atk/Spd 1": 2,
       "Rouse Atk/Spd 2": 3,
       "Rouse Atk/Spd 3": 4,
-      "Alarm Atk/Spd": 5
+      "Alarm Atk/Spd": 5,
+      "C Feud 1": 2,
+      "C Feud 2": 3,
+      "C Feud 3": 4,
+      "Dark Beast Force": 5
     }
   },
   "Nerþuz - New-Year Doter": {
@@ -6050,7 +6055,8 @@
       "Iron Axe": 1,
       "Steel Axe": 2,
       "Unbound Axe": 3,
-      "Unbound Axe+": 5
+      "Unbound Axe+": 5,
+      "Catalyst Axe": 5
     },
     "assist": {
       "Smite": 3
@@ -11384,7 +11390,8 @@
       "Flux": 1,
       "Ruin": 2,
       "Rauðrvulture": 3,
-      "Rauðrvulture+": 5
+      "Rauðrvulture+": 5,
+      "Dark Faith": 5
     },
     "special": {
       "Chilling Wind": 3,
@@ -31078,7 +31085,8 @@
       "Sorcery Blade 1": 2,
       "Sorcery Blade 2": 3,
       "Sorcery Blade 3": 4,
-      "Atk/Spd Hexblade": 5
+      "Atk/Spd Hexblade": 5,
+      "Atk/Spd Hexedge": 5
     },
     "skillB": {
       "Seal Spd 1": 2,
@@ -31087,7 +31095,8 @@
       "Seal Spd 4": 5
     },
     "skillC": {
-      "Fetters of Dromi": 5
+      "Fetters of Dromi": 5,
+      "Dromi II": 5
     }
   },
   "Yuri - Tropical Wolf": {

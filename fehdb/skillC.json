@@ -446,6 +446,15 @@
     "icon": "skillC/Future-Focused",
     "last": true
   },
+  "Dromi II": {
+    "id": "Dromi II",
+    "name": "多羅米的鎖環・承",
+    "sp": 300,
+    "prev": ["Fetters of Dromi"],
+    "exclusive": ["Yuri - Underground Lord"],
+    "icon": "skillC/Dromi_II",
+    "last": true
+  },
   "Fetters of Dromi": {
     "id": "Fetters of Dromi",
     "name": "多羅米的鎖環",

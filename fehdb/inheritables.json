@@ -684,7 +684,7 @@
         "refine": 350
       },
       "Melee Lance+": {
-        "pool": { "#": { "4": ["Franz - The Faithful"] } },
+        "pool": { "#": { "3": ["Franz - The Faithful"] } },
         "id": "Melee Lance+",
         "name": "混戰之槍+",
         "sp": 300,
@@ -3596,9 +3596,9 @@
             "Seth - Silver Knight",
             "Arthur - Hapless Hero",
             "Subaki - Perfect Expert",
-            "Seteth - Seiros Adherent"
+            "Seteth - Seiros Adherent",
+            "Franz - The Faithful"
           ],
-          "4": ["Franz - The Faithful"],
           "5": [
             "Gray - Wry Comrade",
             "Shiro - Raw Talent",
@@ -5456,7 +5456,8 @@
           "4": [
             "Fuga - Force of Gales",
             "Frederick - Youth in Service",
-            "Astram - Midia's Hero"
+            "Astram - Midia's Hero",
+            "Ash - Earnest Greetings"
           ]
         },
         "ascended": {
@@ -5501,7 +5502,6 @@
             "Myrrh - Spooky Monster",
             "Rudolf - Emperor of Rigel",
             "Surtr - Pirate of Red Sky",
-            "Ash - Earnest Greetings",
             "Ephraim - Sunshine Valiant",
             "Hector - Sworn Friend",
             "Ephraim - Ardent Prince",
@@ -5603,13 +5603,13 @@
         "special": {
           "4": [
             "Hríd - Frigid Ninja",
+            "Minerva - Above the Stars",
             "Manuela - Silver Caroler",
             "Hana - Striving Heart",
             "Palla - Soaring Summer",
             "Skrimir - Echoing Howl"
           ],
           "5": [
-            "Minerva - Above the Stars",
             "Jakob - Devoted Monster",
             "Cherche - Shaded by Wings",
             "Reginn - Bearing Dawn",
@@ -8200,6 +8200,7 @@
             "Byleth - Tested Professor"
           ]
         },
+        "grail": { "4": ["Ash - Earnest Greetings"] },
         "rearmed": {
           "5": ["Ganglöt - Death Anew", "Machyua - Blade of Gales"]
         },
@@ -8234,7 +8235,6 @@
           "5": [
             "Hector - Just Here to Fight",
             "Velouria - Renewed Wolfpup",
-            "Ash - Earnest Greetings",
             "Caeda - Princess of Talys",
             "Corrin - Celestial Sorcerer",
             "Ike - Stalwart Heart",
@@ -8304,7 +8304,7 @@
       "rules": "melee"
     },
     "Distant Reversal": {
-      "pool": { "special": { "5": ["Ash - Earnest Greetings"] } },
+      "pool": { "grail": { "5": ["Ash - Earnest Greetings"] } },
       "id": "Distant Reversal",
       "name": "遠反・金剛架勢",
       "sp": 300,
@@ -9686,7 +9686,10 @@
       "rules": "learner.infantry-def-dmger"
     },
     "Atk/Spd Hexedge": {
-      "pool": { "rearmed": { "5": ["Noire - Of Two Minds"] } },
+      "pool": {
+        "rearmed": { "5": ["Noire - Of Two Minds"] },
+        "legendary": { "5": ["Yuri - Underground Lord"] }
+      },
       "id": "Atk/Spd Hexedge",
       "name": "攻擊速度之咒刃",
       "sp": 300,
@@ -13126,7 +13129,7 @@
           "4": ["Glen - Sunstone", "Vaida - Dracofang General"],
           "5": ["Arion - Gungnir's Heir"]
         },
-        "special": { "5": ["Minerva - Above the Stars"] }
+        "special": { "4": ["Minerva - Above the Stars"] }
       },
       "id": "Wyvern Flight 3",
       "name": "飛龍行空3",
@@ -14702,7 +14705,7 @@
     },
     "Flow Refresh 3": {
       "pool": {
-        "#": { "4": ["Franz - The Faithful"], "5": ["Sain - Green Lance"] },
+        "#": { "3": ["Franz - The Faithful"], "5": ["Sain - Green Lance"] },
         "attuned": { "5": ["Triandra - Reverent Dream"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
@@ -14959,7 +14962,10 @@
     },
     "Atk/Def Bulwark 3": {
       "pool": {
-        "grail": { "5": ["Balthus - Summer's Big Bet"] },
+        "grail": {
+          "4": ["Ash - Earnest Greetings"],
+          "5": ["Balthus - Summer's Big Bet"]
+        },
         "mythic": {
           "5": [
             "Ash - Retainer to Askr",
@@ -14968,11 +14974,7 @@
           ]
         },
         "special": {
-          "5": [
-            "Ash - Earnest Greetings",
-            "Altina - Unrivaled Dawn",
-            "Diamant - Gallant Ninja"
-          ]
+          "5": ["Altina - Unrivaled Dawn", "Diamant - Gallant Ninja"]
         }
       },
       "id": "Atk/Def Bulwark 3",
@@ -18729,7 +18731,7 @@
     "Rouse Atk/Spd 3": {
       "pool": {
         "#": {
-          "4": ["Franz - The Faithful"],
+          "3": ["Franz - The Faithful"],
           "5": [
             "Hugh - Worldly Mage",
             "Ingrid - Galatea's Heir",
@@ -19330,7 +19332,13 @@
     "C Feud 3": {
       "pool": {
         "legendary": { "5": ["Xander - Gallant King"] },
-        "mythic": { "5": ["Elm - Retainer to Embla", "Lyn - Plains Wind"] },
+        "mythic": {
+          "5": [
+            "Nerþuz - God of the Land",
+            "Elm - Retainer to Embla",
+            "Lyn - Plains Wind"
+          ]
+        },
         "special": { "5": ["Elm - Resolute Grouch", "Anna - Secret Charmer"] },
         "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] },
         "harmonized": { "5": ["Lysithea - Gifted Students"] }
@@ -19349,7 +19357,9 @@
       "rules": "learner.infantry-cavalry-flying-beast"
     },
     "Dark Beast Force": {
-      "pool": { "mythic": { "5": ["Lyn - Plains Wind"] } },
+      "pool": {
+        "mythic": { "5": ["Nerþuz - God of the Land", "Lyn - Plains Wind"] }
+      },
       "id": "Dark Beast Force",
       "name": "暗獸・不屈",
       "sp": 300,

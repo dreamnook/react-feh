@@ -4288,20 +4288,34 @@
     "id": "Ash - Earnest Greetings",
     "title": "正經八百的新年",
     "name": "艾緒",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "weaponType": "blue-beast",
     "moveType": "infantry",
-    "pool": "special",
+    "pool": "grail",
     "appearsIn": ["Heroes"],
     "releaseDate": "2023-01-01",
     "stats": {
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [39, 42, 46],
+        "spd": [14, 17, 20],
+        "def": [38, 42, 45],
+        "res": [33, 37, 40]
+      },
       "5": {
         "hp": [37, 41, 44],
         "atk": [41, 44, 48],
         "spd": [16, 19, 22],
         "def": [40, 44, 47],
         "res": [36, 40, 43]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 14,
+        "spd": 3,
+        "def": 11,
+        "res": 6
       },
       "5-1": {
         "hp": 19,
@@ -8072,7 +8086,7 @@
     "id": "Minerva - Above the Stars",
     "title": "翱翔天際的天馬公主",
     "name": "米奈娃",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "weaponType": "green-axe",
     "moveType": "flying",
@@ -8080,12 +8094,26 @@
     "appearsIn": ["Shadow Dragon / (New) Mystery"],
     "releaseDate": "2026-01-16",
     "stats": {
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [42, 45, 48],
+        "spd": [42, 45, 48],
+        "def": [39, 43, 46],
+        "res": [14, 17, 20]
+      },
       "5": {
         "hp": [37, 41, 44],
         "atk": [44, 47, 50],
         "spd": [45, 48, 52],
         "def": [41, 45, 48],
         "res": [16, 19, 22]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 8,
+        "def": 12,
+        "res": 3
       },
       "5-1": {
         "hp": 19,
@@ -27944,13 +27972,20 @@
     "id": "Franz - The Faithful",
     "title": "真誠的騎士",
     "name": "弗朗茨",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "weaponType": "blue-lance",
     "moveType": "cavalry",
     "appearsIn": ["The Sacred Stones"],
     "releaseDate": "2026-01-06",
     "stats": {
+      "3": {
+        "hp": [36, 39, 42],
+        "atk": [38, 41, 44],
+        "spd": [40, 43, 46],
+        "def": [28, 31, 34],
+        "res": [17, 20, 23]
+      },
       "4": {
         "hp": [37, 40, 43],
         "atk": [41, 44, 47],
@@ -27964,6 +27999,13 @@
         "spd": [45, 48, 52],
         "def": [32, 35, 38],
         "res": [20, 23, 26]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 8,
+        "res": 5
       },
       "4-1": {
         "hp": 18,

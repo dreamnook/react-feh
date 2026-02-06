@@ -571,6 +571,15 @@
     "icon": "skillB/Soaring_Wings",
     "last": true
   },
+  "Fruit of Life+": {
+    "id": "Fruit of Life+",
+    "name": "生於大地……・神",
+    "sp": 300,
+    "prev": ["Fruit of Life"],
+    "exclusive": ["Nerþuz - God of the Land"],
+    "icon": "skillB/Fruit_of_Life+",
+    "last": true
+  },
   "Fruit of Life": {
     "id": "Fruit of Life",
     "name": "生於大地、歸於大地",
