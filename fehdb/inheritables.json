@@ -1790,6 +1790,13 @@
         "name": "午年之弓+",
         "sp": 300,
         "refine": 350
+      },
+      "Bow of Love+": {
+        "pool": { "special": { "5": ["Louis - Petal Knight"] } },
+        "id": "Bow of Love+",
+        "name": "麗愛之弓+",
+        "sp": 300,
+        "refine": 350
       }
     },
     "dagger": {
@@ -3588,6 +3595,18 @@
       "sp": 400,
       "rules": "white-staff"
     },
+    "Guardian": {
+      "pool": { "special": { "5": ["Hortensia - Cutesplosion"] } },
+      "id": "Guardian",
+      "name": "保衛者",
+      "sp": 300
+    },
+    "Guardian+": {
+      "pool": { "special": { "5": ["Hortensia - Cutesplosion"] } },
+      "id": "Guardian+",
+      "name": "保衛者+",
+      "sp": 400
+    },
     "Swap": {
       "pool": {
         "#": {
@@ -4617,7 +4636,8 @@
             "Chulainn - Unbeaten Warrior",
             "Kronya - Gleaming Blade",
             "Linus - Mad Dog",
-            "Xane - Fickle Dragon"
+            "Xane - Fickle Dragon",
+            "Takumi - Troubled Heart"
           ]
         },
         "ascended": {
@@ -4671,7 +4691,6 @@
             "Fae - Holiday Dear",
             "Katarina - Torchlit Wanderer",
             "Anna - Secret Charmer",
-            "Takumi - Troubled Heart",
             "Zelgius - Ninja Knight",
             "Tharja - Shadow Ninja",
             "Yunaka - Spirited Envoy",
@@ -4680,7 +4699,8 @@
             "Black Knight - The Night's Blade",
             "Claude - Golden Breeze",
             "Nerþuz - New-Year Doter",
-            "Greil - Heroic Exemplar"
+            "Greil - Heroic Exemplar",
+            "Céline - Love's Aroma"
           ]
         },
         "duo": {
@@ -4744,6 +4764,7 @@
     "Magic Light": {
       "pool": {
         "#": { "5": ["Sharena - Hopeful Princess"] },
+        "special": { "5": ["Céline - Love's Aroma"] },
         "harmonized": { "5": ["Celica - Sunlit Priestesses"] }
       },
       "id": "Magic Light",
@@ -4802,7 +4823,8 @@
             "Innes - Frelian Moonlight",
             "Felix - Icy Gift Giver",
             "Kana - Rising Sunlight",
-            "Clarisse - Sniper in the Dark"
+            "Clarisse - Sniper in the Dark",
+            "Nino - Spirited Sorcerer"
           ]
         },
         "ascended": {
@@ -4850,7 +4872,6 @@
             "Naesala - Sea's Shadow",
             "Delthea - Prodigy in Bloom",
             "Fáfnir - Fresh Ambition",
-            "Nino - Spirited Sorcerer",
             "Shinon - Sharptongue Ninja",
             "Camilla - Midnight Bloom",
             "Ivy - Tidal Breeze",
@@ -5607,6 +5628,7 @@
             "Manuela - Silver Caroler",
             "Hana - Striving Heart",
             "Palla - Soaring Summer",
+            "Louis - Petal Knight",
             "Skrimir - Echoing Howl"
           ],
           "5": [
@@ -5913,7 +5935,7 @@
             "Gatekeeper - Midwinter Toil"
           ]
         },
-        "duo": { "5": ["Julia - Brides of Light"] },
+        "duo": { "5": ["Julia - Brides of Light", "Veyle - Sister Dragons"] },
         "harmonized": { "5": ["Ivy - Flurry Embrace"] }
       },
       "id": "Glacies",
@@ -5984,7 +6006,7 @@
             "Gatekeeper - Midwinter Toil"
           ]
         },
-        "duo": { "5": ["Julia - Brides of Light"] },
+        "duo": { "5": ["Julia - Brides of Light", "Veyle - Sister Dragons"] },
         "harmonized": { "5": ["Ivy - Flurry Embrace"] }
       },
       "id": "Ice Wall",
@@ -6428,7 +6450,9 @@
           "3": ["Yuliya - Princess of Grust", "Linoan - Lady of Tarrah"],
           "5": ["Flayn - Playing Innocent"]
         },
-        "special": { "5": ["Saul - Minister of Love"] }
+        "special": {
+          "5": ["Saul - Minister of Love", "Hortensia - Cutesplosion"]
+        }
       },
       "id": "Deluge Balm",
       "name": "疾風靜水的祝福",
@@ -6443,6 +6467,13 @@
       "id": "Deluge Balm+",
       "name": "疾風靜水的祝福+",
       "sp": 300,
+      "rules": "white-staff"
+    },
+    "Deluge Charm": {
+      "pool": { "special": { "5": ["Hortensia - Cutesplosion"] } },
+      "id": "Deluge Charm",
+      "name": "疾風靜水的招福",
+      "sp": 500,
       "rules": "white-staff"
     },
     "Earthwater Balm": {
@@ -7870,10 +7901,10 @@
           "3": ["Tatiana - Devoted Saint"],
           "5": ["Ewan - Eager Student", "Ronan - Villager of Iz"]
         },
-        "grail": { "4": ["Lumera - Dragon Monarch"] },
-        "special": {
-          "5": ["Sharena - Spring Princess", "Takumi - Troubled Heart"]
-        }
+        "grail": {
+          "4": ["Lumera - Dragon Monarch", "Takumi - Troubled Heart"]
+        },
+        "special": { "5": ["Sharena - Spring Princess"] }
       },
       "id": "Swift Stance 2",
       "name": "飛燕明鏡架勢2",
@@ -7884,7 +7915,7 @@
     "Swift Stance 3": {
       "pool": {
         "#": { "5": ["Ronan - Villager of Iz"] },
-        "special": { "5": ["Takumi - Troubled Heart"] }
+        "grail": { "5": ["Takumi - Troubled Heart"] }
       },
       "id": "Swift Stance 3",
       "name": "飛燕明鏡架勢3",
@@ -8586,7 +8617,11 @@
         "attuned": { "5": ["Azura - Song's Reflection"] },
         "emblem": { "5": ["Corrin - Of Fates"] },
         "special": {
-          "5": ["Charlotte - Money Maiden", "Framme - Spring Fangirl"]
+          "5": [
+            "Hortensia - Cutesplosion",
+            "Charlotte - Money Maiden",
+            "Framme - Spring Fangirl"
+          ]
         }
       },
       "id": "Wind Boost 3",
@@ -8678,7 +8713,10 @@
       "icon": "skillA/Deluge_Boost_3"
     },
     "Torrential Boost": {
-      "pool": { "emblem": { "5": ["Corrin - Of Fates"] } },
+      "pool": {
+        "emblem": { "5": ["Corrin - Of Fates"] },
+        "special": { "5": ["Hortensia - Cutesplosion"] }
+      },
       "id": "Torrential Boost",
       "name": "火風水的命脈",
       "sp": 300,
@@ -8731,7 +8769,8 @@
             "Tharja - Obsessive Bride",
             "Lyn - Wind's Embrace",
             "Fjorm - New Traditions",
-            "Váli - Devoted Sister"
+            "Váli - Devoted Sister",
+            "Céline - Love's Aroma"
           ]
         },
         "duo": { "5": ["Peony - Álfar Dream Duo", "Freyja - Parallel Hearts"] },
@@ -8819,7 +8858,7 @@
             "Soren - Addled Strategist"
           ]
         },
-        "duo": { "5": ["Sigurd - Destined Duo"] },
+        "duo": { "5": ["Sigurd - Destined Duo", "Veyle - Sister Dragons"] },
         "harmonized": { "5": ["Altina - Cross-Time Duo"] }
       },
       "id": "Atk/Res Bond 3",
@@ -8962,7 +9001,7 @@
         "#": { "5": ["Sharena - Hopeful Princess"] },
         "legendary": { "5": ["Elise - Sincere Sister"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
-        "special": { "5": ["Váli - Devoted Sister"] },
+        "special": { "5": ["Váli - Devoted Sister", "Céline - Love's Aroma"] },
         "duo": { "5": ["Freyja - Parallel Hearts"] }
       },
       "id": "Atk/Spd Aria",
@@ -8976,7 +9015,8 @@
         "mythic": {
           "5": ["Heimdallr - God of Foresight", "Alfaðör - Celestial King"]
         },
-        "special": { "5": ["Heimdallr - New Year's Vision"] }
+        "special": { "5": ["Heimdallr - New Year's Vision"] },
+        "duo": { "5": ["Veyle - Sister Dragons"] }
       },
       "id": "Atk/Res Aria",
       "name": "攻擊魔防的詠唱",
@@ -10710,7 +10750,10 @@
             "Felix - Lone-Wolf Blade"
           ]
         },
-        "grail": { "5": ["Zelkov - Winter Shadow"] },
+        "grail": {
+          "4": ["Nino - Spirited Sorcerer"],
+          "5": ["Zelkov - Winter Shadow"]
+        },
         "ascended": { "5": ["Fir - Swordmaiden"] },
         "rearmed": { "5": ["Sothe - Dawning Zephyr", "Leila - Superb Shadow"] },
         "emblem": { "5": ["Marth - Of Beginnings", "Lyn - Of Blazing"] },
@@ -10725,7 +10768,6 @@
           "4": ["Clanne - Summer Fan"],
           "5": [
             "Rebecca - Breezy Scamp",
-            "Nino - Spirited Sorcerer",
             "Fjorm - Seaside Thaw",
             "Corrin - Starry Seer"
           ]
@@ -10748,6 +10790,7 @@
             "Felix - Lone-Wolf Blade"
           ]
         },
+        "grail": { "5": ["Nino - Spirited Sorcerer"] },
         "ascended": { "5": ["Fir - Swordmaiden"] },
         "rearmed": { "5": ["Sothe - Dawning Zephyr", "Leila - Superb Shadow"] },
         "emblem": { "5": ["Marth - Of Beginnings", "Lyn - Of Blazing"] },
@@ -10758,13 +10801,7 @@
             "Shez - Dual Sword Master"
           ]
         },
-        "special": {
-          "5": [
-            "Nino - Spirited Sorcerer",
-            "Fjorm - Seaside Thaw",
-            "Corrin - Starry Seer"
-          ]
-        },
+        "special": { "5": ["Fjorm - Seaside Thaw", "Corrin - Starry Seer"] },
         "harmonized": { "5": ["Goldmary - Coy Beach Divas"] }
       },
       "id": "Atk/Spd Finish 4",
@@ -11731,6 +11768,7 @@
         "legendary": { "5": ["Tiki - Legendary Dragon"] },
         "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
         "special": {
+          "4": ["Louis - Petal Knight"],
           "5": [
             "Dheginsea - Harvest Goldoan",
             "Henriette - Overflowing Love",
@@ -11749,7 +11787,9 @@
       "pool": {
         "#": { "5": ["Melíai - Warrior Wanderer"] },
         "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
-        "special": { "5": ["Níðhöggr - Daze of Healing"] }
+        "special": {
+          "5": ["Louis - Petal Knight", "Níðhöggr - Daze of Healing"]
+        }
       },
       "id": "Slick Fighter 4",
       "name": "正面隊形・自己4",
@@ -11809,10 +11849,9 @@
     "Savvy Fighter 3": {
       "pool": {
         "#": { "5": ["Anankos - Seething Silence"] },
+        "grail": { "4": ["Takumi - Troubled Heart"] },
         "ascended": { "5": ["Amelia - Blossoming Talent"] },
-        "special": {
-          "5": ["Lucina - Future Fondness", "Takumi - Troubled Heart"]
-        },
+        "special": { "5": ["Lucina - Future Fondness"] },
         "duo": { "5": ["Corrin - Young Kinship"] }
       },
       "id": "Savvy Fighter 3",
@@ -13630,7 +13669,8 @@
     },
     "Atk/Res Snag 3": {
       "pool": {
-        "special": { "5": ["Cath - Caper Captain", "Leo - Dark Sprout"] }
+        "special": { "5": ["Cath - Caper Captain", "Leo - Dark Sprout"] },
+        "duo": { "5": ["Veyle - Sister Dragons"] }
       },
       "id": "Atk/Res Snag 3",
       "name": "攻擊魔防干涉3",
@@ -13667,7 +13707,11 @@
       "pool": {
         "grail": { "5": ["Robin - Keen Groom"] },
         "special": {
-          "5": ["Selena - Sandbar Fluorspar", "Veronica - Royal Reception"]
+          "5": [
+            "Selena - Sandbar Fluorspar",
+            "Veronica - Royal Reception",
+            "Céline - Love's Aroma"
+          ]
         }
       },
       "id": "Spd/Res Snag 3",
@@ -13713,6 +13757,22 @@
       "sp": 300,
       "icon": "skillB/Spd_Res_Detect",
       "rules": "learner.cavalry-flying-not-staff"
+    },
+    "A/R Detect Aerial": {
+      "pool": { "duo": { "5": ["Veyle - Sister Dragons"] } },
+      "id": "A/R Detect Aerial",
+      "name": "攻魔的看破・俯瞰",
+      "sp": 300,
+      "icon": "skillB/A_R_Detect_Aerial",
+      "rules": "learner.cavalry-flying-ranged-not-staff"
+    },
+    "S/R Detect Aerial": {
+      "pool": { "special": { "5": ["Céline - Love's Aroma"] } },
+      "id": "S/R Detect Aerial",
+      "name": "速魔的看破・俯瞰",
+      "sp": 300,
+      "icon": "skillB/S_R_Detect_Aerial",
+      "rules": "learner.cavalry-flying-ranged-not-staff"
     },
     "Atk Feint 3": {
       "pool": {
@@ -15067,7 +15127,7 @@
     "Spd Preempt 3": {
       "pool": {
         "#": { "5": ["Byleth - Sublime Light"] },
-        "special": { "5": ["Nino - Spirited Sorcerer"] }
+        "grail": { "4": ["Nino - Spirited Sorcerer"] }
       },
       "id": "Spd Preempt 3",
       "name": "速度搶先3",
@@ -15405,7 +15465,9 @@
     "Pair Up 3": {
       "pool": {
         "emblem": { "5": ["Corrin - Of Fates"] },
-        "special": { "5": ["Alfred - Joyous Snowdrop"] }
+        "special": {
+          "5": ["Hortensia - Cutesplosion", "Alfred - Joyous Snowdrop"]
+        }
       },
       "id": "Pair Up 3",
       "name": "防陣3",
@@ -15416,7 +15478,9 @@
     "Pair Up 4": {
       "pool": {
         "emblem": { "5": ["Corrin - Of Fates"] },
-        "special": { "5": ["Alfred - Joyous Snowdrop"] }
+        "special": {
+          "5": ["Hortensia - Cutesplosion", "Alfred - Joyous Snowdrop"]
+        }
       },
       "id": "Pair Up 4",
       "name": "防陣4",
@@ -17581,6 +17645,7 @@
             "Volke - Man of Mysteries"
           ]
         },
+        "grail": { "4": ["Nino - Spirited Sorcerer"] },
         "ascended": { "5": ["Ishtar - Echoing Thunder"] },
         "rearmed": {
           "5": [
@@ -17619,7 +17684,6 @@
           "5": [
             "Lissa - Littlest Princess",
             "Soren - Hushed Voice",
-            "Nino - Spirited Sorcerer",
             "Fjorm - Seaside Thaw",
             "Altina - Unrivaled Dawn",
             "Ike - Desert Mercenary",
@@ -17651,11 +17715,11 @@
             "Soren - Radiant Confidant"
           ]
         },
+        "grail": { "5": ["Nino - Spirited Sorcerer"] },
         "attuned": { "5": ["Eirika - Resolute Princess"] },
         "legendary": { "5": ["Micaiah - Radiant Queen"] },
         "special": {
           "5": [
-            "Nino - Spirited Sorcerer",
             "Fjorm - Seaside Thaw",
             "Altina - Unrivaled Dawn",
             "Timerra - Trick or Meat"
@@ -18081,8 +18145,8 @@
     "A/S Far Save 2": {
       "pool": {
         "#": { "5": ["Corrin - Silent Bloodline"] },
+        "grail": { "4": ["Takumi - Troubled Heart"] },
         "ascended": { "5": ["Amelia - Blossoming Talent"] },
-        "special": { "5": ["Takumi - Troubled Heart"] },
         "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
       },
       "id": "A/S Far Save 2",
@@ -18094,8 +18158,8 @@
     "A/S Far Save 3": {
       "pool": {
         "#": { "5": ["Corrin - Silent Bloodline"] },
+        "grail": { "5": ["Takumi - Troubled Heart"] },
         "ascended": { "5": ["Amelia - Blossoming Talent"] },
-        "special": { "5": ["Takumi - Troubled Heart"] },
         "duo": { "5": ["Fjorm - Gleaming Ice Pair"] }
       },
       "id": "A/S Far Save 3",
@@ -18177,6 +18241,7 @@
     "D/R Far Save 2": {
       "pool": {
         "special": {
+          "4": ["Louis - Petal Knight"],
           "5": [
             "Artur - Silver Saint",
             "Black Knight - The Night's Blade",
@@ -18194,6 +18259,7 @@
     "D/R Far Save 3": {
       "pool": {
         "special": {
+          "4": ["Louis - Petal Knight"],
           "5": [
             "Artur - Silver Saint",
             "Black Knight - The Night's Blade",
@@ -18818,7 +18884,9 @@
           "4": ["Hilda - Queen of Friege"],
           "5": ["Saleh - Vernal Sage"]
         },
-        "special": { "5": ["Cecilia - Etrurian Bride"] },
+        "special": {
+          "5": ["Cecilia - Etrurian Bride", "Céline - Love's Aroma"]
+        },
         "duo": { "5": ["Lyon - Esteemed Royals"] }
       },
       "id": "Rouse Atk/Res 3",
@@ -18948,6 +19016,14 @@
       "sp": 300,
       "icon": "skillC/Incite_Spd_Def",
       "rules": "learner.infantry-cavalry"
+    },
+    "Truly Inspired": {
+      "pool": { "special": { "5": ["Céline - Love's Aroma"] } },
+      "id": "Truly Inspired",
+      "name": "真奮激・謀策",
+      "sp": 300,
+      "icon": "skillC/Truly_Inspired",
+      "rules": "cavalry"
     },
     "Atk/Spd Oath 3": {
       "pool": {

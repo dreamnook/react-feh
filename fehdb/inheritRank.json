@@ -2590,6 +2590,20 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Oath 4": { "sp": 300, "rarity": 5 } }
   },
+  "Hortensia - Cutesplosion": {
+    "score": 133,
+    "scoreTotal": 398,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 202,
+    "assist": { "Guardian+": { "sp": 400, "rarity": 5 } },
+    "special": { "Deluge Charm": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Torrential Boost": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Pair Up 4": { "sp": 300, "rarity": 5 } }
+  },
   "Kempf - Conniving General": {
     "score": 269,
     "scoreTotal": 398,
@@ -4683,6 +4697,19 @@
     "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
     "skillA": { "Defiant Def 3": { "sp": 160, "rarity": 5 } },
     "skillC": { "Hone Fliers": { "sp": 200, "rarity": 5 } }
+  },
+  "Louis - Petal Knight": {
+    "score": 245,
+    "scoreTotal": 504,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 300,
+    "bst": 207,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Slick Fighter 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "D/R Far Save 3": { "sp": 300, "rarity": 4 } }
   },
   "Skrimir - Echoing Howl": {
     "score": 245,
@@ -10850,6 +10877,34 @@
     "skillB": { "Vantage 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 5 } }
   },
+  "Nino - Spirited Sorcerer": {
+    "score": 299,
+    "scoreTotal": 840,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 300,
+    "bst": 177,
+    "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd Preempt 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Takumi - Troubled Heart": {
+    "score": 299,
+    "scoreTotal": 840,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 300,
+    "bst": 185,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Swift Stance 3": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Savvy Fighter 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "A/S Far Save 3": { "sp": 300, "rarity": 5 } }
+  },
   "Ninian - Frozen Heart": {
     "score": 300,
     "scoreTotal": 840,
@@ -15175,20 +15230,6 @@
     "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "A/R Far Save 3": { "sp": 300, "rarity": 5 } }
   },
-  "Nino - Spirited Sorcerer": {
-    "score": 318,
-    "scoreTotal": 1102,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 1040,
-    "feather": 1000,
-    "bst": 177,
-    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Spd Preempt 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
-  },
   "Karla - Spring Reveries": {
     "score": 318,
     "scoreTotal": 1102,
@@ -15258,20 +15299,6 @@
     "skillA": { "Close Def 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Crafty Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "D/R Near Save 3": { "sp": 300, "rarity": 5 } }
-  },
-  "Takumi - Troubled Heart": {
-    "score": 318,
-    "scoreTotal": 1102,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 1040,
-    "feather": 1000,
-    "bst": 185,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Swift Stance 3": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Savvy Fighter 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "A/S Far Save 3": { "sp": 300, "rarity": 5 } }
   },
   "Sothis - Silver Specter": {
     "score": 318,
@@ -16330,6 +16357,19 @@
     "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
     "skillC": { "Pulse On: Blades": { "sp": 300, "rarity": 5 } }
   },
+  "Veyle - Sister Dragons": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Aria": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/R Detect Aerial": { "sp": 300, "rarity": 5 } }
+  },
   "Ophelia - Dramatic Heroine": {
     "score": 400,
     "scoreTotal": 1180,
@@ -17040,6 +17080,20 @@
     "skillA": { "Sly Sturdy Blow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Def Favor": { "sp": 300, "rarity": 5 } },
     "skillC": { "Time Pulse Arms": { "sp": 300, "rarity": 5 } }
+  },
+  "Céline - Love's Aroma": {
+    "score": 530,
+    "scoreTotal": 1484,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 1000,
+    "bst": 184,
+    "special": { "Magic Light": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Detect Aerial": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Truly Inspired": { "sp": 300, "rarity": 5 } }
   },
   "Goldmary - Coy Beach Divas": {
     "score": 530,

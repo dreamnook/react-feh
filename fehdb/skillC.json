@@ -807,6 +807,22 @@
     "icon": "skillC/Budding_Flower",
     "last": true
   },
+  "Fell Refuge": {
+    "id": "Fell Refuge",
+    "name": "真邪龍的救濟",
+    "sp": 300,
+    "exclusive": ["Veyle - Sister Dragons"],
+    "icon": "skillC/Fell_Refuge",
+    "last": true
+  },
+  "Huge Personality": {
+    "id": "Huge Personality",
+    "name": "真輝煌原力",
+    "sp": 300,
+    "exclusive": ["Hortensia - Cutesplosion"],
+    "icon": "skillC/Huge_Personality",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -4054,6 +4070,15 @@
     "rules": "learner.infantry-cavalry",
     "prev": ["Rouse Spd/Def 3"],
     "icon": "skillC/Incite_Spd_Def",
+    "last": true
+  },
+  "Truly Inspired": {
+    "id": "Truly Inspired",
+    "name": "真奮激・謀策",
+    "sp": 300,
+    "rules": "cavalry",
+    "prev": ["Rouse Atk/Res 3"],
+    "icon": "skillC/Truly_Inspired",
     "last": true
   },
   "Atk/Spd Oath 1": {

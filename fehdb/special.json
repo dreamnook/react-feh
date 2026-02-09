@@ -1542,12 +1542,22 @@
     "sp": 200,
     "cd": 1,
     "prev": ["Swift-Winds Balm", "Still-Water Balm"],
-    "rules": "white-staff"
+    "rules": "white-staff",
+    "last": true
   },
   "Deluge Balm+": {
     "id": "Deluge Balm+",
     "name": "疾風靜水的祝福+",
     "sp": 300,
+    "cd": 1,
+    "prev": ["Deluge Balm"],
+    "rules": "white-staff",
+    "last": true
+  },
+  "Deluge Charm": {
+    "id": "Deluge Charm",
+    "name": "疾風靜水的招福",
+    "sp": 500,
     "cd": 1,
     "prev": ["Deluge Balm"],
     "rules": "white-staff",

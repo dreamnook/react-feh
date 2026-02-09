@@ -3883,6 +3883,24 @@
     "icon": "skillB/Spd_Res_Detect",
     "last": true
   },
+  "A/R Detect Aerial": {
+    "id": "A/R Detect Aerial",
+    "name": "攻魔的看破・俯瞰",
+    "sp": 300,
+    "rules": "learner.cavalry-flying-ranged-not-staff",
+    "prev": ["Atk/Res Snag 3"],
+    "icon": "skillB/A_R_Detect_Aerial",
+    "last": true
+  },
+  "S/R Detect Aerial": {
+    "id": "S/R Detect Aerial",
+    "name": "速魔的看破・俯瞰",
+    "sp": 300,
+    "rules": "learner.cavalry-flying-ranged-not-staff",
+    "prev": ["Spd/Res Snag 3"],
+    "icon": "skillB/S_R_Detect_Aerial",
+    "last": true
+  },
   "Atk Feint 1": {
     "id": "Atk Feint 1",
     "name": "攻擊共謀1",

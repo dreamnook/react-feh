@@ -593,6 +593,19 @@
     "rules": "white-staff",
     "last": true
   },
+  "Guardian": {
+    "id": "Guardian",
+    "name": "保衛者",
+    "sp": 300,
+    "prev": ["Mend"]
+  },
+  "Guardian+": {
+    "id": "Guardian+",
+    "name": "保衛者+",
+    "sp": 400,
+    "prev": ["Guardian"],
+    "last": true
+  },
   "Swap": {
     "id": "Swap",
     "name": "替換",

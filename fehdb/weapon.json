@@ -19132,6 +19132,39 @@
         }
       },
       "last": true
+    },
+    "Bow of Love": {
+      "id": "Bow of Love",
+      "name": "麗愛之弓",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Steel Bow"]
+    },
+    "Bow of Love+": {
+      "id": "Bow of Love+",
+      "name": "麗愛之弓+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Bow of Love"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
     }
   },
   "dagger": {
@@ -27574,6 +27607,16 @@
       "exclusive": ["Byleth - Of the Academy"],
       "last": true
     },
+    "Gift of Love": {
+      "id": "Gift of Love",
+      "name": "幸福的愛之贈禮",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Céline - Love's Aroma"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -30234,6 +30277,16 @@
       "exclusive": ["Heimdallr - New Year's Vision"],
       "last": true
     },
+    "Draconic Bond": {
+      "id": "Draconic Bond",
+      "name": "龍姊妹的愛之捧花",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Veyle - Sister Dragons"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",
@@ -32315,6 +32368,15 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Elise - Sincere Sister"],
+      "last": true
+    },
+    "Sweet Staff": {
+      "id": "Sweet Staff",
+      "name": "可愛的蛋糕杖",
+      "mt": 14,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Hortensia - Cutesplosion"],
       "last": true
     },
     "Arcane Charmer": {
