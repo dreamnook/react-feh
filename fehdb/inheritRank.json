@@ -14925,6 +14925,20 @@
     "skillB": { "Scowling Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "Higher Ground": { "sp": 300, "rarity": 5 } }
   },
+  "Fjorm - Icy Miracle": {
+    "score": 300,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "pool": "chosen",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Duelist's Blow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Null C-Avoid": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Faith": { "sp": 300, "rarity": 5 } }
+  },
   "Soren - Radiant Confidant": {
     "score": 500,
     "scoreTotal": 1100,
@@ -16240,6 +16254,19 @@
     "skillA": { "Def/Res Aria": { "sp": 300, "rarity": 5 } },
     "skillC": { "D/R Twin F Save": { "sp": 300, "rarity": 5 } }
   },
+  "Celica - With Grace": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Swift Specter": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Endless Tempest": { "sp": 300, "rarity": 5 } }
+  },
   "Sharena - Pillars of Peace": {
     "score": 530,
     "scoreTotal": 1166,
@@ -16720,6 +16747,19 @@
     "special": { "Archrival": { "sp": 500, "rarity": 5 } },
     "skillB": { "Execution Breath": { "sp": 400, "rarity": 5 } },
     "skillC": { "A/S Hone Assault": { "sp": 300, "rarity": 5 } }
+  },
+  "Hector - Into the Fray": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 212,
+    "special": { "Armored Flare": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Patience": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/D Briar F Save": { "sp": 300, "rarity": 5 } }
   },
   "Baldr - New Year's Elite": {
     "score": 530,

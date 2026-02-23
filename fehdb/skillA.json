@@ -525,6 +525,19 @@
     "icon": "skillA/Dragoon_Pillar",
     "last": true
   },
+  "Ostian Backbone": {
+    "id": "Ostian Backbone",
+    "name": "真奧斯提亞的反擊",
+    "sp": 300,
+    "hp": 5,
+    "atk": 9,
+    "spd": 9,
+    "def": 9,
+    "res": 9,
+    "exclusive": ["Hector - Into the Fray"],
+    "icon": "skillA/Ostian_Backbone",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -4094,42 +4107,6 @@
     "icon": "skillA/Def_Res_Form_3",
     "last": true
   },
-  "Sway Atk/Spd": {
-    "id": "Sway Atk/Spd",
-    "name": "攻擊速度的傳教",
-    "sp": 300,
-    "rules": "white-staff",
-    "prev": ["Atk/Spd Form 3"],
-    "icon": "skillA/Sway_Atk_Spd",
-    "last": true
-  },
-  "Sway Atk/Res": {
-    "id": "Sway Atk/Res",
-    "name": "攻擊魔防的傳教",
-    "sp": 300,
-    "rules": "white-staff",
-    "prev": ["Atk/Res Form 3"],
-    "icon": "skillA/Sway_Atk_Res",
-    "last": true
-  },
-  "Atk/Spd Tidings": {
-    "id": "Atk/Spd Tidings",
-    "name": "攻擊速度的福音",
-    "sp": 300,
-    "rules": "white-staff",
-    "prev": ["Atk/Spd Form 3"],
-    "icon": "skillA/Atk_Spd_Tidings",
-    "last": true
-  },
-  "Atk/Res Tidings": {
-    "id": "Atk/Res Tidings",
-    "name": "攻擊魔防的福音",
-    "sp": 300,
-    "rules": "white-staff",
-    "prev": ["Atk/Res Form 3"],
-    "icon": "skillA/Atk_Res_Tidings",
-    "last": true
-  },
   "Atk/Spd Fortune": {
     "id": "Atk/Spd Fortune",
     "name": "攻擊速度的共榮",
@@ -4164,6 +4141,42 @@
     "rules": "beast",
     "prev": ["Def/Res Form 3"],
     "icon": "skillA/Def_Res_Fortune",
+    "last": true
+  },
+  "Sway Atk/Spd": {
+    "id": "Sway Atk/Spd",
+    "name": "攻擊速度的傳教",
+    "sp": 300,
+    "rules": "white-staff",
+    "prev": ["Atk/Spd Form 3"],
+    "icon": "skillA/Sway_Atk_Spd",
+    "last": true
+  },
+  "Sway Atk/Res": {
+    "id": "Sway Atk/Res",
+    "name": "攻擊魔防的傳教",
+    "sp": 300,
+    "rules": "white-staff",
+    "prev": ["Atk/Res Form 3"],
+    "icon": "skillA/Sway_Atk_Res",
+    "last": true
+  },
+  "Atk/Spd Tidings": {
+    "id": "Atk/Spd Tidings",
+    "name": "攻擊速度的福音",
+    "sp": 300,
+    "rules": "white-staff",
+    "prev": ["Atk/Spd Form 3"],
+    "icon": "skillA/Atk_Spd_Tidings",
+    "last": true
+  },
+  "Atk/Res Tidings": {
+    "id": "Atk/Res Tidings",
+    "name": "攻擊魔防的福音",
+    "sp": 300,
+    "rules": "white-staff",
+    "prev": ["Atk/Res Form 3"],
+    "icon": "skillA/Atk_Res_Tidings",
     "last": true
   },
   "Blade Session 1": {
@@ -4432,6 +4445,15 @@
     "icon": "skillA/Atk_Spd_Airspace",
     "last": true
   },
+  "Trample": {
+    "id": "Trample",
+    "name": "居高臨下",
+    "sp": 300,
+    "rules": "learner.flying-melee",
+    "prev": ["Atk/Spd Catch 3"],
+    "icon": "skillA/Trample",
+    "last": true
+  },
   "Atk/Spd Ideal 1": {
     "id": "Atk/Spd Ideal 1",
     "name": "攻擊速度萬全1",
@@ -4639,6 +4661,15 @@
     "icon": "skillA/Perfect_Atk_Spd",
     "last": true
   },
+  "Swift Specter": {
+    "id": "Swift Specter",
+    "name": "攻速無缺・鬼沒",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "prev": ["Atk/Spd Ideal 3"],
+    "icon": "skillA/Swift_Specter",
+    "last": true
+  },
   "Atk/Spd Clash 1": {
     "id": "Atk/Spd Clash 1",
     "name": "攻擊速度的激戰1",
@@ -4736,15 +4767,6 @@
     "prev": ["Spd/Def Clash 3"],
     "rules": "learner.infantry-cavalry-flying-melee",
     "icon": "skillA/Spd_Def_Clash_4",
-    "last": true
-  },
-  "Trample": {
-    "id": "Trample",
-    "name": "居高臨下",
-    "sp": 300,
-    "rules": "learner.flying-melee",
-    "prev": ["Atk/Spd Catch 3"],
-    "icon": "skillA/Trample",
     "last": true
   },
   "Atk/Spd Excel": {

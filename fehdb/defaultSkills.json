@@ -879,6 +879,37 @@
       "A/S Far Save 3": 4
     }
   },
+  "Fjorm - Icy Miracle": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Chosen Lance": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4,
+      "Frozen Mirror": 5
+    },
+    "skillA": {
+      "Warding Blow 1": 2,
+      "Warding Blow 2": 3,
+      "Warding Blow 3": 4,
+      "Duelist's Blow": 5
+    },
+    "skillB": {
+      "Velocity 1": 2,
+      "Velocity 2": 3,
+      "Velocity 3": 4,
+      "Null C-Avoid": 5
+    },
+    "skillC": {
+      "Spd/Res Oath 1": 2,
+      "Spd/Res Oath 2": 3,
+      "Spd/Res Oath 3": 4,
+      "Spd/Res Faith": 5
+    }
+  },
   "Gunnthrá - Voice of Dreams": {
     "weapon": {
       "Wind": 1,
@@ -7572,6 +7603,34 @@
       "A/S Incite Hone": 5
     }
   },
+  "Celica - With Grace": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Sisters' Blade": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Swift Specter": 5
+    },
+    "skillB": {
+      "Wild at Heart": 5
+    },
+    "skillC": {
+      "Odd Tempest 1": 2,
+      "Odd Tempest 2": 3,
+      "Odd Tempest 3": 4,
+      "Endless Tempest": 5
+    }
+  },
   "Mae - Bundle of Energy": {
     "weapon": {
       "Thunder": 1,
@@ -14075,6 +14134,34 @@
     },
     "skillX": {
       "D Counter Echo": 5
+    }
+  },
+  "Hector - Into the Fray": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Heroic Maltet": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Armored Flare": 5
+    },
+    "skillA": {
+      "Ostian Backbone": 5
+    },
+    "skillB": {
+      "Quick Riposte 1": 2,
+      "Quick Riposte 2": 3,
+      "Quick Riposte 3": 4,
+      "Patience": 5
+    },
+    "skillC": {
+      "A/D Far Save 1": 2,
+      "A/D Far Save 2": 3,
+      "A/D Far Save 3": 4,
+      "A/D Briar F Save": 5
     }
   },
   "Harken - Troubled Warrior": {

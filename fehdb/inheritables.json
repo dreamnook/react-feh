@@ -5354,7 +5354,7 @@
           ]
         },
         "duo": { "5": ["Corrin - Young Kinship", "Baldr - New Year's Elite"] },
-        "harmonized": { "5": ["Lyn - Glitters of Hope"] }
+        "harmonized": { "5": ["Celica - With Grace", "Lyn - Glitters of Hope"] }
       },
       "id": "Dragon Fang",
       "name": "龍穿",
@@ -5423,7 +5423,7 @@
         "legendary": { "5": ["Diamant - Fortified King"] },
         "special": { "5": ["Yunaka - Stealthy Imitator"] },
         "duo": { "5": ["Baldr - New Year's Elite"] },
-        "harmonized": { "5": ["Lyn - Glitters of Hope"] }
+        "harmonized": { "5": ["Celica - With Grace", "Lyn - Glitters of Hope"] }
       },
       "id": "Archrival",
       "name": "角逐",
@@ -5642,7 +5642,9 @@
             "Alfred - Joyous Snowdrop"
           ]
         },
-        "harmonized": { "5": ["Hilda - Skyward Wings"] }
+        "harmonized": {
+          "5": ["Hector - Into the Fray", "Hilda - Skyward Wings"]
+        }
       },
       "id": "Ignis",
       "name": "華炎",
@@ -5675,6 +5677,13 @@
       },
       "id": "Armored Blaze",
       "name": "重裝之大炎",
+      "sp": 500,
+      "rules": "learner.armored-not-staff"
+    },
+    "Armored Flare": {
+      "pool": { "harmonized": { "5": ["Hector - Into the Fray"] } },
+      "id": "Armored Flare",
+      "name": "重裝之雙炎",
       "sp": 500,
       "rules": "learner.armored-not-staff"
     },
@@ -9961,38 +9970,6 @@
       "sp": 240,
       "icon": "skillA/Def_Res_Form_3"
     },
-    "Sway Atk/Spd": {
-      "pool": { "legendary": { "5": ["Sakura - In Full Bloom"] } },
-      "id": "Sway Atk/Spd",
-      "name": "攻擊速度的傳教",
-      "sp": 300,
-      "icon": "skillA/Sway_Atk_Spd",
-      "rules": "white-staff"
-    },
-    "Sway Atk/Res": {
-      "pool": { "#": { "5": ["Edain - Lady of Yngvi"] } },
-      "id": "Sway Atk/Res",
-      "name": "攻擊魔防的傳教",
-      "sp": 300,
-      "icon": "skillA/Sway_Atk_Res",
-      "rules": "white-staff"
-    },
-    "Atk/Spd Tidings": {
-      "pool": { "special": { "5": ["Elise - Sparkling Smile"] } },
-      "id": "Atk/Spd Tidings",
-      "name": "攻擊速度的福音",
-      "sp": 300,
-      "icon": "skillA/Atk_Spd_Tidings",
-      "rules": "white-staff"
-    },
-    "Atk/Res Tidings": {
-      "pool": { "#": { "5": ["Lena - Bereft Angel"] } },
-      "id": "Atk/Res Tidings",
-      "name": "攻擊魔防的福音",
-      "sp": 300,
-      "icon": "skillA/Atk_Res_Tidings",
-      "rules": "white-staff"
-    },
     "Atk/Spd Fortune": {
       "pool": {
         "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
@@ -10032,6 +10009,38 @@
       "sp": 300,
       "icon": "skillA/Def_Res_Fortune",
       "rules": "beast"
+    },
+    "Sway Atk/Spd": {
+      "pool": { "legendary": { "5": ["Sakura - In Full Bloom"] } },
+      "id": "Sway Atk/Spd",
+      "name": "攻擊速度的傳教",
+      "sp": 300,
+      "icon": "skillA/Sway_Atk_Spd",
+      "rules": "white-staff"
+    },
+    "Sway Atk/Res": {
+      "pool": { "#": { "5": ["Edain - Lady of Yngvi"] } },
+      "id": "Sway Atk/Res",
+      "name": "攻擊魔防的傳教",
+      "sp": 300,
+      "icon": "skillA/Sway_Atk_Res",
+      "rules": "white-staff"
+    },
+    "Atk/Spd Tidings": {
+      "pool": { "special": { "5": ["Elise - Sparkling Smile"] } },
+      "id": "Atk/Spd Tidings",
+      "name": "攻擊速度的福音",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Tidings",
+      "rules": "white-staff"
+    },
+    "Atk/Res Tidings": {
+      "pool": { "#": { "5": ["Lena - Bereft Angel"] } },
+      "id": "Atk/Res Tidings",
+      "name": "攻擊魔防的福音",
+      "sp": 300,
+      "icon": "skillA/Atk_Res_Tidings",
+      "rules": "white-staff"
     },
     "Blade Session 3": {
       "pool": {
@@ -10307,6 +10316,14 @@
       "icon": "skillA/Atk_Spd_Airspace",
       "rules": "flying"
     },
+    "Trample": {
+      "pool": { "special": { "5": ["Camilla - Young Beauty"] } },
+      "id": "Trample",
+      "name": "居高臨下",
+      "sp": 300,
+      "icon": "skillA/Trample",
+      "rules": "learner.flying-melee"
+    },
     "Atk/Spd Ideal 3": {
       "pool": {
         "#": {
@@ -10342,7 +10359,8 @@
             "Felix - Savant's Service",
             "Marth - Masked Gladiator"
           ]
-        }
+        },
+        "harmonized": { "5": ["Celica - With Grace"] }
       },
       "id": "Atk/Spd Ideal 3",
       "name": "攻擊速度萬全3",
@@ -10542,6 +10560,14 @@
       "icon": "skillA/Perfect_Atk_Spd",
       "rules": "infantry"
     },
+    "Swift Specter": {
+      "pool": { "harmonized": { "5": ["Celica - With Grace"] } },
+      "id": "Swift Specter",
+      "name": "攻速無缺・鬼沒",
+      "sp": 300,
+      "icon": "skillA/Swift_Specter",
+      "rules": "learner.infantry-melee"
+    },
     "Atk/Spd Clash 3": {
       "pool": {
         "#": {
@@ -10693,14 +10719,6 @@
       "sp": 300,
       "icon": "skillA/Spd_Def_Clash_4",
       "rules": "learner.infantry-cavalry-flying-melee"
-    },
-    "Trample": {
-      "pool": { "special": { "5": ["Camilla - Young Beauty"] } },
-      "id": "Trample",
-      "name": "居高臨下",
-      "sp": 300,
-      "icon": "skillA/Trample",
-      "rules": "learner.flying-melee"
     },
     "Atk/Spd Excel": {
       "pool": {
@@ -11473,7 +11491,9 @@
             "Hríd - Resolute Prince"
           ]
         },
-        "harmonized": { "5": ["Ike - Zealous Inheritors"] }
+        "harmonized": {
+          "5": ["Ike - Zealous Inheritors", "Hector - Into the Fray"]
+        }
       },
       "id": "Quick Riposte 3",
       "name": "回擊3",
@@ -11490,7 +11510,9 @@
     "Patience": {
       "pool": {
         "emblem": { "5": ["Edelgard - Of Rivals"] },
-        "harmonized": { "5": ["Ike - Zealous Inheritors"] }
+        "harmonized": {
+          "5": ["Ike - Zealous Inheritors", "Hector - Into the Fray"]
+        }
       },
       "id": "Patience",
       "name": "後發先至",
@@ -18179,7 +18201,8 @@
         "special": {
           "4": ["Skrimir - Echoing Howl"],
           "5": ["Robin - Tactful Deliverer", "Fomortiis - Dark of Night"]
-        }
+        },
+        "harmonized": { "5": ["Hector - Into the Fray"] }
       },
       "id": "A/D Far Save 2",
       "name": "鎧之守護人・遠處2",
@@ -18198,7 +18221,8 @@
         "special": {
           "4": ["Skrimir - Echoing Howl"],
           "5": ["Robin - Tactful Deliverer", "Fomortiis - Dark of Night"]
-        }
+        },
+        "harmonized": { "5": ["Hector - Into the Fray"] }
       },
       "id": "A/D Far Save 3",
       "name": "鎧之守護人・遠處3",
@@ -18288,7 +18312,8 @@
     "A/D Briar F Save": {
       "pool": {
         "legendary": { "5": ["Black Knight - Mortal Legend"] },
-        "special": { "5": ["Fomortiis - Dark of Night"] }
+        "special": { "5": ["Fomortiis - Dark of Night"] },
+        "harmonized": { "5": ["Hector - Into the Fray"] }
       },
       "id": "A/D Briar F Save",
       "name": "鎧之守護人・遠・棘",
@@ -19237,6 +19262,14 @@
       "icon": "skillC/Atk_Spd_Faith",
       "rules": "learner.infantry-melee"
     },
+    "Spd/Res Faith": {
+      "pool": {},
+      "id": "Spd/Res Faith",
+      "name": "速度魔防的信心",
+      "sp": 300,
+      "icon": "skillC/Spd_Res_Faith",
+      "rules": "learner.infantry-melee"
+    },
     "Odd Tempest 3": {
       "pool": {
         "#": { "5": ["Dimitri - Savage Boar", "Felix - Sword Savant"] },
@@ -19249,7 +19282,8 @@
             "Larcei - Bride of Astra",
             "Felix - Savant's Service"
           ]
-        }
+        },
+        "harmonized": { "5": ["Celica - With Grace"] }
       },
       "id": "Odd Tempest 3",
       "name": "迅雷風烈・奇數3",
@@ -19283,7 +19317,8 @@
     "Endless Tempest": {
       "pool": {
         "#": { "5": ["Felix - Sword Savant"] },
-        "special": { "5": ["Diamant - Gallant Ninja"] }
+        "special": { "5": ["Diamant - Gallant Ninja"] },
+        "harmonized": { "5": ["Celica - With Grace"] }
       },
       "id": "Endless Tempest",
       "name": "迅雷風烈・無極",
@@ -19343,6 +19378,28 @@
       "sp": 300,
       "icon": "skillC/Assault_Rush",
       "rules": "learner.wielderInfantryArmored"
+    },
+    "Strat Assault 3": {
+      "pool": {
+        "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
+      },
+      "id": "Strat Assault 3",
+      "name": "計策・一齊突擊3",
+      "sp": 240,
+      "icon": "skillC/Strat_Assault_3",
+      "rules": "learner.armored-flying"
+    },
+    "Strat Assault 4": {
+      "pool": {
+        "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
+      },
+      "id": "Strat Assault 4",
+      "name": "計策・一齊突擊4",
+      "sp": 300,
+      "icon": "skillC/Strat_Assault_4",
+      "rules": "learner.armored-flying"
     },
     "Odd Recovery 3": {
       "pool": {
@@ -19579,28 +19636,6 @@
       "sp": 300,
       "icon": "skillC/Silence_Ward_4",
       "rules": "learner.infantry-armored-flying-ranged-res-dmger"
-    },
-    "Strat Assault 3": {
-      "pool": {
-        "emblem": { "5": ["Edelgard - Of Rivals"] },
-        "harmonized": { "5": ["Hilda - Skyward Wings"] }
-      },
-      "id": "Strat Assault 3",
-      "name": "計策・一齊突擊3",
-      "sp": 240,
-      "icon": "skillC/Strat_Assault_3",
-      "rules": "learner.armored-flying"
-    },
-    "Strat Assault 4": {
-      "pool": {
-        "emblem": { "5": ["Edelgard - Of Rivals"] },
-        "harmonized": { "5": ["Hilda - Skyward Wings"] }
-      },
-      "id": "Strat Assault 4",
-      "name": "計策・一齊突擊4",
-      "sp": 300,
-      "icon": "skillC/Strat_Assault_4",
-      "rules": "learner.armored-flying"
     },
     "Instruct 3": {
       "pool": { "emblem": { "5": ["Byleth - Of the Academy"] } },

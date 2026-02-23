@@ -775,6 +775,15 @@
     "exclusive": ["Byleth - Of the Academy"],
     "last": true
   },
+  "Frozen Mirror": {
+    "id": "Frozen Mirror",
+    "name": "真冰之聖鏡",
+    "sp": 500,
+    "cd": 3,
+    "prev": ["Glacies"],
+    "exclusive": ["Fjorm - Icy Miracle"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -1111,6 +1120,15 @@
     "sp": 500,
     "cd": 3,
     "prev": ["Bonfire"],
+    "rules": "learner.armored-not-staff",
+    "last": true
+  },
+  "Armored Flare": {
+    "id": "Armored Flare",
+    "name": "重裝之雙炎",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Ignis"],
     "rules": "learner.armored-not-staff",
     "last": true
   },

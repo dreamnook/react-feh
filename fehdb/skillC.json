@@ -4288,6 +4288,15 @@
     "icon": "skillC/Atk_Spd_Faith",
     "last": true
   },
+  "Spd/Res Faith": {
+    "id": "Spd/Res Faith",
+    "name": "速度魔防的信心",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "prev": ["Spd/Res Oath 3"],
+    "icon": "skillC/Spd_Res_Faith",
+    "last": true
+  },
   "Odd Tempest 1": {
     "id": "Odd Tempest 1",
     "name": "迅雷風烈・奇數1",
@@ -4402,6 +4411,39 @@
     "rules": "learner.wielderInfantryArmored",
     "prev": ["Assault Troop 3"],
     "icon": "skillC/Assault_Rush",
+    "last": true
+  },
+  "Strat Assault 1": {
+    "id": "Strat Assault 1",
+    "name": "計策・一齊突擊1",
+    "sp": 60,
+    "rules": "learner.armored-flying",
+    "icon": "skillC/Strat_Assault_1"
+  },
+  "Strat Assault 2": {
+    "id": "Strat Assault 2",
+    "name": "計策・一齊突擊2",
+    "sp": 120,
+    "prev": ["Strat Assault 1"],
+    "rules": "learner.armored-flying",
+    "icon": "skillC/Strat_Assault_2"
+  },
+  "Strat Assault 3": {
+    "id": "Strat Assault 3",
+    "name": "計策・一齊突擊3",
+    "sp": 240,
+    "prev": ["Strat Assault 2"],
+    "rules": "learner.armored-flying",
+    "icon": "skillC/Strat_Assault_3",
+    "last": true
+  },
+  "Strat Assault 4": {
+    "id": "Strat Assault 4",
+    "name": "計策・一齊突擊4",
+    "sp": 300,
+    "prev": ["Strat Assault 3"],
+    "rules": "learner.armored-flying",
+    "icon": "skillC/Strat_Assault_4",
     "last": true
   },
   "Odd Recovery 1": {
@@ -4774,39 +4816,6 @@
     "prev": ["Silence Ward 3"],
     "rules": "learner.infantry-armored-flying-ranged-res-dmger",
     "icon": "skillC/Silence_Ward_4",
-    "last": true
-  },
-  "Strat Assault 1": {
-    "id": "Strat Assault 1",
-    "name": "計策・一齊突擊1",
-    "sp": 60,
-    "rules": "learner.armored-flying",
-    "icon": "skillC/Strat_Assault_1"
-  },
-  "Strat Assault 2": {
-    "id": "Strat Assault 2",
-    "name": "計策・一齊突擊2",
-    "sp": 120,
-    "prev": ["Strat Assault 1"],
-    "rules": "learner.armored-flying",
-    "icon": "skillC/Strat_Assault_2"
-  },
-  "Strat Assault 3": {
-    "id": "Strat Assault 3",
-    "name": "計策・一齊突擊3",
-    "sp": 240,
-    "prev": ["Strat Assault 2"],
-    "rules": "learner.armored-flying",
-    "icon": "skillC/Strat_Assault_3",
-    "last": true
-  },
-  "Strat Assault 4": {
-    "id": "Strat Assault 4",
-    "name": "計策・一齊突擊4",
-    "sp": 300,
-    "prev": ["Strat Assault 3"],
-    "rules": "learner.armored-flying",
-    "icon": "skillC/Strat_Assault_4",
     "last": true
   },
   "Instruct 1": {

@@ -3823,6 +3823,16 @@
       "exclusive": ["Mia - Zenith Challenger"],
       "last": true
     },
+    "Sisters' Blade": {
+      "id": "Sisters' Blade",
+      "name": "雙愛王家之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Celica - With Grace"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -8735,6 +8745,26 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Azura - Lady of the Sky"],
+      "last": true
+    },
+    "Chosen Lance": {
+      "id": "Chosen Lance",
+      "name": "冰凍救世之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Fjorm - Icy Miracle"],
+      "last": true
+    },
+    "Heroic Maltet": {
+      "id": "Heroic Maltet",
+      "name": "雙勇馬爾堤",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Hector - Into the Fray"],
       "last": true
     },
     "Arcane Qiang": {

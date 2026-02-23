@@ -959,6 +959,14 @@
     "icon": "skillB/Festive_Report",
     "last": true
   },
+  "Wild at Heart": {
+    "id": "Wild at Heart",
+    "name": "真獅子連斬",
+    "sp": 400,
+    "exclusive": ["Celica - With Grace"],
+    "icon": "skillB/Wild_at_Heart",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
