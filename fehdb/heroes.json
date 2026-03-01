@@ -40720,6 +40720,43 @@
     "ver": "7.5",
     "dfKey": 5
   },
+  "Tiki - Everlasting Voice": {
+    "id": "Tiki - Everlasting Voice",
+    "title": "長生的巫女",
+    "name": "琪姬",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-dragon",
+    "moveType": "armored",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "light-def-2",
+    "appearsIn": ["Awakening"],
+    "releaseDate": "2026-02-27",
+    "stats": {
+      "5": {
+        "hp": [49, 52, 55],
+        "atk": [45, 48, 51],
+        "spd": [12, 16, 19],
+        "def": [44, 47, 50],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 26,
+        "atk": 11,
+        "spd": 3,
+        "def": 12,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": ["spd"],
+    "statMin": 212,
+    "statMax": 215,
+    "book": 10,
+    "ver": "10.2",
+    "dfKey": 8
+  },
   "Gregor - Swell Sword": {
     "id": "Gregor - Swell Sword",
     "title": "無所畏懼的傭兵",

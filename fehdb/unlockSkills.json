@@ -23413,6 +23413,34 @@
       "A/R Far Save 3": 4
     }
   },
+  "Tiki - Everlasting Voice": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Awakening Voice": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Glacies": 4,
+      "Armored Ice Cap": 5
+    },
+    "skillA": {
+      "Water Boost 1": 2,
+      "Water Boost 2": 3,
+      "Water Boost 3": 4,
+      "Diluvial Boost": 5
+    },
+    "skillB": {
+      "Heired Divinity": 5
+    },
+    "skillC": {
+      "Distant Guard 1": 2,
+      "Distant Guard 2": 3,
+      "Distant Guard 3": 4,
+      "Higher Ground": 5
+    }
+  },
   "Gregor - Swell Sword": {
     "weapon": {
       "Iron Sword": 1,

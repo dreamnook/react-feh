@@ -5923,6 +5923,7 @@
             "Heimdallr - God of Foresight",
             "Athos - Omniscient One",
             "Höðr - Dusk Shadow God",
+            "Tiki - Everlasting Voice",
             "Alfaðör - Celestial King"
           ]
         },
@@ -5967,6 +5968,13 @@
       "pool": { "#": { "5": ["Grima - Tyrant of Despair"] } },
       "id": "Armored Glacier",
       "name": "重裝之大冰",
+      "sp": 500,
+      "rules": "learner.armored-not-staff"
+    },
+    "Armored Ice Cap": {
+      "pool": { "mythic": { "5": ["Tiki - Everlasting Voice"] } },
+      "id": "Armored Ice Cap",
+      "name": "重裝的雙冰",
       "sp": 500,
       "rules": "learner.armored-not-staff"
     },
@@ -8661,6 +8669,7 @@
         "grail": { "5": ["Berkut - Prideful Prince"] },
         "rearmed": { "5": ["Ginnungagap - Ruler of Nihility"] },
         "attuned": { "5": ["Micaiah - Dawning Maiden"] },
+        "mythic": { "5": ["Tiki - Everlasting Voice"] },
         "duo": {
           "5": [
             "Ymir - Seasons of Life",
@@ -8733,7 +8742,10 @@
       "rules": "armored"
     },
     "Diluvial Boost": {
-      "pool": { "#": { "5": ["Alear - Red Days Past"] } },
+      "pool": {
+        "#": { "5": ["Alear - Red Days Past"] },
+        "mythic": { "5": ["Tiki - Everlasting Voice"] }
+      },
       "id": "Diluvial Boost",
       "name": "火地水的命脈",
       "sp": 300,
@@ -16017,7 +16029,13 @@
         "legendary": {
           "5": ["Micaiah - Radiant Queen", "Lucina - Glorious Archer"]
         },
-        "mythic": { "5": ["Gotoh - White Sage", "Læraðr - Quieting Heart"] },
+        "mythic": {
+          "5": [
+            "Gotoh - White Sage",
+            "Læraðr - Quieting Heart",
+            "Tiki - Everlasting Voice"
+          ]
+        },
         "special": {
           "5": [
             "Berkut - Debonair Noble",
@@ -16066,6 +16084,7 @@
     "Higher Ground": {
       "pool": {
         "#": { "5": ["Alear - Red Days Past"] },
+        "mythic": { "5": ["Tiki - Everlasting Voice"] },
         "special": { "5": ["Níðhöggr - Daze of Healing"] }
       },
       "id": "Higher Ground",

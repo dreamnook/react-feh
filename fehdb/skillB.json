@@ -967,6 +967,14 @@
     "icon": "skillB/Wild_at_Heart",
     "last": true
   },
+  "Heired Divinity": {
+    "id": "Heired Divinity",
+    "name": "真新的神龍王",
+    "sp": 400,
+    "exclusive": ["Tiki - Everlasting Voice"],
+    "icon": "skillB/Heired_Divinity",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

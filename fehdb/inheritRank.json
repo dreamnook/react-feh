@@ -14035,6 +14035,19 @@
     "skillA": { "Atk/Res Fortune": { "sp": 300, "rarity": 5 } },
     "skillC": { "Barricade": { "sp": 300, "rarity": 5 } }
   },
+  "Tiki - Everlasting Voice": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 212,
+    "special": { "Armored Ice Cap": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Diluvial Boost": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Higher Ground": { "sp": 300, "rarity": 5 } }
+  },
   "Diamant - Fortified King": {
     "score": 460,
     "scoreTotal": 1012,

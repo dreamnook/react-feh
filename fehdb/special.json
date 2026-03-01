@@ -1229,6 +1229,15 @@
     "rules": "learner.armored-not-staff",
     "last": true
   },
+  "Armored Ice Cap": {
+    "id": "Armored Ice Cap",
+    "name": "重裝的雙冰",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Glacies"],
+    "rules": "learner.armored-not-staff",
+    "last": true
+  },
   "Dragon's Roar": {
     "id": "Dragon's Roar",
     "name": "龍之咆哮",

@@ -34925,6 +34925,16 @@
       "exclusive": ["Morva - Darkling Warden"],
       "last": true
     },
+    "Awakening Voice": {
+      "id": "Awakening Voice",
+      "name": "覺醒吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Tiki - Everlasting Voice"],
+      "last": true
+    },
     "Arcane Grima": {
       "id": "Arcane Grima",
       "name": "魔器津利",
