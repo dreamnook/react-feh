@@ -7169,7 +7169,7 @@
     "feather": 1000,
     "bst": 200,
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Seal Atk 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/R Lull Finish": { "sp": 300, "rarity": 5 } },
     "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
   },
   "Micaiah - Wavecrest Maiden": {
@@ -13968,7 +13968,7 @@
     "bst": 200,
     "special": { "Deadeye": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Wings of Mercy 4": { "sp": 300, "rarity": 5 } }
+    "skillB": { "Speedtaker 4": { "sp": 300, "rarity": 5 } }
   },
   "Ash - Borrowed Power": {
     "score": 460,

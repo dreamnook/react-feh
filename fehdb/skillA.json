@@ -173,6 +173,15 @@
     "icon": "skillA/Nightmare",
     "last": true
   },
+  "The Plan: Part II": {
+    "id": "The Plan: Part II",
+    "name": "這也是計策……・承",
+    "sp": 300,
+    "prev": ["Part of the Plan"],
+    "exclusive": ["Robin - Exalt's Other Half"],
+    "icon": "skillA/The_Plan_Part_II",
+    "last": true
+  },
   "Part of the Plan": {
     "id": "Part of the Plan",
     "name": "這也是計策的一部份",

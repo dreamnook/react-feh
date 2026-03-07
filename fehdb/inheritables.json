@@ -14200,7 +14200,9 @@
           ]
         },
         "aided": { "5": ["Lute - Limitless Curiosity"] },
-        "legendary": { "5": ["Byleth - The Fódlan Star"] },
+        "legendary": {
+          "5": ["Robin - Exalt's Other Half", "Byleth - The Fódlan Star"]
+        },
         "mythic": { "5": ["Bramimond - The Enigma"] },
         "special": { "5": ["Ilyana - Awakened Appetite"] },
         "duo": { "5": ["Sigurd - Destined Duo", "Líf - Undying Ties Duo"] }
@@ -14288,7 +14290,10 @@
       "rules": "learner.infantry-cavalry"
     },
     "A/R Lull Finish": {
-      "pool": { "aided": { "5": ["Lute - Limitless Curiosity"] } },
+      "pool": {
+        "aided": { "5": ["Lute - Limitless Curiosity"] },
+        "legendary": { "5": ["Robin - Exalt's Other Half"] }
+      },
       "id": "A/R Lull Finish",
       "name": "奧秘・攻魔靜謐",
       "sp": 300,
@@ -15474,7 +15479,9 @@
         "rearmed": { "5": ["Noire - Of Two Minds"] },
         "attuned": { "5": ["Alm - Powerful Resolve"] },
         "emblem": { "5": ["Lyn - Of Blazing"] },
-        "legendary": { "5": ["Ayra - Supreme Astra"] }
+        "legendary": {
+          "5": ["Ayra - Supreme Astra", "Hinoka - Thundering Wings"]
+        }
       },
       "id": "Speedtaker 3",
       "name": "速度吸收3",
@@ -15488,7 +15495,9 @@
         "rearmed": { "5": ["Noire - Of Two Minds"] },
         "attuned": { "5": ["Alm - Powerful Resolve"] },
         "emblem": { "5": ["Lyn - Of Blazing"] },
-        "legendary": { "5": ["Ayra - Supreme Astra"] }
+        "legendary": {
+          "5": ["Ayra - Supreme Astra", "Hinoka - Thundering Wings"]
+        }
       },
       "id": "Speedtaker 4",
       "name": "速度吸收4",

@@ -2960,6 +2960,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Flavia - Feroxi East-Khan"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Lioness_Blade_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Ancient Ragnell": {
@@ -8767,6 +8790,37 @@
       "exclusive": ["Hector - Into the Fray"],
       "last": true
     },
+    "Rearguard Lance": {
+      "id": "Rearguard Lance",
+      "name": "狼騎士團殿軍之槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Roshea - Coyote's Faithful"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Rearguard_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -12573,6 +12627,33 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Boyd - Future Great"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Large_War_Axe_W",
+          "newStats": {
+            "mt": 16,
+            "hp": 5
+          }
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Headsman Glitnir": {
@@ -16645,6 +16726,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Astrid - Resolute Damsel"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Damiell_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Jötnar Bow": {
@@ -16869,6 +16972,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Hinoka - Thundering Wings"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Fujin-Raijin_Yumi_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Violdrake Bow": {
@@ -30073,6 +30198,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Robin - Exalt's Other Half"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Master's_Tactics_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Heiðr": {
@@ -32163,6 +32310,33 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["L'Arachel - Seeker of Justice"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Staff_of_Rausten_W",
+          "cd": -1
+        },
+        "atk": {
+          "hp": 2,
+          "atk": 1,
+          "cd": -1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2,
+          "cd": -1
+        },
+        "def": {
+          "hp": 2,
+          "def": 3,
+          "cd": -1
+        },
+        "res": {
+          "hp": 2,
+          "res": 3,
+          "cd": -1
+        }
+      },
       "last": true
     },
     "Sunshade Staff": {

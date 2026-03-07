@@ -6108,7 +6108,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Stout Lance": 4,
-      "Stout Lance+": 5
+      "Stout Lance+": 5,
+      "Rearguard Lance": 5
     },
     "assist": {
       "Draw Back": 4
@@ -21612,13 +21613,18 @@
       "Ignis": 4
     },
     "skillA": {
-      "Part of the Plan": 5
+      "Part of the Plan": 5,
+      "The Plan: Part II": 5
     },
     "skillB": {
       "Seal Atk 1": 2,
       "Seal Atk 2": 3,
       "Seal Atk 3": 4,
-      "Seal Atk 4": 5
+      "Seal Atk 4": 5,
+      "Lull Atk/Res 1": 2,
+      "Lull Atk/Res 2": 3,
+      "Lull Atk/Res 3": 4,
+      "A/R Lull Finish": 5
     },
     "skillC": {
       "Canto Control 1": 1,
@@ -25843,10 +25849,15 @@
       "Wings of Mercy 1": 2,
       "Wings of Mercy 2": 3,
       "Wings of Mercy 3": 4,
-      "Wings of Mercy 4": 5
+      "Wings of Mercy 4": 5,
+      "Speedtaker 1": 2,
+      "Speedtaker 2": 3,
+      "Speedtaker 3": 4,
+      "Speedtaker 4": 5
     },
     "skillC": {
-      "Rallying Cry": 5
+      "Rallying Cry": 5,
+      "Rallying Cry II": 5
     }
   },
   "Hinoka - Warrior of Gusto": {

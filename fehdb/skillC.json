@@ -60,6 +60,7 @@
     "id": "Ostia's Pulse II",
     "name": "盟主之躍動・承",
     "sp": 300,
+    "prev": ["Ostia's Pulse"],
     "exclusive": ["Hector - Marquess of Ostia"],
     "icon": "skillC/Ostia's_Pulse_II",
     "last": true
@@ -469,6 +470,15 @@
     "sp": 300,
     "exclusive": ["Eliwood - Pledged Friend"],
     "icon": "skillC/Inborn_Idealism",
+    "last": true
+  },
+  "Rallying Cry II": {
+    "id": "Rallying Cry II",
+    "name": "叱吒激勵・承",
+    "sp": 300,
+    "prev": ["Rallying Cry"],
+    "exclusive": ["Hinoka - Thundering Wings"],
+    "icon": "skillC/Rallying_Cry_II",
     "last": true
   },
   "Rallying Cry": {
