@@ -3200,6 +3200,30 @@
       "icon": "skillB/Atk_Def_Link_3",
       "last": true
     },
+    "Def/Res Link 1": {
+      "id": "Def/Res Link 1",
+      "name": "防守魔防連動1",
+      "sp": 60,
+      "rules": "not.white-staff",
+      "icon": "skillB/Def_Res_Link_1"
+    },
+    "Def/Res Link 2": {
+      "id": "Def/Res Link 2",
+      "name": "防守魔防連動2",
+      "sp": 120,
+      "prev": ["Def/Res Link 1"],
+      "rules": "not.white-staff",
+      "icon": "skillB/Def_Res_Link_2"
+    },
+    "Def/Res Link 3": {
+      "id": "Def/Res Link 3",
+      "name": "防守魔防連動3",
+      "sp": 240,
+      "prev": ["Def/Res Link 2"],
+      "rules": "not.white-staff",
+      "icon": "skillB/Def_Res_Link_3",
+      "last": true
+    },
     "Atk/Spd Snag 1": {
       "id": "Atk/Spd Snag 1",
       "name": "攻擊速度干涉1",
@@ -3926,6 +3950,30 @@
       "prev": ["Atk/Spd Rein 2"],
       "rules": "flying",
       "icon": "skillC/Atk_Spd_Rein_3",
+      "last": true
+    },
+    "Atk/Def Rein 1": {
+      "id": "Atk/Def Rein 1",
+      "name": "攻擊防守牽制1",
+      "sp": 60,
+      "rules": "flying",
+      "icon": "skillC/Atk_Def_Rein_1"
+    },
+    "Atk/Def Rein 2": {
+      "id": "Atk/Def Rein 2",
+      "name": "攻擊防守牽制2",
+      "sp": 120,
+      "prev": ["Atk/Def Rein 1"],
+      "rules": "flying",
+      "icon": "skillC/Atk_Def_Rein_2"
+    },
+    "Atk/Def Rein 3": {
+      "id": "Atk/Def Rein 3",
+      "name": "攻擊防守牽制3",
+      "sp": 240,
+      "prev": ["Atk/Def Rein 2"],
+      "rules": "flying",
+      "icon": "skillC/Atk_Def_Rein_3",
       "last": true
     },
     "Atk/Res Rein 1": {
@@ -8046,6 +8094,36 @@
       "res": 4,
       "prev": ["Squad Ace CY 2"],
       "icon": "seal/Squad_Ace_HP_Atk_Res_3",
+      "last": true
+    },
+    "Squad Ace CZ 1": {
+      "id": "Squad Ace CZ 1",
+      "name": "第１０４迷宮的霸王1",
+      "sp": 120,
+      "hp": 4,
+      "spd": 2,
+      "def": 2,
+      "icon": "seal/Squad_Ace_HP_Spd_Def_1"
+    },
+    "Squad Ace CZ 2": {
+      "id": "Squad Ace CZ 2",
+      "name": "第１０４迷宮的霸王2",
+      "sp": 180,
+      "hp": 5,
+      "spd": 3,
+      "def": 3,
+      "prev": ["Squad Ace CZ 1"],
+      "icon": "seal/Squad_Ace_HP_Spd_Def_2"
+    },
+    "Squad Ace CZ 3": {
+      "id": "Squad Ace CZ 3",
+      "name": "第１０４迷宮的霸王3",
+      "sp": 240,
+      "hp": 6,
+      "spd": 4,
+      "def": 4,
+      "prev": ["Squad Ace CZ 2"],
+      "icon": "seal/Squad_Ace_HP_Spd_Def_3",
       "last": true
     }
   }
