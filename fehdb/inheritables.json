@@ -1821,6 +1821,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Slicer": {
+        "pool": { "rearmed": { "5": ["Sothe - In the Breeze"] } },
+        "id": "Arcane Slicer",
+        "name": "魔器・春風旋刃",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Dagger+": {
         "pool": {
           "#": { "3": ["Jakob - Devoted Servant", "Felicia - Maid Mayhem"] }
@@ -2900,6 +2907,13 @@
         "pool": { "special": { "5": ["Mae - Spring Cheer"] } },
         "id": "Spring-Air Egg+",
         "name": "春光之卵+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Spring Hare Egg+": {
+        "pool": { "special": { "5": ["Dorothea - Rosy Songstress"] } },
+        "id": "Spring Hare Egg+",
+        "name": "春兔之卵+",
         "sp": 300,
         "refine": 350
       }
@@ -4649,7 +4663,8 @@
             "Ingrid - Beacon of Honor",
             "Ophelia - Starlit Maiden",
             "Ginnungagap - Ruler of Nihility",
-            "Leila - Superb Shadow"
+            "Leila - Superb Shadow",
+            "Sothe - In the Breeze"
           ]
         },
         "attuned": { "5": ["Ivy - Snow Queen", "Caeda - Marth's Faithful"] },
@@ -5350,11 +5365,18 @@
             "Mia - Budding Blade",
             "Corrin - Starry Seer",
             "Framme - Spring Fangirl",
-            "Yunaka - Stealthy Imitator"
+            "Yunaka - Stealthy Imitator",
+            "Thórr - Spring War God"
           ]
         },
         "duo": { "5": ["Corrin - Young Kinship", "Baldr - New Year's Elite"] },
-        "harmonized": { "5": ["Celica - With Grace", "Lyn - Glitters of Hope"] }
+        "harmonized": {
+          "5": [
+            "Eirika - Spring Company",
+            "Celica - With Grace",
+            "Lyn - Glitters of Hope"
+          ]
+        }
       },
       "id": "Dragon Fang",
       "name": "龍穿",
@@ -5421,7 +5443,9 @@
         "#": { "5": ["Baldr - Rays of Judgment"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Diamant - Fortified King"] },
-        "special": { "5": ["Yunaka - Stealthy Imitator"] },
+        "special": {
+          "5": ["Yunaka - Stealthy Imitator", "Thórr - Spring War God"]
+        },
         "duo": { "5": ["Baldr - New Year's Elite"] },
         "harmonized": { "5": ["Celica - With Grace", "Lyn - Glitters of Hope"] }
       },
@@ -5431,7 +5455,10 @@
       "rules": "learner.wielderBowDagger"
     },
     "Logic": {
-      "pool": { "rearmed": { "5": ["Lysithea - Duality Prodigy"] } },
+      "pool": {
+        "rearmed": { "5": ["Lysithea - Duality Prodigy"] },
+        "harmonized": { "5": ["Eirika - Spring Company"] }
+      },
       "id": "Logic",
       "name": "邏輯",
       "sp": 500,
@@ -5933,7 +5960,8 @@
             "Ilyana - Awakened Appetite",
             "Vika - Sea-Dark Wing",
             "Flora - Polar-Perfect",
-            "Mae - Spring Cheer"
+            "Mae - Spring Cheer",
+            "Dorothea - Rosy Songstress"
           ],
           "5": [
             "Sakura - Gentle Nekomata",
@@ -8795,7 +8823,9 @@
           ]
         },
         "duo": { "5": ["Peony - Álfar Dream Duo", "Freyja - Parallel Hearts"] },
-        "harmonized": { "5": ["Sonya - Dazzling Rabbits"] }
+        "harmonized": {
+          "5": ["Sonya - Dazzling Rabbits", "Eirika - Spring Company"]
+        }
       },
       "id": "Atk/Spd Bond 3",
       "name": "攻擊速度的羈絆3",
@@ -9023,7 +9053,8 @@
         "legendary": { "5": ["Elise - Sincere Sister"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
         "special": { "5": ["Váli - Devoted Sister", "Céline - Love's Aroma"] },
-        "duo": { "5": ["Freyja - Parallel Hearts"] }
+        "duo": { "5": ["Freyja - Parallel Hearts"] },
+        "harmonized": { "5": ["Eirika - Spring Company"] }
       },
       "id": "Atk/Spd Aria",
       "name": "攻擊速度的詠唱",
@@ -9254,6 +9285,7 @@
         "ascended": {
           "5": ["Hilda - Helping Hand", "Mareeta - Astra Awakened"]
         },
+        "rearmed": { "5": ["Sothe - In the Breeze"] },
         "legendary": { "5": ["Eirika - Graceful Resolve"] },
         "mythic": {
           "5": ["Freyja - Lady of Nightmare", "Sothis - Girl on the Throne"]
@@ -9464,7 +9496,10 @@
       "icon": "skillA/Def_Res_Solo_4"
     },
     "Atk/Spd Waylay": {
-      "pool": { "special": { "5": ["Yuri - Tropical Wolf"] } },
+      "pool": {
+        "rearmed": { "5": ["Sothe - In the Breeze"] },
+        "special": { "5": ["Yuri - Tropical Wolf"] }
+      },
       "id": "Atk/Spd Waylay",
       "name": "攻擊速度奇襲",
       "sp": 300,
@@ -11162,7 +11197,9 @@
         "rearmed": { "5": ["Hinoka - Warrior of Gusto"] },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "mythic": { "5": ["Baldr - Celestial Sun God"] },
-        "special": { "5": ["Mia - Zenith Challenger"] },
+        "special": {
+          "5": ["Thórr - Spring War God", "Mia - Zenith Challenger"]
+        },
         "duo": { "5": ["Marth - Love and Courage"] },
         "harmonized": { "5": ["Fir - Dual Warriors"] }
       },
@@ -11192,6 +11229,14 @@
       "name": "蒼穹・鬼沒",
       "sp": 300,
       "icon": "skillA/Blue-Sky_Gust",
+      "rules": "learner.wielderCavalryFlying"
+    },
+    "Divine Specter": {
+      "pool": { "special": { "5": ["Thórr - Spring War God"] } },
+      "id": "Divine Specter",
+      "name": "天穹・鬼沒",
+      "sp": 300,
+      "icon": "skillA/Divine_Specter",
       "rules": "learner.wielderCavalryFlying"
     },
     "Strat Flame 3": {
@@ -13102,7 +13147,8 @@
           "5": [
             "Camilla - Tropical Beauty",
             "Quan - Lightfoot Prince",
-            "Laegjarn - Burning Sun"
+            "Laegjarn - Burning Sun",
+            "Thórr - Spring War God"
           ]
         },
         "duo": { "5": ["Baldr - New Year's Elite"] }
@@ -13148,7 +13194,9 @@
     },
     "Heavenly Soar": {
       "pool": {
-        "special": { "5": ["Mia - Zenith Challenger"] },
+        "special": {
+          "5": ["Thórr - Spring War God", "Mia - Zenith Challenger"]
+        },
         "duo": { "5": ["Baldr - New Year's Elite"] }
       },
       "id": "Heavenly Soar",
@@ -14086,7 +14134,7 @@
     "Disarm Trap 3": {
       "pool": {
         "#": { "5": ["Larum - Sprightly Dancer", "Rennac - Rich 'Merchant'"] },
-        "rearmed": { "5": ["Sothe - Dawning Zephyr"] },
+        "rearmed": { "5": ["Sothe - Dawning Zephyr", "Sothe - In the Breeze"] },
         "aided": { "5": ["Yunaka - Hidden Mask"] },
         "special": {
           "5": [
@@ -14139,6 +14187,14 @@
       "sp": 300,
       "icon": "skillB/Full_Disarm",
       "rules": "learner.infantry-cavalry-flying-dagger"
+    },
+    "Disarm Rumor": {
+      "pool": { "rearmed": { "5": ["Sothe - In the Breeze"] } },
+      "id": "Disarm Rumor",
+      "name": "解除陷阱・流言",
+      "sp": 400,
+      "icon": "skillB/Disarm_Rumor",
+      "rules": "dagger"
     },
     "Lull Atk/Spd 3": {
       "pool": {
@@ -15416,7 +15472,10 @@
       "pool": {
         "#": { "5": ["Lena - Bereft Angel"] },
         "emblem": { "5": ["Celica - Of Echoes"] },
-        "special": { "5": ["Tharja - Shadow Ninja"] },
+        "special": {
+          "4": ["Dorothea - Rosy Songstress"],
+          "5": ["Tharja - Shadow Ninja"]
+        },
         "harmonized": { "5": ["Nephenee - Festival Harmony"] }
       },
       "id": "Resonance 3",
@@ -15439,7 +15498,11 @@
       "rules": "learner.tome-staff"
     },
     "A/R Far Resound": {
-      "pool": { "special": { "5": ["Veyle - Spring Tranquility"] } },
+      "pool": {
+        "special": {
+          "5": ["Dorothea - Rosy Songstress", "Veyle - Spring Tranquility"]
+        }
+      },
       "id": "A/R Far Resound",
       "name": "共鳴・攻魔遠影",
       "sp": 300,
@@ -18772,7 +18835,9 @@
           "4": ["Tharja - Beach Dark Mage"],
           "5": ["Anna - Wealth-Wisher"]
         },
-        "harmonized": { "5": ["Mia - Harmonic Blades"] }
+        "harmonized": {
+          "5": ["Mia - Harmonic Blades", "Eirika - Spring Company"]
+        }
       },
       "id": "Atk/Spd Gap 3",
       "name": "攻擊速度大開放3",
@@ -18838,6 +18903,14 @@
       "name": "防守魔防大開放3",
       "sp": 240,
       "icon": "skillC/Def_Res_Gap_3"
+    },
+    "Atk/Spd Liberate": {
+      "pool": { "harmonized": { "5": ["Eirika - Spring Company"] } },
+      "id": "Atk/Spd Liberate",
+      "name": "攻擊速度解放",
+      "sp": 300,
+      "icon": "skillC/Atk_Spd_Liberate",
+      "rules": "cavalry"
     },
     "Atk/Res Liberate": {
       "pool": { "special": { "5": ["Heimdallr - New Year's Vision"] } },
@@ -19591,7 +19664,10 @@
       "pool": {
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
-        "special": { "5": ["Dimitri - Stargazing Lion"] },
+        "special": {
+          "4": ["Dorothea - Rosy Songstress"],
+          "5": ["Dimitri - Stargazing Lion"]
+        },
         "duo": { "5": ["Baldr - New Year's Elite", "Lucina - Shadows of Fate"] }
       },
       "id": "Shadow Shift 3",
@@ -19615,7 +19691,7 @@
     },
     "Lookout 3": {
       "pool": {
-        "rearmed": { "5": ["Leila - Superb Shadow"] },
+        "rearmed": { "5": ["Leila - Superb Shadow", "Sothe - In the Breeze"] },
         "aided": { "5": ["Yunaka - Hidden Mask"] },
         "special": { "5": ["Shez - Covert Mercenary"] }
       },
@@ -19642,7 +19718,10 @@
       "rules": "dagger"
     },
     "Lookout Smog": {
-      "pool": { "special": { "5": ["Shez - Covert Mercenary"] } },
+      "pool": {
+        "rearmed": { "5": ["Sothe - In the Breeze"] },
+        "special": { "5": ["Shez - Covert Mercenary"] }
+      },
       "id": "Lookout Smog",
       "name": "開路・暗煙",
       "sp": 300,

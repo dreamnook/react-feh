@@ -5294,7 +5294,17 @@
     "name": "蒼穹・鬼沒",
     "sp": 300,
     "rules": "learner.wielderCavalryFlying",
+    "prev": ["Blue Skies 3"],
     "icon": "skillA/Blue-Sky_Gust",
+    "last": true
+  },
+  "Divine Specter": {
+    "id": "Divine Specter",
+    "name": "天穹・鬼沒",
+    "sp": 300,
+    "rules": "learner.wielderCavalryFlying",
+    "prev": ["Blue Skies 3"],
+    "icon": "skillA/Divine_Specter",
     "last": true
   },
   "Strat Flame 1": {

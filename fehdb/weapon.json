@@ -8821,6 +8821,16 @@
       },
       "last": true
     },
+    "Spring Thorn": {
+      "id": "Spring Thorn",
+      "name": "春雷戰神之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Thórr - Spring War God"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -20533,6 +20543,34 @@
       },
       "last": true
     },
+    "Arcane Slicer": {
+      "id": "Arcane Slicer",
+      "name": "魔器・春風旋刃",
+      "mt": 14,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Dagger"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Iron Dagger": {
       "id": "Iron Dagger",
       "name": "鐵暗器",
@@ -25367,6 +25405,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Spring Dawning": {
+      "id": "Spring Dawning",
+      "name": "春曉的溫柔之光",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Eirika - Spring Company"],
       "last": true
     },
     "Arcane Eclipse": {
@@ -31466,6 +31514,39 @@
       "mt": 12,
       "sp": 300,
       "prev": ["Spring-Air Egg"],
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Spring Hare Egg": {
+      "id": "Spring Hare Egg",
+      "name": "春兔之卵",
+      "mt": 8,
+      "sp": 200,
+      "prev": ["Rexcalibur"]
+    },
+    "Spring Hare Egg+": {
+      "id": "Spring Hare Egg+",
+      "name": "春兔之卵+",
+      "mt": 12,
+      "sp": 300,
+      "prev": ["Spring Hare Egg"],
       "refine": {
         "atk": {
           "hp": 2,

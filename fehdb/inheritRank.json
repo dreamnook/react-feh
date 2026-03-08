@@ -3970,6 +3970,19 @@
     "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 3": { "sp": 240, "rarity": 4 } }
   },
+  "Dorothea - Rosy Songstress": {
+    "score": 196,
+    "scoreTotal": 455,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 300,
+    "bst": 189,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillB": { "A/R Far Resound": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Shadow Shift 3": { "sp": 240, "rarity": 4 } }
+  },
   "Palla - Soaring Summer": {
     "score": 196,
     "scoreTotal": 455,
@@ -14766,6 +14779,20 @@
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
   },
+  "Sothe - In the Breeze": {
+    "score": 360,
+    "scoreTotal": 1080,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Waylay": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Disarm Rumor": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Lookout Smog": { "sp": 300, "rarity": 5 } }
+  },
   "Quan - Luminous Lancer": {
     "score": 400,
     "scoreTotal": 1080,
@@ -16007,6 +16034,19 @@
     "skillA": { "Atk/Res Aria": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Liberate": { "sp": 300, "rarity": 5 } }
   },
+  "Eirika - Spring Company": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Logic": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Liberate": { "sp": 300, "rarity": 5 } }
+  },
   "Dimitri - Blessed Protector": {
     "score": 530,
     "scoreTotal": 1166,
@@ -16760,6 +16800,19 @@
     "special": { "Archrival": { "sp": 500, "rarity": 5 } },
     "skillB": { "Execution Breath": { "sp": 400, "rarity": 5 } },
     "skillC": { "A/S Hone Assault": { "sp": 300, "rarity": 5 } }
+  },
+  "Thórr - Spring War God": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 199,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Divine Specter": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Heavenly Soar": { "sp": 400, "rarity": 5 } }
   },
   "Hector - Into the Fray": {
     "score": 530,

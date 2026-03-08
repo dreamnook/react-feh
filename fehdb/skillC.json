@@ -833,6 +833,14 @@
     "icon": "skillC/Huge_Personality",
     "last": true
   },
+  "World Destroyer": {
+    "id": "World Destroyer",
+    "name": "真神錘貫穿大地",
+    "sp": 300,
+    "exclusive": ["Thórr - Spring War God"],
+    "icon": "skillC/World_Destroyer",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -3829,6 +3837,14 @@
     "sp": 240,
     "prev": ["Def/Res Gap 2"],
     "icon": "skillC/Def_Res_Gap_3",
+    "last": true
+  },
+  "Atk/Spd Liberate": {
+    "id": "Atk/Spd Liberate",
+    "name": "攻擊速度解放",
+    "sp": 300,
+    "rules": "cavalry",
+    "icon": "skillC/Atk_Spd_Liberate",
     "last": true
   },
   "Atk/Res Liberate": {

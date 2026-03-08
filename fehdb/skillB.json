@@ -975,6 +975,14 @@
     "icon": "skillB/Heired_Divinity",
     "last": true
   },
+  "Stellar Brace": {
+    "id": "Stellar Brace",
+    "name": "真月亮手鐲",
+    "sp": 400,
+    "exclusive": ["Eirika - Spring Company"],
+    "icon": "skillB/Stellar_Brace",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -4348,6 +4356,7 @@
     "name": "解除陷阱・神速",
     "sp": 300,
     "rules": "learner.infantry-cavalry-flying-dagger",
+    "prev": ["Disarm Trap 3"],
     "icon": "skillB/Potent_Disarm",
     "last": true
   },
@@ -4356,7 +4365,17 @@
     "name": "解除陷阱・周到",
     "sp": 300,
     "rules": "learner.infantry-cavalry-flying-dagger",
+    "prev": ["Disarm Trap 3"],
     "icon": "skillB/Full_Disarm",
+    "last": true
+  },
+  "Disarm Rumor": {
+    "id": "Disarm Rumor",
+    "name": "解除陷阱・流言",
+    "sp": 400,
+    "rules": "dagger",
+    "prev": ["Disarm Trap 3"],
+    "icon": "skillB/Disarm_Rumor",
     "last": true
   },
   "Lull Atk/Spd 1": {
