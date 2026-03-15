@@ -597,13 +597,15 @@
     "id": "Guardian",
     "name": "保衛者",
     "sp": 300,
-    "prev": ["Mend"]
+    "prev": ["Mend"],
+    "rules": "white-staff"
   },
   "Guardian+": {
     "id": "Guardian+",
     "name": "保衛者+",
     "sp": 400,
     "prev": ["Guardian"],
+    "rules": "white-staff",
     "last": true
   },
   "Swap": {

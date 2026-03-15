@@ -3613,13 +3613,15 @@
       "pool": { "special": { "5": ["Hortensia - Cutesplosion"] } },
       "id": "Guardian",
       "name": "保衛者",
-      "sp": 300
+      "sp": 300,
+      "rules": "white-staff"
     },
     "Guardian+": {
       "pool": { "special": { "5": ["Hortensia - Cutesplosion"] } },
       "id": "Guardian+",
       "name": "保衛者+",
-      "sp": 400
+      "sp": 400,
+      "rules": "white-staff"
     },
     "Swap": {
       "pool": {
