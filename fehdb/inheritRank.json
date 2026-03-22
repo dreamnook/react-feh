@@ -2382,6 +2382,18 @@
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
   },
+  "Marcus - Knight of Pherae": {
+    "score": 185,
+    "scoreTotal": 373,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 300,
+    "bst": 190,
+    "assist": { "Swap": { "sp": 150, "rarity": 4 } },
+    "skillA": { "Def/Res Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Close Guard 3": { "sp": 240, "rarity": 4 } }
+  },
   "Gerome - Masked Rider": {
     "score": 374,
     "scoreTotal": 374,
@@ -7185,6 +7197,20 @@
     "skillB": { "A/R Lull Finish": { "sp": 300, "rarity": 5 } },
     "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
   },
+  "Bernadetta - Late Hibernator": {
+    "score": 249,
+    "scoreTotal": 686,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 300,
+    "bst": 174,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Escape Route 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+  },
   "Micaiah - Wavecrest Maiden": {
     "score": 318,
     "scoreTotal": 689,
@@ -7469,6 +7495,19 @@
     "special": { "Luna": { "sp": 200, "rarity": 4 } },
     "skillA": { "Wind Boost 3": { "sp": 200, "rarity": 4 } },
     "skillB": { "Spd/Def Bulwark 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Wallace - Crag of Caelin": {
+    "score": 269,
+    "scoreTotal": 693,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 211,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Earth Boost 3": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Wily Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Ash - Earnest Greetings": {
     "score": 299,
@@ -14779,6 +14818,21 @@
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
   },
+  "Eliwood - Noble Ablaze": {
+    "score": 360,
+    "scoreTotal": 1080,
+    "poolRarity": 5,
+    "pool": "attuned",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Blue-Sky Gust": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Impetus Guard": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/S Outcry Seize": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Momentum Echo": { "sp": 0, "rarity": 5 } }
+  },
   "Sothe - In the Breeze": {
     "score": 360,
     "scoreTotal": 1080,
@@ -15062,6 +15116,18 @@
     "special": { "Archrival": { "sp": 500, "rarity": 5 } },
     "skillB": { "Speedtaker 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Deadly Miasma": { "sp": 300, "rarity": 5 } }
+  },
+  "Lowen - Apprentice Knight": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Flame Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Def Excel": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Outcry Dull": { "sp": 300, "rarity": 5 } }
   },
   "Naga - Ruler of Dragons": {
     "score": 500,
@@ -15604,20 +15670,6 @@
     "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Sabotage A/R 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Soaring Guidance": { "sp": 300, "rarity": 5 } }
-  },
-  "Bernadetta - Late Hibernator": {
-    "score": 318,
-    "scoreTotal": 1166,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 174,
-    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Escape Route 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
   "Nephenee - Festival Harmony": {
     "score": 318,
@@ -16582,6 +16634,20 @@
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Bold Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Ninian - Heartfelt Dancer": {
+    "score": 368,
+    "scoreTotal": 1196,
+    "poolRarity": 5,
+    "pool": "entwined",
+    "sp": 400,
+    "spTotal": 1300,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Sly Swift Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Impetus Guard": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Shadow Shift 4": { "sp": 300, "rarity": 5 } }
   },
   "Ursula - Blackened Crow": {
     "score": 300,

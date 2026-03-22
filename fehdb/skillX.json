@@ -85,6 +85,14 @@
     "icon": "skillX/Tempo_Echo",
     "last": true
   },
+  "Momentum Echo": {
+    "id": "Momentum Echo",
+    "name": "響・助跑",
+    "sp": 0,
+    "rules": "learner.infantry-cavalry-flying-melee",
+    "icon": "skillX/Momentum_Echo",
+    "last": true
+  },
   "Crux Echo": {
     "id": "Crux Echo",
     "name": "響・十字牽制",

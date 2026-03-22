@@ -6082,6 +6082,15 @@
     "icon": "skillB/Momentum_4",
     "last": true
   },
+  "Impetus Guard": {
+    "id": "Impetus Guard",
+    "name": "助跑・取消",
+    "sp": 400,
+    "prev": ["Momentum 3"],
+    "rules": "learner.cavalry-flying-melee",
+    "icon": "skillB/Impetus_Guard",
+    "last": true
+  },
   "Speedtaker 1": {
     "id": "Speedtaker 1",
     "name": "速度吸收1",

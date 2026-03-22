@@ -793,6 +793,15 @@
     "exclusive": ["Sothe - In the Breeze"],
     "last": true
   },
+  "Gathered Flames": {
+    "id": "Gathered Flames",
+    "name": "凝聚之炎",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Ignis"],
+    "exclusive": ["Eliwood - Noble Ablaze"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

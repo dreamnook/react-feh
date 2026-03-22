@@ -13695,6 +13695,40 @@
       "Inborn Idealism": 5
     }
   },
+  "Eliwood - Noble Ablaze": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Comrade's Axe": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Gathered Flames": 5
+    },
+    "skillA": {
+      "Blue Skies 1": 2,
+      "Blue Skies 2": 3,
+      "Blue Skies 3": 4,
+      "Blue-Sky Gust": 5
+    },
+    "skillB": {
+      "Momentum 1": 2,
+      "Momentum 2": 3,
+      "Momentum 3": 4,
+      "Impetus Guard": 5
+    },
+    "skillC": {
+      "Hone Spd 1": 2,
+      "Hone Spd 2": 3,
+      "Hone Spd 3": 4,
+      "A/S Outcry Seize": 5
+    },
+    "skillX": {
+      "Momentum Echo": 5
+    }
+  },
   "Lyn - Lady of the Plains": {
     "weapon": {
       "Iron Sword": 1,
@@ -14193,6 +14227,27 @@
       "A/D Briar F Save": 5
     }
   },
+  "Marcus - Knight of Pherae": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Melee Blade": 4,
+      "Melee Blade+": 5
+    },
+    "assist": {
+      "Swap": 4
+    },
+    "skillA": {
+      "Def/Res Clash 1": 3,
+      "Def/Res Clash 2": 4,
+      "Def/Res Clash 3": 5
+    },
+    "skillC": {
+      "Close Guard 1": 1,
+      "Close Guard 2": 2,
+      "Close Guard 3": 4
+    }
+  },
   "Harken - Troubled Warrior": {
     "weapon": {
       "Iron Sword": 1,
@@ -14238,6 +14293,31 @@
       "Atk/Def Snag 2": 3,
       "Atk/Def Snag 3": 4,
       "Atk/Def Snag 4": 5
+    }
+  },
+  "Lowen - Apprentice Knight": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Apprentice Lance": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Flame Wall": 5
+    },
+    "skillA": {
+      "Atk/Def Clash 1": 2,
+      "Atk/Def Clash 2": 3,
+      "Atk/Def Clash 3": 4,
+      "Atk/Def Excel": 5
+    },
+    "skillC": {
+      "Fortify Def 1": 2,
+      "Fortify Def 2": 3,
+      "Fortify Def 3": 4,
+      "A/D Outcry Dull": 5
     }
   },
   "Uther - Frugal Militarist": {
@@ -14407,6 +14487,28 @@
       "Hone Atk 1": 3,
       "Hone Atk 2": 4,
       "Hone Atk 3": 5
+    }
+  },
+  "Wallace - Crag of Caelin": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Forged Lance": 4,
+      "Forged Lance+": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4
+    },
+    "skillA": {
+      "Earth Boost 1": 1,
+      "Earth Boost 2": 2,
+      "Earth Boost 3": 4
+    },
+    "skillB": {
+      "Wily Fighter 1": 3,
+      "Wily Fighter 2": 4,
+      "Wily Fighter 3": 5
     }
   },
   "Sain - Green Lance": {
@@ -15302,6 +15404,40 @@
       "Blue Feud 1": 3,
       "Blue Feud 2": 4,
       "Blue Feud 3": 5
+    }
+  },
+  "Ninian - Heartfelt Dancer": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Bound by Ice": 5
+    },
+    "assist": {
+      "Dance": 4,
+      "Dragon's Twirl": 5
+    },
+    "special": {
+      "Rising Wind": 4,
+      "Blazing Wind": 4
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Swift Sparrow 1": 3,
+      "Swift Sparrow 2": 4,
+      "Sly Swift Sparrow": 5
+    },
+    "skillB": {
+      "Momentum 1": 2,
+      "Momentum 2": 3,
+      "Momentum 3": 4,
+      "Impetus Guard": 5
+    },
+    "skillC": {
+      "Shadow Shift 1": 2,
+      "Shadow Shift 2": 3,
+      "Shadow Shift 3": 4,
+      "Shadow Shift 4": 5
     }
   },
   "Nils - Bright Bard": {

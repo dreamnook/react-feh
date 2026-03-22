@@ -1845,6 +1845,24 @@
     "icon": "skillC/A_S_Outcry_Dull",
     "last": true
   },
+  "A/D Outcry Dull": {
+    "id": "A/D Outcry Dull",
+    "name": "攻防鼓譟・強化無效",
+    "sp": 300,
+    "rules": "learner.cavalry-melee",
+    "prev": ["Hone Atk 3", "Fortify Def 3"],
+    "icon": "skillC/A_D_Outcry_Dull",
+    "last": true
+  },
+  "A/S Outcry Seize": {
+    "id": "A/S Outcry Seize",
+    "name": "攻速鼓譟・奪取無效",
+    "sp": 300,
+    "rules": "learner.cavalry-melee",
+    "prev": ["Hone Atk 3", "Hone Spd 3"],
+    "icon": "skillC/A_S_Outcry_Seize",
+    "last": true
+  },
   "A/S Bellow": {
     "id": "A/S Bellow",
     "name": "攻速鼓譟・呼吸",

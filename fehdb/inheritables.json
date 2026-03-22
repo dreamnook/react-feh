@@ -245,6 +245,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Melee Blade+": {
+        "pool": { "#": { "4": ["Marcus - Knight of Pherae"] } },
+        "id": "Melee Blade+",
+        "name": "混戰之劍+",
+        "sp": 300,
+        "refine": 350
+      },
       "Kadomatsu+": {
         "pool": { "special": { "5": ["Camilla - Holiday Traveler"] } },
         "id": "Kadomatsu+",
@@ -687,6 +694,13 @@
         "pool": { "#": { "3": ["Franz - The Faithful"] } },
         "id": "Melee Lance+",
         "name": "混戰之槍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Forged Lance+": {
+        "pool": { "grail": { "5": ["Wallace - Crag of Caelin"] } },
+        "id": "Forged Lance+",
+        "name": "鍛鍊之槍+",
         "sp": 300,
         "refine": 350
       },
@@ -3634,6 +3648,7 @@
             "Seteth - Seiros Adherent",
             "Franz - The Faithful"
           ],
+          "4": ["Marcus - Knight of Pherae"],
           "5": [
             "Gray - Wry Comrade",
             "Shiro - Raw Talent",
@@ -5215,6 +5230,7 @@
           "4": [
             "Minerva - Princess-Knight",
             "Kris - Ardent Firebrand",
+            "Bernadetta - Late Hibernator",
             "Julius - Scion of Darkness"
           ]
         },
@@ -5254,7 +5270,6 @@
             "Kagero - Beverage Ninja",
             "Shanna - Bridal Novice",
             "Tana - Frelian Starlight",
-            "Bernadetta - Late Hibernator",
             "Dimitri - Blessed Protector",
             "Seliph - Light's Legacy",
             "Dimitri - Stargazing Lion",
@@ -5596,6 +5611,7 @@
             "Tiki - Torpid Dragon",
             "Arlen - Mage of Khadein",
             "Robin - Exalt's Deliverer",
+            "Lowen - Apprentice Knight",
             "Morva - Darkling Warden",
             "Melíai - Warrior Wanderer",
             "Eikþyrnir - Resolved to Train"
@@ -5615,6 +5631,7 @@
             "Travant - King of Thracia",
             "Orson - Passion's Folly",
             "Petrine - Icy Flame-Lancer",
+            "Wallace - Crag of Caelin",
             "Gharnef - Dark Pontifex",
             "Cormag - Aloof Lanceman",
             "Jorge - Traveling Peddler",
@@ -5635,7 +5652,11 @@
         },
         "rearmed": { "5": ["Dedue - Dauntless Beast"] },
         "attuned": {
-          "5": ["Timerra - Desert Warrior", "Tiki - Dragon's Progeny"]
+          "5": [
+            "Timerra - Desert Warrior",
+            "Tiki - Dragon's Progeny",
+            "Eliwood - Noble Ablaze"
+          ]
         },
         "emblem": { "5": ["Edelgard - Of Rivals"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
@@ -5759,6 +5780,7 @@
     },
     "Flame Wall": {
       "pool": {
+        "#": { "5": ["Lowen - Apprentice Knight"] },
         "entwined": { "5": ["Ash - Borrowed Power"] },
         "special": { "5": ["Alfred - Joyous Snowdrop"] }
       },
@@ -6127,6 +6149,7 @@
         },
         "ascended": { "5": ["Ced - Sage of the Wind"] },
         "rearmed": { "5": ["Sonya - Beautiful Mage"] },
+        "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
         "legendary": { "5": ["Dimitri - Savior King"] },
         "special": { "5": ["Chrom - Pivotal Blow"] },
         "duo": { "5": ["Heiðrún - Sisters of Healing"] },
@@ -7284,6 +7307,7 @@
           ]
         },
         "grail": {
+          "4": ["Bernadetta - Late Hibernator"],
           "5": [
             "Innes - Frelian Moonlight",
             "Felix - Icy Gift Giver",
@@ -7294,6 +7318,7 @@
           "5": ["Laegjarn - Flame Ascendant", "Merric - Wind Pontifex"]
         },
         "attuned": { "5": ["Nino - Fang's Heart"] },
+        "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
         "legendary": {
           "5": [
             "Celica - Queen of Valentia",
@@ -7331,7 +7356,6 @@
             "Heather - Wandering Ninja",
             "Anna - Secret Charmer",
             "Tanith - Forthright Heart",
-            "Bernadetta - Late Hibernator",
             "Tharja - Shadow Ninja",
             "Yunaka - Spirited Envoy",
             "Kvasir - Unknown Future",
@@ -7629,15 +7653,12 @@
     },
     "Remote Sparrow": {
       "pool": {
+        "grail": { "5": ["Bernadetta - Late Hibernator"] },
         "ascended": { "5": ["Merric - Wind Pontifex"] },
         "legendary": { "5": ["Camilla - Alluring Darkness"] },
         "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
-          "5": [
-            "Heather - Wandering Ninja",
-            "Anna - Secret Charmer",
-            "Bernadetta - Late Hibernator"
-          ]
+          "5": ["Heather - Wandering Ninja", "Anna - Secret Charmer"]
         },
         "duo": {
           "5": ["Kagero - Bond Unwavering", "Shamir - Heartbeats United"]
@@ -7722,6 +7743,7 @@
     "Sly Swift Sparrow": {
       "pool": {
         "#": { "5": ["Midir - Archer of Yngvi"] },
+        "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
         "special": {
           "5": ["Tharja - Shadow Ninja", "Veronica - Royal Reception"]
         },
@@ -8682,7 +8704,10 @@
           "3": ["Atlas - Forest Muscle", "Boey - Skillful Survivor"],
           "5": ["Amelia - Rose of the War", "Rosado - Adorable Artist"]
         },
-        "grail": { "5": ["Darros - Seawalker"] },
+        "grail": {
+          "4": ["Wallace - Crag of Caelin"],
+          "5": ["Darros - Seawalker"]
+        },
         "special": { "5": ["Ephraim - Ardent Prince", "Nah - Grateful One"] }
       },
       "id": "Earth Boost 3",
@@ -10712,7 +10737,11 @@
       "pool": {
         "#": {
           "3": ["Kyle - Zealous Knight"],
-          "5": ["Mycen - Zofia's Champion", "Harken - Troubled Warrior"]
+          "5": [
+            "Mycen - Zofia's Champion",
+            "Harken - Troubled Warrior",
+            "Lowen - Apprentice Knight"
+          ]
         },
         "grail": {
           "4": ["Xander - Focused Firstborn"],
@@ -10769,6 +10798,14 @@
       "icon": "skillA/Spd_Def_Clash_4",
       "rules": "learner.infantry-cavalry-flying-melee"
     },
+    "Def/Res Clash 3": {
+      "pool": { "#": { "4": ["Marcus - Knight of Pherae"] } },
+      "id": "Def/Res Clash 3",
+      "name": "防守魔防的激戰3",
+      "sp": 240,
+      "icon": "skillA/Def_Res_Clash_3",
+      "rules": "learner.infantry-cavalry-flying-melee"
+    },
     "Atk/Spd Excel": {
       "pool": {
         "#": { "5": ["Felix - Sword Savant"] },
@@ -10796,6 +10833,7 @@
     },
     "Atk/Def Excel": {
       "pool": {
+        "#": { "5": ["Lowen - Apprentice Knight"] },
         "emblem": { "5": ["Sigurd - Of the Holy War"] },
         "mythic": {
           "5": ["Ótr - Kingsbrother", "Eikþyrnir - Quieting Strength"]
@@ -11197,6 +11235,7 @@
     "Blue Skies 3": {
       "pool": {
         "rearmed": { "5": ["Hinoka - Warrior of Gusto"] },
+        "attuned": { "5": ["Eliwood - Noble Ablaze"] },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "mythic": { "5": ["Baldr - Celestial Sun God"] },
         "special": {
@@ -11226,7 +11265,10 @@
       "rules": "learner.wielderCavalryFlying"
     },
     "Blue-Sky Gust": {
-      "pool": { "special": { "5": ["Mia - Zenith Challenger"] } },
+      "pool": {
+        "attuned": { "5": ["Eliwood - Noble Ablaze"] },
+        "special": { "5": ["Mia - Zenith Challenger"] }
+      },
       "id": "Blue-Sky Gust",
       "name": "蒼穹・鬼沒",
       "sp": 300,
@@ -11401,6 +11443,7 @@
           "5": ["Ninian - Oracle of Destiny", "Yarne - Timid Taguel"]
         },
         "grail": {
+          "4": ["Bernadetta - Late Hibernator"],
           "5": [
             "Saias - Bishop of Flame",
             "Heath - Wandering Knight",
@@ -11408,9 +11451,7 @@
           ]
         },
         "rearmed": { "5": ["Sonya - Beautiful Mage"] },
-        "special": {
-          "5": ["Cordelia - Perfect Bride", "Bernadetta - Late Hibernator"]
-        }
+        "special": { "5": ["Cordelia - Perfect Bride"] }
       },
       "id": "Escape Route 3",
       "name": "脫離路線3",
@@ -11419,8 +11460,8 @@
     },
     "Escape Route 4": {
       "pool": {
-        "rearmed": { "5": ["Sonya - Beautiful Mage"] },
-        "special": { "5": ["Bernadetta - Late Hibernator"] }
+        "grail": { "5": ["Bernadetta - Late Hibernator"] },
+        "rearmed": { "5": ["Sonya - Beautiful Mage"] }
       },
       "id": "Escape Route 4",
       "name": "脫離路線4",
@@ -11881,6 +11922,7 @@
     "Wily Fighter 3": {
       "pool": {
         "#": { "5": ["Grima - Tyrant of Despair"] },
+        "grail": { "5": ["Wallace - Crag of Caelin"] },
         "ascended": { "5": ["Idunn - Divine Demon"] },
         "attuned": { "5": ["Hector - Steel Warrior"] },
         "special": { "4": ["Skrimir - Echoing Howl"] }
@@ -15523,7 +15565,11 @@
       "rules": "learner.cavalry-flying-tome-staff"
     },
     "Momentum 3": {
-      "pool": { "emblem": { "5": ["Sigurd - Of the Holy War"] } },
+      "pool": {
+        "attuned": { "5": ["Eliwood - Noble Ablaze"] },
+        "emblem": { "5": ["Sigurd - Of the Holy War"] },
+        "entwined": { "5": ["Ninian - Heartfelt Dancer"] }
+      },
       "id": "Momentum 3",
       "name": "助跑3",
       "sp": 240,
@@ -15537,6 +15583,17 @@
       "sp": 300,
       "icon": "skillB/Momentum_4",
       "rules": "learner.infantry-cavalry-flying-melee"
+    },
+    "Impetus Guard": {
+      "pool": {
+        "attuned": { "5": ["Eliwood - Noble Ablaze"] },
+        "entwined": { "5": ["Ninian - Heartfelt Dancer"] }
+      },
+      "id": "Impetus Guard",
+      "name": "助跑・取消",
+      "sp": 400,
+      "icon": "skillB/Impetus_Guard",
+      "rules": "learner.cavalry-flying-melee"
     },
     "Speedtaker 3": {
       "pool": {
@@ -16054,6 +16111,7 @@
       "pool": {
         "#": {
           "3": ["Natasha - Sacred Healer", "Balthus - King of Grappling"],
+          "4": ["Marcus - Knight of Pherae"],
           "5": [
             "Veronica - Brave Princess",
             "Mycen - Zofia's Champion",
@@ -16659,6 +16717,7 @@
             "Azelle - Youthful Flame"
           ]
         },
+        "attuned": { "5": ["Eliwood - Noble Ablaze"] },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "special": {
           "5": [
@@ -16703,7 +16762,7 @@
             "Cherche - Wyvern Friend",
             "Frederick - Polite Knight"
           ],
-          "5": ["Forsyth - Loyal Lieutenant"]
+          "5": ["Forsyth - Loyal Lieutenant", "Lowen - Apprentice Knight"]
         },
         "legendary": {
           "5": ["Ephraim - Legendary Lord", "Seliph - Scion of Light"]
@@ -16839,6 +16898,22 @@
       "name": "攻速鼓譟・強化無效",
       "sp": 300,
       "icon": "skillC/A_S_Outcry_Dull",
+      "rules": "learner.cavalry-melee"
+    },
+    "A/D Outcry Dull": {
+      "pool": { "#": { "5": ["Lowen - Apprentice Knight"] } },
+      "id": "A/D Outcry Dull",
+      "name": "攻防鼓譟・強化無效",
+      "sp": 300,
+      "icon": "skillC/A_D_Outcry_Dull",
+      "rules": "learner.cavalry-melee"
+    },
+    "A/S Outcry Seize": {
+      "pool": { "attuned": { "5": ["Eliwood - Noble Ablaze"] } },
+      "id": "A/S Outcry Seize",
+      "name": "攻速鼓譟・奪取無效",
+      "sp": 300,
+      "icon": "skillC/A_S_Outcry_Seize",
       "rules": "learner.cavalry-melee"
     },
     "A/S Bellow": {
@@ -17565,12 +17640,16 @@
     "Def Smoke 3": {
       "pool": {
         "#": { "3": ["Rath - Wolf of Sacae"], "5": ["Claude - The Schemer"] },
-        "grail": { "4": ["Panne - Proud Taguel", "Saizo - Hoshido's Flame"] },
+        "grail": {
+          "4": [
+            "Bernadetta - Late Hibernator",
+            "Panne - Proud Taguel",
+            "Saizo - Hoshido's Flame"
+          ]
+        },
         "rearmed": { "5": ["Alcryst - Tender Archer"] },
         "legendary": { "5": ["Leif - Unifier of Thracia"] },
-        "special": {
-          "5": ["Alfonse - Spring Prince", "Bernadetta - Late Hibernator"]
-        }
+        "special": { "5": ["Alfonse - Spring Prince"] }
       },
       "id": "Def Smoke 3",
       "name": "防守紫煙3",
@@ -17597,17 +17676,12 @@
     "Def/Res Smoke 3": {
       "pool": {
         "#": { "5": ["Ursula - Blackened Crow"] },
+        "grail": { "5": ["Bernadetta - Late Hibernator"] },
         "rearmed": {
           "5": ["Reinhardt - Thrud Reborn", "Alcryst - Tender Archer"]
         },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
-        "special": {
-          "5": [
-            "Leila - Keen Lookout",
-            "Bernadetta - Late Hibernator",
-            "Tharja - Shadow Ninja"
-          ]
-        },
+        "special": { "5": ["Leila - Keen Lookout", "Tharja - Shadow Ninja"] },
         "harmonized": { "5": ["Linde - Bound by Fate"] }
       },
       "id": "Def/Res Smoke 3",
@@ -19666,6 +19740,7 @@
       "pool": {
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
+        "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
         "special": {
           "4": ["Dorothea - Rosy Songstress"],
           "5": ["Dimitri - Stargazing Lion"]
@@ -19682,6 +19757,7 @@
       "pool": {
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
+        "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
         "special": { "5": ["Dimitri - Stargazing Lion"] },
         "duo": { "5": ["Baldr - New Year's Elite", "Lucina - Shadows of Fate"] }
       },
@@ -20046,6 +20122,14 @@
       "sp": 0,
       "icon": "skillX/Tempo_Echo",
       "rules": "infantry"
+    },
+    "Momentum Echo": {
+      "pool": { "attuned": { "5": ["Eliwood - Noble Ablaze"] } },
+      "id": "Momentum Echo",
+      "name": "響・助跑",
+      "sp": 0,
+      "icon": "skillX/Momentum_Echo",
+      "rules": "learner.infantry-cavalry-flying-melee"
     },
     "Crux Echo": {
       "pool": { "attuned": { "5": ["Tharja - Gloomy Mage"] } },

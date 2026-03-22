@@ -108,6 +108,14 @@
     "exclusive": ["Peony - Fruitful Dream"],
     "last": true
   },
+  "Dragon's Twirl": {
+    "id": "Dragon's Twirl",
+    "name": "真・繼承尊貴龍……",
+    "sp": 400,
+    "prev": ["Dance"],
+    "exclusive": ["Ninian - Heartfelt Dancer"],
+    "last": true
+  },
   "Dance": {
     "id": "Dance",
     "name": "起舞",
@@ -161,7 +169,8 @@
       "Olivia - Wavecrest Dancer",
       "Tethys - Dancing Sands",
       "Plumeria - Spring Dance",
-      "Peony - Fruitful Dream"
+      "Peony - Fruitful Dream",
+      "Ninian - Heartfelt Dancer"
     ],
     "last": true
   },
