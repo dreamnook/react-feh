@@ -4891,6 +4891,39 @@
     "icon": "skillC/Instruct_4",
     "last": true
   },
+  "Dual Support 1": {
+    "id": "Dual Support 1",
+    "name": "雙重支援1",
+    "sp": 60,
+    "rules": "infantry",
+    "icon": "skillC/Dual_Support_1"
+  },
+  "Dual Support 2": {
+    "id": "Dual Support 2",
+    "name": "雙重支援2",
+    "sp": 120,
+    "prev": ["Dual Support 1"],
+    "rules": "infantry",
+    "icon": "skillC/Dual_Support_2"
+  },
+  "Dual Support 3": {
+    "id": "Dual Support 3",
+    "name": "雙重支援3",
+    "sp": 240,
+    "prev": ["Dual Support 2"],
+    "rules": "infantry",
+    "icon": "skillC/Dual_Support_3",
+    "last": true
+  },
+  "Dual Support 4": {
+    "id": "Dual Support 4",
+    "name": "雙重支援4",
+    "sp": 300,
+    "prev": ["Dual Support 3"],
+    "rules": "infantry",
+    "icon": "skillC/Dual_Support_4",
+    "last": true
+  },
   "Sword Exp. 1": {
     "id": "Sword Exp. 1",
     "name": "劍之經驗1",

@@ -17474,6 +17474,16 @@
       "exclusive": ["Hilda - Skyward Wings"],
       "last": true
     },
+    "Royal Exalt Bow": {
+      "id": "Royal Exalt Bow",
+      "name": "聖公主之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Lucina - Of Awakening"],
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",

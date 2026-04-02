@@ -802,6 +802,15 @@
     "exclusive": ["Eliwood - Noble Ablaze"],
     "last": true
   },
+  "All for One": {
+    "id": "All for One",
+    "name": "人人為我",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Astra"],
+    "exclusive": ["Lucina - Of Awakening"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

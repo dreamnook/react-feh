@@ -41753,6 +41753,41 @@
     "ver": "8.11",
     "dfKey": 7
   },
+  "Lucina - Of Awakening": {
+    "id": "Lucina - Of Awakening",
+    "title": "覺醒紋章士",
+    "name": "露琪娜",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-bow",
+    "moveType": "infantry",
+    "pool": "emblem",
+    "appearsIn": ["Awakening", "Engage"],
+    "releaseDate": "2026-03-30",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [46, 49, 53],
+        "def": [31, 34, 37],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 8,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.3",
+    "dfKey": 8
+  },
   "Owain - Chosen One": {
     "id": "Owain - Chosen One",
     "title": "封印著力量之人",

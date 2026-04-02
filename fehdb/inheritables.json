@@ -3673,7 +3673,7 @@
           ]
         },
         "rearmed": { "5": ["Lucina - Fate's Resolve"] },
-        "emblem": { "5": ["Micaiah - Of Dawn"] },
+        "emblem": { "5": ["Micaiah - Of Dawn", "Lucina - Of Awakening"] },
         "legendary": {
           "5": ["Yuri - Underground Lord", "Lucina - Glorious Archer"]
         },
@@ -4983,7 +4983,13 @@
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "rearmed": { "5": ["Chrom - Fell Exalt"] },
         "attuned": { "5": ["Leif - Sworn to Country"] },
-        "emblem": { "5": ["Lyn - Of Blazing", "Byleth - Of the Academy"] },
+        "emblem": {
+          "5": [
+            "Lyn - Of Blazing",
+            "Lucina - Of Awakening",
+            "Byleth - Of the Academy"
+          ]
+        },
         "aided": { "5": ["Lute - Limitless Curiosity"] },
         "legendary": {
           "5": ["Leif - Unifier of Thracia", "Ayra - Supreme Astra"]
@@ -10422,7 +10428,7 @@
         },
         "ascended": { "5": ["Ced - Sage of the Wind"] },
         "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
-        "emblem": { "5": ["Byleth - Of the Academy"] },
+        "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
         "special": {
@@ -10618,7 +10624,7 @@
       "pool": {
         "#": { "5": ["Ignatz - Worldly Artist"] },
         "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
-        "emblem": { "5": ["Byleth - Of the Academy"] },
+        "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
         "special": {
           "5": [
             "Larcei - Bride of Astra",
@@ -13613,7 +13619,7 @@
       "pool": {
         "#": { "3": ["Boyd - Intrepid Warrior"] },
         "grail": { "5": ["Elincia - Seaside Queen"] },
-        "emblem": { "5": ["Byleth - Of the Academy"] },
+        "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
         "special": {
           "5": [
             "Joshua - Tropical Gambler",
@@ -13733,7 +13739,7 @@
     },
     "Atk/Spd Favor": {
       "pool": {
-        "emblem": { "5": ["Byleth - Of the Academy"] },
+        "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
         "special": { "5": ["Marth - Masked Gladiator"] },
         "harmonized": { "5": ["Hilda - Skyward Wings"] }
       },
@@ -19835,6 +19841,22 @@
       "name": "指導4",
       "sp": 300,
       "icon": "skillC/Instruct_4"
+    },
+    "Dual Support 3": {
+      "pool": { "emblem": { "5": ["Lucina - Of Awakening"] } },
+      "id": "Dual Support 3",
+      "name": "雙重支援3",
+      "sp": 240,
+      "icon": "skillC/Dual_Support_3",
+      "rules": "infantry"
+    },
+    "Dual Support 4": {
+      "pool": { "emblem": { "5": ["Lucina - Of Awakening"] } },
+      "id": "Dual Support 4",
+      "name": "雙重支援4",
+      "sp": 300,
+      "icon": "skillC/Dual_Support_4",
+      "rules": "infantry"
     },
     "Sword Exp. 3": {
       "pool": { "#": { "3": ["Athena - Borderland Sword"] } },

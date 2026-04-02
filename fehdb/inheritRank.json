@@ -15643,6 +15643,21 @@
     "skillB": { "Atk/Res Havoc": { "sp": 300, "rarity": 5 } },
     "skillC": { "Silence Ward 4": { "sp": 300, "rarity": 5 } }
   },
+  "Lucina - Of Awakening": {
+    "score": 276,
+    "scoreTotal": 1150,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 300,
+    "spTotal": 1250,
+    "feather": 1000,
+    "bst": 199,
+    "assist": { "Swap": { "sp": 150, "rarity": 5 } },
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Favor": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Dual Support 4": { "sp": 300, "rarity": 5 } }
+  },
   "Camilla - Midnight Bloom": {
     "score": 318,
     "scoreTotal": 1166,

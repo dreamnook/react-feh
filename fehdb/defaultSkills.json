@@ -24096,6 +24096,40 @@
       "Shadow Shift 4": 5
     }
   },
+  "Lucina - Of Awakening": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Royal Exalt Bow": 5
+    },
+    "assist": {
+      "Swap": 4
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "All for One": 5
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Perfect Atk/Spd": 5
+    },
+    "skillB": {
+      "Atk/Spd Link 1": 2,
+      "Atk/Spd Link 2": 3,
+      "Atk/Spd Link 3": 4,
+      "Atk/Spd Favor": 5
+    },
+    "skillC": {
+      "Dual Support 1": 2,
+      "Dual Support 2": 3,
+      "Dual Support 3": 4,
+      "Dual Support 4": 5
+    }
+  },
   "Owain - Chosen One": {
     "weapon": {
       "Iron Sword": 1,
