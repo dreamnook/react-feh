@@ -3910,6 +3910,16 @@
       },
       "last": true
     },
+    "Priming Sword": {
+      "id": "Priming Sword",
+      "name": "戰神的修練之劍",
+      "mt": 16,
+      "sp": 400,
+      "cd": -2,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Felix - Zealous Yearning"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -8992,6 +9002,34 @@
       "sp": 300,
       "prev": ["Silver Lance"],
       "rearmed": true,
+      "last": true
+    },
+    "Arcane Thorn": {
+      "id": "Arcane Thorn",
+      "name": "魔器・戰神的銳槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Lance"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Iron Lance": {
@@ -17561,6 +17599,16 @@
       "exclusive": ["Lucina - Of Awakening"],
       "last": true
     },
+    "Hunting Bow": {
+      "id": "Hunting Bow",
+      "name": "戰神的狩獵之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Claude - Budding Ambition"],
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",
@@ -20630,6 +20678,16 @@
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Shez - Covert Mercenary"],
+      "last": true
+    },
+    "Oath Dagger": {
+      "id": "Oath Dagger",
+      "name": "戰神的誓約短劍",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Edelgard - Promising Path"],
       "last": true
     },
     "Arcane Void": {

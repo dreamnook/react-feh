@@ -983,6 +983,30 @@
     "icon": "skillB/Stellar_Brace",
     "last": true
   },
+  "Collapsed Star": {
+    "id": "Collapsed Star",
+    "name": "正統落星",
+    "sp": 400,
+    "exclusive": ["Claude - Budding Ambition"],
+    "icon": "skillB/Collapsed_Star",
+    "last": true
+  },
+  "Matchless Wolf": {
+    "id": "Matchless Wolf",
+    "name": "純正・獨行俠",
+    "sp": 400,
+    "exclusive": ["Felix - Zealous Yearning"],
+    "icon": "skillB/Matchless_Wolf",
+    "last": true
+  },
+  "Vengeful Storm": {
+    "id": "Vengeful Storm",
+    "name": "正統狂嵐",
+    "sp": 400,
+    "exclusive": ["Edelgard - Promising Path"],
+    "icon": "skillB/Vengeful_Storm",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

@@ -166,6 +166,9 @@
   "learner.tome-staff": {
     "weaponType": 61448
   },
+  "learner.bow-dagger": {
+    "weaponType": 4080
+  },
   "learner.wielder": {
     "weaponType": 7
   },
@@ -244,6 +247,10 @@
   },
   "learner.infantry-armored-not-staff": {
     "weaponType": 16777207,
+    "moveType": 3
+  },
+  "learner.infantry-armored-dagger": {
+    "weaponType": 3840,
     "moveType": 3
   },
   "learner.infantry-armored-flying-ranged-res-dmger": {

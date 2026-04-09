@@ -419,6 +419,13 @@
         "name": "魔器・鮮紅薙刀",
         "sp": 300
       },
+      "Arcane Thorn": {
+        "pool": { "rearmed": { "5": ["Ingrid - Chivalrous Heart"] } },
+        "id": "Arcane Thorn",
+        "name": "魔器・戰神的銳槍",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Lance+": {
         "pool": {
           "#": {
@@ -3806,7 +3813,7 @@
         "grail": {
           "4": ["Leonie - Relentless Rays", "Luthier - Spring Hopes"]
         },
-        "rearmed": { "5": ["Chrom - Fell Exalt"] },
+        "rearmed": { "5": ["Ingrid - Chivalrous Heart", "Chrom - Fell Exalt"] },
         "emblem": { "5": ["Byleth - Of the Academy"] },
         "aided": { "5": ["Dagr - Sunny Bloom"] },
         "legendary": { "5": ["Chrom - Crowned Exalt"] },
@@ -5379,7 +5386,7 @@
           ]
         },
         "special": {
-          "4": ["Lethe - Cat Attack"],
+          "4": ["Claude - Budding Ambition", "Lethe - Cat Attack"],
           "5": [
             "Corrin - Novice Vacationer",
             "Nerþuz - Beach Chaperone",
@@ -5389,6 +5396,7 @@
             "Corrin - Starry Seer",
             "Framme - Spring Fangirl",
             "Yunaka - Stealthy Imitator",
+            "Felix - Zealous Yearning",
             "Thórr - Spring War God"
           ]
         },
@@ -5467,7 +5475,11 @@
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Diamant - Fortified King"] },
         "special": {
-          "5": ["Yunaka - Stealthy Imitator", "Thórr - Spring War God"]
+          "5": [
+            "Yunaka - Stealthy Imitator",
+            "Felix - Zealous Yearning",
+            "Thórr - Spring War God"
+          ]
         },
         "duo": { "5": ["Baldr - New Year's Elite"] },
         "harmonized": { "5": ["Celica - With Grace", "Lyn - Glitters of Hope"] }
@@ -5656,7 +5668,9 @@
             "Raphael - Beast of Leicester"
           ]
         },
-        "rearmed": { "5": ["Dedue - Dauntless Beast"] },
+        "rearmed": {
+          "5": ["Dedue - Dauntless Beast", "Ingrid - Chivalrous Heart"]
+        },
         "attuned": {
           "5": [
             "Timerra - Desert Warrior",
@@ -5698,6 +5712,7 @@
             "Alfred - Joyous Snowdrop"
           ]
         },
+        "duo": { "5": ["Edelgard - Promising Path"] },
         "harmonized": {
           "5": ["Hector - Into the Fray", "Hilda - Skyward Wings"]
         }
@@ -5737,7 +5752,10 @@
       "rules": "learner.armored-not-staff"
     },
     "Armored Flare": {
-      "pool": { "harmonized": { "5": ["Hector - Into the Fray"] } },
+      "pool": {
+        "duo": { "5": ["Edelgard - Promising Path"] },
+        "harmonized": { "5": ["Hector - Into the Fray"] }
+      },
       "id": "Armored Flare",
       "name": "重裝之雙炎",
       "sp": 500,
@@ -5801,6 +5819,13 @@
       "name": "弱化射擊",
       "sp": 500,
       "rules": "bow"
+    },
+    "Shatter Slash": {
+      "pool": { "rearmed": { "5": ["Ingrid - Chivalrous Heart"] } },
+      "id": "Shatter Slash",
+      "name": "破壞強擊",
+      "sp": 500,
+      "rules": "learner.wielder"
     },
     "Iceberg": {
       "pool": {
@@ -7229,7 +7254,8 @@
         },
         "grail": { "4": ["Valter - Dark Moonstone"] },
         "attuned": { "5": ["Ryoma - Warrior of Bonds"] },
-        "legendary": { "5": ["Alm - Saint-King"] }
+        "legendary": { "5": ["Alm - Saint-King"] },
+        "special": { "5": ["Felix - Zealous Yearning"] }
       },
       "id": "Darting Blow 3",
       "name": "飛燕一擊3",
@@ -7642,7 +7668,10 @@
       "rules": "melee"
     },
     "Duelist's Blow": {
-      "pool": { "attuned": { "5": ["Ryoma - Warrior of Bonds"] } },
+      "pool": {
+        "attuned": { "5": ["Ryoma - Warrior of Bonds"] },
+        "special": { "5": ["Felix - Zealous Yearning"] }
+      },
       "id": "Duelist's Blow",
       "name": "清流一擊",
       "sp": 300,
@@ -11208,7 +11237,8 @@
     "Atk/Def Prime 3": {
       "pool": {
         "grail": { "5": ["Marni - Pining for Praise"] },
-        "special": { "5": ["Edelgard - Snowfall Future"] }
+        "special": { "5": ["Edelgard - Snowfall Future"] },
+        "duo": { "5": ["Edelgard - Promising Path"] }
       },
       "id": "Atk/Def Prime 3",
       "name": "攻擊防守的準備3",
@@ -11239,6 +11269,14 @@
       "sp": 300,
       "icon": "skillA/Spd_Def_Prime_4",
       "rules": "learner.def-dmger"
+    },
+    "Atk/Def Clear": {
+      "pool": { "duo": { "5": ["Edelgard - Promising Path"] } },
+      "id": "Atk/Def Clear",
+      "name": "攻擊防守撤除",
+      "sp": 300,
+      "icon": "skillA/Atk_Def_Clear",
+      "rules": "dagger"
     },
     "Blue Skies 3": {
       "pool": {
@@ -13621,6 +13659,7 @@
       "pool": {
         "#": { "3": ["Boyd - Intrepid Warrior"] },
         "grail": { "5": ["Elincia - Seaside Queen"] },
+        "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
         "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
         "special": {
           "5": [
@@ -13741,6 +13780,7 @@
     },
     "Atk/Spd Favor": {
       "pool": {
+        "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
         "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
         "special": { "5": ["Marth - Masked Gladiator"] },
         "harmonized": { "5": ["Hilda - Skyward Wings"] }
@@ -16725,9 +16765,11 @@
             "Azelle - Youthful Flame"
           ]
         },
+        "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
         "attuned": { "5": ["Eliwood - Noble Ablaze"] },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "special": {
+          "4": ["Claude - Budding Ambition"],
           "5": [
             "Caeda - Talys's Bride",
             "Gunnthrá - Year's First Dream",
@@ -16878,7 +16920,11 @@
       "pool": {
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "special": {
-          "5": ["Claude - Distant Deer", "Veronica - Royal Reception"]
+          "5": [
+            "Claude - Budding Ambition",
+            "Claude - Distant Deer",
+            "Veronica - Royal Reception"
+          ]
         },
         "harmonized": { "5": ["Celica - Sunlit Priestesses"] }
       },
@@ -16898,6 +16944,7 @@
     },
     "A/S Outcry Dull": {
       "pool": {
+        "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
         "harmonized": {
           "5": ["Fir - Dual Warriors", "Ingrid - Cordial Teatime"]
         }
@@ -19465,7 +19512,8 @@
             "Karla - Sun-Piercing Steel",
             "Mia - Budding Blade",
             "Larcei - Bride of Astra",
-            "Felix - Savant's Service"
+            "Felix - Savant's Service",
+            "Felix - Zealous Yearning"
           ]
         },
         "harmonized": { "5": ["Celica - With Grace"] }
@@ -19540,6 +19588,14 @@
       "name": "迅雷風烈・初擊躍動",
       "sp": 300,
       "icon": "skillC/Tempest_Burst",
+      "rules": "learner.infantry-melee"
+    },
+    "Burst of Thunder": {
+      "pool": { "special": { "5": ["Felix - Zealous Yearning"] } },
+      "id": "Burst of Thunder",
+      "name": "霹靂閃電・初擊躍動",
+      "sp": 300,
+      "icon": "skillC/Burst_of_Thunder",
       "rules": "learner.infantry-melee"
     },
     "Assault Troop 3": {
@@ -19779,7 +19835,8 @@
       "pool": {
         "rearmed": { "5": ["Leila - Superb Shadow", "Sothe - In the Breeze"] },
         "aided": { "5": ["Yunaka - Hidden Mask"] },
-        "special": { "5": ["Shez - Covert Mercenary"] }
+        "special": { "5": ["Shez - Covert Mercenary"] },
+        "duo": { "5": ["Edelgard - Promising Path"] }
       },
       "id": "Lookout 3",
       "name": "開路3",
@@ -19813,6 +19870,14 @@
       "sp": 300,
       "icon": "skillC/Lookout_Smog",
       "rules": "dagger"
+    },
+    "Lookout Rush": {
+      "pool": { "duo": { "5": ["Edelgard - Promising Path"] } },
+      "id": "Lookout Rush",
+      "name": "開路・突進",
+      "sp": 300,
+      "icon": "skillC/Lookout_Rush",
+      "rules": "learner.infantry-armored-dagger"
     },
     "Silence Ward 3": {
       "pool": { "emblem": { "5": ["Micaiah - Of Dawn"] } },

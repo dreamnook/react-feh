@@ -3176,6 +3176,27 @@
       "icon": "skillB/Dull_Close_3",
       "last": true
     },
+    "Dull Ranged 1": {
+      "id": "Dull Ranged 1",
+      "name": "強化無效・遠距離1",
+      "sp": 60,
+      "icon": "skillB/Dull_Ranged_1"
+    },
+    "Dull Ranged 2": {
+      "id": "Dull Ranged 2",
+      "name": "強化無效・遠距離2",
+      "sp": 120,
+      "prev": ["Dull Ranged 1"],
+      "icon": "skillB/Dull_Ranged_2"
+    },
+    "Dull Ranged 3": {
+      "id": "Dull Ranged 3",
+      "name": "強化無效・遠距離3",
+      "sp": 240,
+      "prev": ["Dull Ranged 2"],
+      "icon": "skillB/Dull_Ranged_3",
+      "last": true
+    },
     "Atk/Def Link 1": {
       "id": "Atk/Def Link 1",
       "name": "攻擊防守連動1",
@@ -5514,6 +5535,14 @@
       "last": true,
       "icon": "seal/Armored_Boots"
     },
+    "Close Shot": {
+      "id": "Close Shot",
+      "name": "近反・弓暗專用",
+      "sp": 300,
+      "rules": "learner.bow-dagger",
+      "last": true,
+      "icon": "seal/Close_Counter"
+    },
     "Close Transcend": {
       "id": "Close Transcend",
       "name": "近反・魔杖專用",
@@ -5522,19 +5551,19 @@
       "last": true,
       "icon": "seal/Close_Counter"
     },
-    "Distant Counter (D)": {
-      "id": "Distant Counter (D)",
-      "name": "遠反・龍專用",
-      "sp": 300,
-      "rules": "dragon",
-      "last": true,
-      "icon": "seal/Distant_Counter"
-    },
     "Distant Counter (M)": {
       "id": "Distant Counter (M)",
       "name": "遠反・劍槍斧專用",
       "sp": 300,
       "rules": "learner.wielder",
+      "last": true,
+      "icon": "seal/Distant_Counter"
+    },
+    "Distant Counter (D)": {
+      "id": "Distant Counter (D)",
+      "name": "遠反・龍專用",
+      "sp": 300,
+      "rules": "dragon",
       "last": true,
       "icon": "seal/Distant_Counter"
     },
@@ -8124,6 +8153,36 @@
       "def": 4,
       "prev": ["Squad Ace CZ 2"],
       "icon": "seal/Squad_Ace_HP_Spd_Def_3",
+      "last": true
+    },
+    "Squad Ace DA 1": {
+      "id": "Squad Ace DA 1",
+      "name": "第１０５迷宮的霸王1",
+      "sp": 120,
+      "hp": 4,
+      "spd": 2,
+      "res": 2,
+      "icon": "seal/Squad_Ace_HP_Spd_Res_1"
+    },
+    "Squad Ace DA 2": {
+      "id": "Squad Ace DA 2",
+      "name": "第１０５迷宮的霸王2",
+      "sp": 180,
+      "hp": 5,
+      "spd": 3,
+      "res": 3,
+      "prev": ["Squad Ace DA 1"],
+      "icon": "seal/Squad_Ace_HP_Spd_Res_2"
+    },
+    "Squad Ace DA 3": {
+      "id": "Squad Ace DA 3",
+      "name": "第１０５迷宮的霸王3",
+      "sp": 240,
+      "hp": 6,
+      "spd": 4,
+      "res": 4,
+      "prev": ["Squad Ace DA 2"],
+      "icon": "seal/Squad_Ace_HP_Spd_Res_3",
       "last": true
     }
   }

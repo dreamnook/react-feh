@@ -1268,6 +1268,18 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Def Wild": { "sp": 300, "rarity": 5 } }
   },
+  "Claude - Budding Ambition": {
+    "score": 163,
+    "scoreTotal": 259,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 300,
+    "bst": 191,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
+  },
   "Tana - Soaring New Year": {
     "score": 163,
     "scoreTotal": 259,
@@ -15600,6 +15612,20 @@
     "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Res Favor": { "sp": 300, "rarity": 5 } }
   },
+  "Ingrid - Chivalrous Heart": {
+    "score": 450,
+    "scoreTotal": 1125,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1250,
+    "feather": 1000,
+    "bst": 195,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Shatter Slash": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Atk/Spd Favor": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Outcry Dull": { "sp": 300, "rarity": 5 } }
+  },
   "Tanith - Forthright Heart": {
     "score": 424,
     "scoreTotal": 1145,
@@ -16374,6 +16400,19 @@
     "skillA": { "Def/Res Aria": { "sp": 300, "rarity": 5 } },
     "skillC": { "D/R Twin F Save": { "sp": 300, "rarity": 5 } }
   },
+  "Felix - Zealous Yearning": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 203,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Duelist's Blow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Burst of Thunder": { "sp": 300, "rarity": 5 } }
+  },
   "Celica - With Grace": {
     "score": 530,
     "scoreTotal": 1166,
@@ -16503,6 +16542,19 @@
     "special": { "Comet": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
     "skillC": { "Pulse On: Blades": { "sp": 300, "rarity": 5 } }
+  },
+  "Edelgard - Promising Path": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Armored Flare": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Def Clear": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Lookout Rush": { "sp": 300, "rarity": 5 } }
   },
   "Veyle - Sister Dragons": {
     "score": 530,

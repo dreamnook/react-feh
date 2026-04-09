@@ -547,6 +547,14 @@
     "icon": "skillA/Ostian_Backbone",
     "last": true
   },
+  "Proper Knight": {
+    "id": "Proper Knight",
+    "name": "真女騎士",
+    "sp": 300,
+    "exclusive": ["Ingrid - Chivalrous Heart"],
+    "icon": "skillA/Proper_Knight",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -5278,6 +5286,15 @@
     "prev": ["Spd/Def Prime 3"],
     "rules": "learner.def-dmger",
     "icon": "skillA/Spd_Def_Prime_4",
+    "last": true
+  },
+  "Atk/Def Clear": {
+    "id": "Atk/Def Clear",
+    "name": "攻擊防守撤除",
+    "sp": 300,
+    "rules": "dagger",
+    "prev": ["Atk/Def Prime 3"],
+    "icon": "skillA/Atk_Def_Clear",
     "last": true
   },
   "Blue Skies 1": {

@@ -4424,6 +4424,15 @@
     "icon": "skillC/Tempest_Burst",
     "last": true
   },
+  "Burst of Thunder": {
+    "id": "Burst of Thunder",
+    "name": "霹靂閃電・初擊躍動",
+    "sp": 300,
+    "prev": ["Odd Tempest 3", "Even Tempest 3"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillC/Burst_of_Thunder",
+    "last": true
+  },
   "Assault Troop 1": {
     "id": "Assault Troop 1",
     "name": "一齊突擊1",
@@ -4827,6 +4836,15 @@
     "rules": "dagger",
     "prev": ["Lookout 3"],
     "icon": "skillC/Lookout_Smog",
+    "last": true
+  },
+  "Lookout Rush": {
+    "id": "Lookout Rush",
+    "name": "開路・突進",
+    "sp": 300,
+    "prev": ["Lookout 3"],
+    "rules": "learner.infantry-armored-dagger",
+    "icon": "skillC/Lookout_Rush",
     "last": true
   },
   "Silence Ward 1": {

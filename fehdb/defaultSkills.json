@@ -29547,6 +29547,34 @@
       "Strat Assault 4": 5
     }
   },
+  "Edelgard - Promising Path": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 4,
+      "Oath Dagger": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Armored Flare": 5
+    },
+    "skillA": {
+      "Atk/Def Prime 1": 2,
+      "Atk/Def Prime 2": 3,
+      "Atk/Def Prime 3": 4,
+      "Atk/Def Clear": 5
+    },
+    "skillB": {
+      "Vengeful Storm": 5
+    },
+    "skillC": {
+      "Lookout 1": 2,
+      "Lookout 2": 3,
+      "Lookout 3": 4,
+      "Lookout Rush": 5
+    }
+  },
   "Hubert - Sinister Servant": {
     "weapon": {
       "Flux": 1,
@@ -30381,6 +30409,34 @@
       "Tempest Burst": 5
     }
   },
+  "Felix - Zealous Yearning": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Priming Sword": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Darting Blow 2": 3,
+      "Darting Blow 3": 4,
+      "Duelist's Blow": 5
+    },
+    "skillB": {
+      "Matchless Wolf": 5
+    },
+    "skillC": {
+      "Odd Tempest 1": 2,
+      "Odd Tempest 2": 3,
+      "Odd Tempest 3": 4,
+      "Burst of Thunder": 5
+    }
+  },
   "Ashe - Fabled Sea Knight": {
     "weapon": {
       "Iron Lance": 1,
@@ -30748,6 +30804,37 @@
       "A/S Outcry Dull": 5
     }
   },
+  "Ingrid - Chivalrous Heart": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Arcane Thorn": 5
+    },
+    "assist": {
+      "Reposition": 4
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Shatter Slash": 5
+    },
+    "skillA": {
+      "Proper Knight": 5
+    },
+    "skillB": {
+      "Atk/Spd Link 1": 2,
+      "Atk/Spd Link 2": 3,
+      "Atk/Spd Link 3": 4,
+      "Atk/Spd Favor": 5
+    },
+    "skillC": {
+      "Hone Spd 1": 2,
+      "Hone Spd 2": 3,
+      "Hone Spd 3": 4,
+      "A/S Outcry Dull": 5
+    }
+  },
   "Claude - The Schemer": {
     "weapon": {
       "Iron Bow": 1,
@@ -30919,6 +31006,27 @@
     },
     "skillB": {
       "Pure Starfall": 5
+    },
+    "skillC": {
+      "Hone Spd 1": 2,
+      "Hone Spd 2": 3,
+      "Hone Spd 3": 4,
+      "A/S Incite Hone": 5
+    }
+  },
+  "Claude - Budding Ambition": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Hunting Bow": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4
+    },
+    "skillB": {
+      "Collapsed Star": 5
     },
     "skillC": {
       "Hone Spd 1": 2,

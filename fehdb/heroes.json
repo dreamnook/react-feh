@@ -51110,6 +51110,42 @@
     "ver": "10.0",
     "dfKey": 8
   },
+  "Edelgard - Promising Path": {
+    "id": "Edelgard - Promising Path",
+    "title": "昔日的約定",
+    "name": "艾黛爾賈特",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-dagger",
+    "moveType": "armored",
+    "pool": "duo",
+    "bst": 220,
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2026-04-07",
+    "stats": {
+      "5": {
+        "hp": [45, 48, 51],
+        "atk": [46, 49, 53],
+        "spd": [12, 16, 19],
+        "def": [46, 49, 53],
+        "res": [41, 45, 48]
+      },
+      "5-1": {
+        "hp": 24,
+        "atk": 10,
+        "spd": 3,
+        "def": 10,
+        "res": 12
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["spd", "res"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
+  },
   "Hubert - Sinister Servant": {
     "id": "Hubert - Sinister Servant",
     "title": "冷酷陰險的隨從",
@@ -52478,6 +52514,41 @@
     "ver": "9.8",
     "dfKey": 7
   },
+  "Felix - Zealous Yearning": {
+    "id": "Felix - Zealous Yearning",
+    "title": "眼中的憧憬",
+    "name": "菲力克斯",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2026-04-07",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [45, 48, 51],
+        "spd": [46, 49, 53],
+        "def": [38, 41, 45],
+        "res": [21, 24, 27]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 10,
+        "def": 11,
+        "res": 7
+      }
+    },
+    "assets": ["spd", "def"],
+    "flaws": ["hp"],
+    "statMin": 203,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
+  },
   "Ashe - Fabled Sea Knight": {
     "id": "Ashe - Fabled Sea Knight",
     "title": "海之騎士的精神文學",
@@ -53061,6 +53132,41 @@
     "ver": "9.8",
     "dfKey": 7
   },
+  "Ingrid - Chivalrous Heart": {
+    "id": "Ingrid - Chivalrous Heart",
+    "title": "深藏於心的騎士精神",
+    "name": "英谷莉特",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "cavalry",
+    "pool": "rearmed",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2026-04-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [33, 36, 39],
+        "res": [20, 23, 26]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 10,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
+  },
   "Claude - The Schemer": {
     "id": "Claude - The Schemer",
     "title": "野心的寵兒",
@@ -53334,6 +53440,55 @@
     "book": 9,
     "ver": "9.2",
     "dfKey": 7
+  },
+  "Claude - Budding Ambition": {
+    "id": "Claude - Budding Ambition",
+    "title": "野心的萌芽",
+    "name": "庫羅德",
+    "rarity": [5, 4],
+    "colorType": "white",
+    "weaponType": "white-bow",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2026-04-07",
+    "stats": {
+      "4": {
+        "hp": [34, 37, 40],
+        "atk": [41, 44, 47],
+        "spd": [44, 47, 50],
+        "def": [20, 23, 26],
+        "res": [24, 27, 30]
+      },
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [46, 49, 53],
+        "def": [22, 26, 29],
+        "res": [26, 30, 33]
+      },
+      "4-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 10,
+        "def": 3,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 4,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 191,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
   },
   "Lorenz - Highborn Heat": {
     "id": "Lorenz - Highborn Heat",

@@ -1213,6 +1213,15 @@
     "rules": "bow",
     "last": true
   },
+  "Shatter Slash": {
+    "id": "Shatter Slash",
+    "name": "破壞強擊",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Ignis"],
+    "rules": "learner.wielder",
+    "last": true
+  },
   "Chilling Wind": {
     "id": "Chilling Wind",
     "name": "冰點",
