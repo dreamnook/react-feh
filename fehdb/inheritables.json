@@ -4665,6 +4665,7 @@
             "Zelkov - Winter Shadow",
             "Valter - Dark Moonstone",
             "Chulainn - Unbeaten Warrior",
+            "Eliwood - Pledged Friend",
             "Kronya - Gleaming Blade",
             "Linus - Mad Dog",
             "Xane - Fickle Dragon",
@@ -4714,7 +4715,6 @@
           "5": [
             "Elm - Resolute Grouch",
             "Igrene - Ninja of Nabata",
-            "Eliwood - Pledged Friend",
             "Nailah - Hatari Scorcher",
             "Eirika - Beach Restorer",
             "Shez - Snowfield Envoy",
@@ -10787,8 +10787,10 @@
     },
     "Spd/Def Clash 3": {
       "pool": {
-        "grail": { "5": ["Finn - Devoted Service"] },
-        "special": { "5": ["Eliwood - Pledged Friend"] }
+        "grail": {
+          "4": ["Eliwood - Pledged Friend"],
+          "5": ["Finn - Devoted Service"]
+        }
       },
       "id": "Spd/Def Clash 3",
       "name": "速度防守的激戰3",
@@ -10797,7 +10799,7 @@
       "rules": "learner.infantry-cavalry-flying-melee"
     },
     "Spd/Def Clash 4": {
-      "pool": { "special": { "5": ["Eliwood - Pledged Friend"] } },
+      "pool": { "grail": { "5": ["Eliwood - Pledged Friend"] } },
       "id": "Spd/Def Clash 4",
       "name": "速度防守的激戰4",
       "sp": 300,
@@ -14739,11 +14741,11 @@
     "S/D Near Trace 3": {
       "pool": {
         "#": { "5": ["Forde - Unfettered Knight", "Chrom - Fated Honor"] },
+        "grail": { "4": ["Eliwood - Pledged Friend"] },
         "mythic": { "5": ["Hræsvelgr - Quieting Blade"] },
         "special": {
           "5": [
             "Lethe - Cat Attack",
-            "Eliwood - Pledged Friend",
             "Tana - Frelian Starlight",
             "Naesala - Sea's Shadow",
             "Ashe - Fabled Sea Knight",

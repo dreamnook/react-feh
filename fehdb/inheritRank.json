@@ -7509,6 +7509,19 @@
     "skillA": { "Earth Boost 3": { "sp": 200, "rarity": 4 } },
     "skillB": { "Wily Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Eliwood - Pledged Friend": {
+    "score": 299,
+    "scoreTotal": 694,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 300,
+    "bst": 179,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Spd/Def Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 4 } }
+  },
   "Ash - Earnest Greetings": {
     "score": 299,
     "scoreTotal": 694,
@@ -10015,19 +10028,6 @@
     "special": { "Sol": { "sp": 200, "rarity": 5 } },
     "skillA": { "Distant Counter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Null Follow-Up 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Eliwood - Pledged Friend": {
-    "score": 318,
-    "scoreTotal": 784,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 740,
-    "feather": 1000,
-    "bst": 179,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Spd/Def Clash 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "S/D Near Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Artur - Silver Saint": {
     "score": 318,

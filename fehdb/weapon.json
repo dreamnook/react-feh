@@ -2993,6 +2993,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Priam - Radiant Hero"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Ancient_Ragnell_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Carnage Amatsu": {
@@ -3854,6 +3877,37 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Celica - With Grace"],
+      "last": true
+    },
+    "Sonic Sword": {
+      "id": "Sonic Sword",
+      "name": "音速劍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Tanith - Bright Blade"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Sonic_Sword_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Éljúðnir": {
@@ -12588,6 +12642,29 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Fjorm - Ice Ascendant"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Nifl's_Bite_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Fanged Basilikos": {
@@ -24973,6 +25050,28 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Hilda - Queen of Friege"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Fiery_Bolganone_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Dragon Bouquet": {
@@ -27428,6 +27527,28 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Lyon - Grado's Gaze"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Tome_of_Grado_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Demonic Tome": {
