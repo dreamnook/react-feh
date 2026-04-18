@@ -93,6 +93,14 @@
     "icon": "skillX/Momentum_Echo",
     "last": true
   },
+  "Puissant Echo": {
+    "id": "Puissant Echo",
+    "name": "響・超神速",
+    "sp": 0,
+    "rules": "learner.infantry-cavalry-flying-melee-def-dmger",
+    "icon": "skillX/Puissant_Echo",
+    "last": true
+  },
   "Crux Echo": {
     "id": "Crux Echo",
     "name": "響・十字牽制",

@@ -1007,6 +1007,14 @@
     "icon": "skillB/Vengeful_Storm",
     "last": true
   },
+  "As Eldie Would": {
+    "id": "As Eldie Would",
+    "name": "向艾爾多哥哥那樣",
+    "sp": 400,
+    "exclusive": ["Lachesis - Loving Sister"],
+    "icon": "skillB/As_Eldie_Would",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -6110,8 +6118,8 @@
     "id": "Impetus Guard",
     "name": "助跑・取消",
     "sp": 400,
-    "prev": ["Momentum 3"],
     "rules": "learner.cavalry-flying-melee",
+    "prev": ["Momentum 3"],
     "icon": "skillB/Impetus_Guard",
     "last": true
   },

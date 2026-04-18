@@ -1948,6 +1948,18 @@
     "skillB": { "Aerobatics 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Spd 2": { "sp": 240, "rarity": 4 } }
   },
+  "Marcus - Knight of Pherae": {
+    "score": 199,
+    "scoreTotal": 295,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 630,
+    "feather": 150,
+    "bst": 190,
+    "assist": { "Swap": { "sp": 150, "rarity": 3 } },
+    "skillA": { "Def/Res Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Close Guard 3": { "sp": 240, "rarity": 4 } }
+  },
   "Franz - The Faithful": {
     "score": 199,
     "scoreTotal": 295,
@@ -2394,18 +2406,6 @@
     "skillA": { "HP/Def 2": { "sp": 200, "rarity": 5 } },
     "skillC": { "Lance Valor 3": { "sp": 120, "rarity": 5 } }
   },
-  "Marcus - Knight of Pherae": {
-    "score": 185,
-    "scoreTotal": 373,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 630,
-    "feather": 300,
-    "bst": 190,
-    "assist": { "Swap": { "sp": 150, "rarity": 4 } },
-    "skillA": { "Def/Res Clash 3": { "sp": 240, "rarity": 5 } },
-    "skillC": { "Close Guard 3": { "sp": 240, "rarity": 4 } }
-  },
   "Gerome - Masked Rider": {
     "score": 374,
     "scoreTotal": 374,
@@ -2418,6 +2418,19 @@
     "assist": { "Rally Atk/Def": { "sp": 300, "rarity": 4 } },
     "skillA": { "Fortress Def 3": { "sp": 160, "rarity": 4 } },
     "skillB": { "Hit and Run": { "sp": 150, "rarity": 4 } }
+  },
+  "Claud - Priest of Edda": {
+    "score": 125,
+    "scoreTotal": 375,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 193,
+    "assist": { "Ice Lock+": { "sp": 400, "rarity": 5 } },
+    "special": { "Fireflood Charm": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Atk/Res Havoc": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Silence Ward 4": { "sp": 300, "rarity": 5 } }
   },
   "Lute - Summer Prodigy": {
     "score": 196,
@@ -7001,6 +7014,18 @@
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Naoise - Crimson Chivalry": {
+    "score": 240,
+    "scoreTotal": 680,
+    "poolRarity": 5,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
+    "skillB": { "A/D Near Trace 3": { "sp": 240, "rarity": 5 } }
+  },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
     "scoreTotal": 681,
@@ -9550,6 +9575,19 @@
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillA": { "Brazen Atk/Def 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Flow Force 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Lamia - Hellspawn": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 203,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Velocity 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Spd Smoke 3": { "sp": 240, "rarity": 4 } }
   },
   "Haitaka - Persistent General": {
     "score": 322,
@@ -13335,6 +13373,20 @@
     "special": { "Curved Shot": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Hexedge": { "sp": 300, "rarity": 5 } },
     "skillB": { "Speedtaker 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Lachesis - Loving Sister": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "attuned",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillA": { "A/S Rival Break": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/S Bellow": { "sp": 300, "rarity": 5 } },
+    "skillX": { "Puissant Echo": { "sp": 0, "rarity": 5 } }
   },
   "Machyua - Blade of Gales": {
     "score": 450,
@@ -17150,6 +17202,20 @@
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Chill Spd/Res 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Ground Orders 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Sigurd - Honorable Nobles": {
+    "score": 424,
+    "scoreTotal": 1378,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 400,
+    "spTotal": 1300,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Blazing Light": { "sp": 300, "rarity": 5 } },
+    "skillA": { "A/D Rival Break": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Impetus Guard": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/D Outcry Seize": { "sp": 300, "rarity": 5 } }
   },
   "Byleth - Of the Academy": {
     "score": 368,

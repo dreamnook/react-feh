@@ -1863,6 +1863,15 @@
     "icon": "skillC/A_S_Outcry_Seize",
     "last": true
   },
+  "A/D Outcry Seize": {
+    "id": "A/D Outcry Seize",
+    "name": "攻防鼓譟・奪取無效",
+    "sp": 300,
+    "rules": "learner.cavalry-melee",
+    "prev": ["Hone Atk 3", "Fortify Def 3"],
+    "icon": "skillC/A_D_Outcry_Seize",
+    "last": true
+  },
   "A/S Bellow": {
     "id": "A/S Bellow",
     "name": "攻速鼓譟・呼吸",
@@ -4428,8 +4437,8 @@
     "id": "Burst of Thunder",
     "name": "霹靂閃電・初擊躍動",
     "sp": 300,
-    "prev": ["Odd Tempest 3", "Even Tempest 3"],
     "rules": "learner.infantry-melee",
+    "prev": ["Odd Tempest 3", "Even Tempest 3"],
     "icon": "skillC/Burst_of_Thunder",
     "last": true
   },
@@ -4842,8 +4851,8 @@
     "id": "Lookout Rush",
     "name": "開路・突進",
     "sp": 300,
-    "prev": ["Lookout 3"],
     "rules": "learner.infantry-armored-dagger",
+    "prev": ["Lookout 3"],
     "icon": "skillC/Lookout_Rush",
     "last": true
   },

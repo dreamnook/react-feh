@@ -14469,6 +14469,76 @@
     "ver": "8.9",
     "dfKey": 7
   },
+  "Sigurd - Honorable Nobles": {
+    "id": "Sigurd - Honorable Nobles",
+    "title": "在高尚的理想之下",
+    "name": "西格爾特",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "cavalry",
+    "pool": "duo",
+    "bst": 220,
+    "appearsIn": ["Genealogy of the Holy War"],
+    "releaseDate": "2026-04-17",
+    "stats": {
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [46, 49, 53],
+        "spd": [37, 41, 44],
+        "def": [46, 49, 52],
+        "res": [12, 16, 19]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 8,
+        "def": 14,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
+  },
+  "Naoise - Crimson Chivalry": {
+    "id": "Naoise - Crimson Chivalry",
+    "title": "赤色騎士精神",
+    "name": "諾修",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "cavalry",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "releaseDate": "2026-04-17",
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [44, 47, 50],
+        "spd": [31, 34, 37],
+        "def": [45, 48, 52],
+        "res": [20, 23, 26]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 10,
+        "def": 9,
+        "res": 6
+      }
+    },
+    "assets": ["def"],
+    "flaws": [],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
+  },
   "Arden - Strong and Tough": {
     "id": "Arden - Strong and Tough",
     "title": "又硬、又強、又慢",
@@ -15769,6 +15839,41 @@
     "ver": "4.9",
     "dfKey": 3
   },
+  "Lachesis - Loving Sister": {
+    "id": "Lachesis - Loving Sister",
+    "title": "仰慕兄長的王妹",
+    "name": "拉克西絲",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "cavalry",
+    "pool": "attuned",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "releaseDate": "2026-04-17",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [46, 49, 53],
+        "spd": [45, 48, 51],
+        "def": [30, 33, 36],
+        "res": [22, 25, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 13,
+        "def": 7,
+        "res": 6
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
+  },
   "Deirdre - Lady of the Forest": {
     "id": "Deirdre - Lady of the Forest",
     "title": "精靈森林的少女",
@@ -15964,6 +16069,69 @@
     "book": 9,
     "ver": "9.1",
     "dfKey": 7
+  },
+  "Lamia - Hellspawn": {
+    "id": "Lamia - Hellspawn",
+    "title": "地獄的",
+    "name": "蕾密亞",
+    "rarity": [5, 4, 3],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "pool": "grail",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "releaseDate": "2026-04-18",
+    "stats": {
+      "3": {
+        "hp": [38, 41, 44],
+        "atk": [37, 40, 43],
+        "spd": [40, 43, 46],
+        "def": [32, 35, 38],
+        "res": [20, 23, 26]
+      },
+      "4": {
+        "hp": [39, 42, 45],
+        "atk": [40, 43, 46],
+        "spd": [42, 45, 48],
+        "def": [34, 37, 40],
+        "res": [21, 24, 27]
+      },
+      "5": {
+        "hp": [42, 45, 48],
+        "atk": [42, 45, 48],
+        "spd": [45, 48, 52],
+        "def": [36, 39, 42],
+        "res": [23, 26, 29]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 8,
+        "def": 10,
+        "res": 8
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 8,
+        "def": 11,
+        "res": 8
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 9,
+        "def": 11,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": [],
+    "statMin": 203,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
   },
   "Seliph - Heir of Light": {
     "id": "Seliph - Heir of Light",
@@ -17419,6 +17587,40 @@
     "book": 5,
     "ver": "5.7",
     "dfKey": 3
+  },
+  "Claud - Priest of Edda": {
+    "id": "Claud - Priest of Edda",
+    "title": "埃達的祭司",
+    "name": "克勞德",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-staff",
+    "moveType": "infantry",
+    "appearsIn": ["Genealogy of the Holy War"],
+    "releaseDate": "2026-04-17",
+    "stats": {
+      "5": {
+        "hp": [39, 42, 45],
+        "atk": [45, 48, 51],
+        "spd": [30, 33, 36],
+        "def": [18, 21, 24],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 9,
+        "def": 4,
+        "res": 10
+      }
+    },
+    "assets": ["res"],
+    "flaws": [],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
   },
   "Leif - Prince of Leonster": {
     "id": "Leif - Prince of Leonster",
@@ -23931,13 +24133,20 @@
     "id": "Marcus - Knight of Pherae",
     "title": "費雷的聖騎士",
     "name": "馬卡斯",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "red",
     "weaponType": "red-sword",
     "moveType": "cavalry",
     "appearsIn": ["The Blazing Blade"],
     "releaseDate": "2026-03-16",
     "stats": {
+      "3": {
+        "hp": [33, 36, 39],
+        "atk": [40, 43, 46],
+        "spd": [27, 30, 33],
+        "def": [25, 28, 31],
+        "res": [30, 33, 36]
+      },
       "4": {
         "hp": [34, 37, 40],
         "atk": [42, 45, 48],
@@ -23951,6 +24160,13 @@
         "spd": [30, 34, 37],
         "def": [28, 31, 35],
         "res": [34, 37, 40]
+      },
+      "3-1": {
+        "hp": 17,
+        "atk": 8,
+        "spd": 11,
+        "def": 11,
+        "res": 10
       },
       "4-1": {
         "hp": 17,

@@ -3920,6 +3920,16 @@
       "exclusive": ["Felix - Zealous Yearning"],
       "last": true
     },
+    "Oath Tyrfing": {
+      "id": "Oath Tyrfing",
+      "name": "誓約斬裂劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Sigurd - Honorable Nobles"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -4877,6 +4887,39 @@
       "mt": 14,
       "sp": 300,
       "prev": ["Melee Blade"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Forged Sword": {
+      "id": "Forged Sword",
+      "name": "鍛鍊之劍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Sword"]
+    },
+    "Forged Sword+": {
+      "id": "Forged Sword+",
+      "name": "鍛鍊之劍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Forged Sword"],
       "refine": {
         "atk": {
           "hp": 5,
@@ -10064,6 +10107,39 @@
       },
       "last": true
     },
+    "Shackle Lance": {
+      "id": "Shackle Lance",
+      "name": "枷鎖之槍",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Lance"]
+    },
+    "Shackle Lance+": {
+      "id": "Shackle Lance+",
+      "name": "枷鎖之槍+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Shackle Lance"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Berkut's Lance": {
       "id": "Berkut's Lance",
       "name": "貝爾克特之槍",
@@ -13654,6 +13730,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Eliwood - Noble Ablaze"],
+      "last": true
+    },
+    "Lionheart Axe": {
+      "id": "Lionheart Axe",
+      "name": "獅子王之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Lachesis - Loving Sister"],
       "last": true
     },
     "Arcane Downfall": {
@@ -32915,6 +33001,7 @@
       "id": "Martyr's Staff",
       "name": "活祭品聖女之杖",
       "mt": 14,
+      "cd": -1,
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Lena - Bereft Angel"],
@@ -32934,9 +33021,20 @@
       "id": "Sweet Staff",
       "name": "可愛的蛋糕杖",
       "mt": 14,
+      "cd": -1,
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Hortensia - Cutesplosion"],
+      "last": true
+    },
+    "Valkyrie": {
+      "id": "Valkyrie",
+      "name": "瓦爾基里",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Assault"],
+      "exclusive": ["Claud - Priest of Edda"],
       "last": true
     },
     "Arcane Charmer": {

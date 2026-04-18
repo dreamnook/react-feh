@@ -811,6 +811,15 @@
     "exclusive": ["Lucina - Of Awakening"],
     "last": true
   },
+  "Holy-Knight Glow": {
+    "id": "Holy-Knight Glow",
+    "name": "格蘭貝魯的聖光",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Blazing Light"],
+    "exclusive": ["Sigurd - Honorable Nobles"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -1132,18 +1141,27 @@
     "rules": "not.white-staff",
     "last": true
   },
-  "Armored Beacon": {
-    "id": "Armored Beacon",
-    "name": "重裝之聖炎",
+  "Flame Wall": {
+    "id": "Flame Wall",
+    "name": "壁炎",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Ignis"],
+    "rules": "not.white-staff",
+    "last": true
+  },
+  "Armored Blaze": {
+    "id": "Armored Blaze",
+    "name": "重裝之大炎",
     "sp": 500,
     "cd": 3,
     "prev": ["Bonfire"],
     "rules": "learner.armored-not-staff",
     "last": true
   },
-  "Armored Blaze": {
-    "id": "Armored Blaze",
-    "name": "重裝之大炎",
+  "Armored Beacon": {
+    "id": "Armored Beacon",
+    "name": "重裝之聖炎",
     "sp": 500,
     "cd": 3,
     "prev": ["Bonfire"],
@@ -1195,15 +1213,6 @@
     "rules": "dragon",
     "last": true
   },
-  "Flame Wall": {
-    "id": "Flame Wall",
-    "name": "壁炎",
-    "sp": 500,
-    "cd": 4,
-    "prev": ["Ignis"],
-    "rules": "not.white-staff",
-    "last": true
-  },
   "Waning Shot": {
     "id": "Waning Shot",
     "name": "弱化射擊",
@@ -1247,18 +1256,27 @@
     "rules": "not.white-staff",
     "last": true
   },
-  "Armored Floe": {
-    "id": "Armored Floe",
-    "name": "重裝之聖冰",
+  "Ice Wall": {
+    "id": "Ice Wall",
+    "name": "冰牆",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Glacies"],
+    "rules": "not.white-staff",
+    "last": true
+  },
+  "Armored Glacier": {
+    "id": "Armored Glacier",
+    "name": "重裝之大冰",
     "sp": 500,
     "cd": 3,
     "prev": ["Iceberg"],
     "rules": "learner.armored-not-staff",
     "last": true
   },
-  "Armored Glacier": {
-    "id": "Armored Glacier",
-    "name": "重裝之大冰",
+  "Armored Floe": {
+    "id": "Armored Floe",
+    "name": "重裝之聖冰",
     "sp": 500,
     "cd": 3,
     "prev": ["Iceberg"],
@@ -1299,15 +1317,6 @@
     "cd": 4,
     "prev": ["Glacies"],
     "rules": "dragon",
-    "last": true
-  },
-  "Ice Wall": {
-    "id": "Ice Wall",
-    "name": "冰牆",
-    "sp": 500,
-    "cd": 4,
-    "prev": ["Glacies"],
-    "rules": "not.white-staff",
     "last": true
   },
   "Rising Flame": {
@@ -1571,12 +1580,22 @@
     "sp": 200,
     "cd": 1,
     "prev": ["Kindled-Fire Balm", "Still-Water Balm"],
-    "rules": "white-staff"
+    "rules": "white-staff",
+    "last": true
   },
   "Fireflood Balm+": {
     "id": "Fireflood Balm+",
     "name": "業火靜水的祝福+",
     "sp": 300,
+    "cd": 1,
+    "prev": ["Fireflood Balm"],
+    "rules": "white-staff",
+    "last": true
+  },
+  "Fireflood Charm": {
+    "id": "Fireflood Charm",
+    "name": "業火靜水的招福",
+    "sp": 500,
     "cd": 1,
     "prev": ["Fireflood Balm"],
     "rules": "white-staff",

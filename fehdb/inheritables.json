@@ -246,9 +246,16 @@
         "refine": 350
       },
       "Melee Blade+": {
-        "pool": { "#": { "4": ["Marcus - Knight of Pherae"] } },
+        "pool": { "#": { "3": ["Marcus - Knight of Pherae"] } },
         "id": "Melee Blade+",
         "name": "混戰之劍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Forged Sword+": {
+        "pool": { "grail": { "5": ["Lamia - Hellspawn"] } },
+        "id": "Forged Sword+",
+        "name": "鍛鍊之劍+",
         "sp": 300,
         "refine": 350
       },
@@ -708,6 +715,13 @@
         "pool": { "grail": { "5": ["Wallace - Crag of Caelin"] } },
         "id": "Forged Lance+",
         "name": "鍛鍊之槍+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Shackle Lance+": {
+        "pool": { "#": { "5": ["Naoise - Crimson Chivalry"] } },
+        "id": "Shackle Lance+",
+        "name": "枷鎖之槍+",
         "sp": 300,
         "refine": 350
       },
@@ -3606,6 +3620,7 @@
     },
     "Ice Lock": {
       "pool": {
+        "#": { "5": ["Claud - Priest of Edda"] },
         "rearmed": { "5": ["L'Arachel - Justice-Armed"] },
         "legendary": {
           "5": ["Sakura - In Full Bloom", "Elise - Sincere Sister"]
@@ -3619,6 +3634,7 @@
     },
     "Ice Lock+": {
       "pool": {
+        "#": { "5": ["Claud - Priest of Edda"] },
         "rearmed": { "5": ["L'Arachel - Justice-Armed"] },
         "legendary": {
           "5": ["Sakura - In Full Bloom", "Elise - Sincere Sister"]
@@ -3653,9 +3669,9 @@
             "Arthur - Hapless Hero",
             "Subaki - Perfect Expert",
             "Seteth - Seiros Adherent",
+            "Marcus - Knight of Pherae",
             "Franz - The Faithful"
           ],
-          "4": ["Marcus - Knight of Pherae"],
           "5": [
             "Gray - Wry Comrade",
             "Shiro - Raw Talent",
@@ -5361,10 +5377,12 @@
             "Fargus - Badon Buccaneer",
             "Vaida - Dracofang General",
             "Vigarde - Silent Emperor",
+            "Lamia - Hellspawn",
             "Haitaka - Persistent General"
           ]
         },
         "rearmed": { "5": ["Lysithea - Duality Prodigy"] },
+        "attuned": { "5": ["Lachesis - Loving Sister"] },
         "emblem": { "5": ["Corrin - Of Fates"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": {
@@ -5472,6 +5490,7 @@
     "Archrival": {
       "pool": {
         "#": { "5": ["Baldr - Rays of Judgment"] },
+        "attuned": { "5": ["Lachesis - Loving Sister"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Diamant - Fortified King"] },
         "special": {
@@ -5627,6 +5646,7 @@
             "Eyvel - Mistress of Fiana",
             "Hector - Brave Warrior",
             "Tiki - Torpid Dragon",
+            "Naoise - Crimson Chivalry",
             "Arlen - Mage of Khadein",
             "Robin - Exalt's Deliverer",
             "Lowen - Apprentice Knight",
@@ -5722,16 +5742,16 @@
       "sp": 200,
       "rules": "not.white-staff"
     },
-    "Armored Beacon": {
+    "Flame Wall": {
       "pool": {
-        "ascended": { "5": ["Amelia - Blossoming Talent"] },
-        "attuned": { "5": ["Hector - Steel Warrior"] },
-        "special": { "5": ["Hector - Sworn Friend", "Myrrh - Adored Dragon"] }
+        "#": { "5": ["Lowen - Apprentice Knight"] },
+        "entwined": { "5": ["Ash - Borrowed Power"] },
+        "special": { "5": ["Alfred - Joyous Snowdrop"] }
       },
-      "id": "Armored Beacon",
-      "name": "重裝之聖炎",
+      "id": "Flame Wall",
+      "name": "壁炎",
       "sp": 500,
-      "rules": "learner.armored-not-staff"
+      "rules": "not.white-staff"
     },
     "Armored Blaze": {
       "pool": {
@@ -5748,6 +5768,17 @@
       },
       "id": "Armored Blaze",
       "name": "重裝之大炎",
+      "sp": 500,
+      "rules": "learner.armored-not-staff"
+    },
+    "Armored Beacon": {
+      "pool": {
+        "ascended": { "5": ["Amelia - Blossoming Talent"] },
+        "attuned": { "5": ["Hector - Steel Warrior"] },
+        "special": { "5": ["Hector - Sworn Friend", "Myrrh - Adored Dragon"] }
+      },
+      "id": "Armored Beacon",
+      "name": "重裝之聖炎",
       "sp": 500,
       "rules": "learner.armored-not-staff"
     },
@@ -5801,17 +5832,6 @@
       "name": "龍炎",
       "sp": 500,
       "rules": "dragon"
-    },
-    "Flame Wall": {
-      "pool": {
-        "#": { "5": ["Lowen - Apprentice Knight"] },
-        "entwined": { "5": ["Ash - Borrowed Power"] },
-        "special": { "5": ["Alfred - Joyous Snowdrop"] }
-      },
-      "id": "Flame Wall",
-      "name": "壁炎",
-      "sp": 500,
-      "rules": "not.white-staff"
     },
     "Waning Shot": {
       "pool": { "harmonized": { "5": ["Hilda - Skyward Wings"] } },
@@ -6036,6 +6056,39 @@
       "sp": 200,
       "rules": "not.white-staff"
     },
+    "Ice Wall": {
+      "pool": {
+        "rearmed": { "5": ["Soren - Isolated Strategist"] },
+        "attuned": { "5": ["Tharja - Gloomy Mage"] },
+        "mythic": {
+          "5": [
+            "Heimdallr - God of Foresight",
+            "Höðr - Dusk Shadow God",
+            "Alfaðör - Celestial King"
+          ]
+        },
+        "special": {
+          "5": [
+            "Heimdallr - New Year's Vision",
+            "Heiðrún - Peaceful Horizon",
+            "Gatekeeper - Midwinter Toil"
+          ]
+        },
+        "duo": { "5": ["Julia - Brides of Light", "Veyle - Sister Dragons"] },
+        "harmonized": { "5": ["Ivy - Flurry Embrace"] }
+      },
+      "id": "Ice Wall",
+      "name": "冰牆",
+      "sp": 500,
+      "rules": "not.white-staff"
+    },
+    "Armored Glacier": {
+      "pool": { "#": { "5": ["Grima - Tyrant of Despair"] } },
+      "id": "Armored Glacier",
+      "name": "重裝之大冰",
+      "sp": 500,
+      "rules": "learner.armored-not-staff"
+    },
     "Armored Floe": {
       "pool": {
         "#": { "5": ["Corrin - Silent Bloodline"] },
@@ -6044,13 +6097,6 @@
       },
       "id": "Armored Floe",
       "name": "重裝之聖冰",
-      "sp": 500,
-      "rules": "learner.armored-not-staff"
-    },
-    "Armored Glacier": {
-      "pool": { "#": { "5": ["Grima - Tyrant of Despair"] } },
-      "id": "Armored Glacier",
-      "name": "重裝之大冰",
       "sp": 500,
       "rules": "learner.armored-not-staff"
     },
@@ -6087,32 +6133,6 @@
       "name": "龍冰",
       "sp": 500,
       "rules": "dragon"
-    },
-    "Ice Wall": {
-      "pool": {
-        "rearmed": { "5": ["Soren - Isolated Strategist"] },
-        "attuned": { "5": ["Tharja - Gloomy Mage"] },
-        "mythic": {
-          "5": [
-            "Heimdallr - God of Foresight",
-            "Höðr - Dusk Shadow God",
-            "Alfaðör - Celestial King"
-          ]
-        },
-        "special": {
-          "5": [
-            "Heimdallr - New Year's Vision",
-            "Heiðrún - Peaceful Horizon",
-            "Gatekeeper - Midwinter Toil"
-          ]
-        },
-        "duo": { "5": ["Julia - Brides of Light", "Veyle - Sister Dragons"] },
-        "harmonized": { "5": ["Ivy - Flurry Embrace"] }
-      },
-      "id": "Ice Wall",
-      "name": "冰牆",
-      "sp": 500,
-      "rules": "not.white-staff"
     },
     "Growing Flame": {
       "pool": {
@@ -6256,7 +6276,9 @@
         },
         "emblem": { "5": ["Sigurd - Of the Holy War"] },
         "special": { "5": ["Seiðr - Candlelit Hope"] },
-        "duo": { "5": ["Hapi - Eternal Sunlit Pair"] }
+        "duo": {
+          "5": ["Hapi - Eternal Sunlit Pair", "Sigurd - Honorable Nobles"]
+        }
       },
       "id": "Blazing Light",
       "name": "烈光",
@@ -6508,7 +6530,7 @@
       "pool": {
         "#": {
           "3": ["Pandreo - Party Priest"],
-          "5": ["August - Astute Tactician"]
+          "5": ["August - Astute Tactician", "Claud - Priest of Edda"]
         },
         "special": {
           "5": ["Genny - Dressed with Care", "Sakura - Hot-Spring Healer"]
@@ -6529,6 +6551,13 @@
       "id": "Fireflood Balm+",
       "name": "業火靜水的祝福+",
       "sp": 300,
+      "rules": "white-staff"
+    },
+    "Fireflood Charm": {
+      "pool": { "#": { "5": ["Claud - Priest of Edda"] } },
+      "id": "Fireflood Charm",
+      "name": "業火靜水的招福",
+      "sp": 500,
       "rules": "white-staff"
     },
     "Earthwind Balm": {
@@ -10687,7 +10716,9 @@
           ]
         },
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
-        "attuned": { "5": ["Triandra - Reverent Dream"] },
+        "attuned": {
+          "5": ["Triandra - Reverent Dream", "Lachesis - Loving Sister"]
+        },
         "aided": { "5": ["Dagr - Sunny Bloom", "Reginn - Dvergr Heir"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": {
@@ -10773,6 +10804,7 @@
         "#": {
           "3": ["Kyle - Zealous Knight"],
           "5": [
+            "Naoise - Crimson Chivalry",
             "Mycen - Zofia's Champion",
             "Harken - Troubled Warrior",
             "Lowen - Apprentice Knight"
@@ -10793,7 +10825,8 @@
         },
         "special": {
           "5": ["Flavia - Bold Bride", "Ephraim - Sunshine Valiant"]
-        }
+        },
+        "duo": { "5": ["Sigurd - Honorable Nobles"] }
       },
       "id": "Atk/Def Clash 3",
       "name": "攻擊防守的激戰3",
@@ -10836,7 +10869,7 @@
       "rules": "learner.infantry-cavalry-flying-melee"
     },
     "Def/Res Clash 3": {
-      "pool": { "#": { "4": ["Marcus - Knight of Pherae"] } },
+      "pool": { "#": { "3": ["Marcus - Knight of Pherae"] } },
       "id": "Def/Res Clash 3",
       "name": "防守魔防的激戰3",
       "sp": 240,
@@ -10881,6 +10914,22 @@
       "sp": 300,
       "icon": "skillA/Atk_Def_Excel",
       "rules": "learner.infantry-cavalry-flying-melee"
+    },
+    "A/D Rival Break": {
+      "pool": { "duo": { "5": ["Sigurd - Honorable Nobles"] } },
+      "id": "A/D Rival Break",
+      "name": "攻防突破・對抗",
+      "sp": 300,
+      "icon": "skillA/A_D_Rival_Break",
+      "rules": "learner.cavalry-melee"
+    },
+    "A/S Rival Break": {
+      "pool": { "attuned": { "5": ["Lachesis - Loving Sister"] } },
+      "id": "A/S Rival Break",
+      "name": "攻速突破・對抗",
+      "sp": 300,
+      "icon": "skillA/A_S_Rival_Break",
+      "rules": "learner.cavalry-melee"
     },
     "Atk/Spd Finish 3": {
       "pool": {
@@ -12659,7 +12708,7 @@
     },
     "Sabotage Atk 3": {
       "pool": {
-        "#": { "5": ["Selkie - Free Spirit"] },
+        "#": { "5": ["Claud - Priest of Edda", "Selkie - Free Spirit"] },
         "grail": { "5": ["Salem - Dark Sage", "Limstella - Living Construct"] },
         "mythic": { "5": ["Mila - Goddess of Love"] },
         "special": { "5": ["Vika - Sea-Dark Wing", "Anna - Wealth-Wisher"] }
@@ -12823,7 +12872,7 @@
     },
     "Atk/Res Havoc": {
       "pool": {
-        "#": { "5": ["Gotoh - Apostle of Naga"] },
+        "#": { "5": ["Claud - Priest of Edda", "Gotoh - Apostle of Naga"] },
         "rearmed": { "5": ["Soren - Isolated Strategist"] },
         "emblem": { "5": ["Micaiah - Of Dawn"] },
         "mythic": { "5": ["Arval - Cycle Keeper"] }
@@ -14580,6 +14629,7 @@
     "Velocity 3": {
       "pool": {
         "#": { "5": ["Byleth - Anchor of Hope"] },
+        "grail": { "5": ["Lamia - Hellspawn"] },
         "ascended": { "5": ["Hilda - Helping Hand"] },
         "duo": { "5": ["Elincia - Hearts of Purity"] }
       },
@@ -14739,7 +14789,7 @@
     },
     "A/D Near Trace 3": {
       "pool": {
-        "#": { "5": ["Gustav - Sovereign Slain"] },
+        "#": { "5": ["Naoise - Crimson Chivalry", "Gustav - Sovereign Slain"] },
         "special": {
           "4": ["Palla - Soaring Summer"],
           "5": ["Cherche - Shaded by Wings"]
@@ -15616,7 +15666,8 @@
       "pool": {
         "attuned": { "5": ["Eliwood - Noble Ablaze"] },
         "emblem": { "5": ["Sigurd - Of the Holy War"] },
-        "entwined": { "5": ["Ninian - Heartfelt Dancer"] }
+        "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
+        "duo": { "5": ["Sigurd - Honorable Nobles"] }
       },
       "id": "Momentum 3",
       "name": "助跑3",
@@ -15635,7 +15686,8 @@
     "Impetus Guard": {
       "pool": {
         "attuned": { "5": ["Eliwood - Noble Ablaze"] },
-        "entwined": { "5": ["Ninian - Heartfelt Dancer"] }
+        "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
+        "duo": { "5": ["Sigurd - Honorable Nobles"] }
       },
       "id": "Impetus Guard",
       "name": "助跑・取消",
@@ -16158,8 +16210,11 @@
     "Close Guard 3": {
       "pool": {
         "#": {
-          "3": ["Natasha - Sacred Healer", "Balthus - King of Grappling"],
-          "4": ["Marcus - Knight of Pherae"],
+          "3": [
+            "Natasha - Sacred Healer",
+            "Marcus - Knight of Pherae",
+            "Balthus - King of Grappling"
+          ],
           "5": [
             "Veronica - Brave Princess",
             "Mycen - Zofia's Champion",
@@ -16732,6 +16787,7 @@
             "Severa - Bitter Blossom"
           ]
         },
+        "duo": { "5": ["Sigurd - Honorable Nobles"] },
         "harmonized": { "5": ["Celica - Sunlit Priestesses"] }
       },
       "id": "Hone Atk 3",
@@ -16766,7 +16822,9 @@
           ]
         },
         "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
-        "attuned": { "5": ["Eliwood - Noble Ablaze"] },
+        "attuned": {
+          "5": ["Lachesis - Loving Sister", "Eliwood - Noble Ablaze"]
+        },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "special": {
           "4": ["Claude - Budding Ambition"],
@@ -16971,8 +17029,19 @@
       "icon": "skillC/A_S_Outcry_Seize",
       "rules": "learner.cavalry-melee"
     },
+    "A/D Outcry Seize": {
+      "pool": { "duo": { "5": ["Sigurd - Honorable Nobles"] } },
+      "id": "A/D Outcry Seize",
+      "name": "攻防鼓譟・奪取無效",
+      "sp": 300,
+      "icon": "skillC/A_D_Outcry_Seize",
+      "rules": "learner.cavalry-melee"
+    },
     "A/S Bellow": {
-      "pool": { "special": { "5": ["Nerþuz - Divine Abundance"] } },
+      "pool": {
+        "attuned": { "5": ["Lachesis - Loving Sister"] },
+        "special": { "5": ["Nerþuz - Divine Abundance"] }
+      },
       "id": "A/S Bellow",
       "name": "攻速鼓譟・呼吸",
       "sp": 300,
@@ -17658,7 +17727,7 @@
             "Felix - Lone-Wolf Blade"
           ]
         },
-        "grail": { "5": ["Takumi - Empty Vessel"] },
+        "grail": { "4": ["Lamia - Hellspawn"], "5": ["Takumi - Empty Vessel"] },
         "mythic": { "5": ["Freyja - Lady of Nightmare"] },
         "special": {
           "5": ["Lyn - Blazing Whirlwind", "Nerþuz - New-Year Doter"]
@@ -19880,7 +19949,10 @@
       "rules": "learner.infantry-armored-dagger"
     },
     "Silence Ward 3": {
-      "pool": { "emblem": { "5": ["Micaiah - Of Dawn"] } },
+      "pool": {
+        "#": { "5": ["Claud - Priest of Edda"] },
+        "emblem": { "5": ["Micaiah - Of Dawn"] }
+      },
       "id": "Silence Ward 3",
       "name": "沉默防禦3",
       "sp": 240,
@@ -19888,7 +19960,10 @@
       "rules": "learner.infantry-armored-flying-ranged-res-dmger"
     },
     "Silence Ward 4": {
-      "pool": { "emblem": { "5": ["Micaiah - Of Dawn"] } },
+      "pool": {
+        "#": { "5": ["Claud - Priest of Edda"] },
+        "emblem": { "5": ["Micaiah - Of Dawn"] }
+      },
       "id": "Silence Ward 4",
       "name": "沉默防禦4",
       "sp": 300,
@@ -20219,6 +20294,14 @@
       "sp": 0,
       "icon": "skillX/Momentum_Echo",
       "rules": "learner.infantry-cavalry-flying-melee"
+    },
+    "Puissant Echo": {
+      "pool": { "attuned": { "5": ["Lachesis - Loving Sister"] } },
+      "id": "Puissant Echo",
+      "name": "響・超神速",
+      "sp": 0,
+      "icon": "skillX/Puissant_Echo",
+      "rules": "learner.infantry-cavalry-flying-melee-def-dmger"
     },
     "Crux Echo": {
       "pool": { "attuned": { "5": ["Tharja - Gloomy Mage"] } },

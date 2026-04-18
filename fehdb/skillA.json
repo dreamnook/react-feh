@@ -4826,6 +4826,22 @@
     "icon": "skillA/Atk_Def_Excel",
     "last": true
   },
+  "A/D Rival Break": {
+    "id": "A/D Rival Break",
+    "name": "攻防突破・對抗",
+    "sp": 300,
+    "rules": "learner.cavalry-melee",
+    "icon": "skillA/A_D_Rival_Break",
+    "last": true
+  },
+  "A/S Rival Break": {
+    "id": "A/S Rival Break",
+    "name": "攻速突破・對抗",
+    "sp": 300,
+    "rules": "learner.cavalry-melee",
+    "icon": "skillA/A_S_Rival_Break",
+    "last": true
+  },
   "Atk/Spd Finish 1": {
     "id": "Atk/Spd Finish 1",
     "name": "攻擊速度的奧秘1",
