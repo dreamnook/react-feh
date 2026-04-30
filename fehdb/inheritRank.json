@@ -2869,6 +2869,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Naoise - Crimson Chivalry": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 195,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "A/D Near Trace 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -7013,18 +7025,6 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Naoise - Crimson Chivalry": {
-    "score": 240,
-    "scoreTotal": 680,
-    "poolRarity": 5,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 1000,
-    "bst": 195,
-    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 5 } },
-    "skillB": { "A/D Near Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -14164,6 +14164,19 @@
     "skillA": { "Diluvial Boost": { "sp": 300, "rarity": 5 } },
     "skillC": { "Higher Ground": { "sp": 300, "rarity": 5 } }
   },
+  "Sombron - Fell Dragon King": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 212,
+    "special": { "Armored Ice Cap": { "sp": 500, "rarity": 5 } },
+    "skillA": { "A/D/R Slam": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Scowling Fighter": { "sp": 300, "rarity": 5 } }
+  },
   "Diamant - Fortified King": {
     "score": 460,
     "scoreTotal": 1012,
@@ -15649,6 +15662,19 @@
     "skillA": { "Strat Flame 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Patience": { "sp": 400, "rarity": 5 } },
     "skillC": { "Strat Assault 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Lyon - Twilight Amends": {
+    "score": 460,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Comet": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Atk/Res Unrest": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Pulse Up: Ploy": { "sp": 300, "rarity": 5 } }
   },
   "Seiðr - Candlelit Hope": {
     "score": 318,

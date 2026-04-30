@@ -14509,19 +14509,33 @@
     "id": "Naoise - Crimson Chivalry",
     "title": "赤色騎士精神",
     "name": "諾修",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "blue",
     "weaponType": "blue-lance",
     "moveType": "cavalry",
     "appearsIn": ["Genealogy of the Holy War"],
     "releaseDate": "2026-04-17",
     "stats": {
+      "4": {
+        "hp": [37, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [29, 32, 35],
+        "def": [42, 45, 48],
+        "res": [18, 21, 24]
+      },
       "5": {
         "hp": [40, 43, 46],
         "atk": [44, 47, 50],
         "spd": [31, 34, 37],
         "def": [45, 48, 52],
         "res": [20, 23, 26]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 8,
+        "res": 5
       },
       "5-1": {
         "hp": 19,
@@ -29966,6 +29980,44 @@
     "book": 8,
     "ver": "8.2",
     "dfKey": 6
+  },
+  "Lyon - Twilight Amends": {
+    "id": "Lyon - Twilight Amends",
+    "title": "向薄暮起誓的淨罪",
+    "name": "利昂",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "infantry",
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "earth-atk-2",
+    "bst": 220,
+    "appearsIn": ["The Sacred Stones"],
+    "releaseDate": "2026-04-30",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 51],
+        "spd": [12, 16, 19],
+        "def": [37, 40, 44],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 3,
+        "def": 10,
+        "res": 10
+      }
+    },
+    "assets": ["def", "res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
   },
   "Duessel - Obsidian": {
     "id": "Duessel - Obsidian",
@@ -57361,6 +57413,55 @@
     "ver": "10.2",
     "dfKey": 8
   },
+  "Louis - Petal Knight": {
+    "id": "Louis - Petal Knight",
+    "title": "深愛花園的騎士",
+    "name": "路易",
+    "rarity": [5, 4],
+    "colorType": "red",
+    "weaponType": "red-bow",
+    "moveType": "armored",
+    "pool": "special",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2026-02-05",
+    "stats": {
+      "4": {
+        "hp": [44, 47, 50],
+        "atk": [42, 45, 48],
+        "spd": [11, 14, 17],
+        "def": [43, 46, 49],
+        "res": [39, 43, 46]
+      },
+      "5": {
+        "hp": [47, 50, 53],
+        "atk": [44, 47, 50],
+        "spd": [12, 16, 19],
+        "def": [46, 49, 53],
+        "res": [41, 45, 48]
+      },
+      "4-1": {
+        "hp": 21,
+        "atk": 12,
+        "spd": 2,
+        "def": 9,
+        "res": 12
+      },
+      "5-1": {
+        "hp": 22,
+        "atk": 12,
+        "spd": 3,
+        "def": 10,
+        "res": 12
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["spd", "res"],
+    "statMin": 207,
+    "statMax": 210,
+    "book": 10,
+    "ver": "10.2",
+    "dfKey": 8
+  },
   "Chloé - Fairy-Tale Flier": {
     "id": "Chloé - Fairy-Tale Flier",
     "title": "遨遊幻想之翼",
@@ -58678,6 +58779,43 @@
     "ver": "7.10",
     "dfKey": 6
   },
+  "Sombron - Fell Dragon King": {
+    "id": "Sombron - Fell Dragon King",
+    "title": "邪龍之王",
+    "name": "尚卜爾",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-dragon",
+    "moveType": "armored",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "anima-spd-2",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2026-04-30",
+    "stats": {
+      "5": {
+        "hp": [47, 50, 53],
+        "atk": [46, 49, 53],
+        "spd": [12, 16, 19],
+        "def": [45, 48, 51],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 26,
+        "atk": 10,
+        "spd": 3,
+        "def": 13,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["spd"],
+    "statMin": 212,
+    "statMax": 215,
+    "book": 10,
+    "ver": "10.4",
+    "dfKey": 8
+  },
   "Veyle - Gentle Dragon": {
     "id": "Veyle - Gentle Dragon",
     "title": "善良的龍",
@@ -59251,54 +59389,5 @@
     "book": 9,
     "ver": "9.2",
     "dfKey": 7
-  },
-  "Louis - Petal Knight": {
-    "id": "Louis - Petal Knight",
-    "title": "深愛花園的騎士",
-    "name": "路易",
-    "rarity": [5, 4],
-    "colorType": "red",
-    "weaponType": "red-bow",
-    "moveType": "armored",
-    "pool": "special",
-    "appearsIn": ["Engage"],
-    "releaseDate": "2026-02-05",
-    "stats": {
-      "4": {
-        "hp": [44, 47, 50],
-        "atk": [42, 45, 48],
-        "spd": [11, 14, 17],
-        "def": [43, 46, 49],
-        "res": [39, 43, 46]
-      },
-      "5": {
-        "hp": [47, 50, 53],
-        "atk": [44, 47, 50],
-        "spd": [12, 16, 19],
-        "def": [46, 49, 53],
-        "res": [41, 45, 48]
-      },
-      "4-1": {
-        "hp": 21,
-        "atk": 12,
-        "spd": 2,
-        "def": 9,
-        "res": 12
-      },
-      "5-1": {
-        "hp": 22,
-        "atk": 12,
-        "spd": 3,
-        "def": 10,
-        "res": 12
-      }
-    },
-    "assets": ["def"],
-    "flaws": ["spd", "res"],
-    "statMin": 207,
-    "statMax": 210,
-    "book": 10,
-    "ver": "10.2",
-    "dfKey": 8
   }
 }

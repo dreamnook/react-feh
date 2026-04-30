@@ -2493,6 +2493,15 @@
     "icon": "skillB/Spd_Res_Havoc",
     "last": true
   },
+  "Atk/Res Unrest": {
+    "id": "Atk/Res Unrest",
+    "name": "攻擊魔防的疑懼",
+    "sp": 400,
+    "rules": "learner.infantry-ranged",
+    "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
+    "icon": "skillB/Atk_Res_Unrest",
+    "last": true
+  },
   "Sudden Panic 1": {
     "id": "Sudden Panic 1",
     "name": "恐慌錯亂1",

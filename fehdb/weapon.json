@@ -30873,6 +30873,16 @@
       "exclusive": ["Veyle - Sister Dragons"],
       "last": true
     },
+    "Stark Naglfar": {
+      "id": "Stark Naglfar",
+      "name": "黑白那吉爾法",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Lyon - Twilight Amends"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",
@@ -35571,6 +35581,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Ninian - Heartfelt Dancer"],
+      "last": true
+    },
+    "Fell Surge": {
+      "id": "Fell Surge",
+      "name": "邪龍的波動",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Sombron - Fell Dragon King"],
       "last": true
     },
     "Arcane Grima": {

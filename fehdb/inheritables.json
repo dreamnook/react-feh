@@ -719,7 +719,7 @@
         "refine": 350
       },
       "Shackle Lance+": {
-        "pool": { "#": { "5": ["Naoise - Crimson Chivalry"] } },
+        "pool": { "#": { "4": ["Naoise - Crimson Chivalry"] } },
         "id": "Shackle Lance+",
         "name": "枷鎖之槍+",
         "sp": 300,
@@ -5015,7 +5015,11 @@
         },
         "aided": { "5": ["Lute - Limitless Curiosity"] },
         "legendary": {
-          "5": ["Leif - Unifier of Thracia", "Ayra - Supreme Astra"]
+          "5": [
+            "Leif - Unifier of Thracia",
+            "Ayra - Supreme Astra",
+            "Lyon - Twilight Amends"
+          ]
         },
         "mythic": {
           "5": [
@@ -5124,6 +5128,7 @@
     "Comet": {
       "pool": {
         "aided": { "5": ["Lute - Limitless Curiosity"] },
+        "legendary": { "5": ["Lyon - Twilight Amends"] },
         "special": { "5": ["Shez - Covert Mercenary"] },
         "duo": { "5": ["Freyja - Parallel Hearts"] }
       },
@@ -5641,12 +5646,12 @@
             "Bors - Ostia's Bastion",
             "Uther - Frugal Militarist"
           ],
+          "4": ["Naoise - Crimson Chivalry"],
           "5": [
             "Robin - Fell Reincarnation",
             "Eyvel - Mistress of Fiana",
             "Hector - Brave Warrior",
             "Tiki - Torpid Dragon",
-            "Naoise - Crimson Chivalry",
             "Arlen - Mage of Khadein",
             "Robin - Exalt's Deliverer",
             "Lowen - Apprentice Knight",
@@ -6026,6 +6031,7 @@
             "Athos - Omniscient One",
             "Höðr - Dusk Shadow God",
             "Tiki - Everlasting Voice",
+            "Sombron - Fell Dragon King",
             "Alfaðör - Celestial King"
           ]
         },
@@ -6101,7 +6107,11 @@
       "rules": "learner.armored-not-staff"
     },
     "Armored Ice Cap": {
-      "pool": { "mythic": { "5": ["Tiki - Everlasting Voice"] } },
+      "pool": {
+        "mythic": {
+          "5": ["Tiki - Everlasting Voice", "Sombron - Fell Dragon King"]
+        }
+      },
       "id": "Armored Ice Cap",
       "name": "重裝的雙冰",
       "sp": 500,
@@ -10803,8 +10813,8 @@
       "pool": {
         "#": {
           "3": ["Kyle - Zealous Knight"],
+          "4": ["Naoise - Crimson Chivalry"],
           "5": [
-            "Naoise - Crimson Chivalry",
             "Mycen - Zofia's Champion",
             "Harken - Troubled Warrior",
             "Lowen - Apprentice Knight"
@@ -11223,6 +11233,7 @@
           "3": ["Medeus - Last Earth Dragon"],
           "5": ["Grima - Tyrant of Despair"]
         },
+        "mythic": { "5": ["Sombron - Fell Dragon King"] },
         "special": { "5": ["Myrrh - Adored Dragon"] },
         "duo": { "5": ["Rhea - Aura of Love"] }
       },
@@ -11242,6 +11253,14 @@
       "name": "防守魔防的龍眼4",
       "sp": 300,
       "icon": "skillA/Def_Res_Scowl_4",
+      "rules": "dragon"
+    },
+    "A/D/R Slam": {
+      "pool": { "mythic": { "5": ["Sombron - Fell Dragon King"] } },
+      "id": "A/D/R Slam",
+      "name": "攻防魔的龍尾",
+      "sp": 300,
+      "icon": "skillA/A_D_R_Slam",
       "rules": "dragon"
     },
     "Atk/Spd Prime 3": {
@@ -11880,6 +11899,7 @@
         },
         "grail": { "5": ["Murdock - Loyal General"] },
         "rearmed": { "5": ["Vanitas - Hollow God"] },
+        "mythic": { "5": ["Sombron - Fell Dragon King"] },
         "special": {
           "4": ["Manuela - Silver Caroler", "Hana - Striving Heart"],
           "5": [
@@ -11913,7 +11933,8 @@
     "Scowling Fighter": {
       "pool": {
         "#": { "5": ["Alear - Red Days Past"] },
-        "rearmed": { "5": ["Vanitas - Hollow God"] }
+        "rearmed": { "5": ["Vanitas - Hollow God"] },
+        "mythic": { "5": ["Sombron - Fell Dragon King"] }
       },
       "id": "Scowling Fighter",
       "name": "奧義隊形・龍眼",
@@ -12777,7 +12798,11 @@
         },
         "emblem": { "5": ["Micaiah - Of Dawn"] },
         "legendary": {
-          "5": ["Deirdre - Fated Saint", "Lilina - Firelight Leader"]
+          "5": [
+            "Deirdre - Fated Saint",
+            "Lilina - Firelight Leader",
+            "Lyon - Twilight Amends"
+          ]
         },
         "mythic": {
           "5": [
@@ -12901,6 +12926,14 @@
       "sp": 300,
       "icon": "skillB/Spd_Res_Havoc",
       "rules": "learner.infantry-flying"
+    },
+    "Atk/Res Unrest": {
+      "pool": { "legendary": { "5": ["Lyon - Twilight Amends"] } },
+      "id": "Atk/Res Unrest",
+      "name": "攻擊魔防的疑懼",
+      "sp": 400,
+      "icon": "skillB/Atk_Res_Unrest",
+      "rules": "learner.infantry-ranged"
     },
     "Sudden Panic 3": {
       "pool": {
@@ -14789,7 +14822,10 @@
     },
     "A/D Near Trace 3": {
       "pool": {
-        "#": { "5": ["Naoise - Crimson Chivalry", "Gustav - Sovereign Slain"] },
+        "#": {
+          "4": ["Naoise - Crimson Chivalry"],
+          "5": ["Gustav - Sovereign Slain"]
+        },
         "special": {
           "4": ["Palla - Soaring Summer"],
           "5": ["Cherche - Shaded by Wings"]
@@ -17980,7 +18016,8 @@
           "5": [
             "Micaiah - Radiant Queen",
             "Alm - Saint-King",
-            "Byleth - The Fódlan Star"
+            "Byleth - The Fódlan Star",
+            "Lyon - Twilight Amends"
           ]
         },
         "mythic": {
@@ -18062,6 +18099,7 @@
             "Nomah - Priest of Mila"
           ]
         },
+        "legendary": { "5": ["Lyon - Twilight Amends"] },
         "mythic": { "5": ["Rune - Source of Wisdom", "Athos - Omniscient One"] }
       },
       "id": "Pulse Up: Ploy",

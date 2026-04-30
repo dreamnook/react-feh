@@ -841,6 +841,14 @@
     "icon": "skillC/World_Destroyer",
     "last": true
   },
+  "Fell Barrier": {
+    "id": "Fell Barrier",
+    "name": "常闇之結界",
+    "sp": 300,
+    "exclusive": ["Sombron - Fell Dragon King"],
+    "icon": "skillC/Fell_Barrier",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
