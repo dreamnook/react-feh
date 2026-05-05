@@ -522,6 +522,10 @@
     "id": "Superior Talent",
     "name": "因為我很優秀呀",
     "sp": 300,
+    "atk": 9,
+    "spd": 9,
+    "def": 9,
+    "res": 9,
     "exclusive": ["Lute - Limitless Curiosity"],
     "icon": "skillA/Superior_Talent",
     "last": true
@@ -559,6 +563,9 @@
     "id": "Slate Illusion",
     "name": "真深灰色的迷夢",
     "sp": 300,
+    "atk": 10,
+    "def": 10,
+    "res": 10,
     "exclusive": ["Lyon - Twilight Amends"],
     "icon": "skillA/Slate_Illusion",
     "last": true
