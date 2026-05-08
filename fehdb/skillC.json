@@ -497,6 +497,15 @@
     "icon": "skillC/Bern's_New_Way",
     "last": true
   },
+  "Dream Deliverer+": {
+    "id": "Dream Deliverer+",
+    "name": "賜予人類安……・神",
+    "sp": 300,
+    "prev": ["Dream Deliverer"],
+    "exclusive": ["Freyr - Dream-King"],
+    "icon": "skillC/Dream_Deliverer+",
+    "last": true
+  },
   "Dream Deliverer": {
     "id": "Dream Deliverer",
     "name": "賜予人類安寧之夢",

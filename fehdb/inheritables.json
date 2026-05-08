@@ -719,7 +719,7 @@
         "refine": 350
       },
       "Shackle Lance+": {
-        "pool": { "#": { "4": ["Naoise - Crimson Chivalry"] } },
+        "pool": { "#": { "3": ["Naoise - Crimson Chivalry"] } },
         "id": "Shackle Lance+",
         "name": "枷鎖之槍+",
         "sp": 300,
@@ -5642,11 +5642,11 @@
             "Boey - Skillful Survivor",
             "Thea - Stormy Flier",
             "Balthus - King of Grappling",
+            "Naoise - Crimson Chivalry",
             "Scarlet - Rebellious Streak",
             "Bors - Ostia's Bastion",
             "Uther - Frugal Militarist"
           ],
-          "4": ["Naoise - Crimson Chivalry"],
           "5": [
             "Robin - Fell Reincarnation",
             "Eyvel - Mistress of Fiana",
@@ -10108,6 +10108,7 @@
     "Def/Res Form 3": {
       "pool": {
         "grail": { "4": ["Limstella - Living Construct"] },
+        "mythic": { "5": ["Freyr - Dream-King"] },
         "special": {
           "4": ["Alfonse - Uplifting Love"],
           "5": ["Heiðrún - Peaceful Horizon"]
@@ -10151,7 +10152,10 @@
       "rules": "beast"
     },
     "Def/Res Fortune": {
-      "pool": { "special": { "5": ["Heiðrún - Peaceful Horizon"] } },
+      "pool": {
+        "mythic": { "5": ["Freyr - Dream-King"] },
+        "special": { "5": ["Heiðrún - Peaceful Horizon"] }
+      },
       "id": "Def/Res Fortune",
       "name": "防守魔防的共榮",
       "sp": 300,
@@ -10812,8 +10816,7 @@
     "Atk/Def Clash 3": {
       "pool": {
         "#": {
-          "3": ["Kyle - Zealous Knight"],
-          "4": ["Naoise - Crimson Chivalry"],
+          "3": ["Kyle - Zealous Knight", "Naoise - Crimson Chivalry"],
           "5": [
             "Mycen - Zofia's Champion",
             "Harken - Troubled Warrior",
@@ -14823,7 +14826,7 @@
     "A/D Near Trace 3": {
       "pool": {
         "#": {
-          "4": ["Naoise - Crimson Chivalry"],
+          "3": ["Naoise - Crimson Chivalry"],
           "5": ["Gustav - Sovereign Slain"]
         },
         "special": {
@@ -18023,6 +18026,7 @@
         "mythic": {
           "5": [
             "Líf - Lethal Swordsman",
+            "Gotoh - White Sage",
             "Sothis - Girl on the Throne",
             "Ullr - The Bowmaster",
             "Rune - Source of Wisdom",
@@ -18150,7 +18154,8 @@
     "Preempt: Ploy": {
       "pool": {
         "rearmed": { "5": ["Soren - Isolated Strategist"] },
-        "aided": { "5": ["Lute - Limitless Curiosity"] }
+        "aided": { "5": ["Lute - Limitless Curiosity"] },
+        "mythic": { "5": ["Gotoh - White Sage"] }
       },
       "id": "Preempt: Ploy",
       "name": "初始之躍動・謀策",

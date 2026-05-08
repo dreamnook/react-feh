@@ -2445,7 +2445,11 @@
       "Atk/Def Clash 1": 2,
       "Atk/Def Clash 2": 3,
       "Atk/Def Clash 3": 4,
-      "Atk/Def Clash 4": 5
+      "Atk/Def Clash 4": 5,
+      "Def/Res Form 1": 2,
+      "Def/Res Form 2": 3,
+      "Def/Res Form 3": 4,
+      "Def/Res Fortune": 5
     },
     "skillB": {
       "Lull Atk/Def 1": 2,
@@ -2454,7 +2458,8 @@
       "Lull Atk/Def 4": 5
     },
     "skillC": {
-      "Dream Deliverer": 5
+      "Dream Deliverer": 5,
+      "Dream Deliverer+": 5
     }
   },
   "Freyja - Lady of Nightmare": {
@@ -6496,7 +6501,8 @@
       "Iceberg": 4
     },
     "skillA": {
-      "Gift of Magic": 5
+      "Gift of Magic": 5,
+      "Gift of Magic+": 5
     },
     "skillB": {
       "Guard 1": 2,
@@ -6508,7 +6514,11 @@
       "Distant Guard 1": 2,
       "Distant Guard 2": 3,
       "Distant Guard 3": 4,
-      "Joint Dist. Guard": 5
+      "Joint Dist. Guard": 5,
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Preempt: Ploy": 5
     }
   },
   "Gotoh - Apostle of Naga": {
@@ -12876,7 +12886,8 @@
       "Stone": 1,
       "Elstone": 2,
       "Hvítrvulture": 3,
-      "Hvítrvulture+": 5
+      "Hvítrvulture+": 5,
+      "Darkness Tome": 5
     },
     "special": {
       "Chilling Wind": 3,
@@ -18213,7 +18224,8 @@
       "Iron Dagger": 1,
       "Steel Dagger": 2,
       "Vicious Dagger": 3,
-      "Vicious Dagger+": 5
+      "Vicious Dagger+": 5,
+      "Thief's Dagger": 5
     },
     "special": {
       "Night Sky": 3,
@@ -19382,7 +19394,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Unbound Lance": 3,
-      "Unbound Lance+": 5
+      "Unbound Lance+": 5,
+      "Petulant Lance": 5
     },
     "special": {
       "New Moon": 3,

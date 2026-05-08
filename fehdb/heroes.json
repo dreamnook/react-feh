@@ -14509,13 +14509,20 @@
     "id": "Naoise - Crimson Chivalry",
     "title": "赤色騎士精神",
     "name": "諾修",
-    "rarity": [5, 4],
+    "rarity": [5, 4, 3],
     "colorType": "blue",
     "weaponType": "blue-lance",
     "moveType": "cavalry",
     "appearsIn": ["Genealogy of the Holy War"],
     "releaseDate": "2026-04-17",
     "stats": {
+      "3": {
+        "hp": [36, 39, 42],
+        "atk": [39, 42, 45],
+        "spd": [27, 30, 33],
+        "def": [40, 43, 46],
+        "res": [17, 20, 23]
+      },
       "4": {
         "hp": [37, 40, 43],
         "atk": [42, 45, 48],
@@ -14529,6 +14536,13 @@
         "spd": [31, 34, 37],
         "def": [45, 48, 52],
         "res": [20, 23, 26]
+      },
+      "3-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 9,
+        "def": 8,
+        "res": 5
       },
       "4-1": {
         "hp": 18,

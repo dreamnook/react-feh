@@ -2774,6 +2774,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Eirika - Twin Refulgence"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Blade_of_Renais_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Hallowed Tyrfing": {
@@ -8979,6 +9002,37 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Lowen - Apprentice Knight"],
+      "last": true
+    },
+    "Petulant Lance": {
+      "id": "Petulant Lance",
+      "name": "勞碌命騎士之槍",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Marcia - Petulant Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Petulant_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Qiang": {
@@ -20776,6 +20830,37 @@
       "exclusive": ["Edelgard - Promising Path"],
       "last": true
     },
+    "Thief's Dagger": {
+      "id": "Thief's Dagger",
+      "name": "超一流盜賊的暗器",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "exclusive": ["Rennac - Rich 'Merchant'"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Thief's_Dagger_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Arcane Void": {
       "id": "Arcane Void",
       "name": "魔器金倫加",
@@ -23357,6 +23442,29 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Muarim - Raw Instinct"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Wild_Tiger_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Illuminating Horn": {
@@ -23549,6 +23657,29 @@
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Freyr - Dream-King"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Dream_Horn_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "World-Tree Tail": {
@@ -32276,6 +32407,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Gotoh - White Sage"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Brilliant_Starlight_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Nightmare's Egg": {
@@ -32456,6 +32609,37 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Gatekeeper - Midwinter Toil"],
+      "last": true
+    },
+    "Darkness Tome": {
+      "id": "Darkness Tome",
+      "name": "深淵之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "exclusive": ["Niime - Mountain Hermit"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Darkness_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Stone": {

@@ -148,6 +148,15 @@
     "icon": "skillA/Self-Improver",
     "last": true
   },
+  "Gift of Magic+": {
+    "id": "Gift of Magic+",
+    "name": "向人傳授魔道者・神",
+    "sp": 300,
+    "prev": ["Gift of Magic"],
+    "exclusive": ["Gotoh - White Sage"],
+    "icon": "skillA/Gift_of_Magic+",
+    "last": true
+  },
   "Gift of Magic": {
     "id": "Gift of Magic",
     "name": "向人傳授魔道者",

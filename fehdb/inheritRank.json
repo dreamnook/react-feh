@@ -2869,18 +2869,6 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
-  "Naoise - Crimson Chivalry": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 195,
-    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "A/D Near Trace 3": { "sp": 240, "rarity": 5 } }
-  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -4429,6 +4417,18 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 4 } },
     "skillA": { "Atk/Spd Form 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Wrath 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Naoise - Crimson Chivalry": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 195,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "A/D Near Trace 3": { "sp": 240, "rarity": 5 } }
   },
   "Ogier - Ostia's New Blade": {
     "score": 199,
@@ -8192,7 +8192,7 @@
     "bst": 176,
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillB": { "Guard 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Joint Dist. Guard": { "sp": 300, "rarity": 5 } }
+    "skillC": { "Preempt: Ploy": { "sp": 300, "rarity": 5 } }
   },
   "Arval - Cycle Keeper": {
     "score": 276,
@@ -8230,7 +8230,7 @@
     "feather": 1000,
     "bst": 179,
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Def/Res Fortune": { "sp": 300, "rarity": 5 } },
     "skillB": { "Lull Atk/Def 4": { "sp": 300, "rarity": 5 } }
   },
   "Seliph - Scion of Light": {
