@@ -3937,8 +3937,8 @@
       "id": "Priming Sword",
       "name": "戰神的修練之劍",
       "mt": 16,
-      "sp": 400,
       "cd": -2,
+      "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Felix - Zealous Yearning"],
       "last": true
@@ -9099,6 +9099,24 @@
       "sp": 300,
       "prev": ["Silver Lance"],
       "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Thorn": {
@@ -23953,6 +23971,16 @@
       "exclusive": ["Skrimir - Echoing Howl"],
       "last": true
     },
+    "Gautier Stone": {
+      "id": "Gautier Stone",
+      "name": "戈迪耶之紋章石",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Armored)"],
+      "exclusive": ["Miklan - Destitute Rebel"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -23991,6 +24019,35 @@
       "prev": ["Adult (Armored)"],
       "rearmed": true,
       "rules": "armored",
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Arcane Fury Bite": {
+      "id": "Arcane Fury Bite",
+      "name": "魔器・勇猛之喙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Adult (Flier)"],
+      "rearmed": true,
+      "rules": "flying",
       "refine": {
         "atk": {
           "hp": 5,
@@ -25923,6 +25980,52 @@
       "sp": 300,
       "prev": ["Fenrir"],
       "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Arcane 12's Writ": {
+      "id": "Arcane 12's Writ",
+      "name": "魔器・十二魔將之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Fenrir"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Fire": {
@@ -28404,6 +28507,24 @@
       "sp": 300,
       "prev": ["Thoron"],
       "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Thunder": {
@@ -31014,6 +31135,16 @@
       "exclusive": ["Lyon - Twilight Amends"],
       "last": true
     },
+    "Sothis's Wrath": {
+      "id": "Sothis's Wrath",
+      "name": "神祖之怒",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Byleth - Ashen Nightmare"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",
@@ -32640,6 +32771,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Fell Tome": {
+      "id": "Fell Tome",
+      "name": "邪龍信徒之書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Ivy - Bewitching Ruler"],
       "last": true
     },
     "Stone": {

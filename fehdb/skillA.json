@@ -579,6 +579,18 @@
     "icon": "skillA/Slate_Illusion",
     "last": true
   },
+  "Final Say": {
+    "id": "Final Say",
+    "name": "居然傷到我了？",
+    "sp": 300,
+    "atk": 9,
+    "spd": 9,
+    "def": 9,
+    "res": 9,
+    "exclusive": ["Ivy - Bewitching Ruler"],
+    "icon": "skillA/Final_Say",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

@@ -7546,6 +7546,19 @@
     "skillA": { "Earth Boost 3": { "sp": 200, "rarity": 4 } },
     "skillB": { "Wily Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Miklan - Destitute Rebel": {
+    "score": 269,
+    "scoreTotal": 693,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 640,
+    "feather": 150,
+    "bst": 211,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Earth Boost 3": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
   "Eliwood - Pledged Friend": {
     "score": 299,
     "scoreTotal": 694,
@@ -13414,6 +13427,19 @@
     "skillB": { "Edged Scales": { "sp": 300, "rarity": 5 } },
     "skillC": { "Barricade": { "sp": 300, "rarity": 5 } }
   },
+  "Tibarn - Storm King": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Sturdy Laguz": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Def Excel": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Dark Beast Agility": { "sp": 300, "rarity": 5 } }
+  },
   "Hinoka - Warrior of Gusto": {
     "score": 450,
     "scoreTotal": 990,
@@ -14937,6 +14963,19 @@
     "skillA": { "Steady Posture 2": { "sp": 240, "rarity": 5 } },
     "skillC": { "Drive Atk 2": { "sp": 240, "rarity": 5 } }
   },
+  "Canis - Ill Portent": {
+    "score": 450,
+    "scoreTotal": 1080,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Comet": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Unrest": { "sp": 400, "rarity": 5 } }
+  },
   "Lysithea - Duality Prodigy": {
     "score": 450,
     "scoreTotal": 1080,
@@ -15157,6 +15196,18 @@
     "special": { "Flare": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Creation Pulse": { "sp": 300, "rarity": 5 } }
+  },
+  "Ivy - Bewitching Ruler": {
+    "score": 500,
+    "scoreTotal": 1100,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Logic": { "sp": 500, "rarity": 5 } },
+    "skillB": { "A/R Detect Aerial": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Crux: Ploy": { "sp": 300, "rarity": 5 } }
   },
   "Edward - Blade of Justice": {
     "score": 500,
@@ -16820,6 +16871,19 @@
     "skillA": { "Atk/Spd Ideal 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Special Spiral 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Infantry Pulse 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Byleth - Ashen Nightmare": {
+    "score": 400,
+    "scoreTotal": 1200,
+    "poolRarity": 5,
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Demonic Force": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Dual Support 4": { "sp": 300, "rarity": 5 } }
   },
   "Alfonse - Opening Miracle": {
     "score": 400,

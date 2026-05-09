@@ -820,6 +820,15 @@
     "exclusive": ["Sigurd - Honorable Nobles"],
     "last": true
   },
+  "Sirius Pulse": {
+    "id": "Sirius Pulse",
+    "name": "天狼・天刻之脈動",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Dragon Fang"],
+    "exclusive": ["Byleth - Ashen Nightmare"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -1191,6 +1200,15 @@
     "name": "堅固之獸",
     "sp": 500,
     "cd": 3,
+    "prev": ["Ignis"],
+    "rules": "beast",
+    "last": true
+  },
+  "Sturdy Laguz": {
+    "id": "Sturdy Laguz",
+    "name": "堅固之野獸",
+    "sp": 500,
+    "cd": 5,
     "prev": ["Ignis"],
     "rules": "beast",
     "last": true

@@ -19245,6 +19245,41 @@
     "ver": "6.3",
     "dfKey": 4
   },
+  "Canis - Ill Portent": {
+    "id": "Canis - Ill Portent",
+    "title": "預言凶兆的魔將",
+    "name": "艾爾芙",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-tome",
+    "moveType": "infantry",
+    "pool": "rearmed",
+    "appearsIn": ["Genealogy of the Holy War", "Thracia 776"],
+    "releaseDate": "2026-05-07",
+    "stats": {
+      "5": {
+        "hp": [33, 37, 40],
+        "atk": [41, 45, 48],
+        "spd": [45, 48, 51],
+        "def": [11, 14, 18],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 15,
+        "atk": 12,
+        "spd": 13,
+        "def": 4,
+        "res": 10
+      }
+    },
+    "assets": ["def", "res"],
+    "flaws": ["hp", "atk"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.5",
+    "dfKey": 8
+  },
   "Perne - Dacian Scoundrel": {
     "id": "Perne - Dacian Scoundrel",
     "title": "達奇亞的盜賊",
@@ -36082,6 +36117,41 @@
     "ver": "4.8",
     "dfKey": 2
   },
+  "Tibarn - Storm King": {
+    "id": "Tibarn - Storm King",
+    "title": "席捲的天空之王",
+    "name": "狄邦",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-beast",
+    "moveType": "flying",
+    "pool": "rearmed",
+    "appearsIn": ["Radiant Dawn"],
+    "releaseDate": "2026-05-07",
+    "stats": {
+      "5": {
+        "hp": [39, 43, 46],
+        "atk": [46, 49, 53],
+        "spd": [38, 42, 45],
+        "def": [45, 48, 51],
+        "res": [15, 18, 21]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 10,
+        "spd": 9,
+        "def": 13,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd"],
+    "statMin": 200,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.5",
+    "dfKey": 8
+  },
   "Rafiel - Blessed Wings": {
     "id": "Rafiel - Blessed Wings",
     "title": "祝福之翼",
@@ -50828,6 +50898,40 @@
     "ver": "10.1",
     "dfKey": 8
   },
+  "Byleth - Ashen Nightmare": {
+    "id": "Byleth - Ashen Nightmare",
+    "title": "灰色惡夢",
+    "name": "貝雷特",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "infantry",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2026-05-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [45, 48, 52],
+        "def": [27, 31, 34],
+        "res": [24, 28, 31]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 9,
+        "def": 9,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.5",
+    "dfKey": 8
+  },
   "Sothis - Girl on the Throne": {
     "id": "Sothis - Girl on the Throne",
     "title": "王座少女",
@@ -55757,6 +55861,69 @@
     "ver": "3.8",
     "dfKey": 2
   },
+  "Miklan - Destitute Rebel": {
+    "id": "Miklan - Destitute Rebel",
+    "title": "落魄的反叛者",
+    "name": "邁克朗",
+    "rarity": [5, 4, 3],
+    "colorType": "blue",
+    "weaponType": "blue-beast",
+    "moveType": "armored",
+    "pool": "grail",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2026-05-08",
+    "stats": {
+      "3": {
+        "hp": [45, 48, 51],
+        "atk": [41, 44, 47],
+        "spd": [13, 16, 19],
+        "def": [40, 43, 46],
+        "res": [36, 39, 42]
+      },
+      "4": {
+        "hp": [46, 49, 53],
+        "atk": [43, 46, 49],
+        "spd": [14, 17, 20],
+        "def": [43, 46, 49],
+        "res": [38, 41, 45]
+      },
+      "5": {
+        "hp": [49, 52, 56],
+        "atk": [46, 49, 53],
+        "spd": [16, 19, 22],
+        "def": [45, 48, 51],
+        "res": [40, 43, 47]
+      },
+      "3-1": {
+        "hp": 21,
+        "atk": 9,
+        "spd": 3,
+        "def": 12,
+        "res": 12
+      },
+      "4-1": {
+        "hp": 21,
+        "atk": 9,
+        "spd": 3,
+        "def": 13,
+        "res": 13
+      },
+      "5-1": {
+        "hp": 22,
+        "atk": 10,
+        "spd": 4,
+        "def": 13,
+        "res": 13
+      }
+    },
+    "assets": ["hp", "atk", "res"],
+    "flaws": [],
+    "statMin": 211,
+    "statMax": 215,
+    "book": 10,
+    "ver": "10.5",
+    "dfKey": 8
+  },
   "Flame Emperor - Bringer of War": {
     "id": "Flame Emperor - Bringer of War",
     "title": "帶來戰亂之人",
@@ -58005,6 +58172,40 @@
     "statMax": 190,
     "book": 10,
     "ver": "10.0",
+    "dfKey": 8
+  },
+  "Ivy - Bewitching Ruler": {
+    "id": "Ivy - Bewitching Ruler",
+    "title": "濃豔之王",
+    "name": "艾比",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "flying",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2026-05-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [46, 49, 53],
+        "spd": [25, 29, 32],
+        "def": [20, 23, 27],
+        "res": [45, 48, 51]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 7,
+        "def": 4,
+        "res": 13
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["hp", "spd"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.5",
     "dfKey": 8
   },
   "Zelkov - Winter Shadow": {

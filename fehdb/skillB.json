@@ -1015,6 +1015,14 @@
     "icon": "skillB/As_Eldie_Would",
     "last": true
   },
+  "Chaos Torrent": {
+    "id": "Chaos Torrent",
+    "name": "滿溢的【負】之氣",
+    "sp": 400,
+    "exclusive": ["Tibarn - Storm King"],
+    "icon": "skillB/Chaos_Torrent",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -2500,6 +2508,15 @@
     "rules": "learner.infantry-ranged",
     "prev": ["Sabotage Atk 3", "Sabotage Res 3"],
     "icon": "skillB/Atk_Res_Unrest",
+    "last": true
+  },
+  "Spd/Res Unrest": {
+    "id": "Spd/Res Unrest",
+    "name": "速度魔防的疑懼",
+    "sp": 400,
+    "rules": "learner.infantry-ranged",
+    "prev": ["Sabotage Spd 3", "Sabotage Res 3"],
+    "icon": "skillB/Spd_Res_Unrest",
     "last": true
   },
   "Sudden Panic 1": {
@@ -6037,6 +6054,15 @@
     "prev": ["Magic Gambit 3"],
     "rules": "tome",
     "icon": "skillB/Magic_Gambit_4",
+    "last": true
+  },
+  "Demonic Force": {
+    "id": "Demonic Force",
+    "name": "魔之精隨・不屈",
+    "sp": 400,
+    "rules": "tome",
+    "prev": ["Magic Gambit 3"],
+    "icon": "skillB/Demonic_Force",
     "last": true
   },
   "Resonance 1": {

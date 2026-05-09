@@ -858,6 +858,14 @@
     "icon": "skillC/Fell_Barrier",
     "last": true
   },
+  "11th Deadlord": {
+    "id": "11th Deadlord",
+    "name": "第十一魔將",
+    "sp": 300,
+    "exclusive": ["Canis - Ill Portent"],
+    "icon": "skillC/11th_Deadlord",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -1649,6 +1657,15 @@
     "rules": "flying",
     "prev": ["Spd/Res Rein 3"],
     "icon": "skillC/Spd_Res_Crux",
+    "last": true
+  },
+  "A/R Crux: Ploy": {
+    "id": "A/R Crux: Ploy",
+    "name": "攻魔十牽制・謀策",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Atk/Res Rein 3"],
+    "icon": "skillC/A_R_Crux_Ploy",
     "last": true
   },
   "S/D Crux: Ploy": {
@@ -4679,6 +4696,15 @@
     "rules": "beast",
     "prev": ["C Feud 3"],
     "icon": "skillC/Dark_Beast_Force",
+    "last": true
+  },
+  "Dark Beast Agility": {
+    "id": "Dark Beast Agility",
+    "name": "暗獸・敏捷",
+    "sp": 300,
+    "rules": "beast",
+    "prev": ["C Feud 3"],
+    "icon": "skillC/Dark_Beast_Agility",
     "last": true
   },
   "Canto Control 1": {

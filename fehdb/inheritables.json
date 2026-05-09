@@ -424,7 +424,8 @@
         "pool": { "rearmed": { "5": ["Hinoka - Warrior of Gusto"] } },
         "id": "Arcane Crimson",
         "name": "魔器・鮮紅薙刀",
-        "sp": 300
+        "sp": 300,
+        "refine": 350
       },
       "Arcane Thorn": {
         "pool": { "rearmed": { "5": ["Ingrid - Chivalrous Heart"] } },
@@ -2228,6 +2229,14 @@
         "sp": 300,
         "refine": 350,
         "rules": "armored"
+      },
+      "Arcane Fury Bite": {
+        "pool": { "rearmed": { "5": ["Tibarn - Storm King"] } },
+        "id": "Arcane Fury Bite",
+        "name": "魔器・勇猛之喙",
+        "sp": 300,
+        "refine": 350,
+        "rules": "flying"
       }
     },
     "red-tome": {
@@ -2242,7 +2251,15 @@
         "pool": { "rearmed": { "5": ["Marianne - Cursed Blessing"] } },
         "id": "Arcane Blutgang",
         "name": "魔器布魯托剛格",
-        "sp": 300
+        "sp": 300,
+        "refine": 350
+      },
+      "Arcane 12's Writ": {
+        "pool": { "rearmed": { "5": ["Canis - Ill Portent"] } },
+        "id": "Arcane 12's Writ",
+        "name": "魔器・十二魔將之書",
+        "sp": 300,
+        "refine": 350
       },
       "Bolganone+": {
         "pool": { "#": { "3": ["Lilina - Delightful Noble"] } },
@@ -2489,7 +2506,8 @@
         "pool": { "rearmed": { "5": ["Soren - Isolated Strategist"] } },
         "id": "Arcane Rexbolt",
         "name": "魔器列克斯波魯特",
-        "sp": 300
+        "sp": 300,
+        "refine": 350
       },
       "Shine+": {
         "pool": { "grail": { "5": ["Oliver - Admirer of Beauty"] } },
@@ -5004,7 +5022,7 @@
           ]
         },
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
-        "rearmed": { "5": ["Chrom - Fell Exalt"] },
+        "rearmed": { "5": ["Canis - Ill Portent", "Chrom - Fell Exalt"] },
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "emblem": {
           "5": [
@@ -5127,6 +5145,7 @@
     },
     "Comet": {
       "pool": {
+        "rearmed": { "5": ["Canis - Ill Portent"] },
         "aided": { "5": ["Lute - Limitless Curiosity"] },
         "legendary": { "5": ["Lyon - Twilight Amends"] },
         "special": { "5": ["Shez - Covert Mercenary"] },
@@ -5350,7 +5369,9 @@
             "Siegbert - Future King",
             "Corrin - Wailing Soul",
             "Corrin - Dream Prince",
-            "Baldr - Rays of Judgment"
+            "Ivy - Bewitching Ruler",
+            "Baldr - Rays of Judgment",
+            "Byleth - Ashen Nightmare"
           ]
         },
         "grail": {
@@ -5515,6 +5536,7 @@
     },
     "Logic": {
       "pool": {
+        "#": { "5": ["Ivy - Bewitching Ruler"] },
         "rearmed": { "5": ["Lysithea - Duality Prodigy"] },
         "harmonized": { "5": ["Eirika - Spring Company"] }
       },
@@ -5675,6 +5697,7 @@
             "Orson - Passion's Folly",
             "Petrine - Icy Flame-Lancer",
             "Wallace - Crag of Caelin",
+            "Miklan - Destitute Rebel",
             "Gharnef - Dark Pontifex",
             "Cormag - Aloof Lanceman",
             "Jorge - Traveling Peddler",
@@ -5694,7 +5717,11 @@
           ]
         },
         "rearmed": {
-          "5": ["Dedue - Dauntless Beast", "Ingrid - Chivalrous Heart"]
+          "5": [
+            "Tibarn - Storm King",
+            "Dedue - Dauntless Beast",
+            "Ingrid - Chivalrous Heart"
+          ]
         },
         "attuned": {
           "5": [
@@ -5818,6 +5845,13 @@
       },
       "id": "Sturdy Beast",
       "name": "堅固之獸",
+      "sp": 500,
+      "rules": "beast"
+    },
+    "Sturdy Laguz": {
+      "pool": { "rearmed": { "5": ["Tibarn - Storm King"] } },
+      "id": "Sturdy Laguz",
+      "name": "堅固之野獸",
       "sp": 500,
       "rules": "beast"
     },
@@ -8779,7 +8813,7 @@
           "5": ["Amelia - Rose of the War", "Rosado - Adorable Artist"]
         },
         "grail": {
-          "4": ["Wallace - Crag of Caelin"],
+          "4": ["Wallace - Crag of Caelin", "Miklan - Destitute Rebel"],
           "5": ["Darros - Seawalker"]
         },
         "special": { "5": ["Ephraim - Ardent Prince", "Nah - Grateful One"] }
@@ -8901,14 +8935,15 @@
             "Marianne - Serene Adherent",
             "Corrin - Dream Princess",
             "Sharena - Hopeful Princess",
-            "Catria - Mild Middle Sister"
+            "Catria - Mild Middle Sister",
+            "Byleth - Ashen Nightmare"
           ]
         },
         "grail": {
           "4": ["Elincia - Seaside Queen"],
           "5": ["Louise - Eternal Devotion"]
         },
-        "rearmed": { "5": ["Tana - Soaring Princess"] },
+        "rearmed": { "5": ["Tana - Soaring Princess", "Canis - Ill Portent"] },
         "attuned": { "5": ["Peony - Cherished Dream"] },
         "legendary": { "5": ["Elise - Sincere Sister", "Marth - Hero-King"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
@@ -9150,7 +9185,10 @@
     },
     "Atk/Spd Aria": {
       "pool": {
-        "#": { "5": ["Sharena - Hopeful Princess"] },
+        "#": {
+          "5": ["Sharena - Hopeful Princess", "Byleth - Ashen Nightmare"]
+        },
+        "rearmed": { "5": ["Canis - Ill Portent"] },
         "legendary": { "5": ["Elise - Sincere Sister"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
         "special": { "5": ["Váli - Devoted Sister", "Céline - Love's Aroma"] },
@@ -10827,7 +10865,7 @@
           "4": ["Xander - Focused Firstborn"],
           "5": ["Frederick - Youth in Service", "Zeiss - Ebon Bolt"]
         },
-        "rearmed": { "5": ["Líf - Arcane Blade"] },
+        "rearmed": { "5": ["Líf - Arcane Blade", "Tibarn - Storm King"] },
         "emblem": { "5": ["Sigurd - Of the Holy War"] },
         "mythic": {
           "5": [
@@ -10917,6 +10955,7 @@
     "Atk/Def Excel": {
       "pool": {
         "#": { "5": ["Lowen - Apprentice Knight"] },
+        "rearmed": { "5": ["Tibarn - Storm King"] },
         "emblem": { "5": ["Sigurd - Of the Holy War"] },
         "mythic": {
           "5": ["Ótr - Kingsbrother", "Eikþyrnir - Quieting Strength"]
@@ -12006,6 +12045,7 @@
           "3": ["Grima - Tyrant of Ruin"],
           "5": ["Melíai - Warrior Wanderer"]
         },
+        "grail": { "5": ["Miklan - Destitute Rebel"] },
         "legendary": { "5": ["Tiki - Legendary Dragon"] },
         "mythic": { "5": ["Níðhöggr - Quieting Dose"] },
         "special": {
@@ -12748,6 +12788,7 @@
           "3": ["Nyna - The Last Princess"],
           "5": ["Ewan - Eager Student"]
         },
+        "rearmed": { "5": ["Canis - Ill Portent"] },
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
         "mythic": {
           "5": ["Elimine - Scouring Saint", "Plumeria - Lewd Dream"]
@@ -12936,6 +12977,14 @@
       "name": "攻擊魔防的疑懼",
       "sp": 400,
       "icon": "skillB/Atk_Res_Unrest",
+      "rules": "learner.infantry-ranged"
+    },
+    "Spd/Res Unrest": {
+      "pool": { "rearmed": { "5": ["Canis - Ill Portent"] } },
+      "id": "Spd/Res Unrest",
+      "name": "速度魔防的疑懼",
+      "sp": 400,
+      "icon": "skillB/Spd_Res_Unrest",
       "rules": "learner.infantry-ranged"
     },
     "Sudden Panic 3": {
@@ -13928,6 +13977,7 @@
     },
     "Atk/Res Snag 3": {
       "pool": {
+        "#": { "5": ["Ivy - Bewitching Ruler"] },
         "special": { "5": ["Cath - Caper Captain", "Leo - Dark Sprout"] },
         "duo": { "5": ["Veyle - Sister Dragons"] }
       },
@@ -14018,7 +14068,10 @@
       "rules": "learner.cavalry-flying-not-staff"
     },
     "A/R Detect Aerial": {
-      "pool": { "duo": { "5": ["Veyle - Sister Dragons"] } },
+      "pool": {
+        "#": { "5": ["Ivy - Bewitching Ruler"] },
+        "duo": { "5": ["Veyle - Sister Dragons"] }
+      },
       "id": "A/R Detect Aerial",
       "name": "攻魔的看破・俯瞰",
       "sp": 300,
@@ -15634,7 +15687,10 @@
       "rules": "infantry"
     },
     "Magic Gambit 3": {
-      "pool": { "special": { "5": ["Robin - Fated Vessel"] } },
+      "pool": {
+        "#": { "5": ["Byleth - Ashen Nightmare"] },
+        "special": { "5": ["Robin - Fated Vessel"] }
+      },
       "id": "Magic Gambit 3",
       "name": "底牌・魔道3",
       "sp": 240,
@@ -15647,6 +15703,14 @@
       "name": "底牌・魔道4",
       "sp": 300,
       "icon": "skillB/Magic_Gambit_4",
+      "rules": "tome"
+    },
+    "Demonic Force": {
+      "pool": { "#": { "5": ["Byleth - Ashen Nightmare"] } },
+      "id": "Demonic Force",
+      "name": "魔之精隨・不屈",
+      "sp": 400,
+      "icon": "skillB/Demonic_Force",
       "rules": "tome"
     },
     "Resonance 3": {
@@ -16549,7 +16613,13 @@
     },
     "Atk/Res Rein 3": {
       "pool": {
-        "#": { "5": ["Palla - Kind Eldest Sister", "Morva - Darkling Warden"] },
+        "#": {
+          "5": [
+            "Palla - Kind Eldest Sister",
+            "Ivy - Bewitching Ruler",
+            "Morva - Darkling Warden"
+          ]
+        },
         "attuned": { "5": ["Micaiah - Dawning Maiden"] },
         "legendary": { "5": ["Eitri - Youthful Sage"] },
         "mythic": { "5": ["Plumeria - Lewd Dream"] },
@@ -16757,6 +16827,14 @@
       "name": "速度魔防的十字牽制",
       "sp": 300,
       "icon": "skillC/Spd_Res_Crux",
+      "rules": "flying"
+    },
+    "A/R Crux: Ploy": {
+      "pool": { "#": { "5": ["Ivy - Bewitching Ruler"] } },
+      "id": "A/R Crux: Ploy",
+      "name": "攻魔十牽制・謀策",
+      "sp": 300,
+      "icon": "skillC/A_R_Crux_Ploy",
       "rules": "flying"
     },
     "S/D Crux: Ploy": {
@@ -19817,6 +19895,7 @@
     },
     "C Feud 3": {
       "pool": {
+        "rearmed": { "5": ["Tibarn - Storm King"] },
         "legendary": { "5": ["Xander - Gallant King"] },
         "mythic": {
           "5": [
@@ -19850,6 +19929,14 @@
       "name": "暗獸・不屈",
       "sp": 300,
       "icon": "skillC/Dark_Beast_Force",
+      "rules": "beast"
+    },
+    "Dark Beast Agility": {
+      "pool": { "rearmed": { "5": ["Tibarn - Storm King"] } },
+      "id": "Dark Beast Agility",
+      "name": "暗獸・敏捷",
+      "sp": 300,
+      "icon": "skillC/Dark_Beast_Agility",
       "rules": "beast"
     },
     "Canto Control 3": {
@@ -20028,7 +20115,10 @@
       "icon": "skillC/Instruct_4"
     },
     "Dual Support 3": {
-      "pool": { "emblem": { "5": ["Lucina - Of Awakening"] } },
+      "pool": {
+        "#": { "5": ["Byleth - Ashen Nightmare"] },
+        "emblem": { "5": ["Lucina - Of Awakening"] }
+      },
       "id": "Dual Support 3",
       "name": "雙重支援3",
       "sp": 240,
@@ -20036,7 +20126,10 @@
       "rules": "infantry"
     },
     "Dual Support 4": {
-      "pool": { "emblem": { "5": ["Lucina - Of Awakening"] } },
+      "pool": {
+        "#": { "5": ["Byleth - Ashen Nightmare"] },
+        "emblem": { "5": ["Lucina - Of Awakening"] }
+      },
       "id": "Dual Support 4",
       "name": "雙重支援4",
       "sp": 300,
