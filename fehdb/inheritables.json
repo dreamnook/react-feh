@@ -5616,6 +5616,7 @@
             "Fomortiis - Demon King"
           ]
         },
+        "chosen": { "5": ["Alfonse - Opening Miracle"] },
         "special": {
           "4": [
             "Eikþyrnir - Fit for Waves",
@@ -6069,6 +6070,7 @@
             "Alfaðör - Celestial King"
           ]
         },
+        "chosen": { "5": ["Fjorm - Icy Miracle"] },
         "special": {
           "4": [
             "Leo - Festival Bonds",
@@ -7358,6 +7360,7 @@
           "5": ["Tiki - Dragon Scion"]
         },
         "grail": { "5": ["Xander - Paragon Knight"] },
+        "chosen": { "5": ["Alfonse - Opening Miracle"] },
         "special": { "5": ["Frederick - Horizon Watcher"] },
         "harmonized": { "5": ["Ike - Zealous Inheritors"] }
       },
@@ -7376,7 +7379,8 @@
             "Sophia - Nabata Prophet"
           ],
           "5": ["Olwen - Blue Mage Knight"]
-        }
+        },
+        "chosen": { "5": ["Fjorm - Icy Miracle"] }
       },
       "id": "Warding Blow 3",
       "name": "明鏡一擊3",
@@ -7743,6 +7747,7 @@
     "Duelist's Blow": {
       "pool": {
         "attuned": { "5": ["Ryoma - Warrior of Bonds"] },
+        "chosen": { "5": ["Fjorm - Icy Miracle"] },
         "special": { "5": ["Felix - Zealous Yearning"] }
       },
       "id": "Duelist's Blow",
@@ -7752,7 +7757,10 @@
       "rules": "learner.infantry-melee"
     },
     "Warrior's Blow": {
-      "pool": { "harmonized": { "5": ["Ike - Zealous Inheritors"] } },
+      "pool": {
+        "chosen": { "5": ["Alfonse - Opening Miracle"] },
+        "harmonized": { "5": ["Ike - Zealous Inheritors"] }
+      },
       "id": "Warrior's Blow",
       "name": "濁流一擊",
       "sp": 300,
@@ -13179,6 +13187,7 @@
         },
         "legendary": { "5": ["Corrin - Child of Dusk"] },
         "mythic": { "5": ["Gotoh - White Sage"] },
+        "chosen": { "5": ["Alfonse - Opening Miracle"] },
         "special": {
           "5": [
             "Sakura - Gentle Nekomata",
@@ -13214,7 +13223,7 @@
       "rules": "melee"
     },
     "Rejuvenate": {
-      "pool": {},
+      "pool": { "chosen": { "5": ["Alfonse - Opening Miracle"] } },
       "id": "Rejuvenate",
       "name": "革故鼎新",
       "sp": 400,
@@ -14720,6 +14729,7 @@
         "#": { "5": ["Byleth - Anchor of Hope"] },
         "grail": { "5": ["Lamia - Hellspawn"] },
         "ascended": { "5": ["Hilda - Helping Hand"] },
+        "chosen": { "5": ["Fjorm - Icy Miracle"] },
         "duo": { "5": ["Elincia - Hearts of Purity"] }
       },
       "id": "Velocity 3",
@@ -14741,6 +14751,7 @@
     "Null C-Avoid": {
       "pool": {
         "#": { "5": ["Byleth - Anchor of Hope"] },
+        "chosen": { "5": ["Fjorm - Icy Miracle"] },
         "duo": { "5": ["Elincia - Hearts of Purity"] }
       },
       "id": "Null C-Avoid",
@@ -18111,6 +18122,7 @@
             "Athos - Omniscient One"
           ]
         },
+        "chosen": { "5": ["Alfonse - Opening Miracle"] },
         "special": {
           "4": ["Chulainn - Leading Gladiator"],
           "5": [
@@ -18233,7 +18245,8 @@
       "pool": {
         "rearmed": { "5": ["Soren - Isolated Strategist"] },
         "aided": { "5": ["Lute - Limitless Curiosity"] },
-        "mythic": { "5": ["Gotoh - White Sage"] }
+        "mythic": { "5": ["Gotoh - White Sage"] },
+        "chosen": { "5": ["Alfonse - Opening Miracle"] }
       },
       "id": "Preempt: Ploy",
       "name": "初始之躍動・謀策",
@@ -19623,7 +19636,8 @@
           "3": ["Homer - Traveling Bard", "Vanessa - Dutiful Rider"],
           "5": ["Asbel - Windswept Youth"]
         },
-        "grail": { "5": ["Díthorba - Cutting Knight"] }
+        "grail": { "5": ["Díthorba - Cutting Knight"] },
+        "chosen": { "5": ["Fjorm - Icy Miracle"] }
       },
       "id": "Spd/Res Oath 3",
       "name": "速度魔防的信義3",
@@ -19685,7 +19699,7 @@
       "rules": "learner.infantry-melee"
     },
     "Spd/Res Faith": {
-      "pool": {},
+      "pool": { "chosen": { "5": ["Fjorm - Icy Miracle"] } },
       "id": "Spd/Res Faith",
       "name": "速度魔防的信心",
       "sp": 300,
@@ -20491,6 +20505,7 @@
     "entwined",
     "legendary",
     "mythic",
+    "chosen",
     "special",
     "duo",
     "harmonized"

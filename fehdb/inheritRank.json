@@ -13917,6 +13917,20 @@
     "skillB": { "Counter Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Briar F Save": { "sp": 300, "rarity": 5 } }
   },
+  "Fjorm - Icy Miracle": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "chosen",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Duelist's Blow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Null C-Avoid": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Spd/Res Faith": { "sp": 300, "rarity": 5 } }
+  },
   "Ullr - The Bowmaster": {
     "score": 460,
     "scoreTotal": 1012,
@@ -15135,20 +15149,6 @@
     "skillB": { "Scowling Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "Higher Ground": { "sp": 300, "rarity": 5 } }
   },
-  "Fjorm - Icy Miracle": {
-    "score": 300,
-    "scoreTotal": 1100,
-    "poolRarity": 5,
-    "pool": "chosen",
-    "sp": 300,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 220,
-    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Duelist's Blow": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Null C-Avoid": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Spd/Res Faith": { "sp": 300, "rarity": 5 } }
-  },
   "Soren - Radiant Confidant": {
     "score": 500,
     "scoreTotal": 1100,
@@ -15713,6 +15713,20 @@
     "skillA": { "Strat Flame 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Patience": { "sp": 400, "rarity": 5 } },
     "skillC": { "Strat Assault 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Alfonse - Opening Miracle": {
+    "score": 368,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "chosen",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Warrior's Blow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Rejuvenate": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Preempt: Ploy": { "sp": 300, "rarity": 5 } }
   },
   "Lyon - Twilight Amends": {
     "score": 460,
@@ -16884,20 +16898,6 @@
     "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
     "skillB": { "Demonic Force": { "sp": 400, "rarity": 5 } },
     "skillC": { "Dual Support 4": { "sp": 300, "rarity": 5 } }
-  },
-  "Alfonse - Opening Miracle": {
-    "score": 400,
-    "scoreTotal": 1200,
-    "poolRarity": 5,
-    "pool": "chosen",
-    "sp": 400,
-    "spTotal": 1200,
-    "feather": 1000,
-    "bst": 220,
-    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Warrior's Blow": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Rejuvenate": { "sp": 400, "rarity": 5 } },
-    "skillC": { "Preempt: Ploy": { "sp": 300, "rarity": 5 } }
   },
   "Lilina - Beaming Bride": {
     "score": 318,
