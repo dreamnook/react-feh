@@ -866,6 +866,22 @@
     "icon": "skillC/11th_Deadlord",
     "last": true
   },
+  "Exuberant Boost": {
+    "id": "Exuberant Boost",
+    "name": "真生命光輝",
+    "sp": 300,
+    "exclusive": ["Eir - Until Death"],
+    "icon": "skillC/Exuberant_Boost",
+    "last": true
+  },
+  "Inaugural Vassal": {
+    "id": "Inaugural Vassal",
+    "name": "真開神的眷屬",
+    "sp": 300,
+    "exclusive": ["Ash - Divergent Brides"],
+    "icon": "skillC/Inaugural_Vassal",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

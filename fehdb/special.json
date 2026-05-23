@@ -829,6 +829,15 @@
     "exclusive": ["Byleth - Ashen Nightmare"],
     "last": true
   },
+  "Seiðr Cannon": {
+    "id": "Seiðr Cannon",
+    "name": "真魔彈",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Ignis"],
+    "exclusive": ["Reginn - Full-Tilt Bride"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

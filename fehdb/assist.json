@@ -116,6 +116,14 @@
     "exclusive": ["Ninian - Heartfelt Dancer"],
     "last": true
   },
+  "Tender Vision": {
+    "id": "Tender Vision",
+    "name": "真溫柔的夢",
+    "sp": 400,
+    "prev": ["Dance"],
+    "exclusive": ["Peony - Interwoven Dream"],
+    "last": true
+  },
   "Dance": {
     "id": "Dance",
     "name": "起舞",
@@ -170,7 +178,8 @@
       "Tethys - Dancing Sands",
       "Plumeria - Spring Dance",
       "Peony - Fruitful Dream",
-      "Ninian - Heartfelt Dancer"
+      "Ninian - Heartfelt Dancer",
+      "Peony - Interwoven Dream"
     ],
     "last": true
   },

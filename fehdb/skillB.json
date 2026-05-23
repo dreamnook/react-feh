@@ -2862,6 +2862,13 @@
     "icon": "skillB/Rejuvenate",
     "last": true
   },
+  "Riptide Guard": {
+    "id": "Riptide Guard",
+    "name": "狂濤・取消",
+    "sp": 400,
+    "icon": "skillB/Riptide_Guard",
+    "last": true
+  },
   "Wrathful Staff 1": {
     "id": "Wrathful Staff 1",
     "name": "神罰之杖1",
@@ -3542,6 +3549,15 @@
     "icon": "skillB/D_R_Cantrip_3",
     "last": true
   },
+  "Spd/Def Allure": {
+    "id": "Spd/Def Allure",
+    "name": "速度防守的魅惑",
+    "sp": 400,
+    "rules": "not.white-staff",
+    "prev": ["Spd Cantrip 3", "Def Cantrip 3"],
+    "icon": "skillB/Spd_Def_Allure",
+    "last": true
+  },
   "Dull Close 1": {
     "id": "Dull Close 1",
     "name": "強化無效・近距離1",
@@ -3972,6 +3988,15 @@
     "rules": "learner.cavalry-flying-ranged-not-staff",
     "prev": ["Atk/Res Snag 3"],
     "icon": "skillB/A_R_Detect_Aerial",
+    "last": true
+  },
+  "S/D Detect Aerial": {
+    "id": "S/D Detect Aerial",
+    "name": "速房的看破・俯瞰",
+    "sp": 300,
+    "rules": "learner.cavalry-flying-not-staff",
+    "prev": ["Spd/Def Snag 3"],
+    "icon": "skillB/S_D_Detect_Aerial",
     "last": true
   },
   "S/R Detect Aerial": {

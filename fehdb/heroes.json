@@ -2372,6 +2372,55 @@
     "ver": "6.10",
     "dfKey": 5
   },
+  "Eir - Until Death": {
+    "id": "Eir - Until Death",
+    "title": "相伴至生命盡頭",
+    "name": "埃爾",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "weaponType": "blue-dagger",
+    "moveType": "flying",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-05-18",
+    "stats": {
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [38, 42, 45],
+        "spd": [42, 45, 48],
+        "def": [11, 14, 17],
+        "res": [44, 47, 50]
+      },
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [40, 44, 47],
+        "spd": [45, 48, 52],
+        "def": [12, 16, 19],
+        "res": [46, 49, 52]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 11,
+        "spd": 8,
+        "def": 2,
+        "res": 14
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 11,
+        "spd": 9,
+        "def": 3,
+        "res": 14
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "atk", "def"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.5",
+    "dfKey": 8
+  },
   "Ymir - Life-Mother": {
     "id": "Ymir - Life-Mother",
     "title": "生命之母龍",
@@ -2991,6 +3040,41 @@
     "statMax": 180,
     "book": 9,
     "ver": "9.10",
+    "dfKey": 8
+  },
+  "Peony - Interwoven Dream": {
+    "id": "Peony - Interwoven Dream",
+    "title": "兩人共織的美夢",
+    "name": "皮亞尼",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "flying",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-05-18",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [45, 48, 52],
+        "def": [18, 21, 24],
+        "res": [32, 35, 38]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 9,
+        "def": 4,
+        "res": 7
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.5",
     "dfKey": 8
   },
   "Mirabilis - Daydream": {
@@ -3789,6 +3873,41 @@
     "ver": "8.9",
     "dfKey": 7
   },
+  "Reginn - Full-Tilt Bride": {
+    "id": "Reginn - Full-Tilt Bride",
+    "title": "全力以赴的新娘",
+    "name": "雷金",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "cavalry",
+    "pool": "rearmed",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-05-18",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [37, 40, 43],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 9,
+        "def": 12,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.5",
+    "dfKey": 8
+  },
   "Ótr - Kingsbrother": {
     "id": "Ótr - Kingsbrother",
     "title": "王之弟",
@@ -4439,6 +4558,42 @@
     "statMax": 205,
     "book": 9,
     "ver": "9.9",
+    "dfKey": 8
+  },
+  "Ash - Divergent Brides": {
+    "id": "Ash - Divergent Brides",
+    "title": "一體兩面的新娘",
+    "name": "艾緒",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "infantry",
+    "pool": "duo",
+    "bst": 220,
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-05-18",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 52],
+        "spd": [10, 13, 17],
+        "def": [41, 45, 48],
+        "res": [44, 47, 50]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 3,
+        "def": 12,
+        "res": 12
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.5",
     "dfKey": 8
   },
   "Melíai - Warrior Wanderer": {

@@ -2186,6 +2186,15 @@
     "icon": "skillA/C_Bonus_Doubler",
     "last": true
   },
+  "Close A/D/R Bond": {
+    "id": "Close A/D/R Bond",
+    "name": "近反・攻防魔的羈絆",
+    "sp": 300,
+    "rules": "ranged",
+    "prev": ["Close Counter"],
+    "icon": "skillA/Close_A_D_R_Bond",
+    "last": true
+  },
   "Close Foil": {
     "id": "Close Foil",
     "name": "金剛反擊・近距離",

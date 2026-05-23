@@ -3953,6 +3953,16 @@
       "exclusive": ["Sigurd - Honorable Nobles"],
       "last": true
     },
+    "Braided Blade": {
+      "id": "Braided Blade",
+      "name": "夢之新娘的樹劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Peony - Interwoven Dream"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -13898,6 +13908,34 @@
       },
       "last": true
     },
+    "Arcane Cake": {
+      "id": "Arcane Cake",
+      "name": "魔器・新娘的蛋糕",
+      "mt": 16,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Axe"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Iron Axe": {
       "id": "Iron Axe",
       "name": "鐵斧",
@@ -20877,6 +20915,16 @@
           "res": 3
         }
       },
+      "last": true
+    },
+    "Bride of Life": {
+      "id": "Bride of Life",
+      "name": "生命之新娘的鐘",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Dagger"],
+      "exclusive": ["Eir - Until Death"],
       "last": true
     },
     "Arcane Void": {
@@ -32781,6 +32829,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Ivy - Bewitching Ruler"],
+      "last": true
+    },
+    "Uniting Bouquet": {
+      "id": "Uniting Bouquet",
+      "name": "不離的新娘花束",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Ash - Divergent Brides"],
       "last": true
     },
     "Stone": {

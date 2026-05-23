@@ -955,6 +955,18 @@
     "skillB": { "Dazzling Staff 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Staff Valor 3": { "sp": 120, "rarity": 5 } }
   },
+  "Eir - Until Death": {
+    "score": 123,
+    "scoreTotal": 218,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 450,
+    "feather": 300,
+    "bst": 195,
+    "assist": { "Reposition": { "sp": 150, "rarity": 4 } },
+    "skillB": { "S/D Detect Aerial": { "sp": 300, "rarity": 5 } }
+  },
   "Mia - Moonlit Witch": {
     "score": 80,
     "scoreTotal": 236,
@@ -8978,6 +8990,18 @@
     "assist": { "Rally Spd/Res+": { "sp": 400, "rarity": 5 } },
     "skillA": { "Atk/Spd Push 4": { "sp": 300, "rarity": 5 } }
   },
+  "Peony - Interwoven Dream": {
+    "score": 424,
+    "scoreTotal": 742,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 700,
+    "feather": 1000,
+    "bst": 189,
+    "skillB": { "Spd/Def Allure": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Shadow Smite 4": { "sp": 300, "rarity": 5 } }
+  },
   "Saias - Bishop of Flame": {
     "score": 322,
     "scoreTotal": 746,
@@ -14935,6 +14959,20 @@
     "skillB": { "Special Spiral 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Pulse Smoke 3": { "sp": 240, "rarity": 5 } }
   },
+  "Reginn - Full-Tilt Bride": {
+    "score": 360,
+    "scoreTotal": 1080,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 195,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Blue-Sky Gust": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Riptide Guard": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/S Outcry Seize": { "sp": 300, "rarity": 5 } }
+  },
   "Eliwood - Noble Ablaze": {
     "score": 360,
     "scoreTotal": 1080,
@@ -17101,6 +17139,19 @@
     "special": { "Armored Flare": { "sp": 500, "rarity": 5 } },
     "skillB": { "Patience": { "sp": 400, "rarity": 5 } },
     "skillC": { "A/D Briar F Save": { "sp": 300, "rarity": 5 } }
+  },
+  "Ash - Divergent Brides": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Comet": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Close A/D/R Bond": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Unrest": { "sp": 400, "rarity": 5 } }
   },
   "Baldr - New Year's Elite": {
     "score": 530,

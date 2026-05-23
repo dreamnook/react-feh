@@ -1636,6 +1636,26 @@
       "Sparkling Boost": 5
     }
   },
+  "Eir - Until Death": {
+    "weapon": {
+      "Iron Dagger": 1,
+      "Steel Dagger": 2,
+      "Silver Dagger": 3,
+      "Bride of Life": 5
+    },
+    "assist": {
+      "Reposition": 3
+    },
+    "skillB": {
+      "Spd/Def Snag 1": 2,
+      "Spd/Def Snag 2": 3,
+      "Spd/Def Snag 3": 4,
+      "S/D Detect Aerial": 5
+    },
+    "skillC": {
+      "Exuberant Boost": 5
+    }
+  },
   "Ymir - Life-Mother": {
     "weapon": {
       "Fire Breath": 1,
@@ -2117,6 +2137,30 @@
       "Shadow Shove 2": 3,
       "Shadow Shove 3": 4,
       "Shadow Shove 4": 5
+    }
+  },
+  "Peony - Interwoven Dream": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Braided Blade": 5
+    },
+    "assist": {
+      "Dance": 3,
+      "Tender Vision": 5
+    },
+    "skillB": {
+      "Spd Cantrip 1": 2,
+      "Spd Cantrip 2": 3,
+      "Spd Cantrip 3": 4,
+      "Spd/Def Allure": 5
+    },
+    "skillC": {
+      "Shadow Smite 1": 2,
+      "Shadow Smite 2": 3,
+      "Shadow Smite 3": 4,
+      "Shadow Smite 4": 5
     }
   },
   "Mirabilis - Daydream": {
@@ -2735,6 +2779,37 @@
       "Shadow Shift 4": 5
     }
   },
+  "Reginn - Full-Tilt Bride": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Arcane Cake": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4,
+      "Seiðr Cannon": 5
+    },
+    "skillA": {
+      "Blue Skies 1": 2,
+      "Blue Skies 2": 3,
+      "Blue Skies 3": 4,
+      "Blue-Sky Gust": 5
+    },
+    "skillB": {
+      "Guard 1": 2,
+      "Guard 2": 3,
+      "Guard 3": 4,
+      "Riptide Guard": 5
+    },
+    "skillC": {
+      "Hone Spd 1": 2,
+      "Hone Spd 2": 3,
+      "Hone Spd 3": 4,
+      "A/S Outcry Seize": 5
+    }
+  },
   "Ótr - Kingsbrother": {
     "weapon": {
       "Iron Axe": 1,
@@ -3204,6 +3279,32 @@
     },
     "skillC": {
       "Heir of Openness": 5
+    }
+  },
+  "Ash - Divergent Brides": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 3,
+      "Uniting Bouquet": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Comet": 5
+    },
+    "skillA": {
+      "Close Counter": 4,
+      "Close A/D/R Bond": 5
+    },
+    "skillB": {
+      "Sabotage Atk 1": 2,
+      "Sabotage Atk 2": 3,
+      "Sabotage Atk 3": 4,
+      "Atk/Res Unrest": 5
+    },
+    "skillC": {
+      "Inaugural Vassal": 5
     }
   },
   "Melíai - Warrior Wanderer": {
@@ -30870,8 +30971,8 @@
       "Martyr+": 5
     },
     "special": {
-      "Miracle": 3,
-      "Imbue": 2
+      "Imbue": 3,
+      "Miracle": 2
     },
     "skillA": {
       "AR-D Spd/Res 1": 3,

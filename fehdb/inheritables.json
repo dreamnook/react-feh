@@ -949,6 +949,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Cake": {
+        "pool": { "rearmed": { "5": ["Reginn - Full-Tilt Bride"] } },
+        "id": "Arcane Cake",
+        "name": "魔器・新娘的蛋糕",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Axe+": {
         "pool": { "#": { "3": ["Gunter - Inveterate Soldier"] } },
         "id": "Silver Axe+",
@@ -3853,6 +3860,7 @@
         "legendary": { "5": ["Chrom - Crowned Exalt"] },
         "special": {
           "4": [
+            "Eir - Until Death",
             "Geese - A Life at Sea",
             "Xane - Autumn Trickster",
             "Sedgar - Festive Horseman"
@@ -5063,7 +5071,7 @@
             "Mia - Zenith Challenger"
           ]
         },
-        "duo": { "5": ["Freyja - Parallel Hearts"] },
+        "duo": { "5": ["Freyja - Parallel Hearts", "Ash - Divergent Brides"] },
         "harmonized": {
           "5": [
             "Leif - Destined Scions",
@@ -5149,7 +5157,7 @@
         "aided": { "5": ["Lute - Limitless Curiosity"] },
         "legendary": { "5": ["Lyon - Twilight Amends"] },
         "special": { "5": ["Shez - Covert Mercenary"] },
-        "duo": { "5": ["Freyja - Parallel Hearts"] }
+        "duo": { "5": ["Freyja - Parallel Hearts", "Ash - Divergent Brides"] }
       },
       "id": "Comet",
       "name": "彗星",
@@ -5721,6 +5729,7 @@
           "5": [
             "Tibarn - Storm King",
             "Dedue - Dauntless Beast",
+            "Reginn - Full-Tilt Bride",
             "Ingrid - Chivalrous Heart"
           ]
         },
@@ -8348,7 +8357,13 @@
             "Camilla - Midnight Bloom"
           ]
         },
-        "duo": { "5": ["Alfonse - Askran Duo", "Chrom - Fate-Defying Duo"] }
+        "duo": {
+          "5": [
+            "Alfonse - Askran Duo",
+            "Chrom - Fate-Defying Duo",
+            "Ash - Divergent Brides"
+          ]
+        }
       },
       "id": "Close Counter",
       "name": "近距離反擊",
@@ -8384,6 +8399,14 @@
       "sp": 300,
       "icon": "skillA/C_Bonus_Doubler",
       "rules": "learner.infantry-ranged"
+    },
+    "Close A/D/R Bond": {
+      "pool": { "duo": { "5": ["Ash - Divergent Brides"] } },
+      "id": "Close A/D/R Bond",
+      "name": "近反・攻防魔的羈絆",
+      "sp": 300,
+      "icon": "skillA/Close_A_D_R_Bond",
+      "rules": "ranged"
     },
     "Close Foil": {
       "pool": {
@@ -11398,7 +11421,9 @@
     },
     "Blue Skies 3": {
       "pool": {
-        "rearmed": { "5": ["Hinoka - Warrior of Gusto"] },
+        "rearmed": {
+          "5": ["Hinoka - Warrior of Gusto", "Reginn - Full-Tilt Bride"]
+        },
         "attuned": { "5": ["Eliwood - Noble Ablaze"] },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "mythic": { "5": ["Baldr - Celestial Sun God"] },
@@ -11430,6 +11455,7 @@
     },
     "Blue-Sky Gust": {
       "pool": {
+        "rearmed": { "5": ["Reginn - Full-Tilt Bride"] },
         "attuned": { "5": ["Eliwood - Noble Ablaze"] },
         "special": { "5": ["Mia - Zenith Challenger"] }
       },
@@ -12783,7 +12809,8 @@
         "#": { "5": ["Claud - Priest of Edda", "Selkie - Free Spirit"] },
         "grail": { "5": ["Salem - Dark Sage", "Limstella - Living Construct"] },
         "mythic": { "5": ["Mila - Goddess of Love"] },
-        "special": { "5": ["Vika - Sea-Dark Wing", "Anna - Wealth-Wisher"] }
+        "special": { "5": ["Vika - Sea-Dark Wing", "Anna - Wealth-Wisher"] },
+        "duo": { "5": ["Ash - Divergent Brides"] }
       },
       "id": "Sabotage Atk 3",
       "name": "攻擊擾亂3",
@@ -12980,7 +13007,10 @@
       "rules": "learner.infantry-flying"
     },
     "Atk/Res Unrest": {
-      "pool": { "legendary": { "5": ["Lyon - Twilight Amends"] } },
+      "pool": {
+        "legendary": { "5": ["Lyon - Twilight Amends"] },
+        "duo": { "5": ["Ash - Divergent Brides"] }
+      },
       "id": "Atk/Res Unrest",
       "name": "攻擊魔防的疑懼",
       "sp": 400,
@@ -13185,6 +13215,7 @@
             "Caellach - Tiger Eye"
           ]
         },
+        "rearmed": { "5": ["Reginn - Full-Tilt Bride"] },
         "legendary": { "5": ["Corrin - Child of Dusk"] },
         "mythic": { "5": ["Gotoh - White Sage"] },
         "chosen": { "5": ["Alfonse - Opening Miracle"] },
@@ -13229,6 +13260,13 @@
       "sp": 400,
       "icon": "skillB/Rejuvenate",
       "rules": "learner.infantry-melee"
+    },
+    "Riptide Guard": {
+      "pool": { "rearmed": { "5": ["Reginn - Full-Tilt Bride"] } },
+      "id": "Riptide Guard",
+      "name": "狂濤・取消",
+      "sp": 400,
+      "icon": "skillB/Riptide_Guard"
     },
     "Wrathful Staff 3": {
       "pool": {
@@ -13713,7 +13751,9 @@
     "Spd Cantrip 3": {
       "pool": {
         "#": { "3": ["Dorothea - Daring Ex-Singer"] },
-        "special": { "5": ["Mirabilis - Sugarplum Vision"] }
+        "special": {
+          "5": ["Peony - Interwoven Dream", "Mirabilis - Sugarplum Vision"]
+        }
       },
       "id": "Spd Cantrip 3",
       "name": "速度魅惑3",
@@ -13770,6 +13810,14 @@
       "name": "防守魔防魅惑3",
       "sp": 300,
       "icon": "skillB/D_R_Cantrip_3",
+      "rules": "not.white-staff"
+    },
+    "Spd/Def Allure": {
+      "pool": { "special": { "5": ["Peony - Interwoven Dream"] } },
+      "id": "Spd/Def Allure",
+      "name": "速度防守的魅惑",
+      "sp": 400,
+      "icon": "skillB/Spd_Def_Allure",
       "rules": "not.white-staff"
     },
     "Dull Close 3": {
@@ -14001,7 +14049,7 @@
         "#": { "3": ["Kent - Crimson Shield"] },
         "grail": { "4": ["Deen - Bladed Sandstorm", "Finn - Devoted Service"] },
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
-        "special": { "4": ["Sedgar - Festive Horseman"] },
+        "special": { "4": ["Eir - Until Death", "Sedgar - Festive Horseman"] },
         "duo": { "5": ["Lucina - Shadows of Fate"] },
         "harmonized": { "5": ["Mia - Harmonic Blades"] }
       },
@@ -14086,6 +14134,14 @@
       "sp": 300,
       "icon": "skillB/A_R_Detect_Aerial",
       "rules": "learner.cavalry-flying-ranged-not-staff"
+    },
+    "S/D Detect Aerial": {
+      "pool": { "special": { "5": ["Eir - Until Death"] } },
+      "id": "S/D Detect Aerial",
+      "name": "速房的看破・俯瞰",
+      "sp": 300,
+      "icon": "skillB/S_D_Detect_Aerial",
+      "rules": "learner.cavalry-flying-not-staff"
     },
     "S/R Detect Aerial": {
       "pool": { "special": { "5": ["Céline - Love's Aroma"] } },
@@ -16949,7 +17005,9 @@
             "Azelle - Youthful Flame"
           ]
         },
-        "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
+        "rearmed": {
+          "5": ["Reginn - Full-Tilt Bride", "Ingrid - Chivalrous Heart"]
+        },
         "attuned": {
           "5": ["Lachesis - Loving Sister", "Eliwood - Noble Ablaze"]
         },
@@ -17150,7 +17208,10 @@
       "rules": "learner.cavalry-melee"
     },
     "A/S Outcry Seize": {
-      "pool": { "attuned": { "5": ["Eliwood - Noble Ablaze"] } },
+      "pool": {
+        "rearmed": { "5": ["Reginn - Full-Tilt Bride"] },
+        "attuned": { "5": ["Eliwood - Noble Ablaze"] }
+      },
       "id": "A/S Outcry Seize",
       "name": "攻速鼓譟・奪取無效",
       "sp": 300,
@@ -19998,7 +20059,10 @@
       "rules": "learner.cavalry-flying"
     },
     "Shadow Smite 3": {
-      "pool": { "harmonized": { "5": ["Plumeria - Spring Dance"] } },
+      "pool": {
+        "special": { "5": ["Peony - Interwoven Dream"] },
+        "harmonized": { "5": ["Plumeria - Spring Dance"] }
+      },
       "id": "Shadow Smite 3",
       "name": "影助・重擊3",
       "sp": 240,
@@ -20006,7 +20070,10 @@
       "rules": "learner.cavalry-flying"
     },
     "Shadow Smite 4": {
-      "pool": { "harmonized": { "5": ["Plumeria - Spring Dance"] } },
+      "pool": {
+        "special": { "5": ["Peony - Interwoven Dream"] },
+        "harmonized": { "5": ["Plumeria - Spring Dance"] }
+      },
       "id": "Shadow Smite 4",
       "name": "影助・重擊4",
       "sp": 300,
