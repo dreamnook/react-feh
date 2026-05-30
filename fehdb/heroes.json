@@ -6461,6 +6461,9 @@
         "res": 10
       }
     },
+    "engageStats": {
+      "cd": -1
+    },
     "assets": ["spd"],
     "flaws": ["hp"],
     "statMin": 193,
@@ -19944,6 +19947,48 @@
     "book": 6,
     "ver": "6.5",
     "dfKey": 4
+  },
+  "Roy - Of Binding": {
+    "id": "Roy - Of Binding",
+    "title": "封印紋章士",
+    "name": "羅伊",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "pool": "emblem",
+    "appearsIn": ["The Binding Blade", "Engage"],
+    "releaseDate": "2026-05-29",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [35, 38, 41],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 10,
+        "def": 10,
+        "res": 8
+      }
+    },
+    "engageStats": {
+      "hp": 3,
+      "atk": 3,
+      "spd": 3,
+      "def": 3,
+      "res": 3
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.5",
+    "dfKey": 8
   },
   "Wolt - Sunbeam Archer": {
     "id": "Wolt - Sunbeam Archer",

@@ -838,6 +838,15 @@
     "exclusive": ["Reginn - Full-Tilt Bride"],
     "last": true
   },
+  "Blazing Lion": {
+    "id": "Blazing Lion",
+    "name": "獅子紅蓮焰舞",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Ignis"],
+    "exclusive": ["Roy - Of Binding"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

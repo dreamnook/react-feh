@@ -5740,7 +5740,7 @@
             "Eliwood - Noble Ablaze"
           ]
         },
-        "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "emblem": { "5": ["Roy - Of Binding", "Edelgard - Of Rivals"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
         "entwined": { "5": ["Ash - Borrowed Power"] },
         "legendary": {
@@ -11488,6 +11488,22 @@
       "sp": 300,
       "icon": "skillA/Strat_Flame_4",
       "rules": "learner.armored-flying-melee"
+    },
+    "Rise Above 3": {
+      "pool": { "emblem": { "5": ["Roy - Of Binding"] } },
+      "id": "Rise Above 3",
+      "name": "超越3",
+      "sp": 240,
+      "icon": "skillA/Rise_Above_3",
+      "rules": "learner.infantry-armored"
+    },
+    "Rise Above 4": {
+      "pool": { "emblem": { "5": ["Roy - Of Binding"] } },
+      "id": "Rise Above 4",
+      "name": "超越4",
+      "sp": 300,
+      "icon": "skillA/Rise_Above_4",
+      "rules": "learner.infantry-armored"
     }
   },
   "skillB": {
@@ -15899,7 +15915,7 @@
     },
     "Pair Up 3": {
       "pool": {
-        "emblem": { "5": ["Corrin - Of Fates"] },
+        "emblem": { "5": ["Roy - Of Binding", "Corrin - Of Fates"] },
         "special": {
           "5": ["Hortensia - Cutesplosion", "Alfred - Joyous Snowdrop"]
         }
@@ -15912,7 +15928,7 @@
     },
     "Pair Up 4": {
       "pool": {
-        "emblem": { "5": ["Corrin - Of Fates"] },
+        "emblem": { "5": ["Roy - Of Binding", "Corrin - Of Fates"] },
         "special": {
           "5": ["Hortensia - Cutesplosion", "Alfred - Joyous Snowdrop"]
         }
@@ -19571,6 +19587,7 @@
           "5": ["Sothe - Dawning Zephyr", "Machyua - Blade of Gales"]
         },
         "attuned": { "5": ["Ryoma - Warrior of Bonds"] },
+        "emblem": { "5": ["Roy - Of Binding"] },
         "legendary": {
           "5": [
             "Celica - Queen of Valentia",
@@ -19751,7 +19768,8 @@
       "pool": {
         "#": { "5": ["Byleth - Anchor of Hope"] },
         "rearmed": { "5": ["Machyua - Blade of Gales"] },
-        "attuned": { "5": ["Ryoma - Warrior of Bonds"] }
+        "attuned": { "5": ["Ryoma - Warrior of Bonds"] },
+        "emblem": { "5": ["Roy - Of Binding"] }
       },
       "id": "Atk/Spd Faith",
       "name": "攻擊速度的信心",

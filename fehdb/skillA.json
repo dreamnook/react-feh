@@ -5450,5 +5450,58 @@
     "rules": "learner.armored-flying-melee",
     "icon": "skillA/Strat_Flame_4",
     "last": true
+  },
+  "Rise Above 1": {
+    "id": "Rise Above 1",
+    "name": "超越1",
+    "sp": 60,
+    "hp": 1,
+    "atk": 2,
+    "spd": 2,
+    "def": 2,
+    "res": 2,
+    "rules": "learner.infantry-armored",
+    "icon": "skillA/Rise_Above_1"
+  },
+  "Rise Above 2": {
+    "id": "Rise Above 2",
+    "name": "超越2",
+    "sp": 120,
+    "hp": 3,
+    "atk": 5,
+    "spd": 5,
+    "def": 5,
+    "res": 5,
+    "prev": ["Rise Above 1"],
+    "rules": "learner.infantry-armored",
+    "icon": "skillA/Rise_Above_2"
+  },
+  "Rise Above 3": {
+    "id": "Rise Above 3",
+    "name": "超越3",
+    "sp": 240,
+    "hp": 5,
+    "atk": 8,
+    "spd": 8,
+    "def": 8,
+    "res": 8,
+    "prev": ["Rise Above 2"],
+    "rules": "learner.infantry-armored",
+    "icon": "skillA/Rise_Above_3",
+    "last": true
+  },
+  "Rise Above 4": {
+    "id": "Rise Above 4",
+    "name": "超越4",
+    "sp": 300,
+    "hp": 7,
+    "atk": 12,
+    "spd": 12,
+    "def": 12,
+    "res": 12,
+    "prev": ["Rise Above 3"],
+    "rules": "learner.infantry-armored",
+    "icon": "skillA/Rise_Above_4",
+    "last": true
   }
 }

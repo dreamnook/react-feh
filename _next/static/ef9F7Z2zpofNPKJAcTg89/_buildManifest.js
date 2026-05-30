@@ -6,19 +6,19 @@ self.__BUILD_MANIFEST = {
     "static/chunks/0fhy_jrgg_dlc.js"
   ],
   "/arenacalc": [
-    "static/chunks/0t30m7yywqzqa.js"
+    "static/chunks/0gf0gfjwiptio.js"
   ],
   "/ivviewer": [
-    "static/chunks/0dmg2ocdoi_xq.js"
+    "static/chunks/0uxnge8v_9nu~.js"
   ],
   "/ranker": [
-    "static/chunks/01eha69vbsf3f.js"
+    "static/chunks/0s3v.m7ly2p6y.js"
   ],
   "/skilltable": [
-    "static/chunks/04e1j_03a580n.js"
+    "static/chunks/16i6eaaeg-r1o.js"
   ],
   "/uniteditor": [
-    "static/chunks/0nzdqineg3nu7.js"
+    "static/chunks/0ow1nny9w04fl.js"
   ],
   "__rewrites": {
     "afterFiles": [],

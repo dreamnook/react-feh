@@ -3963,6 +3963,16 @@
       "exclusive": ["Peony - Interwoven Dream"],
       "last": true
     },
+    "Young Lion Edge": {
+      "id": "Young Lion Edge",
+      "name": "幼獅之劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Roy - Of Binding"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",

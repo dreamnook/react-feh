@@ -13899,6 +13899,20 @@
     "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
   },
+  "Roy - Of Binding": {
+    "score": 276,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Rise Above 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Pair Up 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Faith": { "sp": 300, "rarity": 5 } }
+  },
   "Ayra - Supreme Astra": {
     "score": 276,
     "scoreTotal": 1012,
