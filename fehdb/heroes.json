@@ -2006,6 +2006,44 @@
     "ver": "6.11",
     "dfKey": 5
   },
+  "Laegjarn - Flame Miracle": {
+    "id": "Laegjarn - Flame Miracle",
+    "title": "寄宿著炎之力的公主",
+    "name": "瑞瓦伽倫",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "flying",
+    "pool": "chosen",
+    "blesser": "chosen",
+    "blessing": "fire-clash",
+    "bst": 220,
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-06-05",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 51],
+        "spd": [46, 49, 53],
+        "def": [43, 47, 50],
+        "res": [12, 16, 19]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 14,
+        "res": 3
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 200,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.6",
+    "dfKey": 8
+  },
   "Laevatein - Searing Steel": {
     "id": "Laevatein - Searing Steel",
     "title": "炎劍",
@@ -11365,6 +11403,41 @@
     "book": 9,
     "ver": "9.3",
     "dfKey": 7
+  },
+  "Alm - For Others' Sake": {
+    "id": "Alm - For Others' Sake",
+    "title": "胸懷大志的英傑",
+    "name": "阿雷武",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "pool": "harmonized",
+    "appearsIn": ["Echoes", "The Blazing Blade"],
+    "releaseDate": "2026-06-05",
+    "stats": {
+      "5": {
+        "hp": [38, 42, 45],
+        "atk": [46, 49, 53],
+        "spd": [45, 48, 51],
+        "def": [46, 49, 52],
+        "res": [12, 16, 19]
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 10,
+        "spd": 13,
+        "def": 12,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "res"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.6",
+    "dfKey": 8
   },
   "Lukas - Sharp Soldier": {
     "id": "Lukas - Sharp Soldier",
@@ -34455,6 +34528,41 @@
     "book": 9,
     "ver": "9.6",
     "dfKey": 7
+  },
+  "Micaiah - Beyond Conflict": {
+    "id": "Micaiah - Beyond Conflict",
+    "title": "看透相克的女孩",
+    "name": "米卡雅",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "flying",
+    "pool": "harmonized",
+    "appearsIn": ["Radiant Dawn", "Fates"],
+    "releaseDate": "2026-06-05",
+    "stats": {
+      "5": {
+        "hp": [35, 39, 42],
+        "atk": [46, 49, 53],
+        "spd": [30, 34, 37],
+        "def": [15, 18, 21],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 10,
+        "spd": 12,
+        "def": 3,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "res"],
+    "flaws": ["hp", "spd"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.6",
+    "dfKey": 8
   },
   "Sothe - Zephyr": {
     "id": "Sothe - Zephyr",

@@ -1377,6 +1377,34 @@
       "Atk Smoke 4": 5
     }
   },
+  "Laegjarn - Flame Miracle": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Chosen Axe": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Blue Skies 1": 2,
+      "Blue Skies 2": 3,
+      "Blue Skies 3": 4,
+      "Blue-Sky Gust": 5
+    },
+    "skillB": {
+      "Wyvern Flight 1": 2,
+      "Wyvern Flight 2": 3,
+      "Wyvern Flight 3": 4,
+      "Blue-Sky Wyvern": 5
+    },
+    "skillC": {
+      "Resolving Flame": 5
+    }
+  },
   "Laevatein - Searing Steel": {
     "weapon": {
       "Iron Sword": 1,
@@ -7239,6 +7267,38 @@
     },
     "skillX": {
       "Lull Echo": 5
+    }
+  },
+  "Alm - For Others' Sake": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Ice Falchion": 5
+    },
+    "assist": {
+      "Reposition": 3,
+      "Reposition Gait": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4,
+      "Shatter Slash": 5
+    },
+    "skillA": {
+      "Blessed Bow": 5
+    },
+    "skillB": {
+      "Atk/Spd Link 1": 2,
+      "Atk/Spd Link 2": 3,
+      "Atk/Spd Link 3": 4,
+      "Atk/Spd Favor": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Null Pulse Follow": 5
     }
   },
   "Lukas - Sharp Soldier": {
@@ -20149,6 +20209,38 @@
       "Silence Ward 4": 5
     }
   },
+  "Micaiah - Beyond Conflict": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 3,
+      "Dawning Light": 5
+    },
+    "assist": {
+      "Ardent Sacrifice": 3,
+      "Maiden's Solace": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Glacies": 4,
+      "Ice Edge": 5
+    },
+    "skillA": {
+      "Atk/Res Catch 1": 2,
+      "Atk/Res Catch 2": 3,
+      "Atk/Res Catch 3": 4,
+      "Atk/Res Airspace": 5
+    },
+    "skillB": {
+      "Yune's Chirps": 5
+    },
+    "skillC": {
+      "Atk/Res Rein 1": 2,
+      "Atk/Res Rein 2": 3,
+      "Atk/Res Rein 3": 4,
+      "A/R Crux: Ploy": 5
+    }
+  },
   "Sothe - Zephyr": {
     "weapon": {
       "Iron Dagger": 1,
@@ -22835,7 +22927,8 @@
       "Thunder": 1,
       "Elthunder": 2,
       "Blárlion": 3,
-      "Blárlion+": 5
+      "Blárlion+": 5,
+      "Clever Notations": 5
     },
     "assist": {
       "Draw Back": 3

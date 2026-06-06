@@ -1023,6 +1023,14 @@
     "icon": "skillB/Chaos_Torrent",
     "last": true
   },
+  "Yune's Chirps": {
+    "id": "Yune's Chirps",
+    "name": "真芸娜的低語",
+    "sp": 400,
+    "exclusive": ["Micaiah - Beyond Conflict"],
+    "icon": "skillB/Yune's_Chirps",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -3121,6 +3129,15 @@
     "sp": 300,
     "rules": "learner.wielderFlying",
     "icon": "skillB/Wyvern_Rift",
+    "last": true
+  },
+  "Blue-Sky Wyvern": {
+    "id": "Blue-Sky Wyvern",
+    "name": "飛龍碧空",
+    "sp": 400,
+    "rules": "learner.wielderFlying",
+    "prev": ["Wyvern Flight 3"],
+    "icon": "skillB/Blue-Sky_Wyvern",
     "last": true
   },
   "Guard Bearing 1": {

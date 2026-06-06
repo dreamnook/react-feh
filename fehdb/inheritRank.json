@@ -15780,6 +15780,19 @@
     "skillB": { "Rejuvenate": { "sp": 400, "rarity": 5 } },
     "skillC": { "Preempt: Ploy": { "sp": 300, "rarity": 5 } }
   },
+  "Laegjarn - Flame Miracle": {
+    "score": 460,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "chosen",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Blue-Sky Gust": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Blue-Sky Wyvern": { "sp": 400, "rarity": 5 } }
+  },
   "Lyon - Twilight Amends": {
     "score": 460,
     "scoreTotal": 1104,
@@ -17275,6 +17288,20 @@
     "skillB": { "Spd/Res Detect": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
   },
+  "Micaiah - Beyond Conflict": {
+    "score": 530,
+    "scoreTotal": 1325,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1250,
+    "feather": 1000,
+    "bst": 189,
+    "assist": { "Ardent Sacrifice": { "sp": 150, "rarity": 5 } },
+    "special": { "Ice Edge": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Airspace": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/R Crux: Ploy": { "sp": 300, "rarity": 5 } }
+  },
   "Marth - Masked Gladiator": {
     "score": 530,
     "scoreTotal": 1325,
@@ -17708,6 +17735,20 @@
     "skillA": { "Blue-Sky Gust": { "sp": 300, "rarity": 5 } },
     "skillB": { "Heavenly Soar": { "sp": 400, "rarity": 5 } },
     "skillC": { "Null Uplift A/S": { "sp": 300, "rarity": 5 } }
+  },
+  "Alm - For Others' Sake": {
+    "score": 530,
+    "scoreTotal": 1590,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 204,
+    "assist": { "Reposition Gait": { "sp": 400, "rarity": 5 } },
+    "special": { "Shatter Slash": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Atk/Spd Favor": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Null Pulse Follow": { "sp": 300, "rarity": 5 } }
   },
   "Lucina - Shadows of Fate": {
     "score": 530,

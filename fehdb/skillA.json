@@ -591,6 +591,14 @@
     "icon": "skillA/Final_Say",
     "last": true
   },
+  "Blessed Bow": {
+    "id": "Blessed Bow",
+    "name": "聖潔之弓",
+    "sp": 300,
+    "exclusive": ["Alm - For Others' Sake"],
+    "icon": "skillA/Blessed_Bow",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",
@@ -4504,7 +4512,17 @@
     "name": "攻擊速度的領空",
     "sp": 300,
     "rules": "flying",
+    "prev": ["Atk/Spd Catch 3"],
     "icon": "skillA/Atk_Spd_Airspace",
+    "last": true
+  },
+  "Atk/Res Airspace": {
+    "id": "Atk/Res Airspace",
+    "name": "攻擊魔防的領空",
+    "sp": 300,
+    "rules": "flying",
+    "prev": ["Atk/Res Catch 3"],
+    "icon": "skillA/Atk_Res_Airspace",
     "last": true
   },
   "Trample": {

@@ -3885,7 +3885,9 @@
             "Robin - Vessels of Fate"
           ]
         },
-        "harmonized": { "5": ["Mia - Harmonic Blades"] }
+        "harmonized": {
+          "5": ["Mia - Harmonic Blades", "Alm - For Others' Sake"]
+        }
       },
       "id": "Reposition",
       "name": "帶回",
@@ -3895,7 +3897,8 @@
     "Reposition Gait": {
       "pool": {
         "emblem": { "5": ["Byleth - Of the Academy"] },
-        "aided": { "5": ["Dagr - Sunny Bloom"] }
+        "aided": { "5": ["Dagr - Sunny Bloom"] },
+        "harmonized": { "5": ["Alm - For Others' Sake"] }
       },
       "id": "Reposition Gait",
       "name": "帶回・步法",
@@ -4328,7 +4331,8 @@
             "Lyn - Wind's Embrace"
           ]
         },
-        "duo": { "5": ["Micaiah - Dawn Wind's Duo"] }
+        "duo": { "5": ["Micaiah - Dawn Wind's Duo"] },
+        "harmonized": { "5": ["Micaiah - Beyond Conflict"] }
       },
       "id": "Ardent Sacrifice",
       "name": "獻身",
@@ -5437,6 +5441,7 @@
             "Eikþyrnir - Quieting Strength"
           ]
         },
+        "chosen": { "5": ["Laegjarn - Flame Miracle"] },
         "special": {
           "4": ["Claude - Budding Ambition", "Lethe - Cat Attack"],
           "5": [
@@ -5527,6 +5532,7 @@
         "attuned": { "5": ["Lachesis - Loving Sister"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
         "legendary": { "5": ["Diamant - Fortified King"] },
+        "chosen": { "5": ["Laegjarn - Flame Miracle"] },
         "special": {
           "5": [
             "Yunaka - Stealthy Imitator",
@@ -5776,7 +5782,11 @@
         },
         "duo": { "5": ["Edelgard - Promising Path"] },
         "harmonized": {
-          "5": ["Hector - Into the Fray", "Hilda - Skyward Wings"]
+          "5": [
+            "Hector - Into the Fray",
+            "Alm - For Others' Sake",
+            "Hilda - Skyward Wings"
+          ]
         }
       },
       "id": "Ignis",
@@ -5890,7 +5900,10 @@
       "rules": "bow"
     },
     "Shatter Slash": {
-      "pool": { "rearmed": { "5": ["Ingrid - Chivalrous Heart"] } },
+      "pool": {
+        "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
+        "harmonized": { "5": ["Alm - For Others' Sake"] }
+      },
       "id": "Shatter Slash",
       "name": "破壞強擊",
       "sp": 500,
@@ -6100,7 +6113,9 @@
           ]
         },
         "duo": { "5": ["Julia - Brides of Light", "Veyle - Sister Dragons"] },
-        "harmonized": { "5": ["Ivy - Flurry Embrace"] }
+        "harmonized": {
+          "5": ["Ivy - Flurry Embrace", "Micaiah - Beyond Conflict"]
+        }
       },
       "id": "Glacies",
       "name": "冰華",
@@ -6188,6 +6203,13 @@
       "name": "龍冰",
       "sp": 500,
       "rules": "dragon"
+    },
+    "Ice Edge": {
+      "pool": { "harmonized": { "5": ["Micaiah - Beyond Conflict"] } },
+      "id": "Ice Edge",
+      "name": "冰鋒",
+      "sp": 500,
+      "rules": "learner.cavalry-flying"
     },
     "Growing Flame": {
       "pool": {
@@ -10432,7 +10454,8 @@
           "4": ["Naga - Harvest Divinity", "Flora - Polar-Perfect"],
           "5": ["Micaiah - Wavecrest Maiden"]
         },
-        "duo": { "5": ["Laegjarn - Flame and Frost"] }
+        "duo": { "5": ["Laegjarn - Flame and Frost"] },
+        "harmonized": { "5": ["Micaiah - Beyond Conflict"] }
       },
       "id": "Atk/Res Catch 3",
       "name": "攻擊魔防的先機3",
@@ -10535,6 +10558,14 @@
       "name": "攻擊速度的領空",
       "sp": 300,
       "icon": "skillA/Atk_Spd_Airspace",
+      "rules": "flying"
+    },
+    "Atk/Res Airspace": {
+      "pool": { "harmonized": { "5": ["Micaiah - Beyond Conflict"] } },
+      "id": "Atk/Res Airspace",
+      "name": "攻擊魔防的領空",
+      "sp": 300,
+      "icon": "skillA/Atk_Res_Airspace",
       "rules": "flying"
     },
     "Trample": {
@@ -11427,6 +11458,7 @@
         "attuned": { "5": ["Eliwood - Noble Ablaze"] },
         "emblem": { "5": ["Eirika - Of the Sacred"] },
         "mythic": { "5": ["Baldr - Celestial Sun God"] },
+        "chosen": { "5": ["Laegjarn - Flame Miracle"] },
         "special": {
           "5": ["Thórr - Spring War God", "Mia - Zenith Challenger"]
         },
@@ -11457,6 +11489,7 @@
       "pool": {
         "rearmed": { "5": ["Reginn - Full-Tilt Bride"] },
         "attuned": { "5": ["Eliwood - Noble Ablaze"] },
+        "chosen": { "5": ["Laegjarn - Flame Miracle"] },
         "special": { "5": ["Mia - Zenith Challenger"] }
       },
       "id": "Blue-Sky Gust",
@@ -13537,6 +13570,7 @@
           "4": ["Glen - Sunstone", "Vaida - Dracofang General"],
           "5": ["Arion - Gungnir's Heir"]
         },
+        "chosen": { "5": ["Laegjarn - Flame Miracle"] },
         "special": { "4": ["Minerva - Above the Stars"] }
       },
       "id": "Wyvern Flight 3",
@@ -13554,6 +13588,14 @@
       "name": "飛龍裂空",
       "sp": 300,
       "icon": "skillB/Wyvern_Rift",
+      "rules": "learner.wielderFlying"
+    },
+    "Blue-Sky Wyvern": {
+      "pool": { "chosen": { "5": ["Laegjarn - Flame Miracle"] } },
+      "id": "Blue-Sky Wyvern",
+      "name": "飛龍碧空",
+      "sp": 400,
+      "icon": "skillB/Blue-Sky_Wyvern",
       "rules": "learner.wielderFlying"
     },
     "Guard Bearing 3": {
@@ -13879,7 +13921,9 @@
           ]
         },
         "duo": { "5": ["Robin - Vessels of Fate"] },
-        "harmonized": { "5": ["Hilda - Skyward Wings"] }
+        "harmonized": {
+          "5": ["Alm - For Others' Sake", "Hilda - Skyward Wings"]
+        }
       },
       "id": "Atk/Spd Link 3",
       "name": "攻擊速度連動3",
@@ -13990,7 +14034,9 @@
         "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
         "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
         "special": { "5": ["Marth - Masked Gladiator"] },
-        "harmonized": { "5": ["Hilda - Skyward Wings"] }
+        "harmonized": {
+          "5": ["Alm - For Others' Sake", "Hilda - Skyward Wings"]
+        }
       },
       "id": "Atk/Spd Favor",
       "name": "攻擊速度共鳴",
@@ -16715,7 +16761,9 @@
             "Camilla - Midnight Bloom"
           ]
         },
-        "harmonized": { "5": ["Myrrh - Spring Harmony"] }
+        "harmonized": {
+          "5": ["Myrrh - Spring Harmony", "Micaiah - Beyond Conflict"]
+        }
       },
       "id": "Atk/Res Rein 3",
       "name": "攻擊魔防牽制3",
@@ -16913,7 +16961,10 @@
       "rules": "flying"
     },
     "A/R Crux: Ploy": {
-      "pool": { "#": { "5": ["Ivy - Bewitching Ruler"] } },
+      "pool": {
+        "#": { "5": ["Ivy - Bewitching Ruler"] },
+        "harmonized": { "5": ["Micaiah - Beyond Conflict"] }
+      },
       "id": "A/R Crux: Ploy",
       "name": "攻魔十牽制・謀策",
       "sp": 300,
@@ -18219,7 +18270,9 @@
             "Chrom - Fate-Defying Duo"
           ]
         },
-        "harmonized": { "5": ["Igrene - Sworn Protectors"] }
+        "harmonized": {
+          "5": ["Igrene - Sworn Protectors", "Alm - For Others' Sake"]
+        }
       },
       "id": "Time's Pulse 3",
       "name": "初始之躍動3",
@@ -18340,6 +18393,14 @@
       "name": "追擊之躍動・刃",
       "sp": 300,
       "icon": "skillC/Pulse_On_Blades",
+      "rules": "infantry"
+    },
+    "Null Pulse Follow": {
+      "pool": { "harmonized": { "5": ["Alm - For Others' Sake"] } },
+      "id": "Null Pulse Follow",
+      "name": "追擊之躍動・識破",
+      "sp": 300,
+      "icon": "skillC/Null_Pulse_Follow",
       "rules": "infantry"
     },
     "Infantry Pulse 3": {

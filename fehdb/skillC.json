@@ -882,6 +882,14 @@
     "icon": "skillC/Inaugural_Vassal",
     "last": true
   },
+  "Resolving Flame": {
+    "id": "Resolving Flame",
+    "name": "炎之決心",
+    "sp": 300,
+    "exclusive": ["Laegjarn - Flame Miracle"],
+    "icon": "skillC/Resolving_Flame",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -2863,6 +2871,15 @@
     "rules": "infantry",
     "prev": ["Time's Pulse 3"],
     "icon": "skillC/Pulse_On_Blades",
+    "last": true
+  },
+  "Null Pulse Follow": {
+    "id": "Null Pulse Follow",
+    "name": "追擊之躍動・識破",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Time's Pulse 3"],
+    "icon": "skillC/Null_Pulse_Follow",
     "last": true
   },
   "Infantry Pulse 1": {

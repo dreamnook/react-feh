@@ -3973,6 +3973,16 @@
       "exclusive": ["Roy - Of Binding"],
       "last": true
     },
+    "Ice Falchion": {
+      "id": "Ice Falchion",
+      "name": "龍冰法爾西昂",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Alm - For Others' Sake"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -12721,6 +12731,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Catria - Azure Wing Pair"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Wedding-Bell_Axe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Masking Axe": {
@@ -13832,6 +13865,16 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Lachesis - Loving Sister"],
+      "last": true
+    },
+    "Chosen Axe": {
+      "id": "Chosen Axe",
+      "name": "火炎救世之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Laegjarn - Flame Miracle"],
       "last": true
     },
     "Arcane Downfall": {
@@ -17133,6 +17176,28 @@
       "cd": -1,
       "sp": 400,
       "exclusive": ["Laegjarn - Flame Ascendant"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Flame_of_Múspell_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Damiell Bow": {
@@ -17185,6 +17250,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Neimi - Tearful Archer"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Rapid-Crier_Bow_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Bow of Verdane": {
@@ -28473,6 +28560,36 @@
       "exclusive": ["Céline - Love's Aroma"],
       "last": true
     },
+    "Clever Notations": {
+      "id": "Clever Notations",
+      "name": "知性興趣的手記",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Miriel - Rapier Intellect"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Clever_Notations_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -30845,6 +30962,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Limstella - Living Construct"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Morph_Fimbulvetr_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Caring Conch": {
@@ -31201,6 +31340,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Byleth - Ashen Nightmare"],
+      "last": true
+    },
+    "Dawning Light": {
+      "id": "Dawning Light",
+      "name": "曉暗之光",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Micaiah - Beyond Conflict"],
       "last": true
     },
     "Arc. Caliburnus": {
