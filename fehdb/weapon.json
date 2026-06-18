@@ -3983,6 +3983,16 @@
       "exclusive": ["Alm - For Others' Sake"],
       "last": true
     },
+    "Deluxe BBQ": {
+      "id": "Deluxe BBQ",
+      "name": "特製燒烤",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Sharena - Sea of Hope"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -9063,6 +9073,16 @@
           "res": 4
         }
       },
+      "last": true
+    },
+    "Beach Umbrella": {
+      "id": "Beach Umbrella",
+      "name": "海灘傘",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Alfonse - Sunlit Spirit"],
       "last": true
     },
     "Arcane Qiang": {
@@ -17961,6 +17981,34 @@
     "Arcane Hex Bow": {
       "id": "Arcane Hex Bow",
       "name": "魔器・咒術祕弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Bow"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
+    "Arcane Parasol": {
+      "id": "Arcane Parasol",
+      "name": "魔器・天女的陽傘",
       "mt": 14,
       "cd": -1,
       "sp": 300,
@@ -31350,6 +31398,16 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Micaiah - Beyond Conflict"],
+      "last": true
+    },
+    "Godly Infusions": {
+      "id": "Godly Infusions",
+      "name": "天之大姊么女的祭器",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Baldr - Eternal Shimmer"],
       "last": true
     },
     "Arc. Caliburnus": {

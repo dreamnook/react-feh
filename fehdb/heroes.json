@@ -263,6 +263,55 @@
     "ver": "10.0",
     "dfKey": 8
   },
+  "Alfonse - Sunlit Spirit": {
+    "id": "Alfonse - Sunlit Spirit",
+    "title": "決心熠熠生輝的夏天",
+    "name": "阿爾馮斯",
+    "rarity": [5, 4],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-06-17",
+    "stats": {
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [44, 47, 50],
+        "spd": [11, 14, 17],
+        "def": [44, 47, 50],
+        "res": [34, 38, 41]
+      },
+      "5": {
+        "hp": [37, 41, 44],
+        "atk": [46, 49, 53],
+        "spd": [12, 16, 19],
+        "def": [46, 49, 52],
+        "res": [37, 41, 44]
+      },
+      "4-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 2,
+        "def": 14,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 3,
+        "def": 14,
+        "res": 8
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.6",
+    "dfKey": 8
+  },
   "Sharena - Princess of Askr": {
     "id": "Sharena - Princess of Askr",
     "title": "亞斯克王國的公主",
@@ -450,6 +499,41 @@
     "statMax": 195,
     "book": 9,
     "ver": "9.10",
+    "dfKey": 8
+  },
+  "Sharena - Sea of Hope": {
+    "id": "Sharena - Sea of Hope",
+    "title": "踏向希望之海",
+    "name": "夏蓉",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-06-17",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [46, 49, 53],
+        "def": [35, 38, 41],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 10,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.6",
     "dfKey": 8
   },
   "Anna - Commander": {
@@ -5987,6 +6071,42 @@
     "ver": "10.0",
     "dfKey": 8
   },
+  "Baldr - Eternal Shimmer": {
+    "id": "Baldr - Eternal Shimmer",
+    "title": "四季如夏的閃耀女神",
+    "name": "巴德爾",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "flying",
+    "pool": "duo",
+    "bst": 220,
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-06-17",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 51],
+        "spd": [46, 49, 53],
+        "def": [24, 28, 31],
+        "res": [21, 24, 27]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 6,
+        "res": 7
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.6",
+    "dfKey": 8
+  },
   "Höðr - Dusk Shadow God": {
     "id": "Höðr - Dusk Shadow God",
     "title": "夕影之神",
@@ -6023,6 +6143,41 @@
     "book": 9,
     "ver": "9.7",
     "dfKey": 7
+  },
+  "Höðr - Twilight Breeze": {
+    "id": "Höðr - Twilight Breeze",
+    "title": "吹拂夕影的海風",
+    "name": "霍德爾",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-bow",
+    "moveType": "flying",
+    "pool": "rearmed",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-06-17",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 51],
+        "spd": [30, 33, 36],
+        "def": [21, 24, 28],
+        "res": [46, 49, 53]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 7,
+        "def": 5,
+        "res": 10
+      }
+    },
+    "assets": ["def", "res"],
+    "flaws": ["hp"],
+    "statMin": 194,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.6",
+    "dfKey": 8
   },
   "Váli - God of Vengeance": {
     "id": "Váli - God of Vengeance",
@@ -42066,20 +42221,34 @@
     "id": "Anna - Secret Charmer",
     "title": "充滿祕密的新娘",
     "name": "安娜",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "weaponType": "green-bow",
     "moveType": "cavalry",
-    "pool": "special",
+    "pool": "grail",
     "appearsIn": ["Awakening"],
     "releaseDate": "2023-05-19",
     "stats": {
+      "4": {
+        "hp": [32, 35, 38],
+        "atk": [38, 41, 45],
+        "spd": [41, 44, 47],
+        "def": [17, 20, 23],
+        "res": [19, 22, 25]
+      },
       "5": {
         "hp": [34, 38, 41],
         "atk": [40, 43, 47],
         "spd": [43, 46, 49],
         "def": [19, 22, 25],
         "res": [21, 25, 28]
+      },
+      "4-1": {
+        "hp": 15,
+        "atk": 13,
+        "spd": 11,
+        "def": 4,
+        "res": 2
       },
       "5-1": {
         "hp": 16,

@@ -153,6 +153,30 @@
       "Preempt: Ploy": 5
     }
   },
+  "Alfonse - Sunlit Spirit": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Beach Umbrella": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Bonfire": 4,
+      "Ascendant King": 5
+    },
+    "skillA": {
+      "Atk/Def Clash 1": 1,
+      "Atk/Def Clash 2": 2,
+      "Atk/Def Clash 3": 4
+    },
+    "skillC": {
+      "Fortify Def 1": 2,
+      "Fortify Def 2": 3,
+      "Fortify Def 3": 4,
+      "A/D Outcry Dull": 5
+    }
+  },
   "Sharena - Princess of Askr": {
     "weapon": {
       "Iron Lance": 1,
@@ -281,6 +305,34 @@
     },
     "skillC": {
       "Entwined Onrush": 5
+    }
+  },
+  "Sharena - Sea of Hope": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Deluxe BBQ": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Swift Specter": 5
+    },
+    "skillB": {
+      "Speedtaker 1": 2,
+      "Speedtaker 2": 3,
+      "Speedtaker 3": 4,
+      "A/S Taker Burst": 5
+    },
+    "skillC": {
+      "Truly Yours": 5
     }
   },
   "Anna - Commander": {
@@ -4388,6 +4440,34 @@
       "Shadow Shift 4": 5
     }
   },
+  "Baldr - Eternal Shimmer": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Godly Infusions": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "Wind Edge": 5
+    },
+    "skillA": {
+      "Heaven's Ethos": 5
+    },
+    "skillB": {
+      "Magic Gambit 1": 2,
+      "Magic Gambit 2": 3,
+      "Magic Gambit 3": 4,
+      "Demonic Force": 5
+    },
+    "skillC": {
+      "Strat Assault 1": 2,
+      "Strat Assault 2": 3,
+      "Strat Assault 3": 4,
+      "Strat Assault 4": 5
+    }
+  },
   "Höðr - Dusk Shadow God": {
     "weapon": {
       "Iron Bow": 1,
@@ -4414,6 +4494,34 @@
     },
     "skillC": {
       "Truth Keeper": 5
+    }
+  },
+  "Höðr - Twilight Breeze": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 4,
+      "Arcane Parasol": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4,
+      "Ice Wall": 5
+    },
+    "skillA": {
+      "Atk/Res Catch 1": 2,
+      "Atk/Res Catch 2": 3,
+      "Atk/Res Catch 3": 4,
+      "Atk/Res Airspace": 5
+    },
+    "skillB": {
+      "Atk/Def Snag 1": 2,
+      "Atk/Def Snag 2": 3,
+      "Atk/Def Snag 3": 4,
+      "A/D Detect Aerial": 5
+    },
+    "skillC": {
+      "Verity Keeper": 5
     }
   },
   "Váli - God of Vengeance": {

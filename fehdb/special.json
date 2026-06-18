@@ -754,7 +754,7 @@
     "sp": 500,
     "cd": 4,
     "prev": ["Bonfire"],
-    "exclusive": ["Alfonse - Opening Miracle"],
+    "exclusive": ["Alfonse - Opening Miracle", "Alfonse - Sunlit Spirit"],
     "last": true
   },
   "United Storm": {
@@ -958,15 +958,6 @@
     "rules": "not.white-staff",
     "last": true
   },
-  "Deadeye": {
-    "id": "Deadeye",
-    "name": "狙擊",
-    "sp": 500,
-    "cd": 3,
-    "prev": ["Glimmer"],
-    "rules": "bow",
-    "last": true
-  },
   "Astra": {
     "id": "Astra",
     "name": "流星",
@@ -1021,6 +1012,15 @@
     "rules": "learner.infantry-armored-not-staff",
     "last": true
   },
+  "Wind Edge": {
+    "id": "Wind Edge",
+    "name": "風鋒",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Astra"],
+    "rules": "learner.cavalry-flying-not-staff",
+    "last": true
+  },
   "Galeforce": {
     "id": "Galeforce",
     "name": "疾風迅雷",
@@ -1037,6 +1037,15 @@
     "cd": 5,
     "prev": ["Astra"],
     "rules": "learner.cavalry-flying-melee-def-dmger",
+    "last": true
+  },
+  "Deadeye": {
+    "id": "Deadeye",
+    "name": "狙擊",
+    "sp": 500,
+    "cd": 3,
+    "prev": ["Glimmer"],
+    "rules": "bow",
     "last": true
   },
   "Retribution": {
@@ -1361,7 +1370,7 @@
     "sp": 500,
     "cd": 5,
     "prev": ["Glacies"],
-    "rules": "learner.cavalry-flying",
+    "rules": "learner.cavalry-flying-not-staff",
     "last": true
   },
   "Rising Flame": {

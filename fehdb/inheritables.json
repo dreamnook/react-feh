@@ -1431,6 +1431,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Parasol": {
+        "pool": { "rearmed": { "5": ["Höðr - Twilight Breeze"] } },
+        "id": "Arcane Parasol",
+        "name": "魔器・天女的陽傘",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Bow+": {
         "pool": {
           "#": { "3": ["Rebecca - Wildflower", "Virion - Elite Archer"] }
@@ -4722,6 +4729,7 @@
             "Kronya - Gleaming Blade",
             "Linus - Mad Dog",
             "Xane - Fickle Dragon",
+            "Anna - Secret Charmer",
             "Takumi - Troubled Heart"
           ]
         },
@@ -4775,7 +4783,6 @@
             "Ryoma - Samurai at Ease",
             "Fae - Holiday Dear",
             "Katarina - Torchlit Wanderer",
-            "Anna - Secret Charmer",
             "Zelgius - Ninja Knight",
             "Tharja - Shadow Ninja",
             "Yunaka - Spirited Envoy",
@@ -4984,26 +4991,6 @@
       "sp": 200,
       "rules": "not.white-staff"
     },
-    "Deadeye": {
-      "pool": {
-        "#": { "5": ["Shinon - Scathing Archer"] },
-        "rearmed": {
-          "5": ["Tana - Soaring Princess", "Alcryst - Tender Archer"]
-        },
-        "legendary": { "5": ["Hinoka - Thundering Wings"] },
-        "mythic": { "5": ["Ullr - The Bowmaster"] },
-        "special": {
-          "5": ["Shinon - Sharptongue Ninja", "Petra - Faraway Sun"]
-        },
-        "duo": {
-          "5": ["Chrom - Fate-Defying Duo", "Shamir - Heartbeats United"]
-        }
-      },
-      "id": "Deadeye",
-      "name": "狙擊",
-      "sp": 500,
-      "rules": "bow"
-    },
     "Astra": {
       "pool": {
         "#": {
@@ -5075,7 +5062,13 @@
             "Mia - Zenith Challenger"
           ]
         },
-        "duo": { "5": ["Freyja - Parallel Hearts", "Ash - Divergent Brides"] },
+        "duo": {
+          "5": [
+            "Freyja - Parallel Hearts",
+            "Ash - Divergent Brides",
+            "Baldr - Eternal Shimmer"
+          ]
+        },
         "harmonized": {
           "5": [
             "Leif - Destined Scions",
@@ -5168,6 +5161,13 @@
       "sp": 500,
       "rules": "learner.infantry-armored-not-staff"
     },
+    "Wind Edge": {
+      "pool": { "duo": { "5": ["Baldr - Eternal Shimmer"] } },
+      "id": "Wind Edge",
+      "name": "風鋒",
+      "sp": 500,
+      "rules": "learner.cavalry-flying-not-staff"
+    },
     "Galeforce": {
       "pool": {
         "#": {
@@ -5199,6 +5199,26 @@
       "name": "疾風迅雷・霞",
       "sp": 500,
       "rules": "learner.cavalry-flying-melee-def-dmger"
+    },
+    "Deadeye": {
+      "pool": {
+        "#": { "5": ["Shinon - Scathing Archer"] },
+        "rearmed": {
+          "5": ["Tana - Soaring Princess", "Alcryst - Tender Archer"]
+        },
+        "legendary": { "5": ["Hinoka - Thundering Wings"] },
+        "mythic": { "5": ["Ullr - The Bowmaster"] },
+        "special": {
+          "5": ["Shinon - Sharptongue Ninja", "Petra - Faraway Sun"]
+        },
+        "duo": {
+          "5": ["Chrom - Fate-Defying Duo", "Shamir - Heartbeats United"]
+        }
+      },
+      "id": "Deadeye",
+      "name": "狙擊",
+      "sp": 500,
+      "rules": "bow"
     },
     "Reprisal": {
       "pool": {
@@ -5454,7 +5474,8 @@
             "Framme - Spring Fangirl",
             "Yunaka - Stealthy Imitator",
             "Felix - Zealous Yearning",
-            "Thórr - Spring War God"
+            "Thórr - Spring War God",
+            "Sharena - Sea of Hope"
           ]
         },
         "duo": { "5": ["Corrin - Young Kinship", "Baldr - New Year's Elite"] },
@@ -5537,7 +5558,8 @@
           "5": [
             "Yunaka - Stealthy Imitator",
             "Felix - Zealous Yearning",
-            "Thórr - Spring War God"
+            "Thórr - Spring War God",
+            "Sharena - Sea of Hope"
           ]
         },
         "duo": { "5": ["Baldr - New Year's Elite"] },
@@ -5637,7 +5659,8 @@
             "Owain - Devoted Defender",
             "Minerva - Verdant Dragoon",
             "Heath - Wyvern Ninja",
-            "Lissa - Littlest Princess"
+            "Lissa - Littlest Princess",
+            "Alfonse - Sunlit Spirit"
           ],
           "5": [
             "Hríd - Island Ice Prince",
@@ -6072,6 +6095,7 @@
           "5": [
             "Marianne - Cursed Blessing",
             "Soren - Isolated Strategist",
+            "Höðr - Twilight Breeze",
             "Vanitas - Hollow God"
           ]
         },
@@ -6124,7 +6148,9 @@
     },
     "Ice Wall": {
       "pool": {
-        "rearmed": { "5": ["Soren - Isolated Strategist"] },
+        "rearmed": {
+          "5": ["Soren - Isolated Strategist", "Höðr - Twilight Breeze"]
+        },
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
         "mythic": {
           "5": [
@@ -6209,7 +6235,7 @@
       "id": "Ice Edge",
       "name": "冰鋒",
       "sp": 500,
-      "rules": "learner.cavalry-flying"
+      "rules": "learner.cavalry-flying-not-staff"
     },
     "Growing Flame": {
       "pool": {
@@ -7447,7 +7473,7 @@
           ]
         },
         "grail": {
-          "4": ["Bernadetta - Late Hibernator"],
+          "4": ["Bernadetta - Late Hibernator", "Anna - Secret Charmer"],
           "5": [
             "Innes - Frelian Moonlight",
             "Felix - Icy Gift Giver",
@@ -7494,7 +7520,6 @@
             "Merric - Changing Winds",
             "Shanna - Bridal Novice",
             "Heather - Wandering Ninja",
-            "Anna - Secret Charmer",
             "Tanith - Forthright Heart",
             "Tharja - Shadow Ninja",
             "Yunaka - Spirited Envoy",
@@ -7800,13 +7825,13 @@
     },
     "Remote Sparrow": {
       "pool": {
-        "grail": { "5": ["Bernadetta - Late Hibernator"] },
+        "grail": {
+          "5": ["Bernadetta - Late Hibernator", "Anna - Secret Charmer"]
+        },
         "ascended": { "5": ["Merric - Wind Pontifex"] },
         "legendary": { "5": ["Camilla - Alluring Darkness"] },
         "mythic": { "5": ["Heiðr - Innocent Goddess"] },
-        "special": {
-          "5": ["Heather - Wandering Ninja", "Anna - Secret Charmer"]
-        },
+        "special": { "5": ["Heather - Wandering Ninja"] },
         "duo": {
           "5": ["Kagero - Bond Unwavering", "Shamir - Heartbeats United"]
         },
@@ -10449,6 +10474,7 @@
           "3": ["Vanessa - Dutiful Rider"],
           "5": ["Hapi - Drawn-Out Sigh", "Letizia - Curse Director"]
         },
+        "rearmed": { "5": ["Höðr - Twilight Breeze"] },
         "mythic": { "5": ["Loki - Trickster God", "Höðr - Dusk Shadow God"] },
         "special": {
           "4": ["Naga - Harvest Divinity", "Flora - Polar-Perfect"],
@@ -10561,7 +10587,10 @@
       "rules": "flying"
     },
     "Atk/Res Airspace": {
-      "pool": { "harmonized": { "5": ["Micaiah - Beyond Conflict"] } },
+      "pool": {
+        "rearmed": { "5": ["Höðr - Twilight Breeze"] },
+        "harmonized": { "5": ["Micaiah - Beyond Conflict"] }
+      },
       "id": "Atk/Res Airspace",
       "name": "攻擊魔防的領空",
       "sp": 300,
@@ -10609,6 +10638,7 @@
             "Larcei - Bride of Astra",
             "Nino - Burst of Summer",
             "Felix - Savant's Service",
+            "Sharena - Sea of Hope",
             "Marth - Masked Gladiator"
           ]
         },
@@ -10813,7 +10843,10 @@
       "rules": "infantry"
     },
     "Swift Specter": {
-      "pool": { "harmonized": { "5": ["Celica - With Grace"] } },
+      "pool": {
+        "special": { "5": ["Sharena - Sea of Hope"] },
+        "harmonized": { "5": ["Celica - With Grace"] }
+      },
       "id": "Swift Specter",
       "name": "攻速無缺・鬼沒",
       "sp": 300,
@@ -10937,6 +10970,7 @@
           ]
         },
         "special": {
+          "4": ["Alfonse - Sunlit Spirit"],
           "5": ["Flavia - Bold Bride", "Ephraim - Sunshine Valiant"]
         },
         "duo": { "5": ["Sigurd - Honorable Nobles"] }
@@ -12433,9 +12467,9 @@
           "3": ["Oboro - Fierce Fighter", "Roy - Young Lion"],
           "5": ["Ephraim - Restoration Lord"]
         },
+        "grail": { "4": ["Anna - Secret Charmer"] },
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
-        "special": { "5": ["Anna - Secret Charmer"] },
         "duo": { "5": ["Laegjarn - Flame and Frost"] }
       },
       "id": "Seal Def 3",
@@ -12446,8 +12480,8 @@
     },
     "Seal Def 4": {
       "pool": {
+        "grail": { "5": ["Anna - Secret Charmer"] },
         "legendary": { "5": ["Sigurd - Fated Holy Knight"] },
-        "special": { "5": ["Anna - Secret Charmer"] },
         "duo": { "5": ["Laegjarn - Flame and Frost"] }
       },
       "id": "Seal Def 4",
@@ -14078,6 +14112,7 @@
           "5": ["Isadora - Escort of Pherae"]
         },
         "grail": { "4": ["Luthier - Spring Hopes"] },
+        "rearmed": { "5": ["Höðr - Twilight Breeze"] },
         "special": { "4": ["Kaden - Refreshed Kitsune"] }
       },
       "id": "Atk/Def Snag 3",
@@ -14186,6 +14221,14 @@
       "icon": "skillB/Spd_Res_Detect",
       "rules": "learner.cavalry-flying-not-staff"
     },
+    "A/D Detect Aerial": {
+      "pool": { "rearmed": { "5": ["Höðr - Twilight Breeze"] } },
+      "id": "A/D Detect Aerial",
+      "name": "攻防的看破・俯瞰",
+      "sp": 300,
+      "icon": "skillB/A_D_Detect_Aerial",
+      "rules": "learner.cavalry-flying-ranged-not-staff"
+    },
     "A/R Detect Aerial": {
       "pool": {
         "#": { "5": ["Ivy - Bewitching Ruler"] },
@@ -14200,10 +14243,10 @@
     "S/D Detect Aerial": {
       "pool": { "special": { "5": ["Eir - Until Death"] } },
       "id": "S/D Detect Aerial",
-      "name": "速房的看破・俯瞰",
+      "name": "速防的看破・俯瞰",
       "sp": 300,
       "icon": "skillB/S_D_Detect_Aerial",
-      "rules": "learner.cavalry-flying-not-staff"
+      "rules": "learner.cavalry-flying-ranged-not-staff"
     },
     "S/R Detect Aerial": {
       "pool": { "special": { "5": ["Céline - Love's Aroma"] } },
@@ -14701,33 +14744,6 @@
       "sp": 300,
       "icon": "skillB/Lull_Spd_Res_4",
       "rules": "learner.infantry-cavalry"
-    },
-    "A/R Lull Finish": {
-      "pool": {
-        "aided": { "5": ["Lute - Limitless Curiosity"] },
-        "legendary": { "5": ["Robin - Exalt's Other Half"] }
-      },
-      "id": "A/R Lull Finish",
-      "name": "奧秘・攻魔靜謐",
-      "sp": 300,
-      "icon": "skillB/A_R_Lull_Finish",
-      "rules": "infantry"
-    },
-    "S/D Lull Finish": {
-      "pool": { "special": { "5": ["Yunaka - Stealthy Imitator"] } },
-      "id": "S/D Lull Finish",
-      "name": "奧秘・速防靜謐",
-      "sp": 300,
-      "icon": "skillB/S_D_Lull_Finish",
-      "rules": "infantry"
-    },
-    "S/R Lull Finish": {
-      "pool": { "special": { "5": ["Nino - Burst of Summer"] } },
-      "id": "S/R Lull Finish",
-      "name": "奧秘・速魔靜謐",
-      "sp": 300,
-      "icon": "skillB/S_R_Lull_Finish",
-      "rules": "infantry"
     },
     "Repel 3": {
       "pool": {
@@ -15765,18 +15781,6 @@
       "icon": "skillB/Potent_4",
       "rules": "learner.infantry-cavalry-flying-melee-def-dmger"
     },
-    "Potent Finish": {
-      "pool": {
-        "special": {
-          "5": ["Larcei - Bride of Astra", "Lapis - Forager of the Sea"]
-        }
-      },
-      "id": "Potent Finish",
-      "name": "奧秘・神速",
-      "sp": 300,
-      "icon": "skillB/Potent_Finish",
-      "rules": "learner.wielderInfantry"
-    },
     "Laguz Friend 3": {
       "pool": {
         "attuned": { "5": ["Timerra - Desert Warrior"] },
@@ -15818,7 +15822,8 @@
     "Magic Gambit 3": {
       "pool": {
         "#": { "5": ["Byleth - Ashen Nightmare"] },
-        "special": { "5": ["Robin - Fated Vessel"] }
+        "special": { "5": ["Robin - Fated Vessel"] },
+        "duo": { "5": ["Baldr - Eternal Shimmer"] }
       },
       "id": "Magic Gambit 3",
       "name": "底牌・魔道3",
@@ -15835,7 +15840,10 @@
       "rules": "tome"
     },
     "Demonic Force": {
-      "pool": { "#": { "5": ["Byleth - Ashen Nightmare"] } },
+      "pool": {
+        "#": { "5": ["Byleth - Ashen Nightmare"] },
+        "duo": { "5": ["Baldr - Eternal Shimmer"] }
+      },
       "id": "Demonic Force",
       "name": "魔之精隨・不屈",
       "sp": 400,
@@ -15935,7 +15943,8 @@
         "emblem": { "5": ["Lyn - Of Blazing"] },
         "legendary": {
           "5": ["Ayra - Supreme Astra", "Hinoka - Thundering Wings"]
-        }
+        },
+        "special": { "5": ["Sharena - Sea of Hope"] }
       },
       "id": "Speedtaker 3",
       "name": "速度吸收3",
@@ -15958,6 +15967,53 @@
       "sp": 300,
       "icon": "skillB/Speedtaker_4",
       "rules": "learner.infantry-flying-def-dmger"
+    },
+    "A/S Taker Burst": {
+      "pool": { "special": { "5": ["Sharena - Sea of Hope"] } },
+      "id": "A/S Taker Burst",
+      "name": "攻速吸收・初擊躍動",
+      "sp": 400,
+      "icon": "skillB/A_S_Taker_Burst",
+      "rules": "learner.infantry-flying-def-dmger"
+    },
+    "Potent Finish": {
+      "pool": {
+        "special": {
+          "5": ["Larcei - Bride of Astra", "Lapis - Forager of the Sea"]
+        }
+      },
+      "id": "Potent Finish",
+      "name": "奧秘・神速",
+      "sp": 300,
+      "icon": "skillB/Potent_Finish",
+      "rules": "learner.wielderInfantry"
+    },
+    "A/R Lull Finish": {
+      "pool": {
+        "aided": { "5": ["Lute - Limitless Curiosity"] },
+        "legendary": { "5": ["Robin - Exalt's Other Half"] }
+      },
+      "id": "A/R Lull Finish",
+      "name": "奧秘・攻魔靜謐",
+      "sp": 300,
+      "icon": "skillB/A_R_Lull_Finish",
+      "rules": "infantry"
+    },
+    "S/D Lull Finish": {
+      "pool": { "special": { "5": ["Yunaka - Stealthy Imitator"] } },
+      "id": "S/D Lull Finish",
+      "name": "奧秘・速防靜謐",
+      "sp": 300,
+      "icon": "skillB/S_D_Lull_Finish",
+      "rules": "infantry"
+    },
+    "S/R Lull Finish": {
+      "pool": { "special": { "5": ["Nino - Burst of Summer"] } },
+      "id": "S/R Lull Finish",
+      "name": "奧秘・速魔靜謐",
+      "sp": 300,
+      "icon": "skillB/S_R_Lull_Finish",
+      "rules": "infantry"
     },
     "Pair Up 3": {
       "pool": {
@@ -17129,6 +17185,7 @@
           "5": ["Ephraim - Legendary Lord", "Seliph - Scion of Light"]
         },
         "special": {
+          "4": ["Alfonse - Sunlit Spirit"],
           "5": [
             "Xander - Spring Prince",
             "Joshua - Tropical Gambler",
@@ -17267,7 +17324,10 @@
       "rules": "learner.cavalry-melee"
     },
     "A/D Outcry Dull": {
-      "pool": { "#": { "5": ["Lowen - Apprentice Knight"] } },
+      "pool": {
+        "#": { "5": ["Lowen - Apprentice Knight"] },
+        "special": { "5": ["Alfonse - Sunlit Spirit"] }
+      },
       "id": "A/D Outcry Dull",
       "name": "攻防鼓譟・強化無效",
       "sp": 300,
@@ -19967,6 +20027,7 @@
     "Strat Assault 3": {
       "pool": {
         "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "duo": { "5": ["Baldr - Eternal Shimmer"] },
         "harmonized": { "5": ["Hilda - Skyward Wings"] }
       },
       "id": "Strat Assault 3",
@@ -19978,6 +20039,7 @@
     "Strat Assault 4": {
       "pool": {
         "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "duo": { "5": ["Baldr - Eternal Shimmer"] },
         "harmonized": { "5": ["Hilda - Skyward Wings"] }
       },
       "id": "Strat Assault 4",
@@ -20049,6 +20111,7 @@
     },
     "C Feud 3": {
       "pool": {
+        "grail": { "4": ["Anna - Secret Charmer"] },
         "rearmed": { "5": ["Tibarn - Storm King"] },
         "legendary": { "5": ["Xander - Gallant King"] },
         "mythic": {
@@ -20058,7 +20121,7 @@
             "Lyn - Plains Wind"
           ]
         },
-        "special": { "5": ["Elm - Resolute Grouch", "Anna - Secret Charmer"] },
+        "special": { "5": ["Elm - Resolute Grouch"] },
         "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] },
         "harmonized": { "5": ["Lysithea - Gifted Students"] }
       },

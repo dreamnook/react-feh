@@ -4045,6 +4045,19 @@
     "skillB": { "A/D Near Trace 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 4 } }
   },
+  "Alfonse - Sunlit Spirit": {
+    "score": 196,
+    "scoreTotal": 455,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 300,
+    "bst": 196,
+    "special": { "Bonfire": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "A/D Outcry Dull": { "sp": 300, "rarity": 5 } }
+  },
   "Chulainn - Leading Gladiator": {
     "score": 196,
     "scoreTotal": 455,
@@ -11016,6 +11029,20 @@
     "skillB": { "Vantage 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Spur Atk/Def 2": { "sp": 240, "rarity": 5 } }
   },
+  "Anna - Secret Charmer": {
+    "score": 299,
+    "scoreTotal": 840,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 1040,
+    "feather": 300,
+    "bst": 174,
+    "special": { "Luna": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "C Feud 3": { "sp": 240, "rarity": 4 } }
+  },
   "Nino - Spirited Sorcerer": {
     "score": 299,
     "scoreTotal": 840,
@@ -13398,6 +13425,19 @@
     "skillB": { "Atk/Res Havoc": { "sp": 300, "rarity": 5 } },
     "skillC": { "Preempt: Ploy": { "sp": 300, "rarity": 5 } }
   },
+  "Höðr - Twilight Breeze": {
+    "score": 450,
+    "scoreTotal": 990,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Res Airspace": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/D Detect Aerial": { "sp": 300, "rarity": 5 } }
+  },
   "Noire - Of Two Minds": {
     "score": 450,
     "scoreTotal": 990,
@@ -15502,20 +15542,6 @@
     "skillB": { "S/R Far Trace 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
   },
-  "Anna - Secret Charmer": {
-    "score": 318,
-    "scoreTotal": 1102,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 1040,
-    "feather": 1000,
-    "bst": 174,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Seal Def 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "C Feud 3": { "sp": 240, "rarity": 5 } }
-  },
   "Henriette - Overflowing Love": {
     "score": 318,
     "scoreTotal": 1102,
@@ -17154,6 +17180,19 @@
     "skillA": { "Divine Specter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Heavenly Soar": { "sp": 400, "rarity": 5 } }
   },
+  "Sharena - Sea of Hope": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Swift Specter": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/S Taker Burst": { "sp": 400, "rarity": 5 } }
+  },
   "Hector - Into the Fray": {
     "score": 530,
     "scoreTotal": 1272,
@@ -17192,6 +17231,19 @@
     "special": { "Archrival": { "sp": 500, "rarity": 5 } },
     "skillB": { "Heavenly Soar": { "sp": 400, "rarity": 5 } },
     "skillC": { "Shadow Shift 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Baldr - Eternal Shimmer": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Wind Edge": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Demonic Force": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Strat Assault 4": { "sp": 300, "rarity": 5 } }
   },
   "Byleth - Proven Professor": {
     "score": 500,

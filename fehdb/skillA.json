@@ -599,6 +599,14 @@
     "icon": "skillA/Blessed_Bow",
     "last": true
   },
+  "Heaven's Ethos": {
+    "id": "Heaven's Ethos",
+    "name": "真替天行道",
+    "sp": 300,
+    "exclusive": ["Baldr - Eternal Shimmer"],
+    "icon": "skillA/Heaven's_Ethos",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

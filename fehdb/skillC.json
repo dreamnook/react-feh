@@ -890,6 +890,22 @@
     "icon": "skillC/Resolving_Flame",
     "last": true
   },
+  "Truly Yours": {
+    "id": "Truly Yours",
+    "name": "真你的夏蓉",
+    "sp": 300,
+    "exclusive": ["Sharena - Sea of Hope"],
+    "icon": "skillC/Truly_Yours",
+    "last": true
+  },
+  "Verity Keeper": {
+    "id": "Verity Keeper",
+    "name": "真・真實的辯護者",
+    "sp": 300,
+    "exclusive": ["Höðr - Twilight Breeze"],
+    "icon": "skillC/Verity_Keeper",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

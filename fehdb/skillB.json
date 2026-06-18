@@ -3998,6 +3998,15 @@
     "icon": "skillB/Spd_Res_Detect",
     "last": true
   },
+  "A/D Detect Aerial": {
+    "id": "A/D Detect Aerial",
+    "name": "攻防的看破・俯瞰",
+    "sp": 300,
+    "rules": "learner.cavalry-flying-ranged-not-staff",
+    "prev": ["Atk/Def Snag 3"],
+    "icon": "skillB/A_D_Detect_Aerial",
+    "last": true
+  },
   "A/R Detect Aerial": {
     "id": "A/R Detect Aerial",
     "name": "攻魔的看破・俯瞰",
@@ -4009,9 +4018,9 @@
   },
   "S/D Detect Aerial": {
     "id": "S/D Detect Aerial",
-    "name": "速房的看破・俯瞰",
+    "name": "速防的看破・俯瞰",
     "sp": 300,
-    "rules": "learner.cavalry-flying-not-staff",
+    "rules": "learner.cavalry-flying-ranged-not-staff",
     "prev": ["Spd/Def Snag 3"],
     "icon": "skillB/S_D_Detect_Aerial",
     "last": true
@@ -4623,33 +4632,6 @@
     "prev": ["Lull Spd/Res 3"],
     "rules": "learner.infantry-cavalry",
     "icon": "skillB/Lull_Spd_Res_4",
-    "last": true
-  },
-  "A/R Lull Finish": {
-    "id": "A/R Lull Finish",
-    "name": "奧秘・攻魔靜謐",
-    "sp": 300,
-    "rules": "infantry",
-    "prev": ["Lull Atk/Res 3"],
-    "icon": "skillB/A_R_Lull_Finish",
-    "last": true
-  },
-  "S/D Lull Finish": {
-    "id": "S/D Lull Finish",
-    "name": "奧秘・速防靜謐",
-    "sp": 300,
-    "rules": "infantry",
-    "prev": ["Lull Spd/Def 3"],
-    "icon": "skillB/S_D_Lull_Finish",
-    "last": true
-  },
-  "S/R Lull Finish": {
-    "id": "S/R Lull Finish",
-    "name": "奧秘・速魔靜謐",
-    "sp": 300,
-    "rules": "infantry",
-    "prev": ["Lull Spd/Res 3"],
-    "icon": "skillB/S_R_Lull_Finish",
     "last": true
   },
   "Repel 1": {
@@ -6014,15 +5996,6 @@
     "icon": "skillB/Potent_4",
     "last": true
   },
-  "Potent Finish": {
-    "id": "Potent Finish",
-    "name": "奧秘・神速",
-    "sp": 300,
-    "rules": "learner.wielderInfantry",
-    "prev": ["Potent 3"],
-    "icon": "skillB/Potent_Finish",
-    "last": true
-  },
   "Laguz Friend 1": {
     "id": "Laguz Friend 1",
     "name": "不動1",
@@ -6231,6 +6204,51 @@
     "prev": ["Speedtaker 3"],
     "rules": "learner.infantry-flying-def-dmger",
     "icon": "skillB/Speedtaker_4",
+    "last": true
+  },
+  "A/S Taker Burst": {
+    "id": "A/S Taker Burst",
+    "name": "攻速吸收・初擊躍動",
+    "sp": 400,
+    "rules": "learner.infantry-flying-def-dmger",
+    "prev": ["Speedtaker 3"],
+    "icon": "skillB/A_S_Taker_Burst",
+    "last": true
+  },
+  "Potent Finish": {
+    "id": "Potent Finish",
+    "name": "奧秘・神速",
+    "sp": 300,
+    "rules": "learner.wielderInfantry",
+    "prev": ["Potent 3"],
+    "icon": "skillB/Potent_Finish",
+    "last": true
+  },
+  "A/R Lull Finish": {
+    "id": "A/R Lull Finish",
+    "name": "奧秘・攻魔靜謐",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Lull Atk/Res 3"],
+    "icon": "skillB/A_R_Lull_Finish",
+    "last": true
+  },
+  "S/D Lull Finish": {
+    "id": "S/D Lull Finish",
+    "name": "奧秘・速防靜謐",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Lull Spd/Def 3"],
+    "icon": "skillB/S_D_Lull_Finish",
+    "last": true
+  },
+  "S/R Lull Finish": {
+    "id": "S/R Lull Finish",
+    "name": "奧秘・速魔靜謐",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Lull Spd/Res 3"],
+    "icon": "skillB/S_R_Lull_Finish",
     "last": true
   },
   "Pair Up 1": {
