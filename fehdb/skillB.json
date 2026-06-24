@@ -2874,6 +2874,7 @@
     "id": "Riptide Guard",
     "name": "狂濤・取消",
     "sp": 400,
+    "rules": "learner.cavalry-flying-melee",
     "icon": "skillB/Riptide_Guard",
     "last": true
   },

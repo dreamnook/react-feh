@@ -13349,7 +13349,8 @@
       "id": "Riptide Guard",
       "name": "狂濤・取消",
       "sp": 400,
-      "icon": "skillB/Riptide_Guard"
+      "icon": "skillB/Riptide_Guard",
+      "rules": "learner.cavalry-flying-melee"
     },
     "Wrathful Staff 3": {
       "pool": {
