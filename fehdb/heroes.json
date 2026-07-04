@@ -6323,6 +6323,43 @@
     "ver": "10.0",
     "dfKey": 8
   },
+  "Jörmungandr - Dormant God": {
+    "id": "Jörmungandr - Dormant God",
+    "title": "地底之神",
+    "name": "耶夢加德",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-beast",
+    "moveType": "armored",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "astra-def-2",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-06-29",
+    "stats": {
+      "5": {
+        "hp": [47, 50, 53],
+        "atk": [43, 47, 50],
+        "spd": [15, 18, 21],
+        "def": [46, 49, 53],
+        "res": [45, 48, 51]
+      },
+      "5-1": {
+        "hp": 24,
+        "atk": 14,
+        "spd": 3,
+        "def": 10,
+        "res": 11
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["atk"],
+    "statMin": 212,
+    "statMax": 215,
+    "book": 10,
+    "ver": "10.6",
+    "dfKey": 8
+  },
   "Rune - Source of Wisdom": {
     "id": "Rune - Source of Wisdom",
     "title": "知識之源",
@@ -28823,20 +28860,34 @@
     "id": "Ephraim - Sunshine Valiant",
     "title": "英勇的炎陽",
     "name": "艾夫拉姆",
-    "rarity": [5],
+    "rarity": [5, 4],
     "colorType": "green",
     "weaponType": "green-axe",
     "moveType": "cavalry",
-    "pool": "special",
+    "pool": "grail",
     "appearsIn": ["The Sacred Stones"],
     "releaseDate": "2023-06-19",
     "stats": {
+      "4": {
+        "hp": [35, 38, 41],
+        "atk": [42, 45, 49],
+        "spd": [11, 14, 17],
+        "def": [39, 42, 45],
+        "res": [25, 28, 31]
+      },
       "5": {
         "hp": [38, 41, 44],
         "atk": [44, 47, 51],
         "spd": [12, 16, 19],
         "def": [41, 44, 47],
         "res": [28, 31, 34]
+      },
+      "4-1": {
+        "hp": 16,
+        "atk": 17,
+        "spd": 2,
+        "def": 9,
+        "res": 4
       },
       "5-1": {
         "hp": 17,

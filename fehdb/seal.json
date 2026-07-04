@@ -2181,6 +2181,30 @@
       "icon": "skillA/Atk_Def_Clash_3",
       "last": true
     },
+    "Def/Res Clash 1": {
+      "id": "Def/Res Clash 1",
+      "name": "防守魔防的激戰1",
+      "sp": 60,
+      "rules": "learner.infantry-cavalry-flying-melee",
+      "icon": "skillA/Def_Res_Clash_1"
+    },
+    "Def/Res Clash 2": {
+      "id": "Def/Res Clash 2",
+      "name": "防守魔防的激戰2",
+      "sp": 120,
+      "prev": ["Def/Res Clash 1"],
+      "rules": "learner.infantry-cavalry-flying-melee",
+      "icon": "skillA/Def_Res_Clash_2"
+    },
+    "Def/Res Clash 3": {
+      "id": "Def/Res Clash 3",
+      "name": "防守魔防的激戰3",
+      "sp": 240,
+      "prev": ["Def/Res Clash 2"],
+      "rules": "learner.infantry-cavalry-flying-melee",
+      "icon": "skillA/Def_Res_Clash_3",
+      "last": true
+    },
     "Atk/Spd Finish 1": {
       "id": "Atk/Spd Finish 1",
       "name": "攻擊速度的奧秘1",
@@ -3269,6 +3293,30 @@
       "icon": "skillB/Atk_Spd_Snag_3",
       "last": true
     },
+    "Atk/Def Snag 1": {
+      "id": "Atk/Def Snag 1",
+      "name": "攻擊防守干涉1",
+      "sp": 60,
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Atk_Def_Snag_1"
+    },
+    "Atk/Def Snag 2": {
+      "id": "Atk/Def Snag 2",
+      "name": "攻擊防守干涉2",
+      "sp": 120,
+      "prev": ["Atk/Def Snag 1"],
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Atk_Def_Snag_2"
+    },
+    "Atk/Def Snag 3": {
+      "id": "Atk/Def Snag 3",
+      "name": "攻擊防守干涉3",
+      "sp": 240,
+      "prev": ["Atk/Def Snag 2"],
+      "rules": "learner.cavalry-flying-not-staff",
+      "icon": "skillB/Atk_Def_Snag_3",
+      "last": true
+    },
     "Spd/Res Snag 1": {
       "id": "Spd/Res Snag 1",
       "name": "速度魔防干涉1",
@@ -3504,6 +3552,30 @@
       "prev": ["Dragon's Wrath 2"],
       "rules": "dragon",
       "icon": "skillB/Dragon's_Wrath_3",
+      "last": true
+    },
+    "Atk/Def Tempo 1": {
+      "id": "Atk/Def Tempo 1",
+      "name": "攻擊防守節拍1",
+      "sp": 60,
+      "rules": "infantry",
+      "icon": "skillB/Atk_Def_Tempo_1"
+    },
+    "Atk/Def Tempo 2": {
+      "id": "Atk/Def Tempo 2",
+      "name": "攻擊防守節拍2",
+      "sp": 120,
+      "prev": ["Atk/Def Tempo 1"],
+      "rules": "infantry",
+      "icon": "skillB/Atk_Def_Tempo_2"
+    },
+    "Atk/Def Tempo 3": {
+      "id": "Atk/Def Tempo 3",
+      "name": "攻擊防守節拍3",
+      "sp": 240,
+      "prev": ["Atk/Def Tempo 2"],
+      "rules": "infantry",
+      "icon": "skillB/Atk_Def_Tempo_3",
       "last": true
     },
     "Spd/Def Tempo 1": {
@@ -5387,6 +5459,30 @@
       "prev": ["Assault Troop 2"],
       "rules": "learner.wielder",
       "icon": "skillC/Assault_Troop_3",
+      "last": true
+    },
+    "Shadow Shove 1": {
+      "id": "Shadow Shove 1",
+      "name": "影助・衝撞1",
+      "sp": 60,
+      "rules": "learner.cavalry-flying",
+      "icon": "skillC/Shadow_Shove_1"
+    },
+    "Shadow Shove 2": {
+      "id": "Shadow Shove 2",
+      "name": "影助・衝撞2",
+      "sp": 120,
+      "prev": ["Shadow Shove 1"],
+      "rules": "learner.cavalry-flying",
+      "icon": "skillC/Shadow_Shove_2"
+    },
+    "Shadow Shove 3": {
+      "id": "Shadow Shove 3",
+      "name": "影助・衝撞3",
+      "sp": 240,
+      "prev": ["Shadow Shove 2"],
+      "rules": "learner.cavalry-flying",
+      "icon": "skillC/Shadow_Shove_3",
       "last": true
     }
   },

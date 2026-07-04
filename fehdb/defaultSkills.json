@@ -4640,6 +4640,34 @@
       "Atk/Res Liberate": 5
     }
   },
+  "Jörmungandr - Dormant God": {
+    "weapon": {
+      "Whelp (Armored)": 1,
+      "Yearling (Arm.)": 2,
+      "Adult (Armored)": 4,
+      "Serpent's Fang": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Armored Flare": 5
+    },
+    "skillA": {
+      "Relax": 5
+    },
+    "skillB": {
+      "Wary Fighter 1": 2,
+      "Wary Fighter 2": 3,
+      "Wary Fighter 3": 4,
+      "Iron Fighter": 5
+    },
+    "skillC": {
+      "D/R Far Save 1": 2,
+      "D/R Far Save 2": 3,
+      "D/R Far Save 3": 4,
+      "D/R Briar F Save": 5
+    }
+  },
   "Rune - Source of Wisdom": {
     "weapon": {
       "Stone": 1,

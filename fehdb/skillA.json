@@ -607,6 +607,15 @@
     "icon": "skillA/Heaven's_Ethos",
     "last": true
   },
+  "Relax": {
+    "id": "Relax",
+    "name": "優哉游哉～",
+    "sp": 300,
+    "hp": 5,
+    "exclusive": ["Jörmungandr - Dormant God"],
+    "icon": "skillA/Relax",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

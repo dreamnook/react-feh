@@ -6284,5 +6284,14 @@
     "rules": "learner.infantry-armored",
     "icon": "skillB/Pair_Up_4",
     "last": true
+  },
+  "Iron Fighter": {
+    "id": "Iron Fighter",
+    "name": "鐵壁隊形",
+    "sp": 400,
+    "prev": ["Wary Fighter 3"],
+    "rules": "armored",
+    "icon": "skillB/Iron_Fighter",
+    "last": true
   }
 }

@@ -4958,6 +4958,19 @@
     "skillA": { "Defiant Res 3": { "sp": 160, "rarity": 5 } },
     "skillB": { "B Tomebreaker 3": { "sp": 200, "rarity": 4 } }
   },
+  "Ephraim - Sunshine Valiant": {
+    "score": 249,
+    "scoreTotal": 540,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 300,
+    "bst": 179,
+    "special": { "Bonfire": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Alarm Atk/Def": { "sp": 300, "rarity": 5 } }
+  },
   "L'Arachel - Princess of Light": {
     "score": 249,
     "scoreTotal": 544,
@@ -11213,19 +11226,6 @@
     "skillA": { "Atk/Spd Catch 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Def Menace": { "sp": 300, "rarity": 5 } }
   },
-  "Ephraim - Sunshine Valiant": {
-    "score": 318,
-    "scoreTotal": 848,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 800,
-    "feather": 1000,
-    "bst": 179,
-    "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Def Clash 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Alarm Atk/Def": { "sp": 300, "rarity": 5 } }
-  },
   "Shez - Mercenary Shine": {
     "score": 318,
     "scoreTotal": 848,
@@ -15805,6 +15805,19 @@
     "skillA": { "Warrior's Blow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Rejuvenate": { "sp": 400, "rarity": 5 } },
     "skillC": { "Preempt: Ploy": { "sp": 300, "rarity": 5 } }
+  },
+  "Jörmungandr - Dormant God": {
+    "score": 460,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 212,
+    "special": { "Armored Flare": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Iron Fighter": { "sp": 400, "rarity": 5 } },
+    "skillC": { "D/R Briar F Save": { "sp": 300, "rarity": 5 } }
   },
   "Laegjarn - Flame Miracle": {
     "score": 460,

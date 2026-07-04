@@ -24174,6 +24174,16 @@
       "exclusive": ["Miklan - Destitute Rebel"],
       "last": true
     },
+    "Serpent's Fang": {
+      "id": "Serpent's Fang",
+      "name": "世界蛇之神牙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Armored)"],
+      "exclusive": ["Jörmungandr - Dormant God"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",

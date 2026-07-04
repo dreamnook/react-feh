@@ -3381,6 +3381,15 @@
     "icon": "skillC/D_R_Twin_F_Save",
     "last": true
   },
+  "D/R Briar F Save": {
+    "id": "D/R Briar F Save",
+    "name": "盾之守護人・遠・棘",
+    "sp": 300,
+    "rules": "armored",
+    "prev": ["D/R Far Save 3"],
+    "icon": "skillC/D_R_Briar_F_Save",
+    "last": true
+  },
   "A/D Briar P Save": {
     "id": "A/D Briar P Save",
     "name": "鎧之守護人・理・棘",
