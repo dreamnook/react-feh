@@ -616,6 +616,18 @@
     "icon": "skillA/Relax",
     "last": true
   },
+  "Long-Dead": {
+    "id": "Long-Dead",
+    "name": "真一路好走……",
+    "sp": 300,
+    "atk": 9,
+    "spd": 9,
+    "def": 9,
+    "res": 9,
+    "exclusive": ["Tharja - Dour Cheer"],
+    "icon": "skillA/Long-Dead",
+    "last": true
+  },
   "HP 1": {
     "id": "HP 1",
     "name": "ＨＰ1",

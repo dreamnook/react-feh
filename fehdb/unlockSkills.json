@@ -3832,7 +3832,8 @@
     "assist": {
       "Rally Attack": 3,
       "Rally Atk/Spd": 4,
-      "Gold Serpent": 5
+      "Gold Serpent": 5,
+      "Gold Serpent+": 5
     },
     "skillA": {
       "Darting Blow 1": 2,
@@ -3844,7 +3845,11 @@
       "Null Follow-Up 1": 2,
       "Null Follow-Up 2": 3,
       "Null Follow-Up 3": 4,
-      "Mag. Null Follow": 5
+      "Mag. Null Follow": 5,
+      "Atk/Spd Link 1": 2,
+      "Atk/Spd Link 2": 3,
+      "Atk/Spd Link 3": 4,
+      "Atk/Spd Favor": 5
     },
     "skillC": {
       "Panic Smoke 1": 2,
@@ -4293,6 +4298,30 @@
       "A/D Far Save 2": 3,
       "A/D Far Save 3": 4,
       "A/D Briar P Save": 5
+    }
+  },
+  "Eikþyrnir - Chiseled Trainer": {
+    "weapon": {
+      "Whelp (Cavalry)": 1,
+      "Yearling (Cavalry)": 2,
+      "Adult (Cavalry)": 3,
+      "Chiseled Antler": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4,
+      "Mighty Growl": 5
+    },
+    "skillA": {
+      "Atk/Def Clash 1": 1,
+      "Atk/Def Clash 2": 2,
+      "Atk/Def Clash 3": 4
+    },
+    "skillC": {
+      "C Feud 1": 2,
+      "C Feud 2": 3,
+      "C Feud 3": 4,
+      "Preempt Screech": 5
     }
   },
   "Læraðr - Quieting Heart": {
@@ -9066,7 +9095,8 @@
       "Iron Axe": 1,
       "Steel Axe": 2,
       "Vulture Axe": 3,
-      "Vulture Axe+": 5
+      "Vulture Axe+": 5,
+      "Axe of Troubles": 5
     },
     "special": {
       "Dragon Gaze": 3,
@@ -12896,10 +12926,15 @@
       "Null C-Disrupt 1": 2,
       "Null C-Disrupt 2": 3,
       "Null C-Disrupt 3": 4,
-      "Null C-Disrupt 4": 5
+      "Null C-Disrupt 4": 5,
+      "Sabotage Res 1": 2,
+      "Sabotage Res 2": 3,
+      "Sabotage Res 3": 4,
+      "Spd/Res Unrest": 5
     },
     "skillC": {
-      "Bern's New Way": 5
+      "Bern's New Way": 5,
+      "New Way II": 5
     }
   },
   "Melady - Crimson Rider": {
@@ -18998,6 +19033,37 @@
       "Brutal Tempest": 5
     }
   },
+  "Ike - Full-Tilt Merc": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 3,
+      "Greil Flag": 5
+    },
+    "special": {
+      "New Moon": 3,
+      "Luna": 4,
+      "Aether's Route": 5
+    },
+    "skillA": {
+      "Rise Above 1": 2,
+      "Rise Above 2": 3,
+      "Rise Above 3": 4,
+      "Rise Above 4": 5
+    },
+    "skillB": {
+      "Quick Riposte 1": 2,
+      "Quick Riposte 2": 3,
+      "Quick Riposte 3": 4,
+      "Patience": 5
+    },
+    "skillC": {
+      "Def/Res Oath 1": 2,
+      "Def/Res Oath 2": 3,
+      "Def/Res Oath 3": 4,
+      "D/R Tenet Hone": 5
+    }
+  },
   "Titania - Mighty Mercenary": {
     "weapon": {
       "Iron Axe": 1,
@@ -23356,7 +23422,8 @@
       "Iron Axe": 1,
       "Steel Axe": 2,
       "Spirited Axe": 3,
-      "Spirited Axe+": 5
+      "Spirited Axe+": 5,
+      "Hero's Greataxe": 5
     },
     "special": {
       "New Moon": 3,
@@ -23811,6 +23878,34 @@
     },
     "skillX": {
       "Crux Echo": 5
+    }
+  },
+  "Tharja - Dour Cheer": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 3,
+      "Dour Baton": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Comet": 5
+    },
+    "skillA": {
+      "Long-Dead": 5
+    },
+    "skillB": {
+      "Sabotage Spd 1": 2,
+      "Sabotage Spd 2": 3,
+      "Sabotage Spd 3": 4,
+      "Spd/Res Unrest": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Pulse Follow Con": 5
     }
   },
   "Mustafa - Plegian Champion": {
@@ -29526,6 +29621,37 @@
       "Time's Pulse 2": 3,
       "Time's Pulse 3": 4,
       "Time's Pulse 4": 5
+    }
+  },
+  "Byleth - Cheer Power": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 3,
+      "Guiding Lance": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4,
+      "Divine Rumble": 5
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Swift Specter": 5
+    },
+    "skillB": {
+      "Velocity 1": 2,
+      "Velocity 2": 3,
+      "Velocity 3": 4,
+      "Counter Dull": 5
+    },
+    "skillC": {
+      "Atk/Spd Oath 1": 2,
+      "Atk/Spd Oath 2": 3,
+      "Atk/Spd Oath 3": 4,
+      "A/S Tenet Hone": 5
     }
   },
   "Byleth - Tested Professor": {

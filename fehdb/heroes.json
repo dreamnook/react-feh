@@ -5890,6 +5890,55 @@
     "ver": "9.8",
     "dfKey": 8
   },
+  "Eikþyrnir - Chiseled Trainer": {
+    "id": "Eikþyrnir - Chiseled Trainer",
+    "title": "肌肉的引領者",
+    "name": "艾克米爾尼爾",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "weaponType": "green-beast",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-07-07",
+    "stats": {
+      "4": {
+        "hp": [44, 47, 50],
+        "atk": [44, 47, 50],
+        "spd": [11, 14, 17],
+        "def": [44, 47, 50],
+        "res": [25, 28, 31]
+      },
+      "5": {
+        "hp": [47, 50, 53],
+        "atk": [46, 49, 53],
+        "spd": [12, 16, 19],
+        "def": [46, 49, 53],
+        "res": [28, 31, 34]
+      },
+      "4-1": {
+        "hp": 23,
+        "atk": 10,
+        "spd": 2,
+        "def": 10,
+        "res": 6
+      },
+      "5-1": {
+        "hp": 24,
+        "atk": 10,
+        "spd": 3,
+        "def": 10,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["spd"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.7",
+    "dfKey": 8
+  },
   "Læraðr - Quieting Heart": {
     "id": "Læraðr - Quieting Heart",
     "title": "心靈的葬送者",
@@ -21577,7 +21626,7 @@
   },
   "Guinivere - Queen of Bern": {
     "id": "Guinivere - Queen of Bern",
-    "title": "伯尼爾王國的女王",
+    "title": "伯爾尼王國的女王",
     "name": "姬妮薇雅",
     "rarity": [5],
     "colorType": "white",
@@ -32450,6 +32499,41 @@
     "ver": "9.11",
     "dfKey": 8
   },
+  "Ike - Full-Tilt Merc": {
+    "id": "Ike - Full-Tilt Merc",
+    "title": "全力奔跑的傭兵",
+    "name": "艾克",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Path of Radiance"],
+    "releaseDate": "2026-07-07",
+    "stats": {
+      "5": {
+        "hp": [39, 43, 46],
+        "atk": [46, 49, 53],
+        "spd": [14, 18, 21],
+        "def": [46, 49, 52],
+        "res": [42, 45, 48]
+      },
+      "5-1": {
+        "hp": 21,
+        "atk": 10,
+        "spd": 5,
+        "def": 12,
+        "res": 10
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.7",
+    "dfKey": 8
+  },
   "Titania - Mighty Mercenary": {
     "id": "Titania - Mighty Mercenary",
     "title": "傭兵團的副團長",
@@ -40989,6 +41073,41 @@
     "book": 9,
     "ver": "9.6",
     "dfKey": 7
+  },
+  "Tharja - Dour Cheer": {
+    "id": "Tharja - Dour Cheer",
+    "title": "陰沉的啦啦隊員",
+    "name": "撒拉",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Awakening"],
+    "releaseDate": "2026-07-07",
+    "stats": {
+      "5": {
+        "hp": [33, 36, 40],
+        "atk": [43, 46, 49],
+        "spd": [45, 48, 52],
+        "def": [12, 16, 19],
+        "res": [43, 47, 50]
+      },
+      "5-1": {
+        "hp": 17,
+        "atk": 11,
+        "spd": 9,
+        "def": 3,
+        "res": 14
+      }
+    },
+    "assets": ["hp", "spd"],
+    "flaws": ["def", "res"],
+    "statMin": 193,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.7",
+    "dfKey": 8
   },
   "Mustafa - Plegian Champion": {
     "id": "Mustafa - Plegian Champion",
@@ -51199,6 +51318,41 @@
     "book": 7,
     "ver": "7.5",
     "dfKey": 5
+  },
+  "Byleth - Cheer Power": {
+    "id": "Byleth - Cheer Power",
+    "title": "將打氣化為力量",
+    "name": "貝雷絲",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "infantry",
+    "pool": "harmonized",
+    "appearsIn": ["Fates", "Three Houses"],
+    "releaseDate": "2026-07-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [45, 48, 52],
+        "def": [38, 41, 45],
+        "res": [24, 27, 31]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 12,
+        "spd": 9,
+        "def": 11,
+        "res": 8
+      }
+    },
+    "assets": ["spd", "def", "res"],
+    "flaws": ["hp"],
+    "statMin": 203,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.7",
+    "dfKey": 8
   },
   "Byleth - Tested Professor": {
     "id": "Byleth - Tested Professor",

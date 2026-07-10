@@ -3993,6 +3993,16 @@
       "exclusive": ["Sharena - Sea of Hope"],
       "last": true
     },
+    "Greil Flag": {
+      "id": "Greil Flag",
+      "name": "格萊爾傭兵團之旗",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Ike - Full-Tilt Merc"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -9085,6 +9095,16 @@
       "exclusive": ["Alfonse - Sunlit Spirit"],
       "last": true
     },
+    "Guiding Lance": {
+      "id": "Guiding Lance",
+      "name": "教導引領的教師之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Byleth - Cheer Power"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -13895,6 +13915,68 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Laegjarn - Flame Miracle"],
+      "last": true
+    },
+    "Hero's Greataxe": {
+      "id": "Hero's Greataxe",
+      "name": "豪傑的大斧",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Basilio - Feroxi West-Khan"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Hero's_Greataxe_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Axe of Troubles": {
+      "id": "Axe of Troubles",
+      "name": "亂世之斧",
+      "mt": 16,
+      "sp": 400,
+      "exclusive": ["Brigand Boss - Known Criminal"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Axe_of_Troubles_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Downfall": {
@@ -20633,12 +20715,34 @@
     },
     "Blade of Jehanna": {
       "id": "Blade of Jehanna",
-      "name": "賈哈納王的殺刃",
+      "name": "賈哈納王的沙刃",
       "mt": 14,
       "cd": -1,
       "sp": 400,
       "prev": ["Silver Dagger"],
       "exclusive": ["Joshua - Resolute Tempest"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Blade_of_Jehanna_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Hurricane Dagger": {
@@ -24184,6 +24288,16 @@
       "exclusive": ["Jörmungandr - Dormant God"],
       "last": true
     },
+    "Chiseled Antler": {
+      "id": "Chiseled Antler",
+      "name": "運動身體之角",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Cavalry)"],
+      "exclusive": ["Eikþyrnir - Chiseled Trainer"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -25575,6 +25689,28 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Hugh - Worldly Mage"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Sell-Spell_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Fiery Bolganone": {
@@ -31146,6 +31282,28 @@
       "sp": 400,
       "prev": ["Rexcalibur"],
       "exclusive": ["Heiðr - Innocent Goddess"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Heiðr_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Divine Draught": {
@@ -32855,6 +33013,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Guinivere - Queen of Bern"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Radiant_Aureola_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Sparkling Sun": {
@@ -33066,6 +33246,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Ash - Divergent Brides"],
+      "last": true
+    },
+    "Dour Baton": {
+      "id": "Dour Baton",
+      "name": "陰沉之人的指揮棒",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Tharja - Dour Cheer"],
       "last": true
     },
     "Stone": {

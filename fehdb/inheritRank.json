@@ -4045,6 +4045,19 @@
     "skillB": { "A/D Near Trace 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Def Rein 3": { "sp": 240, "rarity": 4 } }
   },
+  "Eikþyrnir - Chiseled Trainer": {
+    "score": 196,
+    "scoreTotal": 455,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 740,
+    "feather": 300,
+    "bst": 195,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Clash 3": { "sp": 240, "rarity": 4 } },
+    "skillC": { "Preempt Screech": { "sp": 300, "rarity": 5 } }
+  },
   "Alfonse - Sunlit Spirit": {
     "score": 196,
     "scoreTotal": 455,
@@ -8479,19 +8492,6 @@
     "skillB": { "Assault Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Far Save 3": { "sp": 300, "rarity": 5 } }
   },
-  "Guinivere - Queen of Bern": {
-    "score": 276,
-    "scoreTotal": 736,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 800,
-    "feather": 1000,
-    "bst": 200,
-    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Spd/Res Finish 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } }
-  },
   "Elincia - Undaunted Queen": {
     "score": 276,
     "scoreTotal": 736,
@@ -11002,6 +11002,19 @@
     "special": { "Blazing Wind": { "sp": 300, "rarity": 4 } },
     "skillA": { "HP/Atk 2": { "sp": 200, "rarity": 4 } },
     "skillC": { "Atk Opening 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Guinivere - Queen of Bern": {
+    "score": 368,
+    "scoreTotal": 828,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 400,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Spd/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Unrest": { "sp": 400, "rarity": 5 } }
   },
   "Micaiah - Priestess of Dawn": {
     "score": 240,
@@ -15747,7 +15760,7 @@
     "bst": 177,
     "assist": { "Rally Atk/Spd": { "sp": 300, "rarity": 5 } },
     "skillA": { "Remote Sparrow": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Mag. Null Follow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Spd Favor": { "sp": 300, "rarity": 5 } },
     "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
   },
   "Sigurd - Of the Holy War": {
@@ -17139,6 +17152,20 @@
     "skillB": { "S/R Far Resound": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Res Crux": { "sp": 300, "rarity": 5 } }
   },
+  "Byleth - Cheer Power": {
+    "score": 424,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 203,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Swift Specter": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Counter Dull": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/S Tenet Hone": { "sp": 300, "rarity": 5 } }
+  },
   "Ike - Zealous Inheritors": {
     "score": 424,
     "scoreTotal": 1272,
@@ -17152,6 +17179,20 @@
     "skillA": { "Warrior's Blow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Patience": { "sp": 400, "rarity": 5 } },
     "skillC": { "Brutal Tempest": { "sp": 300, "rarity": 5 } }
+  },
+  "Ike - Full-Tilt Merc": {
+    "score": 424,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Rise Above 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Patience": { "sp": 400, "rarity": 5 } },
+    "skillC": { "D/R Tenet Hone": { "sp": 300, "rarity": 5 } }
   },
   "Gullveig - Hidden in Time": {
     "score": 424,
@@ -17179,6 +17220,19 @@
     "special": { "Archrival": { "sp": 500, "rarity": 5 } },
     "skillB": { "Execution Breath": { "sp": 400, "rarity": 5 } },
     "skillC": { "A/S Hone Assault": { "sp": 300, "rarity": 5 } }
+  },
+  "Tharja - Dour Cheer": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Comet": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Spd/Res Unrest": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Pulse Follow Con": { "sp": 300, "rarity": 5 } }
   },
   "Thórr - Spring War God": {
     "score": 530,

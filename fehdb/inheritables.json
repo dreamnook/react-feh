@@ -4791,6 +4791,7 @@
             "Black Knight - The Night's Blade",
             "Claude - Golden Breeze",
             "Nerþuz - New-Year Doter",
+            "Ike - Full-Tilt Merc",
             "Greil - Heroic Exemplar",
             "Céline - Love's Aroma"
           ]
@@ -5057,6 +5058,7 @@
             "Hræsvelgr - Wings of Healing",
             "Nerþuz - Divine Abundance",
             "Shez - Covert Mercenary",
+            "Tharja - Dour Cheer",
             "Tibarn - Shipless Pirate",
             "Timerra - Trick or Meat",
             "Mia - Zenith Challenger"
@@ -5153,7 +5155,7 @@
         "rearmed": { "5": ["Canis - Ill Portent"] },
         "aided": { "5": ["Lute - Limitless Curiosity"] },
         "legendary": { "5": ["Lyon - Twilight Amends"] },
-        "special": { "5": ["Shez - Covert Mercenary"] },
+        "special": { "5": ["Shez - Covert Mercenary", "Tharja - Dour Cheer"] },
         "duo": { "5": ["Freyja - Parallel Hearts", "Ash - Divergent Brides"] }
       },
       "id": "Comet",
@@ -5483,6 +5485,7 @@
           "5": [
             "Eirika - Spring Company",
             "Celica - With Grace",
+            "Byleth - Cheer Power",
             "Lyn - Glitters of Hope"
           ]
         }
@@ -5790,6 +5793,7 @@
             "Manuela - Silver Caroler",
             "Hana - Striving Heart",
             "Palla - Soaring Summer",
+            "Eikþyrnir - Chiseled Trainer",
             "Louis - Petal Knight",
             "Skrimir - Echoing Howl"
           ],
@@ -10644,7 +10648,7 @@
             "Marth - Masked Gladiator"
           ]
         },
-        "harmonized": { "5": ["Celica - With Grace"] }
+        "harmonized": { "5": ["Celica - With Grace", "Byleth - Cheer Power"] }
       },
       "id": "Atk/Spd Ideal 3",
       "name": "攻擊速度萬全3",
@@ -10847,7 +10851,7 @@
     "Swift Specter": {
       "pool": {
         "special": { "5": ["Sharena - Sea of Hope"] },
-        "harmonized": { "5": ["Celica - With Grace"] }
+        "harmonized": { "5": ["Celica - With Grace", "Byleth - Cheer Power"] }
       },
       "id": "Swift Specter",
       "name": "攻速無缺・鬼沒",
@@ -10972,7 +10976,7 @@
           ]
         },
         "special": {
-          "4": ["Alfonse - Sunlit Spirit"],
+          "4": ["Eikþyrnir - Chiseled Trainer", "Alfonse - Sunlit Spirit"],
           "5": ["Flavia - Bold Bride"]
         },
         "duo": { "5": ["Sigurd - Honorable Nobles"] }
@@ -11559,7 +11563,10 @@
       "rules": "learner.armored-flying-melee"
     },
     "Rise Above 3": {
-      "pool": { "emblem": { "5": ["Roy - Of Binding"] } },
+      "pool": {
+        "emblem": { "5": ["Roy - Of Binding"] },
+        "special": { "5": ["Ike - Full-Tilt Merc"] }
+      },
       "id": "Rise Above 3",
       "name": "超越3",
       "sp": 240,
@@ -11567,7 +11574,10 @@
       "rules": "learner.infantry-armored"
     },
     "Rise Above 4": {
-      "pool": { "emblem": { "5": ["Roy - Of Binding"] } },
+      "pool": {
+        "emblem": { "5": ["Roy - Of Binding"] },
+        "special": { "5": ["Ike - Full-Tilt Merc"] }
+      },
       "id": "Rise Above 4",
       "name": "超越4",
       "sp": 300,
@@ -11863,7 +11873,8 @@
           "5": [
             "Xander - Dancing Knight",
             "Plumeria - Temptation Anew",
-            "Hríd - Resolute Prince"
+            "Hríd - Resolute Prince",
+            "Ike - Full-Tilt Merc"
           ]
         },
         "harmonized": {
@@ -11885,6 +11896,7 @@
     "Patience": {
       "pool": {
         "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "special": { "5": ["Ike - Full-Tilt Merc"] },
         "harmonized": {
           "5": ["Ike - Zealous Inheritors", "Hector - Into the Fray"]
         }
@@ -11944,6 +11956,14 @@
       "sp": 300,
       "icon": "skillB/Canny_Fighter",
       "rules": "learner.armored-res-dmg"
+    },
+    "Iron Fighter": {
+      "pool": { "mythic": { "5": ["Jörmungandr - Dormant God"] } },
+      "id": "Iron Fighter",
+      "name": "鐵壁隊形",
+      "sp": 400,
+      "icon": "skillB/Iron_Fighter",
+      "rules": "armored"
     },
     "Bold Fighter 3": {
       "pool": {
@@ -12914,7 +12934,9 @@
         "mythic": {
           "5": ["Elimine - Scouring Saint", "Plumeria - Lewd Dream"]
         },
-        "special": { "5": ["Selkie - New Year's Spirit"] }
+        "special": {
+          "5": ["Selkie - New Year's Spirit", "Tharja - Dour Cheer"]
+        }
       },
       "id": "Sabotage Spd 3",
       "name": "速度擾亂3",
@@ -12964,6 +12986,7 @@
         "emblem": { "5": ["Micaiah - Of Dawn"] },
         "legendary": {
           "5": [
+            "Guinivere - Queen of Bern",
             "Deirdre - Fated Saint",
             "Lilina - Firelight Leader",
             "Lyon - Twilight Amends"
@@ -13104,7 +13127,11 @@
       "rules": "learner.infantry-ranged"
     },
     "Spd/Res Unrest": {
-      "pool": { "rearmed": { "5": ["Canis - Ill Portent"] } },
+      "pool": {
+        "rearmed": { "5": ["Canis - Ill Portent"] },
+        "legendary": { "5": ["Guinivere - Queen of Bern"] },
+        "special": { "5": ["Tharja - Dour Cheer"] }
+      },
       "id": "Spd/Res Unrest",
       "name": "速度魔防的疑懼",
       "sp": 400,
@@ -13948,6 +13975,7 @@
         "grail": { "5": ["Elincia - Seaside Queen"] },
         "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
         "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
+        "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": {
           "5": [
             "Joshua - Tropical Gambler",
@@ -14071,6 +14099,7 @@
       "pool": {
         "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
         "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
+        "mythic": { "5": ["Heiðr - Innocent Goddess"] },
         "special": { "5": ["Marth - Masked Gladiator"] },
         "harmonized": {
           "5": ["Alm - For Others' Sake", "Hilda - Skyward Wings"]
@@ -14868,7 +14897,8 @@
         "grail": { "5": ["Lamia - Hellspawn"] },
         "ascended": { "5": ["Hilda - Helping Hand"] },
         "chosen": { "5": ["Fjorm - Icy Miracle"] },
-        "duo": { "5": ["Elincia - Hearts of Purity"] }
+        "duo": { "5": ["Elincia - Hearts of Purity"] },
+        "harmonized": { "5": ["Byleth - Cheer Power"] }
       },
       "id": "Velocity 3",
       "name": "迴避・節拍3",
@@ -14886,6 +14916,14 @@
       "icon": "skillB/Buffer_4",
       "rules": "learner.wielderInfantry"
     },
+    "Harrowing Call": {
+      "pool": { "#": { "5": ["Stefan - No-Man's-Blade"] } },
+      "id": "Harrowing Call",
+      "name": "真迴避・一擊即離",
+      "sp": 300,
+      "icon": "skillB/Harrowing_Call",
+      "rules": ["learner.wielderInfantry"]
+    },
     "Null C-Avoid": {
       "pool": {
         "#": { "5": ["Byleth - Anchor of Hope"] },
@@ -14898,12 +14936,12 @@
       "icon": "skillB/Null_C-Avoid",
       "rules": ["learner.wielderInfantry"]
     },
-    "Harrowing Call": {
-      "pool": { "#": { "5": ["Stefan - No-Man's-Blade"] } },
-      "id": "Harrowing Call",
-      "name": "真迴避・一擊即離",
-      "sp": 300,
-      "icon": "skillB/Harrowing_Call",
+    "Counter Dull": {
+      "pool": { "harmonized": { "5": ["Byleth - Cheer Power"] } },
+      "id": "Counter Dull",
+      "name": "合氣・強化無效",
+      "sp": 400,
+      "icon": "skillB/Counter_Dull",
       "rules": ["learner.wielderInfantry"]
     },
     "Dragon's Ire 3": {
@@ -16044,14 +16082,6 @@
       "sp": 300,
       "icon": "skillB/Pair_Up_4",
       "rules": "learner.infantry-armored"
-    },
-    "Iron Fighter": {
-      "pool": { "mythic": { "5": ["Jörmungandr - Dormant God"] } },
-      "id": "Iron Fighter",
-      "name": "鐵壁隊形",
-      "sp": 400,
-      "icon": "skillB/Iron_Fighter",
-      "rules": "armored"
     }
   },
   "skillC": {
@@ -18331,6 +18361,7 @@
             "Fjorm - Seaside Thaw",
             "Altina - Unrivaled Dawn",
             "Ike - Desert Mercenary",
+            "Tharja - Dour Cheer",
             "Chrom - Pivotal Blow",
             "Timerra - Trick or Meat"
           ]
@@ -18473,6 +18504,14 @@
       "name": "追擊之躍動・識破",
       "sp": 300,
       "icon": "skillC/Null_Pulse_Follow",
+      "rules": "infantry"
+    },
+    "Pulse Follow Con": {
+      "pool": { "special": { "5": ["Tharja - Dour Cheer"] } },
+      "id": "Pulse Follow Con",
+      "name": "追擊之躍動・術策",
+      "sp": 300,
+      "icon": "skillC/Pulse_Follow_Con",
       "rules": "infantry"
     },
     "Infantry Pulse 3": {
@@ -19748,7 +19787,8 @@
             "Lysithea - Tea Sweetener",
             "Claude - Golden Breeze"
           ]
-        }
+        },
+        "harmonized": { "5": ["Byleth - Cheer Power"] }
       },
       "id": "Atk/Spd Oath 3",
       "name": "攻擊速度的信義3",
@@ -19870,6 +19910,7 @@
       "pool": {
         "#": { "5": ["Nergal - Traitor to Nabata"] },
         "attuned": { "5": ["Caeda - Marth's Faithful"] },
+        "special": { "5": ["Ike - Full-Tilt Merc"] },
         "duo": { "5": ["Alfonse - Askran Duo"] }
       },
       "id": "Def/Res Oath 3",
@@ -19926,6 +19967,22 @@
       "name": "速度魔防的信心",
       "sp": 300,
       "icon": "skillC/Spd_Res_Faith",
+      "rules": "learner.infantry-melee"
+    },
+    "A/S Tenet Hone": {
+      "pool": { "harmonized": { "5": ["Byleth - Cheer Power"] } },
+      "id": "A/S Tenet Hone",
+      "name": "攻速信心・弱化無效",
+      "sp": 300,
+      "icon": "skillC/A_S_Tenet_Hone",
+      "rules": "learner.infantry-melee"
+    },
+    "D/R Tenet Hone": {
+      "pool": { "special": { "5": ["Ike - Full-Tilt Merc"] } },
+      "id": "D/R Tenet Hone",
+      "name": "防魔信心・弱化無效",
+      "sp": 300,
+      "icon": "skillC/D_R_Tenet_Hone",
       "rules": "learner.infantry-melee"
     },
     "Odd Tempest 3": {
@@ -20143,7 +20200,10 @@
             "Lyn - Plains Wind"
           ]
         },
-        "special": { "5": ["Elm - Resolute Grouch"] },
+        "special": {
+          "4": ["Eikþyrnir - Chiseled Trainer"],
+          "5": ["Elm - Resolute Grouch"]
+        },
         "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] },
         "harmonized": { "5": ["Lysithea - Gifted Students"] }
       },
@@ -20153,7 +20213,10 @@
       "icon": "skillC/C_Feud_3"
     },
     "Preempt Screech": {
-      "pool": { "mythic": { "5": ["Elm - Retainer to Embla"] } },
+      "pool": {
+        "mythic": { "5": ["Elm - Retainer to Embla"] },
+        "special": { "5": ["Eikþyrnir - Chiseled Trainer"] }
+      },
       "id": "Preempt Screech",
       "name": "暗獸・初擊之躍動",
       "sp": 300,

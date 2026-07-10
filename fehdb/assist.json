@@ -329,6 +329,14 @@
     "exclusive": ["Chrom - Fell Exalt"],
     "last": true
   },
+  "Gold Serpent+": {
+    "id": "Gold Serpent+",
+    "name": "黃金蛇・神",
+    "sp": 400,
+    "prev": ["Gold Serpent"],
+    "exclusive": ["Heiðr - Innocent Goddess"],
+    "last": true
+  },
   "Gold Serpent": {
     "id": "Gold Serpent",
     "name": "黃金蛇",

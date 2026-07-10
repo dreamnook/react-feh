@@ -3506,6 +3506,30 @@
       "icon": "skillB/Mystic_Boost_3",
       "last": true
     },
+    "Lull Atk/Def 1": {
+      "id": "Lull Atk/Def 1",
+      "name": "攻擊防守的靜謐1",
+      "sp": 60,
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillB/Lull_Atk_Def_1"
+    },
+    "Lull Atk/Def 2": {
+      "id": "Lull Atk/Def 2",
+      "name": "攻擊防守的靜謐2",
+      "sp": 120,
+      "prev": ["Lull Atk/Def 1"],
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillB/Lull_Atk_Def_2"
+    },
+    "Lull Atk/Def 3": {
+      "id": "Lull Atk/Def 3",
+      "name": "攻擊防守的靜謐3",
+      "sp": 240,
+      "prev": ["Lull Atk/Def 2"],
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillB/Lull_Atk_Def_3",
+      "last": true
+    },
     "Lull Atk/Res 1": {
       "id": "Lull Atk/Res 1",
       "name": "攻擊魔防的靜謐1",
@@ -5171,6 +5195,30 @@
       "prev": ["Rouse Atk/Def 2"],
       "rules": "learner.infantry-cavalry",
       "icon": "skillC/Rouse_Atk_Def_3",
+      "last": true
+    },
+    "Rouse Atk/Res 1": {
+      "id": "Rouse Atk/Res 1",
+      "name": "攻擊魔防的奮起1",
+      "sp": 60,
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Atk_Res_1"
+    },
+    "Rouse Atk/Res 2": {
+      "id": "Rouse Atk/Res 2",
+      "name": "攻擊魔防的奮起2",
+      "sp": 120,
+      "prev": ["Rouse Atk/Res 1"],
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Atk_Res_2"
+    },
+    "Rouse Atk/Res 3": {
+      "id": "Rouse Atk/Res 3",
+      "name": "攻擊魔防的奮起3",
+      "sp": 240,
+      "prev": ["Rouse Atk/Res 2"],
+      "rules": "learner.infantry-cavalry",
+      "icon": "skillC/Rouse_Atk_Res_3",
       "last": true
     },
     "Rouse Spd/Def 1": {
