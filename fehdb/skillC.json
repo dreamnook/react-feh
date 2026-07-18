@@ -4944,7 +4944,7 @@
   },
   "Shadow Shift X": {
     "id": "Shadow Shift X",
-    "name": "影助・帶回・十文章",
+    "name": "影助・帶回・十紋章",
     "sp": 300,
     "rules": "learner.cavalry-flying",
     "prev": ["Shadow Shift 3"],
