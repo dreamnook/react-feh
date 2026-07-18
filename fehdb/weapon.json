@@ -4087,6 +4087,34 @@
       },
       "last": true
     },
+    "Arcane Caladbolg": {
+      "id": "Arcane Caladbolg",
+      "name": "魔器克拉德霍格",
+      "mt": 16,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Silver Sword"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Iron Sword": {
       "id": "Iron Sword",
       "name": "鐵劍",
@@ -15016,6 +15044,72 @@
       },
       "last": true
     },
+    "Forged Axe": {
+      "id": "Forged Axe",
+      "name": "鍛鍊之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Forged Axe+": {
+      "id": "Forged Axe+",
+      "name": "鍛鍊之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Forged Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Shackle Axe": {
+      "id": "Shackle Axe",
+      "name": "枷鎖之斧",
+      "mt": 10,
+      "sp": 200,
+      "prev": ["Steel Axe"]
+    },
+    "Shackle Axe+": {
+      "id": "Shackle Axe+",
+      "name": "枷鎖之斧+",
+      "mt": 14,
+      "sp": 300,
+      "prev": ["Shackle Axe"],
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
     "Legion's Axe": {
       "id": "Legion's Axe",
       "name": "羅羅之斧",
@@ -17186,6 +17280,29 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Shanna - Bridal Novice"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Rose-Quartz_Bow_W",
+          "cd": -1
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Holy Yewfelle": {
@@ -28784,6 +28901,16 @@
       },
       "last": true
     },
+    "Gróa": {
+      "id": "Gróa",
+      "name": "古蘿婭",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Gróa - Future Daughter"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -36391,6 +36518,16 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Sombron - Fell Dragon King"],
+      "last": true
+    },
+    "Divine Aide Arts": {
+      "id": "Divine Aide Arts",
+      "name": "神龍王與夥伴的體術",
+      "mt": 11,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "exclusive": ["Alear - And Sommie!"],
       "last": true
     },
     "Arcane Grima": {

@@ -4570,6 +4570,15 @@
     "icon": "skillC/Burst_of_Thunder",
     "last": true
   },
+  "Thunder Specter": {
+    "id": "Thunder Specter",
+    "name": "霹靂閃電・鬼沒",
+    "sp": 300,
+    "rules": "learner.infantry-flying-melee",
+    "prev": ["Odd Tempest 3", "Even Tempest 3"],
+    "icon": "skillC/Thunder_Specter",
+    "last": true
+  },
   "Assault Troop 1": {
     "id": "Assault Troop 1",
     "name": "一齊突擊1",
@@ -4931,6 +4940,15 @@
     "prev": ["Shadow Shift 3"],
     "rules": "learner.cavalry-flying",
     "icon": "skillC/Shadow_Shift_4",
+    "last": true
+  },
+  "Shadow Shift X": {
+    "id": "Shadow Shift X",
+    "name": "影助・帶回・十文章",
+    "sp": 300,
+    "rules": "learner.cavalry-flying",
+    "prev": ["Shadow Shift 3"],
+    "icon": "skillC/Shadow_Shift_X",
     "last": true
   },
   "Lookout 1": {

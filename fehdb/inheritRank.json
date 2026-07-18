@@ -2881,6 +2881,18 @@
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
   },
+  "Jade - Iron Wall": {
+    "score": 185,
+    "scoreTotal": 411,
+    "poolRarity": 4,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 300,
+    "bst": 211,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Wily Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
   "Niles - Cruel to Be Kind": {
     "score": 166,
     "scoreTotal": 412,
@@ -9665,6 +9677,19 @@
     "skillA": { "Atk/Spd Prime 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Odd Def Wave 3": { "sp": 240, "rarity": 4 } }
   },
+  "Boucheron - Big Softy": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 203,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Frenzy 3": { "sp": 240, "rarity": 5 } },
+    "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 4 } }
+  },
   "Garcia - Warrior Reborn": {
     "score": 322,
     "scoreTotal": 746,
@@ -14282,6 +14307,19 @@
     "skillA": { "Atk/Res Fortune": { "sp": 300, "rarity": 5 } },
     "skillC": { "Barricade": { "sp": 300, "rarity": 5 } }
   },
+  "Alear - And Sommie!": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "aided",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 209,
+    "special": { "Dragon's Briar": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Pair Up 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Thunder Specter": { "sp": 300, "rarity": 5 } }
+  },
   "Tiki - Everlasting Voice": {
     "score": 460,
     "scoreTotal": 1012,
@@ -15068,6 +15106,20 @@
     "skillA": { "Atk/Spd Waylay": { "sp": 300, "rarity": 5 } },
     "skillB": { "Disarm Rumor": { "sp": 400, "rarity": 5 } },
     "skillC": { "Lookout Smog": { "sp": 300, "rarity": 5 } }
+  },
+  "Alear - Casual Duelist": {
+    "score": 360,
+    "scoreTotal": 1080,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Swift Life": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/S Taker Burst": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Thunder Specter": { "sp": 300, "rarity": 5 } }
   },
   "Quan - Luminous Lancer": {
     "score": 400,
@@ -15943,6 +15995,20 @@
     "skillA": { "Perfect Atk/Spd": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Spd Favor": { "sp": 300, "rarity": 5 } },
     "skillC": { "Dual Support 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Gróa - Future Daughter": {
+    "score": 460,
+    "scoreTotal": 1150,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 500,
+    "spTotal": 1250,
+    "feather": 1000,
+    "bst": 189,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Logic": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Aria": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Shadow Shift X": { "sp": 300, "rarity": 5 } }
   },
   "Camilla - Midnight Bloom": {
     "score": 318,

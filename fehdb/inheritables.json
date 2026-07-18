@@ -22,6 +22,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Caladbolg": {
+        "pool": { "rearmed": { "5": ["Alear - Casual Duelist"] } },
+        "id": "Arcane Caladbolg",
+        "name": "魔器克拉德霍格",
+        "sp": 300,
+        "refine": 350
+      },
       "Silver Sword+": {
         "pool": {
           "#": { "3": ["Olivia - Blushing Beauty", "Laslow - Dancing Duelist"] }
@@ -1176,6 +1183,20 @@
         "pool": { "grail": { "5": ["Raphael - Beast of Leicester"] } },
         "id": "Melee Axe+",
         "name": "混戰之斧+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Forged Axe+": {
+        "pool": { "#": { "4": ["Jade - Iron Wall"] } },
+        "id": "Forged Axe+",
+        "name": "鍛鍊之斧+",
+        "sp": 300,
+        "refine": 350
+      },
+      "Shackle Axe+": {
+        "pool": { "grail": { "5": ["Boucheron - Big Softy"] } },
+        "id": "Shackle Axe+",
+        "name": "枷鎖之斧+",
         "sp": 300,
         "refine": 350
       },
@@ -3865,6 +3886,7 @@
         "emblem": { "5": ["Byleth - Of the Academy"] },
         "aided": { "5": ["Dagr - Sunny Bloom"] },
         "legendary": { "5": ["Chrom - Crowned Exalt"] },
+        "mythic": { "5": ["Gróa - Future Daughter"] },
         "special": {
           "4": [
             "Eir - Until Death",
@@ -5022,7 +5044,13 @@
           ]
         },
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
-        "rearmed": { "5": ["Canis - Ill Portent", "Chrom - Fell Exalt"] },
+        "rearmed": {
+          "5": [
+            "Alear - Casual Duelist",
+            "Canis - Ill Portent",
+            "Chrom - Fell Exalt"
+          ]
+        },
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "emblem": {
           "5": [
@@ -5438,7 +5466,8 @@
             "Vaida - Dracofang General",
             "Vigarde - Silent Emperor",
             "Lamia - Hellspawn",
-            "Haitaka - Persistent General"
+            "Haitaka - Persistent General",
+            "Boucheron - Big Softy"
           ]
         },
         "rearmed": { "5": ["Lysithea - Duality Prodigy"] },
@@ -5460,7 +5489,8 @@
           "5": [
             "Dagr - Sun's Radiance",
             "Nótt - Moon's Elegance",
-            "Eikþyrnir - Quieting Strength"
+            "Eikþyrnir - Quieting Strength",
+            "Gróa - Future Daughter"
           ]
         },
         "chosen": { "5": ["Laegjarn - Flame Miracle"] },
@@ -5577,6 +5607,7 @@
       "pool": {
         "#": { "5": ["Ivy - Bewitching Ruler"] },
         "rearmed": { "5": ["Lysithea - Duality Prodigy"] },
+        "mythic": { "5": ["Gróa - Future Daughter"] },
         "harmonized": { "5": ["Eirika - Spring Company"] }
       },
       "id": "Logic",
@@ -5710,6 +5741,7 @@
             "Bors - Ostia's Bastion",
             "Uther - Frugal Militarist"
           ],
+          "4": ["Jade - Iron Wall"],
           "5": [
             "Robin - Fell Reincarnation",
             "Eyvel - Mistress of Fiana",
@@ -5773,7 +5805,7 @@
           ]
         },
         "emblem": { "5": ["Roy - Of Binding", "Edelgard - Of Rivals"] },
-        "aided": { "5": ["Reginn - Dvergr Heir"] },
+        "aided": { "5": ["Reginn - Dvergr Heir", "Alear - And Sommie!"] },
         "entwined": { "5": ["Ash - Borrowed Power"] },
         "legendary": {
           "5": ["Robin - Exalt's Other Half", "Seliph - Scion of Light"]
@@ -5918,6 +5950,13 @@
       },
       "id": "Dragon Flame",
       "name": "龍炎",
+      "sp": 500,
+      "rules": "dragon"
+    },
+    "Dragon's Briar": {
+      "pool": { "aided": { "5": ["Alear - And Sommie!"] } },
+      "id": "Dragon's Briar",
+      "name": "龍之炎棘",
       "sp": 500,
       "rules": "dragon"
     },
@@ -9030,7 +9069,9 @@
         "rearmed": { "5": ["Tana - Soaring Princess", "Canis - Ill Portent"] },
         "attuned": { "5": ["Peony - Cherished Dream"] },
         "legendary": { "5": ["Elise - Sincere Sister", "Marth - Hero-King"] },
-        "mythic": { "5": ["Váli - God of Vengeance"] },
+        "mythic": {
+          "5": ["Váli - God of Vengeance", "Gróa - Future Daughter"]
+        },
         "special": {
           "4": ["Owain - Devoted Defender"],
           "5": [
@@ -9274,7 +9315,9 @@
         },
         "rearmed": { "5": ["Canis - Ill Portent"] },
         "legendary": { "5": ["Elise - Sincere Sister"] },
-        "mythic": { "5": ["Váli - God of Vengeance"] },
+        "mythic": {
+          "5": ["Váli - God of Vengeance", "Gróa - Future Daughter"]
+        },
         "special": { "5": ["Váli - Devoted Sister", "Céline - Love's Aroma"] },
         "duo": { "5": ["Freyja - Parallel Hearts"] },
         "harmonized": { "5": ["Eirika - Spring Company"] }
@@ -10634,6 +10677,7 @@
           "5": ["Hans - Ambitious Brute", "Holst - Hero of Leicester"]
         },
         "ascended": { "5": ["Ced - Sage of the Wind"] },
+        "rearmed": { "5": ["Alear - Casual Duelist"] },
         "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
         "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
         "legendary": { "5": ["Byleth - The Fódlan Light"] },
@@ -10682,6 +10726,7 @@
       "pool": {
         "#": {
           "3": ["Scáthach - Astra's Wake", "Etie - Fitness Fighter"],
+          "4": ["Jade - Iron Wall"],
           "5": ["Edelgard - Hegemon Husk", "Priam - Radiant Hero"]
         },
         "grail": {
@@ -10857,6 +10902,14 @@
       "name": "攻速無缺・鬼沒",
       "sp": 300,
       "icon": "skillA/Swift_Specter",
+      "rules": "learner.infantry-melee"
+    },
+    "Swift Life": {
+      "pool": { "rearmed": { "5": ["Alear - Casual Duelist"] } },
+      "id": "Swift Life",
+      "name": "攻速無缺・生命",
+      "sp": 300,
+      "icon": "skillA/Swift_Life",
       "rules": "learner.infantry-melee"
     },
     "Atk/Spd Clash 3": {
@@ -12220,7 +12273,7 @@
     },
     "Wily Fighter 3": {
       "pool": {
-        "#": { "5": ["Grima - Tyrant of Despair"] },
+        "#": { "4": ["Jade - Iron Wall"], "5": ["Grima - Tyrant of Despair"] },
         "grail": { "5": ["Wallace - Crag of Caelin"] },
         "ascended": { "5": ["Idunn - Divine Demon"] },
         "attuned": { "5": ["Hector - Steel Warrior"] },
@@ -14883,6 +14936,7 @@
     "Frenzy 3": {
       "pool": {
         "#": { "5": ["Charlotte - Wily Warrior"] },
+        "grail": { "5": ["Boucheron - Big Softy"] },
         "special": { "5": ["Larcei - Scion of Astra"] }
       },
       "id": "Frenzy 3",
@@ -15980,7 +16034,7 @@
     "Speedtaker 3": {
       "pool": {
         "#": { "5": ["Baldr - Rays of Judgment"] },
-        "rearmed": { "5": ["Noire - Of Two Minds"] },
+        "rearmed": { "5": ["Noire - Of Two Minds", "Alear - Casual Duelist"] },
         "attuned": { "5": ["Alm - Powerful Resolve"] },
         "emblem": { "5": ["Lyn - Of Blazing"] },
         "legendary": {
@@ -16011,7 +16065,10 @@
       "rules": "learner.infantry-flying-def-dmger"
     },
     "A/S Taker Burst": {
-      "pool": { "special": { "5": ["Sharena - Sea of Hope"] } },
+      "pool": {
+        "rearmed": { "5": ["Alear - Casual Duelist"] },
+        "special": { "5": ["Sharena - Sea of Hope"] }
+      },
       "id": "A/S Taker Burst",
       "name": "攻速吸收・初擊躍動",
       "sp": 400,
@@ -16060,6 +16117,7 @@
     "Pair Up 3": {
       "pool": {
         "emblem": { "5": ["Roy - Of Binding", "Corrin - Of Fates"] },
+        "aided": { "5": ["Alear - And Sommie!"] },
         "special": {
           "5": ["Hortensia - Cutesplosion", "Alfred - Joyous Snowdrop"]
         }
@@ -16073,6 +16131,7 @@
     "Pair Up 4": {
       "pool": {
         "emblem": { "5": ["Roy - Of Binding", "Corrin - Of Fates"] },
+        "aided": { "5": ["Alear - And Sommie!"] },
         "special": {
           "5": ["Hortensia - Cutesplosion", "Alfred - Joyous Snowdrop"]
         }
@@ -18527,7 +18586,7 @@
           ]
         },
         "grail": {
-          "4": ["Xane - Fickle Dragon"],
+          "4": ["Xane - Fickle Dragon", "Boucheron - Big Softy"],
           "5": [
             "Boyd - Future Great",
             "Marisa - Crimson Flash",
@@ -19988,6 +20047,7 @@
     "Odd Tempest 3": {
       "pool": {
         "#": { "5": ["Dimitri - Savage Boar", "Felix - Sword Savant"] },
+        "aided": { "5": ["Alear - And Sommie!"] },
         "legendary": { "5": ["Dimitri - Savior King", "Ayra - Supreme Astra"] },
         "special": {
           "5": [
@@ -20017,6 +20077,7 @@
           ]
         },
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
+        "rearmed": { "5": ["Alear - Casual Duelist"] },
         "legendary": { "5": ["Diamant - Fortified King"] },
         "mythic": { "5": ["Líf - Lethal Swordsman", "Dagr - Sun's Radiance"] },
         "special": {
@@ -20080,6 +20141,17 @@
       "sp": 300,
       "icon": "skillC/Burst_of_Thunder",
       "rules": "learner.infantry-melee"
+    },
+    "Thunder Specter": {
+      "pool": {
+        "rearmed": { "5": ["Alear - Casual Duelist"] },
+        "aided": { "5": ["Alear - And Sommie!"] }
+      },
+      "id": "Thunder Specter",
+      "name": "霹靂閃電・鬼沒",
+      "sp": 300,
+      "icon": "skillC/Thunder_Specter",
+      "rules": "learner.infantry-flying-melee"
     },
     "Assault Troop 3": {
       "pool": {
@@ -20312,6 +20384,7 @@
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
         "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
+        "mythic": { "5": ["Gróa - Future Daughter"] },
         "special": {
           "4": ["Dorothea - Rosy Songstress"],
           "5": ["Dimitri - Stargazing Lion"]
@@ -20336,6 +20409,14 @@
       "name": "影助・帶回4",
       "sp": 300,
       "icon": "skillC/Shadow_Shift_4",
+      "rules": "learner.cavalry-flying"
+    },
+    "Shadow Shift X": {
+      "pool": { "mythic": { "5": ["Gróa - Future Daughter"] } },
+      "id": "Shadow Shift X",
+      "name": "影助・帶回・十文章",
+      "sp": 300,
+      "icon": "skillC/Shadow_Shift_X",
       "rules": "learner.cavalry-flying"
     },
     "Lookout 3": {

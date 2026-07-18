@@ -1031,6 +1031,14 @@
     "icon": "skillB/Yune's_Chirps",
     "last": true
   },
+  "Maiden of Light": {
+    "id": "Maiden of Light",
+    "name": "光之女神的女兒",
+    "sp": 400,
+    "exclusive": ["Gróa - Future Daughter"],
+    "icon": "skillB/Maiden_of_Light",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

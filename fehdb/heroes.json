@@ -5290,6 +5290,43 @@
     "ver": "7.6",
     "dfKey": 5
   },
+  "Gróa - Future Daughter": {
+    "id": "Gróa - Future Daughter",
+    "title": "來自未來的女兒",
+    "name": "古蘿婭",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-tome",
+    "moveType": "flying",
+    "pool": "mythic",
+    "blesser": "mythic",
+    "blessing": "light-atk-2",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-07-17",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [28, 32, 35],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 10,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.7",
+    "dfKey": 8
+  },
   "Nerþuz - God of the Land": {
     "id": "Nerþuz - God of the Land",
     "title": "地之女神",
@@ -57630,6 +57667,41 @@
     "ver": "9.5",
     "dfKey": 7
   },
+  "Alear - Casual Duelist": {
+    "id": "Alear - Casual Duelist",
+    "title": "便服劍戟",
+    "name": "琉爾",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "pool": "rearmed",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2026-07-17",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [46, 49, 53],
+        "def": [35, 38, 41],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 10,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.7",
+    "dfKey": 8
+  },
   "Alear - Dragon Youth": {
     "id": "Alear - Dragon Youth",
     "title": "神龍王子",
@@ -57771,6 +57843,41 @@
     "book": 9,
     "ver": "9.5",
     "dfKey": 7
+  },
+  "Alear - And Sommie!": {
+    "id": "Alear - And Sommie!",
+    "title": "與索拉一起",
+    "name": "琉爾",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-dragon",
+    "moveType": "infantry",
+    "pool": "aided",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2026-07-17",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [46, 49, 53],
+        "def": [41, 44, 47],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 7,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 209,
+    "statMax": 210,
+    "book": 10,
+    "ver": "10.7",
+    "dfKey": 8
   },
   "Lumera - Dragon Monarch": {
     "id": "Lumera - Dragon Monarch",
@@ -58059,6 +58166,69 @@
     "statMax": 215,
     "book": 10,
     "ver": "10.0",
+    "dfKey": 8
+  },
+  "Boucheron - Big Softy": {
+    "id": "Boucheron - Big Softy",
+    "title": "堅毅又感性的巨斧",
+    "name": "布修隆",
+    "rarity": [5, 4, 3],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "infantry",
+    "pool": "grail",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2026-07-18",
+    "stats": {
+      "3": {
+        "hp": [41, 44, 47],
+        "atk": [39, 42, 45],
+        "spd": [40, 43, 46],
+        "def": [28, 31, 34],
+        "res": [19, 22, 25]
+      },
+      "4": {
+        "hp": [42, 45, 48],
+        "atk": [42, 45, 48],
+        "spd": [43, 46, 49],
+        "def": [29, 32, 35],
+        "res": [20, 23, 26]
+      },
+      "5": {
+        "hp": [45, 48, 51],
+        "atk": [44, 47, 50],
+        "spd": [45, 48, 52],
+        "def": [32, 35, 38],
+        "res": [22, 25, 28]
+      },
+      "3-1": {
+        "hp": 21,
+        "atk": 9,
+        "spd": 8,
+        "def": 8,
+        "res": 7
+      },
+      "4-1": {
+        "hp": 21,
+        "atk": 10,
+        "spd": 9,
+        "def": 8,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 22,
+        "atk": 10,
+        "spd": 9,
+        "def": 9,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": [],
+    "statMin": 203,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.7",
     "dfKey": 8
   },
   "Etie - Fitness Fighter": {
@@ -58499,6 +58669,54 @@
     "statMax": 205,
     "book": 9,
     "ver": "9.8",
+    "dfKey": 8
+  },
+  "Jade - Iron Wall": {
+    "id": "Jade - Iron Wall",
+    "title": "寶石守護者",
+    "name": "潔德",
+    "rarity": [5, 4],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "armored",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2026-07-17",
+    "stats": {
+      "4": {
+        "hp": [47, 50, 53],
+        "atk": [43, 46, 49],
+        "spd": [18, 21, 24],
+        "def": [44, 47, 50],
+        "res": [32, 35, 39]
+      },
+      "5": {
+        "hp": [50, 53, 56],
+        "atk": [45, 48, 52],
+        "spd": [20, 23, 26],
+        "def": [46, 49, 53],
+        "res": [35, 38, 42]
+      },
+      "4-1": {
+        "hp": 28,
+        "atk": 9,
+        "spd": 5,
+        "def": 10,
+        "res": 7
+      },
+      "5-1": {
+        "hp": 29,
+        "atk": 9,
+        "spd": 6,
+        "def": 10,
+        "res": 8
+      }
+    },
+    "assets": ["atk", "def", "res"],
+    "flaws": [],
+    "statMin": 211,
+    "statMax": 215,
+    "book": 10,
+    "ver": "10.7",
     "dfKey": 8
   },
   "Alcryst - Tender Archer": {

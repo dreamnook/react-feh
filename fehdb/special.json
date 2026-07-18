@@ -874,6 +874,15 @@
     "exclusive": ["Eikþyrnir - Chiseled Trainer"],
     "last": true
   },
+  "Covenant Blast": {
+    "id": "Covenant Blast",
+    "name": "真牽絆・神龍破",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Astra"],
+    "exclusive": ["Alear - Casual Duelist"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -1281,6 +1290,15 @@
     "name": "龍炎",
     "sp": 500,
     "cd": 4,
+    "prev": ["Ignis"],
+    "rules": "dragon",
+    "last": true
+  },
+  "Dragon's Briar": {
+    "id": "Dragon's Briar",
+    "name": "龍之炎棘",
+    "sp": 500,
+    "cd": 5,
     "prev": ["Ignis"],
     "rules": "dragon",
     "last": true
