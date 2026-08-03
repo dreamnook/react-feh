@@ -5055,6 +5055,7 @@
         "emblem": {
           "5": [
             "Lyn - Of Blazing",
+            "Leif - Of Genealogy",
             "Lucina - Of Awakening",
             "Byleth - Of the Academy"
           ]
@@ -11636,6 +11637,22 @@
       "sp": 300,
       "icon": "skillA/Rise_Above_4",
       "rules": "learner.infantry-armored"
+    },
+    "Arms Shield 3": {
+      "pool": { "emblem": { "5": ["Leif - Of Genealogy"] } },
+      "id": "Arms Shield 3",
+      "name": "避開要害3",
+      "sp": 240,
+      "icon": "skillA/Arms_Shield_3",
+      "rules": "learner.arms-shield"
+    },
+    "Arms Shield 4": {
+      "pool": { "emblem": { "5": ["Leif - Of Genealogy"] } },
+      "id": "Arms Shield 4",
+      "name": "避開要害4",
+      "sp": 300,
+      "icon": "skillA/Arms_Shield_4",
+      "rules": "learner.arms-shield"
     }
   },
   "skillB": {
@@ -14950,6 +14967,7 @@
         "#": { "5": ["Byleth - Anchor of Hope"] },
         "grail": { "5": ["Lamia - Hellspawn"] },
         "ascended": { "5": ["Hilda - Helping Hand"] },
+        "emblem": { "5": ["Leif - Of Genealogy"] },
         "chosen": { "5": ["Fjorm - Icy Miracle"] },
         "duo": { "5": ["Elincia - Hearts of Purity"] },
         "harmonized": { "5": ["Byleth - Cheer Power"] }
@@ -14991,7 +15009,10 @@
       "rules": ["learner.wielderInfantry"]
     },
     "Counter Dull": {
-      "pool": { "harmonized": { "5": ["Byleth - Cheer Power"] } },
+      "pool": {
+        "emblem": { "5": ["Leif - Of Genealogy"] },
+        "harmonized": { "5": ["Byleth - Cheer Power"] }
+      },
       "id": "Counter Dull",
       "name": "合氣・強化無效",
       "sp": 400,
@@ -20047,6 +20068,7 @@
     "Odd Tempest 3": {
       "pool": {
         "#": { "5": ["Dimitri - Savage Boar", "Felix - Sword Savant"] },
+        "emblem": { "5": ["Leif - Of Genealogy"] },
         "aided": { "5": ["Alear - And Sommie!"] },
         "legendary": { "5": ["Dimitri - Savior King", "Ayra - Supreme Astra"] },
         "special": {
@@ -20145,6 +20167,7 @@
     "Thunder Specter": {
       "pool": {
         "rearmed": { "5": ["Alear - Casual Duelist"] },
+        "emblem": { "5": ["Leif - Of Genealogy"] },
         "aided": { "5": ["Alear - And Sommie!"] }
       },
       "id": "Thunder Specter",

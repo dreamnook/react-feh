@@ -883,6 +883,15 @@
     "exclusive": ["Alear - Casual Duelist"],
     "last": true
   },
+  "Quadruple Hit": {
+    "id": "Quadruple Hit",
+    "name": "四重巧擊",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Astra"],
+    "exclusive": ["Leif - Of Genealogy"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

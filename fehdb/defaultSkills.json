@@ -11186,6 +11186,37 @@
       "Sly Echo": 5
     }
   },
+  "Leif - Of Genealogy": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Sage Lord's Axe": 5
+    },
+    "special": {
+      "Night Sky": 4,
+      "Astra": 4,
+      "Quadruple Hit": 5
+    },
+    "skillA": {
+      "Arms Shield 1": 2,
+      "Arms Shield 2": 3,
+      "Arms Shield 3": 4,
+      "Arms Shield 4": 5
+    },
+    "skillB": {
+      "Velocity 1": 2,
+      "Velocity 2": 3,
+      "Velocity 3": 4,
+      "Counter Dull": 5
+    },
+    "skillC": {
+      "Odd Tempest 1": 2,
+      "Odd Tempest 2": 3,
+      "Odd Tempest 3": 4,
+      "Thunder Specter": 5
+    }
+  },
   "Finn - Lance of Legend": {
     "weapon": {
       "Iron Lance": 1,

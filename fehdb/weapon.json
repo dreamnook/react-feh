@@ -14007,6 +14007,15 @@
       },
       "last": true
     },
+    "Sage Lord's Axe": {
+      "id": "Sage Lord's Axe",
+      "name": "賢王之斧",
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Leif - Of Genealogy"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",

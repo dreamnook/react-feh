@@ -142,12 +142,6 @@
     "colorType": 7,
     "weaponType": 7829367
   },
-  "learner.infantry-cavalry": {
-    "moveType": 5
-  },
-  "learner.armored-cavalry": {
-    "moveType": 6
-  },
   "learner.def-dmger": {
     "weaponType": 15732727
   },
@@ -386,6 +380,19 @@
     "moveType": 15,
     "weaponType": 65520
   },
+  "learner.infantry-cavalry": {
+    "moveType": 5
+  },
+  "learner.armored-cavalry": {
+    "moveType": 6
+  },
+  "learner.ruptured-sky": {
+    "moveType": 15,
+    "weaponType": 65527
+  },
+  "learner.arms-shield": {
+    "weaponType": 7341943
+  },
   "learner.r-duel-infantry": {
     "moveType": 1,
     "colorType": 1,
@@ -445,9 +452,5 @@
     "moveType": 8,
     "colorType": 8,
     "weaponType": 8947848
-  },
-  "learner.ruptured-sky": {
-    "moveType": 15,
-    "weaponType": 65527
   }
 }

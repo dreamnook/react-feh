@@ -18301,6 +18301,41 @@
     "ver": "9.7",
     "dfKey": 7
   },
+  "Leif - Of Genealogy": {
+    "id": "Leif - Of Genealogy",
+    "title": "系譜紋章士",
+    "name": "里弗",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "infantry",
+    "pool": "emblem",
+    "appearsIn": ["Thracia 776", "Engage"],
+    "releaseDate": "2026-07-29",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [46, 49, 53],
+        "def": [36, 39, 42],
+        "res": [26, 30, 33]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 11,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.7",
+    "dfKey": 8
+  },
   "Finn - Lance of Legend": {
     "id": "Finn - Lance of Legend",
     "title": "傳說中的槍騎士",

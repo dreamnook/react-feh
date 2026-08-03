@@ -5568,5 +5568,38 @@
     "rules": "learner.infantry-armored",
     "icon": "skillA/Rise_Above_4",
     "last": true
+  },
+  "Arms Shield 1": {
+    "id": "Arms Shield 1",
+    "name": "避開要害1",
+    "sp": 60,
+    "rules": "learner.arms-shield",
+    "icon": "skillA/Arms_Shield_1"
+  },
+  "Arms Shield 2": {
+    "id": "Arms Shield 2",
+    "name": "避開要害2",
+    "sp": 120,
+    "prev": ["Arms Shield 1"],
+    "rules": "learner.arms-shield",
+    "icon": "skillA/Arms_Shield_2"
+  },
+  "Arms Shield 3": {
+    "id": "Arms Shield 3",
+    "name": "避開要害3",
+    "sp": 240,
+    "prev": ["Arms Shield 2"],
+    "rules": "learner.arms-shield",
+    "icon": "skillA/Arms_Shield_3",
+    "last": true
+  },
+  "Arms Shield 4": {
+    "id": "Arms Shield 4",
+    "name": "避開要害4",
+    "sp": 300,
+    "prev": ["Arms Shield 3"],
+    "rules": "learner.arms-shield",
+    "icon": "skillA/Arms_Shield_4",
+    "last": true
   }
 }

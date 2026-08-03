@@ -15829,6 +15829,20 @@
     "skillB": { "Momentum 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Fatal Smoke 4": { "sp": 300, "rarity": 5 } }
   },
+  "Leif - Of Genealogy": {
+    "score": 368,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Arms Shield 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Counter Dull": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Thunder Specter": { "sp": 300, "rarity": 5 } }
+  },
   "Corrin - Child of Dawn": {
     "score": 368,
     "scoreTotal": 1104,
