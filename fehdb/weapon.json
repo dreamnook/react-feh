@@ -3082,6 +3082,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Mareeta - Astra Awakened"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Ascending_Blade_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Lands Sword": {
@@ -7806,6 +7829,30 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Ashe - Fabled Sea Knight"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Divine_Sea_Spear_W",
+          "cd": -1
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Loyalty Spear": {
@@ -8117,6 +8164,29 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Jeralt - Blade Breaker"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Breaker_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Firelight Lance": {
@@ -21302,6 +21372,36 @@
       "exclusive": ["Eir - Until Death"],
       "last": true
     },
+    "Lark Dagger": {
+      "id": "Lark Dagger",
+      "name": "拉克村的暗器",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Colm - Capable Thief"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Lark_Dagger_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Arcane Void": {
       "id": "Arcane Void",
       "name": "魔器金倫加",
@@ -33003,6 +33103,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Tine - Rumbling Thunder"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Thunderer_Tome_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Moonlight Drop": {
