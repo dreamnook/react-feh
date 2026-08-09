@@ -3221,6 +3221,30 @@
       "icon": "skillB/Dull_Ranged_3",
       "last": true
     },
+    "Atk/Spd Link 1": {
+      "id": "Atk/Spd Link 1",
+      "name": "攻擊速度連動1",
+      "sp": 60,
+      "rules": "not.white-staff",
+      "icon": "skillB/Atk_Spd_Link_1"
+    },
+    "Atk/Spd Link 2": {
+      "id": "Atk/Spd Link 2",
+      "name": "攻擊速度連動2",
+      "sp": 120,
+      "prev": ["Atk/Spd Link 1"],
+      "rules": "not.white-staff",
+      "icon": "skillB/Atk_Spd_Link_2"
+    },
+    "Atk/Spd Link 3": {
+      "id": "Atk/Spd Link 3",
+      "name": "攻擊速度連動3",
+      "sp": 240,
+      "prev": ["Atk/Spd Link 2"],
+      "rules": "not.white-staff",
+      "icon": "skillB/Atk_Spd_Link_3",
+      "last": true
+    },
     "Atk/Def Link 1": {
       "id": "Atk/Def Link 1",
       "name": "攻擊防守連動1",
@@ -3696,6 +3720,30 @@
       "prev": ["Potent 2"],
       "rules": "learner.infantry-cavalry-flying-melee-def-dmger",
       "icon": "skillB/Potent_3",
+      "last": true
+    },
+    "Resonance 1": {
+      "id": "Resonance 1",
+      "name": "共鳴之黑魔法1",
+      "sp": 60,
+      "rules": "learner.tome-staff",
+      "icon": "skillB/Resonance_1"
+    },
+    "Resonance 2": {
+      "id": "Resonance 2",
+      "name": "共鳴之黑魔法2",
+      "sp": 120,
+      "prev": ["Resonance 1"],
+      "rules": "learner.tome-staff",
+      "icon": "skillB/Resonance_2"
+    },
+    "Resonance 3": {
+      "id": "Resonance 3",
+      "name": "共鳴之黑魔法3",
+      "sp": 240,
+      "prev": ["Resonance 2"],
+      "rules": "learner.tome-staff",
+      "icon": "skillB/Resonance_3",
       "last": true
     }
   },
@@ -8387,6 +8435,36 @@
       "def": 4,
       "prev": ["Squad Ace DC 2"],
       "icon": "seal/Squad_Ace_Atk_Spd_Def_3",
+      "last": true
+    },
+    "Squad Ace DD 1": {
+      "id": "Squad Ace DD 1",
+      "name": "第１０８迷宮的霸王1",
+      "sp": 120,
+      "atk": 2,
+      "spd": 2,
+      "res": 2,
+      "icon": "seal/Squad_Ace_Atk_Spd_Res_1"
+    },
+    "Squad Ace DD 2": {
+      "id": "Squad Ace DD 2",
+      "name": "第１０８迷宮的霸王2",
+      "sp": 180,
+      "atk": 3,
+      "spd": 3,
+      "res": 3,
+      "prev": ["Squad Ace DD 1"],
+      "icon": "seal/Squad_Ace_Atk_Spd_Res_2"
+    },
+    "Squad Ace DD 3": {
+      "id": "Squad Ace DD 3",
+      "name": "第１０８迷宮的霸王3",
+      "sp": 240,
+      "atk": 4,
+      "spd": 4,
+      "res": 4,
+      "prev": ["Squad Ace DD 2"],
+      "icon": "seal/Squad_Ace_Atk_Spd_Res_3",
       "last": true
     }
   }

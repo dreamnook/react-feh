@@ -425,6 +425,14 @@
     "exclusive": ["Marth - Masked Gladiator"],
     "last": true
   },
+  "To Conquer Fate": {
+    "id": "To Conquer Fate",
+    "name": "真我要改變命運！",
+    "sp": 500,
+    "prev": ["Reposition"],
+    "exclusive": ["Chrom - Revitalized Fate"],
+    "last": true
+  },
   "Heal": {
     "id": "Heal",
     "name": "聖療",

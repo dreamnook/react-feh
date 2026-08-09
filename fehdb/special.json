@@ -892,6 +892,15 @@
     "exclusive": ["Leif - Of Genealogy"],
     "last": true
   },
+  "True Emblem": {
+    "id": "True Emblem",
+    "name": "純正火焰紋章",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Draconic Aura"],
+    "exclusive": ["Marth - Timeless Warmth"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

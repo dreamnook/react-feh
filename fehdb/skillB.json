@@ -1039,6 +1039,30 @@
     "icon": "skillB/Maiden_of_Light",
     "last": true
   },
+  "Binding Barrier": {
+    "id": "Binding Barrier",
+    "name": "真封印之盾",
+    "sp": 400,
+    "exclusive": ["Marth - Timeless Warmth"],
+    "icon": "skillB/Binding_Barrier",
+    "last": true
+  },
+  "Perfect Plan": {
+    "id": "Perfect Plan",
+    "name": "真正如我所料！",
+    "sp": 400,
+    "exclusive": ["Robin - Onsen Tactician"],
+    "icon": "skillB/Perfect_Plan",
+    "last": true
+  },
+  "True Love": {
+    "id": "True Love",
+    "name": "真你相信愛嗎？",
+    "sp": 400,
+    "exclusive": ["Caeda - Cleansed Princess"],
+    "icon": "skillB/True_Love",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -2885,14 +2909,6 @@
     "rules": "learner.infantry-melee",
     "prev": ["Guard 3"],
     "icon": "skillB/Rejuvenate",
-    "last": true
-  },
-  "Riptide Guard": {
-    "id": "Riptide Guard",
-    "name": "狂濤・取消",
-    "sp": 400,
-    "rules": "learner.cavalry-flying-melee",
-    "icon": "skillB/Riptide_Guard",
     "last": true
   },
   "Wrathful Staff 1": {
@@ -5426,6 +5442,24 @@
     "icon": "skillB/Flow_Desperation",
     "last": true
   },
+  "Riptide Guard": {
+    "id": "Riptide Guard",
+    "name": "狂濤・取消",
+    "sp": 400,
+    "rules": "learner.cavalry-flying-melee",
+    "prev": ["Guard 3"],
+    "icon": "skillB/Riptide_Guard",
+    "last": true
+  },
+  "Riptide Despair": {
+    "id": "Riptide Despair",
+    "name": "狂濤・猛攻",
+    "sp": 400,
+    "rules": "learner.cavalry-flying-melee",
+    "prev": ["Desperation 3"],
+    "icon": "skillB/Riptide_Despair",
+    "last": true
+  },
   "Assault Force": {
     "id": "Assault Force",
     "name": "強攻・不屈",
@@ -5957,6 +5991,48 @@
     "icon": "skillB/Gambit_4",
     "last": true
   },
+  "Magic Gambit 1": {
+    "id": "Magic Gambit 1",
+    "name": "底牌・魔道1",
+    "sp": 60,
+    "rules": "tome",
+    "icon": "skillB/Magic_Gambit_1"
+  },
+  "Magic Gambit 2": {
+    "id": "Magic Gambit 2",
+    "name": "底牌・魔道2",
+    "sp": 120,
+    "prev": ["Magic Gambit 1"],
+    "rules": "tome",
+    "icon": "skillB/Magic_Gambit_2"
+  },
+  "Magic Gambit 3": {
+    "id": "Magic Gambit 3",
+    "name": "底牌・魔道3",
+    "sp": 240,
+    "prev": ["Magic Gambit 2"],
+    "rules": "tome",
+    "icon": "skillB/Magic_Gambit_3",
+    "last": true
+  },
+  "Magic Gambit 4": {
+    "id": "Magic Gambit 4",
+    "name": "底牌・魔道4",
+    "sp": 300,
+    "prev": ["Magic Gambit 3"],
+    "rules": "tome",
+    "icon": "skillB/Magic_Gambit_4",
+    "last": true
+  },
+  "Demonic Force": {
+    "id": "Demonic Force",
+    "name": "魔之精隨・不屈",
+    "sp": 400,
+    "rules": "tome",
+    "prev": ["Magic Gambit 3"],
+    "icon": "skillB/Demonic_Force",
+    "last": true
+  },
   "Counter Roar 1": {
     "id": "Counter Roar 1",
     "name": "反擊的咆嘯1",
@@ -6063,48 +6139,6 @@
     "rules": "infantry",
     "prev": ["Laguz Friend 3"],
     "icon": "skillB/Laguz_Loyalty",
-    "last": true
-  },
-  "Magic Gambit 1": {
-    "id": "Magic Gambit 1",
-    "name": "底牌・魔道1",
-    "sp": 60,
-    "rules": "tome",
-    "icon": "skillB/Magic_Gambit_1"
-  },
-  "Magic Gambit 2": {
-    "id": "Magic Gambit 2",
-    "name": "底牌・魔道2",
-    "sp": 120,
-    "prev": ["Magic Gambit 1"],
-    "rules": "tome",
-    "icon": "skillB/Magic_Gambit_2"
-  },
-  "Magic Gambit 3": {
-    "id": "Magic Gambit 3",
-    "name": "底牌・魔道3",
-    "sp": 240,
-    "prev": ["Magic Gambit 2"],
-    "rules": "tome",
-    "icon": "skillB/Magic_Gambit_3",
-    "last": true
-  },
-  "Magic Gambit 4": {
-    "id": "Magic Gambit 4",
-    "name": "底牌・魔道4",
-    "sp": 300,
-    "prev": ["Magic Gambit 3"],
-    "rules": "tome",
-    "icon": "skillB/Magic_Gambit_4",
-    "last": true
-  },
-  "Demonic Force": {
-    "id": "Demonic Force",
-    "name": "魔之精隨・不屈",
-    "sp": 400,
-    "rules": "tome",
-    "prev": ["Magic Gambit 3"],
-    "icon": "skillB/Demonic_Force",
     "last": true
   },
   "Resonance 1": {

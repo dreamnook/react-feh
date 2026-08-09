@@ -6824,6 +6824,41 @@
     "ver": "9.4",
     "dfKey": 7
   },
+  "Marth - Timeless Warmth": {
+    "id": "Marth - Timeless Warmth",
+    "title": "跨越時空的浴療",
+    "name": "馬爾斯",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-sword",
+    "moveType": "infantry",
+    "pool": "harmonized",
+    "appearsIn": ["Shadow Dragon / (New) Mystery", "Awakening"],
+    "releaseDate": "2026-08-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [46, 49, 53],
+        "def": [35, 38, 41],
+        "res": [27, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 10,
+        "def": 10,
+        "res": 9
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.8",
+    "dfKey": 8
+  },
   "Kris - Unknown Hero": {
     "id": "Kris - Unknown Hero",
     "title": "無名英雄",
@@ -7759,6 +7794,41 @@
     "book": 8,
     "ver": "8.3",
     "dfKey": 6
+  },
+  "Caeda - Cleansed Princess": {
+    "id": "Caeda - Cleansed Princess",
+    "title": "出浴的公主",
+    "name": "希達",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-tome",
+    "moveType": "flying",
+    "pool": "special",
+    "appearsIn": ["Shadow Dragon / (New) Mystery"],
+    "releaseDate": "2026-08-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [42, 45, 48],
+        "spd": [46, 49, 53],
+        "def": [21, 24, 27],
+        "res": [28, 31, 34]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 7,
+        "res": 7
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.8",
+    "dfKey": 8
   },
   "Ogma - Loyal Blade": {
     "id": "Ogma - Loyal Blade",
@@ -38232,6 +38302,41 @@
     "ver": "9.9",
     "dfKey": 8
   },
+  "Chrom - Revitalized Fate": {
+    "id": "Chrom - Revitalized Fate",
+    "title": "改變命運的名湯",
+    "name": "庫洛武",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Awakening"],
+    "releaseDate": "2026-08-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [46, 49, 53],
+        "spd": [39, 43, 46],
+        "def": [45, 48, 51],
+        "res": [12, 16, 19]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 13,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.8",
+    "dfKey": 8
+  },
   "Robin - High Deliverer": {
     "id": "Robin - High Deliverer",
     "title": "聖王的軍師",
@@ -38863,6 +38968,41 @@
     "book": 8,
     "ver": "8.8",
     "dfKey": 7
+  },
+  "Robin - Onsen Tactician": {
+    "id": "Robin - Onsen Tactician",
+    "title": "隱密溫泉的知名軍師",
+    "name": "魯弗萊",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "flying",
+    "pool": "rearmed",
+    "appearsIn": ["Awakening"],
+    "releaseDate": "2026-08-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [45, 48, 52],
+        "def": [30, 33, 36],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 9,
+        "def": 9,
+        "res": 6
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 189,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.8",
+    "dfKey": 8
   },
   "Lissa - Sprightly Cleric": {
     "id": "Lissa - Sprightly Cleric",

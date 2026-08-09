@@ -4026,6 +4026,16 @@
       "exclusive": ["Ike - Full-Tilt Merc"],
       "last": true
     },
+    "Lineage Lantern": {
+      "id": "Lineage Lantern",
+      "name": "祖先與後裔的提燈",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Marth - Timeless Warmth"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -9201,6 +9211,16 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Byleth - Cheer Power"],
+      "last": true
+    },
+    "Hot-Spring Sign": {
+      "id": "Hot-Spring Sign",
+      "name": "溫泉的看板",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Chrom - Revitalized Fate"],
       "last": true
     },
     "Arcane Qiang": {
@@ -31814,6 +31834,16 @@
       "exclusive": ["Baldr - Eternal Shimmer"],
       "last": true
     },
+    "Hot-Spring Pail": {
+      "id": "Hot-Spring Pail",
+      "name": "溫泉的木盆",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Caeda - Cleansed Princess"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",
@@ -33514,6 +33544,34 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Tharja - Dour Cheer"],
+      "last": true
+    },
+    "Arcane Duck Pail": {
+      "id": "Arcane Duck Pail",
+      "name": "魔器・鴨子木盆",
+      "mt": 14,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Atlas"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Stone": {

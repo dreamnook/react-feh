@@ -2363,6 +2363,15 @@
     "icon": "skillA/Distant_A_D_Form",
     "last": true
   },
+  "D A/S/D Bond": {
+    "id": "D A/S/D Bond",
+    "name": "遠反・攻速防的羈絆",
+    "sp": 300,
+    "rules": "melee",
+    "prev": ["Distant Counter"],
+    "icon": "skillA/D_A_S_D_Bond",
+    "last": true
+  },
   "Distant Foil": {
     "id": "Distant Foil",
     "name": "金剛反擊・遠距離",
@@ -3944,6 +3953,22 @@
     "sp": 240,
     "prev": ["AR-O Spd/Res 2"],
     "icon": "skillA/AR-O_Spd_Res_3",
+    "last": true
+  },
+  "A/S Foresight Nix": {
+    "id": "A/S Foresight Nix",
+    "name": "攻擊速度的預知逆用",
+    "sp": 300,
+    "prev": ["AR-O Atk/Spd 3"],
+    "icon": "skillA/A_S_Foresight_Nix",
+    "last": true
+  },
+  "A/D Foresight Nix": {
+    "id": "A/D Foresight Nix",
+    "name": "攻擊防守的預知逆用",
+    "sp": 300,
+    "prev": ["AR-O Atk/Def 3"],
+    "icon": "skillA/A_D_Foresight_Nix",
     "last": true
   },
   "AR-D Atk/Spd 1": {

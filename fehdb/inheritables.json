@@ -3007,6 +3007,13 @@
       }
     },
     "white-tome": {
+      "Arcane Duck Pail": {
+        "pool": { "rearmed": { "5": ["Robin - Onsen Tactician"] } },
+        "id": "Arcane Duck Pail",
+        "name": "魔器・鴨子木盆",
+        "sp": 300,
+        "refine": 350
+      },
       "Hvítrvulture+": {
         "pool": { "#": { "5": ["Niime - Mountain Hermit"] } },
         "id": "Hvítrvulture+",
@@ -3904,7 +3911,8 @@
             "Seiðr - Candlelit Hope",
             "Veronica - Royal Reception",
             "Leo - Dark Sprout",
-            "Chrom - Pivotal Blow"
+            "Chrom - Pivotal Blow",
+            "Chrom - Revitalized Fate"
           ]
         },
         "duo": {
@@ -4256,6 +4264,7 @@
       "pool": {
         "#": { "5": ["Azelle - Youthful Flame"] },
         "grail": { "4": ["Seth - Silver-Sea Knight"] },
+        "rearmed": { "5": ["Robin - Onsen Tactician"] },
         "special": {
           "4": ["Ashe - Budding Chivalry"],
           "5": ["Lucia - Loyalty Enrobed"]
@@ -4270,6 +4279,7 @@
     "Rally Up Spd+": {
       "pool": {
         "#": { "5": ["Azelle - Youthful Flame"] },
+        "rearmed": { "5": ["Robin - Onsen Tactician"] },
         "special": {
           "5": ["Ashe - Budding Chivalry", "Lucia - Loyalty Enrobed"]
         },
@@ -5080,6 +5090,7 @@
         "special": {
           "4": ["Zihark - Ninja Blademaster"],
           "5": [
+            "Caeda - Cleansed Princess",
             "Gaius - Thief Exposed",
             "Eitr - Spring Sunrise",
             "Larcei - Scion of Astra",
@@ -5406,6 +5417,7 @@
         },
         "harmonized": {
           "5": [
+            "Marth - Timeless Warmth",
             "Karla - Spring Reveries",
             "Chloé - Spring Wings",
             "Ingrid - Cordial Teatime"
@@ -5471,7 +5483,9 @@
             "Boucheron - Big Softy"
           ]
         },
-        "rearmed": { "5": ["Lysithea - Duality Prodigy"] },
+        "rearmed": {
+          "5": ["Lysithea - Duality Prodigy", "Robin - Onsen Tactician"]
+        },
         "attuned": { "5": ["Lachesis - Loving Sister"] },
         "emblem": { "5": ["Corrin - Of Fates"] },
         "entwined": { "5": ["Sharena - Borrowed Divinity"] },
@@ -5607,7 +5621,9 @@
     "Logic": {
       "pool": {
         "#": { "5": ["Ivy - Bewitching Ruler"] },
-        "rearmed": { "5": ["Lysithea - Duality Prodigy"] },
+        "rearmed": {
+          "5": ["Lysithea - Duality Prodigy", "Robin - Onsen Tactician"]
+        },
         "mythic": { "5": ["Gróa - Future Daughter"] },
         "harmonized": { "5": ["Eirika - Spring Company"] }
       },
@@ -6351,7 +6367,9 @@
         "rearmed": { "5": ["Sonya - Beautiful Mage"] },
         "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
         "legendary": { "5": ["Dimitri - Savior King"] },
-        "special": { "5": ["Chrom - Pivotal Blow"] },
+        "special": {
+          "5": ["Chrom - Pivotal Blow", "Chrom - Revitalized Fate"]
+        },
         "duo": { "5": ["Heiðrún - Sisters of Healing"] },
         "harmonized": { "5": ["Igrene - Sworn Protectors"] }
       },
@@ -8585,7 +8603,9 @@
             "Ike - Close-Knit Siblings"
           ]
         },
-        "harmonized": { "5": ["Myrrh - Spring Harmony"] }
+        "harmonized": {
+          "5": ["Marth - Timeless Warmth", "Myrrh - Spring Harmony"]
+        }
       },
       "id": "Distant Counter",
       "name": "遠距離反擊",
@@ -8710,6 +8730,14 @@
       "name": "遠反・攻防的密集",
       "sp": 300,
       "icon": "skillA/Distant_A_D_Form",
+      "rules": "melee"
+    },
+    "D A/S/D Bond": {
+      "pool": { "harmonized": { "5": ["Marth - Timeless Warmth"] } },
+      "id": "D A/S/D Bond",
+      "name": "遠反・攻速防的羈絆",
+      "sp": 300,
+      "icon": "skillA/D_A_S_D_Bond",
       "rules": "melee"
     },
     "Distant Foil": {
@@ -10092,14 +10120,21 @@
       "rules": "infantry"
     },
     "AR-O Atk/Spd 3": {
-      "pool": { "mythic": { "5": ["Naga - Dragon Divinity"] } },
+      "pool": {
+        "rearmed": { "5": ["Robin - Onsen Tactician"] },
+        "mythic": { "5": ["Naga - Dragon Divinity"] }
+      },
       "id": "AR-O Atk/Spd 3",
       "name": "攻擊速度的攻城戰3",
       "sp": 240,
       "icon": "skillA/AR-O_Atk_Spd_3"
     },
     "AR-O Atk/Def 3": {
-      "pool": { "special": { "5": ["Lukas - Buffet for One"] } },
+      "pool": {
+        "special": {
+          "5": ["Lukas - Buffet for One", "Chrom - Revitalized Fate"]
+        }
+      },
       "id": "AR-O Atk/Def 3",
       "name": "攻擊防守的攻城戰3",
       "sp": 240,
@@ -10111,6 +10146,20 @@
       "name": "速度魔防的攻城戰3",
       "sp": 240,
       "icon": "skillA/AR-O_Spd_Res_3"
+    },
+    "A/S Foresight Nix": {
+      "pool": { "rearmed": { "5": ["Robin - Onsen Tactician"] } },
+      "id": "A/S Foresight Nix",
+      "name": "攻擊速度的預知逆用",
+      "sp": 300,
+      "icon": "skillA/A_S_Foresight_Nix"
+    },
+    "A/D Foresight Nix": {
+      "pool": { "special": { "5": ["Chrom - Revitalized Fate"] } },
+      "id": "A/D Foresight Nix",
+      "name": "攻擊防守的預知逆用",
+      "sp": 300,
+      "icon": "skillA/A_D_Foresight_Nix"
     },
     "AR-D Atk/Spd 3": {
       "pool": {
@@ -10416,6 +10465,7 @@
           ],
           "5": [
             "Hortensia - Winter's Dearest",
+            "Caeda - Cleansed Princess",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
             "Delthea - Prodigy in Bloom",
@@ -10629,7 +10679,10 @@
       "rules": "flying"
     },
     "Atk/Spd Airspace": {
-      "pool": { "harmonized": { "5": ["Hilda - Skyward Wings"] } },
+      "pool": {
+        "special": { "5": ["Caeda - Cleansed Princess"] },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
+      },
       "id": "Atk/Spd Airspace",
       "name": "攻擊速度的領空",
       "sp": 300,
@@ -11875,7 +11928,8 @@
             "Ishtar - Thunder's Waltz",
             "Lysithea - Tea Sweetener",
             "Gunnthrá - Year's First Dream",
-            "Petra - Faraway Sun"
+            "Petra - Faraway Sun",
+            "Chrom - Revitalized Fate"
           ]
         },
         "harmonized": { "5": ["Ayra - Together in Tea"] }
@@ -13443,14 +13497,6 @@
       "sp": 400,
       "icon": "skillB/Rejuvenate",
       "rules": "learner.infantry-melee"
-    },
-    "Riptide Guard": {
-      "pool": { "rearmed": { "5": ["Reginn - Full-Tilt Bride"] } },
-      "id": "Riptide Guard",
-      "name": "狂濤・取消",
-      "sp": 400,
-      "icon": "skillB/Riptide_Guard",
-      "rules": "learner.cavalry-flying-melee"
     },
     "Wrathful Staff 3": {
       "pool": {
@@ -15462,6 +15508,22 @@
       "icon": "skillB/Flow_Desperation",
       "rules": "learner.wielderCavalryFlying"
     },
+    "Riptide Guard": {
+      "pool": { "rearmed": { "5": ["Reginn - Full-Tilt Bride"] } },
+      "id": "Riptide Guard",
+      "name": "狂濤・取消",
+      "sp": 400,
+      "icon": "skillB/Riptide_Guard",
+      "rules": "learner.cavalry-flying-melee"
+    },
+    "Riptide Despair": {
+      "pool": { "special": { "5": ["Chrom - Revitalized Fate"] } },
+      "id": "Riptide Despair",
+      "name": "狂濤・猛攻",
+      "sp": 400,
+      "icon": "skillB/Riptide_Despair",
+      "rules": "learner.cavalry-flying-melee"
+    },
     "Assault Force": {
       "pool": {
         "emblem": { "5": ["Eirika - Of the Sacred"] },
@@ -15850,6 +15912,37 @@
       "icon": "skillB/Gambit_4",
       "rules": "learner.wielder"
     },
+    "Magic Gambit 3": {
+      "pool": {
+        "#": { "5": ["Byleth - Ashen Nightmare"] },
+        "special": { "5": ["Robin - Fated Vessel"] },
+        "duo": { "5": ["Baldr - Eternal Shimmer"] }
+      },
+      "id": "Magic Gambit 3",
+      "name": "底牌・魔道3",
+      "sp": 240,
+      "icon": "skillB/Magic_Gambit_3",
+      "rules": "tome"
+    },
+    "Magic Gambit 4": {
+      "pool": { "special": { "5": ["Robin - Fated Vessel"] } },
+      "id": "Magic Gambit 4",
+      "name": "底牌・魔道4",
+      "sp": 300,
+      "icon": "skillB/Magic_Gambit_4",
+      "rules": "tome"
+    },
+    "Demonic Force": {
+      "pool": {
+        "#": { "5": ["Byleth - Ashen Nightmare"] },
+        "duo": { "5": ["Baldr - Eternal Shimmer"] }
+      },
+      "id": "Demonic Force",
+      "name": "魔之精隨・不屈",
+      "sp": 400,
+      "icon": "skillB/Demonic_Force",
+      "rules": "tome"
+    },
     "Counter Roar 3": {
       "pool": {
         "#": { "5": ["Corrin - Silent Bloodline"] },
@@ -15935,37 +16028,6 @@
       "sp": 300,
       "icon": "skillB/Laguz_Loyalty",
       "rules": "infantry"
-    },
-    "Magic Gambit 3": {
-      "pool": {
-        "#": { "5": ["Byleth - Ashen Nightmare"] },
-        "special": { "5": ["Robin - Fated Vessel"] },
-        "duo": { "5": ["Baldr - Eternal Shimmer"] }
-      },
-      "id": "Magic Gambit 3",
-      "name": "底牌・魔道3",
-      "sp": 240,
-      "icon": "skillB/Magic_Gambit_3",
-      "rules": "tome"
-    },
-    "Magic Gambit 4": {
-      "pool": { "special": { "5": ["Robin - Fated Vessel"] } },
-      "id": "Magic Gambit 4",
-      "name": "底牌・魔道4",
-      "sp": 300,
-      "icon": "skillB/Magic_Gambit_4",
-      "rules": "tome"
-    },
-    "Demonic Force": {
-      "pool": {
-        "#": { "5": ["Byleth - Ashen Nightmare"] },
-        "duo": { "5": ["Baldr - Eternal Shimmer"] }
-      },
-      "id": "Demonic Force",
-      "name": "魔之精隨・不屈",
-      "sp": 400,
-      "icon": "skillB/Demonic_Force",
-      "rules": "tome"
     },
     "Resonance 3": {
       "pool": {
@@ -16316,6 +16378,7 @@
     "Spur Atk/Spd 2": {
       "pool": {
         "#": { "3": ["Sothe - Zephyr", "Ricken - Shepherd Novice"] },
+        "rearmed": { "5": ["Robin - Onsen Tactician"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
         "special": { "5": ["Váli - Devoted Sister", "Mia - Zenith Challenger"] }
       },
@@ -16600,6 +16663,7 @@
     },
     "Null Uplift A/S": {
       "pool": {
+        "rearmed": { "5": ["Robin - Onsen Tactician"] },
         "mythic": { "5": ["Váli - God of Vengeance"] },
         "special": { "5": ["Mia - Zenith Challenger"] }
       },
@@ -17213,7 +17277,8 @@
             "Reinhardt - Lightning's Rondo",
             "Caeda - Princess of Talys",
             "Hríd - Resolute Prince",
-            "Severa - Bitter Blossom"
+            "Severa - Bitter Blossom",
+            "Chrom - Revitalized Fate"
           ]
         },
         "duo": { "5": ["Sigurd - Honorable Nobles"] },
@@ -17448,7 +17513,9 @@
     "A/D Outcry Dull": {
       "pool": {
         "#": { "5": ["Lowen - Apprentice Knight"] },
-        "special": { "5": ["Alfonse - Sunlit Spirit"] }
+        "special": {
+          "5": ["Alfonse - Sunlit Spirit", "Chrom - Revitalized Fate"]
+        }
       },
       "id": "A/D Outcry Dull",
       "name": "攻防鼓譟・強化無效",
@@ -18454,7 +18521,11 @@
           ]
         },
         "harmonized": {
-          "5": ["Igrene - Sworn Protectors", "Alm - For Others' Sake"]
+          "5": [
+            "Marth - Timeless Warmth",
+            "Igrene - Sworn Protectors",
+            "Alm - For Others' Sake"
+          ]
         }
       },
       "id": "Time's Pulse 3",
@@ -18579,7 +18650,11 @@
       "rules": "infantry"
     },
     "Null Pulse Follow": {
-      "pool": { "harmonized": { "5": ["Alm - For Others' Sake"] } },
+      "pool": {
+        "harmonized": {
+          "5": ["Marth - Timeless Warmth", "Alm - For Others' Sake"]
+        }
+      },
       "id": "Null Pulse Follow",
       "name": "追擊之躍動・識破",
       "sp": 300,

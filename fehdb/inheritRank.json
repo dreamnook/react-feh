@@ -4944,6 +4944,18 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 4": { "sp": 300, "rarity": 5 } }
   },
+  "Caeda - Cleansed Princess": {
+    "score": 318,
+    "scoreTotal": 530,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 1000,
+    "bst": 189,
+    "special": { "Astra": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Airspace": { "sp": 300, "rarity": 5 } }
+  },
   "Bruno - Masked Reveler": {
     "score": 249,
     "scoreTotal": 534,
@@ -11446,6 +11458,19 @@
     "skillA": { "Fireflood Boost 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Mystic Boost 4": { "sp": 300, "rarity": 5 } }
   },
+  "Marth - Timeless Warmth": {
+    "score": 318,
+    "scoreTotal": 848,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Draconic Aura": { "sp": 200, "rarity": 5 } },
+    "skillA": { "D A/S/D Bond": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Null Pulse Follow": { "sp": 300, "rarity": 5 } }
+  },
   "Seiðr - Time's Goddesses": {
     "score": 318,
     "scoreTotal": 848,
@@ -17542,6 +17567,20 @@
     "skillB": { "Atk/Spd Bulwark 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Spd Smoke 4": { "sp": 300, "rarity": 5 } }
   },
+  "Robin - Onsen Tactician": {
+    "score": 450,
+    "scoreTotal": 1350,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 189,
+    "assist": { "Rally Up Spd+": { "sp": 400, "rarity": 5 } },
+    "special": { "Logic": { "sp": 500, "rarity": 5 } },
+    "skillA": { "A/S Foresight Nix": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Null Uplift A/S": { "sp": 300, "rarity": 5 } }
+  },
   "Tibarn - Shipless Pirate": {
     "score": 530,
     "scoreTotal": 1357,
@@ -17892,6 +17931,21 @@
     "skillA": { "Atk/Def Fortune": { "sp": 300, "rarity": 5 } },
     "skillB": { "Assault Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Briar P Save": { "sp": 300, "rarity": 5 } }
+  },
+  "Chrom - Revitalized Fate": {
+    "score": 424,
+    "scoreTotal": 1537,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 1450,
+    "feather": 1000,
+    "bst": 196,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
+    "skillA": { "A/D Foresight Nix": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Riptide Despair": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/D Outcry Dull": { "sp": 300, "rarity": 5 } }
   },
   "Sylvain - Spring Flingster": {
     "score": 530,
