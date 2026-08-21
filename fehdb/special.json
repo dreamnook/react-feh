@@ -901,6 +901,15 @@
     "exclusive": ["Marth - Timeless Warmth"],
     "last": true
   },
+  "Crusader's Heir": {
+    "id": "Crusader's Heir",
+    "name": "聖騎士巴爾德的後裔",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Blazing Light"],
+    "exclusive": ["Sigurd - Legacy of Justice"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

@@ -4353,6 +4353,23 @@
     "icon": "skillA/Shield_Session_3",
     "last": true
   },
+  "Jam Session": {
+    "id": "Jam Session",
+    "name": "即興協奏",
+    "sp": 300,
+    "prev": ["Blade Session 3", "Shield Session 3"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillA/Jam_Session",
+    "last": true
+  },
+  "Rhythm Session": {
+    "id": "Rhythm Session",
+    "name": "節拍協奏",
+    "sp": 300,
+    "prev": ["Blade Session 3", "Shield Session 3"],
+    "icon": "skillA/Rhythm_Session",
+    "last": true
+  },
   "Atk/Spd Catch 1": {
     "id": "Atk/Spd Catch 1",
     "name": "攻擊速度的先機1",

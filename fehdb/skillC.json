@@ -915,6 +915,22 @@
     "icon": "skillC/Verity_Keeper",
     "last": true
   },
+  "I'll Soar Higher!": {
+    "id": "I'll Soar Higher!",
+    "name": "我要展翅高飛！",
+    "sp": 300,
+    "exclusive": ["Tsubasa - Summoned Girl"],
+    "icon": "skillC/I'll_Soar_Higher!",
+    "last": true
+  },
+  "Philanderer": {
+    "id": "Philanderer",
+    "name": "花花公子",
+    "sp": 300,
+    "exclusive": ["Sylvain - Ladies' Knight"],
+    "icon": "skillC/Philanderer",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",
@@ -4907,6 +4923,15 @@
     "prev": ["Shadow Smite 3"],
     "rules": "learner.cavalry-flying",
     "icon": "skillC/Shadow_Smite_4",
+    "last": true
+  },
+  "Shadow Rush X": {
+    "id": "Shadow Rush X",
+    "name": "影助・猛進・十紋章",
+    "sp": 300,
+    "prev": ["Shadow Smite 3"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillC/Shadow_Rush_X",
     "last": true
   },
   "Shadow Shift 1": {

@@ -1274,6 +1274,15 @@
     "icon": "skillB/Brash_Assault_4",
     "last": true
   },
+  "No Risk...": {
+    "id": "No Risk...",
+    "name": "不入虎穴，焉得虎子",
+    "sp": 400,
+    "prev": ["Brash Assault 3"],
+    "rules": "learner.cavalry-flying",
+    "icon": "skillB/No_Risk...",
+    "last": true
+  },
   "Quick Riposte 1": {
     "id": "Quick Riposte 1",
     "name": "回擊1",
@@ -4164,6 +4173,15 @@
     "icon": "skillB/Res_Feint_3",
     "last": true
   },
+  "Spd/Def Union": {
+    "id": "Spd/Def Union",
+    "name": "速度防守的團結",
+    "sp": 400,
+    "prev": ["Spd Feint 3", "Def Feint 3"],
+    "rules": "not.white-staff",
+    "icon": "skillB/Spd_Def_Union",
+    "last": true
+  },
   "Atk/Spd Ruse 1": {
     "id": "Atk/Spd Ruse 1",
     "name": "攻擊速度大共謀1",
@@ -6031,6 +6049,15 @@
     "rules": "tome",
     "prev": ["Magic Gambit 3"],
     "icon": "skillB/Demonic_Force",
+    "last": true
+  },
+  "Demonic Shackle": {
+    "id": "Demonic Shackle",
+    "name": "魔之精髓・枷鎖",
+    "sp": 400,
+    "rules": "tome",
+    "prev": ["Magic Gambit 3"],
+    "icon": "skillB/Demonic_Shackle",
     "last": true
   },
   "Counter Roar 1": {

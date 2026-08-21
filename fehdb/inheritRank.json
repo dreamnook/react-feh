@@ -1268,6 +1268,18 @@
     "skillA": { "Swift Sparrow 2": { "sp": 240, "rarity": 5 } },
     "skillB": { "Seal Res 3": { "sp": 160, "rarity": 5 } }
   },
+  "Caeda - Cleansed Princess": {
+    "score": 163,
+    "scoreTotal": 259,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 300,
+    "spTotal": 500,
+    "feather": 300,
+    "bst": 189,
+    "special": { "Astra": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Spd Airspace": { "sp": 300, "rarity": 5 } }
+  },
   "Eikþyrnir - Fit for Waves": {
     "score": 163,
     "scoreTotal": 259,
@@ -2880,18 +2892,6 @@
     "skillA": { "Atk/Spd Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "Poetic Justice": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Recovery 3": { "sp": 240, "rarity": 5 } }
-  },
-  "Jade - Iron Wall": {
-    "score": 185,
-    "scoreTotal": 411,
-    "poolRarity": 4,
-    "sp": 240,
-    "spTotal": 680,
-    "feather": 300,
-    "bst": 211,
-    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
-    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 4 } },
-    "skillB": { "Wily Fighter 3": { "sp": 240, "rarity": 5 } }
   },
   "Niles - Cruel to Be Kind": {
     "score": 166,
@@ -4588,6 +4588,18 @@
     "skillA": { "Atk/Res Scowl 3": { "sp": 240, "rarity": 4 } },
     "skillB": { "Slick Fighter 3": { "sp": 240, "rarity": 5 } }
   },
+  "Jade - Iron Wall": {
+    "score": 199,
+    "scoreTotal": 461,
+    "poolRarity": 3,
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 211,
+    "special": { "Ignis": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Def Ideal 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Wily Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
   "Olivia - Festival Dancer": {
     "score": 254,
     "scoreTotal": 466,
@@ -4943,18 +4955,6 @@
     "bst": 185,
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 4": { "sp": 300, "rarity": 5 } }
-  },
-  "Caeda - Cleansed Princess": {
-    "score": 318,
-    "scoreTotal": 530,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 500,
-    "feather": 1000,
-    "bst": 189,
-    "special": { "Astra": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Airspace": { "sp": 300, "rarity": 5 } }
   },
   "Bruno - Masked Reveler": {
     "score": 249,
@@ -7309,6 +7309,20 @@
     "skillB": { "A/R Lull Finish": { "sp": 300, "rarity": 5 } },
     "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
   },
+  "Ivy - Tidal Breeze": {
+    "score": 249,
+    "scoreTotal": 686,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 1100,
+    "feather": 300,
+    "bst": 173,
+    "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Sabotage A/R 3": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Soaring Guidance": { "sp": 300, "rarity": 5 } }
+  },
   "Bernadetta - Late Hibernator": {
     "score": 249,
     "scoreTotal": 686,
@@ -9532,6 +9546,19 @@
     "special": { "Dragon Fang": { "sp": 200, "rarity": 4 } },
     "skillB": { "Lull Spd/Def 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Rouse Atk/Spd 3": { "sp": 240, "rarity": 4 } }
+  },
+  "Rodrigue - Faerghus Shield": {
+    "score": 322,
+    "scoreTotal": 746,
+    "poolRarity": 3,
+    "pool": "grail",
+    "sp": 240,
+    "spTotal": 680,
+    "feather": 150,
+    "bst": 191,
+    "special": { "Glacies": { "sp": 200, "rarity": 4 } },
+    "skillA": { "Atk/Res Bond 3": { "sp": 240, "rarity": 4 } },
+    "skillB": { "Magic Gambit 3": { "sp": 240, "rarity": 5 } }
   },
   "Zeiss - Ebon Bolt": {
     "score": 322,
@@ -11901,6 +11928,18 @@
     "special": { "Blazing Thunder": { "sp": 300, "rarity": 5 } },
     "skillA": { "Verge of Death": { "sp": 300, "rarity": 5 } },
     "skillB": { "Seal Def/Res 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Azura - Lady of Reflection": {
+    "score": 300,
+    "scoreTotal": 900,
+    "poolRarity": 5,
+    "sp": 300,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 194,
+    "skillA": { "Rhythm Session": { "sp": 300, "rarity": 5 } },
+    "skillB": { "S/R Detect Aerial": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Shadow Rush X": { "sp": 300, "rarity": 5 } }
   },
   "Fjorm - Princess of Ice": {
     "score": 276,
@@ -16063,20 +16102,6 @@
     "skillB": { "Seal Res 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Res Hold": { "sp": 300, "rarity": 5 } }
   },
-  "Ivy - Tidal Breeze": {
-    "score": 318,
-    "scoreTotal": 1166,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 173,
-    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Still Water 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Sabotage A/R 3": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Soaring Guidance": { "sp": 300, "rarity": 5 } }
-  },
   "Nephenee - Festival Harmony": {
     "score": 318,
     "scoreTotal": 1166,
@@ -17121,6 +17146,18 @@
     "skillB": { "Demonic Force": { "sp": 400, "rarity": 5 } },
     "skillC": { "Dual Support 4": { "sp": 300, "rarity": 5 } }
   },
+  "Tsubasa - Summoned Girl": {
+    "score": 500,
+    "scoreTotal": 1200,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 194,
+    "special": { "Logic": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Jam Session": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Demonic Shackle": { "sp": 400, "rarity": 5 } }
+  },
   "Lilina - Beaming Bride": {
     "score": 318,
     "scoreTotal": 1208,
@@ -17483,6 +17520,19 @@
     "skillB": { "Spurn 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Even Tempest 3": { "sp": 240, "rarity": 5 } }
   },
+  "Sigurd - Legacy of Justice": {
+    "score": 400,
+    "scoreTotal": 1300,
+    "poolRarity": 5,
+    "sp": 400,
+    "spTotal": 1300,
+    "feather": 1000,
+    "bst": 201,
+    "special": { "Blazing Light": { "sp": 300, "rarity": 5 } },
+    "skillA": { "A/D Rival Break": { "sp": 300, "rarity": 5 } },
+    "skillB": { "No Risk...": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Shadow Shift X": { "sp": 300, "rarity": 5 } }
+  },
   "Corrin - Nightfall Ninja Act": {
     "score": 424,
     "scoreTotal": 1314,
@@ -17580,6 +17630,19 @@
     "special": { "Logic": { "sp": 500, "rarity": 5 } },
     "skillA": { "A/S Foresight Nix": { "sp": 300, "rarity": 5 } },
     "skillC": { "Null Uplift A/S": { "sp": 300, "rarity": 5 } }
+  },
+  "Sylvain - Ladies' Knight": {
+    "score": 500,
+    "scoreTotal": 1350,
+    "poolRarity": 5,
+    "sp": 500,
+    "spTotal": 1350,
+    "feather": 1000,
+    "bst": 200,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Shatter Slash": { "sp": 500, "rarity": 5 } },
+    "skillA": { "A/S Rival Break": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Def Union": { "sp": 400, "rarity": 5 } }
   },
   "Tibarn - Shipless Pirate": {
     "score": 530,

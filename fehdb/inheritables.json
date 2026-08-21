@@ -1187,7 +1187,7 @@
         "refine": 350
       },
       "Forged Axe+": {
-        "pool": { "#": { "4": ["Jade - Iron Wall"] } },
+        "pool": { "#": { "3": ["Jade - Iron Wall"] } },
         "id": "Forged Axe+",
         "name": "鍛鍊之斧+",
         "sp": 300,
@@ -3883,7 +3883,8 @@
             "Wolf - Coyote's Loyal",
             "Farina - The Great Wing",
             "Lilith - Astral Daughter",
-            "Chrom - Fated Honor"
+            "Chrom - Fated Honor",
+            "Sylvain - Ladies' Knight"
           ]
         },
         "grail": {
@@ -4948,6 +4949,7 @@
             "Innes - Frelian Moonlight",
             "Felix - Icy Gift Giver",
             "Kana - Rising Sunlight",
+            "Ivy - Tidal Breeze",
             "Clarisse - Sniper in the Dark",
             "Nino - Spirited Sorcerer"
           ]
@@ -4999,7 +5001,6 @@
             "Fáfnir - Fresh Ambition",
             "Shinon - Sharptongue Ninja",
             "Camilla - Midnight Bloom",
-            "Ivy - Tidal Breeze",
             "Alear - Seaside Dragon",
             "Petra - Faraway Sun",
             "Felix - Savant's Service",
@@ -5088,9 +5089,8 @@
           ]
         },
         "special": {
-          "4": ["Zihark - Ninja Blademaster"],
+          "4": ["Caeda - Cleansed Princess", "Zihark - Ninja Blademaster"],
           "5": [
-            "Caeda - Cleansed Princess",
             "Gaius - Thief Exposed",
             "Eitr - Spring Sunrise",
             "Larcei - Scion of Astra",
@@ -5446,7 +5446,8 @@
             "Corrin - Dream Prince",
             "Ivy - Bewitching Ruler",
             "Baldr - Rays of Judgment",
-            "Byleth - Ashen Nightmare"
+            "Byleth - Ashen Nightmare",
+            "Tsubasa - Summoned Girl"
           ]
         },
         "grail": {
@@ -5620,7 +5621,7 @@
     },
     "Logic": {
       "pool": {
-        "#": { "5": ["Ivy - Bewitching Ruler"] },
+        "#": { "5": ["Ivy - Bewitching Ruler", "Tsubasa - Summoned Girl"] },
         "rearmed": {
           "5": ["Lysithea - Duality Prodigy", "Robin - Onsen Tactician"]
         },
@@ -5756,9 +5757,9 @@
             "Naoise - Crimson Chivalry",
             "Scarlet - Rebellious Streak",
             "Bors - Ostia's Bastion",
-            "Uther - Frugal Militarist"
+            "Uther - Frugal Militarist",
+            "Jade - Iron Wall"
           ],
-          "4": ["Jade - Iron Wall"],
           "5": [
             "Robin - Fell Reincarnation",
             "Eyvel - Mistress of Fiana",
@@ -5768,6 +5769,7 @@
             "Robin - Exalt's Deliverer",
             "Lowen - Apprentice Knight",
             "Morva - Darkling Warden",
+            "Sylvain - Ladies' Knight",
             "Melíai - Warrior Wanderer",
             "Eikþyrnir - Resolved to Train"
           ]
@@ -5986,6 +5988,7 @@
     },
     "Shatter Slash": {
       "pool": {
+        "#": { "5": ["Sylvain - Ladies' Knight"] },
         "rearmed": { "5": ["Ingrid - Chivalrous Heart"] },
         "harmonized": { "5": ["Alm - For Others' Sake"] }
       },
@@ -6150,6 +6153,7 @@
             "Marla - Duma's Witch",
             "Candace - Sly Snatcher",
             "Griss - Indulging Pain",
+            "Rodrigue - Faerghus Shield",
             "Excellus - Conqueror’s Wile"
           ]
         },
@@ -6431,7 +6435,8 @@
             "Leo - Sorcerous Prince",
             "Celica - Caring Princess",
             "Leif - Prince of Leonster",
-            "Ophelia - Dramatic Heroine"
+            "Ophelia - Dramatic Heroine",
+            "Sigurd - Legacy of Justice"
           ]
         },
         "grail": {
@@ -7314,6 +7319,7 @@
       "pool": {
         "#": { "5": ["Safy - Font of Piety", "Veyle - Fell Successor"] },
         "grail": {
+          "4": ["Ivy - Tidal Breeze"],
           "5": ["Tailtiu - Teatime Mingler", "Linhardt - Spring Snoozer"]
         },
         "rearmed": {
@@ -7328,7 +7334,6 @@
             "Veyle - Spring Tranquility",
             "Azura - Lady of the Sky",
             "Seiðr - Candlelit Hope",
-            "Ivy - Tidal Breeze",
             "Lilina - Beaming Bride",
             "Leo - Dark Sprout"
           ]
@@ -7345,10 +7350,11 @@
     "Still Water 4": {
       "pool": {
         "#": { "5": ["Safy - Font of Piety"] },
+        "grail": { "5": ["Ivy - Tidal Breeze"] },
         "rearmed": { "5": ["Plumeria - Rapturous Dream"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
         "mythic": { "5": ["Seiðr - Goddess of Hope"] },
-        "special": { "5": ["Ivy - Tidal Breeze", "Lilina - Beaming Bride"] },
+        "special": { "5": ["Lilina - Beaming Bride"] },
         "duo": { "5": ["Thórr - Sun-Kissed Gods"] }
       },
       "id": "Still Water 4",
@@ -9178,7 +9184,9 @@
             "Ymir - Life-Mother"
           ]
         },
-        "grail": { "4": ["Cecilia - Festive Instructor"] },
+        "grail": {
+          "4": ["Cecilia - Festive Instructor", "Rodrigue - Faerghus Shield"]
+        },
         "mythic": {
           "5": [
             "Eir - Merciful Death",
@@ -10411,7 +10419,7 @@
     },
     "Blade Session 3": {
       "pool": {
-        "#": { "5": ["Tsubasa - Madcap Idol"] },
+        "#": { "5": ["Tsubasa - Madcap Idol", "Tsubasa - Summoned Girl"] },
         "special": { "5": ["L'Arachel - Summer Princess"] }
       },
       "id": "Blade Session 3",
@@ -10420,11 +10428,30 @@
       "icon": "skillA/Blade_Session_3"
     },
     "Shield Session 3": {
-      "pool": { "#": { "5": ["Mamori - Microwavin' Idol"] } },
+      "pool": {
+        "#": {
+          "5": ["Mamori - Microwavin' Idol", "Azura - Lady of Reflection"]
+        }
+      },
       "id": "Shield Session 3",
       "name": "盾之協奏3",
       "sp": 240,
       "icon": "skillA/Shield_Session_3"
+    },
+    "Jam Session": {
+      "pool": { "#": { "5": ["Tsubasa - Summoned Girl"] } },
+      "id": "Jam Session",
+      "name": "即興協奏",
+      "sp": 300,
+      "icon": "skillA/Jam_Session",
+      "rules": "learner.cavalry-flying"
+    },
+    "Rhythm Session": {
+      "pool": { "#": { "5": ["Azura - Lady of Reflection"] } },
+      "id": "Rhythm Session",
+      "name": "節拍協奏",
+      "sp": 300,
+      "icon": "skillA/Rhythm_Session"
     },
     "Atk/Spd Catch 3": {
       "pool": {
@@ -10454,6 +10481,7 @@
         "mythic": { "5": ["Kvasir - Seer of the Past"] },
         "special": {
           "4": [
+            "Caeda - Cleansed Princess",
             "Selena - Admiring General",
             "Ashe - Budding Chivalry",
             "Catria - Windswept Knight",
@@ -10465,7 +10493,6 @@
           ],
           "5": [
             "Hortensia - Winter's Dearest",
-            "Caeda - Cleansed Princess",
             "Nifl - Tropical Ice God",
             "Dimitri - Sky-Blue Lion",
             "Delthea - Prodigy in Bloom",
@@ -10779,8 +10806,11 @@
     "Atk/Def Ideal 3": {
       "pool": {
         "#": {
-          "3": ["Scáthach - Astra's Wake", "Etie - Fitness Fighter"],
-          "4": ["Jade - Iron Wall"],
+          "3": [
+            "Scáthach - Astra's Wake",
+            "Etie - Fitness Fighter",
+            "Jade - Iron Wall"
+          ],
           "5": ["Edelgard - Hegemon Husk", "Priam - Radiant Hero"]
         },
         "grail": {
@@ -10972,7 +11002,8 @@
           "5": [
             "Seliph - Enduring Legacy",
             "Isadora - Escort of Pherae",
-            "Felix - Sword Savant"
+            "Felix - Sword Savant",
+            "Sylvain - Ladies' Knight"
           ]
         },
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
@@ -11066,7 +11097,8 @@
           "5": [
             "Mycen - Zofia's Champion",
             "Harken - Troubled Warrior",
-            "Lowen - Apprentice Knight"
+            "Lowen - Apprentice Knight",
+            "Sigurd - Legacy of Justice"
           ]
         },
         "grail": {
@@ -11177,7 +11209,10 @@
       "rules": "learner.infantry-cavalry-flying-melee"
     },
     "A/D Rival Break": {
-      "pool": { "duo": { "5": ["Sigurd - Honorable Nobles"] } },
+      "pool": {
+        "#": { "5": ["Sigurd - Legacy of Justice"] },
+        "duo": { "5": ["Sigurd - Honorable Nobles"] }
+      },
       "id": "A/D Rival Break",
       "name": "攻防突破・對抗",
       "sp": 300,
@@ -11185,7 +11220,10 @@
       "rules": "learner.cavalry-melee"
     },
     "A/S Rival Break": {
-      "pool": { "attuned": { "5": ["Lachesis - Loving Sister"] } },
+      "pool": {
+        "#": { "5": ["Sylvain - Ladies' Knight"] },
+        "attuned": { "5": ["Lachesis - Loving Sister"] }
+      },
       "id": "A/S Rival Break",
       "name": "攻速突破・對抗",
       "sp": 300,
@@ -11958,7 +11996,7 @@
             "Caspar - Hotheaded Inciter",
             "Altena - Luminous Rider"
           ],
-          "5": ["Harken - Troubled Warrior"]
+          "5": ["Harken - Troubled Warrior", "Sigurd - Legacy of Justice"]
         },
         "grail": { "5": ["Validar - Fell Architect"] },
         "duo": { "5": ["Shamir - Heartbeats United"] }
@@ -11977,6 +12015,14 @@
       "name": "同歸於盡4",
       "sp": 300,
       "icon": "skillB/Brash_Assault_4"
+    },
+    "No Risk...": {
+      "pool": { "#": { "5": ["Sigurd - Legacy of Justice"] } },
+      "id": "No Risk...",
+      "name": "不入虎穴，焉得虎子",
+      "sp": 400,
+      "icon": "skillB/No_Risk...",
+      "rules": "learner.cavalry-flying"
     },
     "Quick Riposte 3": {
       "pool": {
@@ -12344,7 +12390,7 @@
     },
     "Wily Fighter 3": {
       "pool": {
-        "#": { "4": ["Jade - Iron Wall"], "5": ["Grima - Tyrant of Despair"] },
+        "#": { "3": ["Jade - Iron Wall"], "5": ["Grima - Tyrant of Despair"] },
         "grail": { "5": ["Wallace - Crag of Caelin"] },
         "ascended": { "5": ["Idunn - Divine Demon"] },
         "attuned": { "5": ["Hector - Steel Warrior"] },
@@ -13098,6 +13144,7 @@
           "5": ["Edain - Lady of Yngvi", "Gotoh - Apostle of Naga"]
         },
         "grail": {
+          "4": ["Ivy - Tidal Breeze"],
           "5": [
             "Sophia - Cobweb Prophet",
             "Solon - Church Shadow",
@@ -13123,7 +13170,6 @@
             "Athos - Omniscient One"
           ]
         },
-        "special": { "5": ["Ivy - Tidal Breeze"] },
         "duo": {
           "5": [
             "Seiðr - Time's Goddesses",
@@ -13148,8 +13194,8 @@
     },
     "Sabotage A/R 3": {
       "pool": {
+        "grail": { "5": ["Ivy - Tidal Breeze"] },
         "legendary": { "5": ["Lilina - Firelight Leader"] },
-        "special": { "5": ["Ivy - Tidal Breeze"] },
         "duo": { "5": ["Mark - Winds of Hope", "Sanaki - Dawnsworn Ninja"] }
       },
       "id": "Sabotage A/R 3",
@@ -14317,6 +14363,7 @@
     },
     "Spd/Res Snag 3": {
       "pool": {
+        "#": { "5": ["Azura - Lady of Reflection"] },
         "grail": { "5": ["Robin - Keen Groom"] },
         "special": {
           "5": [
@@ -14398,7 +14445,10 @@
       "rules": "learner.cavalry-flying-ranged-not-staff"
     },
     "S/R Detect Aerial": {
-      "pool": { "special": { "5": ["Céline - Love's Aroma"] } },
+      "pool": {
+        "#": { "5": ["Azura - Lady of Reflection"] },
+        "special": { "5": ["Céline - Love's Aroma"] }
+      },
       "id": "S/R Detect Aerial",
       "name": "速魔的看破・俯瞰",
       "sp": 300,
@@ -14429,7 +14479,10 @@
       "rules": "not.white-staff"
     },
     "Def Feint 3": {
-      "pool": { "special": { "5": ["Innes - Flawless Form"] } },
+      "pool": {
+        "#": { "5": ["Sylvain - Ladies' Knight"] },
+        "special": { "5": ["Innes - Flawless Form"] }
+      },
       "id": "Def Feint 3",
       "name": "防守共謀3",
       "sp": 240,
@@ -14442,6 +14495,14 @@
       "name": "魔防共謀3",
       "sp": 240,
       "icon": "skillB/Res_Feint_3",
+      "rules": "not.white-staff"
+    },
+    "Spd/Def Union": {
+      "pool": { "#": { "5": ["Sylvain - Ladies' Knight"] } },
+      "id": "Spd/Def Union",
+      "name": "速度防守的團結",
+      "sp": 400,
+      "icon": "skillB/Spd_Def_Union",
       "rules": "not.white-staff"
     },
     "Atk/Spd Ruse 3": {
@@ -15914,7 +15975,8 @@
     },
     "Magic Gambit 3": {
       "pool": {
-        "#": { "5": ["Byleth - Ashen Nightmare"] },
+        "#": { "5": ["Byleth - Ashen Nightmare", "Tsubasa - Summoned Girl"] },
+        "grail": { "5": ["Rodrigue - Faerghus Shield"] },
         "special": { "5": ["Robin - Fated Vessel"] },
         "duo": { "5": ["Baldr - Eternal Shimmer"] }
       },
@@ -15941,6 +16003,14 @@
       "name": "魔之精隨・不屈",
       "sp": 400,
       "icon": "skillB/Demonic_Force",
+      "rules": "tome"
+    },
+    "Demonic Shackle": {
+      "pool": { "#": { "5": ["Tsubasa - Summoned Girl"] } },
+      "id": "Demonic Shackle",
+      "name": "魔之精髓・枷鎖",
+      "sp": 400,
+      "icon": "skillB/Demonic_Shackle",
       "rules": "tome"
     },
     "Counter Roar 3": {
@@ -19242,8 +19312,11 @@
     "Flier Guidance 3": {
       "pool": {
         "#": { "5": ["Hinoka - Blue Sky Warrior"] },
-        "grail": { "5": ["Travant - King of Thracia", "Glen - Sunstone"] },
-        "special": { "5": ["Marisa - Crimson Rabbit", "Ivy - Tidal Breeze"] }
+        "grail": {
+          "4": ["Ivy - Tidal Breeze"],
+          "5": ["Travant - King of Thracia", "Glen - Sunstone"]
+        },
+        "special": { "5": ["Marisa - Crimson Rabbit"] }
       },
       "id": "Flier Guidance 3",
       "name": "飛行前導3",
@@ -19252,7 +19325,7 @@
       "rules": "flying"
     },
     "Soaring Guidance": {
-      "pool": { "special": { "5": ["Ivy - Tidal Breeze"] } },
+      "pool": { "grail": { "5": ["Ivy - Tidal Breeze"] } },
       "id": "Soaring Guidance",
       "name": "飛走前導",
       "sp": 300,
@@ -20457,6 +20530,7 @@
     },
     "Shadow Smite 3": {
       "pool": {
+        "#": { "5": ["Azura - Lady of Reflection"] },
         "special": { "5": ["Peony - Interwoven Dream"] },
         "harmonized": { "5": ["Plumeria - Spring Dance"] }
       },
@@ -20477,8 +20551,17 @@
       "icon": "skillC/Shadow_Smite_4",
       "rules": "learner.cavalry-flying"
     },
+    "Shadow Rush X": {
+      "pool": { "#": { "5": ["Azura - Lady of Reflection"] } },
+      "id": "Shadow Rush X",
+      "name": "影助・猛進・十紋章",
+      "sp": 300,
+      "icon": "skillC/Shadow_Rush_X",
+      "rules": "learner.cavalry-flying"
+    },
     "Shadow Shift 3": {
       "pool": {
+        "#": { "5": ["Sigurd - Legacy of Justice"] },
         "attuned": { "5": ["Leif - Sworn to Country"] },
         "aided": { "5": ["Reginn - Dvergr Heir"] },
         "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
@@ -20510,7 +20593,10 @@
       "rules": "learner.cavalry-flying"
     },
     "Shadow Shift X": {
-      "pool": { "mythic": { "5": ["Gróa - Future Daughter"] } },
+      "pool": {
+        "#": { "5": ["Sigurd - Legacy of Justice"] },
+        "mythic": { "5": ["Gróa - Future Daughter"] }
+      },
       "id": "Shadow Shift X",
       "name": "影助・帶回・十紋章",
       "sp": 300,

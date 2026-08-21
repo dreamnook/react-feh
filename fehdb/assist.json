@@ -191,6 +191,14 @@
     "exclusive": ["Azura - Lady of the Sky"],
     "last": true
   },
+  "Yours to Climb": {
+    "id": "Yours to Climb",
+    "name": "那雙手所開拓的未來",
+    "sp": 400,
+    "prev": ["Sing"],
+    "exclusive": ["Azura - Lady of Reflection"],
+    "last": true
+  },
   "Sing": {
     "id": "Sing",
     "name": "歌唱",
@@ -210,7 +218,8 @@
       "Dorothea - Yuletide Dancer",
       "Azura - Song's Reflection",
       "Dorothea - Daring Ex-Singer",
-      "Azura - Lady of the Sky"
+      "Azura - Lady of the Sky",
+      "Azura - Lady of Reflection"
     ],
     "last": true
   },

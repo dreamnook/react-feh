@@ -9362,6 +9362,37 @@
       "A/D Outcry Seize": 5
     }
   },
+  "Sigurd - Legacy of Justice": {
+    "weapon": {
+      "Iron Sword": 1,
+      "Steel Sword": 2,
+      "Silver Sword": 4,
+      "Sacred Ambition": 5
+    },
+    "special": {
+      "Rising Light": 4,
+      "Blazing Light": 4,
+      "Crusader's Heir": 5
+    },
+    "skillA": {
+      "Atk/Def Clash 1": 2,
+      "Atk/Def Clash 2": 3,
+      "Atk/Def Clash 3": 4,
+      "A/D Rival Break": 5
+    },
+    "skillB": {
+      "Brash Assault 1": 2,
+      "Brash Assault 2": 3,
+      "Brash Assault 3": 4,
+      "No Risk...": 5
+    },
+    "skillC": {
+      "Shadow Shift 1": 2,
+      "Shadow Shift 2": 3,
+      "Shadow Shift 3": 4,
+      "Shadow Shift X": 5
+    }
+  },
   "Naoise - Crimson Chivalry": {
     "weapon": {
       "Iron Lance": 1,
@@ -26333,6 +26364,36 @@
       "S/D Crux: Ploy": 5
     }
   },
+  "Azura - Lady of Reflection": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Threefold Hymn": 5
+    },
+    "assist": {
+      "Sing": 4,
+      "Yours to Climb": 5
+    },
+    "skillA": {
+      "Shield Session 1": 2,
+      "Shield Session 2": 3,
+      "Shield Session 3": 4,
+      "Rhythm Session": 5
+    },
+    "skillB": {
+      "Spd/Res Snag 1": 2,
+      "Spd/Res Snag 2": 3,
+      "Spd/Res Snag 3": 4,
+      "S/R Detect Aerial": 5
+    },
+    "skillC": {
+      "Shadow Smite 1": 2,
+      "Shadow Smite 2": 3,
+      "Shadow Smite 3": 4,
+      "Shadow Rush X": 5
+    }
+  },
   "Gunter - Inveterate Soldier": {
     "weapon": {
       "Iron Axe": 1,
@@ -31521,6 +31582,37 @@
       "S/D Near Trace 4": 5
     }
   },
+  "Sylvain - Ladies' Knight": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Lance of Ruin": 5
+    },
+    "assist": {
+      "Reposition": 4
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Shatter Slash": 5
+    },
+    "skillA": {
+      "Atk/Spd Clash 1": 2,
+      "Atk/Spd Clash 2": 3,
+      "Atk/Spd Clash 3": 4,
+      "A/S Rival Break": 5
+    },
+    "skillB": {
+      "Def Feint 1": 2,
+      "Def Feint 2": 3,
+      "Def Feint 3": 4,
+      "Spd/Def Union": 5
+    },
+    "skillC": {
+      "Philanderer": 5
+    }
+  },
   "Mercedes - Kindly Devotee": {
     "weapon": {
       "Assault": 1,
@@ -32964,6 +33056,28 @@
       "Distant Guard 3": 4
     }
   },
+  "Rodrigue - Faerghus Shield": {
+    "weapon": {
+      "Light": 1,
+      "Ellight": 2,
+      "Shine": 4,
+      "Masterful Aura": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4
+    },
+    "skillA": {
+      "Atk/Res Bond 1": 1,
+      "Atk/Res Bond 2": 2,
+      "Atk/Res Bond 3": 4
+    },
+    "skillB": {
+      "Magic Gambit 1": 3,
+      "Magic Gambit 2": 4,
+      "Magic Gambit 3": 5
+    }
+  },
   "Gatekeeper - Nothing to Report": {
     "weapon": {
       "Wind": 1,
@@ -33554,6 +33668,34 @@
       "Hone Spd 1": 1,
       "Hone Spd 2": 2,
       "Hone Fliers": 4
+    }
+  },
+  "Tsubasa - Summoned Girl": {
+    "weapon": {
+      "Wind": 1,
+      "Elwind": 2,
+      "Rexcalibur": 4,
+      "Mirage Excalibur": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Logic": 5
+    },
+    "skillA": {
+      "Blade Session 1": 2,
+      "Blade Session 2": 3,
+      "Blade Session 3": 4,
+      "Jam Session": 5
+    },
+    "skillB": {
+      "Magic Gambit 1": 2,
+      "Magic Gambit 2": 3,
+      "Magic Gambit 3": 4,
+      "Demonic Shackle": 5
+    },
+    "skillC": {
+      "I'll Soar Higher!": 5
     }
   },
   "Mamori - Microwavin' Idol": {

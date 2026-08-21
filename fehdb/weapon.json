@@ -4036,6 +4036,16 @@
       "exclusive": ["Marth - Timeless Warmth"],
       "last": true
     },
+    "Sacred Ambition": {
+      "id": "Sacred Ambition",
+      "name": "高尚志向的聖劍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Sword"],
+      "exclusive": ["Sigurd - Legacy of Justice"],
+      "last": true
+    },
     "Arcane Éljúðnir": {
       "id": "Arcane Éljúðnir",
       "name": "魔器埃琉德尼爾",
@@ -9221,6 +9231,16 @@
       "sp": 400,
       "prev": ["Silver Lance"],
       "exclusive": ["Chrom - Revitalized Fate"],
+      "last": true
+    },
+    "Lance of Ruin": {
+      "id": "Lance of Ruin",
+      "name": "破裂之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Sylvain - Ladies' Knight"],
       "last": true
     },
     "Arcane Qiang": {
@@ -29040,6 +29060,16 @@
       "exclusive": ["Gróa - Future Daughter"],
       "last": true
     },
+    "Masterful Aura": {
+      "id": "Masterful Aura",
+      "name": "專精輝光",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Shine"],
+      "exclusive": ["Rodrigue - Faerghus Shield"],
+      "last": true
+    },
     "Arcane Euphoria": {
       "id": "Arcane Euphoria",
       "name": "魔器・陶醉之花",
@@ -31844,6 +31874,16 @@
       "exclusive": ["Caeda - Cleansed Princess"],
       "last": true
     },
+    "Mirage Excalibur": {
+      "id": "Mirage Excalibur",
+      "name": "幻影埃克斯卡利伯",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Rexcalibur"],
+      "exclusive": ["Tsubasa - Summoned Girl"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",
@@ -33544,6 +33584,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Tharja - Dour Cheer"],
+      "last": true
+    },
+    "Threefold Hymn": {
+      "id": "Threefold Hymn",
+      "name": "三夜歌",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Azura - Lady of Reflection"],
       "last": true
     },
     "Arcane Duck Pail": {
