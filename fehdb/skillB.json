@@ -4911,6 +4911,15 @@
     "icon": "skillB/Dragon's_Scales",
     "last": true
   },
+  "Distant Breath": {
+    "id": "Distant Breath",
+    "name": "遠距離吐息",
+    "sp": 400,
+    "prev": ["Dragon's Ire 3"],
+    "rules": "dragon",
+    "icon": "skillB/Distant_Breath",
+    "last": true
+  },
   "Dragon Wall 1": {
     "id": "Dragon Wall 1",
     "name": "龍鱗防護障壁1",
@@ -6370,15 +6379,6 @@
     "prev": ["Pair Up 3"],
     "rules": "learner.infantry-armored",
     "icon": "skillB/Pair_Up_4",
-    "last": true
-  },
-  "Distant Breath": {
-    "id": "Distant Breath",
-    "name": "遠距離吐息",
-    "sp": 400,
-    "prev": ["Dragon's Ire 3"],
-    "rules": "dragon",
-    "icon": "skillB/Distant_Breath",
     "last": true
   }
 }

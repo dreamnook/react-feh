@@ -15189,6 +15189,14 @@
       "icon": "skillB/Dragon's_Scales",
       "rules": "dragon"
     },
+    "Distant Breath": {
+      "pool": { "legendary": { "5": ["Rhea - The Final Child"] } },
+      "id": "Distant Breath",
+      "name": "遠距離吐息",
+      "sp": 400,
+      "icon": "skillB/Distant_Breath",
+      "rules": "dragon"
+    },
     "Dragon Wall 3": {
       "pool": {
         "#": { "5": ["Múspell - Flame God"] },
@@ -16310,14 +16318,6 @@
       "sp": 300,
       "icon": "skillB/Pair_Up_4",
       "rules": "learner.infantry-armored"
-    },
-    "Distant Breath": {
-      "pool": { "legendary": { "5": ["Rhea - The Final Child"] } },
-      "id": "Distant Breath",
-      "name": "遠距離吐息",
-      "sp": 400,
-      "icon": "skillB/Distant_Breath",
-      "rules": "dragon"
     }
   },
   "skillC": {
@@ -20238,6 +20238,14 @@
       "icon": "skillC/D_R_Tenet_Hone",
       "rules": "learner.infantry-melee"
     },
+    "D/R Tenet Imbue": {
+      "pool": { "legendary": { "5": ["Rhea - The Final Child"] } },
+      "id": "D/R Tenet Imbue",
+      "name": "防魔信心・治癒",
+      "sp": 300,
+      "icon": "skillC/D_R_Tenet_Imbue",
+      "rules": "learner.infantry-melee"
+    },
     "Odd Tempest 3": {
       "pool": {
         "#": { "5": ["Dimitri - Savage Boar", "Felix - Sword Savant"] },
@@ -20932,14 +20940,6 @@
       "sp": 120,
       "icon": "skillC/Beast_Valor_3",
       "rules": "beast"
-    },
-    "D/R Tenet Imbue": {
-      "pool": { "legendary": { "5": ["Rhea - The Final Child"] } },
-      "id": "D/R Tenet Imbue",
-      "name": "防魔信心・治癒",
-      "sp": 300,
-      "icon": "skillC/D_R_Tenet_Imbue",
-      "rules": "learner.infantry-melee"
     }
   },
   "skillX": {

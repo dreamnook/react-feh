@@ -4494,6 +4494,15 @@
     "icon": "skillC/D_R_Tenet_Hone",
     "last": true
   },
+  "D/R Tenet Imbue": {
+    "id": "D/R Tenet Imbue",
+    "name": "防魔信心・治癒",
+    "sp": 300,
+    "prev": ["Def/Res Oath 3"],
+    "rules": "learner.infantry-melee",
+    "icon": "skillC/D_R_Tenet_Imbue",
+    "last": true
+  },
   "Odd Tempest 1": {
     "id": "Odd Tempest 1",
     "name": "迅雷風烈・奇數1",
@@ -5657,15 +5666,6 @@
     "prev": ["Beast Valor 2"],
     "rules": "beast",
     "icon": "skillC/Beast_Valor_3",
-    "last": true
-  },
-  "D/R Tenet Imbue": {
-    "id": "D/R Tenet Imbue",
-    "name": "防魔信心・治癒",
-    "sp": 300,
-    "prev": ["Def/Res Oath 3"],
-    "rules": "learner.infantry-melee",
-    "icon": "skillC/D_R_Tenet_Imbue",
     "last": true
   }
 }
