@@ -6371,5 +6371,14 @@
     "rules": "learner.infantry-armored",
     "icon": "skillB/Pair_Up_4",
     "last": true
+  },
+  "Distant Breath": {
+    "id": "Distant Breath",
+    "name": "遠距離吐息",
+    "sp": 400,
+    "prev": ["Dragon's Ire 3"],
+    "rules": "dragon",
+    "icon": "skillB/Distant_Breath",
+    "last": true
   }
 }

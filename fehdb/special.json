@@ -910,6 +910,15 @@
     "exclusive": ["Sigurd - Legacy of Justice"],
     "last": true
   },
+  "Rite of Rising": {
+    "id": "Rite of Rising",
+    "name": "寶杯儀式",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Glacies"],
+    "exclusive": ["Rhea - The Final Child"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

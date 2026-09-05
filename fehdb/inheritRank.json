@@ -15949,6 +15949,20 @@
     "skillB": { "Rejuvenate": { "sp": 400, "rarity": 5 } },
     "skillC": { "Preempt: Ploy": { "sp": 300, "rarity": 5 } }
   },
+  "Rhea - The Final Child": {
+    "score": 368,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 220,
+    "special": { "Glacies": { "sp": 200, "rarity": 5 } },
+    "skillA": { "A/D/R Slam": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Distant Breath": { "sp": 400, "rarity": 5 } },
+    "skillC": { "D/R Tenet Imbue": { "sp": 300, "rarity": 5 } }
+  },
   "Jörmungandr - Dormant God": {
     "score": 460,
     "scoreTotal": 1104,

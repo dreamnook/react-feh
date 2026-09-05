@@ -52192,6 +52192,44 @@
     "ver": "9.2",
     "dfKey": 7
   },
+  "Rhea - The Final Child": {
+    "id": "Rhea - The Final Child",
+    "title": "最後的眷屬",
+    "name": "蕾雅",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-dragon",
+    "moveType": "infantry",
+    "pool": "legendary",
+    "blesser": "legendary",
+    "blessing": "wind-res-2",
+    "bst": 220,
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2026-08-31",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 51],
+        "spd": [26, 30, 33],
+        "def": [46, 49, 53],
+        "res": [39, 43, 46]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 8,
+        "def": 10,
+        "res": 10
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["hp", "spd", "res"],
+    "statMin": 210,
+    "statMax": 210,
+    "book": 10,
+    "ver": "10.8",
+    "dfKey": 9
+  },
   "Edelgard - The Future": {
     "id": "Edelgard - The Future",
     "title": "黑鷲的繼承者",

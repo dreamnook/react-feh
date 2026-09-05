@@ -3326,6 +3326,12 @@
       }
     },
     "dragon": {
+      "Solitary Breath": {
+        "pool": { "legendary": { "5": ["Rhea - The Final Child"] } },
+        "id": "Solitary Breath",
+        "name": "隱居吐息",
+        "sp": 400
+      },
       "Arcane Grima": {
         "pool": { "rearmed": { "5": ["Robin - Fell Tactician"] } },
         "id": "Arcane Grima",
@@ -6166,7 +6172,9 @@
           ]
         },
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
-        "legendary": { "5": ["Gunnthrá - Voice of Dreams"] },
+        "legendary": {
+          "5": ["Gunnthrá - Voice of Dreams", "Rhea - The Final Child"]
+        },
         "mythic": {
           "5": [
             "Yune - Chaos Goddess",
@@ -11478,6 +11486,7 @@
           "3": ["Grima - Tyrant of Ruin"],
           "5": ["Rhea - Loving Matriarch", "Naga - Ruler of Dragons"]
         },
+        "legendary": { "5": ["Rhea - The Final Child"] },
         "mythic": { "5": ["Seiros - Saint of Legend"] },
         "special": { "4": ["Kana - Rising Dragon"] },
         "harmonized": { "5": ["Nagi - Hopeful Eternity"] }
@@ -11545,7 +11554,10 @@
       "rules": "dragon"
     },
     "A/D/R Slam": {
-      "pool": { "mythic": { "5": ["Sombron - Fell Dragon King"] } },
+      "pool": {
+        "legendary": { "5": ["Rhea - The Final Child"] },
+        "mythic": { "5": ["Sombron - Fell Dragon King"] }
+      },
       "id": "A/D/R Slam",
       "name": "攻防魔的龍尾",
       "sp": 300,
@@ -15131,7 +15143,11 @@
         "#": { "5": ["Morva - Darkling Warden"] },
         "grail": { "5": ["Kana - Rising Sunlight"] },
         "legendary": {
-          "5": ["Myrrh - Guardian Dragon", "Fae - Childlike Dragon"]
+          "5": [
+            "Myrrh - Guardian Dragon",
+            "Fae - Childlike Dragon",
+            "Rhea - The Final Child"
+          ]
         },
         "special": {
           "5": [
@@ -16294,6 +16310,14 @@
       "sp": 300,
       "icon": "skillB/Pair_Up_4",
       "rules": "learner.infantry-armored"
+    },
+    "Distant Breath": {
+      "pool": { "legendary": { "5": ["Rhea - The Final Child"] } },
+      "id": "Distant Breath",
+      "name": "遠距離吐息",
+      "sp": 400,
+      "icon": "skillB/Distant_Breath",
+      "rules": "dragon"
     }
   },
   "skillC": {
@@ -20138,6 +20162,7 @@
       "pool": {
         "#": { "5": ["Nergal - Traitor to Nabata"] },
         "attuned": { "5": ["Caeda - Marth's Faithful"] },
+        "legendary": { "5": ["Rhea - The Final Child"] },
         "special": { "5": ["Ike - Full-Tilt Merc"] },
         "duo": { "5": ["Alfonse - Askran Duo"] }
       },
@@ -20907,6 +20932,14 @@
       "sp": 120,
       "icon": "skillC/Beast_Valor_3",
       "rules": "beast"
+    },
+    "D/R Tenet Imbue": {
+      "pool": { "legendary": { "5": ["Rhea - The Final Child"] } },
+      "id": "D/R Tenet Imbue",
+      "name": "防魔信心・治癒",
+      "sp": 300,
+      "icon": "skillC/D_R_Tenet_Imbue",
+      "rules": "learner.infantry-melee"
     }
   },
   "skillX": {

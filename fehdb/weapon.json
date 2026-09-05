@@ -36769,6 +36769,15 @@
       "exclusive": ["Alear - And Sommie!"],
       "last": true
     },
+    "Solitary Breath": {
+      "id": "Solitary Breath",
+      "name": "隱居吐息",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Flametongue"],
+      "last": true
+    },
     "Arcane Grima": {
       "id": "Arcane Grima",
       "name": "魔器津利",

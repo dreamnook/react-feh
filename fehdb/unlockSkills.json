@@ -30316,6 +30316,37 @@
       "Lower Ground": 5
     }
   },
+  "Rhea - The Final Child": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 3,
+      "Solitary Breath": 5
+    },
+    "special": {
+      "Chilling Wind": 3,
+      "Glacies": 4,
+      "Rite of Rising": 5
+    },
+    "skillA": {
+      "Atk/Res Scowl 1": 2,
+      "Atk/Res Scowl 2": 3,
+      "Atk/Res Scowl 3": 4,
+      "A/D/R Slam": 5
+    },
+    "skillB": {
+      "Dragon's Ire 1": 2,
+      "Dragon's Ire 2": 3,
+      "Dragon's Ire 3": 4,
+      "Distant Breath": 5
+    },
+    "skillC": {
+      "Def/Res Oath 1": 2,
+      "Def/Res Oath 2": 3,
+      "Def/Res Oath 3": 4,
+      "D/R Tenet Imbue": 5
+    }
+  },
   "Edelgard - The Future": {
     "weapon": {
       "Iron Axe": 1,
