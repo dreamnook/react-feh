@@ -531,12 +531,30 @@
     "icon": "skillC/Tip_the_Scales!",
     "last": true
   },
+  "Heart of Crimea II": {
+    "id": "Heart of Crimea II",
+    "name": "克里米亞之心・承",
+    "sp": 300,
+    "prev": ["Heart of Crimea"],
+    "exclusive": ["Elincia - Undaunted Queen"],
+    "icon": "skillC/Heart_of_Crimea_II",
+    "last": true
+  },
   "Heart of Crimea": {
     "id": "Heart of Crimea",
     "name": "克里米亞之心",
     "sp": 300,
     "exclusive": ["Elincia - Undaunted Queen"],
     "icon": "skillC/Heart_of_Crimea",
+    "last": true
+  },
+  "Fell Protection+": {
+    "id": "Fell Protection+",
+    "name": "邪龍的救濟・神",
+    "sp": 300,
+    "prev": ["Fell Protection"],
+    "exclusive": ["Veyle - Gentle Dragon"],
+    "icon": "skillC/Fell_Protection+",
     "last": true
   },
   "Fell Protection": {

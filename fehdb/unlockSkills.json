@@ -21161,10 +21161,15 @@
       "Dive-Bomb 1": 2,
       "Dive-Bomb 2": 3,
       "Dive-Bomb 3": 4,
-      "Aerial Maneuvers": 5
+      "Aerial Maneuvers": 5,
+      "Flier Formation 1": 2,
+      "Flier Formation 2": 3,
+      "Flier Formation 3": 4,
+      "Heavenly Soar": 5
     },
     "skillC": {
-      "Heart of Crimea": 5
+      "Heart of Crimea": 5,
+      "Heart of Crimea II": 5
     }
   },
   "Lucia - Tireless Advisor": {
@@ -35441,10 +35446,15 @@
       "Atk/Res Tempo 1": 2,
       "Atk/Res Tempo 2": 3,
       "Atk/Res Tempo 3": 4,
-      "Atk/Res Tempo 4": 5
+      "Atk/Res Tempo 4": 5,
+      "Sabotage Res 1": 2,
+      "Sabotage Res 2": 3,
+      "Sabotage Res 3": 4,
+      "Atk/Res Unrest": 5
     },
     "skillC": {
-      "Fell Protection": 5
+      "Fell Protection": 5,
+      "Fell Protection+": 5
     }
   },
   "Veyle - Fell Successor": {

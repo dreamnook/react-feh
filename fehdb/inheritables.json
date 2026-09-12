@@ -11023,8 +11023,8 @@
         "legendary": {
           "5": [
             "Xander - Gallant King",
-            "Elincia - Undaunted Queen",
             "Dimitri - Savior King",
+            "Elincia - Undaunted Queen",
             "Ayra - Supreme Astra"
           ]
         },
@@ -11072,7 +11072,7 @@
         "rearmed": { "5": ["Lucina - Fate's Resolve", "Chrom - Fell Exalt"] },
         "attuned": { "5": ["Triandra - Reverent Dream"] },
         "legendary": {
-          "5": ["Elincia - Undaunted Queen", "Dimitri - Savior King"]
+          "5": ["Dimitri - Savior King", "Elincia - Undaunted Queen"]
         },
         "mythic": {
           "5": [
@@ -13179,6 +13179,7 @@
           "5": [
             "Yune - Chaos Goddess",
             "Arval - Cycle Keeper",
+            "Veyle - Gentle Dragon",
             "Athos - Omniscient One"
           ]
         },
@@ -13300,6 +13301,7 @@
     "Atk/Res Unrest": {
       "pool": {
         "legendary": { "5": ["Lyon - Twilight Amends"] },
+        "mythic": { "5": ["Veyle - Gentle Dragon"] },
         "duo": { "5": ["Ash - Divergent Brides"] }
       },
       "id": "Atk/Res Unrest",
@@ -13702,6 +13704,7 @@
             "Díthorba - Cutting Knight"
           ]
         },
+        "legendary": { "5": ["Elincia - Undaunted Queen"] },
         "special": {
           "5": [
             "Camilla - Tropical Beauty",
@@ -13753,6 +13756,7 @@
     },
     "Heavenly Soar": {
       "pool": {
+        "legendary": { "5": ["Elincia - Undaunted Queen"] },
         "special": {
           "5": ["Thórr - Spring War God", "Mia - Zenith Challenger"]
         },

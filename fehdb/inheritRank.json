@@ -8361,19 +8361,6 @@
     "skillA": { "Atk/Def Unity": { "sp": 300, "rarity": 5 } },
     "skillB": { "A/D Spiked Wall": { "sp": 300, "rarity": 5 } }
   },
-  "Veyle - Gentle Dragon": {
-    "score": 276,
-    "scoreTotal": 736,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 800,
-    "feather": 1000,
-    "bst": 182,
-    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Atk/Res Tempo 4": { "sp": 300, "rarity": 5 } }
-  },
   "Askr - God of Openness": {
     "score": 276,
     "scoreTotal": 736,
@@ -8529,19 +8516,6 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillB": { "Assault Fighter": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/D Far Save 3": { "sp": 300, "rarity": 5 } }
-  },
-  "Elincia - Undaunted Queen": {
-    "score": 276,
-    "scoreTotal": 736,
-    "poolRarity": 5,
-    "pool": "legendary",
-    "sp": 300,
-    "spTotal": 800,
-    "feather": 1000,
-    "bst": 200,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Aerial Maneuvers": { "sp": 300, "rarity": 5 } }
   },
   "Camilla - Alluring Darkness": {
     "score": 276,
@@ -11067,6 +11041,19 @@
     "skillA": { "HP/Atk 2": { "sp": 200, "rarity": 4 } },
     "skillC": { "Atk Opening 3": { "sp": 240, "rarity": 5 } }
   },
+  "Veyle - Gentle Dragon": {
+    "score": 368,
+    "scoreTotal": 828,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 400,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 182,
+    "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Atk/Res Unrest": { "sp": 400, "rarity": 5 } }
+  },
   "Guinivere - Queen of Bern": {
     "score": 368,
     "scoreTotal": 828,
@@ -11079,6 +11066,19 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillA": { "Spd/Res Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Spd/Res Unrest": { "sp": 400, "rarity": 5 } }
+  },
+  "Elincia - Undaunted Queen": {
+    "score": 368,
+    "scoreTotal": 828,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 400,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 200,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Heavenly Soar": { "sp": 400, "rarity": 5 } }
   },
   "Micaiah - Priestess of Dawn": {
     "score": 240,

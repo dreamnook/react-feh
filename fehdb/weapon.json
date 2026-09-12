@@ -3469,6 +3469,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Elincia - Undaunted Queen"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Absolute_Amiti_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Flower of Tribute": {
@@ -3631,6 +3654,29 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Felix - Sword Savant"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "New_Levin_Sword_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Ilian Frost Blade": {
@@ -13759,6 +13805,29 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Alfonse - Heir to Openness"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Majestic_Glitnir_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Ice-Tribe Axe": {
@@ -17997,6 +18066,28 @@
       "sp": 400,
       "prev": ["Silver Bow"],
       "exclusive": ["Bernadetta - Sheltered Loner"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "The_Inexhaustible_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Sentinel Bow": {
@@ -24089,6 +24180,29 @@
       "sp": 400,
       "prev": ["Adult (Infantry)"],
       "exclusive": ["Mordecai - Gentle Firetender"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Fiery_Fang_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Enclosing Claw": {
@@ -28768,6 +28882,28 @@
       "sp": 400,
       "prev": ["Thoron"],
       "exclusive": ["Veyle - Gentle Dragon"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Obscurité_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Goddess Temari": {
