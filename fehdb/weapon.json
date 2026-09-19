@@ -18372,6 +18372,46 @@
       "exclusive": ["Leda - Rose of Caelus"],
       "last": true
     },
+    "Bow of Sacae": {
+      "id": "Bow of Sacae",
+      "name": "塞迦之女的雙人弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Lyn - Earth and Sky"],
+      "last": true
+    },
+    "Ornate Bow": {
+      "id": "Ornate Bow",
+      "name": "草原的飾弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Rebecca - In the Sun's Rays"],
+      "last": true
+    },
+    "Sacaen Hunter": {
+      "id": "Sacaen Hunter",
+      "name": "草原獵人之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Shamir - Sniper's Path"],
+      "last": true
+    },
+    "Zephyr Bow": {
+      "id": "Zephyr Bow",
+      "name": "草原喚風之弓",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Bow"],
+      "exclusive": ["Takumi - Divine Bow Prince"],
+      "last": true
+    },
     "Arcane Náströnd": {
       "id": "Arcane Náströnd",
       "name": "魔器納斯特隆德",
@@ -36953,6 +36993,7 @@
       "cd": -1,
       "sp": 400,
       "prev": ["Flametongue"],
+      "exclusive": ["Rhea - The Final Child"],
       "last": true
     },
     "Arcane Grima": {

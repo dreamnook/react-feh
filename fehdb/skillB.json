@@ -1063,6 +1063,14 @@
     "icon": "skillB/True_Love",
     "last": true
   },
+  "Bold Stance": {
+    "id": "Bold Stance",
+    "name": "攻防一體之陣",
+    "sp": 400,
+    "exclusive": ["Takumi - Divine Bow Prince"],
+    "icon": "skillB/Bold_Stance",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",
@@ -2113,6 +2121,15 @@
     "prev": ["Seal Def/Res 2"],
     "rules": "not.white-staff",
     "icon": "skillB/Seal_Def_Res_3",
+    "last": true
+  },
+  "Dull Suppress": {
+    "id": "Dull Suppress",
+    "name": "牽制射擊・強化無效",
+    "sp": 400,
+    "rules": "bow",
+    "prev": ["Seal Spd/Def 2"],
+    "icon": "skillB/Dull_Suppress",
     "last": true
   },
   "Arc-Fort Breath": {

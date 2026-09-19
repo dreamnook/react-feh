@@ -2939,6 +2939,15 @@
     "icon": "skillC/Preempt_Ploy",
     "last": true
   },
+  "Quicken Null": {
+    "id": "Quicken Null",
+    "name": "初始之躍動・識破",
+    "sp": 300,
+    "rules": "infantry",
+    "prev": ["Time's Pulse 3"],
+    "icon": "skillC/Quicken_Null",
+    "last": true
+  },
   "Twofold Pulse": {
     "id": "Twofold Pulse",
     "name": "初擊・追擊之躍動",

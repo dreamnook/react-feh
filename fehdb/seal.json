@@ -3602,6 +3602,30 @@
       "icon": "skillB/Dragon's_Wrath_3",
       "last": true
     },
+    "S/D Far Trace 1": {
+      "id": "S/D Far Trace 1",
+      "name": "速度防守遠影1",
+      "sp": 60,
+      "rules": "learner.cavalry-flying-ranged",
+      "icon": "skillB/S_D_Far_Trace_1"
+    },
+    "S/D Far Trace 2": {
+      "id": "S/D Far Trace 2",
+      "name": "速度防守遠影2",
+      "sp": 120,
+      "prev": ["S/D Far Trace 1"],
+      "rules": "learner.cavalry-flying-ranged",
+      "icon": "skillB/S_D_Far_Trace_2"
+    },
+    "S/D Far Trace 3": {
+      "id": "S/D Far Trace 3",
+      "name": "速度防守遠影3",
+      "sp": 240,
+      "prev": ["S/D Far Trace 2"],
+      "rules": "learner.cavalry-flying-ranged",
+      "icon": "skillB/S_D_Far_Trace_3",
+      "last": true
+    },
     "Atk/Def Tempo 1": {
       "id": "Atk/Def Tempo 1",
       "name": "攻擊防守節拍1",
@@ -3744,6 +3768,30 @@
       "prev": ["Resonance 2"],
       "rules": "learner.tome-staff",
       "icon": "skillB/Resonance_3",
+      "last": true
+    },
+    "Speedtaker 1": {
+      "id": "Speedtaker 1",
+      "name": "速度吸收1",
+      "sp": 60,
+      "rules": "learner.infantry-flying-def-dmger",
+      "icon": "skillB/Speedtaker_1"
+    },
+    "Speedtaker 2": {
+      "id": "Speedtaker 2",
+      "name": "速度吸收2",
+      "sp": 120,
+      "prev": ["Speedtaker 1"],
+      "rules": "learner.infantry-flying-def-dmger",
+      "icon": "skillB/Speedtaker_2"
+    },
+    "Speedtaker 3": {
+      "id": "Speedtaker 3",
+      "name": "速度吸收3",
+      "sp": 240,
+      "prev": ["Speedtaker 2"],
+      "rules": "learner.infantry-flying-def-dmger",
+      "icon": "skillB/Speedtaker_3",
       "last": true
     }
   },
@@ -8465,6 +8513,66 @@
       "res": 4,
       "prev": ["Squad Ace DD 2"],
       "icon": "seal/Squad_Ace_Atk_Spd_Res_3",
+      "last": true
+    },
+    "Squad Ace DE 1": {
+      "id": "Squad Ace DE 1",
+      "name": "第１０９迷宮的霸王1",
+      "sp": 120,
+      "atk": 2,
+      "def": 2,
+      "res": 2,
+      "icon": "seal/Squad_Ace_Atk_Def_Res_1"
+    },
+    "Squad Ace DE 2": {
+      "id": "Squad Ace DE 2",
+      "name": "第１０９迷宮的霸王2",
+      "sp": 180,
+      "atk": 3,
+      "def": 3,
+      "res": 3,
+      "prev": ["Squad Ace DE 1"],
+      "icon": "seal/Squad_Ace_Atk_Def_Res_2"
+    },
+    "Squad Ace DE 3": {
+      "id": "Squad Ace DE 3",
+      "name": "第１０９迷宮的霸王3",
+      "sp": 240,
+      "atk": 4,
+      "def": 4,
+      "res": 4,
+      "prev": ["Squad Ace DE 2"],
+      "icon": "seal/Squad_Ace_Atk_Def_Res_3",
+      "last": true
+    },
+    "Squad Ace DF 1": {
+      "id": "Squad Ace DF 1",
+      "name": "第１１０迷宮的霸王1",
+      "sp": 120,
+      "spd": 2,
+      "def": 2,
+      "res": 2,
+      "icon": "seal/Squad_Ace_Spd_Def_Res_1"
+    },
+    "Squad Ace DF 2": {
+      "id": "Squad Ace DF 2",
+      "name": "第１１０迷宮的霸王2",
+      "sp": 180,
+      "spd": 3,
+      "def": 3,
+      "res": 3,
+      "prev": ["Squad Ace DF 1"],
+      "icon": "seal/Squad_Ace_Spd_Def_Res_2"
+    },
+    "Squad Ace DF 3": {
+      "id": "Squad Ace DF 3",
+      "name": "第１１０迷宮的霸王3",
+      "sp": 240,
+      "spd": 4,
+      "def": 4,
+      "res": 4,
+      "prev": ["Squad Ace DF 2"],
+      "icon": "seal/Squad_Ace_Spd_Def_Res_3",
       "last": true
     }
   }

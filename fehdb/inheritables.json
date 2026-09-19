@@ -3326,12 +3326,6 @@
       }
     },
     "dragon": {
-      "Solitary Breath": {
-        "pool": { "legendary": { "5": ["Rhea - The Final Child"] } },
-        "id": "Solitary Breath",
-        "name": "隱居吐息",
-        "sp": 400
-      },
       "Arcane Grima": {
         "pool": { "rearmed": { "5": ["Robin - Fell Tactician"] } },
         "id": "Arcane Grima",
@@ -4402,6 +4396,7 @@
             "Flavia - Bold Bride",
             "Catria - Windswept Knight",
             "Fir - Student of Spring",
+            "Rebecca - In the Sun's Rays",
             "Brigid - Orgahil Pirate",
             "Tanith - Forthright Heart"
           ]
@@ -5121,6 +5116,7 @@
           "5": [
             "Leif - Destined Scions",
             "Ayra - Together in Tea",
+            "Lyn - Earth and Sky",
             "Cordelia - Unyielding Snow",
             "Fir - Dual Warriors"
           ]
@@ -5210,7 +5206,10 @@
       "rules": "learner.infantry-armored-not-staff"
     },
     "Wind Edge": {
-      "pool": { "duo": { "5": ["Baldr - Eternal Shimmer"] } },
+      "pool": {
+        "duo": { "5": ["Baldr - Eternal Shimmer"] },
+        "harmonized": { "5": ["Lyn - Earth and Sky"] }
+      },
       "id": "Wind Edge",
       "name": "風鋒",
       "sp": 500,
@@ -5524,6 +5523,7 @@
             "Corrin - Novice Vacationer",
             "Nerþuz - Beach Chaperone",
             "Embla - Closed-Off Bride",
+            "Shamir - Sniper's Path",
             "Ephraim - Sparkling Gallantly",
             "Mia - Budding Blade",
             "Corrin - Starry Seer",
@@ -5836,7 +5836,9 @@
         },
         "emblem": { "5": ["Roy - Of Binding", "Edelgard - Of Rivals"] },
         "aided": { "5": ["Reginn - Dvergr Heir", "Alear - And Sommie!"] },
-        "entwined": { "5": ["Ash - Borrowed Power"] },
+        "entwined": {
+          "5": ["Ash - Borrowed Power", "Takumi - Divine Bow Prince"]
+        },
         "legendary": {
           "5": ["Robin - Exalt's Other Half", "Seliph - Scion of Light"]
         },
@@ -5991,7 +5993,10 @@
       "rules": "dragon"
     },
     "Waning Shot": {
-      "pool": { "harmonized": { "5": ["Hilda - Skyward Wings"] } },
+      "pool": {
+        "entwined": { "5": ["Takumi - Divine Bow Prince"] },
+        "harmonized": { "5": ["Hilda - Skyward Wings"] }
+      },
       "id": "Waning Shot",
       "name": "弱化射擊",
       "sp": 500,
@@ -7420,12 +7425,14 @@
             "Ursula - Blue Crow"
           ]
         },
+        "entwined": { "5": ["Takumi - Divine Bow Prince"] },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
         "special": {
           "5": [
             "Roy - Youthful Gifts",
             "Reinhardt - Lightning's Rondo",
             "Camilla - Tropical Beauty",
+            "Rebecca - In the Sun's Rays",
             "Faye - Drawn Heartstring"
           ]
         }
@@ -7905,6 +7912,14 @@
       "sp": 300,
       "icon": "skillA/Warrior's_Blow",
       "rules": "learner.infantry-melee"
+    },
+    "Certain Blow": {
+      "pool": { "entwined": { "5": ["Takumi - Divine Bow Prince"] } },
+      "id": "Certain Blow",
+      "name": "兇鳥一擊",
+      "sp": 300,
+      "icon": "skillA/Certain_Blow",
+      "rules": "learner.def-dmger"
     },
     "Remote Sparrow": {
       "pool": {
@@ -10143,7 +10158,8 @@
     "AR-O Atk/Spd 3": {
       "pool": {
         "rearmed": { "5": ["Robin - Onsen Tactician"] },
-        "mythic": { "5": ["Naga - Dragon Divinity"] }
+        "mythic": { "5": ["Naga - Dragon Divinity"] },
+        "special": { "5": ["Shamir - Sniper's Path"] }
       },
       "id": "AR-O Atk/Spd 3",
       "name": "攻擊速度的攻城戰3",
@@ -10169,7 +10185,10 @@
       "icon": "skillA/AR-O_Spd_Res_3"
     },
     "A/S Foresight Nix": {
-      "pool": { "rearmed": { "5": ["Robin - Onsen Tactician"] } },
+      "pool": {
+        "rearmed": { "5": ["Robin - Onsen Tactician"] },
+        "special": { "5": ["Shamir - Sniper's Path"] }
+      },
       "id": "A/S Foresight Nix",
       "name": "攻擊速度的預知逆用",
       "sp": 300,
@@ -12781,7 +12800,8 @@
     "Seal Spd/Def 2": {
       "pool": {
         "#": { "3": ["Thea - Stormy Flier"], "5": ["Ashe - Chivalric Amends"] },
-        "legendary": { "5": ["Shez - Sharpest Blades"] }
+        "legendary": { "5": ["Shez - Sharpest Blades"] },
+        "harmonized": { "5": ["Lyn - Earth and Sky"] }
       },
       "id": "Seal Spd/Def 2",
       "name": "速度防守封印2",
@@ -12839,6 +12859,14 @@
       "sp": 300,
       "icon": "skillB/Seal_Def_Res_3",
       "rules": "not.white-staff"
+    },
+    "Dull Suppress": {
+      "pool": { "harmonized": { "5": ["Lyn - Earth and Sky"] } },
+      "id": "Dull Suppress",
+      "name": "牽制射擊・強化無效",
+      "sp": 400,
+      "icon": "skillB/Dull_Suppress",
+      "rules": "bow"
     },
     "Arc-Fort Breath": {
       "pool": { "attuned": { "5": ["Leif - Sworn to Country"] } },
@@ -16258,7 +16286,7 @@
         "legendary": {
           "5": ["Ayra - Supreme Astra", "Hinoka - Thundering Wings"]
         },
-        "special": { "5": ["Sharena - Sea of Hope"] }
+        "special": { "5": ["Shamir - Sniper's Path", "Sharena - Sea of Hope"] }
       },
       "id": "Speedtaker 3",
       "name": "速度吸收3",
@@ -16285,7 +16313,7 @@
     "A/S Taker Burst": {
       "pool": {
         "rearmed": { "5": ["Alear - Casual Duelist"] },
-        "special": { "5": ["Sharena - Sea of Hope"] }
+        "special": { "5": ["Shamir - Sniper's Path", "Sharena - Sea of Hope"] }
       },
       "id": "A/S Taker Burst",
       "name": "攻速吸收・初擊躍動",
@@ -18616,6 +18644,7 @@
           ]
         },
         "aided": { "5": ["Lute - Limitless Curiosity"] },
+        "entwined": { "5": ["Takumi - Divine Bow Prince"] },
         "legendary": {
           "5": [
             "Micaiah - Radiant Queen",
@@ -18771,6 +18800,14 @@
       "name": "初始之躍動・謀策",
       "sp": 300,
       "icon": "skillC/Preempt_Ploy",
+      "rules": "infantry"
+    },
+    "Quicken Null": {
+      "pool": { "entwined": { "5": ["Takumi - Divine Bow Prince"] } },
+      "id": "Quicken Null",
+      "name": "初始之躍動・識破",
+      "sp": 300,
+      "icon": "skillC/Quicken_Null",
       "rules": "infantry"
     },
     "Twofold Pulse": {
@@ -19727,7 +19764,7 @@
         "#": { "3": ["Dew - Benevolent Thief"] },
         "special": {
           "4": ["Tharja - Beach Dark Mage"],
-          "5": ["Anna - Wealth-Wisher"]
+          "5": ["Anna - Wealth-Wisher", "Rebecca - In the Sun's Rays"]
         },
         "harmonized": {
           "5": ["Mia - Harmonic Blades", "Eirika - Spring Company"]
@@ -19799,7 +19836,10 @@
       "icon": "skillC/Def_Res_Gap_3"
     },
     "Atk/Spd Liberate": {
-      "pool": { "harmonized": { "5": ["Eirika - Spring Company"] } },
+      "pool": {
+        "special": { "5": ["Rebecca - In the Sun's Rays"] },
+        "harmonized": { "5": ["Eirika - Spring Company"] }
+      },
       "id": "Atk/Spd Liberate",
       "name": "攻擊速度解放",
       "sp": 300,
@@ -20661,7 +20701,10 @@
           "4": ["Dorothea - Rosy Songstress"],
           "5": ["Dimitri - Stargazing Lion"]
         },
-        "duo": { "5": ["Baldr - New Year's Elite", "Lucina - Shadows of Fate"] }
+        "duo": {
+          "5": ["Baldr - New Year's Elite", "Lucina - Shadows of Fate"]
+        },
+        "harmonized": { "5": ["Lyn - Earth and Sky"] }
       },
       "id": "Shadow Shift 3",
       "name": "影助・帶回3",
@@ -20686,7 +20729,8 @@
     "Shadow Shift X": {
       "pool": {
         "#": { "5": ["Sigurd - Legacy of Justice"] },
-        "mythic": { "5": ["Gróa - Future Daughter"] }
+        "mythic": { "5": ["Gróa - Future Daughter"] },
+        "harmonized": { "5": ["Lyn - Earth and Sky"] }
       },
       "id": "Shadow Shift X",
       "name": "影助・帶回・十紋章",

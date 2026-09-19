@@ -25188,6 +25188,42 @@
     "dfKey": 8,
     "vistaKey": 2
   },
+  "Lyn - Earth and Sky": {
+    "id": "Lyn - Earth and Sky",
+    "title": "蒼天與大地的指引",
+    "name": "琳",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-bow",
+    "moveType": "cavalry",
+    "pool": "harmonized",
+    "appearsIn": ["The Binding Blade", "The Blazing Blade"],
+    "releaseDate": "2026-09-18",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [43, 46, 49],
+        "spd": [47, 50, 54],
+        "def": [31, 34, 37],
+        "res": [22, 26, 29]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 11,
+        "spd": 11,
+        "def": 8,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 196,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.9",
+    "dfKey": 9,
+    "vistaKey": 1
+  },
   "Hector - General of Ostia": {
     "id": "Hector - General of Ostia",
     "title": "奧斯提亞的勇將",
@@ -26516,6 +26552,42 @@
     "book": 7,
     "ver": "7.4",
     "dfKey": 5,
+    "vistaKey": 1
+  },
+  "Rebecca - In the Sun's Rays": {
+    "id": "Rebecca - In the Sun's Rays",
+    "title": "沐浴於陽光之下",
+    "name": "蕾貝卡",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-bow",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["The Blazing Blade"],
+    "releaseDate": "2026-09-18",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [18, 21, 24],
+        "res": [35, 38, 42]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 6,
+        "res": 8
+      }
+    },
+    "assets": ["spd", "res"],
+    "flaws": ["hp"],
+    "statMin": 195,
+    "statMax": 195,
+    "book": 10,
+    "ver": "10.9",
+    "dfKey": 9,
     "vistaKey": 1
   },
   "Pent - Fancy Fiancé": {
@@ -47755,6 +47827,42 @@
     "dfKey": 6,
     "vistaKey": 1
   },
+  "Takumi - Divine Bow Prince": {
+    "id": "Takumi - Divine Bow Prince",
+    "title": "神弓的年輕主人",
+    "name": "拓海",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-bow",
+    "moveType": "infantry",
+    "pool": "entwined",
+    "appearsIn": ["Fates"],
+    "releaseDate": "2026-09-18",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 52],
+        "spd": [45, 48, 52],
+        "def": [45, 48, 51],
+        "res": [16, 20, 23]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 9,
+        "def": 13,
+        "res": 7
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "res"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.9",
+    "dfKey": 9,
+    "vistaKey": 1
+  },
   "Hinata - Wild Samurai": {
     "id": "Hinata - Wild Samurai",
     "title": "豪邁武士",
@@ -57767,6 +57875,42 @@
     "book": 7,
     "ver": "7.6",
     "dfKey": 5,
+    "vistaKey": 1
+  },
+  "Shamir - Sniper's Path": {
+    "id": "Shamir - Sniper's Path",
+    "title": "狙擊手的新境界",
+    "name": "薩米亞",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-bow",
+    "moveType": "infantry",
+    "pool": "special",
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2026-09-18",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 52],
+        "spd": [45, 48, 52],
+        "def": [28, 32, 35],
+        "res": [33, 36, 39]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 9,
+        "spd": 9,
+        "def": 10,
+        "res": 10
+      }
+    },
+    "assets": ["atk", "spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 204,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.9",
+    "dfKey": 9,
     "vistaKey": 1
   },
   "Cyril - Rhea's Attendant": {

@@ -14702,6 +14702,34 @@
       "A/S Hone Assault": 5
     }
   },
+  "Lyn - Earth and Sky": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Bow of Sacae": 5
+    },
+    "special": {
+      "Night Sky": 3,
+      "Astra": 4,
+      "Wind Edge": 5
+    },
+    "skillA": {
+      "Sacaen Edicts": 5
+    },
+    "skillB": {
+      "Seal Spd 1": 2,
+      "Seal Spd/Def 1": 3,
+      "Seal Spd/Def 2": 4,
+      "Dull Suppress": 5
+    },
+    "skillC": {
+      "Shadow Shift 1": 2,
+      "Shadow Shift 2": 3,
+      "Shadow Shift 3": 4,
+      "Shadow Shift X": 5
+    }
+  },
   "Hector - General of Ostia": {
     "weapon": {
       "Iron Axe": 1,
@@ -15369,6 +15397,29 @@
       "Null Follow-Up 1": 1,
       "Null Follow-Up 2": 2,
       "Null Follow-Up 3": 4
+    }
+  },
+  "Rebecca - In the Sun's Rays": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Ornate Bow": 5
+    },
+    "assist": {
+      "Harsh Command": 3,
+      "Harsh Command+": 5
+    },
+    "skillA": {
+      "Death Blow 1": 1,
+      "Death Blow 2": 2,
+      "Death Blow 3": 4
+    },
+    "skillC": {
+      "Atk/Spd Gap 1": 2,
+      "Atk/Spd Gap 2": 3,
+      "Atk/Spd Gap 3": 4,
+      "Atk/Spd Liberate": 5
     }
   },
   "Pent - Fancy Fiancé": {
@@ -27257,6 +27308,34 @@
       "Rouse Atk/Spd 3": 4
     }
   },
+  "Takumi - Divine Bow Prince": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Zephyr Bow": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4,
+      "Waning Shot": 5
+    },
+    "skillA": {
+      "Death Blow 1": 2,
+      "Death Blow 2": 3,
+      "Death Blow 3": 4,
+      "Certain Blow": 5
+    },
+    "skillB": {
+      "Bold Stance": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Quicken Null": 5
+    }
+  },
   "Hinata - Wild Samurai": {
     "weapon": {
       "Iron Sword": 1,
@@ -33046,6 +33125,31 @@
       "Fatal Smoke 1": 1,
       "Fatal Smoke 2": 2,
       "Fatal Smoke 3": 4
+    }
+  },
+  "Shamir - Sniper's Path": {
+    "weapon": {
+      "Iron Bow": 1,
+      "Steel Bow": 2,
+      "Silver Bow": 3,
+      "Sacaen Hunter": 5
+    },
+    "special": {
+      "Dragon Gaze": 3,
+      "Dragon Fang": 4,
+      "Hunter's Volley": 5
+    },
+    "skillA": {
+      "AR-O Atk/Spd 1": 2,
+      "AR-O Atk/Spd 2": 3,
+      "AR-O Atk/Spd 3": 4,
+      "A/S Foresight Nix": 5
+    },
+    "skillB": {
+      "Speedtaker 1": 2,
+      "Speedtaker 2": 3,
+      "Speedtaker 3": 4,
+      "A/S Taker Burst": 5
     }
   },
   "Cyril - Rhea's Attendant": {

@@ -928,6 +928,15 @@
     "exclusive": ["Theodora - Mighty Queen"],
     "last": true
   },
+  "Hunter's Volley": {
+    "id": "Hunter's Volley",
+    "name": "獵箭齊發",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Dragon Fang"],
+    "exclusive": ["Shamir - Sniper's Path"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

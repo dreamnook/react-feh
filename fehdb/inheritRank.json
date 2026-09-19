@@ -12744,6 +12744,32 @@
     "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Res Discord": { "sp": 300, "rarity": 5 } }
   },
+  "Rebecca - In the Sun's Rays": {
+    "score": 424,
+    "scoreTotal": 954,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 195,
+    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Death Blow 3": { "sp": 200, "rarity": 5 } },
+    "skillC": { "Atk/Spd Liberate": { "sp": 300, "rarity": 5 } }
+  },
+  "Shamir - Sniper's Path": {
+    "score": 424,
+    "scoreTotal": 954,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
+    "skillA": { "A/S Foresight Nix": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/S Taker Burst": { "sp": 400, "rarity": 5 } }
+  },
   "Reginn - Bearing Hope": {
     "score": 276,
     "scoreTotal": 957,
@@ -14318,6 +14344,19 @@
     "special": { "Flame Wall": { "sp": 500, "rarity": 5 } },
     "skillA": { "Distant A/D Form": { "sp": 300, "rarity": 5 } },
     "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Takumi - Divine Bow Prince": {
+    "score": 460,
+    "scoreTotal": 1012,
+    "poolRarity": 5,
+    "pool": "entwined",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Waning Shot": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Certain Blow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Quicken Null": { "sp": 300, "rarity": 5 } }
   },
   "Shez - Dual Sword Master": {
     "score": 460,
@@ -17430,6 +17469,19 @@
     "special": { "Comet": { "sp": 500, "rarity": 5 } },
     "skillB": { "Spd/Res Unrest": { "sp": 400, "rarity": 5 } },
     "skillC": { "Pulse Follow Con": { "sp": 300, "rarity": 5 } }
+  },
+  "Lyn - Earth and Sky": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "harmonized",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 196,
+    "special": { "Wind Edge": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Dull Suppress": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Shadow Shift X": { "sp": 300, "rarity": 5 } }
   },
   "Thórr - Spring War God": {
     "score": 530,
