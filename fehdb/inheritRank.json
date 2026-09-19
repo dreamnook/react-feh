@@ -12757,19 +12757,6 @@
     "skillA": { "Death Blow 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Atk/Spd Liberate": { "sp": 300, "rarity": 5 } }
   },
-  "Shamir - Sniper's Path": {
-    "score": 424,
-    "scoreTotal": 954,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 400,
-    "spTotal": 900,
-    "feather": 1000,
-    "bst": 204,
-    "special": { "Dragon Fang": { "sp": 200, "rarity": 5 } },
-    "skillA": { "A/S Foresight Nix": { "sp": 300, "rarity": 5 } },
-    "skillB": { "A/S Taker Burst": { "sp": 400, "rarity": 5 } }
-  },
   "Reginn - Bearing Hope": {
     "score": 276,
     "scoreTotal": 957,
@@ -17507,6 +17494,19 @@
     "bst": 204,
     "special": { "Archrival": { "sp": 500, "rarity": 5 } },
     "skillA": { "Swift Specter": { "sp": 300, "rarity": 5 } },
+    "skillB": { "A/S Taker Burst": { "sp": 400, "rarity": 5 } }
+  },
+  "Shamir - Sniper's Path": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 204,
+    "special": { "Hunter's Volley": { "sp": 500, "rarity": 5 } },
+    "skillA": { "A/S Foresight Nix": { "sp": 300, "rarity": 5 } },
     "skillB": { "A/S Taker Burst": { "sp": 400, "rarity": 5 } }
   },
   "Hector - Into the Fray": {

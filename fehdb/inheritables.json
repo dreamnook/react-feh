@@ -5523,7 +5523,6 @@
             "Corrin - Novice Vacationer",
             "Nerþuz - Beach Chaperone",
             "Embla - Closed-Off Bride",
-            "Shamir - Sniper's Path",
             "Ephraim - Sparkling Gallantly",
             "Mia - Budding Blade",
             "Corrin - Starry Seer",
@@ -5531,7 +5530,8 @@
             "Yunaka - Stealthy Imitator",
             "Felix - Zealous Yearning",
             "Thórr - Spring War God",
-            "Sharena - Sea of Hope"
+            "Sharena - Sea of Hope",
+            "Shamir - Sniper's Path"
           ]
         },
         "duo": { "5": ["Corrin - Young Kinship", "Baldr - New Year's Elite"] },
@@ -5642,6 +5642,13 @@
       "name": "邏輯",
       "sp": 500,
       "rules": "tome"
+    },
+    "Hunter's Volley": {
+      "pool": { "special": { "5": ["Shamir - Sniper's Path"] } },
+      "id": "Hunter's Volley",
+      "name": "獵箭齊發",
+      "sp": 500,
+      "rules": "bow"
     },
     "Bonfire": {
       "pool": {
@@ -16286,7 +16293,7 @@
         "legendary": {
           "5": ["Ayra - Supreme Astra", "Hinoka - Thundering Wings"]
         },
-        "special": { "5": ["Shamir - Sniper's Path", "Sharena - Sea of Hope"] }
+        "special": { "5": ["Sharena - Sea of Hope", "Shamir - Sniper's Path"] }
       },
       "id": "Speedtaker 3",
       "name": "速度吸收3",
@@ -16313,7 +16320,7 @@
     "A/S Taker Burst": {
       "pool": {
         "rearmed": { "5": ["Alear - Casual Duelist"] },
-        "special": { "5": ["Shamir - Sniper's Path", "Sharena - Sea of Hope"] }
+        "special": { "5": ["Sharena - Sea of Hope", "Shamir - Sniper's Path"] }
       },
       "id": "A/S Taker Burst",
       "name": "攻速吸收・初擊躍動",
