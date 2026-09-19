@@ -5648,7 +5648,7 @@
       "id": "Hunter's Volley",
       "name": "獵箭齊發",
       "sp": 500,
-      "rules": "bow"
+      "rules": "learner.infantry-armored-bow"
     },
     "Bonfire": {
       "pool": {

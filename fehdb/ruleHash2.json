@@ -247,6 +247,10 @@
     "weaponType": 3840,
     "moveType": 3
   },
+  "learner.infantry-armored-bow": {
+    "weaponType": 240,
+    "moveType": 3
+  },
   "learner.infantry-armored-flying-ranged-res-dmger": {
     "moveType": 11,
     "weaponType": 61448

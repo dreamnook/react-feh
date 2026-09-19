@@ -1239,7 +1239,7 @@
     "sp": 500,
     "cd": 5,
     "prev": ["Dragon Fang"],
-    "rules": "bow",
+    "rules": "learner.infantry-armored-bow",
     "last": true
   },
   "Glowing Ember": {
