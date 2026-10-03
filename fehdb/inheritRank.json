@@ -2482,6 +2482,19 @@
     "skillA": { "Fire Boost 3": { "sp": 200, "rarity": 5 } },
     "skillC": { "Infantry Pulse 3": { "sp": 240, "rarity": 4 } }
   },
+  "Rebecca - In the Sun's Rays": {
+    "score": 163,
+    "scoreTotal": 386,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 900,
+    "feather": 300,
+    "bst": 195,
+    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Death Blow 3": { "sp": 200, "rarity": 4 } },
+    "skillC": { "Atk/Spd Liberate": { "sp": 300, "rarity": 5 } }
+  },
   "Juno - Soaring Bride": {
     "score": 196,
     "scoreTotal": 395,
@@ -12177,6 +12190,19 @@
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Armor March 3": { "sp": 240, "rarity": 5 } }
   },
+  "Seiðr - Hope Reborn": {
+    "score": 368,
+    "scoreTotal": 920,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 400,
+    "spTotal": 1000,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Blazing Light": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Dim Smash": { "sp": 400, "rarity": 5 } }
+  },
   "Lumera - In Distant Skies": {
     "score": 368,
     "scoreTotal": 920,
@@ -12743,19 +12769,6 @@
     "special": { "Blazing Wind": { "sp": 300, "rarity": 5 } },
     "skillA": { "Crystalline Water": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Res Discord": { "sp": 300, "rarity": 5 } }
-  },
-  "Rebecca - In the Sun's Rays": {
-    "score": 424,
-    "scoreTotal": 954,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 400,
-    "spTotal": 900,
-    "feather": 1000,
-    "bst": 195,
-    "assist": { "Harsh Command+": { "sp": 400, "rarity": 5 } },
-    "skillA": { "Death Blow 3": { "sp": 200, "rarity": 5 } },
-    "skillC": { "Atk/Spd Liberate": { "sp": 300, "rarity": 5 } }
   },
   "Reginn - Bearing Hope": {
     "score": 276,
@@ -17710,6 +17723,21 @@
     "special": { "Flare": { "sp": 500, "rarity": 5 } },
     "skillB": { "Atk/Spd Link 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Inf. Null Follow 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Eshmel - Pale Raven Herald": {
+    "score": 368,
+    "scoreTotal": 1334,
+    "poolRarity": 5,
+    "pool": "legendary",
+    "sp": 400,
+    "spTotal": 1450,
+    "feather": 1000,
+    "bst": 220,
+    "assist": { "Reposition": { "sp": 150, "rarity": 5 } },
+    "special": { "Blazing Light": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Certain Blow": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Puissant Squall": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Quicken Null": { "sp": 300, "rarity": 5 } }
   },
   "Felix - Lone-Wolf Blade": {
     "score": 500,

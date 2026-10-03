@@ -2003,8 +2003,7 @@
     "sp": 200,
     "prev": ["Seal Atk/Spd 1"],
     "rules": "not.white-staff",
-    "icon": "skillB/Seal_Atk_Spd_2",
-    "last": true
+    "icon": "skillB/Seal_Atk_Spd_2"
   },
   "Seal Atk/Res 1": {
     "id": "Seal Atk/Res 1",
@@ -6423,6 +6422,24 @@
     "prev": ["Pair Up 3"],
     "rules": "learner.infantry-armored",
     "icon": "skillB/Pair_Up_4",
+    "last": true
+  },
+  "Dim Smash": {
+    "id": "Dim Smash",
+    "name": "全封印・柵欄",
+    "sp": 400,
+    "rules": "learner.ranged-not-staff",
+    "prev": ["Seal Atk/Spd 2", "Seal Def/Res 2"],
+    "icon": "skillB/Dim_Smash",
+    "last": true
+  },
+  "Puissant Squall": {
+    "id": "Puissant Squall",
+    "name": "超神速・奧義之旋風",
+    "sp": 400,
+    "prev": ["Potent 3", "Special Spiral 3"],
+    "rules": "learner.infantry-melee-def-dmger",
+    "icon": "skillB/Puissant_Squall",
     "last": true
   }
 }

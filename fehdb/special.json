@@ -928,6 +928,15 @@
     "exclusive": ["Theodora - Mighty Queen"],
     "last": true
   },
+  "Nine-Sky Strike": {
+    "id": "Nine-Sky Strike",
+    "name": "九天神擊",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Blazing Light"],
+    "exclusive": ["Eshmel - Pale Raven Herald"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

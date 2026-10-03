@@ -216,6 +216,10 @@
     "weaponType": 16711687,
     "moveType": 1
   },
+  "learner.infantry-melee-def-dmger": {
+    "weaponType": 15728647,
+    "moveType": 1
+  },
   "learner.infantry-ranged": {
     "weaponType": 65528,
     "moveType": 1

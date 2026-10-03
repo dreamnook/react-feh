@@ -965,6 +965,14 @@
     "icon": "skillC/Moving_Shadow",
     "last": true
   },
+  "Future-Shared": {
+    "id": "Future-Shared",
+    "name": "一同交織未來",
+    "sp": 300,
+    "exclusive": ["Seiðr - Hope Reborn"],
+    "icon": "skillC/Future-Shared",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

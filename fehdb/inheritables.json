@@ -3893,7 +3893,9 @@
         "rearmed": { "5": ["Ingrid - Chivalrous Heart", "Chrom - Fell Exalt"] },
         "emblem": { "5": ["Byleth - Of the Academy"] },
         "aided": { "5": ["Dagr - Sunny Bloom"] },
-        "legendary": { "5": ["Chrom - Crowned Exalt"] },
+        "legendary": {
+          "5": ["Chrom - Crowned Exalt", "Eshmel - Pale Raven Herald"]
+        },
         "mythic": { "5": ["Gróa - Future Daughter"] },
         "special": {
           "4": [
@@ -4392,11 +4394,11 @@
         },
         "special": {
           "5": [
+            "Rebecca - In the Sun's Rays",
             "Sothe - Rushing Dawn",
             "Flavia - Bold Bride",
             "Catria - Windswept Knight",
             "Fir - Student of Spring",
-            "Rebecca - In the Sun's Rays",
             "Brigid - Orgahil Pirate",
             "Tanith - Forthright Heart"
           ]
@@ -6472,6 +6474,8 @@
           ]
         },
         "emblem": { "5": ["Sigurd - Of the Holy War"] },
+        "legendary": { "5": ["Eshmel - Pale Raven Herald"] },
+        "mythic": { "5": ["Seiðr - Hope Reborn"] },
         "special": { "5": ["Seiðr - Candlelit Hope"] },
         "duo": {
           "5": ["Hapi - Eternal Sunlit Pair", "Sigurd - Honorable Nobles"]
@@ -7352,7 +7356,7 @@
         },
         "emblem": { "5": ["Micaiah - Of Dawn"] },
         "legendary": { "5": ["Deirdre - Fated Saint"] },
-        "mythic": { "5": ["Seiðr - Goddess of Hope"] },
+        "mythic": { "5": ["Seiðr - Goddess of Hope", "Seiðr - Hope Reborn"] },
         "special": {
           "4": ["Leo - Festival Bonds"],
           "5": [
@@ -7392,6 +7396,7 @@
         "#": { "5": ["Veyle - Fell Successor"] },
         "rearmed": { "5": ["Marianne - Cursed Blessing"] },
         "emblem": { "5": ["Micaiah - Of Dawn"] },
+        "mythic": { "5": ["Seiðr - Hope Reborn"] },
         "special": {
           "5": [
             "Veyle - Spring Tranquility",
@@ -7435,11 +7440,11 @@
         "entwined": { "5": ["Takumi - Divine Bow Prince"] },
         "legendary": { "5": ["Eliwood - Blazing Knight"] },
         "special": {
+          "4": ["Rebecca - In the Sun's Rays"],
           "5": [
             "Roy - Youthful Gifts",
             "Reinhardt - Lightning's Rondo",
             "Camilla - Tropical Beauty",
-            "Rebecca - In the Sun's Rays",
             "Faye - Drawn Heartstring"
           ]
         }
@@ -7483,7 +7488,9 @@
         },
         "grail": { "4": ["Valter - Dark Moonstone"] },
         "attuned": { "5": ["Ryoma - Warrior of Bonds"] },
-        "legendary": { "5": ["Alm - Saint-King"] },
+        "legendary": {
+          "5": ["Alm - Saint-King", "Eshmel - Pale Raven Herald"]
+        },
         "special": { "5": ["Felix - Zealous Yearning"] }
       },
       "id": "Darting Blow 3",
@@ -7921,7 +7928,10 @@
       "rules": "learner.infantry-melee"
     },
     "Certain Blow": {
-      "pool": { "entwined": { "5": ["Takumi - Divine Bow Prince"] } },
+      "pool": {
+        "entwined": { "5": ["Takumi - Divine Bow Prince"] },
+        "legendary": { "5": ["Eshmel - Pale Raven Herald"] }
+      },
       "id": "Certain Blow",
       "name": "兇鳥一擊",
       "sp": 300,
@@ -12764,6 +12774,7 @@
     "Seal Atk/Spd 2": {
       "pool": {
         "grail": { "5": ["Noire - Demurely Deft"] },
+        "mythic": { "5": ["Seiðr - Hope Reborn"] },
         "special": { "5": ["Frederick - Horizon Watcher"] }
       },
       "id": "Seal Atk/Spd 2",
@@ -16121,6 +16132,7 @@
     "Potent 3": {
       "pool": {
         "emblem": { "5": ["Marth - Of Beginnings"] },
+        "legendary": { "5": ["Eshmel - Pale Raven Herald"] },
         "special": {
           "5": ["Larcei - Bride of Astra", "Lapis - Forager of the Sea"]
         },
@@ -16394,6 +16406,22 @@
       "sp": 300,
       "icon": "skillB/Pair_Up_4",
       "rules": "learner.infantry-armored"
+    },
+    "Dim Smash": {
+      "pool": { "mythic": { "5": ["Seiðr - Hope Reborn"] } },
+      "id": "Dim Smash",
+      "name": "全封印・柵欄",
+      "sp": 400,
+      "icon": "skillB/Dim_Smash",
+      "rules": "learner.ranged-not-staff"
+    },
+    "Puissant Squall": {
+      "pool": { "legendary": { "5": ["Eshmel - Pale Raven Herald"] } },
+      "id": "Puissant Squall",
+      "name": "超神速・奧義之旋風",
+      "sp": 400,
+      "icon": "skillB/Puissant_Squall",
+      "rules": "learner.infantry-melee-def-dmger"
     }
   },
   "skillC": {
@@ -18657,7 +18685,8 @@
             "Micaiah - Radiant Queen",
             "Alm - Saint-King",
             "Byleth - The Fódlan Star",
-            "Lyon - Twilight Amends"
+            "Lyon - Twilight Amends",
+            "Eshmel - Pale Raven Herald"
           ]
         },
         "mythic": {
@@ -18810,7 +18839,10 @@
       "rules": "infantry"
     },
     "Quicken Null": {
-      "pool": { "entwined": { "5": ["Takumi - Divine Bow Prince"] } },
+      "pool": {
+        "entwined": { "5": ["Takumi - Divine Bow Prince"] },
+        "legendary": { "5": ["Eshmel - Pale Raven Herald"] }
+      },
       "id": "Quicken Null",
       "name": "初始之躍動・識破",
       "sp": 300,
@@ -19770,8 +19802,8 @@
       "pool": {
         "#": { "3": ["Dew - Benevolent Thief"] },
         "special": {
-          "4": ["Tharja - Beach Dark Mage"],
-          "5": ["Anna - Wealth-Wisher", "Rebecca - In the Sun's Rays"]
+          "4": ["Tharja - Beach Dark Mage", "Rebecca - In the Sun's Rays"],
+          "5": ["Anna - Wealth-Wisher"]
         },
         "harmonized": {
           "5": ["Mia - Harmonic Blades", "Eirika - Spring Company"]

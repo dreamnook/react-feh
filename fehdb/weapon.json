@@ -9320,6 +9320,16 @@
       "exclusive": ["Cai - Child of Ribeira"],
       "last": true
     },
+    "The Nameless": {
+      "id": "The Nameless",
+      "name": "無銘之槍",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Eshmel - Pale Raven Herald"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -26742,6 +26752,16 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Eirika - Spring Company"],
+      "last": true
+    },
+    "Sacred Hope": {
+      "id": "Sacred Hope",
+      "name": "希望女神的聖具",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Seiðr - Hope Reborn"],
       "last": true
     },
     "Arcane Eclipse": {

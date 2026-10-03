@@ -3640,6 +3640,33 @@
       "Future-Guided": 5
     }
   },
+  "Seiðr - Hope Reborn": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bolganone": 4,
+      "Sacred Hope": 5
+    },
+    "special": {
+      "Rising Light": 4,
+      "Blazing Light": 4
+    },
+    "skillA": {
+      "Still Water 1": 2,
+      "Still Water 2": 3,
+      "Still Water 3": 4,
+      "Crystalline Water": 5
+    },
+    "skillB": {
+      "Seal Atk 1": 2,
+      "Seal Atk/Spd 1": 3,
+      "Seal Atk/Spd 2": 4,
+      "Dim Smash": 5
+    },
+    "skillC": {
+      "Future-Shared": 5
+    }
+  },
   "Gullveig - Seer Beyond Time": {
     "weapon": {
       "Light": 1,
@@ -35825,6 +35852,40 @@
       "A/R Near Save 2": 3,
       "A/R Near Save 3": 4,
       "A/R Twin N Save": 5
+    }
+  },
+  "Eshmel - Pale Raven Herald": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "The Nameless": 5
+    },
+    "assist": {
+      "Reposition": 4
+    },
+    "special": {
+      "Rising Light": 4,
+      "Blazing Light": 4,
+      "Nine-Sky Strike": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Darting Blow 2": 3,
+      "Darting Blow 3": 4,
+      "Certain Blow": 5
+    },
+    "skillB": {
+      "Potent 1": 2,
+      "Potent 2": 3,
+      "Potent 3": 4,
+      "Puissant Squall": 5
+    },
+    "skillC": {
+      "Time's Pulse 1": 2,
+      "Time's Pulse 2": 3,
+      "Time's Pulse 3": 4,
+      "Quicken Null": 5
     }
   },
   "Cai - Child of Ribeira": {
