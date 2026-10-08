@@ -3233,6 +3233,19 @@
     "skillA": { "Atk/Spd Mastery": { "sp": 300, "rarity": 5 } },
     "skillC": { "Spd/Res Rein 3": { "sp": 240, "rarity": 4 } }
   },
+  "Janaff - Treat or Talon": {
+    "score": 196,
+    "scoreTotal": 419,
+    "poolRarity": 4,
+    "pool": "special",
+    "sp": 400,
+    "spTotal": 940,
+    "feather": 300,
+    "bst": 205,
+    "assist": { "Rally Up Spd+": { "sp": 400, "rarity": 5 } },
+    "skillA": { "Trample": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Speedtaker 3": { "sp": 240, "rarity": 4 } }
+  },
   "Ogma - Blade on Leave": {
     "score": 196,
     "scoreTotal": 423,
@@ -15278,6 +15291,19 @@
     "skillB": { "Conjuring Breath": { "sp": 400, "rarity": 5 } },
     "skillC": { "Creation Pulse": { "sp": 300, "rarity": 5 } }
   },
+  "Shea - Guide to Bounty": {
+    "score": 450,
+    "scoreTotal": 1080,
+    "poolRarity": 5,
+    "pool": "rearmed",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 211,
+    "special": { "Frozen Thorn": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Riptide Guard": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Thunder Specter": { "sp": 300, "rarity": 5 } }
+  },
   "Tana - Noble and Nimble": {
     "score": 318,
     "scoreTotal": 1081,
@@ -17496,6 +17522,19 @@
     "skillA": { "Divine Specter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Heavenly Soar": { "sp": 400, "rarity": 5 } }
   },
+  "Goldmary - Darling Demon": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "special",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 201,
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillB": { "Emerald Impetus": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/S Outcry Seize": { "sp": 300, "rarity": 5 } }
+  },
   "Sharena - Sea of Hope": {
     "score": 530,
     "scoreTotal": 1272,
@@ -17573,6 +17612,19 @@
     "special": { "Wind Edge": { "sp": 500, "rarity": 5 } },
     "skillB": { "Demonic Force": { "sp": 400, "rarity": 5 } },
     "skillC": { "Strat Assault 4": { "sp": 300, "rarity": 5 } }
+  },
+  "Kurt - Light Seekers": {
+    "score": 530,
+    "scoreTotal": 1272,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 225,
+    "special": { "Logic": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Swift Despair": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spd/Res Unrest": { "sp": 400, "rarity": 5 } }
   },
   "Byleth - Proven Professor": {
     "score": 500,

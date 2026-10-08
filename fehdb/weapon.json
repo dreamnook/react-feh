@@ -14290,6 +14290,16 @@
       "exclusive": ["Leif - Of Genealogy"],
       "last": true
     },
+    "Candy Scythe": {
+      "id": "Candy Scythe",
+      "name": "收穫祭的糖果大鐮",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Goldmary - Darling Demon"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
@@ -24853,6 +24863,16 @@
       "exclusive": ["Eikþyrnir - Chiseled Trainer"],
       "last": true
     },
+    "Guardian's Talon": {
+      "id": "Guardian's Talon",
+      "name": "守望千里眼之喙",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Adult (Flier)"],
+      "exclusive": ["Janaff - Treat or Talon"],
+      "last": true
+    },
     "Arcane Nihility": {
       "id": "Arcane Nihility",
       "name": "魔器・虛無之角",
@@ -26846,6 +26866,16 @@
       "sp": 400,
       "prev": ["Bolganone"],
       "exclusive": ["Seiðr - Hope Reborn"],
+      "last": true
+    },
+    "Royal Treats": {
+      "id": "Royal Treats",
+      "name": "獸人王子公主的佳餚",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Bolganone"],
+      "exclusive": ["Kurt - Light Seekers"],
       "last": true
     },
     "Arcane Eclipse": {
@@ -37260,6 +37290,34 @@
     "Arcane Outburst": {
       "id": "Arcane Outburst",
       "name": "魔器・幼神之波動",
+      "mt": 16,
+      "cd": -1,
+      "sp": 300,
+      "prev": ["Flametongue"],
+      "rearmed": true,
+      "refine": {
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "last": true
+    },
+    "Arcane Lantern": {
+      "id": "Arcane Lantern",
+      "name": "魔器・收穫祭的燈火",
       "mt": 16,
       "cd": -1,
       "sp": 300,

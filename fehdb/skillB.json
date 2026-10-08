@@ -6313,6 +6313,15 @@
     "icon": "skillB/Azure_Impetus",
     "last": true
   },
+  "Emerald Impetus": {
+    "id": "Emerald Impetus",
+    "name": "助跑・對綠的分斷",
+    "sp": 400,
+    "rules": "learner.infantry-cavalry-flying-melee-not-blue",
+    "prev": ["Momentum 3"],
+    "icon": "skillB/Emerald_Impetus",
+    "last": true
+  },
   "Speedtaker 1": {
     "id": "Speedtaker 1",
     "name": "速度吸收1",

@@ -37919,6 +37919,56 @@
     "dfKey": 8,
     "vistaKey": 1
   },
+  "Janaff - Treat or Talon": {
+    "id": "Janaff - Treat or Talon",
+    "title": "守望收穫祭的目光",
+    "name": "牙納夫",
+    "rarity": [5, 4],
+    "colorType": "white",
+    "weaponType": "white-beast",
+    "moveType": "flying",
+    "pool": "special",
+    "appearsIn": ["Radiant Dawn"],
+    "releaseDate": "2026-10-07",
+    "stats": {
+      "4": {
+        "hp": [36, 39, 42],
+        "atk": [42, 45, 48],
+        "spd": [43, 46, 49],
+        "def": [39, 43, 46],
+        "res": [17, 20, 23]
+      },
+      "5": {
+        "hp": [38, 42, 45],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [41, 45, 48],
+        "res": [19, 22, 25]
+      },
+      "4-1": {
+        "hp": 19,
+        "atk": 10,
+        "spd": 9,
+        "def": 12,
+        "res": 4
+      },
+      "5-1": {
+        "hp": 20,
+        "atk": 10,
+        "spd": 10,
+        "def": 12,
+        "res": 5
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 205,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.10",
+    "dfKey": 9,
+    "vistaKey": 2
+  },
   "Rafiel - Blessed Wings": {
     "id": "Rafiel - Blessed Wings",
     "title": "祝福之翼",
@@ -61428,6 +61478,42 @@
     "dfKey": 6,
     "vistaKey": 1
   },
+  "Goldmary - Darling Demon": {
+    "id": "Goldmary - Darling Demon",
+    "title": "美麗過人的小惡魔",
+    "name": "戈爾德瑪莉",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "cavalry",
+    "pool": "special",
+    "appearsIn": ["Engage"],
+    "releaseDate": "2026-10-07",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [45, 48, 51],
+        "spd": [45, 48, 51],
+        "def": [46, 49, 53],
+        "res": [12, 16, 19]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 13,
+        "spd": 11,
+        "def": 10,
+        "res": 3
+      }
+    },
+    "assets": ["def"],
+    "flaws": ["hp", "res"],
+    "statMin": 201,
+    "statMax": 205,
+    "book": 10,
+    "ver": "10.10",
+    "dfKey": 9,
+    "vistaKey": 2
+  },
   "Timerra - Trick or Meat": {
     "id": "Timerra - Trick or Meat",
     "title": "給糖不如給肉",
@@ -62564,6 +62650,79 @@
     "ver": "9.2",
     "dfKey": 7,
     "vistaKey": 1
+  },
+  "Kurt - Light Seekers": {
+    "id": "Kurt - Light Seekers",
+    "title": "光所指引的收穫祭",
+    "name": "柯爾特",
+    "rarity": [5],
+    "colorType": "red",
+    "weaponType": "red-tome",
+    "moveType": "infantry",
+    "pool": "duo",
+    "bst": 225,
+    "appearsIn": ["Shadows"],
+    "releaseDate": "2026-10-07",
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [12, 16, 19],
+        "res": [46, 49, 52]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 12,
+        "spd": 10,
+        "def": 3,
+        "res": 14
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def"],
+    "statMin": 199,
+    "statMax": 200,
+    "book": 10,
+    "ver": "10.10",
+    "dfKey": 9,
+    "vistaKey": 2
+  },
+  "Shea - Guide to Bounty": {
+    "id": "Shea - Guide to Bounty",
+    "title": "通往收穫的路標",
+    "name": "希婭",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-dragon",
+    "moveType": "flying",
+    "pool": "rearmed",
+    "appearsIn": ["Shadows"],
+    "releaseDate": "2026-10-07",
+    "stats": {
+      "5": {
+        "hp": [34, 38, 41],
+        "atk": [42, 45, 48],
+        "spd": [46, 49, 53],
+        "def": [34, 38, 41],
+        "res": [37, 41, 44]
+      },
+      "5-1": {
+        "hp": 16,
+        "atk": 10,
+        "spd": 10,
+        "def": 5,
+        "res": 8
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp", "def", "res"],
+    "statMin": 211,
+    "statMax": 215,
+    "book": 10,
+    "ver": "10.10",
+    "dfKey": 9,
+    "vistaKey": 2
   },
   "Eshmel - Pale Raven Herald": {
     "id": "Eshmel - Pale Raven Herald",

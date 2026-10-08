@@ -1490,6 +1490,15 @@
     "rules": "dragon",
     "last": true
   },
+  "Frozen Thorn": {
+    "id": "Frozen Thorn",
+    "name": "龍之冰棘",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Glacies"],
+    "rules": "dragon",
+    "last": true
+  },
   "Ice Edge": {
     "id": "Ice Edge",
     "name": "冰鋒",

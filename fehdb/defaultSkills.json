@@ -21777,6 +21777,30 @@
       "Dark Beast Agility": 5
     }
   },
+  "Janaff - Treat or Talon": {
+    "weapon": {
+      "Hatchling (Flier)": 1,
+      "Fledgling (Flier)": 2,
+      "Adult (Flier)": 4,
+      "Guardian's Talon": 5
+    },
+    "assist": {
+      "Rally Speed": 4,
+      "Rally Up Spd": 4,
+      "Rally Up Spd+": 5
+    },
+    "skillA": {
+      "Atk/Spd Catch 1": 2,
+      "Atk/Spd Catch 2": 3,
+      "Atk/Spd Catch 3": 4,
+      "Trample": 5
+    },
+    "skillB": {
+      "Speedtaker 1": 1,
+      "Speedtaker 2": 2,
+      "Speedtaker 3": 4
+    }
+  },
   "Rafiel - Blessed Wings": {
     "weapon": {
       "Whelp (Infantry)": 1,
@@ -35220,6 +35244,31 @@
       "Even Atk Wave N": 5
     }
   },
+  "Goldmary - Darling Demon": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Candy Scythe": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillB": {
+      "Momentum 1": 2,
+      "Momentum 2": 3,
+      "Momentum 3": 4,
+      "Emerald Impetus": 5
+    },
+    "skillC": {
+      "Hone Atk 1": 2,
+      "Hone Atk 2": 3,
+      "Hone Atk 3": 4,
+      "A/S Outcry Seize": 5
+    }
+  },
   "Timerra - Trick or Meat": {
     "weapon": {
       "Iron Lance": 1,
@@ -35864,6 +35913,62 @@
       "A/R Near Save 2": 3,
       "A/R Near Save 3": 4,
       "A/R Twin N Save": 5
+    }
+  },
+  "Kurt - Light Seekers": {
+    "weapon": {
+      "Fire": 1,
+      "Elfire": 2,
+      "Bolganone": 4,
+      "Royal Treats": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Logic": 5
+    },
+    "skillA": {
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Swift Despair": 5
+    },
+    "skillB": {
+      "Sabotage Spd 1": 2,
+      "Sabotage Spd 2": 3,
+      "Sabotage Spd 3": 4,
+      "Spd/Res Unrest": 5
+    },
+    "skillC": {
+      "Homeland Vow": 5
+    }
+  },
+  "Shea - Guide to Bounty": {
+    "weapon": {
+      "Fire Breath": 1,
+      "Fire Breath+": 2,
+      "Flametongue": 4,
+      "Arcane Lantern": 5
+    },
+    "special": {
+      "Chilling Wind": 4,
+      "Glacies": 4,
+      "Frozen Thorn": 5
+    },
+    "skillA": {
+      "Naga the Eternal": 5
+    },
+    "skillB": {
+      "Guard 1": 2,
+      "Guard 2": 3,
+      "Guard 3": 4,
+      "Riptide Guard": 5
+    },
+    "skillC": {
+      "Odd Tempest 1": 2,
+      "Odd Tempest 2": 3,
+      "Odd Tempest 3": 4,
+      "Thunder Specter": 5
     }
   },
   "Eshmel - Pale Raven Herald": {

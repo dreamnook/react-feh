@@ -973,6 +973,14 @@
     "icon": "skillC/Future-Shared",
     "last": true
   },
+  "Homeland Vow": {
+    "id": "Homeland Vow",
+    "name": "將來定要復興祖國",
+    "sp": 300,
+    "exclusive": ["Kurt - Light Seekers"],
+    "icon": "skillC/Homeland_Vow",
+    "last": true
+  },
   "Breath of Life 1": {
     "id": "Breath of Life 1",
     "name": "生命氣息1",

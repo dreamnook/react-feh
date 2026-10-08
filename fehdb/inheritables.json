@@ -3354,6 +3354,13 @@
         "sp": 300,
         "refine": 350
       },
+      "Arcane Lantern": {
+        "pool": { "rearmed": { "5": ["Shea - Guide to Bounty"] } },
+        "id": "Arcane Lantern",
+        "name": "魔器・收穫祭的燈火",
+        "sp": 300,
+        "refine": 350
+      },
       "Flametongue+": {
         "pool": { "#": { "5": ["Tiki - Dragon Scion"] } },
         "id": "Flametongue+",
@@ -4269,7 +4276,7 @@
         "grail": { "4": ["Seth - Silver-Sea Knight"] },
         "rearmed": { "5": ["Robin - Onsen Tactician"] },
         "special": {
-          "4": ["Ashe - Budding Chivalry"],
+          "4": ["Ashe - Budding Chivalry", "Janaff - Treat or Talon"],
           "5": ["Lucia - Loyalty Enrobed"]
         },
         "harmonized": { "5": ["Tiki - Harmonic Hope"] }
@@ -4284,7 +4291,11 @@
         "#": { "5": ["Azelle - Youthful Flame"] },
         "rearmed": { "5": ["Robin - Onsen Tactician"] },
         "special": {
-          "5": ["Ashe - Budding Chivalry", "Lucia - Loyalty Enrobed"]
+          "5": [
+            "Ashe - Budding Chivalry",
+            "Janaff - Treat or Talon",
+            "Lucia - Loyalty Enrobed"
+          ]
         },
         "harmonized": { "5": ["Tiki - Harmonic Hope"] }
       },
@@ -5532,11 +5543,18 @@
             "Yunaka - Stealthy Imitator",
             "Felix - Zealous Yearning",
             "Thórr - Spring War God",
+            "Goldmary - Darling Demon",
             "Sharena - Sea of Hope",
             "Shamir - Sniper's Path"
           ]
         },
-        "duo": { "5": ["Corrin - Young Kinship", "Baldr - New Year's Elite"] },
+        "duo": {
+          "5": [
+            "Corrin - Young Kinship",
+            "Baldr - New Year's Elite",
+            "Kurt - Light Seekers"
+          ]
+        },
         "harmonized": {
           "5": [
             "Eirika - Spring Company",
@@ -5620,6 +5638,7 @@
             "Yunaka - Stealthy Imitator",
             "Felix - Zealous Yearning",
             "Thórr - Spring War God",
+            "Goldmary - Darling Demon",
             "Sharena - Sea of Hope"
           ]
         },
@@ -5638,6 +5657,7 @@
           "5": ["Lysithea - Duality Prodigy", "Robin - Onsen Tactician"]
         },
         "mythic": { "5": ["Gróa - Future Daughter"] },
+        "duo": { "5": ["Kurt - Light Seekers"] },
         "harmonized": { "5": ["Eirika - Spring Company"] }
       },
       "id": "Logic",
@@ -6192,7 +6212,8 @@
             "Marianne - Cursed Blessing",
             "Soren - Isolated Strategist",
             "Höðr - Twilight Breeze",
-            "Vanitas - Hollow God"
+            "Vanitas - Hollow God",
+            "Shea - Guide to Bounty"
           ]
         },
         "attuned": { "5": ["Tharja - Gloomy Mage"] },
@@ -6325,6 +6346,13 @@
       "pool": { "rearmed": { "5": ["Vanitas - Hollow God"] } },
       "id": "Dragon Ice",
       "name": "龍冰",
+      "sp": 500,
+      "rules": "dragon"
+    },
+    "Frozen Thorn": {
+      "pool": { "rearmed": { "5": ["Shea - Guide to Bounty"] } },
+      "id": "Frozen Thorn",
+      "name": "龍之冰棘",
       "sp": 500,
       "rules": "dragon"
     },
@@ -10545,6 +10573,7 @@
             "Catria - Windswept Knight",
             "Sedgar - Festive Horseman",
             "Céline - Blissful Tea Party",
+            "Janaff - Treat or Talon",
             "Lyre - Lap Cat of Luxury",
             "Reina - Sanguine Shinobi",
             "Tine - Determined Bride"
@@ -10786,7 +10815,11 @@
       "rules": "flying"
     },
     "Trample": {
-      "pool": { "special": { "5": ["Camilla - Young Beauty"] } },
+      "pool": {
+        "special": {
+          "5": ["Janaff - Treat or Talon", "Camilla - Young Beauty"]
+        }
+      },
       "id": "Trample",
       "name": "居高臨下",
       "sp": 300,
@@ -10834,6 +10867,7 @@
             "Marth - Masked Gladiator"
           ]
         },
+        "duo": { "5": ["Kurt - Light Seekers"] },
         "harmonized": { "5": ["Celica - With Grace", "Byleth - Cheer Power"] }
       },
       "id": "Atk/Spd Ideal 3",
@@ -11057,6 +11091,14 @@
       "name": "攻速無缺・生命",
       "sp": 300,
       "icon": "skillA/Swift_Life",
+      "rules": "learner.infantry-melee"
+    },
+    "Swift Despair": {
+      "pool": { "duo": { "5": ["Kurt - Light Seekers"] } },
+      "id": "Swift Despair",
+      "name": "攻速無缺・猛攻",
+      "sp": 300,
+      "icon": "skillA/Swift_Despair",
       "rules": "learner.infantry-melee"
     },
     "Atk/Spd Clash 3": {
@@ -13188,7 +13230,8 @@
         },
         "special": {
           "5": ["Selkie - New Year's Spirit", "Tharja - Dour Cheer"]
-        }
+        },
+        "duo": { "5": ["Kurt - Light Seekers"] }
       },
       "id": "Sabotage Spd 3",
       "name": "速度擾亂3",
@@ -13384,7 +13427,8 @@
       "pool": {
         "rearmed": { "5": ["Canis - Ill Portent"] },
         "legendary": { "5": ["Guinivere - Queen of Bern"] },
-        "special": { "5": ["Tharja - Dour Cheer"] }
+        "special": { "5": ["Tharja - Dour Cheer"] },
+        "duo": { "5": ["Kurt - Light Seekers"] }
       },
       "id": "Spd/Res Unrest",
       "name": "速度魔防的疑懼",
@@ -13582,7 +13626,9 @@
             "Caellach - Tiger Eye"
           ]
         },
-        "rearmed": { "5": ["Reginn - Full-Tilt Bride"] },
+        "rearmed": {
+          "5": ["Reginn - Full-Tilt Bride", "Shea - Guide to Bounty"]
+        },
         "attuned": { "5": ["Theodora - Mighty Queen"] },
         "legendary": { "5": ["Corrin - Child of Dusk"] },
         "mythic": { "5": ["Gotoh - White Sage"] },
@@ -15681,7 +15727,11 @@
       "rules": "learner.wielderCavalryFlying"
     },
     "Riptide Guard": {
-      "pool": { "rearmed": { "5": ["Reginn - Full-Tilt Bride"] } },
+      "pool": {
+        "rearmed": {
+          "5": ["Reginn - Full-Tilt Bride", "Shea - Guide to Bounty"]
+        }
+      },
       "id": "Riptide Guard",
       "name": "狂濤・取消",
       "sp": 400,
@@ -16271,6 +16321,7 @@
           "5": ["Cai - Child of Ribeira", "Ninian - Heartfelt Dancer"]
         },
         "vista": { "5": ["Dietrich - Alluring Killer"] },
+        "special": { "5": ["Goldmary - Darling Demon"] },
         "duo": { "5": ["Sigurd - Honorable Nobles"] }
       },
       "id": "Momentum 3",
@@ -16315,6 +16366,14 @@
       "icon": "skillB/Azure_Impetus",
       "rules": "learner.infantry-cavalry-flying-melee-not-red"
     },
+    "Emerald Impetus": {
+      "pool": { "special": { "5": ["Goldmary - Darling Demon"] } },
+      "id": "Emerald Impetus",
+      "name": "助跑・對綠的分斷",
+      "sp": 400,
+      "icon": "skillB/Emerald_Impetus",
+      "rules": "learner.infantry-cavalry-flying-melee-not-blue"
+    },
     "Speedtaker 3": {
       "pool": {
         "#": { "5": ["Baldr - Rays of Judgment"] },
@@ -16324,7 +16383,10 @@
         "legendary": {
           "5": ["Ayra - Supreme Astra", "Hinoka - Thundering Wings"]
         },
-        "special": { "5": ["Sharena - Sea of Hope", "Shamir - Sniper's Path"] }
+        "special": {
+          "4": ["Janaff - Treat or Talon"],
+          "5": ["Sharena - Sea of Hope", "Shamir - Sniper's Path"]
+        }
       },
       "id": "Speedtaker 3",
       "name": "速度吸收3",
@@ -17495,6 +17557,7 @@
             "Caeda - Princess of Talys",
             "Hríd - Resolute Prince",
             "Severa - Bitter Blossom",
+            "Goldmary - Darling Demon",
             "Chrom - Revitalized Fate"
           ]
         },
@@ -17743,7 +17806,8 @@
     "A/S Outcry Seize": {
       "pool": {
         "rearmed": { "5": ["Reginn - Full-Tilt Bride"] },
-        "attuned": { "5": ["Eliwood - Noble Ablaze"] }
+        "attuned": { "5": ["Eliwood - Noble Ablaze"] },
+        "special": { "5": ["Goldmary - Darling Demon"] }
       },
       "id": "A/S Outcry Seize",
       "name": "攻速鼓譟・奪取無效",
@@ -20406,6 +20470,7 @@
     "Odd Tempest 3": {
       "pool": {
         "#": { "5": ["Dimitri - Savage Boar", "Felix - Sword Savant"] },
+        "rearmed": { "5": ["Shea - Guide to Bounty"] },
         "emblem": { "5": ["Leif - Of Genealogy"] },
         "aided": { "5": ["Alear - And Sommie!"] },
         "legendary": { "5": ["Dimitri - Savior King", "Ayra - Supreme Astra"] },
@@ -20504,7 +20569,9 @@
     },
     "Thunder Specter": {
       "pool": {
-        "rearmed": { "5": ["Alear - Casual Duelist"] },
+        "rearmed": {
+          "5": ["Alear - Casual Duelist", "Shea - Guide to Bounty"]
+        },
         "emblem": { "5": ["Leif - Of Genealogy"] },
         "aided": { "5": ["Alear - And Sommie!"] }
       },
