@@ -6437,8 +6437,8 @@
     "id": "Puissant Squall",
     "name": "超神速・奧義之旋風",
     "sp": 400,
-    "prev": ["Potent 3", "Special Spiral 3"],
     "rules": "learner.infantry-melee-def-dmger",
+    "prev": ["Potent 3", "Special Spiral 3"],
     "icon": "skillB/Puissant_Squall",
     "last": true
   }

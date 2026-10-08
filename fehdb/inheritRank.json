@@ -12826,20 +12826,6 @@
     "skillB": { "Lull Atk/Res 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
-  "Ike - Of Radiance": {
-    "score": 276,
-    "scoreTotal": 957,
-    "poolRarity": 5,
-    "pool": "emblem",
-    "sp": 300,
-    "spTotal": 1040,
-    "feather": 1000,
-    "bst": 193,
-    "special": { "Sol": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Def/Res Finish 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
-  },
   "Byleth - The Fódlan Light": {
     "score": 460,
     "scoreTotal": 957,
@@ -14063,7 +14049,7 @@
     "feather": 1000,
     "bst": 200,
     "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillA": { "Swift Specter": { "sp": 300, "rarity": 5 } },
     "skillB": { "Null C-Disrupt 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Atk/Spd Pledge": { "sp": 300, "rarity": 5 } }
   },
@@ -15087,6 +15073,20 @@
     "skillA": { "Kestrel Stance 3": { "sp": 300, "rarity": 5 } },
     "skillB": { "Savvy Fighter 3": { "sp": 240, "rarity": 5 } },
     "skillC": { "A/D Near Save 3": { "sp": 300, "rarity": 5 } }
+  },
+  "Ike - Of Radiance": {
+    "score": 368,
+    "scoreTotal": 1049,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 400,
+    "spTotal": 1140,
+    "feather": 1000,
+    "bst": 193,
+    "special": { "Sol": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Def/Res Finish 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Patience": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Canto Control 3": { "sp": 240, "rarity": 5 } }
   },
   "Sophia - Prescient Bride": {
     "score": 424,

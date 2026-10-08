@@ -406,6 +406,15 @@
     "exclusive": ["Ayra - Together in Tea"],
     "last": true
   },
+  "Dragon Blast II": {
+    "id": "Dragon Blast II",
+    "name": "神龍破・承",
+    "sp": 500,
+    "cd": 3,
+    "prev": ["Dragon Blast"],
+    "exclusive": ["Alear - Awoken Divinity"],
+    "last": true
+  },
   "Dragon Blast": {
     "id": "Dragon Blast",
     "name": "神龍破",
@@ -476,6 +485,15 @@
     "cd": 2,
     "prev": ["Glimmer"],
     "exclusive": ["Merric - Wind Pontifex"],
+    "last": true
+  },
+  "Great Aether E": {
+    "id": "Great Aether E",
+    "name": "霸克・天空・紋",
+    "sp": 500,
+    "cd": 4,
+    "prev": ["Great Aether"],
+    "exclusive": ["Ike - Of Radiance"],
     "last": true
   },
   "Great Aether": {

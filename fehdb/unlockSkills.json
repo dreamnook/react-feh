@@ -12233,7 +12233,8 @@
       "Iron Sword": 1,
       "Steel Sword": 2,
       "Rein Sword": 3,
-      "Rein Sword+": 5
+      "Rein Sword+": 5,
+      "Isaach's Brand": 5
     },
     "special": {
       "New Moon": 3,
@@ -14167,7 +14168,8 @@
       "Iron Dagger": 1,
       "Steel Dagger": 2,
       "Armorpin Dagger": 3,
-      "Armorpin Dagger+": 5
+      "Armorpin Dagger+": 5,
+      "Master Dagger": 5
     },
     "assist": {
       "Reposition": 3
@@ -21116,7 +21118,8 @@
     "special": {
       "Daylight": 3,
       "Sol": 4,
-      "Great Aether": 5
+      "Great Aether": 5,
+      "Great Aether E": 5
     },
     "skillA": {
       "Def/Res Finish 1": 2,
@@ -21128,7 +21131,11 @@
       "Laguz Friend 1": 2,
       "Laguz Friend 2": 3,
       "Laguz Friend 3": 4,
-      "Laguz Friend 4": 5
+      "Laguz Friend 4": 5,
+      "Quick Riposte 1": 2,
+      "Quick Riposte 2": 3,
+      "Quick Riposte 3": 4,
+      "Patience": 5
     },
     "skillC": {
       "Canto Control 1": 1,
@@ -33973,13 +33980,18 @@
     "special": {
       "Night Sky": 3,
       "Glimmer": 4,
-      "Dragon Blast": 5
+      "Dragon Blast": 5,
+      "Dragon Blast II": 5
     },
     "skillA": {
       "Atk/Spd Finish 1": 2,
       "Atk/Spd Finish 2": 3,
       "Atk/Spd Finish 3": 4,
-      "Atk/Spd Finish 4": 5
+      "Atk/Spd Finish 4": 5,
+      "Atk/Spd Ideal 1": 2,
+      "Atk/Spd Ideal 2": 3,
+      "Atk/Spd Ideal 3": 4,
+      "Swift Specter": 5
     },
     "skillB": {
       "Null C-Disrupt 1": 2,

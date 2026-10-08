@@ -10819,7 +10819,9 @@
         "rearmed": { "5": ["Alear - Casual Duelist"] },
         "attuned": { "5": ["Brigid - Awakened Bow", "Alm - Powerful Resolve"] },
         "emblem": { "5": ["Lucina - Of Awakening", "Byleth - Of the Academy"] },
-        "legendary": { "5": ["Byleth - The Fódlan Light"] },
+        "legendary": {
+          "5": ["Byleth - The Fódlan Light", "Alear - Awoken Divinity"]
+        },
         "mythic": { "5": ["Thrasir - Omnicidal Witch"] },
         "vista": { "5": ["Dietrich - Alluring Killer"] },
         "special": {
@@ -11038,6 +11040,7 @@
     },
     "Swift Specter": {
       "pool": {
+        "legendary": { "5": ["Alear - Awoken Divinity"] },
         "vista": { "5": ["Dietrich - Alluring Killer"] },
         "special": { "5": ["Sharena - Sea of Hope"] },
         "harmonized": { "5": ["Celica - With Grace", "Byleth - Cheer Power"] }
@@ -12107,7 +12110,7 @@
         },
         "grail": { "5": ["Leo - Extra Tomatoes"] },
         "rearmed": { "5": ["Ganglöt - Death Anew"] },
-        "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "emblem": { "5": ["Ike - Of Radiance", "Edelgard - Of Rivals"] },
         "special": {
           "5": [
             "Xander - Dancing Knight",
@@ -12134,7 +12137,7 @@
     },
     "Patience": {
       "pool": {
-        "emblem": { "5": ["Edelgard - Of Rivals"] },
+        "emblem": { "5": ["Ike - Of Radiance", "Edelgard - Of Rivals"] },
         "special": { "5": ["Ike - Full-Tilt Merc"] },
         "harmonized": {
           "5": ["Ike - Zealous Inheritors", "Hector - Into the Fray"]

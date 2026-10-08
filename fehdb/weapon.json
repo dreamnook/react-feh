@@ -3249,12 +3249,35 @@
     },
     "Warrior's Sword": {
       "id": "Warrior's Sword",
-      "name": "武人鐵劍",
+      "name": "武人的鐵劍",
       "mt": 16,
       "atk": 3,
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Holst - Hero of Leicester"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Warrior's_Sword_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Blade of Favors": {
@@ -4100,6 +4123,37 @@
       "sp": 400,
       "prev": ["Silver Sword"],
       "exclusive": ["Dietrich - Alluring Killer"],
+      "last": true
+    },
+    "Isaach's Brand": {
+      "id": "Isaach's Brand",
+      "name": "伊扎克的黑劍",
+      "mt": 11,
+      "sp": 400,
+      "exclusive": ["Galzus - Dark Blade of Od"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Isaach's_Brand_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Arcane Éljúðnir": {
@@ -21624,6 +21678,36 @@
       },
       "last": true
     },
+    "Master Dagger": {
+      "id": "Master Dagger",
+      "name": "自稱怪盜之暗器",
+      "mt": 14,
+      "sp": 400,
+      "exclusive": ["Cath - Master Thief"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Master_Dagger_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "last": true
+    },
     "Arcane Void": {
       "id": "Arcane Void",
       "name": "魔器金倫加",
@@ -34201,6 +34285,33 @@
       "sp": 400,
       "prev": ["Assault"],
       "exclusive": ["Hilda - Deer's Two-Piece"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Sunshade_Staff_W",
+          "cd": -1
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1,
+          "cd": -1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2,
+          "cd": -1
+        },
+        "def": {
+          "hp": 2,
+          "def": 3,
+          "cd": -1
+        },
+        "res": {
+          "hp": 2,
+          "res": 3,
+          "cd": -1
+        }
+      },
       "last": true
     },
     "Punishment Staff": {
@@ -36458,6 +36569,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Idunn - Divine Demon"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Dew_Dragonstone_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Shadow Breath": {
@@ -36794,6 +36928,29 @@
       "sp": 400,
       "prev": ["Flametongue"],
       "exclusive": ["Alear - Awoken Divinity"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Dragon's_Fist_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Monarch's Stone": {
