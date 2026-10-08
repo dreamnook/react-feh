@@ -4868,7 +4868,7 @@
     "id": "Swift Despair",
     "name": "攻速無缺・猛攻",
     "sp": 300,
-    "rules": "learner.infantry-melee",
+    "rules": "infantry",
     "prev": ["Atk/Spd Ideal 3"],
     "icon": "skillA/Swift_Despair",
     "last": true

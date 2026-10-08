@@ -11099,7 +11099,7 @@
       "name": "攻速無缺・猛攻",
       "sp": 300,
       "icon": "skillA/Swift_Despair",
-      "rules": "learner.infantry-melee"
+      "rules": "infantry"
     },
     "Atk/Spd Clash 3": {
       "pool": {
