@@ -3787,6 +3787,37 @@
       "A/S Hone Assault": 5
     }
   },
+  "Gullveig - Seer Reborn": {
+    "weapon": {
+      "Stone": 1,
+      "Elstone": 2,
+      "Atlas": 4,
+      "Reforged Seer": 5
+    },
+    "special": {
+      "Retribution": 4,
+      "Vengeance": 4,
+      "Light Eternal": 5
+    },
+    "skillA": {
+      "Atk/Spd Bond 1": 2,
+      "Atk/Spd Bond 2": 3,
+      "Atk/Spd Bond 3": 4,
+      "Atk/Spd Verse": 5
+    },
+    "skillB": {
+      "Magic Gambit 1": 2,
+      "Magic Gambit 2": 3,
+      "Magic Gambit 3": 4,
+      "Demonic Shackle": 5
+    },
+    "skillC": {
+      "Shadow Shift 1": 2,
+      "Shadow Shift 2": 3,
+      "Shadow Shift 3": 4,
+      "Shadow Shift X": 5
+    }
+  },
   "Kvasir - Seer of the Past": {
     "weapon": {
       "Flux": 1,
@@ -30737,6 +30768,34 @@
       "Lookout Rush": 5
     }
   },
+  "Edelgard - Beyond Bounds": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 4,
+      "Deep Hauteclere": 5
+    },
+    "special": {
+      "Glowing Ember": 4,
+      "Ignis": 4,
+      "Armored Flames": 5
+    },
+    "skillA": {
+      "Rise Above 1": 2,
+      "Rise Above 2": 3,
+      "Rise Above 3": 4,
+      "Rise Above 4": 5
+    },
+    "skillB": {
+      "Black Eagle Reign": 5
+    },
+    "skillC": {
+      "A/D Near Save 1": 2,
+      "A/D Near Save 2": 3,
+      "A/D Near Save 3": 4,
+      "A/D Briar P Save": 5
+    }
+  },
   "Hubert - Sinister Servant": {
     "weapon": {
       "Flux": 1,
@@ -31387,6 +31446,39 @@
       "Shadow Shift 2": 3,
       "Shadow Shift 3": 4,
       "Shadow Shift 4": 5
+    }
+  },
+  "Dimitri - Dual Idealists": {
+    "weapon": {
+      "Iron Lance": 1,
+      "Steel Lance": 2,
+      "Silver Lance": 4,
+      "Cyan Gradivus": 5
+    },
+    "assist": {
+      "Rally Attack": 4,
+      "Rally Up Atk": 4,
+      "Rally Up Atk+": 5
+    },
+    "special": {
+      "Dragon Gaze": 4,
+      "Dragon Fang": 4,
+      "Archrival": 5
+    },
+    "skillA": {
+      "Darting Blow 1": 2,
+      "Darting Blow 2": 3,
+      "Darting Blow 3": 4,
+      "Duality Blow": 5
+    },
+    "skillB": {
+      "Blue Lion Reign": 5
+    },
+    "skillC": {
+      "Spd/Def Oath 1": 2,
+      "Spd/Def Oath 2": 3,
+      "Spd/Def Oath 3": 4,
+      "S/D Tenet Hone": 5
     }
   },
   "Dedue - Dimitri's Vassal": {

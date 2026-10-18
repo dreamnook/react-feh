@@ -955,6 +955,15 @@
     "exclusive": ["Eshmel - Pale Raven Herald"],
     "last": true
   },
+  "Light Eternal": {
+    "id": "Light Eternal",
+    "name": "超越時間的光",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Vengeance"],
+    "exclusive": ["Gullveig - Seer Reborn"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",
@@ -1326,6 +1335,15 @@
     "name": "重裝之雙炎",
     "sp": 500,
     "cd": 5,
+    "prev": ["Ignis"],
+    "rules": "learner.armored-not-staff",
+    "last": true
+  },
+  "Armored Flames": {
+    "id": "Armored Flames",
+    "name": "重裝之炎紋",
+    "sp": 500,
+    "cd": 4,
     "prev": ["Ignis"],
     "rules": "learner.armored-not-staff",
     "last": true

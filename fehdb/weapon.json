@@ -9384,6 +9384,16 @@
       "exclusive": ["Eshmel - Pale Raven Herald"],
       "last": true
     },
+    "Cyan Gradivus": {
+      "id": "Cyan Gradivus",
+      "name": "蒼翠古拉迪烏斯",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Lance"],
+      "exclusive": ["Dimitri - Dual Idealists"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -14298,6 +14308,17 @@
       "sp": 400,
       "prev": ["Silver Axe"],
       "exclusive": ["Goldmary - Darling Demon"],
+      "last": true
+    },
+    "Deep Hauteclere": {
+      "id": "Deep Hauteclere",
+      "name": "紅闇奧托克雷爾",
+      "mt": 16,
+      "cd": -1,
+      "hp": 7,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Edelgard - Beyond Bounds"],
       "last": true
     },
     "Arcane Downfall": {
@@ -33945,6 +33966,16 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Azura - Lady of Reflection"],
+      "last": true
+    },
+    "Reforged Seer": {
+      "id": "Reforged Seer",
+      "name": "再現魔女的聖具",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Atlas"],
+      "exclusive": ["Gullveig - Seer Reborn"],
       "last": true
     },
     "Arcane Duck Pail": {

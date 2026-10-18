@@ -15973,6 +15973,20 @@
     "skillB": { "Momentum 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Fatal Smoke 4": { "sp": 300, "rarity": 5 } }
   },
+  "Gullveig - Seer Reborn": {
+    "score": 368,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "vista",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 190,
+    "special": { "Vengeance": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Verse": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Demonic Shackle": { "sp": 400, "rarity": 5 } },
+    "skillC": { "Shadow Shift X": { "sp": 300, "rarity": 5 } }
+  },
   "Leif - Of Genealogy": {
     "score": 368,
     "scoreTotal": 1104,
@@ -17078,6 +17092,19 @@
     "special": { "Ice Wall": { "sp": 500, "rarity": 5 } },
     "skillA": { "Atk/Res Aria": { "sp": 300, "rarity": 5 } },
     "skillB": { "A/R Detect Aerial": { "sp": 300, "rarity": 5 } }
+  },
+  "Edelgard - Beyond Bounds": {
+    "score": 530,
+    "scoreTotal": 1166,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 1000,
+    "bst": 225,
+    "special": { "Armored Flames": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Rise Above 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "A/D Briar P Save": { "sp": 300, "rarity": 5 } }
   },
   "Ophelia - Dramatic Heroine": {
     "score": 400,
@@ -18266,6 +18293,20 @@
     "special": { "Shatter Slash": { "sp": 500, "rarity": 5 } },
     "skillB": { "Atk/Spd Favor": { "sp": 300, "rarity": 5 } },
     "skillC": { "Null Pulse Follow": { "sp": 300, "rarity": 5 } }
+  },
+  "Dimitri - Dual Idealists": {
+    "score": 530,
+    "scoreTotal": 1590,
+    "poolRarity": 5,
+    "pool": "duo",
+    "sp": 500,
+    "spTotal": 1500,
+    "feather": 1000,
+    "bst": 225,
+    "assist": { "Rally Up Atk+": { "sp": 400, "rarity": 5 } },
+    "special": { "Archrival": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Duality Blow": { "sp": 300, "rarity": 5 } },
+    "skillC": { "S/D Tenet Hone": { "sp": 300, "rarity": 5 } }
   },
   "Lucina - Shadows of Fate": {
     "score": 530,

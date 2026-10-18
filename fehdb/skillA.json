@@ -1590,6 +1590,14 @@
     "icon": "skillA/Certain_Blow",
     "last": true
   },
+  "Duality Blow": {
+    "id": "Duality Blow",
+    "name": "清濁一擊",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "icon": "skillA/Duality_Blow",
+    "last": true
+  },
   "Remote Sparrow": {
     "id": "Remote Sparrow",
     "name": "鬼神飛燕離擊",
@@ -2956,6 +2964,14 @@
     "sp": 300,
     "rules": "tome",
     "icon": "skillA/Def_Res_Aria",
+    "last": true
+  },
+  "Atk/Spd Verse": {
+    "id": "Atk/Spd Verse",
+    "name": "攻擊速度的吟詠",
+    "sp": 300,
+    "rules": "learner.tome-staff",
+    "icon": "skillA/Atk_Spd_Verse",
     "last": true
   },
   "Atk/Spd Push 1": {

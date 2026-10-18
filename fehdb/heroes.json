@@ -5357,6 +5357,42 @@
     "dfKey": 8,
     "vistaKey": 2
   },
+  "Gullveig - Seer Reborn": {
+    "id": "Gullveig - Seer Reborn",
+    "title": "魔女再現",
+    "name": "古爾維格",
+    "rarity": [5],
+    "colorType": "white",
+    "weaponType": "white-tome",
+    "moveType": "cavalry",
+    "pool": "vista",
+    "appearsIn": ["Heroes"],
+    "releaseDate": "2026-10-16",
+    "stats": {
+      "5": {
+        "hp": [36, 40, 43],
+        "atk": [44, 47, 50],
+        "spd": [46, 49, 53],
+        "def": [30, 33, 36],
+        "res": [18, 21, 24]
+      },
+      "5-1": {
+        "hp": 18,
+        "atk": 10,
+        "spd": 10,
+        "def": 9,
+        "res": 4
+      }
+    },
+    "assets": ["spd"],
+    "flaws": ["hp"],
+    "statMin": 190,
+    "statMax": 190,
+    "book": 10,
+    "ver": "10.10",
+    "dfKey": 9,
+    "vistaKey": 2
+  },
   "Kvasir - Seer of the Past": {
     "id": "Kvasir - Seer of the Past",
     "title": "過去的魔女",
@@ -53968,6 +54004,43 @@
     "dfKey": 8,
     "vistaKey": 1
   },
+  "Edelgard - Beyond Bounds": {
+    "id": "Edelgard - Beyond Bounds",
+    "title": "超越世界真理之人",
+    "name": "艾黛爾賈特",
+    "rarity": [5],
+    "colorType": "green",
+    "weaponType": "green-axe",
+    "moveType": "armored",
+    "pool": "duo",
+    "bst": 225,
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2026-10-16",
+    "stats": {
+      "5": {
+        "hp": [51, 54, 57],
+        "atk": [47, 50, 54],
+        "spd": [12, 16, 19],
+        "def": [46, 49, 53],
+        "res": [45, 48, 51]
+      },
+      "5-1": {
+        "hp": 28,
+        "atk": 11,
+        "spd": 3,
+        "def": 10,
+        "res": 11
+      }
+    },
+    "assets": ["atk", "def"],
+    "flaws": ["spd"],
+    "statMin": 217,
+    "statMax": 220,
+    "book": 10,
+    "ver": "10.10",
+    "dfKey": 9,
+    "vistaKey": 2
+  },
   "Hubert - Sinister Servant": {
     "id": "Hubert - Sinister Servant",
     "title": "冷酷陰險的隨從",
@@ -55091,6 +55164,43 @@
     "ver": "9.2",
     "dfKey": 7,
     "vistaKey": 1
+  },
+  "Dimitri - Dual Idealists": {
+    "id": "Dimitri - Dual Idealists",
+    "title": "救國救世的求道",
+    "name": "帝彌托利",
+    "rarity": [5],
+    "colorType": "blue",
+    "weaponType": "blue-lance",
+    "moveType": "infantry",
+    "pool": "duo",
+    "bst": 225,
+    "appearsIn": ["Three Houses"],
+    "releaseDate": "2026-10-16",
+    "stats": {
+      "5": {
+        "hp": [40, 43, 46],
+        "atk": [47, 50, 54],
+        "spd": [46, 49, 52],
+        "def": [46, 49, 52],
+        "res": [15, 18, 21]
+      },
+      "5-1": {
+        "hp": 19,
+        "atk": 11,
+        "spd": 12,
+        "def": 14,
+        "res": 3
+      }
+    },
+    "assets": ["atk"],
+    "flaws": [],
+    "statMin": 209,
+    "statMax": 210,
+    "book": 10,
+    "ver": "10.10",
+    "dfKey": 9,
+    "vistaKey": 2
   },
   "Dedue - Dimitri's Vassal": {
     "id": "Dedue - Dimitri's Vassal",

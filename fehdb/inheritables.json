@@ -4238,7 +4238,8 @@
         "special": {
           "4": ["Selena - Admiring General", "Naga - Harvest Divinity"],
           "5": ["Pent - Fancy Fiancé", "Elise - Bubbling Flower"]
-        }
+        },
+        "duo": { "5": ["Dimitri - Dual Idealists"] }
       },
       "id": "Rally Up Atk",
       "name": "攻擊大支援",
@@ -4263,7 +4264,8 @@
             "Pent - Fancy Fiancé",
             "Elise - Bubbling Flower"
           ]
-        }
+        },
+        "duo": { "5": ["Dimitri - Dual Idealists"] }
       },
       "id": "Rally Up Atk+",
       "name": "攻擊大支援+",
@@ -5324,6 +5326,7 @@
           ]
         },
         "mythic": { "5": ["Gullveig - Golden Seer"] },
+        "vista": { "5": ["Gullveig - Seer Reborn"] },
         "special": { "4": ["Narcian - Vernal General"] },
         "duo": {
           "5": ["Gullveig - Glittering Sunlight", "Gullveig - Hidden in Time"]
@@ -5552,7 +5555,8 @@
           "5": [
             "Corrin - Young Kinship",
             "Baldr - New Year's Elite",
-            "Kurt - Light Seekers"
+            "Kurt - Light Seekers",
+            "Dimitri - Dual Idealists"
           ]
         },
         "harmonized": {
@@ -5642,7 +5646,9 @@
             "Sharena - Sea of Hope"
           ]
         },
-        "duo": { "5": ["Baldr - New Year's Elite"] },
+        "duo": {
+          "5": ["Baldr - New Year's Elite", "Dimitri - Dual Idealists"]
+        },
         "harmonized": { "5": ["Celica - With Grace", "Lyn - Glitters of Hope"] }
       },
       "id": "Archrival",
@@ -5904,7 +5910,9 @@
             "Alfred - Joyous Snowdrop"
           ]
         },
-        "duo": { "5": ["Edelgard - Promising Path"] },
+        "duo": {
+          "5": ["Edelgard - Promising Path", "Edelgard - Beyond Bounds"]
+        },
         "harmonized": {
           "5": [
             "Hector - Into the Fray",
@@ -5966,6 +5974,13 @@
       },
       "id": "Armored Flare",
       "name": "重裝之雙炎",
+      "sp": 500,
+      "rules": "learner.armored-not-staff"
+    },
+    "Armored Flames": {
+      "pool": { "duo": { "5": ["Edelgard - Beyond Bounds"] } },
+      "id": "Armored Flames",
+      "name": "重裝之炎紋",
       "sp": 500,
       "rules": "learner.armored-not-staff"
     },
@@ -7524,7 +7539,8 @@
         "legendary": {
           "5": ["Alm - Saint-King", "Eshmel - Pale Raven Herald"]
         },
-        "special": { "5": ["Felix - Zealous Yearning"] }
+        "special": { "5": ["Felix - Zealous Yearning"] },
+        "duo": { "5": ["Dimitri - Dual Idealists"] }
       },
       "id": "Darting Blow 3",
       "name": "飛燕一擊3",
@@ -7970,6 +7986,14 @@
       "sp": 300,
       "icon": "skillA/Certain_Blow",
       "rules": "learner.def-dmger"
+    },
+    "Duality Blow": {
+      "pool": { "duo": { "5": ["Dimitri - Dual Idealists"] } },
+      "id": "Duality Blow",
+      "name": "清濁一擊",
+      "sp": 300,
+      "icon": "skillA/Duality_Blow",
+      "rules": "learner.infantry-melee"
     },
     "Remote Sparrow": {
       "pool": {
@@ -9185,6 +9209,7 @@
         "mythic": {
           "5": ["Váli - God of Vengeance", "Gróa - Future Daughter"]
         },
+        "vista": { "5": ["Gullveig - Seer Reborn"] },
         "special": {
           "4": ["Owain - Devoted Defender"],
           "5": [
@@ -9464,6 +9489,14 @@
       "sp": 300,
       "icon": "skillA/Def_Res_Aria",
       "rules": "tome"
+    },
+    "Atk/Spd Verse": {
+      "pool": { "vista": { "5": ["Gullveig - Seer Reborn"] } },
+      "id": "Atk/Spd Verse",
+      "name": "攻擊速度的吟詠",
+      "sp": 300,
+      "icon": "skillA/Atk_Spd_Verse",
+      "rules": "learner.tome-staff"
     },
     "Atk/Spd Push 3": {
       "pool": {
@@ -11823,7 +11856,8 @@
       "pool": {
         "attuned": { "5": ["Theodora - Mighty Queen"] },
         "emblem": { "5": ["Roy - Of Binding"] },
-        "special": { "5": ["Ike - Full-Tilt Merc"] }
+        "special": { "5": ["Ike - Full-Tilt Merc"] },
+        "duo": { "5": ["Edelgard - Beyond Bounds"] }
       },
       "id": "Rise Above 3",
       "name": "超越3",
@@ -11835,7 +11869,8 @@
       "pool": {
         "attuned": { "5": ["Theodora - Mighty Queen"] },
         "emblem": { "5": ["Roy - Of Binding"] },
-        "special": { "5": ["Ike - Full-Tilt Merc"] }
+        "special": { "5": ["Ike - Full-Tilt Merc"] },
+        "duo": { "5": ["Edelgard - Beyond Bounds"] }
       },
       "id": "Rise Above 4",
       "name": "超越4",
@@ -16138,6 +16173,7 @@
       "pool": {
         "#": { "5": ["Byleth - Ashen Nightmare", "Tsubasa - Summoned Girl"] },
         "grail": { "5": ["Rodrigue - Faerghus Shield"] },
+        "vista": { "5": ["Gullveig - Seer Reborn"] },
         "special": { "5": ["Robin - Fated Vessel"] },
         "duo": { "5": ["Baldr - Eternal Shimmer"] }
       },
@@ -16167,7 +16203,10 @@
       "rules": "tome"
     },
     "Demonic Shackle": {
-      "pool": { "#": { "5": ["Tsubasa - Summoned Girl"] } },
+      "pool": {
+        "#": { "5": ["Tsubasa - Summoned Girl"] },
+        "vista": { "5": ["Gullveig - Seer Reborn"] }
+      },
       "id": "Demonic Shackle",
       "name": "魔之精髓・枷鎖",
       "sp": 400,
@@ -19176,7 +19215,8 @@
             "Ephraim - Ardent Prince",
             "Alfred - Joyous Snowdrop"
           ]
-        }
+        },
+        "duo": { "5": ["Edelgard - Beyond Bounds"] }
       },
       "id": "A/D Near Save 2",
       "name": "鎧之守護人・近處2",
@@ -19200,7 +19240,8 @@
             "Ephraim - Ardent Prince",
             "Alfred - Joyous Snowdrop"
           ]
-        }
+        },
+        "duo": { "5": ["Edelgard - Beyond Bounds"] }
       },
       "id": "A/D Near Save 3",
       "name": "鎧之守護人・近處3",
@@ -19480,7 +19521,10 @@
       "rules": "armored"
     },
     "A/D Briar P Save": {
-      "pool": { "#": { "5": ["Eikþyrnir - Resolved to Train"] } },
+      "pool": {
+        "#": { "5": ["Eikþyrnir - Resolved to Train"] },
+        "duo": { "5": ["Edelgard - Beyond Bounds"] }
+      },
       "id": "A/D Briar P Save",
       "name": "鎧之守護人・理・棘",
       "sp": 300,
@@ -20348,7 +20392,8 @@
       "pool": {
         "#": { "3": ["Lapis - Mighty Flower"] },
         "grail": { "5": ["Rickard - Carefree Culprit"] },
-        "special": { "5": ["Marth - Legacied Hero"] }
+        "special": { "5": ["Marth - Legacied Hero"] },
+        "duo": { "5": ["Dimitri - Dual Idealists"] }
       },
       "id": "Spd/Def Oath 3",
       "name": "速度防守的信義3",
@@ -20449,6 +20494,14 @@
       "name": "攻防信心・弱化無效",
       "sp": 300,
       "icon": "skillC/A_D_Tenet_Hone",
+      "rules": "learner.infantry-melee"
+    },
+    "S/D Tenet Hone": {
+      "pool": { "duo": { "5": ["Dimitri - Dual Idealists"] } },
+      "id": "S/D Tenet Hone",
+      "name": "速防信心・弱化無效",
+      "sp": 300,
+      "icon": "skillC/S_D_Tenet_Hone",
       "rules": "learner.infantry-melee"
     },
     "D/R Tenet Hone": {
@@ -20823,6 +20876,7 @@
         "aided": { "5": ["Reginn - Dvergr Heir"] },
         "entwined": { "5": ["Ninian - Heartfelt Dancer"] },
         "mythic": { "5": ["Gróa - Future Daughter"] },
+        "vista": { "5": ["Gullveig - Seer Reborn"] },
         "special": {
           "4": ["Dorothea - Rosy Songstress"],
           "5": ["Dimitri - Stargazing Lion"]
@@ -20856,6 +20910,7 @@
       "pool": {
         "#": { "5": ["Sigurd - Legacy of Justice"] },
         "mythic": { "5": ["Gróa - Future Daughter"] },
+        "vista": { "5": ["Gullveig - Seer Reborn"] },
         "harmonized": { "5": ["Lyn - Earth and Sky"] }
       },
       "id": "Shadow Shift X",

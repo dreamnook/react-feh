@@ -1071,6 +1071,22 @@
     "icon": "skillB/Bold_Stance",
     "last": true
   },
+  "Black Eagle Reign": {
+    "id": "Black Eagle Reign",
+    "name": "真黑鷲霸王",
+    "sp": 400,
+    "exclusive": ["Edelgard - Beyond Bounds"],
+    "icon": "skillB/Black_Eagle_Reign",
+    "last": true
+  },
+  "Blue Lion Reign": {
+    "id": "Blue Lion Reign",
+    "name": "真青獅子王",
+    "sp": 400,
+    "exclusive": ["Dimitri - Dual Idealists"],
+    "icon": "skillB/Blue_Lion_Reign",
+    "last": true
+  },
   "Knock Back": {
     "id": "Knock Back",
     "name": "擊退",

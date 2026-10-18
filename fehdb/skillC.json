@@ -4562,6 +4562,14 @@
     "icon": "skillC/A_D_Tenet_Hone",
     "last": true
   },
+  "S/D Tenet Hone": {
+    "id": "S/D Tenet Hone",
+    "name": "速防信心・弱化無效",
+    "sp": 300,
+    "rules": "learner.infantry-melee",
+    "icon": "skillC/S_D_Tenet_Hone",
+    "last": true
+  },
   "D/R Tenet Hone": {
     "id": "D/R Tenet Hone",
     "name": "防魔信心・弱化無效",
