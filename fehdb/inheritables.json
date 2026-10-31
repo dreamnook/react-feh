@@ -4765,6 +4765,7 @@
         "grail": {
           "4": [
             "Walhart - The Conqueror",
+            "Claude - Golden Breeze",
             "Lon'qu - Spring Jitters",
             "Loki - Spring Trickster",
             "Black Knight - Sinister General",
@@ -4838,7 +4839,6 @@
             "Mia - Summer Slice",
             "Felicia - Confidently Cold",
             "Black Knight - The Night's Blade",
-            "Claude - Golden Breeze",
             "Nerþuz - New-Year Doter",
             "Ike - Full-Tilt Merc",
             "Greil - Heroic Exemplar",
@@ -4870,11 +4870,11 @@
     "Lethality": {
       "pool": {
         "#": { "5": ["Volke - Man of Mysteries"] },
+        "grail": { "5": ["Claude - Golden Breeze"] },
         "rearmed": {
           "5": ["Ginnungagap - Ruler of Nihility", "Leila - Superb Shadow"]
         },
         "aided": { "5": ["Yunaka - Hidden Mask"] },
-        "special": { "5": ["Claude - Golden Breeze"] },
         "duo": { "5": ["Nina - Shadowy Figures", "Kagero - Bond Unwavering"] }
       },
       "id": "Lethality",
@@ -4959,6 +4959,7 @@
           "4": [
             "Shamir - Lone-Moon Ninja",
             "Camilla - Steamy Secrets",
+            "Lysithea - Tea Sweetener",
             "Marisa - Crimson Flash",
             "Hana - Focused Ninja",
             "Leo - Extra Tomatoes",
@@ -5007,7 +5008,6 @@
             "Freyja - Fleeting Summer",
             "Hector - Just Here to Fight",
             "Nifl - Tropical Ice God",
-            "Lysithea - Tea Sweetener",
             "Dimitri - Sky-Blue Lion",
             "Shez - Mercenary Shine",
             "Gunnthrá - Year's First Dream",
@@ -5065,6 +5065,7 @@
             "Yarne - Hoppy New Year",
             "Yarne - Trick or Taguel",
             "Ranulf - Considerate Gaze",
+            "Timerra - Trick or Meat",
             "Jamke - Prince of Verdane",
             "Yen'fay - Blade Legend",
             "Panne - Proud Taguel"
@@ -5116,7 +5117,6 @@
             "Shez - Covert Mercenary",
             "Tharja - Dour Cheer",
             "Tibarn - Shipless Pirate",
-            "Timerra - Trick or Meat",
             "Mia - Zenith Challenger"
           ]
         },
@@ -5144,8 +5144,8 @@
     },
     "Vital Astra": {
       "pool": {
-        "ascended": { "5": ["Mareeta - Astra Awakened"] },
-        "special": { "5": ["Timerra - Trick or Meat"] }
+        "grail": { "5": ["Timerra - Trick or Meat"] },
+        "ascended": { "5": ["Mareeta - Astra Awakened"] }
       },
       "id": "Vital Astra",
       "name": "心流星",
@@ -5869,7 +5869,13 @@
             "Theodora - Mighty Queen"
           ]
         },
-        "emblem": { "5": ["Roy - Of Binding", "Edelgard - Of Rivals"] },
+        "emblem": {
+          "5": [
+            "Roy - Of Binding",
+            "Edelgard - Of Rivals",
+            "Hector - Of Strength"
+          ]
+        },
         "aided": { "5": ["Reginn - Dvergr Heir", "Alear - And Sommie!"] },
         "entwined": {
           "5": ["Ash - Borrowed Power", "Takumi - Divine Bow Prince"]
@@ -10212,13 +10218,11 @@
           "5": ["Lyon - Demon King", "Nah - Little Miss", "Mozu - Tragic Start"]
         },
         "grail": {
+          "4": ["Timerra - Trick or Meat"],
           "5": ["Alcryst - Tender Groom", "Dagdar - Reformed Bandit"]
         },
         "legendary": { "5": ["Roy - Blazing Lion"] },
-        "special": {
-          "4": ["Caspar - Summer Intensity"],
-          "5": ["Timerra - Trick or Meat"]
-        },
+        "special": { "4": ["Caspar - Summer Intensity"] },
         "duo": { "5": ["Alm - Lovebird Duo"] }
       },
       "id": "Bonus Doubler 3",
@@ -10230,7 +10234,7 @@
     "Bonus Doubler 4": {
       "pool": {
         "#": { "5": ["Mozu - Tragic Start"] },
-        "special": { "5": ["Timerra - Trick or Meat"] }
+        "grail": { "5": ["Timerra - Trick or Meat"] }
       },
       "id": "Bonus Doubler 4",
       "name": "強化增幅4",
@@ -11700,10 +11704,12 @@
     "Atk/Spd Prime 3": {
       "pool": {
         "#": { "5": ["Bernadetta - Sheltered Loner"] },
-        "grail": { "5": ["Haitaka - Persistent General"] },
+        "grail": {
+          "4": ["Claude - Golden Breeze"],
+          "5": ["Haitaka - Persistent General"]
+        },
         "special": {
           "5": [
-            "Claude - Golden Breeze",
             "Dimitri - Blessed Protector",
             "Claude - Distant Deer",
             "Malice - Blooming Blade"
@@ -11720,9 +11726,9 @@
     "Atk/Spd Prime 4": {
       "pool": {
         "#": { "5": ["Bernadetta - Sheltered Loner"] },
+        "grail": { "5": ["Claude - Golden Breeze"] },
         "special": {
           "5": [
-            "Claude - Golden Breeze",
             "Dimitri - Blessed Protector",
             "Claude - Distant Deer",
             "Malice - Blooming Blade"
@@ -11893,6 +11899,22 @@
       "sp": 300,
       "icon": "skillA/Arms_Shield_4",
       "rules": "learner.arms-shield"
+    },
+    "Piercing Glare 3": {
+      "pool": { "emblem": { "5": ["Hector - Of Strength"] } },
+      "id": "Piercing Glare 3",
+      "name": "角之瞪視3",
+      "sp": 240,
+      "icon": "skillA/Piercing_Glare_3",
+      "rules": "learner.infantry-armored"
+    },
+    "Piercing Glare 4": {
+      "pool": { "emblem": { "5": ["Hector - Of Strength"] } },
+      "id": "Piercing Glare 4",
+      "name": "角之瞪視4",
+      "sp": 300,
+      "icon": "skillA/Piercing_Glare_4",
+      "rules": "learner.infantry-armored"
     }
   },
   "skillB": {
@@ -12103,6 +12125,7 @@
           ]
         },
         "grail": {
+          "4": ["Lysithea - Tea Sweetener"],
           "5": [
             "Rolf - Tricky Archer",
             "Kronya - Gleaming Blade",
@@ -12113,7 +12136,6 @@
         "special": {
           "5": [
             "Ishtar - Thunder's Waltz",
-            "Lysithea - Tea Sweetener",
             "Gunnthrá - Year's First Dream",
             "Petra - Faraway Sun",
             "Chrom - Revitalized Fate"
@@ -12128,7 +12150,8 @@
     },
     "Desperation 4": {
       "pool": {
-        "special": { "5": ["Lysithea - Tea Sweetener", "Petra - Faraway Sun"] }
+        "grail": { "5": ["Lysithea - Tea Sweetener"] },
+        "special": { "5": ["Petra - Faraway Sun"] }
       },
       "id": "Desperation 4",
       "name": "猛攻4",
@@ -12348,6 +12371,7 @@
         "grail": {
           "5": ["Kellam - Pumpkin Knight", "Ludveck - Rebellious Duke"]
         },
+        "emblem": { "5": ["Hector - Of Strength"] },
         "legendary": {
           "5": ["Hector - Marquess of Ostia", "Black Knight - Mortal Legend"]
         },
@@ -12385,6 +12409,14 @@
       "name": "反攻隊形",
       "sp": 300,
       "icon": "skillB/Counter_Fighter",
+      "rules": "armored"
+    },
+    "Counter Savvy": {
+      "pool": { "emblem": { "5": ["Hector - Of Strength"] } },
+      "id": "Counter Savvy",
+      "name": "反攻隊形・識破反擊",
+      "sp": 400,
+      "icon": "skillB/Counter_Savvy",
       "rules": "armored"
     },
     "Special Fighter 3": {
@@ -15204,16 +15236,13 @@
             "Marth - Prince of Light"
           ]
         },
-        "grail": { "5": ["Lon'qu - Spring Jitters"] },
+        "grail": {
+          "4": ["Timerra - Trick or Meat"],
+          "5": ["Lon'qu - Spring Jitters"]
+        },
         "ascended": { "5": ["Mareeta - Astra Awakened"] },
         "legendary": { "5": ["Roy - Blazing Lion"] },
-        "special": {
-          "5": [
-            "Fjorm - Seaside Thaw",
-            "Framme - Spring Fangirl",
-            "Timerra - Trick or Meat"
-          ]
-        }
+        "special": { "5": ["Fjorm - Seaside Thaw", "Framme - Spring Fangirl"] }
       },
       "id": "Spurn 3",
       "name": "迴避・憤怒3",
@@ -15223,13 +15252,8 @@
     },
     "Spurn 4": {
       "pool": {
-        "special": {
-          "5": [
-            "Fjorm - Seaside Thaw",
-            "Framme - Spring Fangirl",
-            "Timerra - Trick or Meat"
-          ]
-        }
+        "grail": { "5": ["Timerra - Trick or Meat"] },
+        "special": { "5": ["Fjorm - Seaside Thaw", "Framme - Spring Fangirl"] }
       },
       "id": "Spurn 4",
       "name": "迴避・憤怒4",
@@ -18783,7 +18807,9 @@
             "Volke - Man of Mysteries"
           ]
         },
-        "grail": { "4": ["Nino - Spirited Sorcerer"] },
+        "grail": {
+          "4": ["Timerra - Trick or Meat", "Nino - Spirited Sorcerer"]
+        },
         "ascended": { "5": ["Ishtar - Echoing Thunder"] },
         "rearmed": {
           "5": [
@@ -18832,8 +18858,7 @@
             "Altina - Unrivaled Dawn",
             "Ike - Desert Mercenary",
             "Tharja - Dour Cheer",
-            "Chrom - Pivotal Blow",
-            "Timerra - Trick or Meat"
+            "Chrom - Pivotal Blow"
           ]
         },
         "duo": {
@@ -18866,16 +18891,12 @@
             "Soren - Radiant Confidant"
           ]
         },
-        "grail": { "5": ["Nino - Spirited Sorcerer"] },
+        "grail": {
+          "5": ["Timerra - Trick or Meat", "Nino - Spirited Sorcerer"]
+        },
         "attuned": { "5": ["Eirika - Resolute Princess"] },
         "legendary": { "5": ["Micaiah - Radiant Queen"] },
-        "special": {
-          "5": [
-            "Fjorm - Seaside Thaw",
-            "Altina - Unrivaled Dawn",
-            "Timerra - Trick or Meat"
-          ]
-        }
+        "special": { "5": ["Fjorm - Seaside Thaw", "Altina - Unrivaled Dawn"] }
       },
       "id": "Time's Pulse 4",
       "name": "初始之躍動4",
@@ -19367,6 +19388,7 @@
       "pool": {
         "#": { "5": ["Eikþyrnir - Resolved to Train"] },
         "attuned": { "5": ["Hector - Steel Warrior"] },
+        "emblem": { "5": ["Hector - Of Strength"] },
         "legendary": { "5": ["Black Knight - Mortal Legend"] },
         "mythic": {
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
@@ -19387,6 +19409,7 @@
       "pool": {
         "#": { "5": ["Eikþyrnir - Resolved to Train"] },
         "attuned": { "5": ["Hector - Steel Warrior"] },
+        "emblem": { "5": ["Hector - Of Strength"] },
         "legendary": { "5": ["Black Knight - Mortal Legend"] },
         "mythic": {
           "5": ["Fomortiis - Demon King", "Níðhöggr - Quieting Dose"]
@@ -19486,6 +19509,7 @@
     },
     "A/D Briar F Save": {
       "pool": {
+        "emblem": { "5": ["Hector - Of Strength"] },
         "legendary": { "5": ["Black Knight - Mortal Legend"] },
         "special": { "5": ["Fomortiis - Dark of Night"] },
         "harmonized": { "5": ["Hector - Into the Fray"] }
@@ -20267,6 +20291,8 @@
         "grail": {
           "4": [
             "Alcryst - Tender Groom",
+            "Claude - Golden Breeze",
+            "Lysithea - Tea Sweetener",
             "Ogma - Former Gladiator",
             "Holst - Hero of Leicester"
           ],
@@ -20290,11 +20316,7 @@
         "mythic": { "5": ["Ullr - The Bowmaster"] },
         "special": {
           "4": ["Mae - Spring Cheer"],
-          "5": [
-            "Eirika - Beach Restorer",
-            "Lysithea - Tea Sweetener",
-            "Claude - Golden Breeze"
-          ]
+          "5": ["Eirika - Beach Restorer"]
         },
         "harmonized": { "5": ["Byleth - Cheer Power"] }
       },
@@ -20313,18 +20335,15 @@
             "Mozu - Tragic Start"
           ]
         },
+        "grail": {
+          "5": ["Claude - Golden Breeze", "Lysithea - Tea Sweetener"]
+        },
         "ascended": { "5": ["Fir - Swordmaiden"] },
         "legendary": {
           "5": ["Shez - Sharpest Blades", "Byleth - The Fódlan Star"]
         },
         "mythic": { "5": ["Ullr - The Bowmaster"] },
-        "special": {
-          "5": [
-            "Eirika - Beach Restorer",
-            "Lysithea - Tea Sweetener",
-            "Claude - Golden Breeze"
-          ]
-        }
+        "special": { "5": ["Eirika - Beach Restorer"] }
       },
       "id": "Atk/Spd Oath 4",
       "name": "攻擊速度的信義4",

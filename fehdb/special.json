@@ -964,6 +964,15 @@
     "exclusive": ["Gullveig - Seer Reborn"],
     "last": true
   },
+  "Storm's Eye": {
+    "id": "Storm's Eye",
+    "name": "止水雷轟架勢",
+    "sp": 500,
+    "cd": 5,
+    "prev": ["Ignis"],
+    "exclusive": ["Hector - Of Strength"],
+    "last": true
+  },
   "Daylight": {
     "id": "Daylight",
     "name": "黎明",

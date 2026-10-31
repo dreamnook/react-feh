@@ -4982,6 +4982,19 @@
     "special": { "Bonfire": { "sp": 200, "rarity": 5 } },
     "skillC": { "Odd Def Wave 4": { "sp": 300, "rarity": 5 } }
   },
+  "Claude - Golden Breeze": {
+    "score": 243,
+    "scoreTotal": 534,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 500,
+    "spTotal": 1100,
+    "feather": 300,
+    "bst": 183,
+    "special": { "Lethality": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
+  },
   "Bruno - Masked Reveler": {
     "score": 249,
     "scoreTotal": 534,
@@ -5020,6 +5033,19 @@
     "special": { "Ignis": { "sp": 200, "rarity": 4 } },
     "skillA": { "Defiant Res 3": { "sp": 160, "rarity": 5 } },
     "skillB": { "B Tomebreaker 3": { "sp": 200, "rarity": 4 } }
+  },
+  "Lysithea - Tea Sweetener": {
+    "score": 249,
+    "scoreTotal": 540,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 300,
+    "spTotal": 800,
+    "feather": 300,
+    "bst": 172,
+    "special": { "Glimmer": { "sp": 200, "rarity": 4 } },
+    "skillB": { "Desperation 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Ephraim - Sunshine Valiant": {
     "score": 249,
@@ -7126,6 +7152,20 @@
     "special": { "Ignis": { "sp": 200, "rarity": 5 } },
     "skillA": { "Brazen Atk/Spd 3": { "sp": 240, "rarity": 5 } },
     "skillB": { "Special Fighter 3": { "sp": 240, "rarity": 5 } }
+  },
+  "Timerra - Trick or Meat": {
+    "score": 243,
+    "scoreTotal": 680,
+    "poolRarity": 4,
+    "pool": "grail",
+    "sp": 500,
+    "spTotal": 1400,
+    "feather": 300,
+    "bst": 193,
+    "special": { "Vital Astra": { "sp": 500, "rarity": 5 } },
+    "skillA": { "Bonus Doubler 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
+    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Gunnthrá - Voice of Dreams": {
     "score": 276,
@@ -11302,19 +11342,6 @@
     "special": { "Moonbow": { "sp": 200, "rarity": 5 } },
     "skillB": { "Chill Spd/Res 3": { "sp": 300, "rarity": 5 } },
     "skillC": { "Panic Smoke 4": { "sp": 300, "rarity": 5 } }
-  },
-  "Lysithea - Tea Sweetener": {
-    "score": 318,
-    "scoreTotal": 848,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 300,
-    "spTotal": 800,
-    "feather": 1000,
-    "bst": 172,
-    "special": { "Glimmer": { "sp": 200, "rarity": 5 } },
-    "skillB": { "Desperation 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Dimitri - Sky-Blue Lion": {
     "score": 318,
@@ -16029,6 +16056,20 @@
     "skillB": { "Patience": { "sp": 400, "rarity": 5 } },
     "skillC": { "Strat Assault 4": { "sp": 300, "rarity": 5 } }
   },
+  "Hector - Of Strength": {
+    "score": 368,
+    "scoreTotal": 1104,
+    "poolRarity": 5,
+    "pool": "emblem",
+    "sp": 400,
+    "spTotal": 1200,
+    "feather": 1000,
+    "bst": 217,
+    "special": { "Ignis": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Piercing Glare 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Counter Savvy": { "sp": 400, "rarity": 5 } },
+    "skillC": { "A/D Briar F Save": { "sp": 300, "rarity": 5 } }
+  },
   "Alfonse - Opening Miracle": {
     "score": 368,
     "scoreTotal": 1104,
@@ -16598,19 +16639,6 @@
     "special": { "Magic Light": { "sp": 500, "rarity": 5 } },
     "skillA": { "Sly Swift Sparrow": { "sp": 300, "rarity": 5 } },
     "skillC": { "A/S Incite Hone": { "sp": 300, "rarity": 5 } }
-  },
-  "Claude - Golden Breeze": {
-    "score": 530,
-    "scoreTotal": 1166,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 500,
-    "spTotal": 1100,
-    "feather": 1000,
-    "bst": 183,
-    "special": { "Lethality": { "sp": 500, "rarity": 5 } },
-    "skillA": { "Atk/Spd Prime 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Atk/Spd Oath 4": { "sp": 300, "rarity": 5 } }
   },
   "Petra - Faraway Sun": {
     "score": 530,
@@ -18124,20 +18152,6 @@
     "skillA": { "Atk/Spd Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Laguz Friend 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Even Atk Wave N": { "sp": 300, "rarity": 5 } }
-  },
-  "Timerra - Trick or Meat": {
-    "score": 530,
-    "scoreTotal": 1484,
-    "poolRarity": 5,
-    "pool": "special",
-    "sp": 500,
-    "spTotal": 1400,
-    "feather": 1000,
-    "bst": 193,
-    "special": { "Vital Astra": { "sp": 500, "rarity": 5 } },
-    "skillA": { "Bonus Doubler 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Spurn 4": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Time's Pulse 4": { "sp": 300, "rarity": 5 } }
   },
   "Fir - Dual Warriors": {
     "score": 530,

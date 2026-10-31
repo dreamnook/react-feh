@@ -14993,6 +14993,37 @@
       "A/D Briar F Save": 5
     }
   },
+  "Hector - Of Strength": {
+    "weapon": {
+      "Iron Axe": 1,
+      "Steel Axe": 2,
+      "Silver Axe": 3,
+      "Brash Axe": 5
+    },
+    "special": {
+      "Glowing Ember": 3,
+      "Ignis": 4,
+      "Storm's Eye": 5
+    },
+    "skillA": {
+      "Piercing Glare 1": 2,
+      "Piercing Glare 2": 3,
+      "Piercing Glare 3": 4,
+      "Piercing Glare 4": 5
+    },
+    "skillB": {
+      "Vengeful Fighter 1": 2,
+      "Vengeful Fighter 2": 3,
+      "Vengeful Fighter 3": 4,
+      "Counter Savvy": 5
+    },
+    "skillC": {
+      "A/D Far Save 1": 2,
+      "A/D Far Save 2": 3,
+      "A/D Far Save 3": 4,
+      "A/D Briar F Save": 5
+    }
+  },
   "Marcus - Knight of Pherae": {
     "weapon": {
       "Iron Sword": 1,

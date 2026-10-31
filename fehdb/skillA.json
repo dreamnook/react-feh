@@ -5693,5 +5693,38 @@
     "rules": "learner.arms-shield",
     "icon": "skillA/Arms_Shield_4",
     "last": true
+  },
+  "Piercing Glare 1": {
+    "id": "Piercing Glare 1",
+    "name": "角之瞪視1",
+    "sp": 60,
+    "rules": "learner.infantry-armored",
+    "icon": "skillA/Piercing_Glare_1"
+  },
+  "Piercing Glare 2": {
+    "id": "Piercing Glare 2",
+    "name": "角之瞪視2",
+    "sp": 120,
+    "prev": ["Piercing Glare 1"],
+    "rules": "learner.infantry-armored",
+    "icon": "skillA/Piercing_Glare_2"
+  },
+  "Piercing Glare 3": {
+    "id": "Piercing Glare 3",
+    "name": "角之瞪視3",
+    "sp": 240,
+    "prev": ["Piercing Glare 2"],
+    "rules": "learner.infantry-armored",
+    "icon": "skillA/Piercing_Glare_3",
+    "last": true
+  },
+  "Piercing Glare 4": {
+    "id": "Piercing Glare 4",
+    "name": "角之瞪視4",
+    "sp": 300,
+    "prev": ["Piercing Glare 3"],
+    "rules": "learner.infantry-armored",
+    "icon": "skillA/Piercing_Glare_4",
+    "last": true
   }
 }

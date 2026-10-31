@@ -14321,6 +14321,16 @@
       "exclusive": ["Edelgard - Beyond Bounds"],
       "last": true
     },
+    "Brash Axe": {
+      "id": "Brash Axe",
+      "name": "熱血猛將之斧",
+      "mt": 16,
+      "cd": -1,
+      "sp": 400,
+      "prev": ["Silver Axe"],
+      "exclusive": ["Hector - Of Strength"],
+      "last": true
+    },
     "Arcane Downfall": {
       "id": "Arcane Downfall",
       "name": "魔器・絕死赫爾",
