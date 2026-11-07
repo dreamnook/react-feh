@@ -16383,6 +16383,7 @@
         "entwined": {
           "5": ["Cai - Child of Ribeira", "Ninian - Heartfelt Dancer"]
         },
+        "mythic": { "5": ["Ratatoskr - Mending Hand"] },
         "vista": { "5": ["Dietrich - Alluring Killer"] },
         "special": { "5": ["Goldmary - Darling Demon"] },
         "duo": { "5": ["Sigurd - Honorable Nobles"] }
@@ -16422,7 +16423,10 @@
       "rules": "learner.infantry-cavalry-flying-melee-not-green"
     },
     "Azure Impetus": {
-      "pool": { "entwined": { "5": ["Cai - Child of Ribeira"] } },
+      "pool": {
+        "entwined": { "5": ["Cai - Child of Ribeira"] },
+        "mythic": { "5": ["Ratatoskr - Mending Hand"] }
+      },
       "id": "Azure Impetus",
       "name": "助跑・對青的分斷",
       "sp": 400,
@@ -19953,6 +19957,7 @@
     "Atk/Spd Gap 3": {
       "pool": {
         "#": { "3": ["Dew - Benevolent Thief"] },
+        "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": {
           "4": ["Tharja - Beach Dark Mage", "Rebecca - In the Sun's Rays"],
           "5": ["Anna - Wealth-Wisher"]
@@ -20028,6 +20033,7 @@
     },
     "Atk/Spd Liberate": {
       "pool": {
+        "mythic": { "5": ["Gullveig - Golden Seer"] },
         "special": { "5": ["Rebecca - In the Sun's Rays"] },
         "harmonized": { "5": ["Eirika - Spring Company"] }
       },

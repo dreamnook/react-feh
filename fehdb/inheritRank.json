@@ -8479,19 +8479,6 @@
     "skillA": { "Atk/Res Solo 4": { "sp": 300, "rarity": 5 } },
     "skillC": { "Deadly Miasma": { "sp": 300, "rarity": 5 } }
   },
-  "Ratatoskr - Mending Hand": {
-    "score": 276,
-    "scoreTotal": 736,
-    "poolRarity": 5,
-    "pool": "mythic",
-    "sp": 300,
-    "spTotal": 800,
-    "feather": 1000,
-    "bst": 185,
-    "special": { "Luna": { "sp": 200, "rarity": 5 } },
-    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
-    "skillB": { "Beast Agility 4": { "sp": 300, "rarity": 5 } }
-  },
   "Claude - King of Unification": {
     "score": 276,
     "scoreTotal": 736,
@@ -11119,6 +11106,19 @@
     "special": { "Iceberg": { "sp": 200, "rarity": 5 } },
     "skillA": { "Atk/Res Finish 4": { "sp": 300, "rarity": 5 } },
     "skillB": { "Atk/Res Unrest": { "sp": 400, "rarity": 5 } }
+  },
+  "Ratatoskr - Mending Hand": {
+    "score": 368,
+    "scoreTotal": 828,
+    "poolRarity": 5,
+    "pool": "mythic",
+    "sp": 400,
+    "spTotal": 900,
+    "feather": 1000,
+    "bst": 185,
+    "special": { "Luna": { "sp": 200, "rarity": 5 } },
+    "skillA": { "Atk/Spd Clash 4": { "sp": 300, "rarity": 5 } },
+    "skillB": { "Azure Impetus": { "sp": 400, "rarity": 5 } }
   },
   "Guinivere - Queen of Bern": {
     "score": 368,
@@ -13923,7 +13923,7 @@
     "special": { "Vengeance": { "sp": 200, "rarity": 5 } },
     "skillA": { "Flared Sparrow": { "sp": 300, "rarity": 5 } },
     "skillB": { "Occultist's Strike": { "sp": 300, "rarity": 5 } },
-    "skillC": { "Def/Res Smoke 3": { "sp": 300, "rarity": 5 } }
+    "skillC": { "Atk/Spd Liberate": { "sp": 300, "rarity": 5 } }
   },
   "Kvasir - Seer of the Past": {
     "score": 276,

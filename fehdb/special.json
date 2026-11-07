@@ -433,14 +433,22 @@
     "exclusive": ["Zelgius - Ninja Knight"],
     "last": true
   },
+  "Time Is Light+": {
+    "id": "Time Is Light+",
+    "name": "時間等同光・神",
+    "sp": 500,
+    "cd": 3,
+    "prev": ["Time Is Light"],
+    "exclusive": ["Gullveig - Golden Seer"],
+    "last": true
+  },
   "Time Is Light": {
     "id": "Time Is Light",
     "name": "時間等同光",
     "sp": 500,
     "cd": 3,
     "prev": ["Vengeance"],
-    "exclusive": ["Gullveig - Golden Seer"],
-    "last": true
+    "exclusive": ["Gullveig - Golden Seer"]
   },
   "Light Is Time": {
     "id": "Light Is Time",

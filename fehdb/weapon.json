@@ -9394,6 +9394,68 @@
       "exclusive": ["Dimitri - Dual Idealists"],
       "last": true
     },
+    "Hirsute Lance": {
+      "id": "Hirsute Lance",
+      "name": "鬍子將軍之槍",
+      "mt": 16,
+      "sp": 400,
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Hirsute_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "exclusive": ["Cervantes - Invincible General"],
+      "last": true
+    },
+    "Learner's Lance": {
+      "id": "Learner's Lance",
+      "name": "見習天馬騎士之槍",
+      "mt": 16,
+      "sp": 400,
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Learner's_Lance_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
+      "exclusive": ["Karin - Driven Knight"],
+      "last": true
+    },
     "Arcane Qiang": {
       "id": "Arcane Qiang",
       "name": "魔器・鍛造花槍",
@@ -24208,12 +24270,35 @@
     },
     "Brightmare Horn": {
       "id": "Brightmare Horn",
-      "name": "夏夜噩夢之角",
+      "name": "夏夜惡夢之角",
       "mt": 14,
       "spd": 3,
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Freyja - Fleeting Summer"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Brightmare_Horn_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Crossbones Claw": {
@@ -24601,6 +24686,29 @@
       "sp": 400,
       "prev": ["Adult (Cavalry)"],
       "exclusive": ["Ratatoskr - Mending Hand"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "World-Tree_Tail_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Cute Paper Crane": {
@@ -32266,6 +32374,37 @@
       "exclusive": ["Tsubasa - Summoned Girl"],
       "last": true
     },
+    "Storm Doctrine": {
+      "id": "Storm Doctrine",
+      "name": "激雷的紫書",
+      "mt": 14,
+      "cd": -1,
+      "sp": 400,
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Storm_Doctrine_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
+      "exclusive": ["Arthur - Furious Mage"],
+      "last": true
+    },
     "Arc. Caliburnus": {
       "id": "Arc. Caliburnus",
       "name": "魔器卡力布盧努斯",
@@ -33775,6 +33914,28 @@
       "sp": 400,
       "prev": ["Atlas"],
       "exclusive": ["Gullveig - Golden Seer"],
+      "refine": {
+        "effect": {
+          "name": "特效",
+          "icon": "Quietus_Gullveig_W"
+        },
+        "atk": {
+          "hp": 2,
+          "mt": 1
+        },
+        "spd": {
+          "hp": 2,
+          "spd": 2
+        },
+        "def": {
+          "hp": 2,
+          "def": 3
+        },
+        "res": {
+          "hp": 2,
+          "res": 3
+        }
+      },
       "last": true
     },
     "Lightburst Tome": {
@@ -36716,6 +36877,29 @@
       "sp": 400,
       "prev": ["Water Breath"],
       "exclusive": ["Lilith - Silent Broodling"],
+      "refine": {
+        "effect": {
+          "hp": 3,
+          "name": "特效",
+          "icon": "Silent_Power_W"
+        },
+        "atk": {
+          "hp": 5,
+          "mt": 2
+        },
+        "spd": {
+          "hp": 5,
+          "spd": 3
+        },
+        "def": {
+          "hp": 5,
+          "def": 4
+        },
+        "res": {
+          "hp": 5,
+          "res": 4
+        }
+      },
       "last": true
     },
     "Ruinous Frost": {

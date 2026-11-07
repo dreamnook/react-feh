@@ -3704,7 +3704,8 @@
     "special": {
       "Retribution": 3,
       "Vengeance": 4,
-      "Time Is Light": 5
+      "Time Is Light": 5,
+      "Time Is Light+": 5
     },
     "skillA": {
       "Darting Blow 1": 2,
@@ -3722,7 +3723,11 @@
       "Res Smoke 1": 2,
       "Res Smoke 2": 3,
       "Res Smoke 3": 4,
-      "Def/Res Smoke 3": 5
+      "Def/Res Smoke 3": 5,
+      "Atk/Spd Gap 1": 2,
+      "Atk/Spd Gap 2": 3,
+      "Atk/Spd Gap 3": 4,
+      "Atk/Spd Liberate": 5
     }
   },
   "Gullveig - Glittering Sunlight": {
@@ -4084,10 +4089,15 @@
       "Beast Agility 1": 2,
       "Beast Agility 2": 3,
       "Beast Agility 3": 4,
-      "Beast Agility 4": 5
+      "Beast Agility 4": 5,
+      "Momentum 1": 2,
+      "Momentum 2": 3,
+      "Momentum 3": 4,
+      "Azure Impetus": 5
     },
     "skillC": {
-      "Mending Heart": 5
+      "Mending Heart": 5,
+      "Mending Heart+": 5
     }
   },
   "Hræsvelgr - Quieting Blade": {
@@ -10616,7 +10626,8 @@
       "Wind": 1,
       "Elwind": 2,
       "Gronnvulture": 3,
-      "Gronnvulture+": 5
+      "Gronnvulture+": 5,
+      "Storm Doctrine": 5
     },
     "special": {
       "Night Sky": 3,
@@ -11903,7 +11914,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Allied Lance": 3,
-      "Allied Lance+": 5
+      "Allied Lance+": 5,
+      "Learner's Lance": 5
     },
     "special": {
       "New Moon": 3,
@@ -24437,7 +24449,8 @@
       "Iron Lance": 1,
       "Steel Lance": 2,
       "Defier's Lance": 3,
-      "Defier's Lance+": 5
+      "Defier's Lance+": 5,
+      "Hirsute Lance": 5
     },
     "special": {
       "Glowing Ember": 3,

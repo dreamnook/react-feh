@@ -573,6 +573,15 @@
     "icon": "skillC/Fanged_Ties",
     "last": true
   },
+  "Mending Heart+": {
+    "id": "Mending Heart+",
+    "name": "治癒者之心・神",
+    "sp": 300,
+    "prev": ["Mending Heart"],
+    "exclusive": ["Ratatoskr - Mending Hand"],
+    "icon": "skillC/Mending_Heart+",
+    "last": true
+  },
   "Mending Heart": {
     "id": "Mending Heart",
     "name": "治癒者之心",
