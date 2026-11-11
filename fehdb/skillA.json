@@ -656,6 +656,10 @@
     "id": "Silver Maiden",
     "name": "白銀少女",
     "sp": 300,
+    "atk": 10,
+    "spd": 10,
+    "def": 10,
+    "res": 10,
     "exclusive": ["Alexandra - Sterling/Silver"],
     "icon": "skillA/Silver_Maiden",
     "last": true
@@ -664,6 +668,10 @@
     "id": "Pure Obsession",
     "name": "純正執著",
     "sp": 300,
+    "atk": 10,
+    "spd": 10,
+    "def": 10,
+    "res": 10,
     "exclusive": ["Ivy - Icy Insight"],
     "icon": "skillA/Pure_Obsession",
     "last": true

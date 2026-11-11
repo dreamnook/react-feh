@@ -3035,6 +3035,30 @@
       "icon": "skillB/Wyvern_Flight_3",
       "last": true
     },
+    "Guard Bearing 1": {
+      "id": "Guard Bearing 1",
+      "name": "警戒姿態1",
+      "sp": 60,
+      "rules": "learner.wielderFlying",
+      "icon": "skillB/Guard_Bearing_1"
+    },
+    "Guard Bearing 2": {
+      "id": "Guard Bearing 2",
+      "name": "警戒姿態2",
+      "sp": 120,
+      "prev": ["Guard Bearing 1"],
+      "rules": "learner.wielderFlying",
+      "icon": "skillB/Guard_Bearing_2"
+    },
+    "Guard Bearing 3": {
+      "id": "Guard Bearing 3",
+      "name": "警戒姿態3",
+      "sp": 240,
+      "prev": ["Guard Bearing 2"],
+      "rules": "learner.wielderFlying",
+      "icon": "skillB/Guard_Bearing_3",
+      "last": true
+    },
     "Dive-Bomb 1": {
       "id": "Dive-Bomb 1",
       "name": "空中突襲1",
@@ -3600,6 +3624,30 @@
       "prev": ["Dragon's Wrath 2"],
       "rules": "dragon",
       "icon": "skillB/Dragon's_Wrath_3",
+      "last": true
+    },
+    "S/D Near Trace 1": {
+      "id": "S/D Near Trace 1",
+      "name": "速度防守近影1",
+      "sp": 100,
+      "rules": "learner.cavalry-flying-melee",
+      "icon": "skillB/S_D_Near_Trace_1"
+    },
+    "S/D Near Trace 2": {
+      "id": "S/D Near Trace 2",
+      "name": "速度防守近影2",
+      "sp": 120,
+      "prev": ["S/D Near Trace 1"],
+      "rules": "learner.cavalry-flying-melee",
+      "icon": "skillB/S_D_Near_Trace_2"
+    },
+    "S/D Near Trace 3": {
+      "id": "S/D Near Trace 3",
+      "name": "速度防守近影3",
+      "sp": 240,
+      "prev": ["S/D Near Trace 2"],
+      "rules": "learner.cavalry-flying-melee",
+      "icon": "skillB/S_D_Near_Trace_3",
       "last": true
     },
     "S/D Far Trace 1": {

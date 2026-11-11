@@ -9409,6 +9409,7 @@
       "name": "鬍子將軍之槍",
       "mt": 16,
       "sp": 400,
+      "exclusive": ["Cervantes - Invincible General"],
       "refine": {
         "effect": {
           "hp": 3,
@@ -9432,7 +9433,6 @@
           "res": 4
         }
       },
-      "exclusive": ["Cervantes - Invincible General"],
       "last": true
     },
     "Learner's Lance": {
@@ -9440,6 +9440,7 @@
       "name": "見習天馬騎士之槍",
       "mt": 16,
       "sp": 400,
+      "exclusive": ["Karin - Driven Knight"],
       "refine": {
         "effect": {
           "hp": 3,
@@ -9463,7 +9464,6 @@
           "res": 4
         }
       },
-      "exclusive": ["Karin - Driven Knight"],
       "last": true
     },
     "Arcane Qiang": {
@@ -32438,6 +32438,7 @@
       "mt": 14,
       "cd": -1,
       "sp": 400,
+      "exclusive": ["Arthur - Furious Mage"],
       "refine": {
         "effect": {
           "name": "特效",
@@ -32460,7 +32461,6 @@
           "res": 3
         }
       },
-      "exclusive": ["Arthur - Furious Mage"],
       "last": true
     },
     "Arc. Caliburnus": {
